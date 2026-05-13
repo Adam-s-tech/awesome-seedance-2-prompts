@@ -361,1007 +361,1010 @@ Seedance 2.0 を使用して、夜のシネマティックなストリートレ�
 
 > 📝 公開日でソート（新しい順）
 
-### Desert Wasteland Robotic Angel
+### 砂漠の荒野に佇むロボットの天使
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic prompt for an epic sci-fi scene in a desert wasteland featuring a giant robotic angel.
+> 砂漠の荒野に現れる巨大なロボットの天使を描いた、壮大な SF シーンのためのシネマティックなプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Ultra-realistic desert wasteland at sunset. Giant robotic angel half-buried in dunes, wings stretching for miles. Female scavenger climbs through the chest cavity. Ancient halo-tech armor activates around her. Raiders on bikes jump ramps into the wreck. Camera circles upward around the giant angel. She lands hard, punches one rider off a bike, spins and sends another crashing into metal debris. The structure trembles. Final frame: the angel’s colossal eye opens behind her.
+夕暮れ時の超リアルな砂漠の荒野。砂丘に半分埋もれた巨大なロボットの天使、その翼は何マイルにもわたって広がっている。女性のスカベンジャーが胸部の空洞をよじ登る。彼女の周囲で古代のハローテック・アーマーが起動する。バイクに乗ったレイダーたちがジャンプ台から残骸へと飛び込む。カメラは巨大な天使の周囲を旋回しながら上昇する。彼女は激しく着地し、パンチでライダーをバイクから突き落とし、回転しながら別のライダーを金属の残骸へと叩きつける。構造物が震える。最後のフレーム：彼女の背後で天使の巨大な目が開く。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b2166815781a8e4d94dd78fed2ebfff8/thumbnails/thumbnail.jpg" width="600" alt="Desert Wasteland Robotic Angel">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b2166815781a8e4d94dd78fed2ebfff8/thumbnails/thumbnail.jpg" width="600" alt="砂漠の荒野に佇むロボットの天使">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4649)**
 
 **作者:** [Alexandra Aisling](https://x.com/AllaAisling) | **ソース:** [Link](https://x.com/AllaAisling/status/2054313667492204747) | **公開日:** May 12, 2026
 
 ---
-### Football Stadium Broadcast Portrait
+### サッカー場の放送用ポートレート
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A realistic video prompt for a young man in a football stadium, featuring broadcast overlays and cinematic lighting.
+> サッカー場にいる青年を捉えた、放送用オーバーレイと映画のようなライティングが特徴のリアルな動画プロンプト。
 
 #### 📝 プロンプト
 
 ```
-A realistic, high-definition image of a young man in a packed football stadium during a match. He has short, black hair and is wearing a white jersey. The scene shows him sitting thoughtfully, hand on his chin, occasionally glancing around. Cinematic lighting, shallow depth of field with the crowd blurred in the background. In the upper corner, a realistic sports scoreboard displays "64:30 HOME 2-1 AWAY" with a generic broadcast overlay badge reading "LIVE". The image has the slight grain and color grading characteristic of a professional TV broadcast.
+試合中の満員のサッカー場にいる青年を捉えた、高精細でリアルな映像。短髪の黒髪で、白いジャージを着用している。考え込んでいる様子で顎に手を当て、時折周囲を見渡すシーン。映画のようなライティングが施され、背景の観客は被写界深度を浅くしてぼかされている。画面上部にはリアルなスポーツスコアボードが表示されており、「64:30 HOME 2-1 AWAY」というスコアと「LIVE」と書かれた一般的な放送用オーバーレイバッジが配置されている。プロのテレビ放送特有のわずかな粒子感とカラーグレーディングが施されている。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ffcd659dc09a7304a5461a8369570c06/thumbnails/thumbnail.jpg" width="600" alt="Football Stadium Broadcast Portrait">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ffcd659dc09a7304a5461a8369570c06/thumbnails/thumbnail.jpg" width="600" alt="サッカー場の放送用ポートレート">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4667)**
 
 **作者:** [Nicolas ➔ Conty App](https://x.com/onicolasrivera) | **ソース:** [Link](https://x.com/onicolasrivera/status/2054296945573744854) | **公開日:** May 12, 2026
 
 ---
-### Manchester United Fan Documentary
+### マンチェスター・ユナイテッド ファンのドキュメンタリー
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A documentary-style video prompt of a Manchester United fan whose mood changes when she notices the broadcast camera focusing on her.
+> マンチェスター・ユナイテッドのファンが、放送カメラが自分に注目していることに気づき、表情を変える様子を描いたドキュメンタリー風の動画プロンプト。
 
 #### 📝 プロンプト
 
 ```
-Ultra realistic documentary-style sports broadcast video, 15 seconds long, 16:9 aspect ratio. A young woman @image1 , wearing a red Manchester United jersey, sitting among football fans at Old Trafford during a live Manchester United vs Liverpool match. She is quietly watching the match very seriously at first, focused on the game and unaware of the camera. Natural crowd movement around her, realistic stadium lighting, live sports atmosphere, authentic football crowd reactions and ambient motion. The TV broadcast camera slowly zooms toward her from the audience section like a real live sports cameraman shot. After a few seconds, she suddenly realizes the camera is focusing on her. She becomes slightly awkward and gives a cute, shy, awkward smile while trying to stay composed. Expression should feel natural, candid, unscripted, and genuinely funny in a subtle way — like a real person caught on live TV. No exaggerated acting. Professional live broadcast look with realistic lens compression, handheld sports camera motion, shallow broadcast depth of field, slight motion blur, natural skin texture, authentic ESPN / sports TV color grading, subtle compression artifacts, interlacing grain, documentary realism, cinematic crowd bokeh, live stadium energy. Looks exactly like a genuine paused moment from a real football TV broadcast.
+超リアルなドキュメンタリースタイルのスポーツ放送映像、15 秒、アスペクト比 16:9。マンチェスター・ユナイテッドの赤いユニフォームを着た若い女性 @image1 が、オールド・トラッフォードで行われているマンチェスター・ユナイテッド対リヴァプールのライブ試合中、サッカーファンの群衆の中に座っている。最初は試合に集中し、カメラの存在に気づかず、非常に真剣な表情で静かに観戦している。周囲の自然な観客の動き、リアルなスタジアムの照明、ライブスポーツの雰囲気、本物のサッカーファンの反応と周囲の動き。テレビ放送用のカメラが、実際のスポーツカメラマンのショットのように、観客席から彼女に向かってゆっくりとズームインする。数秒後、彼女は突然カメラが自分に注目していることに気づく。少し気まずそうにし、落ち着こうとしながらも、可愛らしく恥ずかしそうな、ぎこちない笑顔を見せる。表情は自然で、ありのままで、台本がなく、生放送で映し出された一般人のように、さりげなくユーモラスであること。大げさな演技は不要。リアルなレンズ圧縮、手持ちスポーツカメラの動き、放送特有の浅い被写界深度、わずかなモーションブラー、自然な肌の質感、本物の ESPN / スポーツテレビのカラーグレーディング、微細な圧縮ノイズ、インターレースの粒子感、ドキュメンタリーのリアリズム、映画のような観客のボケ味、ライブスタジアムの熱気を取り入れた、プロのライブ放送のような外観。実際のサッカー中継で一時停止した瞬間と見紛うほどのリアルな映像。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9badbbdaeaf8ba463732f105e45d6f9f/thumbnails/thumbnail.jpg" width="600" alt="Manchester United Fan Documentary">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9badbbdaeaf8ba463732f105e45d6f9f/thumbnails/thumbnail.jpg" width="600" alt="マンチェスター・ユナイテッド ファンのドキュメンタリー">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4651)**
 
 **作者:** [aanggaamc](https://x.com/aanggaamc) | **ソース:** [Link](https://x.com/aanggaamc/status/2054281213544964317) | **公開日:** May 12, 2026
 
 ---
-### Glamorous Woman at Soccer Match
+### サッカーの試合会場にいる魅力的な女性
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a woman at a soccer stadium who transitions from a casual fan to a star player on the pitch.
+> サッカーのスタジアムで、カジュアルなファンからピッチ上のスター選手へと変貌を遂げる女性を描いたシネマティックな動画プロンプト。
 
 #### 📝 プロンプト
 
 ```
-Ultra-realistic cinematic live sports broadcast video of a glamorous woman sitting in a packed football stadium crowd during a night match, wearing a fitted red satin mini dress just above the knees, sleeveless with an elegant high neckline, black square earrings, and shoulder-length light brown/blonde hair styled in soft soft waves. She is holding a Red Bull can in one hand and a cheeseburger in the other, surrounded by passionate fans in bright yellow and blue football jerseys and scarves inside a realistic stadium with crowded seating and strong team-color contrast. The scene begins as she casually takes a sip from the Red Bull can while holding the burger, watching the match with calm confidence. She hears the live football commentary mentioning something exciting, smiles naturally, and reacts with a confident playful expression. She then leans toward the man sitting beside her, hands him both the cheeseburger and the Red Bull can smoothly, and suddenly stands up with determination. She quickly runs down from the stadium crowd toward the football pitch as the broadcast cameras follow her dramatically. The players on the field notice her and seem to be waiting for her arrival. The stadium crowd reacts with excitement and surprise. She confidently enters the pitch, runs toward the ball with cinematic slow-motion energy, takes control of the ball, and powerfully kicks it toward the goal. The ball flies dramatically into the net for a perfect goal. The stadium erupts with celebration, fans screaming, commentators shouting excitedly, and the players rush toward her. The football players surround her, hugging her happily and celebrating together like she is the star of the match. Captured entirely in authentic TV sports broadcast style with realistic broadcast camera angles, zoom lens tracking, shallow depth of field, natural stadium floodlights, detailed skin texture, realistic crowd reactions, live football score overlay and match timer in the top-left corner, sports network watermark in the top-right corner, cinematic movement, ultra-realistic facial expressions, premium live-match aesthetic, dramatic sports storytelling, 16:9 widescreen composition.
+満員のサッカー場で夜の試合を観戦する、魅力的な女性を捉えた超リアルなシネマティック・スポーツ中継映像。彼女は膝上丈の赤いサテン地のタイトなミニドレスを着用し、ノースリーブでエレガントなハイネック、黒いスクエア型のイヤリングをつけ、肩までの長さのライトブラウン／ブロンドの髪をソフトなウェーブにスタイリングしている。片手に Red Bull の缶、もう片方にチーズバーガーを持ち、周囲には黄色と青の鮮やかなユニフォームやマフラーを身につけた熱狂的なファンがいる。スタジアムは観客で埋め尽くされ、チームカラーのコントラストが鮮明。冒頭、彼女はバーガーを持ったまま落ち着いた様子で Red Bull を一口飲み、冷静な自信を持って試合を観戦している。実況解説が盛り上がる中、彼女は自然な笑みを浮かべ、自信に満ちた遊び心のある表情を見せる。続いて隣の男性に寄り添い、チーズバーガーと Red Bull をスムーズに手渡すと、決意を込めて立ち上がる。彼女が観客席からサッカーのピッチへと駆け下りると、中継カメラがドラマチックに彼女を追いかける。フィールド上の選手たちは彼女に気づき、到着を待っている様子。スタジアムの観客は興奮と驚きに包まれる。彼女は自信を持ってピッチに入り、シネマティックなスローモーションでボールに向かって走り、ボールをコントロールしてゴールに向かって力強く蹴り込む。ボールはドラマチックにネットに突き刺さり、完璧なゴールが決まる。スタジアムは歓喜に沸き、ファンは叫び、実況は興奮し、選手たちが彼女のもとへ駆け寄る。サッカー選手たちは彼女を囲み、まるで試合のスターであるかのように幸せそうに抱き合い、共に勝利を祝う。本物のスポーツ中継スタイルで撮影され、リアルなカメラアングル、ズームレンズによる追跡、浅い被写界深度、スタジアムの自然な照明、詳細な肌の質感、リアルな観客の反応、左上に表示されるライブスコアと試合タイマー、右上のスポーツネットワークのウォーターマーク、シネマティックな動き、超リアルな表情、プレミアムなライブマッチの美学、ドラマチックなスポーツストーリーテリング、16:9 のワイドスクリーン構成で表現。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a434829ecd8ec80c77a3d5699aabdef/thumbnails/thumbnail.jpg" width="600" alt="Glamorous Woman at Soccer Match">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a434829ecd8ec80c77a3d5699aabdef/thumbnails/thumbnail.jpg" width="600" alt="サッカーの試合会場にいる魅力的な女性">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4654)**
 
 **作者:** [UxUi Tega (Design & Ai)](https://x.com/Tegadesigns) | **ソース:** [Link](https://x.com/Tegadesigns/status/2054273116478812182) | **公開日:** May 12, 2026
 
 ---
-### Mustang Desert Gallop Cinematic Shot
+### 砂漠を駆ける野生のムスタングのシネマティックショット
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a wild mustang galloping across a desert during golden hour, using varied camera angles from tracking to low-angle shots.
+> ゴールデンアワーの砂漠を駆け抜ける野生のムスタングを、トラッキングショットやローアングルなど、多彩なカメラアングルで捉えたシネマティックな動画プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Single continuous shot. A wild mustang gallops freely across a vast desert plain at golden hour, kicking up clouds of dust beneath its hooves. [Tracking shot] The camera follows closely beside the horse as its mane and tail whip violently in the wind. Warm sunlight stretches long shadows across the dry landscape while distant mountains shimmer in the background. [Wide shot] The mustang races through tall grass and rocky terrain with raw power and freedom, dust swirling around its body as birds scatter into the sky. [Low-angle] The horse slows near the top of a hill, breathing heavily while the sunset glows behind it, creating a dramatic cinematic silhouette.
+ワンカットの連続撮影。ゴールデンアワーの広大な砂漠の平原を、野生のムスタングが自由に駆け抜け、蹄の下で砂煙を巻き上げています。 [トラッキングショット] カメラは馬のすぐ横を追いかけ、たてがみと尾が風になびく様子を捉えます。暖かい日差しが乾燥した大地に長い影を落とし、背景には遠くの山々が揺らめいています。 [ワイドショット] ムスタングが背の高い草や岩場を力強く、自由奔放に駆け抜け、周囲に砂煙が渦巻く中、鳥たちが空へと飛び散ります。 [ローアングル] 丘の頂上付近で馬が速度を落とし、荒い息をつく背後で夕日が輝き、ドラマチックなシネマティック・シルエットを作り出します。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7517b24425e8fcb4c0bd226e0529975b/thumbnails/thumbnail.jpg" width="600" alt="Mustang Desert Gallop Cinematic Shot">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7517b24425e8fcb4c0bd226e0529975b/thumbnails/thumbnail.jpg" width="600" alt="砂漠を駆ける野生のムスタングのシネマティックショット">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4636)**
 
 **作者:** [LudovicCreator](https://x.com/LudovicCreator) | **ソース:** [Link](https://x.com/LudovicCreator/status/2054264115892224109) | **公開日:** May 12, 2026
 
 ---
-### Medieval Tavern Orc Fight
+### 中世の酒場でのオークとの戦闘
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed 15-second cinematic fight sequence in a medieval tavern with emphasis on realistic physical combat and momentum.
+> 中世の酒場を舞台にした、リアルな物理戦闘と勢いを重視した 15 秒間の詳細なシネマティック戦闘シーケンス。
 
 #### 📝 プロンプト
 
 ```
-Style: Hyper-realistic dark fantasy tavern cinematic, grounded physical combat, realistic body momentum, medieval atmosphere, gritty lighting, practical effects, handheld cinematic camera, physically accurate movement, ultra-detailed textures, realistic collisions and environmental interaction.
+スタイル：超リアルなダークファンタジーの酒場シネマティック、地に足のついた物理戦闘、リアルな身体の勢い、中世の雰囲気、ざらついた質感のライティング、実写のようなエフェクト、手持ちカメラによるシネマティックな映像、物理的に正確な動き、超高精細なテクスチャ、リアルな衝突と環境との相互作用。
 
-Duration: 15 seconds
-Aspect Ratio: 16:9
+長さ：15 秒
+アスペクト比：16:9
 
-IMPORTANT:
-Keep the SAME characters fully consistent with the reference:
-— Nyssa: athletic woman, dark curly hair tied back, bronze leather armor, cloth wraps, sword on hip
-— Grok: massive muscular green orc, scarred skin, fur armor, heavy axes, large physical weight
+重要：
+キャラクターは参照画像と完全に一致させること：
+— Nyssa：運動神経の良い女性、後ろで結んだダークな巻き毛、ブロンズのレザーアーマー、布のラップ、腰に剣
+— Grok：巨大で筋肉質な緑色のオーク、傷だらけの肌、毛皮の鎧、重い斧、大きな物理的重量
 
-Combat MUST obey realistic physics:
-— no floating
-— no anime flips
-— realistic inertia and recovery
-— believable weight transfer
-— realistic impacts and exhaustion
-— grounded footwork
-— environment reacts physically to impacts
+戦闘はリアルな物理法則に従うこと：
+— 浮遊感の排除
+— アニメのような回転の排除
+— リアルな慣性と復帰動作
+— 説得力のある体重移動
+— リアルな衝撃と疲労感
+— 地に足のついたフットワーク
+— 衝撃に対して物理的に反応する環境
 
 [00:00-00:02]
-Wide cinematic shot inside a crowded medieval tavern filled with drunk mercenaries, candles, smoke, spilled ale, and loud cheering. Nyssa walks through the tavern cautiously while patrons stare. Grok sits at a massive wooden table drinking heavily. Deep bass-heavy tavern music and crowd ambience.
+酔った傭兵たち、キャンドル、煙、こぼれたエール、大歓声で満たされた中世の酒場内のワイドなシネマティックショット。Nyssa が客たちの視線を感じながら慎重に酒場を歩く。Grok は巨大な木製のテーブルに座り、酒をあおっている。重低音の効いた酒場の音楽と群衆のざわめき。
 
 [00:02-00:04]
-Close-up tension sequence:
-— Nyssa locks eyes with Grok
-— Grok slowly stands, towering over everyone
-— benches scrape across the floor
-— mugs shake from his weight
-— crowd forms a fighting circle cheering loudly
-Handheld camera movement feels realistic and grounded.
+緊張感のあるクローズアップシーケンス：
+— Nyssa と Grok が視線を合わせる
+— Grok がゆっくりと立ち上がり、周囲を圧倒する
+— ベンチが床をこする音
+— 彼の重みでマグカップが揺れる
+— 群衆が戦闘の輪を作り、大声で声援を送る
+手持ちカメラの動きはリアルで地に足のついた感覚を重視。
 
 [00:04-00:07]
-The fight erupts violently. Grok swings a heavy punch with believable momentum. Nyssa narrowly dodges while stumbling realistically into a wooden table. Wood cracks and splinters physically on impact. She counters with fast grounded strikes to Grok’s ribs and legs. Crowd roars and throws coins and mugs into the air.
+戦闘が激しく勃発。Grok が説得力のある勢いで重いパンチを繰り出す。Nyssa は間一髪でかわし、木製のテーブルにリアルによろめきながらぶつかる。衝撃で木材が物理的にひび割れ、破片が飛び散る。彼女は Grok の肋骨や脚に素早く地に足のついた打撃を繰り出して反撃する。群衆は咆哮し、コインやマグカップを空中に投げ入れる。
 
 [00:07-00:10]
-Combat intensifies through the tavern:
-— Grok grabs Nyssa and throws her across a table
-— table explodes realistically beneath her weight
-— Nyssa rolls across the floor recovering naturally
-— Grok charges heavily, smashing furniture
-— patrons jump away realistically
-No exaggerated movement, only physically believable combat.
+酒場全体で戦闘が激化：
+— Grok が Nyssa を掴んでテーブル越しに投げ飛ばす
+— 彼女の体重でテーブルがリアルに破壊される
+— Nyssa が床を転がり、自然に体勢を立て直す
+— Grok が重々しく突進し、家具を粉砕する
+— 客たちがリアルに飛び退く
+誇張された動きは一切なし、物理的に説得力のある戦闘のみ。
 
 [00:10-00:12]
-Nyssa uses speed and positioning intelligently. She dodges another heavy attack causing Grok to crash into a support beam. Dust and debris fall from the ceiling. She climbs briefly onto the bar counter and leaps down with controlled realistic momentum, locking Grok’s arm and using leverage to throw him off balance.
+Nyssa はスピードとポジショニングを巧みに利用する。彼女は別の重い攻撃をかわし、Grok を支柱に激突させる。天井から埃や破片が落ちてくる。彼女は一瞬カウンターに登り、制御されたリアルな勢いで飛び降り、Grok の腕をロックしてテコの原理でバランスを崩す。
 
 [00:12-00:15]
-Final cinematic climax. Nyssa tackles Grok to the ground hard onto broken wooden debris. The floor shakes from the impact. She pins him down on top of him while holding a blade near his throat. Grok struggles realistically beneath her massive weight difference and exhaustion. Tavern crowd erupts cheering wildly, slamming mugs against tables. Camera slowly pushes inward on Nyssa breathing heavily while sweat, dirt, and candlelight flicker across both fighters.
+最後のシネマティックなクライマックス。Nyssa が Grok にタックルし、壊れた木製の破片の上に激しく倒れ込む。衝撃で床が揺れる。彼女は彼の上に馬乗りになり、喉元に刃を突きつける。Grok は彼女との圧倒的な体重差と疲労の中でリアルにもがく。酒場の群衆は熱狂的に歓声を上げ、テーブルをマグカップで叩く。カメラは、汗と汚れにまみれ、キャンドルの光が揺らめく中で荒い息をつく Nyssa にゆっくりと寄っていく。
 
-Audio:
-Heavy cinematic tavern battle sound effects
+オーディオ：
+重厚なシネマティック酒場戦闘サウンドエフェクト
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a21f54a796837fa9abf5826a1ad79c8/thumbnails/thumbnail.jpg" width="600" alt="Medieval Tavern Orc Fight">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a21f54a796837fa9abf5826a1ad79c8/thumbnails/thumbnail.jpg" width="600" alt="中世の酒場でのオークとの戦闘">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4674)**
 
 **作者:** [Keskin](https://x.com/craftian_keskin) | **ソース:** [Link](https://x.com/craftian_keskin/status/2054261463670202622) | **公開日:** May 12, 2026
 
 ---
-### UFC Pre-fight Crowd Cam
+### UFC 試合前クラウドカム
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed multi-beat video prompt for a UFC pre-fight broadcast sequence, featuring a crowd-cam montage and interaction with the camera.
+> UFC 試合前の放送シーケンスに向けた、詳細なマルチビートのビデオプロンプト。クラウドカム（観客席カメラ）のモンタージュと、カメラへのリアクションを特徴としています。
 
 #### 📝 プロンプト
 
 ```
-Ultra-realistic UFC pre-fight broadcast video sequence, crowd-cam montage inside a packed arena with dramatic overhead spotlights, deep shadows, and the signature octagon-side electric atmosphere. Handheld broadcast camera feel with subtle motion, moody arena lighting, deep blacks, shallow depth of field, 16:9 composition, authentic live PPV aesthetic.Beat 1 (0:00–0:03): Camera finds a famous MMA fighter sitting cage-side in a sharp suit, nodding approvingly at the action, cage visible behind him. Announcer voice-over begins, casual and energetic: "And look who's in the building tonight — always great to see the champ cage-side..."Beat 2 (0:03–0:05): Smooth camera pan across cheering fans, phone screens glowing, a brief blur of motion as it sweeps to the next subject.Beat 3 (0:05–0:10): Camera settles on a lean, athletic bald man seated in the crowd — fitted black compression shirt with red contrast stitching and a small circular chest logo, thin black cord necklace, closely trimmed salt-and-pepper goatee, piercing light blue-grey eyes, intricate geometric blackwork tattoo sleeves with mandala and sacred-geometry patterns covering both arms. He's mid-conversation, leaning slightly toward another well-known fighter seated next to him, gesturing with one hand, laughing at something, fully unaware of the camera. Announcer continues: "...and right next to him, Ori Silver is here in the house —"Beat 4 (0:10–0:12): Ori catches the camera in his peripheral vision, head turns toward the lens, eyes go wide in a playful "oh — me?" expression, eyebrows shooting up, mouth slightly open in mock surprise. Announcer, perfectly timed with the look: "— looking jacked..."Beat 5 (0:12–0:15): Expression shifts into a confident grin, he raises his right arm and flexes his bicep hard, the compression shirt straining against the muscle, tattoos shifting with the movement. He holds the flex while locking eyes with the camera. Announcer lands the punchline: "...dangerous man, this guy."Broadcast overlay lower-third with fight card graphics, ESPN/UFC-style watermark top-right. Detailed skin texture, sweat-sheen highlights from arena lights, slight zoom-in on the flex beat, natural reaction timing throughout — no rushed cuts, let each beat breathe.
+超リアルな UFC 試合前放送ビデオシーケンス。満員の会場内でのクラウドカム・モンタージュ。ドラマチックな頭上のスポットライト、深い影、そしてオクタゴンサイド特有の熱狂的な雰囲気を演出。手持ちの放送用カメラのような質感、繊細な動き、ムードのある会場照明、深い黒色、浅い被写界深度、16:9 の構図、本物のライブ PPV のような美学。ビート 1 (0:00–0:03): カメラがケージサイドに座る有名な MMA ファイターを捉える。彼は洗練されたスーツ姿で、アクションに頷きながら同意を示しており、背後にはケージが見える。アナウンサーのナレーションがカジュアルかつエネルギッシュに始まる: 「今夜は誰が来ているか見てみましょう。チャンピオンがケージサイドにいるのを見るのはいつだって最高ですね…」ビート 2 (0:03–0:05): カメラが歓声を上げるファンをスムーズにパンし、スマートフォンの画面が光り、次の被写体へ向けて素早く動く際のわずかなブレを表現。ビート 3 (0:05–0:10): カメラが観客席に座る、引き締まった体格のスキンヘッドの男性に焦点を合わせる。彼は赤いコントラストステッチが入った黒のコンプレッションシャツを着用し、胸には小さな円形のロゴ、首には細い黒のコードネックレス、きれいに整えられた白髪混じりのヤギ髭、鋭いライトブルーグレーの瞳、両腕を覆うマンダラや神聖幾何学模様の複雑な黒のタトゥーが施されている。彼は会話の途中で、隣に座る別の有名なファイターの方へ少し身を乗り出し、片手でジェスチャーをしながら笑っており、カメラには全く気づいていない。アナウンサーが続ける: 「…そして彼の隣には、Ori Silver が来ています —」ビート 4 (0:10–0:12): Ori が視界の端でカメラに気づき、レンズの方へ顔を向ける。彼は「おっ、俺？」というような遊び心のある表情で目を大きく見開き、眉を上げ、驚いたふりをして口を少し開ける。アナウンサーがその表情に合わせて完璧なタイミングで言う: 「— 鍛え上げられた体ですね…」ビート 5 (0:12–0:15): 表情が自信に満ちた笑みに変わり、彼は右腕を上げて力強く上腕二頭筋を誇示する。コンプレッションシャツが筋肉に食い込み、動きに合わせてタトゥーが変化する。彼はカメラをじっと見つめたままポーズを維持する。アナウンサーが締めくくる: 「…危険な男ですよ、彼は。」放送用の下部テロップ（ロウアーサード）には対戦カードのグラフィック、右上には ESPN/UFC スタイルの透かしを入れる。詳細な肌の質感、会場の照明による汗の光沢、力こぶを見せるシーンでのわずかなズームイン、全体を通して自然なリアクションのタイミングを重視し、カットを急がず、各ビートに余韻を持たせる。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e2ffe5859e769cd9e7722713b4f3315/thumbnails/thumbnail.jpg" width="600" alt="UFC Pre-fight Crowd Cam">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e2ffe5859e769cd9e7722713b4f3315/thumbnails/thumbnail.jpg" width="600" alt="UFC 試合前クラウドカム">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4657)**
 
 **作者:** [Ori Silver](https://x.com/OriSilver) | **ソース:** [Link](https://x.com/OriSilver/status/2054258828225720827) | **公開日:** May 12, 2026
 
 ---
-### Stadium Crowd Candid Broadcast
+### スタジアムの観客席でのスポーツ中継風スナップ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed prompt for a candid sports broadcast scene of a woman in a stadium crowd during a night match.
+> 夜の試合が行われるスタジアムの観客席で、女性を捉えたスポーツ中継風の自然なシーンを生成するための詳細なプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Ultra-realistic sports broadcast still of a glamorous woman sitting in a packed football stadium crowd during a night match, wearing a dark brown sleeveless high-neck satin top and black square earrings, shoulder-length light brown/blonde hair styled in soft waves. She is casually drinking from a tall blue aluminum can while holding a half-eaten cheeseburger in the other hand. Around her are fans in bright yellow and blue football jerseys and scarves, creating strong team-color contrast. The scene feels candid and cinematic, captured mid-game from a TV broadcast camera angle with shallow depth of field. Include realistic stadium seating, crowded audience atmosphere, broadcast overlay graphics in the top-left corner showing a live football score and match timer, and a sports network watermark in the top-right. Natural arena lighting, detailed skin texture, sharp focus on the woman, slightly blurred background crowd, authentic live sports broadcast aesthetic, 16:9 composition.
+夜の試合が行われる満員のサッカー・スタジアムの観客席に座る魅力的な女性を捉えた、超リアルなスポーツ中継風の静止画。ダークブラウンのノースリーブ・ハイネック・サテントップスを着用し、黒のスクエアピアスをつけ、肩までの長さのライトブラウン／ブロンドのウェーブヘア。片手に半分食べたチーズバーガーを持ち、もう片方の手で背の高い青いアルミ缶から飲み物を飲んでいる。周囲には黄色と青の鮮やかなユニフォームやマフラーを身につけたファンがおり、チームカラーの強いコントラストを生み出している。テレビ中継のカメラアングルから撮影されたような、被写界深度の浅い、自然で映画のようなスナップショット。リアルなスタジアムの座席、混雑した観客の雰囲気、左上に表示されたライブのサッカーのスコアと試合タイマーの放送用オーバーレイ・グラフィック、右上のスポーツネットワークの透かしロゴを含める。自然なアリーナ照明、詳細な肌の質感、女性に合わせたシャープなフォーカス、わずかにぼやけた背景の観客、本格的なライブスポーツ中継の美学、16:9 の構図。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/28b403c5e8f81daeb30f741508d5120e/thumbnails/thumbnail.jpg" width="600" alt="Stadium Crowd Candid Broadcast">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/28b403c5e8f81daeb30f741508d5120e/thumbnails/thumbnail.jpg" width="600" alt="スタジアムの観客席でのスポーツ中継風スナップ">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4644)**
 
 **作者:** [Noor 🌸](https://x.com/Noor_ul_ain43) | **ソース:** [Link](https://x.com/Noor_ul_ain43/status/2054253919027744859) | **公開日:** May 12, 2026
 
 ---
-### Nighttime Baseball Stadium Glamour Shot
+### ナイター野球場のグラマラスなショット
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Generates a cinematic live sports broadcast video of a stylish young woman at a night baseball game, capturing her reaction as she appears on the jumbotron.
+> 夜の野球観戦中、大型ビジョンに映し出されたスタイリッシュな若い女性のリアクションを捉えた、映画のようなスポーツ中継風動画を生成します。
 
 #### 📝 プロンプト
 
 ```
-A cinematic live sports broadcast shot capturing a stunning young blonde woman seated among a packed crowd during a nighttime baseball game. She has long blonde hair, striking blue eyes, and wears a luxurious white faux-fur jacket with black toggle clasps. The camera is clearly from an official televised stadium broadcast, not a phone recording, with authentic MLB-style production quality, smooth zoom-in framing, broadcast camera depth compression, and realistic TV sports cinematography.
-The video opens with the stadium broadcast suddenly focusing on her in the crowd while the baseball game continues in the background. Rows of spectators, fans in jerseys, stadium seats, glowing LED advertisements, and the active field are all visible behind her, reinforcing the feeling of a real live sports event. The audience around her reacts naturally, talking, cheering, and watching the game, while she remains calm, elegant, and completely unbothered by the attention.
-As her face appears on the giant jumbotron and live TV feed, the sports commentators briefly stop discussing the game to admire her beauty in a playful, professional sports-commentary tone. She notices herself on the big screen and gives a subtle, casual smile directly toward the broadcast camera before looking away again with a cool, effortless expression.
-Bright professional stadium floodlights illuminate her face with a glamorous broadcast look against the darker night-game atmosphere. Shot as a medium telephoto broadcast frame with shallow depth of field so she remains the sharp focal point while the energetic crowd and stadium environment stay visible but softly blurred behind her. Ultra-realistic motion, authentic sports-broadcast camera movement, cinematic color grading, realistic crowd ambience, televised baseball game energy, high-end live TV aesthetic, photorealistic 8K detail.
+夜の野球場で満員の観客席に座る、魅力的な若い金髪の女性を捉えた映画のようなスポーツ中継映像。彼女は長いブロンドヘアに印象的な青い瞳を持ち、黒いトグルボタンが付いた高級感のある白いフェイクファーのジャケットを着用しています。映像はスマートフォンによる撮影ではなく、MLB スタイルの本格的な制作品質、スムーズなズームイン、放送用カメラ特有の圧縮効果、リアルなスポーツシネマグラフィーを駆使した公式のスタジアム中継映像です。
+動画は、野球の試合が続く中で、スタジアムのカメラが突然彼女にフォーカスするところから始まります。背後には観客席やユニフォーム姿のファン、スタジアムの座席、光り輝く LED 広告、そして活気あるフィールドが見え、本物のスポーツイベントの臨場感を高めています。周囲の観客が会話や応援をしたり試合を見守ったりと自然に振る舞う中、彼女は落ち着いたエレガントな様子で、注目を全く気にしていない様子です。
+彼女の顔が巨大なジャンボトロン（大型ビジョン）とライブ中継に映し出されると、スポーツ実況アナウンサーが試合の解説を一時中断し、遊び心のあるプロフェッショナルなトーンで彼女の美しさを称賛します。彼女は大型ビジョンに映る自分に気づくと、放送用カメラに向かってさりげなく微笑み、すぐにクールで自然な表情で視線を外します。
+スタジアムの明るい照明が、夜の試合の雰囲気の中で彼女の顔をグラマラスに照らし出します。中望遠レンズによる放送用フレームで撮影されており、被写界深度を浅くすることで、彼女をシャープな焦点として際立たせつつ、背後のエネルギッシュな観客やスタジアムの環境を柔らかくぼかしています。超リアルな動き、本格的なスポーツ中継のカメラワーク、映画のようなカラーグレーディング、リアルな観客の雰囲気、テレビ中継の野球の熱気、ハイエンドなライブ TV の美学、フォトリアルな 8K ディテール。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/659f1e32add0e3a123831b7498f40d70/thumbnails/thumbnail.jpg" width="600" alt="Nighttime Baseball Stadium Glamour Shot">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/659f1e32add0e3a123831b7498f40d70/thumbnails/thumbnail.jpg" width="600" alt="ナイター野球場のグラマラスなショット">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4659)**
 
 **作者:** [Johnn](https://x.com/john_my07) | **ソース:** [Link](https://x.com/john_my07/status/2054236315781321171) | **公開日:** May 12, 2026
 
 ---
-### Stadium Football Action Narrative
+### スタジアムでのサッカー・アクション・ナラティブ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex 15-second cinematic narrative prompt set in a football stadium with specific time-coded actions.
+> サッカー・スタジアムを舞台に、タイムコードに基づいた具体的なアクションを指定する、15 秒間の複雑なシネマティック・ナラティブ・プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Use uploaded reference frame as the exact starting frame and maintain complete consistency of the same girl, same face, same hairstyle, same cream floral dress, same popcorn bucket, same stadium audience, same yellow football fans, same lighting, same football broadcast atmosphere and same realistic live sports camera quality throughout the entire video. Ultra realistic cinematic football stadium night scene, live football match in progress, loud crowd cheering, whistles, commentary echoing around stadium, immersive football atmosphere, premium sports broadcast look, Hollywood cinematic quality, realistic crowd movement, shallow depth of field, natural motion blur, realistic skin texture, realistic body movement. 0s–2s: Start exactly from the uploaded frame. The girl sits calmly watching the football match while eating popcorn naturally. Subtle blinking and breathing movement. Fans behind her react naturally to the ongoing match. Loud football crowd noise everywhere. Slow cinematic broadcast zoom toward her face. 2s–4s: She suddenly realizes the stadium camera is focused on her. Her expression changes into a soft shy smile. She gently places the popcorn bucket on the empty seat to her left side. Then she takes a small white tissue and gracefully wipes her fingers and lips. Crowd movement and football action continue naturally in background. 4s–6s: She stands up confidently from her seat. Hair and dress move naturally from stadium wind. Smooth tracking shot follows her walking toward the stairs leading down to the football field. Nearby fans cheer and react excitedly. 6s–8s: Cut near football field sideline. Fast football action happening. One player accidentally kicks the football strongly toward her direction. Dynamic sports broadcast camera angle. 8s–10s: Cinematic slow motion moment. She reacts instantly and kicks the football back powerfully and accurately toward the field with elegant athletic motion. Low angle tracking camera follows the football flying dramatically through bright stadium lights. 10s–11s: Ultra wide cinematic stadium shot. Football enters directly into the goal net. Goalkeeper completely misses it. Entire stadium explodes with massive celebration, cheering, screaming, jumping fans and waving scarves. 11s–12s: Fast energetic spectator reaction cuts. Fans recording on phones, screaming, celebrating wildly, huge football stadium energy. 12s–15s: Camera cuts back to her in cinematic medium close-up. She looks directly into camera confidently with soft smile, gives playful one-eye wink, then gives elegant flying kiss toward camera. Loud cheering continues behind her. End with dramatic cinematic hero shot and stadium atmosphere. Camera style: live football broadcast camera, cinematic dolly shots, smooth zoom-ins, realistic handheld sports camera movement, dynamic tracking shots, emotional crowd reaction cuts, slow motion during football kick, immersive stadium lighting
+アップロードされた参照フレームを正確な開始フレームとして使用し、同一の少女、同一の顔、同一の髪型、同一のクリーム色の花柄ドレス、同一のポップコーン・バケット、同一のスタジアムの観客、同一の黄色いサッカー・ファンの服装、同一の照明、同一のサッカー中継の雰囲気、そして同一のリアルなスポーツ中継カメラの画質を、動画全体を通して完全に維持してください。超リアルなシネマティックな夜のサッカー・スタジアムのシーン。試合中の熱気、大歓声、ホイッスルの音、スタジアムに響き渡る実況、没入感のあるサッカーの雰囲気、プレミアムなスポーツ中継のルック、ハリウッド映画品質、リアルな群衆の動き、浅い被写界深度、自然なモーション・ブラー、リアルな肌の質感、リアルな身体の動き。0 秒～2 秒：アップロードされたフレームから正確に開始。少女は落ち着いた様子でサッカーの試合を観戦しながら、自然にポップコーンを食べている。まばたきや呼吸の自然な動き。背後のファンは試合の展開に自然に反応している。スタジアム全体に響く大歓声。彼女の顔に向けたスローなシネマティック・ズーム。2 秒～4 秒：彼女はスタジアムのカメラが自分に向けられていることに突然気づく。表情が柔らかく恥ずかしそうな笑顔に変わる。彼女は左側の空席にポップコーン・バケットを優しく置く。次に小さな白いティッシュを取り出し、優雅に指と唇を拭く。背景では観客の動きとサッカーの試合が自然に続いている。4 秒～6 秒：彼女は自信を持って席から立ち上がる。スタジアムの風で髪とドレスが自然になびく。スムーズなトラッキング・ショットが、サッカー・フィールドへと続く階段に向かって歩く彼女を追う。近くのファンが興奮して歓声を上げ、反応する。6 秒～8 秒：サッカー・フィールドのサイドライン付近にカット。激しい試合展開。一人の選手が誤って彼女の方向に強くボールを蹴ってしまう。ダイナミックなスポーツ中継カメラのアングル。8 秒～10 秒：シネマティックなスローモーション。彼女は即座に反応し、優雅で運動神経の良い動きで、ボールをフィールドに向かって力強く正確に蹴り返す。ローアングルからのトラッキング・カメラが、スタジアムの明るい照明の中をドラマチックに飛んでいくボールを追う。10 秒～11 秒：スタジアムの超広角シネマティック・ショット。ボールが直接ゴールネットに突き刺さる。ゴールキーパーは完全に反応できず。スタジアム全体が爆発的な歓喜に包まれ、ファンが叫び、飛び跳ね、マフラーを振り回す。11 秒～12 秒：エネルギッシュな観客の反応を素早くカット。スマホで撮影するファン、叫び、熱狂的に祝う様子など、巨大なスタジアムのエネルギー。12 秒～15 秒：カメラは彼女のシネマティックなミディアム・クローズアップに戻る。彼女は自信に満ちた表情でカメラをまっすぐ見つめ、柔らかく微笑み、茶目っ気たっぷりに片目をつぶってウィンクし、カメラに向かって優雅に投げキッスをする。背後では大歓声が続いている。ドラマチックなシネマティック・ヒーロー・ショットとスタジアムの雰囲気で締めくくる。カメラ・スタイル：ライブ・サッカー中継カメラ、シネマティックなドリー・ショット、スムーズなズームイン、リアルな手持ちスポーツ・カメラの動き、ダイナミックなトラッキング・ショット、感情的な観客の反応カット、キック時のスローモーション、没入感のあるスタジアム照明
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8b3fd1d0616f5f8a97393f71c480dd5a/thumbnails/thumbnail.jpg" width="600" alt="Stadium Football Action Narrative">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8b3fd1d0616f5f8a97393f71c480dd5a/thumbnails/thumbnail.jpg" width="600" alt="スタジアムでのサッカー・アクション・ナラティブ">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4648)**
 
 **作者:** [auqib](https://x.com/auqibhabib) | **ソース:** [Link](https://x.com/auqibhabib/status/2054229192490037750) | **公開日:** May 12, 2026
 
 ---
-### Cyberpunk Alien Invasion Action
+### サイバーパンクなエイリアン侵略アクション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-octane sci-fi action prompt featuring a superhuman warrior flying through a cyberpunk city during an alien invasion.
+> エイリアン侵略下のサイバーパンク都市を飛び回る超人戦士を描いた、ハイテンションな SF アクションプロンプト。
 
 #### 📝 プロンプト
 
 ```
-Futuristic superhuman warrior flying through a cyberpunk city during a massive alien invasion, neon lights reflecting everywhere, cinematic sci-fi action movie atmosphere, energy blasts, collapsing skyscrapers, ultra realistic visuals, epic aerial camera shots, dramatic Hollywood lighting, Marvel-style blockbuster scene
+大規模なエイリアン侵略の中、サイバーパンク都市を飛行する未来的な超人戦士、至る所に反射するネオンライト、映画のような SF アクションの雰囲気、エネルギーブラスト、崩壊する超高層ビル、超リアルなビジュアル、壮大な空中カメラショット、ドラマチックなハリウッド風ライティング、マーベル映画のような大作シーン
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ffda6868a41738ccd7c72cdbe4facf89/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Alien Invasion Action">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ffda6868a41738ccd7c72cdbe4facf89/thumbnails/thumbnail.jpg" width="600" alt="サイバーパンクなエイリアン侵略アクション">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4665)**
 
 **作者:** [Flip | The AI Boy](https://x.com/Flip_Tab) | **ソース:** [Link](https://x.com/Flip_Tab/status/2054224808746074477) | **公開日:** May 12, 2026
 
 ---
-### Epic Sci-Fi Space Battle
+### 壮大な SF 宇宙バトル
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-action cinematic prompt featuring a superhero fighting a giant monster in Earth's atmosphere with explosive VFX.
+> 地球の大気圏で巨大モンスターと戦うスーパーヒーローを描いた、爆発的な VFX 満載のハイアクションなシネマティックプロンプト。
 
 #### 📝 プロンプト
 
 ```
-Powerful energy hero fighting a giant alien monster above Earth’s atmosphere, cinematic space battle, explosions everywhere, glowing cosmic powers, dramatic sci-fi movie atmosphere, ultra realistic VFX, epic Hollywood action composition
+地球の大気圏上で巨大なエイリアンのモンスターと戦う強力なエネルギーヒーロー、シネマティックな宇宙バトル、至る所で起こる爆発、輝く宇宙の力、ドラマチックな SF 映画の雰囲気、超リアルな VFX、壮大なハリウッドアクションの構図
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0246f4b8a26994be78ad8afa78709a11/thumbnails/thumbnail.jpg" width="600" alt="Epic Sci-Fi Space Battle">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0246f4b8a26994be78ad8afa78709a11/thumbnails/thumbnail.jpg" width="600" alt="壮大な SF 宇宙バトル">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4669)**
 
 **作者:** [Peter](https://x.com/TechwithPeter) | **ソース:** [Link](https://x.com/TechwithPeter/status/2054224735190536510) | **公開日:** May 12, 2026
 
 ---
-### Neon Futuristic Time Thief
+### ネオン輝く未来のタイムシーフ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A narrative video prompt for a sci-fi scene involving a character stealing time in a neon-lit futuristic city.
+> ネオンに彩られた未来都市で時間を盗むキャラクターを描いた、SF シーン向けのナラティブビデオプロンプト。
 
 #### 📝 プロンプト
 
 ```
-A glowing futuristic fantasy city at night, filled with neon lights and strange symbols. Floating clock shapes hang in the air, and broken pieces of time drift like glowing dust. The streets are crowded, but people move in slightly broken, uneven motion, as if time is not working correctly. The camera slowly moves forward and shows a young South Asian girl walking through the city. Her face and all features must stay exactly the same as the provided reference image in every frame. She looks calm and aware while walking through the strange environment.
+ネオンライトと奇妙なシンボルで満たされた、夜の輝く未来的なファンタジー都市。空中に浮かぶ時計の形をした物体と、光る塵のように漂う壊れた時間の破片。通りは混雑しているが、人々は時間が正しく機能していないかのように、少し途切れ途切れで不規則な動きをしている。カメラはゆっくりと前進し、街を歩く南アジア系の少女を映し出す。彼女の顔とすべての特徴は、提供された参照画像とすべてのフレームで完全に一致させること。彼女は奇妙な環境の中を歩きながら、冷静で周囲を認識している様子である。
 
-In a narrow alley, she lightly touches or passes a stranger. A small magical effect activates. Five seconds of time are taken from the stranger and turn into glowing energy lines that move into her hand. The stranger freezes for a moment, and glowing clock pieces spin around them in the air. The girl stays calm, but there is a slight emotional weight on her face.
+狭い路地で、彼女は通りすがりの見知らぬ人に軽く触れるか、そばを通り過ぎる。小さな魔法のエフェクトが発動する。その人物から 5 秒間の時間が奪われ、光るエネルギーの線となって彼女の手の中に吸い込まれていく。その人物は一瞬凍りつき、光る時計の破片が空中で彼らの周りを回転する。少女は冷静さを保っているが、その表情にはわずかな感情の重みが宿っている。
 
-Then she stands alone under floating clock fragments. Her memories begin to break and glitch. Short flashes of faces, places, and emotions appear and fade like damaged video. She slowly realizes that every time she steals seconds, she is losing parts of her own memory. The camera stays close and moves slowly to show her emotional state.
+その後、彼女は浮かぶ時計の破片の下で一人立ち尽くす。彼女の記憶が壊れ、グリッチし始める。顔や場所、感情の短いフラッシュが、損傷したビデオのように現れては消えていく。彼女は、時間を盗むたびに自分の記憶の一部を失っていることにゆっくりと気づく。カメラは彼女に寄り添い、ゆっくりと動いて彼女の感情状態を映し出す。
 
-In the final part, she continues walking through the neon city. The environment feels heavier and more empty, with large floating clock pieces circling above like a storm. Even though she is losing herself, she keeps walking to survive. At the end, her silhouette slowly fades into glowing neon fog while floating time particles surround her and disappear into the darkness.
+最後のパートでは、彼女はネオンの街を歩き続ける。環境はより重く、空虚に感じられ、巨大な時計の破片が嵐のように頭上を旋回している。自分自身を失いつつあるにもかかわらず、彼女は生き残るために歩き続ける。最後には、彼女のシルエットが光るネオンの霧の中にゆっくりと溶け込み、周囲を漂う時間の粒子が暗闇の中に消えていく。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fff88d3a4cc7172f4f61a0bb4479e7e0/thumbnails/thumbnail.jpg" width="600" alt="Neon Futuristic Time Thief">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fff88d3a4cc7172f4f61a0bb4479e7e0/thumbnails/thumbnail.jpg" width="600" alt="ネオン輝く未来のタイムシーフ">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4664)**
 
 **作者:** [Soulful Ai](https://x.com/soulful__ai) | **ソース:** [Link](https://x.com/soulful__ai/status/2054216828688421165) | **公開日:** May 12, 2026
 
 ---
-### Baseball Crowd Broadcast Portrait
+### 野球観戦中の観客のポートレート
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for a realistic high-definition broadcast still of a woman in a stadium crowd, focusing on lighting and cinematic camera angles.
+> スタジアムの観客席にいる女性を捉えた、高精細な放送用スチール写真風プロンプト。照明や映画のようなカメラアングルに焦点を当てています。
 
 #### 📝 プロンプト
 
 ```
-Subject: A stunning young woman with long blonde hair and blue eyes, sitting in a stadium crowd during a night baseball game. Outfit & Style: She is wearing a plush, white faux-fur jacket with black toggle fasteners. She has a "cool and disinterested" expression, holding a small white handheld electric fan near her face.
-Environment & Lighting: * Setting: Blurred background of a crowded baseball stadium with spectators in jerseys and stadium seating.
+被写体：長いブロンドヘアと青い瞳を持つ美しい若い女性。夜の野球試合中、スタジアムの観客席に座っている。
+服装とスタイル：黒いトグルボタンが付いた、ふわふわした白いフェイクファーのジャケットを着用。少し「クールで無関心」な表情を浮かべ、小さな白いハンディ扇風機を顔の近くに持っている。
+環境と照明：
+* 設定：観客がユニフォームを着て座っている、ぼかした野球スタジアムの背景。
 
-Lighting: Harsh, professional broadcast-style stadium lighting that creates a "glamour shot" look against the dark atmosphere of the night game.
-Camera Angle: Mid-shot, slightly low angle to emphasize her as the focal point.
-Quality: Ultra-realistic, 8K, shallow depth of field, cinematic color grading, looks like a high-definition TV broadcast still.
+照明：夜の試合の暗い雰囲気を背景に、「グラマラスなショット」を作り出す、プロの放送用スタジアム照明。
+カメラアングル：ミッドショット。彼女を焦点として強調するための、わずかにローアングルな構図。
+品質：超リアル、8K、浅い被写界深度、映画のようなカラーグレーディング、高精細なテレビ放送のスチール写真のような仕上がり。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e5608a161bc244f6c0d36fe3bc3a0dc/thumbnails/thumbnail.jpg" width="600" alt="Baseball Crowd Broadcast Portrait">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e5608a161bc244f6c0d36fe3bc3a0dc/thumbnails/thumbnail.jpg" width="600" alt="野球観戦中の観客のポートレート">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4658)**
 
 **作者:** [Jaukko](https://x.com/Jaukko) | **ソース:** [Link](https://x.com/Jaukko/status/2054214477436887341) | **公開日:** May 12, 2026
 
 ---
-### Biomechanical Creature Urban Rampage
+### バイオメカニカル・クリーチャーによる都市破壊
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An action-packed multi-shot prompt for a biomechanical creature attacking and destroying a city environment.
+> バイオメカニカル・クリーチャーが都市を襲撃し、破壊する様子を描いた、アクション満載のマルチショット・プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-A massive biomechanical creature with glowing core, layered metallic plates shifting, movements both organic and mechanical
-Charges through a city, smashing buildings, then reconfigures mid-motion into a faster, more aggressive form while attacking everything in its path
-Dense urban environment collapsing under its weight, sparks, fire, debris everywhere
-Shot 1 : wide aerial establishing scale, drone dive toward creature; 
-Shot 2 : low tracking between its legs, camera shaking with each step; 
-Shot 3 : crash zoom on transformation, mechanical parts shifting in sequence; 
-Shot 4 : orbit shot as it destroys structures, debris flying toward lens
+発光するコアを持ち、重なり合う金属プレートが変形する、有機的かつ機械的な動きを見せる巨大なバイオメカニカル・クリーチャー
+都市を突き進んで建物を粉砕し、移動中にさらに高速で攻撃的な形態へと再構成しながら、行く手を阻むすべてを攻撃する
+クリーチャーの重みで崩壊する密集した都市環境、火花、炎、そして飛び散る瓦礫
+ショット 1 : スケール感を強調する広角の空撮、クリーチャーに向かうドローンダイブ
+ショット 2 : クリーチャーの足の間を抜けるローアングル・トラッキング、一歩ごとに揺れるカメラ
+ショット 3 : 変形シーンのクラッシュズーム、機械パーツが順次シフトする様子
+ショット 4 : 建造物を破壊するクリーチャーを捉えたオービットショット、レンズに向かって飛んでくる瓦礫
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1279db2f63c0a2126d45f9530025d6ab/thumbnails/thumbnail.jpg" width="600" alt="Biomechanical Creature Urban Rampage">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1279db2f63c0a2126d45f9530025d6ab/thumbnails/thumbnail.jpg" width="600" alt="バイオメカニカル・クリーチャーによる都市破壊">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4661)**
 
 **作者:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **ソース:** [Link](https://x.com/CharaspowerAI/status/2054207487784415331) | **公開日:** May 12, 2026
 
 ---
-### Cyberpunk Sky Runner Chase
+### サイバーパンク・スカイランナー・チェイス
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intense cinematic sky runner chase sequence through a floating city, featuring dynamic aerial camera work and swarming drones.
+> 浮遊都市を舞台にした、ダイナミックな空中カメラワークとドローン群が織りなす、緊迫感あふれるシネマティックなスカイランナー・チェイス・シーケンス。
 
 #### 📝 プロンプト
 
 ```
-Gigantic floating city above endless clouds at sunset. Narrow suspended pathways, hanging markets, turbine bridges, glowing cables, and vertical drops disappearing into fog below. A female sky-runner wearing lightweight flight-assisted armor and a flowing dark cloak. Hover-bike hunters, floating security drones, and automated defense turrets attached to structures. Fast kinetic tracking shot close behind the runner. Smooth aerial motion mixed with sudden drops and sharp vertical dives. The camera swings dynamically during jumps between floating structures. She sprints across suspended bridges while sections collapse behind her. Hover-bikes blast through market pathways scattering debris into open sky. She wall-runs along turbine structures, leaps across impossible gaps, and drops through maintenance shafts glowing with energy cables. Drones swarm through narrow corridors while clouds rush beneath the city. She leaps from the city edge into dense clouds as pursuit lights fade above. Camera follows briefly before visibility disappears completely.
+夕暮れ時、果てしなく続く雲の上に浮かぶ巨大な浮遊都市。吊り下げられた狭い通路、宙に浮く市場、タービン橋、光るケーブル、そして霧の中へと消えていく垂直の断崖。軽量の飛行補助アーマーを身にまとい、ダークなマントをなびかせる女性スカイランナー。ホバーバイクに乗った追跡者、浮遊する警備ドローン、建造物に取り付けられた自動防衛タレット。ランナーの背後を捉える高速で躍動感のある追跡ショット。滑らかな空中移動と、突然の落下や鋭い垂直ダイブが交錯する。浮遊する建造物間を飛び移る際、カメラはダイナミックにスイングする。彼女が吊り橋を駆け抜けると、背後のセクションが次々と崩落していく。ホバーバイクが市場の通路を強行突破し、破片が空中に飛び散る。彼女はタービン構造の上を壁走りし、あり得ないほどの距離を跳躍し、エネルギーケーブルが光るメンテナンスシャフトの中へと飛び込んでいく。狭い通路をドローンが群れをなして追いかけ、雲が都市の下を猛スピードで流れる。彼女が都市の端から厚い雲の中へと飛び込むと、背後の追跡用ライトが遠ざかっていく。視界が完全に遮られるまで、カメラは彼女を追い続ける。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04a73d9badd644eca710655e943f4514/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Sky Runner Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04a73d9badd644eca710655e943f4514/thumbnails/thumbnail.jpg" width="600" alt="サイバーパンク・スカイランナー・チェイス">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4675)**
 
 **作者:** [Alexandra Aisling](https://x.com/AllaAisling) | **ソース:** [Link](https://x.com/AllaAisling/status/2054206713046208925) | **公開日:** May 12, 2026
 
 ---
-### Football Match Fan Reaction
+### サッカーの試合におけるファンのリアクション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A realistic sports broadcast prompt capturing a couple's emotional reaction and celebratory hug during a live football match.
+> ライブのサッカー中継で、カップルが試合に熱狂し、抱き合って喜ぶ様子を捉えたリアルなスポーツ放送用プロンプト。
 
 #### 📝 プロンプト
 
 ```
-Create a realistic live TV football broadcast clip during an Argentina vs Portugal match, centered on a couple's reaction shot in the stands. Feature the same woman and man @image_1 sitting side by side, their outfits, the surrounding spectators, and the overall stadium atmosphere consistent throughout. The top on-screen broadcast banner must stay completely unchanged and perfectly stable, with no flicker, distortion, or alterations to any text, numbers, or logos. Use an authentic long-lens broadcast look with subtle stadium-camera movement. The couple is happily watching the match together — visibly excited, leaning into each other, their hands intertwined naturally in their laps. As a key moment in the match unfolds, their reaction builds — they turn to each other with joy, and the man pulls her into a warm, natural celebratory hug, both laughing or smiling in the moment. Then cut to a tighter broadcast-style close framing from a slightly different angle, preserving the warm energy with only subtle movement. Keep nearby fans natural, softly out of focus, facing roughly the same direction, maintaining true live-broadcast realism, shallow depth of field, and an authentic sports-TV atmosphere throughout.
+アルゼンチン対ポルトガルのサッカーの試合中継を再現した、リアルなライブ放送クリップを作成してください。観客席にいるカップルのリアクションショットに焦点を当てます。@image_1 の女性と男性を並んで座らせ、服装、周囲の観客、スタジアム全体の雰囲気に一貫性を持たせてください。画面上部の放送用バナーは完全に固定し、テキスト、数字、ロゴにちらつきや歪み、変化がないようにしてください。スタジアムカメラ特有の微細な動きを伴う、本格的な望遠レンズでの放送映像のようなルックを採用してください。カップルは楽しそうに試合を観戦しており、興奮した様子で身を寄せ合い、手と手を自然に重ねています。試合の重要な局面で彼らの感情が高まり、喜びを分かち合うように顔を見合わせ、男性が女性を温かく自然なハグで抱き寄せ、二人とも笑みを浮かべている様子を描写してください。その後、少し異なる角度からのタイトな放送用クローズアップ映像に切り替え、温かい雰囲気を保ちつつ、わずかな動きのみを加えてください。周囲の観客は自然な形でソフトフォーカスにし、大体同じ方向を向かせることで、ライブ放送ならではのリアリティ、浅い被写界深度、そして本格的なスポーツ中継の雰囲気を維持してください。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8231de1cbe459c0bcd44e5bb362e982c/thumbnails/thumbnail.jpg" width="600" alt="Football Match Fan Reaction">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8231de1cbe459c0bcd44e5bb362e982c/thumbnails/thumbnail.jpg" width="600" alt="サッカーの試合におけるファンのリアクション">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4670)**
 
 **作者:** [WasifAI](https://x.com/doctorwasif) | **ソース:** [Link](https://x.com/doctorwasif/status/2054205749438583246) | **公開日:** May 12, 2026
 
 ---
-### FC Barcelona Stadium Fan Broadcast
+### FC バルセロナ スタジアムのファン放送映像
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt for generating a photorealistic sports broadcast scene featuring a female fan reacting to a goal in the FC Barcelona stadium.
+> FC バルセロナのスタジアムでゴールに反応する女性ファンの姿を捉えた、フォトリアルなスポーツ放送シーンを生成するための詳細なビデオプロンプト。
 
 #### 📝 プロンプト
 
 ```
-Photorealistic vertical 9:16 sports broadcast footage. A young woman with fair porcelain skin, sleek dark hair in a low bun, pearl drop earrings, and subtle glam makeup sits in FC Barcelona stadium stands wearing a Barça home jersey. Telephoto compressed framing, shallow depth of field, fans in blurred background holding scarves and flags.
-Motion sequence: She sits relaxed, smiling softly at the pitch — then her expression shifts: eyes widen, lips part slightly, head turns left toward the field reacting to a goal. A slow push-in on her face reveals skin pores, natural eye reflections, lipstick sheen. She raises one hand to her cheek, then breaks into a radiant smile. Fans surge behind her in soft bokeh motion.
-Camera: Slow handheld zoom-in, slight natural shake, broadcast telephoto compression. Sports TV overlay graphics in top corners. Live match scoreboard HUD. beIN Sports broadcast aesthetic.
-Style: Cinematic 4K, warm stadium floodlight color grade, natural motion blur, ultra-detailed facial microexpressions, photorealistic skin texture, viral reel energy.
+フォトリアルな縦型 9:16 のスポーツ放送映像。透き通るような白い肌、低い位置でまとめた艶やかな黒髪、パールのドロップピアス、控えめなグラムメイクを施した若い女性が、FC バルセロナのホームジャージを着用してスタジアムの観客席に座っている。望遠レンズによる圧縮効果、浅い被写界深度、背景にはマフラーや旗を手にしたファンがぼやけて映り込んでいる。
+モーションシーケンス：最初はリラックスした様子でピッチに穏やかな微笑みを向けているが、ゴールに反応して表情が一変する。目を見開き、唇をわずかに開き、左側のフィールドへと顔を向ける。顔へのゆっくりとしたズームインにより、肌の毛穴、瞳に映る自然な反射、リップの艶までが鮮明に映し出される。彼女が片手を頬に当て、満面の笑みを浮かべる。背後ではファンが熱狂し、柔らかなボケ味の中で動きを見せている。
+カメラ：ゆっくりとした手持ちズームイン、わずかな自然な揺れ、放送用望遠レンズの圧縮効果。画面上部コーナーにはスポーツ番組のオーバーレイグラフィック。ライブ試合のスコアボード HUD。beIN Sports の放送美学。
+スタイル：シネマティック 4K、スタジアムの照明を活かした温かみのあるカラーグレーディング、自然なモーションブラー、極めて詳細な表情の微細な動き、フォトリアルな肌の質感、バイラルリールのような躍動感。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9ffc2cd26819e165ec9c32dc81e766b/thumbnails/thumbnail.jpg" width="600" alt="FC Barcelona Stadium Fan Broadcast">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9ffc2cd26819e165ec9c32dc81e766b/thumbnails/thumbnail.jpg" width="600" alt="FC バルセロナ スタジアムのファン放送映像">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4656)**
 
 **作者:** [Ciri](https://x.com/Ciri_ai) | **ソース:** [Link](https://x.com/Ciri_ai/status/2054200114475077703) | **公開日:** May 12, 2026
 
 ---
-### Rainy Day Solitude Cinematic
+### 雨の日の静寂 シネマティック
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic multi-cut video prompt capturing a quiet, rainy day aesthetic with warm lighting, a cozy atmosphere, and an intimate voiceover.
+> 温かみのある照明と心地よい雰囲気、そして親密なナレーションで、静かな雨の日の美学を捉えたシネマティックなマルチカット動画プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-[CUT 1 — 0:00–0:03] Extreme close-up on two hands wrapped around a ceramic mug, steam curling upward in slow lazy spirals against a grey rainy window behind. Rain streaks run silently down the glass. Warm amber lamplight pools across a wool blanket. Everything is unhurried. Everything is soft. Voiceover — a woman's voice, barely above a whisper: "Some days are not meant for doing anything at all."
+[カット 1 — 0:00–0:03] セラミック製のマグカップを包み込む両手の極端なクローズアップ。背後の雨に濡れた窓を背景に、湯気がゆっくりと怠惰な螺旋を描いて立ち上る。雨の筋が静かにガラスを伝い落ちる。ウールのブランケットに、温かいアンバー色のランプの光が溜まる。すべてがゆったりと、すべてが柔らかい。ナレーション — 女性の声、ささやくような声で：「何もしない日のためにあるような、そんな日もある」
 
-[CUT 2 — 0:03–0:07] Slow pan across a young woman tucked deep into a wide armchair — oversized knit sweater, wool socks, book resting open against her knees. She is not reading. She is simply looking out the rain-streaked window at nothing in particular. Camera holds on her face — soft expression, completely unguarded, eyes tracking a single raindrop sliding down the glass. Close-up on the open book — a highlighted passage, a dried flower pressed between pages. Voiceover gently: "No plans. No noise. Just you and the rain and the warmth of something held in both hands."
+[カット 2 — 0:03–0:07] 大きなアームチェアに深く腰掛けた若い女性をゆっくりとパンする。オーバーサイズのニットセーター、ウールの靴下、膝の上で開かれたままの本。彼女は本を読んでいない。ただ、雨に濡れた窓の外をぼんやりと眺めている。カメラは彼女の表情を捉える。柔らかく、完全に無防備な表情。瞳はガラスを滑り落ちる一粒の雨滴を追っている。開かれた本へのクローズアップ — ハイライトされた一節、ページの間には押し花。ナレーションが優しく語りかける：「予定も、騒音もない。ただあなたと雨、そして両手で抱える何かの温もりだけ」
 
-[CUT 3 — 0:07–0:11] Series of slow intimate cuts — a candle flame breathing quietly on a wooden table, a cat curled into a perfect circle on the windowsill watching rain, a blanket pulled up slowly to a chin, pages turning in no particular hurry, a spoon stirring honey into tea in slow golden circles. Every sound soft and deliberate — the tick of a clock, rain against glass, a quiet page turn. Voiceover softly: "The whole world rushing somewhere. And you — absolutely, beautifully nowhere."
+[カット 3 — 0:07–0:11] 親密でゆっくりとしたカットの連続 — 木製のテーブルで静かに揺れるキャンドルの炎、窓辺で完璧な円を描いて丸まり雨を見つめる猫、ゆっくりと顎まで引き上げられるブランケット、急ぐことなくめくられるページ、紅茶の中で蜂蜜をゆっくりと黄金色の渦にして混ぜるスプーン。すべての音が柔らかく、意図的 — 時計の音、ガラスを叩く雨の音、静かなページをめくる音。ナレーションが柔らかく語る：「世界中がどこかへ急いでいる。そしてあなたは — どこでもない場所に、美しく、ただ佇んでいる」
 
-[CUT 4 — 0:11–0:15] Wide shot — the entire room visible. Small lamp glowing amber, rain heavy on every window, she is asleep in the armchair, book sliding gently off her lap, mug still warm on the side table, candle still breathing. Camera slowly pulls back. The room gets smaller. Warmer. Quieter. Cut to black. Rain continues softly. Voiceover final and tender: "This. This is enough."
+[カット 4 — 0:11–0:15] ワイドショット — 部屋全体が見える。小さなランプがアンバー色に輝き、窓の外は激しい雨。彼女はアームチェアで眠りにつき、本が膝から静かに滑り落ちる。サイドテーブルにはまだ温かいマグカップ、キャンドルはまだ灯っている。カメラがゆっくりと引いていく。部屋が小さく、温かく、静かになっていく。暗転。雨の音だけが静かに続く。ナレーション、最後は優しく：「これ。これだけで十分」
 
-VOICEOVER: "Some days are not meant for doing anything at all. No plans. No noise. Just you and the rain and the warmth of something held in both hands. The whole world rushing somewhere. And you — absolutely, beautifully nowhere. This. This is enough."
+ナレーション：「何もしない日のためにあるような、そんな日もある。予定も、騒音もない。ただあなたと雨、そして両手で抱える何かの温もりだけ。世界中がどこかへ急いでいる。そしてあなたは — どこでもない場所に、美しく、ただ佇んでいる。これ。これだけで十分」
 
-STYLE: Warm amber and soft grey tones · slow unhurried cuts · rain audio throughout · whispered intimate voiceover · candle and lamplight only · fade to black on silence
+スタイル：温かみのあるアンバーと柔らかなグレーのトーン · ゆったりとした落ち着いたカット · 全編を通した雨の音 · ささやくような親密なナレーション · キャンドルとランプの光のみ · 静寂の中でのフェードアウト
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b9838e37e989ae8d4f9d155cfef61638/thumbnails/thumbnail.jpg" width="600" alt="Rainy Day Solitude Cinematic">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b9838e37e989ae8d4f9d155cfef61638/thumbnails/thumbnail.jpg" width="600" alt="雨の日の静寂 シネマティック">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4660)**
 
 **作者:** [Jasmine Ai](https://x.com/jasminekhan90_) | **ソース:** [Link](https://x.com/jasminekhan90_/status/2054192485895909523) | **公開日:** May 12, 2026
 
 ---
-### Football Stadium Fan Broadcast Shot
+### サッカー場のファンを捉えたテレビ中継風ショット
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A realistic TV broadcast style prompt of a fan in a football stadium during a major match.
+> 主要な試合が行われているサッカー場で、ファンをテレビ中継風に映し出すリアルなプロンプト。
 
 #### 📝 プロンプト
 
 ```
-A high-definition, realistic broadcast shot of a young woman sitting in a crowded football stadium during a Real Madrid vs. Barcelona match. She has long, straight black hair, pale skin with light freckles, and striking blue eyes with cat-eye eyeliner. She is wearing a white Real Madrid home jersey. The scene captures her sitting pensively with her hand on her chin, occasionally looking around and tucking her hair behind her ear. Cinematic lighting, shallow depth of field with the crowd blurred in the background. In the top corner, a realistic sports scoreboard displays '64:30 RMA 2-1 BAR' with a 'bein SPORTS 1 LIVE' logo. The video has the slight grain and motion of a professional TV camera broadcast.
+レアル・マドリード対バルセロナの試合中、観客で溢れるサッカー場に座る若い女性を捉えた、高精細でリアルなテレビ中継風の映像。彼女は長くストレートな黒髪で、色白の肌に薄いそばかすがあり、キャットアイラインを引いた印象的な青い目をしている。白いレアル・マドリードのホームユニフォームを着用。手で顎を支えながら物思いにふけり、時折周囲を見渡して髪を耳にかける様子が収められている。映画のようなライティングで、背景の観客は浅い被写界深度によりぼかされている。画面上部にはリアルなスポーツスコアボードが表示されており、「64:30 RMA 2-1 BAR」というスコアと「bein SPORTS 1 LIVE」のロゴが掲出されている。映像には、プロのテレビカメラ中継特有のわずかな粒子感と動きがある。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5224083f0baf0e75972439e76b788a66/thumbnails/thumbnail.jpg" width="600" alt="Football Stadium Fan Broadcast Shot">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5224083f0baf0e75972439e76b788a66/thumbnails/thumbnail.jpg" width="600" alt="サッカー場のファンを捉えたテレビ中継風ショット">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4641)**
 
 **作者:** [Sairah](https://x.com/Sairah_0) | **ソース:** [Link](https://x.com/Sairah_0/status/2054177744419000812) | **公開日:** May 12, 2026
 
 ---
-### KBO Baseball Fan Surprise
+### KBO 野球ファンのサプライズ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A funny and cute sports broadcast prompt featuring a stadium fan caught on camera, including smooth camera zooms and emotional reactions.
+> スタジアムの観客がカメラに抜かれた瞬間を捉えた、面白くてキュートなスポーツ中継風プロンプト。滑らかなカメラズームと感情豊かなリアクションが特徴です。
 
 #### 📝 プロンプト
 
 ```
-Fixed broadcast camera shot of an attractive woman in the crowd at a KBO game, with the scoreboard and SPOTV logo visible. She watches calmly, then looks up at the big screen and realizes she’s on camera; the camera smoothly zooms in as her expression turns into cute surprise. She then looks down shyly, rubs the back of her neck, and smiles bashfully while the crowd cheers in the background. Professional HD sports broadcast style, authentic live-TV overlays, cool stadium lighting, and a funny, sweet “fan caught on camera” mood.
+KBO の試合会場、観客席にいる魅力的な女性を捉えた固定の放送用カメラショット。スコアボードと SPOTV のロゴが見える。彼女は落ち着いた様子で観戦しているが、大型ビジョンを見て自分がカメラに映っていることに気づく。カメラが滑らかにズームインし、彼女の表情がキュートな驚きに変わる。その後、彼女は恥ずかしそうに視線を落とし、首の後ろをさすりながら照れ笑いを浮かべる。背景には観客の歓声。プロ仕様の HD スポーツ中継スタイル、本物さながらのライブ TV オーバーレイ、クールなスタジアム照明、そして「カメラに抜かれたファン」という面白くてスイートな雰囲気を演出。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9784ab550358aa65fc30f42032ac203d/thumbnails/thumbnail.jpg" width="600" alt="KBO Baseball Fan Surprise">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9784ab550358aa65fc30f42032ac203d/thumbnails/thumbnail.jpg" width="600" alt="KBO 野球ファンのサプライズ">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4673)**
 
 **作者:** [shirish](https://x.com/shiri_shh) | **ソース:** [Link](https://x.com/shiri_shh/status/2054171795402756148) | **公開日:** May 12, 2026
 
 ---
-### Mage Fireball Attack Anime
+### 魔法使いの火球攻撃アニメーション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-energy 3D anime style video prompt featuring a mage launching a destructive fire ball in a city.
+> 都会で破壊的な火球を放つ魔法使いを描いた、躍動感あふれる 3D アニメスタイルの動画プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-MAGE RUNNING AND JUMPING AND LAUNCHING A FIRE BALL DESTROYING A CITY, ULTRA DYNAMIC 3D ANIME SCENE
+魔法使いが走り、ジャンプしながら火球を放ち、街を破壊する様子。超ダイナミックな 3D アニメシーン
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f1ddb324587f622dd3b7f8881f1738b3/thumbnails/thumbnail.jpg" width="600" alt="Mage Fireball Attack Anime">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f1ddb324587f622dd3b7f8881f1738b3/thumbnails/thumbnail.jpg" width="600" alt="魔法使いの火球攻撃アニメーション">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4668)**
 
 **作者:** [Cia0](https://x.com/Cia0_exe) | **ソース:** [Link](https://x.com/Cia0_exe/status/2054161920253739123) | **公開日:** May 12, 2026
 
 ---
-### Rainforest Water Beast Horror
+### 熱帯雨林の水棲獣ホラー
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic horror video prompt with multi-scene progression featuring a creature attack in a dark rainforest.
+> 暗い熱帯雨林でクリーチャーが襲いかかる様子を描いた、マルチシーン構成のシネマティックなホラー動画プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Ultra-realistic 4K cinematic horror scene in a dark rainforest at dusk. Moody blue-black color grading, dim lantern lighting, foggy atmosphere, realistic water physics, anamorphic lens look, natural skin texture, handheld cinematic camera movement, grounded realism, suspenseful pacing, terrifying scale, Dolby-style sound design, no bright colors.
+夕暮れの暗い熱帯雨林を舞台にした、超リアルな 4K シネマティック・ホラーシーン。ムードのあるブルーブラックのカラーグレーディング、薄暗いランタンの照明、霧が立ち込める雰囲気、リアルな水の物理演算、アナモルフィックレンズ風のルック、自然な肌の質感、手持ちカメラによるシネマティックな動き、地に足のついたリアリズム、サスペンスフルなテンポ、圧倒的なスケール感、Dolby スタイルのサウンドデザイン。明るい色は一切使用しない。
 
-**Scene 1 (0–4s):**
-Wide drone shot of a small wooden jungle hut built above a flowing river stream deep inside a dense rainforest. A young couple sits peacefully on the front terrace deck with legs hanging near the water, quietly enjoying the view. Dim lantern light glows beside them. Water gently flows under the hut. Camera slowly pushes forward with subtle handheld motion. Calm but unsettling atmosphere. Wet wood reflections, fog over water, dark green jungle tones, cinematic depth of field. Soft ambient music, insects, distant jungle sounds.
+**シーン 1 (0～4秒):**
+深い熱帯雨林の奥深く、流れる川の上に建てられた小さな木造のジャングル小屋を捉えたワイドなドローンショット。若いカップルがフロントデッキに座り、足を水辺に垂らして静かに景色を楽しんでいる。横にはランタンの淡い光が灯っている。水は小屋の下を穏やかに流れる。カメラは手持ちのような繊細な動きでゆっくりと前進する。穏やかだが不穏な空気感。濡れた木の反射、水面を覆う霧、深い緑のジャングルの色調、シネマティックな被写界深度。柔らかな環境音楽、虫の音、遠くのジャングルの音。
 
-**Scene 2 (4–7s):**
-Cut to low angle near the river surface. Water begins vibrating unnaturally. Ripples spread rapidly beneath the terrace. Lantern light flickers softly. Camera shake increases slightly. A gigantic dark underwater silhouette moves beneath the hut, partially visible through murky water. The couple notices movement and becomes nervous. Deep underwater rumble, wood creaking, suspenseful bass tones.
+**シーン 2 (4～7秒):**
+川面に近いローアングルにカット。水が不自然に振動し始める。テラスの下で波紋が急速に広がる。ランタンの光がかすかに揺れる。カメラの揺れがわずかに強まる。巨大で暗い水中のシルエットが小屋の下を移動し、濁った水を通して部分的に見える。カップルは動きに気づき、不安げな表情を見せる。重低音の水中音、木がきしむ音、サスペンスフルなベース音。
 
-**Scene 3 (7–11s):**
-Suddenly a gigantic horrifying mammal-like water beast explodes from the river beside the terrace in terrifying ultra-realistic detail. Massive jaws open wide with huge sharp teeth. Violent slow-motion water splash everywhere. Wet scarred skin with realistic reflections and dark gray-black texture. Creature partially climbs onto the wooden deck. Couple screams and backs away in panic. Camera rapidly pulls backward with intense handheld shaking like a real movie cameraman reacting naturally. Dramatic lantern and moonlight reflections, cinematic destruction, terrifying scale.
+**シーン 3 (7～11秒):**
+突然、巨大で恐ろしい哺乳類のような水棲獣が、テラスの横の川から爆発的に飛び出す。超リアルで恐怖を感じさせるディテール。鋭い牙を備えた巨大な顎が大きく開く。激しいスローモーションの水しぶきが周囲に飛び散る。リアルな反射とダークグレーから黒の質感を持つ、濡れた傷だらけの皮膚。クリーチャーが木製デッキに半分這い上がる。カップルは悲鳴を上げ、パニック状態で後ずさりする。カメラは、まるで本物の映画カメラマンが自然に反応しているかのように、激しい手持ちの揺れを伴いながら急速に後退する。劇的なランタンと月光の反射、シネマティックな破壊描写、圧倒的なスケール感。
 
-**Scene 4 (11–15s):**
-The giant creature aggressively crawls toward the couple across the wooden terrace while roaring. Wood cracks beneath its massive weight. Couple runs into the dark jungle behind the hut. Camera follows behind with frantic handheld movement through fog and darkness. Final shot: creature stops near river edge and stares directly into camera with glowing eye reflections and heavy breathing. Instant hard cut to black. Loud roar echoes, music abruptly stops, distant flowing water continues in darkness.
-Negative Prompt
-cartoon, fantasy colors, unrealistic CGI, oversaturated lighting, blurry textures, low realism, anime style, fake water physics, goofy expressions, distorted anatomy, bright daylight, cheerful mood, low detail, extra limbs.
+**シーン 4 (11～15秒):**
+巨大なクリーチャーが咆哮しながら、木製のテラスを横切ってカップルに向かって攻撃的に這い寄る。その巨大な体重で木が割れる。カップルは小屋の後ろの暗いジャングルへと逃げ込む。カメラは霧と闇の中、必死の手持ちカメラの動きで彼らを追う。ラストショット：クリーチャーが川岸で停止し、光る眼の反射を浮かべながらカメラを直視し、荒い息を吐く。瞬時に暗転。大きな咆哮が響き渡り、音楽が突然止まる。暗闇の中で遠くの水の流れる音だけが続く。
+
+ネガティブプロンプト
+カートゥーン、ファンタジーカラー、非現実的な CGI、彩度が高すぎる照明、ぼやけた質感、低いリアリズム、アニメスタイル、偽物の水の物理演算、滑稽な表情、歪んだ解剖学的構造、明るい日光、陽気なムード、ディテール不足、余分な手足。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/927ce3a3028bf47f1b4bfcef3ead3960/thumbnails/thumbnail.jpg" width="600" alt="Rainforest Water Beast Horror">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/927ce3a3028bf47f1b4bfcef3ead3960/thumbnails/thumbnail.jpg" width="600" alt="熱帯雨林の水棲獣ホラー">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4666)**
 
 **作者:** [Al-Shamus](https://x.com/im_shahid7) | **ソース:** [Link](https://x.com/im_shahid7/status/2054161708302876797) | **公開日:** May 12, 2026
 
 ---
-### Live IPL Cricket Audience Broadcast
+### IPL クリケット ライブ観戦の放送映像
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for simulating a live IPL sports broadcast shot of a VIP audience member sitting next to a celebrity.
+> VIP 席でセレブリティの隣に座る観客を捉えた、IPL スポーツ中継風の映像を生成するための詳細なプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Live IPL broadcast shot, 16:9, 1080p. Close-up telephoto crowd-cam moment of the person from the attached reference image seated beside Priyanka Chopra Jonas in the VIP audience section of a packed IPL cricket stadium during a live night match. Priyanka wears an elegant luxury stadium outfit while the reference person wears premium modern streetwear. Both sit naturally among the crowd, initially watching the cricket match with calm, focused expressions. After briefly noticing the live stadium camera, both softly look toward the lens and give a subtle natural wave with a gentle smile — minimal facial expressions, no excitement, no exaggerated reactions, maintaining a candid premium broadcast feel.
-Subtle realistic movements only: Priyanka lightly brushes back a strand of hair and softly raises one hand for a calm wave, while the reference person slightly shifts posture and gives a small relaxed hand wave. Spectators in the background remain naturally engaged with the match atmosphere. Shot on a 150mm live sports broadcast lens with cinematic shallow depth of field, soft stadium bokeh, realistic floodlight illumination, authentic Indian cricket crowd atmosphere, natural skin textures, subtle handheld broadcast micro-shake stabilization, cinematic sports framing, and faint IPL-style scoreboard graphics with Hindi-English sports ticker UI in the corner. High-fidelity live sports broadcast realism, no posing, no dramatic reactions, no cuts.
+IPL ライブ中継の映像、16:9、1080p。満員の IPL クリケットスタジアムの夜間試合中、VIP 観客席で Priyanka Chopra Jonas の隣に座る、添付の参照画像に写っている人物を捉えたクローズアップの望遠カメラ映像。Priyanka はエレガントで高級感のあるスタジアムファッション、参照画像内の人物は上質なモダンストリートウェアを着用。両者は自然に観客の中に座り、最初は落ち着いた集中した表情でクリケットの試合を観戦している。スタジアムのライブカメラに気づいた後、二人とも穏やかにレンズの方を向き、控えめで自然な笑顔で軽く手を振る。表情は最小限に抑え、興奮や大げさなリアクションは避け、ありのままのプレミアムな放送映像の雰囲気を維持する。
+動きは控えめでリアルに：Priyanka が髪を軽くかき上げ、穏やかに片手を挙げて静かに手を振る。参照画像内の人物は少し姿勢を変え、リラックスした様子で小さく手を振る。背景の観客は試合の雰囲気に自然に没頭している。150mm のスポーツ中継用レンズで撮影し、映画のような浅い被写界深度、柔らかなスタジアムのボケ味、リアルな投光照明、本物のインドのクリケット観戦の雰囲気、自然な肌の質感、手持ちカメラ特有の微細な揺れ、映画のようなスポーツ構図を再現。隅には IPL スタイルのスコアボードグラフィックと、ヒンディー語と英語のスポーツティッカー UI を表示。誇張されたポーズやドラマチックな反応、カット割りは一切なしの、高精細なライブスポーツ中継のリアリズム。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df97a1001051201eeb16f1aa9978a653/thumbnails/thumbnail.jpg" width="600" alt="Live IPL Cricket Audience Broadcast">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df97a1001051201eeb16f1aa9978a653/thumbnails/thumbnail.jpg" width="600" alt="IPL クリケット ライブ観戦の放送映像">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4640)**
 
 **作者:** [Sahil Verma](https://x.com/sahilvermaai) | **ソース:** [Link](https://x.com/sahilvermaai/status/2054159206220230878) | **公開日:** May 12, 2026
 
 ---
-### Jungle Temple Explorer Cinematic Video
+### ジャングル寺院探検のシネマティック動画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic prompt for an adventurer exploring an ancient jungle temple at sunrise, focusing on realistic details and lighting.
+> 日の出のジャングルにある古代寺院を探索する冒険者のためのシネマティックなプロンプト。リアルなディテールとライティングに焦点を当てています。
 
 #### 📝 プロンプト
 
 ```
-Young explorer walking through an ancient jungle temple at sunrise, cinematic adventure atmosphere, glowing sunlight through trees, mysterious ruins, realistic backpack and outfit, dust particles in air, dramatic lighting, epic movie scene, ultra realistic, detailed environment, cinematic composition, 35mm film look, warm color grading, slow camera tracking shot, soft wind movement, realistic motion, adventurous mood, smooth cinematic motion blur
+日の出の古代ジャングル寺院を歩く若き探検家、シネマティックな冒険の雰囲気、木々の間から差し込む輝く日光、神秘的な遺跡、リアルなバックパックと衣装、空気中に舞う塵、ドラマチックなライティング、壮大な映画のワンシーン、超リアル、詳細な環境、シネマティックな構図、35mm フィルムのような質感、温かみのあるカラーグレーディング、スローなカメラトラッキングショット、柔らかな風の動き、リアルなモーション、冒険的なムード、滑らかなシネマティックモーションブラー
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9506873d2a024df7a2e40555812a4701/thumbnails/thumbnail.jpg" width="600" alt="Jungle Temple Explorer Cinematic Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9506873d2a024df7a2e40555812a4701/thumbnails/thumbnail.jpg" width="600" alt="ジャングル寺院探検のシネマティック動画">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4638)**
 
 **作者:** [Adina](https://x.com/TechwithAdina) | **ソース:** [Link](https://x.com/TechwithAdina/status/2054147190646563205) | **公開日:** May 12, 2026
 
 ---
-### Beauty Influencer Morning Routine
+### 美容インフルエンサーのモーニングルーティン
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A scripted cinematic prompt for a beauty influencer morning routine with macro details and natural lighting.
+> マクロなディテールと自然光を活かした、美容インフルエンサーのモーニングルーティン用シネマティック・スクリプトプロンプト。
 
 #### 📝 プロンプト
 
 ```
-Soft morning light fills a minimal luxury vanity room as the girl sits in front of a mirror surrounded by clean, aesthetic beauty products. She looks directly into the camera with a soft smile, gently holding a foundation bottle while the camera slowly pushes in, focusing on her natural skin texture. In a calm influencer tone, she says, “Okay, let’s start with my everyday glow routine…” The scene smoothly transitions into a close-up where she applies foundation using a beauty blender, her skin appearing flawless, dewy, and naturally radiant, while subtle product shots rest elegantly on the vanity; she continues, “This base is all about keeping it light, fresh, and skin-like…” The camera shifts into macro cinematic detail as she moves into eye makeup, softly applying eyeshadow and mascara, then adding a delicate highlight to her cheeks, her expression focused yet relaxed with confident influencer energy, as she says, “A little definition on the eyes… and that natural glow hits differently.” Finally, she gently turns from the mirror to face the camera fully, revealing a complete soft glam look with glowing skin and polished details; the camera slowly zooms out with a soft lens flare as she smiles and concludes, “And that’s my everyday soft glam. Simple, effortless, always me.”
+柔らかな朝の光が差し込むミニマルでラグジュアリーなドレッサーの前で、洗練された美容アイテムに囲まれて座る女性。彼女はカメラをまっすぐに見つめて優しく微笑み、ファンデーションのボトルを手に取ります。カメラがゆっくりと彼女に寄り、肌の自然な質感を捉えます。インフルエンサーらしい落ち着いたトーンで、彼女はこう語りかけます。「さて、私の毎日のツヤ肌ルーティンを始めましょう…」。シーンはスムーズに切り替わり、ビューティーブレンダーでファンデーションを塗るクローズアップへ。肌は欠点のない、瑞々しく自然な輝きを放ち、ドレッサーの上には製品が上品に配置されています。彼女は続けます。「このベースメイクのポイントは、軽やかでフレッシュ、そして素肌感を生かすこと…」。カメラはマクロなシネマティック・ディテールへと切り替わり、アイシャドウとマスカラを優しくのせ、頬に繊細なハイライトを加えていきます。集中しつつもリラックスした、自信に満ちたインフルエンサーの雰囲気で彼女は言います。「目元に少しだけアクセントを…この自然なツヤ感がたまらないの」。最後に、彼女は鏡からゆっくりとカメラの方を向き、ツヤのある肌と洗練されたディテールが際立つソフトグラムなメイクを披露します。カメラがソフトなレンズフレアとともにゆっくりとズームアウトする中、彼女は微笑んで締めくくります。「これが私の毎日のソフトグラム。シンプルで、エフォートレスで、いつもの私らしさ」。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/831ee84b252cc0cbb1d2bd095534d768/thumbnails/thumbnail.jpg" width="600" alt="Beauty Influencer Morning Routine">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/831ee84b252cc0cbb1d2bd095534d768/thumbnails/thumbnail.jpg" width="600" alt="美容インフルエンサーのモーニングルーティン">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4646)**
 
 **作者:** [Soulful Ai](https://x.com/soulful__ai) | **ソース:** [Link](https://x.com/soulful__ai/status/2054140728390156453) | **公開日:** May 12, 2026
 
 ---
-### Giant Corporate Woman in NYC
+### ニューヨークの街を歩く巨大なビジネスウーマン
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal cinematic prompt for generating a video of a giant corporate woman walking through the streets of New York City.
+> ニューヨークの街を歩く巨大なビジネスウーマンの動画を生成するための、シュールで映画のようなプロンプト。
 
 #### 📝 プロンプト
 
 ```
-A high-detail, surreal cinematic sequence featuring a gigantic corporate woman walking through the streets of New York City. She wears a white collared shirt, a dark pinstripe waistcoat, black trousers, and prominent red high-heeled shoes.
+ニューヨークの街を歩く巨大なビジネスウーマンを捉えた、高精細でシュールな映画のようなシークエンス。彼女は白い襟付きシャツ、ダークなピンストライプのベスト、黒いトラウザーを着用し、印象的な赤いハイヒールを履いている。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1ccc0d9bb83bdb8699ddf1afc4cac94c/thumbnails/thumbnail.jpg" width="600" alt="Giant Corporate Woman in NYC">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1ccc0d9bb83bdb8699ddf1afc4cac94c/thumbnails/thumbnail.jpg" width="600" alt="ニューヨークの街を歩く巨大なビジネスウーマン">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4652)**
 
 **作者:** [Calira](https://x.com/CaliraVal) | **ソース:** [Link](https://x.com/CaliraVal/status/2054135958799593838) | **公開日:** May 12, 2026
 
 ---
-### Lara Secret Agent VFX Story
+### Lara Secret Agent VFX ストーリー
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A short VFX storytelling prompt about a girl named Lara who shows fearlessness in a playground.
+> 遊び場で恐れを知らない少女 Lara を描いた、VFX ストーリーテリング用のショートプロンプト。
 
 #### 📝 プロンプト
 
 ```
-“LARA: THE SECRET AGENT OF FEARLESSNESS” — 10s Viral VFX Story 0–2s: Golden afternoon playground. A special girl, Lara, whispers with confidence: “I’m a secret agent.” Children laugh… some run away teasing her. 2–5s: Camera zooms in—slow motion VFX shimmer around Lara as wind rises. A sudden cut: a glowing cherry tree sways… something moves. 5–8s: An earwig appears on the branch. Kids panic, stepping back in fear. Sound drops—heartbeat intensifies. But Lara steps forward calmly. Close-up: fearless eyes. 8–10s: She gently touches the branch. The earwig crawls peacefully away. Soft golden glow spreads—fear dissolves.
+「LARA: THE SECRET AGENT OF FEARLESSNESS」— 10 秒間のバイラル VFX ストーリー 0 ～ 2 秒：黄金色の午後の遊び場。特別な少女 Lara が自信たっぷりに囁く。「私はシークレットエージェントよ」。子供たちは笑い、からかって逃げ出す。 2 ～ 5 秒：カメラがズームイン。風が吹き始め、Lara の周囲にスローモーションの VFX がきらめく。突然のカット：光り輝く桜の木が揺れ、何かが動く。 5 ～ 8 秒：枝にハサミムシが現れる。子供たちはパニックになり、恐怖で後ずさりする。音が消え、心拍音が高まる。しかし、Lara は冷静に前へ踏み出す。クローズアップ：恐れを知らない瞳。 8 ～ 10 秒：彼女が優しく枝に触れる。ハサミムシは穏やかに去っていく。柔らかな黄金の光が広がり、恐怖が消えていく。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4cb06c7ee910d18008867ba295f3448/thumbnails/thumbnail.jpg" width="600" alt="Lara Secret Agent VFX Story">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4cb06c7ee910d18008867ba295f3448/thumbnails/thumbnail.jpg" width="600" alt="Lara Secret Agent VFX ストーリー">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4655)**
 
 **作者:** [Aneeza Ai](https://x.com/Aneeza__S) | **ソース:** [Link](https://x.com/Aneeza__S/status/2054127489149182327) | **公開日:** May 12, 2026
 
 ---
-### Mysterious Character Facial Animation
+### ミステリアスなキャラクターのフェイシャルアニメーション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed facial performance prompt designed to maintain a character's identity while capturing subtle and mysterious expressions over 15 seconds.
+> キャラクターのアイデンティティを維持しつつ、15 秒間で繊細かつミステリアスな表情を捉えるために設計された詳細なフェイシャルパフォーマンス用プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Use the provided character @[character reference] as the fixed identity reference.
+指定されたキャラクター @[character reference] を固定のアイデンティティ参照として使用してください。
 
-Create a 15-second, facial performance video.
+15 秒間のフェイシャルパフォーマンス動画を作成してください。
 
-The character is cute, sweet, charming and slightly mysterious.
-Preserve the character’s face, hair, proportions, age, styling
+キャラクターはキュートで愛らしく、魅力的でありながら、どこかミステリアスな雰囲気を漂わせています。
+キャラクターの顔立ち、髪型、プロポーション、年齢、スタイリングを維持してください。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bbc5eec588d95b4816e9516b5381eea/thumbnails/thumbnail.jpg" width="600" alt="Mysterious Character Facial Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bbc5eec588d95b4816e9516b5381eea/thumbnails/thumbnail.jpg" width="600" alt="ミステリアスなキャラクターのフェイシャルアニメーション">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4676)**
 
 **作者:** [Kōda](https://x.com/aimikoda) | **ソース:** [Link](https://x.com/aimikoda/status/2054120306004856859) | **公開日:** May 12, 2026
 
 ---
-### Martian Storm Sci-Fi Mystery Sequence
+### 火星の嵐：SFミステリー・シークエンス
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic sci-fi prompt featuring an astronaut discovering an ancient city during a Martian sandstorm.
+> 火星の砂嵐の中、古代都市を発見する宇宙飛行士を描いた映画のような SF プロンプト。
 
 #### 📝 プロンプト
 
 ```
-A cinematic sci-fi mystery set during a violent Martian sandstorm.
+激しい火星の砂嵐を舞台にした、映画のような SF ミステリー。
 
-0–3s: A lone astronaut struggles across the red Martian desert during a massive sandstorm. Visibility is low, winds howl violently, and warning alerts flicker inside the helmet HUD.
+0～3秒：巨大な砂嵐が吹き荒れる火星の赤い砂漠を、一人の宇宙飛行士が苦闘しながら進む。視界は悪く、風は激しく唸り、ヘルメット内の HUD には警告アラートが点滅している。
 
-3–6s: Lightning flashes through the storm, briefly revealing enormous ancient stone structures buried beneath the sand. The astronaut stops in shock as glowing alien symbols begin illuminating under the dust.
+3～6秒：嵐の中で稲妻が走り、砂の下に埋もれた巨大な古代の石造建築がわずかに姿を現す。砂の下で異星人のシンボルが光り始め、宇宙飛行士は驚愕して立ち止まる。
 
-6–9s: The explorer enters a gigantic hidden temple doorway carved into a mountain. Massive pillars rise into darkness while strange blue energy pulses through the walls. Footsteps echo in silence.
+6～9秒：探検家は山に刻まれた巨大な隠し神殿の入り口へと入る。巨大な柱が暗闇に向かってそびえ立ち、壁には奇妙な青いエネルギーが脈動している。静寂の中に足音が響く。
 
-9–12s: Deep inside the temple, an enormous floating artifact activates as the astronaut approaches. Ancient holographic star maps appear in the air showing galaxies, Earth, and unknown civilizations.
+9～12秒：神殿の奥深くで、宇宙飛行士が近づくと巨大な浮遊アーティファクトが起動する。空中には銀河や地球、そして未知の文明を示す古代のホログラフィック星図が浮かび上がる。
 
-12–15s: Final cinematic shot — the astronaut stands before a colossal glowing alien throne while the storm outside clears, revealing the full ancient city hidden beneath Mars for thousands of years.
+12～15秒：最後のシネマティックショット。巨大な光り輝く異星人の玉座の前に立つ宇宙飛行士。外の嵐が晴れ、何千年もの間火星の地下に隠されていた古代都市の全貌が明らかになる。
 
-Style: ultra cinematic realism, epic sci-fi mystery atmosphere, realistic space suit detail, volumetric lighting, glowing alien technology, massive environmental scale, atmospheric sand effects, film-grade color grading, Dune + Interstellar inspired visuals.
+スタイル：超シネマティックなリアリズム、壮大な SF ミステリーの雰囲気、リアルな宇宙服のディテール、ボリュームライト、光り輝く異星人のテクノロジー、圧倒的なスケール感、大気中の砂のエフェクト、映画グレードのカラーグレーディング、『Dune』や『Interstellar』にインスパイアされたビジュアル。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/05eda0e3705135965207975edb70ca18/thumbnails/thumbnail.jpg" width="600" alt="Martian Storm Sci-Fi Mystery Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/05eda0e3705135965207975edb70ca18/thumbnails/thumbnail.jpg" width="600" alt="火星の嵐：SFミステリー・シークエンス">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4642)**
 
 **作者:** [Nawal](https://x.com/nawalsehar) | **ソース:** [Link](https://x.com/nawalsehar/status/2054112001144528953) | **公開日:** May 12, 2026
 
 ---
-### Anime Transformation Bank with Comedic Twist
+### アニメ風変身バンク：コミカルなオチ付き
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A theatrical-quality anime transformation sequence prompt that transitions from a majestic angel to a cute chibi character.
+> 荘厳な天使からキュートなちびキャラへと変身する、劇場版アニメクオリティの変身バンク用プロンプト。
 
 #### 📝 プロンプト
 
 ```
-A common "other-dimensional transformation bank" scene from anime. Uses the "adult angel" and "chibi angel" from reference images as the same character. The first half is a majestic, mysterious, and high-power transformation sequence on the level of a movie anime. The second half features a comedic twist where the final form appears as a "super cute chibi angel." The setting is an infinite silver and gold dimension. Giant magic circles, floating light feathers, sacred characters, particle effects, aurora-like light, and meteor-like energy rotate at high speed. The camera orbits the subject at high speed and zooms in, like a transformation scene in a theatrical anime. Hair and wings flutter violently in strong winds. The adult angel quietly opens her eyes and releases a divine aura. Platinum-colored energy erupts explosively from her whole body, the outfit glows, and giant light wings expand. The entire screen is enveloped in a dazzling flash. Ultra-dense effects, lens flares, particles, energy waves, and mysterious light beams. Like a transformation bank, insert continuous shots of silhouettes, eye close-ups, hands being raised, wings spreading, and light rings passing through the body in a fast tempo. An overwhelmingly flashy and grand performance as if evolving into a final form to save the world. At the peak of the BGM, a giant pillar of light explodes. Then sudden silence. When the smoke and light clear, standing there is—the "super cute chibi angel" from the reference image. She floats fluffily with a "ehehe♪" vibe, flapping small wings with sparkling eyes. The atmosphere instantly relaxes. The background still has the divine effects, creating a strong contrast. Finally, the chibi angel strikes a proud pose. Comical and adorable ending. Movie quality, superb drawing, smooth movement, sakuga direction, cinematic lighting, god rays, volumetric light, glow effects, light particles, aura explosion, mysterious space, ultra-fast camera work, dynamic composition, overwhelming energy direction, comical gap direction, cute chibi character, high-quality animation, theatrical direction, dynamism, power, fantastical, sacred atmosphere. Negative prompt: low quality, blur, live-action, 3DCG doll feel, unnatural body, extra wings, extra limbs, horror face, uncute chibi, gore, text, watermark, duplicate characters, flat lighting, little movement, fixed camera, distorted hands, unstable character design, lack of power, expressionless.
+アニメでおなじみの「異次元変身バンク」シーン。参照画像の「大人天使」と「ちび天使」を同一人物として使用します。前半は劇場版アニメレベルの荘厳で神秘的、かつ高エネルギーな変身シークエンス。後半は、最終形態が「超キュートなちび天使」になるというコミカルな展開です。舞台は銀と金に輝く無限の次元。巨大な魔法陣、浮遊する光の羽、聖なる文字、パーティクルエフェクト、オーロラのような光、流星のようなエネルギーが高速で回転します。カメラは劇場版アニメの変身シーンのように、被写体の周りを高速で旋回し、ズームインします。髪と翼は強風に激しくなびきます。大人天使が静かに目を開き、神々しいオーラを放ちます。全身からプラチナ色のエネルギーが爆発的に噴出し、衣装が発光し、巨大な光の翼が広がります。画面全体が眩い閃光に包まれます。超高密度なエフェクト、レンズフレア、パーティクル、エネルギー波、神秘的な光のビーム。変身バンクらしく、シルエット、瞳のアップ、掲げた手、広がる翼、体を通り抜ける光の輪などのカットをテンポよく挿入します。世界を救う最終形態へと進化するかのような、圧倒的に派手で壮大な演出です。BGMの最高潮で巨大な光の柱が爆発。そして突然の静寂。煙と光が晴れると、そこに立っているのは――参照画像の「超キュートなちび天使」です。彼女は「えへへ♪」といった雰囲気でふわふわと浮かび、キラキラした瞳で小さな翼をパタパタさせています。空気は一瞬で和みます。背景にはまだ神々しいエフェクトが残っており、強いコントラストを生み出します。最後はちび天使が誇らしげにポーズを決める、コミカルで愛らしい結末です。映画品質、卓越した作画、滑らかな動き、作画演出、シネマティックなライティング、ゴッドレイ、ボリュームライト、グロー効果、光のパーティクル、オーラ爆発、神秘的な空間、超高速カメラワーク、ダイナミックな構図、圧倒的なエネルギー演出、コミカルなギャップ演出、キュートなちびキャラ、高品質アニメーション、劇場版演出、躍動感、迫力、幻想的、神聖な雰囲気。ネガティブプロンプト：低品質、ぼやけ、実写、3DCGの人形感、不自然な体、余分な翼、余分な手足、ホラー顔、可愛くないちびキャラ、グロテスク、テキスト、透かし、キャラクターの重複、フラットなライティング、動きが少ない、固定カメラ、歪んだ手、不安定なキャラクターデザイン、迫力不足、無表情。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/861b4dc63a13430631bbb3165119705b/thumbnails/thumbnail.jpg" width="600" alt="Anime Transformation Bank with Comedic Twist">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/861b4dc63a13430631bbb3165119705b/thumbnails/thumbnail.jpg" width="600" alt="アニメ風変身バンク：コミカルなオチ付き">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4679)**
 
 **作者:** [なお](https://x.com/Naonekozamurai) | **ソース:** [Link](https://x.com/Naonekozamurai/status/2054109321378898202) | **公開日:** May 12, 2026
 
 ---
-### Cinematic Stadium Portrait
+### 映画のようなスタジアムのポートレート
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A hyper-realistic cinematic portrait of a young woman at a sporting event with authentic stadium lighting.
+> スポーツイベント会場で、本物のスタジアム照明を浴びる若い女性の超リアルな映画風ポートレート。
 
 #### 📝 プロンプト
 
 ```
-A hyper-realistic cinematic portrait of a beautiful young Asian woman with a stylish dark brown bob haircut, sitting in a crowded stadium during a high-profile sporting event. She is wearing a premium black leather biker jacket over a dark top. She has a subtle, elegant smile and is holding a black coffee cup. The lighting is bright, natural daylight with a soft "stadium broadcast" glow. Technical specs: Shot on 35mm lens, f/1.8 for a shallow depth of field, blurred crowd in the background, 8K resolution, ultra-detailed skin texture, cinematic color grading, authentic candid expression.
+スタイリッシュなダークブラウンのボブヘアをした美しいアジア人女性が、注目度の高いスポーツイベントで混雑したスタジアムに座っている、超リアルな映画風ポートレート。彼女はダークカラーのトップスの上に高級感のある黒のレザージャケットを羽織っている。上品で控えめな微笑みを浮かべ、黒いコーヒーカップを手にしている。照明は明るい自然光で、スタジアムの放送用照明特有の柔らかな輝きを放っている。技術仕様：35 mm レンズで撮影、f/1.8 の絞りで被写界深度を浅くし、背景の観客をぼかしている。8 K 解像度、超高精細な肌の質感、映画のようなカラーグレーディング、自然でリアルな表情。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9a3109a53f4482501a228797ecffe43/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Stadium Portrait">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9a3109a53f4482501a228797ecffe43/thumbnails/thumbnail.jpg" width="600" alt="映画のようなスタジアムのポートレート">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4643)**
 
 **作者:** [K](https://x.com/ChillaiKalan__) | **ソース:** [Link](https://x.com/ChillaiKalan__/status/2054090067187302757) | **公開日:** May 12, 2026
 
 ---
-### Stadium Zombie Horror Transformation
+### スタジアムでのゾンビ・ホラー変身
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A horror-themed transformation prompt where a stadium fan glitched and turns into a terrifying zombie during a live broadcast.
+> スタジアムの観客がライブ中継中にグリッチを起こし、恐ろしいゾンビへと変貌するホラーテーマのプロンプト。
 
 #### 📝 プロンプト
 
 ```
-Cinematic, high-fidelity shot of a beautiful young woman with long black hair sitting in a crowded baseball stadium. She is wearing a white off-the-shoulder 'Bears' crop top and holding an iced coffee. Beside her, a man with a red headband looks at her with concern, asking 'Are you okay?' The atmosphere is bright and realistic, mimicking a live TV sports broadcast with a scoreboard in the top left corner. Suddenly, the woman’s body glitches and contorts. Her head snaps back and her face undergoes a horrific transformation into a zombie. Her skin becomes pale and veiny, her eyes turn a glowing demonic red, and her jaw distends unnaturally. The scene shifts from a daytime stadium to a dark, chaotic night game. She leans over and bites the man's neck, blood spraying. The final shot is a terrifying close-up of the zombie woman screaming into the camera with a wide, rotting mouth and sharp teeth. High-intensity horror aesthetic, jump-scare pacing, and hyper-realistic gore.
+満員の野球スタジアムに座る、黒髪の美しい若い女性を捉えた映画のような高精細ショット。彼女は白いオフショルダーの「Bears」クロップトップを着て、アイスコーヒーを持っている。隣では赤いヘッドバンドをした男性が心配そうに彼女を見つめ、「大丈夫？」と尋ねている。雰囲気は明るくリアルで、左上にスコアボードが表示されたテレビのスポーツ中継を模している。突然、女性の体がグリッチを起こして歪み始める。彼女の頭が後ろに反り返り、顔が恐ろしいゾンビへと変貌する。肌は青白く血管が浮き上がり、目は不気味な赤色に光り、顎が不自然に外れる。シーンは昼のスタジアムから、暗く混沌とした夜の試合へと切り替わる。彼女は身を乗り出して男性の首に噛みつき、血が飛び散る。ラストショットは、腐敗した大きな口と鋭い歯でカメラに向かって叫ぶゾンビ化した女性の恐ろしいクローズアップ。高強度のホラー美学、ジャンプスケアのテンポ、そして超リアルなゴア表現。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb06aea1bc0c3d6af952617f59871eca/thumbnails/thumbnail.jpg" width="600" alt="Stadium Zombie Horror Transformation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb06aea1bc0c3d6af952617f59871eca/thumbnails/thumbnail.jpg" width="600" alt="スタジアムでのゾンビ・ホラー変身">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4671)**
 
 **作者:** [Kashberg](https://x.com/Kashberg_0) | **ソース:** [Link](https://x.com/Kashberg_0/status/2054088000754381260) | **公開日:** May 12, 2026
 
 ---
-### POV F1 Racing Video
+### F1 レースの POV 動画
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A multi-scene timeline prompt for generating a cinematic F1 race sequence from a POV perspective, featuring rain, splashes, and high-speed overtaking.
+> 雨、水しぶき、高速での追い越しなど、POV 視点から映画のような F1 レースシーンを生成するためのマルチシーンタイムラインプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-0:00 - 0:03 Driving an F1 car from a POV perspective. It's raining, and water spray is flying.
+0:00 - 0:03 POV 視点での F1 マシンの運転。雨が降っており、水しぶきが舞っている。
 
-0:03 - 0:05 Close-up of tires driving while splashing water.
+0:03 - 0:05 水を跳ね上げながら走行するタイヤのクローズアップ。
 
-0:05 - 0:08 Running neck-and-neck and extremely close with another vehicle.
+0:05 - 0:08 他の車両と極めて接近した状態でデッドヒートを繰り広げる様子。
 
-0:08 - 0:11 Shot from above showing the vehicles racing.
+0:08 - 0:11 レース中の車両を捉えた俯瞰ショット。
 
-0:11 - 0:15 From the camera at the finish line, showing vehicles crossing the finish line one after another from the front. The camera height is at ground level for maximum impact.
+0:11 - 0:15 フィニッシュラインのカメラから、車両が次々とゴールする様子を正面から捉える。迫力を最大化するため、カメラの高さは地面レベルに設定。
 
-Do not use existing brands or company logos. Cinematic.
+既存のブランドや企業のロゴは使用しないでください。映画のような質感で。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e2447d9d57315f2c0604aea15a49979/thumbnails/thumbnail.jpg" width="600" alt="POV F1 Racing Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e2447d9d57315f2c0604aea15a49979/thumbnails/thumbnail.jpg" width="600" alt="F1 レースの POV 動画">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4677)**
 
 **作者:** [Lapis AI](https://x.com/LapisAi27677) | **ソース:** [Link](https://x.com/LapisAi27677/status/2054080416416673857) | **公開日:** May 12, 2026
 
 ---
-### Retro Skate Video Strawberry Shake Ad
+### レトロなスケートボード動画風ストロベリーシェイク広告
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 12-frame storyboard prompt for an early 2000s retro energy drink advertisement featuring skateboarding culture.
+> 2000 年代初頭のレトロなエナジードリンク広告をイメージした、スケートボードカルチャーがテーマの 12 フレームのストーリーボード用プロンプト。
 
 #### 📝 プロンプト
 
 ```
-Visual style & vibe: early 2000s skate video meets retro milkshake commercial energy. Raw, gritty, fast-paced. Fish-eye lenses, motion blur, high contrast, slightly faded nostalgic colors with warm pink-red strawberry tones. Use product image as the exact strawberry shake bottle/cup reference throughout every frame for perfect consistency. Create a 12-frame storyboard ad. Each frame should vary in shot type and together tell one cohesive story starring stylish western young adults. Frame ideas and energy: Fast skateboard push through a sunny suburban street while holding the strawberry shake. Close-up of condensation dripping from the cold shake in someone’s hand. Group of western friends laughing outside a diner parking lot at golden hour. Fish-eye low angle of a girl jumping off a skate ramp with the shake in frame. Messy whipped cream mustache moment inside a retro car. Slow-motion strawberry shake splash transition. Extreme close-up of strawberries blending into the shake. Friends passing the shake around at a late-night gas station stop. Motion blur running shot through a basketball court. Retro camcorder-style cheers shot with multiple shakes clinking together. Hero shot on asphalt with sunlight reflections and crushed ice around the product. Final cinematic freeze-frame of the main character drinking the strawberry shake while the group skates away in the background. Cinematic details: authentic western fashion, oversized hoodies, denim, skate shoes, crop tops, baggy jeans, silver jewelry, messy natural movement, candid expressions, imperfect camera framing, energetic youth culture atmosphere, commercial-quality realism.
+ビジュアルスタイルと雰囲気：2000 年代初頭のスケートボード動画とレトロなミルクシェイクの CM を掛け合わせたようなエネルギー。粗削りで、エッジが効いており、テンポが速い。魚眼レンズ、モーションブラー、高コントラスト、わずかに色あせたノスタルジックな色調に、温かみのあるピンクレッドのストロベリーカラー。すべてのフレームにおいて、製品画像をストロベリーシェイクのボトルやカップの正確なリファレンスとして使用し、完璧な一貫性を保つこと。12 フレームのストーリーボード広告を作成してください。各フレームでショットの種類を変え、スタイリッシュな欧米の若者たちが登場する一貫したストーリーを構成すること。フレームのアイデアと雰囲気：晴れた郊外の通りをストロベリーシェイクを手に持って勢いよくスケートボードで滑走する様子。誰かの手の中で冷たいシェイクから結露が滴るクローズアップ。ゴールデンアワーのダイナーの駐車場で笑い合う欧米の友人グループ。スケートランプからシェイクを持って飛び出す少女の魚眼ローアングルショット。レトロな車内でホイップクリームが口元についたお茶目な瞬間。ストロベリーシェイクが飛び散るスローモーションのトランジション。シェイクに混ざり合うイチゴの極端なクローズアップ。深夜のガソリンスタンドでシェイクを回し飲みする友人たち。バスケットコートを駆け抜けるモーションブラーのかかったショット。複数のシェイクで乾杯する、レトロなビデオカメラ風のショット。アスファルトの上で、日光の反射と砕いた氷に囲まれた製品のヒーローショット。最後は、ストロベリーシェイクを飲む主人公のシネマティックなフリーズフレームで、背景にはスケートボードで去っていくグループの姿。シネマティックな詳細：本格的な欧米のファッション、オーバーサイズのパーカー、デニム、スケートシューズ、クロップトップ、バギーパンツ、シルバーアクセサリー、自然で乱れた動き、飾らない表情、あえて不完全なカメラフレーミング、エネルギッシュな若者文化の雰囲気、CM クオリティのリアリズム。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/71c93cb8be444a2f783a4f72c707b6cd/thumbnails/thumbnail.jpg" width="600" alt="Retro Skate Video Strawberry Shake Ad">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/71c93cb8be444a2f783a4f72c707b6cd/thumbnails/thumbnail.jpg" width="600" alt="レトロなスケートボード動画風ストロベリーシェイク広告">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4647)**
 
 **作者:** [Sharon Riley](https://x.com/Just_sharon7) | **ソース:** [Link](https://x.com/Just_sharon7/status/2054080038665110015) | **公開日:** May 12, 2026
 
 ---
-### Gothic Anime Interdimensional Train Journey
+### ゴシックアニメ調：異次元を走る列車の旅
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex cinematic prompt for a 15-second anime sequence featuring a gothic character on a haunted interdimensional train with interior and exterior shots.
+> 幽霊が出る異次元の列車に乗ったゴシックなキャラクターが登場する、15 秒間のアニメーション制作に向けた複雑なシネマティックプロンプト。車内と車外の描写を含みます。
 
 #### 📝 プロンプト
 
 ```
-Use the uploaded image as the main visual reference. Maintain the exact same anime character design, facial features, black gothic outfit, silver sword, glowing blue lantern, cinematic color palette, haunted train aesthetic, and dark fantasy atmosphere throughout the entire sequence with strong character consistency.
-A 15-second cinematic anime movie sequence about a haunted interdimensional train traveling endlessly through impossible worlds at night.
-Opening moments: the mysterious heroine slowly walks through luxurious abandoned train corridors carrying a glowing blue lantern. The train interior is dark, elegant, and eerie with chandelier lights, velvet seats, cracked mirrors, drifting fog, and ghost passengers sitting motionless with hidden faces. Slow cinematic camera tracking shots, emotional close-ups, atmospheric tension, realistic reflections, subtle train movement, dramatic shadows.
-Outside the train windows appear surreal dimensions constantly changing while the train moves at high speed: underwater kingdoms with giant glowing whales, burning skies filled with floating ruins, frozen moonscapes under giant planets, endless cosmic voids, black holes swallowing light, glowing fantasy cities, dimensional storms, floating mountains, and massive portals opening in space.
-Include multiple cinematic exterior shots of the haunted train itself traveling through these impossible worlds. Show wide aerial views of the entire train crossing cosmic landscapes, flying through dimensional storms, passing giant glowing portals, racing across floating rails in space, and leaving glowing energy trails behind it. Massive cinematic scale, breathtaking environment transitions, detailed fantasy worlds, emotional sci-fi horror atmosphere. Alternate naturally between interior corridor scenes and exterior cinematic shots of the train moving through dimensions.
-Middle moments: the train suddenly begins shaking violently as reality distorts around the heroine. Lights flicker aggressively, papers fly through the corridor, windows crack, dimensional energy leaks into the train, ghost passengers slowly turn their heads toward her. Terrifying shadow creatures with glowing red eyes emerge from the walls and ceiling while distorted whispers echo through the train. Dramatic camera rotation, suspenseful pacing, cinematic tension, supernatural horror atmosphere.
-Final moments: the heroine slowly draws her glowing silver sword and launches into explosive cinematic anime combat inside the moving train. Fast fluid sword choreography, sparks flying, supernatural energy effects, shattered glass, slow motion attacks, intense close-ups, dynamic camera movement, dimensional storms visible outside the windows, emotional intensity, masterpiece anime movie quality, ultra detailed animation, realistic anime motion, volumetric fog, cinematic depth of field, MAPPA and Violet Evergarden inspired visuals, high-budget fantasy horror film
+アップロードされた画像をメインの視覚的リファレンスとして使用してください。キャラクターデザイン、顔立ち、黒いゴシック調の衣装、銀の剣、青く光るランタン、シネマティックなカラーパレット、幽霊列車の美学、ダークファンタジーの雰囲気を、一貫性を保ちながらシークエンス全体で維持してください。
+夜の闇の中、あり得ない世界を果てしなく走り続ける幽霊列車の 15 秒間のシネマティックなアニメーション映像です。
+冒頭：謎めいたヒロインが、青く光るランタンを手に、豪華だが打ち捨てられた列車の廊下をゆっくりと歩きます。車内は暗く、優雅で不気味な雰囲気が漂い、シャンデリアの明かり、ベルベットの座席、ひび割れた鏡、漂う霧、そして顔を隠して動かない幽霊の乗客たちが描かれます。スローなシネマティック・トラッキングショット、感情的なクローズアップ、張り詰めた空気感、リアルな反射、かすかな列車の揺れ、ドラマチックな影を表現してください。
+車窓の外には、高速で移動する列車に合わせて絶えず変化する超現実的な次元が広がります。巨大なクジラが泳ぐ海中の王国、浮遊する廃墟で満たされた燃える空、巨大な惑星の下に広がる凍てついた月面、果てしない宇宙の虚無、光を飲み込むブラックホール、光り輝くファンタジー都市、次元の嵐、浮遊する山々、そして宇宙に開く巨大なポータルなどが次々と現れます。
+これらのあり得ない世界を旅する幽霊列車自体のシネマティックな外観ショットを複数含めてください。列車全体が宇宙の風景を横断し、次元の嵐を突き抜け、巨大な光るポータルを通過し、宇宙空間に浮かぶレールを駆け抜け、光るエネルギーの軌跡を残しながら進む様子を、広大な俯瞰ショットで捉えます。圧倒的なスケール感、息をのむような環境の変化、緻密なファンタジー世界、感情を揺さぶる SF ホラーの雰囲気を演出してください。車内の廊下のシーンと、次元を移動する列車の外観ショットを自然に交互に切り替えてください。
+中盤：ヒロインの周囲で現実が歪み始め、列車が激しく揺れ出します。照明が激しく点滅し、書類が廊下に舞い、窓ガラスが割れ、次元のエネルギーが車内に漏れ出し、幽霊の乗客たちがゆっくりと彼女の方へ顔を向けます。壁や天井からは赤い目をした恐ろしい影の怪物が現れ、歪んだ囁き声が列車内に響き渡ります。ドラマチックなカメラ回転、サスペンスフルなペース配分、シネマティックな緊張感、超自然的なホラーの雰囲気を強調してください。
+終盤：ヒロインがゆっくりと光る銀の剣を抜き、走行中の列車内で爆発的なシネマティック・アニメーション戦闘を開始します。流れるような速い剣の振り、飛び散る火花、超自然的なエネルギーエフェクト、砕け散るガラス、スローモーションの攻撃、緊迫したクローズアップ、ダイナミックなカメラワーク、窓の外に見える次元の嵐、感情的な激しさ。MAPPA や『ヴァイオレット・エヴァーガーデン』にインスパイアされた、マスターピース級のアニメ映画品質、超緻密なアニメーション、リアルな動き、ボリュメトリックフォグ、シネマティックな被写界深度を備えた、高予算のファンタジーホラー映画のような仕上がりを目指してください。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df6ae035c62a1516ecb843762fc4f4c1/thumbnails/thumbnail.jpg" width="600" alt="Gothic Anime Interdimensional Train Journey">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df6ae035c62a1516ecb843762fc4f4c1/thumbnails/thumbnail.jpg" width="600" alt="ゴシックアニメ調：異次元を走る列車の旅">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4637)**
 
 **作者:** [yusra.](https://x.com/chatgptpaglu) | **ソース:** [Link](https://x.com/chatgptpaglu/status/2054065454193275135) | **公開日:** May 12, 2026
 
 ---
-### Fantasy Gaming Quest Scene
+### ファンタジーゲームのクエストシーン
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt for a fantasy game scene featuring a character with a sun emblem and a glowing sword in a foggy street.
+> 霧の立ち込める通りで、太陽の紋章を身につけ光る剣を持つキャラクターが登場する、ファンタジーゲームシーンの動画プロンプト。
 
 #### 📝 プロンプト
 
 ```
-A fantasy gaming scene featuring SOLARIS, a character in a white cloak with a golden sun emblem, walking down a foggy cobblestone street while holding a glowing sword. The game's UI displays health and journey details. Capture the atmospheric design and character aesthetics."
+霧の立ち込める石畳の通りを歩く、黄金の太陽の紋章が入った白いマントをまとったキャラクター「SOLARIS」が登場するファンタジーゲームのシーン。ゲームの UI には体力や旅のステータスが表示されている。雰囲気のあるデザインとキャラクターの美学を捉えてください。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/530298991761f1462be8c39948a35fb1/thumbnails/thumbnail.jpg" width="600" alt="Fantasy Gaming Quest Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/530298991761f1462be8c39948a35fb1/thumbnails/thumbnail.jpg" width="600" alt="ファンタジーゲームのクエストシーン">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4662)**
 
 **作者:** [simply](https://x.com/kingofdairyque) | **ソース:** [Link](https://x.com/kingofdairyque/status/2054059461304811637) | **公開日:** May 12, 2026
 
 ---
-### Korean Woman Baseball Fan Cam
+### 韓国人女性野球ファンのファンカム
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt for generating a realistic Korean baseball broadcast fan cam sequence featuring a young woman in the stadium audience.
+> スタジアムの観客席にいる若い女性を捉えた、リアルな韓国プロ野球中継のファンカム映像を生成するための詳細なビデオプロンプト。
 
 #### 📝 プロンプト
 
 ```
-A young Korean woman sits naturally in the audience during a live baseball game. She appears calm and focused on the match. Fans around her wave cheering sticks and react to the game in a lively, authentic stadium environment. Real KBO telephoto broadcast camera style, shallow depth of field, subtle handheld micro shake, natural live TV framing, and authentic Korean stadium lighting with real broadcast overlays (scoreboard, team logos, sponsor graphics, compression artifacts). After a few seconds, she realizes the fan cam is focused on her. She slowly turns toward the camera with a shy, slightly surprised smile, gently tucks her hair behind her ear, then looks down briefly in an embarrassed way. Nearby fans notice and react naturally, smiling and laughing softly. Authentic stadium ambience with loud crowd noise, thunder sticks, announcer echo, and commentator presence. Korean commentator softly says: “와… 정말 아름다우시네요…” No cinematic look, no posing, no beauty filters, no dramatic lighting, no slow motion, no cuts, pure candid, unscripted live sports broadcast realism.
+野球の試合中、観客席に自然に座る若い韓国人女性。彼女は落ち着いた様子で試合に集中している。周囲のファンは応援バットを振り、活気あふれるリアルなスタジアムの雰囲気の中で試合に反応している。実際の KBO の望遠中継カメラのスタイル、浅い被写界深度、わずかな手持ちカメラの微細な揺れ、自然なライブ中継のフレーミング、そしてスコアボードやチームロゴ、スポンサーグラフィック、圧縮ノイズといった実際の放送オーバーレイを含む、本物の韓国スタジアムの照明。数秒後、彼女はファンカムが自分に向けられていることに気づく。恥ずかしそうに少し驚いた笑顔でゆっくりとカメラの方を向き、髪を耳にかけ、少し照れた様子で視線を落とす。近くのファンもそれに気づき、微笑んだり小さく笑ったりと自然に反応する。大音量の観客の歓声、応援バットの音、アナウンサーのエコー、実況の声などが混ざり合う、本物のスタジアムの臨場感。韓国人実況者が小声で「와… 정말 아름다우시네요…（わあ…本当に美しいですね…）」と呟く。映画のような演出やポーズ、美肌フィルター、ドラマチックな照明、スローモーション、カット割りは一切なし。台本のない、スポーツ中継のありのままのリアリズム。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1778655884919_ufjo9u_HIF5INrbEAA90q8.jpg" width="600" alt="Korean Woman Baseball Fan Cam">
+<img src="https://cms-assets.youmind.com/media/1778655884919_ufjo9u_HIF5INrbEAA90q8.jpg" width="600" alt="韓国人女性野球ファンのファンカム">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4650)**
 
 **作者:** [Eesha](https://x.com/MissDelulu9) | **ソース:** [Link](https://x.com/MissDelulu9/status/2054056420061098114) | **公開日:** May 12, 2026
 
 ---
-### KBO Baseball Broadcast Narrative
+### KBO 野球中継のナラティブ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex narrative prompt for a realistic Korean baseball broadcast scene featuring identity preservation and natural interaction.
+> アイデンティティの保持と自然なインタラクションを特徴とする、リアルな韓国野球中継シーンのための複雑なナラティブプロンプト。
 
 #### 📝 プロンプト
 
 ```
-Use the uploaded reference image as the strongest identity anchor. The woman must look like the exact same adult woman from the reference image, not a similar person. Preserve her exact facial identity with high priority: same soft oval face, same delicate jawline, same large expressive eyes, same eyelid shape, same glossy natural lips, same small refined nose, same pale smooth skin, and the same long dark wavy hair with soft layered framing around the face. Keep her appearance natural and realistic like a real Korean baseball broadcast capture. Create an ultra-realistic candid KBO baseball broadcast video scene during a lively night game. She is seated in the crowd beside her boyfriend, both wearing matching red-and-white baseball jerseys surrounded by energetic cheering fans. She casually watches the game while softly smiling and laughing with him in a completely natural way. No dialogue, no posing, no cinematic acting. The moment should feel accidental and authentic, like a real live TV broadcast camera briefly focusing on them. She lightly holds yellow cheering sticks and taps them together while reacting to the game. The boyfriend leans in naturally and they share a very short soft kiss lasting about one second, subtle and spontaneous, not overly romantic or dramatic. Immediately after the kiss, she notices the live stadium camera showing them on the giant screen. She becomes shy and slightly embarrassed for a brief moment, then gives a soft cute smile toward the camera while trying not to laugh. Her expression should feel genuine, candid, and unscripted, like a real fan unexpectedly caught on live television. Use realistic Korean baseball TV broadcast cinematography: long telephoto lens compression, slight handheld camera shake, subtle motion blur from cheering fans, realistic stadium lighting, shallow depth of field, authentic skin texture, soft live-broadcast sharpness, imperfect framing, natural crowd movement, true sports broadcast atmosphere, and realistic 16:9 live game composition.
+アップロードされた参照画像を最も強力なアイデンティティのアンカーとして使用してください。女性は、似たような別人ではなく、参照画像と全く同じ成人女性である必要があります。顔のアイデンティティを最優先で維持してください：同じ柔らかな卵型の顔、同じ繊細な顎のライン、同じ大きく表情豊かな目、同じまぶたの形、同じ艶のある自然な唇、同じ小さく洗練された鼻、同じ色白で滑らかな肌、そして顔周りにソフトなレイヤーが入った同じ長くダークなウェーブヘア。韓国の野球中継のキャプチャ画像のように、彼女の外見を自然かつリアルに保ってください。活気あふれるナイターゲーム中の、超リアルで自然な KBO 野球中継のビデオシーンを作成してください。彼女は彼氏の隣で観客席に座っており、二人ともお揃いの赤と白の野球ユニフォームを着て、熱狂的なファンの歓声に囲まれています。彼女は試合を何気なく見ながら、彼と完全に自然な様子で優しく微笑み、笑い合っています。セリフやポーズ、映画のような演技は不要です。その瞬間は、ライブテレビ中継のカメラが短時間彼らに焦点を当てたような、偶発的で本物らしい雰囲気である必要があります。彼女は黄色い応援スティックを軽く持ち、試合に反応しながらそれらを打ち鳴らします。彼氏が自然に身を乗り出し、二人は約 1 秒間の非常に短く柔らかなキスを交わします。それは過度にロマンチックやドラマチックなものではなく、さりげなく自発的なものです。キスをした直後、彼女は巨大スクリーンに自分たちが映っているライブスタジアムカメラに気づきます。彼女は一瞬恥ずかしそうに照れ、その後、笑いをこらえながらカメラに向かって優しくキュートな笑顔を見せます。彼女の表情は、ライブテレビで予期せず映し出された本物のファンのように、真実味があり、自然体で、台本のないものであるべきです。リアルな韓国野球テレビ中継の撮影技術を使用してください：長い望遠レンズによる圧縮効果、わずかな手持ちカメラの揺れ、歓声を上げるファンによる微妙なモーションブラー、リアルなスタジアム照明、浅い被写界深度、本物の肌の質感、ライブ中継特有の柔らかなシャープネス、不完全なフレーミング、自然な観客の動き、本物のスポーツ中継の雰囲気、そしてリアルな 16:9 のライブゲーム構図。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1778655878023_uubxwx_HIF470wakAALoz1.jpg" width="600" alt="KBO Baseball Broadcast Narrative">
+<img src="https://cms-assets.youmind.com/media/1778655878023_uubxwx_HIF470wakAALoz1.jpg" width="600" alt="KBO 野球中継のナラティブ">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4645)**
 
 **作者:** [Smiling Khan](https://x.com/AIwithkhan) | **ソース:** [Link](https://x.com/AIwithkhan/status/2054055909912084962) | **公開日:** May 12, 2026
 
 ---
-### Kitchen Scene Realistic Lifestyle Footage
+### キッチンでのリアルなライフスタイル映像
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A warm lifestyle video prompt of a young boy in a kitchen, including detailed scene settings and audio descriptions.
+> キッチンにいる少年の温かみのあるライフスタイル動画用プロンプト。詳細なシーン設定と音声描写を含みます。
 
 #### 📝 プロンプト
 
 ```
-Characters: A young boy, around 8–10 years old, wearing a casual t-shirt and shorts.
-Scene: A bright, tidy home kitchen with a stainless-steel refrigerator. Late afternoon natural light streaming through a window.
-Style: Warm, realistic family-life footage, soft natural tones, stable and clean.
-Lighting: Warm afternoon natural light, soft fill from kitchen overhead lights.
-Audio: Refrigerator hum, cold air escape, fridge seal pop, ice-cold bottle being grabbed, fizz, satisfied gulp sounds, quiet ambient kitchen.
+登場人物：8 ～ 10 歳くらいの少年。カジュアルな T シャツとショートパンツを着用。
+シーン：明るく整頓された家庭のキッチン。ステンレス製の冷蔵庫がある。午後の遅い時間、窓から自然光が差し込んでいる。
+スタイル：温かみのあるリアルな家族の日常映像。ソフトな自然の色調で、安定感がありクリーンな映像。
+照明：午後の温かい自然光。キッチンの天井照明による柔らかなフィルライト。
+音声：冷蔵庫の駆動音、冷気が漏れる音、冷蔵庫のドアが開く音、冷えたボトルを掴む音、炭酸のシュワシュワという音、満足げに飲む音、静かなキッチンの環境音。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa604d218df3bc82b0a15e57d8b80de2/thumbnails/thumbnail.jpg" width="600" alt="Kitchen Scene Realistic Lifestyle Footage">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa604d218df3bc82b0a15e57d8b80de2/thumbnails/thumbnail.jpg" width="600" alt="キッチンでのリアルなライフスタイル映像">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4639)**
 
 **作者:** [RoboRocks](https://x.com/malagojr) | **ソース:** [Link](https://x.com/malagojr/status/2054054710131245389) | **公開日:** May 12, 2026
 
 ---
-### Emotional Neighborhood Short Film
+### エモーショナルな近所のショートフィルム
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An emotional narrative prompt for a 15-second short film transitioning from a sunset friendship scene to a hospital emergency.
+> 夕暮れの友情シーンから病院の緊急事態へと展開する、15 秒間のショートフィルム用エモーショナルなナラティブプロンプト。
 
 #### 📝 プロンプト
 
 ```
-Create a cinematic 15-second emotional short film in ultra-realistic 8K quality. The scene begins with four close friends laughing together in a small neighborhood street during sunset. Suddenly, one friend receives a heartbreaking phone call that his mother has become seriously ill. His face turns emotional and worried while the other three friends immediately support him. The group quickly rushes his sick mother into a car and drives through the city at night with dramatic lighting and realistic reflections. Final scene shows them arriving at a modern hospital emergency entrance, helping the weak mother on a wheelchair while doctors and nurses rush forward. Emotional atmosphere, realistic human expressions, cinematic camera angles, soft dramatic music vibe, ultra-detailed faces, realistic hospital environment, volumetric lighting, depth of field, movie-like storytelling, highly emotional and inspirational ending, 8K ultra HD, masterpiece quality.
+超リアルな 8K 画質で、15 秒間の映画のようなエモーショナルなショートフィルムを作成してください。シーンは、夕暮れ時の近所の小さな通りで、4 人の親友が笑い合っているところから始まります。突然、一人の友人が母親が重病になったという悲痛な電話を受け取ります。彼の表情は感情的で不安に満ちていますが、他の 3 人の友人がすぐに彼を支えます。グループは急いで病気の母親を車に乗せ、ドラマチックな照明とリアルな反射が映り込む夜の街を駆け抜けます。最後のシーンでは、彼らが近代的な病院の救急入り口に到着し、車椅子に乗った衰弱した母親を助け、医師や看護師が駆け寄る様子が描かれます。エモーショナルな雰囲気、リアルな人間の表情、映画のようなカメラアングル、柔らかくドラマチックな音楽のバイブス、細部まで描き込まれた顔、リアルな病院の環境、ボリュームライト、被写界深度、映画のようなストーリーテリング、非常に感情的で感動的な結末、8K ウルトラ HD、傑作品質。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b7b033fe904fcadcb7857df2f9dcb9c/thumbnails/thumbnail.jpg" width="600" alt="Emotional Neighborhood Short Film">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b7b033fe904fcadcb7857df2f9dcb9c/thumbnails/thumbnail.jpg" width="600" alt="エモーショナルな近所のショートフィルム">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4663)**
 
 **作者:** [Aya AI](https://x.com/AyaAitech) | **ソース:** [Link](https://x.com/AyaAitech/status/2054048060435746845) | **公開日:** May 12, 2026
 
 ---
-### Cyberpunk Samurai Tokyo Storm
+### サイバーパンク・サムライ：東京ストーム
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic script for an action-packed cyberpunk scene featuring a samurai in a rainy neon Tokyo intersection.
+> 雨の降るネオン輝く東京の交差点を舞台に、サムライが活躍するアクション満載のサイバーパンク・シネマティック・スクリプト。
 
 #### 📝 プロンプト
 
 ```
-Style: Ultra-cinematic cyberpunk realism, rainy neon Tokyo atmosphere, dramatic storm lighting, high-speed sword choreography, realistic tactical combat visuals, volumetric rain, slow-motion action bursts, film-grade color grading, intense emotional warrior tone, Blade Runner + samurai fusion aesthetic.
+スタイル：超シネマティックなサイバーパンク・リアリズム、雨のネオン東京の雰囲気、ドラマチックな嵐のライティング、高速の剣術アクション、リアルなタクティカル・コンバットのビジュアル、ボリューム感のある雨、スローモーションのアクションバースト、映画グレードのカラーグレーディング、激しい感情を秘めた戦士のトーン、『ブレードランナー』とサムライの融合美学。
 
-0–3s — Arrival Through Lightning
-Heavy rain floods a crowded Tokyo intersection at night. Neon signs flicker violently across wet streets. A sudden lightning strike splits the sky, and an ancient samurai appears kneeling in rising smoke, katana planted into the asphalt. Steam rises around him as the city freezes in shock.
+0～3秒 — 稲妻の中の降臨
+夜の混雑する東京の交差点に激しい雨が降り注ぐ。濡れた路面にネオンサインが激しく明滅する。突然、空を切り裂く稲妻とともに、古代のサムライが煙の中に膝をついて現れ、アスファルトに刀を突き立てる。街が衝撃で凍りつく中、彼の周囲から蒸気が立ち上る。
 
-3–6s — Encirclement
-Pedestrians step back in confusion and fear. Tactical soldiers rapidly form a perimeter around the intersection. Red laser sights cut through the rain in sharp lines. Loudspeakers crackle with commands. The samurai slowly rises, water streaming from his armor, completely calm amid chaos.
+3～6秒 — 包囲網
+歩行者たちが困惑と恐怖で後ずさりする。タクティカル・ソルジャーたちが素早く交差点を包囲する。赤いレーザーサイトが雨を切り裂き、鋭いラインを描く。スピーカーから命令が響く。サムライはゆっくりと立ち上がる。鎧から水が滴り落ちる中、彼は混沌の中で完全に冷静を保っている。
 
-6–9s — Silence Before Motion
-Close-up on the samurai’s eyes reflecting flashing police lights and drifting rain. Time feels suspended. Soldiers aim weapons, shouting fades into distortion. His hand tightens on the katana hilt. Rain droplets briefly hang midair as tension peaks.
+6～9秒 — 静寂の瞬間
+パトカーの明滅するライトと降りしきる雨を反射するサムライの瞳のクローズアップ。時間が止まったかのように感じられる。兵士たちが武器を向け、怒号が歪んで消えていく。彼の指が刀の柄を強く握りしめる。緊張が最高潮に達し、雨粒が空中で一瞬静止する。
 
-9–12s — Impossible Speed
-Explosive burst of action. The samurai moves with supernatural precision, slicing through incoming drones and dodging bullets in slow motion. Sparks, rain, and neon reflections collide across the frame. Each motion is fluid, silent, and controlled like a storm of steel.
+9～12秒 — 神速の動き
+爆発的なアクション。サムライは超自然的な精度で動き、飛来するドローンを切り裂き、スローモーションで銃弾を回避する。火花、雨、ネオンの反射がフレーム内で交錯する。一つひとつの動作は流れるようで、静寂を伴い、鋼の嵐のように制御されている。
 
-12–15s — Last Standing Warrior
-Wide cinematic shot of a destroyed intersection filled with disabled drones and damaged tactical vehicles. Flickering holographic signs glitch above the scene. The samurai stands alone in the center, unmoving, then slowly looks up at the towering Tokyo skyline as thunder rolls overhead.
+12～15秒 — 最後の戦士
+破壊された交差点のワイド・シネマティック・ショット。無力化されたドローンや損傷したタクティカル・ビークルが散乱している。頭上では明滅するホログラム看板がグリッチを起こしている。サムライは中央に一人、微動だにせず立ち尽くし、頭上で雷鳴が轟く中、ゆっくりとそびえ立つ東京のスカイラインを見上げる。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e512a8170c5fd7c64615e0bc8d93e00d/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Samurai Tokyo Storm">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e512a8170c5fd7c64615e0bc8d93e00d/thumbnails/thumbnail.jpg" width="600" alt="サイバーパンク・サムライ：東京ストーム">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4672)**
 
 **作者:** [Ali](https://x.com/aiwithaly) | **ソース:** [Link](https://x.com/aiwithaly/status/2054044617541103678) | **公開日:** May 12, 2026
 
 ---
-### Retro Anime Cooking Kitchen Scenes
+### レトロアニメ風のキッチン調理シーン
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A highly detailed multi-scene prompt for generating 90s-style cel-shaded anime cooking sequences, focusing on hand movements and the texture of ingredients.
+> 90 年代風のセルルックアニメの調理シーンを生成するための、手元の動きや食材の質感にこだわった高精細なマルチシーン用プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Japanese old full-color TV anime style. Texture of cel-shaded anime from the 1990s to early 2000s. Hand-drawn backgrounds, soft outlines, slightly low resolution feel, film grain, and slight color bleeding. A series of hand-focused scenes of preparing a meal in the kitchen from a nostalgic slice-of-life anime. Show only hands, ingredients, knives, cutting boards, frying pans, plates, and steam, without showing the person's face or full body. Maintain consistency in hand shape, clothing sleeves, cooking utensils, ingredient appearance, and the layout of kitchen items across all scenes. Draw as a natural scene from a life-themed anime, not like a cooking show. Live-action, 3D, modern VFX, and excessive lens flares are prohibited. A slightly jittery screen characteristic of cel animation. Camera focuses on calm fixed shots, gentle zooms, and quiet pans. The tempo is not too fast, just enough to make the hand movements look pleasant.
+日本の昔のフルカラーテレビアニメ風。1990 年代から 2000 年代初頭のセルルックアニメの質感。手描き背景、柔らかな輪郭、わずかに解像度が低いような感覚、フィルムグレイン、わずかな色のにじみ。ノスタルジックな日常系アニメのキッチンで食事を準備する、手元に焦点を当てた一連のシーン。人物の顔や全身は映さず、手、食材、包丁、まな板、フライパン、皿、湯気のみを描写すること。すべてのシーンを通じて、手の形、袖の服、調理器具、食材の見た目、キッチンアイテムの配置の一貫性を保つこと。料理番組のような演出ではなく、生活感のあるアニメの自然なワンシーンとして描くこと。実写、3D、現代的な VFX、過度なレンズフレアは禁止。セルアニメ特有のわずかな画面の揺れ。カメラは落ち着いた固定ショット、緩やかなズーム、静かなパンに焦点を当てる。テンポは速すぎず、手の動きが心地よく見える程度にすること。
 
-[Style]
-Nostalgic Japanese home anime. Evening kitchen. Outside the window is slightly blue, while the interior has warm yellow lighting. Wooden cutting board, white plates, domestic kitchen knife, small frying pan, old kitchen. Background is hand-drawn watercolor style, hands and ingredients are in cel-shaded style. Simple two-tone shading. Soft lighting. Carefully depict steam, knife movements, egg texture, breadcrumbs, tomato cross-sections, etc. Generally quiet, a bit nostalgic, and feels lived-in.
+[スタイル]
+ノスタルジックな日本の家庭アニメ。夕方のキッチン。窓の外は少し青みがかっており、室内は温かみのある黄色い照明。木製のまな板、白い皿、家庭用包丁、小さなフライパン、古いキッチン。背景は手描きの水彩画風、手と食材はセルルック風。シンプルな 2 トーンの陰影。柔らかな照明。湯気、包丁の動き、卵の質感、パン粉、トマトの断面などを丁寧に描写すること。全体的に静かで少し懐かしく、生活感のある雰囲気。
 
-[Scenes]
-Instead of showing a single dish being completed, capture handiwork within meal preparation as five independent scenes. Show different ingredients and actions to create a slice-of-life hand animation.
+[シーン]
+1 つの料理が完成する様子を見せるのではなく、食事準備の中の手作業を 5 つの独立したシーンとして捉える。異なる食材と動作を見せることで、日常系アニメの手元アニメーションを作成する。
 
 [scene1]
-Shot from directly above the cutting board. Only the hands are shown, slowly cutting a red tomato with a knife. Each time the blade enters, the flesh and seeds are visible, revealing a juicy cross-section. The sliced tomatoes are lined up bit by bit on the cutting board.
+まな板の真上からのショット。手元のみを映し、包丁で赤いトマトをゆっくりと切る。刃が入るたびに果肉と種が見え、ジューシーな断面が明らかになる。スライスされたトマトがまな板の上に少しずつ並べられていく。
 
 [scene2]
-Close-up from a slight angle. Hold an egg with one hand, tap it lightly against the rim of a bowl, then crack it with both hands. The shell opens, and the yolk and white drop out. Carefully depict the stringy texture of the egg and the movement inside the bowl.
+斜めからのクローズアップ。片手で卵を持ち、ボウルの縁に軽く当ててから、両手で割る。殻が開き、黄身と白身が落ちる。卵の粘り気のある質感と、ボウルの中での動きを丁寧に描写する。
 
 [scene3]
-Hand shot from a diagonal front. Slowly slicing bread with a knife. The soft bread sinks slightly, and fine air bubbles are visible on the cut surface. Breadcrumbs fall slightly onto the wooden cutting board.
+斜め前方からの手元のショット。包丁でパンをゆっくりとスライスする。柔らかいパンがわずかに沈み込み、断面には細かい気泡が見える。パン粉が木製のまな板の上に少しこぼれ落ちる。
 
 [scene4]
-Close-range shot next to the stove. Beaten eggs are poured into a frying pan and gently mixed with cooking chopsticks. The soft-boiled parts and cooked parts slowly change shape. Steam rises, and warm light hits the edge of the pan.
+コンロ横からの近距離ショット。溶き卵がフライパンに注がれ、菜箸で優しく混ぜられる。半熟の部分と火が通った部分がゆっくりと形を変えていく。湯気が立ち上り、フライパンの縁に温かい光が当たる。
 
 [scene5]
-Fixed shot near the table. Only the hands are shown, quietly arranging the cut tomatoes, egg dish, and sliced bread onto a plate. Finally, a cup is gently placed, and steam rises. Does not show the completion of the meal in an exaggerated way, but ends with a quiet lingering sense of preparation being complete.
+テーブル付近の固定ショット。手元のみを映し、切ったトマト、卵料理、スライスしたパンを皿に静かに盛り付ける。最後にカップが優しく置かれ、湯気が立ち上る。料理の完成を大げさに誇張するのではなく、準備が整ったという静かな余韻を残して終わる。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5bcfb1df3015b6592119cb6a2843a902/thumbnails/thumbnail.jpg" width="600" alt="Retro Anime Cooking Kitchen Scenes">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5bcfb1df3015b6592119cb6a2843a902/thumbnails/thumbnail.jpg" width="600" alt="レトロアニメ風のキッチン調理シーン">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4678)**
 
 **作者:** [GENEL | AIを用いた動画制作](https://x.com/genel_ai) | **ソース:** [Link](https://x.com/genel_ai/status/2054032816883535954) | **公開日:** May 12, 2026
 
 ---
-### Instant Noodle Commercial Sequence
+### インスタントラーメンの CM シーケンス
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for a professional commercial showing a woman preparing and enjoying instant noodles in a stylish kitchen.
+> スタイリッシュなキッチンで女性がインスタントラーメンを作り、楽しむ様子を描いた、プロ仕様の CM 用シネマティック動画プロンプト。
 
 #### 📝 プロンプト
 
 ```
-A woman with natural blonde hair, glowing fair skin, refined features, and sparkling light blue eyes stands in a stylish modern kitchen. She picks up a premium instant noodle pack from the counter and smiles with anticipation. Steam rises as she places the noodles into boiling water. She sprinkles seasoning and pours rich sauce into a bowl. She stirs the noodles, then lifts them gracefully with chopsticks. In a close-up, she takes a bite, closes her eyes, and smiles with genuine delight. Final hero shot shows the steaming bowl beside the package with elegant text: “A Bold Flavor Worth Savoring!” Cinematic camera movements, soft natural sunlight, rich food textures, professional commercial quality.
+自然なブロンドヘア、輝くような白い肌、洗練された顔立ち、そしてキラキラと輝くライトブルーの瞳を持つ女性が、スタイリッシュでモダンなキッチンに立っている。彼女はカウンターから高級インスタントラーメンのパッケージを手に取り、期待に満ちた笑顔を見せる。沸騰したお湯に麺を入れると、湯気が立ち上る。彼女は調味料を振りかけ、濃厚なソースを器に注ぐ。麺をかき混ぜ、箸で優雅に持ち上げる。クローズアップでは、彼女が一口食べ、目を閉じて心からの喜びを浮かべて微笑む。最後のヒーローショットでは、パッケージの横に湯気の立つ器が置かれ、エレガントなテキストで「味わう価値のある大胆な風味！」と表示される。シネマティックなカメラワーク、柔らかな自然光、豊かな料理の質感、プロの CM クオリティ。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f1c22330999456a69136b0da6e40365/thumbnails/thumbnail.jpg" width="600" alt="Instant Noodle Commercial Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f1c22330999456a69136b0da6e40365/thumbnails/thumbnail.jpg" width="600" alt="インスタントラーメンの CM シーケンス">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4653)**
 
@@ -2980,6 +2983,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-13T10:48:15.455Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-13T14:56:52.332Z</sub>
 
 </div>
