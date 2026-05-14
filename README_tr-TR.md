@@ -361,34 +361,34 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
-### Cinematic Soldier Transition Sequence
+### Sinematik Asker Geçiş Sekansı
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A complex multi-scene video prompt that transitions from a real-life handheld phone recording to a high-fidelity 3D animation of a tactical soldier with particle effects and heavy bass synchronization.
+> Gerçek hayattan elde çekilmiş bir telefon kaydından, parçacık efektleri ve yoğun bas senkronizasyonu içeren yüksek kaliteli bir taktik asker 3D animasyonuna geçiş yapan karmaşık, çok sahneli bir video istemi.
 
 #### 📝 İstem
 
 ```
-0:00 - 0:04: Spin and Showoff
-Visual Composition: The video starts with a vertical handheld phone shot. A bright computer monitor occupies the frame in a dim room with beige curtains. The monitor shows a character selection screen from a video game. The overall lighting is a mix of cool blue glow from the screen and soft, diffused ambient light. 
-Subject: A digital avatar of a soldier wearing a skull mask is visible on screen. The real-life subject is a man sitting in a black leather office chair. He wears a black beanie pressed down to his eyebrows, a thick red button-down jacket over a black shirt, and a small silver hoop earring in his left ear.
-Action: The man kicks off the ground to spin the office chair 90 degrees to the right to face the camera. His posture is rigid and confident. As the chair slows, he points his left index finger at the camera, leaning forward. His expression remains cold and motionless, locking eyes with the viewer.
-Camera: Initial slight shaking consistent with handheld shooting. Quick pan to follow the rotation. Soft focus during movement before locking back onto his face.
+0:00 - 0:04: Dönüş ve Gösteri
+Görsel Kompozisyon: Video, dikey bir elde çekilmiş telefon görüntüsüyle başlar. Loş bir odada, bej perdelerin önünde parlak bir bilgisayar monitörü kadrajı kaplar. Monitörde bir video oyununun karakter seçim ekranı görünmektedir. Genel aydınlatma, ekrandan gelen soğuk mavi ışık ile yumuşak, dağılmış ortam ışığının bir karışımıdır.
+Özne: Ekranda kurukafa maskesi takan bir askerin dijital avatarı görünür. Gerçek hayattaki özne ise siyah deri bir ofis koltuğunda oturan bir adamdır. Kaşlarına kadar indirilmiş siyah bir bere, siyah bir tişörtün üzerine giyilmiş kalın kırmızı düğmeli bir ceket ve sol kulağında küçük gümüş bir halka küpe takmaktadır.
+Eylem: Adam, ofis koltuğunu kameraya bakacak şekilde 90 derece sağa döndürmek için yerden destek alarak kendini iter. Duruşu sert ve kendinden emindir. Koltuk yavaşlarken, öne doğru eğilerek sol işaret parmağıyla kamerayı gösterir. İfadesi soğuk ve hareketsiz kalır, izleyiciyle göz göze gelir.
+Kamera: Elde çekimle tutarlı hafif bir sarsıntı. Dönüşü takip eden hızlı bir kaydırma (pan). Hareket sırasında yumuşak odaklama, ardından tekrar yüzüne odaklanma.
 
-0:04 - 0:07: Sparks and Iron Fist
-Visual Composition: A hard cut transitions to an ultra-realistic, dark 3D animated cinematic environment in a gloomy urban alley. Lit by faint moonlight and glowing embers.
-Subject: A massive tactical soldier in heavy armor wearing a full-face metallic gold skull mask and complex exoskeleton gear with gold plates.
-Action: The soldier stands imposingly. His right hand in a heavy mechanical gauntlet clenches into a fist. As the metal plates grind, a burst of golden sparks and digital particles explodes from the knuckles and fades in the air.
-Camera: Simulated handheld drift. Shallow depth of field keeping the sparks and mask in sharp focus.
+0:04 - 0:07: Kıvılcımlar ve Demir Yumruk
+Görsel Kompozisyon: Sert bir kesişle, loş bir şehir sokağında geçen, ultra gerçekçi ve karanlık 3D animasyonlu sinematik bir ortama geçiş yapılır. Ortam, hafif ay ışığı ve parlayan közlerle aydınlatılmıştır.
+Özne: Tam yüzü kaplayan metalik altın rengi kurukafa maskesi ve altın plakalarla süslü karmaşık dış iskelet teçhizatı giyen, ağır zırhlı devasa bir taktik asker.
+Eylem: Asker heybetli bir şekilde durmaktadır. Ağır mekanik bir eldiven içindeki sağ eli yumruk olur. Metal plakalar birbirine sürtünürken, eklemlerden altın rengi kıvılcımlar ve dijital parçacıklar patlayarak havada dağılır.
+Kamera: Simüle edilmiş elde çekim sarsıntısı. Kıvılcımları ve maskeyi keskin bir şekilde odaklayan sığ alan derinliği.
 
-0:07 - 0:11: Static Deterrence
-Visual Composition: A different angle in the same dark 3D environment. Stronger shadows on the gold-black armor with floating digital dust.
-Action: The soldier sits heavily on concrete debris, leaning forward with elbows on thighs. The movement shifts to internal tension with a 'standby breathing cycle' showing rhythmic chest movement. His head tilts down slowly while the mask's eye sockets remain locked on the camera.
-Camera: Medium close-up, slightly below eye level for a dominant feel, with a subtle digital zoom towards the mask.
+0:07 - 0:11: Statik Caydırıcılık
+Görsel Kompozisyon: Aynı karanlık 3D ortamda farklı bir açı. Altın-siyah zırh üzerinde daha güçlü gölgeler ve havada uçuşan dijital tozlar.
+Eylem: Asker, beton kalıntıları üzerine ağır bir şekilde oturur, dirseklerini dizlerine dayayarak öne doğru eğilir. Hareket, ritmik göğüs hareketleriyle 'bekleme nefes döngüsüne' geçerek içsel bir gerilime dönüşür. Maskenin göz yuvaları kameraya kilitli kalırken, başı yavaşça aşağı doğru eğilir.
+Kamera: Orta yakın çekim, baskın bir his için göz hizasının biraz altından, maskeye doğru hafif bir dijital yakınlaştırma.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b70c1358fefbc3910713412bbfac0af/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Soldier Transition Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b70c1358fefbc3910713412bbfac0af/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Asker Geçiş Sekansı">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4756)**
 
@@ -414,25 +414,25 @@ Lütfen 'Dr. Slump' (Arale) tarzında kısa bir animasyon filmi oluşturun: Anim
 **Yazar:** [migrok](https://x.com/migrok293703) | **Kaynak:** [Link](https://x.com/migrok293703/status/2054686752153960534) | **Yayınlandı:** May 13, 2026
 
 ---
-### Prompt:
-VIDEO RECONSTRUCTION METADATA
-- Duration: 
+### İstem:
+VİDEO YENİDEN OLUŞTURMA METADATA
+- Süre: 
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
 #### 📝 İstem
 
 ```
-VIDEO RECONSTRUCTION METADATA
-- Duration: 0:15
-- Aspect Ratio / Format: Vertical smartphone video, 9:16
-- Visual Style: Casual amateur social media footage, bright natural daylight
-- Setting: A balcony with a metal railing overlooking a slanted, red and grey corrugated
+VİDEO YENİDEN OLUŞTURMA METADATA
+- Süre: 0:15
+- En Boy Oranı / Format: Dikey akıllı telefon videosu, 9:16
+- Görsel Stil: Günlük amatör sosyal medya çekimi, parlak doğal gün ışığı
+- Ortam: Eğik, kırmızı ve gri oluklu bir çatıya bakan metal korkuluklu bir balkon
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/214050c02f0552985bbb4dcc94f2a40f/thumbnails/thumbnail.jpg" width="600" alt="Prompt:
-VIDEO RECONSTRUCTION METADATA
-- Duration: ">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/214050c02f0552985bbb4dcc94f2a40f/thumbnails/thumbnail.jpg" width="600" alt="İstem:
+VİDEO YENİDEN OLUŞTURMA METADATA
+- Süre: ">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4746)**
 
@@ -458,17 +458,17 @@ Günümüz dünyasında kurt adamlar evrimleşerek dönüşümlerini kontrol etm
 **Yazar:** [Sparkful](https://x.com/SparkfulArt) | **Kaynak:** [Link](https://x.com/SparkfulArt/status/2054659473269297517) | **Yayınlandı:** May 13, 2026
 
 ---
-### Prompt : Create a 15 second high energy continuous
+### İstem: 15 saniyelik yüksek enerjili kesintisiz bir çekim oluştur
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
 #### 📝 İstem
 
 ```
-Create a 15 second high energy continuous shot featuring a confident male subject moving through rapidly evolving eras. The camera follows him in one fluid motion as he runs, spins, slides, and jumps forward while both his outfit and the environment transform around him.
+Hızla değişen dönemler boyunca ilerleyen öz güvenli bir erkek figürünün yer aldığı, 15 saniyelik yüksek enerjili ve kesintisiz bir çekim oluştur. Kamera, karakter koşarken, dönerken, Slides yaparken ve ileriye doğru zıplarken onu tek bir akıcı hareketle takip etsin; bu sırada hem kıyafeti hem de çevresi sürekli dönüşsün.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f1ff6652169cb3933b5d288bcc6d9ed/thumbnails/thumbnail.jpg" width="600" alt="Prompt : Create a 15 second high energy continuous">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f1ff6652169cb3933b5d288bcc6d9ed/thumbnails/thumbnail.jpg" width="600" alt="İstem: 15 saniyelik yüksek enerjili kesintisiz bir çekim oluştur">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4748)**
 
@@ -516,19 +516,19 @@ Stil: ultra gerçekçi sinematik gizem macerası, kutsal atmosfer, gerçekçi oy
 **Yazar:** [LudovicCreator](https://x.com/LudovicCreator) | **Kaynak:** [Link](https://x.com/LudovicCreator/status/2054626505494339770) | **Yayınlandı:** May 13, 2026
 
 ---
-### 3D Rotating Earth in Space
+### Uzayda 3D Dönen Dünya
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for a realistic 360-degree rotation of the Earth with high-detail textures and NASA-style rendering.
+> Yüksek detaylı dokular ve NASA tarzı render ile gerçekçi 360 derecelik bir Dünya rotasyonu için sinematik video istemi.
 
 #### 📝 İstem
 
 ```
-Cinematic 3D realistic Earth floating in deep space, slow smooth 360-degree rotation, highly detailed blue oceans, green continents, white clouds moving softly, glowing atmosphere, realistic sunlight reflection, subtle moonlight, stars and nebula background, soft lens flare, futuristic sci-fi aesthetic, ultra realistic textures, smooth camera orbit around the planet, dramatic lighting, high detail NASA-style render, premium cinematic animation, seamless loop, 4K, majestic and immersive space scene
+Derin uzayda süzülen sinematik 3D gerçekçi Dünya, yavaş ve pürüzsüz 360 derece dönüş, yüksek detaylı mavi okyanuslar, yeşil kıtalar, hafifçe hareket eden beyaz bulutlar, parlayan atmosfer, gerçekçi güneş ışığı yansıması, hafif ay ışığı, yıldızlar ve bulutsu arka planı, yumuşak lens parlaması, fütüristik bilim kurgu estetiği, ultra gerçekçi dokular, gezegen etrafında pürüzsüz kamera yörüngesi, dramatik aydınlatma, yüksek detaylı NASA tarzı render, premium sinematik animasyon, kesintisiz döngü, 4K, görkemli ve sürükleyici uzay sahnesi
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a6a481495c2274e241587b09e27e5342/thumbnails/thumbnail.jpg" width="600" alt="3D Rotating Earth in Space">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a6a481495c2274e241587b09e27e5342/thumbnails/thumbnail.jpg" width="600" alt="Uzayda 3D Dönen Dünya">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4731)**
 
@@ -554,19 +554,19 @@ Stil: Hiper gerçekçi canlı NBA yayın görüntüleri, otantik televizyon spor
 **Yazar:** [Keskin](https://x.com/craftian_keskin) | **Kaynak:** [Link](https://x.com/craftian_keskin/status/2054621314875265142) | **Yayınlandı:** May 13, 2026
 
 ---
-### 90s Anime Telekinetic Supervillain
+### 90'lar Anime Tarzı Telekinetik Süper Kötü
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 15-second anime-style prompt featuring a villain moving a mountain with their mind, ending with a massive tsunami.
+> Bir dağ kütlesini zihniyle hareket ettiren ve devasa bir tsunamiyle sona eren, 15 saniyelik anime tarzı bir video istemi.
 
 #### 📝 İstem
 
 ```
-90s anime style. 15 second animation clip. Telekinetic powered super villain dressed in black and gold futuristic tactical clothing using their immense power to move a literal mountain with their mind. First the villain needs to power up, then cracks form in the mountain base, then the mountain breaks free and is lifted high above the ocean before being thrown into the water to create a massive tsunami type wave. Camera: tracking shot with multiple angles and quick cuts for emphasis. Constraints: no voice-overs, ominous tone.
+90'lar anime tarzı. 15 saniyelik animasyon klibi. Siyah ve altın rengi fütüristik taktiksel kıyafetler giymiş, muazzam gücünü kullanarak koca bir dağı zihniyle hareket ettiren telekinetik güçlere sahip süper kötü karakter. Önce kötü karakter güç toplamalı, ardından dağın tabanında çatlaklar oluşmalı, dağ yerinden kopup okyanusun üzerinde yükselmeli ve suya fırlatılarak devasa bir tsunami dalgası yaratmalıdır. Kamera: Vurgu için çoklu açılar ve hızlı kesimlerle takip çekimi. Kısıtlamalar: seslendirme yok, uğursuz bir ton.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56b889a17b86372ee3e3ce6ed55afb71/thumbnails/thumbnail.jpg" width="600" alt="90s Anime Telekinetic Supervillain">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56b889a17b86372ee3e3ce6ed55afb71/thumbnails/thumbnail.jpg" width="600" alt="90'lar Anime Tarzı Telekinetik Süper Kötü">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4738)**
 
@@ -592,38 +592,38 @@ ESPN yayın kamerası, saha kenarında ön sırada oturan 20'li yaşlarındaki g
 **Yazar:** [Jack](https://x.com/j_smeaton99) | **Kaynak:** [Link](https://x.com/j_smeaton99/status/2054608474743656516) | **Yayınlandı:** May 13, 2026
 
 ---
-### Cinematic Metropolitan Apocalypse Sequence
+### Sinematik Metropol Kıyamet Sekansı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed video prompt for a large-scale disaster scene featuring seismic upheaval, glacial floods, and colossal funnel clouds destroying a city.
+> Sismik sarsıntılar, buzul selleri ve şehri yerle bir eden devasa hortumları içeren, büyük ölçekli bir felaket sahnesi için oldukça detaylı bir video istemi.
 
 #### 📝 İstem
 
 ```
-A cinematic tracking shot capturing a simultaneous tectonic, atmospheric, and oceanic collapse. The ground erupts in a violent seismic upheaval, creating a massive jagged canyon that splits a dense metropolitan grid in half. Simultaneously, a colossal wall of glacial seawater surges through the city streets, flash freezing everything it touches into crystalline structures. Emerging from the heart of the freezing flood, a gargantuan multi-vortex funnel cloud darkened by pulverized debris and glowing with internal orange lightning rips the facade off a steel skyscraper, spiraling shards of glass and heavy machinery into a chaotic orbit. The camera executes a dynamic, low altitude fly through beneath a bridge as it buckles and snaps, weaving through flying wreckage and swirling snow squalls. The lighting transitions from a dark, bruised violet sky to blinding white flashes of exploding transformers, finishing with a wide angle vista of a mountain range being swallowed by a towering wall of ice and wind. Hyper-realistic fluid dynamics, intricate particle physics, 35mm anamorphic lens, and high contrast volumetric atmosphere.
+Tektonik, atmosferik ve okyanusal çöküşün eş zamanlı gerçekleştiğini yakalayan sinematik bir takip çekimi. Zemin, şiddetli bir sismik sarsıntıyla patlayarak yoğun bir metropol ızgarasını ikiye bölen devasa ve pürüzlü bir kanyon oluşturuyor. Aynı anda, devasa bir buzul deniz suyu duvarı şehir sokaklarına hücum ederek temas ettiği her şeyi kristalize yapılara dönüştürüp anında donduruyor. Donmuş selin kalbinden yükselen, toz haline gelmiş enkazla kararmış ve içindeki turuncu şimşeklerle parlayan devasa çok girdaplı bir hortum, çelik bir gökdelenin dış cephesini söküp cam parçalarını ve ağır makineleri kaotik bir yörüngede döndürüyor. Kamera, bükülüp kopan bir köprünün altından dinamik, alçak irtifalı bir uçuş gerçekleştirerek uçuşan enkazların ve dönen kar fırtınalarının arasından süzülüyor. Aydınlatma, koyu mor bir gökyüzünden patlayan transformatörlerin kör edici beyaz flaşlarına geçiş yapıyor ve sahne, yükselen bir buz ve rüzgar duvarı tarafından yutulan bir dağ silsilesinin geniş açılı manzarasıyla sona eriyor. Hiper gerçekçi akışkanlar dinamiği, karmaşık parçacık fiziği, 35mm anamorfik lens ve yüksek kontrastlı volümetrik atmosfer.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c59a32b238b5a8ac8342488d7985191e/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Metropolitan Apocalypse Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c59a32b238b5a8ac8342488d7985191e/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Metropol Kıyamet Sekansı">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4732)**
 
 **Yazar:** [Wilzap](https://x.com/wilzap) | **Kaynak:** [Link](https://x.com/wilzap/status/2054605922681679914) | **Yayınlandı:** May 13, 2026
 
 ---
-### Pixar Style 3D Chef Mascot Animation
+### Pixar Tarzı 3D Şef Maskot Animasyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic 3D animation prompt featuring a stylized Indo-Chinese chef mascot with expressive features and detailed attire.
+> Etkileyici yüz hatlarına ve detaylı kıyafetlere sahip, stilize edilmiş Hint-Çinli bir şef maskotunu konu alan sinematik bir 3D animasyon istemi.
 
 #### 📝 İstem
 
 ```
-15-second cinematic animated video, 16:9, premium Pixar-quality 3D mascot animation style, featuring the same adorable stylized female Indo-Chinese chef mascot throughout — oversized expressive eyes, fluffy tied-up bun hair, black chef coat with red piping,
+15 saniyelik sinematik animasyon videosu, 16:9, birinci sınıf Pixar kalitesinde 3D maskot animasyon tarzı, baştan sona aynı sevimli ve stilize edilmiş Hint-Çinli kadın şef maskotunu içeriyor — iri ve etkileyici gözler, tepeden toplanmış kabarık topuz saç, kırmızı şeritli siyah şef ceketi,
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a0d118836b2c56ea324dbac95f7abd1/thumbnails/thumbnail.jpg" width="600" alt="Pixar Style 3D Chef Mascot Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a0d118836b2c56ea324dbac95f7abd1/thumbnails/thumbnail.jpg" width="600" alt="Pixar Tarzı 3D Şef Maskot Animasyonu">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4743)**
 
@@ -659,49 +659,49 @@ Arka plan sesleri arasında yüksek orman ambiyansı, ağır nefes alışverişl
 **Yazar:** [Genz Ai](https://x.com/alzina3691) | **Kaynak:** [Link](https://x.com/alzina3691/status/2054600108256178489) | **Yayınlandı:** May 13, 2026
 
 ---
-### Mischievous Animated Puppy Gesture Sequence
+### Yaramaz Animasyon Köpek Yavrusu Hareket Dizisi
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A highly detailed animation prompt for a 3D puppy, featuring a specific sequence of micro-expressions and a finger-gesture transition from a middle finger to a thumbs-up.
+> 3D bir köpek yavrusu için, mikro ifadelerden oluşan belirli bir dizi ve orta parmaktan baş parmak yukarı hareketine geçişi içeren oldukça detaylı bir animasyon istemi.
 
 #### 📝 İstem
 
 ```
-The subject is a red fluffy puppy in a Q-version 3D animation style, cute but with a slightly wicked and mischievous expression. The puppy stands slightly below the center, body turned about 30 degrees to the camera, head slightly lowered, big soulful eyes, soft and delicate fur with a realistic fluffy texture. Background is a soft warm-toned blurred indoor environment, shallow depth of field, cinematic soft light, clean frame, no text, watermarks, extra characters, or extra objects. 
+Konu, Q-versiyonu 3D animasyon tarzında, sevimli ancak hafif kötü niyetli ve yaramaz bir ifadeye sahip kırmızı tüylü bir köpek yavrusudur. Köpek yavrusu merkezin biraz altında durur, vücudu kameraya yaklaşık 30 derece dönüktür, başı hafifçe eğiktir, büyük anlamlı gözleri vardır, yumuşak ve gerçekçi tüylü bir dokuya sahip narin tüyleri bulunur. Arka plan yumuşak sıcak tonlu bulanık bir iç mekan ortamıdır, sığ alan derinliği, sinematik yumuşak ışık, temiz bir kare, metin, filigran, fazladan karakter veya fazladan nesne yoktur.
 
-Follow this timeline strictly: 
-0.0s-1.0s: Puppy stands quietly, body slightly sideways, head down, eyes slowly rising from below to create a 'preparing for mischief' atmosphere. 
-1.0s-1.8s: First side-glance at the camera. Eyes glance first, head turns slightly, no big shaking, look is provocative and playful. 
-1.8s-2.4s: Briefly retracts gaze, looking aside or down, maintaining restraint before a smirk. 
-2.4s-3.2s: Second side-glance at the camera, stronger mischievous feel. 
-3.2s-4.2s: Slowly extends right hand from the front toward the camera, natural and weighted movement. 
-4.2s-5.1s: Hand continues forward, palm rising, forming the first half of a middle-finger gesture: other fingers bending, middle finger starting to go up but only halfway. 
-5.1s-6.0s: Gesture shifts mid-way: middle finger retracts, thumb slowly rises into a clear thumbs-up gesture. Transition must be smooth and visible. 
-6.0s-7.0s: Maintains thumbs-up, mouth slowly curls into a mischievous smile, eyes still glancing at camera with a proud/teasing look. 
-Camera: 9:16 vertical, slight cinematic push-in, subject centered, hand stays in frame, fluid animation.
+Bu zaman çizelgesini kesinlikle takip edin:
+0.0s-1.0s: Köpek yavrusu sessizce durur, vücudu hafifçe yan durur, başı aşağıdadır, gözleri 'yaramazlığa hazırlık' atmosferi yaratmak için aşağıdan yavaşça yükselir.
+1.0s-1.8s: Kameraya ilk yan bakış. Önce gözler kayar, baş hafifçe döner, büyük bir sallanma olmaz, bakış kışkırtıcı ve oyuncudur.
+1.8s-2.4s: Bakışlarını kısaca geri çeker, yana veya aşağı bakar, sinsi bir gülümseme öncesinde kontrollü bir duruş sergiler.
+2.4s-3.2s: Kameraya ikinci yan bakış, daha güçlü bir yaramazlık hissi.
+3.2s-4.2s: Sağ elini önden kameraya doğru yavaşça uzatır, doğal ve ağırlıklı bir hareket.
+4.2s-5.1s: El ileri doğru devam eder, avuç içi yükselir, orta parmak hareketinin ilk yarısını oluşturur: diğer parmaklar bükülür, orta parmak kalkmaya başlar ancak sadece yarıya kadar.
+5.1s-6.0s: Hareket yarı yolda değişir: orta parmak geri çekilir, baş parmak yavaşça net bir baş parmak yukarı hareketine dönüşür. Geçiş pürüzsüz ve görünür olmalıdır.
+6.0s-7.0s: Baş parmak yukarıda kalır, ağız yavaşça yaramaz bir gülümsemeye kıvrılır, gözler hala gururlu/alaycı bir bakışla kameraya bakar.
+Kamera: 9:16 dikey, hafif sinematik yakınlaştırma, konu ortalanmış, el kadraj içinde kalır, akıcı animasyon.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ca9c10428782a64bba64a2c0e003750/thumbnails/thumbnail.jpg" width="600" alt="Mischievous Animated Puppy Gesture Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ca9c10428782a64bba64a2c0e003750/thumbnails/thumbnail.jpg" width="600" alt="Yaramaz Animasyon Köpek Yavrusu Hareket Dizisi">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4757)**
 
 **Yazar:** [Clyde Zhu](https://x.com/sands321_) | **Kaynak:** [Link](https://x.com/sands321_/status/2054598314709176599) | **Yayınlandı:** May 13, 2026
 
 ---
-### Cricket Stadium Fan Broadcast
+### Kriket Stadyumu Taraftar Yayını
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a realistic broadcast-style video of a fan in a cricket stadium crowd.
+> Kriket stadyumundaki kalabalıkta yer alan bir taraftarın gerçekçi, yayın tarzı videosunu oluşturmak için bir komut.
 
 #### 📝 İstem
 
 ```
-Ultra-realistic static image of a sports broadcast of a man sitting in the crowd of a packed cricket stadium
+Tıklım tıklım dolu bir kriket stadyumundaki kalabalıkta oturan bir adamın spor yayınından alınmış ultra gerçekçi sabit görüntüsü
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/530ee061cb9fcd88753057b8999adf2e/thumbnails/thumbnail.jpg" width="600" alt="Cricket Stadium Fan Broadcast">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/530ee061cb9fcd88753057b8999adf2e/thumbnails/thumbnail.jpg" width="600" alt="Kriket Stadyumu Taraftar Yayını">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4752)**
 
@@ -746,96 +746,96 @@ Dolu bir stadyumda, gerçek futbol taraftarları arasında doğal bir şekilde o
 **Yazar:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) | **Kaynak:** [Link](https://x.com/saniaspeaks_/status/2054587171864977555) | **Yayınlandı:** May 13, 2026
 
 ---
-### Coffee Shop Cinematic Aerial Descent
+### Kafe Sinematik Hava Çekimi İnişi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional cinematic video prompt for Seedance 2.0 featuring a sweeping aerial camera descent into a coffee shop with atmospheric drift.
+> Seedance 2.0 için, atmosferik sürüklenme ile bir kafeye doğru yapılan geniş açılı hava çekimi inişini içeren profesyonel sinematik video istemi.
 
 #### 📝 İstem
 
 ```
-SHOT 1 (0:00–0:02) — Descent Into the World
+ÇEKİM 1 (0:00–0:02) — Dünyaya İniş
 
-EFFECT: sweeping aerial push-down (crane-style descent) + color saturation bloom + atmospheric particle drift
+EFEKT: geniş açılı hava çekimi (vinç tarzı iniş) + renk doygunluğu patlaması + atmosferik parçacık sürüklenmesi
 
-The camera descends from above as if falling gently from the sky into the coffee shop.
+Kamera, gökyüzünden kafeye doğru nazikçe süzülüyormuş gibi yukarıdan aşağıya iner.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32f6fb76cd83f12352d8d83995c6ce4d/thumbnails/thumbnail.jpg" width="600" alt="Coffee Shop Cinematic Aerial Descent">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32f6fb76cd83f12352d8d83995c6ce4d/thumbnails/thumbnail.jpg" width="600" alt="Kafe Sinematik Hava Çekimi İnişi">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4751)**
 
 **Yazar:** [Guillermo Castellanos](https://x.com/guicastellanos1) | **Kaynak:** [Link](https://x.com/guicastellanos1/status/2054587015753015432) | **Yayınlandı:** May 13, 2026
 
 ---
-### Video Prompt:
+### Video İstemi:
 
-Use the attached THE SPAGHETTI CHEF
+Ekli THE SPAGHETTI CHEF görselini kullanın
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
 #### 📝 İstem
 
 ```
-Use the attached THE SPAGHETTI CHEF storyboard image as the exact reference.
+Ekli THE SPAGHETTI CHEF storyboard görselini tam referans olarak kullanın.
 
-Create a 15-second 16:9 animated artisan spaghetti-making sequence that follows the 8-shot storyboard exactly. Preserve the same Pixar-style young spaghetti chef, black apron, cozy
+8 çekimlik storyboard'u birebir takip eden, 15 saniyelik, 16:9 formatında, el yapımı spagetti hazırlama animasyonu oluşturun. Pixar tarzındaki genç spagetti şefini, siyah önlüğünü ve samimi ortamı koruyun
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc4a2ad7ede5a76b14451bb470faec26/thumbnails/thumbnail.jpg" width="600" alt="Video Prompt:
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc4a2ad7ede5a76b14451bb470faec26/thumbnails/thumbnail.jpg" width="600" alt="Video İstemi:
 
-Use the attached THE SPAGHETTI CHEF">
+Ekli THE SPAGHETTI CHEF görselini kullanın">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4750)**
 
 **Yazar:** [PENNY💜](https://x.com/ImozemhePeniel) | **Kaynak:** [Link](https://x.com/ImozemhePeniel/status/2054578068006506554) | **Yayınlandı:** May 13, 2026
 
 ---
-### Luxury Family Football Celebration Scene
+### Lüks Aile Futbol Kutlaması Sahnesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dramatic cinematic prompt depicting a family watching a football match in a mansion, culminating in a goal celebration and a conflict.
+> Bir malikanede futbol maçı izleyen, gol sevinci ve bir çatışmayla sonuçlanan bir aileyi tasvir eden dramatik sinematik istem.
 
 #### 📝 İstem
 
 ```
-Cinematic ultra-realistic luxury family football watch party inside a massive modern mansion hall at night. The room is extremely large, elegant, and beautifully designed with warm ambient lighting, luxury sofas and chairs, marble floor, decorative lamps, modern interior, and a giant LED screen mounted on the wall. On the LED screen, an intense football match is playing with realistic English football commentary in the background, crowd noise, stadium atmosphere, and live sports broadcast graphics.
+Gece vakti devasa ve modern bir malikane salonunun içinde geçen, sinematik ultra gerçekçi lüks aile futbol izleme partisi. Oda son derece geniş, zarif ve sıcak ortam aydınlatması, lüks koltuklar ve sandalyeler, mermer zemin, dekoratif lambalar, modern iç tasarım ve duvara monte edilmiş dev bir LED ekran ile güzel bir şekilde tasarlanmış. LED ekranda, arka planda gerçekçi İngiliz futbolu yorumları, stadyum atmosferi, kalabalık sesleri ve canlı spor yayını grafikleriyle yoğun bir futbol maçı oynanıyor.
 
-In the room, a large joint family is watching the match together. There are 3–4 women drinking tea and smiling while watching the game, 3–4 men sitting excitedly, 8–9 children cheering with snacks and chips like Lays in their hands, and 1–2 elderly grandparents enjoying the match peacefully. Everyone is emotionally invested in the game.
+Odada geniş bir aile birlikte maçı izliyor. Çaylarını içip gülümseyerek maçı izleyen 3-4 kadın, heyecanla oturan 3-4 erkek, ellerinde Lays gibi atıştırmalıklar ve cipslerle tezahürat yapan 8-9 çocuk ve maçı huzur içinde izleyen 1-2 yaşlı büyükanne ve büyükbaba var. Herkes duygusal olarak oyuna odaklanmış durumda.
 
-The football match reaches a dramatic penalty kick moment. The camera cuts between the tense faces of the family members and the football player preparing for the penalty. The room becomes silent with suspense. Realistic cinematic camera movements, emotional close-ups, detailed facial expressions, slow-motion tension.
+Futbol maçı dramatik bir penaltı vuruşu anına ulaşıyor. Kamera, aile üyelerinin gergin yüzleri ile penaltıya hazırlanan futbolcu arasında gidip geliyor. Oda gerilimle sessizliğe bürünüyor. Gerçekçi sinematik kamera hareketleri, duygusal yakın çekimler, detaylı yüz ifadeleri, ağır çekim gerilimi.
 
-As the player kicks the penalty, the ball powerfully enters the goal. Instantly the entire room erupts with celebration. Men jump from their chairs shouting happily, women smile and clap while holding tea cups, children scream with excitement, some family members hug each other, some dance wildly in celebration, realistic joyful chaos, emotional energy, cinematic realism.
+Oyuncu penaltıyı kullandığında top güçlü bir şekilde kaleye giriyor. Anında tüm oda kutlamalarla coşuyor. Erkekler sevinçle koltuklarından fırlıyor, kadınlar çay fincanlarını tutarken gülümseyip alkışlıyor, çocuklar heyecanla çığlık atıyor, bazı aile üyeleri birbirine sarılıyor, bazıları çılgınca dans ediyor; gerçekçi neşeli bir kaos, duygusal enerji, sinematik gerçekçilik.
 
-But one young boy, around 12 years old, is a supporter of the opposite team. The moment the goal is scored, his face turns angry and frustrated. He suddenly stands up in rage, grabs the chair he is sitting on, and violently throws it toward the giant LED screen. The room becomes shocked. The chair hits near the screen dramatically. The angry boy storms toward the door, slams the door shut aggressively, and leaves the room. Other family members react with surprise while still celebrating.
+Ancak 12 yaşlarında genç bir erkek çocuk, karşı takımın taraftarı. Gol atıldığı an yüzü öfke ve hayal kırıklığıyla doluyor. Aniden öfkeyle ayağa kalkıyor, oturduğu sandalyeyi kapıyor ve dev LED ekrana doğru şiddetle fırlatıyor. Odadakiler şok oluyor. Sandalye ekranın yakınına dramatik bir şekilde çarpıyor. Öfkeli çocuk kapıya doğru fırtına gibi gidiyor, kapıyı agresif bir şekilde çarpıyor ve odadan çıkıyor. Diğer aile üyeleri hala kutlama yaparken şaşkınlıkla tepki veriyor.
 
-Highly realistic human emotions, cinematic storytelling, dynamic lighting, luxury environment, football stadium sounds, realistic English sports commentary audio, emotional crowd reactions, ultra HD 4K, movie-quality visuals, dramatic atmosphere, realistic body movement, natural acting, smooth camera motion, immersive family celebration scene, detailed environment, premium cinematic color grading.
+Son derece gerçekçi insan duyguları, sinematik hikaye anlatımı, dinamik aydınlatma, lüks ortam, futbol stadyumu sesleri, gerçekçi İngiliz spor yorumu sesi, duygusal kalabalık tepkileri, ultra HD 4K, film kalitesinde görseller, dramatik atmosfer, gerçekçi vücut hareketleri, doğal oyunculuk, akıcı kamera hareketi, sürükleyici aile kutlaması sahnesi, detaylı çevre, premium sinematik renk derecelendirmesi.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1ee38cf3f2dc1a1d1bd5cada9257348/thumbnails/thumbnail.jpg" width="600" alt="Luxury Family Football Celebration Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1ee38cf3f2dc1a1d1bd5cada9257348/thumbnails/thumbnail.jpg" width="600" alt="Lüks Aile Futbol Kutlaması Sahnesi">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4739)**
 
 **Yazar:** [Genz Ai](https://x.com/alzina3691) | **Kaynak:** [Link](https://x.com/alzina3691/status/2054575236499095697) | **Yayınlandı:** May 13, 2026
 
 ---
-### Colossal Creatures City Invasion
+### Devasa Yaratıkların Şehir İstilası
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic-scale video prompt featuring multiple giant monsters attacking a mega-city simultaneously with dynamic drone movements and heavy VFX.
+> Dinamik drone hareketleri ve yoğun görsel efektlerle, birden fazla devasa canavarın aynı anda bir mega şehre saldırdığı epik ölçekli bir video istemi.
 
 #### 📝 İstem
 
 ```
-Multiple colossal creatures invading simultaneously: a winged dragon with lightning veins tearing through the sky, a massive lava titan crushing everything on the ground, and a shadow leviathan spreading like a living void across the city, each dominating a different layer of destruction with overwhelming presence
-All attack at once, the city collapsing from every direction—lightning strikes obliterating skyscrapers, the ground rupturing under the titan’s steps, entire districts swallowed by moving darkness, creating unstoppable large-scale chaos
-Mega city completely overwhelmed, buildings falling in waves, firestorms rising, thunder splitting the sky, shadows consuming light, total environmental collapse + Starts with extreme wide aerial revealing all threats at once, rapid multi-directional drone movements switching focus between sky, ground and shadow, whip pans linking each destructive event, FPV dives through collapsing streets and explosions, aggressive orbit shots around each creature, constant camera motion blending chaos with layered VFX (fire, lightning, smoke, shadows), debris flooding the frame, ending with all creatures standing dominant over a fully destroyed city—dragon hovering above crackling with lightning, titan planted in molten ruins, shadow leviathan covering entire districts—while the camera slowly pulls back into a massive wide shot revealing total annihilation, silence briefly falling before a final synchronized roar echoes across the wasteland
+Aynı anda istila eden çok sayıda devasa yaratık: gökyüzünü yırtıp geçen şimşek damarlı kanatlı bir ejderha, yerdeki her şeyi ezip geçen devasa bir lav titanı ve şehir boyunca canlı bir boşluk gibi yayılan gölge bir dev; her biri ezici bir varlıkla yıkımın farklı bir katmanına hükmediyor.
+Hepsi aynı anda saldırıyor, şehir her yönden çöküyor; şimşekler gökdelenleri yok ediyor, titan her adım attığında zemin yarılıyor, hareketli karanlık tüm bölgeleri yutuyor ve durdurulamaz, büyük ölçekli bir kaos yaratıyor.
+Mega şehir tamamen kuşatılmış durumda; binalar dalgalar halinde yıkılıyor, ateş fırtınaları yükseliyor, gök gürültüsü gökyüzünü yarıyor, gölgeler ışığı tüketiyor, tam bir çevresel çöküş + Tüm tehditleri aynı anda ortaya çıkaran aşırı geniş bir hava çekimiyle başlıyor; gökyüzü, yer ve gölge arasında odak değiştiren hızlı çok yönlü drone hareketleri, her yıkıcı olayı birbirine bağlayan hızlı geçişler, çöken sokaklar ve patlamalar arasında FPV dalışları, her yaratığın etrafında agresif yörünge çekimleri, kaosu katmanlı görsel efektlerle (ateş, şimşek, duman, gölgeler) harmanlayan sürekli kamera hareketi, kadrajı dolduran enkazlar; ejderhanın şimşekler saçarak tepede süzüldüğü, titan'ın erimiş harabelere yerleştiği ve gölge devin tüm bölgeleri kapladığı, tamamen yok olmuş bir şehir üzerinde tüm yaratıkların baskın bir şekilde durduğu bir finalle sona eriyor; kamera yavaşça geri çekilerek tam bir yıkımı gözler önüne seren devasa bir geniş açıya geçiyor, kısa bir sessizliğin ardından yıkıntıların üzerinde senkronize bir kükreme yankılanıyor.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c070ec6735e0383d01e5a850efe63b4/thumbnails/thumbnail.jpg" width="600" alt="Colossal Creatures City Invasion">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c070ec6735e0383d01e5a850efe63b4/thumbnails/thumbnail.jpg" width="600" alt="Devasa Yaratıkların Şehir İstilası">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4734)**
 
@@ -935,32 +935,29 @@ Modern bir basketbol arenasında gece oynanan, tıklım tıklım dolu bir 2025/2
 **Yazar:** [Sadia](https://x.com/SadiaMalik182) | **Kaynak:** [Link](https://x.com/SadiaMalik182/status/2054562195892277378) | **Yayınlandı:** May 13, 2026
 
 ---
-### POV Shot from Inside Slushy Cup
+### Slushy Bardağının İçinden POV Çekim
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An immersive video prompt featuring a continuous shot from the bottom of a transparent cup, capturing liquid movement and distorted facial expressions through ice.
+> Şeffaf bir bardağın dibinden sürekli bir çekim sunan, buzların arasından sıvı hareketini ve bozulmuş yüz ifadelerini yakalayan sürükleyici bir video istemi.
 
 #### 📝 İstem
 
 ```
-cinematic single continuous shot from inside a transparent plastic cup filled with a thick, icy purple slushy.
-The camera is submerged at the bottom, looking upward through semi-translucent crushed ice, with bubbles, condensation, and glossy frozen textures surrounding the
-frame.
-The circular rim of the cup forms a tunnel-like border, slightly fogged and wet. A semi-transparent straw descends into the frame.
-A woman leans in above, her face slightly distorted through the curved plastic and icy textures. She begins to sip. The purple liquid visibly flows upward inside the straw, swirling with tiny air bubbles, creating a dynamic suction motion.
-The ice subtly shifts and compresses with the movement. The camera gently drifts and vibrates with the suction force, maintaining a realistic handheld feel from inside the drink.
-Suddenly, an off-screen male voice calls out, “Hey, Alice.” The woman immediately stops sipping. The liquid inside the straw halts mid-motion and slowly settles back.
-She lifts her head slightly, her expression shifting to surprise. Condensation droplets slide down the inner walls of the cup. She turns her gaze to the side, still seen from
-below through the cup opening, and responds, slightly startled: “Oh, hey, Charlie, what are you doing here?”
-A man leans into frame from the background, partially visible through the circular opening, softly out of focus at first, then becoming clearer as he steps closer.
-Warm ambient light glows behind him, contrasting with the cool purple tones inside the cup. He replies casually: “I’m just waiting for my friend to show up.” The woman
-relaxes, a small smile forming.
-She tilts her head slightly, still framed by the cup opening: “Really? Haha. It’s been a while since I last saw you.” The man chuckles lightly, shifting his posture: “Hah, yeah”
-Throughout the entire sequence, the camera remains inside the cup, maintaining a consistent perspective with subtle liquid movement, melting ice, drifting bubbles, and refracted light playing across the scene, enhancing the immersive, non-human viewpoint. No Music
+Koyu, buzlu mor bir slushy ile dolu şeffaf plastik bir bardağın içinden sinematik, tek ve kesintisiz çekim.
+Kamera, yarı saydam kırılmış buzların arasından yukarıya bakacak şekilde dibe yerleştirilmiştir; çerçevenin etrafında kabarcıklar, yoğuşma ve parlak donmuş dokular bulunur.
+Bardağın dairesel kenarı, hafif buğulu ve ıslak, tünel benzeri bir sınır oluşturur. Yarı saydam bir pipet çerçevenin içine iner.
+Bir kadın yukarıdan eğilir, yüzü kavisli plastik ve buzlu dokular nedeniyle hafifçe bozulmuştur. Yudumlamaya başlar. Mor sıvı, pipetin içinde gözle görülür şekilde yukarı doğru akar, küçük hava kabarcıklarıyla girdap oluşturarak dinamik bir emme hareketi yaratır.
+Buz, hareketle birlikte hafifçe yer değiştirir ve sıkışır. Kamera, içeceğin içinden gerçekçi bir el kamerası hissi vererek emme kuvvetiyle hafifçe sürüklenir ve titrer.
+Aniden, ekran dışından bir erkek sesi "Hey, Alice" diye seslenir. Kadın hemen yudumlamayı bırakır. Pipetin içindeki sıvı hareketin ortasında durur ve yavaşça geri çöker.
+Başını hafifçe kaldırır, ifadesi şaşkınlığa dönüşür. Yoğuşma damlaları bardağın iç duvarlarından aşağı süzülür. Bakışlarını yana çevirir, hala bardağın açıklığından aşağıdan görülmektedir ve hafifçe irkilerek cevap verir: "Oh, hey, Charlie, burada ne yapıyorsun?"
+Bir adam arka plandan kadraja girer, dairesel açıklıktan kısmen görünür, başta hafifçe odak dışıdır, ardından yaklaştıkça netleşir.
+Sıcak ortam ışığı arkasında parlar ve bardağın içindeki soğuk mor tonlarla tezat oluşturur. Rahat bir tavırla cevap verir: "Sadece arkadaşımın gelmesini bekliyorum." Kadın rahatlar, hafif bir gülümseme belirir.
+Hala bardağın açıklığıyla çerçevelenmiş şekilde başını hafifçe eğer: "Gerçekten mi? Haha. Seni görmeyeli uzun zaman oldu." Adam hafifçe kıkırdar, duruşunu değiştirir: "Hah, evet."
+Sahne boyunca kamera bardağın içinde kalır; tutarlı bir perspektif, hafif sıvı hareketi, eriyen buzlar, sürüklenen kabarcıklar ve sahne boyunca oynayan kırılmış ışıklarla sürükleyici, insan dışı bakış açısını güçlendirir. Müzik yok
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30a5a7e71d31cc95cbc618f0ffa7db95/thumbnails/thumbnail.jpg" width="600" alt="POV Shot from Inside Slushy Cup">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30a5a7e71d31cc95cbc618f0ffa7db95/thumbnails/thumbnail.jpg" width="600" alt="Slushy Bardağının İçinden POV Çekim">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4733)**
 
@@ -1032,199 +1029,199 @@ Güzeller güzeli bir müşteri, makyaj sonrası konuşamayacak kadar etkilenmi�
 **Yazar:** [Sadia](https://x.com/SadiaMalik182) | **Kaynak:** [Link](https://x.com/SadiaMalik182/status/2054535444289953860) | **Yayınlandı:** May 13, 2026
 
 ---
-### Olympic Gymnast Balance Beam Performance
+### Olimpik Jimnastikçi Denge Aleti Performansı
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A high-fidelity video prompt for generating a cinematic sequence of an Olympic gymnast performing complex maneuvers on a balance beam, focusing on physical accuracy and atmosphere.
+> Olimpik bir jimnastikçinin denge aletinde karmaşık hareketler sergilediği sinematik bir sekans oluşturmak için fiziksel doğruluk ve atmosfere odaklanan yüksek sadakatli bir video istemi.
 
 #### 📝 İstem
 
 ```
-Generate a story about a Chinese gymnast completing a super high-difficulty technical move in the balance beam final at the Paris Olympics. Precisely capture the extremely complex and physically dynamic somersault sequence on the beam. Starting from the first frame, use a Body Mount camera to quickly follow the athlete as she completes a side somersault into a triple forward tuck somersault. Then use an ultra-slow motion close-up to capture her extreme body control in the air, the movement of her white hair, and the details of her uniform, ensuring a realistic representation of gravity and physical laws. Finally, land steadily, and the camera pushes in on her confident face. Cinematic realism, 2.35:1 widescreen. Accompanied by the cheering and exciting atmosphere of a live Paris Olympics broadcast.
+Paris Olimpiyatları denge aleti finalinde çok yüksek zorluk derecesine sahip teknik bir hareketi tamamlayan Çinli bir jimnastikçinin hikayesini oluşturun. Denge aleti üzerindeki son derece karmaşık ve fiziksel olarak dinamik takla serisini hassas bir şekilde yakalayın. İlk kareden başlayarak, sporcu yan takla atıp ardından üçlü öne takla hareketini tamamlarken onu hızla takip etmek için bir Body Mount kamera kullanın. Ardından, havada sergilediği ekstrem vücut kontrolünü, beyaz saçlarının hareketini ve üniformasının detaylarını yakalamak için ultra ağır çekim bir yakın plan kullanın; yerçekimi ve fizik yasalarının gerçekçi bir temsilini sağlayın. Son olarak, dengeli bir iniş yapın ve kamera sporcunun kendinden emin yüzüne doğru yakınlaşsın. Sinematik gerçekçilik, 2.35:1 geniş ekran. Canlı Paris Olimpiyatları yayınındaki tezahürat ve heyecan verici atmosfer eşliğinde.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1778742494583_69ote8_HIMpYj2W4AAWmhC.jpg" width="600" alt="Olympic Gymnast Balance Beam Performance">
+<img src="https://cms-assets.youmind.com/media/1778742494583_69ote8_HIMpYj2W4AAWmhC.jpg" width="600" alt="Olimpik Jimnastikçi Denge Aleti Performansı">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4758)**
 
 **Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2054532186628378780) | **Yayınlandı:** May 13, 2026
 
 ---
-### Hair Salon Makeover Reveal Video
+### Kuaför Salonu Değişim Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive cinematic script for a hair salon transformation video, detailing specific shots, lighting, character reactions, and background music.
+> Bir kuaför salonu değişim videosu için çekim detaylarını, ışıklandırmayı, karakter tepkilerini ve arka plan müziğini içeren kapsamlı sinematik senaryo.
 
 #### 📝 İstem
 
 ```
-Image1 is the woman before makeover. 
-Image2 is the same woman after a stunning hair transformation.
-Image3 is the male hairstylist.
- 
-TikTok hair salon makeover reveal. 
+Görsel1, değişim öncesindeki kadın.
+Görsel2, aynı kadının büyüleyici saç dönüşümünden sonraki hali.
+Görsel3, erkek kuaför.
 
-Shot 1 (0:00–0:04): The shy woman from Image1 sits in a salon chair, fidgeting nervously and touching her hair. The hairstylist from Image3 stands beside her, examining her hair and nodding. He smirks confidently at camera. Medium shot, slow dolly in. Warm amber salon lighting, mirrors in bokeh background. 
+TikTok kuaför salonu değişim videosu.
 
-Shot 2 (0:04–0:07): The hairstylist from Image3 grins at camera, then reaches his open palm toward the lens. His hand grows larger until it completely covers the entire frame — screen goes dark. POV, wide lens. Dramatic whoosh then silence. 
+Çekim 1 (0:00–0:04): Görsel1'deki utangaç kadın, kuaför koltuğunda oturuyor, gergin bir şekilde kıpırdanıyor ve saçlarına dokunuyor. Görsel3'teki kuaför yanında durmuş, saçlarını inceliyor ve başını sallıyor. Kameraya kendinden emin bir şekilde gülümsüyor. Orta çekim, yavaş dolly in. Sıcak kehribar rengi salon ışığı, arka planda bokeh efektli aynalar.
 
-Shot 3 (0:07–0:08): Complete darkness — palm fills 100% of frame. One second of black. Total silence. 
+Çekim 2 (0:04–0:07): Görsel3'teki kuaför kameraya sırıtıyor, ardından açık avucunu lense doğru uzatıyor. Eli büyüyerek tüm ekranı kaplıyor — ekran kararır. POV, geniş açı lens. Dramatik bir vınlama sesi ve ardından sessizlik.
 
-Shot 4 (0:08–0:10): Both hands pull away from lens. Golden light floods in with lens flare. The transformed woman from Image2 is revealed in the salon chair. POV perspective. Rising chime sound. 
+Çekim 3 (0:07–0:08): Tam karanlık — avuç içi ekranın %100'ünü kaplıyor. Bir saniyelik siyah ekran. Tam sessizlik.
 
-Shot 5 (0:10–0:13): The woman from Image2 stares at her reflection wide-eyed, freezes, then covers her mouth with both hands in shock. Eyes glistening with happy tears. Medium shot, slow dolly in to close-up. Beauty lighting with halo backlight on her hair, sparkle effects. K-pop beat drop. 
+Çekim 4 (0:08–0:10): Her iki el de lensten çekiliyor. Lens parlamasıyla birlikte altın rengi ışık içeri doluyor. Görsel2'deki değişime uğramış kadın kuaför koltuğunda ortaya çıkıyor. POV perspektifi. Yükselen bir çan sesi.
 
-Shot 6 (0:13–0:15): The woman from Image2 and hairstylist from Image3 together. She touches her new hair smiling radiantly. He gives thumbs-up to camera. Medium two-shot. Bright cheerful lighting. Music fading out. 
+Çekim 5 (0:10–0:13): Görsel2'deki kadın yansımasına kocaman gözlerle bakıyor, donup kalıyor, ardından şaşkınlıkla her iki eliyle ağzını kapatıyor. Gözleri mutluluk gözyaşlarıyla parlıyor. Orta çekim, yakın plana doğru yavaş dolly in. Saçında halo arkadan aydınlatmalı güzellik ışığı, ışıltı efektleri. K-pop beat drop.
 
-Style: Photorealistic, smartphone footage, slight film grain. Warm amber salon lighting. Shots 4–6 noticeably brighter and more glamorous than Shots 1–2. 
+Çekim 6 (0:13–0:15): Görsel2'deki kadın ve Görsel3'teki kuaför birlikte. Kadın ışıl ışıl gülümseyerek yeni saçına dokunuyor. Kuaför kameraya baş parmağıyla onay işareti yapıyor. Orta ikili çekim. Parlak ve neşeli ışıklandırma. Müzik yavaşça azalıyor.
 
-Constraints: Woman in Shots 1–2 matches Image1. Woman in Shots 4–6 matches Image2. Hairstylist matches Image3 throughout. Hand covers 100% frame in Shot 3. No text. No logos. Stable, smooth. 2K.
+Stil: Fotogerçekçi, akıllı telefon çekimi, hafif film greni. Sıcak kehribar rengi salon ışığı. 4–6. çekimler, 1–2. çekimlere göre belirgin şekilde daha parlak ve daha göz alıcı.
 
-BGM:K-pop, future bass, female vocal, BPM 118, soft dreamy piano intro for 4 seconds, rising synth buildup from 4 to 7 seconds, 1 second total silence at 8 seconds, massive beat drop at 9 seconds with sparkling synths and powerful bass, feel-good melodic outro fading out, total length 15 seconds
+Kısıtlamalar: 1–2. çekimlerdeki kadın Görsel1 ile eşleşmeli. 4–6. çekimlerdeki kadın Görsel2 ile eşleşmeli. Kuaför baştan sona Görsel3 ile eşleşmeli. 3. çekimde el ekranın %100'ünü kaplamalı. Metin yok. Logo yok. Sabit, pürüzsüz. 2K.
+
+BGM: K-pop, future bass, kadın vokal, 118 BPM, 4 saniye boyunca yumuşak rüya gibi piyano girişi, 4 ile 7. saniyeler arasında yükselen synth yapısı, 8. saniyede 1 saniyelik tam sessizlik, 9. saniyede ışıltılı synth'ler ve güçlü bas ile devasa beat drop, yavaşça azalan neşeli melodik çıkış, toplam uzunluk 15 saniye.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1778742497378_uelllj_HIHtN3Ja0AANI5z.jpg" width="600" alt="Hair Salon Makeover Reveal Video">
+<img src="https://cms-assets.youmind.com/media/1778742497378_uelllj_HIHtN3Ja0AANI5z.jpg" width="600" alt="Kuaför Salonu Değişim Videosu">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4759)**
 
 **Yazar:** [AIギャル物語/AI gal's story](https://x.com/JPAI_HEAVEN) | **Kaynak:** [Link](https://x.com/JPAI_HEAVEN/status/2054525545942278461) | **Yayınlandı:** May 13, 2026
 
 ---
-### WWE Ringside Live Broadcast Simulation
+### WWE Ringside Canlı Yayın Simülasyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A multi-scene prompt simulating a WWE broadcast, following a woman from ringside to a victory pose in the ring.
+> Bir kadını ring kenarından ringdeki zafer pozuna kadar takip eden, WWE yayınını simüle eden çok sahneli bir istem.
 
 #### 📝 İstem
 
 ```
-WWE Ringside Broadcast Video Prompt
-[0:00–0:03] CROWD REACTION SHOT
-9:16 vertical live WWE-style broadcast shot at a sold-out arena. A 24yo Indonesian-Korean woman with long straight black hair, porcelain skin, and elegant hourglass silhouette sits ringside beside the barricade in a VIP chair. Outfit matches reference image exactly: black fitted crop top, electric-blue satin cropped bomber jacket, dark navy leather mini skirt, sheer black mesh sleeve on left arm, glossy black knee-high boots.
-She smiles, laughs naturally, lightly claps, and lifts a branded arena soda cup while watching the match. Red-and-blue arena lights reflect across the barricade and LED panels.
-Commentators shout excitedly over loud crowd noise.
-“Arif N” physically engraved into the metallic armrest of the VIP chair.
-[0:03–0:06] BARRICADE VAULT
-Dynamic ringside tracking shot. The woman stands up, removes her blue bomber jacket, tosses it aside, then quickly climbs over the padded barricade toward the ring area. Crowd reacts loudly while security rushes into frame.
-Authentic WWE live-broadcast camera shake and autofocus breathing.
-“Arif N” stitched naturally inside the jacket collar.
-[0:06–0:10] RINGSIDE SPRINT
-Wide low-angle tracking shot beside the wrestling ring. She sprints across the arena floor in glossy black boots, hair flowing dramatically under sweeping spotlights and LED reflections. Fans wave signs and foam fingers behind the barricade.
-Commentators yell: “She’s heading to the ring!”
-“Arif N” engraved into the steel ring steps.
-[0:10–0:13] TOP-ROPE MOMENT
-Cinematic mid-wide ring shot. She slides under the ropes, climbs the turnbuckle, and raises one arm confidently while arena pyro erupts behind her. Massive crowd explosion.
-Fast whip-pan broadcast camera movement.
-“Arif N” embossed onto her black wrist tape.
-[0:13–0:15] VICTORY CLOSE-UP
-Medium close-up inside the ring with dramatic bokeh crowd background. She smiles victoriously toward the camera, then playfully pushes her hand toward the lens, creating realistic foreground blur and autofocus breathing.
-Deafening arena roar and excited WWE-style commentary.
-TECHNICAL STYLE
-Ultra-photorealistic WWE broadcast realism, cinematic arena lighting, shallow depth of field, subtle film grain, realistic crowd motion blur, LED reflections, authentic TV graphics aesthetic, dynamic handheld broadcast movement, highly detailed textures, glossy ring ropes and barricades.
-The text “Arif N” must always appear physically engraved, stitched, embossed, or branded onto real-world objects — never as a digital overlay.
+WWE Ringside Yayın Video İstemi
+[0:00–0:03] SEYİRCİ TEPKİSİ ÇEKİMİ
+Kapalı gişe bir arenada 9:16 dikey canlı WWE tarzı yayın çekimi. Uzun düz siyah saçlı, porselen ciltli ve zarif kum saati silüetli 24 yaşındaki Endonezyalı-Koreli kadın, VIP koltuğunda bariyerin hemen yanında ring kenarında oturuyor. Kıyafet referans görseliyle birebir aynı: siyah dar crop top, elektrik mavisi saten kısa bomber ceket, koyu lacivert deri mini etek, sol kolda şeffaf siyah file kol, parlak siyah diz üstü çizmeler.
+Maçı izlerken gülümsüyor, doğal bir şekilde gülüyor, hafifçe alkışlıyor ve markalı bir arena soda bardağını kaldırıyor. Kırmızı ve mavi arena ışıkları bariyer ve LED paneller üzerinde yansıyor.
+Spikerler yüksek seyirci gürültüsü üzerinde heyecanla bağırıyor.
+“Arif N” VIP koltuğunun metal kolçağına fiziksel olarak kazınmış.
+[0:03–0:06] BARİYERİ AŞMA
+Dinamik ring kenarı takip çekimi. Kadın ayağa kalkıyor, mavi bomber ceketini çıkarıp kenara fırlatıyor, ardından hızla ring alanına doğru dolgulu bariyerin üzerinden atlıyor. Güvenlik görevlileri kadraja girerken seyirciler yüksek sesle tepki veriyor.
+Otantik WWE canlı yayın kamera sarsıntısı ve otomatik odaklama nefes alıp verişi.
+“Arif N” ceket yakasının içine doğal bir şekilde işlenmiş.
+[0:06–0:10] RİNG KENARI DEPARI
+Ringin yanında geniş açılı düşük takip çekimi. Parlak siyah çizmeleriyle arena zemininde depar atıyor, saçları süpüren spot ışıkları ve LED yansımaları altında dramatik bir şekilde dalgalanıyor. Taraftarlar bariyerin arkasında pankartlar ve köpük parmaklar sallıyor.
+Spikerler bağırıyor: “Ringe doğru ilerliyor!”
+“Arif N” çelik ring basamaklarına kazınmış.
+[0:10–0:13] ÜST İP ANI
+Sinematik orta-geniş ring çekimi. İplerin altından kayarak geçiyor, köşe direğine tırmanıyor ve arkasında arena piroteknikleri patlarken kendinden emin bir şekilde bir kolunu kaldırıyor. Devasa seyirci patlaması.
+Hızlı kırbaç-pan yayın kamerası hareketi.
+“Arif N” siyah bilek bandına kabartma olarak işlenmiş.
+[0:13–0:15] ZAFER YAKIN ÇEKİMİ
+Arka planda dramatik bokeh seyirci efektiyle ring içinde orta yakın çekim. Kameraya doğru zaferle gülümsüyor, ardından elini şakacı bir şekilde lense doğru iterek gerçekçi bir ön plan bulanıklığı ve otomatik odaklama nefes alıp verişi yaratıyor.
+Sağır edici arena kükremesi ve heyecanlı WWE tarzı yorumlar.
+TEKNİK TARZ
+Ultra fotogerçekçi WWE yayın gerçekçiliği, sinematik arena aydınlatması, sığ alan derinliği, hafif film greni, gerçekçi seyirci hareket bulanıklığı, LED yansımaları, otantik TV grafikleri estetiği, dinamik el tipi yayın hareketi, yüksek detaylı dokular, parlak ring ipleri ve bariyerler.
+“Arif N” metni her zaman gerçek dünya nesnelerine fiziksel olarak kazınmış, işlenmiş, kabartılmış veya markalanmış olarak görünmelidir — asla dijital bir katman olarak değil.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f47d61f5243f8a831ab371073242e9fb/thumbnails/thumbnail.jpg" width="600" alt="WWE Ringside Live Broadcast Simulation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f47d61f5243f8a831ab371073242e9fb/thumbnails/thumbnail.jpg" width="600" alt="WWE Ringside Canlı Yayın Simülasyonu">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4737)**
 
 **Yazar:** [ShaHid WaNii](https://x.com/meng_dagg695) | **Kaynak:** [Link](https://x.com/meng_dagg695/status/2054515453444153506) | **Yayınlandı:** May 13, 2026
 
 ---
-### Soccer Stadium Woman Cheeseburger
+### Futbol Stadyumu Kadın Çizburger
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A realistic sports broadcast prompt of a woman eating a burger in a soccer stadium crowd.
+> Bir futbol stadyumu kalabalığında hamburger yiyen bir kadının yer aldığı gerçekçi bir spor yayını istemi.
 
 #### 📝 İstem
 
 ```
-“Ultra-realistic static image of a sports broadcast of a glamorous woman sitting in the crowd of a packed soccer stadium during a nighttime match, wearing a sleeveless high-neck satin top in dark brown and square black earrings, light brown/blonde shoulder-length hair styled in soft waves. She is casually drinking from a tall blue aluminum can while holding a half-eaten cheeseburger in the other hand. Around her are fans with soccer jerseys and scarves in bright yellow and blue, creating a strong team color contrast. The scene feels spontaneous and cinematic, captured mid-match from the angle of a TV broadcast camera with shallow depth of field. Include realistic stadium seats, packed audience atmosphere, overlaid broadcast graphics in the upper left corner showing a live soccer score and match timer, and a sports network watermark in the upper right. Natural arena lighting, detailed skin texture, sharp focus on the woman, slightly blurred background crowd, authentic live sports broadcast aesthetic, 16:9 composition”
+“Gece maçı sırasında tıklım tıklım dolu bir futbol stadyumunun tribünlerinde oturan, koyu kahverengi kolsuz balıkçı yaka saten bir üst ve kare siyah küpeler takan, omuz hizasında hafif dalgalı açık kahverengi/sarı saçlı, göz alıcı bir kadının yer aldığı spor yayınına ait ultra gerçekçi statik görsel. Kadın, bir elinde yarısı yenmiş bir çizburger tutarken diğer eliyle uzun mavi bir alüminyum kutudan içeceğini yudumluyor. Çevresinde, parlak sarı ve mavi renklerde futbol formaları ve atkıları giymiş, güçlü bir takım rengi kontrastı oluşturan taraftarlar bulunuyor. Sahne, bir TV yayın kamerasının açısından, sığ alan derinliğiyle maçın tam ortasında yakalanmış gibi spontane ve sinematik bir his veriyor. Gerçekçi stadyum koltukları, dolu tribün atmosferi, sol üst köşede canlı futbol skorunu ve maç süresini gösteren bindirme yayın grafikleri ve sağ üst köşede bir spor kanalı filigranı ekleyin. Doğal arena aydınlatması, detaylı cilt dokusu, kadın üzerinde keskin odak, hafif bulanık arka plan kalabalığı, otantik canlı spor yayını estetiği, 16:9 kompozisyon”
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fb727aa103c6edc19586ad328ebd3e93/thumbnails/thumbnail.jpg" width="600" alt="Soccer Stadium Woman Cheeseburger">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fb727aa103c6edc19586ad328ebd3e93/thumbnails/thumbnail.jpg" width="600" alt="Futbol Stadyumu Kadın Çizburger">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4753)**
 
 **Yazar:** [Arcane Ai](https://x.com/Arcane_Aii) | **Kaynak:** [Link](https://x.com/Arcane_Aii/status/2054513002490327096) | **Yayınlandı:** May 13, 2026
 
 ---
-### Concert Stadium Blonde Woman Close-up
+### Konser Stadyumunda Sarışın Kadın Yakın Çekim
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a joyful blonde woman at a concert, featuring realistic lighting and a music documentary aesthetic.
+> Konserdeki neşeli sarışın bir kadının yer aldığı, gerçekçi ışıklandırma ve müzik belgeseli estetiğine sahip sinematik bir video istemi.
 
 #### 📝 İstem
 
 ```
-A cinematic 6-second close-up video based on the reference image. The same stunning blonde woman with blue eyes sits in the crowd at a packed concert stadium. Her expression is natural and joyful — she smiles softly, eyes warm and relaxed, as she enjoys the live music. Her long wavy hair moves gently. Behind her, blurred concertgoers naturally sway and hold up light sticks or phone lights. Soft purple and pink stage lighting shifts subtly across her face and the crowd. Realistic live music atmosphere, shallow depth of field, HBO-style music documentary aesthetic. Ultra-detailed skin texture, natural motion, no sudden movements. No anime, no cartoon, no CGI. 4K, smooth and cinematic.
+Referans görseli temel alan 6 saniyelik sinematik yakın çekim video. Aynı büyüleyici mavi gözlü sarışın kadın, tıklım tıklım bir konser stadyumunda kalabalığın arasında oturuyor. İfadesi doğal ve neşeli; canlı müziğin keyfini çıkarırken gözleri sıcak ve huzurlu bir şekilde hafifçe gülümsüyor. Uzun dalgalı saçları hafifçe hareket ediyor. Arkasında, bulanık konser izleyicileri doğal bir şekilde sallanıyor ve ışıklı çubuklar veya telefon ışıkları tutuyor. Yumuşak mor ve pembe sahne ışıkları, yüzünde ve kalabalığın üzerinde hafifçe değişiyor. Gerçekçi canlı müzik atmosferi, sığ alan derinliği, HBO tarzı müzik belgeseli estetiği. Ultra detaylı cilt dokusu, doğal hareket, ani hareketler yok. Anime yok, çizgi film yok, CGI yok. 4K, akıcı ve sinematik.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b2655eb9ad7d8c5148907c503853db8/thumbnails/thumbnail.jpg" width="600" alt="Concert Stadium Blonde Woman Close-up">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b2655eb9ad7d8c5148907c503853db8/thumbnails/thumbnail.jpg" width="600" alt="Konser Stadyumunda Sarışın Kadın Yakın Çekim">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4736)**
 
 **Yazar:** [Lady Julia Ana 👸🏼](https://x.com/4111J_) | **Kaynak:** [Link](https://x.com/4111J_/status/2054508344086589830) | **Yayınlandı:** May 13, 2026
 
 ---
-### Shibuya Street Photography POV
+### Shibuya Sokak Fotoğrafçılığı POV
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A POV street photography prompt set in Shibuya, featuring a conversation and posing session with a woman.
+> Shibuya'da geçen, bir kadınla sohbet ve poz verme seansını içeren bir POV sokak fotoğrafçılığı istemi.
 
 #### 📝 İstem
 
 ```
-POV: First-person handheld shot of a young adult male street photographer walking casually through the extremely crowded streets of Shibuya, Japan on a sunny daytime, surrounded by hundreds of pedestrians rushing across the famous Shibuya Scramble Crossing, tall buildings with huge digital billboards, neon signs, and busy city atmosphere.
+POV: Genç bir yetişkin erkek sokak fotoğrafçısının, güneşli bir gündüz vaktinde Japonya'nın Shibuya kentinin son derece kalabalık sokaklarında, ünlü Shibuya Yaya Geçidi'nden aceleyle geçen yüzlerce yaya, devasa dijital reklam panoları olan yüksek binalar, neon tabelalar ve hareketli şehir atmosferiyle çevrili bir şekilde, elinde kamerasıyla yürüdüğü birinci şahıs çekimi.
 
-@image as the exact character reference for the woman — her full appearance, face, hair, outfit, and style must strictly and perfectly match the uploaded reference image @image .
+@image , kadın karakter için tam referans olarak kullanılacaktır; kadının dış görünüşü, yüzü, saçı, kıyafeti ve tarzı yüklenen @image referans görseliyle kesin ve mükemmel bir şekilde eşleşmelidir.
 
-0-4 seconds: Natural handheld walking motion forward through the crowd. The photographer spots @image  standing at the edge of the sidewalk, fully focused and looking down at her smartphone.
+0-4 saniye: Kalabalığın içinde ileriye doğru doğal, elde çekim yürüyüş hareketi. Fotoğrafçı, kaldırımın kenarında duran, tamamen odaklanmış bir şekilde akıllı telefonuna bakan @image karakterini fark eder.
 
-4-7 seconds: He gently approaches closer to her. Photographer’s voice (friendly, clear English): “Hey there!”
+4-7 saniye: Ona nazikçe yaklaşır. Fotoğrafçının sesi (dost canlısı, net İngilizce): “Hey there!”
 
-7-10 seconds: @image  looks up from her phone toward him with a warm, confident smile. Photographer: “You look absolutely beautiful in that outfit!”
+7-10 saniye: @image , telefonundan başını kaldırıp ona doğru sıcak ve kendinden emin bir gülümsemeyle bakar. Fotoğrafçı: “You look absolutely beautiful in that outfit!”
 
-10-13 seconds: Photographer continues: “I’m a street photographer and I’d really love to take some photos of you if you’re okay with that?”
+10-13 saniye: Fotoğrafçı devam eder: “I’m a street photographer and I’d really love to take some photos of you if you’re okay with that?”
 
-13-15 seconds: Woman @image  nods enthusiastically and replies in clear English: “Sure, that sounds fun! I’d love to pose for you.” She then strikes a graceful pose. Photographer’s hands raise the DSLR camera into the foreground (camera and hands visible in POV), framing her perfectly as if about to shoot. Gentle shutter click sound.
+13-15 saniye: @image karakteri hevesle başını sallar ve net bir İngilizceyle yanıt verir: “Sure, that sounds fun! I’d love to pose for you.” Ardından zarif bir poz verir. Fotoğrafçının elleri, DSLR fotoğraf makinesini ön plana kaldırır (POV çekiminde kamera ve eller görünür), onu sanki fotoğrafını çekecekmiş gibi mükemmel bir şekilde kadraja alır. Hafif bir deklanşör sesi duyulur.
 
-Cinematic realistic style, vibrant urban colors of busy Shibuya, bright daytime lighting with natural sunlight, sharp focus on the woman @image , dynamic crowded background with moving pedestrians, smooth natural handheld movement, high detail textures, friendly and positive atmosphere, clear audible English dialogue with natural lip sync, subtle city background sounds with footsteps, crowd chatter and traffic noise, enthusiastic yet respectful mood, 15-second video.
+Sinematik gerçekçi tarz, hareketli Shibuya'nın canlı kentsel renkleri, doğal güneş ışığıyla aydınlatılmış parlak gündüz ışığı, @image karakterine keskin odaklanma, hareketli yayalarla dinamik kalabalık arka plan, akıcı ve doğal elde çekim hareketi, yüksek detaylı dokular, dost canlısı ve pozitif atmosfer, doğal dudak senkronizasyonu ile net ve duyulabilir İngilizce diyalog, ayak sesleri, kalabalık uğultusu ve trafik gürültüsü içeren hafif şehir arka plan sesleri, hevesli ama saygılı bir ruh hali, 15 saniyelik video.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7645f33a63df4f8e651ec6a7cadc482/thumbnails/thumbnail.jpg" width="600" alt="Shibuya Street Photography POV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7645f33a63df4f8e651ec6a7cadc482/thumbnails/thumbnail.jpg" width="600" alt="Shibuya Sokak Fotoğrafçılığı POV">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4744)**
 
 **Yazar:** [TheYudayVerse](https://x.com/yuday9909) | **Kaynak:** [Link](https://x.com/yuday9909/status/2054504092291170671) | **Yayınlandı:** May 13, 2026
 
 ---
-### @happycapyai @aimikoda GPT Image 2 storyboard prom
+### @happycapyai @aimikoda GPT Image 2 storyboard istemi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
 #### 📝 İstem
 
 ```
-Create a professional cinematic previs storyboard sheet.
+Profesyonel bir sinematik ön görselleştirme (previs) storyboard sayfası oluştur.
 
-PROJECT: Forest Rebirth
-SEQUENCE: Aggressive Contemporary Dance
-DURATION: 15 seconds
-PANELS: 12
-GRID: 3x4
-ASPECT RATIO: 16:9
-TONE: intense, aggressive, dark magical fantasy
-PACING: fast-paced
+PROJE: Ormanın Yeniden Doğuşu (Forest Rebirth)
+SEKANS: Agresif Çağdaş Dans
+SÜRE: 15 saniye
+PANEL SAYISI: 12
+IZGARA: 3x4
+EN-BOY ORANI: 16:9
+TON: yoğun, agresif, karanlık büyülü fantezi
+TEMPO: hızlı
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fec08378fd970afb8c779ac67f8eb547/thumbnails/thumbnail.jpg" width="600" alt="@happycapyai @aimikoda GPT Image 2 storyboard prom">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fec08378fd970afb8c779ac67f8eb547/thumbnails/thumbnail.jpg" width="600" alt="@happycapyai @aimikoda GPT Image 2 storyboard istemi">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4745)**
 
@@ -1362,24 +1359,24 @@ Küçük bir daire. Plak çalıyor. Kadın bavulunu topluyor. Adam izliyor.
 **Yazar:** [Marco "Shikoba" Riccetti](https://x.com/shikoba_86) | **Kaynak:** [Link](https://x.com/shikoba_86/status/2054474165478936800) | **Yayınlandı:** May 13, 2026
 
 ---
-### Cinematic Kung Fu Action Video
+### Sinematik Kung Fu Aksiyon Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-energy prompt for generating a kung fu performance video using specific character sheet and storyboard references.
+> Belirli karakter sayfası ve storyboard referanslarını kullanarak kung fu performans videosu oluşturmaya yönelik yüksek enerjili bir komut.
 
 #### 📝 İstem
 
 ```
-Create a 15-second cinematic kung fu performance video.
+15 saniyelik sinematik bir kung fu performans videosu oluşturun.
 
-Use @[image1]  as the fixed character sheet reference. The character must strictly match the character sheet.
-Use @[image2]  as the storyboard reference.
+Sabit karakter sayfası referansı olarak @[image1] kullanın. Karakter, karakter sayfasıyla birebir eşleşmelidir.
+Storyboard referansı olarak @[image2] kullanın.
 
-Follow the storyboard shot by shot as the main
+Ana çekim olarak storyboard'u kare kare takip edin
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4630c04cf2d26f4e6deb2f2f88afaddb/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Kung Fu Action Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4630c04cf2d26f4e6deb2f2f88afaddb/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Kung Fu Aksiyon Videosu">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4749)**
 
@@ -1405,145 +1402,146 @@ Follow the storyboard shot by shot as the main
 **Yazar:** [Eesha](https://x.com/MissDelulu9) | **Kaynak:** [Link](https://x.com/MissDelulu9/status/2054458460167880939) | **Yayınlandı:** May 13, 2026
 
 ---
-### Luxury Nail Polish Beauty Commercial
+### Lüks Oje Güzellik Reklamı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fast-paced beauty ad prompt featuring high-shine nail polish application with professional broadcast aesthetics.
+> Profesyonel yayın estetiğine sahip, yüksek parlaklıkta oje uygulamasını içeren hızlı tempolu bir güzellik reklamı istemi.
 
 #### 📝 İstem
 
 ```
-A fast-paced, high-energy luxury beauty commercial featuring a confident young woman in a soft, glowing studio environment with clean pastel lighting, glossy reflections, and elegant highlights. The video opens with a macro close-up of a premium nail polish bottle slowly rotating under soft light, showcasing its crystal-clear glass, rich pigment, and metallic cap with a luxurious shine (0–3s).
-Quick cut to the woman gracefully picking up the bottle, her manicured nails already perfectly shaped, as she unscrews the cap with a smooth, satisfying twist sound, the brush emerging coated in thick, glossy polish (3–6s).
-Transition to an extreme close-up of her hand as she carefully applies the nail polish in one smooth stroke, the color spreading evenly with a rich, high-shine finish and flawless coverage (6–10s).
-Cut to a slow-motion shot of her fingers moving elegantly through soft light, showcasing the freshly painted nails reflecting a mirror-like gloss with subtle sparkles and luxury glow (10–13s).
-Final shot shows her confidently posing with her hand near her face, nails fully polished and radiant, while the nail polish bottle appears beside her with floating light particles and a soft cinematic glow (13–16s).
-Background music is upbeat, trendy, and sophisticated, matching a premium beauty ad vibe with smooth transitions, sharp cuts, and a polished, high-fashion aesthetic throughout.
+Yumuşak, ışıldayan bir stüdyo ortamında; temiz pastel aydınlatma, parlak yansımalar ve zarif vurgular eşliğinde kendine güvenen genç bir kadının yer aldığı, hızlı tempolu ve yüksek enerjili bir lüks güzellik reklamı. Video, birinci sınıf bir oje şişesinin yumuşak ışık altında yavaşça dönerek kristal netliğindeki camını, zengin pigmentini ve lüks bir parlaklığa sahip metalik kapağını sergilediği makro bir yakın çekimle başlar (0–3 sn).
+Kadının, manikürlü ve mükemmel şekilli tırnaklarıyla şişeyi zarif bir şekilde eline aldığı ve kapağı pürüzsüz, tatmin edici bir çevirme sesiyle açtığı, fırçanın yoğun ve parlak oje ile kaplı bir şekilde ortaya çıktığı sahneye hızlı bir geçiş yapılır (3–6 sn).
+Ojenin tek bir pürüzsüz hamleyle dikkatlice uygulandığı, rengin zengin, yüksek parlaklıkta bir bitiş ve kusursuz bir kapatıcılıkla eşit şekilde yayıldığı elinin aşırı yakın çekimine geçiş yapılır (6–10 sn).
+Parmaklarının yumuşak ışıkta zarifçe hareket ettiği, yeni boyanmış tırnakların ince ışıltılar ve lüks bir parıltıyla ayna benzeri bir parlaklığı yansıttığı ağır çekim bir sahneye geçilir (10–13 sn).
+Son sahnede, tırnakları tamamen boyanmış ve ışıldayan bir şekilde elini yüzüne yakın tutarak kendine güvenle poz veren kadın görülürken, yanında yüzen ışık parçacıkları ve yumuşak sinematik bir parıltıyla oje şişesi belirir (13–16 sn).
+Arka plan müziği; pürüzsüz geçişler, keskin kurgular ve baştan sona cilalı, yüksek moda estetiği ile birinci sınıf bir güzellik reklamı havasına uygun, hareketli, trend ve sofistikedir.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31172f84b8227fde3e2ebc618b8eda95/thumbnails/thumbnail.jpg" width="600" alt="Luxury Nail Polish Beauty Commercial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31172f84b8227fde3e2ebc618b8eda95/thumbnails/thumbnail.jpg" width="600" alt="Lüks Oje Güzellik Reklamı">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4742)**
 
 **Yazar:** [Red chili 🌶️](https://x.com/Redchili105) | **Kaynak:** [Link](https://x.com/Redchili105/status/2054452325045895422) | **Yayınlandı:** May 13, 2026
 
 ---
-### IPL Style Couple Broadcast Photo
+### IPL Tarzı Çift Yayın Fotoğrafı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A tutorial for creating a realistic stadium broadcast shot of a couple during a cricket match using image-to-video techniques.
+> Görüntüden videoya tekniklerini kullanarak bir kriket maçı sırasında stadyumda yayınlanan gerçekçi bir çift çekimi oluşturmaya yönelik bir eğitim.
 
 #### 📝 İstem
 
 ```
-Create a photorealistic 16:9 live Indian cricket broadcast screenshot of a young couple captured from far away by a stadium zoom camera during an IPL-style night match.
-Use the provided face reference image for the man and keep his facial features highly accurate: same face shape, eyes, nose, lips, beard/stubble pattern, skin tone, hairstyle volume, and natural expression. Do not beautify or change his identity. He should look like the same person from the reference, only seated in a cricket stadium.
-Use the provided woman reference for the woman, but make her realistic and human, not doll-like. Keep her attractive but grounded with natural skin texture, realistic eyes, subtle imperfections, believable facial proportions, and soft candid expression.
-Scene:
-The couple is sitting among a dense crowd inside a packed Indian cricket stadium during a night match. They are not posing for the camera. They look like they were unexpectedly picked up by the long-range broadcast camera installed in the stadium. The camera is far away and zoomed in, like real IPL audience reaction shots.
-Important camera style:
-This should NOT look like a camera is directly in front of them.
-This should NOT look like a close DSLR portrait or staged photoshoot.
-Make it look like a telephoto broadcast zoom shot from across the stadium.
-Use long-lens compression, slightly flattened perspective, medium-wide crowd framing, mild atmospheric haze, subtle broadcast softness, minor motion blur, slight digital zoom artifacts, realistic compression noise, and live TV sharpness.
-The couple should be visible clearly, but not overly crisp or perfectly lit.
-Composition:
-Frame them from the audience section, with other spectators partially blocking the foreground and background. Some heads, shoulders, flags, and jerseys should naturally overlap the frame, making it feel like the broadcast camera is peeking through the crowd. The couple should be seated in the middle rows, not isolated. Keep surrounding fans close to them so they feel integrated in the stadium crowd.
-Pose and emotion:
-The man has his arm naturally around the woman’s shoulder and holds a red-and-silver soda can in his other hand. He wears a light blue casual shirt or a light checkered shirt, matching the cool blue stadium vibe. The woman wears a blue summer dress. They are looking at each other with shy, warm, candid chemistry, as if they just realized they are on the big screen. Their expressions should be natural, slightly surprised, and sweet, not posed.
-Lighting:
-Use only ambient stadium lighting and weak spill light from the cricket field. No cinematic spotlight. No dramatic key light. No beauty lighting. The couple should blend into the crowd brightness naturally, like a real live match broadcast. Skin tones should have natural stadium-light shadows and slight unevenness.
-Background:
-Packed Indian cricket stadium, night match atmosphere, fans in blue jerseys, waving flags, LED ribbon boards, stadium seating, blurred crowd movement, lively but realistic environment. The crowd should feel dense and natural, not generated or empty.
-Broadcast overlay:
-Add a Star Sports-style Indian cricket broadcast presentation:
+IPL tarzı bir gece maçı sırasında, stadyum zoom kamerasıyla uzaktan yakalanmış, 16:9 formatında, fotorealistik bir Hint kriket yayını ekran görüntüsü oluşturun.
+Erkek için sağlanan yüz referans görselini kullanın ve yüz hatlarını (yüz şekli, gözler, burun, dudaklar, sakal/kirli sakal yapısı, cilt tonu, saç hacmi ve doğal ifade) son derece doğru tutun. Güzelleştirme yapmayın veya kimliğini değiştirmeyin. Referans görseldeki kişiyle aynı görünmeli, sadece bir kriket stadyumunda oturuyor olmalı.
+Kadın için sağlanan referans görselini kullanın ancak onu oyuncak bebek gibi değil, gerçekçi ve insani yapın. Çekici ama doğal cilt dokusu, gerçekçi gözler, hafif kusurlar, inandırıcı yüz oranları ve yumuşak, doğal bir ifadeyle gerçekçi tutun.
+Sahne:
+Çift, gece maçı sırasında tıklım tıklım dolu bir Hint kriket stadyumunda, yoğun bir kalabalığın arasında oturuyor. Kameraya poz vermiyorlar. Stadyuma yerleştirilmiş uzun menzilli yayın kamerası tarafından beklenmedik bir şekilde çekilmiş gibi görünüyorlar. Kamera çok uzakta ve gerçek IPL seyirci tepki çekimleri gibi zoom yapılmış durumda.
+Önemli kamera stili:
+Kamera doğrudan önlerindeymiş gibi görünmemeli.
+Yakın bir DSLR portresi veya kurgulanmış bir fotoğraf çekimi gibi görünmemeli.
+Stadyumun karşısından çekilmiş bir telefoto yayın zoom çekimi gibi görünmesini sağlayın.
+Uzun lens sıkıştırması, hafif düzleştirilmiş perspektif, orta-geniş kalabalık kadrajı, hafif atmosferik pus, ince yayın yumuşaklığı, küçük hareket bulanıklığı, hafif dijital zoom bozulmaları, gerçekçi sıkıştırma gürültüsü ve canlı TV keskinliği kullanın.
+Çift net bir şekilde görünmeli ancak aşırı keskin veya mükemmel aydınlatılmış olmamalı.
+Kompozisyon:
+Onları seyirci bölümünden kadraja alın; ön planda ve arka planda diğer seyirciler kısmen görüşü engellemeli. Bazı başlar, omuzlar, bayraklar ve formalar doğal bir şekilde kadrajın üzerine gelmeli, böylece yayın kamerasının kalabalığın arasından baktığı hissi yaratılmalı. Çift orta sıralarda oturmalı, izole olmamalı. Stadyum kalabalığına entegre olduklarını hissettirmek için çevrelerindeki taraftarları onlara yakın tutun.
+Poz ve duygu:
+Erkeğin kolu doğal bir şekilde kadının omzunda ve diğer elinde kırmızı-gümüş bir soda kutusu tutuyor. Serin mavi stadyum atmosferine uyum sağlayan açık mavi günlük bir gömlek veya hafif kareli bir gömlek giyiyor. Kadın mavi bir yazlık elbise giyiyor. Büyük ekranda olduklarını yeni fark etmişler gibi birbirlerine utangaç, sıcak ve doğal bir kimyayla bakıyorlar. İfadeleri poz verilmiş değil, doğal, hafif şaşkın ve tatlı olmalı.
+Aydınlatma:
+Sadece ortam stadyum aydınlatmasını ve kriket sahasından gelen zayıf yansıma ışığını kullanın. Sinematik spot ışığı yok. Dramatik ana ışık yok. Güzellik aydınlatması yok. Çift, gerçek bir canlı maç yayını gibi kalabalığın parlaklığına doğal bir şekilde karışmalı. Cilt tonlarında doğal stadyum ışığı gölgeleri ve hafif pürüzler olmalı.
+Arka plan:
+Tıklım tıklım Hint kriket stadyumu, gece maçı atmosferi, mavi formalı taraftarlar, sallanan bayraklar, LED şerit panolar, stadyum koltukları, bulanık kalabalık hareketi, canlı ama gerçekçi bir ortam. Kalabalık, oluşturulmuş veya boş değil, yoğun ve doğal hissettirmeli.
+Yayın arayüzü (Overlay):
+Star Sports tarzı bir Hint kriket yayını sunumu ekleyin:
 
-channel watermark in the top corner, inspired by Indian sports TV
+Hint spor TV'lerinden esinlenen köşe kanal logosu
 
-LIVE tag
+CANLI (LIVE) etiketi
 
-modern cricket scoreboard lower-third
+modern kriket skor tablosu (alt bant)
 
-fictional team names only
+sadece kurgusal takım isimleri
 
-fictional score, overs, wickets
+kurgusal skor, over sayısı, wicket sayısı
 
-run rate or required run rate
+run rate veya gerekli run rate
 
-batsman and bowler stats
+vurucu ve atıcı istatistikleri
 
-small commentary ticker
+küçük yorum bandı
 
-clean layered TV graphics
+temiz katmanlı TV grafikleri
 
-Do not use real IPL team names, real player names, real sponsors, or real match details. Use fictional teams and fictional players.
-Quality:
-Ultra-photorealistic, authentic live sports telecast look, realistic human skin texture, natural fabric details, believable stadium zoom-camera perspective, subtle compression artifacts, slightly imperfect broadcast capture, candid audience reaction moment.Negative prompt:
-Do not make it look like a professional portrait photoshoot.
-Do not make the couple look directly into the camera.
-Do not use cinematic lighting.
-Do not isolate them from the crowd.
-Do not make the faces overly smooth or doll-like.
-Do not make the man’s face generic.
-Do not change the man’s identity from the reference image.
-Do not create fake plastic skin.
-Do not use real IPL team names or real player names.
-Do not make the scoreboard unreadable or messy.
-Do not make it look like a front-facing mobile photo.
+Gerçek IPL takım isimleri, gerçek oyuncu isimleri, gerçek sponsorlar veya gerçek maç detayları kullanmayın. Kurgusal takımlar ve kurgusal oyuncular kullanın.
+Kalite:
+Ultra fotorealistik, otantik canlı spor yayını görünümü, gerçekçi insan cildi dokusu, doğal kumaş detayları, inandırıcı stadyum zoom-kamera perspektifi, ince sıkıştırma bozulmaları, hafif kusurlu yayın görüntüsü, doğal seyirci tepkisi anı.
+Negatif istem (Negative prompt):
+Profesyonel portre fotoğraf çekimi gibi görünmesini sağlamayın.
+Çiftin doğrudan kameraya bakmasını sağlamayın.
+Sinematik aydınlatma kullanmayın.
+Onları kalabalıktan izole etmeyin.
+Yüzleri aşırı pürüzsüz veya oyuncak bebek gibi yapmayın.
+Erkeğin yüzünü jenerik yapmayın.
+Erkeğin kimliğini referans görselden değiştirmeyin.
+Sahte plastik cilt oluşturmayın.
+Gerçek IPL takım isimleri veya gerçek oyuncu isimleri kullanmayın.
+Skor tablosunu okunmaz veya karmaşık yapmayın.
+Önden çekilmiş bir mobil fotoğraf gibi görünmesini sağlamayın.
 
 ---------------------------------------------
 
-Video Generation prompt:
+Video Oluşturma istemi:
 
-Create a realistic 15-second single-take live IPL-style Indian cricket broadcast crowd cutaway during a packed night match. Telephoto long-lens zoom shot from far away in the stadium, like a professional audience camera operator spotting the couple naturally. Use realistic broadcast lens compression, slight softness, mild motion blur, subtle TV grain, digital compression artifacts, and authentic sports framing. No cuts, no angle changes, single continuous shot only.
+15 saniyelik, tek plan, canlı IPL tarzı bir Hint kriket yayını kalabalık kesiti oluşturun. Stadyumun çok uzağından, profesyonel bir seyirci kameramanının çifti doğal bir şekilde fark etmesi gibi telefoto uzun lens zoom çekimi. Gerçekçi yayın lensi sıkıştırması, hafif yumuşaklık, hafif hareket bulanıklığı, ince TV greni, dijital sıkıştırma bozulmaları ve otantik spor kadrajı kullanın. Kesme yok, açı değişikliği yok, sadece tek sürekli çekim.
 
-The couple must exactly match the reference image: Boyfriend preserves identical facial structure, hairstyle, stubble/beard pattern, skin tone, and natural expression. He wears the same light grey-blue small check shirt. One arm rests naturally around the girl’s shoulder. He holds a silver-and-red soda can in his other hand at the start. Girl matches exact appearance, hairstyle, makeup, and wears the same blue floral summer dress. Both remain seated throughout.
+Çift, referans görselle tam olarak eşleşmelidir: Erkek arkadaş aynı yüz yapısını, saç stilini, kirli sakal/sakal yapısını, cilt tonunu ve doğal ifadeyi korumalıdır. Aynı açık gri-mavi küçük kareli gömleği giyer. Bir kolu doğal bir şekilde kızın omzunda durur. Diğer elinde başlangıçta gümüş-kırmızı bir soda kutusu tutar. Kız, tam görünümü, saç stili, makyajı ile eşleşir ve aynı mavi çiçekli yazlık elbiseyi giyer. Her ikisi de çekim boyunca oturur.
 
-Environment: Dense packed Indian cricket stadium at night, IPL energy, blue jerseys, stadium seats, LED boards, bright floodlights, natural ambient lighting. Couple embedded in crowd with partial heads/shoulders in foreground and background for authentic zoomed-in broadcast feel.
+Ortam: Gece, yoğun dolu Hint kriket stadyumu, IPL enerjisi, mavi formalar, stadyum koltukları, LED panolar, parlak projektörler, doğal ortam aydınlatması. Çift, otantik zoom yapılmış yayın hissi için ön planda ve arka planda kısmi başlar/omuzlarla kalabalığın içine yerleştirilmiştir.
 
-Action timing (natural, subtle, non-staged):
+Aksiyon zamanlaması (doğal, ince, kurgulanmamış):
 
-0-4s: Camera lands smoothly on the couple. Boyfriend casually watches the match, relaxed smile reacting to stadium screen. Girl notices they’re on broadcast, smiles shyly, avoids direct eye contact. Slight natural surprise.
+0-4. saniye: Kamera yumuşak bir şekilde çiftin üzerine iner. Erkek arkadaş maçı rahat bir şekilde izler, stadyum ekranına tepki vererek rahat bir gülümseme sergiler. Kız yayında olduklarını fark eder, utangaç bir şekilde gülümser, doğrudan göz temasından kaçınır. Hafif bir doğal şaşkınlık.
 
-4-7s: Boyfriend lifts soda can slightly in playful celebratory gesture (still focused on match). Girl becomes shy, briefly hides part of her smiling face with hands. Surrounding crowd reacts naturally.
+4-7. saniye: Erkek arkadaş, soda kutusunu hafifçe kutlama jestiyle kaldırır (hala maça odaklıdır). Kız utangaçlaşır, gülümseyen yüzünün bir kısmını elleriyle kapatır. Çevredeki kalabalık doğal tepki verir.
 
-7-11s: Boyfriend lowers can, forms half-heart gesture with fingers toward girl. She shyly completes the heart. Subtle, spontaneous, believable. Nearby spectators cheer lightly and laugh.
+7-11. saniye: Erkek arkadaş kutuyu indirir, parmaklarıyla kıza doğru yarım kalp işareti yapar. Kız utangaç bir şekilde kalbi tamamlar. İnce, spontane, inandırıcı. Yakındaki seyirciler hafifçe tezahürat yapar ve güler.
 
-11-13s: Girl leans in for soft peck on his cheek. Boyfriend responds with proud grin and small laugh, still immersed in match atmosphere.
+11-13. saniye: Kız, yanağına yumuşak bir öpücük kondurmak için eğilir. Erkek arkadaş, hala maç atmosferine dalmış bir şekilde gururlu bir sırıtış ve küçük bir kahkahayla karşılık verir.
 
-13-15s: Both slightly embarrassed, soft smiles. Girl shyly hides smile and looks away. Boyfriend returns attention to cricket screen. Both stay seated comfortably.
+13-15. saniye: Her ikisi de hafifçe utanır, yumuşak gülümsemeler. Kız utangaç bir şekilde gülümsemesini saklar ve başka yöne bakar. Erkek arkadaş dikkatini kriket ekranına geri çevirir. Her ikisi de rahat bir şekilde oturmaya devam eder.
 
-Do NOT make them look directly at camera often. Minimal eye contact. No exaggerated acting. Feel like genuine live crowd moment.
+Sık sık doğrudan kameraya bakmalarını sağlamayın. Minimal göz teması. Abartılı oyunculuk yok. Gerçek bir canlı kalabalık anı gibi hissettirin.
 
-Broadcast graphics: Static IPL-style scorebug at bottom throughout (no changes). Fictional teams e.g. Mumbai Indians vs Chennai Super Kings, Score: MI 142/4 (16.2 overs), RR 8.75 | RRR 9.2. Batsman & bowler stats. LIVE tag. Top-corner channel watermark (e.g. STAR SPORTS LIVE).
+Grafikler: Altta sabit IPL tarzı skor tablosu (değişiklik yok). Kurgusal takımlar (örneğin Mumbai Indians vs Chennai Super Kings), Skor: MI 142/4 (16.2 over), RR 8.75 | RRR 9.2. Vurucu ve atıcı istatistikleri. CANLI etiketi. Köşe kanal logosu (örneğin STAR SPORTS LIVE).
 
-Audio: Natural stadium ambience, distant cheering, crowd murmur, soft laughter during heart & kiss. Two male Indian cricket commentators casually reacting: “Look at that lovely moment in the crowd!” “Aww, heart gesture and a kiss – perfect IPL night!”
+Ses: Doğal stadyum ambiyansı, uzaktan tezahüratlar, kalabalık uğultusu, kalp ve öpücük anında hafif kahkahalar. İki Hint kriket yorumcusu rahat bir şekilde tepki veriyor: “Kalabalıkta o güzel ana bakın!” “Aww, kalp işareti ve bir öpücük – mükemmel bir IPL gecesi!”
 
-No couple dialogue. No whispering. Preserve exact identities and wardrobe. Far-away telephoto broadcast look, not cinematic or close-up. Must feel authentic IPL live cutaway.
+Çiftin diyaloğu yok. Fısıldaşma yok. Tam kimlikleri ve kıyafetleri koruyun. Sinematik veya yakın çekim değil, uzaktan telefoto yayın görünümü. Otantik IPL canlı kesiti gibi hissettirmeli.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/415e0b9eadb44c9a16aae165437f9bbd/thumbnails/thumbnail.jpg" width="600" alt="IPL Style Couple Broadcast Photo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/415e0b9eadb44c9a16aae165437f9bbd/thumbnails/thumbnail.jpg" width="600" alt="IPL Tarzı Çift Yayın Fotoğrafı">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4728)**
 
 **Yazar:** [Sonam](https://x.com/XSydneyFan) | **Kaynak:** [Link](https://x.com/XSydneyFan/status/2054443409881043384) | **Yayınlandı:** May 13, 2026
 
 ---
-### Historical Settlement Aerial Evolution
+### Tarihi Yerleşimlerin Havadan Evrimi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An aerial timelapse prompt for Seedance 2.0 that shows a riverside settlement evolving over thousands of years.
+> Nehir kenarındaki bir yerleşimin binlerce yıl boyunca evrimini gösteren, Seedance 2.0 için hazırlanmış havadan hızlandırılmış çekim istemi.
 
 #### 📝 İstem
 
 ```
-Locked-off ultra-wide cinematic aerial timelapse of the exact same riverside settlement evolving continuously across thousands of years, using the reference image as the permanent spatial foundation. The camera must remain
+Referans görseli kalıcı mekansal temel olarak kullanan ve nehir kenarındaki aynı yerleşimin binlerce yıl boyunca sürekli evrimini gösteren, sabitlenmiş ultra geniş açılı sinematik havadan hızlandırılmış çekim. Kamera mutlaka
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/42a3ba51c459a9e84137c449b7fdcb6e/thumbnails/thumbnail.jpg" width="600" alt="Historical Settlement Aerial Evolution">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/42a3ba51c459a9e84137c449b7fdcb6e/thumbnails/thumbnail.jpg" width="600" alt="Tarihi Yerleşimlerin Havadan Evrimi">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4747)**
 
@@ -1722,27 +1720,27 @@ Stil anahtar kelimeleri: sinematik korku, gotik vampir, yavaş kamera hareketi, 
 **Yazar:** [Aaliyah | AI](https://x.com/The_Kremlinn) | **Kaynak:** [Link](https://x.com/The_Kremlinn/status/2054418680692228271) | **Yayınlandı:** May 13, 2026
 
 ---
-### Luxury Lip Gloss Beauty Commercial
+### Lüks Dudak Parlatıcısı Güzellik Reklamı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional beauty commercial prompt focusing on lip gloss application with cinematic lighting and macro shots.
+> Sinematik aydınlatma ve makro çekimlerle dudak parlatıcısı uygulamasına odaklanan profesyonel bir güzellik reklamı istemi.
 
 #### 📝 İstem
 
 ```
-Ultra-cinematic luxury lip gloss commercial featuring a confident beautiful young woman inside a glowing pastel beauty studio with soft pink and champagne lighting reflections. The video opens with an extreme macro shot of a premium lip gloss tube slowly rotating in mid-air with glossy reflections, luxury makeup-commercial aesthetic, liquid sparkles floating around the product, ultra-detailed packaging, cinematic beauty lighting. 
+Yumuşak pembe ve şampanya rengi ışık yansımalarıyla dolu, pastel tonlardaki ışıl ışıl bir güzellik stüdyosunda geçen, özgüvenli ve güzel genç bir kadının yer aldığı ultra sinematik lüks dudak parlatıcısı reklamı. Video, havada yavaşça dönen birinci sınıf bir dudak parlatıcısı tüpünün aşırı makro çekimiyle başlıyor; parlak yansımalar, lüks makyaj reklamı estetiği, ürünün etrafında süzülen sıvı ışıltılar, ultra detaylı ambalaj ve sinematik güzellik aydınlatması.
 
-Quick transition to the girl picking up the lip gloss and opening it with a satisfying soft pop sound, camera focusing on the glossy applicator with rich wet texture and realistic shine. Smooth cinematic camera motion, shallow depth of field, ultra-beauty editorial vibe.
+Kızın dudak parlatıcısını alıp tatmin edici, yumuşak bir 'tık' sesiyle açtığı sahneye hızlı geçiş; kamera, zengin ıslak dokusu ve gerçekçi parlaklığıyla parlatıcı aplikatörüne odaklanıyor. Akıcı sinematik kamera hareketi, sığ alan derinliği ve ultra güzellik editoryal havası.
 
-Extreme close-up of lips during application, soft glossy texture spreading smoothly across lips with hydrated glass-like shine, realistic skin texture, luxury makeup advertisement style, glowing reflections, subtle sparkle particles floating in frame.
+Uygulama sırasında dudakların aşırı yakın çekimi; dudaklara pürüzsüzce yayılan yumuşak, parlak doku, nemli cam benzeri bir ışıltı, gerçekçi cilt dokusu, lüks makyaj reklamı stili, parlayan yansımalar ve kare içinde süzülen ince ışıltı parçacıkları.
 
-Slow-motion beauty shots of hair movement, confident eye contact, glossy lips catching studio light beautifully, dreamy feminine atmosphere, clean luxury pastel background, smooth cinematic transitions, premium skincare-commercial mood.
+Saç hareketlerinin ağır çekim güzellik görüntüleri, özgüvenli göz teması, stüdyo ışığını büyüleyici bir şekilde yakalayan parlak dudaklar, rüya gibi feminen bir atmosfer, temiz ve lüks pastel arka plan, akıcı sinematik geçişler ve premium cilt bakımı reklamı havası.
 
-Final hero shot with the girl smiling confidently while holding the lip gloss near camera, floating sparkles, glossy reflections, glowing beauty aura, modern TikTok luxury beauty ad aesthetic, ultra-realistic, cinematic color grading, 4k beauty campaign quality, smooth motion blur, elegant camera work, premium makeup-commercial finish.
+Dudak parlatıcısını kameraya yakın tutarak özgüvenle gülümseyen kızın final çekimi; süzülen ışıltılar, parlak yansımalar, ışıldayan güzellik aurası, modern TikTok lüks güzellik reklamı estetiği, ultra gerçekçi, sinematik renk düzenleme, 4k güzellik kampanyası kalitesi, pürüzsüz hareket bulanıklığı, zarif kamera çalışması ve premium makyaj reklamı bitişi.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8501b32d414b3377880ac4bbf73d3b4f/thumbnails/thumbnail.jpg" width="600" alt="Luxury Lip Gloss Beauty Commercial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8501b32d414b3377880ac4bbf73d3b4f/thumbnails/thumbnail.jpg" width="600" alt="Lüks Dudak Parlatıcısı Güzellik Reklamı">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4741)**
 
@@ -1854,19 +1852,19 @@ Gece vakti yoğun neon ışıklı kalabalık bir şehir caddesinde şiddetli ya�
 **Yazar:** [#𝐂𝐎𝐋𝐎𝐒𝐒𝐀𝐋𝐌𝐄𝐈𝐑𝐀𝐒🐽](https://x.com/colossalmeiraz) | **Kaynak:** [Link](https://x.com/colossalmeiraz/status/2054402433514688922) | **Yayınlandı:** May 13, 2026
 
 ---
-### Baseball Stadium Broadcast Reaction Shot
+### Beyzbol Stadyumu Yayın Tepki Çekimi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a woman reacting to a baseball game, featuring realistic broadcast lighting and shallow depth of field.
+> Bir beyzbol maçına tepki veren bir kadının yer aldığı, gerçekçi yayın aydınlatması ve sığ alan derinliğine sahip sinematik bir video istemi.
 
 #### 📝 İstem
 
 ```
-Cinematic, ultra-realistic video of a stunning young woman with long, flowing brown hair sitting in the stands at a baseball game. She is wearing a white baseball jersey with bold red lettering. She has heavy, glamorous makeup with winged eyeliner and a soft matte finish. She is seen taking a sip of a dark beverage from a clear plastic cup, then looking directly into the camera with a subtle, confident smile and clapping. The background shows a blurry stadium audience and a digital sports broadcast scoreboard in the upper corner. 8K resolution, shallow depth of field, sharp focus on her face, professional broadcast lighting.
+Beyzbol maçında tribünlerde oturan, uzun ve dalgalı kahverengi saçlı, çarpıcı genç bir kadının sinematik, ultra gerçekçi videosu. Üzerinde kalın kırmızı harflerle yazılmış beyaz bir beyzbol forması var. Kuyruklu eyeliner ve yumuşak mat bitişli, göz alıcı ve yoğun bir makyaja sahip. Şeffaf plastik bir bardaktan koyu renkli bir içecekten yudum alırken, ardından doğrudan kameraya bakarak hafif, kendinden emin bir gülümsemeyle alkışladığı görülüyor. Arka planda bulanık bir stadyum seyircisi ve üst köşede dijital bir spor yayın skor tabelası yer alıyor. 8K çözünürlük, sığ alan derinliği, yüzüne odaklanmış keskin netlik, profesyonel yayın aydınlatması.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fa842f5a48771e068e2987018a68c1e6/thumbnails/thumbnail.jpg" width="600" alt="Baseball Stadium Broadcast Reaction Shot">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fa842f5a48771e068e2987018a68c1e6/thumbnails/thumbnail.jpg" width="600" alt="Beyzbol Stadyumu Yayın Tepki Çekimi">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4730)**
 
@@ -1934,92 +1932,92 @@ Kalabalık bir kapalı spor arenasında geçen, fotogerçekçi ve sinematik bir 
 **Yazar:** [Taaruk](https://x.com/Taaruk_) | **Kaynak:** [Link](https://x.com/Taaruk_/status/2054389866096701826) | **Yayınlandı:** May 13, 2026
 
 ---
-### Whimsical Chibi Breakfast Scene
+### Eğlenceli Chibi Kahvaltı Sahnesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 3D render prompt for a cozy morning scene with a chibi girl and anthropomorphic breakfast items.
+> Chibi bir kız ve antropomorfik kahvaltılıkların yer aldığı samimi bir sabah sahnesi için 3D render istemi.
 
 #### 📝 İstem
 
 ```
-Create ultra-fine highly detailed 3D render of whimsical morning scene, features a realistic Chibi style cute girl sits leaning against oversized coffee mug, she is surrounded by stylized anthropomorphic breakfast items such as Pancakes, breakfast sides, cereal and juice. Cozy sunlit bedroom setting, bright morning light, soft creams, warm tans, pastel accents color palette, 8K UHD.
+Eğlenceli bir sabah sahnesinin ultra ince ve yüksek detaylı 3D render'ını oluşturun; dev bir kahve kupasına yaslanmış, gerçekçi Chibi tarzında sevimli bir kız ve onun etrafını saran; krepler, kahvaltılık yan ürünler, mısır gevreği ve meyve suyu gibi stilize edilmiş antropomorfik kahvaltılıklar yer alsın. Samimi, güneş alan bir yatak odası ortamı, parlak sabah ışığı, yumuşak krem tonları, sıcak ten renkleri, pastel vurgulu renk paleti, 8K UHD.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1778742477231_0zho8l_HIKlxt2aYAAEkAR.jpg" width="600" alt="Whimsical Chibi Breakfast Scene">
+<img src="https://cms-assets.youmind.com/media/1778742477231_0zho8l_HIKlxt2aYAAEkAR.jpg" width="600" alt="Eğlenceli Chibi Kahvaltı Sahnesi">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4740)**
 
 **Yazar:** [Zyrella](https://x.com/Zyrellix) | **Kaynak:** [Link](https://x.com/Zyrellix/status/2054386686847861191) | **Yayınlandı:** May 13, 2026
 
 ---
-### Apocalyptic Dying Star Sci-Fi Sequence
+### Kıyamet Temalı Ölen Yıldız Bilim Kurgu Sekansı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dramatic video prompt for a sci-fi sequence depicting the final moments of humanity as the sun expands and fractures.
+> Güneşin genişleyip parçalandığı ve insanlığın son anlarını betimleyen, bilim kurgu sekansına yönelik dramatik bir video istemi.
 
 #### 📝 İstem
 
 ```
-A cinematic apocalyptic sci-fi sequence capturing humanity’s final moments beneath a dying star.
+Ölen bir yıldızın altında insanlığın son anlarını yakalayan sinematik, kıyamet temalı bir bilim kurgu sekansı.
 
-0–3s: Scientists inside a massive observatory stare at monitors flashing critical solar warnings. Outside, daylight suddenly shifts into an unnatural deep orange glow. People stop in the streets and look upward.
+0–3 sn: Devasa bir gözlemevinin içindeki bilim insanları, kritik güneş uyarılarının yanıp söndüğü monitörlere bakıyor. Dışarıda gün ışığı aniden doğal olmayan derin bir turuncu parıltıya dönüşüyor. İnsanlar sokaklarda durup yukarı bakıyor.
 
-3–6s: The sun begins expanding visibly in the sky. Solar flares erupt like gigantic waves of fire. Emergency alarms echo worldwide while satellites and aircraft malfunction midair.
+3–6 sn: Güneş gökyüzünde gözle görülür şekilde genişlemeye başlıyor. Güneş patlamaları devasa ateş dalgaları gibi yükseliyor. Acil durum alarmları dünya çapında yankılanırken uydular ve uçaklar havada arızalanıyor.
 
-6–9s: Massive cinematic wide shot — the sun slowly fractures in terrifying slow motion, sending glowing shockwaves across space. Clouds ignite with orange and crimson light as oceans and cities reflect the burning sky.
+6–9 sn: Devasa sinematik geniş açı — güneş korkutucu bir ağır çekimle yavaşça parçalanıyor ve uzaya parlayan şok dalgaları gönderiyor. Bulutlar turuncu ve kızıl ışıkla tutuşurken, okyanuslar ve şehirler yanan gökyüzünü yansıtıyor.
 
-9–12s: Emotional close-ups of scientists and civilians watching helplessly in silence. Gravity distortions ripple through the atmosphere. Ash and glowing particles drift through empty streets as power grids fail.
+9–12 sn: Çaresizlik içinde sessizce izleyen bilim insanlarının ve sivillerin duygusal yakın plan çekimleri. Yerçekimi bozulmaları atmosferde dalgalanıyor. Güç şebekeleri çökerken kül ve parlayan parçacıklar boş sokaklarda sürükleniyor.
 
-12–15s: Final ultra-wide shot from Earth’s surface. The exploding sun fills the horizon like a cosmic firestorm while the entire sky becomes blinding white and gold. Sound fades into silence before complete blackout.
+12–15 sn: Dünya yüzeyinden son ultra geniş açılı çekim. Patlayan güneş, tüm gökyüzü kör edici bir beyaz ve altına bürünürken ufku kozmik bir ateş fırtınası gibi dolduruyor. Ses, tamamen kararmadan önce sessizliğe gömülüyor.
 
-Style: ultra cinematic realism, cosmic-scale destruction, emotional sci-fi atmosphere, IMAX-level visuals, volumetric fire and plasma effects, realistic astrophysics-inspired lighting, dramatic sound design feel, film-grade apocalyptic color grading.
+Stil: ultra sinematik gerçekçilik, kozmik ölçekte yıkım, duygusal bilim kurgu atmosferi, IMAX seviyesinde görseller, hacimsel ateş ve plazma efektleri, gerçekçi astrofizik esintili aydınlatma, dramatik ses tasarımı hissi, film kalitesinde kıyamet temalı renk düzenlemesi.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e4fa6a752719c1f137a3c667eb4d415/thumbnails/thumbnail.jpg" width="600" alt="Apocalyptic Dying Star Sci-Fi Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e4fa6a752719c1f137a3c667eb4d415/thumbnails/thumbnail.jpg" width="600" alt="Kıyamet Temalı Ölen Yıldız Bilim Kurgu Sekansı">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4735)**
 
 **Yazar:** [Nawal](https://x.com/nawalsehar) | **Kaynak:** [Link](https://x.com/nawalsehar/status/2054381139876536646) | **Yayınlandı:** May 13, 2026
 
 ---
-### Surreal Sports Broadcast Reaction
+### Sürreal Spor Yayını Tepkisi
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A cinematic video prompt describing a candid moment from a live sports broadcast, featuring a female fan in the stadium audience with realistic textures and broadcast overlays.
+> Canlı bir spor yayınından samimi bir anı betimleyen, stadyumdaki kadın bir taraftarı gerçekçi dokular ve yayın bindirmeleriyle sunan sinematik bir video istemi.
 
 #### 📝 İstem
 
 ```
-Surreal static broadcast image of a sports event, featuring a charismatic woman sitting in the crowded stands of a soccer stadium during a night game. She is wearing a dark brown sleeveless high-neck satin top and black square earrings, with shoulder-length light brown/blonde hair styled in soft waves. She is casually drinking from a tall blue aluminum can, with the other hand holding a half-eaten cheeseburger. Surrounding her are fans in vibrant yellow and blue soccer jerseys and scarves, creating a strong team color contrast. The scene feels realistic and cinematic, captured from a TV broadcast camera angle at midfield with a shallow depth of field. Includes realistic stadium seating, a crowded audience atmosphere, a broadcast overlay graphic in the top left showing real-time scores and game timers, and a sports network watermark in the top right. Natural arena lighting, detailed skin textures, sharp focus on the woman, slightly blurred background crowd, authentic live sports broadcast aesthetic, 16:9 composition.
+Bir futbol stadyumunda gece maçı sırasında kalabalık tribünlerde oturan karizmatik bir kadının yer aldığı, sürreal statik spor yayını görüntüsü. Kadın, koyu kahverengi kolsuz, dik yakalı saten bir üst ve siyah kare küpeler takıyor; omuz hizasındaki açık kahverengi/sarı saçları yumuşak dalgalar halinde şekillendirilmiş. Elinde uzun mavi bir alüminyum kutudan içeceğini yudumlarken, diğer elinde yarısı yenmiş bir çizburger tutuyor. Çevresinde, canlı sarı ve mavi futbol formaları ile atkıları giyen taraftarlar, güçlü bir takım rengi kontrastı oluşturuyor. Sahne, orta sahadan TV yayın kamerası açısıyla çekilmiş, sığ alan derinliğine sahip, gerçekçi ve sinematik bir his veriyor. Gerçekçi stadyum koltukları, kalabalık seyirci atmosferi, sol üst köşede gerçek zamanlı skorları ve oyun sürelerini gösteren bir yayın grafik bindirmesi ve sağ üst köşede bir spor kanalı filigranı içeriyor. Doğal arena aydınlatması, detaylı cilt dokuları, kadın üzerinde keskin odak, hafif bulanık arka plan kalabalığı, otantik canlı spor yayını estetiği, 16:9 kompozisyon.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b08ba88befe15b0c41c037b32234b9b/thumbnails/thumbnail.jpg" width="600" alt="Surreal Sports Broadcast Reaction">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b08ba88befe15b0c41c037b32234b9b/thumbnails/thumbnail.jpg" width="600" alt="Sürreal Spor Yayını Tepkisi">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4754)**
 
 **Yazar:** [熊三金Cole🐬TermMax](https://x.com/x_sanjin) | **Kaynak:** [Link](https://x.com/x_sanjin/status/2054378091871387682) | **Yayınlandı:** May 13, 2026
 
 ---
-### Glamorous Woman Stadium Broadcast
+### Stadyum Yayını Yapan Göz Alıcı Kadın
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A realistic sports broadcast style prompt of a glamorous woman eating a burger and drinking at a night football match.
+> Gece oynanan bir futbol maçında burger yiyip içecek içen göz alıcı bir kadının yer aldığı, gerçekçi spor yayını tarzında bir istem.
 
 #### 📝 İstem
 
 ```
-Ultra-realistic live sports broadcast shot of a glamorous woman sitting among a packed football stadium crowd during a night match. She wears a dark brown sleeveless satin high-neck top with black square earrings, while her shoulder-length blonde/light brown hair flows in soft waves. She casually drinks from a tall blue aluminum can while holding a half-eaten cheeseburger in the other hand.
+Gece oynanan bir maç sırasında dolu bir futbol stadyumundaki kalabalığın arasında oturan göz alıcı bir kadının ultra gerçekçi canlı spor yayını çekimi. Üzerinde koyu kahverengi, kolsuz, saten, yüksek yakalı bir üst ve siyah kare küpeler var; omuz hizasındaki sarı/açık kahverengi saçları yumuşak dalgalar halinde dökülüyor. Bir elinde yarısı yenmiş bir çizburger tutarken, diğer eliyle uzun mavi bir alüminyum kutudan içeceğini yudumluyor.
 
-Surrounded by passionate fans dressed in bright yellow and blue jerseys and scarves, creating a dramatic Al Nassr vs Al Hilal atmosphere. The image feels cinematic and candid, captured from a real TV broadcast camera angle with shallow depth of field.
+Parlak sarı ve mavi formalar ile atkılar giymiş tutkulu taraftarlarla çevrili; bu durum dramatik bir Al Nassr - Al Hilal atmosferi yaratıyor. Görüntü, sığ alan derinliğine sahip gerçek bir TV yayın kamerası açısından çekilmiş gibi sinematik ve doğal hissettiriyor.
 
-Include realistic stadium seating, energetic crowd atmosphere, live football score graphics and match timer in the top-left corner, plus a sports network watermark in the top-right. Natural stadium lighting, ultra-detailed skin texture, sharp focus on the woman with a softly blurred crowd background, authentic sports broadcast aesthetic, 16:9 composition.
+Gerçekçi stadyum koltukları, enerjik taraftar atmosferi, sol üst köşede canlı futbol skoru grafikleri ve maç süresi ile sağ üst köşede bir spor kanalı filigranı ekleyin. Doğal stadyum aydınlatması, ultra detaylı cilt dokusu, kadına odaklanmış keskin bir görüntü ve hafif bulanık bir kalabalık arka planı, otantik spor yayını estetiği, 16:9 kompozisyon.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d2833ef881e922ee7058afd4b3b5868/thumbnails/thumbnail.jpg" width="600" alt="Glamorous Woman Stadium Broadcast">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d2833ef881e922ee7058afd4b3b5868/thumbnails/thumbnail.jpg" width="600" alt="Stadyum Yayını Yapan Göz Alıcı Kadın">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4755)**
 
@@ -2922,6 +2920,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-05-14T07:12:23.347Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-05-14T10:38:56.661Z</sub>
 
 </div>

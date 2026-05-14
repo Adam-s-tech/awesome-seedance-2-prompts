@@ -361,34 +361,34 @@
 
 > 📝 按發布日期排序（最新優先）
 
-### Cinematic Soldier Transition Sequence
+### 電影級士兵轉場序列
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A complex multi-scene video prompt that transitions from a real-life handheld phone recording to a high-fidelity 3D animation of a tactical soldier with particle effects and heavy bass synchronization.
+> 一個複雜的多場景影片提示詞，從真實的手持手機錄影轉場至高保真 3D 動畫，呈現帶有粒子特效與重低音同步的戰術士兵。
 
 #### 📝 提示詞
 
 ```
-0:00 - 0:04: Spin and Showoff
-Visual Composition: The video starts with a vertical handheld phone shot. A bright computer monitor occupies the frame in a dim room with beige curtains. The monitor shows a character selection screen from a video game. The overall lighting is a mix of cool blue glow from the screen and soft, diffused ambient light. 
-Subject: A digital avatar of a soldier wearing a skull mask is visible on screen. The real-life subject is a man sitting in a black leather office chair. He wears a black beanie pressed down to his eyebrows, a thick red button-down jacket over a black shirt, and a small silver hoop earring in his left ear.
-Action: The man kicks off the ground to spin the office chair 90 degrees to the right to face the camera. His posture is rigid and confident. As the chair slows, he points his left index finger at the camera, leaning forward. His expression remains cold and motionless, locking eyes with the viewer.
-Camera: Initial slight shaking consistent with handheld shooting. Quick pan to follow the rotation. Soft focus during movement before locking back onto his face.
+0:00 - 0:04：旋轉與展示
+視覺構圖：影片以垂直手持手機拍攝開始。昏暗房間內，一台明亮的電腦螢幕佔據了畫面，背景是米色窗簾。螢幕上顯示著電子遊戲的角色選擇介面。整體光線融合了螢幕發出的冷藍色光芒與柔和的漫射環境光。
+主體：螢幕上可見一名戴著骷髏面具的士兵數位化身。現實中的主體是一名坐在黑色皮質辦公椅上的男子。他戴著一頂壓低至眉毛的黑色毛帽，黑色襯衫外搭一件厚實的紅色扣式外套，左耳戴著一個銀色小圓環耳環。
+動作：男子蹬地使辦公椅向右旋轉 90 度，正對鏡頭。他的姿勢僵硬且自信。當椅子減速時，他向前傾身，用左手食指指向鏡頭。他的表情冷峻且一動不動，與觀眾對視。
+攝影：初始帶有手持拍攝常見的輕微晃動。快速平移以跟隨旋轉。移動過程中呈現柔焦，隨後重新鎖定聚焦於他的臉部。
 
-0:04 - 0:07: Sparks and Iron Fist
-Visual Composition: A hard cut transitions to an ultra-realistic, dark 3D animated cinematic environment in a gloomy urban alley. Lit by faint moonlight and glowing embers.
-Subject: A massive tactical soldier in heavy armor wearing a full-face metallic gold skull mask and complex exoskeleton gear with gold plates.
-Action: The soldier stands imposingly. His right hand in a heavy mechanical gauntlet clenches into a fist. As the metal plates grind, a burst of golden sparks and digital particles explodes from the knuckles and fades in the air.
-Camera: Simulated handheld drift. Shallow depth of field keeping the sparks and mask in sharp focus.
+0:04 - 0:07：火花與鐵拳
+視覺構圖：硬切轉場至一個超寫實、黑暗的 3D 動畫電影場景，背景為陰暗的城市小巷。由微弱的月光與發光的餘燼照亮。
+主體：一名身穿重型裝甲的巨大戰術士兵，戴著全罩式金屬金色骷髏面具，穿著帶有金色飾板的複雜外骨骼裝備。
+動作：士兵站姿威嚴。他戴著重型機械手套的右手握成拳頭。隨著金屬板摩擦，一陣金色火花與數位粒子從指關節處爆發並在空氣中消散。
+攝影：模擬手持漂移感。淺景深效果，使火花與面具保持清晰對焦。
 
-0:07 - 0:11: Static Deterrence
-Visual Composition: A different angle in the same dark 3D environment. Stronger shadows on the gold-black armor with floating digital dust.
-Action: The soldier sits heavily on concrete debris, leaning forward with elbows on thighs. The movement shifts to internal tension with a 'standby breathing cycle' showing rhythmic chest movement. His head tilts down slowly while the mask's eye sockets remain locked on the camera.
-Camera: Medium close-up, slightly below eye level for a dominant feel, with a subtle digital zoom towards the mask.
+0:07 - 0:11：靜態威懾
+視覺構圖：同一黑暗 3D 環境下的不同角度。金黑色裝甲上的陰影更為強烈，伴隨漂浮的數位塵埃。
+動作：士兵沉重地坐在混凝土碎片上，手肘撐在大腿上向前傾身。動作轉變為內在張力，呈現出「待機呼吸循環」，顯示出有節奏的胸部起伏。他的頭部緩慢下垂，同時面具的眼窩始終鎖定鏡頭。
+攝影：中景特寫，視角略低於眼睛水平以營造支配感，並對面具進行細微的數位變焦。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b70c1358fefbc3910713412bbfac0af/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Soldier Transition Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b70c1358fefbc3910713412bbfac0af/thumbnails/thumbnail.jpg" width="600" alt="電影級士兵轉場序列">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4756)**
 
@@ -414,61 +414,61 @@ Camera: Medium close-up, slightly below eye level for a dominant feel, with a su
 **作者:** [migrok](https://x.com/migrok293703) | **來源:** [Link](https://x.com/migrok293703/status/2054686752153960534) | **發布時間:** May 13, 2026
 
 ---
-### Prompt:
-VIDEO RECONSTRUCTION METADATA
-- Duration: 
+### 提示詞：
+影片重建元數據
+- 時長：
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
 #### 📝 提示詞
 
 ```
-VIDEO RECONSTRUCTION METADATA
-- Duration: 0:15
-- Aspect Ratio / Format: Vertical smartphone video, 9:16
-- Visual Style: Casual amateur social media footage, bright natural daylight
-- Setting: A balcony with a metal railing overlooking a slanted, red and grey corrugated
+影片重建元數據
+- 時長：0:15
+- 長寬比 / 格式：直式手機影片，9:16
+- 視覺風格：休閒業餘社群媒體素材，明亮的自然日光
+- 場景：帶有金屬欄杆的陽台，俯瞰傾斜的紅色與灰色波浪板
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/214050c02f0552985bbb4dcc94f2a40f/thumbnails/thumbnail.jpg" width="600" alt="Prompt:
-VIDEO RECONSTRUCTION METADATA
-- Duration: ">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/214050c02f0552985bbb4dcc94f2a40f/thumbnails/thumbnail.jpg" width="600" alt="提示詞：
+影片重建元數據
+- 時長：">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4746)**
 
 **作者:** [A.I.Warper](https://x.com/AIWarper) | **來源:** [Link](https://x.com/AIWarper/status/2054665102838952128) | **發布時間:** May 13, 2026
 
 ---
-### Werewolf vs Vampire Office Battle
+### 狼人與吸血鬼的辦公室大戰
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fantasy action prompt depicting evolved werewolves defending their office against invading vampire commandos.
+> 一個奇幻動作提示詞，描述進化後的狼人保衛辦公室，抵禦入侵的吸血鬼突擊隊。
 
 #### 📝 提示詞
 
 ```
-Modern time, the werewolves have evolved and now learned to control their transformation, retaining semi-intelligence, but Vampire commandos have invaded their home office, time to fight!
+現代背景下，狼人已經進化並學會控制變身，保留了部分智力，但吸血鬼突擊隊入侵了他們的辦公室，是時候反擊了！
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/87a5577cba599805284467a2e9a443b0/thumbnails/thumbnail.jpg" width="600" alt="Werewolf vs Vampire Office Battle">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/87a5577cba599805284467a2e9a443b0/thumbnails/thumbnail.jpg" width="600" alt="狼人與吸血鬼的辦公室大戰">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4727)**
 
 **作者:** [Sparkful](https://x.com/SparkfulArt) | **來源:** [Link](https://x.com/SparkfulArt/status/2054659473269297517) | **發布時間:** May 13, 2026
 
 ---
-### Prompt : Create a 15 second high energy continuous
+### 提示詞：創作一個 15 秒高能量的連續鏡頭
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
 #### 📝 提示詞
 
 ```
-Create a 15 second high energy continuous shot featuring a confident male subject moving through rapidly evolving eras. The camera follows him in one fluid motion as he runs, spins, slides, and jumps forward while both his outfit and the environment transform around him.
+創作一個 15 秒高能量的連續鏡頭，主角是一位自信的男性，穿梭於快速演變的時代。攝影機以流暢的動作跟隨他奔跑、旋轉、Slides 以及向前跳躍，同時他的服裝和周圍環境也隨之變換。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f1ff6652169cb3933b5d288bcc6d9ed/thumbnails/thumbnail.jpg" width="600" alt="Prompt : Create a 15 second high energy continuous">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f1ff6652169cb3933b5d288bcc6d9ed/thumbnails/thumbnail.jpg" width="600" alt="提示詞：創作一個 15 秒高能量的連續鏡頭">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4748)**
 
@@ -516,19 +516,19 @@ Create a 15 second high energy continuous shot featuring a confident male subjec
 **作者:** [LudovicCreator](https://x.com/LudovicCreator) | **來源:** [Link](https://x.com/LudovicCreator/status/2054626505494339770) | **發布時間:** May 13, 2026
 
 ---
-### 3D Rotating Earth in Space
+### 太空中的 3D 旋轉地球
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for a realistic 360-degree rotation of the Earth with high-detail textures and NASA-style rendering.
+> 一個電影級的影片提示詞，用於呈現真實的 360 度地球旋轉，具備高細節紋理與 NASA 風格渲染。
 
 #### 📝 提示詞
 
 ```
-Cinematic 3D realistic Earth floating in deep space, slow smooth 360-degree rotation, highly detailed blue oceans, green continents, white clouds moving softly, glowing atmosphere, realistic sunlight reflection, subtle moonlight, stars and nebula background, soft lens flare, futuristic sci-fi aesthetic, ultra realistic textures, smooth camera orbit around the planet, dramatic lighting, high detail NASA-style render, premium cinematic animation, seamless loop, 4K, majestic and immersive space scene
+電影級 3D 真實地球漂浮於深空中，緩慢平滑的 360 度旋轉，高度細緻的藍色海洋、綠色大陸，白雲柔和移動，發光的大氣層，真實的陽光反射，細微的月光，星空與星雲背景，柔和鏡頭光暈，未來科幻美學，超真實紋理，平滑的行星軌道環繞攝影，戲劇性光影，高細節 NASA 風格渲染，頂級電影動畫，無縫循環，4K，宏偉且身臨其境的太空場景
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a6a481495c2274e241587b09e27e5342/thumbnails/thumbnail.jpg" width="600" alt="3D Rotating Earth in Space">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a6a481495c2274e241587b09e27e5342/thumbnails/thumbnail.jpg" width="600" alt="太空中的 3D 旋轉地球">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4731)**
 
@@ -554,19 +554,19 @@ Cinematic 3D realistic Earth floating in deep space, slow smooth 360-degree rota
 **作者:** [Keskin](https://x.com/craftian_keskin) | **來源:** [Link](https://x.com/craftian_keskin/status/2054621314875265142) | **發布時間:** May 13, 2026
 
 ---
-### 90s Anime Telekinetic Supervillain
+### 90 年代動畫風格的超能力反派
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 15-second anime-style prompt featuring a villain moving a mountain with their mind, ending with a massive tsunami.
+> 一段 15 秒的動畫風格提示詞，描述一名反派運用心靈感應移動山脈，並以引發巨大海嘯作為結尾。
 
 #### 📝 提示詞
 
 ```
-90s anime style. 15 second animation clip. Telekinetic powered super villain dressed in black and gold futuristic tactical clothing using their immense power to move a literal mountain with their mind. First the villain needs to power up, then cracks form in the mountain base, then the mountain breaks free and is lifted high above the ocean before being thrown into the water to create a massive tsunami type wave. Camera: tracking shot with multiple angles and quick cuts for emphasis. Constraints: no voice-overs, ominous tone.
+90 年代動畫風格。15 秒動畫短片。一名身穿黑金配色未來戰術服裝、擁有心靈感應能力的超級反派，正運用強大的力量以意念移動一座山脈。首先，反派需要進行蓄力，接著山腳出現裂痕，隨後整座山脈脫離地面並被舉至海洋高空，最後被拋入水中，激起巨大的海嘯。攝影機：採用追蹤鏡頭，搭配多角度拍攝與快速剪輯以強化視覺效果。限制條件：無旁白，氛圍陰森。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56b889a17b86372ee3e3ce6ed55afb71/thumbnails/thumbnail.jpg" width="600" alt="90s Anime Telekinetic Supervillain">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56b889a17b86372ee3e3ce6ed55afb71/thumbnails/thumbnail.jpg" width="600" alt="90 年代動畫風格的超能力反派">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4738)**
 
@@ -592,38 +592,38 @@ NBA 比賽正如火如荼地進行，場上動作就在她面前發生，而 ESP
 **作者:** [Jack](https://x.com/j_smeaton99) | **來源:** [Link](https://x.com/j_smeaton99/status/2054608474743656516) | **發布時間:** May 13, 2026
 
 ---
-### Cinematic Metropolitan Apocalypse Sequence
+### 電影級都市末日場景序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed video prompt for a large-scale disaster scene featuring seismic upheaval, glacial floods, and colossal funnel clouds destroying a city.
+> 這是一個高度細緻的影片提示詞，用於描繪大規模災難場景，包含地震劇變、冰川洪水以及摧毀城市的巨大漏斗雲。
 
 #### 📝 提示詞
 
 ```
-A cinematic tracking shot capturing a simultaneous tectonic, atmospheric, and oceanic collapse. The ground erupts in a violent seismic upheaval, creating a massive jagged canyon that splits a dense metropolitan grid in half. Simultaneously, a colossal wall of glacial seawater surges through the city streets, flash freezing everything it touches into crystalline structures. Emerging from the heart of the freezing flood, a gargantuan multi-vortex funnel cloud darkened by pulverized debris and glowing with internal orange lightning rips the facade off a steel skyscraper, spiraling shards of glass and heavy machinery into a chaotic orbit. The camera executes a dynamic, low altitude fly through beneath a bridge as it buckles and snaps, weaving through flying wreckage and swirling snow squalls. The lighting transitions from a dark, bruised violet sky to blinding white flashes of exploding transformers, finishing with a wide angle vista of a mountain range being swallowed by a towering wall of ice and wind. Hyper-realistic fluid dynamics, intricate particle physics, 35mm anamorphic lens, and high contrast volumetric atmosphere.
+一個捕捉地殼、大氣與海洋同時崩塌的電影級跟拍鏡頭。地面爆發出劇烈的地震，形成一道巨大的鋸齒狀峽谷，將密集的都市網格一分為二。與此同時，一道巨大的冰川海水牆湧入城市街道，將所觸及的一切瞬間凍結成晶體結構。在冰冷的洪流中心，一道巨大的多渦旋漏斗雲浮現，雲層被粉碎的碎片染黑，並閃爍著內部的橙色閃電，撕裂了一座鋼鐵摩天大樓的外牆，將玻璃碎片與重型機械捲入混亂的軌道中。攝影機在橋樑彎曲斷裂時，執行了一次動態的低空穿梭，穿過飛舞的殘骸與旋轉的暴風雪。光影從陰暗的紫羅蘭色天空轉變為變壓器爆炸時的刺眼白光，最後以廣角鏡頭呈現山脈被高聳的冰牆與狂風吞噬的景象。超寫實流體動力學、複雜的粒子物理效果、35mm 變形鏡頭以及高對比度的體積大氣感。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c59a32b238b5a8ac8342488d7985191e/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Metropolitan Apocalypse Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c59a32b238b5a8ac8342488d7985191e/thumbnails/thumbnail.jpg" width="600" alt="電影級都市末日場景序列">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4732)**
 
 **作者:** [Wilzap](https://x.com/wilzap) | **來源:** [Link](https://x.com/wilzap/status/2054605922681679914) | **發布時間:** May 13, 2026
 
 ---
-### Pixar Style 3D Chef Mascot Animation
+### 皮克斯風格 3D 主廚吉祥物動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic 3D animation prompt featuring a stylized Indo-Chinese chef mascot with expressive features and detailed attire.
+> 一段電影級 3D 動畫提示詞，主角為一位表情生動、服裝細節精緻的印尼華裔風格主廚吉祥物。
 
 #### 📝 提示詞
 
 ```
-15-second cinematic animated video, 16:9, premium Pixar-quality 3D mascot animation style, featuring the same adorable stylized female Indo-Chinese chef mascot throughout — oversized expressive eyes, fluffy tied-up bun hair, black chef coat with red piping,
+15 秒電影級動畫影片，16:9 比例，頂級皮克斯風格 3D 吉祥物動畫，全程呈現同一位可愛的印尼華裔風格女性主廚吉祥物——擁有誇張且表情豐富的雙眼、蓬鬆的盤髮造型，身穿帶有紅色滾邊的黑色廚師服，
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a0d118836b2c56ea324dbac95f7abd1/thumbnails/thumbnail.jpg" width="600" alt="Pixar Style 3D Chef Mascot Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a0d118836b2c56ea324dbac95f7abd1/thumbnails/thumbnail.jpg" width="600" alt="皮克斯風格 3D 主廚吉祥物動畫">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4743)**
 
@@ -659,68 +659,68 @@ A cinematic tracking shot capturing a simultaneous tectonic, atmospheric, and oc
 **作者:** [Genz Ai](https://x.com/alzina3691) | **來源:** [Link](https://x.com/alzina3691/status/2054600108256178489) | **發布時間:** May 13, 2026
 
 ---
-### Mischievous Animated Puppy Gesture Sequence
+### 頑皮動畫小狗手勢序列
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A highly detailed animation prompt for a 3D puppy, featuring a specific sequence of micro-expressions and a finger-gesture transition from a middle finger to a thumbs-up.
+> 一個針對 3D 小狗的高細節動畫提示詞，包含一系列特定的微表情以及從中指到讚的手勢轉換過程。
 
 #### 📝 提示詞
 
 ```
-The subject is a red fluffy puppy in a Q-version 3D animation style, cute but with a slightly wicked and mischievous expression. The puppy stands slightly below the center, body turned about 30 degrees to the camera, head slightly lowered, big soulful eyes, soft and delicate fur with a realistic fluffy texture. Background is a soft warm-toned blurred indoor environment, shallow depth of field, cinematic soft light, clean frame, no text, watermarks, extra characters, or extra objects. 
+主體是一隻紅色的毛茸茸小狗，採用 Q 版 3D 動畫風格，外型可愛但帶有略顯邪惡與頑皮的表情。小狗位於畫面中心偏下方，身體向鏡頭轉動約 30 度，頭部微垂，擁有深情的大眼睛，毛髮柔軟細緻且具有真實的蓬鬆質感。背景為柔和暖色調的模糊室內環境，淺景深，電影級柔光，畫面乾淨，無文字、浮水印、多餘角色或多餘物體。
 
-Follow this timeline strictly: 
-0.0s-1.0s: Puppy stands quietly, body slightly sideways, head down, eyes slowly rising from below to create a 'preparing for mischief' atmosphere. 
-1.0s-1.8s: First side-glance at the camera. Eyes glance first, head turns slightly, no big shaking, look is provocative and playful. 
-1.8s-2.4s: Briefly retracts gaze, looking aside or down, maintaining restraint before a smirk. 
-2.4s-3.2s: Second side-glance at the camera, stronger mischievous feel. 
-3.2s-4.2s: Slowly extends right hand from the front toward the camera, natural and weighted movement. 
-4.2s-5.1s: Hand continues forward, palm rising, forming the first half of a middle-finger gesture: other fingers bending, middle finger starting to go up but only halfway. 
-5.1s-6.0s: Gesture shifts mid-way: middle finger retracts, thumb slowly rises into a clear thumbs-up gesture. Transition must be smooth and visible. 
-6.0s-7.0s: Maintains thumbs-up, mouth slowly curls into a mischievous smile, eyes still glancing at camera with a proud/teasing look. 
-Camera: 9:16 vertical, slight cinematic push-in, subject centered, hand stays in frame, fluid animation.
+請嚴格遵循以下時間軸：
+0.0s-1.0s：小狗安靜站立，身體微側，低頭，眼睛緩慢從下方抬起，營造出「準備惡作劇」的氛圍。
+1.0s-1.8s：第一次側眼看向鏡頭。先轉動眼珠，頭部輕微轉動，沒有大幅晃動，眼神挑釁且俏皮。
+1.8s-2.4s：短暫收回目光，看向旁邊或下方，在露出壞笑前保持克制。
+2.4s-3.2s：第二次側眼看向鏡頭，頑皮感更強。
+3.2s-4.2s：右前肢緩慢從前方伸向鏡頭，動作自然且具重量感。
+4.2s-5.1s：手部繼續向前，手掌抬起，形成比中指動作的前半段：其他手指彎曲，中指開始豎起但僅豎起一半。
+5.1s-6.0s：手勢中途轉換：中指收回，大拇指緩慢豎起，形成清晰的讚手勢。轉換過程必須流暢且可見。
+6.0s-7.0s：保持讚的手勢，嘴部緩慢勾起頑皮的微笑，眼睛持續看向鏡頭，帶著驕傲與戲弄的神情。
+攝影機：9:16 直式構圖，輕微的電影級推鏡，主體置中，手部保持在畫面內，動畫流暢。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ca9c10428782a64bba64a2c0e003750/thumbnails/thumbnail.jpg" width="600" alt="Mischievous Animated Puppy Gesture Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ca9c10428782a64bba64a2c0e003750/thumbnails/thumbnail.jpg" width="600" alt="頑皮動畫小狗手勢序列">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4757)**
 
 **作者:** [Clyde Zhu](https://x.com/sands321_) | **來源:** [Link](https://x.com/sands321_/status/2054598314709176599) | **發布時間:** May 13, 2026
 
 ---
-### Cricket Stadium Fan Broadcast
+### 板球場球迷轉播畫面
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a realistic broadcast-style video of a fan in a cricket stadium crowd.
+> 用於生成板球場觀眾席中，球迷寫實轉播風格影片的提示詞。
 
 #### 📝 提示詞
 
 ```
-Ultra-realistic static image of a sports broadcast of a man sitting in the crowd of a packed cricket stadium
+超寫實的體育轉播靜態影像，畫面為一名男子坐在擠滿觀眾的板球場看台中
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/530ee061cb9fcd88753057b8999adf2e/thumbnails/thumbnail.jpg" width="600" alt="Cricket Stadium Fan Broadcast">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/530ee061cb9fcd88753057b8999adf2e/thumbnails/thumbnail.jpg" width="600" alt="板球場球迷轉播畫面">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4752)**
 
 **作者:** [Golam Rabbi](https://x.com/golam_rabbi1996) | **來源:** [Link](https://x.com/golam_rabbi1996/status/2054589775055876280) | **發布時間:** May 13, 2026
 
 ---
-### Emotional Jungle Scene with Animals
+### 充滿情感的叢林動物場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed 15-second cinematic prompt of a man crying in a dark jungle while animals watch with human-like emotional expressions.
+> 一段 15 秒的電影級提示詞，描述一名男子在黑暗叢林中哭泣，而周圍的動物則以擬人化的情感表情注視著他。
 
 #### 📝 提示詞
 
 ```
-A sad lonely man sitting in the middle of a dark green jungle, crying with tears on his face while wild animals silently watch him with emotional expressions. A deer stands nearby, monkeys sit on tree branches, birds stop singing, and a tiger watches calmly from a distance. Rain droplets fall slowly from leaves, cinematic fog moving through the forest, emotional atmosphere, ultra realistic facial expressions, dramatic lighting, soft sunlight rays through trees, highly detailed jungle environment, realistic animal movements, camera slowly circling around the crying man, emotional cinematic storytelling, movie scene style, 8K ultra HD, masterpiece quality, realistic shadows, depth of field, smooth camera motion, Dolby cinematic mood, hyper realistic, 15-second video.
+一名悲傷孤獨的男子坐在深綠色叢林的中央，臉上掛著淚水哭泣，野生動物們則以充滿情感的表情靜靜地注視著他。一隻鹿站在附近，猴子坐在樹枝上，鳥兒停止了鳴叫，一隻老虎在遠處冷靜地觀察。雨滴從葉片上緩慢落下，電影般的霧氣在森林中穿梭，營造出感性的氛圍，超寫實的面部表情，戲劇性的光影，柔和的陽光穿過樹木，高度細節化的叢林環境，逼真的動物動作，攝影機緩慢繞著哭泣的男子旋轉，情感豐富的電影敘事，電影場景風格，8K 超高畫質，大師級品質，逼真的陰影，景深效果，流暢的攝影機運鏡，杜比電影氛圍，超寫實主義，15 秒影片。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0a9a12309df945193035bb6aabd9f809/thumbnails/thumbnail.jpg" width="600" alt="Emotional Jungle Scene with Animals">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0a9a12309df945193035bb6aabd9f809/thumbnails/thumbnail.jpg" width="600" alt="充滿情感的叢林動物場景">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4722)**
 
@@ -746,96 +746,96 @@ A sad lonely man sitting in the middle of a dark green jungle, crying with tears
 **作者:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) | **來源:** [Link](https://x.com/saniaspeaks_/status/2054587171864977555) | **發布時間:** May 13, 2026
 
 ---
-### Coffee Shop Cinematic Aerial Descent
+### 咖啡廳電影感空拍下降
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional cinematic video prompt for Seedance 2.0 featuring a sweeping aerial camera descent into a coffee shop with atmospheric drift.
+> 這是一個為 Seedance 2.0 設計的專業電影感影片提示詞，呈現出掃視般的空拍下降鏡頭，進入充滿氛圍感的咖啡廳。
 
 #### 📝 提示詞
 
 ```
-SHOT 1 (0:00–0:02) — Descent Into the World
+鏡頭 1 (0:00–0:02) — 進入世界
 
-EFFECT: sweeping aerial push-down (crane-style descent) + color saturation bloom + atmospheric particle drift
+效果：掃視般的空拍推入（吊臂式下降）+ 色彩飽和度綻放 + 大氣粒子漂浮
 
-The camera descends from above as if falling gently from the sky into the coffee shop.
+攝影機從上方緩緩下降，彷彿輕柔地從天空中落入咖啡廳。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32f6fb76cd83f12352d8d83995c6ce4d/thumbnails/thumbnail.jpg" width="600" alt="Coffee Shop Cinematic Aerial Descent">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32f6fb76cd83f12352d8d83995c6ce4d/thumbnails/thumbnail.jpg" width="600" alt="咖啡廳電影感空拍下降">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4751)**
 
 **作者:** [Guillermo Castellanos](https://x.com/guicastellanos1) | **來源:** [Link](https://x.com/guicastellanos1/status/2054587015753015432) | **發布時間:** May 13, 2026
 
 ---
-### Video Prompt:
+### 影片提示詞：
 
-Use the attached THE SPAGHETTI CHEF
+使用隨附的 THE SPAGHETTI CHEF
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
 #### 📝 提示詞
 
 ```
-Use the attached THE SPAGHETTI CHEF storyboard image as the exact reference.
+請使用隨附的 THE SPAGHETTI CHEF 專案分鏡圖作為精確參考。
 
-Create a 15-second 16:9 animated artisan spaghetti-making sequence that follows the 8-shot storyboard exactly. Preserve the same Pixar-style young spaghetti chef, black apron, cozy
+製作一段 15 秒、16:9 的手工義大利麵製作動畫，並嚴格遵循 8 個鏡頭的分鏡腳本。請保留相同的皮克斯風格年輕義大利麵廚師、黑色圍裙、溫馨的
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc4a2ad7ede5a76b14451bb470faec26/thumbnails/thumbnail.jpg" width="600" alt="Video Prompt:
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc4a2ad7ede5a76b14451bb470faec26/thumbnails/thumbnail.jpg" width="600" alt="影片提示詞：
 
-Use the attached THE SPAGHETTI CHEF">
+使用隨附的 THE SPAGHETTI CHEF">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4750)**
 
 **作者:** [PENNY💜](https://x.com/ImozemhePeniel) | **來源:** [Link](https://x.com/ImozemhePeniel/status/2054578068006506554) | **發布時間:** May 13, 2026
 
 ---
-### Luxury Family Football Celebration Scene
+### 奢華家庭足球慶祝場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dramatic cinematic prompt depicting a family watching a football match in a mansion, culminating in a goal celebration and a conflict.
+> 一個戲劇性的電影級提示詞，描繪了一個家庭在豪宅中觀看足球比賽，最終以進球慶祝和衝突作為高潮。
 
 #### 📝 提示詞
 
 ```
-Cinematic ultra-realistic luxury family football watch party inside a massive modern mansion hall at night. The room is extremely large, elegant, and beautifully designed with warm ambient lighting, luxury sofas and chairs, marble floor, decorative lamps, modern interior, and a giant LED screen mounted on the wall. On the LED screen, an intense football match is playing with realistic English football commentary in the background, crowd noise, stadium atmosphere, and live sports broadcast graphics.
+電影級超逼真奢華家庭足球觀賽派對，場景位於夜晚巨大的現代豪宅大廳內。房間極其寬敞、優雅，設計精美，配有溫暖的環境照明、豪華沙發與座椅、大理石地板、裝飾燈具、現代室內裝潢，牆上安裝著巨大的 LED 螢幕。LED 螢幕上正播放著激烈的足球比賽，背景有逼真的英語足球解說、觀眾噪音、體育場氛圍以及現場體育轉播圖形。
 
-In the room, a large joint family is watching the match together. There are 3–4 women drinking tea and smiling while watching the game, 3–4 men sitting excitedly, 8–9 children cheering with snacks and chips like Lays in their hands, and 1–2 elderly grandparents enjoying the match peacefully. Everyone is emotionally invested in the game.
+房間裡，一個大家庭正聚在一起觀看比賽。有 3–4 位女性喝著茶並微笑著看球，3–4 位男性興奮地坐著，8–9 位孩子手拿零食和洋芋片（如 Lays）歡呼，還有 1–2 位年長的祖父母平靜地享受比賽。每個人都全神貫注地投入在比賽中。
 
-The football match reaches a dramatic penalty kick moment. The camera cuts between the tense faces of the family members and the football player preparing for the penalty. The room becomes silent with suspense. Realistic cinematic camera movements, emotional close-ups, detailed facial expressions, slow-motion tension.
+足球比賽進入了戲劇性的點球時刻。鏡頭在家庭成員緊張的臉龐與準備踢點球的足球運動員之間切換。房間陷入了懸疑的寂靜。逼真的電影級鏡頭運動、情感特寫、細膩的面部表情、慢動作張力。
 
-As the player kicks the penalty, the ball powerfully enters the goal. Instantly the entire room erupts with celebration. Men jump from their chairs shouting happily, women smile and clap while holding tea cups, children scream with excitement, some family members hug each other, some dance wildly in celebration, realistic joyful chaos, emotional energy, cinematic realism.
+當球員踢出點球時，球有力地射入球門。瞬間，整個房間爆發出慶祝聲。男人們從椅子上跳起來歡呼，女人們握著茶杯微笑鼓掌，孩子們興奮地尖叫，一些家庭成員互相擁抱，一些人瘋狂地跳舞慶祝，逼真的歡樂混亂、情感能量、電影級寫實感。
 
-But one young boy, around 12 years old, is a supporter of the opposite team. The moment the goal is scored, his face turns angry and frustrated. He suddenly stands up in rage, grabs the chair he is sitting on, and violently throws it toward the giant LED screen. The room becomes shocked. The chair hits near the screen dramatically. The angry boy storms toward the door, slams the door shut aggressively, and leaves the room. Other family members react with surprise while still celebrating.
+然而，一名約 12 歲的小男孩是對方球隊的支持者。進球的那一刻，他的臉色變得憤怒而沮喪。他突然憤怒地站起來，抓起他坐的椅子，猛力向巨大的 LED 螢幕扔去。房間裡的人都驚呆了。椅子戲劇性地擊中了螢幕附近。憤怒的男孩衝向門口，用力甩上門，離開了房間。其他家庭成員在慶祝的同時表現出驚訝的反應。
 
-Highly realistic human emotions, cinematic storytelling, dynamic lighting, luxury environment, football stadium sounds, realistic English sports commentary audio, emotional crowd reactions, ultra HD 4K, movie-quality visuals, dramatic atmosphere, realistic body movement, natural acting, smooth camera motion, immersive family celebration scene, detailed environment, premium cinematic color grading.
+高度逼真的人類情感、電影級敘事、動態照明、奢華環境、足球場聲音、逼真的英語體育解說音效、感性的觀眾反應、超高畫質 4K、電影級視覺效果、戲劇性氛圍、逼真的肢體動作、自然演技、流暢的鏡頭運動、沉浸式家庭慶祝場景、細緻的環境、高級電影級調色。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1ee38cf3f2dc1a1d1bd5cada9257348/thumbnails/thumbnail.jpg" width="600" alt="Luxury Family Football Celebration Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1ee38cf3f2dc1a1d1bd5cada9257348/thumbnails/thumbnail.jpg" width="600" alt="奢華家庭足球慶祝場景">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4739)**
 
 **作者:** [Genz Ai](https://x.com/alzina3691) | **來源:** [Link](https://x.com/alzina3691/status/2054575236499095697) | **發布時間:** May 13, 2026
 
 ---
-### Colossal Creatures City Invasion
+### 巨獸城市入侵
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic-scale video prompt featuring multiple giant monsters attacking a mega-city simultaneously with dynamic drone movements and heavy VFX.
+> 一場史詩級的影片提示詞，呈現多隻巨型怪獸同時襲擊超級城市的場景，搭配動態無人機運鏡與震撼的視覺特效。
 
 #### 📝 提示詞
 
 ```
-Multiple colossal creatures invading simultaneously: a winged dragon with lightning veins tearing through the sky, a massive lava titan crushing everything on the ground, and a shadow leviathan spreading like a living void across the city, each dominating a different layer of destruction with overwhelming presence
-All attack at once, the city collapsing from every direction—lightning strikes obliterating skyscrapers, the ground rupturing under the titan’s steps, entire districts swallowed by moving darkness, creating unstoppable large-scale chaos
-Mega city completely overwhelmed, buildings falling in waves, firestorms rising, thunder splitting the sky, shadows consuming light, total environmental collapse + Starts with extreme wide aerial revealing all threats at once, rapid multi-directional drone movements switching focus between sky, ground and shadow, whip pans linking each destructive event, FPV dives through collapsing streets and explosions, aggressive orbit shots around each creature, constant camera motion blending chaos with layered VFX (fire, lightning, smoke, shadows), debris flooding the frame, ending with all creatures standing dominant over a fully destroyed city—dragon hovering above crackling with lightning, titan planted in molten ruins, shadow leviathan covering entire districts—while the camera slowly pulls back into a massive wide shot revealing total annihilation, silence briefly falling before a final synchronized roar echoes across the wasteland
+多隻巨獸同時入侵：一隻帶有閃電脈絡的飛龍撕裂天際，一尊巨大的熔岩泰坦在地面摧毀一切，以及一隻如同活體虛空般在城市中蔓延的暗影利維坦，每一隻都以壓倒性的存在感主宰著不同層次的破壞。
+所有怪獸同時發動攻擊，城市從四面八方崩塌——閃電擊毀摩天大樓，地面在泰坦的腳步下裂開，整個區域被移動的黑暗吞噬，造成無法阻擋的大規模混亂。
+超級城市徹底淪陷，建築物成波倒塌，火風暴升起，雷聲撕裂天空，陰影吞噬光線，環境全面崩潰。開場採用極廣角空拍鏡頭，一次揭露所有威脅，快速的多方向無人機運鏡在天空、地面與陰影之間切換焦點，透過快速橫搖鏡頭串聯每個破壞事件，FPV 視角穿梭於崩塌的街道與爆炸中，圍繞每隻怪獸進行激進的環繞拍攝，持續的鏡頭運動將混亂與層次豐富的視覺特效（火焰、閃電、煙霧、陰影）融合，碎片淹沒畫面。結尾處，所有怪獸站在徹底毀滅的城市上空俯瞰——飛龍盤旋於閃電交織的天空，泰坦佇立在熔岩廢墟中，暗影利維坦覆蓋了整個區域——鏡頭緩慢拉遠至極致廣角，揭示完全的毀滅，在最終一聲同步的咆哮迴盪於荒原之前，短暫陷入死寂。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c070ec6735e0383d01e5a850efe63b4/thumbnails/thumbnail.jpg" width="600" alt="Colossal Creatures City Invasion">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c070ec6735e0383d01e5a850efe63b4/thumbnails/thumbnail.jpg" width="600" alt="巨獸城市入侵">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4734)**
 
@@ -868,48 +868,48 @@ Mega city completely overwhelmed, buildings falling in waves, firestorms rising,
 **作者:** [Alexandra Aisling](https://x.com/AllaAisling) | **來源:** [Link](https://x.com/AllaAisling/status/2054569100630966657) | **發布時間:** May 13, 2026
 
 ---
-### Cricket Stadium Fan Portrait
+### 板球場球迷人像
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a young woman in a cricket jersey holding a celebrity photo at a vibrant night match.
+> 一段電影質感的影片提示詞，描述一位身穿板球球衣的年輕女性在熱鬧的夜間比賽中手持名人照片。
 
 #### 📝 提示詞
 
 ```
-A cinematic, high-quality video of a beautiful young girl with dark hair tied in a loose bun, standing in a crowded cricket stadium at night. She is wearing a Royal Challengers Bangalore (RCB) jersey. She is smiling shyly and holding a printed photo of Virat Kohli with the text 'Saiyyan Superstar ❤️' written below it. Behind her, the stadium is packed with fans and bright floodlights. In the background, a large digital screen shows her own face as she is being captured by the camera. The atmosphere is vibrant, emotional, and celebratory, with a soft focus on the crowd.
+一段電影質感、高品質的影片，畫面中是一位留著深色頭髮、紮著鬆散髮髻的年輕女孩，站在夜晚擁擠的板球場中。她身穿 Royal Challengers Bangalore (RCB) 球衣，羞澀地微笑著，手裡拿著一張 Virat Kohli 的照片，下方寫著「Saiyyan Superstar ❤️」的字樣。她身後是擠滿球迷的體育場和明亮的泛光燈。背景中的大型數位螢幕上顯示著她被攝影機捕捉到的臉部特寫。現場氛圍熱烈、充滿情感且歡慶，人群呈現柔焦效果。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8930217d8cec1b8763d0d5ed2b71bf43/thumbnails/thumbnail.jpg" width="600" alt="Cricket Stadium Fan Portrait">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8930217d8cec1b8763d0d5ed2b71bf43/thumbnails/thumbnail.jpg" width="600" alt="板球場球迷人像">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4724)**
 
 **作者:** [Gem Alpha](https://x.com/Gemalpha_88) | **來源:** [Link](https://x.com/Gemalpha_88/status/2054564893081174202) | **發布時間:** May 13, 2026
 
 ---
-### Sports Broadcast Jumbotron Reaction
+### 體育賽事轉播大螢幕反應
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex, multi-beat prompt for a realistic sports broadcast showing a woman noticing herself on the stadium jumbotron.
+> 這是一個複雜且具備多個節奏點的提示詞，用於生成一段寫實的體育賽事轉播畫面，呈現一名女性發現自己出現在球場大螢幕上的情境。
 
 #### 📝 提示詞
 
 ```
-A photorealistic, cinematic live television broadcast video set in a crowded indoor baseball stadium at night. The sequence should follow these four visual beats in a smooth, natural progression: first, Yuki sits in the audience wearing a blue varsity-style baseball jacket, casually glancing down at her phone for just a second; second, the phone-checking moment continues, emphasizing that she is briefly distracted while the stadium crowd remains lively and slightly blurred around her; third, she suddenly looks up and realizes she is being shown on the massive glowing jumbotron above; fourth, she freezes for a brief moment, then breaks into a half-embarrassed, good-natured smile and gives a small awkward wave to the camera.
+一段照片級寫實的電影感現場電視轉播影片，場景設定在夜晚擁擠的室內棒球場。畫面序列應遵循以下四個視覺節奏，流暢且自然地推進：首先，Yuki 坐在觀眾席中，身穿藍色大學風格棒球外套，隨意地低頭看了一眼手機；其次，持續低頭看手機的動作，強調她短暫分心，同時周圍的觀眾席保持熱鬧且略顯模糊；第三，她突然抬頭，意識到自己正被投放在上方巨大的發光大螢幕上；第四，她短暫地僵住，隨後露出略帶尷尬但友善的微笑，並對著鏡頭揮了揮手。
 
-Yuki should feel like a real 45-year-old Asian female founder: sharp, elegant, slightly tired, observant, very human, not influencer-like, not overly polished. The humor comes from the realism of the moment — she only looked down at her phone for a second, then realized she was already on the big screen. Her expression transition should feel natural: calm focus → brief surprise → embarrassed amusement → small awkward wave.
+Yuki 的形象應呈現為一位真實的 45 歲亞洲女性創辦人：精明、優雅、略顯疲憊、觀察入微且極具人性，而非網紅風格或過度修飾。幽默感源於瞬間的寫實感——她只是低頭看了一秒手機，隨後就發現自己已經出現在大螢幕上。她的表情轉換應自然流暢：冷靜專注 → 短暫驚訝 → 尷尬的樂趣 → 小小尷尬的揮手。
 
-The environment should feel like a real premium sports broadcast: bright even stadium floodlights, realistic crowd depth, huge overhead jumbotron, subtle live-broadcast polish, clean digital overlays, a LIVE badge, and Korean-style sports broadcast graphics. The crowd should be energetic but slightly out of focus so Yuki remains the emotional focal point. The video should look like it was captured by professional broadcast cameras in 8K.
+環境應具備真實的高級體育轉播質感：明亮均勻的球場泛光燈、真實的觀眾景深、巨大的頭頂大螢幕、細膩的現場轉播質感、乾淨的數位疊加圖層、LIVE 標籤以及韓式體育轉播圖形。觀眾應充滿活力但略微失焦，以確保 Yuki 始終是情感焦點。影片應看起來像是透過專業轉播攝影機以 8K 解析度拍攝的畫面。
 
-Keep the motion smooth and believable. Keep the pacing realistic for a 5–8 second clip. The sequence should feel like a real live TV capture, not a staged skit. Avoid exaggerated comedy acting. Avoid political symbolism, propaganda framing, influencer posing, uncanny deepfake energy, broken hands, distorted phone screens, or glitchy crowd motion.
+保持動作流暢且可信。節奏應符合 5 至 8 秒短片的真實感。整個序列應感覺像是真實的現場電視轉播畫面，而非刻意安排的短劇。避免誇張的喜劇表演。避免政治符號、宣傳式構圖、網紅擺拍、詭異的深偽（deepfake）感、手部變形、手機螢幕扭曲或觀眾動作出現故障。
 
-Keep Yuki’s face 100% consistent with her real face.
+確保 Yuki 的臉部與其真實容貌 100% 一致。
 
-Suggested motion arc: phone glance → subtle pause → noticing the jumbotron → brief freeze → half-embarrassed smile → small awkward wave.
+建議動作弧線：低頭看手機 → 細微停頓 → 注意到大螢幕 → 短暫僵住 → 尷尬微笑 → 小小尷尬的揮手。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f460c9cdb33eed2ce966fb50f31be676/thumbnails/thumbnail.jpg" width="600" alt="Sports Broadcast Jumbotron Reaction">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f460c9cdb33eed2ce966fb50f31be676/thumbnails/thumbnail.jpg" width="600" alt="體育賽事轉播大螢幕反應">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4725)**
 
@@ -935,296 +935,293 @@ Suggested motion arc: phone glance → subtle pause → noticing the jumbotron �
 **作者:** [Sadia](https://x.com/SadiaMalik182) | **來源:** [Link](https://x.com/SadiaMalik182/status/2054562195892277378) | **發布時間:** May 13, 2026
 
 ---
-### POV Shot from Inside Slushy Cup
+### 從冰沙杯內部拍攝的 POV 視角
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An immersive video prompt featuring a continuous shot from the bottom of a transparent cup, capturing liquid movement and distorted facial expressions through ice.
+> 這是一個沉浸式的影片提示詞，採用從透明杯底部拍攝的連續鏡頭，捕捉液體流動以及透過冰塊呈現的扭曲面部表情。
 
 #### 📝 提示詞
 
 ```
-cinematic single continuous shot from inside a transparent plastic cup filled with a thick, icy purple slushy.
-The camera is submerged at the bottom, looking upward through semi-translucent crushed ice, with bubbles, condensation, and glossy frozen textures surrounding the
-frame.
-The circular rim of the cup forms a tunnel-like border, slightly fogged and wet. A semi-transparent straw descends into the frame.
-A woman leans in above, her face slightly distorted through the curved plastic and icy textures. She begins to sip. The purple liquid visibly flows upward inside the straw, swirling with tiny air bubbles, creating a dynamic suction motion.
-The ice subtly shifts and compresses with the movement. The camera gently drifts and vibrates with the suction force, maintaining a realistic handheld feel from inside the drink.
-Suddenly, an off-screen male voice calls out, “Hey, Alice.” The woman immediately stops sipping. The liquid inside the straw halts mid-motion and slowly settles back.
-She lifts her head slightly, her expression shifting to surprise. Condensation droplets slide down the inner walls of the cup. She turns her gaze to the side, still seen from
-below through the cup opening, and responds, slightly startled: “Oh, hey, Charlie, what are you doing here?”
-A man leans into frame from the background, partially visible through the circular opening, softly out of focus at first, then becoming clearer as he steps closer.
-Warm ambient light glows behind him, contrasting with the cool purple tones inside the cup. He replies casually: “I’m just waiting for my friend to show up.” The woman
-relaxes, a small smile forming.
-She tilts her head slightly, still framed by the cup opening: “Really? Haha. It’s been a while since I last saw you.” The man chuckles lightly, shifting his posture: “Hah, yeah”
-Throughout the entire sequence, the camera remains inside the cup, maintaining a consistent perspective with subtle liquid movement, melting ice, drifting bubbles, and refracted light playing across the scene, enhancing the immersive, non-human viewpoint. No Music
+電影級單一連續鏡頭，視角位於裝滿濃稠紫色冰沙的透明塑膠杯內部。
+攝影機沉在杯底，向上穿過半透明的碎冰拍攝，畫面周圍充滿氣泡、凝結水珠以及光澤感的冰凍紋理。
+杯子的圓形邊緣形成隧道般的邊框，略帶霧氣與濕潤感。一根半透明吸管伸入畫面中。
+一名女子從上方探頭，她的臉龐透過彎曲的塑膠杯壁與冰塊紋理顯得有些扭曲。她開始啜飲。紫色液體在吸管內明顯向上流動，伴隨著細小的氣泡旋轉，產生動態的吸吮效果。
+冰塊隨著動作細微地移動與擠壓。攝影機因吸力而輕微漂移與震動，保持從飲料內部拍攝的真實手持感。
+突然，畫面外傳來一名男子的聲音喊道：「嘿，Alice。」女子立刻停止啜飲。吸管內的液體在半空中停滯，隨後緩緩流回。
+她微微抬起頭，表情轉為驚訝。凝結的水珠沿著杯子內壁滑落。她轉頭看向側邊，透過杯口依然能從下方看到她的身影，並略帶驚訝地回應：「喔，嘿，Charlie，你在這裡做什麼？」
+一名男子從背景探入畫面，透過圓形開口隱約可見，起初有些失焦，隨著他走近而變得清晰。
+溫暖的環境光在他身後閃爍，與杯內冷色調的紫色形成對比。他隨意地回答：「我只是在等朋友出現。」女子放鬆下來，嘴角露出一抹微笑。
+她微微歪頭，依然被杯口框住：「真的嗎？哈哈。我們好久沒見了。」男子輕笑一聲，變換姿勢說道：「哈，是啊。」
+在整個過程中，攝影機始終保持在杯內，維持一致的視角，並呈現細微的液體流動、融化的冰塊、漂浮的氣泡以及在場景中折射的光影，增強了這種非人類視角的沉浸感。無音樂
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30a5a7e71d31cc95cbc618f0ffa7db95/thumbnails/thumbnail.jpg" width="600" alt="POV Shot from Inside Slushy Cup">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30a5a7e71d31cc95cbc618f0ffa7db95/thumbnails/thumbnail.jpg" width="600" alt="從冰沙杯內部拍攝的 POV 視角">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4733)**
 
 **作者:** [Yunan Helmy A](https://x.com/yunanhelmyart) | **來源:** [Link](https://x.com/yunanhelmyart/status/2054561370868428937) | **發布時間:** May 13, 2026
 
 ---
-### Luxury Beauty Brand Success Story Film
+### 奢華美妝品牌成功故事影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive cinematic script and prompt for a high-end beauty brand commercial featuring emotional storytelling and luxurious salon aesthetics.
+> 一份詳盡的電影級腳本與提示詞，專為高端美妝品牌廣告設計，融合情感敘事與奢華沙龍美學。
 
 #### 📝 提示詞
 
 ```
-Duration: 15 Seconds
-Style: Emotional Luxury Cinema • Feminine Success Story • Viral High-End Beauty Commercial
-Format: Vertical 9:16 • 8K UHD • IMAX Fashion Film • Dolby Atmos • Hyper Realism
+片長：15 秒
+風格：情感奢華電影感 • 女性成功故事 • 高端美妝病毒式廣告
+格式：垂直 9:16 • 8K UHD • IMAX 時尚電影 • Dolby Atmos • 超寫實主義
 
-A hyper-realistic cinematic short film about two women building their dream beauty brand from the ground up. Inspired by luxury fashion campaigns, emotional Netflix-style storytelling, and viral “soft life” entrepreneur aesthetics. Elegant beauty salon with glowing LED mirrors, glossy cream marble floors, gold-accent décor, aesthetic makeup stations, luxury product shelves, soft sunlight rays, cinematic reflections, floating dust particles, dreamy lens flares, realistic beauty textures, smooth handheld IMAX camera movement, and ultra-premium fashion-commercial visuals.
+一部關於兩位女性從零開始打造夢想美妝品牌的超寫實電影短片。靈感源自奢華時尚廣告、Netflix 風格的情感敘事，以及病毒式傳播的「鬆弛感」創業美學。場景為優雅的美容沙龍，配有發光的 LED 鏡面、光澤感奶油色大理石地板、金色裝飾、精緻的化妝台、奢華產品陳列架、柔和的陽光射線、電影級反射效果、漂浮的微塵、夢幻的鏡頭光暈、真實的美妝質感、流暢的 IMAX 手持攝影機運鏡，以及頂級時尚廣告視覺效果。
 
-The atmosphere feels emotional, feminine, rich, inspirational, and deeply cinematic — a story about friendship, ambition, sacrifice, and success.
+氛圍感性、女性化、富足、勵志且極具電影感——這是一個關於友誼、抱負、犧牲與成功的故事。
 
-MAIN CHARACTERS:
-Two stylish young women with graceful confidence and powerful chemistry. Elegant luxury salon outfits in black, beige, and gold tones. Their energy feels calm, hardworking, emotional, and inspiring.
+主要角色：
+兩位時尚年輕女性，展現優雅自信與強大的默契。身著黑色、米色與金色調的優雅奢華沙龍服裝。她們散發著冷靜、勤奮、感性且鼓舞人心的氣質。
 
-0–2 SEC:
-Black screen.
-Soft rain ambience.
-One light slowly turns on inside a dark luxury salon. Then another. Then another.
-Wide cinematic shot reveals the empty salon before sunrise. One woman wipes the mirror carefully while the other quietly arranges beauty tools beside glowing LED lights.
+0–2 秒：
+黑畫面。
+柔和的雨聲氛圍。
+一盞燈在黑暗的奢華沙龍內緩緩亮起。接著是第二盞、第三盞。
+寬銀幕電影鏡頭揭示了日出前空無一人的沙龍。一名女子仔細擦拭鏡子，另一名女子在發光的 LED 燈旁安靜地整理美妝工具。
 
-Text Overlay:
-“They started with nothing but a dream…”
+文字疊加：
+「她們起初一無所有，唯有夢想……」
 
-Sound: Emotional piano + distant rain ambience
+音效：情感鋼琴曲 + 遠處雨聲氛圍
 
-2–5 SEC:
-Music beat begins softly.
-Fast cinematic beauty montage. Makeup powder floating through sunlight. Hair curling in ultra slow motion. Close-up of glossy lips, polished nails, jewelry sparkle, heels walking across marble floor, coffee cups beside appointment books, tired hands still working late.
+2–5 秒：
+音樂節拍輕柔響起。
+快速的電影級美妝蒙太奇。化妝粉末在陽光中漂浮。頭髮在超慢動作下捲曲。特寫鏡頭捕捉光澤雙唇、精緻指甲、珠寶閃耀、高跟鞋走過大理石地板、預約簿旁的咖啡杯、深夜仍在工作的疲憊雙手。
 
-Effects: Viral speed ramps, cinematic macro focus, luxury beauty glow, soft motion blur
+效果：病毒式變速運鏡、電影級微距對焦、奢華美妝光澤、柔和動態模糊
 
-5–8 SEC:
-Salon transforms into a busy luxury space filled with happy clients. One woman styles long glossy hair while the other creates flawless makeup looks. Customers smile, laugh, record mirror selfies, and admire transformations.
+5–8 秒：
+沙龍轉變為充滿快樂顧客的繁忙奢華空間。一名女子為顧客打理光澤長髮，另一名女子打造無瑕妝容。顧客們微笑、大笑、對著鏡子自拍，並讚嘆著改造後的樣貌。
 
-Text Overlay:
-“Late nights turned into luxury.”
+文字疊加：
+「深夜的奮鬥化為奢華的成就。」
 
-Sound: Emotional cinematic music rises with soft bass pulse
+音效：情感電影音樂隨柔和低音脈動漸強
 
-8–11 SEC:
-The music softens emotionally.
-Both women pause for a brief moment during the rush and look at each other through the mirror reflection. Proud smiles. Tired eyes. Silent realization that their dream became real.
+8–11 秒：
+音樂情感轉趨柔和。
+兩位女性在忙碌中短暫停頓，透過鏡中倒影凝視彼此。驕傲的微笑。疲憊的雙眼。無聲地意識到她們的夢想已成真。
 
-Golden sunlight floods the salon creating breathtaking luxury visuals.
+金色陽光灑滿沙龍，營造出令人屏息的奢華視覺效果。
 
-Effects: Warm slow motion, dreamy reflections, cinematic lens flare, emotional close-ups
+效果：溫暖慢動作、夢幻反射、電影級鏡頭光暈、情感特寫
 
-11–13 SEC:
-Luxury transformation reveal.
-Beautiful client stands up speechless after makeover. Hair flows perfectly in slow motion while mirrors reflect golden salon lights across the room. Everyone admires the transformation.
+11–13 秒：
+奢華改造揭曉。
+美麗的顧客在改造後驚豔起身，無言以對。頭髮在慢動作中完美飄動，鏡面將金色的沙龍燈光反射至整個空間。眾人皆為此改造而讚嘆。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/866d6528afc0591aadeeed5b9158bd02/thumbnails/thumbnail.jpg" width="600" alt="Luxury Beauty Brand Success Story Film">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/866d6528afc0591aadeeed5b9158bd02/thumbnails/thumbnail.jpg" width="600" alt="奢華美妝品牌成功故事影片">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4729)**
 
 **作者:** [Sadia](https://x.com/SadiaMalik182) | **來源:** [Link](https://x.com/SadiaMalik182/status/2054535444289953860) | **發布時間:** May 13, 2026
 
 ---
-### Olympic Gymnast Balance Beam Performance
+### 奧運體操選手平衡木表演
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A high-fidelity video prompt for generating a cinematic sequence of an Olympic gymnast performing complex maneuvers on a balance beam, focusing on physical accuracy and atmosphere.
+> 這是一個高保真影片提示詞，用於生成奧運體操選手在平衡木上進行複雜動作的電影級序列，重點在於物理準確性與氛圍感。
 
 #### 📝 提示詞
 
 ```
-Generate a story about a Chinese gymnast completing a super high-difficulty technical move in the balance beam final at the Paris Olympics. Precisely capture the extremely complex and physically dynamic somersault sequence on the beam. Starting from the first frame, use a Body Mount camera to quickly follow the athlete as she completes a side somersault into a triple forward tuck somersault. Then use an ultra-slow motion close-up to capture her extreme body control in the air, the movement of her white hair, and the details of her uniform, ensuring a realistic representation of gravity and physical laws. Finally, land steadily, and the camera pushes in on her confident face. Cinematic realism, 2.35:1 widescreen. Accompanied by the cheering and exciting atmosphere of a live Paris Olympics broadcast.
+生成一個關於中國體操選手在巴黎奧運平衡木決賽中完成超高難度技術動作的故事。精準捕捉平衡木上極其複雜且充滿動態的空翻序列。從第一幀開始，使用身體掛載攝影機（Body Mount）快速跟隨運動員，拍攝她完成側空翻接前空翻三週的動作。接著使用超慢動作特寫，捕捉她在空中極致的身體控制力、白髮的擺動以及體操服的細節，確保重力與物理定律的真實呈現。最後穩穩落地，鏡頭推近至她自信的臉龐。電影級寫實風格，2.35:1 寬螢幕比例。伴隨著巴黎奧運現場直播的歡呼聲與激動人心的氛圍。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1778742494583_69ote8_HIMpYj2W4AAWmhC.jpg" width="600" alt="Olympic Gymnast Balance Beam Performance">
+<img src="https://cms-assets.youmind.com/media/1778742494583_69ote8_HIMpYj2W4AAWmhC.jpg" width="600" alt="奧運體操選手平衡木表演">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4758)**
 
 **作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2054532186628378780) | **發布時間:** May 13, 2026
 
 ---
-### Hair Salon Makeover Reveal Video
+### 美髮沙龍改造揭曉影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive cinematic script for a hair salon transformation video, detailing specific shots, lighting, character reactions, and background music.
+> 一份詳盡的美髮沙龍改造影片電影感腳本，詳細說明了特定鏡頭、燈光、角色反應及背景音樂。
 
 #### 📝 提示詞
 
 ```
-Image1 is the woman before makeover. 
-Image2 is the same woman after a stunning hair transformation.
-Image3 is the male hairstylist.
- 
-TikTok hair salon makeover reveal. 
+Image1 為改造前的女性。
+Image2 為同一位女性在驚艷髮型改造後的樣子。
+Image3 為男性髮型師。
 
-Shot 1 (0:00–0:04): The shy woman from Image1 sits in a salon chair, fidgeting nervously and touching her hair. The hairstylist from Image3 stands beside her, examining her hair and nodding. He smirks confidently at camera. Medium shot, slow dolly in. Warm amber salon lighting, mirrors in bokeh background. 
+TikTok 美髮沙龍改造揭曉。
 
-Shot 2 (0:04–0:07): The hairstylist from Image3 grins at camera, then reaches his open palm toward the lens. His hand grows larger until it completely covers the entire frame — screen goes dark. POV, wide lens. Dramatic whoosh then silence. 
+鏡頭 1 (0:00–0:04)：Image1 中害羞的女性坐在沙龍椅上，緊張地動來動去並觸摸著頭髮。Image3 中的髮型師站在她身旁，檢查她的頭髮並點頭。他對著鏡頭自信地微笑。中景鏡頭，緩慢推軌鏡頭。溫暖的琥珀色沙龍燈光，鏡子在背景中呈現散景效果。
 
-Shot 3 (0:07–0:08): Complete darkness — palm fills 100% of frame. One second of black. Total silence. 
+鏡頭 2 (0:04–0:07)：Image3 中的髮型師對著鏡頭露齒而笑，隨後將張開的手掌伸向鏡頭。他的手逐漸放大，直到完全覆蓋整個畫面——螢幕變暗。第一人稱視角 (POV)，廣角鏡頭。戲劇性的呼嘯聲後歸於寂靜。
 
-Shot 4 (0:08–0:10): Both hands pull away from lens. Golden light floods in with lens flare. The transformed woman from Image2 is revealed in the salon chair. POV perspective. Rising chime sound. 
+鏡頭 3 (0:07–0:08)：完全黑暗——手掌填滿 100% 的畫面。一秒鐘的黑畫面。完全寂靜。
 
-Shot 5 (0:10–0:13): The woman from Image2 stares at her reflection wide-eyed, freezes, then covers her mouth with both hands in shock. Eyes glistening with happy tears. Medium shot, slow dolly in to close-up. Beauty lighting with halo backlight on her hair, sparkle effects. K-pop beat drop. 
+鏡頭 4 (0:08–0:10)：雙手從鏡頭前移開。金色光芒湧入並伴隨鏡頭光暈。Image2 中改造後的女性在沙龍椅上顯現。第一人稱視角 (POV)。上升的鐘聲。
 
-Shot 6 (0:13–0:15): The woman from Image2 and hairstylist from Image3 together. She touches her new hair smiling radiantly. He gives thumbs-up to camera. Medium two-shot. Bright cheerful lighting. Music fading out. 
+鏡頭 5 (0:10–0:13)：Image2 中的女性瞪大眼睛盯著鏡中的自己，僵住，隨後用雙手摀住嘴巴，感到震驚。眼中閃爍著喜悅的淚水。中景鏡頭，緩慢推軌至特寫。美妝燈光，頭髮上有光環背光，閃耀效果。K-pop 音樂節奏落下。
 
-Style: Photorealistic, smartphone footage, slight film grain. Warm amber salon lighting. Shots 4–6 noticeably brighter and more glamorous than Shots 1–2. 
+鏡頭 6 (0:13–0:15)：Image2 中的女性與 Image3 中的髮型師合影。她觸摸著新髮型，笑容燦爛。他對著鏡頭豎起大拇指。中景雙人鏡頭。明亮愉快的燈光。音樂漸弱。
 
-Constraints: Woman in Shots 1–2 matches Image1. Woman in Shots 4–6 matches Image2. Hairstylist matches Image3 throughout. Hand covers 100% frame in Shot 3. No text. No logos. Stable, smooth. 2K.
+風格：照片級真實感，智慧型手機拍攝，輕微底片顆粒感。溫暖的琥珀色沙龍燈光。鏡頭 4–6 明顯比鏡頭 1–2 更明亮、更具魅力。
 
-BGM:K-pop, future bass, female vocal, BPM 118, soft dreamy piano intro for 4 seconds, rising synth buildup from 4 to 7 seconds, 1 second total silence at 8 seconds, massive beat drop at 9 seconds with sparkling synths and powerful bass, feel-good melodic outro fading out, total length 15 seconds
+限制：鏡頭 1–2 中的女性需與 Image1 相符。鏡頭 4–6 中的女性需與 Image2 相符。髮型師在整個過程中需與 Image3 相符。鏡頭 3 中手掌需覆蓋 100% 畫面。無文字。無標誌。穩定、流暢。2K 解析度。
+
+背景音樂：K-pop，Future Bass，女聲，BPM 118，前 4 秒為柔和夢幻的鋼琴前奏，4 至 7 秒為上升的合成器堆疊，8 秒處有 1 秒的完全靜音，9 秒處有強烈的節奏落下，伴隨閃耀的合成器與強勁的低音，愉悅的旋律結尾漸弱，總長度 15 秒
 ```
 
-<img src="https://cms-assets.youmind.com/media/1778742497378_uelllj_HIHtN3Ja0AANI5z.jpg" width="600" alt="Hair Salon Makeover Reveal Video">
+<img src="https://cms-assets.youmind.com/media/1778742497378_uelllj_HIHtN3Ja0AANI5z.jpg" width="600" alt="美髮沙龍改造揭曉影片">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4759)**
 
 **作者:** [AIギャル物語/AI gal's story](https://x.com/JPAI_HEAVEN) | **來源:** [Link](https://x.com/JPAI_HEAVEN/status/2054525545942278461) | **發布時間:** May 13, 2026
 
 ---
-### WWE Ringside Live Broadcast Simulation
+### WWE 場邊直播模擬
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A multi-scene prompt simulating a WWE broadcast, following a woman from ringside to a victory pose in the ring.
+> 一個模擬 WWE 直播的多場景提示詞，記錄一名女性從場邊到擂台勝利姿勢的全過程。
 
 #### 📝 提示詞
 
 ```
-WWE Ringside Broadcast Video Prompt
-[0:00–0:03] CROWD REACTION SHOT
-9:16 vertical live WWE-style broadcast shot at a sold-out arena. A 24yo Indonesian-Korean woman with long straight black hair, porcelain skin, and elegant hourglass silhouette sits ringside beside the barricade in a VIP chair. Outfit matches reference image exactly: black fitted crop top, electric-blue satin cropped bomber jacket, dark navy leather mini skirt, sheer black mesh sleeve on left arm, glossy black knee-high boots.
-She smiles, laughs naturally, lightly claps, and lifts a branded arena soda cup while watching the match. Red-and-blue arena lights reflect across the barricade and LED panels.
-Commentators shout excitedly over loud crowd noise.
-“Arif N” physically engraved into the metallic armrest of the VIP chair.
-[0:03–0:06] BARRICADE VAULT
-Dynamic ringside tracking shot. The woman stands up, removes her blue bomber jacket, tosses it aside, then quickly climbs over the padded barricade toward the ring area. Crowd reacts loudly while security rushes into frame.
-Authentic WWE live-broadcast camera shake and autofocus breathing.
-“Arif N” stitched naturally inside the jacket collar.
-[0:06–0:10] RINGSIDE SPRINT
-Wide low-angle tracking shot beside the wrestling ring. She sprints across the arena floor in glossy black boots, hair flowing dramatically under sweeping spotlights and LED reflections. Fans wave signs and foam fingers behind the barricade.
-Commentators yell: “She’s heading to the ring!”
-“Arif N” engraved into the steel ring steps.
-[0:10–0:13] TOP-ROPE MOMENT
-Cinematic mid-wide ring shot. She slides under the ropes, climbs the turnbuckle, and raises one arm confidently while arena pyro erupts behind her. Massive crowd explosion.
-Fast whip-pan broadcast camera movement.
-“Arif N” embossed onto her black wrist tape.
-[0:13–0:15] VICTORY CLOSE-UP
-Medium close-up inside the ring with dramatic bokeh crowd background. She smiles victoriously toward the camera, then playfully pushes her hand toward the lens, creating realistic foreground blur and autofocus breathing.
-Deafening arena roar and excited WWE-style commentary.
-TECHNICAL STYLE
-Ultra-photorealistic WWE broadcast realism, cinematic arena lighting, shallow depth of field, subtle film grain, realistic crowd motion blur, LED reflections, authentic TV graphics aesthetic, dynamic handheld broadcast movement, highly detailed textures, glossy ring ropes and barricades.
-The text “Arif N” must always appear physically engraved, stitched, embossed, or branded onto real-world objects — never as a digital overlay.
+WWE 場邊直播影片提示詞
+[0:00–0:03] 觀眾反應鏡頭
+9:16 垂直 WWE 風格直播鏡頭，拍攝於座無虛席的競技場。一位 24 歲的印尼裔韓籍女性，留著黑色長直髮，擁有白皙肌膚與優雅的沙漏型身材，坐在場邊護欄旁的 VIP 座位上。服裝與參考圖片完全一致：黑色合身短版上衣、電光藍色緞面短版飛行員夾克、深海軍藍皮革迷你裙、左臂配有黑色透視網紗袖、亮面黑色過膝長靴。
+她微笑著，自然地大笑，輕輕鼓掌，並在觀看比賽時舉起印有品牌標誌的競技場汽水杯。紅藍相間的競技場燈光反射在護欄與 LED 面板上。
+評論員在嘈雜的觀眾聲中激動地大喊。
+「Arif N」字樣刻在 VIP 座椅的金屬扶手上。
+[0:03–0:06] 翻越護欄
+動態場邊追蹤鏡頭。該女子站起身，脫下藍色飛行員夾克並隨手拋開，隨後迅速翻過軟墊護欄，朝擂台區移動。觀眾反應熱烈，保全人員衝入畫面。
+具備真實的 WWE 直播攝影機晃動感與自動對焦呼吸效應。
+「Arif N」字樣自然地縫在夾克領口內側。
+[0:06–0:10] 場邊衝刺
+摔角擂台旁的廣角低角度追蹤鏡頭。她穿著亮面黑色長靴在競技場地面上衝刺，頭髮在掃射的聚光燈與 LED 反射光下飄逸。護欄後的粉絲揮舞著標語與泡棉手指。
+評論員大喊：「她正朝擂台衝去！」
+「Arif N」字樣刻在鋼製擂台階梯上。
+[0:10–0:13] 頂繩時刻
+電影感中廣角擂台鏡頭。她從繩圈下滑入，爬上角柱，自信地舉起一隻手臂，身後競技場煙火噴發。觀眾爆發出巨大的歡呼聲。
+快速的搖攝直播攝影機運鏡。
+「Arif N」字樣壓印在她的黑色護腕上。
+[0:13–0:15] 勝利特寫
+擂台內的中景特寫，背景為具有戲劇性散景效果的觀眾席。她對著鏡頭露出勝利的微笑，隨後俏皮地將手推向鏡頭，創造出逼真的前景模糊與自動對焦呼吸效應。
+震耳欲聾的競技場咆哮聲與激動人心的 WWE 風格評論。
+技術風格
+超寫實 WWE 直播質感、電影級競技場燈光、淺景深、細微底片顆粒、真實的觀眾動態模糊、LED 反射光、道地的電視圖形美學、動態手持直播運鏡、高度細膩的紋理、亮面擂台繩圈與護欄。
+「Arif N」文字必須始終以刻印、縫製、壓印或品牌標誌的形式出現在現實物體上，絕不能以數位疊加的方式呈現。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f47d61f5243f8a831ab371073242e9fb/thumbnails/thumbnail.jpg" width="600" alt="WWE Ringside Live Broadcast Simulation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f47d61f5243f8a831ab371073242e9fb/thumbnails/thumbnail.jpg" width="600" alt="WWE 場邊直播模擬">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4737)**
 
 **作者:** [ShaHid WaNii](https://x.com/meng_dagg695) | **來源:** [Link](https://x.com/meng_dagg695/status/2054515453444153506) | **發布時間:** May 13, 2026
 
 ---
-### Soccer Stadium Woman Cheeseburger
+### 足球場上的女子與起司漢堡
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A realistic sports broadcast prompt of a woman eating a burger in a soccer stadium crowd.
+> 一個關於女子在足球場觀眾席吃漢堡的寫實體育轉播風格提示詞。
 
 #### 📝 提示詞
 
 ```
-“Ultra-realistic static image of a sports broadcast of a glamorous woman sitting in the crowd of a packed soccer stadium during a nighttime match, wearing a sleeveless high-neck satin top in dark brown and square black earrings, light brown/blonde shoulder-length hair styled in soft waves. She is casually drinking from a tall blue aluminum can while holding a half-eaten cheeseburger in the other hand. Around her are fans with soccer jerseys and scarves in bright yellow and blue, creating a strong team color contrast. The scene feels spontaneous and cinematic, captured mid-match from the angle of a TV broadcast camera with shallow depth of field. Include realistic stadium seats, packed audience atmosphere, overlaid broadcast graphics in the upper left corner showing a live soccer score and match timer, and a sports network watermark in the upper right. Natural arena lighting, detailed skin texture, sharp focus on the woman, slightly blurred background crowd, authentic live sports broadcast aesthetic, 16:9 composition”
+「超寫實靜態影像，呈現體育轉播畫面。一位充滿魅力的女子坐在擠滿觀眾的足球場內，背景為夜間賽事。她身穿深棕色無袖高領緞面背心，戴著方形黑色耳環，留著淺棕色/金色的及肩波浪捲髮。她一手拿著喝了一半的起司漢堡，另一手隨意地拿著一個藍色高罐鋁罐飲料。周圍的球迷穿著亮黃色與藍色的足球球衣並圍著圍巾，形成強烈的球隊色彩對比。場景呈現出隨性且具電影感的氛圍，由電視轉播攝影機視角捕捉，帶有淺景深效果。畫面包含寫實的球場座椅、擁擠的觀眾氛圍，左上角疊加顯示即時足球比分與比賽計時器的轉播圖標，右上角則有體育頻道浮水印。自然球場燈光，細膩的皮膚紋理，焦點清晰地對準該名女子，背景觀眾略顯模糊，呈現道地的現場體育轉播美學，16:9 構圖。」
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fb727aa103c6edc19586ad328ebd3e93/thumbnails/thumbnail.jpg" width="600" alt="Soccer Stadium Woman Cheeseburger">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fb727aa103c6edc19586ad328ebd3e93/thumbnails/thumbnail.jpg" width="600" alt="足球場上的女子與起司漢堡">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4753)**
 
 **作者:** [Arcane Ai](https://x.com/Arcane_Aii) | **來源:** [Link](https://x.com/Arcane_Aii/status/2054513002490327096) | **發布時間:** May 13, 2026
 
 ---
-### Concert Stadium Blonde Woman Close-up
+### 演唱會體育場金髮女子特寫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a joyful blonde woman at a concert, featuring realistic lighting and a music documentary aesthetic.
+> 一段關於演唱會中快樂金髮女子的電影感影片提示詞，呈現真實光影與音樂紀錄片美學。
 
 #### 📝 提示詞
 
 ```
-A cinematic 6-second close-up video based on the reference image. The same stunning blonde woman with blue eyes sits in the crowd at a packed concert stadium. Her expression is natural and joyful — she smiles softly, eyes warm and relaxed, as she enjoys the live music. Her long wavy hair moves gently. Behind her, blurred concertgoers naturally sway and hold up light sticks or phone lights. Soft purple and pink stage lighting shifts subtly across her face and the crowd. Realistic live music atmosphere, shallow depth of field, HBO-style music documentary aesthetic. Ultra-detailed skin texture, natural motion, no sudden movements. No anime, no cartoon, no CGI. 4K, smooth and cinematic.
+一段基於參考影像、長度 6 秒的電影感特寫影片。同一位擁有藍色眼睛、令人驚豔的金髮女子坐在擁擠的演唱會體育場人群中。她的表情自然而愉悅——她輕柔地微笑，眼神溫暖而放鬆，沉浸在現場音樂中。她波浪般的長髮輕輕擺動。在她身後，模糊的觀眾自然地搖擺，並舉起螢光棒或手機燈。柔和的紫色與粉色舞台燈光在她臉龐與人群間細膩變換。真實的現場音樂氛圍，淺景深，HBO 風格的音樂紀錄片美學。超細緻的皮膚紋理，自然動作，無突兀移動。非動漫、非卡通、非 CGI。4K 畫質，流暢且具電影感。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b2655eb9ad7d8c5148907c503853db8/thumbnails/thumbnail.jpg" width="600" alt="Concert Stadium Blonde Woman Close-up">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b2655eb9ad7d8c5148907c503853db8/thumbnails/thumbnail.jpg" width="600" alt="演唱會體育場金髮女子特寫">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4736)**
 
 **作者:** [Lady Julia Ana 👸🏼](https://x.com/4111J_) | **來源:** [Link](https://x.com/4111J_/status/2054508344086589830) | **發布時間:** May 13, 2026
 
 ---
-### Shibuya Street Photography POV
+### 澀谷街頭攝影 POV
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A POV street photography prompt set in Shibuya, featuring a conversation and posing session with a woman.
+> 一組以澀谷為背景的 POV 街頭攝影提示詞，包含與一位女性的對話及擺拍過程。
 
 #### 📝 提示詞
 
 ```
-POV: First-person handheld shot of a young adult male street photographer walking casually through the extremely crowded streets of Shibuya, Japan on a sunny daytime, surrounded by hundreds of pedestrians rushing across the famous Shibuya Scramble Crossing, tall buildings with huge digital billboards, neon signs, and busy city atmosphere.
+POV：第一人稱手持鏡頭，一位年輕男性街頭攝影師在陽光明媚的白天，悠閒地走在極度擁擠的日本澀谷街頭。周圍有數百名行人正匆忙穿過著名的澀谷十字路口，背景是高聳的建築、巨大的數位看板、霓虹燈以及繁忙的城市氛圍。
 
-@image as the exact character reference for the woman — her full appearance, face, hair, outfit, and style must strictly and perfectly match the uploaded reference image @image .
+@image 作為該女性的精確角色參考 —— 她的完整外貌、臉部、髮型、穿搭和風格必須嚴格且完美地符合上傳的參考圖片 @image 。
 
-0-4 seconds: Natural handheld walking motion forward through the crowd. The photographer spots @image  standing at the edge of the sidewalk, fully focused and looking down at her smartphone.
+0-4 秒：自然的手持行走動作，穿過人群。攝影師發現 @image 正站在人行道邊緣，全神貫注地看著智慧型手機。
 
-4-7 seconds: He gently approaches closer to her. Photographer’s voice (friendly, clear English): “Hey there!”
+4-7 秒：他溫和地靠近她。攝影師的聲音（親切、清晰的英語）：「嘿！」
 
-7-10 seconds: @image  looks up from her phone toward him with a warm, confident smile. Photographer: “You look absolutely beautiful in that outfit!”
+7-10 秒：@image 從手機抬起頭看向他，露出溫暖且自信的微笑。攝影師：「妳穿這套衣服看起來真美！」
 
-10-13 seconds: Photographer continues: “I’m a street photographer and I’d really love to take some photos of you if you’re okay with that?”
+10-13 秒：攝影師繼續說道：「我是一名街頭攝影師，如果妳不介意的話，我很想為妳拍幾張照片？」
 
-13-15 seconds: Woman @image  nods enthusiastically and replies in clear English: “Sure, that sounds fun! I’d love to pose for you.” She then strikes a graceful pose. Photographer’s hands raise the DSLR camera into the foreground (camera and hands visible in POV), framing her perfectly as if about to shoot. Gentle shutter click sound.
+13-15 秒：女性 @image 熱情地點頭，並用清晰的英語回答：「好啊，聽起來很有趣！我很樂意為你擺姿勢。」隨後她擺出一個優雅的姿勢。攝影師的手將 DSLR 相機舉至前景（POV 中可見相機與雙手），將她完美地框入鏡頭，彷彿即將按下快門。伴隨輕柔的快門聲。
 
-Cinematic realistic style, vibrant urban colors of busy Shibuya, bright daytime lighting with natural sunlight, sharp focus on the woman @image , dynamic crowded background with moving pedestrians, smooth natural handheld movement, high detail textures, friendly and positive atmosphere, clear audible English dialogue with natural lip sync, subtle city background sounds with footsteps, crowd chatter and traffic noise, enthusiastic yet respectful mood, 15-second video.
+電影級寫實風格，繁忙澀谷的鮮豔城市色彩，明亮的日間自然光，焦點清晰地對準女性 @image ，動態擁擠的背景與移動的行人，流暢自然的手持運鏡，高細節紋理，友好且正向的氛圍，清晰可辨的英語對話與自然的口型同步，細膩的城市背景音（包含腳步聲、人群嘈雜聲與交通噪音），熱情且尊重的氛圍，15 秒影片。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7645f33a63df4f8e651ec6a7cadc482/thumbnails/thumbnail.jpg" width="600" alt="Shibuya Street Photography POV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7645f33a63df4f8e651ec6a7cadc482/thumbnails/thumbnail.jpg" width="600" alt="澀谷街頭攝影 POV">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4744)**
 
 **作者:** [TheYudayVerse](https://x.com/yuday9909) | **來源:** [Link](https://x.com/yuday9909/status/2054504092291170671) | **發布時間:** May 13, 2026
 
 ---
-### @happycapyai @aimikoda GPT Image 2 storyboard prom
+### @happycapyai @aimikoda GPT Image 2 分鏡腳本提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
 #### 📝 提示詞
 
 ```
-Create a professional cinematic previs storyboard sheet.
+建立專業的電影預覽分鏡腳本表。
 
-PROJECT: Forest Rebirth
-SEQUENCE: Aggressive Contemporary Dance
-DURATION: 15 seconds
-PANELS: 12
-GRID: 3x4
-ASPECT RATIO: 16:9
-TONE: intense, aggressive, dark magical fantasy
-PACING: fast-paced
+專案：森林重生 (Forest Rebirth)
+序列：強烈現代舞
+時長：15 秒
+分鏡格數：12
+網格：3x4
+長寬比：16:9
+色調：強烈、激進、暗黑魔法奇幻風格
+節奏：快節奏
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fec08378fd970afb8c779ac67f8eb547/thumbnails/thumbnail.jpg" width="600" alt="@happycapyai @aimikoda GPT Image 2 storyboard prom">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fec08378fd970afb8c779ac67f8eb547/thumbnails/thumbnail.jpg" width="600" alt="@happycapyai @aimikoda GPT Image 2 分鏡腳本提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4745)**
 
@@ -1316,70 +1313,70 @@ PACING: fast-paced
 **作者:** [Taaruk](https://x.com/Taaruk_) | **來源:** [Link](https://x.com/Taaruk_/status/2054477202930995595) | **發布時間:** May 13, 2026
 
 ---
-### Romantic Drama Apartment Goodbye
+### 浪漫劇情：公寓道別
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intimate, music-driven cinematic scene involving a woman packing a suitcase in a warm, lamp-lit apartment while a man watches in silence.
+> 一場以音樂為核心的親密電影場景，描述一名女子在溫暖的燈光下於公寓整理行李，而男子在一旁靜靜注視。
 
 #### 📝 提示詞
 
 ```
-Genre: Romantic Drama 
-Structure: Music-driven, minimal dialogue
-Lens: 40mm handheld intimate
-Lighting: Warm practical lamps 3200K
-Mood: Quiet goodbye
+類型：浪漫劇情
+結構：音樂導向，極簡對話
+鏡頭：40mm 手持親密視角
+燈光：3200K 暖色實用燈具
+氛圍：靜謐的道別
 
-SCENE DESCRIPTION
+場景描述
 
-Small apartment. Vinyl record playing. Woman packing suitcase. Man watching.
+小型公寓。黑膠唱片播放中。女子正在整理行李箱。男子在旁注視。
 
-0–2 seconds: 40mm handheld at chest height. Woman folding shirt into suitcase on bed. Warm tungsten lamp to frame left casting soft golden falloff. Vinyl crackle audible.
+0–2 秒：40mm 手持鏡頭，胸部高度。女子將襯衫摺疊放入床上的行李箱。左側暖色鎢絲燈投射出柔和的金色光暈。可聽見黑膠唱片的雜音。
 
-3 seconds: Camera drifts slowly right revealing man standing in doorway 2 meters behind her. He does not speak.
+3 秒：鏡頭緩慢向右漂移，露出站在她身後 2 公尺處門口的男子。他沒有說話。
 
-4 seconds: Music lyrics audible — soft 1970s soul voice singing about departure.
+4 秒：音樂歌詞響起——柔和的 1970 年代靈魂樂，唱著關於離別的內容。
 
-5 seconds: Insert 85mm close-up of her fingers smoothing fabric carefully, as if delaying.
+5 秒：插入 85mm 特寫鏡頭，拍攝她撫平布料的手指，動作小心翼翼，彷彿在拖延時間。
 
-6 seconds: Camera moves closer to her profile. Tear forms but does not fall. Lamp reflection visible in eye.
+6 秒：鏡頭靠近她的側臉。淚水在眼眶打轉但未落下。燈光倒影映在眼中。
 
-7 seconds: He whispers:
-“You don’t have to.”
+7 秒：他低聲說道：
+「妳不必這樣。」
 
-8 seconds: She pauses. Music chorus swells gently.
+8 秒：她停下動作。音樂副歌輕柔地推向高潮。
 
-9 seconds: She closes suitcase. Latch clicks sharply — louder than expected.
+9 秒：她合上行李箱。鎖扣發出清脆的聲響——比預期中更響亮。
 
-10 seconds: Music continues alone after cut to black.
+10 秒：畫面轉黑，音樂持續播放。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2513d809d925f43e3c6acadba022e93c/thumbnails/thumbnail.jpg" width="600" alt="Romantic Drama Apartment Goodbye">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2513d809d925f43e3c6acadba022e93c/thumbnails/thumbnail.jpg" width="600" alt="浪漫劇情：公寓道別">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4723)**
 
 **作者:** [Marco "Shikoba" Riccetti](https://x.com/shikoba_86) | **來源:** [Link](https://x.com/shikoba_86/status/2054474165478936800) | **發布時間:** May 13, 2026
 
 ---
-### Cinematic Kung Fu Action Video
+### 電影級功夫動作影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-energy prompt for generating a kung fu performance video using specific character sheet and storyboard references.
+> 一個高能量的提示詞，用於使用特定的角色設定表與分鏡腳本參考來生成功夫表演影片。
 
 #### 📝 提示詞
 
 ```
-Create a 15-second cinematic kung fu performance video.
+製作一部 15 秒的電影級功夫表演影片。
 
-Use @[image1]  as the fixed character sheet reference. The character must strictly match the character sheet.
-Use @[image2]  as the storyboard reference.
+使用 @[image1] 作為固定的角色設定表參考。角色必須嚴格符合角色設定表。
+使用 @[image2] 作為分鏡腳本參考。
 
-Follow the storyboard shot by shot as the main
+以分鏡腳本為主要依據，逐鏡頭進行創作。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4630c04cf2d26f4e6deb2f2f88afaddb/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Kung Fu Action Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4630c04cf2d26f4e6deb2f2f88afaddb/thumbnails/thumbnail.jpg" width="600" alt="電影級功夫動作影片">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4749)**
 
@@ -1405,145 +1402,145 @@ Follow the storyboard shot by shot as the main
 **作者:** [Eesha](https://x.com/MissDelulu9) | **來源:** [Link](https://x.com/MissDelulu9/status/2054458460167880939) | **發布時間:** May 13, 2026
 
 ---
-### Luxury Nail Polish Beauty Commercial
+### 奢華指甲油美妝廣告
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fast-paced beauty ad prompt featuring high-shine nail polish application with professional broadcast aesthetics.
+> 這是一個節奏明快的美妝廣告提示詞，呈現高光澤指甲油的塗抹過程，並具備專業廣播級的美學質感。
 
 #### 📝 提示詞
 
 ```
-A fast-paced, high-energy luxury beauty commercial featuring a confident young woman in a soft, glowing studio environment with clean pastel lighting, glossy reflections, and elegant highlights. The video opens with a macro close-up of a premium nail polish bottle slowly rotating under soft light, showcasing its crystal-clear glass, rich pigment, and metallic cap with a luxurious shine (0–3s).
-Quick cut to the woman gracefully picking up the bottle, her manicured nails already perfectly shaped, as she unscrews the cap with a smooth, satisfying twist sound, the brush emerging coated in thick, glossy polish (3–6s).
-Transition to an extreme close-up of her hand as she carefully applies the nail polish in one smooth stroke, the color spreading evenly with a rich, high-shine finish and flawless coverage (6–10s).
-Cut to a slow-motion shot of her fingers moving elegantly through soft light, showcasing the freshly painted nails reflecting a mirror-like gloss with subtle sparkles and luxury glow (10–13s).
-Final shot shows her confidently posing with her hand near her face, nails fully polished and radiant, while the nail polish bottle appears beside her with floating light particles and a soft cinematic glow (13–16s).
-Background music is upbeat, trendy, and sophisticated, matching a premium beauty ad vibe with smooth transitions, sharp cuts, and a polished, high-fashion aesthetic throughout.
+這是一支節奏明快、充滿活力的奢華美妝廣告，主角是一位自信的年輕女性，場景設在柔和且散發光芒的攝影棚環境中，搭配乾淨的粉彩燈光、亮面反射與優雅的高光效果。影片開頭為頂級指甲油瓶的微距特寫，瓶身在柔光下緩慢旋轉，展現出水晶般透明的玻璃質感、濃郁的色澤以及金屬瓶蓋的奢華光澤（0–3 秒）。
+快速切換至女性優雅地拿起瓶子，她修剪完美的指甲形狀精緻，隨著她以流暢且令人滿足的旋轉聲旋開瓶蓋，刷頭沾滿了濃郁且具光澤感的指甲油（3–6 秒）。
+切換至手部的極致特寫，她小心翼翼地一筆塗上指甲油，色彩均勻地延展，呈現出濃郁、高光澤且無瑕的覆蓋效果（6–10 秒）。
+切換至慢動作鏡頭，她的手指在柔光中優雅擺動，展示著剛塗好的指甲，反射出如鏡面般的亮光，並帶有細緻的閃爍與奢華光澤（10–13 秒）。
+最後一個鏡頭是她自信地將手靠近臉龐擺拍，指甲光彩奪目，指甲油瓶出現在她身旁，伴隨著漂浮的光點與柔和的電影級光暈（13–16 秒）。
+背景音樂輕快、時尚且精緻，完美契合頂級美妝廣告的氛圍，全片運用流暢的轉場、俐落的剪輯，展現出精緻的高級時尚美學。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31172f84b8227fde3e2ebc618b8eda95/thumbnails/thumbnail.jpg" width="600" alt="Luxury Nail Polish Beauty Commercial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31172f84b8227fde3e2ebc618b8eda95/thumbnails/thumbnail.jpg" width="600" alt="奢華指甲油美妝廣告">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4742)**
 
 **作者:** [Red chili 🌶️](https://x.com/Redchili105) | **來源:** [Link](https://x.com/Redchili105/status/2054452325045895422) | **發布時間:** May 13, 2026
 
 ---
-### IPL Style Couple Broadcast Photo
+### IPL 風格情侶轉播照片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A tutorial for creating a realistic stadium broadcast shot of a couple during a cricket match using image-to-video techniques.
+> 本教學將引導您使用影像轉影片技術，製作出板球比賽期間，觀眾席情侶被體育場轉播鏡頭捕捉到的寫實畫面。
 
 #### 📝 提示詞
 
 ```
-Create a photorealistic 16:9 live Indian cricket broadcast screenshot of a young couple captured from far away by a stadium zoom camera during an IPL-style night match.
-Use the provided face reference image for the man and keep his facial features highly accurate: same face shape, eyes, nose, lips, beard/stubble pattern, skin tone, hairstyle volume, and natural expression. Do not beautify or change his identity. He should look like the same person from the reference, only seated in a cricket stadium.
-Use the provided woman reference for the woman, but make her realistic and human, not doll-like. Keep her attractive but grounded with natural skin texture, realistic eyes, subtle imperfections, believable facial proportions, and soft candid expression.
-Scene:
-The couple is sitting among a dense crowd inside a packed Indian cricket stadium during a night match. They are not posing for the camera. They look like they were unexpectedly picked up by the long-range broadcast camera installed in the stadium. The camera is far away and zoomed in, like real IPL audience reaction shots.
-Important camera style:
-This should NOT look like a camera is directly in front of them.
-This should NOT look like a close DSLR portrait or staged photoshoot.
-Make it look like a telephoto broadcast zoom shot from across the stadium.
-Use long-lens compression, slightly flattened perspective, medium-wide crowd framing, mild atmospheric haze, subtle broadcast softness, minor motion blur, slight digital zoom artifacts, realistic compression noise, and live TV sharpness.
-The couple should be visible clearly, but not overly crisp or perfectly lit.
-Composition:
-Frame them from the audience section, with other spectators partially blocking the foreground and background. Some heads, shoulders, flags, and jerseys should naturally overlap the frame, making it feel like the broadcast camera is peeking through the crowd. The couple should be seated in the middle rows, not isolated. Keep surrounding fans close to them so they feel integrated in the stadium crowd.
-Pose and emotion:
-The man has his arm naturally around the woman’s shoulder and holds a red-and-silver soda can in his other hand. He wears a light blue casual shirt or a light checkered shirt, matching the cool blue stadium vibe. The woman wears a blue summer dress. They are looking at each other with shy, warm, candid chemistry, as if they just realized they are on the big screen. Their expressions should be natural, slightly surprised, and sweet, not posed.
-Lighting:
-Use only ambient stadium lighting and weak spill light from the cricket field. No cinematic spotlight. No dramatic key light. No beauty lighting. The couple should blend into the crowd brightness naturally, like a real live match broadcast. Skin tones should have natural stadium-light shadows and slight unevenness.
-Background:
-Packed Indian cricket stadium, night match atmosphere, fans in blue jerseys, waving flags, LED ribbon boards, stadium seating, blurred crowd movement, lively but realistic environment. The crowd should feel dense and natural, not generated or empty.
-Broadcast overlay:
-Add a Star Sports-style Indian cricket broadcast presentation:
+製作一張 16:9 的寫實印度板球直播截圖，呈現 IPL 風格的夜間比賽，畫面為體育場遠端變焦鏡頭捕捉到的一對年輕情侶。
+請使用提供的男性參考圖，並確保其臉部特徵高度精準：包含臉型、眼睛、鼻子、嘴唇、鬍鬚/鬍渣樣式、膚色、髮量及自然表情。請勿進行美化或改變其身分。他看起來應與參考圖中的人完全一致，只是身處於板球場中。
+請使用提供的女性參考圖，但需呈現寫實的人類質感，而非玩偶感。保持其吸引力但要真實，具備自然的皮膚紋理、寫實的雙眼、細微的瑕疵、可信的臉部比例以及柔和的側拍表情。
+場景：
+這對情侶坐在印度板球場內擁擠的觀眾席中，正值夜間比賽。他們並非在擺拍，看起來像是被體育場內遠距離的轉播鏡頭意外捕捉到。鏡頭距離很遠並進行了變焦，就像真實的 IPL 觀眾反應鏡頭。
+重要的鏡頭風格：
+畫面看起來不應像是鏡頭直接對著他們拍攝。
+看起來不應像是近距離的 DSLR 人像攝影或刻意安排的寫實寫真。
+使其看起來像是從體育場另一端拍攝的長焦轉播變焦鏡頭。
+使用長鏡頭壓縮感、略微扁平的透視、中廣角的觀眾構圖、輕微的空氣霧感、細微的轉播柔焦、輕微的動態模糊、些許數位變焦偽影、寫實的壓縮雜訊以及現場電視直播的銳利度。
+這對情侶應清晰可見，但不會過度銳利或光線完美。
+構圖：
+從觀眾席位進行構圖，前景和背景應有其他觀眾部分遮擋。部分頭部、肩膀、旗幟和球衣應自然地重疊在畫面中，營造出轉播鏡頭穿過人群拍攝的感覺。情侶應坐在中間排，而非孤立。讓周圍的球迷靠近他們，使他們融入體育場的人群中。
+姿勢與情緒：
+男方自然地將手臂搭在女方肩上，另一隻手拿著一罐紅銀色的汽水。他穿著淺藍色休閒襯衫或淺色格紋襯衫，與體育場清爽的藍色氛圍相符。女方穿著藍色夏日連身裙。他們正看著彼此，流露出害羞、溫暖且自然的化學反應，彷彿剛意識到自己出現在大螢幕上。他們的表情應自然、帶點驚訝且甜蜜，而非擺拍。
+燈光：
+僅使用體育場環境光及來自板球場的微弱溢光。無電影級聚光燈。無戲劇性主光。無美顏燈光。情侶應自然地融入人群的亮度中，就像真實的現場直播比賽。膚色應帶有自然的體育場燈光陰影及些許不均勻感。
+背景：
+擁擠的印度板球場，夜間比賽氛圍，身穿藍色球衣的球迷，揮舞的旗幟，LED 廣告看板，體育場座位，模糊的人群移動，生動但寫實的環境。人群應感覺密集且自然，而非生成出來的或空蕩蕩的。
+轉播疊加圖層：
+加入 Star Sports 風格的印度板球轉播呈現：
 
-channel watermark in the top corner, inspired by Indian sports TV
+角落的頻道浮水印，靈感來自印度體育電視台
 
-LIVE tag
+LIVE 標籤
 
-modern cricket scoreboard lower-third
+現代板球計分板下三分之一處
 
-fictional team names only
+僅使用虛構的球隊名稱
 
-fictional score, overs, wickets
+虛構的分數、輪數、出局數
 
-run rate or required run rate
+得分率或目標得分率
 
-batsman and bowler stats
+擊球手與投球手數據
 
-small commentary ticker
+小型評論跑馬燈
 
-clean layered TV graphics
+乾淨的電視圖層圖形
 
-Do not use real IPL team names, real player names, real sponsors, or real match details. Use fictional teams and fictional players.
-Quality:
-Ultra-photorealistic, authentic live sports telecast look, realistic human skin texture, natural fabric details, believable stadium zoom-camera perspective, subtle compression artifacts, slightly imperfect broadcast capture, candid audience reaction moment.Negative prompt:
-Do not make it look like a professional portrait photoshoot.
-Do not make the couple look directly into the camera.
-Do not use cinematic lighting.
-Do not isolate them from the crowd.
-Do not make the faces overly smooth or doll-like.
-Do not make the man’s face generic.
-Do not change the man’s identity from the reference image.
-Do not create fake plastic skin.
-Do not use real IPL team names or real player names.
-Do not make the scoreboard unreadable or messy.
-Do not make it look like a front-facing mobile photo.
+請勿使用真實的 IPL 球隊名稱、真實球員姓名、真實贊助商或真實比賽細節。請使用虛構的球隊與球員。
+品質：
+超寫實、真實的現場體育轉播外觀、寫實的人類皮膚紋理、自然的布料細節、可信的體育場變焦鏡頭透視、細微的壓縮偽影、略帶瑕疵的轉播擷取、自然的觀眾反應瞬間。負面提示：
+不要讓它看起來像專業人像攝影。
+不要讓情侶直視鏡頭。
+不要使用電影級燈光。
+不要將他們與人群隔離開來。
+不要讓臉部過於平滑或像玩偶。
+不要讓男性的臉部看起來大眾化。
+不要更改參考圖中男性的身分。
+不要創造虛假的塑膠皮膚。
+不要使用真實的 IPL 球隊名稱或真實球員姓名。
+不要讓計分板難以閱讀或雜亂。
+不要讓它看起來像正面拍攝的手機照片。
 
 ---------------------------------------------
 
-Video Generation prompt:
+影片生成提示詞：
 
-Create a realistic 15-second single-take live IPL-style Indian cricket broadcast crowd cutaway during a packed night match. Telephoto long-lens zoom shot from far away in the stadium, like a professional audience camera operator spotting the couple naturally. Use realistic broadcast lens compression, slight softness, mild motion blur, subtle TV grain, digital compression artifacts, and authentic sports framing. No cuts, no angle changes, single continuous shot only.
+製作一段 15 秒、一鏡到底的寫實 IPL 風格印度板球轉播觀眾切換鏡頭，場景為擁擠的夜間比賽。使用從體育場遠端拍攝的長焦變焦鏡頭，就像專業觀眾攝影師自然地捕捉到這對情侶。使用寫實的轉播鏡頭壓縮感、輕微柔焦、輕微動態模糊、細微的電視雜訊、數位壓縮偽影以及道地的體育構圖。無剪輯、無角度變換，僅限單一連續鏡頭。
 
-The couple must exactly match the reference image: Boyfriend preserves identical facial structure, hairstyle, stubble/beard pattern, skin tone, and natural expression. He wears the same light grey-blue small check shirt. One arm rests naturally around the girl’s shoulder. He holds a silver-and-red soda can in his other hand at the start. Girl matches exact appearance, hairstyle, makeup, and wears the same blue floral summer dress. Both remain seated throughout.
+情侶必須與參考圖完全一致：男友保留相同的臉部結構、髮型、鬍渣/鬍鬚樣式、膚色及自然表情。他穿著相同的淺灰藍色小格紋襯衫。一隻手臂自然地搭在女孩肩上。開始時，他另一隻手拿著銀紅色汽水罐。女孩的外觀、髮型、妝容與穿著的藍色碎花夏日連身裙均需與參考圖一致。兩人全程保持坐姿。
 
-Environment: Dense packed Indian cricket stadium at night, IPL energy, blue jerseys, stadium seats, LED boards, bright floodlights, natural ambient lighting. Couple embedded in crowd with partial heads/shoulders in foreground and background for authentic zoomed-in broadcast feel.
+環境：擁擠的印度夜間板球場，IPL 活力，藍色球衣，體育場座位，LED 專案，明亮的泛光燈，自然的環境光。情侶融入人群中，前景與背景有部分頭部/肩膀，營造出真實的變焦轉播感。
 
-Action timing (natural, subtle, non-staged):
+動作時序（自然、細膩、非擺拍）：
 
-0-4s: Camera lands smoothly on the couple. Boyfriend casually watches the match, relaxed smile reacting to stadium screen. Girl notices they’re on broadcast, smiles shyly, avoids direct eye contact. Slight natural surprise.
+0-4 秒：鏡頭平滑地落在情侶身上。男友隨意地看著比賽，對著體育場螢幕露出放鬆的微笑。女孩注意到他們上了轉播，害羞地微笑，避免直接眼神接觸。帶有輕微的自然驚訝感。
 
-4-7s: Boyfriend lifts soda can slightly in playful celebratory gesture (still focused on match). Girl becomes shy, briefly hides part of her smiling face with hands. Surrounding crowd reacts naturally.
+4-7 秒：男友輕微舉起汽水罐，做出俏皮的慶祝手勢（目光仍專注於比賽）。女孩感到害羞，短暫地用手遮住部分微笑的臉龐。周圍人群自然地做出反應。
 
-7-11s: Boyfriend lowers can, forms half-heart gesture with fingers toward girl. She shyly completes the heart. Subtle, spontaneous, believable. Nearby spectators cheer lightly and laugh.
+7-11 秒：男友放下汽水罐，用手指對著女孩比出半顆愛心。她害羞地補上另一半愛心。動作細膩、自發且可信。附近的觀眾輕聲歡呼並大笑。
 
-11-13s: Girl leans in for soft peck on his cheek. Boyfriend responds with proud grin and small laugh, still immersed in match atmosphere.
+11-13 秒：女孩湊過去在他臉頰上輕啄一下。男友以自豪的笑容和大笑回應，仍沉浸在比賽氛圍中。
 
-13-15s: Both slightly embarrassed, soft smiles. Girl shyly hides smile and looks away. Boyfriend returns attention to cricket screen. Both stay seated comfortably.
+13-15 秒：兩人略顯尷尬，露出溫柔的微笑。女孩害羞地遮住笑容並轉過頭。男友將注意力轉回板球螢幕。兩人皆舒適地坐著。
 
-Do NOT make them look directly at camera often. Minimal eye contact. No exaggerated acting. Feel like genuine live crowd moment.
+不要讓他們頻繁直視鏡頭。減少眼神接觸。無誇張表演。感覺就像真實的現場觀眾瞬間。
 
-Broadcast graphics: Static IPL-style scorebug at bottom throughout (no changes). Fictional teams e.g. Mumbai Indians vs Chennai Super Kings, Score: MI 142/4 (16.2 overs), RR 8.75 | RRR 9.2. Batsman & bowler stats. LIVE tag. Top-corner channel watermark (e.g. STAR SPORTS LIVE).
+轉播圖形：底部全程顯示靜態 IPL 風格計分板（無變更）。虛構球隊例如 Mumbai Indians 對戰 Chennai Super Kings，比分：MI 142/4 (16.2 輪)，RR 8.75 | RRR 9.2。擊球手與投球手數據。LIVE 標籤。右上角頻道浮水印（例如 STAR SPORTS LIVE）。
 
-Audio: Natural stadium ambience, distant cheering, crowd murmur, soft laughter during heart & kiss. Two male Indian cricket commentators casually reacting: “Look at that lovely moment in the crowd!” “Aww, heart gesture and a kiss – perfect IPL night!”
+音訊：自然的體育場氛圍、遠處的歡呼聲、人群的低語聲、比愛心與親吻時的輕笑聲。兩位印度板球評論員隨意地回應：「看看觀眾席上那可愛的瞬間！」「哇，愛心手勢加親吻——完美的 IPL 之夜！」
 
-No couple dialogue. No whispering. Preserve exact identities and wardrobe. Far-away telephoto broadcast look, not cinematic or close-up. Must feel authentic IPL live cutaway.
+無情侶對話。無耳語。保留確切的身分與服裝。遠距離長焦轉播外觀，非電影或近距離特寫。必須感覺像是道地的 IPL 現場切換鏡頭。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/415e0b9eadb44c9a16aae165437f9bbd/thumbnails/thumbnail.jpg" width="600" alt="IPL Style Couple Broadcast Photo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/415e0b9eadb44c9a16aae165437f9bbd/thumbnails/thumbnail.jpg" width="600" alt="IPL 風格情侶轉播照片">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4728)**
 
 **作者:** [Sonam](https://x.com/XSydneyFan) | **來源:** [Link](https://x.com/XSydneyFan/status/2054443409881043384) | **發布時間:** May 13, 2026
 
 ---
-### Historical Settlement Aerial Evolution
+### 歷史聚落空中演變
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An aerial timelapse prompt for Seedance 2.0 that shows a riverside settlement evolving over thousands of years.
+> 一個適用於 Seedance 2.0 的空中縮時攝影提示詞，展示河畔聚落歷經數千年的演變過程。
 
 #### 📝 提示詞
 
 ```
-Locked-off ultra-wide cinematic aerial timelapse of the exact same riverside settlement evolving continuously across thousands of years, using the reference image as the permanent spatial foundation. The camera must remain
+固定機位、超廣角電影級空中縮時攝影，展示同一個河畔聚落歷經數千年的連續演變，並以參考圖像作為永久的空間基礎。攝影機必須保持
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/42a3ba51c459a9e84137c449b7fdcb6e/thumbnails/thumbnail.jpg" width="600" alt="Historical Settlement Aerial Evolution">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/42a3ba51c459a9e84137c449b7fdcb6e/thumbnails/thumbnail.jpg" width="600" alt="歷史聚落空中演變">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4747)**
 
@@ -1607,52 +1604,52 @@ Locked-off ultra-wide cinematic aerial timelapse of the exact same riverside set
 **作者:** [WasifAI](https://x.com/doctorwasif) | **來源:** [Link](https://x.com/doctorwasif/status/2054428080073228770) | **發布時間:** May 13, 2026
 
 ---
-### Gothic Vampire Ballroom Dance
+### 哥德式吸血鬼舞廳之舞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dark, orchestral fantasy prompt detailing a gothic ballroom scene where vampires start noticing a heroine.
+> 一個黑暗、管弦樂風格的奇幻提示詞，詳細描述了吸血鬼開始注意到女主角的哥德式舞廳場景。
 
 #### 📝 提示詞
 
 ```
-TITLE: “The Ballroom That Watches Back”
-DURATION: 15 seconds
-STYLE: Ultra cinematic, gothic fantasy, Netflix dark fantasy tone, 4K, shallow depth of field, dramatic lighting, slow motion moments, orchestral horror elegance
-🎥 SCENE BREAKDOWN (TIMELINE STYLE)
-0–3 sec (ESTABLISHING SHOT)
-A massive gothic ballroom inside a vampire palace.
-Crystal chandeliers flicker with warm dying light.
-Elegant vampires in Victorian-era luxury dresses and suits dance in slow motion.
-Camera slowly pushes forward through the crowd.
-3–6 sec (HEROIN ENTRY)
-A mysterious young heroine enters the ballroom.
-Her steps slow. Silence feels heavy.
-Everyone is still dancing… but slightly too perfectly.
-Camera cuts: every vampire subtly starts noticing her.
-6–9 sec (REALIZATION BUILD)
-Close-up on heroine’s face.
-She slowly realizes: every single vampire is now watching her.
-Dancing doesn’t stop… but all eyes shift toward her in sync.
-Violin music starts faintly (haunting, emotional, unstable tone).
-9–12 sec (EMOTIONAL BREAKDOWN)
-Music intensifies.
-Vampires’ expressions begin shifting: sadness, hunger, obsession, grief.
-Reality feels unstable. Candles flicker violently.
-Camera shakes slightly, surreal dream distortion begins.
-12–15 sec (CHAOS RELEASE)
-Music fully explodes into emotional violin chaos.
-Vampires lose control of elegance—some laugh, some cry, some freeze mid-dance.
-The heroine stands still in the center as everything collapses into emotional madness.
-Final shot: extreme close-up on her eye reflecting the entire burning ballroom emotion storm.
-🎧 AUDIO DIRECTION
-Start: soft classical piano + distant echo
-Entry: silence drop
-Build: single haunting violin note
-Chaos: full orchestral violin breakdown (emotional instability vibe)
+標題：「注視著你的舞廳」
+時長：15 秒
+風格：極致電影感、哥德奇幻、Netflix 黑暗奇幻色調、4K、淺景深、戲劇性光影、慢動作鏡頭、管弦樂恐怖優雅風
+🎥 場景細節（時間軸風格）
+0–3 秒（建立鏡頭）
+吸血鬼宮殿內巨大的哥德式舞廳。
+水晶吊燈閃爍著溫暖而微弱的光芒。
+穿著維多利亞時代奢華禮服與西裝的優雅吸血鬼們正在慢動作跳舞。
+鏡頭緩慢穿過人群向前推進。
+3–6 秒（女主角登場）
+一位神秘的年輕女主角進入舞廳。
+她的腳步放慢。空氣中的寂靜顯得沉重。
+每個人仍在跳舞……但動作顯得過於完美。
+鏡頭切換：每位吸血鬼都開始微妙地注意到她。
+6–9 秒（意識覺醒）
+女主角臉部的特寫鏡頭。
+她緩緩意識到：每一位吸血鬼現在都在注視著她。
+舞蹈沒有停止……但所有人的目光同步轉向她。
+小提琴聲隱約響起（帶有令人難忘、情緒化且不穩定的基調）。
+9–12 秒（情緒崩潰）
+音樂增強。
+吸血鬼的表情開始轉變：悲傷、飢渴、執著、哀傷。
+現實感變得不穩定。蠟燭劇烈閃爍。
+鏡頭輕微晃動，開始出現超現實的夢境扭曲。
+12–15 秒（混亂釋放）
+音樂完全爆發為情緒化的小提琴混亂樂章。
+吸血鬼失去了優雅的控制——有人大笑、有人哭泣、有人在舞步中僵住。
+女主角站在中心不動，周圍的一切崩塌陷入情緒瘋狂之中。
+最終鏡頭：她眼睛的極致特寫，倒映出整個燃燒的舞廳情緒風暴。
+🎧 音訊指導
+開始：柔和的古典鋼琴 + 遠處的回音
+登場：靜音處理
+鋪陳：單一令人難忘的小提琴音符
+混亂：完整的管弦樂小提琴崩潰（情緒不穩定的氛圍）
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f0a46c7e55835797626eb692eb94c43/thumbnails/thumbnail.jpg" width="600" alt="Gothic Vampire Ballroom Dance">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f0a46c7e55835797626eb692eb94c43/thumbnails/thumbnail.jpg" width="600" alt="哥德式吸血鬼舞廳之舞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4726)**
 
@@ -1722,27 +1719,27 @@ Chaos: full orchestral violin breakdown (emotional instability vibe)
 **作者:** [Aaliyah | AI](https://x.com/The_Kremlinn) | **來源:** [Link](https://x.com/The_Kremlinn/status/2054418680692228271) | **發布時間:** May 13, 2026
 
 ---
-### Luxury Lip Gloss Beauty Commercial
+### 奢華唇蜜美妝廣告
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional beauty commercial prompt focusing on lip gloss application with cinematic lighting and macro shots.
+> 一份專業的美妝廣告提示詞，專注於唇蜜塗抹過程，結合電影級燈光與微距拍攝。
 
 #### 📝 提示詞
 
 ```
-Ultra-cinematic luxury lip gloss commercial featuring a confident beautiful young woman inside a glowing pastel beauty studio with soft pink and champagne lighting reflections. The video opens with an extreme macro shot of a premium lip gloss tube slowly rotating in mid-air with glossy reflections, luxury makeup-commercial aesthetic, liquid sparkles floating around the product, ultra-detailed packaging, cinematic beauty lighting. 
+極致電影感的奢華唇蜜廣告，場景設定在一個散發柔和粉色與香檳色光影的夢幻美妝工作室中，主角是一位自信美麗的年輕女性。影片開場為極致微距鏡頭，展示一支頂級唇蜜管在半空中緩慢旋轉，表面映照出奢華光澤，伴隨液態閃光粒子環繞產品，呈現出極致細膩的包裝質感與電影級美妝燈光。
 
-Quick transition to the girl picking up the lip gloss and opening it with a satisfying soft pop sound, camera focusing on the glossy applicator with rich wet texture and realistic shine. Smooth cinematic camera motion, shallow depth of field, ultra-beauty editorial vibe.
+快速轉場至女孩拿起唇蜜並打開，伴隨令人愉悅的輕柔開蓋聲，鏡頭聚焦於沾滿濃郁濕潤質地且具備真實光澤的刷頭。流暢的電影級運鏡，淺景深效果，營造出頂級美妝雜誌的氛圍。
 
-Extreme close-up of lips during application, soft glossy texture spreading smoothly across lips with hydrated glass-like shine, realistic skin texture, luxury makeup advertisement style, glowing reflections, subtle sparkle particles floating in frame.
+塗抹過程的極致特寫，柔滑的唇蜜質地在雙唇上均勻延展，呈現水潤的玻璃光澤，真實的肌膚紋理，奢華美妝廣告風格，閃耀的反射光，畫面中飄浮著細緻的閃光粒子。
 
-Slow-motion beauty shots of hair movement, confident eye contact, glossy lips catching studio light beautifully, dreamy feminine atmosphere, clean luxury pastel background, smooth cinematic transitions, premium skincare-commercial mood.
+慢動作捕捉髮絲擺動的唯美鏡頭，自信的眼神交流，雙唇在攝影棚燈光下閃耀動人，夢幻的女性氛圍，乾淨的奢華粉嫩背景，流暢的電影級轉場，呈現頂級護膚品廣告的質感。
 
-Final hero shot with the girl smiling confidently while holding the lip gloss near camera, floating sparkles, glossy reflections, glowing beauty aura, modern TikTok luxury beauty ad aesthetic, ultra-realistic, cinematic color grading, 4k beauty campaign quality, smooth motion blur, elegant camera work, premium makeup-commercial finish.
+最後的定格畫面中，女孩自信微笑並將唇蜜拿近鏡頭，周圍環繞著閃光粒子與光澤反射，散發迷人美妝氣場。採用現代 TikTok 奢華美妝廣告美學，超寫實畫質，電影級調色，4K 美妝宣傳片品質，流暢的動態模糊，優雅的運鏡，呈現頂級美妝廣告的精緻質感。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8501b32d414b3377880ac4bbf73d3b4f/thumbnails/thumbnail.jpg" width="600" alt="Luxury Lip Gloss Beauty Commercial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8501b32d414b3377880ac4bbf73d3b4f/thumbnails/thumbnail.jpg" width="600" alt="奢華唇蜜美妝廣告">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4741)**
 
@@ -1854,19 +1851,19 @@ Final hero shot with the girl smiling confidently while holding the lip gloss ne
 **作者:** [#𝐂𝐎𝐋𝐎𝐒𝐒𝐀𝐋𝐌𝐄𝐈𝐑𝐀𝐒🐽](https://x.com/colossalmeiraz) | **來源:** [Link](https://x.com/colossalmeiraz/status/2054402433514688922) | **發布時間:** May 13, 2026
 
 ---
-### Baseball Stadium Broadcast Reaction Shot
+### 棒球場轉播反應鏡頭
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a woman reacting to a baseball game, featuring realistic broadcast lighting and shallow depth of field.
+> 一段電影質感的影片提示詞，描繪一名女性對棒球比賽的反應，呈現真實的轉播燈光與淺景深效果。
 
 #### 📝 提示詞
 
 ```
-Cinematic, ultra-realistic video of a stunning young woman with long, flowing brown hair sitting in the stands at a baseball game. She is wearing a white baseball jersey with bold red lettering. She has heavy, glamorous makeup with winged eyeliner and a soft matte finish. She is seen taking a sip of a dark beverage from a clear plastic cup, then looking directly into the camera with a subtle, confident smile and clapping. The background shows a blurry stadium audience and a digital sports broadcast scoreboard in the upper corner. 8K resolution, shallow depth of field, sharp focus on her face, professional broadcast lighting.
+電影級、超寫實的影片，畫面中一位留著飄逸棕色長髮的迷人年輕女性坐在棒球場觀眾席上。她身穿印有醒目紅色字樣的白色棒球衫。她化著精緻的濃妝，畫著貓眼眼線，妝感呈現柔霧質感。她正從透明塑膠杯中啜飲深色飲料，隨後直視鏡頭，露出自信而細膩的微笑並鼓掌。背景呈現模糊的球場觀眾與角落的數位運動轉播記分板。8K 解析度，淺景深，焦點清晰對準她的臉部，專業轉播燈光。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fa842f5a48771e068e2987018a68c1e6/thumbnails/thumbnail.jpg" width="600" alt="Baseball Stadium Broadcast Reaction Shot">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fa842f5a48771e068e2987018a68c1e6/thumbnails/thumbnail.jpg" width="600" alt="棒球場轉播反應鏡頭">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4730)**
 
@@ -1938,92 +1935,92 @@ Cinematic, ultra-realistic video of a stunning young woman with long, flowing br
 **作者:** [Taaruk](https://x.com/Taaruk_) | **來源:** [Link](https://x.com/Taaruk_/status/2054389866096701826) | **發布時間:** May 13, 2026
 
 ---
-### Whimsical Chibi Breakfast Scene
+### 奇幻 Q 版早餐場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 3D render prompt for a cozy morning scene with a chibi girl and anthropomorphic breakfast items.
+> 一個 3D 渲染提示詞，描繪了 Q 版女孩與擬人化早餐食物的溫馨早晨場景。
 
 #### 📝 提示詞
 
 ```
-Create ultra-fine highly detailed 3D render of whimsical morning scene, features a realistic Chibi style cute girl sits leaning against oversized coffee mug, she is surrounded by stylized anthropomorphic breakfast items such as Pancakes, breakfast sides, cereal and juice. Cozy sunlit bedroom setting, bright morning light, soft creams, warm tans, pastel accents color palette, 8K UHD.
+創作一張超精細、高細節的 3D 渲染圖，呈現奇幻的早晨場景。畫面中有一位寫實 Q 版風格的可愛女孩，靠在超大咖啡杯旁，周圍環繞著風格化的擬人化早餐食物，例如鬆餅、早餐配菜、麥片和果汁。溫馨的陽光臥室背景，明亮的晨光，採用奶油色、暖棕色和柔和色調的配色方案，8K UHD 高畫質。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1778742477231_0zho8l_HIKlxt2aYAAEkAR.jpg" width="600" alt="Whimsical Chibi Breakfast Scene">
+<img src="https://cms-assets.youmind.com/media/1778742477231_0zho8l_HIKlxt2aYAAEkAR.jpg" width="600" alt="奇幻 Q 版早餐場景">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4740)**
 
 **作者:** [Zyrella](https://x.com/Zyrellix) | **來源:** [Link](https://x.com/Zyrellix/status/2054386686847861191) | **發布時間:** May 13, 2026
 
 ---
-### Apocalyptic Dying Star Sci-Fi Sequence
+### 末日瀕死恆星科幻場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dramatic video prompt for a sci-fi sequence depicting the final moments of humanity as the sun expands and fractures.
+> 一個戲劇性的科幻場景影片提示詞，描繪太陽膨脹與碎裂時人類最後的時刻。
 
 #### 📝 提示詞
 
 ```
-A cinematic apocalyptic sci-fi sequence capturing humanity’s final moments beneath a dying star.
+一個捕捉人類在瀕死恆星下最後時刻的電影級末日科幻場景。
 
-0–3s: Scientists inside a massive observatory stare at monitors flashing critical solar warnings. Outside, daylight suddenly shifts into an unnatural deep orange glow. People stop in the streets and look upward.
+0–3 秒：大型天文台內的科學家盯著閃爍著關鍵太陽警報的螢幕。窗外，日光突然轉變為不自然的深橘色光芒。街上的人們停下腳步，抬頭仰望。
 
-3–6s: The sun begins expanding visibly in the sky. Solar flares erupt like gigantic waves of fire. Emergency alarms echo worldwide while satellites and aircraft malfunction midair.
+3–6 秒：太陽在天空中開始明顯膨脹。太陽耀斑像巨大的火浪般噴發。全球響起緊急警報，衛星與飛機在半空中故障。
 
-6–9s: Massive cinematic wide shot — the sun slowly fractures in terrifying slow motion, sending glowing shockwaves across space. Clouds ignite with orange and crimson light as oceans and cities reflect the burning sky.
+6–9 秒：宏大的電影級廣角鏡頭——太陽以恐怖的慢動作緩慢碎裂，向太空發送發光的衝擊波。雲層被橘色與深紅色的光芒點燃，海洋與城市倒映著燃燒的天空。
 
-9–12s: Emotional close-ups of scientists and civilians watching helplessly in silence. Gravity distortions ripple through the atmosphere. Ash and glowing particles drift through empty streets as power grids fail.
+9–12 秒：科學家與平民無助地沉默注視的感性特寫鏡頭。重力扭曲在大氣中產生漣漪。隨著電網失效，灰燼與發光的微粒在空蕩的街道上飄散。
 
-12–15s: Final ultra-wide shot from Earth’s surface. The exploding sun fills the horizon like a cosmic firestorm while the entire sky becomes blinding white and gold. Sound fades into silence before complete blackout.
+12–15 秒：從地球表面拍攝的最終超廣角鏡頭。爆炸的太陽像宇宙火風暴般填滿地平線，整個天空變成刺眼的白色與金色。聲音逐漸消失，隨後陷入完全黑暗。
 
-Style: ultra cinematic realism, cosmic-scale destruction, emotional sci-fi atmosphere, IMAX-level visuals, volumetric fire and plasma effects, realistic astrophysics-inspired lighting, dramatic sound design feel, film-grade apocalyptic color grading.
+風格：超電影級寫實主義、宇宙級毀滅、感性科幻氛圍、IMAX 等級視覺效果、體積光火焰與電漿特效、受真實天體物理學啟發的燈光、戲劇性的聲音設計感、電影級末日調色。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e4fa6a752719c1f137a3c667eb4d415/thumbnails/thumbnail.jpg" width="600" alt="Apocalyptic Dying Star Sci-Fi Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e4fa6a752719c1f137a3c667eb4d415/thumbnails/thumbnail.jpg" width="600" alt="末日瀕死恆星科幻場景">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4735)**
 
 **作者:** [Nawal](https://x.com/nawalsehar) | **來源:** [Link](https://x.com/nawalsehar/status/2054381139876536646) | **發布時間:** May 13, 2026
 
 ---
-### Surreal Sports Broadcast Reaction
+### 超現實體育賽事轉播反應
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A cinematic video prompt describing a candid moment from a live sports broadcast, featuring a female fan in the stadium audience with realistic textures and broadcast overlays.
+> 一段電影級的影片提示詞，描述體育賽事直播中的真實瞬間，畫面包含體育場觀眾席中的女性粉絲，具備逼真的紋理與轉播介面。
 
 #### 📝 提示詞
 
 ```
-Surreal static broadcast image of a sports event, featuring a charismatic woman sitting in the crowded stands of a soccer stadium during a night game. She is wearing a dark brown sleeveless high-neck satin top and black square earrings, with shoulder-length light brown/blonde hair styled in soft waves. She is casually drinking from a tall blue aluminum can, with the other hand holding a half-eaten cheeseburger. Surrounding her are fans in vibrant yellow and blue soccer jerseys and scarves, creating a strong team color contrast. The scene feels realistic and cinematic, captured from a TV broadcast camera angle at midfield with a shallow depth of field. Includes realistic stadium seating, a crowded audience atmosphere, a broadcast overlay graphic in the top left showing real-time scores and game timers, and a sports network watermark in the top right. Natural arena lighting, detailed skin textures, sharp focus on the woman, slightly blurred background crowd, authentic live sports broadcast aesthetic, 16:9 composition.
+超現實的體育賽事靜態轉播畫面，主角是一位充滿魅力的女性，坐在足球場夜間比賽擁擠的觀眾席上。她身穿深棕色無袖高領緞面背心，戴著黑色方形耳環，留著及肩的淺棕色/金色波浪捲髮。她正隨意地喝著一罐高身藍色鋁罐飲料，另一隻手拿著吃了一半的起司漢堡。周圍的球迷穿著鮮豔的黃藍色足球球衣並圍著圍巾，形成了強烈的球隊色彩對比。場景真實且具備電影感，以電視轉播的中場攝影機角度拍攝，並帶有淺景深效果。畫面包含逼真的體育場座位、擁擠的觀眾氛圍、左上角顯示即時比分與比賽時間的轉播圖層，以及右上角的體育頻道浮水印。自然體育場燈光，細膩的皮膚紋理，焦點清晰地集中在女性身上，背景人群略微模糊，呈現道地的現場體育轉播美學，16:9 構圖。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b08ba88befe15b0c41c037b32234b9b/thumbnails/thumbnail.jpg" width="600" alt="Surreal Sports Broadcast Reaction">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b08ba88befe15b0c41c037b32234b9b/thumbnails/thumbnail.jpg" width="600" alt="超現實體育賽事轉播反應">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4754)**
 
 **作者:** [熊三金Cole🐬TermMax](https://x.com/x_sanjin) | **來源:** [Link](https://x.com/x_sanjin/status/2054378091871387682) | **發布時間:** May 13, 2026
 
 ---
-### Glamorous Woman Stadium Broadcast
+### 魅力女性體育賽事轉播
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A realistic sports broadcast style prompt of a glamorous woman eating a burger and drinking at a night football match.
+> 一個寫實的體育轉播風格提示詞，描繪一位魅力女性在夜間足球賽中吃漢堡並飲酒的場景。
 
 #### 📝 提示詞
 
 ```
-Ultra-realistic live sports broadcast shot of a glamorous woman sitting among a packed football stadium crowd during a night match. She wears a dark brown sleeveless satin high-neck top with black square earrings, while her shoulder-length blonde/light brown hair flows in soft waves. She casually drinks from a tall blue aluminum can while holding a half-eaten cheeseburger in the other hand.
+超寫實的現場體育轉播鏡頭，描繪一位魅力女性坐在擁擠的足球場觀眾席中，背景為夜間賽事。她身穿深棕色無袖緞面高領上衣，佩戴黑色方形耳環，及肩的金色/淺棕色秀髮呈現柔和波浪感。她一手拿著半個吃了一半的起司漢堡，另一手隨意地拿著一罐高身藍色鋁罐飲料飲用。
 
-Surrounded by passionate fans dressed in bright yellow and blue jerseys and scarves, creating a dramatic Al Nassr vs Al Hilal atmosphere. The image feels cinematic and candid, captured from a real TV broadcast camera angle with shallow depth of field.
+周圍是身穿亮黃色與藍色球衣及圍巾的熱情球迷，營造出 Al Nassr 對戰 Al Hilal 的戲劇性氛圍。畫面具有電影感與抓拍感，以真實電視轉播攝影機角度拍攝，並帶有淺景深效果。
 
-Include realistic stadium seating, energetic crowd atmosphere, live football score graphics and match timer in the top-left corner, plus a sports network watermark in the top-right. Natural stadium lighting, ultra-detailed skin texture, sharp focus on the woman with a softly blurred crowd background, authentic sports broadcast aesthetic, 16:9 composition.
+包含寫實的球場座位、充滿活力的觀眾氛圍、左上角的現場足球比分圖表與比賽計時器，以及右上角的體育頻道浮水印。自然球場燈光、超細緻皮膚紋理，焦點清晰地集中在女性身上，背景觀眾呈現柔和模糊效果，具備道地的體育轉播美學，16:9 構圖。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d2833ef881e922ee7058afd4b3b5868/thumbnails/thumbnail.jpg" width="600" alt="Glamorous Woman Stadium Broadcast">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d2833ef881e922ee7058afd4b3b5868/thumbnails/thumbnail.jpg" width="600" alt="魅力女性體育賽事轉播">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4755)**
 
@@ -2935,6 +2932,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-05-14T07:11:33.508Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-05-14T10:38:04.117Z</sub>
 
 </div>

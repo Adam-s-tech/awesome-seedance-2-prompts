@@ -361,34 +361,34 @@ Seedance 2.0 का उपयोग करके रात में सिन�
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
-### Cinematic Soldier Transition Sequence
+### सिनेमैटिक सोल्जर ट्रांज़िशन सीक्वेंस
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A complex multi-scene video prompt that transitions from a real-life handheld phone recording to a high-fidelity 3D animation of a tactical soldier with particle effects and heavy bass synchronization.
+> एक जटिल मल्टी-सीन वीडियो प्रॉम्प्ट जो वास्तविक हैंडहेल्ड फोन रिकॉर्डिंग से एक टैक्टिकल सोल्जर के हाई-फिडेलिटी 3D एनिमेशन में बदल जाता है, जिसमें पार्टिकल इफेक्ट्स और हैवी बास सिंक्रोनाइज़ेशन शामिल है।
 
 #### 📝 प्रॉम्पट
 
 ```
-0:00 - 0:04: Spin and Showoff
-Visual Composition: The video starts with a vertical handheld phone shot. A bright computer monitor occupies the frame in a dim room with beige curtains. The monitor shows a character selection screen from a video game. The overall lighting is a mix of cool blue glow from the screen and soft, diffused ambient light. 
-Subject: A digital avatar of a soldier wearing a skull mask is visible on screen. The real-life subject is a man sitting in a black leather office chair. He wears a black beanie pressed down to his eyebrows, a thick red button-down jacket over a black shirt, and a small silver hoop earring in his left ear.
-Action: The man kicks off the ground to spin the office chair 90 degrees to the right to face the camera. His posture is rigid and confident. As the chair slows, he points his left index finger at the camera, leaning forward. His expression remains cold and motionless, locking eyes with the viewer.
-Camera: Initial slight shaking consistent with handheld shooting. Quick pan to follow the rotation. Soft focus during movement before locking back onto his face.
+0:00 - 0:04: स्पिन और शोऑफ
+विजुअल कंपोजिशन: वीडियो की शुरुआत एक वर्टिकल हैंडहेल्ड फोन शॉट से होती है। एक धुंधले कमरे में, जहाँ बेज रंग के पर्दे लगे हैं, फ्रेम में एक चमकदार कंप्यूटर मॉनिटर दिखाई देता है। मॉनिटर पर एक वीडियो गेम की कैरेक्टर सिलेक्शन स्क्रीन दिख रही है। कुल लाइटिंग स्क्रीन से आने वाली ठंडी नीली चमक और सॉफ्ट, डिफ्यूज्ड एम्बिएंट लाइट का मिश्रण है।
+विषय: स्क्रीन पर एक सैनिक का डिजिटल अवतार है जिसने खोपड़ी (स्कल) वाला मास्क पहना है। वास्तविक जीवन का विषय एक व्यक्ति है जो काले लेदर ऑफिस चेयर पर बैठा है। उसने अपनी भौहों तक खींची हुई एक काली बीनी, काली शर्ट के ऊपर एक मोटी लाल बटन-डाउन जैकेट पहनी है, और उसके बाएं कान में एक छोटा चांदी का हूप इयररिंग है।
+एक्शन: व्यक्ति जमीन से धक्का देकर ऑफिस चेयर को 90 डिग्री दाईं ओर घुमाता है ताकि वह कैमरे का सामना कर सके। उसका पोस्चर सख्त और आत्मविश्वास से भरा है। जैसे ही कुर्सी धीमी होती है, वह आगे झुकते हुए अपनी बाईं तर्जनी उंगली से कैमरे की ओर इशारा करता है। उसके चेहरे के भाव ठंडे और स्थिर रहते हैं, और वह सीधे दर्शक की आंखों में देखता है।
+कैमरा: हैंडहेल्ड शूटिंग के अनुरूप शुरुआत में हल्का कंपन। रोटेशन को फॉलो करने के लिए क्विक पैन। मूवमेंट के दौरान सॉफ्ट फोकस, फिर वापस चेहरे पर लॉक हो जाता है।
 
-0:04 - 0:07: Sparks and Iron Fist
-Visual Composition: A hard cut transitions to an ultra-realistic, dark 3D animated cinematic environment in a gloomy urban alley. Lit by faint moonlight and glowing embers.
-Subject: A massive tactical soldier in heavy armor wearing a full-face metallic gold skull mask and complex exoskeleton gear with gold plates.
-Action: The soldier stands imposingly. His right hand in a heavy mechanical gauntlet clenches into a fist. As the metal plates grind, a burst of golden sparks and digital particles explodes from the knuckles and fades in the air.
-Camera: Simulated handheld drift. Shallow depth of field keeping the sparks and mask in sharp focus.
+0:04 - 0:07: स्पार्क्स और आयरन फिस्ट
+विजुअल कंपोजिशन: एक हार्ड कट के साथ ट्रांज़िशन एक अल्ट्रा-रियलिस्टिक, डार्क 3D एनिमेटेड सिनेमैटिक एनवायरनमेंट में होता है, जो एक उदास शहरी गली जैसा है। यह हल्की चांदनी और चमकते अंगारों से रोशन है।
+विषय: भारी कवच में एक विशाल टैक्टिकल सोल्जर, जिसने पूरे चेहरे पर धात्विक सोने का खोपड़ी वाला मास्क और सोने की प्लेटों वाला जटिल एक्सोस्केलेटन गियर पहना है।
+एक्शन: सैनिक प्रभावशाली ढंग से खड़ा है। भारी मैकेनिकल गॉन्टलेट में उसका दाहिना हाथ मुट्ठी में बंद हो जाता है। जैसे ही धातु की प्लेटें आपस में रगड़ती हैं, पोरों (knuckles) से सुनहरी चिंगारियों और डिजिटल कणों का विस्फोट होता है और हवा में ओझल हो जाता है।
+कैमरा: सिम्युलेटेड हैंडहेल्ड ड्रिफ्ट। शैलो डेप्थ ऑफ फील्ड, जो चिंगारियों और मास्क को शार्प फोकस में रखता है।
 
-0:07 - 0:11: Static Deterrence
-Visual Composition: A different angle in the same dark 3D environment. Stronger shadows on the gold-black armor with floating digital dust.
-Action: The soldier sits heavily on concrete debris, leaning forward with elbows on thighs. The movement shifts to internal tension with a 'standby breathing cycle' showing rhythmic chest movement. His head tilts down slowly while the mask's eye sockets remain locked on the camera.
-Camera: Medium close-up, slightly below eye level for a dominant feel, with a subtle digital zoom towards the mask.
+0:07 - 0:11: स्टेटिक डेटरेंस
+विजुअल कंपोजिशन: उसी डार्क 3D एनवायरनमेंट में एक अलग एंगल। तैरते हुए डिजिटल धूल के साथ सोने-काले कवच पर गहरी छाया।
+एक्शन: सैनिक कंक्रीट के मलबे पर भारी होकर बैठता है, अपनी कोहनियों को जांघों पर टिकाकर आगे की ओर झुकता है। मूवमेंट आंतरिक तनाव में बदल जाता है, जिसमें 'स्टैंडबाय ब्रीदिंग साइकिल' के साथ छाती की लयबद्ध हलचल दिखाई देती है। उसका सिर धीरे-धीरे नीचे झुकता है जबकि मास्क के आंखों के सॉकेट कैमरे पर टिके रहते हैं।
+कैमरा: मीडियम क्लोज-अप, प्रभावशाली अहसास के लिए आंखों के स्तर से थोड़ा नीचे, मास्क की ओर एक सूक्ष्म डिजिटल ज़ूम के साथ।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b70c1358fefbc3910713412bbfac0af/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Soldier Transition Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b70c1358fefbc3910713412bbfac0af/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक सोल्जर ट्रांज़िशन सीक्वेंस">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4756)**
 
@@ -414,61 +414,61 @@ Camera: Medium close-up, slightly below eye level for a dominant feel, with a su
 **लेखक:** [migrok](https://x.com/migrok293703) | **स्रोत:** [Link](https://x.com/migrok293703/status/2054686752153960534) | **प्रकाशित:** May 13, 2026
 
 ---
-### Prompt:
-VIDEO RECONSTRUCTION METADATA
-- Duration: 
+### प्रॉम्प्ट:
+वीडियो पुनर्निर्माण मेटाडेटा
+- अवधि: 
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
 #### 📝 प्रॉम्पट
 
 ```
-VIDEO RECONSTRUCTION METADATA
-- Duration: 0:15
-- Aspect Ratio / Format: Vertical smartphone video, 9:16
-- Visual Style: Casual amateur social media footage, bright natural daylight
-- Setting: A balcony with a metal railing overlooking a slanted, red and grey corrugated
+वीडियो पुनर्निर्माण मेटाडेटा
+- अवधि: 0:15
+- आस्पेक्ट रेशियो / फॉर्मेट: वर्टिकल स्मार्टफोन वीडियो, 9:16
+- विज़ुअल स्टाइल: कैज़ुअल अमेच्योर सोशल मीडिया फुटेज, चमकदार प्राकृतिक दिन का प्रकाश
+- सेटिंग: एक बालकनी जिसमें धातु की रेलिंग है, जहाँ से ढलान वाली, लाल और ग्रे रंग की नालीदार छत दिखाई देती है
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/214050c02f0552985bbb4dcc94f2a40f/thumbnails/thumbnail.jpg" width="600" alt="Prompt:
-VIDEO RECONSTRUCTION METADATA
-- Duration: ">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/214050c02f0552985bbb4dcc94f2a40f/thumbnails/thumbnail.jpg" width="600" alt="प्रॉम्प्ट:
+वीडियो पुनर्निर्माण मेटाडेटा
+- अवधि: ">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4746)**
 
 **लेखक:** [A.I.Warper](https://x.com/AIWarper) | **स्रोत:** [Link](https://x.com/AIWarper/status/2054665102838952128) | **प्रकाशित:** May 13, 2026
 
 ---
-### Werewolf vs Vampire Office Battle
+### वेयरवोल्फ बनाम वैम्पायर ऑफिस बैटल
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fantasy action prompt depicting evolved werewolves defending their office against invading vampire commandos.
+> एक फैंटेसी एक्शन प्रॉम्प्ट जिसमें विकसित वेयरवोल्फ अपने ऑफिस को वैम्पायर कमांडो के हमले से बचा रहे हैं।
 
 #### 📝 प्रॉम्पट
 
 ```
-Modern time, the werewolves have evolved and now learned to control their transformation, retaining semi-intelligence, but Vampire commandos have invaded their home office, time to fight!
+आधुनिक समय, वेयरवोल्फ विकसित हो चुके हैं और अब उन्होंने अपने रूपांतरण को नियंत्रित करना सीख लिया है, जिससे उनकी आधी बुद्धिमत्ता बरकरार रहती है, लेकिन वैम्पायर कमांडो ने उनके होम ऑफिस पर हमला कर दिया है, अब लड़ने का समय आ गया है!
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/87a5577cba599805284467a2e9a443b0/thumbnails/thumbnail.jpg" width="600" alt="Werewolf vs Vampire Office Battle">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/87a5577cba599805284467a2e9a443b0/thumbnails/thumbnail.jpg" width="600" alt="वेयरवोल्फ बनाम वैम्पायर ऑफिस बैटल">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4727)**
 
 **लेखक:** [Sparkful](https://x.com/SparkfulArt) | **स्रोत:** [Link](https://x.com/SparkfulArt/status/2054659473269297517) | **प्रकाशित:** May 13, 2026
 
 ---
-### Prompt : Create a 15 second high energy continuous
+### प्रॉम्प्ट: 15 सेकंड का हाई-एनर्जी निरंतर शॉट बनाएं
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
 #### 📝 प्रॉम्पट
 
 ```
-Create a 15 second high energy continuous shot featuring a confident male subject moving through rapidly evolving eras. The camera follows him in one fluid motion as he runs, spins, slides, and jumps forward while both his outfit and the environment transform around him.
+एक 15 सेकंड का हाई-एनर्जी निरंतर शॉट बनाएं जिसमें एक आत्मविश्वासी पुरुष तेजी से बदलते युगों के बीच आगे बढ़ रहा हो। कैमरा एक ही निरंतर गति में उसका पीछा करता है, जहाँ वह दौड़ता है, घूमता है, Slides करता है और आगे की ओर कूदता है, जबकि उसके कपड़े और आसपास का वातावरण दोनों साथ-साथ बदलते रहते हैं।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f1ff6652169cb3933b5d288bcc6d9ed/thumbnails/thumbnail.jpg" width="600" alt="Prompt : Create a 15 second high energy continuous">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f1ff6652169cb3933b5d288bcc6d9ed/thumbnails/thumbnail.jpg" width="600" alt="प्रॉम्प्ट: 15 सेकंड का हाई-एनर्जी निरंतर शॉट बनाएं">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4748)**
 
@@ -516,19 +516,19 @@ Create a 15 second high energy continuous shot featuring a confident male subjec
 **लेखक:** [LudovicCreator](https://x.com/LudovicCreator) | **स्रोत:** [Link](https://x.com/LudovicCreator/status/2054626505494339770) | **प्रकाशित:** May 13, 2026
 
 ---
-### 3D Rotating Earth in Space
+### अंतरिक्ष में 3D घूमती हुई पृथ्वी
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for a realistic 360-degree rotation of the Earth with high-detail textures and NASA-style rendering.
+> उच्च-विस्तृत बनावट और NASA-शैली की रेंडरिंग के साथ पृथ्वी के यथार्थवादी 360-डिग्री रोटेशन के लिए एक सिनेमैटिक वीडियो प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-Cinematic 3D realistic Earth floating in deep space, slow smooth 360-degree rotation, highly detailed blue oceans, green continents, white clouds moving softly, glowing atmosphere, realistic sunlight reflection, subtle moonlight, stars and nebula background, soft lens flare, futuristic sci-fi aesthetic, ultra realistic textures, smooth camera orbit around the planet, dramatic lighting, high detail NASA-style render, premium cinematic animation, seamless loop, 4K, majestic and immersive space scene
+गहरे अंतरिक्ष में तैरती हुई सिनेमैटिक 3D यथार्थवादी पृथ्वी, धीमी और सहज 360-डिग्री रोटेशन, अत्यधिक विस्तृत नीले महासागर, हरे महाद्वीप, धीरे-धीरे चलते सफेद बादल, चमकता हुआ वायुमंडल, यथार्थवादी सूर्य के प्रकाश का प्रतिबिंब, सूक्ष्म चांदनी, तारे और निहारिका की पृष्ठभूमि, सॉफ्ट लेंस फ्लेयर, भविष्यवादी साइंस-फिक्शन सौंदर्य, अल्ट्रा यथार्थवादी बनावट, ग्रह के चारों ओर सहज कैमरा ऑर्बिट, नाटकीय प्रकाश व्यवस्था, उच्च विवरण वाली NASA-शैली की रेंडर, प्रीमियम सिनेमैटिक एनीमेशन, सीमलेस लूप, 4K, राजसी और इमर्सिव अंतरिक्ष दृश्य
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a6a481495c2274e241587b09e27e5342/thumbnails/thumbnail.jpg" width="600" alt="3D Rotating Earth in Space">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a6a481495c2274e241587b09e27e5342/thumbnails/thumbnail.jpg" width="600" alt="अंतरिक्ष में 3D घूमती हुई पृथ्वी">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4731)**
 
@@ -554,19 +554,19 @@ Cinematic 3D realistic Earth floating in deep space, slow smooth 360-degree rota
 **लेखक:** [Keskin](https://x.com/craftian_keskin) | **स्रोत:** [Link](https://x.com/craftian_keskin/status/2054621314875265142) | **प्रकाशित:** May 13, 2026
 
 ---
-### 90s Anime Telekinetic Supervillain
+### 90 के दशक का एनिमे टेलीकाइनेटिक सुपरविलेन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 15-second anime-style prompt featuring a villain moving a mountain with their mind, ending with a massive tsunami.
+> 15 सेकंड का एनिमे-शैली का प्रॉम्प्ट, जिसमें एक विलेन अपने दिमाग की शक्ति से पहाड़ को हिलाता है और अंत में एक विशाल सुनामी आती है।
 
 #### 📝 प्रॉम्पट
 
 ```
-90s anime style. 15 second animation clip. Telekinetic powered super villain dressed in black and gold futuristic tactical clothing using their immense power to move a literal mountain with their mind. First the villain needs to power up, then cracks form in the mountain base, then the mountain breaks free and is lifted high above the ocean before being thrown into the water to create a massive tsunami type wave. Camera: tracking shot with multiple angles and quick cuts for emphasis. Constraints: no voice-overs, ominous tone.
+90 के दशक की एनिमे शैली। 15 सेकंड की एनीमेशन क्लिप। काले और सुनहरे भविष्यवादी सामरिक कपड़ों में टेलीकाइनेटिक शक्तियों वाला सुपरविलेन, अपनी अपार शक्ति का उपयोग करके अपने दिमाग से एक विशाल पहाड़ को हिला रहा है। सबसे पहले विलेन को पावर अप करना होगा, फिर पहाड़ के आधार में दरारें पड़ेंगी, फिर पहाड़ अलग होकर समुद्र के ऊपर ऊंचा उठ जाएगा और अंत में पानी में फेंके जाने पर एक विशाल सुनामी जैसी लहर पैदा करेगा। कैमरा: कई कोणों और जोर देने के लिए क्विक कट्स के साथ ट्रैकिंग शॉट। बाधाएं: कोई वॉयस-ओवर नहीं, अशुभ टोन।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56b889a17b86372ee3e3ce6ed55afb71/thumbnails/thumbnail.jpg" width="600" alt="90s Anime Telekinetic Supervillain">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56b889a17b86372ee3e3ce6ed55afb71/thumbnails/thumbnail.jpg" width="600" alt="90 के दशक का एनिमे टेलीकाइनेटिक सुपरविलेन">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4738)**
 
@@ -592,38 +592,38 @@ NBA का लाइव गेम चल रहा है और उसके �
 **लेखक:** [Jack](https://x.com/j_smeaton99) | **स्रोत:** [Link](https://x.com/j_smeaton99/status/2054608474743656516) | **प्रकाशित:** May 13, 2026
 
 ---
-### Cinematic Metropolitan Apocalypse Sequence
+### सिनेमैटिक मेट्रोपॉलिटन एपोकैलिप्स सीक्वेंस
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed video prompt for a large-scale disaster scene featuring seismic upheaval, glacial floods, and colossal funnel clouds destroying a city.
+> एक बड़े पैमाने पर आपदा दृश्य के लिए अत्यधिक विस्तृत वीडियो प्रॉम्प्ट, जिसमें भूकंपीय उथल-पुथल, हिमनद बाढ़ और शहर को नष्ट करते विशाल फनल क्लाउड शामिल हैं।
 
 #### 📝 प्रॉम्पट
 
 ```
-A cinematic tracking shot capturing a simultaneous tectonic, atmospheric, and oceanic collapse. The ground erupts in a violent seismic upheaval, creating a massive jagged canyon that splits a dense metropolitan grid in half. Simultaneously, a colossal wall of glacial seawater surges through the city streets, flash freezing everything it touches into crystalline structures. Emerging from the heart of the freezing flood, a gargantuan multi-vortex funnel cloud darkened by pulverized debris and glowing with internal orange lightning rips the facade off a steel skyscraper, spiraling shards of glass and heavy machinery into a chaotic orbit. The camera executes a dynamic, low altitude fly through beneath a bridge as it buckles and snaps, weaving through flying wreckage and swirling snow squalls. The lighting transitions from a dark, bruised violet sky to blinding white flashes of exploding transformers, finishing with a wide angle vista of a mountain range being swallowed by a towering wall of ice and wind. Hyper-realistic fluid dynamics, intricate particle physics, 35mm anamorphic lens, and high contrast volumetric atmosphere.
+एक सिनेमैटिक ट्रैकिंग शॉट जो एक साथ टेक्टोनिक, वायुमंडलीय और महासागरीय पतन को दर्शाता है। जमीन एक हिंसक भूकंपीय उथल-पुथल में फट जाती है, जिससे एक विशाल टेढ़ी-मेढ़ी घाटी बन जाती है जो घने महानगरीय ग्रिड को दो हिस्सों में बांट देती है। साथ ही, हिमनद समुद्री जल की एक विशाल दीवार शहर की सड़कों से होकर गुजरती है, जो अपने संपर्क में आने वाली हर चीज को क्रिस्टलीय संरचनाओं में जमा देती है। जमती हुई बाढ़ के बीच से, मलबे से काला पड़ा और आंतरिक नारंगी बिजली से चमकता हुआ एक विशाल मल्टी-वोर्टेक्स फनल क्लाउड एक स्टील के गगनचुंबी इमारत के अग्रभाग को उखाड़ फेंकता है, जिससे कांच के टुकड़े और भारी मशीनरी एक अराजक कक्षा में घूमने लगते हैं। कैमरा एक पुल के नीचे से गतिशील, कम ऊंचाई पर उड़ान भरता है क्योंकि वह मुड़ता और टूटता है, उड़ते हुए मलबे और बर्फीले तूफानों के बीच से निकलता है। प्रकाश व्यवस्था गहरे बैंगनी आकाश से ट्रांसफार्मर के विस्फोट की चमकदार सफेद चमक में बदल जाती है, और अंत में बर्फ और हवा की एक विशाल दीवार द्वारा निगले जा रहे पर्वत श्रृंखला के वाइड-एंगल दृश्य के साथ समाप्त होती है। हाइपर-रियलिस्टिक फ्लूइड डायनामिक्स, जटिल पार्टिकल फिजिक्स, 35mm एनामोर्फिक लेंस और हाई कंट्रास्ट वॉल्यूमेट्रिक वातावरण।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c59a32b238b5a8ac8342488d7985191e/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Metropolitan Apocalypse Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c59a32b238b5a8ac8342488d7985191e/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक मेट्रोपॉलिटन एपोकैलिप्स सीक्वेंस">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4732)**
 
 **लेखक:** [Wilzap](https://x.com/wilzap) | **स्रोत:** [Link](https://x.com/wilzap/status/2054605922681679914) | **प्रकाशित:** May 13, 2026
 
 ---
-### Pixar Style 3D Chef Mascot Animation
+### पिक्सर स्टाइल 3D शेफ मैस्कॉट एनिमेशन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic 3D animation prompt featuring a stylized Indo-Chinese chef mascot with expressive features and detailed attire.
+> एक सिनेमैटिक 3D एनिमेशन प्रॉम्प्ट, जिसमें अभिव्यंजक विशेषताओं और विस्तृत पोशाक के साथ एक स्टाइलिश इंडो-चाइनीज शेफ मैस्कॉट दिखाया गया है।
 
 #### 📝 प्रॉम्पट
 
 ```
-15-second cinematic animated video, 16:9, premium Pixar-quality 3D mascot animation style, featuring the same adorable stylized female Indo-Chinese chef mascot throughout — oversized expressive eyes, fluffy tied-up bun hair, black chef coat with red piping,
+15-सेकंड का सिनेमैटिक एनिमेटेड वीडियो, 16:9, प्रीमियम पिक्सर-क्वालिटी 3D मैस्कॉट एनिमेशन स्टाइल, जिसमें पूरी वीडियो में वही प्यारी स्टाइलिश महिला इंडो-चाइनीज शेफ मैस्कॉट दिखाई गई है — बड़ी अभिव्यंजक आँखें, बालों का फूला हुआ जूड़ा, लाल पाइपिंग वाली काली शेफ कोट,
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a0d118836b2c56ea324dbac95f7abd1/thumbnails/thumbnail.jpg" width="600" alt="Pixar Style 3D Chef Mascot Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a0d118836b2c56ea324dbac95f7abd1/thumbnails/thumbnail.jpg" width="600" alt="पिक्सर स्टाइल 3D शेफ मैस्कॉट एनिमेशन">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4743)**
 
@@ -659,49 +659,49 @@ A cinematic tracking shot capturing a simultaneous tectonic, atmospheric, and oc
 **लेखक:** [Genz Ai](https://x.com/alzina3691) | **स्रोत:** [Link](https://x.com/alzina3691/status/2054600108256178489) | **प्रकाशित:** May 13, 2026
 
 ---
-### Mischievous Animated Puppy Gesture Sequence
+### शरारती एनिमेटेड पिल्ले का जेस्चर सीक्वेंस
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A highly detailed animation prompt for a 3D puppy, featuring a specific sequence of micro-expressions and a finger-gesture transition from a middle finger to a thumbs-up.
+> 3D पिल्ले के लिए एक अत्यधिक विस्तृत एनीमेशन प्रॉम्प्ट, जिसमें सूक्ष्म-अभिव्यक्तियों का एक विशिष्ट क्रम और बीच की उंगली (middle finger) से थम्स-अप (thumbs-up) में फिंगर-जेस्चर ट्रांज़िशन शामिल है।
 
 #### 📝 प्रॉम्पट
 
 ```
-The subject is a red fluffy puppy in a Q-version 3D animation style, cute but with a slightly wicked and mischievous expression. The puppy stands slightly below the center, body turned about 30 degrees to the camera, head slightly lowered, big soulful eyes, soft and delicate fur with a realistic fluffy texture. Background is a soft warm-toned blurred indoor environment, shallow depth of field, cinematic soft light, clean frame, no text, watermarks, extra characters, or extra objects. 
+विषय एक Q-वर्जन 3D एनीमेशन शैली में लाल रंग का रोएंदार पिल्ला है, जो प्यारा है लेकिन थोड़े दुष्ट और शरारती भाव के साथ है। पिल्ला केंद्र से थोड़ा नीचे खड़ा है, शरीर कैमरे की ओर लगभग 30 डिग्री मुड़ा हुआ है, सिर थोड़ा झुका हुआ है, बड़ी भावपूर्ण आँखें हैं, और यथार्थवादी रोएंदार बनावट के साथ नरम और नाजुक बाल हैं। पृष्ठभूमि एक नरम गर्म-टोन वाला धुंधला इनडोर वातावरण है, उथली डेप्थ ऑफ फील्ड, सिनेमाई नरम रोशनी, साफ फ्रेम, कोई टेक्स्ट, वॉटरमार्क, अतिरिक्त पात्र या अतिरिक्त वस्तुएं नहीं हैं।
 
-Follow this timeline strictly: 
-0.0s-1.0s: Puppy stands quietly, body slightly sideways, head down, eyes slowly rising from below to create a 'preparing for mischief' atmosphere. 
-1.0s-1.8s: First side-glance at the camera. Eyes glance first, head turns slightly, no big shaking, look is provocative and playful. 
-1.8s-2.4s: Briefly retracts gaze, looking aside or down, maintaining restraint before a smirk. 
-2.4s-3.2s: Second side-glance at the camera, stronger mischievous feel. 
-3.2s-4.2s: Slowly extends right hand from the front toward the camera, natural and weighted movement. 
-4.2s-5.1s: Hand continues forward, palm rising, forming the first half of a middle-finger gesture: other fingers bending, middle finger starting to go up but only halfway. 
-5.1s-6.0s: Gesture shifts mid-way: middle finger retracts, thumb slowly rises into a clear thumbs-up gesture. Transition must be smooth and visible. 
-6.0s-7.0s: Maintains thumbs-up, mouth slowly curls into a mischievous smile, eyes still glancing at camera with a proud/teasing look. 
-Camera: 9:16 vertical, slight cinematic push-in, subject centered, hand stays in frame, fluid animation.
+इस टाइमलाइन का सख्ती से पालन करें:
+0.0s-1.0s: पिल्ला चुपचाप खड़ा है, शरीर थोड़ा तिरछा है, सिर नीचे है, आँखें धीरे-धीरे नीचे से ऊपर उठ रही हैं ताकि 'शरारत की तैयारी' का माहौल बन सके।
+1.0s-1.8s: कैमरे की ओर पहली बार तिरछी नज़र। आँखें पहले देखती हैं, सिर थोड़ा मुड़ता है, कोई बड़ा झटका नहीं, नज़र उत्तेजक और चंचल है।
+1.8s-2.4s: संक्षेप में नज़र हटाता है, बगल में या नीचे देखता है, एक मुस्कान से पहले संयम बनाए रखता है।
+2.4s-3.2s: कैमरे की ओर दूसरी बार तिरछी नज़र, अधिक शरारती अहसास।
+3.2s-4.2s: धीरे-धीरे सामने से कैमरे की ओर दाहिना हाथ बढ़ाता है, प्राकृतिक और भारित गति।
+4.2s-5.1s: हाथ आगे बढ़ता रहता है, हथेली ऊपर उठती है, बीच की उंगली के जेस्चर का पहला भाग बनता है: अन्य उंगलियां मुड़ रही हैं, बीच की उंगली ऊपर उठना शुरू होती है लेकिन केवल आधी।
+5.1s-6.0s: जेस्चर बीच में बदल जाता है: बीच की उंगली वापस मुड़ जाती है, अंगूठा धीरे-धीरे ऊपर उठकर एक स्पष्ट थम्स-अप जेस्चर बनाता है। ट्रांज़िशन सहज और दृश्यमान होना चाहिए।
+6.0s-7.0s: थम्स-अप बनाए रखता है, मुंह धीरे-धीरे एक शरारती मुस्कान में बदल जाता है, आँखें अभी भी गर्व/छेड़खानी भरी नज़र के साथ कैमरे की ओर देख रही हैं।
+कैमरा: 9:16 वर्टिकल, हल्का सिनेमाई पुश-इन, विषय केंद्रित, हाथ फ्रेम में रहता है, तरल एनीमेशन।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ca9c10428782a64bba64a2c0e003750/thumbnails/thumbnail.jpg" width="600" alt="Mischievous Animated Puppy Gesture Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ca9c10428782a64bba64a2c0e003750/thumbnails/thumbnail.jpg" width="600" alt="शरारती एनिमेटेड पिल्ले का जेस्चर सीक्वेंस">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4757)**
 
 **लेखक:** [Clyde Zhu](https://x.com/sands321_) | **स्रोत:** [Link](https://x.com/sands321_/status/2054598314709176599) | **प्रकाशित:** May 13, 2026
 
 ---
-### Cricket Stadium Fan Broadcast
+### क्रिकेट स्टेडियम फैन ब्रॉडकास्ट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a realistic broadcast-style video of a fan in a cricket stadium crowd.
+> क्रिकेट स्टेडियम में भीड़ के बीच बैठे एक प्रशंसक का यथार्थवादी ब्रॉडकास्ट-शैली वीडियो बनाने के लिए एक प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-Ultra-realistic static image of a sports broadcast of a man sitting in the crowd of a packed cricket stadium
+खचाखच भरे क्रिकेट स्टेडियम में भीड़ के बीच बैठे एक व्यक्ति के स्पोर्ट्स ब्रॉडकास्ट की अल्ट्रा-रियलिस्टिक स्थिर छवि
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/530ee061cb9fcd88753057b8999adf2e/thumbnails/thumbnail.jpg" width="600" alt="Cricket Stadium Fan Broadcast">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/530ee061cb9fcd88753057b8999adf2e/thumbnails/thumbnail.jpg" width="600" alt="क्रिकेट स्टेडियम फैन ब्रॉडकास्ट">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4752)**
 
@@ -746,96 +746,96 @@ Ultra-realistic static image of a sports broadcast of a man sitting in the crowd
 **लेखक:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) | **स्रोत:** [Link](https://x.com/saniaspeaks_/status/2054587171864977555) | **प्रकाशित:** May 13, 2026
 
 ---
-### Coffee Shop Cinematic Aerial Descent
+### कॉफी शॉप सिनेमैटिक एरियल डिसेंट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional cinematic video prompt for Seedance 2.0 featuring a sweeping aerial camera descent into a coffee shop with atmospheric drift.
+> Seedance 2.0 के लिए एक प्रोफेशनल सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें एटमॉस्फेरिक ड्रिफ्ट के साथ कॉफी शॉप में एक शानदार एरियल कैमरा डिसेंट दिखाया गया है।
 
 #### 📝 प्रॉम्पट
 
 ```
-SHOT 1 (0:00–0:02) — Descent Into the World
+शॉट 1 (0:00–0:02) — दुनिया में प्रवेश
 
-EFFECT: sweeping aerial push-down (crane-style descent) + color saturation bloom + atmospheric particle drift
+इफेक्ट: स्वीपिंग एरियल पुश-डाउन (क्रेन-स्टाइल डिसेंट) + कलर सैचुरेशन ब्लूम + एटमॉस्फेरिक पार्टिकल ड्रिफ्ट
 
-The camera descends from above as if falling gently from the sky into the coffee shop.
+कैमरा ऊपर से ऐसे नीचे आता है जैसे मानो आसमान से धीरे-धीरे कॉफी शॉप में उतर रहा हो।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32f6fb76cd83f12352d8d83995c6ce4d/thumbnails/thumbnail.jpg" width="600" alt="Coffee Shop Cinematic Aerial Descent">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32f6fb76cd83f12352d8d83995c6ce4d/thumbnails/thumbnail.jpg" width="600" alt="कॉफी शॉप सिनेमैटिक एरियल डिसेंट">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4751)**
 
 **लेखक:** [Guillermo Castellanos](https://x.com/guicastellanos1) | **स्रोत:** [Link](https://x.com/guicastellanos1/status/2054587015753015432) | **प्रकाशित:** May 13, 2026
 
 ---
-### Video Prompt:
+### वीडियो प्रॉम्प्ट:
 
-Use the attached THE SPAGHETTI CHEF
+संलग्न THE SPAGHETTI CHEF का उपयोग करें
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
 #### 📝 प्रॉम्पट
 
 ```
-Use the attached THE SPAGHETTI CHEF storyboard image as the exact reference.
+संलग्न THE SPAGHETTI CHEF स्टोरीबोर्ड इमेज को सटीक संदर्भ के रूप में उपयोग करें।
 
-Create a 15-second 16:9 animated artisan spaghetti-making sequence that follows the 8-shot storyboard exactly. Preserve the same Pixar-style young spaghetti chef, black apron, cozy
+15-सेकंड का 16:9 एनिमेटेड आर्टिसन स्पेगेटी-मेकिंग सीक्वेंस बनाएं जो 8-शॉट स्टोरीबोर्ड का पूरी तरह से पालन करे। उसी पिक्सर-स्टाइल (Pixar-style) वाले युवा स्पेगेटी शेफ, काले एप्रन और आरामदायक लुक को बनाए रखें
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc4a2ad7ede5a76b14451bb470faec26/thumbnails/thumbnail.jpg" width="600" alt="Video Prompt:
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc4a2ad7ede5a76b14451bb470faec26/thumbnails/thumbnail.jpg" width="600" alt="वीडियो प्रॉम्प्ट:
 
-Use the attached THE SPAGHETTI CHEF">
+संलग्न THE SPAGHETTI CHEF का उपयोग करें">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4750)**
 
 **लेखक:** [PENNY💜](https://x.com/ImozemhePeniel) | **स्रोत:** [Link](https://x.com/ImozemhePeniel/status/2054578068006506554) | **प्रकाशित:** May 13, 2026
 
 ---
-### Luxury Family Football Celebration Scene
+### शानदार पारिवारिक फुटबॉल सेलिब्रेशन दृश्य
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dramatic cinematic prompt depicting a family watching a football match in a mansion, culminating in a goal celebration and a conflict.
+> एक नाटकीय सिनेमाई प्रॉम्प्ट जो एक हवेली में फुटबॉल मैच देख रहे परिवार को दर्शाता है, जिसका समापन गोल के जश्न और एक विवाद के साथ होता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Cinematic ultra-realistic luxury family football watch party inside a massive modern mansion hall at night. The room is extremely large, elegant, and beautifully designed with warm ambient lighting, luxury sofas and chairs, marble floor, decorative lamps, modern interior, and a giant LED screen mounted on the wall. On the LED screen, an intense football match is playing with realistic English football commentary in the background, crowd noise, stadium atmosphere, and live sports broadcast graphics.
+रात के समय एक विशाल आधुनिक हवेली के हॉल के अंदर सिनेमाई अल्ट्रा-रियलिस्टिक लक्जरी फैमिली फुटबॉल वॉच पार्टी। कमरा बेहद बड़ा, सुरुचिपूर्ण और गर्म एम्बिएंट लाइटिंग, लक्जरी सोफे और कुर्सियों, संगमरमर के फर्श, सजावटी लैंप, आधुनिक इंटीरियर और दीवार पर लगे एक विशाल LED स्क्रीन के साथ खूबसूरती से डिज़ाइन किया गया है। LED स्क्रीन पर, बैकग्राउंड में यथार्थवादी अंग्रेजी फुटबॉल कमेंट्री, भीड़ का शोर, स्टेडियम का माहौल और लाइव स्पोर्ट्स ब्रॉडकास्ट ग्राफिक्स के साथ एक गहन फुटबॉल मैच चल रहा है।
 
-In the room, a large joint family is watching the match together. There are 3–4 women drinking tea and smiling while watching the game, 3–4 men sitting excitedly, 8–9 children cheering with snacks and chips like Lays in their hands, and 1–2 elderly grandparents enjoying the match peacefully. Everyone is emotionally invested in the game.
+कमरे में, एक बड़ा संयुक्त परिवार एक साथ मैच देख रहा है। 3-4 महिलाएं चाय पी रही हैं और गेम देखते हुए मुस्कुरा रही हैं, 3-4 पुरुष उत्साह के साथ बैठे हैं, 8-9 बच्चे अपने हाथों में Lays जैसे स्नैक्स और चिप्स लिए चीयर कर रहे हैं, और 1-2 बुजुर्ग दादा-दादी शांति से मैच का आनंद ले रहे हैं। हर कोई खेल में भावनात्मक रूप से जुड़ा हुआ है।
 
-The football match reaches a dramatic penalty kick moment. The camera cuts between the tense faces of the family members and the football player preparing for the penalty. The room becomes silent with suspense. Realistic cinematic camera movements, emotional close-ups, detailed facial expressions, slow-motion tension.
+फुटबॉल मैच एक नाटकीय पेनल्टी किक पल तक पहुँचता है। कैमरा परिवार के सदस्यों के तनावपूर्ण चेहरों और पेनल्टी की तैयारी कर रहे फुटबॉल खिलाड़ी के बीच कट होता है। कमरा सस्पेंस के साथ शांत हो जाता है। यथार्थवादी सिनेमाई कैमरा मूवमेंट, भावनात्मक क्लोज-अप, विस्तृत चेहरे के भाव, स्लो-मोशन तनाव।
 
-As the player kicks the penalty, the ball powerfully enters the goal. Instantly the entire room erupts with celebration. Men jump from their chairs shouting happily, women smile and clap while holding tea cups, children scream with excitement, some family members hug each other, some dance wildly in celebration, realistic joyful chaos, emotional energy, cinematic realism.
+जैसे ही खिलाड़ी पेनल्टी किक मारता है, गेंद शक्तिशाली रूप से गोल में प्रवेश करती है। तुरंत पूरा कमरा जश्न के साथ गूंज उठता है। पुरुष खुशी से चिल्लाते हुए अपनी कुर्सियों से कूद पड़ते हैं, महिलाएं चाय के कप पकड़े हुए मुस्कुराती हैं और ताली बजाती हैं, बच्चे उत्साह के साथ चिल्लाते हैं, परिवार के कुछ सदस्य एक-दूसरे को गले लगाते हैं, कुछ जश्न में जोर-जोर से नाचते हैं, यथार्थवादी आनंदमय अराजकता, भावनात्मक ऊर्जा, सिनेमाई यथार्थवाद।
 
-But one young boy, around 12 years old, is a supporter of the opposite team. The moment the goal is scored, his face turns angry and frustrated. He suddenly stands up in rage, grabs the chair he is sitting on, and violently throws it toward the giant LED screen. The room becomes shocked. The chair hits near the screen dramatically. The angry boy storms toward the door, slams the door shut aggressively, and leaves the room. Other family members react with surprise while still celebrating.
+लेकिन लगभग 12 साल का एक छोटा लड़का, विपक्षी टीम का समर्थक है। जिस पल गोल होता है, उसका चेहरा गुस्से और निराशा से भर जाता है। वह अचानक गुस्से में खड़ा हो जाता है, जिस कुर्सी पर वह बैठा है उसे पकड़ता है, और उसे हिंसक रूप से विशाल LED स्क्रीन की ओर फेंकता है। कमरा हैरान रह जाता है। कुर्सी नाटकीय रूप से स्क्रीन के पास जाकर टकराती है। गुस्से में लड़का दरवाजे की ओर बढ़ता है, दरवाजे को आक्रामक रूप से बंद करता है और कमरे से बाहर निकल जाता है। परिवार के अन्य सदस्य जश्न मनाते हुए भी आश्चर्य के साथ प्रतिक्रिया देते हैं।
 
-Highly realistic human emotions, cinematic storytelling, dynamic lighting, luxury environment, football stadium sounds, realistic English sports commentary audio, emotional crowd reactions, ultra HD 4K, movie-quality visuals, dramatic atmosphere, realistic body movement, natural acting, smooth camera motion, immersive family celebration scene, detailed environment, premium cinematic color grading.
+अत्यधिक यथार्थवादी मानवीय भावनाएं, सिनेमाई कहानी, गतिशील प्रकाश व्यवस्था, लक्जरी वातावरण, फुटबॉल स्टेडियम की आवाजें, यथार्थवादी अंग्रेजी स्पोर्ट्स कमेंट्री ऑडियो, भावनात्मक भीड़ की प्रतिक्रियाएं, अल्ट्रा HD 4K, मूवी-क्वालिटी विजुअल्स, नाटकीय माहौल, यथार्थवादी शारीरिक गति, स्वाभाविक अभिनय, स्मूथ कैमरा मोशन, इमर्सिव फैमिली सेलिब्रेशन सीन, विस्तृत वातावरण, प्रीमियम सिनेमाई कलर ग्रेडिंग।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1ee38cf3f2dc1a1d1bd5cada9257348/thumbnails/thumbnail.jpg" width="600" alt="Luxury Family Football Celebration Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1ee38cf3f2dc1a1d1bd5cada9257348/thumbnails/thumbnail.jpg" width="600" alt="शानदार पारिवारिक फुटबॉल सेलिब्रेशन दृश्य">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4739)**
 
 **लेखक:** [Genz Ai](https://x.com/alzina3691) | **स्रोत:** [Link](https://x.com/alzina3691/status/2054575236499095697) | **प्रकाशित:** May 13, 2026
 
 ---
-### Colossal Creatures City Invasion
+### विशालकाय जीवों का शहर पर आक्रमण
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic-scale video prompt featuring multiple giant monsters attacking a mega-city simultaneously with dynamic drone movements and heavy VFX.
+> एक महाकाव्य स्तर का वीडियो प्रॉम्प्ट जिसमें कई विशाल राक्षस एक साथ एक मेगा-सिटी पर हमला कर रहे हैं, साथ ही डायनामिक ड्रोन मूवमेंट और भारी VFX का उपयोग किया गया है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Multiple colossal creatures invading simultaneously: a winged dragon with lightning veins tearing through the sky, a massive lava titan crushing everything on the ground, and a shadow leviathan spreading like a living void across the city, each dominating a different layer of destruction with overwhelming presence
-All attack at once, the city collapsing from every direction—lightning strikes obliterating skyscrapers, the ground rupturing under the titan’s steps, entire districts swallowed by moving darkness, creating unstoppable large-scale chaos
-Mega city completely overwhelmed, buildings falling in waves, firestorms rising, thunder splitting the sky, shadows consuming light, total environmental collapse + Starts with extreme wide aerial revealing all threats at once, rapid multi-directional drone movements switching focus between sky, ground and shadow, whip pans linking each destructive event, FPV dives through collapsing streets and explosions, aggressive orbit shots around each creature, constant camera motion blending chaos with layered VFX (fire, lightning, smoke, shadows), debris flooding the frame, ending with all creatures standing dominant over a fully destroyed city—dragon hovering above crackling with lightning, titan planted in molten ruins, shadow leviathan covering entire districts—while the camera slowly pulls back into a massive wide shot revealing total annihilation, silence briefly falling before a final synchronized roar echoes across the wasteland
+एक साथ आक्रमण करते कई विशालकाय जीव: बिजली की नसों वाला एक पंखों वाला ड्रैगन जो आसमान को चीर रहा है, जमीन पर सब कुछ कुचलने वाला एक विशाल लावा टाइटन, और एक छाया लेविथान जो शहर भर में एक जीवित शून्य की तरह फैल रहा है, प्रत्येक अपनी जबरदस्त उपस्थिति के साथ विनाश की एक अलग परत पर हावी है।
+सभी एक साथ हमला करते हैं, शहर हर दिशा से ढह रहा है—बिजली गिरने से गगनचुंबी इमारतें नष्ट हो रही हैं, टाइटन के कदमों के नीचे जमीन फट रही है, पूरे जिले चलती हुई अंधेरे में समा रहे हैं, जिससे एक अनियंत्रित बड़े पैमाने पर अराजकता पैदा हो रही है।
+मेगा सिटी पूरी तरह से तबाह, इमारतें लहरों में गिर रही हैं, आग के गोले उठ रहे हैं, गड़गड़ाहट आसमान को चीर रही है, छाया रोशनी को निगल रही है, कुल पर्यावरणीय पतन + शुरुआत में अत्यधिक विस्तृत हवाई दृश्य जो सभी खतरों को एक साथ प्रकट करता है, तेजी से बहु-दिशात्मक ड्रोन मूवमेंट जो आकाश, जमीन और छाया के बीच फोकस बदलता है, प्रत्येक विनाशकारी घटना को जोड़ने वाले व्हिप पैन, ढहती सड़कों और विस्फोटों के माध्यम से FPV डाइव, प्रत्येक जीव के चारों ओर आक्रामक ऑर्बिट शॉट्स, निरंतर कैमरा गति जो अराजकता को लेयर्ड VFX (आग, बिजली, धुआं, छाया) के साथ मिश्रित करती है, मलबे से फ्रेम भर जाता है, अंत में सभी जीव पूरी तरह से नष्ट हो चुके शहर पर हावी होकर खड़े हैं—ड्रैगन बिजली के साथ ऊपर मंडरा रहा है, टाइटन पिघले हुए खंडहरों में जमा हुआ है, छाया लेविथान ने पूरे जिलों को कवर कर लिया है—जबकि कैमरा धीरे-धीरे पीछे हटकर एक विशाल वाइड शॉट में बदल जाता है जो पूर्ण विनाश को प्रकट करता है, बंजर भूमि पर अंतिम सिंक्रनाइज़ दहाड़ गूंजने से पहले संक्षेप में सन्नाटा छा जाता है।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c070ec6735e0383d01e5a850efe63b4/thumbnails/thumbnail.jpg" width="600" alt="Colossal Creatures City Invasion">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c070ec6735e0383d01e5a850efe63b4/thumbnails/thumbnail.jpg" width="600" alt="विशालकाय जीवों का शहर पर आक्रमण">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4734)**
 
@@ -887,29 +887,29 @@ Mega city completely overwhelmed, buildings falling in waves, firestorms rising,
 **लेखक:** [Gem Alpha](https://x.com/Gemalpha_88) | **स्रोत:** [Link](https://x.com/Gemalpha_88/status/2054564893081174202) | **प्रकाशित:** May 13, 2026
 
 ---
-### Sports Broadcast Jumbotron Reaction
+### स्पोर्ट्स ब्रॉडकास्ट जंबोट्रॉन रिएक्शन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex, multi-beat prompt for a realistic sports broadcast showing a woman noticing herself on the stadium jumbotron.
+> एक यथार्थवादी स्पोर्ट्स ब्रॉडकास्ट के लिए एक जटिल, मल्टी-बीट प्रॉम्प्ट, जिसमें एक महिला को स्टेडियम के जंबोट्रॉन पर खुद को देखते हुए दिखाया गया है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A photorealistic, cinematic live television broadcast video set in a crowded indoor baseball stadium at night. The sequence should follow these four visual beats in a smooth, natural progression: first, Yuki sits in the audience wearing a blue varsity-style baseball jacket, casually glancing down at her phone for just a second; second, the phone-checking moment continues, emphasizing that she is briefly distracted while the stadium crowd remains lively and slightly blurred around her; third, she suddenly looks up and realizes she is being shown on the massive glowing jumbotron above; fourth, she freezes for a brief moment, then breaks into a half-embarrassed, good-natured smile and gives a small awkward wave to the camera.
+रात के समय एक भीड़भाड़ वाले इनडोर बेसबॉल स्टेडियम में सेट किया गया एक फोटो-रियलिस्टिक, सिनेमैटिक लाइव टेलीविज़न ब्रॉडकास्ट वीडियो। यह सीक्वेंस चार विज़ुअल बीट्स का एक सहज और स्वाभाविक क्रम होना चाहिए: पहला, युकी (Yuki) दर्शकों के बीच नीले रंग की वर्सिटी-स्टाइल बेसबॉल जैकेट पहने बैठी है और एक सेकंड के लिए अपने फोन पर नज़र डालती है; दूसरा, फोन चेक करने का पल जारी रहता है, जिसमें यह दिखाया गया है कि वह संक्षेप में विचलित है जबकि उसके आसपास स्टेडियम की भीड़ जीवंत और थोड़ी धुंधली है; तीसरा, वह अचानक ऊपर देखती है और उसे एहसास होता है कि उसे ऊपर लगे विशाल चमकते जंबोट्रॉन पर दिखाया जा रहा है; चौथा, वह एक पल के लिए ठिठक जाती है, फिर थोड़ी शर्मिंदगी भरी लेकिन सहज मुस्कान के साथ कैमरे की ओर धीरे से हाथ हिलाती है।
 
-Yuki should feel like a real 45-year-old Asian female founder: sharp, elegant, slightly tired, observant, very human, not influencer-like, not overly polished. The humor comes from the realism of the moment — she only looked down at her phone for a second, then realized she was already on the big screen. Her expression transition should feel natural: calm focus → brief surprise → embarrassed amusement → small awkward wave.
+युकी को एक वास्तविक 45 वर्षीय एशियाई महिला फाउंडर जैसा दिखना चाहिए: तेज, सुरुचिपूर्ण, थोड़ी थकी हुई, चौकस, बहुत ही मानवीय, न कि किसी इन्फ्लुएंसर जैसी या बहुत अधिक पॉलिश की हुई। हास्य इस पल के यथार्थवाद से आता है — उसने केवल एक सेकंड के लिए अपने फोन पर देखा था, और फिर उसे एहसास हुआ कि वह पहले से ही बड़ी स्क्रीन पर है। उसके हाव-भाव का परिवर्तन स्वाभाविक महसूस होना चाहिए: शांत फोकस → संक्षिप्त आश्चर्य → शर्मिंदा होकर मुस्कुराना → थोड़ा अजीब सा हाथ हिलाना।
 
-The environment should feel like a real premium sports broadcast: bright even stadium floodlights, realistic crowd depth, huge overhead jumbotron, subtle live-broadcast polish, clean digital overlays, a LIVE badge, and Korean-style sports broadcast graphics. The crowd should be energetic but slightly out of focus so Yuki remains the emotional focal point. The video should look like it was captured by professional broadcast cameras in 8K.
+वातावरण एक वास्तविक प्रीमियम स्पोर्ट्स ब्रॉडकास्ट जैसा महसूस होना चाहिए: चमकदार स्टेडियम फ्लडलाइट्स, यथार्थवादी भीड़ की गहराई, विशाल ओवरहेड जंबोट्रॉन, सूक्ष्म लाइव-ब्रॉडकास्ट फिनिश, साफ डिजिटल ओवरले, एक LIVE बैज, और कोरियन-स्टाइल स्पोर्ट्स ब्रॉडकास्ट ग्राफिक्स। भीड़ ऊर्जावान होनी चाहिए लेकिन थोड़ी आउट-ऑफ-फोकस, ताकि युकी भावनात्मक केंद्र बिंदु बनी रहे। वीडियो ऐसा दिखना चाहिए जैसे इसे 8K में पेशेवर ब्रॉडकास्ट कैमरों द्वारा कैप्चर किया गया हो।
 
-Keep the motion smooth and believable. Keep the pacing realistic for a 5–8 second clip. The sequence should feel like a real live TV capture, not a staged skit. Avoid exaggerated comedy acting. Avoid political symbolism, propaganda framing, influencer posing, uncanny deepfake energy, broken hands, distorted phone screens, or glitchy crowd motion.
+मोशन को सहज और विश्वसनीय रखें। 5-8 सेकंड की क्लिप के लिए गति को यथार्थवादी रखें। यह सीक्वेंस एक वास्तविक लाइव टीवी कैप्चर जैसा महसूस होना चाहिए, न कि किसी स्टेज किए गए नाटक जैसा। अतिरंजित कॉमेडी एक्टिंग से बचें। राजनीतिक प्रतीकवाद, प्रचार फ्रेमिंग, इन्फ्लुएंसर पोज़िंग, अजीब डीपफेक एनर्जी, टूटे हुए हाथ, विकृत फोन स्क्रीन, या भीड़ की गड़बड़ हलचल से बचें।
 
-Keep Yuki’s face 100% consistent with her real face.
+युकी का चेहरा उसके वास्तविक चेहरे के साथ 100% सुसंगत रखें।
 
-Suggested motion arc: phone glance → subtle pause → noticing the jumbotron → brief freeze → half-embarrassed smile → small awkward wave.
+सुझाया गया मोशन आर्क: फोन पर नज़र डालना → सूक्ष्म ठहराव → जंबोट्रॉन पर ध्यान जाना → संक्षिप्त फ्रीज → शर्मिंदगी भरी मुस्कान → थोड़ा अजीब सा हाथ हिलाना।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f460c9cdb33eed2ce966fb50f31be676/thumbnails/thumbnail.jpg" width="600" alt="Sports Broadcast Jumbotron Reaction">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f460c9cdb33eed2ce966fb50f31be676/thumbnails/thumbnail.jpg" width="600" alt="स्पोर्ट्स ब्रॉडकास्ट जंबोट्रॉन रिएक्शन">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4725)**
 
@@ -935,296 +935,293 @@ Suggested motion arc: phone glance → subtle pause → noticing the jumbotron �
 **लेखक:** [Sadia](https://x.com/SadiaMalik182) | **स्रोत:** [Link](https://x.com/SadiaMalik182/status/2054562195892277378) | **प्रकाशित:** May 13, 2026
 
 ---
-### POV Shot from Inside Slushy Cup
+### स्लशी कप के अंदर से POV शॉट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An immersive video prompt featuring a continuous shot from the bottom of a transparent cup, capturing liquid movement and distorted facial expressions through ice.
+> एक इमर्सिव वीडियो प्रॉम्प्ट जिसमें एक पारदर्शी कप के तल से लिया गया निरंतर शॉट है, जो बर्फ के माध्यम से तरल की गति और चेहरे के विकृत हाव-भाव को कैद करता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-cinematic single continuous shot from inside a transparent plastic cup filled with a thick, icy purple slushy.
-The camera is submerged at the bottom, looking upward through semi-translucent crushed ice, with bubbles, condensation, and glossy frozen textures surrounding the
-frame.
-The circular rim of the cup forms a tunnel-like border, slightly fogged and wet. A semi-transparent straw descends into the frame.
-A woman leans in above, her face slightly distorted through the curved plastic and icy textures. She begins to sip. The purple liquid visibly flows upward inside the straw, swirling with tiny air bubbles, creating a dynamic suction motion.
-The ice subtly shifts and compresses with the movement. The camera gently drifts and vibrates with the suction force, maintaining a realistic handheld feel from inside the drink.
-Suddenly, an off-screen male voice calls out, “Hey, Alice.” The woman immediately stops sipping. The liquid inside the straw halts mid-motion and slowly settles back.
-She lifts her head slightly, her expression shifting to surprise. Condensation droplets slide down the inner walls of the cup. She turns her gaze to the side, still seen from
-below through the cup opening, and responds, slightly startled: “Oh, hey, Charlie, what are you doing here?”
-A man leans into frame from the background, partially visible through the circular opening, softly out of focus at first, then becoming clearer as he steps closer.
-Warm ambient light glows behind him, contrasting with the cool purple tones inside the cup. He replies casually: “I’m just waiting for my friend to show up.” The woman
-relaxes, a small smile forming.
-She tilts her head slightly, still framed by the cup opening: “Really? Haha. It’s been a while since I last saw you.” The man chuckles lightly, shifting his posture: “Hah, yeah”
-Throughout the entire sequence, the camera remains inside the cup, maintaining a consistent perspective with subtle liquid movement, melting ice, drifting bubbles, and refracted light playing across the scene, enhancing the immersive, non-human viewpoint. No Music
+गाढ़ी, बर्फीली बैंगनी स्लशी से भरे एक पारदर्शी प्लास्टिक कप के अंदर से लिया गया सिनेमैटिक सिंगल निरंतर शॉट।
+कैमरा तल पर डूबा हुआ है, जो अर्ध-पारभासी कुचली हुई बर्फ के माध्यम से ऊपर की ओर देख रहा है, जिसके चारों ओर बुलबुले, संघनन और चमकदार जमी हुई बनावटें हैं।
+कप का गोलाकार रिम एक सुरंग जैसा बॉर्डर बनाता है, जो थोड़ा धुंधला और गीला है। एक अर्ध-पारदर्शी स्ट्रॉ फ्रेम में नीचे आता है।
+एक महिला ऊपर झुकती है, उसका चेहरा मुड़े हुए प्लास्टिक और बर्फीली बनावट के माध्यम से थोड़ा विकृत दिखाई देता है। वह चुस्की लेना शुरू करती है। बैंगनी तरल स्पष्ट रूप से स्ट्रॉ के अंदर ऊपर की ओर बहता है, छोटे हवा के बुलबुले के साथ घूमता है, जो एक गतिशील सक्शन गति पैदा करता है।
+हलचल के साथ बर्फ सूक्ष्म रूप से खिसकती और दबती है। कैमरा धीरे-धीरे हिलता है और सक्शन बल के साथ कंपन करता है, जो पेय के अंदर से एक यथार्थवादी हैंडहेल्ड अनुभव बनाए रखता है।
+अचानक, स्क्रीन के बाहर से एक पुरुष की आवाज आती है, “हे, ऐलिस।” महिला तुरंत चुस्की लेना बंद कर देती है। स्ट्रॉ के अंदर का तरल बीच में ही रुक जाता है और धीरे-धीरे वापस नीचे बैठ जाता है।
+वह अपना सिर थोड़ा ऊपर उठाती है, उसके चेहरे के हाव-भाव आश्चर्य में बदल जाते हैं। संघनन की बूंदें कप की आंतरिक दीवारों से नीचे फिसलती हैं। वह अपनी नजरें बगल की ओर घुमाती है, जिसे अभी भी कप के उद्घाटन के माध्यम से नीचे से देखा जा सकता है, और थोड़ा चौंकते हुए जवाब देती है: “ओह, हे, चार्ली, तुम यहाँ क्या कर रहे हो?”
+एक आदमी पृष्ठभूमि से फ्रेम में झुकता है, जो गोलाकार उद्घाटन के माध्यम से आंशिक रूप से दिखाई देता है, पहले थोड़ा धुंधला, फिर करीब आने पर स्पष्ट हो जाता है।
+उसके पीछे गर्म एम्बिएंट लाइट चमक रही है, जो कप के अंदर के ठंडे बैंगनी रंगों के विपरीत है। वह लापरवाही से जवाब देता है: “मैं बस अपने दोस्त के आने का इंतजार कर रहा हूँ।” महिला रिलैक्स हो जाती है, उसके चेहरे पर एक छोटी सी मुस्कान आ जाती है।
+वह अपना सिर थोड़ा झुकाती है, अभी भी कप के उद्घाटन द्वारा फ्रेम की गई है: “सच में? हाहा। मुझे देखे हुए काफी समय हो गया है।” आदमी हल्के से हंसता है, अपनी मुद्रा बदलता है: “हा, हाँ।”
+पूरी सीक्वेंस के दौरान, कैमरा कप के अंदर ही रहता है, सूक्ष्म तरल गति, पिघलती बर्फ, तैरते बुलबुले और दृश्य पर खेलते हुए अपवर्तित प्रकाश के साथ एक सुसंगत परिप्रेक्ष्य बनाए रखता है, जो इमर्सिव, गैर-मानवीय दृष्टिकोण को बढ़ाता है। कोई संगीत नहीं
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30a5a7e71d31cc95cbc618f0ffa7db95/thumbnails/thumbnail.jpg" width="600" alt="POV Shot from Inside Slushy Cup">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30a5a7e71d31cc95cbc618f0ffa7db95/thumbnails/thumbnail.jpg" width="600" alt="स्लशी कप के अंदर से POV शॉट">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4733)**
 
 **लेखक:** [Yunan Helmy A](https://x.com/yunanhelmyart) | **स्रोत:** [Link](https://x.com/yunanhelmyart/status/2054561370868428937) | **प्रकाशित:** May 13, 2026
 
 ---
-### Luxury Beauty Brand Success Story Film
+### लक्ज़री ब्यूटी ब्रांड की सफलता की कहानी
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive cinematic script and prompt for a high-end beauty brand commercial featuring emotional storytelling and luxurious salon aesthetics.
+> एक हाई-एंड ब्यूटी ब्रांड कमर्शियल के लिए व्यापक सिनेमैटिक स्क्रिप्ट और प्रॉम्प्ट, जिसमें भावनात्मक कहानी और शानदार सैलून एस्थेटिक्स शामिल हैं।
 
 #### 📝 प्रॉम्पट
 
 ```
-Duration: 15 Seconds
-Style: Emotional Luxury Cinema • Feminine Success Story • Viral High-End Beauty Commercial
-Format: Vertical 9:16 • 8K UHD • IMAX Fashion Film • Dolby Atmos • Hyper Realism
+अवधि: 15 सेकंड
+शैली: इमोशनल लक्ज़री सिनेमा • फेमिनिन सक्सेस स्टोरी • वायरल हाई-एंड ब्यूटी कमर्शियल
+फॉर्मेट: वर्टिकल 9:16 • 8K UHD • IMAX फैशन फिल्म • Dolby Atmos • हाइपर रियलिज्म
 
-A hyper-realistic cinematic short film about two women building their dream beauty brand from the ground up. Inspired by luxury fashion campaigns, emotional Netflix-style storytelling, and viral “soft life” entrepreneur aesthetics. Elegant beauty salon with glowing LED mirrors, glossy cream marble floors, gold-accent décor, aesthetic makeup stations, luxury product shelves, soft sunlight rays, cinematic reflections, floating dust particles, dreamy lens flares, realistic beauty textures, smooth handheld IMAX camera movement, and ultra-premium fashion-commercial visuals.
+दो महिलाओं द्वारा शून्य से अपना सपनों का ब्यूटी ब्रांड बनाने पर आधारित एक हाइपर-रियलिस्टिक सिनेमैटिक शॉर्ट फिल्म। लक्ज़री फैशन कैंपेन, इमोशनल नेटफ्लिक्स-स्टाइल स्टोरीटेलिंग और वायरल "सॉफ्ट लाइफ" आंत्रप्रेन्योर एस्थेटिक्स से प्रेरित। चमकदार LED मिरर, ग्लॉसी क्रीम मार्बल फ्लोर, गोल्ड-एक्सेंट डेकोर, एस्थेटिक मेकअप स्टेशन, लक्ज़री प्रोडक्ट शेल्फ, सूरज की नरम किरणें, सिनेमैटिक रिफ्लेक्शन, तैरते हुए धूल के कण, ड्रीमी लेंस फ्लेयर्स, रियलिस्टिक ब्यूटी टेक्सचर, स्मूथ हैंडहेल्ड IMAX कैमरा मूवमेंट और अल्ट्रा-प्रीमियम फैशन-कमर्शियल विजुअल्स के साथ एक एलिगेंट ब्यूटी सैलून।
 
-The atmosphere feels emotional, feminine, rich, inspirational, and deeply cinematic — a story about friendship, ambition, sacrifice, and success.
+माहौल भावनात्मक, नारीत्व से भरपूर, समृद्ध, प्रेरणादायक और गहरा सिनेमैटिक है — यह दोस्ती, महत्वाकांक्षा, त्याग और सफलता की कहानी है।
 
-MAIN CHARACTERS:
-Two stylish young women with graceful confidence and powerful chemistry. Elegant luxury salon outfits in black, beige, and gold tones. Their energy feels calm, hardworking, emotional, and inspiring.
+मुख्य पात्र:
+दो स्टाइलिश युवा महिलाएं जिनमें शालीन आत्मविश्वास और जबरदस्त केमिस्ट्री है। काले, बेज और सुनहरे रंगों में एलिगेंट लक्ज़री सैलून आउटफिट। उनकी ऊर्जा शांत, मेहनती, भावनात्मक और प्रेरणादायक है।
 
-0–2 SEC:
-Black screen.
-Soft rain ambience.
-One light slowly turns on inside a dark luxury salon. Then another. Then another.
-Wide cinematic shot reveals the empty salon before sunrise. One woman wipes the mirror carefully while the other quietly arranges beauty tools beside glowing LED lights.
+0–2 सेकंड:
+ब्लैक स्क्रीन।
+हल्की बारिश का माहौल।
+एक अंधेरे लक्ज़री सैलून के अंदर धीरे-धीरे एक लाइट जलती है। फिर दूसरी। फिर तीसरी।
+वाइड सिनेमैटिक शॉट सूर्योदय से पहले खाली सैलून को दिखाता है। एक महिला सावधानी से शीशा पोंछती है जबकि दूसरी चुपचाप चमकती LED लाइट्स के बगल में ब्यूटी टूल्स व्यवस्थित करती है।
 
-Text Overlay:
-“They started with nothing but a dream…”
+टेक्स्ट ओवरले:
+“उन्होंने शुरुआत सिर्फ एक सपने के साथ की थी…”
 
-Sound: Emotional piano + distant rain ambience
+साउंड: इमोशनल पियानो + दूर से आती बारिश की आवाज
 
-2–5 SEC:
-Music beat begins softly.
-Fast cinematic beauty montage. Makeup powder floating through sunlight. Hair curling in ultra slow motion. Close-up of glossy lips, polished nails, jewelry sparkle, heels walking across marble floor, coffee cups beside appointment books, tired hands still working late.
+2–5 सेकंड:
+म्यूजिक बीट धीरे से शुरू होती है।
+फास्ट सिनेमैटिक ब्यूटी मोंटाज। सूरज की रोशनी में तैरता हुआ मेकअप पाउडर। अल्ट्रा स्लो मोशन में कर्ल होते बाल। ग्लॉसी होंठ, पॉलिश किए हुए नाखून, गहनों की चमक, मार्बल फ्लोर पर चलते हील्स, अपॉइंटमेंट बुक्स के बगल में कॉफी कप, देर रात तक काम करते थके हुए हाथ।
 
-Effects: Viral speed ramps, cinematic macro focus, luxury beauty glow, soft motion blur
+इफेक्ट्स: वायरल स्पीड रैम्प्स, सिनेमैटिक मैक्रो फोकस, लक्ज़री ब्यूटी ग्लो, सॉफ्ट मोशन ब्लर
 
-5–8 SEC:
-Salon transforms into a busy luxury space filled with happy clients. One woman styles long glossy hair while the other creates flawless makeup looks. Customers smile, laugh, record mirror selfies, and admire transformations.
+5–8 सेकंड:
+सैलून खुश ग्राहकों से भरे एक व्यस्त लक्ज़री स्पेस में बदल जाता है। एक महिला लंबे चमकदार बालों को स्टाइल करती है जबकि दूसरी शानदार मेकअप लुक तैयार करती है। ग्राहक मुस्कुराते हैं, हंसते हैं, मिरर सेल्फी लेते हैं और बदलाव की तारीफ करते हैं।
 
-Text Overlay:
-“Late nights turned into luxury.”
+टेक्स्ट ओवरले:
+“देर रात की मेहनत लक्ज़री में बदल गई।”
 
-Sound: Emotional cinematic music rises with soft bass pulse
+साउंड: इमोशनल सिनेमैटिक म्यूजिक सॉफ्ट बास पल्स के साथ बढ़ता है
 
-8–11 SEC:
-The music softens emotionally.
-Both women pause for a brief moment during the rush and look at each other through the mirror reflection. Proud smiles. Tired eyes. Silent realization that their dream became real.
+8–11 सेकंड:
+म्यूजिक भावनात्मक रूप से धीमा हो जाता है।
+भीड़ के बीच दोनों महिलाएं एक पल के लिए रुकती हैं और मिरर रिफ्लेक्शन के जरिए एक-दूसरे को देखती हैं। गर्व भरी मुस्कान। थकी हुई आंखें। यह खामोश एहसास कि उनका सपना सच हो गया है।
 
-Golden sunlight floods the salon creating breathtaking luxury visuals.
+सुनहरी धूप सैलून में भर जाती है, जो लुभावने लक्ज़री विजुअल्स बनाती है।
 
-Effects: Warm slow motion, dreamy reflections, cinematic lens flare, emotional close-ups
+इफेक्ट्स: वार्म स्लो मोशन, ड्रीमी रिफ्लेक्शन, सिनेमैटिक लेंस फ्लेयर, इमोशनल क्लोज-अप्स
 
-11–13 SEC:
-Luxury transformation reveal.
-Beautiful client stands up speechless after makeover. Hair flows perfectly in slow motion while mirrors reflect golden salon lights across the room. Everyone admires the transformation.
+11–13 सेकंड:
+लक्ज़री ट्रांसफॉर्मेशन रिवील।
+मेकओवर के बाद खूबसूरत क्लाइंट निशब्द होकर खड़ी हो जाती है। स्लो मोशन में बाल पूरी तरह से लहराते हैं जबकि शीशे पूरे कमरे में सुनहरी सैलून लाइट्स को रिफ्लेक्ट करते हैं। हर कोई इस बदलाव की प्रशंसा करता है।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/866d6528afc0591aadeeed5b9158bd02/thumbnails/thumbnail.jpg" width="600" alt="Luxury Beauty Brand Success Story Film">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/866d6528afc0591aadeeed5b9158bd02/thumbnails/thumbnail.jpg" width="600" alt="लक्ज़री ब्यूटी ब्रांड की सफलता की कहानी">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4729)**
 
 **लेखक:** [Sadia](https://x.com/SadiaMalik182) | **स्रोत:** [Link](https://x.com/SadiaMalik182/status/2054535444289953860) | **प्रकाशित:** May 13, 2026
 
 ---
-### Olympic Gymnast Balance Beam Performance
+### ओलंपिक जिम्नास्ट का बैलेंस बीम प्रदर्शन
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A high-fidelity video prompt for generating a cinematic sequence of an Olympic gymnast performing complex maneuvers on a balance beam, focusing on physical accuracy and atmosphere.
+> एक ओलंपिक जिम्नास्ट को बैलेंस बीम पर जटिल करतब दिखाते हुए एक सिनेमाई दृश्य उत्पन्न करने के लिए एक हाई-फिडेलिटी वीडियो प्रॉम्प्ट, जो शारीरिक सटीकता और माहौल पर केंद्रित है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Generate a story about a Chinese gymnast completing a super high-difficulty technical move in the balance beam final at the Paris Olympics. Precisely capture the extremely complex and physically dynamic somersault sequence on the beam. Starting from the first frame, use a Body Mount camera to quickly follow the athlete as she completes a side somersault into a triple forward tuck somersault. Then use an ultra-slow motion close-up to capture her extreme body control in the air, the movement of her white hair, and the details of her uniform, ensuring a realistic representation of gravity and physical laws. Finally, land steadily, and the camera pushes in on her confident face. Cinematic realism, 2.35:1 widescreen. Accompanied by the cheering and exciting atmosphere of a live Paris Olympics broadcast.
+पेरिस ओलंपिक में बैलेंस बीम फाइनल के दौरान एक चीनी जिम्नास्ट द्वारा बेहद कठिन तकनीकी मूव पूरा करने की कहानी तैयार करें। बीम पर बेहद जटिल और शारीरिक रूप से गतिशील समरसॉल्ट (somersault) सीक्वेंस को सटीक रूप से कैप्चर करें। पहले फ्रेम से ही, बॉडी माउंट कैमरे का उपयोग करके एथलीट का तेजी से पीछा करें, जब वह साइड समरसॉल्ट से ट्रिपल फॉरवर्ड टक समरसॉल्ट पूरा करती है। फिर हवा में उसके शरीर के अत्यधिक नियंत्रण, उसके सफेद बालों की हलचल और उसकी वर्दी के विवरण को कैप्चर करने के लिए अल्ट्रा-स्लो मोशन क्लोज-अप का उपयोग करें, जिससे गुरुत्वाकर्षण और भौतिक नियमों का यथार्थवादी चित्रण सुनिश्चित हो सके। अंत में, स्थिर होकर लैंड करें और कैमरा उसके आत्मविश्वास से भरे चेहरे पर ज़ूम-इन करे। सिनेमाई यथार्थवाद, 2.35:1 वाइडस्क्रीन। साथ में पेरिस ओलंपिक के लाइव प्रसारण का उत्साहपूर्ण और रोमांचक माहौल हो।
 ```
 
-<img src="https://cms-assets.youmind.com/media/1778742494583_69ote8_HIMpYj2W4AAWmhC.jpg" width="600" alt="Olympic Gymnast Balance Beam Performance">
+<img src="https://cms-assets.youmind.com/media/1778742494583_69ote8_HIMpYj2W4AAWmhC.jpg" width="600" alt="ओलंपिक जिम्नास्ट का बैलेंस बीम प्रदर्शन">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4758)**
 
 **लेखक:** [John](https://x.com/johnAGI168) | **स्रोत:** [Link](https://x.com/johnAGI168/status/2054532186628378780) | **प्रकाशित:** May 13, 2026
 
 ---
-### Hair Salon Makeover Reveal Video
+### हेयर सैलून मेकओवर रिवील वीडियो
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive cinematic script for a hair salon transformation video, detailing specific shots, lighting, character reactions, and background music.
+> हेयर सैलून ट्रांसफॉर्मेशन वीडियो के लिए एक व्यापक सिनेमैटिक स्क्रिप्ट, जिसमें विशिष्ट शॉट्स, लाइटिंग, पात्रों की प्रतिक्रियाएं और बैकग्राउंड म्यूजिक का विवरण दिया गया है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Image1 is the woman before makeover. 
-Image2 is the same woman after a stunning hair transformation.
-Image3 is the male hairstylist.
- 
-TikTok hair salon makeover reveal. 
+Image1 मेकओवर से पहले की महिला है।
+Image2 शानदार हेयर ट्रांसफॉर्मेशन के बाद वही महिला है।
+Image3 पुरुष हेयर स्टाइलिस्ट है।
 
-Shot 1 (0:00–0:04): The shy woman from Image1 sits in a salon chair, fidgeting nervously and touching her hair. The hairstylist from Image3 stands beside her, examining her hair and nodding. He smirks confidently at camera. Medium shot, slow dolly in. Warm amber salon lighting, mirrors in bokeh background. 
+TikTok हेयर सैलून मेकओवर रिवील।
 
-Shot 2 (0:04–0:07): The hairstylist from Image3 grins at camera, then reaches his open palm toward the lens. His hand grows larger until it completely covers the entire frame — screen goes dark. POV, wide lens. Dramatic whoosh then silence. 
+शॉट 1 (0:00–0:04): Image1 की शर्मीली महिला सैलून की कुर्सी पर बैठी है, घबराहट में अपने बालों को छू रही है। Image3 का हेयर स्टाइलिस्ट उसके बगल में खड़ा है, उसके बालों की जांच कर रहा है और सिर हिला रहा है। वह कैमरे की ओर आत्मविश्वास से मुस्कुराता है। मीडियम शॉट, स्लो डॉली इन। गर्म एम्बर सैलून लाइटिंग, बैकग्राउंड में बोकेह इफेक्ट वाले दर्पण।
 
-Shot 3 (0:07–0:08): Complete darkness — palm fills 100% of frame. One second of black. Total silence. 
+शॉट 2 (0:04–0:07): Image3 का हेयर स्टाइलिस्ट कैमरे की ओर मुस्कुराता है, फिर अपना खुला हाथ लेंस की ओर बढ़ाता है। उसका हाथ तब तक बड़ा होता जाता है जब तक कि वह पूरी स्क्रीन को कवर नहीं कर लेता — स्क्रीन काली हो जाती है। POV, वाइड लेंस। नाटकीय 'वूश' ध्वनि और फिर सन्नाटा।
 
-Shot 4 (0:08–0:10): Both hands pull away from lens. Golden light floods in with lens flare. The transformed woman from Image2 is revealed in the salon chair. POV perspective. Rising chime sound. 
+शॉट 3 (0:07–0:08): पूरी तरह अंधेरा — हथेली ने फ्रेम का 100% हिस्सा भर लिया है। एक सेकंड का कालापन। पूर्ण सन्नाटा।
 
-Shot 5 (0:10–0:13): The woman from Image2 stares at her reflection wide-eyed, freezes, then covers her mouth with both hands in shock. Eyes glistening with happy tears. Medium shot, slow dolly in to close-up. Beauty lighting with halo backlight on her hair, sparkle effects. K-pop beat drop. 
+शॉट 4 (0:08–0:10): दोनों हाथ लेंस से हटते हैं। लेंस फ्लेयर के साथ सुनहरी रोशनी भर जाती है। सैलून की कुर्सी पर Image2 की बदली हुई महिला दिखाई देती है। POV परिप्रेक्ष्य। उभरती हुई चाइम ध्वनि।
 
-Shot 6 (0:13–0:15): The woman from Image2 and hairstylist from Image3 together. She touches her new hair smiling radiantly. He gives thumbs-up to camera. Medium two-shot. Bright cheerful lighting. Music fading out. 
+शॉट 5 (0:10–0:13): Image2 की महिला अपनी आंखों को चौड़ा करके अपने प्रतिबिंब को देखती है, जम जाती है, फिर सदमे में अपने दोनों हाथों से अपना मुंह ढक लेती है। खुशी के आंसुओं से चमकती आंखें। मीडियम शॉट, क्लोज-अप के लिए स्लो डॉली इन। उसके बालों पर हेलो बैकलाइट के साथ ब्यूटी लाइटिंग, स्पार्कल इफेक्ट्स। K-pop बीट ड्रॉप।
 
-Style: Photorealistic, smartphone footage, slight film grain. Warm amber salon lighting. Shots 4–6 noticeably brighter and more glamorous than Shots 1–2. 
+शॉट 6 (0:13–0:15): Image2 की महिला और Image3 का हेयर स्टाइलिस्ट एक साथ। वह मुस्कुराते हुए अपने नए बालों को छूती है। वह कैमरे की ओर थम्स-अप देता है। मीडियम टू-शॉट। उज्ज्वल खुशनुमा लाइटिंग। म्यूजिक धीरे-धीरे कम होता है।
 
-Constraints: Woman in Shots 1–2 matches Image1. Woman in Shots 4–6 matches Image2. Hairstylist matches Image3 throughout. Hand covers 100% frame in Shot 3. No text. No logos. Stable, smooth. 2K.
+स्टाइल: फोटो-रियलिस्टिक, स्मार्टफोन फुटेज, हल्का फिल्म ग्रेन। गर्म एम्बर सैलून लाइटिंग। शॉट्स 4–6, शॉट्स 1–2 की तुलना में काफी अधिक उज्ज्वल और ग्लैमरस हैं।
 
-BGM:K-pop, future bass, female vocal, BPM 118, soft dreamy piano intro for 4 seconds, rising synth buildup from 4 to 7 seconds, 1 second total silence at 8 seconds, massive beat drop at 9 seconds with sparkling synths and powerful bass, feel-good melodic outro fading out, total length 15 seconds
+सीमाएं: शॉट्स 1–2 में महिला Image1 से मेल खाती है। शॉट्स 4–6 में महिला Image2 से मेल खाती है। हेयर स्टाइलिस्ट पूरे वीडियो में Image3 से मेल खाता है। शॉट 3 में हाथ 100% फ्रेम को कवर करता है। कोई टेक्स्ट नहीं। कोई लोगो नहीं। स्थिर, स्मूथ। 2K।
+
+BGM: K-pop, फ्यूचर बेस, महिला वोकल, BPM 118, 4 सेकंड के लिए सॉफ्ट ड्रीमी पियानो इंट्रो, 4 से 7 सेकंड तक राइजिंग सिंथ बिल्डअप, 8 सेकंड पर 1 सेकंड का पूर्ण सन्नाटा, 9 सेकंड पर स्पार्कलिंग सिंथ और शक्तिशाली बेस के साथ मैसिव बीट ड्रॉप, फील-गुड मेलोडिक आउट्रो जो धीरे-धीरे कम होता है, कुल लंबाई 15 सेकंड।
 ```
 
-<img src="https://cms-assets.youmind.com/media/1778742497378_uelllj_HIHtN3Ja0AANI5z.jpg" width="600" alt="Hair Salon Makeover Reveal Video">
+<img src="https://cms-assets.youmind.com/media/1778742497378_uelllj_HIHtN3Ja0AANI5z.jpg" width="600" alt="हेयर सैलून मेकओवर रिवील वीडियो">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4759)**
 
 **लेखक:** [AIギャル物語/AI gal's story](https://x.com/JPAI_HEAVEN) | **स्रोत:** [Link](https://x.com/JPAI_HEAVEN/status/2054525545942278461) | **प्रकाशित:** May 13, 2026
 
 ---
-### WWE Ringside Live Broadcast Simulation
+### WWE रिंगसाइड लाइव ब्रॉडकास्ट सिमुलेशन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A multi-scene prompt simulating a WWE broadcast, following a woman from ringside to a victory pose in the ring.
+> WWE ब्रॉडकास्ट को सिम्युलेट करने वाला एक मल्टी-सीन प्रॉम्प्ट, जो एक महिला का रिंगसाइड से रिंग में जीत के पोज़ तक का सफर दिखाता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-WWE Ringside Broadcast Video Prompt
-[0:00–0:03] CROWD REACTION SHOT
-9:16 vertical live WWE-style broadcast shot at a sold-out arena. A 24yo Indonesian-Korean woman with long straight black hair, porcelain skin, and elegant hourglass silhouette sits ringside beside the barricade in a VIP chair. Outfit matches reference image exactly: black fitted crop top, electric-blue satin cropped bomber jacket, dark navy leather mini skirt, sheer black mesh sleeve on left arm, glossy black knee-high boots.
-She smiles, laughs naturally, lightly claps, and lifts a branded arena soda cup while watching the match. Red-and-blue arena lights reflect across the barricade and LED panels.
-Commentators shout excitedly over loud crowd noise.
-“Arif N” physically engraved into the metallic armrest of the VIP chair.
-[0:03–0:06] BARRICADE VAULT
-Dynamic ringside tracking shot. The woman stands up, removes her blue bomber jacket, tosses it aside, then quickly climbs over the padded barricade toward the ring area. Crowd reacts loudly while security rushes into frame.
-Authentic WWE live-broadcast camera shake and autofocus breathing.
-“Arif N” stitched naturally inside the jacket collar.
-[0:06–0:10] RINGSIDE SPRINT
-Wide low-angle tracking shot beside the wrestling ring. She sprints across the arena floor in glossy black boots, hair flowing dramatically under sweeping spotlights and LED reflections. Fans wave signs and foam fingers behind the barricade.
-Commentators yell: “She’s heading to the ring!”
-“Arif N” engraved into the steel ring steps.
-[0:10–0:13] TOP-ROPE MOMENT
-Cinematic mid-wide ring shot. She slides under the ropes, climbs the turnbuckle, and raises one arm confidently while arena pyro erupts behind her. Massive crowd explosion.
-Fast whip-pan broadcast camera movement.
-“Arif N” embossed onto her black wrist tape.
-[0:13–0:15] VICTORY CLOSE-UP
-Medium close-up inside the ring with dramatic bokeh crowd background. She smiles victoriously toward the camera, then playfully pushes her hand toward the lens, creating realistic foreground blur and autofocus breathing.
-Deafening arena roar and excited WWE-style commentary.
-TECHNICAL STYLE
-Ultra-photorealistic WWE broadcast realism, cinematic arena lighting, shallow depth of field, subtle film grain, realistic crowd motion blur, LED reflections, authentic TV graphics aesthetic, dynamic handheld broadcast movement, highly detailed textures, glossy ring ropes and barricades.
-The text “Arif N” must always appear physically engraved, stitched, embossed, or branded onto real-world objects — never as a digital overlay.
+WWE रिंगसाइड ब्रॉडकास्ट वीडियो प्रॉम्प्ट
+[0:00–0:03] भीड़ की प्रतिक्रिया का शॉट
+9:16 वर्टिकल लाइव WWE-स्टाइल ब्रॉडकास्ट शॉट, एक खचाखच भरे एरिना में। 24 वर्षीय इंडोनेशियन-कोरियन महिला, जिसके लंबे सीधे काले बाल, दूधिया त्वचा और सुंदर ऑवरग्लास फिगर है, वह बैरिकेड के बगल में VIP कुर्सी पर रिंगसाइड बैठी है। पोशाक संदर्भ छवि (reference image) से बिल्कुल मेल खाती है: काली फिटेड क्रॉप टॉप, इलेक्ट्रिक-ब्लू साटन क्रॉप्ड बॉम्बर जैकेट, डार्क नेवी लेदर मिनी स्कर्ट, बाएं हाथ पर शीयर ब्लैक मेश स्लीव, चमकदार काले घुटने तक ऊंचे बूट्स।
+वह मुस्कुराती है, स्वाभाविक रूप से हंसती है, धीरे से ताली बजाती है और मैच देखते हुए ब्रांडेड एरिना सोडा कप उठाती है। लाल और नीले रंग की एरिना लाइट्स बैरिकेड और LED पैनल पर प्रतिबिंबित हो रही हैं।
+कमेंटेटर भीड़ के शोर के बीच उत्साह से चिल्ला रहे हैं।
+VIP कुर्सी के धात्विक आर्मरेस्ट पर "Arif N" भौतिक रूप से उकेरा (engraved) हुआ है।
+[0:03–0:06] बैरिकेड वॉल्ट
+डायनामिक रिंगसाइड ट्रैकिंग शॉट। महिला खड़ी होती है, अपनी नीली बॉम्बर जैकेट उतारती है, उसे एक तरफ फेंकती है, और फिर तेजी से पैडेड बैरिकेड के ऊपर से रिंग क्षेत्र की ओर चढ़ती है। भीड़ जोर से प्रतिक्रिया करती है जबकि सुरक्षाकर्मी फ्रेम में दौड़ते हैं।
+प्रामाणिक WWE लाइव-ब्रॉडकास्ट कैमरा शेक और ऑटोफोकस ब्रीदिंग।
+जैकेट के कॉलर के अंदर "Arif N" प्राकृतिक रूप से सिला हुआ है।
+[0:06–0:10] रिंगसाइड स्प्रिंट
+रेसलिंग रिंग के बगल में वाइड लो-एंगल ट्रैकिंग शॉट। वह चमकदार काले बूट्स पहनकर एरिना फ्लोर पर दौड़ती है, स्पॉटलाइट्स और LED रिफ्लेक्शंस के नीचे उसके बाल नाटकीय रूप से लहरा रहे हैं। प्रशंसक बैरिकेड के पीछे साइन और फोम फिंगर्स लहरा रहे हैं।
+कमेंटेटर चिल्लाते हैं: "वह रिंग की ओर बढ़ रही है!"
+स्टील रिंग स्टेप्स पर "Arif N" उकेरा हुआ है।
+[0:10–0:13] टॉप-रोप मोमेंट
+सिनेमैटिक मिड-वाइड रिंग शॉट। वह रस्सियों के नीचे से स्लाइड करती है, टर्नबकल पर चढ़ती है, और आत्मविश्वास के साथ एक हाथ ऊपर उठाती है जबकि उसके पीछे एरिना पायरो (आतिशबाजी) फटती है। भीड़ का जबरदस्त उत्साह।
+फास्ट व्हिप-पैन ब्रॉडकास्ट कैमरा मूवमेंट।
+उसकी काली रिस्ट टेप पर "Arif N" उभरा हुआ (embossed) है।
+[0:13–0:15] विक्ट्री क्लोज-अप
+रिंग के अंदर मीडियम क्लोज-अप, जिसमें बैकग्राउंड में भीड़ का नाटकीय बोकेह (bokeh) प्रभाव है। वह कैमरे की ओर विजयी मुस्कान के साथ देखती है, फिर चंचलता से अपना हाथ लेंस की ओर बढ़ाती है, जिससे यथार्थवादी फोरग्राउंड ब्लर और ऑटोफोकस ब्रीदिंग पैदा होती है।
+कानों को बहरा कर देने वाला एरिना का शोर और उत्साहित WWE-स्टाइल कमेंट्री।
+तकनीकी शैली
+अल्ट्रा-फोटो रियलिस्टिक WWE ब्रॉडकास्ट रियलिज्म, सिनेमैटिक एरिना लाइटिंग, शैलो डेप्थ ऑफ फील्ड, सूक्ष्म फिल्म ग्रेन, यथार्थवादी क्राउड मोशन ब्लर, LED रिफ्लेक्शंस, प्रामाणिक TV ग्राफिक्स एस्थेटिक, डायनामिक हैंडहेल्ड ब्रॉडकास्ट मूवमेंट, अत्यधिक विस्तृत टेक्सचर, चमकदार रिंग रस्सियाँ और बैरिकेड्स।
+"Arif N" टेक्स्ट हमेशा वास्तविक दुनिया की वस्तुओं पर भौतिक रूप से उकेरा हुआ, सिला हुआ, उभरा हुआ या ब्रांडेड होना चाहिए — कभी भी डिजिटल ओवरले के रूप में नहीं।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f47d61f5243f8a831ab371073242e9fb/thumbnails/thumbnail.jpg" width="600" alt="WWE Ringside Live Broadcast Simulation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f47d61f5243f8a831ab371073242e9fb/thumbnails/thumbnail.jpg" width="600" alt="WWE रिंगसाइड लाइव ब्रॉडकास्ट सिमुलेशन">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4737)**
 
 **लेखक:** [ShaHid WaNii](https://x.com/meng_dagg695) | **स्रोत:** [Link](https://x.com/meng_dagg695/status/2054515453444153506) | **प्रकाशित:** May 13, 2026
 
 ---
-### Soccer Stadium Woman Cheeseburger
+### सॉकर स्टेडियम में महिला और चीज़बर्गर
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A realistic sports broadcast prompt of a woman eating a burger in a soccer stadium crowd.
+> सॉकर स्टेडियम में भीड़ के बीच बर्गर खाती एक महिला का यथार्थवादी स्पोर्ट्स ब्रॉडकास्ट प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-“Ultra-realistic static image of a sports broadcast of a glamorous woman sitting in the crowd of a packed soccer stadium during a nighttime match, wearing a sleeveless high-neck satin top in dark brown and square black earrings, light brown/blonde shoulder-length hair styled in soft waves. She is casually drinking from a tall blue aluminum can while holding a half-eaten cheeseburger in the other hand. Around her are fans with soccer jerseys and scarves in bright yellow and blue, creating a strong team color contrast. The scene feels spontaneous and cinematic, captured mid-match from the angle of a TV broadcast camera with shallow depth of field. Include realistic stadium seats, packed audience atmosphere, overlaid broadcast graphics in the upper left corner showing a live soccer score and match timer, and a sports network watermark in the upper right. Natural arena lighting, detailed skin texture, sharp focus on the woman, slightly blurred background crowd, authentic live sports broadcast aesthetic, 16:9 composition”
+“रात के मैच के दौरान खचाखच भरे सॉकर स्टेडियम की भीड़ में बैठी एक ग्लैमरस महिला का स्पोर्ट्स ब्रॉडकास्ट जैसा अल्ट्रा-रियलिस्टिक स्थिर चित्र। उसने गहरे भूरे रंग का स्लीवलेस हाई-नेक साटन टॉप और चौकोर काले झुमके पहने हैं, और उसके कंधे तक के हल्के भूरे/सुनहरे बाल सॉफ्ट वेव्स में स्टाइल किए गए हैं। वह एक हाथ में आधा खाया हुआ चीज़बर्गर पकड़े हुए है और दूसरे हाथ से नीले रंग के लंबे एल्युमीनियम कैन से ड्रिंक पी रही है। उसके चारों ओर प्रशंसक चमकीले पीले और नीले रंग की सॉकर जर्सी और स्कार्फ पहने हुए हैं, जो टीम के रंगों का एक मजबूत कंट्रास्ट बना रहे हैं। यह दृश्य सहज और सिनेमाई लगता है, जिसे टीवी ब्रॉडकास्ट कैमरे के एंगल से शैलो डेप्थ ऑफ फील्ड के साथ मैच के बीच में कैप्चर किया गया है। इसमें यथार्थवादी स्टेडियम की सीटें, भीड़ का माहौल, ऊपरी बाएं कोने में लाइव सॉकर स्कोर और मैच टाइमर दिखाने वाले ब्रॉडकास्ट ग्राफिक्स, और ऊपरी दाएं कोने में स्पोर्ट्स नेटवर्क का वॉटरमार्क शामिल करें। प्राकृतिक एरिना लाइटिंग, विस्तृत त्वचा बनावट, महिला पर शार्प फोकस, पृष्ठभूमि में थोड़ी धुंधली भीड़, प्रामाणिक लाइव स्पोर्ट्स ब्रॉडकास्ट एस्थेटिक, 16:9 कंपोजिशन”
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fb727aa103c6edc19586ad328ebd3e93/thumbnails/thumbnail.jpg" width="600" alt="Soccer Stadium Woman Cheeseburger">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fb727aa103c6edc19586ad328ebd3e93/thumbnails/thumbnail.jpg" width="600" alt="सॉकर स्टेडियम में महिला और चीज़बर्गर">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4753)**
 
 **लेखक:** [Arcane Ai](https://x.com/Arcane_Aii) | **स्रोत:** [Link](https://x.com/Arcane_Aii/status/2054513002490327096) | **प्रकाशित:** May 13, 2026
 
 ---
-### Concert Stadium Blonde Woman Close-up
+### कॉन्सर्ट स्टेडियम में सुनहरे बालों वाली महिला का क्लोज-अप
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a joyful blonde woman at a concert, featuring realistic lighting and a music documentary aesthetic.
+> एक कॉन्सर्ट में खुशमिजाज सुनहरे बालों वाली महिला का सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें यथार्थवादी लाइटिंग और म्यूजिक डॉक्यूमेंट्री एस्थेटिक का उपयोग किया गया है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A cinematic 6-second close-up video based on the reference image. The same stunning blonde woman with blue eyes sits in the crowd at a packed concert stadium. Her expression is natural and joyful — she smiles softly, eyes warm and relaxed, as she enjoys the live music. Her long wavy hair moves gently. Behind her, blurred concertgoers naturally sway and hold up light sticks or phone lights. Soft purple and pink stage lighting shifts subtly across her face and the crowd. Realistic live music atmosphere, shallow depth of field, HBO-style music documentary aesthetic. Ultra-detailed skin texture, natural motion, no sudden movements. No anime, no cartoon, no CGI. 4K, smooth and cinematic.
+रेफरेंस इमेज पर आधारित 6 सेकंड का सिनेमैटिक क्लोज-अप वीडियो। वही शानदार नीली आंखों वाली सुनहरे बालों वाली महिला एक खचाखच भरे कॉन्सर्ट स्टेडियम में भीड़ के बीच बैठी है। उसके चेहरे के भाव स्वाभाविक और आनंदित हैं — वह धीरे से मुस्कुराती है, उसकी आंखें गर्मजोशी और सुकून से भरी हैं, क्योंकि वह लाइव संगीत का आनंद ले रही है। उसके लंबे लहरदार बाल धीरे-धीरे हिल रहे हैं। उसके पीछे, धुंधले कॉन्सर्ट में आए लोग स्वाभाविक रूप से झूम रहे हैं और लाइट स्टिक्स या फोन की लाइटें पकड़े हुए हैं। हल्के बैंगनी और गुलाबी रंग की स्टेज लाइटिंग उसके चेहरे और भीड़ पर धीरे-धीरे बदल रही है। यथार्थवादी लाइव म्यूजिक का माहौल, शैलो डेप्थ ऑफ फील्ड, HBO-स्टाइल म्यूजिक डॉक्यूमेंट्री एस्थेटिक। अल्ट्रा-डिटेल्ड स्किन टेक्सचर, स्वाभाविक गति, कोई अचानक हलचल नहीं। कोई एनीमे नहीं, कोई कार्टून नहीं, कोई CGI नहीं। 4K, स्मूथ और सिनेमैटिक।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b2655eb9ad7d8c5148907c503853db8/thumbnails/thumbnail.jpg" width="600" alt="Concert Stadium Blonde Woman Close-up">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b2655eb9ad7d8c5148907c503853db8/thumbnails/thumbnail.jpg" width="600" alt="कॉन्सर्ट स्टेडियम में सुनहरे बालों वाली महिला का क्लोज-अप">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4736)**
 
 **लेखक:** [Lady Julia Ana 👸🏼](https://x.com/4111J_) | **स्रोत:** [Link](https://x.com/4111J_/status/2054508344086589830) | **प्रकाशित:** May 13, 2026
 
 ---
-### Shibuya Street Photography POV
+### शिबुया स्ट्रीट फोटोग्राफी POV
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A POV street photography prompt set in Shibuya, featuring a conversation and posing session with a woman.
+> शिबुया में सेट एक POV स्ट्रीट फोटोग्राफी प्रॉम्प्ट, जिसमें एक महिला के साथ बातचीत और पोज़िंग सत्र शामिल है।
 
 #### 📝 प्रॉम्पट
 
 ```
-POV: First-person handheld shot of a young adult male street photographer walking casually through the extremely crowded streets of Shibuya, Japan on a sunny daytime, surrounded by hundreds of pedestrians rushing across the famous Shibuya Scramble Crossing, tall buildings with huge digital billboards, neon signs, and busy city atmosphere.
+POV: एक युवा वयस्क पुरुष स्ट्रीट फोटोग्राफर का फर्स्ट-पर्सन हैंडहेल्ड शॉट, जो धूप वाले दिन जापान के शिबुया की बेहद भीड़भाड़ वाली सड़कों पर इत्मीनान से चल रहा है। वह प्रसिद्ध शिबुया स्क्रैम्बल क्रॉसिंग पर दौड़ते हुए सैकड़ों पैदल यात्रियों, विशाल डिजिटल बिलबोर्ड वाली ऊंची इमारतों, नियॉन साइन्स और व्यस्त शहरी माहौल से घिरा हुआ है।
 
-@image as the exact character reference for the woman — her full appearance, face, hair, outfit, and style must strictly and perfectly match the uploaded reference image @image .
+@image महिला के लिए सटीक कैरेक्टर रेफरेंस के रूप में — उसका पूरा लुक, चेहरा, बाल, पोशाक और स्टाइल अपलोड की गई रेफरेंस इमेज @image से पूरी तरह और सटीक रूप से मेल खाना चाहिए।
 
-0-4 seconds: Natural handheld walking motion forward through the crowd. The photographer spots @image  standing at the edge of the sidewalk, fully focused and looking down at her smartphone.
+0-4 सेकंड: भीड़ के बीच आगे की ओर स्वाभाविक हैंडहेल्ड चलने की गति। फोटोग्राफर @image को फुटपाथ के किनारे खड़ा देखता है, जो पूरी तरह से अपने स्मार्टफोन पर ध्यान केंद्रित किए हुए है।
 
-4-7 seconds: He gently approaches closer to her. Photographer’s voice (friendly, clear English): “Hey there!”
+4-7 सेकंड: वह धीरे से उसके करीब आता है। फोटोग्राफर की आवाज़ (मैत्रीपूर्ण, स्पष्ट अंग्रेजी): “Hey there!”
 
-7-10 seconds: @image  looks up from her phone toward him with a warm, confident smile. Photographer: “You look absolutely beautiful in that outfit!”
+7-10 सेकंड: @image अपने फोन से ऊपर देखती है और उसकी ओर एक गर्मजोशी भरी, आत्मविश्वास से भरी मुस्कान के साथ देखती है। फोटोग्राफर: “You look absolutely beautiful in that outfit!”
 
-10-13 seconds: Photographer continues: “I’m a street photographer and I’d really love to take some photos of you if you’re okay with that?”
+10-13 सेकंड: फोटोग्राफर आगे कहता है: “I’m a street photographer and I’d really love to take some photos of you if you’re okay with that?”
 
-13-15 seconds: Woman @image  nods enthusiastically and replies in clear English: “Sure, that sounds fun! I’d love to pose for you.” She then strikes a graceful pose. Photographer’s hands raise the DSLR camera into the foreground (camera and hands visible in POV), framing her perfectly as if about to shoot. Gentle shutter click sound.
+13-15 सेकंड: महिला @image उत्साहपूर्वक सिर हिलाती है और स्पष्ट अंग्रेजी में जवाब देती है: “Sure, that sounds fun! I’d love to pose for you.” फिर वह एक सुंदर पोज़ देती है। फोटोग्राफर के हाथ DSLR कैमरे को फोरग्राउंड में उठाते हैं (POV में कैमरा और हाथ दिखाई दे रहे हैं), उसे बिल्कुल वैसे ही फ्रेम करते हैं जैसे फोटो खींचने वाला हो। शटर क्लिक की हल्की आवाज़।
 
-Cinematic realistic style, vibrant urban colors of busy Shibuya, bright daytime lighting with natural sunlight, sharp focus on the woman @image , dynamic crowded background with moving pedestrians, smooth natural handheld movement, high detail textures, friendly and positive atmosphere, clear audible English dialogue with natural lip sync, subtle city background sounds with footsteps, crowd chatter and traffic noise, enthusiastic yet respectful mood, 15-second video.
+सिनेमैटिक रियलिस्टिक स्टाइल, व्यस्त शिबुया के जीवंत शहरी रंग, प्राकृतिक धूप के साथ उज्ज्वल दिन की रोशनी, महिला @image पर शार्प फोकस, चलते-फिरते पैदल यात्रियों के साथ गतिशील भीड़भाड़ वाला बैकग्राउंड, सहज प्राकृतिक हैंडहेल्ड मूवमेंट, उच्च विस्तृत टेक्सचर, मैत्रीपूर्ण और सकारात्मक माहौल, प्राकृतिक लिप सिंक के साथ स्पष्ट सुनाई देने वाला अंग्रेजी संवाद, कदमों की आहट, भीड़ की बातचीत और ट्रैफिक के शोर के साथ सूक्ष्म शहरी बैकग्राउंड ध्वनियाँ, उत्साही लेकिन सम्मानजनक मूड, 15-सेकंड का वीडियो।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7645f33a63df4f8e651ec6a7cadc482/thumbnails/thumbnail.jpg" width="600" alt="Shibuya Street Photography POV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7645f33a63df4f8e651ec6a7cadc482/thumbnails/thumbnail.jpg" width="600" alt="शिबुया स्ट्रीट फोटोग्राफी POV">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4744)**
 
 **लेखक:** [TheYudayVerse](https://x.com/yuday9909) | **स्रोत:** [Link](https://x.com/yuday9909/status/2054504092291170671) | **प्रकाशित:** May 13, 2026
 
 ---
-### @happycapyai @aimikoda GPT Image 2 storyboard prom
+### @happycapyai @aimikoda GPT Image 2 स्टोरीबोर्ड प्रॉम्प्ट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
 #### 📝 प्रॉम्पट
 
 ```
-Create a professional cinematic previs storyboard sheet.
+एक प्रोफेशनल सिनेमैटिक प्रीविज़ (previs) स्टोरीबोर्ड शीट बनाएं।
 
-PROJECT: Forest Rebirth
-SEQUENCE: Aggressive Contemporary Dance
-DURATION: 15 seconds
-PANELS: 12
-GRID: 3x4
-ASPECT RATIO: 16:9
-TONE: intense, aggressive, dark magical fantasy
-PACING: fast-paced
+प्रोजेक्ट: Forest Rebirth
+सीक्वेंस: एग्रेसिव कंटेम्परेरी डांस
+अवधि: 15 सेकंड
+पैनल: 12
+ग्रिड: 3x4
+आस्पेक्ट रेशियो: 16:9
+टोन: इंटेंस, एग्रेसिव, डार्क मैजिकल फैंटेसी
+पेसिंग: तेज़-तर्रार
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fec08378fd970afb8c779ac67f8eb547/thumbnails/thumbnail.jpg" width="600" alt="@happycapyai @aimikoda GPT Image 2 storyboard prom">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fec08378fd970afb8c779ac67f8eb547/thumbnails/thumbnail.jpg" width="600" alt="@happycapyai @aimikoda GPT Image 2 स्टोरीबोर्ड प्रॉम्प्ट">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4745)**
 
@@ -1362,24 +1359,24 @@ PACING: fast-paced
 **लेखक:** [Marco "Shikoba" Riccetti](https://x.com/shikoba_86) | **स्रोत:** [Link](https://x.com/shikoba_86/status/2054474165478936800) | **प्रकाशित:** May 13, 2026
 
 ---
-### Cinematic Kung Fu Action Video
+### सिनेमैटिक कुंग फू एक्शन वीडियो
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-energy prompt for generating a kung fu performance video using specific character sheet and storyboard references.
+> विशिष्ट कैरेक्टर शीट और स्टोरीबोर्ड संदर्भों का उपयोग करके कुंग फू परफॉरमेंस वीडियो बनाने के लिए एक हाई-एनर्जी प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-Create a 15-second cinematic kung fu performance video.
+15 सेकंड का सिनेमैटिक कुंग फू परफॉरमेंस वीडियो बनाएं।
 
-Use @[image1]  as the fixed character sheet reference. The character must strictly match the character sheet.
-Use @[image2]  as the storyboard reference.
+@[image1] का उपयोग फिक्स्ड कैरेक्टर शीट संदर्भ के रूप में करें। कैरेक्टर को कैरेक्टर शीट से पूरी तरह मेल खाना चाहिए।
+@[image2] का उपयोग स्टोरीबोर्ड संदर्भ के रूप में करें।
 
-Follow the storyboard shot by shot as the main
+मुख्य रूप से स्टोरीबोर्ड के हर शॉट का पालन करें
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4630c04cf2d26f4e6deb2f2f88afaddb/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Kung Fu Action Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4630c04cf2d26f4e6deb2f2f88afaddb/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक कुंग फू एक्शन वीडियो">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4749)**
 
@@ -1405,145 +1402,146 @@ Follow the storyboard shot by shot as the main
 **लेखक:** [Eesha](https://x.com/MissDelulu9) | **स्रोत:** [Link](https://x.com/MissDelulu9/status/2054458460167880939) | **प्रकाशित:** May 13, 2026
 
 ---
-### Luxury Nail Polish Beauty Commercial
+### लक्ज़री नेल पॉलिश ब्यूटी कमर्शियल
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fast-paced beauty ad prompt featuring high-shine nail polish application with professional broadcast aesthetics.
+> प्रोफेशनल ब्रॉडकास्ट एस्थेटिक्स के साथ हाई-शाइन नेल पॉलिश एप्लिकेशन को दर्शाने वाला एक तेज़-तर्रार ब्यूटी विज्ञापन प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-A fast-paced, high-energy luxury beauty commercial featuring a confident young woman in a soft, glowing studio environment with clean pastel lighting, glossy reflections, and elegant highlights. The video opens with a macro close-up of a premium nail polish bottle slowly rotating under soft light, showcasing its crystal-clear glass, rich pigment, and metallic cap with a luxurious shine (0–3s).
-Quick cut to the woman gracefully picking up the bottle, her manicured nails already perfectly shaped, as she unscrews the cap with a smooth, satisfying twist sound, the brush emerging coated in thick, glossy polish (3–6s).
-Transition to an extreme close-up of her hand as she carefully applies the nail polish in one smooth stroke, the color spreading evenly with a rich, high-shine finish and flawless coverage (6–10s).
-Cut to a slow-motion shot of her fingers moving elegantly through soft light, showcasing the freshly painted nails reflecting a mirror-like gloss with subtle sparkles and luxury glow (10–13s).
-Final shot shows her confidently posing with her hand near her face, nails fully polished and radiant, while the nail polish bottle appears beside her with floating light particles and a soft cinematic glow (13–16s).
-Background music is upbeat, trendy, and sophisticated, matching a premium beauty ad vibe with smooth transitions, sharp cuts, and a polished, high-fashion aesthetic throughout.
+एक तेज़-तर्रार, हाई-एनर्जी लक्ज़री ब्यूटी कमर्शियल, जिसमें एक आत्मविश्वासी युवती को सॉफ्ट, ग्लोइंग स्टूडियो वातावरण में दिखाया गया है, जहाँ साफ़ पेस्टल लाइटिंग, ग्लॉसी रिफ्लेक्शंस और एलिगेंट हाइलाइट्स हैं। वीडियो की शुरुआत एक प्रीमियम नेल पॉलिश बोतल के मैक्रो क्लोज़-अप से होती है, जो सॉफ्ट लाइट में धीरे-धीरे घूम रही है, जिसमें इसका क्रिस्टल-क्लियर ग्लास, रिच पिगमेंट और लक्ज़री चमक वाला मेटैलिक कैप दिखाई दे रहा है (0–3 सेकंड)।
+क्विक कट के साथ युवती को खूबसूरती से बोतल उठाते हुए दिखाया गया है, उसके मैनीक्योर किए हुए नाखून पहले से ही परफेक्ट शेप में हैं, और वह एक स्मूथ, संतोषजनक ट्विस्ट साउंड के साथ कैप खोलती है, ब्रश बाहर निकलता है जो गाढ़ी, ग्लॉसी पॉलिश से ढका हुआ है (3–6 सेकंड)।
+उसके हाथ के एक्सट्रीम क्लोज़-अप पर ट्रांज़िशन होता है जहाँ वह सावधानी से एक स्मूथ स्ट्रोक में नेल पॉलिश लगाती है, रंग समान रूप से फैल रहा है, जिसमें एक रिच, हाई-शाइन फिनिश और निर्दोष कवरेज है (6–10 सेकंड)।
+स्लो-मोशन शॉट पर कट होता है जहाँ उसकी उंगलियां सॉफ्ट लाइट में खूबसूरती से हिल रही हैं, जो ताज़ा पेंट किए गए नाखूनों को दिखाती हैं, जो सूक्ष्म स्पार्कल और लक्ज़री ग्लो के साथ दर्पण जैसी चमक को रिफ्लेक्ट कर रहे हैं (10–13 सेकंड)।
+अंतिम शॉट में उसे आत्मविश्वास के साथ अपने चेहरे के पास हाथ रखकर पोज़ देते हुए दिखाया गया है, नाखून पूरी तरह से पॉलिश और चमकदार हैं, जबकि नेल पॉलिश की बोतल उसके बगल में तैरते हुए प्रकाश के कणों और एक सॉफ्ट सिनेमैटिक ग्लो के साथ दिखाई देती है (13–16 सेकंड)।
+बैकग्राउंड म्यूज़िक अपबीट, ट्रेंडी और सोफिस्टिकेटेड है, जो स्मूथ ट्रांज़िशन, शार्प कट्स और पूरे वीडियो में एक पॉलिश्ड, हाई-फैशन एस्थेटिक के साथ प्रीमियम ब्यूटी विज्ञापन के वाइब से मेल खाता है।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31172f84b8227fde3e2ebc618b8eda95/thumbnails/thumbnail.jpg" width="600" alt="Luxury Nail Polish Beauty Commercial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31172f84b8227fde3e2ebc618b8eda95/thumbnails/thumbnail.jpg" width="600" alt="लक्ज़री नेल पॉलिश ब्यूटी कमर्शियल">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4742)**
 
 **लेखक:** [Red chili 🌶️](https://x.com/Redchili105) | **स्रोत:** [Link](https://x.com/Redchili105/status/2054452325045895422) | **प्रकाशित:** May 13, 2026
 
 ---
-### IPL Style Couple Broadcast Photo
+### IPL स्टाइल कपल ब्रॉडकास्ट फोटो
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A tutorial for creating a realistic stadium broadcast shot of a couple during a cricket match using image-to-video techniques.
+> इमेज-टू-वीडियो तकनीकों का उपयोग करके क्रिकेट मैच के दौरान एक जोड़े के यथार्थवादी स्टेडियम ब्रॉडकास्ट शॉट को बनाने के लिए एक ट्यूटोरियल।
 
 #### 📝 प्रॉम्पट
 
 ```
-Create a photorealistic 16:9 live Indian cricket broadcast screenshot of a young couple captured from far away by a stadium zoom camera during an IPL-style night match.
-Use the provided face reference image for the man and keep his facial features highly accurate: same face shape, eyes, nose, lips, beard/stubble pattern, skin tone, hairstyle volume, and natural expression. Do not beautify or change his identity. He should look like the same person from the reference, only seated in a cricket stadium.
-Use the provided woman reference for the woman, but make her realistic and human, not doll-like. Keep her attractive but grounded with natural skin texture, realistic eyes, subtle imperfections, believable facial proportions, and soft candid expression.
-Scene:
-The couple is sitting among a dense crowd inside a packed Indian cricket stadium during a night match. They are not posing for the camera. They look like they were unexpectedly picked up by the long-range broadcast camera installed in the stadium. The camera is far away and zoomed in, like real IPL audience reaction shots.
-Important camera style:
-This should NOT look like a camera is directly in front of them.
-This should NOT look like a close DSLR portrait or staged photoshoot.
-Make it look like a telephoto broadcast zoom shot from across the stadium.
-Use long-lens compression, slightly flattened perspective, medium-wide crowd framing, mild atmospheric haze, subtle broadcast softness, minor motion blur, slight digital zoom artifacts, realistic compression noise, and live TV sharpness.
-The couple should be visible clearly, but not overly crisp or perfectly lit.
-Composition:
-Frame them from the audience section, with other spectators partially blocking the foreground and background. Some heads, shoulders, flags, and jerseys should naturally overlap the frame, making it feel like the broadcast camera is peeking through the crowd. The couple should be seated in the middle rows, not isolated. Keep surrounding fans close to them so they feel integrated in the stadium crowd.
-Pose and emotion:
-The man has his arm naturally around the woman’s shoulder and holds a red-and-silver soda can in his other hand. He wears a light blue casual shirt or a light checkered shirt, matching the cool blue stadium vibe. The woman wears a blue summer dress. They are looking at each other with shy, warm, candid chemistry, as if they just realized they are on the big screen. Their expressions should be natural, slightly surprised, and sweet, not posed.
-Lighting:
-Use only ambient stadium lighting and weak spill light from the cricket field. No cinematic spotlight. No dramatic key light. No beauty lighting. The couple should blend into the crowd brightness naturally, like a real live match broadcast. Skin tones should have natural stadium-light shadows and slight unevenness.
-Background:
-Packed Indian cricket stadium, night match atmosphere, fans in blue jerseys, waving flags, LED ribbon boards, stadium seating, blurred crowd movement, lively but realistic environment. The crowd should feel dense and natural, not generated or empty.
-Broadcast overlay:
-Add a Star Sports-style Indian cricket broadcast presentation:
+IPL स्टाइल के नाइट मैच के दौरान स्टेडियम ज़ूम कैमरे द्वारा दूर से कैप्चर किए गए एक युवा जोड़े का 16:9 फोटो-रियलिस्टिक लाइव इंडियन क्रिकेट ब्रॉडकास्ट स्क्रीनशॉट बनाएं।
+पुरुष के लिए दिए गए फेस रेफरेंस इमेज का उपयोग करें और उसके चेहरे की विशेषताओं को अत्यधिक सटीक रखें: वही चेहरा आकार, आंखें, नाक, होंठ, दाढ़ी/स्टबल पैटर्न, स्किन टोन, हेयरस्टाइल वॉल्यूम और स्वाभाविक अभिव्यक्ति। उसे सुंदर बनाने या उसकी पहचान बदलने की कोशिश न करें। वह रेफरेंस वाले व्यक्ति जैसा ही दिखना चाहिए, बस एक क्रिकेट स्टेडियम में बैठा हुआ।
+महिला के लिए दिए गए रेफरेंस का उपयोग करें, लेकिन उसे यथार्थवादी और मानवीय बनाएं, गुड़िया जैसा नहीं। उसे आकर्षक रखें लेकिन प्राकृतिक स्किन टेक्सचर, यथार्थवादी आंखों, सूक्ष्म खामियों, विश्वसनीय चेहरे के अनुपात और हल्की कैंडिड अभिव्यक्ति के साथ यथार्थवादी रखें।
+दृश्य:
+यह जोड़ा रात के मैच के दौरान एक खचाखच भरे इंडियन क्रिकेट स्टेडियम में घनी भीड़ के बीच बैठा है। वे कैमरे के लिए पोज़ नहीं दे रहे हैं। वे ऐसे दिख रहे हैं जैसे स्टेडियम में लगे लॉन्ग-रेंज ब्रॉडकास्ट कैमरे ने उन्हें अचानक कैप्चर कर लिया हो। कैमरा बहुत दूर है और ज़ूम इन है, जैसे असली IPL ऑडियंस रिएक्शन शॉट्स होते हैं।
+महत्वपूर्ण कैमरा स्टाइल:
+यह ऐसा नहीं दिखना चाहिए कि कैमरा सीधे उनके सामने है।
+यह क्लोज DSLR पोर्ट्रेट या स्टेज्ड फोटोशूट जैसा नहीं दिखना चाहिए।
+इसे स्टेडियम के दूसरी तरफ से टेलीफोटो ब्रॉडकास्ट ज़ूम शॉट जैसा बनाएं।
+लॉन्ग-लेंस कंप्रेशन, थोड़ा फ्लैट पर्सपेक्टिव, मीडियम-वाइड क्राउड फ्रेमिंग, हल्की वायुमंडलीय धुंध, सूक्ष्म ब्रॉडकास्ट सॉफ्टनेस, मामूली मोशन ब्लर, हल्का डिजिटल ज़ूम आर्टिफैक्ट्स, यथार्थवादी कंप्रेशन नॉइज़ और लाइव टीवी शार्पनेस का उपयोग करें।
+जोड़ा स्पष्ट रूप से दिखाई देना चाहिए, लेकिन बहुत अधिक क्रिस्प या पूरी तरह से लाइट में नहीं।
+कंपोजिशन:
+उन्हें ऑडियंस सेक्शन से फ्रेम करें, जिसमें अन्य दर्शक आंशिक रूप से फोरग्राउंड और बैकग्राउंड को ब्लॉक कर रहे हों। कुछ सिर, कंधे, झंडे और जर्सी स्वाभाविक रूप से फ्रेम को ओवरलैप करने चाहिए, जिससे ऐसा महसूस हो कि ब्रॉडकास्ट कैमरा भीड़ के बीच से झांक रहा है। जोड़े को बीच की पंक्तियों में बैठा होना चाहिए, अलग-थलग नहीं। आसपास के प्रशंसकों को उनके करीब रखें ताकि वे स्टेडियम की भीड़ में एकीकृत महसूस हों।
+पोज़ और भावना:
+पुरुष का हाथ स्वाभाविक रूप से महिला के कंधे पर है और दूसरे हाथ में लाल-और-सिल्वर सोडा कैन है। उसने हल्के नीले रंग की कैजुअल शर्ट या हल्की चेक वाली शर्ट पहनी है, जो स्टेडियम के कूल ब्लू वाइब से मेल खाती है। महिला ने नीले रंग की समर ड्रेस पहनी है। वे एक-दूसरे को शर्मीली, गर्मजोशी भरी, कैंडिड केमिस्ट्री के साथ देख रहे हैं, जैसे उन्हें अभी पता चला हो कि वे बड़ी स्क्रीन पर हैं। उनकी अभिव्यक्ति स्वाभाविक, थोड़ी हैरान करने वाली और प्यारी होनी चाहिए, पोज़ वाली नहीं।
+लाइटिंग:
+केवल एम्बिएंट स्टेडियम लाइटिंग और क्रिकेट फील्ड से आने वाली हल्की स्पिल लाइट का उपयोग करें। कोई सिनेमैटिक स्पॉटलाइट नहीं। कोई ड्रामेटिक की-लाइट नहीं। कोई ब्यूटी लाइटिंग नहीं। जोड़े को भीड़ की चमक में स्वाभाविक रूप से घुल-मिल जाना चाहिए, जैसे असली लाइव मैच ब्रॉडकास्ट में होता है। स्किन टोन में स्टेडियम-लाइट की प्राकृतिक छाया और हल्की असमानता होनी चाहिए।
+बैकग्राउंड:
+खचाखच भरा इंडियन क्रिकेट स्टेडियम, नाइट मैच का माहौल, नीली जर्सी में प्रशंसक, लहराते झंडे, LED रिबन बोर्ड, स्टेडियम सीटिंग, भीड़ की धुंधली हलचल, जीवंत लेकिन यथार्थवादी वातावरण। भीड़ घनी और प्राकृतिक महसूस होनी चाहिए, जनरेटेड या खाली नहीं।
+ब्रॉडकास्ट ओवरले:
+Star Sports-स्टाइल का इंडियन क्रिकेट ब्रॉडकास्ट प्रेजेंटेशन जोड़ें:
 
-channel watermark in the top corner, inspired by Indian sports TV
+ऊपरी कोने में चैनल वॉटरमार्क, जो इंडियन स्पोर्ट्स टीवी से प्रेरित हो
 
-LIVE tag
+LIVE टैग
 
-modern cricket scoreboard lower-third
+आधुनिक क्रिकेट स्कोरबोर्ड लोअर-थर्ड
 
-fictional team names only
+केवल काल्पनिक टीम के नाम
 
-fictional score, overs, wickets
+काल्पनिक स्कोर, ओवर, विकेट
 
-run rate or required run rate
+रन रेट या आवश्यक रन रेट
 
-batsman and bowler stats
+बल्लेबाज और गेंदबाज के आंकड़े
 
-small commentary ticker
+छोटा कमेंट्री टिकर
 
-clean layered TV graphics
+साफ लेयर्ड टीवी ग्राफिक्स
 
-Do not use real IPL team names, real player names, real sponsors, or real match details. Use fictional teams and fictional players.
-Quality:
-Ultra-photorealistic, authentic live sports telecast look, realistic human skin texture, natural fabric details, believable stadium zoom-camera perspective, subtle compression artifacts, slightly imperfect broadcast capture, candid audience reaction moment.Negative prompt:
-Do not make it look like a professional portrait photoshoot.
-Do not make the couple look directly into the camera.
-Do not use cinematic lighting.
-Do not isolate them from the crowd.
-Do not make the faces overly smooth or doll-like.
-Do not make the man’s face generic.
-Do not change the man’s identity from the reference image.
-Do not create fake plastic skin.
-Do not use real IPL team names or real player names.
-Do not make the scoreboard unreadable or messy.
-Do not make it look like a front-facing mobile photo.
+असली IPL टीम के नाम, असली खिलाड़ियों के नाम, असली प्रायोजक या असली मैच विवरण का उपयोग न करें। काल्पनिक टीमों और काल्पनिक खिलाड़ियों का उपयोग करें।
+क्वालिटी:
+अल्ट्रा-फोटो-रियलिस्टिक, प्रामाणिक लाइव स्पोर्ट्स टेलीकास्ट लुक, यथार्थवादी मानव स्किन टेक्सचर, प्राकृतिक कपड़े का विवरण, विश्वसनीय स्टेडियम ज़ूम-कैमरा पर्सपेक्टिव, सूक्ष्म कंप्रेशन आर्टिफैक्ट्स, थोड़ा अपूर्ण ब्रॉडकास्ट कैप्चर, कैंडिड ऑडियंस रिएक्शन मोमेंट।
+नेगेटिव प्रॉम्प्ट:
+इसे प्रोफेशनल पोर्ट्रेट फोटोशूट जैसा न बनाएं।
+जोड़े को सीधे कैमरे में न देखें।
+सिनेमैटिक लाइटिंग का उपयोग न करें।
+उन्हें भीड़ से अलग न करें।
+चेहरों को बहुत अधिक चिकना या गुड़िया जैसा न बनाएं।
+पुरुष के चेहरे को सामान्य न बनाएं।
+रेफरेंस इमेज से पुरुष की पहचान न बदलें।
+नकली प्लास्टिक स्किन न बनाएं।
+असली IPL टीम के नाम या असली खिलाड़ियों के नाम का उपयोग न करें।
+स्कोरबोर्ड को अपठनीय या गंदा न बनाएं।
+इसे सामने से ली गई मोबाइल फोटो जैसा न बनाएं।
 
 ---------------------------------------------
 
-Video Generation prompt:
+वीडियो जनरेशन प्रॉम्प्ट:
 
-Create a realistic 15-second single-take live IPL-style Indian cricket broadcast crowd cutaway during a packed night match. Telephoto long-lens zoom shot from far away in the stadium, like a professional audience camera operator spotting the couple naturally. Use realistic broadcast lens compression, slight softness, mild motion blur, subtle TV grain, digital compression artifacts, and authentic sports framing. No cuts, no angle changes, single continuous shot only.
+एक यथार्थवादी 15-सेकंड का सिंगल-टेक लाइव IPL-स्टाइल इंडियन क्रिकेट ब्रॉडकास्ट क्राउड कटअवे बनाएं, जो खचाखच भरे नाइट मैच के दौरान हो। स्टेडियम में बहुत दूर से टेलीफोटो लॉन्ग-लेंस ज़ूम शॉट, जैसे कोई प्रोफेशनल ऑडियंस कैमरा ऑपरेटर स्वाभाविक रूप से जोड़े को स्पॉट कर रहा हो। यथार्थवादी ब्रॉडकास्ट लेंस कंप्रेशन, हल्की सॉफ्टनेस, हल्का मोशन ब्लर, सूक्ष्म टीवी ग्रेन, डिजिटल कंप्रेशन आर्टिफैक्ट्स और प्रामाणिक स्पोर्ट्स फ्रेमिंग का उपयोग करें। कोई कट नहीं, कोई एंगल चेंज नहीं, केवल एक निरंतर शॉट।
 
-The couple must exactly match the reference image: Boyfriend preserves identical facial structure, hairstyle, stubble/beard pattern, skin tone, and natural expression. He wears the same light grey-blue small check shirt. One arm rests naturally around the girl’s shoulder. He holds a silver-and-red soda can in his other hand at the start. Girl matches exact appearance, hairstyle, makeup, and wears the same blue floral summer dress. Both remain seated throughout.
+जोड़ा रेफरेंस इमेज से बिल्कुल मेल खाना चाहिए: बॉयफ्रेंड की चेहरे की संरचना, हेयरस्टाइल, स्टबल/दाढ़ी का पैटर्न, स्किन टोन और प्राकृतिक अभिव्यक्ति बिल्कुल वैसी ही होनी चाहिए। उसने वही हल्के ग्रे-नीले रंग की छोटी चेक वाली शर्ट पहनी है। एक हाथ स्वाभाविक रूप से लड़की के कंधे पर है। दूसरे हाथ में शुरुआत में सिल्वर-और-रेड सोडा कैन है। लड़की का लुक, हेयरस्टाइल, मेकअप बिल्कुल वैसा ही है और उसने वही नीली फ्लोरल समर ड्रेस पहनी है। दोनों पूरे समय बैठे रहते हैं।
 
-Environment: Dense packed Indian cricket stadium at night, IPL energy, blue jerseys, stadium seats, LED boards, bright floodlights, natural ambient lighting. Couple embedded in crowd with partial heads/shoulders in foreground and background for authentic zoomed-in broadcast feel.
+वातावरण: रात में खचाखच भरा इंडियन क्रिकेट स्टेडियम, IPL एनर्जी, नीली जर्सी, स्टेडियम की सीटें, LED बोर्ड, तेज फ्लडलाइट्स, प्राकृतिक एम्बिएंट लाइटिंग। जोड़ा भीड़ में एम्बेडेड है, जिसमें फोरग्राउंड और बैकग्राउंड में आंशिक सिर/कंधे हैं ताकि प्रामाणिक ज़ूम-इन ब्रॉडकास्ट फील आए।
 
-Action timing (natural, subtle, non-staged):
+एक्शन टाइमिंग (स्वाभाविक, सूक्ष्म, बिना स्टेज वाला):
 
-0-4s: Camera lands smoothly on the couple. Boyfriend casually watches the match, relaxed smile reacting to stadium screen. Girl notices they’re on broadcast, smiles shyly, avoids direct eye contact. Slight natural surprise.
+0-4s: कैमरा सुचारू रूप से जोड़े पर लैंड करता है। बॉयफ्रेंड आराम से मैच देख रहा है, स्टेडियम स्क्रीन पर प्रतिक्रिया देते हुए हल्की मुस्कान। लड़की को पता चलता है कि वे ब्रॉडकास्ट पर हैं, शर्माते हुए मुस्कुराती है, सीधे आंखों में देखने से बचती है। थोड़ी प्राकृतिक हैरानी।
 
-4-7s: Boyfriend lifts soda can slightly in playful celebratory gesture (still focused on match). Girl becomes shy, briefly hides part of her smiling face with hands. Surrounding crowd reacts naturally.
+4-7s: बॉयफ्रेंड जश्न के संकेत में सोडा कैन को थोड़ा ऊपर उठाता है (अभी भी मैच पर ध्यान केंद्रित है)। लड़की शर्मा जाती है, संक्षेप में अपने हाथों से अपने मुस्कुराते चेहरे के हिस्से को छिपा लेती है। आसपास की भीड़ स्वाभाविक रूप से प्रतिक्रिया करती है।
 
-7-11s: Boyfriend lowers can, forms half-heart gesture with fingers toward girl. She shyly completes the heart. Subtle, spontaneous, believable. Nearby spectators cheer lightly and laugh.
+7-11s: बॉयफ्रेंड कैन नीचे करता है, लड़की की ओर उंगलियों से आधा दिल का आकार बनाता है। वह शर्माते हुए दिल पूरा करती है। सूक्ष्म, सहज, विश्वसनीय। पास के दर्शक हल्के से चीयर करते हैं और हंसते हैं।
 
-11-13s: Girl leans in for soft peck on his cheek. Boyfriend responds with proud grin and small laugh, still immersed in match atmosphere.
+11-13s: लड़की उसके गाल पर हल्का सा किस करने के लिए झुकती है। बॉयफ्रेंड गर्व भरी मुस्कान और हल्की हंसी के साथ प्रतिक्रिया देता है, अभी भी मैच के माहौल में डूबा हुआ है।
 
-13-15s: Both slightly embarrassed, soft smiles. Girl shyly hides smile and looks away. Boyfriend returns attention to cricket screen. Both stay seated comfortably.
+13-15s: दोनों थोड़े शर्मिंदा, हल्की मुस्कान। लड़की शर्माते हुए मुस्कान छिपाती है और दूसरी तरफ देखती है। बॉयफ्रेंड का ध्यान वापस क्रिकेट स्क्रीन पर। दोनों आराम से बैठे रहते हैं।
 
-Do NOT make them look directly at camera often. Minimal eye contact. No exaggerated acting. Feel like genuine live crowd moment.
+उन्हें बार-बार सीधे कैमरे की ओर न देखें। न्यूनतम आई कॉन्टैक्ट। कोई अतिरंजित अभिनय नहीं। यह एक वास्तविक लाइव क्राउड मोमेंट जैसा महसूस होना चाहिए।
 
-Broadcast graphics: Static IPL-style scorebug at bottom throughout (no changes). Fictional teams e.g. Mumbai Indians vs Chennai Super Kings, Score: MI 142/4 (16.2 overs), RR 8.75 | RRR 9.2. Batsman & bowler stats. LIVE tag. Top-corner channel watermark (e.g. STAR SPORTS LIVE).
+ब्रॉडकास्ट ग्राफिक्स: नीचे की तरफ स्टेटिक IPL-स्टाइल स्कोरबग (कोई बदलाव नहीं)। काल्पनिक टीमें जैसे मुंबई इंडियंस बनाम चेन्नई सुपर किंग्स, स्कोर: MI 142/4 (16.2 ओवर), RR 8.75 | RRR 9.2। बल्लेबाज और गेंदबाज के आंकड़े। LIVE टैग। ऊपरी कोने में चैनल वॉटरमार्क (जैसे STAR SPORTS LIVE)।
 
-Audio: Natural stadium ambience, distant cheering, crowd murmur, soft laughter during heart & kiss. Two male Indian cricket commentators casually reacting: “Look at that lovely moment in the crowd!” “Aww, heart gesture and a kiss – perfect IPL night!”
+ऑडियो: प्राकृतिक स्टेडियम एम्बिएंस, दूर की चीयरिंग, भीड़ की बड़बड़ाहट, दिल और किस के दौरान हल्की हंसी। दो पुरुष इंडियन क्रिकेट कमेंटेटर स्वाभाविक रूप से प्रतिक्रिया दे रहे हैं: “Look at that lovely moment in the crowd!” “Aww, heart gesture and a kiss – perfect IPL night!”
 
-No couple dialogue. No whispering. Preserve exact identities and wardrobe. Far-away telephoto broadcast look, not cinematic or close-up. Must feel authentic IPL live cutaway.
+कोई कपल डायलॉग नहीं। कोई फुसफुसाहट नहीं। सटीक पहचान और कपड़ों को सुरक्षित रखें। दूर का टेलीफोटो ब्रॉडकास्ट लुक, सिनेमैटिक या क्लोज-अप नहीं। यह प्रामाणिक IPL लाइव कटअवे जैसा महसूस होना चाहिए।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/415e0b9eadb44c9a16aae165437f9bbd/thumbnails/thumbnail.jpg" width="600" alt="IPL Style Couple Broadcast Photo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/415e0b9eadb44c9a16aae165437f9bbd/thumbnails/thumbnail.jpg" width="600" alt="IPL स्टाइल कपल ब्रॉडकास्ट फोटो">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4728)**
 
 **लेखक:** [Sonam](https://x.com/XSydneyFan) | **स्रोत:** [Link](https://x.com/XSydneyFan/status/2054443409881043384) | **प्रकाशित:** May 13, 2026
 
 ---
-### Historical Settlement Aerial Evolution
+### ऐतिहासिक बस्ती का हवाई विकास
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An aerial timelapse prompt for Seedance 2.0 that shows a riverside settlement evolving over thousands of years.
+> Seedance 2.0 के लिए एक हवाई टाइमलैप्स प्रॉम्प्ट, जो हजारों वर्षों में विकसित होती एक नदी के किनारे की बस्ती को दर्शाता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Locked-off ultra-wide cinematic aerial timelapse of the exact same riverside settlement evolving continuously across thousands of years, using the reference image as the permanent spatial foundation. The camera must remain
+हजारों वर्षों में निरंतर विकसित होती एक ही नदी के किनारे की बस्ती का लॉक-ऑफ अल्ट्रा-वाइड सिनेमैटिक एरियल टाइमलैप्स, जिसमें संदर्भ छवि (reference image) का उपयोग स्थायी स्थानिक आधार के रूप में किया गया है। कैमरा स्थिर रहना चाहिए
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/42a3ba51c459a9e84137c449b7fdcb6e/thumbnails/thumbnail.jpg" width="600" alt="Historical Settlement Aerial Evolution">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/42a3ba51c459a9e84137c449b7fdcb6e/thumbnails/thumbnail.jpg" width="600" alt="ऐतिहासिक बस्ती का हवाई विकास">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4747)**
 
@@ -1607,52 +1605,52 @@ Locked-off ultra-wide cinematic aerial timelapse of the exact same riverside set
 **लेखक:** [WasifAI](https://x.com/doctorwasif) | **स्रोत:** [Link](https://x.com/doctorwasif/status/2054428080073228770) | **प्रकाशित:** May 13, 2026
 
 ---
-### Gothic Vampire Ballroom Dance
+### गॉथिक वैम्पायर बॉलरूम डांस
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dark, orchestral fantasy prompt detailing a gothic ballroom scene where vampires start noticing a heroine.
+> एक डार्क, ऑर्केस्ट्रल फैंटेसी प्रॉम्प्ट जो एक गॉथिक बॉलरूम दृश्य का विवरण देता है जहाँ वैम्पायर एक नायिका को नोटिस करना शुरू करते हैं।
 
 #### 📝 प्रॉम्पट
 
 ```
-TITLE: “The Ballroom That Watches Back”
-DURATION: 15 seconds
-STYLE: Ultra cinematic, gothic fantasy, Netflix dark fantasy tone, 4K, shallow depth of field, dramatic lighting, slow motion moments, orchestral horror elegance
-🎥 SCENE BREAKDOWN (TIMELINE STYLE)
-0–3 sec (ESTABLISHING SHOT)
-A massive gothic ballroom inside a vampire palace.
-Crystal chandeliers flicker with warm dying light.
-Elegant vampires in Victorian-era luxury dresses and suits dance in slow motion.
-Camera slowly pushes forward through the crowd.
-3–6 sec (HEROIN ENTRY)
-A mysterious young heroine enters the ballroom.
-Her steps slow. Silence feels heavy.
-Everyone is still dancing… but slightly too perfectly.
-Camera cuts: every vampire subtly starts noticing her.
-6–9 sec (REALIZATION BUILD)
-Close-up on heroine’s face.
-She slowly realizes: every single vampire is now watching her.
-Dancing doesn’t stop… but all eyes shift toward her in sync.
-Violin music starts faintly (haunting, emotional, unstable tone).
-9–12 sec (EMOTIONAL BREAKDOWN)
-Music intensifies.
-Vampires’ expressions begin shifting: sadness, hunger, obsession, grief.
-Reality feels unstable. Candles flicker violently.
-Camera shakes slightly, surreal dream distortion begins.
-12–15 sec (CHAOS RELEASE)
-Music fully explodes into emotional violin chaos.
-Vampires lose control of elegance—some laugh, some cry, some freeze mid-dance.
-The heroine stands still in the center as everything collapses into emotional madness.
-Final shot: extreme close-up on her eye reflecting the entire burning ballroom emotion storm.
-🎧 AUDIO DIRECTION
-Start: soft classical piano + distant echo
-Entry: silence drop
-Build: single haunting violin note
-Chaos: full orchestral violin breakdown (emotional instability vibe)
+TITLE: “द बॉलरूम दैट वॉचेस बैक”
+DURATION: 15 सेकंड
+STYLE: अल्ट्रा सिनेमैटिक, गॉथिक फैंटेसी, Netflix डार्क फैंटेसी टोन, 4K, शैलो डेप्थ ऑफ फील्ड, ड्रामेटिक लाइटिंग, स्लो मोशन मोमेंट्स, ऑर्केस्ट्रल हॉरर एलिगेंस
+🎥 सीन ब्रेकडाउन (टाइमलाइन स्टाइल)
+0–3 सेकंड (एस्टैब्लिशिंग शॉट)
+एक वैम्पायर पैलेस के अंदर एक विशाल गॉथिक बॉलरूम।
+क्रिस्टल झूमर मरती हुई गर्म रोशनी के साथ टिमटिमा रहे हैं।
+विक्टोरियन-युग की लग्जरी ड्रेस और सूट पहने सुरुचिपूर्ण वैम्पायर स्लो मोशन में डांस कर रहे हैं।
+कैमरा धीरे-धीरे भीड़ के बीच से आगे बढ़ता है।
+3–6 सेकंड (नायिका का प्रवेश)
+एक रहस्यमयी युवा नायिका बॉलरूम में प्रवेश करती है।
+उसके कदम धीमे हो जाते हैं। सन्नाटा भारी महसूस होता है।
+हर कोई अभी भी डांस कर रहा है... लेकिन कुछ ज्यादा ही परफेक्शन के साथ।
+कैमरा कट: हर वैम्पायर सूक्ष्म रूप से उसे नोटिस करना शुरू कर देता है।
+6–9 सेकंड (रियलाइजेशन बिल्ड)
+नायिका के चेहरे का क्लोज-अप।
+उसे धीरे-धीरे एहसास होता है: हर एक वैम्पायर अब उसे देख रहा है।
+डांस नहीं रुकता... लेकिन सभी की नजरें एक साथ उसकी ओर मुड़ जाती हैं।
+वायलिन का संगीत धीमी गति से शुरू होता है (हॉन्टिंग, इमोशनल, अनस्टेबल टोन)।
+9–12 सेकंड (इमोशनल ब्रेकडाउन)
+संगीत तेज हो जाता है।
+वैम्पायर्स के हाव-भाव बदलने लगते हैं: उदासी, भूख, जुनून, दुख।
+हकीकत अस्थिर महसूस होती है। मोमबत्तियाँ तेजी से फड़फड़ाती हैं।
+कैमरा थोड़ा हिलता है, असली सपनों जैसा डिस्टॉर्शन शुरू होता है।
+12–15 सेकंड (केओस रिलीज)
+संगीत पूरी तरह से इमोशनल वायलिन के शोर में बदल जाता है।
+वैम्पायर अपनी शालीनता खो देते हैं—कुछ हंसते हैं, कुछ रोते हैं, कुछ डांस के बीच में ही जम जाते हैं।
+नायिका बीच में स्थिर खड़ी रहती है जबकि सब कुछ इमोशनल पागलपन में बदल जाता है।
+अंतिम शॉट: उसकी आँख का एक्सट्रीम क्लोज-अप जिसमें जलते हुए बॉलरूम का पूरा इमोशनल तूफान दिखाई दे रहा है।
+🎧 ऑडियो डायरेक्शन
+स्टार्ट: सॉफ्ट क्लासिकल पियानो + दूर की गूँज
+एंट्री: सन्नाटा
+बिल्ड: एक सिंगल हॉन्टिंग वायलिन नोट
+केओस: फुल ऑर्केस्ट्रल वायलिन ब्रेकडाउन (इमोशनल इंस्टेबिलिटी वाइब)
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f0a46c7e55835797626eb692eb94c43/thumbnails/thumbnail.jpg" width="600" alt="Gothic Vampire Ballroom Dance">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f0a46c7e55835797626eb692eb94c43/thumbnails/thumbnail.jpg" width="600" alt="गॉथिक वैम्पायर बॉलरूम डांस">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4726)**
 
@@ -1722,27 +1720,27 @@ Chaos: full orchestral violin breakdown (emotional instability vibe)
 **लेखक:** [Aaliyah | AI](https://x.com/The_Kremlinn) | **स्रोत:** [Link](https://x.com/The_Kremlinn/status/2054418680692228271) | **प्रकाशित:** May 13, 2026
 
 ---
-### Luxury Lip Gloss Beauty Commercial
+### लक्ज़री लिप ग्लॉस ब्यूटी कमर्शियल
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional beauty commercial prompt focusing on lip gloss application with cinematic lighting and macro shots.
+> एक प्रोफेशनल ब्यूटी कमर्शियल प्रॉम्प्ट जो सिनेमैटिक लाइटिंग और मैक्रो शॉट्स के साथ लिप ग्लॉस एप्लिकेशन पर केंद्रित है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Ultra-cinematic luxury lip gloss commercial featuring a confident beautiful young woman inside a glowing pastel beauty studio with soft pink and champagne lighting reflections. The video opens with an extreme macro shot of a premium lip gloss tube slowly rotating in mid-air with glossy reflections, luxury makeup-commercial aesthetic, liquid sparkles floating around the product, ultra-detailed packaging, cinematic beauty lighting. 
+अल्ट्रा-सिनेमैटिक लक्ज़री लिप ग्लॉस कमर्शियल, जिसमें एक आत्मविश्वासी और खूबसूरत युवती को हल्के गुलाबी और शैंपेन लाइटिंग रिफ्लेक्शंस वाले एक चमकते पेस्टल ब्यूटी स्टूडियो के अंदर दिखाया गया है। वीडियो की शुरुआत एक प्रीमियम लिप ग्लॉस ट्यूब के एक्सट्रीम मैक्रो शॉट से होती है, जो हवा में धीरे-धीरे घूम रही है, साथ ही ग्लॉसी रिफ्लेक्शंस, लक्ज़री मेकअप-कमर्शियल एस्थेटिक, उत्पाद के चारों ओर तैरते लिक्विड स्पार्कल, अल्ट्रा-डिटेल्ड पैकेजिंग और सिनेमैटिक ब्यूटी लाइटिंग दिखाई गई है।
 
-Quick transition to the girl picking up the lip gloss and opening it with a satisfying soft pop sound, camera focusing on the glossy applicator with rich wet texture and realistic shine. Smooth cinematic camera motion, shallow depth of field, ultra-beauty editorial vibe.
+तेज़ी से ट्रांज़िशन के साथ लड़की लिप ग्लॉस उठाती है और उसे एक संतोषजनक सॉफ्ट पॉप साउंड के साथ खोलती है, कैमरा समृद्ध वेट टेक्सचर और यथार्थवादी चमक वाले ग्लॉसी एप्लिकेटर पर केंद्रित होता है। स्मूथ सिनेमैटिक कैमरा मोशन, शैलो डेप्थ ऑफ फील्ड, अल्ट्रा-ब्यूटी एडिटोरियल वाइब।
 
-Extreme close-up of lips during application, soft glossy texture spreading smoothly across lips with hydrated glass-like shine, realistic skin texture, luxury makeup advertisement style, glowing reflections, subtle sparkle particles floating in frame.
+एप्लिकेशन के दौरान होठों का एक्सट्रीम क्लोज-अप, होठों पर स्मूथली फैलती सॉफ्ट ग्लॉसी टेक्सचर, हाइड्रेटेड ग्लास जैसी चमक, यथार्थवादी स्किन टेक्सचर, लक्ज़री मेकअप विज्ञापन शैली, चमकते रिफ्लेक्शंस और फ्रेम में तैरते सूक्ष्म स्पार्कल कण।
 
-Slow-motion beauty shots of hair movement, confident eye contact, glossy lips catching studio light beautifully, dreamy feminine atmosphere, clean luxury pastel background, smooth cinematic transitions, premium skincare-commercial mood.
+बालों की हलचल के स्लो-मोशन ब्यूटी शॉट्स, आत्मविश्वासी आई कॉन्टैक्ट, स्टूडियो लाइट को खूबसूरती से पकड़ते ग्लॉसी होंठ, स्वप्निल फेमिनिन वातावरण, साफ लक्ज़री पेस्टल बैकग्राउंड, स्मूथ सिनेमैटिक ट्रांज़िशन, प्रीमियम स्किनकेयर-कमर्शियल मूड।
 
-Final hero shot with the girl smiling confidently while holding the lip gloss near camera, floating sparkles, glossy reflections, glowing beauty aura, modern TikTok luxury beauty ad aesthetic, ultra-realistic, cinematic color grading, 4k beauty campaign quality, smooth motion blur, elegant camera work, premium makeup-commercial finish.
+अंतिम हीरो शॉट में लड़की कैमरे के पास लिप ग्लॉस पकड़े हुए आत्मविश्वास से मुस्कुरा रही है, तैरते हुए स्पार्कल, ग्लॉसी रिफ्लेक्शंस, चमकता हुआ ब्यूटी ऑरा, आधुनिक TikTok लक्ज़री ब्यूटी विज्ञापन एस्थेटिक, अल्ट्रा-रियलिस्टिक, सिनेमैटिक कलर ग्रेडिंग, 4k ब्यूटी कैंपेन क्वालिटी, स्मूथ मोशन ब्लर, एलिगेंट कैमरा वर्क, प्रीमियम मेकअप-कमर्शियल फिनिश।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8501b32d414b3377880ac4bbf73d3b4f/thumbnails/thumbnail.jpg" width="600" alt="Luxury Lip Gloss Beauty Commercial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8501b32d414b3377880ac4bbf73d3b4f/thumbnails/thumbnail.jpg" width="600" alt="लक्ज़री लिप ग्लॉस ब्यूटी कमर्शियल">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4741)**
 
@@ -1854,19 +1852,19 @@ Final hero shot with the girl smiling confidently while holding the lip gloss ne
 **लेखक:** [#𝐂𝐎𝐋𝐎𝐒𝐒𝐀𝐋𝐌𝐄𝐈𝐑𝐀𝐒🐽](https://x.com/colossalmeiraz) | **स्रोत:** [Link](https://x.com/colossalmeiraz/status/2054402433514688922) | **प्रकाशित:** May 13, 2026
 
 ---
-### Baseball Stadium Broadcast Reaction Shot
+### बेसबॉल स्टेडियम ब्रॉडकास्ट रिएक्शन शॉट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a woman reacting to a baseball game, featuring realistic broadcast lighting and shallow depth of field.
+> एक महिला की बेसबॉल गेम पर प्रतिक्रिया का सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें यथार्थवादी ब्रॉडकास्ट लाइटिंग और शैलो डेप्थ ऑफ फील्ड शामिल है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Cinematic, ultra-realistic video of a stunning young woman with long, flowing brown hair sitting in the stands at a baseball game. She is wearing a white baseball jersey with bold red lettering. She has heavy, glamorous makeup with winged eyeliner and a soft matte finish. She is seen taking a sip of a dark beverage from a clear plastic cup, then looking directly into the camera with a subtle, confident smile and clapping. The background shows a blurry stadium audience and a digital sports broadcast scoreboard in the upper corner. 8K resolution, shallow depth of field, sharp focus on her face, professional broadcast lighting.
+एक बेसबॉल गेम के स्टैंड में बैठी लंबी, लहराते भूरे बालों वाली एक खूबसूरत युवती का सिनेमैटिक, अल्ट्रा-रियलिस्टिक वीडियो। उसने बोल्ड लाल अक्षरों वाली सफेद बेसबॉल जर्सी पहनी हुई है। उसने विंग्ड आईलाइनर और सॉफ्ट मैट फिनिश के साथ हैवी, ग्लैमरस मेकअप किया है। उसे एक पारदर्शी प्लास्टिक कप से डार्क ड्रिंक की चुस्की लेते हुए, फिर सीधे कैमरे की ओर देखकर हल्की, आत्मविश्वास भरी मुस्कान के साथ ताली बजाते हुए देखा जा सकता है। बैकग्राउंड में धुंधले स्टेडियम के दर्शक और ऊपरी कोने में डिजिटल स्पोर्ट्स ब्रॉडकास्ट स्कोरबोर्ड दिखाई दे रहा है। 8K रिज़ॉल्यूशन, शैलो डेप्थ ऑफ फील्ड, चेहरे पर शार्प फोकस, प्रोफेशनल ब्रॉडकास्ट लाइटिंग।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fa842f5a48771e068e2987018a68c1e6/thumbnails/thumbnail.jpg" width="600" alt="Baseball Stadium Broadcast Reaction Shot">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fa842f5a48771e068e2987018a68c1e6/thumbnails/thumbnail.jpg" width="600" alt="बेसबॉल स्टेडियम ब्रॉडकास्ट रिएक्शन शॉट">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4730)**
 
@@ -1934,92 +1932,92 @@ Cinematic, ultra-realistic video of a stunning young woman with long, flowing br
 **लेखक:** [Taaruk](https://x.com/Taaruk_) | **स्रोत:** [Link](https://x.com/Taaruk_/status/2054389866096701826) | **प्रकाशित:** May 13, 2026
 
 ---
-### Whimsical Chibi Breakfast Scene
+### मनमोहक चिबी ब्रेकफास्ट सीन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 3D render prompt for a cozy morning scene with a chibi girl and anthropomorphic breakfast items.
+> एक चिबी लड़की और मानवीकृत नाश्ते की वस्तुओं के साथ आरामदायक सुबह के दृश्य के लिए एक 3D रेंडर प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-Create ultra-fine highly detailed 3D render of whimsical morning scene, features a realistic Chibi style cute girl sits leaning against oversized coffee mug, she is surrounded by stylized anthropomorphic breakfast items such as Pancakes, breakfast sides, cereal and juice. Cozy sunlit bedroom setting, bright morning light, soft creams, warm tans, pastel accents color palette, 8K UHD.
+एक मनमोहक सुबह के दृश्य का अल्ट्रा-फाइन और अत्यधिक विस्तृत 3D रेंडर बनाएं, जिसमें एक यथार्थवादी चिबी स्टाइल वाली प्यारी लड़की एक बड़े कॉफी मग के सहारे बैठी है। वह पैनकेक, नाश्ते के साइड डिश, अनाज और जूस जैसी मानवीकृत नाश्ते की वस्तुओं से घिरी हुई है। आरामदायक धूप वाला बेडरूम, सुबह की उज्ज्वल रोशनी, सॉफ्ट क्रीम, वार्म टैन और पेस्टल रंगों का पैलेट, 8K UHD।
 ```
 
-<img src="https://cms-assets.youmind.com/media/1778742477231_0zho8l_HIKlxt2aYAAEkAR.jpg" width="600" alt="Whimsical Chibi Breakfast Scene">
+<img src="https://cms-assets.youmind.com/media/1778742477231_0zho8l_HIKlxt2aYAAEkAR.jpg" width="600" alt="मनमोहक चिबी ब्रेकफास्ट सीन">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4740)**
 
 **लेखक:** [Zyrella](https://x.com/Zyrellix) | **स्रोत:** [Link](https://x.com/Zyrellix/status/2054386686847861191) | **प्रकाशित:** May 13, 2026
 
 ---
-### Apocalyptic Dying Star Sci-Fi Sequence
+### सर्वनाशकारी मरते हुए तारे का साइंस-फिक्शन दृश्य
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dramatic video prompt for a sci-fi sequence depicting the final moments of humanity as the sun expands and fractures.
+> एक साइंस-फिक्शन दृश्य के लिए एक नाटकीय वीडियो प्रॉम्प्ट, जो मानवता के अंतिम क्षणों को दर्शाता है जब सूर्य फैलता है और टूट जाता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A cinematic apocalyptic sci-fi sequence capturing humanity’s final moments beneath a dying star.
+एक सिनेमाई सर्वनाशकारी साइंस-फिक्शन दृश्य जो एक मरते हुए तारे के नीचे मानवता के अंतिम क्षणों को कैद करता है।
 
-0–3s: Scientists inside a massive observatory stare at monitors flashing critical solar warnings. Outside, daylight suddenly shifts into an unnatural deep orange glow. People stop in the streets and look upward.
+0–3 सेकंड: एक विशाल वेधशाला के अंदर वैज्ञानिक महत्वपूर्ण सौर चेतावनियों को चमकते हुए मॉनिटर पर देख रहे हैं। बाहर, दिन का उजाला अचानक एक अप्राकृतिक गहरे नारंगी रंग में बदल जाता है। लोग सड़कों पर रुक जाते हैं और ऊपर की ओर देखते हैं।
 
-3–6s: The sun begins expanding visibly in the sky. Solar flares erupt like gigantic waves of fire. Emergency alarms echo worldwide while satellites and aircraft malfunction midair.
+3–6 सेकंड: सूर्य आकाश में स्पष्ट रूप से फैलने लगता है। सौर ज्वालाएं आग की विशाल लहरों की तरह फूटती हैं। दुनिया भर में आपातकालीन अलार्म गूंजते हैं जबकि उपग्रह और विमान हवा में ही खराब हो जाते हैं।
 
-6–9s: Massive cinematic wide shot — the sun slowly fractures in terrifying slow motion, sending glowing shockwaves across space. Clouds ignite with orange and crimson light as oceans and cities reflect the burning sky.
+6–9 सेकंड: विशाल सिनेमाई वाइड शॉट — सूर्य धीरे-धीरे भयावह धीमी गति में टूट रहा है, जो अंतरिक्ष में चमकती शॉकवेव्स भेज रहा है। बादल नारंगी और गहरे लाल रंग की रोशनी से जल उठते हैं जबकि महासागर और शहर जलते हुए आकाश को प्रतिबिंबित करते हैं।
 
-9–12s: Emotional close-ups of scientists and civilians watching helplessly in silence. Gravity distortions ripple through the atmosphere. Ash and glowing particles drift through empty streets as power grids fail.
+9–12 सेकंड: वैज्ञानिकों और नागरिकों के भावनात्मक क्लोज-अप जो असहाय होकर खामोशी से देख रहे हैं। गुरुत्वाकर्षण में विकृति वायुमंडल में लहरें पैदा करती है। राख और चमकते कण खाली सड़कों पर तैर रहे हैं क्योंकि पावर ग्रिड विफल हो जाते हैं।
 
-12–15s: Final ultra-wide shot from Earth’s surface. The exploding sun fills the horizon like a cosmic firestorm while the entire sky becomes blinding white and gold. Sound fades into silence before complete blackout.
+12–15 सेकंड: पृथ्वी की सतह से अंतिम अल्ट्रा-वाइड शॉट। फटता हुआ सूर्य क्षितिज को एक ब्रह्मांडीय अग्नि-तूफान की तरह भर देता है जबकि पूरा आकाश चमकदार सफेद और सुनहरे रंग का हो जाता है। पूर्ण ब्लैकआउट से पहले ध्वनि सन्नाटे में बदल जाती है।
 
-Style: ultra cinematic realism, cosmic-scale destruction, emotional sci-fi atmosphere, IMAX-level visuals, volumetric fire and plasma effects, realistic astrophysics-inspired lighting, dramatic sound design feel, film-grade apocalyptic color grading.
+शैली: अल्ट्रा सिनेमाई यथार्थवाद, ब्रह्मांडीय-स्तर का विनाश, भावनात्मक साइंस-फिक्शन वातावरण, IMAX-स्तर के दृश्य, वॉल्यूमेट्रिक आग और प्लाज्मा प्रभाव, यथार्थवादी खगोल भौतिकी-प्रेरित प्रकाश व्यवस्था, नाटकीय साउंड डिज़ाइन फील, फिल्म-ग्रेड सर्वनाशकारी कलर ग्रेडिंग।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e4fa6a752719c1f137a3c667eb4d415/thumbnails/thumbnail.jpg" width="600" alt="Apocalyptic Dying Star Sci-Fi Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e4fa6a752719c1f137a3c667eb4d415/thumbnails/thumbnail.jpg" width="600" alt="सर्वनाशकारी मरते हुए तारे का साइंस-फिक्शन दृश्य">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4735)**
 
 **लेखक:** [Nawal](https://x.com/nawalsehar) | **स्रोत:** [Link](https://x.com/nawalsehar/status/2054381139876536646) | **प्रकाशित:** May 13, 2026
 
 ---
-### Surreal Sports Broadcast Reaction
+### अवास्तविक स्पोर्ट्स ब्रॉडकास्ट रिएक्शन
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A cinematic video prompt describing a candid moment from a live sports broadcast, featuring a female fan in the stadium audience with realistic textures and broadcast overlays.
+> एक लाइव स्पोर्ट्स ब्रॉडकास्ट के सहज पल का वर्णन करने वाला एक सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें स्टेडियम में मौजूद एक महिला प्रशंसक, यथार्थवादी बनावट और ब्रॉडकास्ट ओवरले शामिल हैं।
 
 #### 📝 प्रॉम्पट
 
 ```
-Surreal static broadcast image of a sports event, featuring a charismatic woman sitting in the crowded stands of a soccer stadium during a night game. She is wearing a dark brown sleeveless high-neck satin top and black square earrings, with shoulder-length light brown/blonde hair styled in soft waves. She is casually drinking from a tall blue aluminum can, with the other hand holding a half-eaten cheeseburger. Surrounding her are fans in vibrant yellow and blue soccer jerseys and scarves, creating a strong team color contrast. The scene feels realistic and cinematic, captured from a TV broadcast camera angle at midfield with a shallow depth of field. Includes realistic stadium seating, a crowded audience atmosphere, a broadcast overlay graphic in the top left showing real-time scores and game timers, and a sports network watermark in the top right. Natural arena lighting, detailed skin textures, sharp focus on the woman, slightly blurred background crowd, authentic live sports broadcast aesthetic, 16:9 composition.
+एक स्पोर्ट्स इवेंट की अवास्तविक स्थिर ब्रॉडकास्ट छवि, जिसमें रात के मैच के दौरान फुटबॉल स्टेडियम की खचाखच भरी दर्शक दीर्घा में बैठी एक आकर्षक महिला दिखाई दे रही है। उसने गहरे भूरे रंग का स्लीवलेस हाई-नेक साटन टॉप और काले चौकोर झुमके पहने हुए हैं, और उसके कंधे तक के हल्के भूरे/सुनहरे बाल सॉफ्ट वेव्स में स्टाइल किए गए हैं। वह लापरवाही से एक लंबी नीली एल्युमीनियम कैन से पी रही है, और दूसरे हाथ में आधा खाया हुआ चीज़बर्गर पकड़े हुए है। उसके चारों ओर प्रशंसक जीवंत पीले और नीले रंग की फुटबॉल जर्सी और स्कार्फ पहने हुए हैं, जो टीम के रंगों का एक मजबूत कंट्रास्ट पैदा कर रहे हैं। यह दृश्य यथार्थवादी और सिनेमैटिक लगता है, जिसे मिडफील्ड से टीवी ब्रॉडकास्ट कैमरा एंगल और उथले डेप्थ ऑफ फील्ड के साथ कैप्चर किया गया है। इसमें यथार्थवादी स्टेडियम सीटिंग, भीड़भाड़ वाला माहौल, ऊपर बाईं ओर रीयल-टाइम स्कोर और गेम टाइमर दिखाने वाला एक ब्रॉडकास्ट ओवरले ग्राफिक, और ऊपर दाईं ओर एक स्पोर्ट्स नेटवर्क वॉटरमार्क शामिल है। प्राकृतिक एरिना लाइटिंग, विस्तृत त्वचा बनावट, महिला पर शार्प फोकस, थोड़ा धुंधला बैकग्राउंड क्राउड, प्रामाणिक लाइव स्पोर्ट्स ब्रॉडकास्ट एस्थेटिक, 16:9 कंपोजिशन।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b08ba88befe15b0c41c037b32234b9b/thumbnails/thumbnail.jpg" width="600" alt="Surreal Sports Broadcast Reaction">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b08ba88befe15b0c41c037b32234b9b/thumbnails/thumbnail.jpg" width="600" alt="अवास्तविक स्पोर्ट्स ब्रॉडकास्ट रिएक्शन">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4754)**
 
 **लेखक:** [熊三金Cole🐬TermMax](https://x.com/x_sanjin) | **स्रोत:** [Link](https://x.com/x_sanjin/status/2054378091871387682) | **प्रकाशित:** May 13, 2026
 
 ---
-### Glamorous Woman Stadium Broadcast
+### ग्लैमरस महिला का स्टेडियम प्रसारण
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A realistic sports broadcast style prompt of a glamorous woman eating a burger and drinking at a night football match.
+> एक ग्लैमरस महिला के रात के फुटबॉल मैच में बर्गर खाने और ड्रिंक पीने का यथार्थवादी स्पोर्ट्स ब्रॉडकास्ट स्टाइल प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-Ultra-realistic live sports broadcast shot of a glamorous woman sitting among a packed football stadium crowd during a night match. She wears a dark brown sleeveless satin high-neck top with black square earrings, while her shoulder-length blonde/light brown hair flows in soft waves. She casually drinks from a tall blue aluminum can while holding a half-eaten cheeseburger in the other hand.
+रात के मैच के दौरान खचाखच भरे फुटबॉल स्टेडियम में बैठी एक ग्लैमरस महिला का अल्ट्रा-रियलिस्टिक लाइव स्पोर्ट्स ब्रॉडकास्ट शॉट। उसने गहरे भूरे रंग का स्लीवलेस साटन हाई-नेक टॉप और काले चौकोर झुमके पहने हैं, जबकि उसके कंधे तक के सुनहरे/हल्के भूरे बाल नरम लहरों में हैं। वह एक हाथ में आधा खाया हुआ चीज़बर्गर पकड़े हुए दूसरे हाथ से नीले रंग के लंबे एल्युमीनियम कैन से ड्रिंक पी रही है।
 
-Surrounded by passionate fans dressed in bright yellow and blue jerseys and scarves, creating a dramatic Al Nassr vs Al Hilal atmosphere. The image feels cinematic and candid, captured from a real TV broadcast camera angle with shallow depth of field.
+वह चमकीले पीले और नीले रंग की जर्सी और स्कार्फ पहने उत्साही प्रशंसकों से घिरी हुई है, जो Al Nassr बनाम Al Hilal का नाटकीय माहौल बना रहे हैं। यह छवि सिनेमाई और कैंडिड महसूस होती है, जिसे एक वास्तविक टीवी ब्रॉडकास्ट कैमरा एंगल से उथले डेप्थ ऑफ फील्ड के साथ कैप्चर किया गया है।
 
-Include realistic stadium seating, energetic crowd atmosphere, live football score graphics and match timer in the top-left corner, plus a sports network watermark in the top-right. Natural stadium lighting, ultra-detailed skin texture, sharp focus on the woman with a softly blurred crowd background, authentic sports broadcast aesthetic, 16:9 composition.
+इसमें यथार्थवादी स्टेडियम सीटिंग, ऊर्जावान भीड़ का माहौल, ऊपर-बाएँ कोने में लाइव फुटबॉल स्कोर ग्राफिक्स और मैच टाइमर, और ऊपर-दाएँ कोने में स्पोर्ट्स नेटवर्क का वॉटरमार्क शामिल करें। प्राकृतिक स्टेडियम लाइटिंग, अल्ट्रा-डिटेल्ड स्किन टेक्सचर, महिला पर शार्प फोकस और बैकग्राउंड में धुंधली भीड़, प्रामाणिक स्पोर्ट्स ब्रॉडकास्ट एस्थेटिक, 16:9 कंपोजिशन।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d2833ef881e922ee7058afd4b3b5868/thumbnails/thumbnail.jpg" width="600" alt="Glamorous Woman Stadium Broadcast">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d2833ef881e922ee7058afd4b3b5868/thumbnails/thumbnail.jpg" width="600" alt="ग्लैमरस महिला का स्टेडियम प्रसारण">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4755)**
 
@@ -2921,6 +2919,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-05-14T07:11:53.567Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-05-14T10:38:19.877Z</sub>
 
 </div>
