@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **3031** |
+| 📝 Total des prompts | **3070** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-05-15** |
 
@@ -361,6 +361,1013 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Synchronisation labiale vidéo par IA
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt technique pour Seedance 2.0 permettant d'obtenir une synchronisation labiale parfaite en utilisant une photo pour la cohérence du personnage et une vidéo pour le timing.
+
+#### 📝 Prompt
+
+```
+@Image1 est le personnage exact. @Video1 en noir fournit le timing. L'audio pilote la parole. Elle dit : « [dialogue exact] ». Bouche réaliste, hochements de tête, apparence identique. Plan moyen.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/14f3572d4e50a8823914ddb45631a271/thumbnails/thumbnail.jpg" width="600" alt="Synchronisation labiale vidéo par IA">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4794)**
+
+**Auteur:** [John Panic](https://x.com/johnpanic44) | **Source:** [Link](https://x.com/johnpanic44/status/2054977428091478204) | **Publié:** May 14, 2026
+
+---
+### Horreur : Embuscade dans un champ de maïs extraterrestre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une séquence d'horreur de science-fiction sous haute tension mettant en scène un fermier, une femme et une créature extraterrestre les traquant dans un champ de maïs en plein jour.
+
+#### 📝 Prompt
+
+```
+Séquence d'horreur rurale de science-fiction sous haute tension se déroulant dans un vaste champ de maïs en plein jour. Grands plants de maïs se balançant au vent, soleil éclatant, longues ombres découpant d'étroits sentiers de terre. Particules de poussière dans l'air, bruits de tracteur lointains s'estompant dans le silence. Son : vent dans les cultures, bruissement de feuilles sèches, corbeaux au loin, grognements sourds et subtils de la créature. Plan 1 (0–3s) : Un fermier se tient à la lisière d'un champ de maïs dense, un fusil à la main, tendu et aux aguets. Une femme se tient quelques pas derrière lui, confuse et nerveuse. Le maïs devant eux bouge de manière anormale, quelque chose d'imposant se déplace à travers. Le fermier plisse les yeux et dit : « Il y a quelque chose là-bas… » Plan 2 (3–5s) : Le champ de maïs s'ouvre soudainement. Une créature extraterrestre massive surgit violemment, écartant les tiges. Le fermier tire une fois mais est repoussé par l'impact soudain et trébuche. La femme hurle et se retourne pour courir plus profondément dans le champ. Plan 3 (5–9s) : La créature la poursuit agressivement à travers les sentiers étroits du champ. Les tiges de maïs fouettent son visage alors qu'elle sprinte à l'aveugle. La créature fracasse les rangées, disparaissant et réapparaissant parfois de différentes directions, l'encerclant. Les feuilles sèches se déchirent, la poussière s'élève, le bruit de quelque chose d'imposant se rapproche. Plan 4 (9–12s) : Elle débouche dans une petite clairière — une impasse, entourée par d'épais murs de maïs. Elle recule en panique. La créature émerge lentement du maïs, rampant vers l'avant, dominant la femme. Elle se rapproche, ouvrant grand sa mâchoire, révélant des rangées de dents acérées à quelques centimètres de son visage. Plan 5 (12–15s) : Un COUP DE FEU retentit dans l'air. La créature sursaute violemment et s'effondre sur le côté dans la terre. Les tiges de maïs se stabilisent. Le fermier entre dans le cadre derrière elle, tenant son fusil, respirant lourdement. La femme expire de soulagement, tremblante, la lumière du soleil perçant à travers le champ derrière eux.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a5de4d0606d710c12adda1bc648e11c5/thumbnails/thumbnail.jpg" width="600" alt="Horreur : Embuscade dans un champ de maïs extraterrestre">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4785)**
+
+**Auteur:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2054971947902284216) | **Publié:** May 14, 2026
+
+---
+### Scène cinématographique de lanceur de couteaux : une question de confiance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une séquence cinématographique intense, composée de plusieurs plans, mettant en scène un lanceur de couteaux et son assistante. Elle explore les thèmes de la confiance et du courage à travers des prises de vue détaillées en slow motion.
+
+#### 📝 Prompt
+
+```
+[PLAN 1 — 0:00–0:03] Noir complet. Un projecteur unique s'allume, éclairant une jeune femme debout contre une immense roue en bois en rotation — bras écartés, menton relevé, yeux ouverts. Elle est la cible. Cheveux bruns tirés en arrière, costume pourpre, mâchoire serrée avec le calme spécifique de celle qui a fait cela mille fois et qui sait exactement ce que signifie la proximité. À l'autre bout de la scène, dans l'ombre — le lanceur de couteaux. Un bandeau recouvre déjà ses yeux, six lames en éventail entre ses doigts. La foule est totalement silencieuse. La caméra se rapproche lentement de son visage. Voix off — sa voix, calme et assurée : « Tout le monde pense que c'est lui le courageux. »
+
+[PLAN 2 — 0:03–0:07] Ralenti alterné — gros plan extrême sur ses yeux, stables et sans ciller. Coupe sur son visage bandé, la tête légèrement inclinée, lisant l'air, lisant le silence, lisant sa respiration à travers la scène. Retour sur ses yeux. Ils sont fixés sur lui, bien qu'il ne puisse pas voir. Gros plan sur ses doigts — articulations blanches autour du manche de la lame, tendons saillants, une lame tirée vers l'arrière. La foule en arrière-plan est floue et suspendue à son souffle. Un seul battement de tambour. Voix off : « Mais c'est moi qui dois avoir confiance. »
+
+[PLAN 3 — 0:07–0:11] Ultra ralenti — la lame est libérée. Le couteau tournoie dans le faisceau du projecteur avec une rotation parfaite, la lumière capturant chaque arête de l'acier en éclats brillants et nets. La caméra suit le couteau par l'arrière alors qu'il traverse la scène vers elle. Gros plan sur son visage — elle ne bronche pas. Ne cille pas. Regard droit devant. Menton levé. La lame remplit le cadre — tournoyant de plus en plus près. Puis — elle se plante dans le bois à deux centimètres de son oreille avec un bruit de coup de tonnerre. La roue tremble. Ses cheveux bougent sous le déplacement d'air. Rien d'autre. Elle ne bouge pas.
+
+[PLAN 4 — 0:11–0:15] Plan large — cinq autres lames en succession rapide, chacune venant se ficher dans la roue pour dessiner une silhouette parfaite autour de son corps. Ultra ralenti sur la lame finale — tournoyant vers elle dans un silence absolu, caméra de face observant son approche vers sa poitrine. Elle frappe le bois en plein centre, près de son épaule. Elle expire une fois. Lentement. La roue cesse de tourner. Le projecteur reste braqué sur elle — entourée de lames, totalement intacte, totalement imperturbable. Elle regarde directement la caméra. La foule explose. Elle ne sourit pas. Elle hoche simplement la tête une fois. Coupe au noir. Voix off finale et calme : « Le courage, ce n'est pas lancer le couteau. Le courage, c'est rester immobile. »
+
+VOIX OFF :
+« Tout le monde pense que c'est lui le courageux. Mais c'est moi qui dois avoir confiance. Le courage, ce n'est pas lancer le couteau. Le courage, c'est rester immobile. »
+
+MUSIQUE :
+Silence total au début · un seul battement de tambour de tension qui monte · silence complet lors du lancer de la lame · impacts de lames comme des coups de tonnerre · rugissement de la foule sur le plan final · silence sur le noir
+
+STYLE :
+Projecteur unique sur fond noir · rotation de lame en ultra ralenti · acier captant la lumière en éclats nets · alternance de gros plans extrêmes sur les yeux · foule floutée
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c57476dde8545ad2275d68b6178e084a/thumbnails/thumbnail.jpg" width="600" alt="Scène cinématographique de lanceur de couteaux : une question de confiance">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4803)**
+
+**Auteur:** [Jasmine Ai](https://x.com/jasminekhan90_) | **Source:** [Link](https://x.com/jasminekhan90_/status/2054949911121010790) | **Publié:** May 14, 2026
+
+---
+### Carnage sur l'autoroute des Kaijus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une séquence vidéo pleine d'action montrant un monstre géant semant le chaos sur une autoroute bondée, avec pour point de mire la fuite d'une voiture.
+
+#### 📝 Prompt
+
+```
+Chaos au niveau du sol. Focus sur une voiture qui tente d'échapper à un Kaiju se frayant un chemin dans le trafic comme un bulldozer vivant.
+
+Plan 1 (0s–2s) — L'ACCROCHE
+
+Embouteillage sur l'autoroute.
+
+La main gigantesque d'un Kaiju s'abat soudainement sur la route, retournant instantanément plusieurs véhicules.
+
+Plan 2 (2s–5s)
+
+À l'intérieur d'une voiture.
+
+Le conducteur panique et se faufile entre les véhicules en plein carambolage.
+
+Plan 3 (5s–8s)
+
+Le Kaiju avance, écrasant les voitures sous ses pieds.
+
+Des étincelles de carburant déclenchent de petits incendies.
+
+Plan 4 (8s–11s)
+
+La voiture accélère sous un panneau de signalisation qui s'effondre.
+
+Derrière eux :
+le Kaiju balaie le trafic.
+
+Plan 5 (11s–15s) — DÉNOUEMENT
+
+La voiture s'échappe sur une route dégagée.
+
+Derrière :
+une explosion massive dans le carambolage alors que le Kaiju marche à travers les flammes.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d994b3234b4731e957f39ad81a62e340/thumbnails/thumbnail.jpg" width="600" alt="Carnage sur l'autoroute des Kaijus">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4777)**
+
+**Auteur:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2054936825756880971) | **Publié:** May 14, 2026
+
+---
+### Réaction d'un fan dans un stade de baseball MLB
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour une diffusion sportive multi-plans suivant une fan portant un maillot des Yankees réagissant à un home run.
+
+#### 📝 Prompt
+
+```
+Vidéo de diffusion sportive cinématographique de 7 secondes au format horizontal 16:9. L'identité du personnage de référence doit être préservée exactement à travers tous les plans.
+
+PLAN 1 — 0:00 à 0:02
+Plan serré de caméra de diffusion montrant une belle jeune femme assise dans les tribunes d'un stade de baseball MLB. Elle porte un maillot bleu marine/blanc des NY Yankees et un jean. Expression : détendue, regardant légèrement vers le terrain, naturelle et spontanée — comme si elle était filmée par une caméra de télévision. Projecteurs de stade chaleureux, grain et compression de diffusion réalistes. Cadrage serré sur le visage, faible profondeur de champ, foule floue en arrière-plan.
+
+PLAN 2 — 0:02 à 0:04
+La caméra recule en plan moyen — même personnage, même siège. Plus de foule visible autour d'elle — fans en maillots des Yankees, vestes décontractées, vêtements variés. Elle bouge légèrement sur son siège, jette un coup d'œil vers le terrain. Aspect authentique de téléobjectif de diffusion en direct. Atmosphère de stade réaliste, bruit numérique, cadrage TV imparfait.
+
+PLAN 3 — 0:04 à 0:05
+Angle de diffusion large, personnage visible parmi la foule dans les tribunes. La caméra effectue un panoramique lent sur les sièges. Projecteurs de stade lumineux, montée en énergie. Graphique de tableau d'affichage réaliste visible dans le coin supérieur : "NYY 4 | BOS 3 • 8e manche."
+
+PLAN 4 — 0:05 à 0:07
+Coupe vers une caméra de diffusion au niveau du terrain — le batteur des NY Yankees frappe puissamment. La balle est lancée dans le champ extérieur. La foule explose instantanément, y compris notre personnage visible dans les tribunes réagissant avec surprise et excitation, sautant légèrement, bouche ouverte. Le stade rugit. Zoom avant dramatique et lent sur la réaction de la foule. Mise à jour du tableau d'affichage en surimpression.
+
+Conception sonore : murmure ambiant de la foule du stade qui monte → rugissement soudain de la foule lors de la frappe → craquement de la batte de baseball à 0:05 → explosion d'acclamations → écho de l'annonceur du stade → montée cinématographique en fond.
+
+Ambiance : authentique, cinématographique, moment de diffusion sportive virale. Comme un véritable extrait de couverture TV de la MLB en direct.
+
+Ultra photoréaliste, format de diffusion horizontal 16:9, qualité de capture TV réaliste, étalonnage cinématographique, grain de compression de diffusion, pas d'orientation portrait.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30cd4eb8da5335296327f1821d4fb0ab/thumbnails/thumbnail.jpg" width="600" alt="Réaction d'un fan dans un stade de baseball MLB">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4802)**
+
+**Auteur:** [Ozair AI](https://x.com/Ozayrr_irl) | **Source:** [Link](https://x.com/Ozayrr_irl/status/2054934380343365971) | **Publié:** May 14, 2026
+
+---
+### Vidéo cinématique : Zone de survie sur les toits
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématique tendu, style années 80, mettant en scène des survivants piégés sur des toits dans une ville désertique, tentant d'échapper à des prédateurs souterrains.
+
+#### 📝 Prompt
+
+```
+L'énergie classique du siège. Des survivants piégés sur les toits d'une petite ville désertique tandis que des prédateurs souterrains rôdent en dessous. Tension des années 80, plans larges, éclairage poussiéreux et danger réaliste.
+
+Plan 1 (0s–2s) — L'ACCROCHE
+Une créature JAILLIT du sol et SNAPE une femme en plein saut alors qu'elle parvient tout juste à atteindre un toit.
+
+Mâchoires grandes ouvertes. Créature entière. À quelques centimètres.
+
+Plan 2 (2s–5s)
+Plan large de la ville.
+
+Plusieurs toits occupés par des survivants.
+
+Entre les bâtiments :
+le sol se soulève rapidement, suivant le mouvement.
+
+⸻
+Plan 3 (5s–8s)
+Un homme lance une pierre au loin.
+
+Tout le monde regarde.
+
+Le sol change soudainement de direction et poursuit la pierre à la place.
+⸻
+
+Plan 4 (8s–11s)
+
+Un autre survivant glisse et tombe du bord du toit.
+
+Le sol réagit instantanément sous lui.
+
+⸻
+Plan 5 (11s–15s) — LE DÉNOUEMENT
+
+Avant que la créature ne puisse frapper, quelqu'un le tire vers le haut.
+
+La créature jaillit et rate sa cible, s'écrasant contre un mur avant de se replier sous terre.
+
+⸻
+Accroche visuelle clé
+Une évasion par un saut sur les toits alors que le sol explose derrière le personnage.
+⸻
+Pourquoi cela deviendra viral
+Des règles claires (ne pas toucher le sol) + un mouvement de menace visible = un engagement élevé.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afaa00c49267b26bb27a7157a2317140/thumbnails/thumbnail.jpg" width="600" alt="Vidéo cinématique : Zone de survie sur les toits">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4796)**
+
+**Auteur:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2054933152863297569) | **Publié:** May 14, 2026
+
+---
+### Séquence de combat d'un assassin elfe renégat
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo riche en action mettant en scène un assassin elfe renégat combattant dans une forêt enchantée brumeuse, avec des mouvements à haute vitesse et des effets de caméra cinématographiques.
+
+#### 📝 Prompt
+
+```
+Un assassin elfe renégat, agile et précis, yeux brillants dans l'obscurité, doubles lames reflétant un faible clair de lune, corps se déplaçant comme une ombre
+Fonce à travers un groupe d'ennemis en armure à une vitesse impossible, apparaissant et disparaissant entre chaque coup, laissant derrière lui des images rémanentes alors que chaque ennemi tombe quelques secondes plus tard
+Forêt enchantée dense de nuit avec de la brume, plantes luminescentes et faible lueur magique
+Commence par une tension sur image fixe, zoom lent, accélération soudaine avec des mouvements de caméra rapides (whip pans) suivant l'action, suivi en vue subjective (FPV) de son parcours, lames brillant près de l'objectif, effet de découpage temporel montrant plusieurs positions, se terminant par le silence alors que tous les ennemis s'effondrent simultanément derrière elle tandis qu'elle reste immobile, lames dégoulinantes, caméra tournant lentement dans la brume
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c985418e969fb3074d44f089c438b30c/thumbnails/thumbnail.jpg" width="600" alt="Séquence de combat d'un assassin elfe renégat">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4806)**
+
+**Auteur:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2054932267466715639) | **Publié:** May 14, 2026
+
+---
+### Séquence d'action : Rider sur pente volcanique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une séquence d'action cinématographique hyperréaliste montrant un rider dévalant une pente volcanique abrupte avec de la lave en progression et une distorsion thermique.
+
+#### 📝 Prompt
+
+```
+Séquence d'action cinématographique hyperréaliste de 15 secondes. Un rider dévale une pente volcanique abrupte tandis que la lave progresse derrière lui. Distorsion thermique, roche incandescente. Le mouvement est dicté par la gravité en descente. Pas de virages. Caméra continue et fluide, alignée avec la direction de la pente. Départ par l'arrière et légèrement au-dessus, en suivant la descente. Glissement vers un angle latéral, en suivi parallèle. Plongée près du sol pour accentuer la sensation de vitesse. Remontée vers un angle de suivi plus large révélant la lave en arrière-plan. Au milieu de la séquence, le terrain chute brutalement. La caméra reste alignée, suivant l'arc de la descente. Inclinaison légèrement vers l'avant pendant la chute, puis retour à un suivi arrière à l'atterrissage. Fin de la séquence en poursuivant la descente avec un angle surélevé plus large.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3f6ce143a40f7fc7c2d8a80b373c848/thumbnails/thumbnail.jpg" width="600" alt="Séquence d'action : Rider sur pente volcanique">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4809)**
+
+**Auteur:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2054931739970298333) | **Publié:** May 14, 2026
+
+---
+### Séquence de créature piégée style années 1980
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé en plusieurs plans pour une séquence d'horreur style années 1980 impliquant un piège à créature dans le désert et un dénouement cinématographique.
+
+#### 📝 Prompt
+
+```
+Dénouement classique de piège des années 1980. Les survivants surpassent la créature en utilisant un appât et le terrain.
+
+Plan 1 (0s–2s) — L'AMORCE
+
+Un homme est seul dans le désert, il crie et tape du pied bruyamment.
+
+Le sol commence immédiatement à bouger vers lui.
+
+Plan 2 (2s–5s)
+
+Les autres observent depuis le bord d'une falaise.
+
+Ils crient :
+« COURS ! »
+
+Plan 3 (5s–8s)
+
+L'homme sprinte vers la falaise alors que le sol le poursuit.
+Tempête de poussière derrière lui.
+
+Plan 4 (8s–11s)
+
+À la dernière seconde, il saute sur le côté.
+
+La créature jaillit à pleine vitesse.
+
+Plan 5 (11s–15s) — LE DÉNOUEMENT
+
+La créature survole la falaise et s'écrase dans le canyon en contrebas dans une énorme explosion de poussière.
+
+Accroche visuelle clé
+
+Un homme appâtant délibérément la créature souterraine en tapant du pied.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/15f9216428315bfff6ab3fb4ed0ca453/thumbnails/thumbnail.jpg" width="600" alt="Séquence de créature piégée style années 1980">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4782)**
+
+**Auteur:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2054929045897572713) | **Publié:** May 14, 2026
+
+---
+### Camion contre monstre souterrain du désert
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une séquence de poursuite intense dans le désert entre un pick-up et une créature souterraine invisible créant un sillage dans le sable.
+
+#### 📝 Prompt
+
+```
+Séquence de survie en véhicule. Un pick-up file à toute allure à travers le désert tandis que la créature le poursuit sous la surface comme une torpille.
+
+Plan 1 (0s–2s) — L'ACCROCHE
+
+Vue plongeante.
+
+Un camion roule à vive allure dans le désert alors qu'une IMMENSE traînée de poussière le poursuit directement sous terre.
+
+Plan 2 (2s–5s)
+
+À l'intérieur du camion qui secoue.
+
+Le conducteur crie :
+« IL EST JUSTE SOUS NOS PIEDS ! »
+
+Plan 3 (5s–8s)
+
+Le sol se soulève violemment sous le camion, le faisant brièvement décoller.
+Plan 4 (8s–11s)
+
+La créature dépasse le camion et surgit devant lui.
+
+Sa gueule immense s'ouvre depuis le sable.
+
+Plan 5 (11s–15s) — LE DÉNOUEMENT
+
+Le conducteur donne un coup de volant brusque.
+
+La créature rate sa cible et s'écrase contre un affleurement rocheux, reculant violemment.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2815273e06d4c9a5a1d8da572c8546e9/thumbnails/thumbnail.jpg" width="600" alt="Camion contre monstre souterrain du désert">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4778)**
+
+**Auteur:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2054928844881047657) | **Publié:** May 14, 2026
+
+---
+### Film de créature du désert des années 80
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique inspiré des films de monstres des années 80, mettant en scène un prédateur souterrain traquant des survivants dans le désert avec une esthétique d'effets spéciaux traditionnels.
+
+#### 📝 Prompt
+
+```
+L'énergie rétro d'un film de créature du désert des années 1980. Explosions de poussière artisanales, physique de monstre souterrain en caoutchouc, larges cadres Panavision et chaos de survie ouvrière. Un prédateur souterrain semblable à un ver chasse par les vibrations, se déplaçant sous terre comme un séisme vivant. La scène donne l'impression de commencer en pleine attaque — pas d'introduction, juste de la panique, de la poussière et l'instinct de survie.
+
+Plan 1 (0s–2s) — L'ACCROCHE
+
+Un homme est déjà TRAÎNÉ à toute vitesse sur le sable du désert, griffant le sol alors qu'une vague de terre gonflée le poursuit en dessous.
+
+La poussière explose partout.
+
+Plan 2 (2s–5s)
+
+Plan large.
+
+Le sol ondule violemment comme si quelque chose d'énorme nageait dessous.
+
+Un deuxième homme se tient sur le toit d'un pick-up en criant :
+« MONTE ICI ! »
+
+Plan 3 (5s–8s)
+
+L'homme traîné saisit un pneu qui traîne.
+La créature change soudainement de direction sous terre et PERCUTE le camion par en dessous, le soulevant légèrement.
+
+Plan 4 (8s–11s)
+
+Le sol EXPLOSE.
+
+Une créature ver géante surgit partiellement, sa bouche circulaire tapissée de dents claquant sauvagement.
+
+Les hommes se précipitent sur le toit du camion.
+
+Plan 5 (11s–15s) — LE DÉNOUEMENT
+
+La créature bondit à nouveau mais s'écrase contre le châssis métallique du camion.
+
+Elle recule violemment et disparaît sous terre, laissant derrière elle un immense sillage de poussière qui s'éloigne.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0fe23b615abbc15974de390851a23111/thumbnails/thumbnail.jpg" width="600" alt="Film de créature du désert des années 80">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4775)**
+
+**Auteur:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2054928420497408009) | **Publié:** May 14, 2026
+
+---
+### Animation éditoriale de mobilier de luxe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique pour animer un storyboard de mobilier, axé sur les textures de tissus, les ombres rasantes et l'esthétique moderniste italienne.
+
+#### 📝 Prompt
+
+```
+Étape 1 : Générer le storyboard. Créez un storyboard de présentation de mobilier de luxe haut de gamme au format 4:3, disposé en grille 3x4 (12 images), mise en page éditoriale, style Poltrona Frau/B&B Italia, palette noyer chaud et bouclé crème. Flux structuré : matériau → forme → proportion → placement → vie intérieure. Chaque image divisée : en haut, image cinématographique (sans texte) ; en bas, notes de storyboard. Esthétique minimaliste moderniste italienne, ambiance de mobilier sculptural, art de vivre réfléchi. Un fauteuil lounge sous une lumière rasante constitue le centre émotionnel de l'ensemble. Étape 2 : Animez le storyboard 3x4 fourni en une vidéo cinématographique fluide. Préservez l'ordre exact des plans et la continuité. Utilisez un déplacement lent des ombres rasantes, des macros de texture de tissage de tissu, une révélation de la silhouette du fauteuil et une dérive aérienne du placement dans la pièce. Transitions d'éclairage passant d'une lumière de showroom blanche et froide à une ombre rasante chaude d'après-midi. Esthétique éditoriale de mobilier, retenue sculpturale, ambiance de perfection vécue. Aucun nouveau plan, aucun réordonnancement, le fauteuil lounge reste le point focal émotionnel dans toutes les scènes.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fb6d5ecab14df14f12442c44b82d29ac/thumbnails/thumbnail.jpg" width="600" alt="Animation éditoriale de mobilier de luxe">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4795)**
+
+**Auteur:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2054918141579493849) | **Publié:** May 14, 2026
+
+---
+### Société féline futuriste en guerre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique épique dépeignant une société futuriste dirigée par des chats, engagés dans une guerre de haute technologie avec des drones et des armes robotiques.
+
+#### 📝 Prompt
+
+```
+Dans un monde futuriste où les chats ont pris le pouvoir après les humains, ces félins ont bâti une nouvelle société grâce à leur intelligence et à une technologie de pointe. Dans cet univers, un conflit puissant éclate entre des factions félines rivales, armées d'armes robotiques dernier cri, de drones hypersoniques et de nanotechnologies intelligentes. Alors que la caméra se déplace au cœur de cette bataille épique, chaque mouvement et chaque stratégie des chats sont capturés, révélant non seulement une lutte pour la domination, mais aussi un combat porté par l'émotion, le leadership et une ambition futuriste. L'ensemble de la saga est rythmé par une bande-son magistrale, plongeant le spectateur dans une expérience cinématographique saisissante d'une guerre technologique menée par des chats.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d222eade5b37b8dee24deade452e42b/thumbnails/thumbnail.jpg" width="600" alt="Société féline futuriste en guerre">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4788)**
+
+**Auteur:** [Zyro](https://x.com/Itswsm105f) | **Source:** [Link](https://x.com/Itswsm105f/status/2054915236164165647) | **Publié:** May 14, 2026
+
+---
+### Chasse au saumon par un grizzli
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de documentaire animalier cinématographique capturant un grizzli chassant le saumon dans une rivière d'Alaska, avec des éclaboussures au ralenti et une lumière dorée.
+
+#### 📝 Prompt
+
+```
+[PLAN 1 — 0:00–0:03] Très gros plan sur l'eau vive qui tourbillonne sur des rochers anciens couverts de mousse. La caméra est placée au niveau de l'eau — la rivière remplit tout le cadre, froide, violente et vivante. Sous la surface, des formes sombres remontent le courant à toute vitesse. Recul léger révélant une immense rivière d'Alaska — une forêt de pins dense sur les deux rives, une lumière dorée matinale traversant la surface de l'eau en faisceaux aveuglants. Puis — un saumon jaillit de l'eau. Puis un autre. Puis un autre. La rivière s'anime soudain de corps argentés bondissants qui captent la lumière comme des lames lancées. Une musique orchestrale profonde et puissante commence — basse, progressive, primale. [PLAN 2 — 0:03–0:07] Plan large — un grizzli massif se tient en plein milieu de la rivière tumultueuse, l'eau écumant autour de ses pattes énormes, la tête basse, les yeux fixés sur le chaos des saumons qui sautent autour de lui. Il est totalement immobile au cœur de la violence de la rivière. La caméra tourne lentement autour de lui au niveau de l'eau. Sa fourrure est trempée et plaquée contre ses épaules. Ses yeux observent. Calculent. Une patte massive se soulève légèrement. Chaque muscle est sous tension. La musique monte en crescendo lent et délibéré. Gros plan sur ses yeux — anciens, patients, absolument certains. Puis — tout son corps explose vers l'avant. [PLAN 3 — 0:07–0:11] Ultra ralenti — un saumon jaillit de la rivière dans un arc d'argent parfait directement dans le cadre. L'ours se dresse sur ses pattes arrière simultanément, l'eau jaillissant autour de ses pattes dans une cathédrale d'écume blanche figée au ralenti. Ses mâchoires s'ouvrent largement. Le saumon reste suspendu dans les airs — ses écailles captant chaque éclat de la lumière matinale, son corps se tordant, la bouche ouverte, parfaitement vivant dans cette ultime seconde suspendue. Ses mâchoires se referment sur lui. La collision — l'eau explose dans toutes les directions simultanément, une onde de choc circulaire parfaite d'écume blanche rayonnant vers l'extérieur au ralenti. Des gouttelettes suspendues dans la lumière dorée du matin comme mille minuscules soleils. La musique atteint son apogée orchestral. [PLAN 4 — 0:11–0:15] Il retombe dans la rivière, ses deux pattes avant s'écrasant et provoquant une seconde vague massive. Ralenti — l'eau ruisselle sur ses épaules énormes, le saumon fermement maintenu dans ses mâchoires, encore argenté et frétillant sous la lumière du matin. Il se tourne lentement vers la rive, l'eau s'écoulant de sa fourrure en nappes lourdes. Caméra basse au niveau de l'eau regardant vers le haut — il est immense face à la forêt de pins et au ciel pâle en arrière-plan. Il marche vers la rive sans se presser, la rivière se brisant autour de ses pattes. Gros plan sur son visage — saumon sécurisé, regard vers l'avant, totalement imperturbable. Plan final large — il disparaît dans la lisière de la forêt. La rivière continue de couler. Vide. Indifférente. La musique chute sur une note basse et résonnante, puis le silence. MUSIQUE : Montée orchestrale primale au début · cordes dramatiques et gonflantes pendant la traque · apogée explosif lors de la collision · note profonde et résonnante s'estompant vers le silence de la rivière sur le plan final STYLE : Tons bleus froids de la rivière contrastant avec les faisceaux de lumière dorée du matin · explosion d'eau en ultra ralenti · caméra au niveau de l'eau tout du long · échelle sauvage large contrastant avec le détail des très gros plans · son naturel sous la musique · fondu vers l'ambiance de la rivière sur le passage au noir
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c08d5e1d8a415e5fa8a2452995accf4/thumbnails/thumbnail.jpg" width="600" alt="Chasse au saumon par un grizzli">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4787)**
+
+**Auteur:** [Jasmine Ai](https://x.com/jasminekhan90_) | **Source:** [Link](https://x.com/jasminekhan90_/status/2054911204242383097) | **Publié:** May 14, 2026
+
+---
+### Personnage chibi dans une chambre réaliste
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une séquence cinématographique mettant en scène un personnage chibi 3D stylisé dans une chambre moderne réaliste et très détaillée, avec un éclairage naturel.
+
+#### 📝 Prompt
+
+```
+Créez une courte séquence cinématographique dans un « environnement de chambre moderne ultra-réaliste » avec une lumière du jour douce et naturelle, des textures détaillées (bois, tissu, literie moelleuse) et de fines particules de poussière en suspension dans les rayons du soleil. La scène doit paraître photoréaliste et ancrée dans la réalité, sans environnement de type dessin animé. Un minuscule « personnage féminin chibi 3D » stylisé évolue dans cet espace réel. Elle possède un corps doux et arrondi rappelant celui d'un tout-petit, une peau claire aux tons chauds et rosés, de grands yeux marron foncé expressifs avec des cils épais, des joues rondes et rebondies avec un blush rose, de petites lèvres boudeuses et des sourcils fins et arqués. Ses longs cheveux noir de jais volumineux sont séparés par une raie au milieu et légèrement ondulés.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4192f9ff5e5c63de5b31a70fb314b799/thumbnails/thumbnail.jpg" width="600" alt="Personnage chibi dans une chambre réaliste">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4791)**
+
+**Auteur:** [NoorAI](https://x.com/noorwithwifi) | **Source:** [Link](https://x.com/noorwithwifi/status/2054909525908660464) | **Publié:** May 14, 2026
+
+---
+### Explosion d'une raffinerie de pétrole par un Kaiju
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une séquence cinématographique nocturne spectaculaire montrant un Kaiju géant détruisant une raffinerie industrielle au milieu de tempêtes de feu et de tours qui s'effondrent.
+
+#### 📝 Prompt
+
+```
+Une raffinerie industrielle devient le point zéro lorsqu'un Kaiju géant prend d'assaut d'immenses réservoirs de carburant en pleine nuit. Pipelines explosifs, tempêtes de feu, tours qui s'effondrent, résistance militaire et un monstre gigantesque marchant à travers les flammes comme un démon.
+
+⸻
+
+Plan 1 (0s–2s)
+
+Un réservoir de carburant gigantesque EXPLOSE soudainement vers l'extérieur.
+
+La silhouette d'un Kaiju émerge à travers la boule de feu.
+
+⸻
+
+Plan 2 (2s–5s)
+
+Des ouvriers et des soldats courent à travers la raffinerie tandis que les pipelines se rompent et que du carburant en feu inonde le sol.
+
+⸻
+
+Plan 3 (5s–8s)
+
+Le Kaiju arrache une tour géante du sol et la projette à travers une autre structure de la raffinerie.
+
+⸻
+
+Plan 4 (8s–11s)
+
+Des missiles frappent la créature alors qu'elle marche directement à travers les flammes explosives.
+
+Sa peau brille sous l'éclat du feu.
+
+⸻
+
+Plan 5 (11s–15s)
+
+La raffinerie entière explose en réaction en chaîne tandis que le Kaiju rugit au milieu de l'enfer, entouré de tours d'acier qui s'effondrent.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f061114c8b15407033836894116a350a/thumbnails/thumbnail.jpg" width="600" alt="Explosion d'une raffinerie de pétrole par un Kaiju">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4779)**
+
+**Auteur:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2054900164150886752) | **Publié:** May 14, 2026
+
+---
+### Attaque de Kaiju sur le train
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinétique à haute vitesse mettant en scène un train à grande vitesse pris au piège dans un combat entre deux Kaiju massifs sous une pluie battante.
+
+#### 📝 Prompt
+
+```
+Un train à grande vitesse se retrouve coincé entre deux Kaiju en plein combat au milieu d'une tempête. Étincelles, ponts qui s'effondrent, queues géantes fracassant les tunnels et passagers projetés dans la cabine alors que le train continue de rouler à pleine vitesse.
+
+⸻
+
+Plan 1 (0s–2s) — L'ACCROCHE
+
+Un train à grande vitesse fend une pluie battante.
+
+Soudain, une queue de Kaiju gigantesque FRACASSE les voies devant lui.
+
+Le train évite le déraillement de justesse.
+
+⸻
+
+Plan 2 (2s–5s)
+
+À l'intérieur du train violemment secoué.
+
+Les passagers sont projetés dans tous les sens.
+
+Les vitres se fissurent alors qu'un autre Kaiju rugit à l'extérieur, aux côtés du train en mouvement.
+
+⸻
+
+Plan 3 (5s–8s)
+
+Plan large :
+deux Kaiju massifs se battent tout autour du train lancé à pleine vitesse alors qu'il traverse un pont en train de s'effondrer.
+
+⸻
+
+Plan 4 (8s–11s)
+
+Une griffe géante manque d'écraser le train tandis que des étincelles et des débris pleuvent sur les wagons.
+
+Le train pénètre dans un tunnel —
+
+— et les Kaiju FRACASSENT les murs du tunnel à ses côtés.
+
+⸻
+
+Plan 5 (11s–15s) — LE DÉNOUEMENT
+
+Le train s'élance depuis des voies en ruine par-dessus une brèche dans le pont, tandis que le combat des Kaiju explose derrière lui.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7c00f18d062d33842acdabc9a428f99/thumbnails/thumbnail.jpg" width="600" alt="Attaque de Kaiju sur le train">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4780)**
+
+**Auteur:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2054899567087464673) | **Publié:** May 14, 2026
+
+---
+### Romance animée de tasses à café
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt d'animation réconfortant mettant en scène deux tasses à café animées dans un café chaleureux, dont la vapeur forme des cœurs lorsqu'elles finissent par se rencontrer.
+
+#### 📝 Prompt
+
+```
+Un café à l'esthétique chaleureuse sous une douce lumière matinale. Chaque jour, deux tasses à café animées sont posées sur des tables différentes. L'une est d'un brun chaud avec de jolies formes de vapeur, l'autre est d'un blanc crème avec de doux détails pastel. Alors que le café se remplit d'une douce musique d'ambiance, leur vapeur forme subtilement de minuscules cœurs dès qu'elles sont proches l'une de l'autre, suggérant une connexion silencieuse. Chaque matin, les tasses sont placées à des endroits différents, toujours proches mais jamais ensemble, comme si le destin les séparait sans cesse. La caméra suit leurs « sentiments » à travers des zooms doux sur la vapeur et les reflets d'une lumière chaleureuse. Les jours passent dans un time-lapse apaisant. Un matin pluvieux, le café réorganise ses tables. Finalement, les deux tasses sont placées côte à côte sur la même table. Leur vapeur s'élève ensemble, formant un grand cœur lumineux. La scène se termine par un gros plan réconfortant alors que les lumières du café s'estompent doucement en arrière-plan.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9af7c4f14e2b072109801265f47c58db/thumbnails/thumbnail.jpg" width="600" alt="Romance animée de tasses à café">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4786)**
+
+**Auteur:** [Soulful Ai](https://x.com/soulful__ai) | **Source:** [Link](https://x.com/soulful__ai/status/2054891682089627714) | **Publié:** May 14, 2026
+
+---
+### Bataille entre une grenouille et un cobra royal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique de style documentaire animalier montrant une grenouille venimeuse attaquant un cobra royal, avec des indications détaillées pour l'audio et la narration.
+
+#### 📝 Prompt
+
+```
+Une grenouille venimeuse aux couleurs éclatantes bondit et serre ses mâchoires sur la tête d'un cobra royal. Le cobra se débat violemment, sa coiffe se déploie, son corps s'enroulant désespérément autour de la grenouille. La grenouille maintient une prise de fer, ses yeux dorés inébranlables, sa gorge commençant à pulser alors qu'elle entame l'ingestion du cobra par la tête. La queue du serpent fouette frénétiquement le tapis de feuilles humides. La caméra commence en macro extrême au niveau du sol, effectue un zoom avant lent vers l'œil de la grenouille, puis s'élargit pour révéler toute la jungle environnante — indifférente, vaste, vivante.
+Audio : S'ouvre sur une ambiance de jungle pure — pluie, cigales, oiseaux. À 3 secondes, un bourdonnement profond de violoncelle s'installe. À 7 secondes, une montée en tension orchestrale complète. À 12 secondes, passage à un piano solo inquiétant.
+Voix du narrateur — ton documentaire britannique profond :
+[0:02] « Au cœur de l'Amazonie… la nature réécrit son propre livre de règles. »
+[0:06] « Le cobra se déploie. La grenouille… n'en a cure. »
+[0:10] « En vingt ans de tournage, je n'ai jamais rien vu de tel. »
+[0:13] « Elle commence… à se nourrir. »
+Logo Discovery Channel — COIN SUPÉRIEUR DROIT, blanc, semi-transparent, épinglé pendant les 15 secondes.
+Texte en tiers inférieur à 0:04 : « Bassin amazonien, Brésil » — blanc, style de police Discovery, apparition en fondu au centre en bas.
+Caméra macro tremblante à l'épaule. Pas d'aspect CGI. Photoréaliste. Cinématographique 24 ips. Étalonnage des couleurs vert profond et doré. Faible profondeur de champ avec arrière-plan de jungle en bokeh.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/03226913211e04b081ccab487537edd0/thumbnails/thumbnail.jpg" width="600" alt="Bataille entre une grenouille et un cobra royal">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4781)**
+
+**Auteur:** [NUSRAT](https://x.com/nxnusratul) | **Source:** [Link](https://x.com/nxnusratul/status/2054881929405792462) | **Publié:** May 14, 2026
+
+---
+### Vidéo de caméra de foule pour la diffusion de l'IPL
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour créer une vidéo réaliste de diffusion sportive montrant une personne spécifique dans la foule d'un stade de cricket, en mettant l'accent sur une préservation stricte du visage à partir d'une image de référence.
+
+#### 📝 Prompt
+
+```
+Vidéo ultra-réaliste de caméra de foule pour une diffusion TV en direct de l'IPL, montrant EXACTEMENT la même personne que sur l'image de référence, assise dans la foule lors d'un match des Royal Challengers Bengaluru (RCB). PRÉSERVATION STRICTE DU VISAGE : Gardez le visage, la coiffure, la barbe, la mâchoire, le teint, les lèvres, le nez et les proportions du visage EXACTEMENT identiques à ceux de l'image de référence. Ne pas embellir le visage. Pas d'effet « glow-up » IA, pas de look mannequin, pas de visage de héros cinématographique, pas de remodelage du visage. Scène :
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7278189d06ea58aa1c8e713a178f5913/thumbnails/thumbnail.jpg" width="600" alt="Vidéo de caméra de foule pour la diffusion de l'IPL">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4774)**
+
+**Auteur:** [AI/Human Being](https://x.com/HumanBeing34061) | **Source:** [Link](https://x.com/HumanBeing34061/status/2054878723175002303) | **Publié:** May 14, 2026
+
+---
+### Voyage à travers les étapes marquantes de l'histoire humaine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt conceptuel illustrant un voyage à travers les étapes clés de l'humanité, de la roue à la robotique avancée.
+
+#### 📝 Prompt
+
+```
+Emmenez votre public dans un voyage à travers les étapes clés de l'histoire humaine, en commençant par l'invention de la roue, en passant par le développement de l'ordinateur, pour aboutir à la création de robots avancés. À chaque étape, mettez en avant la créativité, l'ambition et la persévérance de l'humanité. Montrez comment chaque invention a servi de tremplin, menant finalement à un avenir où les humains ont conçu des machines qui démultiplient notre potentiel.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43efd17e058cd0fb9cecec05e3806182/thumbnails/thumbnail.jpg" width="600" alt="Voyage à travers les étapes marquantes de l'histoire humaine">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4798)**
+
+**Auteur:** [Ruby Ai](https://x.com/HeyRu0by) | **Source:** [Link](https://x.com/HeyRu0by/status/2054872358230560937) | **Publié:** May 14, 2026
+
+---
+### Scène de cuisine esthétique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique serein pour une vidéo de haute qualité montrant une femme préparant des légumes frais et cuisinant dans une cuisine moderne en marbre.
+
+#### 📝 Prompt
+
+```
+Vidéo cinématographique de 15 secondes d'une jeune femme dans une cuisine moderne et élégante en train de préparer à manger. La scène s'ouvre sur une douce lumière matinale traversant de grandes fenêtres, mettant en valeur un plan de travail en marbre propre. Gros plan sur ses mains coupant des légumes frais (carottes, poivrons, oignons) sur une planche à découper en bois. Transition fluide vers la préparation de nouilles et de poulet dans une poêle, avec de la vapeur qui s'échappe, un son de grésillement, des couleurs et des textures riches. Elle remue les nouilles avec grâce, ajoutant des épices et de la sauce. Un plan moyen montre son expression concentrée mais détendue, avec un léger sourire. Le plan final présente le plat dressé avec des couleurs éclatantes, un éclairage chaleureux et une esthétique chaleureuse. Ultra-réaliste, qualité 4K, faible profondeur de champ, éclairage cinématographique doux, mouvements de caméra fluides, ambiance de cuisine esthétique.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/819663afd29cf876856c48d8c80a4fe4/thumbnails/thumbnail.jpg" width="600" alt="Scène de cuisine esthétique">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4784)**
+
+**Auteur:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2054870007897784489) | **Publié:** May 14, 2026
+
+---
+### Jeune fille réaliste et créature électrique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de narration cinématographique décrivant une rencontre émouvante entre une jeune fille et une créature fantastique électrique réaliste dans une ville néon sous la pluie.
+
+#### 📝 Prompt
+
+```
+Style : film cinématographique hyper-réaliste, réalisme de niveau hollywoodien, narration émotionnelle, fantasy ancrée dans le réel, physique réaliste, jeu d'acteur naturel, étalonnage des couleurs premium, atmosphère IMAX, réalisme Unreal Engine 5, profondeur de champ cinématographique, éclairage volumétrique, expressions émotionnelles subtiles, chorégraphie de caméra professionnelle.
+
+Direction importante :
+Évitez l'aspect cartoon/anime. La créature jaune doit sembler être un animal fantastique réaliste et crédible, inspiré des créatures électriques — fourrure jaune douce, yeux expressifs, lueur bio-électrique subtile, anatomie et mouvements réalistes.
+
+---
+
+🎞️ MASTER PROMPT
+
+Une adolescente cinématographique ultra-réaliste portant un imperméable jaune moderne marche seule dans une rue futuriste de style Tokyo sous la pluie, la nuit. L'asphalte mouillé reflète les lumières néon jaunes, simulation de pluie réaliste, atmosphère cinématographique, jeu facial émotionnel, mouvement de caméra à l'épaule, faible profondeur de champ, texture de peau réaliste, physique des cheveux naturelle, éclairage hollywoodien premium.
+
+La jeune fille remarque un mouvement près d'une ruelle. Cachée derrière des caisses se trouve une petite créature fantastique électrique jaune et réaliste avec une fourrure douce et lumineuse, des étincelles électriques subtiles circulant autour de son corps, une anatomie crédible, des yeux expressifs, une simulation de fourrure physiquement précise, un réalisme ancré.
+
+La créature semble effrayée. La jeune fille s'agenouille lentement et tend prudemment la main. Gros plan macro sur les doigts touchant de minuscules pattes lumineuses. De petites particules électriques illuminent leurs visages naturellement. L'environnement froid, bleu et pluvieux se transforme lentement en un éclairage cinématographique doré et chaleureux.
+
+Alors que la musique orchestrale émotionnelle monte, l'environnement se transforme subtilement en un paysage urbain jaune et onirique rempli de particules flottantes, de brouillard atmosphérique, d'ondes d'énergie cinématographiques, de mouvement de vent réaliste, VFX premium, lumière du soleil volumétrique perçant à travers les nuages.
+
+Plan final cinématographique sur un toit au lever du soleil : la jeune fille se tient debout avec assurance, surplombant une ligne d'horizon futuriste tandis que la créature jaune est assise sur son épaule. Le vent souffle naturellement dans ses cheveux et ses vêtements. Composition IMAX ultra-réaliste, plan de fin émotionnel, chef-d'œuvre cinématographique, qualité blockbuster, flou de mouvement réaliste, émotion faciale naturelle, cinématographie primée.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/606fc1d4044cea9fc5110410c7c98ca5/thumbnails/thumbnail.jpg" width="600" alt="Jeune fille réaliste et créature électrique">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4783)**
+
+**Auteur:** [Aneeza Ai](https://x.com/Aneeza__S) | **Source:** [Link](https://x.com/Aneeza__S/status/2054864978549596398) | **Publié:** May 14, 2026
+
+---
+### Séquence de film de basket-ball cinématographique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt multi-plans ultra-détaillé pour un match de basket-ball, utilisant plusieurs images de référence pour les personnages et l'environnement.
+
+#### 📝 Prompt
+
+```
+Créez un film de basket-ball cinématographique en utilisant Image1 comme joueur principal, Image2 pour les coéquipiers, Image3 pour le terrain de basket urbain en extérieur, et Image4 pour l'atmosphère lumineuse de l'heure dorée. Esthétique de diffusion sportive hyper-réaliste, mouvement de caméra dynamique à l'épaule, profondeur de champ cinématographique, physique réaliste de la sueur et des maillots, transitions fluides, proportions corporelles naturelles, qualité photoréaliste 8K.
+
+0–2s : Plan large au coucher du soleil. Le joueur principal dribble agressivement pour dépasser les défenseurs tandis que ses coéquipiers se dispersent. Une caméra de suivi en contre-plongée suit le jeu de jambes rapide et le rebond du ballon, foule énergique en arrière-plan.
+
+2–5s : Plan moyen en suivi. Passe poitrine rapide à un coéquipier, suivie d'une passe aveugle fluide dans le dos en retour. Un mouvement de caméra rapide en coup de fouet suit le ballon, les défenseurs réagissent tardivement.
+
+5–7s : Gros plan cinématographique. Le joueur principal attrape le ballon et effectue un dribble d'hésitation, concentration intense vers le panier, bruits de crissement de baskets, éclairage dramatique du cercle au coucher du soleil, faible profondeur de champ.
+
+7–10s : Final au ralenti. Le joueur principal saute pour un tir à trois points décisif. Une caméra orbitale et un travelling avant lent suivent le ballon jusqu'au filet avec une réaction réaliste de la foule et une fin digne d'une publicité sportive cinématographique. Aucun texte à l'écran.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/584e197f30a00f67856426ece957f66d/thumbnails/thumbnail.jpg" width="600" alt="Séquence de film de basket-ball cinématographique">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4790)**
+
+**Auteur:** [Sharon Riley](https://x.com/Just_sharon7) | **Source:** [Link](https://x.com/Just_sharon7/status/2054861463106515210) | **Publié:** May 14, 2026
+
+---
+### Publicité Red Bull pour skateboarder
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de publicité sportive dynamique mettant en scène un skateboarder dans une ville néon, saisissant et buvant une Red Bull.
+
+#### 📝 Prompt
+
+```
+Animez ce storyboard publicitaire cinématographique de Red Bull pour en faire une publicité sportive réaliste et pleine d'énergie. Un jeune skateboarder stylé ride à travers une ville moderne illuminée par des néons au coucher du soleil, remarque une canette de Red Bull glacée, la saisit avec fluidité, l'ouvre dans un pétillement cinématographique, boit avec assurance, sourit à la caméra et dit : « Oui, c'est ça l'énergie. » puis continue de skater avec encore plus de dynamisme. Mouvement de skateboard réaliste, plans de suivi cinématographiques, éclairage publicitaire haut de gamme, expressions faciales naturelles, réalisme humain authentique, mouvement dynamique, faible profondeur de champ fluide, rendu cinématographique ultra-réaliste.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/59b0e2c014682e869a6ac2eb2105ff55/thumbnails/thumbnail.jpg" width="600" alt="Publicité Red Bull pour skateboarder">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4797)**
+
+**Auteur:** [Rossy](https://x.com/xRahultripathi) | **Source:** [Link](https://x.com/xRahultripathi/status/2054860898855170229) | **Publié:** May 14, 2026
+
+---
+### Publicité mode pour chips épicées premium
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt à structure complexe pour une publicité de snack au style mode Gen Z, tournée dans un studio rouge audacieux.
+
+#### 📝 Prompt
+
+```
+Publicité pour chips ondulées épicées premium (Campagne Studio Rouge)
+Titre : Publicité ultra-réaliste pour chips épicées — Film de snack mode en studio rouge
+Format : 4K Ultra HD, publicité cinématographique verticale 9:16
+Style : Publicité alimentaire premium + publicité mode Gen Z + cinématographie de studio brillante
+Ambiance : Énergique, jeune, épicée, confiante, addictive, premium, visuellement audacieuse
+🎥 Aperçu de la scène (Déroulement vidéo)
+Un décor de studio rouge cinématographique avec un éclairage en dégradé fluide. L'environnement entier est stylisé dans une esthétique monochrome rouge audacieuse. Des chips ondulées flottantes, des flocons de piment et des tranches de piment rouge se déplacent lentement au ralenti autour du sujet.
+La caméra s'ouvre sur un travelling avant cinématographique doux vers le sujet principal assis au centre.
+👩 Action du sujet principal
+Une jeune femme est assise en tailleur au milieu du studio rouge :
+Elle regarde directement la caméra avec un sourire doux et confiant
+Elle porte lentement une chips ondulée croustillante vers ses lèvres (accent mis sur le ralenti)
+Dans son autre main, elle tient un paquet de chips épicées brillant orienté vers la caméra
+Mouvements naturels subtils : clignements d'yeux, légère inclinaison de la tête, mouvement doux des cheveux dû au vent du studio
+Ambiance ambassadrice de snack Gen Z moderne, confiante et détendue
+🧥 Garde-robe (Statique mais avec mouvement cinématographique)
+Débardeur blanc ajusté
+Blazer structuré rouge vif avec mouvement naturel du tissu
+Pantalon tailleur rouge assorti
+Baskets blanches épurées
+Créoles dorées et collier fin reflétant doucement la lumière
+🥔 Focus produit (Moments héroïques)
+Le paquet de chips reste clairement visible tout au long de la vidéo
+La caméra effectue brièvement un changement de mise au point du visage → vers la chips → vers le paquet de produit
+Les chips apparaissent ultra-croustillantes avec de la poudre d'assaisonnement visible
+Les chips flottantes tournent lentement en arrière-plan avec des particules d'épices
+🎬 Cinématographie et mouvement de caméra
+Début : Travelling avant lent depuis un plan moyen-large
+Milieu : Rotation douce autour du sujet (légère rotation de 15 à 20°)
+Gros plan : Prise macro de la texture de la chips dans la main (ralenti)
+Focus produit : Mise au point nette sur le logo du paquet de chips
+Fin : Composition héroïque style arrêt sur image
+💡 Éclairage et atmosphère
+Éclairage de studio premium lumineux
+Lumière principale frontale douce pour une peau parfaite
+Éclairage de contour rouge sur les cheveux et les bords de la tenue
+Reflets brillants contrôlés sur l'emballage
+Particules d'épices flottantes brillant subtilement dans les faisceaux lumineux
+Ombres douces sous le sujet pour un réalisme ancré
+🎞️ Rendu final
+Qualité de film publicitaire ultra-réaliste
+Transitions fluides au ralenti
+Lisibilité nette du produit
+Style de publicité pour marque de snack haut de gamme
+Esthétique virale Gen Z façon campagne de mode alimentaire de luxe
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0c05b2249853b2cc629fc95b6f2e43c6/thumbnails/thumbnail.jpg" width="600" alt="Publicité mode pour chips épicées premium">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4799)**
+
+**Auteur:** [Red chili 🌶️](https://x.com/Redchili105) | **Source:** [Link](https://x.com/Redchili105/status/2054832111430095355) | **Publié:** May 14, 2026
+
+---
+### Animation de storyboard pour papeterie de luxe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour animer un storyboard de papeterie de luxe haut de gamme, en mettant l'accent sur l'étalement de l'encre, les textures de plume et des transitions lumineuses élégantes.
+
+#### 📝 Prompt
+
+```
+Étape 1 : Générer le storyboard. Créer un storyboard de présentation pour papeterie de luxe haut de gamme au format 4:3, sous forme de grille 3x4 (12 images), mise en page éditoriale, style Smythson/G. Lalo, palette encre minuit et crème coton. Flux structuré : papier → plume → mot → sceau → fermeture. Chaque image est divisée : image cinématographique en haut (sans texte) + notes de storyboard en bas. Esthétique minimaliste héritage anglais, ambiance de l'art perdu de l'écriture, communication lente. Un stylo-plume sur papier vergé est le centre émotionnel tout au long. Étape 2 : Prendre chaque image. Régler sur 1080p pour préserver la clarté du texte. Animer le storyboard 3x4 fourni en une vidéo cinématographique fluide. Préserver l'ordre exact des plans et la continuité. Utiliser un étalement lent de l'encre sur les fibres du papier, un gros plan sur le glissement de la plume, le mouvement de pression du sceau de cire et le pliage de l'enveloppe. Transitions lumineuses passant d'une lumière d'étude froide orientée au nord à une lumière ambrée de lampe de bureau. Esthétique éditoriale de papeterie, lenteur délibérée, ambiance de permanence intime. Aucun nouveau plan, aucun réordonnancement, le stylo-plume reste le point focal émotionnel dans toutes les scènes.
+```
+
+<img src="https://cms-assets.youmind.com/media/1778828735906_r0a3wy_HIQ1a_SbQAAA_xy.jpg" width="600" alt="Animation de storyboard pour papeterie de luxe">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4793)**
+
+**Auteur:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2054826750883107115) | **Publié:** May 14, 2026
+
+---
+### Capture de balle en tribune lors de l'IPL
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de style diffusion sportive professionnelle mettant en scène une supportrice des Mumbai Indians attrapant une balle dans les tribunes.
+
+#### 📝 Prompt
+
+```
+Vidéo cinématographique ultra-photoréaliste de 10 secondes style diffusion IPL, commençant exactement à partir de l'image de référence jointe comme première image.
+
+Une jeune supportrice indienne des MI est assise dans les tribunes bondées lors d'un match de nuit de l'IPL entre les Chennai Super Kings et les Mumbai Indians. Elle porte un élégant maillot bleu des Mumbai Indians et regarde vers le terrain avec anticipation et un léger sourire.
+
+Soudain, un batteur puissant frappe un énorme six. La balle de cricket rouge vole dans une trajectoire haute et réaliste directement vers les tribunes où elle est assise. Séquence dynamique multi-plans :
+
+1. Plan initial : Plan de diffusion moyen-serré sur la femme (correspondant exactement à l'image de référence), faible profondeur de champ.
+2. Plan large + mouvement de caméra rapide suivant la trajectoire de la balle alors qu'elle s'envole dans la foule.
+3. Plan de suivi moyen revenant sur la femme alors qu'elle réagit rapidement : elle se lève, tend les deux mains et effectue une prise de balle nette et spectaculaire.
+4. Gros plan héroïque de sa célébration joyeuse : grand sourire enthousiaste, tenant la balle fièrement en l'air, acclamant alors que la foule est en délire autour d'elle. Les personnes à proximité l'acclament et lui tapotent l'épaule.
+
+Travail de caméra professionnel de diffusion sportive en direct avec des transitions fluides, une légère énergie de caméra à l'épaule, un éclairage de stade nocturne spectaculaire, des projecteurs lumineux et des reflets d'objectif. Physique de balle et flou de mouvement réalistes. Mouvement naturel des vêtements et des cheveux.
+
+Commentaire énergique en anglais style IPL synchronisé avec les visuels : "Oh what a hit! That's gone high... into the stands... And she's taken it! What a catch by this young lady! Absolute stunner in the crowd! The stands are erupting!"
+
+Rugissement réaliste de la foule, acclamations et atmosphère de stade. Détails nets en 8K, étalonnage cinématographique, photoréaliste, textures de peau et de tissu ultra-détaillées, mouvement naturel, grande stabilité de mouvement, aucune déformation.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/246dbaf75b53eef1b81c818d117d9581/thumbnails/thumbnail.jpg" width="600" alt="Capture de balle en tribune lors de l'IPL">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4800)**
+
+**Auteur:** [AIARTGALLARY](https://x.com/AIARTGALLARY) | **Source:** [Link](https://x.com/AIARTGALLARY/status/2054823971124621591) | **Publié:** May 14, 2026
+
+---
+### Séquence cinématographique : La réalité cosmique se brise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt épique en plusieurs étapes pour une catastrophe cosmique où le ciel se brise pour révéler un univers alternatif, incluant un timing détaillé et des effets visuels.
+
+#### 📝 Prompt
+
+```
+Une séquence de catastrophe cosmique cinématographique où la réalité elle-même commence à se briser.
+
+0–3s : Un après-midi paisible dans une ville moderne. Les oiseaux volent au-dessus, la circulation est fluide. Soudain, un grondement sourd résonne dans le ciel. Les gens s'arrêtent et regardent vers le haut, confus.
+
+3–6s : Des fissures géantes et lumineuses commencent à se propager à travers les nuages comme du verre brisé. Une énergie vive pulse à travers les fractures tandis que des morceaux du ciel semblent se détacher de manière surnaturelle.
+
+6–9s : À travers les fissures qui s'élargissent, un autre univers devient visible : montagnes flottantes, planètes extraterrestres, structures célestes géantes et tempêtes étranges tourbillonnant dans des couleurs impossibles. Des distorsions gravitationnelles se propagent dans la ville en contrebas.
+
+9–12s : La panique éclate alors que des débris et de la lumière s'échappent du ciel fracturé. Les bâtiments tremblent, les voitures lévitent légèrement et les reflets sur les fenêtres montrent des réalités alternatives déformées qui se superposent à la Terre.
+
+12–15s : Plan cinématographique final en ultra grand angle. Le ciel entier est brisé au-dessus de la planète, révélant un monde cosmique colossal au-delà de la réalité elle-même. Une structure massive ressemblant à un œil lumineux se déplace lentement dans l'ouverture avant que l'écran ne passe au noir.
+
+Style : réalisme ultra cinématographique, atmosphère d'horreur cosmique, échelle environnementale massive, effets visuels de fractures lumineuses, effets de distorsion de la réalité, éclairage volumétrique dramatique, cinématographie de qualité IMAX, physique de destruction détaillée, étalonnage des couleurs science-fiction de qualité cinématographique.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ac10ddab03a2e16c0cda89cbd01f03be/thumbnails/thumbnail.jpg" width="600" alt="Séquence cinématographique : La réalité cosmique se brise">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4789)**
+
+**Auteur:** [Ali](https://x.com/aiwithaly) | **Source:** [Link](https://x.com/aiwithaly/status/2054810187542982928) | **Publié:** May 14, 2026
+
+---
+### Sauvetage par un cow-boy en hiver
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique et émouvant se déroulant lors d'une tempête de neige dans les années 1940, où un riche cow-boy vient en aide à une infirmière frigorifiée dans une gare désertée.
+
+#### 📝 Prompt
+
+```
+Un riche cow-boy au physique robuste, vêtu d'un luxueux manteau en laine noire, de gants en cuir, d'un chapeau de cow-boy et de bottes western coûteuses, descend d'un train privé d'époque lors d'une violente tempête hivernale dans une gare désertée des années 1940. La neige tourbillonne violemment, atmosphère froide et cinématographique, buée réaliste du souffle, lumières dorées dramatiques de la gare perçant les chutes de neige intenses.
+Alors qu'il se dirige vers sa voiture de luxe, il remarque une jeune infirmière assise seule sur un banc en bois, visiblement frigorifiée. Elle porte une fine blouse d'infirmière bleu pâle sous un manteau d'hiver usé, les mains tremblantes, le visage épuisé, la neige s'accumulant dans ses cheveux, jeu d'acteur émotionnel réaliste.
+Le cow-boy retire immédiatement son lourd manteau doublé de fourrure et l'enveloppe délicatement autour de ses épaules. Gros plan cinématographique sur ses yeux émus et sous le choc. Un éclairage chaud remplace lentement les tons bleus froids tandis qu'une musique orchestrale émouvante monte en intensité.
+Il soulève avec précaution l'infirmière affaiblie et la porte à travers la neige vers sa voiture de luxe vintage. Ralenti cinématographique, physique de la neige réaliste, mouvement dramatique du vent, atmosphère émotionnelle, cinématographie hollywoodienne de premier plan.
+Plan final : à l'intérieur de la voiture vintage chauffée, l'infirmière ouvre lentement les yeux tandis que le cow-boy s'assoit tranquillement à ses côtés. Un éclairage doré et doux illumine leurs visages alors que la neige tombe à l'extérieur de la fenêtre. Cadre final digne d'un blockbuster émotionnel.
+🎥 NOTES DE CAMÉRA PROFESSIONNELLES
+Réalisme cinématographique caméra à l'épaule
+Lents zooms avant émotionnels
+Profondeur de champ type objectif IMAX
+Flou de mouvement réaliste
+Micro-expressions faciales naturelles
+Texture de grain de pellicule
+Contraste cinématographique chaud vs froid
+Particules de neige interagissant naturellement avec les vêtements et la peau
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b433c94fe3aec46f22d0a73c31dbb1d/thumbnails/thumbnail.jpg" width="600" alt="Sauvetage par un cow-boy en hiver">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4807)**
+
+**Auteur:** [Aneeza Ai](https://x.com/Aneeza__S) | **Source:** [Link](https://x.com/Aneeza__S/status/2054806481581871468) | **Publié:** May 14, 2026
+
+---
+### Scène de chambre douillette par temps d'orage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique à fort contraste illustrant une pièce intérieure paisible et confortable face à une tempête sombre et venteuse à l'extérieur.
+
+#### 📝 Prompt
+
+```
+Scène de chambre douillette ultra-réaliste et cinématographique par une journée nuageuse et venteuse. Derrière une grande fenêtre, des nuages d'orage sombres se déplacent rapidement dans le ciel tandis qu'un vent fort agite doucement des rideaux semi-transparents. L'atmosphère extérieure semble froide, dynamique et mélancolique. À l'intérieur, un climatiseur mural moderne fonctionne silencieusement, diffusant un flux d'air frais qui fait bouger subtilement les tissus légers de la pièce. L'environnement est calme, chaleureux et confortable, en contraste avec la tempête extérieure. Une jeune personne est assise près d'une petite table en bois, sirotant lentement un thé chaud dans une tasse en céramique. La vapeur s'élève du thé et se dissipe doucement dans l'air frais, créant un effet atmosphérique léger. L'éclairage est naturel et cinématographique, provenant de la lumière du jour nuageuse, diffusée par la fenêtre, créant des ombres douces et une profondeur réaliste. Le mouvement de caméra commence sur la fenêtre montrant la tempête, puis effectue un travelling lent vers la personne buvant son thé, soulignant le contraste entre le climat rigoureux extérieur et le confort paisible intérieur. Style : cinématographique, ultra-réaliste, éclairage naturel doux, haute précision, faible profondeur de champ, réalisme 4K, mouvement de caméra fluide et lent, ambiance esthétique douillette. Durée : 14 secondes. Format : 16:9. Créez une vidéo cinématographique ultra-réaliste de 14 secondes avec une ambiance de voyage Gen-Z à Drass (vallée himalayenne froide, altitude extrême, vents glacials, montagnes spectaculaires). STYLE : fusion entre vlog cinématographique à la main et publicité de voyage de luxe. AMBIANCE : « 40 000 dépensés à Drass, aucun regret, juste des vibes » — insouciance, liberté émotionnelle, réalisme esthétique. CAMÉRA : faible profondeur de champ, grain de film, lumière naturelle, flou de mouvement dynamique, ralentis occasionnels. --- 0–4s Un matin glacial à Drass. Le vent s'engouffre à travers des montagnes enneigées à perte de vue. Le personnage principal (voyageur Gen-Z, streetwear stylé avec veste d'hiver, écharpe, lunettes de soleil) sort d'une jeep locale. Souffle visible dans l'air froid. Sourire calme. Texte à l'écran (effet glitch) : « 40K à Drass… » --- 4–9s Montage rapide : Marche sur des routes glacées avec un sac à dos, vapeur d'un stand de thé local s'élevant dans l'air glacial, gros plan sur les bottes qui craquent dans la neige, rires avec les habitants, vent frappant le visage, ralenti cinématographique. Son ambiant : vent + rythme lo-fi doux qui monte en puissance. Texte à l'écran : « …aucun regret. » --- 9–13s Plan cinématographique large des sommets massifs de l'Himalaya. Le personnage se tient au bord de la vallée, les bras légèrement ouverts, embrassant le vent. Le soleil perce les nuages. Une lumière dorée frappe la neige. Le rythme devient légèrement plus émotionnel. Texte à l'écran : « juste des vibes. » --- 13–14s (plan final) Zoom rapide sur le visage souriant dans le vent froid → fondu au noir. Texte final (typographie grasse et épurée) : « moments réels > tout le reste »
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/052002db3cc226bc4480cbf469d60ea7/thumbnails/thumbnail.jpg" width="600" alt="Scène de chambre douillette par temps d'orage">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4776)**
+
+**Auteur:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2054803165707669898) | **Publié:** May 14, 2026
+
+---
+### Vlog GRWM : Déjeuner entre influenceuses
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de vlog dynamique style influenceuse « Get Ready With Me » pour choisir ses tenues et accessoires pour un déjeuner entre amis.
+
+#### 📝 Prompt
+
+```
+Une vidéo dynamique de 16 secondes style influenceuse « Get Ready With Me » montrant une jeune femme se préparant pour un déjeuner avec ses amis, en se concentrant uniquement sur les tenues et les accessoires. La scène s'ouvre (0-3s) dans une chambre lumineuse à l'esthétique soignée, baignée de lumière naturelle, alors qu'elle regarde la caméra avec énergie et dit : « GRWM pour un déjeuner avec mes amis, choisissons une tenue mignonne ! » Des coupes rapides montrent la jeune femme devant un miroir essayant différentes tenues (3-7s), avec des transitions stylées à chaque changement de look. À (7-11s), elle finalise une tenue décontractée chic et ajoute des accessoires — boucles d'oreilles, collier, montre et un sac assorti — tout en disant : « Ok, c'est le look parfait, simple mais mignon ! » À (11-14s), elle enfile ses chaussures, ajuste son sac et se regarde une dernière fois dans le miroir en prenant des poses assurées. Moment final (14-16s) : elle attrape son téléphone, sourit à la caméra et dit : « Allez, je suis prête, on se voit au déjeuner ! » avec une musique entraînante, des montages dynamiques et une énergie typique des vlogs d'influenceurs tout au long de la vidéo.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3ace00f5c9fda0d01ae6df04d751a91/thumbnails/thumbnail.jpg" width="600" alt="Vlog GRWM : Déjeuner entre influenceuses">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4801)**
+
+**Auteur:** [Soulful Ai](https://x.com/soulful__ai) | **Source:** [Link](https://x.com/soulful__ai/status/2054801852051665261) | **Publié:** May 14, 2026
+
+---
 ### Séquence de transition cinématographique de soldat
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -393,6 +1400,181 @@ Caméra : Plan moyen rapproché, légèrement en dessous du niveau des yeux pour
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4756)**
 
 **Auteur:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2054799160029700575) | **Publié:** May 14, 2026
+
+---
+### Chat tigré fan des Yankees
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo original et cinématographique mettant en scène un chat tigré réaliste en fan des Yankees, avec maillot, bière et clin d'œil à la caméra.
+
+#### 📝 Prompt
+
+```
+Une vidéo cinématographique 4K haut de gamme présentant un chat tigré ultra-réaliste en tant que fan dans le stade des New York Yankees. Le chat porte un bonnet bleu marine détaillé et un maillot des Yankees à rayures, assis dans les tribunes avec un gobelet en plastique rempli de bière entre ses pattes. La vidéo suit cette séquence :
+1. Un plan large du stade montrant le tableau d'affichage « BOS 2, NYY 5 ». 2. Un gros plan du chat prenant une gorgée de bière lente et calme. 3. Le chat fait un clin d'œil fluide et charismatique directement à la caméra. 4. Le chat tourne brusquement la tête pour suivre une fausse balle vers le terrain. Audio intégré : Une voix de commentateur sportif professionnel en anglais dit : « Welcome back to the bottom of the 7th. There’s a 2-1 count to Aaron Judge... but look at our fan of the night! Pinstripes, beanie, and a cold one. A sip, a wink, and he’s back to the action! That’s a Bronx legend in the making. And Judge hits a foul ball off the end of the bat! » Éclairage de stade authentique, texture de fourrure réaliste, foule en liesse floutée en arrière-plan.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85c81b731cd9b995d5453b6872112206/thumbnails/thumbnail.jpg" width="600" alt="Chat tigré fan des Yankees">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4810)**
+
+**Auteur:** [Eesha](https://x.com/MissDelulu9) | **Source:** [Link](https://x.com/MissDelulu9/status/2054784015425790187) | **Publié:** May 14, 2026
+
+---
+### Femme japonaise à un match de baseball de la KBO
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo réaliste basé sur une image de référence, représentant une femme japonaise profitant d'un match de baseball coréen avec son petit ami et réagissant timidement à la caméra du stade.
+
+#### 📝 Prompt
+
+```
+Utilisez l'image de référence téléchargée comme ancrage d'identité principal. Préservez exactement le visage de la femme japonaise adulte, sa peau pâle et lisse, ses grands yeux expressifs, ses lèvres brillantes, son nez délicat et ses longs cheveux blonds bouclés avec une frange légère.
+
+Scène de diffusion de match de baseball nocturne de la KBO générée par IA ultra-réaliste. Elle est assise à côté de son petit ami dans la foule, portant des maillots de baseball décontractés au milieu des supporters en liesse. Comportement naturel et spontané uniquement : sourire, rire doucement, regarder le match, tenir des bâtons d'encouragement jaunes et les entrechoquer légèrement.
+
+Le petit ami se penche brièvement et ils partagent un baiser subtil d'une seconde. Immédiatement après, elle remarque la caméra du stade braquée sur eux sur l'écran géant. Elle devient timide et légèrement embarrassée, puis adresse un sourire doux et mignon à la caméra tout en essayant de ne pas rire.
+
+Style : diffusion télévisée authentique de baseball coréen, téléobjectif sportif, faible profondeur de champ, léger mouvement de caméra à l'épaule, éclairage de stade réaliste, léger flou de mouvement, texture de peau naturelle, cadrage imparfait, atmosphère de sport en direct, composition 16:9, énergie authentique de la foule.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1385baa98c7351a60389e94437f56b14/thumbnails/thumbnail.jpg" width="600" alt="Femme japonaise à un match de baseball de la KBO">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4805)**
+
+**Auteur:** [WasifAI](https://x.com/doctorwasif) | **Source:** [Link](https://x.com/doctorwasif/status/2054782471817023576) | **Publié:** May 14, 2026
+
+---
+### Portrait cinématographique d'une jeune femme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un portrait cinématographique photoréaliste en 8K d'une jeune femme aux cheveux auburn et aux yeux bleu-vert, avec un éclairage naturel et des textures hautement détaillées.
+
+#### 📝 Prompt
+
+```
+Un portrait cinématographique en gros plan d'une belle jeune femme d'une vingtaine d'années avec de longs cheveux raides auburn-brun rougeâtre, une peau claire parsemée de taches de rousseur, des yeux bleu-vert saisissants et une expression naturelle, légèrement surprise ou sérieuse, la bouche entrouverte. Elle a un look juvénile et innocent. Elle porte une veste de sport blanche avec des rayures noires sur les épaules. Une lumière naturelle douce provenant de grandes fenêtres derrière elle révèle des arbres verts flous et une architecture en briques moderne en arrière-plan. Texture de peau réaliste, léger grain de film, atmosphère émotionnelle et intime, haut niveau de détail, photoréaliste, 8k --ar 9:16 --stylize 250
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd2049f96502eaa88eb0c3ce45fcfaa8/thumbnails/thumbnail.jpg" width="600" alt="Portrait cinématographique d'une jeune femme">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4792)**
+
+**Auteur:** [Zarlish](https://x.com/Zarlish_Shahid) | **Source:** [Link](https://x.com/Zarlish_Shahid/status/2054770679653052872) | **Publié:** May 14, 2026
+
+---
+### Ninja-maid robotique contre homme-lézard samouraï
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de combat fantastique intense de style anime mettant en scène une ninja-maid robotique, un homme-lézard samouraï et une action à haute vitesse avec des effets d'« images rémanentes ».
+
+#### 📝 Prompt
+
+```
+Une fille ninja robotique dans une tenue de maid mignonne combat un homme-lézard en armure de samouraï muni d'un katana. La fille reste impassible pendant tout le combat. L'homme-lézard a du mal à suivre la cadence. 
+
+[0:00-0:05] Les deux combattants, séparés de 6 mètres, se précipitent l'un vers l'autre. L'homme-lézard se contorsionne et fait tournoyer son épée horizontalement vers la fille. La fille bondit dans les airs de manière acrobatique, esquivant l'attaque et atterrissant de l'autre côté. Elle enchaîne une rafale de coups de poing et de pied extrêmement rapides que l'homme-lézard pare avec difficulté.
+
+[0:05-0:10] L'homme-lézard trouve une ouverture, lève son épée et assène un coup vertical. Le coup tranche la fille robot en deux dans le sens de la longueur. La fille affiche une expression choquée avec une ligne traversant son corps, mais il s'avère qu'il s'agit d'une image rémanente. Son image rémanente devient transparente et se dissipe comme de la fumée. Gros plan extrême sur les yeux de l'homme-lézard qui s'écarquillent sous le choc alors qu'il halète : « Quoi ? »
+
+[0:10-0:15] La caméra coupe rapidement sur la fille qui est déjà haut dans le ciel. Elle arme son poing en disant d'un ton froid et calme : « Trop lent », puis le projette en avant. Sa main se détache de son poignet. La caméra suit son poing séparé alors qu'il fonce vers l'homme-lézard. Une flamme bleue jaillit derrière la main, propulsant le poing à une vitesse hypersonique. Coupe sur la caméra qui zoome rapidement dans l'œil droit stupéfait de l'homme-lézard. Fin avec un plan ultra large du poing lancé par la fille provoquant une énorme explosion de poussière au sol, tandis qu'elle plane toujours haut dans le ciel, observant la scène avec froideur. 
+
+Combat fantastique oppressant et saisissant. Votre objectif est de rendre la fille puissante. Incluez des mouvements de caméra dynamiques qui suivent le combat.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0291dea790844b79d19ae51da750fce7/thumbnails/thumbnail.jpg" width="600" alt="Ninja-maid robotique contre homme-lézard samouraï">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4808)**
+
+**Auteur:** [Jason W - AI](https://x.com/PocketScreenAI) | **Source:** [Link](https://x.com/PocketScreenAI/status/2054768806564901206) | **Publié:** May 14, 2026
+
+---
+### Écran de chargement de jeu vidéo cosplay
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt créatif qui transforme une image de référence de cosplay en un écran de chargement de style jeu vidéo, avec des changements d'environnement cinématographiques et des superpositions d'interface utilisateur.
+
+#### 📝 Prompt
+
+```
+En utilisant l'image de référence fournie, créez une vidéo d'écran de chargement de cosplay dans le style de [votre jeu préféré] — l'environnement du sujet se transforme et l'interface utilisateur de [votre jeu préféré] se superpose à l'ensemble. Cinématographique, dramatique. Durée totale de 10 secondes.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ebf825b316eb08e24c492806e99e89de/thumbnails/thumbnail.jpg" width="600" alt="Écran de chargement de jeu vidéo cosplay">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4811)**
+
+**Auteur:** [RafaSimon](https://x.com/rafalors) | **Source:** [Link](https://x.com/rafalors/status/2054754522996858953) | **Publié:** May 14, 2026
+
+---
+### Diffusion d'un match de football avec une supportrice
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt vidéo cinématographique pour Seedance 2.0 représentant une retransmission sportive réaliste d'un match de football entre le Real Madrid et Barcelone, en se concentrant sur une supportrice dans les tribunes.
+
+#### 📝 Prompt
+
+```
+Un plan de retransmission télévisée réaliste en haute définition montrant une jeune femme assise dans les tribunes d'un stade de football, regardant un match entre le Real Madrid et Barcelone. Les visuels sont ceux d'une retransmission sportive en direct, réaliste et en haute définition.
+
+Détails du personnage : - Longs cheveux noirs raides, teint clair avec de légères taches de rousseur - Yeux bleus avec un trait d'eye-liner prononcé - Porte le maillot domicile blanc du Real Madrid - Expression pensive, main posée sur le menton, regardant occasionnellement autour d'elle ou remettant ses cheveux derrière l'oreille.
+Atmosphère de la scène : - Un stade de football bondé de nuit, avec le public en arrière-plan flouté - Éclairage cinématographique de retransmission sportive, faible profondeur de champ - Texture de caméra TV professionnelle, avec un léger grain et des mouvements naturels.
+Éléments visuels : - Un tableau d'affichage réel dans le coin supérieur droit indiquant : "64:30 Real Madrid 2-1 Barca" - Avec le logo de diffusion "bein SPORTS 1 LIVE".
+
+Style général : Hyper-réaliste, étalonnage des couleurs cinématographique, ressemblant à une retransmission sportive en direct de haute qualité.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/578fd35fb17b447686501a80e6e055ed/thumbnails/thumbnail.jpg" width="600" alt="Diffusion d'un match de football avec une supportrice">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4812)**
+
+**Auteur:** [Milo](https://x.com/ME_Internx) | **Source:** [Link](https://x.com/ME_Internx/status/2054734581111406783) | **Publié:** May 14, 2026
+
+---
+### Action de moto néon cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cyberpunk ultra-détaillé mettant en scène une motarde, des éclairages néon, une pluie battante et une action dynamique à moto dans une ville futuriste.
+
+#### 📝 Prompt
+
+```
+Vidéo cyberpunk cinématographique ultra-réaliste, format vertical 9:16, 15 secondes au total. Étalonnage des couleurs néon rouge et noir, rues humides et réfléchissantes, pluie battante, atmosphère enfumée, grain de film, réalisme VFX haut de gamme. Le personnage est une femme réelle de 22 ans aux proportions faciales naturelles, texture de peau réaliste, maquillage subtil, silhouette athlétique. Pas d'anime ni de stylisation. Ville néon futuriste avec garage souterrain « G3 CLUB », signalétique holographique, détails cyber luminescents.
+
+0–3s | Introduction au garage
+Plan cinématographique large à l'intérieur d'un garage industriel cyberpunk sombre. La femme enfile calmement des gants tactiques noirs à côté d'une moto futuriste noir mat avec des accents LED rouges brillants. Un casque avec une légère lueur HUD est posé à proximité. Le néon rouge « G3 CLUB » scintille à travers la fumée. Le sol humide reflète les lumières.
+
+3–6s | Gros plan sur la préparation
+Plan moyen. Elle ajuste ses gants avec précision et regarde sur le côté avec une intensité calme. Détails du visage réalistes, ombres cinématographiques douces, éclairage de contour rouge. Moto floue en arrière-plan.
+
+6–8s | Casque et contact
+Très gros plan alors qu'elle soulève et enfile un casque futuriste. La visière transparente révèle ses vrais yeux reflétant les graphismes HUD néon. Coupe rapide : la moto s'allume, des lignes d'énergie rouges pulsent.
+
+8–11s | Sortie et accélération
+Coupe d'action dynamique. Elle lance la moto hors du garage souterrain vers une rue néon pluvieuse. L'eau éclabousse violemment, les pneus adhèrent à l'asphalte mouillé, des traînées néon rouges s'étirent derrière elle.
+
+11–13s | Action à haute vitesse
+Plan de suivi d'un virage agressif à haute vitesse. Elle se penche brusquement, des étincelles et des projections d'eau au ralenti. Gratte-ciels cyberpunk avec hologrammes rouges/bleus flous en arrière-plan.
+
+13–15s | Sortie finale héroïque
+Plan cinématographique ultra-large. Elle roule sur une vaste autoroute néon disparaissant dans le brouillard et la pluie. La traînée de lumière rouge s'estompe au loin. Cadre final de science-fiction épique.
+
+DIRECTION AUDIO
+Piste hip-hop cyberpunk : basse 808 lourde, batterie trap agressive, couches de synthé néon. BPM rapide. Drop de basse majeur synchronisé à 8–11s (sortie en trombe + pic d'action à haute vitesse). Pluie ambiante + rugissement de moteur + bourdonnement électrique néon.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/201d6f7d0689a6e0e24a5f944b0308d7/thumbnails/thumbnail.jpg" width="600" alt="Action de moto néon cyberpunk">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4804)**
+
+**Auteur:** [Shami](https://x.com/ShamiWeb3) | **Source:** [Link](https://x.com/ShamiWeb3/status/2054723947749593586) | **Publié:** May 14, 2026
 
 ---
 ### Court-métrage d'animation style Dr. Slump
@@ -1041,7 +2223,7 @@ Une cliente magnifique se lève, bouche bée après sa mise en beauté. Ses chev
 Générez une histoire sur une gymnaste chinoise réalisant une figure technique de très haute difficulté lors de la finale de la poutre aux Jeux olympiques de Paris. Capturez avec précision la séquence de saltos extrêmement complexe et physiquement dynamique sur la poutre. Dès la première image, utilisez une caméra embarquée (Body Mount) pour suivre rapidement l'athlète alors qu'elle enchaîne un salto latéral suivi d'un triple salto avant groupé. Utilisez ensuite un gros plan en ultra ralenti pour saisir son contrôle corporel extrême dans les airs, le mouvement de ses cheveux blancs et les détails de son uniforme, en assurant une représentation réaliste de la gravité et des lois physiques. Enfin, elle atterrit avec stabilité et la caméra effectue un zoom avant sur son visage confiant. Réalisme cinématographique, format écran large 2.35:1. Le tout accompagné des acclamations et de l'atmosphère excitante d'une retransmission en direct des Jeux olympiques de Paris.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1778742494583_69ote8_HIMpYj2W4AAWmhC.jpg" width="600" alt="Performance de gymnastique olympique à la poutre">
+<img src="https://cms-assets.youmind.com/media/1778828755403_kwexb7_HIMpYj2W4AAWmhC.jpg" width="600" alt="Performance de gymnastique olympique à la poutre">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4758)**
 
@@ -1982,883 +3164,6 @@ Style : réalisme ultra-cinématographique, destruction à l'échelle cosmique, 
 **Auteur:** [Nawal](https://x.com/nawalsehar) | **Source:** [Link](https://x.com/nawalsehar/status/2054381139876536646) | **Publié:** May 13, 2026
 
 ---
-### Réaction surréaliste lors d'une retransmission sportive
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt vidéo cinématographique décrivant un moment spontané lors d'une retransmission sportive en direct, mettant en scène une supportrice dans les tribunes avec des textures réalistes et des incrustations graphiques de diffusion.
-
-#### 📝 Prompt
-
-```
-Image de diffusion statique surréaliste d'un événement sportif, mettant en scène une femme charismatique assise dans les tribunes bondées d'un stade de football lors d'un match en soirée. Elle porte un haut sans manches à col montant en satin marron foncé et des boucles d'oreilles carrées noires, avec des cheveux mi-longs châtain clair/blond coiffés en ondulations souples. Elle boit nonchalamment dans une grande canette en aluminium bleue, tout en tenant un cheeseburger à moitié entamé de l'autre main. Autour d'elle, des supporters vêtus de maillots et d'écharpes de football aux couleurs jaune et bleu vives créent un fort contraste chromatique. La scène semble réaliste et cinématographique, capturée sous l'angle d'une caméra de télévision au milieu du terrain avec une faible profondeur de champ. Inclut des sièges de stade réalistes, une atmosphère de foule dense, un graphique de diffusion en haut à gauche affichant les scores en temps réel et le chronomètre du match, ainsi qu'un filigrane de chaîne sportive en haut à droite. Éclairage naturel d'arène, textures de peau détaillées, mise au point nette sur la femme, foule en arrière-plan légèrement floue, esthétique authentique de retransmission sportive en direct, composition 16:9.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b08ba88befe15b0c41c037b32234b9b/thumbnails/thumbnail.jpg" width="600" alt="Réaction surréaliste lors d'une retransmission sportive">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4754)**
-
-**Auteur:** [熊三金Cole🐬TermMax](https://x.com/x_sanjin) | **Source:** [Link](https://x.com/x_sanjin/status/2054378091871387682) | **Publié:** May 13, 2026
-
----
-### Diffusion sportive avec une femme glamour au stade
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de style diffusion sportive réaliste montrant une femme glamour mangeant un burger et buvant un verre lors d'un match de football en soirée.
-
-#### 📝 Prompt
-
-```
-Prise de vue ultra-réaliste façon diffusion sportive en direct d'une femme glamour assise au milieu d'une foule compacte dans un stade de football lors d'un match nocturne. Elle porte un haut sans manches en satin marron foncé à col montant avec des boucles d'oreilles carrées noires, tandis que ses cheveux blonds/châtain clair mi-longs tombent en vagues souples. Elle boit nonchalamment dans une grande canette en aluminium bleue tout en tenant un cheeseburger à moitié entamé dans l'autre main.
-
-Entourée de fans passionnés vêtus de maillots et d'écharpes jaune et bleu vifs, créant une atmosphère dramatique de match Al Nassr contre Al Hilal. L'image est cinématographique et spontanée, capturée sous l'angle d'une véritable caméra de diffusion TV avec une faible profondeur de champ.
-
-Inclut des gradins de stade réalistes, une atmosphère de foule énergique, des graphiques de score de football en direct et un chronomètre de match dans le coin supérieur gauche, ainsi qu'un filigrane de chaîne sportive dans le coin supérieur droit. Éclairage naturel de stade, texture de peau ultra-détaillée, mise au point nette sur la femme avec un arrière-plan de foule légèrement flou, esthétique authentique de diffusion sportive, composition 16:9.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d2833ef881e922ee7058afd4b3b5868/thumbnails/thumbnail.jpg" width="600" alt="Diffusion sportive avec une femme glamour au stade">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4755)**
-
-**Auteur:** [م.احمد منصور](https://x.com/z_a4n) | **Source:** [Link](https://x.com/z_a4n/status/2054359676343799901) | **Publié:** May 13, 2026
-
----
-### Ange robotique dans un désert post-apocalyptique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique pour une scène de science-fiction épique dans un désert désolé mettant en scène un ange robotique géant.
-
-#### 📝 Prompt
-
-```
-Désert ultra-réaliste au coucher du soleil. Ange robotique géant à moitié enseveli dans les dunes, ailes s'étendant sur des kilomètres. Une pilleuse grimpe à travers la cavité thoracique. Une ancienne armure technologique à halo s'active autour d'elle. Des pillards à moto sautent sur des rampes vers l'épave. La caméra tourne vers le haut autour de l'ange géant. Elle atterrit brutalement, éjecte un motard de sa moto, pivote et en envoie un autre s'écraser contre des débris métalliques. La structure tremble. Image finale : l'œil colossal de l'ange s'ouvre derrière elle.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b2166815781a8e4d94dd78fed2ebfff8/thumbnails/thumbnail.jpg" width="600" alt="Ange robotique dans un désert post-apocalyptique">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4649)**
-
-**Auteur:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2054313667492204747) | **Publié:** May 12, 2026
-
----
-### Portrait de diffusion dans un stade de football
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo réaliste pour un jeune homme dans un stade de football, avec des superpositions de diffusion et un éclairage cinématographique.
-
-#### 📝 Prompt
-
-```
-Une image réaliste en haute définition d'un jeune homme dans un stade de football bondé pendant un match. Il a les cheveux courts et noirs et porte un maillot blanc. La scène le montre assis, pensif, la main sur le menton, jetant des regards autour de lui. Éclairage cinématographique, faible profondeur de champ avec la foule floutée en arrière-plan. Dans le coin supérieur, un tableau d'affichage sportif réaliste affiche « 64:30 DOM 2-1 EXT » avec un badge de superposition de diffusion générique indiquant « LIVE ». L'image présente le léger grain et l'étalonnage des couleurs caractéristiques d'une diffusion télévisée professionnelle.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ffcd659dc09a7304a5461a8369570c06/thumbnails/thumbnail.jpg" width="600" alt="Portrait de diffusion dans un stade de football">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4667)**
-
-**Auteur:** [Nicolas ➔ Conty App](https://x.com/onicolasrivera) | **Source:** [Link](https://x.com/onicolasrivera/status/2054296945573744854) | **Publié:** May 12, 2026
-
----
-### Documentaire sur une supportrice de Manchester United
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo de style documentaire mettant en scène une supportrice de Manchester United dont l'humeur change lorsqu'elle remarque que la caméra de diffusion se concentre sur elle.
-
-#### 📝 Prompt
-
-```
-Vidéo de diffusion sportive de style documentaire ultra-réaliste, 15 secondes, format 16:9. Une jeune femme @image1, portant un maillot rouge de Manchester United, assise parmi les supporters à Old Trafford lors d'un match en direct entre Manchester United et Liverpool. Au début, elle regarde le match calmement et très sérieusement, concentrée sur le jeu et inconsciente de la caméra. Mouvement naturel de la foule autour d'elle, éclairage de stade réaliste, atmosphère de sport en direct, réactions authentiques des supporters et mouvement ambiant. La caméra de diffusion TV zoome lentement vers elle depuis les tribunes, comme un véritable plan de cadreur sportif. Après quelques secondes, elle réalise soudainement que la caméra est braquée sur elle. Elle devient légèrement gênée et esquisse un sourire mignon, timide et maladroit tout en essayant de garder son calme. L'expression doit paraître naturelle, spontanée, non scénarisée et subtilement drôle — comme une vraie personne filmée en direct à la télévision. Pas de jeu d'acteur exagéré. Aspect professionnel de diffusion en direct avec compression d'objectif réaliste, mouvement de caméra sportive à l'épaule, faible profondeur de champ typique de la diffusion, léger flou de mouvement, texture de peau naturelle, étalonnage des couleurs authentique style ESPN / TV sportive, légers artefacts de compression, grain d'entrelacement, réalisme documentaire, bokeh cinématographique de la foule, énergie du stade en direct. Ressemble exactement à un moment authentique figé d'une véritable retransmission télévisée de football.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9badbbdaeaf8ba463732f105e45d6f9f/thumbnails/thumbnail.jpg" width="600" alt="Documentaire sur une supportrice de Manchester United">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4651)**
-
-**Auteur:** [aanggaamc](https://x.com/aanggaamc) | **Source:** [Link](https://x.com/aanggaamc/status/2054281213544964317) | **Publié:** May 12, 2026
-
----
-### Femme glamour lors d'un match de football
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique montrant une femme dans un stade de football passant du statut de simple supportrice à celui de joueuse vedette sur le terrain.
-
-#### 📝 Prompt
-
-```
-Vidéo cinématographique ultra-réaliste de type retransmission sportive en direct, montrant une femme glamour assise dans les tribunes bondées d'un stade de football lors d'un match nocturne. Elle porte une mini-robe ajustée en satin rouge arrivant juste au-dessus des genoux, sans manches et dotée d'une élégante encolure haute, accompagnée de boucles d'oreilles carrées noires. Ses cheveux châtain clair/blonds arrivent aux épaules et sont coiffés en ondulations souples. Elle tient une canette de Red Bull dans une main et un cheeseburger dans l'autre, entourée de fans passionnés portant des maillots et des écharpes jaune et bleu vifs, au sein d'un stade réaliste avec des gradins remplis et un contraste saisissant des couleurs des équipes. La scène commence alors qu'elle prend tranquillement une gorgée de Red Bull tout en tenant son burger, observant le match avec une assurance calme. Elle entend le commentaire du match en direct mentionner quelque chose d'excitant, sourit naturellement et réagit avec une expression confiante et enjouée. Elle se penche ensuite vers l'homme assis à côté d'elle, lui tend le cheeseburger et la canette de Red Bull avec fluidité, puis se lève soudainement avec détermination. Elle descend rapidement des gradins vers le terrain de football tandis que les caméras de diffusion la suivent de manière spectaculaire. Les joueurs sur le terrain la remarquent et semblent attendre son arrivée. La foule réagit avec excitation et surprise. Elle entre avec assurance sur le terrain, court vers le ballon avec une énergie cinématographique au ralenti, en prend le contrôle et le frappe puissamment vers le but. Le ballon finit sa course spectaculaire dans les filets pour un but parfait. Le stade explose de joie, les fans hurlent, les commentateurs s'exclament avec enthousiasme et les joueurs se précipitent vers elle. Les footballeurs l'entourent, l'enlacent joyeusement et célèbrent ensemble comme si elle était la star du match. Capturé entièrement dans un style authentique de retransmission sportive télévisée avec des angles de caméra réalistes, un suivi au zoom, une faible profondeur de champ, l'éclairage naturel des projecteurs du stade, une texture de peau détaillée, des réactions réalistes de la foule, un score et un chronomètre de match incrustés en haut à gauche, un filigrane de chaîne sportive en haut à droite, des mouvements cinématographiques, des expressions faciales ultra-réalistes, une esthétique premium de match en direct, une narration sportive dramatique, composition grand écran 16:9.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a434829ecd8ec80c77a3d5699aabdef/thumbnails/thumbnail.jpg" width="600" alt="Femme glamour lors d'un match de football">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4654)**
-
-**Auteur:** [UxUi Tega (Design & Ai)](https://x.com/Tegadesigns) | **Source:** [Link](https://x.com/Tegadesigns/status/2054273116478812182) | **Publié:** May 12, 2026
-
----
-### Plan cinématographique : Galop de mustang dans le désert
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique montrant un mustang sauvage galopant dans un désert à l'heure dorée, utilisant des angles de caméra variés, du travelling au plan en contre-plongée.
-
-#### 📝 Prompt
-
-```
-Plan-séquence continu. Un mustang sauvage galope en toute liberté à travers une vaste plaine désertique à l'heure dorée, soulevant des nuages de poussière sous ses sabots. [Travelling] La caméra suit le cheval de près tandis que sa crinière et sa queue fouettent violemment le vent. La lumière chaude du soleil étire de longues ombres sur le paysage aride, tandis que des montagnes lointaines scintillent en arrière-plan. [Plan large] Le mustang court à travers les hautes herbes et le terrain rocailleux avec une puissance et une liberté brutes, la poussière tourbillonnant autour de son corps alors que des oiseaux s'envolent dans le ciel. [Contre-plongée] Le cheval ralentit près du sommet d'une colline, respirant lourdement tandis que le coucher de soleil brille derrière lui, créant une silhouette cinématographique spectaculaire.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7517b24425e8fcb4c0bd226e0529975b/thumbnails/thumbnail.jpg" width="600" alt="Plan cinématographique : Galop de mustang dans le désert">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4636)**
-
-**Auteur:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2054264115892224109) | **Publié:** May 12, 2026
-
----
-### Combat d'orque dans une taverne médiévale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une séquence de combat cinématographique détaillée de 15 secondes dans une taverne médiévale, mettant l'accent sur un combat physique réaliste et la gestion de l'inertie.
-
-#### 📝 Prompt
-
-```
-Style : Cinématique de dark fantasy hyper-réaliste en taverne, combat physique ancré dans le réel, inertie corporelle réaliste, atmosphère médiévale, éclairage brut, effets pratiques, caméra portée, mouvements physiquement précis, textures ultra-détaillées, collisions réalistes et interaction avec l'environnement.
-
-Durée : 15 secondes
-Format : 16:9
-
-IMPORTANT :
-Gardez les MÊMES personnages parfaitement cohérents avec la référence :
-— Nyssa : femme athlétique, cheveux bruns bouclés attachés, armure en cuir bronze, bandes de tissu, épée à la hanche
-— Grok : orque vert massif et musclé, peau cicatrisée, armure en fourrure, haches lourdes, poids physique imposant
-
-Le combat DOIT respecter une physique réaliste :
-— pas de lévitation
-— pas de saltos façon anime
-— inertie et récupération réalistes
-— transfert de poids crédible
-— impacts et épuisement réalistes
-— jeu de jambes ancré au sol
-— l'environnement réagit physiquement aux impacts
-
-[00:00-00:02]
-Plan large cinématographique à l'intérieur d'une taverne médiévale bondée, remplie de mercenaires ivres, de bougies, de fumée, de bière renversée et d'acclamations bruyantes. Nyssa traverse la taverne avec prudence sous le regard des clients. Grok est assis à une immense table en bois et boit abondamment. Musique de taverne aux basses profondes et ambiance sonore de foule.
-
-[00:02-00:04]
-Séquence de tension en gros plan :
-— Nyssa croise le regard de Grok
-— Grok se lève lentement, dominant tout le monde
-— les bancs grincent sur le sol
-— les chopes tremblent sous son poids
-— la foule forme un cercle de combat en acclamant bruyamment
-Le mouvement de caméra portée semble réaliste et ancré.
-
-[00:04-00:07]
-Le combat éclate violemment. Grok assène un coup de poing lourd avec une inertie crédible. Nyssa esquive de justesse tout en trébuchant de manière réaliste contre une table en bois. Le bois se fissure et éclate physiquement à l'impact. Elle réplique par des frappes rapides et ancrées au sol vers les côtes et les jambes de Grok. La foule rugit et lance des pièces et des chopes en l'air.
-
-[00:07-00:10]
-Le combat s'intensifie à travers la taverne :
-— Grok attrape Nyssa et la projette sur une table
-— la table explose de manière réaliste sous son poids
-— Nyssa roule au sol en récupérant naturellement
-— Grok charge lourdement, fracassant le mobilier
-— les clients s'écartent de façon réaliste
-Pas de mouvements exagérés, uniquement un combat physiquement crédible.
-
-[00:10-00:12]
-Nyssa utilise sa vitesse et son positionnement avec intelligence. Elle esquive une autre attaque lourde, forçant Grok à s'écraser contre une poutre de soutien. De la poussière et des débris tombent du plafond. Elle grimpe brièvement sur le comptoir du bar et saute avec une inertie contrôlée et réaliste, verrouillant le bras de Grok et utilisant le levier pour le déséquilibrer.
-
-[00:12-00:15]
-Climax cinématographique final. Nyssa plaque Grok au sol violemment sur des débris de bois. Le sol tremble sous l'impact. Elle l'immobilise au sol en plaçant une lame près de sa gorge. Grok lutte de manière réaliste malgré la différence de poids et l'épuisement. La foule de la taverne explose de joie, frappant les tables avec leurs chopes. La caméra se rapproche lentement de Nyssa, essoufflée, alors que la sueur, la saleté et la lueur des bougies scintillent sur les deux combattants.
-
-Audio :
-Effets sonores de bataille cinématographique lourde en taverne
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a21f54a796837fa9abf5826a1ad79c8/thumbnails/thumbnail.jpg" width="600" alt="Combat d'orque dans une taverne médiévale">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4674)**
-
-**Auteur:** [Keskin](https://x.com/craftian_keskin) | **Source:** [Link](https://x.com/craftian_keskin/status/2054261463670202622) | **Publié:** May 12, 2026
-
----
-### Caméra de foule avant-combat UFC
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo détaillé en plusieurs séquences pour une diffusion avant-combat de l'UFC, incluant un montage de caméra de foule et une interaction avec la caméra.
-
-#### 📝 Prompt
-
-```
-Séquence vidéo de diffusion avant-combat UFC ultra-réaliste, montage de caméra de foule dans une arène comble avec projecteurs dramatiques, ombres profondes et l'atmosphère électrique caractéristique du bord de l'octogone. Effet de caméra portée avec mouvement subtil, éclairage d'arène cinématographique, noirs profonds, faible profondeur de champ, composition 16:9, esthétique authentique de PPV en direct. Séquence 1 (0:00–0:03) : La caméra trouve un célèbre combattant de MMA assis au bord de la cage dans un costume élégant, hochant la tête en signe d'approbation, la cage visible derrière lui. La voix off de l'annonceur commence, décontractée et énergique : « Et regardez qui est dans la salle ce soir — toujours un plaisir de voir le champion au bord de la cage... » Séquence 2 (0:03–0:05) : Panoramique fluide de la caméra sur les fans en liesse, écrans de téléphone lumineux, un bref flou de mouvement lors du balayage vers le sujet suivant. Séquence 3 (0:05–0:10) : La caméra se fixe sur un homme chauve, athlétique et svelte, assis dans la foule — t-shirt de compression noir ajusté avec coutures contrastantes rouges et un petit logo circulaire sur la poitrine, fin collier en cordon noir, bouc poivre et sel soigneusement taillé, yeux bleu-gris perçants, manches de tatouages géométriques complexes avec des motifs de mandala et de géométrie sacrée couvrant les deux bras. Il est en pleine conversation, se penchant légèrement vers un autre combattant bien connu assis à côté de lui, gesticulant d'une main, riant de quelque chose, totalement inconscient de la caméra. L'annonceur poursuit : « ...et juste à côté de lui, Ori Silver est présent dans la salle — » Séquence 4 (0:10–0:12) : Ori remarque la caméra dans sa vision périphérique, tourne la tête vers l'objectif, les yeux s'écarquillent dans une expression ludique de « oh — moi ? », les sourcils se haussent, la bouche légèrement ouverte dans une fausse surprise. L'annonceur, parfaitement synchronisé avec le regard : « — toujours aussi musclé... » Séquence 5 (0:12–0:15) : L'expression se transforme en un sourire confiant, il lève son bras droit et contracte fortement son biceps, le t-shirt de compression se tendant sur le muscle, les tatouages bougeant avec le mouvement. Il maintient la contraction tout en fixant la caméra. L'annonceur conclut avec humour : « ...un homme dangereux, ce type. » Incrustation graphique en bas d'écran avec les détails du combat, filigrane style ESPN/UFC en haut à droite. Texture de peau détaillée, reflets de sueur sous les lumières de l'arène, léger zoom sur la séquence de contraction, timing de réaction naturel tout au long — pas de coupes précipitées, laissez chaque séquence respirer.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e2ffe5859e769cd9e7722713b4f3315/thumbnails/thumbnail.jpg" width="600" alt="Caméra de foule avant-combat UFC">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4657)**
-
-**Auteur:** [Ori Silver](https://x.com/OriSilver) | **Source:** [Link](https://x.com/OriSilver/status/2054258828225720827) | **Publié:** May 12, 2026
-
----
-### Diffusion en direct d'une foule dans un stade
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt très détaillé pour une scène de diffusion sportive spontanée montrant une femme dans la foule d'un stade lors d'un match en soirée.
-
-#### 📝 Prompt
-
-```
-Image fixe ultra-réaliste d'une diffusion sportive montrant une femme élégante assise dans la foule d'un stade de football bondé lors d'un match en soirée. Elle porte un haut sans manches à col montant en satin marron foncé et des boucles d'oreilles carrées noires. Ses cheveux mi-longs châtain clair/blond sont coiffés en ondulations souples. Elle boit nonchalamment dans une grande canette en aluminium bleue tout en tenant un cheeseburger à moitié entamé dans l'autre main. Autour d'elle, des supporters portent des maillots et des écharpes jaune vif et bleu, créant un fort contraste de couleurs d'équipe. La scène est spontanée et cinématographique, capturée en plein milieu du match avec un angle de caméra de diffusion télévisée et une faible profondeur de champ. Inclut des sièges de stade réalistes, une atmosphère de foule dense, des graphiques en surimpression dans le coin supérieur gauche affichant le score du match en direct et le chronomètre, ainsi qu'un filigrane de chaîne sportive dans le coin supérieur droit. Éclairage naturel d'arène, texture de peau détaillée, mise au point nette sur la femme, arrière-plan de la foule légèrement flou, esthétique authentique de diffusion sportive en direct, composition 16:9.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/28b403c5e8f81daeb30f741508d5120e/thumbnails/thumbnail.jpg" width="600" alt="Diffusion en direct d'une foule dans un stade">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4644)**
-
-**Auteur:** [Noor 🌸](https://x.com/Noor_ul_ain43) | **Source:** [Link](https://x.com/Noor_ul_ain43/status/2054253919027744859) | **Publié:** May 12, 2026
-
----
-### Photo glamour d'un stade de baseball de nuit
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Génère une vidéo cinématographique de diffusion sportive en direct d'une jeune femme élégante lors d'un match de baseball nocturne, capturant sa réaction alors qu'elle apparaît sur l'écran géant.
-
-#### 📝 Prompt
-
-```
-Un plan cinématographique de diffusion sportive en direct capturant une superbe jeune femme blonde assise au milieu d'une foule dense lors d'un match de baseball nocturne. Elle a de longs cheveux blonds, des yeux bleus saisissants et porte une luxueuse veste en fausse fourrure blanche avec des fermetures à bascule noires. La caméra provient clairement d'une retransmission télévisée officielle du stade, et non d'un enregistrement par téléphone, avec une qualité de production authentique de style MLB, un cadrage avec zoom fluide, une compression de profondeur propre aux caméras de diffusion et une cinématographie sportive télévisuelle réaliste.
-La vidéo s'ouvre sur la diffusion du stade se concentrant soudainement sur elle dans la foule tandis que le match de baseball se poursuit en arrière-plan. Des rangées de spectateurs, des fans en maillots, des sièges de stade, des publicités LED lumineuses et le terrain en activité sont tous visibles derrière elle, renforçant l'impression d'un véritable événement sportif en direct. Le public autour d'elle réagit naturellement, discutant, encourageant et regardant le match, tandis qu'elle reste calme, élégante et totalement indifférente à l'attention.
-Alors que son visage apparaît sur l'écran géant et dans le flux télévisé en direct, les commentateurs sportifs cessent brièvement de parler du match pour admirer sa beauté sur un ton de commentaire sportif professionnel et enjoué. Elle se remarque sur le grand écran et esquisse un sourire subtil et décontracté directement vers la caméra de diffusion avant de détourner le regard avec une expression cool et naturelle.
-Les projecteurs professionnels du stade illuminent son visage avec un look glamour de diffusion contrastant avec l'atmosphère sombre du match nocturne. Prise de vue en plan moyen au téléobjectif avec une faible profondeur de champ, de sorte qu'elle reste le point focal net tandis que la foule énergique et l'environnement du stade restent visibles mais doucement floutés derrière elle. Mouvement ultra-réaliste, mouvement de caméra authentique de diffusion sportive, étalonnage cinématographique, ambiance de foule réaliste, énergie d'un match de baseball télévisé, esthétique télévisuelle haut de gamme, détail photoréaliste 8K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/659f1e32add0e3a123831b7498f40d70/thumbnails/thumbnail.jpg" width="600" alt="Photo glamour d'un stade de baseball de nuit">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4659)**
-
-**Auteur:** [Johnn](https://x.com/john_my07) | **Source:** [Link](https://x.com/john_my07/status/2054236315781321171) | **Publié:** May 12, 2026
-
----
-### Récit d'action de football au stade
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt narratif cinématographique complexe de 15 secondes se déroulant dans un stade de football avec des actions spécifiques minutées.
-
-#### 📝 Prompt
-
-```
-Utilisez l'image de référence téléchargée comme image de départ exacte et maintenez une cohérence totale pour la même fille, le même visage, la même coiffure, la même robe fleurie crème, le même seau de pop-corn, le même public, les mêmes supporters en jaune, le même éclairage, la même atmosphère de retransmission de football et la même qualité de caméra sportive réaliste tout au long de la vidéo. Scène de nuit ultra-réaliste dans un stade de football, match en direct, foule en délire, sifflets, commentaires résonnant dans le stade, atmosphère immersive, rendu de retransmission sportive premium, qualité cinématographique hollywoodienne, mouvement de foule réaliste, faible profondeur de champ, flou de mouvement naturel, texture de peau réaliste, mouvement corporel réaliste. 0s–2s : Commencez exactement à partir de l'image téléchargée. La fille regarde calmement le match tout en mangeant du pop-corn naturellement. Clignements d'yeux et respiration subtils. Les supporters derrière elle réagissent naturellement au match en cours. Bruit de foule intense partout. Zoom cinématographique lent vers son visage. 2s–4s : Elle réalise soudainement que la caméra du stade est braquée sur elle. Son expression se transforme en un doux sourire timide. Elle pose délicatement le seau de pop-corn sur le siège vide à sa gauche. Elle prend ensuite un petit mouchoir blanc et s'essuie gracieusement les doigts et les lèvres. Le mouvement de la foule et l'action du match se poursuivent naturellement en arrière-plan. 4s–6s : Elle se lève avec assurance. Ses cheveux et sa robe bougent naturellement sous l'effet du vent du stade. Un travelling fluide la suit alors qu'elle marche vers les escaliers menant au terrain. Les supporters proches l'acclament avec enthousiasme. 6s–8s : Coupe près de la ligne de touche. Action de jeu rapide. Un joueur tire accidentellement le ballon avec force dans sa direction. Angle de caméra dynamique de retransmission sportive. 8s–10s : Moment cinématographique au ralenti. Elle réagit instantanément et renvoie le ballon avec puissance et précision vers le terrain dans un mouvement athlétique élégant. Une caméra en contre-plongée suit le ballon volant de manière spectaculaire à travers les projecteurs du stade. 10s–11s : Plan cinématographique ultra-large du stade. Le ballon entre directement dans le filet. Le gardien de but le manque complètement. Tout le stade explose de joie, avec des supporters qui crient, sautent et agitent des écharpes. 11s–12s : Coupes rapides et énergiques sur les réactions des spectateurs. Fans filmant avec leurs téléphones, criant, célébrant sauvagement, énergie immense du stade. 12s–15s : La caméra revient sur elle en plan moyen cinématographique. Elle regarde directement l'objectif avec assurance et un doux sourire, fait un clin d'œil espiègle, puis envoie un baiser élégant vers la caméra. Les acclamations continuent derrière elle. Fin avec un plan héroïque cinématographique et l'atmosphère du stade. Style de caméra : caméra de retransmission sportive en direct, travellings cinématographiques, zooms fluides, mouvement de caméra à l'épaule réaliste, suivis dynamiques, coupes sur les réactions émotionnelles de la foule, ralenti lors du tir, éclairage de stade immersif.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8b3fd1d0616f5f8a97393f71c480dd5a/thumbnails/thumbnail.jpg" width="600" alt="Récit d'action de football au stade">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4648)**
-
-**Auteur:** [auqib](https://x.com/auqibhabib) | **Source:** [Link](https://x.com/auqibhabib/status/2054229192490037750) | **Publié:** May 12, 2026
-
----
-### Action d'invasion extraterrestre cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt d'action de science-fiction intense mettant en scène un guerrier surhumain volant à travers une ville cyberpunk lors d'une invasion extraterrestre.
-
-#### 📝 Prompt
-
-```
-Guerrier surhumain futuriste volant à travers une ville cyberpunk lors d'une invasion extraterrestre massive, reflets de néons partout, atmosphère de film d'action de science-fiction cinématographique, explosions d'énergie, gratte-ciels qui s'effondrent, visuels ultra-réalistes, prises de vue aériennes épiques, éclairage dramatique façon Hollywood, scène de blockbuster style Marvel
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ffda6868a41738ccd7c72cdbe4facf89/thumbnails/thumbnail.jpg" width="600" alt="Action d'invasion extraterrestre cyberpunk">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4665)**
-
-**Auteur:** [Flip | The AI Boy](https://x.com/Flip_Tab) | **Source:** [Link](https://x.com/Flip_Tab/status/2054224808746074477) | **Publié:** May 12, 2026
-
----
-### Bataille spatiale de science-fiction épique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique riche en action mettant en scène un super-héros combattant un monstre géant dans l'atmosphère terrestre avec des effets visuels explosifs.
-
-#### 📝 Prompt
-
-```
-Puissant héros énergétique combattant un monstre extraterrestre géant au-dessus de l'atmosphère terrestre, bataille spatiale cinématographique, explosions omniprésentes, pouvoirs cosmiques lumineux, atmosphère de film de science-fiction dramatique, effets visuels ultra-réalistes, composition d'action épique à la Hollywood
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0246f4b8a26994be78ad8afa78709a11/thumbnails/thumbnail.jpg" width="600" alt="Bataille spatiale de science-fiction épique">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4669)**
-
-**Auteur:** [Peter](https://x.com/TechwithPeter) | **Source:** [Link](https://x.com/TechwithPeter/status/2054224735190536510) | **Publié:** May 12, 2026
-
----
-### Voleuse de temps futuriste au néon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo narratif pour une scène de science-fiction mettant en scène un personnage qui vole du temps dans une ville futuriste illuminée par des néons.
-
-#### 📝 Prompt
-
-```
-Une ville fantastique futuriste et lumineuse de nuit, remplie de néons et de symboles étranges. Des formes d'horloges flottent dans les airs et des fragments de temps dérivent comme de la poussière incandescente. Les rues sont bondées, mais les gens se déplacent avec des mouvements saccadés et irréguliers, comme si le temps ne s'écoulait pas normalement. La caméra avance lentement et montre une jeune fille sud-asiatique marchant à travers la ville. Son visage et tous ses traits doivent rester exactement identiques à l'image de référence fournie dans chaque plan. Elle semble calme et consciente tout en marchant dans cet environnement étrange.
-
-Dans une ruelle étroite, elle effleure ou croise un inconnu. Un léger effet magique s'active. Cinq secondes de temps sont dérobées à l'inconnu et se transforment en lignes d'énergie lumineuses qui se dirigent vers sa main. L'inconnu se fige un instant et des morceaux d'horloge brillants tourbillonnent autour de lui dans les airs. La jeune fille reste calme, mais une légère charge émotionnelle se lit sur son visage.
-
-Ensuite, elle se tient seule sous des fragments d'horloges flottants. Ses souvenirs commencent à se briser et à bugger. De brefs flashs de visages, de lieux et d'émotions apparaissent et s'estompent comme une vidéo endommagée. Elle réalise lentement qu'à chaque fois qu'elle vole des secondes, elle perd des parties de sa propre mémoire. La caméra reste proche et se déplace lentement pour montrer son état émotionnel.
-
-Dans la partie finale, elle continue de marcher à travers la ville au néon. L'environnement semble plus lourd et plus vide, avec de grands morceaux d'horloges flottants tournoyant au-dessus comme une tempête. Bien qu'elle se perde elle-même, elle continue de marcher pour survivre. À la fin, sa silhouette s'estompe lentement dans un brouillard néon incandescent tandis que des particules de temps flottantes l'entourent et disparaissent dans l'obscurité.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fff88d3a4cc7172f4f61a0bb4479e7e0/thumbnails/thumbnail.jpg" width="600" alt="Voleuse de temps futuriste au néon">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4664)**
-
-**Auteur:** [Soulful Ai](https://x.com/soulful__ai) | **Source:** [Link](https://x.com/soulful__ai/status/2054216828688421165) | **Publié:** May 12, 2026
-
----
-### Portrait de foule lors d'une diffusion de match de baseball
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour une image fixe de diffusion haute définition réaliste d'une femme dans la foule d'un stade, mettant l'accent sur l'éclairage et les angles de caméra cinématographiques.
-
-#### 📝 Prompt
-
-```
-Sujet : Une superbe jeune femme aux longs cheveux blonds et aux yeux bleus, assise dans la foule d'un stade lors d'un match de baseball nocturne. Tenue et style : Elle porte une veste en fausse fourrure blanche moelleuse avec des fermetures à bascule noires. Elle affiche une expression « cool et désintéressée », tenant un petit ventilateur électrique blanc près de son visage.
-Environnement et éclairage : * Cadre : Arrière-plan flou d'un stade de baseball bondé avec des spectateurs en maillots et des sièges de stade.
-
-Éclairage : Éclairage de stade professionnel de type diffusion, créant un look « glamour » contrastant avec l'atmosphère sombre du match nocturne.
-Angle de caméra : Plan moyen, angle légèrement en contre-plongée pour souligner qu'elle est le point focal.
-Qualité : Ultra-réaliste, 8K, faible profondeur de champ, étalonnage des couleurs cinématographique, ressemble à une image fixe de diffusion télévisée haute définition.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e5608a161bc244f6c0d36fe3bc3a0dc/thumbnails/thumbnail.jpg" width="600" alt="Portrait de foule lors d'une diffusion de match de baseball">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4658)**
-
-**Auteur:** [Jaukko](https://x.com/Jaukko) | **Source:** [Link](https://x.com/Jaukko/status/2054214477436887341) | **Publié:** May 12, 2026
-
----
-### Ravage urbain par une créature biomécanique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt multi-plans riche en action mettant en scène une créature biomécanique attaquant et détruisant un environnement urbain.
-
-#### 📝 Prompt
-
-```
-Une créature biomécanique massive avec un noyau lumineux, des plaques métalliques superposées en mouvement, aux déplacements à la fois organiques et mécaniques
-Elle fonce à travers une ville, fracassant les bâtiments, puis se reconfigure en plein mouvement pour adopter une forme plus rapide et plus agressive tout en attaquant tout sur son passage
-Environnement urbain dense s'effondrant sous son poids, étincelles, feu et débris partout
-Plan 1 : plan large aérien établissant l'échelle, plongée de drone vers la créature ;
-Plan 2 : travelling bas entre ses jambes, caméra tremblante à chaque pas ;
-Plan 3 : zoom rapide sur la transformation, pièces mécaniques s'articulant en séquence ;
-Plan 4 : plan orbital alors qu'elle détruit des structures, débris volant vers l'objectif
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1279db2f63c0a2126d45f9530025d6ab/thumbnails/thumbnail.jpg" width="600" alt="Ravage urbain par une créature biomécanique">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4661)**
-
-**Auteur:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2054207487784415331) | **Publié:** May 12, 2026
-
----
-### Course-poursuite Cyberpunk dans le ciel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une séquence de course-poursuite cinématographique intense dans le ciel d'une cité flottante, avec des mouvements de caméra aériens dynamiques et des essaims de drones.
-
-#### 📝 Prompt
-
-```
-Une cité flottante gigantesque au-dessus d'une mer de nuages infinie au coucher du soleil. Des passerelles suspendues étroites, des marchés suspendus, des ponts à turbines, des câbles lumineux et des précipices vertigineux disparaissant dans le brouillard. Une sky-runner portant une armure légère assistée par vol et une cape sombre flottante. Des chasseurs en moto volante, des drones de sécurité flottants et des tourelles de défense automatisées fixées aux structures. Plan de suivi cinétique rapide au plus près de la coureuse. Mouvement aérien fluide mêlé à des chutes soudaines et des plongées verticales abruptes. La caméra pivote dynamiquement lors des sauts entre les structures flottantes. Elle sprinte sur des ponts suspendus tandis que des sections s'effondrent derrière elle. Les motos volantes traversent les allées du marché, projetant des débris dans le ciel ouvert. Elle court sur les parois des structures à turbines, saute par-dessus des gouffres impossibles et plonge dans des puits de maintenance illuminés par des câbles énergétiques. Des drones pullulent dans les couloirs étroits tandis que les nuages défilent sous la ville. Elle saute du bord de la cité dans des nuages denses alors que les lumières des poursuivants s'estompent au-dessus. La caméra suit brièvement avant que la visibilité ne disparaisse complètement.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04a73d9badd644eca710655e943f4514/thumbnails/thumbnail.jpg" width="600" alt="Course-poursuite Cyberpunk dans le ciel">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4675)**
-
-**Auteur:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2054206713046208925) | **Publié:** May 12, 2026
-
----
-### Réaction de supporters lors d'un match de football
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt réaliste de diffusion sportive capturant la réaction émotionnelle et l'accolade de célébration d'un couple lors d'un match de football en direct.
-
-#### 📝 Prompt
-
-```
-Créez un clip réaliste de diffusion télévisée en direct d'un match de football entre l'Argentine et le Portugal, centré sur le plan de réaction d'un couple dans les tribunes. Mettez en scène la même femme et le même homme @image_1 assis côte à côte, en veillant à la cohérence de leurs tenues, des spectateurs environnants et de l'atmosphère générale du stade. La bannière de diffusion à l'écran doit rester totalement inchangée et parfaitement stable, sans scintillement, distorsion ou altération du texte, des chiffres ou des logos. Utilisez un rendu authentique de diffusion au téléobjectif avec un léger mouvement de caméra de stade. Le couple regarde joyeusement le match ensemble : visiblement enthousiastes, ils se penchent l'un vers l'autre, leurs mains naturellement entrelacées sur leurs genoux. Lorsqu'un moment clé du match se produit, leur réaction s'intensifie : ils se tournent l'un vers l'autre avec joie, et l'homme l'attire dans une accolade de célébration chaleureuse et naturelle, tous deux riant ou souriant sur le moment. Enchaînez ensuite avec un plan de diffusion plus serré sous un angle légèrement différent, préservant l'énergie chaleureuse avec seulement un léger mouvement. Gardez les supporters alentour naturels, légèrement flous, orientés dans la même direction, tout en maintenant un réalisme de diffusion en direct, une faible profondeur de champ et une atmosphère authentique de télévision sportive.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8231de1cbe459c0bcd44e5bb362e982c/thumbnails/thumbnail.jpg" width="600" alt="Réaction de supporters lors d'un match de football">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4670)**
-
-**Auteur:** [WasifAI](https://x.com/doctorwasif) | **Source:** [Link](https://x.com/doctorwasif/status/2054205749438583246) | **Publié:** May 12, 2026
-
----
-### Diffusion en direct d'une fan au stade du FC Barcelona
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo détaillé pour générer une scène de diffusion sportive photoréaliste mettant en vedette une fan réagissant à un but dans le stade du FC Barcelona.
-
-#### 📝 Prompt
-
-```
-Séquence de diffusion sportive verticale 9:16 photoréaliste. Une jeune femme au teint de porcelaine, aux cheveux bruns lissés en un chignon bas, portant des boucles d'oreilles en perles et un maquillage glamour subtil, est assise dans les tribunes du stade du FC Barcelona, vêtue du maillot domicile du Barça. Cadrage compressé au téléobjectif, faible profondeur de champ, fans en arrière-plan flou tenant des écharpes et des drapeaux.
-Séquence de mouvement : Elle est assise, détendue, souriant doucement vers le terrain — puis son expression change : ses yeux s'écarquillent, ses lèvres s'entrouvrent légèrement, sa tête se tourne vers la gauche en direction du terrain pour réagir à un but. Un lent zoom avant sur son visage révèle les pores de la peau, les reflets naturels dans ses yeux, l'éclat du rouge à lèvres. Elle porte une main à sa joue, puis laisse éclater un sourire radieux. Les fans s'agitent derrière elle dans un mouvement de bokeh doux.
-Caméra : Lent zoom manuel, léger tremblement naturel, compression téléobjectif de diffusion. Graphismes en surimpression de télévision sportive dans les coins supérieurs. HUD de score de match en direct. Esthétique de diffusion beIN Sports.
-Style : Cinématographique 4K, étalonnage des couleurs chaud des projecteurs du stade, flou de mouvement naturel, micro-expressions faciales ultra-détaillées, texture de peau photoréaliste, énergie de reel viral.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9ffc2cd26819e165ec9c32dc81e766b/thumbnails/thumbnail.jpg" width="600" alt="Diffusion en direct d'une fan au stade du FC Barcelona">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4656)**
-
-**Auteur:** [Ciri](https://x.com/Ciri_ai) | **Source:** [Link](https://x.com/Ciri_ai/status/2054200114475077703) | **Publié:** May 12, 2026
-
----
-### Solitude cinématographique par temps de pluie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique multi-plans capturant l'esthétique d'une journée pluvieuse et calme, avec un éclairage chaleureux, une atmosphère douillette et une voix off intimiste.
-
-#### 📝 Prompt
-
-```
-[PLAN 1 — 0:00–0:03] Très gros plan sur deux mains entourant une tasse en céramique, la vapeur s'élevant en spirales lentes et paresseuses devant une fenêtre grise sous la pluie. Les gouttes ruissellent silencieusement sur la vitre. Une lumière ambrée et chaude se reflète sur une couverture en laine. Tout est calme. Tout est doux. Voix off — une voix de femme, à peine un murmure : « Certains jours ne sont faits pour rien faire du tout. »
-
-[PLAN 2 — 0:03–0:07] Panoramique lent sur une jeune femme installée au fond d'un large fauteuil — pull en maille oversize, chaussettes en laine, un livre ouvert posé sur ses genoux. Elle ne lit pas. Elle regarde simplement par la fenêtre embuée par la pluie, sans rien fixer en particulier. La caméra se concentre sur son visage — expression douce, totalement naturelle, ses yeux suivant une goutte de pluie qui glisse sur la vitre. Gros plan sur le livre ouvert — un passage surligné, une fleur séchée pressée entre les pages. Voix off, doucement : « Aucun projet. Aucun bruit. Juste toi, la pluie et la chaleur de ce que tu tiens entre tes mains. »
-
-[PLAN 3 — 0:07–0:11] Série de plans lents et intimes — la flamme d'une bougie qui danse doucement sur une table en bois, un chat recroquevillé en boule sur le rebord de la fenêtre observant la pluie, une couverture remontée lentement jusqu'au menton, des pages qui se tournent sans aucune hâte, une cuillère mélangeant du miel dans un thé en lents cercles dorés. Chaque son est doux et délibéré — le tic-tac d'une horloge, la pluie contre la vitre, le bruit discret d'une page que l'on tourne. Voix off, doucement : « Le monde entier court après quelque chose. Et toi — absolument, magnifiquement nulle part. »
-
-[PLAN 4 — 0:11–0:15] Plan large — la pièce entière est visible. Une petite lampe diffuse une lueur ambrée, la pluie bat fort contre toutes les fenêtres, elle s'est endormie dans le fauteuil, le livre glisse doucement de ses genoux, la tasse est encore chaude sur la table d'appoint, la bougie brûle toujours. La caméra recule lentement. La pièce devient plus petite. Plus chaude. Plus silencieuse. Fondu au noir. La pluie continue doucement. Voix off, finale et tendre : « Ça. C'est suffisant. »
-
-VOIX OFF : « Certains jours ne sont faits pour rien faire du tout. Aucun projet. Aucun bruit. Juste toi, la pluie et la chaleur de ce que tu tiens entre tes mains. Le monde entier court après quelque chose. Et toi — absolument, magnifiquement nulle part. Ça. C'est suffisant. »
-
-STYLE : Tons ambrés chauds et gris doux · plans lents et sans hâte · son de pluie en continu · voix off intimiste et chuchotée · éclairage uniquement à la bougie et à la lampe · fondu au noir sur le silence
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b9838e37e989ae8d4f9d155cfef61638/thumbnails/thumbnail.jpg" width="600" alt="Solitude cinématographique par temps de pluie">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4660)**
-
-**Auteur:** [Jasmine Ai](https://x.com/jasminekhan90_) | **Source:** [Link](https://x.com/jasminekhan90_/status/2054192485895909523) | **Publié:** May 12, 2026
-
----
-### Plan de diffusion télévisée d'un supporter dans un stade de football
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de style diffusion télévisée réaliste représentant un supporter dans un stade de football lors d'un match majeur.
-
-#### 📝 Prompt
-
-```
-Un plan de diffusion haute définition et réaliste d'une jeune femme assise dans un stade de football bondé lors d'un match Real Madrid contre Barcelone. Elle a de longs cheveux noirs raides, une peau pâle avec de légères taches de rousseur et des yeux bleus saisissants avec un trait d'eye-liner en œil de chat. Elle porte le maillot domicile blanc du Real Madrid. La scène la montre assise pensivement, la main sur le menton, regardant occasionnellement autour d'elle et ramenant ses cheveux derrière son oreille. Éclairage cinématographique, faible profondeur de champ avec la foule floutée en arrière-plan. Dans le coin supérieur, un tableau d'affichage sportif réaliste affiche '64:30 RMA 2-1 BAR' avec le logo 'bein SPORTS 1 LIVE'. La vidéo présente le léger grain et le mouvement caractéristiques d'une diffusion par caméra de télévision professionnelle.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5224083f0baf0e75972439e76b788a66/thumbnails/thumbnail.jpg" width="600" alt="Plan de diffusion télévisée d'un supporter dans un stade de football">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4641)**
-
-**Auteur:** [Sairah](https://x.com/Sairah_0) | **Source:** [Link](https://x.com/Sairah_0/status/2054177744419000812) | **Publié:** May 12, 2026
-
----
-### Surprise d'un fan de baseball de la KBO
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de diffusion sportive amusant et mignon mettant en scène un fan dans un stade filmé par une caméra, incluant des zooms fluides et des réactions émotionnelles.
-
-#### 📝 Prompt
-
-```
-Plan fixe de caméra de diffusion sur une femme séduisante dans la foule lors d'un match de la KBO, avec le tableau d'affichage et le logo SPOTV visibles. Elle regarde calmement, puis lève les yeux vers l'écran géant et réalise qu'elle est filmée ; la caméra zoome en douceur alors que son expression se transforme en une surprise mignonne. Elle baisse ensuite les yeux timidement, se frotte la nuque et sourit maladroitement tandis que la foule applaudit en arrière-plan. Style de diffusion sportive HD professionnel, superpositions authentiques de télévision en direct, éclairage de stade saisissant et une ambiance amusante et douce de « fan filmé par la caméra ».
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9784ab550358aa65fc30f42032ac203d/thumbnails/thumbnail.jpg" width="600" alt="Surprise d'un fan de baseball de la KBO">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4673)**
-
-**Auteur:** [shirish](https://x.com/shiri_shh) | **Source:** [Link](https://x.com/shiri_shh/status/2054171795402756148) | **Publié:** May 12, 2026
-
----
-### Attaque de boule de feu par un mage style anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo dynamique en style anime 3D mettant en scène un mage lançant une boule de feu destructrice dans une ville.
-
-#### 📝 Prompt
-
-```
-MAGE COURANT, SAUTANT ET LANÇANT UNE BOULE DE FEU DÉTRUISANT UNE VILLE, SCÈNE D'ANIME 3D ULTRA DYNAMIQUE
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f1ddb324587f622dd3b7f8881f1738b3/thumbnails/thumbnail.jpg" width="600" alt="Attaque de boule de feu par un mage style anime">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4668)**
-
-**Auteur:** [Cia0](https://x.com/Cia0_exe) | **Source:** [Link](https://x.com/Cia0_exe/status/2054161920253739123) | **Publié:** May 12, 2026
-
----
-### Horreur : La bête aquatique de la forêt tropicale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo d'horreur cinématographique avec une progression multi-scènes mettant en scène l'attaque d'une créature dans une forêt tropicale sombre.
-
-#### 📝 Prompt
-
-```
-Scène d'horreur cinématographique 4K ultra-réaliste dans une forêt tropicale sombre au crépuscule. Étalonnage des couleurs bleu-noir mélancolique, éclairage tamisé à la lanterne, atmosphère brumeuse, physique de l'eau réaliste, rendu d'objectif anamorphique, texture de peau naturelle, mouvement de caméra cinématographique à l'épaule, réalisme ancré, rythme plein de suspense, échelle terrifiante, conception sonore de style Dolby, aucune couleur vive.
-
-**Scène 1 (0–4s) :**
-Plan large au drone d'une petite cabane en bois construite au-dessus d'un cours d'eau au cœur d'une forêt tropicale dense. Un jeune couple est assis paisiblement sur la terrasse, les jambes suspendues au-dessus de l'eau, profitant tranquillement de la vue. La lumière tamisée d'une lanterne brille à leurs côtés. L'eau s'écoule doucement sous la cabane. La caméra avance lentement avec un léger mouvement à l'épaule. Atmosphère calme mais inquiétante. Reflets sur le bois humide, brouillard sur l'eau, tons vert sombre de la jungle, profondeur de champ cinématographique. Musique d'ambiance douce, insectes, sons lointains de la jungle.
-
-**Scène 2 (4–7s) :**
-Coupe sur un angle bas près de la surface de la rivière. L'eau commence à vibrer de manière anormale. Des ondulations se propagent rapidement sous la terrasse. La lumière de la lanterne vacille doucement. Le tremblement de la caméra augmente légèrement. Une gigantesque silhouette sombre se déplace sous la cabane, partiellement visible à travers l'eau trouble. Le couple remarque le mouvement et devient nerveux. Grondement sous-marin profond, craquements du bois, basses pleines de suspense.
-
-**Scène 3 (7–11s) :**
-Soudain, une gigantesque et terrifiante bête aquatique ressemblant à un mammifère jaillit de la rivière à côté de la terrasse avec des détails ultra-réalistes effrayants. Des mâchoires massives s'ouvrent en grand, révélant d'énormes dents acérées. Éclaboussures d'eau violentes au ralenti. Peau humide et cicatrisée avec des reflets réalistes et une texture gris-noir sombre. La créature grimpe partiellement sur la terrasse en bois. Le couple hurle et recule en panique. La caméra recule rapidement avec un tremblement intense à l'épaule, comme un véritable cadreur réagissant naturellement. Reflets dramatiques de la lanterne et du clair de lune, destruction cinématographique, échelle terrifiante.
-
-**Scène 4 (11–15s) :**
-La créature géante rampe agressivement vers le couple sur la terrasse en bois en rugissant. Le bois craque sous son poids massif. Le couple s'enfuit dans la jungle sombre derrière la cabane. La caméra suit le mouvement avec une frénésie à l'épaule à travers le brouillard et l'obscurité. Plan final : la créature s'arrête près du bord de la rivière et fixe directement la caméra avec des reflets brillants dans les yeux et une respiration lourde. Coupe brutale au noir. Un rugissement puissant résonne, la musique s'arrête brusquement, le bruit de l'eau qui coule persiste dans l'obscurité.
-
-Prompt négatif
-dessin animé, couleurs fantastiques, CGI irréaliste, éclairage sursaturé, textures floues, faible réalisme, style anime, physique de l'eau factice, expressions ridicules, anatomie déformée, plein jour, ambiance joyeuse, faible niveau de détail, membres supplémentaires.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/927ce3a3028bf47f1b4bfcef3ead3960/thumbnails/thumbnail.jpg" width="600" alt="Horreur : La bête aquatique de la forêt tropicale">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4666)**
-
-**Auteur:** [Al-Shamus](https://x.com/im_shahid7) | **Source:** [Link](https://x.com/im_shahid7/status/2054161708302876797) | **Publié:** May 12, 2026
-
----
-### Diffusion en direct du public lors d'un match de cricket IPL
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour simuler une prise de vue en direct d'un match de cricket IPL montrant un membre du public VIP assis à côté d'une célébrité.
-
-#### 📝 Prompt
-
-```
-Prise de vue en direct d'un match IPL, 16:9, 1080p. Gros plan au téléobjectif capturant le moment où la personne de l'image de référence est assise à côté de Priyanka Chopra Jonas dans la section VIP d'un stade de cricket IPL bondé lors d'un match de nuit. Priyanka porte une tenue de stade élégante et luxueuse, tandis que la personne de référence porte un streetwear moderne haut de gamme. Tous deux sont assis naturellement parmi la foule, observant initialement le match de cricket avec des expressions calmes et concentrées. Après avoir brièvement remarqué la caméra du stade, ils regardent doucement vers l'objectif et font un signe de la main subtil et naturel avec un léger sourire — expressions faciales minimales, pas d'excitation, pas de réactions exagérées, pour conserver un aspect authentique de diffusion premium.
-Seuls des mouvements subtils et réalistes : Priyanka repousse légèrement une mèche de cheveux et lève doucement une main pour un signe calme, tandis que la personne de référence change légèrement de posture et fait un petit signe de la main décontracté. Les spectateurs en arrière-plan restent naturellement absorbés par l'ambiance du match. Prise de vue avec un objectif de diffusion sportive 150 mm, faible profondeur de champ cinématographique, bokeh de stade doux, éclairage réaliste par projecteurs, atmosphère authentique de foule de cricket indien, textures de peau naturelles, micro-tremblements de caméra à l'épaule pour un rendu broadcast, cadrage sportif cinématographique et graphismes de tableau de bord style IPL avec bandeau d'informations sportives en hindi et anglais dans le coin. Réalisme de diffusion sportive haute fidélité, sans pose, sans réactions dramatiques, sans coupures.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df97a1001051201eeb16f1aa9978a653/thumbnails/thumbnail.jpg" width="600" alt="Diffusion en direct du public lors d'un match de cricket IPL">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4640)**
-
-**Auteur:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2054159206220230878) | **Publié:** May 12, 2026
-
----
-### Vidéo cinématique d'un explorateur dans un temple de la jungle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématique pour un aventurier explorant un ancien temple de la jungle au lever du soleil, mettant l'accent sur les détails réalistes et l'éclairage.
-
-#### 📝 Prompt
-
-```
-Jeune explorateur marchant à travers un ancien temple de la jungle au lever du soleil, atmosphère d'aventure cinématique, lumière du soleil filtrant à travers les arbres, ruines mystérieuses, sac à dos et tenue réalistes, particules de poussière dans l'air, éclairage dramatique, scène de film épique, ultra réaliste, environnement détaillé, composition cinématique, rendu film 35mm, étalonnage des couleurs chaud, travelling lent, mouvement de vent léger, mouvement réaliste, ambiance aventureuse, flou de mouvement cinématique fluide
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9506873d2a024df7a2e40555812a4701/thumbnails/thumbnail.jpg" width="600" alt="Vidéo cinématique d'un explorateur dans un temple de la jungle">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4638)**
-
-**Auteur:** [Adina](https://x.com/TechwithAdina) | **Source:** [Link](https://x.com/TechwithAdina/status/2054147190646563205) | **Publié:** May 12, 2026
-
----
-### Routine matinale d'une influenceuse beauté
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique scénarisé pour la routine matinale d'une influenceuse beauté, avec des détails macro et un éclairage naturel.
-
-#### 📝 Prompt
-
-```
-Une douce lumière matinale inonde une pièce minimaliste et luxueuse, où la jeune femme est assise devant un miroir entouré de produits de beauté esthétiques et épurés. Elle regarde directement l'objectif avec un sourire doux, tenant délicatement un flacon de fond de teint tandis que la caméra avance lentement, se concentrant sur le grain naturel de sa peau. D'un ton calme d'influenceuse, elle déclare : « Ok, commençons par ma routine éclat quotidienne… » La scène bascule en douceur vers un gros plan où elle applique son fond de teint à l'aide d'un beauty blender, sa peau paraissant impeccable, fraîche et naturellement rayonnante, tandis que des plans subtils des produits reposent élégamment sur la coiffeuse ; elle poursuit : « Pour cette base, l'idée est de rester légère, fraîche et naturelle… » La caméra passe en mode macro cinématographique alors qu'elle entame le maquillage des yeux, appliquant délicatement fard à paupières et mascara, puis ajoutant une touche d'enlumineur sur ses pommettes. Son expression est concentrée mais détendue, avec l'assurance d'une influenceuse, alors qu'elle dit : « Un peu de définition sur les yeux… et ce glow naturel fait toute la différence. » Enfin, elle se tourne doucement vers la caméra pour révéler un look « soft glam » complet, au teint éclatant et aux détails soignés ; la caméra dézoome lentement avec un léger reflet d'objectif tandis qu'elle sourit et conclut : « Et voilà mon soft glam quotidien. Simple, sans effort, toujours moi. »
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/831ee84b252cc0cbb1d2bd095534d768/thumbnails/thumbnail.jpg" width="600" alt="Routine matinale d'une influenceuse beauté">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4646)**
-
-**Auteur:** [Soulful Ai](https://x.com/soulful__ai) | **Source:** [Link](https://x.com/soulful__ai/status/2054140728390156453) | **Publié:** May 12, 2026
-
----
-### Femme d'affaires géante à New York
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique surréaliste pour générer une vidéo d'une femme d'affaires géante marchant dans les rues de New York.
-
-#### 📝 Prompt
-
-```
-Une séquence cinématographique surréaliste et très détaillée mettant en scène une femme d'affaires gigantesque marchant dans les rues de New York. Elle porte une chemise blanche à col, un gilet à fines rayures sombres, un pantalon noir et des escarpins rouges remarquables.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1ccc0d9bb83bdb8699ddf1afc4cac94c/thumbnails/thumbnail.jpg" width="600" alt="Femme d'affaires géante à New York">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4652)**
-
-**Auteur:** [Calira](https://x.com/CaliraVal) | **Source:** [Link](https://x.com/CaliraVal/status/2054135958799593838) | **Publié:** May 12, 2026
-
----
-### Lara, l'histoire VFX de l'agent secret
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un court prompt de narration VFX sur une fille nommée Lara qui fait preuve d'intrépidité dans une aire de jeux.
-
-#### 📝 Prompt
-
-```
-« LARA : L'AGENT SECRET DE L'INTRÉPIDITÉ » — Story VFX virale de 10 s. 0–2 s : Une aire de jeux sous un soleil doré. Une fille spéciale, Lara, murmure avec assurance : « Je suis un agent secret. » Les enfants rient… certains s'enfuient en se moquant d'elle. 2–5 s : Zoom de la caméra — un effet visuel scintillant au ralenti entoure Lara alors que le vent se lève. Coupe soudaine : un cerisier lumineux se balance… quelque chose bouge. 5–8 s : Un perce-oreille apparaît sur la branche. Les enfants paniquent et reculent de peur. Le son baisse — les battements de cœur s'intensifient. Mais Lara s'avance calmement. Gros plan : des yeux intrépides. 8–10 s : Elle touche doucement la branche. Le perce-oreille s'éloigne paisiblement. Une douce lueur dorée se répand — la peur se dissipe.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4cb06c7ee910d18008867ba295f3448/thumbnails/thumbnail.jpg" width="600" alt="Lara, l'histoire VFX de l'agent secret">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4655)**
-
-**Auteur:** [Aneeza Ai](https://x.com/Aneeza__S) | **Source:** [Link](https://x.com/Aneeza__S/status/2054127489149182327) | **Publié:** May 12, 2026
-
----
-### Animation faciale de personnage mystérieux
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de performance faciale détaillé conçu pour préserver l'identité d'un personnage tout en capturant des expressions subtiles et mystérieuses sur une durée de 15 secondes.
-
-#### 📝 Prompt
-
-```
-Utilisez le personnage fourni @[character reference] comme référence d'identité fixe.
-
-Créez une vidéo de performance faciale de 15 secondes.
-
-Le personnage est mignon, doux, charmant et légèrement mystérieux.
-Préservez le visage, les cheveux, les proportions, l'âge et le style du personnage.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bbc5eec588d95b4816e9516b5381eea/thumbnails/thumbnail.jpg" width="600" alt="Animation faciale de personnage mystérieux">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4676)**
-
-**Auteur:** [Kōda](https://x.com/aimikoda) | **Source:** [Link](https://x.com/aimikoda/status/2054120306004856859) | **Publié:** May 12, 2026
-
----
-### Séquence de mystère de science-fiction : Tempête martienne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de science-fiction cinématographique mettant en scène un astronaute découvrant une cité antique lors d'une tempête de sable sur Mars.
-
-#### 📝 Prompt
-
-```
-Un mystère de science-fiction cinématographique se déroulant pendant une violente tempête de sable martienne.
-
-0–3s : Un astronaute solitaire lutte pour avancer dans le désert rouge de Mars lors d'une tempête de sable massive. La visibilité est réduite, les vents hurlent violemment et des alertes clignotent à l'intérieur de l'affichage tête haute (HUD) de son casque.
-
-3–6s : La foudre déchire la tempête, révélant brièvement d'énormes structures en pierre antiques enfouies sous le sable. L'astronaute s'arrête, sous le choc, alors que des symboles extraterrestres lumineux commencent à briller sous la poussière.
-
-6–9s : L'explorateur pénètre dans l'entrée d'un gigantesque temple caché, sculpté à même la montagne. Des piliers massifs s'élèvent dans l'obscurité tandis qu'une étrange énergie bleue pulse à travers les murs. Les pas résonnent dans le silence.
-
-9–12s : Au plus profond du temple, un immense artefact flottant s'active à l'approche de l'astronaute. Des cartes stellaires holographiques antiques apparaissent dans les airs, montrant des galaxies, la Terre et des civilisations inconnues.
-
-12–15s : Plan cinématographique final — l'astronaute se tient devant un trône extraterrestre colossal et lumineux alors que la tempête s'apaise à l'extérieur, révélant la cité antique entière cachée sous Mars depuis des milliers d'années.
-
-Style : réalisme ultra-cinématographique, atmosphère de mystère de science-fiction épique, détails réalistes de la combinaison spatiale, éclairage volumétrique, technologie extraterrestre lumineuse, échelle environnementale massive, effets de sable atmosphériques, étalonnage des couleurs de qualité cinématographique, visuels inspirés de Dune et Interstellar.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/05eda0e3705135965207975edb70ca18/thumbnails/thumbnail.jpg" width="600" alt="Séquence de mystère de science-fiction : Tempête martienne">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4642)**
-
-**Auteur:** [Nawal](https://x.com/nawalsehar) | **Source:** [Link](https://x.com/nawalsehar/status/2054112001144528953) | **Publié:** May 12, 2026
-
----
-### Séquence de transformation anime avec une touche comique
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt pour une séquence de transformation anime de qualité cinématographique, passant d'un ange majestueux à un personnage chibi mignon.
-
-#### 📝 Prompt
-
-```
-Une scène classique de « séquence de transformation interdimensionnelle » typique des animes. Utilise l'« ange adulte » et l'« ange chibi » des images de référence comme étant le même personnage. La première moitié est une séquence de transformation majestueuse, mystérieuse et puissante, digne d'un film d'animation. La seconde moitié introduit une touche comique où la forme finale apparaît sous les traits d'un « ange chibi super mignon ». Le décor est une dimension infinie d'argent et d'or. Des cercles magiques géants, des plumes lumineuses flottantes, des caractères sacrés, des effets de particules, une lumière semblable à une aurore et une énergie rappelant des météores tournoient à grande vitesse. La caméra orbite autour du sujet à haute vitesse et zoome, comme dans une scène de transformation d'un film d'animation. Les cheveux et les ailes flottent violemment sous l'effet de vents puissants. L'ange adulte ouvre doucement les yeux et libère une aura divine. Une énergie platine jaillit de tout son corps, sa tenue s'illumine et des ailes de lumière géantes se déploient. L'écran entier est enveloppé dans un flash éblouissant. Effets ultra-denses, reflets d'objectif, particules, ondes d'énergie et faisceaux lumineux mystérieux. Comme dans une séquence de transformation, insérez des plans continus de silhouettes, des gros plans sur les yeux, des mains levées, des ailes qui se déploient et des anneaux de lumière traversant le corps à un rythme effréné. Une mise en scène incroyablement spectaculaire et grandiose, comme si le personnage évoluait vers une forme finale pour sauver le monde. Au sommet de la musique, un pilier de lumière géant explose. Puis, un silence soudain. Lorsque la fumée et la lumière se dissipent, on découvre... l'« ange chibi super mignon » de l'image de référence. Elle flotte avec légèreté dans une ambiance « ehehe♪ », battant ses petites ailes avec des yeux pétillants. L'atmosphère se détend instantanément. L'arrière-plan conserve ses effets divins, créant un contraste saisissant. Finalement, l'ange chibi prend une pose fière. Une fin comique et adorable. Qualité cinématographique, dessin superbe, mouvement fluide, direction sakuga, éclairage cinématographique, rayons divins, lumière volumétrique, effets de lueur, particules lumineuses, explosion d'aura, espace mystérieux, travail de caméra ultra-rapide, composition dynamique, direction d'énergie écrasante, décalage comique, personnage chibi mignon, animation de haute qualité, direction théâtrale, dynamisme, puissance, atmosphère fantastique et sacrée. Negative prompt : basse qualité, flou, prise de vue réelle, aspect poupée 3DCG, corps non naturel, ailes supplémentaires, membres supplémentaires, visage horrifique, chibi non mignon, gore, texte, filigrane, personnages en double, éclairage plat, peu de mouvement, caméra fixe, mains déformées, design de personnage instable, manque de puissance, sans expression.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/861b4dc63a13430631bbb3165119705b/thumbnails/thumbnail.jpg" width="600" alt="Séquence de transformation anime avec une touche comique">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4679)**
-
-**Auteur:** [なお](https://x.com/Naonekozamurai) | **Source:** [Link](https://x.com/Naonekozamurai/status/2054109321378898202) | **Publié:** May 12, 2026
-
----
-### Portrait cinématographique dans un stade
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un portrait cinématographique hyperréaliste d'une jeune femme lors d'un événement sportif, avec un éclairage de stade authentique.
-
-#### 📝 Prompt
-
-```
-Un portrait cinématographique hyperréaliste d'une belle jeune femme asiatique arborant un élégant carré brun foncé, assise dans un stade bondé lors d'un événement sportif majeur. Elle porte une veste de motard en cuir noir de qualité sur un haut sombre. Elle affiche un sourire subtil et élégant tout en tenant une tasse de café noir. L'éclairage est une lumière du jour vive et naturelle avec un doux éclat typique des retransmissions télévisées. Caractéristiques techniques : Prise de vue avec un objectif 35 mm, f/1,8 pour une faible profondeur de champ, foule floue en arrière-plan, résolution 8K, texture de peau ultra-détaillée, étalonnage des couleurs cinématographique, expression naturelle et authentique.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9a3109a53f4482501a228797ecffe43/thumbnails/thumbnail.jpg" width="600" alt="Portrait cinématographique dans un stade">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4643)**
-
-**Auteur:** [K](https://x.com/ChillaiKalan__) | **Source:** [Link](https://x.com/ChillaiKalan__/status/2054090067187302757) | **Publié:** May 12, 2026
-
----
-### Transformation horrifique d'un zombie dans un stade
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de transformation sur le thème de l'horreur où une supportrice dans un stade subit un bug et se transforme en zombie terrifiant lors d'une retransmission en direct.
-
-#### 📝 Prompt
-
-```
-Prise de vue cinématographique haute fidélité d'une belle jeune femme aux longs cheveux noirs assise dans un stade de baseball bondé. Elle porte un crop top blanc à épaules dénudées « Bears » et tient un café glacé. À ses côtés, un homme avec un bandeau rouge la regarde avec inquiétude en lui demandant : « Ça va ? ». L'atmosphère est lumineuse et réaliste, imitant une retransmission sportive télévisée en direct avec un tableau d'affichage dans le coin supérieur gauche. Soudain, le corps de la femme subit un bug et se contorsionne. Sa tête bascule en arrière et son visage subit une transformation horrible en zombie. Sa peau devient pâle et veinée, ses yeux deviennent d'un rouge démoniaque brillant et sa mâchoire se distend de manière surnaturelle. La scène passe d'un stade en plein jour à un match nocturne sombre et chaotique. Elle se penche et mord le cou de l'homme, du sang gicle. Le plan final est un gros plan terrifiant de la femme zombie hurlant vers la caméra avec une bouche large et en décomposition ainsi que des dents acérées. Esthétique horrifique à haute intensité, rythme de jump-scare et gore hyper-réaliste.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb06aea1bc0c3d6af952617f59871eca/thumbnails/thumbnail.jpg" width="600" alt="Transformation horrifique d'un zombie dans un stade">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4671)**
-
-**Auteur:** [Kashberg](https://x.com/Kashberg_0) | **Source:** [Link](https://x.com/Kashberg_0/status/2054088000754381260) | **Publié:** May 12, 2026
-
----
-### Vidéo de course F1 en vue subjective (POV)
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt de timeline multi-scènes pour générer une séquence de course de F1 cinématographique en vue subjective (POV), avec de la pluie, des éclaboussures et des dépassements à haute vitesse.
-
-#### 📝 Prompt
-
-```
-0:00 - 0:03 Pilotage d'une voiture de F1 en vue subjective (POV). Il pleut et des projections d'eau volent.
-
-0:03 - 0:05 Gros plan sur les pneus en mouvement projetant de l'eau.
-
-0:05 - 0:08 Course au coude-à-coude, extrêmement proche d'un autre véhicule.
-
-0:08 - 0:11 Prise de vue en plongée montrant les véhicules en pleine course.
-
-0:11 - 0:15 Depuis la caméra à la ligne d'arrivée, montrant les véhicules franchir la ligne les uns après les autres de face. La caméra est placée au niveau du sol pour un impact maximal.
-
-Ne pas utiliser de marques ou de logos d'entreprises existants. Cinématographique.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e2447d9d57315f2c0604aea15a49979/thumbnails/thumbnail.jpg" width="600" alt="Vidéo de course F1 en vue subjective (POV)">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4677)**
-
-**Auteur:** [Lapis AI](https://x.com/LapisAi27677) | **Source:** [Link](https://x.com/LapisAi27677/status/2054080416416673857) | **Publié:** May 12, 2026
-
----
-### Publicité rétro pour milkshake à la fraise façon vidéo de skate
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un storyboard de 12 images pour une publicité de boisson énergisante au style rétro du début des années 2000, mettant en avant la culture skate.
-
-#### 📝 Prompt
-
-```
-Style visuel et ambiance : rencontre entre une vidéo de skate du début des années 2000 et une publicité rétro pour milkshake. Brut, granuleux, dynamique. Objectifs fish-eye, flou de mouvement, contraste élevé, couleurs nostalgiques légèrement délavées avec des tons rose-rouge fraise chaleureux. Utilisez l'image du produit comme référence exacte pour la bouteille/le gobelet de milkshake à la fraise dans chaque image pour une cohérence parfaite. Créez un storyboard publicitaire de 12 images. Chaque image doit varier le type de plan et raconter une histoire cohérente mettant en scène de jeunes adultes occidentaux stylés. Idées d'images et énergie : Un coup de skate rapide dans une rue de banlieue ensoleillée tout en tenant le milkshake à la fraise. Gros plan sur la condensation qui perle sur le milkshake froid dans la main de quelqu'un. Groupe d'amis occidentaux riant sur le parking d'un diner à l'heure dorée. Plan en contre-plongée fish-eye d'une fille sautant d'une rampe de skate avec le milkshake dans le cadre. Moment de moustache en chantilly désordonnée à l'intérieur d'une voiture rétro. Transition en slow-motion sur une éclaboussure de milkshake à la fraise. Très gros plan sur des fraises se mélangeant dans le milkshake. Des amis se passent le milkshake lors d'un arrêt dans une station-service tard le soir. Plan en mouvement avec flou sur un terrain de basket. Plan de type caméscope rétro avec plusieurs milkshakes qui s'entrechoquent. Plan héroïque sur l'asphalte avec des reflets de soleil et de la glace pilée autour du produit. Arrêt sur image cinématographique final du personnage principal buvant le milkshake à la fraise tandis que le groupe s'éloigne en skate en arrière-plan. Détails cinématographiques : mode occidentale authentique, sweats à capuche oversize, denim, chaussures de skate, crop tops, jeans baggy, bijoux en argent, mouvement naturel désordonné, expressions spontanées, cadrage imparfait, atmosphère de culture jeunesse énergique, réalisme de qualité publicitaire.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/71c93cb8be444a2f783a4f72c707b6cd/thumbnails/thumbnail.jpg" width="600" alt="Publicité rétro pour milkshake à la fraise façon vidéo de skate">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4647)**
-
-**Auteur:** [Sharon Riley](https://x.com/Just_sharon7) | **Source:** [Link](https://x.com/Just_sharon7/status/2054080038665110015) | **Publié:** May 12, 2026
-
----
-### Voyage en train interdimensionnel dans un anime gothique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique complexe pour une séquence d'anime de 15 secondes mettant en scène un personnage gothique dans un train interdimensionnel hanté, avec des plans intérieurs et extérieurs.
-
-#### 📝 Prompt
-
-```
-Utilisez l'image téléchargée comme référence visuelle principale. Maintenez exactement le même design de personnage d'anime, les traits du visage, la tenue gothique noire, l'épée en argent, la lanterne bleue lumineuse, la palette de couleurs cinématographique, l'esthétique du train hanté et l'atmosphère de dark fantasy tout au long de la séquence avec une forte cohérence du personnage.
-Une séquence de film d'anime cinématographique de 15 secondes sur un train interdimensionnel hanté voyageant sans fin à travers des mondes impossibles pendant la nuit.
-Moments d'ouverture : l'héroïne mystérieuse marche lentement dans les luxueux couloirs abandonnés du train, portant une lanterne bleue lumineuse. L'intérieur du train est sombre, élégant et étrange avec des lustres, des sièges en velours, des miroirs fissurés, du brouillard flottant et des passagers fantômes assis sans bouger, le visage caché. Plans de suivi cinématographiques lents, gros plans émotionnels, tension atmosphérique, reflets réalistes, mouvement subtil du train, ombres dramatiques.
-À l'extérieur des fenêtres du train apparaissent des dimensions surréalistes qui changent constamment tandis que le train se déplace à grande vitesse : royaumes sous-marins avec des baleines géantes lumineuses, ciels en feu remplis de ruines flottantes, paysages lunaires gelés sous des planètes géantes, vides cosmiques infinis, trous noirs avalant la lumière, cités fantastiques lumineuses, tempêtes dimensionnelles, montagnes flottantes et portails massifs s'ouvrant dans l'espace.
-Incluez plusieurs plans extérieurs cinématographiques du train hanté lui-même voyageant à travers ces mondes impossibles. Montrez des vues aériennes larges du train entier traversant des paysages cosmiques, volant à travers des tempêtes dimensionnelles, passant devant des portails géants lumineux, courant sur des rails flottants dans l'espace et laissant des traînées d'énergie lumineuses derrière lui. Échelle cinématographique massive, transitions d'environnements époustouflantes, mondes fantastiques détaillés, atmosphère d'horreur et de science-fiction émotionnelle. Alternez naturellement entre les scènes de couloir intérieur et les plans cinématographiques extérieurs du train se déplaçant à travers les dimensions.
-Moments intermédiaires : le train commence soudainement à trembler violemment alors que la réalité se distord autour de l'héroïne. Les lumières vacillent agressivement, des papiers volent dans le couloir, les fenêtres se fissurent, l'énergie dimensionnelle s'infiltre dans le train, les passagers fantômes tournent lentement la tête vers elle. Des créatures de l'ombre terrifiantes aux yeux rouges lumineux émergent des murs et du plafond tandis que des murmures distordus résonnent dans le train. Rotation dramatique de la caméra, rythme plein de suspense, tension cinématographique, atmosphère d'horreur surnaturelle.
-Moments finaux : l'héroïne dégaine lentement son épée en argent lumineuse et se lance dans un combat d'anime cinématographique explosif à l'intérieur du train en mouvement. Chorégraphie d'épée rapide et fluide, étincelles, effets d'énergie surnaturelle, verre brisé, attaques au ralenti, gros plans intenses, mouvement de caméra dynamique, tempêtes dimensionnelles visibles à travers les fenêtres, intensité émotionnelle, qualité de film d'anime chef-d'œuvre, animation ultra détaillée, mouvement d'anime réaliste, brouillard volumétrique, profondeur de champ cinématographique, visuels inspirés de MAPPA et Violet Evergarden, film fantastique d'horreur à gros budget
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df6ae035c62a1516ecb843762fc4f4c1/thumbnails/thumbnail.jpg" width="600" alt="Voyage en train interdimensionnel dans un anime gothique">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4637)**
-
-**Auteur:** [yusra.](https://x.com/chatgptpaglu) | **Source:** [Link](https://x.com/chatgptpaglu/status/2054065454193275135) | **Publié:** May 12, 2026
-
----
-### Scène de quête de jeu fantastique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo pour une scène de jeu fantastique mettant en vedette un personnage avec un emblème solaire et une épée lumineuse dans une rue brumeuse.
-
-#### 📝 Prompt
-
-```
-Une scène de jeu fantastique mettant en vedette SOLARIS, un personnage vêtu d'une cape blanche avec un emblème de soleil doré, marchant dans une rue pavée brumeuse tout en tenant une épée lumineuse. L'interface utilisateur du jeu affiche la santé et les détails du voyage. Capturez le design atmosphérique et l'esthétique du personnage.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/530298991761f1462be8c39948a35fb1/thumbnails/thumbnail.jpg" width="600" alt="Scène de quête de jeu fantastique">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4662)**
-
-**Auteur:** [simply](https://x.com/kingofdairyque) | **Source:** [Link](https://x.com/kingofdairyque/status/2054059461304811637) | **Publié:** May 12, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -2920,6 +3225,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-05-15T03:46:44.721Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-05-15T07:19:48.335Z</sub>
 
 </div>
