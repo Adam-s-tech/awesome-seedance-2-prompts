@@ -411,7 +411,7 @@ Phân cảnh điện ảnh chân thực, giàu hiệu ứng hình ảnh (VFX) đ
 Đoạn phim ngắn hoạt hình dài 15 giây lấy cảm hứng từ phong cách stop-motion điện ảnh. Thẩm mỹ mô hình thu nhỏ thủ công đầy chân thực, kết cấu vải chi tiết, đường nét khuôn mặt cách điệu được chạm khắc, các dấu vân tay và khiếm khuyết tinh tế trên vật liệu, hiệu ứng ánh sáng thể tích điện ảnh
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055718796581584896/img/LKjRJZQHffCwg1V_.jpg" width="600" alt="Hoạt hình mô hình tĩnh vật (Stop Motion)">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9eb384f07bfa2ad8ba14f7899f2adcfc/thumbnails/thumbnail.jpg" width="600" alt="Hoạt hình mô hình tĩnh vật (Stop Motion)">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=4890)**
 
@@ -484,7 +484,7 @@ Thời lượng: 15 giây.
 Thử ngay tại đây👇👇
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055686413816152065/img/Y_EJrLbG-F5oSzTh.jpg" width="600" alt="Lời nhắc hoạt ảnh đầu bếp sushi">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c41d91e3e561196e84b679f505736e9/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc hoạt ảnh đầu bếp sushi">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=4891)**
 
@@ -738,7 +738,7 @@ Cô cười rạng rỡ vào máy ảnh khi âm nhạc đạt đến cao trào m
 Bài hát rock năng lượng do nữ thể hiện, tiếng trống mạnh mẽ, riff guitar điện, chuyển cảnh đồng bộ theo nhịp nhanh, âm thanh môi trường London chân thực, tiếng thì thầm ASMR tinh tế.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055642914860969985/img/BzwfCQYF1SBxcU7R.jpg" width="600" alt="Vlog du lịch London đầy năng lượng">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770e4906c171229870e6e7d84a1ae97b/thumbnails/thumbnail.jpg" width="600" alt="Vlog du lịch London đầy năng lượng">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=4887)**
 
@@ -781,7 +781,7 @@ phim điện ảnh giả tưởng gothic, nhà thờ u tối, ánh trăng lạnh
 chất lượng thấp, mờ, giải phẫu cơ thể lỗi, thừa chi tiết cơ thể, ngón tay gãy, khuôn mặt biến dạng, nhân vật trùng lặp, nhiều khuôn mặt, chuyển động cứng nhắc, tư thế không tự nhiên, cosplay rẻ tiền, da nhựa, quá sáng, hậu cảnh lộn xộn, văn bản, hình mờ, logo, khuôn mặt nhấp nháy, trang phục không nhất quán, vũ khí không nhất quán, máy quay rung quá mạnh
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055618669208887296/img/kpUhnOmmKTPjOwlc.jpg" width="600" alt="Video điện ảnh về vũ công chiến đấu phong cách Gothic">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/10f9a5bc6bc98f6d297a3dae46d9e4f3/thumbnails/thumbnail.jpg" width="600" alt="Video điện ảnh về vũ công chiến đấu phong cách Gothic">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=4893)**
 
@@ -1375,7 +1375,7 @@ Phong cách hình ảnh: phát sóng truyền hình FIFA World Cup chân thực 
 Sử dụng nhân vật được hiển thị trong hình ảnh tham chiếu. Phản ánh khuôn mặt, kiểu tóc, trang phục, vóc dáng, màu sắc, kết cấu, phụ kiện và phong cách của nhân vật một cách trung thực nhất có thể mà không làm thay đổi danh tính của họ. Nếu chỉ có một người, hãy tập trung bố cục vào nhân vật đó.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055451777584316417/img/syjkhRssyXkrILqY.jpg" width="600" alt="Mẫu hoạt ảnh kết thúc Kira Fuwa">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f48445d510a604dd7592851669b9961/thumbnails/thumbnail.jpg" width="600" alt="Mẫu hoạt ảnh kết thúc Kira Fuwa">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=4894)**
 
@@ -1514,7 +1514,7 @@ Tăng tốc độ: một tòa nhà chọc trời hình thành ngay xung quanh ca
 Khoảnh khắc cuối cùng: thành phố hoàn thiện, sau đó mọi thứ dừng lại đột ngột, tĩnh lặng hoàn hảo.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055351254369378304/pu/img/3RdRKW-ozsD6eNht.jpg" width="600" alt="Phong cảnh bình minh thành phố tự lắp ghép">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0741d8d1826b6db61ab68dae7400bc4d/thumbnails/thumbnail.jpg" width="600" alt="Phong cảnh bình minh thành phố tự lắp ghép">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=4830)**
 
@@ -1986,7 +1986,7 @@ Thảm họa vũ trụ, mô phỏng ánh sáng, quy mô điện ảnh, 4K.
 Bước 1: Tạo storyboard với GPT Image 2. Tạo storyboard pitch deck du thuyền hạng sang 4:3 cao cấp theo lưới 3x4 (12 khung hình), bố cục biên tập, phong cách Ferretti/Sunseeker, bảng màu xanh hải quân + gỗ teak bóng bẩy. Luồng cấu trúc: khởi hành → vùng nước mở → boong tàu → đường chân trời → kết thúc tự do. Mỗi khung hình được chia: phía trên là hình ảnh điện ảnh (không có văn bản) + phía dưới là ghi chú storyboard. Thẩm mỹ hàng hải Địa Trung Hải tối giản, tâm trạng gió và sự tĩnh lặng, đặc quyền vô tận. Mũi du thuyền rẽ sóng trên mặt nước tĩnh lặng là tâm điểm cảm xúc xuyên suốt. Bước 2: Đưa từng khung hình vào Seedance 2.0. Thiết lập ở độ phân giải 1080p để giữ độ rõ nét của văn bản. Chuyển đổi storyboard 3x4 đã cung cấp thành video điện ảnh mượt mà. Giữ nguyên thứ tự cảnh quay và tính liên tục. Sử dụng hiệu ứng sóng nước lan tỏa chậm, cuộn dây thừng, cảnh quay từ trên không lùi dần từ mũi tàu và hiệu ứng lung linh ở đường chân trời. Chuyển đổi ánh sáng từ buổi sáng biển khơi mát mẻ sang hoàng hôn Địa Trung Hải ấm áp. Thẩm mỹ biên tập du thuyền, tự do vô tận, tâm trạng quyền lực tĩnh lặng. Không thêm cảnh mới, không sắp xếp lại, mũi du thuyền vẫn là tâm điểm cảm xúc trong tất cả các cảnh.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055195027748610048/pu/img/kh6ck06ycpn2JZJ3.jpg" width="600" alt="Hoạt ảnh Storyboard cho Pitch Deck Du thuyền hạng sang">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2447f53fb61c61b941505f33abe113ee/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh Storyboard cho Pitch Deck Du thuyền hạng sang">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=4828)**
 
@@ -2092,7 +2092,7 @@ Sau đó mũi tên được bắn đi, chúng ta chuyển cảnh sang bảng m�
 → cảnh kết đậm chất điện ảnh khi máy quay tiến lại gần vận động viên
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055174144661045248/img/cOXALnrMUflZwz_P.jpg" width="600" alt="Phát sóng điện ảnh môn Bắn cung Olympic">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4bd95b319313a3c5fe1c04e2fc891a1/thumbnails/thumbnail.jpg" width="600" alt="Phát sóng điện ảnh môn Bắn cung Olympic">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=4892)**
 
@@ -3609,6 +3609,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-05-17T07:04:14.236Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-05-17T10:02:49.538Z</sub>
 
 </div>

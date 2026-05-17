@@ -411,7 +411,7 @@ Extrem realistische, VFX-lastige filmische Sequenz, gedreht auf ARRI Alexa 65. I
 15-sekündiger, von Stop-Motion inspirierter filmischer Kurzfilm. Handgefertigte, taktile Miniatur-Ästhetik, detaillierte Stofftexturen, geschnitzte stilisierte Gesichtszüge, subtile Fingerabdrücke und Materialunvollkommenheiten, filmische volumetrische Beleuchtung
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055718796581584896/img/LKjRJZQHffCwg1V_.jpg" width="600" alt="Stop-Motion-Miniaturanimation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9eb384f07bfa2ad8ba14f7899f2adcfc/thumbnails/thumbnail.jpg" width="600" alt="Stop-Motion-Miniaturanimation">
 
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=4890)**
 
@@ -484,7 +484,7 @@ Sushi-Koch: erwachsen, trägt traditionelle Sushi-Uniform mit dem Logo YOUR AI G
 Hier ausprobieren👇👇
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055686413816152065/img/Y_EJrLbG-F5oSzTh.jpg" width="600" alt="Sushi-Koch Animations-Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c41d91e3e561196e84b679f505736e9/thumbnails/thumbnail.jpg" width="600" alt="Sushi-Koch Animations-Prompt">
 
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=4891)**
 
@@ -745,7 +745,7 @@ Audio:
 Energiegeladener Rock-Song mit weiblichem Gesang, aggressives Schlagzeug, E-Gitarren-Riffs, schnelle, beat-synchronisierte Übergänge, realistische Londoner Atmosphäre, dezente ASMR-Flüstergeräusche.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055642914860969985/img/BzwfCQYF1SBxcU7R.jpg" width="600" alt="Energiegeladener London-Reise-Vlog">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770e4906c171229870e6e7d84a1ae97b/thumbnails/thumbnail.jpg" width="600" alt="Energiegeladener London-Reise-Vlog">
 
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=4887)**
 
@@ -788,7 +788,7 @@ cinematischer Gothic-Fantasy-Modefilm, dunkle Kathedrale, kaltes Mondlicht, eleg
 niedrige Qualität, verschwommen, schlechte Anatomie, zusätzliche Gliedmaßen, gebrochene Finger, verzerrtes Gesicht, duplizierter Charakter, mehrere Gesichter, steife Bewegungen, unnatürliche Pose, billiges Cosplay, Plastikhaut, überbelichtet, unordentlicher Hintergrund, Text, Wasserzeichen, Logo, flackerndes Gesicht, inkonsistentes Outfit, inkonsistente Waffe, zu starkes Kamerawackeln
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055618669208887296/img/kpUhnOmmKTPjOwlc.jpg" width="600" alt="Cinematisches Video einer Gothic-Kampftänzerin">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/10f9a5bc6bc98f6d297a3dae46d9e4f3/thumbnails/thumbnail.jpg" width="600" alt="Cinematisches Video einer Gothic-Kampftänzerin">
 
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=4893)**
 
@@ -1382,7 +1382,7 @@ Audio durchgehend: Realistische Fußball-Stadiongesänge, Pfiffe, Kommentatoren,
 Verwenden Sie den Charakter aus dem Referenzbild. Bilden Sie Gesicht, Frisur, Outfit, Körpertyp, Farben, Texturen, Dekorationen und Stil des Charakters so originalgetreu wie möglich ab, ohne dessen Identität zu verändern. Wenn nur eine Person zu sehen ist, zentrieren Sie die Komposition auf diesen Charakter.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055451777584316417/img/syjkhRssyXkrILqY.jpg" width="600" alt="Kira Fuwa Ending-Animationsvorlage">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f48445d510a604dd7592851669b9961/thumbnails/thumbnail.jpg" width="600" alt="Kira Fuwa Ending-Animationsvorlage">
 
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=4894)**
 
@@ -1521,7 +1521,7 @@ Geschwindigkeitsrampe: Ein Wolkenkratzer formt sich direkt um die Kamera herum, 
 Letzter Moment: Die Stadt ist fertiggestellt, dann bleibt alles plötzlich stehen, vollkommen bewegungslos.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055351254369378304/pu/img/3RdRKW-ozsD6eNht.jpg" width="600" alt="Sich selbst aufbauende Stadtlandschaft bei Sonnenaufgang">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0741d8d1826b6db61ab68dae7400bc4d/thumbnails/thumbnail.jpg" width="600" alt="Sich selbst aufbauende Stadtlandschaft bei Sonnenaufgang">
 
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=4830)**
 
@@ -1993,7 +1993,7 @@ Kosmische Katastrophe, Lichtsimulation, filmischer Maßstab, 4K.
 Schritt 1: Storyboard mit GPT Image 2 erstellen. Erstellen Sie ein hochwertiges 4:3 Luxusyacht-Pitch-Deck-Storyboard in einem 3x4-Raster (12 Bilder), redaktionelles Layout, Ferretti/Sunseeker-Stil, Farbpalette in Marineblau und poliertem Teakholz. Strukturierter Ablauf: Abfahrt → offenes Wasser → Deck → Horizont → Freiheit als Abschluss. Jedes Bild geteilt: oben filmisches Bild (kein Text) + unten Storyboard-Notizen. Mediterrane nautische Minimal-Ästhetik, Stimmung von Wind und Stille, grenzenloses Privileg. Ein Yachtbug, der durch ruhiges Wasser schneidet, bildet durchgehend das emotionale Zentrum. Schritt 2: Jedes Bild in Seedance 2.0 importieren. Auf 1080p einstellen, um die Textklarheit zu bewahren. Animieren Sie das bereitgestellte 3x4-Storyboard in ein flüssiges, filmisches Video. Behalten Sie die exakte Reihenfolge der Aufnahmen und die Kontinuität bei. Verwenden Sie langsame Wellenbewegungen, das Entrollen von Seilen, einen Kamera-Rückzug bei einer Luftaufnahme des Bugs und ein Flimmern am Horizont. Lichtübergänge vom kühlen Morgen auf offener See bis zum warmen goldenen mediterranen Sonnenuntergang. Yacht-Redaktionsästhetik, grenzenlose Freiheit, Stimmung von stiller Kraft. Keine neuen Aufnahmen, keine Umordnung, der Yachtbug bleibt in allen Szenen der emotionale Fokus.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055195027748610048/pu/img/kh6ck06ycpn2JZJ3.jpg" width="600" alt="Storyboard-Animation für Luxusyacht-Pitch-Deck">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2447f53fb61c61b941505f33abe113ee/thumbnails/thumbnail.jpg" width="600" alt="Storyboard-Animation für Luxusyacht-Pitch-Deck">
 
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=4828)**
 
@@ -2099,7 +2099,7 @@ Dann wird der Pfeil gelöst, wir wechseln zur Zielscheibe:
 → filmisches Finale, in dem die Kamera auf die Schützin zufährt
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055174144661045248/img/cOXALnrMUflZwz_P.jpg" width="600" alt="Olympische Bogenschießen-Übertragung im Kino-Stil">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4bd95b319313a3c5fe1c04e2fc891a1/thumbnails/thumbnail.jpg" width="600" alt="Olympische Bogenschießen-Übertragung im Kino-Stil">
 
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=4892)**
 
@@ -3614,6 +3614,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-05-17T07:04:38.460Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-05-17T10:03:00.231Z</sub>
 
 </div>

@@ -411,7 +411,7 @@
 15 秒電影級定格動畫風格短片。手工製作的觸感微縮美學，細膩的布料紋理，雕刻感的風格化面部特徵，材質上細微的指紋與瑕疵，電影級體積光。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055718796581584896/img/LKjRJZQHffCwg1V_.jpg" width="600" alt="定格微縮動畫">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9eb384f07bfa2ad8ba14f7899f2adcfc/thumbnails/thumbnail.jpg" width="600" alt="定格微縮動畫">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4890)**
 
@@ -484,7 +484,7 @@
 點擊此處嘗試👇👇
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055686413816152065/img/Y_EJrLbG-F5oSzTh.jpg" width="600" alt="壽司師傅動畫提示詞">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c41d91e3e561196e84b679f505736e9/thumbnails/thumbnail.jpg" width="600" alt="壽司師傅動畫提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4891)**
 
@@ -744,7 +744,7 @@
 充滿活力的女性主唱搖滾樂，激昂的鼓聲，電吉他 Riff，快速配合節奏的轉場，真實的倫敦環境音，細膩的 ASMR 氣音。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055642914860969985/img/BzwfCQYF1SBxcU7R.jpg" width="600" alt="高能量倫敦旅遊 Vlog">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770e4906c171229870e6e7d84a1ae97b/thumbnails/thumbnail.jpg" width="600" alt="高能量倫敦旅遊 Vlog">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4887)**
 
@@ -787,7 +787,7 @@
 低畫質，模糊，不良人體結構，多餘肢體，斷指，扭曲臉部，複製角色，多張臉孔，動作僵硬，姿勢不自然，廉價 Cosplay，塑膠質感皮膚，過度曝光，背景雜亂，文字，浮水印，Logo，臉部閃爍，服裝不連貫，武器不連貫，鏡頭晃動過大
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055618669208887296/img/kpUhnOmmKTPjOwlc.jpg" width="600" alt="哥德風戰鬥舞者電影感影片">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/10f9a5bc6bc98f6d297a3dae46d9e4f3/thumbnails/thumbnail.jpg" width="600" alt="哥德風戰鬥舞者電影感影片">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4893)**
 
@@ -1381,7 +1381,7 @@ NBA 現場解說持續進行中：
 請使用參考圖像中顯示的角色。在不改變角色特徵的前提下，盡可能忠實地呈現角色的臉部、髮型、服裝、體型、顏色、質感、裝飾及風格。如果畫面中只有一人，請將構圖集中在該角色身上。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055451777584316417/img/syjkhRssyXkrILqY.jpg" width="600" alt="Kira Fuwa 片尾動畫模板">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f48445d510a604dd7592851669b9961/thumbnails/thumbnail.jpg" width="600" alt="Kira Fuwa 片尾動畫模板">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4894)**
 
@@ -1520,7 +1520,7 @@ NBA 現場解說持續進行中：
 最後時刻：城市完成組裝，隨後一切突然停止，歸於靜止。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055351254369378304/pu/img/3RdRKW-ozsD6eNht.jpg" width="600" alt="城市日出景觀自動組裝">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0741d8d1826b6db61ab68dae7400bc4d/thumbnails/thumbnail.jpg" width="600" alt="城市日出景觀自動組裝">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4830)**
 
@@ -1992,7 +1992,7 @@ NBA 現場解說持續進行中：
 步驟 1：使用 GPT Image 2 生成分鏡腳本。建立一個 4:3 的高端豪華遊艇簡報分鏡，採用 3x4 網格（共 12 格）、編輯排版，風格參考 Ferretti/Sunseeker，配色為海軍藍與拋光柚木。結構流程：啟航 → 開闊水域 → 甲板 → 地平線 → 自由結尾。每格劃分：上方為電影級影像（無文字），下方為分鏡註解。地中海航海極簡美學，營造風與寧靜的氛圍，展現無盡的尊榮感。遊艇船頭破浪前行的畫面是貫穿始終的情感核心。步驟 2：將每一格畫面匯入 Seedance 2.0。設定為 1080p 以保持文字清晰度。將提供的 3x4 分鏡腳本製作成流暢的電影級影片。保留精確的鏡頭順序與連貫性。運用緩慢的水波擴散、繩索盤繞揭示、船頭航拍拉遠以及地平線閃爍效果。燈光從清晨涼爽的開闊海域轉換為溫暖的地中海金色夕陽。呈現遊艇編輯美學、無盡自由與靜謐力量的氛圍。不新增鏡頭，不重新排序，遊艇船頭在所有場景中皆保持為情感焦點。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055195027748610048/pu/img/kh6ck06ycpn2JZJ3.jpg" width="600" alt="豪華遊艇簡報分鏡動畫">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2447f53fb61c61b941505f33abe113ee/thumbnails/thumbnail.jpg" width="600" alt="豪華遊艇簡報分鏡動畫">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4828)**
 
@@ -2098,7 +2098,7 @@ NBA 現場解說持續進行中：
 → 電影級結尾，鏡頭推進至射箭選手處
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055174144661045248/img/cOXALnrMUflZwz_P.jpg" width="600" alt="奧運射箭電影級轉播">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4bd95b319313a3c5fe1c04e2fc891a1/thumbnails/thumbnail.jpg" width="600" alt="奧運射箭電影級轉播">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=4892)**
 
@@ -3618,6 +3618,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-05-17T07:03:57.992Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-05-17T10:02:25.124Z</sub>
 
 </div>

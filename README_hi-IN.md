@@ -411,7 +411,7 @@ Seedance 2.0 का उपयोग करके रात में सिन�
 15 सेकंड का सिनेमैटिक स्टॉप-मोशन प्रेरित एनिमेटेड शॉर्ट। हस्तनिर्मित स्पर्शनीय मिनिएचर सौंदर्य, विस्तृत फैब्रिक टेक्सचर, नक्काशीदार स्टाइलाइज्ड चेहरे की विशेषताएं, सामग्रियों में सूक्ष्म फिंगरप्रिंट और खामियां, सिनेमैटिक वॉल्यूमेट्रिक
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055718796581584896/img/LKjRJZQHffCwg1V_.jpg" width="600" alt="स्टॉप मोशन मिनिएचर एनिमेशन">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9eb384f07bfa2ad8ba14f7899f2adcfc/thumbnails/thumbnail.jpg" width="600" alt="स्टॉप मोशन मिनिएचर एनिमेशन">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4890)**
 
@@ -484,7 +484,7 @@ Seedance 2.0 का उपयोग करके रात में सिन�
 यहाँ आज़माएँ👇👇
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055686413816152065/img/Y_EJrLbG-F5oSzTh.jpg" width="600" alt="सुशी शेफ एनीमेशन प्रॉम्प्ट">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c41d91e3e561196e84b679f505736e9/thumbnails/thumbnail.jpg" width="600" alt="सुशी शेफ एनीमेशन प्रॉम्प्ट">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4891)**
 
@@ -738,7 +738,7 @@ Seedance 2.0 का उपयोग करके रात में सिन�
 एनर्जेटिक फीमेल-फ्रंटेड रॉक सॉन्ग, आक्रामक ड्रम, इलेक्ट्रिक गिटार रिफ्स, फास्ट बीट-सिंक्ड ट्रांज़िशन, रियलिस्टिक लंदन एम्बिएंस, सूक्ष्म ASMR फुसफुसाहट।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055642914860969985/img/BzwfCQYF1SBxcU7R.jpg" width="600" alt="हाई-एनर्जी लंदन ट्रैवल व्लॉग">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770e4906c171229870e6e7d84a1ae97b/thumbnails/thumbnail.jpg" width="600" alt="हाई-एनर्जी लंदन ट्रैवल व्लॉग">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4887)**
 
@@ -781,7 +781,7 @@ Seedance 2.0 का उपयोग करके रात में सिन�
 निम्न गुणवत्ता, धुंधला, खराब एनाटॉमी, अतिरिक्त अंग, टूटी हुई उंगलियां, विकृत चेहरा, डुप्लिकेट चरित्र, कई चेहरे, कठोर गति, अप्राकृतिक मुद्रा, सस्ता कॉस्प्ले, प्लास्टिक की त्वचा, ओवरएक्सपोज़्ड, गन्दा बैकग्राउंड, टेक्स्ट, वॉटरमार्क, लोगो, झिलमिलाता चेहरा, असंगत पोशाक, असंगत हथियार, कैमरा शेक बहुत मजबूत
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055618669208887296/img/kpUhnOmmKTPjOwlc.jpg" width="600" alt="गॉथिक बैटल डांसर सिनेमैटिक वीडियो">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/10f9a5bc6bc98f6d297a3dae46d9e4f3/thumbnails/thumbnail.jpg" width="600" alt="गॉथिक बैटल डांसर सिनेमैटिक वीडियो">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4893)**
 
@@ -1375,7 +1375,7 @@ global_rule: कोई संगीत नहीं, केवल डायज�
 रेफ़रेंस इमेज में दिखाए गए कैरेक्टर का उपयोग करें। कैरेक्टर के चेहरे, हेयरस्टाइल, पोशाक, बॉडी टाइप, रंगों, टेक्सचर, सजावट और स्टाइल को उनकी पहचान बदले बिना यथासंभव सटीक रूप से दर्शाएं। यदि केवल एक व्यक्ति है, तो कंपोज़िशन को उस कैरेक्टर के केंद्र में रखें।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055451777584316417/img/syjkhRssyXkrILqY.jpg" width="600" alt="Kira Fuwa एंडिंग एनिमेशन टेम्प्लेट">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f48445d510a604dd7592851669b9961/thumbnails/thumbnail.jpg" width="600" alt="Kira Fuwa एंडिंग एनिमेशन टेम्प्लेट">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4894)**
 
@@ -1514,7 +1514,7 @@ global_rule: कोई संगीत नहीं, केवल डायज�
 अंतिम क्षण: शहर पूरा हो जाता है, फिर सब कुछ अचानक रुक जाता है, पूरी तरह स्थिर।
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055351254369378304/pu/img/3RdRKW-ozsD6eNht.jpg" width="600" alt="स्वयं-निर्मित शहर का सूर्योदय परिदृश्य">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0741d8d1826b6db61ab68dae7400bc4d/thumbnails/thumbnail.jpg" width="600" alt="स्वयं-निर्मित शहर का सूर्योदय परिदृश्य">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4830)**
 
@@ -1986,7 +1986,7 @@ global_rule: कोई संगीत नहीं, केवल डायज�
 चरण 1: GPT Image 2 के साथ स्टोरीबोर्ड जनरेट करें। 3x4 ग्रिड (12 फ्रेम) में एक हाई-एंड 4:3 लक्ज़री यॉट पिच डेक स्टोरीबोर्ड बनाएं, एडिटोरियल लेआउट, Ferretti/Sunseeker स्टाइल, नेवी ब्लू + पॉलिश्ड टीक पैलेट। संरचित प्रवाह: प्रस्थान → खुला पानी → डेक → क्षितिज → स्वतंत्रता समापन। प्रत्येक फ्रेम विभाजित: शीर्ष सिनेमैटिक छवि (कोई टेक्स्ट नहीं) + नीचे स्टोरीबोर्ड नोट्स। भूमध्यसागरीय समुद्री न्यूनतम सौंदर्यशास्त्र, हवा और शांति का मूड, असीमित विशेषाधिकार। शांत पानी को काटता हुआ यॉट का अगला हिस्सा पूरे समय भावनात्मक केंद्र है। चरण 2: प्रत्येक फ्रेम को Seedance 2.0 में ले जाएं। टेक्स्ट स्पष्टता बनाए रखने के लिए 1080p पर सेट करें। प्रदान किए गए 3x4 स्टोरीबोर्ड को एक स्मूथ सिनेमैटिक वीडियो में एनिमेट करें। सटीक शॉट क्रम और निरंतरता बनाए रखें। धीमी गति से पानी की लहरें, रस्सी का खुलना, एरियल बो शॉट पुल-बैक और क्षितिज की चमक का उपयोग करें। लाइटिंग ठंडी खुले समुद्र की सुबह से गर्म सुनहरे भूमध्यसागरीय सूर्यास्त में बदलती है। यॉट एडिटोरियल सौंदर्यशास्त्र, असीमित स्वतंत्रता, शांत शक्ति का मूड। कोई नए शॉट नहीं, कोई पुनर्व्यवस्था नहीं, यॉट का अगला हिस्सा सभी दृश्यों में भावनात्मक केंद्र बना रहेगा।
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055195027748610048/pu/img/kh6ck06ycpn2JZJ3.jpg" width="600" alt="लक्ज़री यॉट पिच डेक स्टोरीबोर्ड एनिमेशन">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2447f53fb61c61b941505f33abe113ee/thumbnails/thumbnail.jpg" width="600" alt="लक्ज़री यॉट पिच डेक स्टोरीबोर्ड एनिमेशन">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4828)**
 
@@ -2092,7 +2092,7 @@ global_rule: कोई संगीत नहीं, केवल डायज�
 → सिनेमैटिक फिनाले जहाँ कैमरा तीरंदाज के करीब आता है
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055174144661045248/img/cOXALnrMUflZwz_P.jpg" width="600" alt="ओलंपिक तीरंदाजी सिनेमैटिक ब्रॉडकास्ट">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4bd95b319313a3c5fe1c04e2fc891a1/thumbnails/thumbnail.jpg" width="600" alt="ओलंपिक तीरंदाजी सिनेमैटिक ब्रॉडकास्ट">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=4892)**
 
@@ -3605,6 +3605,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-05-17T07:04:20.430Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-05-17T10:02:52.292Z</sub>
 
 </div>

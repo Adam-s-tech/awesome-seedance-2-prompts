@@ -411,7 +411,7 @@ ARRI Alexa 65 で撮影された、VFX を多用した圧倒的にリアルな�
 15 秒のシネマティックなストップモーション風短編アニメーション。手作り感のあるミニチュアの美学、緻密な布の質感、彫り込まれたスタイライズドな顔の造形、素材に残る微細な指紋や不完全さ、シネマティックなボリューム感
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055718796581584896/img/LKjRJZQHffCwg1V_.jpg" width="600" alt="ストップモーション・ミニチュア・アニメーション">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9eb384f07bfa2ad8ba14f7899f2adcfc/thumbnails/thumbnail.jpg" width="600" alt="ストップモーション・ミニチュア・アニメーション">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4890)**
 
@@ -486,7 +486,7 @@ ARRI Alexa 65 で撮影された、VFX を多用した圧倒的にリアルな�
 こちらから試す👇👇
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055686413816152065/img/Y_EJrLbG-F5oSzTh.jpg" width="600" alt="寿司職人のアニメーションプロンプト">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c41d91e3e561196e84b679f505736e9/thumbnails/thumbnail.jpg" width="600" alt="寿司職人のアニメーションプロンプト">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4891)**
 
@@ -755,7 +755,7 @@ ARRI Alexa 65 で撮影された、VFX を多用した圧倒的にリアルな�
 エネルギッシュな女性ボーカルのロックソング、攻撃的なドラム、エレキギターのリフ、ビートに合わせた高速な切り替え、リアルなロンドンの環境音、繊細な ASMR の囁き。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055642914860969985/img/BzwfCQYF1SBxcU7R.jpg" width="600" alt="ハイエナジーなロンドン旅行 VLOG">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770e4906c171229870e6e7d84a1ae97b/thumbnails/thumbnail.jpg" width="600" alt="ハイエナジーなロンドン旅行 VLOG">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4887)**
 
@@ -798,7 +798,7 @@ ARRI Alexa 65 で撮影された、VFX を多用した圧倒的にリアルな�
 低品質、ぼやけ、不自然な解剖学的構造、余分な手足、折れた指、歪んだ顔、複製されたキャラクター、複数の顔、硬い動き、不自然なポーズ、安っぽいコスプレ、プラスチックのような肌、露出過多、散らかった背景、テキスト、透かし、ロゴ、ちらつく顔、一貫性のない衣装、一貫性のない武器、強すぎるカメラの揺れ
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055618669208887296/img/kpUhnOmmKTPjOwlc.jpg" width="600" alt="ゴシック・バトルダンサーのシネマティック動画">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/10f9a5bc6bc98f6d297a3dae46d9e4f3/thumbnails/thumbnail.jpg" width="600" alt="ゴシック・バトルダンサーのシネマティック動画">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4893)**
 
@@ -1392,7 +1392,7 @@ NBA ライブ実況の音声：
 参照画像に表示されているキャラクターを使用してください。キャラクターの顔、髪型、衣装、体型、色、質感、装飾、スタイルを、アイデンティティを変えることなく可能な限り忠実に反映させてください。人物が 1 人のみの場合は、そのキャラクターを中心に構図を配置してください。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055451777584316417/img/syjkhRssyXkrILqY.jpg" width="600" alt="Kira Fuwa エンディングアニメーションテンプレート">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f48445d510a604dd7592851669b9961/thumbnails/thumbnail.jpg" width="600" alt="Kira Fuwa エンディングアニメーションテンプレート">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4894)**
 
@@ -1531,7 +1531,7 @@ NBA ライブ実況の音声：
 最後の瞬間：都市が完成し、すべてが突然停止して完全に静止します。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055351254369378304/pu/img/3RdRKW-ozsD6eNht.jpg" width="600" alt="自己構築する都市の日の出の風景">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0741d8d1826b6db61ab68dae7400bc4d/thumbnails/thumbnail.jpg" width="600" alt="自己構築する都市の日の出の風景">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4830)**
 
@@ -2003,7 +2003,7 @@ AI が完全に自動制御する近未来の住宅での、映画のような�
 ステップ 1: GPT Image 2 でストーリーボードを生成します。高級感のある 4:3 のラグジュアリーヨット用ピッチデッキのストーリーボードを 3x4 グリッド（12 フレーム）で作成してください。エディトリアルレイアウト、Ferretti や Sunseeker のスタイル、ネイビーブルーとポリッシュ仕上げのチーク材のパレットを使用します。構成の流れ: 出航 → 外洋 → デッキ → 地平線 → 自由という結末。各フレームは、上部にシネマティックな画像（テキストなし）、下部にストーリーボードのメモを配置します。地中海の航海をイメージしたミニマルな美学、風と静寂のムード、無限の特権を表現してください。静かな水面を切り裂くヨットの船首が、全体を通して感情的な中心となります。ステップ 2: 各フレームを Seedance 2.0 に取り込みます。テキストの明瞭さを維持するため、1080p に設定してください。提供された 3x4 のストーリーボードを、滑らかなシネマティック動画にアニメーション化します。ショットの順序と連続性を正確に維持してください。水面の航跡が広がる様子、ロープが巻かれる様子、船首の空撮からの引きのショット、地平線のきらめきを使用します。ライティングは、冷たい外洋の朝から、暖かい地中海の黄金色の夕暮れへと変化させます。ヨットのエディトリアルな美学、無限の自由、静かなパワーを感じさせるムードに仕上げてください。新しいショットの追加や順序の変更は行わず、すべてのシーンでヨットの船首が感情的な焦点であり続けるようにします。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055195027748610048/pu/img/kh6ck06ycpn2JZJ3.jpg" width="600" alt="ラグジュアリーヨットのピッチデッキ用ストーリーボードアニメーション">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2447f53fb61c61b941505f33abe113ee/thumbnails/thumbnail.jpg" width="600" alt="ラグジュアリーヨットのピッチデッキ用ストーリーボードアニメーション">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4828)**
 
@@ -2109,7 +2109,7 @@ AI が完全に自動制御する近未来の住宅での、映画のような�
 → カメラがアーチャーに近づくシネマティックなラスト
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055174144661045248/img/cOXALnrMUflZwz_P.jpg" width="600" alt="オリンピック・アーチェリーのシネマティック放送">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4bd95b319313a3c5fe1c04e2fc891a1/thumbnails/thumbnail.jpg" width="600" alt="オリンピック・アーチェリーのシネマティック放送">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=4892)**
 
@@ -3628,6 +3628,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-17T07:04:03.606Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-17T10:02:31.684Z</sub>
 
 </div>

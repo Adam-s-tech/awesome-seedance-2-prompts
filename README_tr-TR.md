@@ -411,7 +411,7 @@ ARRI Alexa 65 ile çekilmiş, yoğun gerçekçiliğe sahip, VFX ağırlıklı si
 15 saniyelik, stop-motion esintili sinematik kısa animasyon. El yapımı dokunsal minyatür estetiği, detaylı kumaş dokuları, oyma stilize yüz hatları, malzemeler üzerinde hafif parmak izleri ve kusurlar, sinematik volümetrik
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055718796581584896/img/LKjRJZQHffCwg1V_.jpg" width="600" alt="Stop Motion Minyatür Animasyon">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9eb384f07bfa2ad8ba14f7899f2adcfc/thumbnails/thumbnail.jpg" width="600" alt="Stop Motion Minyatür Animasyon">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4890)**
 
@@ -484,7 +484,7 @@ Suşi Şefi: yetişkin, üzerinde YOUR AI GIRL logosu bulunan geleneksel suşi �
 Burada Deneyin👇👇
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055686413816152065/img/Y_EJrLbG-F5oSzTh.jpg" width="600" alt="Suşi Şefi Animasyon İstemi">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c41d91e3e561196e84b679f505736e9/thumbnails/thumbnail.jpg" width="600" alt="Suşi Şefi Animasyon İstemi">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4891)**
 
@@ -743,7 +743,7 @@ Ses:
 Enerjik kadın vokalli rock şarkısı, agresif davullar, elektro gitar rifleri, ritimle senkronize hızlı geçişler, gerçekçi Londra ortam sesleri, hafif ASMR fısıltıları.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055642914860969985/img/BzwfCQYF1SBxcU7R.jpg" width="600" alt="Yüksek Enerjili Londra Seyahat Vlog'u">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770e4906c171229870e6e7d84a1ae97b/thumbnails/thumbnail.jpg" width="600" alt="Yüksek Enerjili Londra Seyahat Vlog'u">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4887)**
 
@@ -786,7 +786,7 @@ sinematik gotik fantezi moda filmi, karanlık katedral, soğuk ay ışığı, za
 düşük kalite, bulanık, kötü anatomi, fazladan uzuvlar, kırık parmaklar, bozuk yüz, kopyalanmış karakter, birden fazla yüz, sert hareket, doğal olmayan poz, ucuz kostüm, plastik cilt, aşırı pozlanmış, dağınık arka plan, metin, filigran, logo, titreyen yüz, tutarsız kıyafet, tutarsız silah, kamera sarsıntısı çok güçlü
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055618669208887296/img/kpUhnOmmKTPjOwlc.jpg" width="600" alt="Gotik Savaş Dansçısı Sinematik Videosu">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/10f9a5bc6bc98f6d297a3dae46d9e4f3/thumbnails/thumbnail.jpg" width="600" alt="Gotik Savaş Dansçısı Sinematik Videosu">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4893)**
 
@@ -1380,7 +1380,7 @@ Genel ses: gerçekçi futbol taraftar tezahüratları, ıslıklar, spikerler, oy
 Referans görselde gösterilen karakteri kullanın. Karakterin yüzünü, saç stilini, kıyafetini, vücut tipini, renklerini, dokularını, süslemelerini ve tarzını kimliğini değiştirmeden mümkün olduğunca sadık bir şekilde yansıtın. Eğer sadece bir kişi varsa, kompozisyonu o karakterin etrafında ortalayın.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055451777584316417/img/syjkhRssyXkrILqY.jpg" width="600" alt="Kira Fuwa Bitiş Animasyonu Şablonu">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f48445d510a604dd7592851669b9961/thumbnails/thumbnail.jpg" width="600" alt="Kira Fuwa Bitiş Animasyonu Şablonu">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4894)**
 
@@ -1519,7 +1519,7 @@ Hızlanma rampası: Bir gökdelen doğrudan kameranın etrafında oluşur, katla
 Son an: Şehir tamamlanır, ardından her şey aniden durur ve mükemmel bir şekilde hareketsiz kalır.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055351254369378304/pu/img/3RdRKW-ozsD6eNht.jpg" width="600" alt="Kendi Kendini İnşa Eden Şehir Gün Doğumu Manzarası">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0741d8d1826b6db61ab68dae7400bc4d/thumbnails/thumbnail.jpg" width="600" alt="Kendi Kendini İnşa Eden Şehir Gün Doğumu Manzarası">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4830)**
 
@@ -1991,7 +1991,7 @@ Kozmik felaket, ışık simülasyonu, sinematik ölçek, 4K.
 1. Adım: GPT Image 2 ile storyboard oluşturun. 3x4 ızgara (12 kare) düzeninde, editoryal tasarımlı, Ferretti/Sunseeker tarzında, lacivert ve cilalı tik ağacı paletine sahip, üst düzey bir lüks yat sunum dosyası storyboard'u oluşturun. Yapılandırılmış akış: kalkış → açık deniz → güverte → ufuk → özgürlük kapanışı. Her kare bölünmüş: üst kısım sinematik görsel (metin yok) + alt kısım storyboard notları. Akdeniz denizcilik minimal estetiği, rüzgar ve sessizlik atmosferi, sınırsız ayrıcalık. Durgun suyu yaran bir yat pruvası, baştan sona duygusal merkez noktasıdır. 2. Adım: Her kareyi Seedance 2.0'a aktarın. Metin netliğini korumak için 1080p olarak ayarlayın. Sağlanan 3x4 storyboard'u akıcı bir sinematik videoya dönüştürün. Çekim sırasını ve sürekliliği tam olarak koruyun. Yavaş su dalgası yayılımı, halat bobini açılışı, havadan pruva çekimi geri çekilmesi ve ufuk parıltısı kullanın. Işık geçişleri, serin açık deniz sabahından sıcak altın rengi Akdeniz gün batımına doğru ilerlesin. Yat editoryal estetiği, sınırsız özgürlük, sessiz güç atmosferi. Yeni çekim eklemeyin, sıralamayı değiştirmeyin; yat pruvası tüm sahnelerde duygusal odak noktası olarak kalsın.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055195027748610048/pu/img/kh6ck06ycpn2JZJ3.jpg" width="600" alt="Lüks Yat Sunum Dosyası Storyboard Animasyonu">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2447f53fb61c61b941505f33abe113ee/thumbnails/thumbnail.jpg" width="600" alt="Lüks Yat Sunum Dosyası Storyboard Animasyonu">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4828)**
 
@@ -2097,7 +2097,7 @@ Ardından ok bırakılıyor, hedef tahtasına geçiş yapıyoruz:
 → kameranın okçuya yaklaştığı sinematik final
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055174144661045248/img/cOXALnrMUflZwz_P.jpg" width="600" alt="Olimpik Okçuluk Sinematik Yayını">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4bd95b319313a3c5fe1c04e2fc891a1/thumbnails/thumbnail.jpg" width="600" alt="Olimpik Okçuluk Sinematik Yayını">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4892)**
 
@@ -3612,6 +3612,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-05-17T07:04:54.513Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-05-17T10:03:09.717Z</sub>
 
 </div>

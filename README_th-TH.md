@@ -417,7 +417,7 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 วิดีโอสั้นความยาว 15 วินาทีที่ได้รับแรงบันดาลใจจากภาพยนตร์สตอปโมชัน นำเสนอความสวยงามของงานฝีมือแบบมินิเอเจอร์ พื้นผิวผ้าที่ละเอียดสมจริง โครงหน้าแบบสไตไลซ์ที่ผ่านการแกะสลัก ร่องรอยลายนิ้วมือและตำหนิเล็กน้อยบนวัสดุ พร้อมแสงแบบวอลูเมตริกในสไตล์ภาพยนตร์
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055718796581584896/img/LKjRJZQHffCwg1V_.jpg" width="600" alt="แอนิเมชันสตอปโมชันแบบมินิเอเจอร์">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9eb384f07bfa2ad8ba14f7899f2adcfc/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันสตอปโมชันแบบมินิเอเจอร์">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=4890)**
 
@@ -492,7 +492,7 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 ลองใช้เลยที่นี่👇👇
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055686413816152065/img/Y_EJrLbG-F5oSzTh.jpg" width="600" alt="พรอมต์แอนิเมชันเชฟซูชิ">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c41d91e3e561196e84b679f505736e9/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์แอนิเมชันเชฟซูชิ">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=4891)**
 
@@ -751,7 +751,7 @@ full frame cinematic, ละครโทรทัศน์แนววิชา�
 เพลงร็อกพลังสูงที่มีนักร้องนำหญิง เสียงกลองที่ดุดัน ริฟฟ์กีตาร์ไฟฟ้า การเปลี่ยนฉากที่เข้ากับจังหวะเพลง บรรยากาศลอนดอนที่สมจริง และเสียงกระซิบ ASMR เบาๆ
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055642914860969985/img/BzwfCQYF1SBxcU7R.jpg" width="600" alt="วล็อกท่องเที่ยวลอนดอนสุดพลัง">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770e4906c171229870e6e7d84a1ae97b/thumbnails/thumbnail.jpg" width="600" alt="วล็อกท่องเที่ยวลอนดอนสุดพลัง">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=4887)**
 
@@ -794,7 +794,7 @@ cinematic gothic fantasy fashion film, dark cathedral, cold moonlight, elegant c
 low quality, blurry, bad anatomy, extra limbs, broken fingers, distorted face, duplicated character, multiple faces, stiff movement, unnatural pose, cheap cosplay, plastic skin, overexposed, messy background, text, watermark, logo, flickering face, inconsistent outfit, inconsistent weapon, camera shake too strong
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055618669208887296/img/kpUhnOmmKTPjOwlc.jpg" width="600" alt="วิดีโอซีนีมาติกนักเต้นนักรบสไตล์โกธิค">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/10f9a5bc6bc98f6d297a3dae46d9e4f3/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอซีนีมาติกนักเต้นนักรบสไตล์โกธิค">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=4893)**
 
@@ -1388,7 +1388,7 @@ global_rule: ไม่มีดนตรีประกอบ มีเพีย
 ใช้ตัวละครที่ปรากฏในภาพอ้างอิง โดยสะท้อนใบหน้า ทรงผม ชุด รูปร่าง สี พื้นผิว การตกแต่ง และสไตล์ของตัวละครให้เหมือนต้นฉบับมากที่สุดโดยไม่เปลี่ยนเอกลักษณ์ หากมีตัวละครเพียงคนเดียว ให้จัดองค์ประกอบภาพโดยเน้นตัวละครนั้นไว้ที่กึ่งกลาง
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055451777584316417/img/syjkhRssyXkrILqY.jpg" width="600" alt="เทมเพลตแอนิเมชันตอนจบแบบ Kira Fuwa">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f48445d510a604dd7592851669b9961/thumbnails/thumbnail.jpg" width="600" alt="เทมเพลตแอนิเมชันตอนจบแบบ Kira Fuwa">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=4894)**
 
@@ -1527,7 +1527,7 @@ global_rule: ไม่มีดนตรีประกอบ มีเพีย
 ช่วงสุดท้าย: เมืองเสร็จสมบูรณ์ จากนั้นทุกอย่างหยุดลงกะทันหันและนิ่งสนิท
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055351254369378304/pu/img/3RdRKW-ozsD6eNht.jpg" width="600" alt="ทิวทัศน์เมืองยามเช้าที่ประกอบร่างขึ้นเอง">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0741d8d1826b6db61ab68dae7400bc4d/thumbnails/thumbnail.jpg" width="600" alt="ทิวทัศน์เมืองยามเช้าที่ประกอบร่างขึ้นเอง">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=4830)**
 
@@ -2002,7 +2002,7 @@ global_rule: ไม่มีดนตรีประกอบ มีเพีย
 ขั้นตอนที่ 1: สร้างสตอรี่บอร์ดด้วย GPT Image 2 สร้างสตอรี่บอร์ดสำหรับ Pitch Deck เรือยอชต์สุดหรูในอัตราส่วน 4:3 แบบตาราง 3x4 (12 เฟรม) จัดวางแบบนิตยสาร สไตล์ Ferretti/Sunseeker โทนสีน้ำเงินกรมท่าและไม้สักขัดเงา โครงสร้างการเล่าเรื่อง: การออกเดินทาง → ทะเลเปิด → ดาดฟ้าเรือ → เส้นขอบฟ้า → บทสรุปแห่งอิสรภาพ แต่ละเฟรมแบ่งเป็น: ด้านบนเป็นภาพยนตร์ (ไม่มีข้อความ) + ด้านล่างเป็นบันทึกสตอรี่บอร์ด สุนทรียภาพแบบมินิมอลทางทะเลเมดิเตอร์เรเนียน อารมณ์แห่งสายลมและความเงียบสงบ ความหรูหราที่ไร้ขอบเขต โดยมีหัวเรือยอชต์ที่แหวกผ่านผืนน้ำนิ่งเป็นจุดศูนย์กลางทางอารมณ์ตลอดทั้งเรื่อง ขั้นตอนที่ 2: นำแต่ละเฟรมเข้าสู่ Seedance 2.0 ตั้งค่าเป็น 1080p เพื่อรักษาความคมชัดของข้อความ เปลี่ยนสตอรี่บอร์ด 3x4 ที่เตรียมไว้ให้เป็นวิดีโอระดับภาพยนตร์ที่ลื่นไหล รักษาลำดับภาพและความต่อเนื่องให้แม่นยำ ใช้การเคลื่อนไหวของคลื่นน้ำที่ค่อยๆ กระจายออก การเผยให้เห็นเชือกที่ขดอยู่ การดึงภาพมุมสูงจากหัวเรือ และแสงระยิบระยับที่เส้นขอบฟ้า เปลี่ยนผ่านแสงจากยามเช้าในทะเลเปิดที่เย็นสบายไปสู่แสงสีทองอบอุ่นของพระอาทิตย์ตกดินในเมดิเตอร์เรเนียน สุนทรียภาพแบบนิตยสารเรือยอชต์ อารมณ์แห่งอิสรภาพที่ไร้ขอบเขตและพลังที่เงียบสงบ ห้ามเพิ่มช็อตใหม่ ห้ามจัดลำดับใหม่ และหัวเรือยอชต์ต้องคงเป็นจุดสนใจทางอารมณ์ในทุกฉาก
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055195027748610048/pu/img/kh6ck06ycpn2JZJ3.jpg" width="600" alt="แอนิเมชันสตอรี่บอร์ดสำหรับ Pitch Deck เรือยอชต์สุดหรู">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2447f53fb61c61b941505f33abe113ee/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันสตอรี่บอร์ดสำหรับ Pitch Deck เรือยอชต์สุดหรู">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=4828)**
 
@@ -2108,7 +2108,7 @@ global_rule: ไม่มีดนตรีประกอบ มีเพีย
 → ฉากจบแบบภาพยนตร์ที่กล้องเคลื่อนเข้าไปหานักยิงธนู
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055174144661045248/img/cOXALnrMUflZwz_P.jpg" width="600" alt="การถ่ายทอดสดการแข่งขันยิงธนูโอลิมปิกแบบภาพยนตร์">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4bd95b319313a3c5fe1c04e2fc891a1/thumbnails/thumbnail.jpg" width="600" alt="การถ่ายทอดสดการแข่งขันยิงธนูโอลิมปิกแบบภาพยนตร์">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=4892)**
 
@@ -3626,6 +3626,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-05-17T07:04:13.058Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-05-17T10:02:43.508Z</sub>
 
 </div>

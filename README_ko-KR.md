@@ -411,7 +411,7 @@ ARRI Alexa 65로 촬영한 강렬하고 사실적인 VFX 중심의 영화적 시
 15초 분량의 시네마틱 스톱 모션 스타일 단편 애니메이션. 수작업으로 만든 촉각적 미니어처 미학, 디테일한 직물 질감, 조각된 스타일의 얼굴 특징, 소재에 남은 미세한 지문과 불완전함, 시네마틱 볼류메트릭 조명
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055718796581584896/img/LKjRJZQHffCwg1V_.jpg" width="600" alt="스톱 모션 미니어처 애니메이션">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9eb384f07bfa2ad8ba14f7899f2adcfc/thumbnails/thumbnail.jpg" width="600" alt="스톱 모션 미니어처 애니메이션">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=4890)**
 
@@ -486,7 +486,7 @@ ARRI Alexa 65로 촬영한 강렬하고 사실적인 VFX 중심의 영화적 시
 여기서 시도해보세요👇👇
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055686413816152065/img/Y_EJrLbG-F5oSzTh.jpg" width="600" alt="스시 셰프 애니메이션 프롬프트">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c41d91e3e561196e84b679f505736e9/thumbnails/thumbnail.jpg" width="600" alt="스시 셰프 애니메이션 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=4891)**
 
@@ -748,7 +748,7 @@ ARRI Alexa 65로 촬영한 강렬하고 사실적인 VFX 중심의 영화적 시
 에너지 넘치는 여성 보컬 록 음악, 강렬한 드럼, 일렉트릭 기타 리프, 비트에 맞춘 빠른 전환, 사실적인 런던 현장음, 미세한 ASMR 속삭임.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055642914860969985/img/BzwfCQYF1SBxcU7R.jpg" width="600" alt="에너지 넘치는 런던 여행 브이로그">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770e4906c171229870e6e7d84a1ae97b/thumbnails/thumbnail.jpg" width="600" alt="에너지 넘치는 런던 여행 브이로그">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=4887)**
 
@@ -791,7 +791,7 @@ ARRI Alexa 65로 촬영한 강렬하고 사실적인 VFX 중심의 영화적 시
 저화질, 흐릿함, 잘못된 해부학적 구조, 여분의 팔다리, 부러진 손가락, 일그러진 얼굴, 복제된 캐릭터, 여러 개의 얼굴, 딱딱한 움직임, 부자연스러운 포즈, 저렴한 코스프레, 플라스틱 피부, 과다 노출, 지저분한 배경, 텍스트, 워터마크, 로고, 깜빡이는 얼굴, 일관성 없는 의상, 일관성 없는 무기, 너무 심한 카메라 흔들림
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055618669208887296/img/kpUhnOmmKTPjOwlc.jpg" width="600" alt="고딕 배틀 댄서 시네마틱 영상">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/10f9a5bc6bc98f6d297a3dae46d9e4f3/thumbnails/thumbnail.jpg" width="600" alt="고딕 배틀 댄서 시네마틱 영상">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=4893)**
 
@@ -1385,7 +1385,7 @@ global_rule: 음악 없음, 현장 효과음(SFX)만 사용. 로스앤젤레스 
 참조 이미지에 표시된 캐릭터를 사용하세요. 캐릭터의 얼굴, 헤어스타일, 의상, 체형, 색상, 질감, 장식 및 스타일을 정체성 변화 없이 최대한 충실하게 반영하세요. 인물이 한 명뿐인 경우, 해당 캐릭터를 중심으로 구도를 잡으세요.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055451777584316417/img/syjkhRssyXkrILqY.jpg" width="600" alt="Kira Fuwa 엔딩 애니메이션 템플릿">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f48445d510a604dd7592851669b9961/thumbnails/thumbnail.jpg" width="600" alt="Kira Fuwa 엔딩 애니메이션 템플릿">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=4894)**
 
@@ -1524,7 +1524,7 @@ global_rule: 음악 없음, 현장 효과음(SFX)만 사용. 로스앤젤레스 
 마지막 순간: 도시가 완성되고, 모든 것이 갑자기 멈추며 완벽하게 정지합니다.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055351254369378304/pu/img/3RdRKW-ozsD6eNht.jpg" width="600" alt="스스로 조립되는 도시의 일출 풍경">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0741d8d1826b6db61ab68dae7400bc4d/thumbnails/thumbnail.jpg" width="600" alt="스스로 조립되는 도시의 일출 풍경">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=4830)**
 
@@ -1996,7 +1996,7 @@ global_rule: 음악 없음, 현장 효과음(SFX)만 사용. 로스앤젤레스 
 1단계: GPT Image 2로 스토리보드 생성. 3x4 그리드(12 프레임) 구성의 고급 4:3 럭셔리 요트 피치 덱 스토리보드를 생성하세요. 편집 레이아웃, Ferretti/Sunseeker 스타일, 네이비 블루와 광택이 나는 티크 색상 팔레트를 사용합니다. 구조적 흐름: 출발 → 탁 트인 바다 → 갑판 → 수평선 → 자유를 향한 마무리. 각 프레임 분할: 상단 시네마틱 이미지(텍스트 없음) + 하단 스토리보드 노트. 지중해 항해 미니멀리즘 미학, 바람과 정적의 분위기, 무한한 특권. 정지된 물살을 가르는 요트의 선수(bow)가 전체의 감정적 중심이 됩니다. 2단계: 각 프레임을 Seedance 2.0으로 가져오기. 텍스트 선명도를 유지하기 위해 1080p로 설정하세요. 제공된 3x4 스토리보드를 부드러운 시네마틱 비디오로 애니메이션화합니다. 정확한 샷 순서와 연속성을 유지하세요. 느린 물살의 확산, 밧줄이 풀리는 모습, 선수에서 뒤로 빠지는 항공 샷, 수평선의 아지랑이를 활용합니다. 조명은 차가운 바다의 아침에서 따뜻한 지중해의 황금빛 노을로 전환됩니다. 요트 편집 미학, 무한한 자유, 조용한 힘의 분위기를 연출하세요. 새로운 샷을 추가하거나 순서를 바꾸지 말고, 요트 선수가 모든 장면에서 감정적 초점이 되도록 유지하세요.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055195027748610048/pu/img/kh6ck06ycpn2JZJ3.jpg" width="600" alt="럭셔리 요트 피치 덱 스토리보드 애니메이션">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2447f53fb61c61b941505f33abe113ee/thumbnails/thumbnail.jpg" width="600" alt="럭셔리 요트 피치 덱 스토리보드 애니메이션">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=4828)**
 
@@ -2102,7 +2102,7 @@ global_rule: 음악 없음, 현장 효과음(SFX)만 사용. 로스앤젤레스 
 → 카메라가 궁사에게 다가가는 시네마틱 엔딩
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055174144661045248/img/cOXALnrMUflZwz_P.jpg" width="600" alt="올림픽 양궁 시네마틱 방송">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4bd95b319313a3c5fe1c04e2fc891a1/thumbnails/thumbnail.jpg" width="600" alt="올림픽 양궁 시네마틱 방송">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=4892)**
 
@@ -3619,6 +3619,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-17T07:04:08.265Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-17T10:02:37.074Z</sub>
 
 </div>

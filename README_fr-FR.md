@@ -411,7 +411,7 @@ Séquence cinématographique ultra-réaliste riche en effets visuels, filmée av
 Court-métrage d'animation cinématographique de 15 secondes inspiré du stop-motion. Esthétique miniature tactile artisanale, textures de tissu détaillées, traits du visage stylisés et sculptés, empreintes digitales subtiles et imperfections dans les matériaux, éclairage volumétrique cinématographique
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055718796581584896/img/LKjRJZQHffCwg1V_.jpg" width="600" alt="Animation miniature en stop motion">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9eb384f07bfa2ad8ba14f7899f2adcfc/thumbnails/thumbnail.jpg" width="600" alt="Animation miniature en stop motion">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4890)**
 
@@ -484,7 +484,7 @@ Chef sushi : adulte, portant un uniforme de sushi traditionnel avec le logo YOUR
 Essayez-le ici👇👇
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055686413816152065/img/Y_EJrLbG-F5oSzTh.jpg" width="600" alt="Prompt d'animation de chef sushi">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c41d91e3e561196e84b679f505736e9/thumbnails/thumbnail.jpg" width="600" alt="Prompt d'animation de chef sushi">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4891)**
 
@@ -738,7 +738,7 @@ Audio :
 Chanson rock énergique portée par une voix féminine, batterie agressive, riffs de guitare électrique, transitions rapides synchronisées sur le rythme, ambiance londonienne réaliste, légers murmures ASMR.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055642914860969985/img/BzwfCQYF1SBxcU7R.jpg" width="600" alt="Vlog de voyage dynamique à Londres">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770e4906c171229870e6e7d84a1ae97b/thumbnails/thumbnail.jpg" width="600" alt="Vlog de voyage dynamique à Londres">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4887)**
 
@@ -781,7 +781,7 @@ film de mode dark fantasy cinématique, cathédrale sombre, clair de lune froid,
 faible qualité, flou, mauvaise anatomie, membres supplémentaires, doigts cassés, visage déformé, personnage dupliqué, visages multiples, mouvement rigide, pose non naturelle, cosplay bon marché, peau en plastique, surexposé, arrière-plan désordonné, texte, filigrane, logo, visage vacillant, tenue incohérente, arme incohérente, tremblement de caméra trop fort
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055618669208887296/img/kpUhnOmmKTPjOwlc.jpg" width="600" alt="Vidéo cinématique de danseuse de combat gothique">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/10f9a5bc6bc98f6d297a3dae46d9e4f3/thumbnails/thumbnail.jpg" width="600" alt="Vidéo cinématique de danseuse de combat gothique">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4893)**
 
@@ -1375,7 +1375,7 @@ Audio tout au long de la séquence : chants de foule réalistes, sifflets, comme
 Utilisez le personnage présenté dans l'image de référence. Reflétez le visage, la coiffure, la tenue, la morphologie, les couleurs, les textures, les décorations et le style du personnage aussi fidèlement que possible sans changer son identité. S'il n'y a qu'une seule personne, centrez la composition autour de ce personnage.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055451777584316417/img/syjkhRssyXkrILqY.jpg" width="600" alt="Modèle d'animation de fin Kira Fuwa">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f48445d510a604dd7592851669b9961/thumbnails/thumbnail.jpg" width="600" alt="Modèle d'animation de fin Kira Fuwa">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4894)**
 
@@ -1514,7 +1514,7 @@ Accélération de la vitesse : un gratte-ciel se forme directement autour de la 
 Moment final : la ville est terminée, puis tout s'arrête soudainement, parfaitement immobile.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055351254369378304/pu/img/3RdRKW-ozsD6eNht.jpg" width="600" alt="Paysage urbain à l'aube en auto-assemblage">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0741d8d1826b6db61ab68dae7400bc4d/thumbnails/thumbnail.jpg" width="600" alt="Paysage urbain à l'aube en auto-assemblage">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4830)**
 
@@ -1986,7 +1986,7 @@ Catastrophe cosmique, simulation de lumière, échelle cinématographique, 4K.
 Étape 1 : Générez le storyboard avec GPT Image 2. Créez un storyboard de présentation de yacht de luxe haut de gamme au format 4:3 dans une grille 3x4 (12 cadres), mise en page éditoriale, style Ferretti/Sunseeker, palette bleu marine et teck poli. Flux structuré : départ → pleine mer → pont → horizon → conclusion sur la liberté. Chaque cadre est divisé : image cinématographique en haut (sans texte) + notes de storyboard en bas. Esthétique nautique méditerranéenne minimaliste, ambiance de vent et de silence, privilège absolu. La proue d'un yacht fendant une eau calme constitue le centre émotionnel de l'ensemble. Étape 2 : Importez chaque cadre dans Seedance 2.0. Réglez sur 1080p pour préserver la clarté du texte. Animez le storyboard 3x4 fourni en une vidéo cinématographique fluide. Préservez l'ordre exact des plans et la continuité. Utilisez des effets de sillage d'eau lent, de révélation de cordage, de recul aérien sur la proue et de scintillement à l'horizon. Transitions lumineuses passant du matin frais en pleine mer au chaud coucher de soleil méditerranéen. Esthétique éditoriale de yacht, liberté sans limites, ambiance de puissance tranquille. Aucun nouveau plan, aucune réorganisation, la proue du yacht reste le point focal émotionnel dans toutes les scènes.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055195027748610048/pu/img/kh6ck06ycpn2JZJ3.jpg" width="600" alt="Animation de storyboard pour présentation de yacht de luxe">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2447f53fb61c61b941505f33abe113ee/thumbnails/thumbnail.jpg" width="600" alt="Animation de storyboard pour présentation de yacht de luxe">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4828)**
 
@@ -2092,7 +2092,7 @@ Puis la flèche est décochée, nous passons à la cible :
 → final cinématographique où la caméra se rapproche de l'archère
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055174144661045248/img/cOXALnrMUflZwz_P.jpg" width="600" alt="Diffusion cinématographique de tir à l'arc olympique">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4bd95b319313a3c5fe1c04e2fc891a1/thumbnails/thumbnail.jpg" width="600" alt="Diffusion cinématographique de tir à l'arc olympique">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4892)**
 
@@ -3609,6 +3609,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-05-17T07:04:40.762Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-05-17T10:03:01.685Z</sub>
 
 </div>

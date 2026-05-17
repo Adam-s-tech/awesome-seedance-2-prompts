@@ -411,7 +411,7 @@
 15 秒电影级定格动画风格短片。手工打造的触感微缩美学，细腻的织物纹理，雕刻感十足的风格化面部特征，材料上微妙的指纹和瑕疵，电影级体积光。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055718796581584896/img/LKjRJZQHffCwg1V_.jpg" width="600" alt="定格微缩动画">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9eb384f07bfa2ad8ba14f7899f2adcfc/thumbnails/thumbnail.jpg" width="600" alt="定格微缩动画">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4890)**
 
@@ -484,7 +484,7 @@
 点击此处尝试👇👇
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055686413816152065/img/Y_EJrLbG-F5oSzTh.jpg" width="600" alt="寿司厨师动画提示词">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c41d91e3e561196e84b679f505736e9/thumbnails/thumbnail.jpg" width="600" alt="寿司厨师动画提示词">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4891)**
 
@@ -743,7 +743,7 @@
 充满活力的女性主唱摇滚乐，强劲的鼓点，电吉他即兴演奏，与节奏同步的快速转场，真实的伦敦环境音，细微的 ASMR 耳语。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055642914860969985/img/BzwfCQYF1SBxcU7R.jpg" width="600" alt="高能伦敦旅行 Vlog">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770e4906c171229870e6e7d84a1ae97b/thumbnails/thumbnail.jpg" width="600" alt="高能伦敦旅行 Vlog">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4887)**
 
@@ -786,7 +786,7 @@
 低质量，模糊，解剖结构错误，多余肢体，手指残缺，面部扭曲，角色重复，多张脸，动作僵硬，姿势不自然，廉价角色扮演，塑料质感皮肤，过度曝光，背景杂乱，文字，水印，Logo，面部闪烁，服装不连贯，武器不连贯，镜头抖动过强
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055618669208887296/img/kpUhnOmmKTPjOwlc.jpg" width="600" alt="哥特风战斗舞者电影感视频">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/10f9a5bc6bc98f6d297a3dae46d9e4f3/thumbnails/thumbnail.jpg" width="600" alt="哥特风战斗舞者电影感视频">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4893)**
 
@@ -1380,7 +1380,7 @@ NBA 现场解说持续进行：
 使用参考图像中显示的角色。尽可能忠实地还原角色的脸部、发型、服装、体型、颜色、纹理、装饰和风格，且不得改变其身份特征。如果画面中只有一个人，请将构图中心对准该角色。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055451777584316417/img/syjkhRssyXkrILqY.jpg" width="600" alt="Kira Fuwa 片尾动画模板">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f48445d510a604dd7592851669b9961/thumbnails/thumbnail.jpg" width="600" alt="Kira Fuwa 片尾动画模板">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4894)**
 
@@ -1519,7 +1519,7 @@ NBA 现场解说持续进行：
 最后时刻：城市构建完成，随后一切戛然而止，归于静止。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055351254369378304/pu/img/3RdRKW-ozsD6eNht.jpg" width="600" alt="自动组装的城市日出景观">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0741d8d1826b6db61ab68dae7400bc4d/thumbnails/thumbnail.jpg" width="600" alt="自动组装的城市日出景观">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4830)**
 
@@ -1991,7 +1991,7 @@ NBA 现场解说持续进行：
 第一步：使用 GPT Image 2 生成分镜。创建一个 3x4 网格（共 12 帧）的高端豪华游艇 Pitch Deck 分镜，采用编辑排版，Ferretti/Sunseeker 风格，海军蓝与抛光柚木色调。结构流程：启航 → 开阔水域 → 甲板 → 地平线 → 自由收尾。每帧拆分：上方为电影级图像（无文字）+ 下方为分镜说明。地中海航海极简美学，风与静谧的氛围，无尽的特权感。游艇船头破开静水是贯穿始终的情感核心。第二步：将每一帧导入 Seedance 2.0。设置为 1080p 以保持文字清晰度。将提供的 3x4 分镜动画化为流畅的电影级视频。保持准确的镜头顺序和连贯性。使用缓慢的水波扩散、缆绳盘绕展示、船头航拍后拉以及地平线微光效果。光影从凉爽的开阔海域清晨过渡到温暖的地中海金色日落。游艇编辑美学，无尽的自由，静谧的力量感。不添加新镜头，不重新排序，游艇船头在所有场景中始终保持情感焦点。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055195027748610048/pu/img/kh6ck06ycpn2JZJ3.jpg" width="600" alt="豪华游艇 Pitch Deck 分镜动画">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2447f53fb61c61b941505f33abe113ee/thumbnails/thumbnail.jpg" width="600" alt="豪华游艇 Pitch Deck 分镜动画">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4828)**
 
@@ -2097,7 +2097,7 @@ NBA 现场解说持续进行：
 → 电影级结尾，镜头推进至运动员特写
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055174144661045248/img/cOXALnrMUflZwz_P.jpg" width="600" alt="奥运射箭电影级转播画面">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4bd95b319313a3c5fe1c04e2fc891a1/thumbnails/thumbnail.jpg" width="600" alt="奥运射箭电影级转播画面">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4892)**
 
@@ -3614,6 +3614,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-17T07:03:54.129Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-17T10:02:18.388Z</sub>
 
 </div>

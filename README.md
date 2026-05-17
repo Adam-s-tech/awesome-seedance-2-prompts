@@ -415,7 +415,7 @@ intensely realistic, VFX-heavy cinematic sequence shot on ARRI Alexa 65. In a va
 15 second cinematic stop-motion inspired animated short. Handcrafted tactile miniature aesthetic, detailed fabric textures, carved stylized facial features, subtle fingerprints and imperfections in materials, cinematic volumetric
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055718796581584896/img/LKjRJZQHffCwg1V_.jpg" width="600" alt="Stop Motion Miniature Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9eb384f07bfa2ad8ba14f7899f2adcfc/thumbnails/thumbnail.jpg" width="600" alt="Stop Motion Miniature Animation">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=4890)**
 
@@ -488,7 +488,7 @@ Sushi Chef: adult, wearing traditional sushi uniform With Logo YOUR AI GIRL, pos
 Try It Here👇👇
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055686413816152065/img/Y_EJrLbG-F5oSzTh.jpg" width="600" alt="Sushi Chef Animation Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c41d91e3e561196e84b679f505736e9/thumbnails/thumbnail.jpg" width="600" alt="Sushi Chef Animation Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=4891)**
 
@@ -747,7 +747,7 @@ Audio:
 Energetic female-fronted rock song, aggressive drums, electric guitar riffs, fast beat-synced transitions, realistic London ambience, subtle ASMR whispers.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055642914860969985/img/BzwfCQYF1SBxcU7R.jpg" width="600" alt="High-Energy London Travel Vlog">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770e4906c171229870e6e7d84a1ae97b/thumbnails/thumbnail.jpg" width="600" alt="High-Energy London Travel Vlog">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=4887)**
 
@@ -790,7 +790,7 @@ cinematic gothic fantasy fashion film, dark cathedral, cold moonlight, elegant c
 low quality, blurry, bad anatomy, extra limbs, broken fingers, distorted face, duplicated character, multiple faces, stiff movement, unnatural pose, cheap cosplay, plastic skin, overexposed, messy background, text, watermark, logo, flickering face, inconsistent outfit, inconsistent weapon, camera shake too strong
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055618669208887296/img/kpUhnOmmKTPjOwlc.jpg" width="600" alt="Gothic Battle Dancer Cinematic Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/10f9a5bc6bc98f6d297a3dae46d9e4f3/thumbnails/thumbnail.jpg" width="600" alt="Gothic Battle Dancer Cinematic Video">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=4893)**
 
@@ -1384,7 +1384,7 @@ Audio throughout: realistic football crowd chants, whistles, commentators, playe
 Use the character shown in the reference image. Reflect the character's face, hairstyle, outfit, body type, colors, textures, decorations, and style as faithfully as possible without changing their identity. If there is only one person, center the composition around that character.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055451777584316417/img/syjkhRssyXkrILqY.jpg" width="600" alt="Kira Fuwa Ending Animation Template">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f48445d510a604dd7592851669b9961/thumbnails/thumbnail.jpg" width="600" alt="Kira Fuwa Ending Animation Template">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=4894)**
 
@@ -1513,7 +1513,7 @@ Slow motion. Shows this realistic character performing breakdancing jumps and fl
 A completely empty flat landscape at sunrise. At the 2-second mark, buildings begin assembling themselves, steel beams flying into place, glass panels snapping together, roads drawing themselves across the ground. The camera moves forward as the city constructs itself in real-time. Vehicles appear mid-motion, lights turning on as systems activate. Velocity ramp: a skyscraper forms directly around the camera, floors stacking upward. Final moment: the city is complete, then everything stops suddenly, perfectly still.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055351254369378304/pu/img/3RdRKW-ozsD6eNht.jpg" width="600" alt="Self-Assembling City Sunrise Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0741d8d1826b6db61ab68dae7400bc4d/thumbnails/thumbnail.jpg" width="600" alt="Self-Assembling City Sunrise Video Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=4830)**
 
@@ -1985,7 +1985,7 @@ Cosmic disaster, light simulation, cinematic scale, 4K.
 Animate the provided 3x4 storyboard into a smooth cinematic video. Preserve exact shot order and continuity. Use slow water wake spread, rope coil reveal, aerial bow shot pull-back, and horizon shimmer. Lighting transitions from cool open sea morning to warm golden Mediterranean sunset. Yacht editorial aesthetic, boundless freedom, quiet power mood. No new shots, no reordering, yacht bow remains emotional focus in all scenes.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2055195027748610048/pu/img/kh6ck06ycpn2JZJ3.jpg" width="600" alt="Luxury Yacht Storyboard Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2447f53fb61c61b941505f33abe113ee/thumbnails/thumbnail.jpg" width="600" alt="Luxury Yacht Storyboard Animation">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=4828)**
 
@@ -2091,7 +2091,7 @@ Then the arrow is released, we transition to the target board:
 → cinematic final where the camera approaches the archer
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2055174144661045248/img/cOXALnrMUflZwz_P.jpg" width="600" alt="Olympic Archery Cinematic Broadcast">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4bd95b319313a3c5fe1c04e2fc891a1/thumbnails/thumbnail.jpg" width="600" alt="Olympic Archery Cinematic Broadcast">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=4892)**
 
@@ -3609,6 +3609,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-17T07:03:49.184Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-17T10:02:12.091Z</sub>
 
 </div>
