@@ -3402,6 +3402,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-22T14:55:10.883Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-22T18:06:49.359Z</sub>
 
 </div>
