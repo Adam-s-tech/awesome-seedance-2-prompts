@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **3290** |
+| 📝 Toplam İstem | **3292** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-05-23** |
 
@@ -361,6 +361,29 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Cinematic Tropical Mountain Travel Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating an ultra-realistic 4K travel video featuring a woman on a wooden viewpoint deck overlooking misty tropical mountains.
+
+#### 📝 İstem
+
+```
+Ultra-realistic cinematic travel video shot on an iPhone 15 Pro wide-angle lens (4K, 60fps). Scene opens with a slow handheld approach toward a stylish young woman standing on a wooden mountain viewpoint deck. She is overlooking dramatic lush green tropical mountains covered in mist and layers of depth.
+She wears an all-red drop shoulder t-shirt and baggy black pants, paired with black sunglasses. Her natural dark hair flows gently in the mountain breeze. She stands in a relaxed, confident pose with both hands resting on the wooden railing, looking calmly to the left side of the horizon.
+Camera begins with a soft focus foreground of wooden textures, then smoothly shifts focus to her face and outfit details. Subtle lens breathing and natural motion blur enhance realism. Cinematic sunlight rays break through massive fluffy clouds, creating golden highlights across her silhouette and soft rim lighting on her hair and shoulders.
+Mid-sequence shows a slow orbit from slightly behind her right side, revealing the vast tropical valley and layered mountain depth. Leaves and light mist subtly move with wind, adding natural motion.
+Final shot pulls back slowly, framing her as a small figure against the grand landscape, emphasizing scale, freedom, and travel serenity. Vibrant natural colors, shallow depth of field, realistic skin texture, and candid luxury lifestyle aesthetic throughout. Slow cinematic pacing, emotional calm tone, immersive travel atmosphere.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2057738049656897536/pu/img/EP8z2MPApF-fKqc-.jpg" width="600" alt="Cinematic Tropical Mountain Travel Video">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5135)**
+
+**Yazar:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Kaynak:** [Link](https://x.com/ayzalnooor24521/status/2057738145668739502) | **Yayınlandı:** May 22, 2026
+
+---
 ### İlginç Orman Yaratığı Komedi Animasyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -378,6 +401,45 @@ Sevimli orman yaratığını ilginç bir komedi sahnesinde canlandırın: Yarat�
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5123)**
 
 **Yazar:** [Umesh](https://x.com/umesh_ai) | **Kaynak:** [Link](https://x.com/umesh_ai/status/2057711837052064215) | **Yayınlandı:** May 22, 2026
+
+---
+### Cinematic Match Cut Flashback Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A multi-shot video prompt for creating a seamless match cut transition between an elderly man in a modern café and his younger self in the 1970s.
+
+#### 📝 İstem
+
+```
+A cinematic multi-shot sequence with seamless flashback transition, hyper-realistic, film-grade lighting, shallow depth of field, soft film grain, consistent vintage camera prop.
+Shot 1 (0s–6s):
+Interior — cozy modern coffee shop (use @Image1 as starting frame).
+Warm ambient lighting, soft window highlights, subtle background blur.
+An older man (late 60s, thoughtful expression) sits at a wooden table. A vintage film camera rests in front of him.
+Camera movement: slow dolly-in from medium shot to extreme close-up of his eyes.
+Details: reflections of café lights in his eyes, slight hand movement touching the camera, calm atmosphere.
+Transition (6s–7.5s):
+Match cut through eye reflection.
+The reflection morphs into bright sunlight.
+Lighting shifts from warm indoor tones to high-contrast golden daylight.
+Maintain perfect continuity of the vintage camera model and framing.
+Shot 2 (7.5s–15s):
+Exterior — vibrant 1970s sunlit street (use @Image2 as ending frame).
+Same composition and camera position as Shot 1, but now a younger version of the man (mid-20s).
+He holds the exact same vintage camera.
+Camera movement: slight handheld feel + micro push-in as he raises the camera and takes a photo.
+Environment: saturated colors, retro cars passing, pedestrians in 70s clothing, sun flares, dust particles in light.
+End on shutter click freeze-frame moment.
+Style Tags:
+cinematic, seamless transition, match cut, flashback, 35mm film look, photorealistic, soft grain, dynamic lighting, temporal shift, emotional storytelling.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2057648397063229440/pu/img/jjLpnb2s_yYaVijs.jpg" width="600" alt="Cinematic Match Cut Flashback Sequence">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5134)**
+
+**Yazar:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Kaynak:** [Link](https://x.com/ayzalnooor24521/status/2057648474108436843) | **Yayınlandı:** May 22, 2026
 
 ---
 ### iPhone ile Elde Taşınabilir Aksiyon Sinematografisi
@@ -3215,72 +3277,6 @@ Kesintisiz kamera hareketi, kesme yok. İlk kareden itibaren nefes alacak alan y
 **Yazar:** [Alexandra Aisling](https://x.com/AllaAisling) | **Kaynak:** [Link](https://x.com/AllaAisling/status/2056381291717877791) | **Yayınlandı:** May 18, 2026
 
 ---
-### 3D Animasyonlu Orman Macerası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Zipline macerasına çıkan iki kaşifin yer aldığı, eğlenceli bir tondan dramatik bir kurtarma sahnesine geçiş yapan, hikaye odaklı 3D animasyonlu orman sekansı istemi.
-
-#### 📝 İstem
-
-```
-Eğlenceli bir arkadaşlık enerjisine, sinematik aksiyon kurgusuna ve duygusal bir kurtarma hikayesine sahip, aile filmi tarzında 3D animasyonlu bir orman macerası sekansı oluşturun.
-
-İki genç kaşif, tropikal bir yağmur ormanı gölgesinin çok üzerinde, devasa orman zipline hatlarında birbirleriyle yarışıyor. Dünya devasa ve macera dolu hissettiriyor; yükselen ağaçlar, halat köprüler, sarkan sarmaşıklar, sisli uçurumlar, şelaleler, egzotik kuşlar ve aşağıdaki derin vadiler.
-
-Eğlenceli ve maceralı bir tonla başlayın. Her iki kaşif de orman gölgesinde yan yana uçarken gülüyor ve rekabet ediyor. Hızlı yan takip çekimleri, dalların arasından geçişlerini ve orman sisinin içinden süzülen güneş ışınlarını gösteriyor.
-
-Kaşiflerden biri, tehlikeli bir şelale bölümüne yaklaşırken hafifçe öne geçiyor. Aniden zipline kablosu şiddetli bir şekilde kopuyor. Kaşif, kontrolünü kaybederek aşağıdaki gürleyen şelale akıntılarına ve keskin kayalara doğru savruluyor.
-
-Tonu gerilim ve aciliyet duygusuna kaydırın.
-
-Dinamik tepe çekimleri, kopan hattın havada savruluşunu ve kaşifin coşkun nehrin üzerinde tutunma çabasını gösteriyor. Su serpintisi, orman rüzgarı ve düşen kalıntılar etraflarında kaotik bir hareketlilik yaratıyor.
-
-İkinci kaşif anında tepki veriyor; zipline'ı bırakıp dev dalların ve sarkan sarmaşıkların üzerinden atlıyor. Arkadaşına ulaşmaya çalışırken ileri doğru savruldukları sis ve şelale serpintisi içindeki dinamik düşük açılı aksiyon çekimlerini kullanın.
-
-Kahramanca kurtarma zirvesi: kurtarıcı ileri atılır ve her ikisi de şelale kenarından düşmeden hemen önce düşen kaşifi kolundan veya sırt çantasından yakalar.
-
-Orman nehir kıyısında duygusal bir geniş açılı final sahnesiyle bitirin. Güneş ışığı sisin arasından süzülürken her iki kaşif de yorgun bir şekilde oturuyor, gülüyor ve kurtuluşu birlikte kutluyor.
-
-STİL:
-Aile filmi tarzında 3D animasyon hissi, yuvarlatılmış etkileyici silüetler, gür tropikal ortamlar, sinematik kamera hareketi, yumuşak atmosferik derinlik, anlaşılır aksiyon kurgusu, cilalı animasyon filmi kalitesi.
-
-RUH HALİ:
-Maceralı, eğlenceli, komik, kısa süreli gerilimli, duygusal açıdan yükseltici ve zafer dolu.
-
-KAMERA:
-Geniş giriş çekimleri, yan takip çekimleri, yukarıdan tehlike açıları, dinamik düşük açılı aksiyon çekimleri, sinematik kahraman kurtarma kadrajı, duygusal geniş açılı final çekimi.
-
-HAREKET:
-Güçlü ekran yönü ve net görsel hikaye anlatımı ile kasıtlı sinematik hareket. Kaotik ve anlaşılmaz kamera hareketlerinden kaçının.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e5c6639fefb96d8903b61088e521dd75/thumbnails/thumbnail.jpg" width="600" alt="3D Animasyonlu Orman Macerası">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4971)**
-
-**Yazar:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211) | **Kaynak:** [Link](https://x.com/Ankit_patel211/status/2056362902605709403) | **Yayınlandı:** May 18, 2026
-
----
-### Cottagecore Yavaş Yaşam Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Domates hasadı ve ketçap yapımını içeren, rustik bir ortamda geçen, çiftlikten sofraya temalı, rüya gibi ve duygusal bir cottagecore istemi.
-
-#### 📝 İstem
-
-```
-Domates bitkileri, kır çiçekleri, ahşap çitler ve altın sarısı gün doğumunda parlayan hafif sabah sisiyle çevrili huzurlu bir kır evinde, rüya gibi sinematik bir cottagecore videosu gözler önüne seriliyor. Film, yalın ayak, yumuşak beyaz keten bir elbise giymiş genç bir kızın, yaprakların üzerinde parmaklarını nazikçe gezdirdikten sonra mükemmel olgunluktaki bir domatesi koparıp sepetine koyduğu, çiy damlalarıyla kaplı domateslerin aşırı makro yakın çekimiyle başlıyor. Kamera, sıcak gün ışığını, sığ alan derinliğini ve narin film greni dokularını yakalayarak yumuşak el kamerası hareketleriyle yavaşça onun yanında ilerliyor. Krem rengi duvarları, vintage seramik kaseleri, esintiyle dalgalanan keten perdeleri, bakır mutfak gereçleri ve güneş ışınlarında parlayan uçuşan toz zerreleriyle rustik mutfakta, taze domatesleri seramik bir kasede yıkıyor ve ardından ahşap bir tahta üzerinde dikkatlice dilimliyor. Hızlı sinematik yakın çekimler; damlayan suları, bıçak seslerini (ASMR), fokurdayan sosu ve sıcak turuncu gün ışığı kaynayan ketçaptan yükselen buhara vururken yavaşça karıştıran ahşap kaşığı yakalıyor. Görseller; anamorfik lens parlamaları, sinematik ışık süzmeleri ve yumuşak aşırı pozlanmış vurgularla rüya gibi bir gerçekliği güçlendirerek samimi ve duygusal bir his veriyor. Son sekans, ultra ağır çekimde cam bir şişeye dökülen yoğun ve parlak ketçabı gösteriyor; küçük ışık parlamaları ve hareket bulanıklığı, ev yapımı sosun dokusunu ve sıcaklığını vurguluyor. Kapanış sahnesinde, güneş alan bir pencerenin kenarında sessizce oturmuş, ev yapımı ketçap sürdüğü taze ekmeği yerken güneş ışığına doğru hafifçe gülümsüyor ve arkasında keten perdeler nazikçe dalgalanıyor. Yumuşak piyano müziği kuş sesleriyle harmanlanırken, son kare şu metinle beliriyor: “Yavaşça ve sevgiyle yapıldı.” Genel estetik; sıcak krem beyazları, toprak yeşilleri, zengin domates kırmızısı, soluk vintage kontrast, organik geçişler, yavaş sinematik tempo, yumuşak parıltı efektleri ve duygusal bir yavaş yaşam cottagecore atmosferi yaratmak için 24fps lüks gıda reklamı tarzını kullanıyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c5e3a149475405942110038aa73e8e7/thumbnails/thumbnail.jpg" width="600" alt="Cottagecore Yavaş Yaşam Videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=4974)**
-
-**Yazar:** [Soulful Ai](https://x.com/soulful__ai) | **Kaynak:** [Link](https://x.com/soulful__ai/status/2056359651818758424) | **Yayınlandı:** May 18, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3342,6 +3338,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-05-23T03:12:52.898Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-05-23T06:49:33.997Z</sub>
 
 </div>
