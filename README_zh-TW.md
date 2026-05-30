@@ -361,3030 +361,3028 @@
 
 > 📝 按發布日期排序（最新優先）
 
-### Mega Crocodile vs Carnivorous Flower Pit
+### 巨型鱷魚對決食人花坑
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A terrifying jungle creature feature prompt featuring a giant crocodile falling into a pit of predatory carnivorous plants.
+> 這是一個令人恐懼的叢林生物題材提示詞，描述一隻巨型鱷魚掉進了充滿掠食性食人花的深坑中。
 
 #### 📝 提示詞
 
 ```
-Nightmare creature island. Dense prehistoric jungle. Giant ferns, twisted roots, thick humidity, insects screaming in the background. Sunlight barely reaches the ground. Hyper-real creature-feature action. Chaotic handheld cinematography, aggressive speed ramps, crash zooms, whip pans, low-angle tracking shots. Sound: crocodile roars, breaking trees, snapping plant jaws, frantic breathing.
+夢魘生物島。茂密的史前叢林。巨大的蕨類植物、扭曲的樹根、濃重的濕氣，背景中傳來昆蟲的尖叫聲。陽光幾乎無法照射到地面。超寫實的生物題材動作場面。混亂的手持攝影、激進的變速鏡頭、急速推拉鏡頭、快速搖鏡，以及低角度跟拍。音效：鱷魚的咆哮聲、樹木斷裂聲、植物顎部咬合聲、急促的呼吸聲。
 
 ⸻
 
-0–2s — HOOK
+0–2 秒 — 開場鉤子
 
-Low-angle handheld tracking shot.
+低角度手持跟拍鏡頭。
 
-A survivor is already sprinting through dense jungle.
+一名倖存者正在茂密的叢林中狂奔。
 
-Branches whip across frame.
+樹枝在畫面中飛速掠過。
 
-Behind him—
+在他身後——
 
-A gigantic mega crocodile explodes through the vegetation.
+一隻巨大的超級鱷魚衝破植被。
 
-Forty feet long.
+身長四十英尺。
 
-Ancient scars covering its body.
+古老的傷疤佈滿全身。
 
-Trees snap in half as it charges.
+它衝鋒時，樹木紛紛斷裂。
 
-Its jaws slam shut inches behind him.
-
-⸻
-
-2–5s — ESCALATION
-
-Side tracking shot.
-
-The survivor jumps over roots and fallen logs.
-
-The crocodile ignores obstacles completely.
-
-It bulldozes through everything.
-
-Entire bushes and small trees are launched into the air.
-
-The gap between them shrinks rapidly.
-
-The survivor looks ahead—
-
-A strange clearing.
+它的顎部在他身後幾英寸處猛然合上。
 
 ⸻
 
-5–8s — FALSE SAFETY
+2–5 秒 — 升級
 
-Wide shot.
+側面跟拍鏡頭。
 
-The survivor bursts into a beautiful field of enormous flowers.
+倖存者跳過樹根和倒下的原木。
 
-Bright colors.
+鱷魚完全無視障礙物。
 
-Huge petals.
+它橫衝直撞，摧毀一切。
 
-Completely peaceful.
+整片的灌木叢和小樹被撞飛到空中。
 
-He doesn’t stop.
+兩者之間的距離迅速縮小。
 
-Runs straight through.
+倖存者向前看去——
 
-The crocodile follows at full speed.
-
-Then—
-
-The ground beneath the crocodile cracks.
+一片奇怪的空地。
 
 ⸻
 
-8–11s — REVEAL
+5–8 秒 — 虛假的安寧
 
-Crash zoom downward.
+廣角鏡頭。
 
-The entire flower field collapses.
+倖存者衝進了一片美麗的巨大花海。
 
-Hidden beneath it—
+色彩鮮豔。
 
-A gigantic biological pit.
+花瓣巨大。
 
-Hundreds of flower stalks erupt upward.
+環境顯得異常寧靜。
 
-But these aren’t flowers.
+他沒有停下。
 
-Each bloom opens into a circular mouth lined with jagged teeth.
+直接穿過花海。
 
-The crocodile falls directly into the center.
+鱷魚全速追趕。
 
-⸻
+隨後——
 
-11–13s — CHAOS
-
-The flower creatures attack immediately.
-
-Dozens latch onto the crocodile.
-
-The beast thrashes violently.
-
-Flower heads are ripped apart.
-
-Others immediately replace them.
-
-The entire pit becomes a feeding frenzy.
-
-Petals.
-
-Teeth.
-
-Mud.
-
-Blood-red pollen exploding everywhere.
+鱷魚腳下的地面裂開了。
 
 ⸻
 
-13–15s — SHOCKING PAYOFF
+8–11 秒 — 揭露
 
-The ground shakes.
+急速向下推鏡頭。
 
-A colossal flower rises from the center of the pit.
+整片花海坍塌。
 
-Its bloom is larger than a truck.
+隱藏在花海之下——
 
-It wraps around the struggling crocodile.
+一個巨大的生物深坑。
 
-Then violently launches it into the air.
+數百個花莖向上噴湧而出。
 
-The giant flower opens fully—
+但這些並非花朵。
 
-Catches the airborne crocodile whole—
+每一朵花綻放開來，竟是一個長滿鋸齒狀牙齒的圓形大嘴。
 
-And swallows it in a single motion.
+鱷魚直接掉進了坑洞中央。
 
-The survivor stares in disbelief.
+⸻
 
-Then the giant flower slowly turns toward him.
+11–13 秒 — 混亂
 
-Its mouth begins opening again.
+花朵生物立即發動攻擊。
 
-Hard cut to black.
+數十個花朵咬住了鱷魚。
+
+巨獸瘋狂掙扎。
+
+花朵的頭部被撕裂。
+
+其他花朵隨即補上。
+
+整個深坑變成了瘋狂的進食現場。
+
+花瓣。
+
+牙齒。
+
+泥土。
+
+血紅色的花粉四處飛濺。
+
+⸻
+
+13–15 秒 — 震撼結局
+
+地面震動。
+
+一朵巨大的花從坑洞中央升起。
+
+它的花朵比卡車還要大。
+
+它纏繞住正在掙扎的鱷魚。
+
+隨後猛地將其拋向空中。
+
+巨花完全綻放——
+
+一口接住空中的鱷魚——
+
+並在瞬間將其吞下。
+
+倖存者難以置信地盯著這一幕。
+
+接著，巨花緩緩轉向他。
+
+它的嘴再次開始張開。
+
+畫面瞬間切黑。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/944b873cdbe26e5c1e2536607831457b/thumbnails/thumbnail.jpg" width="600" alt="Mega Crocodile vs Carnivorous Flower Pit">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/944b873cdbe26e5c1e2536607831457b/thumbnails/thumbnail.jpg" width="600" alt="巨型鱷魚對決食人花坑">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5437)**
 
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **來源:** [Link](https://x.com/rahulnanda86/status/2060509418903716012) | **發布時間:** May 29, 2026
 
 ---
-### Parasite Lake and Mutated Crocodile Horror Sequence
+### 寄生湖與變異鱷魚恐怖場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A terrifying creature-feature video prompt featuring a survivor fleeing a forty-foot crocodile that undergoes a horrific mutation caused by glowing parasites.
+> 一個令人毛骨悚然的生物恐怖影片提示詞，描述一名倖存者逃離一隻因發光寄生蟲而發生恐怖變異的 40 英尺巨鱷。
 
 #### 📝 提示詞
 
 ```
-Nightmare jungle island. Black water lake surrounded by twisted mangrove roots, giant ferns, strange glowing plants, thick fog hanging over the water. The island feels biologically wrong. Hyper-real creature-feature action. Chaotic handheld cinematography, aggressive speed ramps, crash zooms, rapid cut-tos. Sound: splashing water, crocodile roars, parasite screeches, frantic breathing. Multiple shots. Like a movie scene. 
+夢魘般的叢林島嶼。黑色湖泊周圍環繞著扭曲的紅樹林根部、巨大的蕨類植物和奇異的發光植物，濃霧籠罩在水面上。這座島嶼給人一種生物學上的違和感。超寫實的生物恐怖動作片風格。混亂的手持攝影、激進的變速鏡頭、急拉變焦、快速剪輯。音效：水花飛濺聲、鱷魚咆哮聲、寄生蟲尖叫聲、急促的呼吸聲。多鏡頭拍攝。如同電影場景。
 
 ⸻
 
-0–2s — HOOK
+0–2 秒 — 開場（HOOK）
 
-Handheld chase shot.
+手持追逐鏡頭。
 
-A survivor is already sprinting along the muddy shoreline.
+一名倖存者正在泥濘的岸邊狂奔。
 
-Behind him—
+在他身後——
 
-A gigantic crocodile bursts through shallow water.
+一隻巨大的鱷魚衝破淺水區。
 
-Forty feet long.
+身長 40 英尺。
 
-Ancient scars.
+滿是古老的傷疤。
 
-Massive jaws snapping shut inches behind him.
+巨大的下顎在他身後幾英寸處猛然咬合。
 
-Mud and water explode everywhere.
-
-⸻
-
-2–5s — ESCALATION
-
-The survivor reaches the lake edge.
-
-No options left.
-
-The crocodile lunges.
-
-At the last second—
-
-He dives into the water.
-
-Cut underwater.
-
-The crocodile crashes into the lake behind him.
-
-A massive wall of bubbles and mud fills the frame.
+泥土與水花四處飛濺。
 
 ⸻
 
-5–8s — FALSE SAFETY
+2–5 秒 — 升級（ESCALATION）
 
-Underwater tracking shot.
+倖存者抵達湖邊。
 
-The survivor swims deeper.
+已無路可逃。
 
-Looks behind.
+鱷魚猛撲過來。
 
-The crocodile is still searching.
+在最後一秒——
 
-Then something changes.
+他潛入水中。
 
-Small glowing worm-like creatures emerge from the darkness.
+切換至水下鏡頭。
 
-Hundreds of them with large jagged teeth
+鱷魚在他身後衝入湖中。
 
-Moving unnaturally fast.
-
-⸻
-
-8–11s — REVEAL
-
-The parasites attach themselves to the crocodile.
-
-One.
-
-Ten.
-
-Fifty.
-
-Hundreds.
-
-The crocodile thrashes violently.
-
-Its body starts mutating almost immediately.
-
-Extra limbs push through its sides.
-
-Additional jaws emerge from its neck.
-
-New eyes open beneath its scales.
-
-The water turns chaotic.
+巨大的氣泡與泥沙牆填滿了畫面。
 
 ⸻
 
-11–13s — CHAOS
+5–8 秒 — 虛假的平靜（FALSE SAFETY）
 
-The survivor surfaces and pulls himself onto shore.
+水下跟拍鏡頭。
 
-Gasping for air.
+倖存者向深處游去。
 
-Relieved.
+回頭看。
 
-Then the lake erupts.
+鱷魚仍在搜尋。
 
-The mutated crocodile explodes upward.
+接著，情況發生了變化。
 
-Twice as large.
+小型發光的蠕蟲狀生物從黑暗中湧出。
 
-Covered in glowing parasites.
+成百上千隻，長著巨大的鋸齒狀牙齒。
 
-Multiple jaws opening independently.
+移動速度快得不自然。
 
 ⸻
 
-13–15s — SHOCKING PAYOFF
+8–11 秒 — 揭露（REVEAL）
 
-The creature roars.
+寄生蟲附著在鱷魚身上。
 
-Then one of the extra jaws tears open.
+一隻。
 
-Inside—
+十隻。
 
-Another fully formed crocodile head begins pushing outward.
+五十隻。
 
-Growing from inside the first.
+數百隻。
 
-The survivor stares in disbelief.
+鱷魚劇烈掙扎。
 
-The second head opens its eyes.
+它的身體幾乎立刻開始變異。
 
-Hard cut to black.
+額外的肢體從身體兩側擠出。
+
+更多的下顎從頸部冒出。
+
+新的眼睛在鱗片下睜開。
+
+湖水變得混亂不堪。
+
+⸻
+
+11–13 秒 — 混亂（CHAOS）
+
+倖存者浮出水面，爬上岸邊。
+
+大口喘著氣。
+
+感到一絲解脫。
+
+隨即湖面爆發。
+
+變異後的鱷魚向上衝出水面。
+
+體型增大了一倍。
+
+身上覆蓋著發光的寄生蟲。
+
+多個下顎各自獨立地張開。
+
+⸻
+
+13–15 秒 — 震撼結局（SHOCKING PAYOFF）
+
+怪物咆哮。
+
+接著其中一個額外的下顎撕裂開來。
+
+裡面——
+
+另一個完全成形的鱷魚頭開始向外擠出。
+
+從第一隻鱷魚體內生長出來。
+
+倖存者難以置信地盯著。
+
+第二個頭睜開了眼睛。
+
+畫面瞬間切黑。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060499124030713856/img/j_Hg9QsHetZjRXW6.jpg" width="600" alt="Parasite Lake and Mutated Crocodile Horror Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/deb9f35702d4d63089ec47f0c10e1c9d/thumbnails/thumbnail.jpg" width="600" alt="寄生湖與變異鱷魚恐怖場景">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5454)**
 
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **來源:** [Link](https://x.com/rahulnanda86/status/2060499189478642005) | **發布時間:** May 29, 2026
 
 ---
-### Sled Dog Mutation Body Horror Sequence
+### 雪橇犬變異身體恐怖序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A terrifying body horror scene inspired by 'The Thing', depicting a frightened sled dog undergoing a violent biological transformation in an Antarctic outpost.
+> 一場受《突變第三型》（The Thing）啟發的駭人身體恐怖場景，描繪了一隻受驚的雪橇犬在南極前哨站經歷劇烈生物變異的過程。
 
 #### 📝 提示詞
 
 ```
-Remote Antarctic outpost at night. Snowstorm outside. Dim yellow lighting inside a kennel room. Metal cages. Frost-covered windows. High-tension body horror with escalating dread and explosive transformation. Slow unease that detonates into chaos. Sound: wind, dog breathing, distant generator hum.
+深夜，南極偏遠前哨站。戶外暴風雪肆虐。狗舍內昏黃的燈光。金屬籠子。結霜的窗戶。高張力的身體恐怖，伴隨逐漸升級的恐懼與爆發性的變異。緩慢的不安感最終演變為混亂。音效：風聲、狗的喘息聲、遠處發電機的嗡嗡聲。
 
 ⸻
 
-0–2s — HOOK
+0–2 秒 — 開場
 
-Wide shot.
+廣角鏡頭。
 
-A frightened sled dog bursts into a research statio
+一隻受驚的雪橇犬衝進研究站。
 
-Snow covering its fur.
+毛髮上覆蓋著積雪。
 
-Researchers quickly shut the door behind it.
+研究人員迅速在牠身後關上門。
 
-Outside, the blizzard rages.
+門外，暴風雪狂嘯。
 
-The dog looks terrified.
-
-⸻
-
-2–4s— UNEASE
-
-Close-up.
-
-The dog sits quietly.
-
-Panting.
-
-Researchers watch the dog bark sing a them
-
-One scientist smiles.
-
-“Poor thing.”
-
-Everything seems normal.
-
-Too normal.
+那隻狗看起來驚恐萬分。
 
 ⸻
 
-4-6s — THE WRONGNESS
+2–4 秒 — 不安
 
-The dog suddenly stops panting.
+特寫鏡頭。
 
-Its chest expands.
+狗安靜地坐著。
 
-Then expands more.
+喘著氣。
 
-Then keeps expanding.
+研究人員看著這隻狗，對牠低語。
 
-Far beyond what should be possible.
+一名科學家微笑著說：
 
-The room goes silent.
+「可憐的小傢伙。」
 
-Nobody understands what they’re seeing.
+一切看起來都很正常。
 
-⸻
-
-6-9s — REVEAL
-
-Crash zoom.
-
-The dog’s ribcage begins opening.
-
-Slowly.
-
-Like flower petals.
-
-Skin stretches.
-
-Bones separate.
-
-Inside—
-
-Dozens of blinking eyes.
-
-All looking in different directions.
-
-Watching everyone.
+太過正常了。
 
 ⸻
 
-9-12s — CHAOS
+4–6 秒 — 異狀
 
-The dog stands.
+狗突然停止喘氣。
 
-Or what used to be a dog.
+牠的胸腔開始擴張。
 
-Tentacles emerge.
+接著擴張得更大。
 
-Additional limbs unfold from its body.
+然後持續擴張。
 
-The kennel erupts into panic.
+遠遠超出了常理的極限。
 
-Scientists back away.
+房間陷入死寂。
 
-One drops a flamethrower.
+沒人明白他們眼前看到的是什麼。
 
 ⸻
 
-12-15s — PAYOFF
+6–9 秒 — 揭露
 
-The creature lunges across the kennel.
+快速推鏡（Crash zoom）。
 
-Cages explode apart.
+狗的胸腔開始裂開。
 
-Metal bends.
+緩慢地。
 
-People scream.
+像花瓣一樣綻放。
 
-Bullet-time moment.
+皮膚拉扯。
 
-Eyes opening everywhere.
+骨骼分離。
 
-Tentacles extending.
+內部——
 
-The flamethrower ignites.
+數十隻眨動的眼睛。
 
-Fire fills frame.
+全都看向不同的方向。
 
-The creature screams.
+注視著每一個人。
+
+⸻
+
+9–12 秒 — 混亂
+
+狗站了起來。
+
+或者說，曾經是狗的東西站了起來。
+
+觸手冒出。
+
+額外的肢體從牠體內展開。
+
+狗舍陷入一片恐慌。
+
+科學家們紛紛後退。
+
+其中一人掉落了火焰噴射器。
+
+⸻
+
+12–15 秒 — 高潮
+
+怪物猛撲過狗舍。
+
+籠子炸裂開來。
+
+金屬扭曲。
+
+人們尖叫。
+
+子彈時間瞬間。
+
+到處都是睜開的眼睛。
+
+觸手延伸。
+
+火焰噴射器點火。
+
+火焰填滿畫面。
+
+怪物發出尖叫。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060496113569071104/img/qmQEocDuIi_zj2oa.jpg" width="600" alt="Sled Dog Mutation Body Horror Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ad6c423b58c95f8a50b5d60b8eac30a/thumbnails/thumbnail.jpg" width="600" alt="雪橇犬變異身體恐怖序列">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5459)**
 
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **來源:** [Link](https://x.com/rahulnanda86/status/2060496176521359470) | **發布時間:** May 29, 2026
 
 ---
-### FPV Airship Flight through Grand Harbor
+### FPV 飛艇穿越大港口
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A breathtaking first-person view animation of a woman piloting a small white airship through a majestic fantasy harbor city, featuring high-speed FPV drone-style camera work and cinematic lighting.
+> 一段令人屏息的第一人稱視角動畫，描繪一名女性駕駛小型白色飛艇穿梭於宏偉的奇幻港口城市，展現高速 FPV 無人機風格的運鏡與電影級光影效果。
 
 #### 📝 提示詞
 
 ```
-An ultra-beautiful professional anime video in first-person perspective of a woman piloting a one-person white airship. Red lines and arrows must not appear in the final video. Set in the majestic harbor city from the reference image, based in white and gold, the camera flies faithfully at ultra-high speed along the route indicated by red arrows, like an FPV drone. The camera starts from the sea on the left side of the screen, racing low across the surface of the blue harbor. Navigating between yachts, piers, white ships, and harbor architecture, it crosses the coastal city at high speed from left to center. It then accelerates toward the giant cathedral in the center, approaching closely as if skimming over the buildings. Just before passing the cathedral front, the camera surges upward along the main tower. Rising sharply with the power of looking up at the spire from directly below, it transitions into a grand overhead view of the entire city, harbor, and distant mountains. After crossing the top of the tower, the camera banks heavily to the right and orbits. Keeping the cathedral tower in the center of the screen, it circles dynamically clockwise, showing the white palace-like streets, blue sea, bridges, port facilities, and distant mountains in a flowing manner. Afterward, the camera passes over the city on the right at high speed and gently descends along the trajectory of the red line. It glides low over canal roads, squares, piers, and buildings with gold decorations, flying through toward the large glass-roofed building and port-side street in the right foreground. The video is cinematic, ultra-high definition, with smooth camera work, a strong sense of speed, natural motion blur, realistic atmosphere, water reflections, sunlight, three-dimensional clouds, and emphasizes the scale of a grand fantasy harbor city. Do not display any red guide lines, arrows, hand-drawn marks, annotations, or text.
+一段極致精美的專業動畫影片，以第一人稱視角呈現一名女性駕駛單人白色飛艇的過程。最終影片中不得出現任何紅線或箭頭。場景設定於參考圖片中那座以白色與金色為主調的宏偉港口城市，攝影機需如 FPV 無人機般，沿著紅線箭頭指示的路徑進行超高速飛行。攝影機從畫面左側的海面出發，低空掠過湛藍的港口水面。在遊艇、碼頭、白色船隻與港口建築之間穿梭，從左至中心高速橫跨這座沿海城市。隨後加速朝向市中心的巨大大教堂飛去，以貼近建築物表面的方式逼近。在即將越過大教堂正面之前，攝影機沿著主塔向上急升。從正下方仰望塔尖，展現強大的衝刺感，隨後過渡為俯瞰整座城市、港口與遠山的宏大視角。越過塔頂後，攝影機大幅向右傾斜並進行環繞飛行。以大教堂塔樓為畫面中心進行動態順時針環繞，流暢地展示白色宮殿般的街道、蔚藍大海、橋樑、港口設施以及遠處的山脈。隨後，攝影機高速飛越右側城市，並沿著紅線軌跡緩緩下降。低空滑過運河道路、廣場、碼頭與帶有金色裝飾的建築，穿過右側前景的大型玻璃屋頂建築與港口街道。影片具備電影質感、超高畫質、流暢的運鏡、強烈的速度感、自然的動態模糊、寫實的氛圍、水面反射、陽光與立體雲層，並強調宏偉奇幻港口城市的規模感。請勿顯示任何紅色引導線、箭頭、手繪標記、註釋或文字。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060428594497896449/img/s6hkHrX4qBXQrxyD.jpg" width="600" alt="FPV Airship Flight through Grand Harbor">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d97f804ece714c9bc4a5729e9dbab573/thumbnails/thumbnail.jpg" width="600" alt="FPV 飛艇穿越大港口">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5470)**
 
 **作者:** [妖精アーヤさん](https://x.com/aiehon_aya) | **來源:** [Link](https://x.com/aiehon_aya/status/2060481313145262213) | **發布時間:** May 29, 2026
 
 ---
-### 90s Disney Style Anubis Animation
+### 90 年代迪士尼風格阿努比斯動畫
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed multi-scene prompt for Seedance 2.0 creating a 90s Disney style animation where the god Anubis is defeated by tickling.
+> 這是一個為 Seedance 2.0 設計的詳細多場景提示詞，旨在創作一段 90 年代迪士尼風格的動畫，內容講述埃及神祇阿努比斯被搔癢擊敗的故事。
 
 #### 📝 提示詞
 
 ```
-Classic 90s Disney animation style. Scene 1 [0-3 seconds]: In front of a palace in the desert, the powerful jackal god Anubis is performing magic. He raises his arms slightly, lightning magic gathering in his clawed palms, and says in his majestic voice: 'Humans, you will pay for your arrogance!' Lightning flashes near him several times. In front of him, three humans (two men and one woman) look at him nervously, wanting to stop the evil Anubis but not knowing how. Scene 2 [4-6 seconds]: A close-up of Anubis's face. Anubis threatens with an evil smile: 'You are finished.' Then he lets out an evil laugh. He continues to laugh evilly, then closes his eyes, and the laughter turns into a ticklish laugh, indicating he is very ticklish and something is scratching him. Scene 3 [7-9 seconds]: The camera slowly pulls back to show the woman standing next to Anubis, gently moving a feather up and down under Anubis's armpit and repeating the action. Anubis closes his eyes, grins broadly, raises his arms to reveal his armpits, and giggles. Scene 4 [10-12 seconds]: The woman continues to move the feather up and down under Anubis's armpits, and Anubis continues to giggle. Meanwhile, the light magic gradually fades, leaving only the sun. Anubis laughs and laughs, unable to focus on feeling the magic. Anubis laughs so hard he falls to one knee, one arm raised high to reveal his armpit, letting the feather tickle him, while the other empty hand pounds the ground, laughing continuously. Scene 5 [13-14 seconds]: The woman continues to tickle Anubis's armpit with the feather, and Anubis continues to laugh heartily, shouting in a giggling voice: 'Stop torturing me! Don't do this!' then continues to giggle. The two men watch this scene, relieved that they stopped the evil Anubis. Anubis is muscular, with rings on his arms and neck. He is shirtless. His voice is deep and magnetic, yet full of power. His hands are claws. Audio in English.
+經典 90 年代迪士尼動畫風格。場景 1 [0-3 秒]：在沙漠中的宮殿前，強大的胡狼神阿努比斯正在施展魔法。他微微抬起雙臂，閃電魔法在他長著利爪的掌心匯聚，並用威嚴的聲音說道：「人類，你們將為自己的傲慢付出代價！」閃電在他身旁閃爍了幾次。在他面前，三名人類（兩男一女）緊張地看著他，想要阻止邪惡的阿努比斯卻不知如何是好。場景 2 [4-6 秒]：阿努比斯臉部的特寫鏡頭。阿努比斯帶著邪惡的微笑威脅道：「你們完蛋了。」接著他發出邪惡的笑聲。他繼續邪惡地笑著，隨後閉上眼睛，笑聲轉變為被搔癢時的笑聲，顯示他非常怕癢，且有東西正在搔弄他。場景 3 [7-9 秒]：鏡頭緩慢拉遠，顯示那名女子站在阿努比斯身旁，輕輕地用羽毛在他腋下上下移動並重複動作。阿努比斯閉上眼睛，咧嘴大笑，抬起雙臂露出腋下，咯咯地笑個不停。場景 4 [10-12 秒]：女子繼續用羽毛在阿努比斯的腋下上下移動，阿努比斯持續咯咯大笑。同時，光之魔法逐漸消散，只剩下陽光。阿努比斯笑個不停，無法專注於施展魔法。阿努比斯笑得太厲害，以至於單膝跪地，一隻手臂高舉露出腋下，任由羽毛搔弄，另一隻空著的手則捶打地面，持續大笑。場景 5 [13-14 秒]：女子繼續用羽毛搔弄阿努比斯的腋下，阿努比斯持續開懷大笑，用咯咯笑的聲音喊道：「別再折磨我了！不要這樣！」隨後繼續咯咯大笑。兩名男子看著這一幕，慶幸他們阻止了邪惡的阿努比斯。阿努比斯肌肉發達，手臂和脖子上戴著環飾。他赤裸著上身。他的聲音低沉且富有磁性，充滿力量感。他的手是利爪。音訊為英文。
 ```
 
-<img src="https://pbs.twimg.com/media/HJhF1qkWEAMznW5.jpg" width="600" alt="90s Disney Style Anubis Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/568a61242d6b4b234c8717ebc3a00f23/thumbnails/thumbnail.jpg" width="600" alt="90 年代迪士尼風格阿努比斯動畫">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5464)**
 
 **作者:** [migrok](https://x.com/migrok293703) | **來源:** [Link](https://x.com/migrok293703/status/2060473171812511979) | **發布時間:** May 29, 2026
 
 ---
-### Brutalist Architecture Rotring Product Commercial
+### 粗獷主義建築風格 Rotring 產品廣告
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A sophisticated brutalist-themed commercial for a Rotring pencil, featuring architectural visualization, massive concrete structures, and realistic lighting.
+> 一支以精緻粗獷主義為主題的 Rotring 自動鉛筆廣告，結合建築視覺化、宏偉的混凝土結構與寫實光影效果。
 
 #### 📝 提示詞
 
 ```
-Use the attached image for the pencil reference.
+請使用隨附圖片作為鉛筆的參考素材。
 
-Style: Brutalist architecture, luxury product commercial, architectural visualization, ultra-realistic cinematography, raw concrete, exposed rebar, monumental scale, Porsche Design precision, Apple-level minimalism, cinematic lighting, volumetric dust, photoreal VFX.
+風格：粗獷主義建築、奢華產品廣告、建築視覺化、超寫實電影攝影、原始混凝土、外露鋼筋、紀念碑式尺度、Porsche Design 精準度、Apple 級極簡主義、電影級燈光、體積光塵埃、照片級 VFX 特效。
 
 0:00–0:03
 
-Pure black. A single red line appears in darkness. The line glows softly. The camera follows it. As it moves forward, enormous concrete walls begin rising from the ground. Massive slabs. Raw geometry. Monolithic forms. The line is literally building architecture.
+純黑畫面。黑暗中出現一條紅線，線條散發柔光。鏡頭跟隨其移動。隨著線條向前推進，巨大的混凝土牆面從地面升起。厚重的板塊。原始的幾何結構。單體式的形態。這條線正在親手構建建築。
 
-SFX: Deep architectural bass, concrete resonance, heavy structural impacts, distant industrial ambience.
+SFX：深沉的建築低音、混凝土共鳴、沉重的結構撞擊聲、遙遠的工業環境音。
 
-VOICEOVER: "Every structure begins with a line."
+旁白：「每一座建築，都始於一條線。」
 
 0:03–0:06
 
-The camera accelerates through a sprawling brutalist megacity. Towering concrete masses. Suspended walkways. Exposed steel reinforcement. Gigantic voids and shadows. The red line snakes through the city like an artery. Unnoticed by the viewer, the city's geometry subtly mirrors the proportions of a Rotring.
+鏡頭在廣闊的粗獷主義大都市中加速穿梭。高聳的混凝土塊。懸空的走道。外露的鋼筋。巨大的空洞與陰影。紅線如動脈般穿過城市。觀眾未察覺之處，城市的幾何結構正微妙地呼應著 Rotring 的比例。
 
-MUSIC: Minimal industrial pulse, mechanical rhythm, slow cinematic build.
+MUSIC：極簡工業脈動、機械節奏、緩慢的電影感鋪陳。
 
-VOICEOVER: "A line becomes a wall." "A wall becomes a city."
+旁白：「線條化為牆面。」「牆面化為城市。」
 
 0:06–0:10
 
-The camera rises thousands of feet above the metropolis. The full scale is revealed. A breathtaking brutalist world stretching to the horizon. Then the impossible happens. The entire city begins lifting from the ground. Buildings detach. Bridges separate. Concrete fragments float upward. The audience realizes the city was never a city. It was a product.
+鏡頭升至大都市上方數千英尺處。全貌展現。令人屏息的粗獷主義世界延伸至地平線。接著，不可思議的事情發生了。整座城市開始從地面升起。建築分離。橋樑斷開。混凝土碎片向上漂浮。觀眾意識到這座城市從來不是城市，它是一個產品。
 
-SFX: Structural groans, concrete fractures, low-frequency shockwaves, massive whooshes.
+SFX：結構呻吟聲、混凝土斷裂聲、低頻衝擊波、巨大的呼嘯聲。
 
 0:10–0:13
 
-Millions of concrete particles and rusted steel elements spiral inward. Everything converges. The megastructure collapses into a single object. Your brutalist Rotring emerges. Raw. Scarred. Unbreakable. Floating in white space.
+數以百萬計的混凝土顆粒與鏽蝕鋼材向內旋轉。萬物匯聚。巨型結構坍縮成單一物體。你的粗獷主義風格 Rotring 現身。原始。斑駁。堅不可摧。漂浮在純白空間中。
 
-MUSIC: Full orchestral rise, massive cinematic hit.
+MUSIC：管弦樂全面高潮、震撼的電影級重擊。
 
-VOICEOVER: "Some tools create architecture." "This one became it."
+旁白：「有些工具創造建築。」「而這一支，本身就是建築。」
 
 0:13–0:15
 
-Hero shot. The Rotring slowly rotates. Dust falls from the concrete surface. The red ring catches the light. Silence. A precise mechanical click.
+英雄鏡頭。Rotring 緩慢旋轉。塵埃從混凝土表面落下。紅圈捕捉著光線。靜謐。一聲精準的機械按壓聲。
 
-VOICEOVER: "Rotring." Pause. "Drawn from concrete."
+旁白：「Rotring。」停頓。「源自混凝土。」
 
-END FRAME
+結尾畫面
 
 ROTRING
 
-DRAWN FROM CONCRETE
+源自混凝土
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060457916994371585/img/pAhza1w9gkWEHbBQ.jpg" width="600" alt="Brutalist Architecture Rotring Product Commercial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9ca8b9eaa01d49314f78334a29e93e4e/thumbnails/thumbnail.jpg" width="600" alt="粗獷主義建築風格 Rotring 產品廣告">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5455)**
 
 **作者:** [Ege](https://x.com/egeberkina) | **來源:** [Link](https://x.com/egeberkina/status/2060458879369216202) | **發布時間:** May 29, 2026
 
 ---
-### Cliffside Highway Coastal Disaster Video Prompt
+### 懸崖公路海岸災難影片提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic and high-energy video prompt depicting a coastal disaster where a motorcycle rider races along a collapsing cliffside highway amidst a violent storm.
+> 這是一個充滿電影感且節奏緊湊的影片提示詞，描繪了一場海岸災難：一名摩托車騎士在暴風雨中，於崩塌的懸崖公路上極速奔馳。
 
 #### 📝 提示詞
 
 ```
-Hyperrealistic cinematic coastal disaster, ocean cliff highway, violent atmospheric storm surge, road erosion physics, continuous high-speed motion, ground-level chase perspective behind motorcycle rider (no visible hands emphasis), wind pressure, collapsing asphalt, hard cuts only, no fade, no dissolve, no morph transition
+超寫實電影級海岸災難，海洋懸崖公路，猛烈的氣象風暴潮，道路侵蝕物理效果，持續的高速運動，摩托車騎士後方的地面追逐視角（強調不露出手部），風壓，崩塌的柏油路面，僅使用硬切（hard cuts），無淡入淡出，無溶解效果，無變形轉場
 
-Shot 1: Camera follows a motorcycle racing along a narrow cliffside road above violent ocean waves
-Cut to Shot 2: Cliff face begins collapsing sideways into the sea in massive chunks
-Cut to Shot 3: Road surface fractures directly under the motorcycle, forcing rapid lane shifts
-Cut to Shot 4: Ocean surge rises vertically against cliff, forming a moving wall of water
-Cut to Shot 5: FULL ACTION as entire highway segments detach and fall while motorcycle threads through collapsing gaps
-Cut to Shot 6: IMPOSSIBLE MOMENT: rider crosses a falling road slab rotating mid-air before landing back onto a narrowing strip
-Cut to Shot 7: Cliffline breaks continuously, shortening the path every second
-Cut to Shot 8: Wind and spray create near-whiteout as ocean overtakes lower cliff levels
-Cut to Shot 9: Final: road ends mid-collapse as ocean surge engulfs the frame
+鏡頭 1：攝影機跟隨一輛在猛烈海浪上方狹窄懸崖公路上奔馳的摩托車
+切至鏡頭 2：懸崖表面開始大塊地向側方崩塌入海
+切至鏡頭 3：路面在摩托車正下方斷裂，迫使騎士快速變換車道
+切至鏡頭 4：海浪垂直衝向懸崖，形成一道移動的水牆
+切至鏡頭 5：全動作場面，整段公路分離墜落，摩托車在崩塌的縫隙中穿梭
+切至鏡頭 6：不可能的瞬間：騎士騎過一塊在半空中旋轉的墜落路板，隨後降落在逐漸變窄的路面上
+切至鏡頭 7：懸崖線持續斷裂，道路每秒都在縮短
+切至鏡頭 8：風雨與浪花造成近乎白茫茫的視野，海洋淹沒了較低的懸崖區域
+切至鏡頭 9：結尾：道路在崩塌中斷裂，海浪吞沒整個畫面
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/794f8c6e7e0ee90df6af1941f5c87e03/thumbnails/thumbnail.jpg" width="600" alt="Cliffside Highway Coastal Disaster Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/794f8c6e7e0ee90df6af1941f5c87e03/thumbnails/thumbnail.jpg" width="600" alt="懸崖公路海岸災難影片提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5440)**
 
 **作者:** [Alexandra Aisling](https://x.com/AllaAisling) | **來源:** [Link](https://x.com/AllaAisling/status/2060448088674935036) | **發布時間:** May 29, 2026
 
 ---
-### Mega Crocodile Swamp Spider Chase
+### 巨鱷沼澤蜘蛛追逐戰
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-tension creature-feature script featuring a swamp chase between a giant crocodile and camouflaged jungle spiders.
+> 一部高張力的生物驚悚片劇本，描述巨型鱷魚與偽裝叢林蜘蛛在沼澤中的追逐戰。
 
 #### 📝 提示詞
 
 ```
-Tropical nightmare island. In South East Asia   - Dense jungle, giant mangrove roots, thick fog hanging over dark swamp water. Everything feels prehistoric and hostile. Fast-paced creature-feature action. Aggressive handheld camera, rapid cut-tos, speed ramps, chaotic movement. Sound: splashing water, crocodile roars, spider chittering, breaking wood.
+熱帶噩夢島。位於東南亞 —— 茂密的叢林、巨大的紅樹林根部，濃霧籠罩在深色的沼澤水面上。一切都顯得原始且充滿敵意。快節奏的生物驚悚動作。激進的手持攝影、快速切換鏡頭、變速鏡頭、混亂的動態。聲音：水花飛濺聲、鱷魚咆哮聲、蜘蛛嘶鳴聲、木頭斷裂聲。
 
 ⸻
 
-0–2s — HOOK
+0–2 秒 — 開場鉤子
 
-Low angle tracking shot.
+低角度跟拍鏡頭。
 
-A survivor is already sprinting through waist-deep swamp water.
+一名倖存者正涉水穿過及腰的沼澤水域。
 
-Behind him—
+在他身後 ——
 
-A gigantic crocodile explodes from the water.
+一隻巨型鱷魚從水中猛然衝出。
 
-At least 40 feet long.
+身長至少 40 英尺。
 
-Ancient scars.
+佈滿古老的傷痕。
 
-Massive jaws snapping shut inches behind him.
+巨大的顎部在他身後幾英寸處猛力咬合。
 
-Water erupts everywhere.
-
-⸻
-
-2–5s — ESCALATION
-
-Handheld chase shot.
-
-The survivor reaches a giant fallen tree spanning the swamp and scrambles onto it.
-
-The crocodile follows below.
-
-Crashing through roots.
-
-Biting chunks from the log.
-
-The survivor almost loses balance.
-
-The crocodile launches upward.
-
-Misses by inches.
+水花四濺。
 
 ⸻
 
-5–8s — FALSE RELIEF
+2–5 秒 — 升溫
 
-The survivor reaches the center of the log.
+手持追逐鏡頭。
 
-Finally gains distance.
+倖存者抵達橫跨沼澤的巨大倒木，並爬了上去。
 
-Breathing hard.
+鱷魚在下方緊追不捨。
 
-Then—
+撞斷樹根。
 
-The log moves.
+從原木上咬下大塊木頭。
 
-At first slightly.
+倖存者差點失去平衡。
 
-Then again.
+鱷魚向上猛撲。
 
-The survivor freezes.
-
-Looks down.
+僅差幾英寸就咬到了。
 
 ⸻
 
-8–11s — REVEAL
+5–8 秒 — 短暫喘息
 
-Crash zoom.
+倖存者抵達原木中心。
 
-The entire fallen tree is covered with giant camouflage spiders.
+終於拉開了距離。
 
-Hundreds of them.
+氣喘吁吁。
 
-Some the size of dogs.
+接著 ——
 
-Others much larger.
+原木動了一下。
 
-They begin emerging from cracks and bark.
+起初是輕微的。
 
-The survivor realizes he’s standing in a nest.
+然後又動了一次。
 
-⸻
+倖存者僵住了。
 
-11–13s — CHAOS
-
-The spiders swarm.
-
-The survivor sprints.
-
-The crocodile charges onto the log after him.
-
-Spiders begin attacking both.
-
-Webs firing.
-
-Legs everywhere.
-
-The entire bridge becomes a three-way battle.
+低頭看去。
 
 ⸻
 
-13–15s — PAYOFF
+8–11 秒 — 揭露
 
-Wide shot.
+快速推鏡頭。
 
-A giant alpha spider drops from above onto the crocodile’s back.
+整根倒木上爬滿了巨大的偽裝蜘蛛。
 
-The crocodile rolls violently into the swamp.
+成百上千隻。
 
-Spider and crocodile disappear into the water fighting.
+有些像狗一樣大。
 
-The survivor leaps off the end of the log and disappears into the jungle.
+其他的則更大。
 
-Behind him—
+牠們開始從裂縫和樹皮中湧出。
 
-Water erupts as the monsters continue battling.
+倖存者意識到自己正站在一個巢穴中。
 
-Hard cut.
+⸻
+
+11–13 秒 — 混亂
+
+蜘蛛群起而攻之。
+
+倖存者狂奔。
+
+鱷魚衝上原木追趕他。
+
+蜘蛛開始攻擊兩者。
+
+蛛絲噴射。
+
+到處都是腿。
+
+整座「橋」變成了一場三方混戰。
+
+⸻
+
+13–15 秒 — 高潮
+
+廣角鏡頭。
+
+一隻巨大的蜘蛛首領從上方落下，撲向鱷魚背部。
+
+鱷魚猛烈翻滾進沼澤中。
+
+蜘蛛與鱷魚在水中纏鬥並消失。
+
+倖存者從原木末端躍下，消失在叢林中。
+
+在他身後 ——
+
+水面再次爆開，怪物們繼續廝殺。
+
+硬切。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8f322adc101f65dfad710118c2310e6a/thumbnails/thumbnail.jpg" width="600" alt="Mega Crocodile Swamp Spider Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8f322adc101f65dfad710118c2310e6a/thumbnails/thumbnail.jpg" width="600" alt="巨鱷沼澤蜘蛛追逐戰">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5438)**
 
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **來源:** [Link](https://x.com/rahulnanda86/status/2060440976561508389) | **發布時間:** May 29, 2026
 
 ---
-### Heavenly Rivalry Xianxia Action Film Prompt
+### 仙俠對決動作電影提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic prompt for a high-end martial arts confrontation between two legendary Chinese figures at an ancient mountain temple.
+> 一份詳盡的電影級提示詞，用於描繪兩位傳奇中國神話人物在古老山寺進行的高端武術對決。
 
 #### 📝 提示詞
 
 ```
-Ultra-realistic cinematic AAA Xianxia action film inspired by high-end martial arts fantasy and Black Myth Wukong combat energy. Ancient stormy mountain temple ruins above the clouds at night, rain, fog, burning incense embers drifting through the air. Erlang Shen and Sun Wukong face each other in silence before battle.
+超寫實電影級 AAA 仙俠動作片，靈感源自高端武俠奇幻與《黑神話：悟空》的戰鬥能量。場景為雲端之上的古老暴雨山寺廢墟，夜晚，雨霧繚繞，燃燒的香灰在空中飄散。二郎神與孫悟空在戰鬥前沉默對峙。
 
-Erlang Shen [Image1] : divine Chinese god warrior, silver-black celestial armor, red waist cloth, third eye glowing faintly, wielding an enormous three-pointed double-edged spear.
-Sun Wukong [Image2] : legendary monkey king, dark golden fur details, battle-worn ornate armor, flaming phoenix-red cloth strips, holding the Ruyi Jingu Bang staff.
+二郎神 [Image1]：神聖的中國武神，身穿銀黑色天神鎧甲，腰繫紅色腰帶，第三隻眼發出微光，手持巨大的三尖兩刃槍。
+孫悟空 [Image2]：傳奇美猴王，深金色毛髮細節，戰損華麗鎧甲，飄動的鳳凰紅綢，手持如意金箍棒。
 
-Both characters use attached face references exactly.
-No cartoon style. Pure cinematic realism.
+兩位角色皆須嚴格使用附帶的面部參考圖。
+拒絕卡通風格，追求純粹的電影寫實感。
 
-The camera begins with extreme close-ups of wet armor, eyes, fingers gripping weapons, boots sliding across stone. Sudden explosive movement — Wukong [Image2] vanishes using cloud-step speed movement, appearing behind Erlang Shen [Image1]  instantly. Erlang blocks without looking using the spear shaft. Sparks explode. Shockwaves ripple through rain puddles.
+鏡頭以極致特寫開場，拍攝濕潤的鎧甲、雙眼、緊握武器的手指以及在石板上滑動的靴子。隨即爆發出迅猛的動作——悟空 [Image2] 運用騰雲駕霧般的速度消失，瞬間出現在二郎神 [Image1] 身後。二郎神頭也不回地用槍桿擋下攻擊。火花四濺，衝擊波在雨窪中蕩漾開來。
 
-Rapid wuxia movement, superhuman agility, gravity-defying martial arts, realistic cloth physics, detailed rain simulation, cinematic debris.
+快速的武俠動作、超凡的敏捷度、違背重力的武術、寫實的布料物理效果、細膩的雨水模擬、電影級的碎片特效。
 
-Chinese dialogue only:
-Sun Wukong [Image2] : “Yang Jian, you're still the same.”
-Erlang Shen [Image1] : “This time, I won't let you escape.”
+僅限中文對話：
+孫悟空 [Image2]：「楊戩，你還是老樣子。」
+二郎神 [Image1]：「這一次，我不會讓你逃掉。」
 
-English subtitles burned-in.
+內嵌英文字幕。
 
-CAMERA:
+攝影機：
 ARRI Alexa 65
-Lens: Atlas Orion Anamorphic 40mm and 65mm
-Fast handheld + drone-like orbital tracking + speed ramping
+鏡頭：Atlas Orion 變形鏡頭 40mm 與 65mm
+快速手持攝影 + 無人機式環繞跟拍 + 變速攝影
 
-LIGHTING:
-Cold moonlight mixed with warm fire embers
+燈光：
+冷冽月光與溫暖火星交織
 
-COLOR GRADING:
-Dark teal, silver, gold highlights, high contrast cinematic grading, subtle film grain
+調色：
+深青色、銀色、金色高光，高對比度電影級調色，細膩的底片顆粒感
 
-NO MUSIC.
-Only rain, wind, footsteps, weapon impacts, cloth movement, thunder, breathing.
+無音樂。
+僅有雨聲、風聲、腳步聲、武器碰撞聲、布料摩擦聲、雷聲與呼吸聲。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060421670540918784/img/9y80epF-AYgsLLei.jpg" width="600" alt="Heavenly Rivalry Xianxia Action Film Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09f30753d96cb744cdd3caf9c231baa3/thumbnails/thumbnail.jpg" width="600" alt="仙俠對決動作電影提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5443)**
 
 **作者:** [Paween Chantaraudorn](https://x.com/LumPaween64255) | **來源:** [Link](https://x.com/LumPaween64255/status/2060421985608597798) | **發布時間:** May 29, 2026
 
 ---
-### The Thing Inspired Antarctic Horror Scene
+### 《突變第三型》風格南極恐怖場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-tension horror cinematic sequence set in an Antarctic research station, following survivors as they realize one of them has mutated with a disturbing physical reveal.
+> 一場發生在南極研究站的高張力恐怖電影橋段，講述倖存者們意識到其中一人發生了變異，並揭露其令人不安的身體變化。
 
 #### 📝 提示詞
 
 ```
-Antarctic research station during a blizzard. Emergency backup power only. Red warning lights. Frost-covered walls. Metal doors sealed shut. Breath visible in the freezing air. High-tension paranoia horror with sudden explosive chaos. Aggressive push-ins, handheld camera, crash zooms, rapid cut-tos. Sound: distant wind, metal creaking, nervous breathing.
+暴風雪中的南極研究站。僅靠緊急備用電源。紅色的警示燈。牆面覆蓋著冰霜。金屬門緊閉。冰冷的空氣中可見呼出的氣息。充滿高張力的偏執恐怖感，隨後是突如其來的爆炸性混亂。激進的推鏡、手持攝影、快速變焦、快速剪輯。音效：遠處的風聲、金屬的吱呀聲、緊張的呼吸聲。
 
 ⸻
 
-0–2s — HOOK
+0–2 秒 — 開場鉤子
 
-Handheld shot.
+手持鏡頭。
 
-Four survivors burst into a small storage room.
+四名倖存者衝進一間小型儲藏室。
 
-One slams the heavy steel door shut.
+其中一人用力關上厚重的鋼門。
 
-Another locks it.
+另一人將門鎖上。
 
-Everyone breathing hard.
+每個人都氣喘吁吁。
 
-Outside—
+門外——
 
-Something slams against the door.
+有東西猛烈撞擊門板。
 
-Then silence.
-
-⸻
-
-2–5s — FALSE SAFETY
-
-Close-up cut-tos.
-
-One survivor checks the lock.
-
-Another collapses against the wall.
-
-A young woman starts crying.
-
-Everyone finally believes they’ve escaped.
-
-A man kneels beside her.
-
-“It’s okay. We’re safe.”
+隨後陷入死寂。
 
 ⸻
 
-5–8s — THE DETAIL
+2–5 秒 — 虛假的安寧
 
-The crying woman slowly looks up.
+特寫剪輯。
 
-Something catches her eye.
+一名倖存者檢查門鎖。
 
-Crash zoom.
+另一人癱倒在牆邊。
 
-The comforting man’s hand.
+一名年輕女子開始啜泣。
 
-Six fingers.
+每個人都以為終於逃過一劫。
 
-Not five.
+一名男子跪在她身旁。
 
-Six.
-
-Nobody notices.
-
-Except her.
+「沒事了。我們安全了。」
 
 ⸻
 
-8–11s — REVEAL
+5–8 秒 — 細節
 
-Her face changes instantly.
+啜泣的女子緩緩抬頭。
 
-Fear.
+有東西吸引了她的注意。
 
-Pure terror.
+快速變焦。
 
-She points.
+那個安慰她的男子的手。
 
-Everyone turns.
+六根手指。
 
-The man looks confused.
+不是五根。
 
-Then looks at his own hand.
+是六根。
 
-Six fingers.
+沒人注意到。
 
-A beat of silence.
-
-Nobody moves.
-
-Nobody knows how long he’s been like that.
+除了她。
 
 ⸻
 
-11–13s — BREAKDOWN
+8–11 秒 — 揭露
 
-The man slowly backs away.
+她的表情瞬間改變。
 
-“Wait… I don’t know…”
+恐懼。
 
-His fingers begin moving.
+純粹的驚恐。
 
-Separating.
+她指著那隻手。
 
-Stretching.
+所有人轉過頭去。
 
-Additional joints forming.
+男子一臉困惑。
 
-His hand starts opening like a flower.
+接著看向自己的手。
 
-Everyone panics.
+六根手指。
 
-Weapons come up.
+短暫的沉默。
+
+沒人敢動。
+
+沒人知道他變成這樣有多久了。
 
 ⸻
 
-13–15s — PAYOFF
+11–13 秒 — 崩潰
 
-His arm violently splits open.
+男子緩緩後退。
 
-Tendrils explode outward.
+「等等……我不知道……」
 
-The room erupts into chaos.
+他的手指開始移動。
 
-People scream.
+分離。
 
-Someone fires a flare.
+拉伸。
 
-Red light fills the room.
+長出額外的關節。
 
-The transforming creature lunges toward camera. Cut.
+他的手像花朵般綻開。
+
+眾人陷入恐慌。
+
+紛紛舉起武器。
+
+⸻
+
+13–15 秒 — 高潮
+
+他的手臂猛烈裂開。
+
+觸鬚向外爆發。
+
+房間瞬間陷入混亂。
+
+人們尖叫。
+
+有人發射了信號彈。
+
+紅光填滿了整個房間。
+
+變異的生物向鏡頭猛撲過來。切斷。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060414372942589952/img/ufyEKo35EGdI8sfy.jpg" width="600" alt="The Thing Inspired Antarctic Horror Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6bb5b21cbf40840f1334c1180fc709e1/thumbnails/thumbnail.jpg" width="600" alt="《突變第三型》風格南極恐怖場景">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5452)**
 
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **來源:** [Link](https://x.com/rahulnanda86/status/2060414433692946561) | **發布時間:** May 29, 2026
 
 ---
-### Antarctic Research Station Blood Test Horror
+### 南極研究站血液檢測驚悚片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A suspenseful horror prompt depicting survivors in an Antarctic station conducting a plasma test, leading to a violent monster revelation.
+> 這是一個充滿懸疑感的恐怖提示詞，描述南極研究站的倖存者在進行血漿測試時，引發了怪物現形的暴力場面。
 
 #### 📝 提示詞
 
 ```
-Interior Antarctic research station. Emergency lighting only. Red warning lights. Metal walls. Breath visible from the cold. Everybody is exhausted, terrified, suspicious of one another. High-tension horror with sudden explosive action. Fast cuts, push-ins, handheld movement.
+室內，南極研究站。僅有緊急照明。紅色警示燈閃爍。金屬牆壁。寒冷中可見呼出的氣息。每個人都筋疲力盡、驚恐萬分，且對彼此充滿猜忌。高張力的恐怖氛圍，伴隨突如其來的爆發性動作。快速剪輯、推鏡、手持攝影機運鏡。
 
 ⸻
 
-0–2s — HOOK
+0–2 秒 — 開場鉤子
 
-Close-up.
+特寫鏡頭。
 
-A wire is lowered into a plasma sample.
+一根導線被放入血漿樣本中。
 
-Six survivors stand around a metal table.
+六名倖存者圍站在金屬桌旁。
 
-Nobody speaks.
+無人說話。
 
-Everybody watches.
+每個人都在注視著。
 
-A flamethrower waits nearby.
+旁邊放著一把火焰噴射器。
 
-One survivor even laughs nervously.
+其中一名倖存者緊張地笑了出來。
 
-The tension starts breaking.
-
-⸻
-
-2-4s — REVEAL
-
-The next  plasma sample suddenly jumps.
-
-Not much.
-
-Just a twitch.
-
-Everyone freezes.
-
-Then—
-
-The sample launches off the table.
-
-Screaming.
-
-Moving on its own.
-
-Pure panic.
+緊張氣氛開始崩潰。
 
 ⸻
 
-4-7s — CHAOS
+2-4 秒 — 揭露
 
-Everyone immediately backs away.
+下一個血漿樣本突然跳動了一下。
 
-The owner of the plasma looks confused.
+幅度不大。
 
-Then his chest caves inward.
+只是抽動。
 
-His ribs begin moving.
+所有人僵在原地。
 
-Cracking.
+隨後——
 
-Breaking.
+樣本從桌上彈射而出。
 
-Rearranging.
+尖叫聲四起。
 
-Crash zoom.
+它在自行移動。
 
-His ribcage unfolds outward like giant spider legs.
-
-⸻
-
-7-10s — THE THING
-
-His body expands violently.
-
-Jaw splits.
-
-Neck stretches.
-
-Limbs bend backward.
-
-The creature erupts across the room.
-
-Tables flip.
-
-Equipment explodes.
-
-People are screaming.
-
-One survivor grabs the flamethrower.
+陷入純粹的恐慌。
 
 ⸻
 
-10-13s — PAYOFF
+4-7 秒 — 混亂
 
-Bullet-time moment.
+所有人立刻向後退去。
 
-The transformed creature launches toward the group.
+血漿的主人一臉困惑。
 
-The flamethrower ignites.
+接著他的胸腔向內塌陷。
 
-A wall of fire fills frame.
+肋骨開始移動。
 
-The creature screams.
+發出碎裂聲。
 
-Fire engulfs the room.
+斷裂。
 
-The survivors dive for cover.
+重新排列。
+
+快速變焦。
+
+他的胸腔像巨大的蜘蛛腿一樣向外展開。
+
+⸻
+
+7-10 秒 — 怪形現身
+
+他的身體劇烈膨脹。
+
+下顎裂開。
+
+頸部拉長。
+
+四肢向後彎曲。
+
+怪物在房間內爆發開來。
+
+桌子翻倒。
+
+設備爆炸。
+
+人們在尖叫。
+
+一名倖存者抓起火焰噴射器。
+
+⸻
+
+10-13 秒 — 高潮結局
+
+子彈時間時刻。
+
+變異後的怪物向人群撲去。
+
+火焰噴射器點火。
+
+火牆填滿畫面。
+
+怪物發出尖叫。
+
+火焰吞噬了整個房間。
+
+倖存者們紛紛撲倒尋找掩護。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060409711829327872/img/3khcBcKfc9rL2Ggp.jpg" width="600" alt="Antarctic Research Station Blood Test Horror">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d0fe47014a03fa00bd6add8ec3d08750/thumbnails/thumbnail.jpg" width="600" alt="南極研究站血液檢測驚悚片">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5458)**
 
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **來源:** [Link](https://x.com/rahulnanda86/status/2060409772688777582) | **發布時間:** May 29, 2026
 
 ---
-### Wukong vs Erlang Shen Epic Fantasy Battle
+### 悟空大戰二郎神：史詩級奇幻對決
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-action AAA fantasy martial arts battle prompt featuring Sun Wukong and Erlang Shen in a flooded canyon with complex physics.
+> 這是一個高動作強度的 AAA 級奇幻武俠戰鬥提示詞，描繪孫悟空與二郎神在洪水峽谷中展開的複雜物理效果對決。
 
 #### 📝 提示詞
 
 ```
-Epic AAA fantasy martial arts battle in a giant flooded canyon beneath dark storm clouds. Ultra-realistic cinematic style. Water reflects lightning flashes as Erlang Shen [Image1]  and Sun Wukong [Image2]  unleash supernatural abilities.
+在烏雲密布的巨大洪水峽谷中，展開一場史詩級的 AAA 級奇幻武俠對決。採用超寫實電影風格。水面映照著閃電，二郎神 [Image1] 與孫悟空 [Image2] 施展超自然能力。
 
-Erlang Shen [Image1] opens his celestial third eye fully for the first time — massive divine energy erupts outward in glowing golden-white waves. The clouds split open above him. Floating rocks rise into the air.
+二郎神 [Image1] 首次完全睜開天眼——巨大的神力向外爆發，形成耀眼的金色與白色光波。頭頂雲層裂開，漂浮的岩石升至半空。
 
-Sun Wukong [Image2] slams the Ruyi Jingu Bang into the ground, creating a colossal shockwave that parts the flood water and launches giant stone fragments upward. He spins the staff at extreme speed, deflecting divine energy beams.
+孫悟空 [Image2] 將如意金箍棒重擊地面，產生巨大的衝擊波，將洪水劈開並使巨石碎片向上飛濺。他高速旋轉金箍棒，格擋住神力光束。
 
-The two collide mid-air with overwhelming force. Their weapons lock together while lightning flashes around them. Slow-motion facial close-ups show determination and rage.
+兩人以壓倒性的力量在半空中碰撞。武器交鋒之際，周圍閃電交織。慢動作特寫鏡頭捕捉到他們臉上的決心與憤怒。
 
-Hyper-realistic water physics, volumetric fog, cinematic lightning, dynamic environmental destruction, wuxia wire-action realism blended with grounded physics.
+超寫實水體物理效果、體積霧、電影級閃電、動態環境破壞，將武俠鋼絲特技與寫實物理感完美融合。
 
-Chinese dialogue only:
-Sun Wukong: “The Heavens cannot trap me.”
-Erlang Shen: “Then let me personally suppress you.”
+僅限中文對話：
+孫悟空：「天庭困不住我。」
+二郎神：「那便由我親自將你鎮壓。」
 
-English subtitles burned-in.
+內嵌英文字幕。
 
-CAMERA:
+攝影機：
 RED V-RAPTOR XL
-Lens: Leica Summilux-C
+鏡頭：Leica Summilux-C
 
-CAMERA MOVEMENT:
-Aggressive crane dives, rotating aerial shots, ultra-fast tracking, dramatic slow-motion impact frames
+攝影機運鏡：
+激進的吊臂俯衝、旋轉航拍、超高速追蹤、戲劇性的慢動作衝擊幀
 
-COLOR GRADING:
-Storm gray, celestial gold, deep black shadows, cinematic bloom highlights
+調色：
+風暴灰、天界金、深邃黑影、電影級光暈高光
 
-NO MUSIC.
-Only lightning, explosions, water impacts, roaring wind, weapon resonance.
+無背景音樂。
+僅包含閃電、爆炸、水花衝擊、狂風呼嘯與武器共鳴聲。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/530a5f0a0c22a8b42b48b051da340045/thumbnails/thumbnail.jpg" width="600" alt="Wukong vs Erlang Shen Epic Fantasy Battle">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/530a5f0a0c22a8b42b48b051da340045/thumbnails/thumbnail.jpg" width="600" alt="悟空大戰二郎神：史詩級奇幻對決">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5444)**
 
 **作者:** [Paween Chantaraudorn](https://x.com/LumPaween64255) | **來源:** [Link](https://x.com/LumPaween64255/status/2060402691818570140) | **發布時間:** May 29, 2026
 
 ---
-### Fluffy Cat CEO Corporate Boardroom Drama
+### 毛茸茸貓咪 CEO 的企業專案會議戲碼
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A humorous prestige-drama style video prompt featuring an orange tabby cat as a CEO swiping a laptop off a conference table and meowing at employees.
+> 這是一個充滿幽默感、具備高級影視質感的影片提示詞，描述一隻橘色虎斑貓作為 CEO，在會議桌上將筆電掃落並對員工喵喵叫的場景。
 
 #### 📝 提示詞
 
 ```
-Characters: CEO is a fluffy orange tabby cat wearing a fitted navy suit and tie, seated at the head of a long glass conference table. Human employees in business attire fill the seats around the table. Scene: Luxury corporate boardroom, floor-to-ceiling windows overlooking a city skyline, framed charts and graphs on a large display screen behind the cat. Style: Prestige drama film tone, dry deadpan comedy, warm amber-mahogany palette, shallow depth of field, subtle film grain. Lighting: Warm overhead pendant lights, soft golden rim light on the cat, cool blue daylight spilling from the city windows. Audio: Tense orchestral underscore with low brass swells, sharp SFX punctuation on each cat action, muffled office ambiance, AC hum. [0-3s] — Establishing Camera: Slow wide push-in from the back of the boardroom. Action: The orange cat in a suit stands at the head of the table, raising one paw and tapping a bar chart on the display screen behind him. Lighting: Warm amber overhead wash, screen glow backlighting the cat. SFX: Low orchestral swell, soft pointer tap on screen. [3-6s] — Employees React Camera: Fixed medium shot across the table, facing the employees. Hard cut from previous shot. Action: Six nervous employees begin clapping stiffly, eyes wide, smiles strained and hollow. Lighting: Even cool overhead office light, slight shadow under each face. SFX: Slow, uncertain applause, a throat-clear, shuffling papers. [6-10s] — Laptop Incident Camera: Low tabletop angle, fixed. Hold. Action: The cat slowly turns, locks eyes with an open laptop at the edge of the table, then swipes it cleanly off with one deliberate paw. Lighting: Warm side light on cat, deep shadow behind. SFX: Sharp laptop crash on floor, echoing in the silent room. Gasps from employees. [10-13s] — Dramatic Zoom Camera: Slow push-in to extreme close-up on the cat's face. Action: The cat's eyes narrow. Its mouth opens in a wide, silent, furious meow — jaw fully extended. Lighting: Single warm overhead spot, deep dramatic shadow framing both cheeks. SFX: Orchestral sting, dead silence — then a single low bass hit on the meow. [13-15s] — Title Card Beat Camera: Static wide shot, full boardroom. Hold. Action: The cat sits back down calmly, adjusting its tie. The employees stare frozen. Dialogue: "Quarterly profits are down." Lighting: Room dims slightly, cool blue from the windows takes over. SFX: Low cello note sustains. Silence. Avoid: Identity drift on the cat between shots, jitter, temporal flicker, chaotic composition
+角色：CEO 是一隻毛茸茸的橘色虎斑貓，穿著合身的深藍色西裝和領帶，坐在長型玻璃會議桌的主位。人類員工穿著商務正裝，坐在桌邊。場景：豪華企業專案會議室，落地窗外可俯瞰城市天際線，貓咪身後的大螢幕顯示著圖表與數據。風格：高級劇情片質感、冷幽默、溫暖的琥珀色與紅木色調、淺景深、細膩的底片顆粒感。燈光：溫暖的吊燈，貓咪身上有柔和的金色輪廓光，城市窗戶透入冷藍色的日光。音效：緊張的管弦樂配樂伴隨低音銅管樂器的起伏，貓咪動作時有尖銳的音效點綴，伴隨悶悶的辦公室環境音與空調運轉聲。[0-3 秒] — 建立鏡頭：從會議室後方緩慢向前推進的廣角鏡頭。動作：穿著西裝的橘貓站在桌首，舉起一隻爪子輕敲身後顯示螢幕上的長條圖。燈光：溫暖的琥珀色頂光，螢幕光從背後照亮貓咪。音效：低沉的管弦樂起伏，輕敲螢幕的聲音。[3-6 秒] — 員工反應鏡頭：橫跨會議桌的固定中景鏡頭，面向員工。與前一個鏡頭進行硬切。動作：六名神情緊張的員工開始僵硬地鼓掌，雙眼瞪大，笑容勉強且空洞。燈光：均勻的冷色調辦公室頂光，每個人臉下有輕微陰影。音效：緩慢且不確定的掌聲、清喉嚨聲、翻動紙張的聲音。[6-10 秒] — 筆電事件鏡頭：低角度桌面視角，固定。保持。動作：貓咪緩慢轉身，盯著桌緣的一台筆電，隨後用一隻爪子果斷地將其掃落。燈光：貓咪身上有溫暖的側光，背後有深沉陰影。音效：筆電摔落地板的尖銳聲響，在安靜的房間中迴盪。員工發出驚呼聲。[10-13 秒] — 戲劇性變焦鏡頭：緩慢推進至貓咪臉部的極致特寫。動作：貓咪雙眼瞇起。嘴巴張開，發出無聲且憤怒的喵喵叫 — 下顎完全張開。燈光：單一溫暖的頂部聚光燈，深沉的戲劇性陰影勾勒出兩頰輪廓。音效：管弦樂重音，死寂 — 隨後在喵喵叫時出現一聲低沉的貝斯重擊。[13-15 秒] — 片名卡節奏鏡頭：靜態廣角鏡頭，完整會議室。保持。動作：貓咪冷靜地坐回原位，調整領帶。員工們僵硬地盯著牠。對話：「季度利潤下滑了。」燈光：房間稍微變暗，窗戶透入的冷藍光成為主色調。音效：低沉的大提琴長音。寂靜。避免：鏡頭間貓咪外貌不一致、抖動、時間閃爍、構圖混亂。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060390717906878464/img/Ic3YA7Qzjgl0a_dc.jpg" width="600" alt="Fluffy Cat CEO Corporate Boardroom Drama">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0cc05bb392f3956756b3ef0a45c5e732/thumbnails/thumbnail.jpg" width="600" alt="毛茸茸貓咪 CEO 的企業專案會議戲碼">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5460)**
 
 **作者:** [Jasmine Ai](https://x.com/jasminekhan90_) | **來源:** [Link](https://x.com/jasminekhan90_/status/2060390860559409594) | **發布時間:** May 29, 2026
 
 ---
-### 1980s Gritty Film Noir Mafia Scene
+### 1980 年代粗獷黑色電影黑手黨場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly complex cinematic prompt for generating a realistic 1980s mob-themed sequence with 35mm film grain and practical lighting.
+> 一個高度複雜的電影級提示詞，用於生成具有 35mm 膠片顆粒感與實景燈光的寫實 1980 年代黑幫主題序列。
 
 #### 📝 提示詞
 
 ```
-Style: 1980s 35mm film. Anamorphic grain. Practical lighting only. Real location street. No digital polish. Looks like it was actually shot on location in 1982.
-Camera: Mix of styles — slow tracking steadicam, tight close-ups, low angle wide, slow motion on key moments. Deep shadows. Film burn on cuts.
-Environment: Real wet cobblestone street at dusk. Old brick buildings. Dim tungsten storefronts. Smoke in the air. Parked vintage cars lining the street. Feels like lived-in 1980s New York or Chicago.
-Crowd: Real-looking 1980s dressed pedestrians. Naturally parting. Silent. Watching with deep respect. Faces weathered and real — no smooth AI skin.
-SCENE:
-Wide low angle slow-mo: Three figures emerge from shadow. Long black coats. Wet cobblestone reflecting their silhouettes. Crowd silently parts.
-Close-up slow-mo: @ img face — hat brim casting shadow over eyes. Cigar smoke curling past the lens. Expression unreadable.
-Wide tracking shot: The trio walks forward. Six bodyguards moving like a wall around them. Every face in the crowd watching.
-Close-up: His hand — cigar between fingers. Smoke trail. Slow motion.
-Low angle wide: Vintage black Cadillac DeVille waiting. Engine idling. Door opens.
-Close-up slow-mo: He takes one final drag. Exhales. Steps inside. Door shuts.
-Wide: Car pulls away into dark wet street. Crowd watches in silence.
-Lock phrases: 1980s 35mm grain, anamorphic flare, no AI rendering, no digital sharpness, practical location lighting, real human skin texture, photochemical film look, gritty realism, no color grading, raw film negative aesthetic
+風格：1980 年代 35mm 膠片。變形鏡頭顆粒感。僅使用實景燈光。真實街道場景。無數位修飾。看起來就像 1982 年實地拍攝的一樣。
+攝影：混合風格 — 慢速跟拍穩定器、緊湊特寫、低角度廣角、關鍵時刻慢動作。深邃陰影。剪輯處有膠片燒灼感。
+環境：黃昏時分真實的濕潤鵝卵石街道。古老的磚造建築。昏暗的鎢絲燈店面。空氣中瀰漫著煙霧。街道兩旁停放著復古汽車。營造出 1980 年代紐約或芝加哥的真實生活感。
+人群：穿著 1980 年代服飾的真實路人。自然地分開。保持沈默。帶著敬畏的神情注視。臉部紋理歷經風霜且真實 — 沒有 AI 的平滑皮膚感。
+場景：
+低角度廣角慢動作：三個身影從陰影中走出。長款黑色大衣。濕潤的鵝卵石路面反射出他們的身影。人群默默地分開。
+特寫慢動作：@ img 臉部 — 帽簷在眼睛上投下陰影。雪茄煙霧繚繞過鏡頭。表情難以捉摸。
+廣角跟拍：三人向前走。六名保鑣像一堵牆一樣圍繞著他們移動。人群中的每個人都在注視。
+特寫：他的手 — 指間夾著雪茄。煙霧繚繞。慢動作。
+低角度廣角：復古黑色 Cadillac DeVille 在等待。引擎怠速運轉。車門打開。
+特寫慢動作：他最後抽了一口。吐出煙霧。坐進車內。車門關上。
+廣角：汽車駛入黑暗潮濕的街道。人群在沈默中注視。
+鎖定詞彙：1980 年代 35mm 顆粒感、變形鏡頭光暈、無 AI 渲染、無數位銳化、實景燈光、真實人類皮膚紋理、光化學膠片質感、粗獷寫實主義、無調色、原始膠片負片美學
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8aaa36afa844d45d1651dd2f441f5a2/thumbnails/thumbnail.jpg" width="600" alt="1980s Gritty Film Noir Mafia Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8aaa36afa844d45d1651dd2f441f5a2/thumbnails/thumbnail.jpg" width="600" alt="1980 年代粗獷黑色電影黑手黨場景">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5432)**
 
 **作者:** [WasifAI](https://x.com/doctorwasif) | **來源:** [Link](https://x.com/doctorwasif/status/2060382063317102961) | **發布時間:** May 29, 2026
 
 ---
-### The Hive Queen Escape Video Prompt
+### 「蜂巢女王逃脫」影片提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive sci-fi horror video prompt for Seedance 2.0 featuring an astronaut fleeing a swarm in an alien hive.
+> 這是一份為 Seedance 2.0 設計的全面科幻恐怖影片提示詞，描述一名太空人在外星蜂巢中逃離蟲群的場景。
 
 #### 📝 提示詞
 
 ```
-Nightmarish alien hive deep beneath the surface of a hostile planet. Organic tunnels, pulsing walls, glowing biological veins, hanging egg sacs, dripping acid. Everything feels alive. High-intensity survival horror. Fast cuts, handheld chaos, rapid camera movement. Sound: insect screeches, biological clicking, suit alarms, collapsing organic structures.
+位於敵對星球地表深處，令人毛骨悚然的外星蜂巢。有機隧道、脈動的牆壁、發光的生物血管、懸掛的卵囊、滴落的酸液。一切都彷彿活著。高強度的生存恐怖氛圍。快速剪輯、手持攝影的混亂感、劇烈的鏡頭晃動。音效：昆蟲尖叫聲、生物喀噠聲、太空衣警報聲、有機結構崩塌聲。
 
 ⸻
 
-0–2s — HOOK
+0–2 秒 — 開場（HOOK）
 
-Helmet POV.
+頭盔視角（POV）。
 
-An astronaut is already sprinting through a living alien hive.
+一名太空人正在活體外星蜂巢中狂奔。
 
-Dozens of insectoid creatures chase him.
+數十隻昆蟲狀生物在後方追趕。
 
-Multiple legs.
+多條腿。
 
-Bladed limbs.
+刀鋒般的肢體。
 
-Glowing mouths.
+發光的口器。
 
-They swarm across walls, ceilings, and floors.
+牠們在牆壁、天花板和地板上蜂擁而至。
 
-Closing fast.
-
-⸻
-
-2–5s — ESCALATION
-
-Side tracking shot.
-
-The astronaut turns a corner and enters a gigantic chamber.
-
-At its center—
-
-The Hive Queen.
-
-Massive.
-
-Bloated.
-
-Attached to the chamber by thick biological tendrils.
-
-Thousands of glowing eggs surround her.
-
-The swarm continues closing in behind him.
+距離迅速拉近。
 
 ⸻
 
-5–8s — BUILD
+2–5 秒 — 升級（ESCALATION）
 
-The astronaut reaches a rocky ledge overlooking the egg chamber.
+側向跟拍鏡頭。
 
-No escape route.
+太空人轉過拐角，進入一個巨大的空間。
 
-Creatures approaching from every direction.
+在空間中央——
 
-He quickly pulls out a mining laser.
+蜂巢女王（The Hive Queen）。
 
-The queen notices him.
+體型龐大。
 
-The entire chamber begins vibrating.
+臃腫。
 
-⸻
+透過粗壯的生物卷鬚與空間相連。
 
-8–11s — THE PLAN
+數以千計的發光卵囊環繞著牠。
 
-Close-up.
-
-The astronaut aims directly at the largest glowing egg structure.
-
-He fires.
-
-The mining laser slices through the organic mass.
-
-A chain reaction begins.
-
-Cracks spread through the egg cluster.
-
-Biological fluid erupts everywhere.
+蟲群持續從後方逼近。
 
 ⸻
 
-11–13s — CHAOS
+5–8 秒 — 鋪陳（BUILD）
 
-The Hive Queen immediately attacks her own swarm.
+太空人抵達俯瞰卵囊空間的岩石邊緣。
 
-Protecting the eggs.
+無路可逃。
 
-Massive limbs crush dozens of creatures.
+生物從四面八方湧來。
 
-The chamber collapses.
+他迅速掏出採礦雷射槍。
 
-Walls rupture.
+女王發現了他。
 
-Eggs explode.
-
-Insects begin attacking each other.
-
-Complete chaos.
+整個空間開始震動。
 
 ⸻
 
-13–15s — PAYOFF
+8–11 秒 — 計畫（THE PLAN）
 
-An organic bridge breaks loose beneath the astronaut.
+特寫鏡頭。
 
-He rides it like a collapsing surfboard toward an exit tunnel.
+太空人瞄準最大的發光卵囊結構。
 
-Behind him—
+他開火了。
 
-The Queen and swarm devour each other amidst the collapsing hive.
+採礦雷射切開了有機物質。
 
-The astronaut shoots out of the tunnel just as the entire chamber implodes.
+連鎖反應開始。
 
-Darkness.
+裂痕在卵囊群中蔓延。
+
+生物體液四處噴濺。
+
+⸻
+
+11–13 秒 — 混亂（CHAOS）
+
+蜂巢女王為了保護卵囊，開始攻擊自己的蟲群。
+
+巨大的肢體壓碎了數十隻生物。
+
+空間開始崩塌。
+
+牆壁破裂。
+
+卵囊爆炸。
+
+昆蟲開始互相殘殺。
+
+一片混亂。
+
+⸻
+
+13–15 秒 — 結局（PAYOFF）
+
+一條有機橋樑在太空人腳下斷裂。
+
+他像踩著崩塌的衝浪板一樣，滑向出口隧道。
+
+在他身後——
+
+女王與蟲群在崩塌的蜂巢中互相吞噬。
+
+就在整個空間內爆的瞬間，太空人衝出了隧道。
+
+陷入黑暗。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09ee6b2bfdfda318594b7473e7dfa590/thumbnails/thumbnail.jpg" width="600" alt="The Hive Queen Escape Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09ee6b2bfdfda318594b7473e7dfa590/thumbnails/thumbnail.jpg" width="600" alt="「蜂巢女王逃脫」影片提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5426)**
 
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **來源:** [Link](https://x.com/rahulnanda86/status/2060377183479382356) | **發布時間:** May 29, 2026
 
 ---
-### The Crystal Worm Ambush Video Prompt
+### 水晶蟲伏擊影片提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed, multi-stage storyboard prompt for Seedance 2.0 depicting an astronaut escaping a giant crystal worm on an alien planet.
+> 為 Seedance 2.0 設計的高細節、多階段分鏡提示詞，描繪了一名太空人在外星球逃離巨大水晶蟲的驚險過程。
 
 #### 📝 提示詞
 
 ```
-Ultra-hostile alien planet. Endless desert made entirely of gigantic glowing crystal formations. Violet skies, twin suns, electrical storms in the distance. Every crystal emits strange bioluminescent pulses. Survival horror action. Chaotic handheld camera, aggressive speed ramps, rapid cut-tos, dynamic camera angles. Sound: crystal resonance hums, astronaut breathing, deep underground rumbling.
+極度險惡的外星球。由巨大發光水晶構成的無盡沙漠。紫色的天空、雙子太陽、遠處的雷暴。每一塊水晶都散發著奇異的生物發光脈衝。生存恐怖動作風格。混亂的手持攝影、激進的變速鏡頭、快速切換、動態攝影角度。音效：水晶共鳴的嗡嗡聲、太空人的呼吸聲、深層地底的隆隆聲。
 
 ⸻
 
-0–2s — HOOK
+0–2 秒 — 開場 (HOOK)
 
-Wide aerial shot.
+廣角航拍鏡頭。
 
-An astronaut is already sprinting across a glowing crystal desert.
+一名太空人正奔跑在發光的水晶沙漠上。
 
-Suddenly—
+突然——
 
-The ground erupts behind him.
+他身後的地面爆裂開來。
 
-A colossal alien crystal worm explodes upward.
+一條巨大的外星水晶蟲破土而出。
 
-Hundreds of meters long.
+長達數百公尺。
 
-Its body covered in razor-sharp translucent crystal plates.
-
-⸻
-
-2–5s — ESCALATION
-
-Helmet POV.
-
-The worm crashes back underground.
-
-Crystal shards rain everywhere.
-
-The astronaut dodges flying debris while running.
-
-The desert ahead begins rippling.
-
-The worm is moving beneath him.
-
-Fast.
-
-Very fast.
+身體覆蓋著鋒利如剃刀的半透明水晶板。
 
 ⸻
 
-5–8s — BUILD
+2–5 秒 — 升級 (ESCALATION)
 
-Low angle tracking shot.
+頭盔視角 (POV)。
 
-The astronaut spots a gigantic crystal spire ahead.
+水晶蟲再次鑽回地底。
 
-He jumps onto its base and begins climbing.
+水晶碎片四處飛濺。
 
-The worm erupts again.
+太空人邊跑邊躲避飛來的殘骸。
 
-This time directly beside him.
+前方的沙漠開始起伏。
 
-Its jaws snap shut inches from his body.
+水晶蟲正在他腳下移動。
 
-The impact fractures the entire spire.
+速度極快。
 
-⸻
-
-8–11s — CHAOS
-
-Wide shot.
-
-The crystal tower begins collapsing.
-
-The astronaut slides down the falling structure.
-
-Crystal fragments the size of vehicles tumble everywhere.
-
-The worm smashes through multiple crystal formations trying to intercept him.
-
-The entire landscape explodes into chaos.
+非常快。
 
 ⸻
 
-11–13s — THE PLAN
+5–8 秒 — 鋪陳 (BUILD)
 
-The astronaut lands hard.
+低角度跟拍鏡頭。
 
-Rolls.
+太空人發現前方有一座巨大的水晶尖塔。
 
-Pulls a distress flare from his suit.
+他跳上塔基並開始攀爬。
 
-The worm erupts directly ahead.
+水晶蟲再次破土而出。
 
-Its mouth opens wide.
+這次就在他身旁。
 
-Rows of crystalline teeth.
+巨大的顎部在他身體幾吋外猛然閉合。
 
-Bullet time.
-
-The astronaut throws the flare.
+衝擊力使整座尖塔碎裂。
 
 ⸻
 
-13–15s — PAYOFF
+8–11 秒 — 混亂 (CHAOS)
 
-The flare disappears into the worm’s throat.
+廣角鏡頭。
 
-A pulse travels through its transparent crystal body.
+水晶塔開始倒塌。
 
-The entire creature begins glowing.
+太空人沿著倒塌的結構向下滑行。
 
-Brighter.
+車輛般大小的水晶碎片四處滾落。
 
-Brighter.
+水晶蟲撞穿多個水晶結構，試圖攔截他。
 
-Then—
+整個地景陷入一片混亂。
 
-A massive resonance explosion tears through its body from the inside.
+⸻
 
-Crystal shards erupt across the desert.
+11–13 秒 — 計畫 (THE PLAN)
 
-The astronaut shields himself.
+太空人重重落地。
 
-Silence.
+翻滾。
 
-Only glowing fragments falling from the sky
+從防護服中掏出求救信號彈。
+
+水晶蟲直接在他前方破土而出。
+
+大嘴張開。
+
+露出成排的水晶牙齒。
+
+子彈時間。
+
+太空人擲出信號彈。
+
+⸻
+
+13–15 秒 — 高潮 (PAYOFF)
+
+信號彈沒入水晶蟲的喉嚨。
+
+一道脈衝波穿過其透明的水晶身體。
+
+整隻生物開始發光。
+
+越來越亮。
+
+越來越亮。
+
+隨後——
+
+巨大的共鳴爆炸從其體內撕裂開來。
+
+水晶碎片散落在整個沙漠。
+
+太空人護住自己。
+
+寂靜。
+
+只剩下發光的碎片從天而降。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060363429693820928/img/Jo9oNYVszL6J0i5j.jpg" width="600" alt="The Crystal Worm Ambush Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ace3e397b1750148de2905ea923df96/thumbnails/thumbnail.jpg" width="600" alt="水晶蟲伏擊影片提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5423)**
 
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **來源:** [Link](https://x.com/rahulnanda86/status/2060363498744586530) | **發布時間:** May 29, 2026
 
 ---
-### Cinematic Anime Tennis Match Video
+### 電影感動畫風格網球比賽影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a high-energy anime-style tennis match video set against a warm sunset, featuring cinematic lighting and soft lens flares.
+> 用於生成高能量動畫風格網球比賽影片的提示詞，背景設定在溫暖的夕陽下，具備電影級光影與柔和的鏡頭光暈效果。
 
 #### 📝 提示詞
 
 ```
-Create a cinematic anime tennis match video at sunset on an outdoor court with chain-link fence, warm golden light, soft lens flare, realistic court shadows, and energetic match atmosphere.
+創作一部電影感動畫風格的網球比賽影片，場景設在夕陽下的戶外球場，配有鐵絲網圍欄、溫暖的金色光線、柔和的鏡頭光暈、寫實的球場陰影以及充滿活力的比賽氛圍。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060362855858458624/img/zbdgrbVffxEhWQoV.jpg" width="600" alt="Cinematic Anime Tennis Match Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ba5902a810aa865a1cacb22eef84867/thumbnails/thumbnail.jpg" width="600" alt="電影感動畫風格網球比賽影片">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5463)**
 
 **作者:** [Abdul Șhakoor](https://x.com/abxxai) | **來源:** [Link](https://x.com/abxxai/status/2060362950788121082) | **發布時間:** May 29, 2026
 
 ---
-### The Lava Beast Duel Video Prompt
+### 「熔岩巨獸」對決影片提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed action-horror storyboard prompt for Seedance 2.0 depicting a struggle between an astronaut and a lava beast in a volcanic environment.
+> 這是一份為 Seedance 2.0 設計的詳細動作恐怖風格專案提示詞，描繪了太空人與熔岩巨獸在火山環境中的生死搏鬥。
 
 #### 📝 提示詞
 
 ```
-Nightmarish volcanic alien world. Rivers of lava cutting through black mountains. Ash storms. Exploding gas vents. Red lightning inside thick smoke clouds. Survival horror action. Fast-paced camera work, violent handheld energy, rapid cuts, speed ramps. Sound: volcanic eruptions, creature roars, jetpack bursts, collapsing rock.
+夢魘般的火山外星世界。熔岩河流穿過黑色山脈。灰燼風暴。氣體噴口爆炸。厚重煙雲中閃爍著紅色閃電。生存恐怖動作風格。快節奏運鏡，強烈的掌鏡感，快速剪輯，變速效果。音效：火山爆發、生物咆哮、噴射背包推進聲、岩石崩塌聲。
 
 ⸻
 
-0–2s — HOOK
+0–2 秒 — 開場（HOOK）
 
-Wide shot.
+廣角鏡頭。
 
-An astronaut is already running along a narrow volcanic ridge.
+一名太空人正沿著狹窄的火山脊奔跑。
 
-Behind him—
+在他身後——
 
-A gigantic lava-covered alien beast charges.
+一隻巨大的熔岩外星巨獸正衝過來。
 
-Twelve feet tall.
+身高 12 英尺。
 
-Molten cracks glowing across its body.
+身上佈滿發光的熔岩裂紋。
 
-Every footstep throws sparks and molten rock.
-
-⸻
-
-2–5s — ESCALATION
-
-Side tracking shot.
-
-The beast rapidly closes distance.
-
-The astronaut fires a plasma rifle over his shoulder.
-
-The shots hit.
-
-Nothing happens.
-
-The creature keeps coming.
-
-A gas vent erupts beside them.
-
-Fire blasts into the sky.
+每一步都濺起火花與熔岩碎石。
 
 ⸻
 
-5–8s — BUILD
+2–5 秒 — 升溫（ESCALATION）
 
-The ridge narrows.
+側面跟拍鏡頭。
 
-Lava rivers on both sides.
+巨獸迅速縮短距離。
 
-The astronaut slips.
+太空人回頭用電漿步槍射擊。
 
-Recovers.
+擊中了目標。
 
-The beast launches itself forward.
+但毫無作用。
 
-Its claws barely miss his suit.
+生物持續逼近。
 
-Ash and molten debris fill the frame.
+旁邊的氣體噴口噴發。
 
-⸻
-
-8–11s — CHAOS
-
-Overhead drone-style shot.
-
-The entire ridge begins collapsing beneath their combined weight.
-
-Massive chunks break away.
-
-The astronaut jumps across a widening gap.
-
-The beast follows.
-
-The jump cracks the remaining rock.
-
-Everything starts falling.
+火焰直衝天際。
 
 ⸻
 
-11–13s — PAYOFF BUILD
+5–8 秒 — 鋪陳（BUILD）
 
-The ridge gives way completely.
+山脊變得狹窄。
 
-Astronaut and beast plunge toward a raging lava river.
+兩側皆是熔岩河流。
 
-Bullet time.
+太空人滑倒。
 
-The astronaut grabs a hanging volcanic rock formation.
+隨即穩住身形。
 
-The beast falls below him.
+巨獸向前猛撲。
+
+利爪險些擦過他的防護服。
+
+灰燼與熔岩碎片填滿畫面。
 
 ⸻
 
-13–15s — FINAL PAYOFF
+8–11 秒 — 混亂（CHAOS）
 
-The creature crashes into the lava.
+俯瞰空拍鏡頭。
 
-Molten rock erupts everywhere.
+整條山脊在兩者的重量下開始崩塌。
 
-The astronaut looks down—
+巨大的岩塊碎裂脫落。
 
-Relieved.
+太空人跳過不斷擴大的裂縫。
 
-Then suddenly—
+巨獸緊追在後。
 
-The beast erupts back out of the lava completely engulfed in fire.
+跳躍的衝擊力震碎了剩餘的岩石。
 
-Roaring.
+一切開始墜落。
 
-Launching itself toward him.
+⸻
+
+11–13 秒 — 高潮鋪陳（PAYOFF BUILD）
+
+山脊徹底崩塌。
+
+太空人與巨獸墜向奔騰的熔岩河。
+
+子彈時間。
+
+太空人抓住了一塊懸掛的火山岩結構。
+
+巨獸墜落在他下方。
+
+⸻
+
+13–15 秒 — 最終高潮（FINAL PAYOFF）
+
+巨獸撞入熔岩中。
+
+熔岩四處噴濺。
+
+太空人向下看——
+
+鬆了一口氣。
+
+突然——
+
+巨獸從熔岩中衝出，全身被火焰吞噬。
+
+咆哮著。
+
+向他猛撲而來。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1bbc3d26077cca6baea2fb93e536684c/thumbnails/thumbnail.jpg" width="600" alt="The Lava Beast Duel Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1bbc3d26077cca6baea2fb93e536684c/thumbnails/thumbnail.jpg" width="600" alt="「熔岩巨獸」對決影片提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5429)**
 
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **來源:** [Link](https://x.com/rahulnanda86/status/2060360339628364155) | **發布時間:** May 29, 2026
 
 ---
-### Epic Mammoth Charge Survival Sequence
+### 史詩級長毛象衝鋒生存序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A thrilling fantasy video prompt set on a frozen tundra where a hunter lures a giant white werewolf into the middle of a woolly mammoth stampede.
+> 這是一個扣人心弦的奇幻影片提示詞，場景設定在冰凍的凍原上，一名獵人將一隻巨大的白色狼人引誘到長毛象群的衝鋒路徑中。
 
 #### 📝 提示詞
 
 ```
-Epic fantasy survival sequence set on a vast frozen tundra beneath storm-filled northern skies. Endless snowfields stretch to the horizon. Winds whip across the landscape. Visibility constantly shifts as snow blows through frame. High-action chase with huge scale and relentless momentum. Sound: pounding footsteps, mammoth calls, werewolf roars, cracking ice, screaming wind.
+史詩級奇幻生存序列，場景設定在暴風雨籠罩的北方天空下，廣闊的冰凍凍原。無盡的雪原延伸至地平線。狂風橫掃大地。隨著風雪吹過畫面，能見度不斷變化。高強度的追逐戲，規模宏大且節奏緊湊。音效：沉重的腳步聲、長毛象的呼喚聲、狼人的咆哮聲、冰層碎裂聲、呼嘯的風聲。
 
 ⸻
 
-0–3s — HOOK
+0–3 秒 — 開場（HOOK）
 
-A young hunter sprints across an open snowfield.
+一名年輕獵人在開闊的雪原上奔跑。
 
-Animal furs wrapped around his shoulders.
+肩上裹著獸皮。
 
-A hunting spear gripped tightly in one hand.
+一隻手緊握著獵矛。
 
-His breath freezes in the air.
+他的呼吸在空氣中凝結成霜。
 
-Behind him—
+在他身後——
 
-A colossal white werewolf bursts over a ridge.
+一隻巨大的白色狼人衝過山脊。
 
-Nearly nine feet tall.
+身高近 9 英尺。
 
-Massive muscles visible beneath thick frost-covered fur.
+厚實且覆蓋著冰霜的毛皮下，肌肉線條清晰可見。
 
-Blue eyes glowing through blowing snow.
+藍色的雙眼在風雪中發出微光。
 
-The creature immediately locks onto him.
+這隻野獸瞬間鎖定了他。
 
-It charges downhill.
+它向下坡衝刺。
 
-Fast.
+速度極快。
 
-Much too fast.
-
-⸻
-
-3–6s — ESCALATION
-
-The hunter pushes himself harder.
-
-Snow explodes beneath every stride.
-
-The werewolf rapidly closes distance.
-
-Its powerful legs launch it through deep drifts effortlessly.
-
-Every leap covers huge ground.
-
-The hunter glances back.
-
-The beast is only seconds away.
-
-Its jaws snap.
-
-Its roar echoes across the tundra.
+快得驚人。
 
 ⸻
 
-6–9s — BUILD
+3–6 秒 — 升級（ESCALATION）
 
-Ahead—
+獵人拼命加速。
 
-Movement.
+每一步踏下，雪花四濺。
 
-A gigantic migrating herd of woolly mammoths crosses the frozen plain.
+狼人迅速縮短距離。
 
-Dozens of them.
+它強壯的雙腿毫不費力地穿過深雪堆。
 
-Towering bodies.
+每一次跳躍都跨越巨大的距離。
 
-Massive curved tusks.
+獵人回頭看了一眼。
 
-The ground vibrates beneath their weight.
+野獸距離他僅剩幾秒之遙。
 
-The hunter changes direction and runs directly toward the herd.
+它張開大顎。
 
-The werewolf follows without hesitation.
-
-⸻
-
-9–12s — THE PLAN
-
-The hunter reaches the mammoths.
-
-He darts between enormous legs and charging bodies.
-
-Snow and ice spray into the air.
-
-The werewolf enters the herd moments later.
-
-Now completely surrounded by mammoths.
-
-The hunter plants his feet.
-
-Turns.
-
-Throws his spear.
-
-Bullet time.
-
-The spear spins through the air.
-
-Strikes a mammoth’s flank.
+咆哮聲在凍原上迴盪。
 
 ⸻
 
-12–15s — PAYOFF
+6–9 秒 — 鋪陳（BUILD）
 
-The injured mammoth bellows.
+前方——
 
-The herd panics instantly.
+有動靜。
 
-Dozens of mammoths turn simultaneously.
+一群巨大的遷徙長毛象正穿過冰凍的平原。
 
-Thousands of pounds of muscle and tusk begin charging directly toward the werewolf.
+數量多達數十隻。
 
-The beast tries to stop.
+高聳的身軀。
 
-Too late.
+巨大的彎曲象牙。
 
-The stampede slams into it.
+大地在它們的重量下震動。
 
-Tusks.
+獵人改變方向，直接朝象群跑去。
 
-Snow.
+狼人毫不猶豫地跟了上去。
 
-Fur.
+⸻
 
-Ice.
+9–12 秒 — 計畫（THE PLAN）
 
-Chaos.
+獵人抵達長毛象群。
 
-The werewolf disappears beneath a wall of charging mammoths.
+他在巨大的象腿和衝鋒的身軀之間穿梭。
 
-The hunter watches from a rocky outcrop as the herd thunders past.
+雪花與冰屑噴濺到空中。
 
-Snow fills the air.
+狼人隨後進入象群。
 
-The creature is gone.
+現在它完全被長毛象包圍了。
 
-Only the sound of the stampede remains.
+獵人站穩腳步。
+
+轉身。
+
+投出獵矛。
+
+子彈時間。
+
+獵矛在空中旋轉。
+
+擊中了一隻長毛象的側腹。
+
+⸻
+
+12–15 秒 — 結局（PAYOFF）
+
+受傷的長毛象發出哀鳴。
+
+象群瞬間陷入恐慌。
+
+數十隻長毛象同時轉身。
+
+數千磅重的肌肉與象牙開始直接朝狼人衝鋒。
+
+野獸試圖停下。
+
+但為時已晚。
+
+獸群衝撞而至。
+
+象牙。
+
+雪花。
+
+毛皮。
+
+冰塊。
+
+一片混亂。
+
+狼人消失在衝鋒的長毛象牆下。
+
+獵人在岩石露頭上注視著象群奔騰而過。
+
+雪花填滿了空氣。
+
+野獸已不見蹤影。
+
+只剩下獸群奔騰的聲音。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060354793890357249/img/1YwIi43ZPwLRgyHD.jpg" width="600" alt="Epic Mammoth Charge Survival Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9f56035e387872401d848a3e7c4dc84/thumbnails/thumbnail.jpg" width="600" alt="史詩級長毛象衝鋒生存序列">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5457)**
 
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **來源:** [Link](https://x.com/rahulnanda86/status/2060354858277019768) | **發布時間:** May 29, 2026
 
 ---
-### Magma Demon Medieval Siege
+### 岩漿惡魔中世紀攻城戰
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dark fantasy apocalypse prompt featuring a colossal magma demon destroying a medieval kingdom with dramatic cinematography and debris effects.
+> 這是一個黑暗奇幻末日風格的提示詞，描繪一隻巨大的岩漿惡魔摧毀中世紀王國，並結合戲劇性的電影攝影與碎片特效。
 
 #### 📝 提示詞
 
 ```
-A colossal demonic creature with obsidian skin cracked by flowing magma, gigantic horns piercing through smoke clouds, glowing eyes radiating pure rage
-Emerges from beneath the earth and rampages through a medieval kingdom, crushing castles with its bare hands while armies desperately attack from every direction
-Dark fantasy apocalypse with burning villages, collapsing cathedrals, lava fissures splitting the ground and dragons circling through ash-filled skies
-Begins with ground-level tracking as cracks spread violently through the city, sudden eruption sending debris flying toward the camera, whip pans following collapsing towers, aerial orbit around the demon roaring through flames, fire and molten rock flooding the frame, ending with the demon standing atop the destroyed kingdom while the last remaining castle collapses behind it into lava, camera slowly pulling back through smoke revealing complete annihilation across the horizon
+一隻巨大的惡魔生物，黑曜石般的皮膚上佈滿流動的岩漿裂痕，巨大的犄角穿透煙霧，發光的雙眼散發著純粹的憤怒。
+從地底破土而出，在中世紀王國中橫衝直撞，徒手摧毀城堡，而軍隊則從四面八方絕望地發動攻擊。
+黑暗奇幻末日場景，村莊燃燒、大教堂倒塌、熔岩裂縫撕裂大地，巨龍在充滿灰燼的天空中盤旋。
+以地面追蹤鏡頭開場，裂縫在城市中劇烈蔓延，突如其來的爆發將碎片噴向鏡頭，快速搖鏡跟隨倒塌的塔樓，空中環繞鏡頭拍攝惡魔在火焰中咆哮，火光與熔岩充斥畫面，結尾為惡魔站在毀滅的王國之上，身後最後一座城堡崩塌墜入熔岩，鏡頭緩慢穿過煙霧拉遠，展現出地平線上徹底的毀滅。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5b1966061ce67625b08a2f75a7bfefb/thumbnails/thumbnail.jpg" width="600" alt="Magma Demon Medieval Siege">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5b1966061ce67625b08a2f75a7bfefb/thumbnails/thumbnail.jpg" width="600" alt="岩漿惡魔中世紀攻城戰">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5431)**
 
 **作者:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **來源:** [Link](https://x.com/CharaspowerAI/status/2060352986509955507) | **發布時間:** May 29, 2026
 
 ---
-### Sci-Fi Astronaut Monster Chase
+### 科幻太空人怪獸追逐
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic sci-fi horror prompt featuring an astronaut fleeing a giant flying moth-dragon on an alien world with floating islands.
+> 這是一個電影級的科幻恐怖提示詞，描述一名太空人在擁有浮空島的外星世界中，逃離一隻巨大飛蛾龍怪獸的追逐。
 
 #### 📝 提示詞
 
 ```
-Cinematic photorealistic sci-fi action horror sequence set on a surreal alien world with dark purple skies and endless floating islands covered in glowing blue crystals. An astronaut in a detailed white spacesuit with jetpack runs desperately across the rocky floating platforms, jumping between them while being chased by a massive terrifying winged creature resembling a giant moth-dragon hybrid with powerful wings and sharp features.
-The camera dynamically follows the high-speed chase with sweeping aerial shots, tracking the astronaut from behind and side angles. The astronaut leaps across chasms as glowing crystals pulse with bright blue light. A dramatic close-up shows the astronaut’s terrified face inside the helmet, eyes wide and mouth open in panic. The giant creature swoops aggressively, creating chaos. In the climax, the astronaut grabs onto a thick hanging vine on the edge of a crumbling floating island, looking back in fear as the monster approaches and debris flies everywhere.
-Moody volumetric fog, dramatic purple-blue lighting, intense motion, realistic physics, high detail textures, and epic scale. Fast-paced thrilling survival chase with strong cinematic tension.
+這是一個電影級、照片寫實風格的科幻動作恐怖場景，設定在一個超現實的外星世界，擁有深紫色的天空和無盡覆蓋著發光藍色水晶的浮空島。一名穿著精細白色太空衣、背負噴射背包的太空人，正絕望地在岩石浮空平台上奔跑，並在平台間跳躍，同時被一隻巨大的恐怖有翼生物追逐，該生物外型類似巨大的飛蛾龍混合體，擁有強而有力的翅膀與銳利的特徵。
+攝影機以動態方式跟隨這場高速追逐，透過掃視的空拍鏡頭，從後方及側面角度追蹤太空人。太空人躍過深淵，發光的水晶閃爍著明亮的藍光。戲劇性的特寫鏡頭捕捉到太空人頭盔內驚恐的臉龐，雙眼圓睜、嘴巴因恐慌而張開。巨大生物猛烈俯衝，造成一片混亂。在最高潮處，太空人抓住了崩塌浮空島邊緣的一根粗藤蔓，回頭驚恐地看著怪獸逼近，碎片四處飛散。
+充滿情緒的體積霧、戲劇性的紫藍色燈光、強烈的動態感、真實的物理效果、高細節紋理與史詩般的規模。快節奏、驚險刺激的生存追逐，充滿強烈的電影張力。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ded2075a8afed31bf7ed63970d6c7f8/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi Astronaut Monster Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ded2075a8afed31bf7ed63970d6c7f8/thumbnails/thumbnail.jpg" width="600" alt="科幻太空人怪獸追逐">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5435)**
 
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **來源:** [Link](https://x.com/rahulnanda86/status/2060346290907848960) | **發布時間:** May 29, 2026
 
 ---
-### Astronaut vs Giant Alien Spiders Video Prompt
+### 太空人對戰巨型外星蜘蛛影片提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intense, epic-scale sci-fi horror chase prompt for Seedance 2.0 involving giant spider-crab creatures and a transforming environment.
+> 這是一份為 Seedance 2.0 設計的緊張、史詩級科幻恐怖追逐提示詞，包含巨型蜘蛛蟹生物與變形場景。
 
 #### 📝 提示詞
 
 ```
-Cinematic photorealistic sci-fi horror chase sequence set on a dark, foggy alien planet with rocky canyons and floating islands. An astronaut in a white and blue spacesuit runs desperately for his life through a narrow rocky path, looking back in terror. He is relentlessly chased by multiple giant menacing red spider-crab alien creatures with glowing orange eyes and sharp legs.
-The camera dynamically follows from behind and switches to high-angle shots revealing the terrifying scale. The path dramatically transforms into the inside of a massive ancient monster’s mouth lined with huge teeth and fleshy walls. The astronaut keeps running straight into the giant maw as the spider monsters close in. In the climax, the enormous creature awakens, its massive head rising with jaws opening wide. The astronaut is thrown into the air as the gigantic beast emerges powerfully from the mountain-like structure.
-Intense action, dramatic foggy atmosphere, realistic creature details, dynamic camera movement, high tension, and epic scale. Dark moody lighting with volumetric fog, fast-paced editing, and thrilling survival horror vibe. 13-second high-impact sequence.
+電影級寫實科幻恐怖追逐場景，設定在一個黑暗、充滿迷霧的外星行星，場景包含岩石峽谷與漂浮島嶼。一名身穿藍白太空衣的太空人正驚恐地回頭，在狹窄的岩石小徑上拚命奔逃。在他身後，多隻巨大的紅色蜘蛛蟹外星生物正窮追不捨，這些生物擁有發光的橘色眼睛與銳利的長腿。
+攝影機動態地從後方跟隨，並切換至高角度鏡頭，展現出令人恐懼的巨大規模。路徑戲劇性地變形為一隻巨大古老怪物的口腔內部，佈滿巨大的牙齒與肉質牆壁。太空人持續奔跑，直接衝入巨口，而蜘蛛怪物則步步逼近。在高潮部分，巨大的生物甦醒，其巨大的頭部升起，下顎大張。隨著這頭巨獸從山脈般的結構中強勢現身，太空人被拋向空中。
+強烈的動作感、戲劇性的迷霧氛圍、寫實的生物細節、動態攝影機運鏡、高度緊張感與史詩級規模。黑暗陰鬱的燈光搭配體積霧效果、節奏明快的剪輯，以及驚悚的生存恐怖氛圍。13 秒的高衝擊力片段。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed96a90c65a09bb3ff745c22c2d451c7/thumbnails/thumbnail.jpg" width="600" alt="Astronaut vs Giant Alien Spiders Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed96a90c65a09bb3ff745c22c2d451c7/thumbnails/thumbnail.jpg" width="600" alt="太空人對戰巨型外星蜘蛛影片提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5425)**
 
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **來源:** [Link](https://x.com/rahulnanda86/status/2060344965818139054) | **發布時間:** May 29, 2026
 
 ---
-### Cinematic Fire Dancer Performance in Abandoned Courtyard
+### 廢棄庭院中的電影級火舞表演
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A multi-scene video prompt generating a cinematic performance of a young fire dancer in an ancient stone courtyard, featuring dynamic camera movements and detailed fire visual effects.
+> 一個多場景影片提示詞，用於生成一位年輕火舞者在古老石庭院中的電影級表演，包含動態運鏡與細膩的火焰視覺特效。
 
 #### 📝 提示詞
 
 ```
-A dark, atmospheric outdoor setting at night in an abandoned open courtyard surrounded by ancient stone pillars. The air is still, and faint embers float in the wind. A powerful cinematic silence builds tension with low ambient sound and distant wind.
+場景設定在夜晚黑暗、充滿氛圍感的廢棄露天庭院，四周環繞著古老的石柱。空氣靜止，微弱的餘燼在風中飄浮。強烈的電影級靜謐感營造出緊張氣氛，伴隨著低沉的環境音與遠處的風聲。
 
-The camera slowly pushes in on a young fire dancer standing in the center. She wears flowing, elegant performance attire with subtle reflective details that catch the faint glow of nearby embers. Her expression is calm, focused, and almost trance-like.
+鏡頭緩慢推向站在中央的年輕火舞者。她穿著飄逸優雅的表演服裝，細節處帶有微妙的反光，捕捉著附近餘燼的微光。她的表情冷靜、專注，近乎進入了出神狀態。
 
-At second 3–5, she begins to move slowly. Each hand gesture feels deliberate and controlled. As her fingers trace through the air, **small sparks ignite around her hands**, forming glowing orange trails.
+在第 3 至 5 秒，她開始緩慢移動。每一個手勢都顯得深思熟慮且充滿控制力。隨著她的手指劃過空氣，**小火花在她手邊點燃**，形成發光的橘色軌跡。
 
-Suddenly, the music drops into a deep cinematic beat.
+突然，音樂轉為深沉的電影級節奏。
 
-She spins once — and a **ring of fire bursts outward** in perfect symmetry around her feet. The flames respond to her movement as if alive. Every motion she makes bends the fire: swirling, rising, and flowing like liquid light.
+她旋轉了一圈——**一道火環以完美的對稱感在她腳下爆發開來**。火焰彷彿有生命般回應著她的動作。她的一舉一動都牽引著火焰：如液態光芒般旋轉、升騰與流動。
 
-The camera switches between:
+鏡頭在以下視角間切換：
 
-* Slow-motion close-ups of her hands controlling fire streams
-* Low-angle shots showing flames rising behind her like a crown
-* Wide cinematic orbit shots circling her as fire forms patterns in the air
+* 她操控火流的手部特寫（慢動作）
+* 展現火焰如皇冠般在她身後升起的低角度鏡頭
+* 當火焰在空中形成圖案時，環繞著她的廣角電影級軌道鏡頭
 
-At second 10–13, she raises both hands upward — and the flames rise dramatically into the sky, forming a **giant spiraling fire vortex above her**.
+在第 10 至 13 秒，她將雙手向上抬起——火焰戲劇性地衝向天際，在她上方形成了一個**巨大的螺旋火漩渦**。
 
-Final moment: she gently lowers her hands, and the fire collapses into glowing embers that float around her like fireflies. She stands still in the center, untouched, powerful, and calm.
+最後時刻：她輕輕放下雙手，火焰崩解成發光的餘燼，像螢火蟲般圍繞著她飄浮。她靜靜地站在中央，毫髮無傷，強大而平靜。
 
-End with a cinematic freeze frame: her silhouette surrounded by drifting embers, warm orange glow against deep black night sky, ultra-dramatic fantasy realism.
+以電影級定格畫面結束：她的剪影被飄散的餘燼包圍，深邃的黑色夜空映襯著溫暖的橘色光芒，呈現極致戲劇性的奇幻寫實風格。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060342500913508353/pu/img/D1Gx-ExoyVxXnN8w.jpg" width="600" alt="Cinematic Fire Dancer Performance in Abandoned Courtyard">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f69f830a7dc6bde023d001a4c1c2e9cd/thumbnails/thumbnail.jpg" width="600" alt="廢棄庭院中的電影級火舞表演">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5451)**
 
 **作者:** [Ai Doctor](https://x.com/DoctorAmna11) | **來源:** [Link](https://x.com/DoctorAmna11/status/2060342535822979429) | **發布時間:** May 29, 2026
 
 ---
-### Cartoon Chef Boy Hotel Kitchen Sequence
+### 卡通廚師男孩在飯店廚房的系列動作
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A multi-frame video prompt telling a story of a cute cartoon chef preparing a gourmet dish in a grand hotel kitchen with warm cinematic lighting.
+> 一個多畫面的影片提示詞，講述了一位可愛的卡通廚師在豪華飯店廚房中準備精緻美食的故事，並配有溫暖的電影感光效。
 
 #### 📝 提示詞
 
 ```
-Frame 1: Cute cartoon chef boy walking slowly into grand hotel kitchen, camera slowly zooming out, golden warm light glowing, cinematic entrance, no text, 4K
+畫面 1：可愛的卡通廚師男孩緩慢走進豪華飯店廚房，鏡頭緩慢拉遠，散發金黃色溫暖光芒，電影感入場，無文字，4K
 
-Frame 2: Cartoon chef boy carefully picking fresh vegetables, hands moving slowly, ingredients glistening, warm golden light, cinematic close-up, no text, 4K
+畫面 2：卡通廚師男孩小心翼翼地挑選新鮮蔬菜，雙手緩慢移動，食材閃閃發光，溫暖金黃光線，電影感特寫，無文字，4K
 
-Frame 3: Cartoon chef boy chopping vegetables slowly, knife moving with motion blur, steam rising gently, cinematic lighting, no text, 4K
+畫面 3：卡通廚師男孩緩慢切菜，刀具移動帶有動態模糊，蒸汽輕柔升起，電影感光效，無文字，4K
 
-Frame 4: Cartoon chef boy tossing food in pan, dramatic flames rising slowly, sparks flying, fire lighting up face, cinematic slow motion, no text, 4K
+畫面 4：卡通廚師男孩在平底鍋中翻炒食物，戲劇性的火焰緩慢升起，火花飛濺，火光照亮臉龐，電影感慢動作，無文字，4K
 
-Frame 5: Golden sauce pouring slowly from ladle into pan, steam rising dramatically, warm cinematic light, extreme slow motion, no text, 4K
+畫面 5：金黃色醬汁從湯勺緩慢倒入鍋中，蒸汽戲劇性地升起，溫暖的電影感光線，極致慢動作，無文字，4K
 
-Frame 6: Cartoon chef boy tasting food from spoon, eyes closing slowly with blissful expression, soft warm light on face, cinematic portrait, no text, 4K
+畫面 6：卡通廚師男孩用湯匙品嚐食物，雙眼緩慢閉上，露出幸福的表情，臉上映著柔和溫暖的光，電影感肖像，無文字，4K
 
-Frame 7: Cartoon chef boy carefully placing garnish on plate with tweezers, dramatic spotlight on dish, slow precise movement, cinematic close-up, no text, 4K
+畫面 7：卡通廚師男孩用鑷子小心地將裝飾配菜放在盤子上，戲劇性的聚光燈打在菜餚上，精準緩慢的動作，電影感特寫，無文字，4K
 
-Frame 8: Cartoon chef boy lifting silver dome slowly, dramatic steam rising, golden light flooding out, proud smile, cinematic reveal, no text, 4K
+畫面 8：卡通廚師男孩緩慢掀開銀色圓頂蓋，戲劇性的蒸汽升起，金黃光芒湧出，自豪的微笑，電影感揭幕，無文字，4K
 
-Frame 9: Cartoon chef boy standing tall arms crossed, slow cinematic zoom out, full kitchen glowing behind him, hero moment, warm light, no text, 4K
+畫面 9：卡通廚師男孩挺胸交叉雙臂站立，緩慢的電影感鏡頭拉遠，身後整個廚房閃耀著光芒，英雄時刻，溫暖光線，無文字，4K
 
-Frame 10: Extreme close-up of beautifully plated gourmet dish, slow cinematic push forward, garnish glistening, golden light, mouth-watering food shot, no text, 4K
+畫面 10：精緻擺盤美食的極致特寫，緩慢的電影感鏡頭推進，裝飾配菜閃閃發光，金黃光線，令人垂涎的食物鏡頭，無文字，4K
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060268763824672768/img/q8pamDGZpX3h2N4-.jpg" width="600" alt="Cartoon Chef Boy Hotel Kitchen Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1419b6c1507e7447c1691d3cc69ab353/thumbnails/thumbnail.jpg" width="600" alt="卡通廚師男孩在飯店廚房的系列動作">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5461)**
 
 **作者:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **來源:** [Link](https://x.com/itsshara_ai/status/2060341637356966097) | **發布時間:** May 29, 2026
 
 ---
-### Cinematic Luxury Lifestyle Speedboat Scene
+### 電影級奢華生活風格快艇場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional Hollywood-style commercial video prompt of a young woman driving a speedboat on the ocean during golden hour, with highly realistic water physics and drone tracking.
+> 一個專業好萊塢風格的商業影片提示詞，描述一名年輕女性在黃金時刻駕駛快艇航行於海洋上，具備高度逼真的水體物理效果與無人機跟拍視角。
 
 #### 📝 提示詞
 
 ```
-A highly realistic cinematic luxury lifestyle scene filmed like a professional Hollywood commercial.
+一個高度逼真的電影級奢華生活風格場景，拍攝手法如同專業好萊塢商業廣告。
 
-Opening shot: captured with a stabilized drone camera during golden hour over a calm deep-blue ocean. A beautiful young woman in her mid-20s naturally drives a modern white speedboat at medium-fast speed. Her hair flows realistically in the wind, sunlight softly reflects on her skin, and the water movement looks physically accurate with natural splashes and detailed wake trails behind the boat.
+開場鏡頭：於黃金時刻在平靜的深藍色海面上，以穩定器無人機攝影機捕捉。一位 20 多歲的美麗年輕女性正以中高速駕駛著一艘現代白色快艇。她的頭髮在風中自然飄動，陽光柔和地反射在她的肌膚上，水流運動呈現物理精確感，並伴隨自然的飛濺與船後細緻的尾跡。
 
-Camera transitions smoothly between professional cinematic angles:
-— wide aerial drone tracking shot
-— side profile tracking shot close to the water
-— realistic handheld close-up of her adjusting the steering wheel
-— slow-motion splash shots with authentic lighting reflections
-— cinematic close-up of her relaxed confident expression wearing elegant sunglasses
+攝影機在專業電影角度間流暢切換：
+— 寬廣的無人機空中跟拍鏡頭
+— 貼近水面的側面跟拍鏡頭
+— 她調整方向盤的逼真手持特寫
+— 帶有真實光影反射的慢動作水花鏡頭
+— 她戴著優雅太陽眼鏡、神情放鬆自信的電影級特寫
 
-The boat movement feels realistic with proper wave interaction and balanced motion physics. Natural wind simulation, true-to-life ocean textures, realistic shadows, premium color grading, subtle lens flare, shallow depth of field, documentary-style realism mixed with luxury commercial aesthetics.
+船隻的移動感真實，具備適當的波浪互動與平衡的運動物理效果。自然的風力模擬、栩栩如生的海洋紋理、逼真的陰影、頂級調色、細膩的鏡頭光暈、淺景深，將紀錄片風格的寫實感與奢華商業美學完美融合。
 
-Final shot: drone slowly pulls away as the speedboat moves toward the glowing sunset horizon, creating a premium emotional ending.
+最終鏡頭：無人機緩緩拉遠，快艇向著發光的日落海平線駛去，營造出頂級的情感結尾。
 
-Style: ultra photorealistic, professionally filmed, cinematic lighting, realistic camera motion, authentic human movement, luxury travel commercial, 4K HDR, smooth transitions, no CGI look, no artificial facial distortions, natural body proportions, highly detailed water simulation...
+風格：超寫實、專業拍攝、電影級燈光、真實攝影機運動、自然的人體動作、奢華旅遊廣告、4K HDR、流暢轉場、無 CGI 感、無人工面部扭曲、自然的身材比例、高度細緻的水體模擬...
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060336731191197697/pu/img/NKMrfBdObQe4CVBn.jpg" width="600" alt="Cinematic Luxury Lifestyle Speedboat Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3d7f577cd476a9555bb75307d18f9cc/thumbnails/thumbnail.jpg" width="600" alt="電影級奢華生活風格快艇場景">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5456)**
 
 **作者:** [Ai Girllie](https://x.com/Inshrah_ali_) | **來源:** [Link](https://x.com/Inshrah_ali_/status/2060336792646361109) | **發布時間:** May 29, 2026
 
 ---
-### Festive Mushroom City Anime Chase
+### 節慶蘑菇城動漫追逐戰
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A high-energy anime escape sequence set in a vibrant festival mushroom city, featuring a thief girl dodging crowds and leaping across rooftops with cinematic lighting and dynamic angles.
+> 一場發生在充滿活力的節慶蘑菇城中的高能量動漫逃脫戲碼，描繪了一名少女竊賊穿梭於人群、躍過屋頂的過程，並運用電影級燈光與動態視角呈現。
 
 #### 📝 提示詞
 
 ```
-@Image 1 = Protagonist character. @Image 2 = Storyboard reference. Based on the attached storyboard image, create a 15-second horizontal 16:9 anime thrilling escape scene video. Theme: Thief Girl. Animate as a high-tempo, brisk scene following the panel order of the storyboard. Flow: Start with an overhead view of a festive giant mushroom city. A girl in a blue hood, blending into the heat and decorations of the crowd, steals a rare glowing mushroom from the center of the festival. Mix close-ups of hands and expressions during the theft, and show a thrilling smile as if she's enjoying herself immediately after succeeding. Afterward, escape briskly using the multi-level platforms of the festival venue, rooftops of stalls, decorated walkways, and spaces filled with ropes and cloth. Pursuers and the surrounding crowd are surprised and begin to chase her; the girl slips through people, leaps over them, slides, and escapes nimbly. End by escaping to a high platform or bridge and running through the festive lights. Style: High-quality anime film style, cinematic lighting, top-tier animation, high definition, vivid colors, a celebratory and gorgeous atmosphere, busy crowds, giant mushroom decorations, and an energetic world where confetti and fabric decorations dance. Make the girl embody both cuteness and agility, with an aura of combined fun and danger. Editing: Use rhythmic high-speed cuts, close-ups, extreme close-ups, low angles, overhead shots, quick pans, and smooth match cuts. Incorporate hand close-ups at the moment of theft, expression close-ups at the start of the run, following shots slipping through crowds, overhead shots jumping between platforms, extreme close-ups of feet upon landing, and dynamic diagonal compositions using rope or cloth for movement. Create an energetic and stylish video, making use of the height differences and congestion unique to a festival city for a thrilling escape. Important: Do not make it a slideshow of still images. Animate running and stealing naturally. Maintain the same festival mushroom city atmosphere and high-quality anime style throughout. Do not include text, subtitles, logos, or watermarks. Perform the suspenseful thrill as a brisk scene. Consistently maintain the protagonist's face, blue hood, outfit, basket, and the shape of the glowing mushroom throughout.
+@Image 1 = 主角人物。 @Image 2 = 專案參考。根據隨附的專案圖片，製作一段 15 秒、橫向 16:9 的動漫驚險逃脫場景影片。主題：少女竊賊。請依照專案的分鏡順序，製作成節奏輕快、緊湊的場景。流程：開場為節慶巨型蘑菇城的俯瞰視角。一名戴著藍色兜帽的少女混入熱鬧的節慶人群與裝飾中，從慶典中心偷走了一顆稀有的發光蘑菇。在偷竊過程中穿插手部與表情的特寫，並在得手後展現出享受其中的驚險笑容。隨後，利用慶典場地的多層平台、攤位屋頂、裝飾走道以及充滿繩索與布幔的空間迅速逃離。追捕者與周圍群眾感到驚訝並開始追趕；少女在人群中穿梭、跳躍、滑行，靈活地逃脫。結尾處逃至高台或橋樑，並奔跑穿過節慶燈飾。風格：高品質動漫電影風格、電影級燈光、頂級動畫、高畫質、鮮豔色彩、慶典般的華麗氛圍、擁擠的人群、巨型蘑菇裝飾，以及彩帶與布幔裝飾飛舞的活力世界。讓少女同時具備可愛與敏捷的特質，散發出樂趣與危險並存的氣息。剪輯：運用節奏感強的高速剪輯、特寫、極端特寫、低角度、俯拍、快速平移與流暢的轉場。加入偷竊瞬間的手部特寫、起跑時的表情特寫、穿梭人群的跟拍、平台間跳躍的俯拍、落地時腳部的極端特寫，以及利用繩索或布幔創造動態對角線構圖。打造出充滿活力與時尚感的影片，善用節慶城市獨有的高度差與擁擠感，營造驚險的逃脫過程。重要：請勿製作成靜態圖片的 Slides。請自然地呈現奔跑與偷竊的動作。全程保持一致的節慶蘑菇城氛圍與高品質動漫風格。請勿包含任何文字、字幕、標誌或浮水印。將懸疑驚險感表現為一場輕快的場景。全程保持主角的臉部特徵、藍色兜帽、服裝、籃子以及發光蘑菇的形狀一致。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060315481106714624/img/LM-ANLruIV4cJR-i.jpg" width="600" alt="Festive Mushroom City Anime Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e8f79a5ac1088a28039b28a7f15a1850/thumbnails/thumbnail.jpg" width="600" alt="節慶蘑菇城動漫追逐戰">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5469)**
 
 **作者:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **來源:** [Link](https://x.com/Ryuki_Yano/status/2060316111569096883) | **發布時間:** May 29, 2026
 
 ---
-### Arctic Titan Awakening Dark Fantasy Prompt
+### 北極泰坦覺醒暗黑奇幻提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A suspenseful dark fantasy sequence featuring a colossal ancient titan trapped beneath an iceberg in a snowstorm.
+> 一段充滿懸疑感的暗黑奇幻序列，描繪了一位被困在暴風雪中冰山下的巨大遠古泰坦。
 
 #### 📝 提示詞
 
 ```
-15-second cinematic dark fantasy sequence inside a frozen arctic wasteland during a violent snowstorm.
+15 秒的電影級暗黑奇幻序列，場景設定在猛烈暴風雪中的冰封北極荒原。
 
-A colossal ancient titan sleeps trapped beneath a massive iceberg larger than mountains, barely visible under layers of translucent ice and deep frozen cracks. Only vague shapes of its gigantic face and body can be seen beneath the frozen surface.
+一位巨大的遠古泰坦沉睡在比山脈還宏偉的冰山之下，在半透明冰層與深層冰裂縫的覆蓋下若隱若現。只能從冰封的表面下隱約看見其巨大臉龐與身軀的輪廓。
 
-The camera slowly glides across the icy landscape with heavy wind, drifting snow particles, frozen fog, and deep blue-white moonlight reflecting through the glacier.
+攝影機緩緩滑過冰雪地景，伴隨著強勁的風勢、飄散的雪花粒子、凍結的霧氣，以及透過冰川折射出的深藍白色月光。
 
-As the camera pushes closer, subtle tremors begin beneath the ice. Tiny fractures spread slowly across the frozen surface. Deep muffled resonance echoes from below like an ancient heartbeat awakening after centuries.
+隨著攝影機推進，冰層下方開始出現細微震動。細小的裂紋緩緩在冰面上蔓延。深沉而悶響的共鳴從下方傳出，宛如沉睡數世紀後覺醒的遠古心跳。
 
-The titan’s enormous eye slowly opens beneath the translucent ice. A massive glowing iris appears under the glacier, illuminating the frozen depths with cold cyan light. Snow and frost slide from the surface as the eye moves for the first time.
+泰坦巨大的眼睛在半透明冰層下緩緩睜開。冰川下方顯現出一枚巨大的發光虹膜，以冰冷的青色光芒照亮了冰封的深處。隨著眼睛首次轉動，表面的積雪與霜層隨之滑落。
 
-The surrounding iceberg creaks violently, frozen dust falling into deep cracks. The camera holds on the gigantic eye staring upward from beneath the ice while distant thunder rolls through the blizzard.
+周圍的冰山劇烈嘎吱作響，冰塵落入深邃的裂縫中。攝影機聚焦於那隻從冰層下向上凝視的巨大眼睛，遠處的暴風雪中傳來陣陣雷鳴。
 
-Style: ultra cinematic dark fantasy, colossal scale, ancient god atmosphere, frozen textures, realistic snow simulation, volumetric fog, moody blue lighting, atmospheric depth, glacier translucency, slow suspense pacing, photorealistic ice details.
+風格：超電影級暗黑奇幻、宏大尺度、遠古神祇氛圍、冰封質感、逼真雪景模擬、體積霧、憂鬱藍色調燈光、大氣景深、冰川半透明感、緩慢懸疑節奏、照片級冰層細節。
 
-Audio: ONLY cinematic sound effects, no music. Arctic wind, distant ice cracking, deep subsonic rumbles, frozen debris shifting, muffled titan breathing beneath the glacier, low resonance pulses.
+音效：僅限電影級音效，無音樂。北極風聲、遠處冰層碎裂聲、深沉的次聲波轟鳴、冰屑移動聲、冰川下悶沉的泰坦呼吸聲、低頻共鳴脈衝。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060300157678141442/pu/img/HE3Xi-Gq2bf8JL7s.jpg" width="600" alt="Arctic Titan Awakening Dark Fantasy Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4beaf2ebc029890b4f733e322f5f90aa/thumbnails/thumbnail.jpg" width="600" alt="北極泰坦覺醒暗黑奇幻提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5449)**
 
 **作者:** [LudovicCreator](https://x.com/LudovicCreator) | **來源:** [Link](https://x.com/LudovicCreator/status/2060300184177856898) | **發布時間:** May 29, 2026
 
 ---
-### Viking Werewolf Frozen Lake Hunt Prompt
+### 維京狼人冰湖狩獵提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic Viking action sequence involving a survival chase on a frozen lake with realistic ice and snow physics.
+> 一場史詩般的維京動作場景，包含在冰湖上的生存追逐，並呈現逼真的冰雪物理效果。
 
 #### 📝 提示詞
 
 ```
-Epic Viking fantasy action set on a vast frozen lake beneath a stormy northern sky. Endless snowfields, distant mountains, harsh winds, blowing snow. High-speed chase with brutal survival energy. Sound: crunching ice, roaring wind, heavy breathing, cracking frozen surfaces, monstrous growls.
+史詩般的維京奇幻動作場景，背景設定在暴風雪北極天空下廣闊的冰湖。無盡的雪原、遠處的山脈、凜冽的寒風、紛飛的雪花。節奏緊湊的追逐，充滿殘酷的生存張力。音效：碎冰聲、呼嘯風聲、沉重的呼吸聲、冰面破裂聲、怪物的咆哮聲。
 
-0–3s — HOOK
+0–3 秒 — 開場（HOOK）
 
-A Viking warrior carrying a flaming torch sprints across a frozen lake.
+一名維京戰士手持燃燒的火把在冰湖上奔跑。
 
-His boots hammer across the ice.
+他的靴子重重地踏在冰面上。
 
-Behind him—
+在他身後——
 
-A gigantic frost-covered werewolf bursts through drifting snow.
+一隻巨大的霜覆狼人從飄雪中衝出。
 
-White fur coated in ice crystals.
+白色的毛髮上覆蓋著冰晶。
 
-Blue eyes glowing.
+藍色的雙眼閃爍著光芒。
 
-Its massive paws crack the frozen surface beneath every step.
-
-⸻
-
-3–6s — ESCALATION
-
-The warrior pushes harder.
-
-The werewolf rapidly closes distance.
-
-Chunks of ice break apart behind them.
-
-The creature occasionally lunges forward, nearly catching him.
-
-Its claws leave deep fractures spreading across the lake.
+牠巨大的爪子每踏一步，都讓冰面隨之碎裂。
 
 ⸻
 
-6–9s — BUILD
+3–6 秒 — 升級（ESCALATION）
 
-Ahead, a huge pressure crack cuts across the lake.
+戰士加快了速度。
 
-The warrior spots it.
+狼人迅速縮短距離。
 
-He lowers his center of gravity and accelerates.
+他們身後的冰塊不斷崩解。
 
-The werewolf roars and commits fully to the chase.
+怪物不時向前撲擊，幾次險些抓到他。
 
-Snow and ice explode behind it.
-
-⸻
-
-9–12s — THE TRAP
-
-The warrior reaches the pressure crack and dives into a controlled slide.
-
-He skims across the narrow gap and reaches solid ice beyond.
-
-The werewolf charges after him.
-
-Bullet time.
-
-Its front paws hit the weakened section.
-
-Cracks spread outward in every direction.
+牠的利爪在冰面上留下了向外擴散的深層裂痕。
 
 ⸻
 
-12–15s — PAYOFF
+6–9 秒 — 鋪陳（BUILD）
 
-The entire frozen surface collapses beneath the werewolf.
+前方，一道巨大的壓力裂縫橫跨冰湖。
 
-Massive sheets of ice explode upward.
+戰士發現了它。
 
-The beast drops into the freezing black water below.
+他降低重心並加速衝刺。
 
-The warrior rolls onto the snowy shoreline and scrambles to safety.
+狼人咆哮著，全力投入追逐。
 
-Behind him, enormous ice slabs crash back into the lake.
+雪花與冰屑在牠身後炸開。
 
-Silence.
+⸻
 
-The warrior stands, breathing heavily, torch still burning.
+9–12 秒 — 陷阱（THE TRAP）
+
+戰士抵達壓力裂縫並順勢滑行。
+
+他滑過狹窄的縫隙，抵達另一側堅硬的冰面。
+
+狼人緊追在後。
+
+子彈時間。
+
+牠的前爪踏上了脆弱的區域。
+
+裂痕向四面八方蔓延。
+
+⸻
+
+12–15 秒 — 高潮（PAYOFF）
+
+整個冰面在狼人腳下崩塌。
+
+巨大的冰塊向上炸開。
+
+野獸墜入下方冰冷的黑水中。
+
+戰士翻滾到雪地岸邊，爬向安全地帶。
+
+在他身後，巨大的冰板撞擊著落回湖中。
+
+歸於寂靜。
+
+戰士站起身，大口喘著氣，手中的火把依然燃燒著。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060280339659161600/img/7kWzOvorj8Y51UZZ.jpg" width="600" alt="Viking Werewolf Frozen Lake Hunt Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/048717df23438477d130039b7a488ed7/thumbnails/thumbnail.jpg" width="600" alt="維京狼人冰湖狩獵提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5450)**
 
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **來源:** [Link](https://x.com/rahulnanda86/status/2060280405417406523) | **發布時間:** May 29, 2026
 
 ---
-### Medieval Werewolf Rooftop Chase
+### 中世紀狼人屋頂追逐戰
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intense, multi-stage action prompt for a werewolf pursuit across European stone rooftops featuring speed ramps and bullet time.
+> 一個節奏緊湊、多階段的動作提示詞，描繪在歐洲石造屋頂上的狼人追逐場景，包含變速特效與子彈時間。
 
 #### 📝 提示詞
 
 ```
-High-action medieval fantasy chase beneath a massive full moon. Ancient European city of stone towers, narrow streets, cathedral spires, smoking chimneys, fluttering banners. Silver moonlight reflects off wet rooftops from recent rain. Fast-paced, chaotic cinematography with aggressive tracking shots, speed ramps, handheld energy, and dramatic moonlit silhouettes. Sound: distant church bells, heavy breathing, tile cracking, werewolf roars, rushing wind.
+在巨大滿月下，一場高強度的中世紀奇幻追逐戰。場景為古老的歐洲城市，擁有石塔、狹窄街道、大教堂尖頂與冒煙的煙囪，旗幟隨風飄揚。銀色月光映照在剛下過雨的濕潤屋頂上。節奏快速、混亂的攝影風格，運用激進的追蹤鏡頭、變速特效、手持攝影的動態感，以及戲劇性的月光剪影。音效：遠處的教堂鐘聲、沉重的喘息聲、瓦片碎裂聲、狼人咆哮聲與呼嘯的風聲。
 
-0–3s — HOOK
+0–3 秒 — 開場
 
-A rogue thief in a dark leather cloak sprints across steep medieval rooftops.
+一名身穿深色皮革斗篷的流浪盜賊在陡峭的中世紀屋頂上飛奔。
 
-He leaps a gap between buildings.
+他躍過建築物之間的空隙。
 
-The instant he lands—
+就在他落地的瞬間——
 
-A gigantic werewolf crashes onto the roof behind him.
+一隻巨大的狼人撞擊在他身後的屋頂上。
 
-Eight feet tall.
+身高八英尺。
 
-Jet-black fur.
+漆黑的毛髮。
 
-Yellow eyes glowing in the moonlight.
+黃色的眼睛在月光下閃爍。
 
-The roof caves beneath its weight.
+屋頂因其重量而塌陷。
 
-Tiles explode everywhere.
-
-⸻
-
-3–6s — ESCALATION
-
-The thief races along the rooftops, vaulting chimneys and sliding over wet tiles.
-
-Behind him, the werewolf ignores every obstacle.
-
-It smashes through chimneys instead of avoiding them.
-
-Bricks and debris rain into the streets below.
-
-The creature gains ground rapidly.
+瓦片四處飛濺。
 
 ⸻
 
-6–9s — BUILD
+3–6 秒 — 升級
 
-Ahead, the thief reaches a steep roof overlooking a massive cathedral square.
+盜賊在屋頂上狂奔，翻越煙囪並滑過濕滑的瓦片。
 
-He slides uncontrollably down slick tiles.
+在他身後，狼人無視所有障礙。
 
-The werewolf launches after him.
+它直接撞碎煙囪，而非繞道而行。
 
-The gap between them shrinks to almost nothing.
+磚塊與碎片如雨般落入下方的街道。
 
-The beast’s claws scrape sparks from the stone.
-
-⸻
-
-9–12s — THE ESCAPE
-
-At the edge of the roof hangs a giant ceremonial banner suspended above the square.
-
-The thief leaps and grabs it.
-
-The banner tears loose from its mountings.
-
-He swings across the moonlit square.
-
-The werewolf follows without hesitation.
-
-Bullet time.
-
-Both suspended over open air.
+這隻野獸迅速縮短了距離。
 
 ⸻
 
-12–15s — PAYOFF
+6–9 秒 — 鋪陳
 
-The thief draws a knife and slices the banner rope.
+前方，盜賊抵達了一個俯瞰巨大教堂廣場的陡峭屋頂。
 
-He swings clear.
+他無法控制地在濕滑的瓦片上滑行。
 
-The werewolf loses its trajectory.
+狼人緊追在後。
 
-It crashes directly through the cathedral’s enormous stained-glass rose window.
+兩者之間的距離縮小到幾乎為零。
 
-Colored glass explodes outward.
+野獸的利爪在石頭上刮出火花。
 
-The beast disappears into darkness inside the cathedral.
+⸻
 
-The thief lands on the opposite rooftop and turns back.
+9–12 秒 — 逃脫
 
-A massive crash echoes from within the cathedral.
+屋頂邊緣懸掛著一面巨大的慶典旗幟，垂在廣場上方。
+
+盜賊一躍而起並抓住旗幟。
+
+旗幟從支架上脫落。
+
+他在月光照耀的廣場上盪過。
+
+狼人毫不猶豫地跟隨。
+
+子彈時間。
+
+兩者懸浮在半空中。
+
+⸻
+
+12–15 秒 — 高潮
+
+盜賊拔出小刀割斷旗幟繩索。
+
+他順勢盪開。
+
+狼人失去了軌跡。
+
+它直接撞進了大教堂巨大的彩色玻璃玫瑰窗。
+
+彩色玻璃向外炸裂。
+
+野獸消失在大教堂內的黑暗中。
+
+盜賊降落在對面的屋頂上並回頭望去。
+
+大教堂內傳來一聲巨大的撞擊迴響。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a564ede36c43d87a9745d971abf4772/thumbnails/thumbnail.jpg" width="600" alt="Medieval Werewolf Rooftop Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a564ede36c43d87a9745d971abf4772/thumbnails/thumbnail.jpg" width="600" alt="中世紀狼人屋頂追逐戰">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5433)**
 
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **來源:** [Link](https://x.com/rahulnanda86/status/2060280102924300676) | **發布時間:** May 29, 2026
 
 ---
-### Moonlit Werewolf Forest Chase Prompt
+### 月光狼人森林追逐提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fast-paced dark fantasy action sequence featuring a warrior being chased by a colossal werewolf through a dense forest.
+> 一場快節奏的黑暗奇幻動作戲，描述一名戰士在茂密的森林中被一隻巨大的狼人追逐。
 
 #### 📝 提示詞
 
 ```
-Dark fantasy action sequence. Dense moonlit forest at night. Thick fog. Silver moonlight cutting through trees. Fast handheld tracking shots. Chaotic action. Sound: heavy breathing, snapping branches, pounding hooves, werewolf growls.
+黑暗奇幻動作戲。夜晚茂密的月光森林。濃霧瀰漫。銀色月光穿透樹木。快速手持跟拍鏡頭。混亂的動作場面。音效：沉重的呼吸聲、樹枝折斷聲、沉重的奔跑聲、狼人的咆哮聲。
 
-0–3s — HOOK
+0–3 秒 — 開場（HOOK）
 
-A young warrior sprints through dense forest carrying a spear.
+一名年輕戰士手持長矛在茂密的森林中疾馳。
 
-Branches whip past his face.
+樹枝從他臉旁掠過。
 
-Behind him—
+在他身後——
 
-A colossal werewolf crashes through trees.
+一隻巨大的狼人撞開樹木衝了出來。
 
-Massive shoulders.
+寬闊的肩膀。
 
-Silver-gray fur.
+銀灰色的皮毛。
 
-Glowing amber eyes.
+琥珀色的雙眼閃爍著光芒。
 
-Every step sends dirt flying.
+每一步都揚起泥土。
 
-The creature is gaining fast.
+怪物正迅速逼近。
 
-3–6s — ESCALATION
+3–6 秒 — 升級（ESCALATION）
 
-The warrior vaults fallen logs and dodges tree trunks.
+戰士躍過倒下的原木並閃避樹幹。
 
-The werewolf tears straight through obstacles instead of avoiding them.
+狼人直接撞碎障礙物，絲毫沒有避讓。
 
-Entire trees snap and fall.
+整棵樹木折斷倒下。
 
-The forest explodes around them.
+森林在他們周圍崩裂。
 
-The warrior glances back.
+戰士回頭一瞥。
 
-The werewolf is only meters away.
+狼人僅在幾公尺之外。
 
-6–9s — BUILD
+6–9 秒 — 鋪陳（BUILD）
 
-The warrior bursts into a giant moonlit clearing.
+戰士衝進一片巨大的月光空地。
 
-Ahead—
+前方——
 
-A herd of enormous elk-like creatures stampedes across the field.
+一群巨大的麋鹿狀生物正橫越原野奔騰而過。
 
-Towering antlers.
+高聳的鹿角。
 
-Dozens of them.
+成群結隊。
 
-The ground shakes beneath their charge.
+地面在牠們的衝鋒下震動。
 
-9–12s — CHAOS
+9–12 秒 — 混亂（CHAOS）
 
-The warrior dives into the middle of the stampede.
+戰士衝進獸群之中。
 
-Bodies thunder past on both sides.
+巨大的身軀從兩側轟隆奔過。
 
-The werewolf charges directly after him.
+狼人緊追在他身後衝入。
 
-Antlers slam into the beast.
+鹿角撞擊著野獸。
 
-Hooves strike.
+蹄聲震天。
 
-Dirt and debris fill the air.
+泥土與碎屑充斥空中。
 
-The clearing becomes complete chaos.
+空地陷入一片混亂。
 
-12–15s — PAYOFF
+12–15 秒 — 高潮（PAYOFF）
 
-The warrior reaches a cliff edge hidden beyond the clearing.
+戰士抵達空地後方隱藏的懸崖邊緣。
 
-He leaps.
+他縱身一躍。
 
-The werewolf bursts through the stampede behind him and jumps too.
+狼人衝破獸群，隨後也跟著跳了出來。
 
-The warrior catches a tree growing from the cliff face.
+戰士抓住了懸崖邊生長的一棵樹。
 
-The werewolf misses.
+狼人撲了個空。
 
-It sails past him and disappears into the darkness below.
+牠從他身旁飛過，消失在下方的黑暗中。
 
-The warrior hangs from the tree, breathing hard.
+戰士懸掛在樹上，大口喘著氣。
 
-Cut.
+切斷。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060270217025191936/img/qJfzwxhrvV5A6LZO.jpg" width="600" alt="Moonlit Werewolf Forest Chase Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f871d0e35fd6fdc828133e5a26e1bcb7/thumbnails/thumbnail.jpg" width="600" alt="月光狼人森林追逐提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5446)**
 
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **來源:** [Link](https://x.com/rahulnanda86/status/2060270283794374923) | **發布時間:** May 29, 2026
 
 ---
-### Purikura Booth Comedy Scene
+### 大頭貼機喜劇片段
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A high-tempo animated comedy scene inside a photo booth where three characters fight to be at the center of the frame for each shutter flash, featuring vibrant lighting and expressive reactions.
+> 這是一個發生在大頭貼機內、節奏明快且充滿喜感的動畫片段。三名角色為了在每次快門閃光時搶佔畫面中心位置而爭鬥，場景充滿鮮豔的燈光與誇張的表情反應。
 
 #### 📝 提示詞
 
 ```
-Image 1 = Reference for 3 characters. Maintain face, hairstyle, clothing, and atmosphere consistently throughout. Image 2 = Reference for storyboard. Follow panel order, tempo, facial expression changes, competition for positions, and comedy direction. Based on attached Image 1 and Image 2, create a 15-second horizontal 16:9 purikura booth comedy scene video. Theme: A high-tempo, cute, and noisy comedy scene inside a purikura booth where three people fight for the center spot every time the shutter clicks.
+圖片 1 = 3 名角色的參考圖。請在整個過程中保持臉部、髮型、服裝和氛圍的一致性。圖片 2 = 專案參考圖。請遵循分鏡順序、節奏、表情變化、爭搶位置的過程以及喜劇方向。根據隨附的圖片 1 與圖片 2，製作一段 15 秒、橫向 16:9 的大頭貼機喜劇影片。主題：在大頭貼機內，三個人為了在每次快門按下時搶佔中心位置，展開一場節奏明快、可愛又吵鬧的喜劇爭奪戰。
 
-Scene Setting: Inside the purikura machine. The camera is a fixed lens view from the purikura machine; do not show shots from outside or include the camera body itself. The screen always shows the three people as seen on the purikura machine's capture display. The three characters should be exactly as in Image 1, maintaining the appeal of the relationship, looks, and expressions of the black-haired male on the left, the girl in the center, and the blonde male on the right. Basic concept: The three compete for the 'best position = center of the screen.' Just before the shutter clicks, someone suddenly moves forward, interrupts from the side, pushes others away, or sticks their face in to steal the center. Include comical and exaggerated reactions, cute poses, anxiety on the verge of making funny faces, jealousy, surprise, playing coy, and forceful interruptions, depicting it as a battle of the desire to 'look good' in a purikura way. Finally, all three should fit in the frame and end with a cute, friendly pose.
+場景設定：大頭貼機內部。鏡頭為大頭貼機的固定視角；請勿展示外部鏡頭，也不要將相機機身拍入畫面。螢幕始終顯示大頭貼機捕捉畫面中所見的三人。三名角色應與圖片 1 完全一致，維持左側黑髮男性、中間女孩以及右側金髮男性的關係、外貌與表情魅力。基本概念：三人爭奪「最佳位置 = 螢幕中心」。就在快門按下前，有人突然向前移動、從側面介入、推開他人，或是將臉湊過來搶佔中心。包含滑稽且誇張的反應、可愛的姿勢、即將扮鬼臉時的焦慮、嫉妒、驚訝、裝模作樣以及強行介入，描繪出一場大頭貼風格的「想拍得好看」之戰。最後，三人都要進入畫面，並以可愛友好的姿勢結束。
 
-Flow (15-second composition): 0.0s-2.0s: The three enter their first pose. The center girl poses cutely, while the two on the sides lean in saying they want to be in it too. It's peaceful but the center battle is already brewing. Expressions: the black-haired male looks like he's coolly aiming for it, the blonde male is exaggerated and high-tension, and the girl is a bit puzzled but posing cutely. 2.0s-4.0s: Just before the first shutter, the blonde male on the right vigorously sticks his face into the center. His face comes close to the front, almost pushing the others out. The girl is surprised, and the black-haired male glares at him unhappily. Emphasize the humor of someone suddenly coming forward. 4.0s-6.0s: Before the next shutter, the black-haired male on the left quickly moves forward and steals the center with a cool pose. The blonde male gives an overreaction ('What?!'), and the girl looks troubled between them. Create laughs through facial close-ups, clashing gazes, and subtle pushing. 6.0s-8.0s: The girl pushes the two back as if to say 'Wait a minute!' and reclaims the center for herself. She performs typical purikura poses like a cute wink or cupping her cheeks. The two on the sides are pushed to the background or edges and look frustrated. 8.0s-10.0s: Matching the shutter sound timing, all three scramble for the center at once. Faces get too close, shoulders bump, one pushes their face in, another enters from the side, making it a chaotic and dense comedy. This is the fastest tempo. Expressions are a mix of panic, stubbornness, surprise, laughter, and desperation. 10.0s-12.5s: They momentarily lose balance but adjust to try and fit within the frame. The pushing changes to an atmosphere of coming together on 'ready, set, go.' The girl moves to the center, the black-haired male to the left, and the blonde male to the right, converging into positions where all three faces are clearly visible. 12.5s-15.0s: The last shutter. All three strike their best poses simultaneously. The girl is cute, the black-haired male smiles coolly, and the blonde male smiles energetically and brightly. End with a final cut of a great purikura photo showing their friendship. Ensure the atmosphere changes from cute chaos to a friendly ending toward the finish.
+流程（15 秒構圖）：0.0 秒至 2.0 秒：三人擺出第一個姿勢。中間的女孩擺出可愛姿勢，兩側的男性湊過來表示也想入鏡。氣氛和平，但中心爭奪戰已悄然醞釀。表情：黑髮男性看起來冷靜地瞄準中心，金髮男性表情誇張且情緒高昂，女孩則有些困惑但仍擺出可愛姿勢。2.0 秒至 4.0 秒：在第一次快門前，右側的金髮男性用力將臉湊到中心。他的臉靠近鏡頭前方，幾乎將其他人擠出畫面。女孩感到驚訝，黑髮男性則不悅地瞪著他。強調有人突然衝到前面的幽默感。4.0 秒至 6.0 秒：在下一次快門前，左側的黑髮男性迅速向前，以帥氣姿勢搶佔中心。金髮男性做出誇張反應（「什麼？！」），女孩在兩人之間顯得困擾。透過臉部特寫、目光交鋒和細微的推擠來製造笑點。6.0 秒至 8.0 秒：女孩將兩人推開，彷彿在說「等一下！」，並奪回中心位置。她擺出典型的大頭貼姿勢，例如可愛的眨眼或捧臉。兩側的男性被推到背景或邊緣，顯得沮喪。8.0 秒至 10.0 秒：配合快門聲，三人同時爭搶中心。臉部靠得太近、肩膀碰撞，有人把臉擠進來，有人從側面切入，形成混亂且擁擠的喜劇場面。這是節奏最快的片段。表情混合了慌亂、固執、驚訝、大笑與絕望。10.0 秒至 12.5 秒：他們短暫失去平衡，但隨即調整以試圖擠進畫面。推擠轉變為「預備，開始」後的團結氛圍。女孩移至中心，黑髮男性移至左側，金髮男性移至右側，匯聚成三人臉部清晰可見的位置。12.5 秒至 15.0 秒：最後一次快門。三人同時擺出最佳姿勢。女孩很可愛，黑髮男性帥氣微笑，金髮男性充滿活力地燦爛微笑。最後以一張展現友誼的完美大頭貼照片作為結尾。確保氣氛從可愛的混亂轉向友好的結局。
 
-Style: Ultra-high quality, ultra-high definition, photorealistic live-action style video. However, the atmosphere should be the pop and cute world of purikura. Overall, use bright and soft high-key lighting, smooth skin texture, slightly pink, lavender, and light blue cute tones, sparkling effects, and a pop, lovely vibe with a youthful energy. A high-tempo visual that feels like the cute purikura culture from the Heisei to Reiwa eras. Direction: The camera is primarily a fixed lens view from the purikura machine. However, to make the final video look pleasing, slight digital punch-ins, subtle shakes, forward/backward movement for momentum, and facial zooming are allowed. Wide shots from the outside are prohibited. Compositions showing the camera body are prohibited. The humor should be created through the subjects' movements, faces entering/exiting, pushing, interruptions, and facial acting. Clearly show the flow of 'almost striking a pose' then collapsing because someone interrupts at each shutter timing. Editing: Emphasize rhythmic high-speed development, close-up cuts, extreme close-ups, momentum-filled forward/backward motion, and facial expression switching. Even if the actual camera position is fixed, create significant changes in the video by having subjects approach/distance themselves from the lens or interrupt from the sides. Be mindful of well-timed shutters, cute pauses, comical crowding, and a perfectly landing finale. Do not make it a slideshow of still images. Move the three naturally and richly as animation while maintaining their faces, hair, clothes, accessories, age, and atmosphere. Emotional Tone: Cute, comedy, chaotic, slightly romantic air, light jealousy, everyone desperate to look their best/coolest, and finally friendly. Important: Do not show the camera body in the frame. Unify shots from the lens perspective of the purikura machine. Maintain consistency in the faces, hairstyles, clothing, and character traits of the three from Image 1 throughout. Follow the tempo, competition for positions, and comedic nature of the storyboard in Image 2. No slideshows. No text, subtitles, logos, or watermarks. Act out the suspenseful excitement as a quick-moving scene. Ensure the three look good and come together cutely at the end.
+風格：超高品質、超高解析度、照片級真實感的真人風格影片。然而，氛圍應是大頭貼機那種流行且可愛的世界。整體使用明亮柔和的高調燈光、平滑的皮膚質感、帶點粉色、薰衣草色與淺藍色的可愛色調、閃光特效，以及充滿青春活力的流行可愛氛圍。這是一種節奏明快的視覺效果，讓人感受到從平成到令和時代的可愛大頭貼文化。導演手法：鏡頭主要是大頭貼機的固定視角。然而，為了讓最終影片看起來更美觀，允許進行輕微的數位推入（punch-in）、細微晃動、前後移動以增加動態感，以及臉部變焦。禁止從外部拍攝的廣角鏡頭。禁止出現相機機身的構圖。幽默感應透過角色的動作、臉部進出、推擠、介入以及臉部演技來呈現。清楚展現「差點擺好姿勢」卻因為有人在快門瞬間介入而崩潰的過程。剪輯：強調節奏感強的高速發展、特寫鏡頭、極端特寫、充滿動態的前後移動以及表情切換。即使實際鏡頭位置固定，也要透過角色靠近/遠離鏡頭或從側面介入，在影片中創造顯著變化。注意快門時機、可愛的停頓、滑稽的擁擠以及完美的結局。不要做成靜態圖片的幻燈片。在保持臉部、髮型、服裝、配件、年齡與氛圍一致的前提下，讓三人像動畫一樣自然且豐富地活動。情感基調：可愛、喜劇、混亂、帶點浪漫氣息、輕微的嫉妒、每個人都渴望展現最好/最帥的一面，最後則是友好。重要：畫面中請勿出現相機機身。統一使用大頭貼機的鏡頭視角。在整個過程中，保持三人從圖片 1 開始的臉部、髮型、服裝與角色特徵的一致性。遵循圖片 2 分鏡中的節奏、位置爭奪與喜劇本質。禁止使用幻燈片。禁止加入文字、字幕、標誌或浮水印。將懸疑的興奮感演繹為一個節奏快速的場景。確保三人看起來狀態良好，並在最後可愛地聚在一起。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060263346813927424/img/WZnHa8kzSRrLn5qD.jpg" width="600" alt="Purikura Booth Comedy Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f16d9e78c19bad24f0489de9d3d1116d/thumbnails/thumbnail.jpg" width="600" alt="大頭貼機喜劇片段">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5465)**
 
 **作者:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **來源:** [Link](https://x.com/Ryuki_Yano/status/2060263464069947742) | **發布時間:** May 29, 2026
 
 ---
-### Fantasy Dragon Bridge Escape Sequence
+### 奇幻巨龍橋樑逃脫場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic fantasy action scene featuring a huntress fleeing an armored werewolf across a collapsing bridge, ending with a dramatic leap onto a dragon's back.
+> 一場史詩級的奇幻動作場景，講述一名女獵手在崩塌的橋樑上逃離裝甲狼人的追擊，最終戲劇性地跳上龍背。
 
 #### 📝 提示詞
 
 ```
-High fantasy action sequence. Massive stone bridge spanning a bottomless canyon under stormy skies. Wind howling. Lightning in the distance. Medieval fantasy world. Fast-paced, chaotic cinematography with aggressive camera movement and speed ramps. Sound: crashing stone, werewolf growls, chain rattles, dragon roars.
+高奇幻動作序列。巨大的石橋橫跨在暴風雨籠罩的無底峽谷之上。狂風呼嘯。遠處閃電交加。中世紀奇幻世界。節奏明快、混亂的攝影風格，運用激進的鏡頭運動與變速效果。音效：碎石聲、狼人咆哮聲、鐵鍊碰撞聲、龍吼聲。
 
-0–3s — HOOK
+0–3 秒 — 開場（HOOK）
 
-A female huntress with braided hair, leather armor, and a bow sprints across an ancient stone bridge.
+一名留著辮子、身穿皮甲並背著弓箭的女獵手，正飛奔過一座古老的石橋。
 
-Behind her—
+在她身後——
 
-A gigantic armored werewolf bursts through the bridge entrance.
+一隻巨大的裝甲狼人衝破了橋樑入口。
 
-Seven feet tall.
+身高七英尺。
 
-Black fur.
+黑色皮毛。
 
-Steel armor plates fused into its shoulders and forearms.
+鋼製裝甲板與其肩部和前臂融為一體。
 
-It charges at terrifying speed.
+它以驚人的速度衝鋒。
 
-Stone cracks beneath every step.
+每踏出一步，石塊便隨之碎裂。
 
-3–6s — ESCALATION
+3–6 秒 — 升級（ESCALATION）
 
-The huntress races forward.
+女獵手向前狂奔。
 
-The werewolf smashes through support pillars while gaining ground.
+狼人撞碎支撐柱，步步逼近。
 
-Chunks of stone fall into the canyon.
+大塊石塊墜入峽谷。
 
-The bridge begins collapsing section by section behind them.
+橋樑在他們身後開始逐段崩塌。
 
-The gap between them shrinks rapidly.
+兩者之間的距離迅速縮短。
 
-6–9s — BUILD
+6–9 秒 — 鋪陳（BUILD）
 
-Ahead, the huntress spots a massive hanging chain descending into the canyon.
+前方，女獵手發現一條巨大的懸吊鐵鍊垂入峽谷。
 
-The bridge is breaking apart.
+橋樑正在解體。
 
-She sprints harder.
+她加速衝刺。
 
-The werewolf lunges and nearly grabs her cloak.
+狼人猛撲過來，差點抓到她的斗篷。
 
-A support tower collapses.
+一座支撐塔倒塌。
 
-The entire bridge starts giving way.
+整座橋開始徹底崩潰。
 
-9–12s — THE JUMP
+9–12 秒 — 跳躍（THE JUMP）
 
-The huntress leaps.
+女獵手奮力一躍。
 
-She catches the hanging chain and swings out over the canyon.
+她抓住了懸吊的鐵鍊，盪向峽谷上方。
 
-The werewolf launches after her.
+狼人緊追在後。
 
-Bullet time.
+子彈時間。
 
-Chain swinging.
+鐵鍊擺盪。
 
-Stone exploding.
+碎石飛濺。
 
-The werewolf suspended mid-air.
+狼人懸在半空中。
 
-Its claws miss by inches.
+它的利爪僅差幾英寸便能抓到她。
 
-12–15s — PAYOFF
+12–15 秒 — 高潮（PAYOFF）
 
-A giant dragon erupts upward from beneath the canyon.
+一條巨龍從峽谷下方衝天而起。
 
-The huntress releases the chain and lands on the dragon’s back.
+女獵手鬆開鐵鍊，落在龍背上。
 
-The dragon banks hard.
+巨龍猛然轉向。
 
-The werewolf falls past them roaring.
+狼人咆哮著從他們身邊墜落。
 
-Disappearing into the fog below.
+消失在下方的濃霧中。
 
-The huntress raises her fist.
+女獵手舉起拳頭。
 
-Dragon roars.
+巨龍咆哮。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060262038669238272/img/6El5e4cibXSL-e6T.jpg" width="600" alt="Fantasy Dragon Bridge Escape Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/76759544d117aeb737d1fbcb24eae490/thumbnails/thumbnail.jpg" width="600" alt="奇幻巨龍橋樑逃脫場景">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5453)**
 
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **來源:** [Link](https://x.com/rahulnanda86/status/2060262106839363697) | **發布時間:** May 29, 2026
 
 ---
-### Blue Sports Shoe Product Commercial Shots
+### 藍色運動鞋產品商業拍攝
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A series of cinematic product shots for a sports shoe, including extreme slow-motion water splashes and dynamic movement.
+> 一系列運動鞋的電影級產品鏡頭，包含極致慢動作的水花飛濺與動態效果。
 
 #### 📝 提示詞
 
 ```
-Frame 1:
-Slow dramatic zoom into white blue sports shoe laces, single light ray moving subtly, dust particles floating, cinematic 4K, no people
-Frame 2:
-White blue sports shoe hitting wet ground, water droplets exploding outward in extreme slow motion, blue neon light rippling, cinematic, no people
-Frame 3:
-White blue sports shoes moving forward in slow motion on dark road, motion blur, fog drifting slowly, cinematic 4K, no people
-Frame 4:
-White blue sports shoes running left to right, rain falling slowly, wet road reflection shimmering, cinematic, no people
-Frame 5:
-White blue shoe rotating slowly mid-air, smoke wisps drifting upward, black background, cinematic product shot, no people
-Frame 6:
-White blue sports shoe rising upward slowly, clouds moving, golden light expanding, cinematic, no people
-Frame 7:
-Slow cinematic push forward toward white blue shoe, city lights twinkling in background, sun rays expanding, no people
+第 1 幀：
+緩慢的戲劇性變焦，聚焦於白藍色運動鞋鞋帶，單束光線細微移動，塵埃粒子漂浮，電影級 4K 畫質，無人物
+第 2 幀：
+白藍色運動鞋撞擊濕潤地面，水滴以極致慢動作向外炸開，藍色霓虹燈光漣漪，電影級質感，無人物
+第 3 幀：
+白藍色運動鞋在黑暗道路上緩慢前進，動態模糊，霧氣緩緩飄散，電影級 4K 畫質，無人物
+第 4 幀：
+白藍色運動鞋由左向右奔跑，雨滴緩慢落下，濕潤路面反射閃爍，電影級質感，無人物
+第 5 幀：
+白藍色運動鞋在半空中緩慢旋轉，煙霧繚繞向上飄散，黑色背景，電影級產品鏡頭，無人物
+第 6 幀：
+白藍色運動鞋緩緩上升，雲層移動，金色光芒擴散，電影級質感，無人物
+第 7 幀：
+緩慢的電影級推鏡，朝向白藍色運動鞋，背景城市燈光閃爍，太陽光芒擴散，無人物
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060259713737220096/img/TZ2Nu2-dRXMsED6_.jpg" width="600" alt="Blue Sports Shoe Product Commercial Shots">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bdcd2545bc1511a5467dc3d139a5575a/thumbnails/thumbnail.jpg" width="600" alt="藍色運動鞋產品商業拍攝">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5447)**
 
 **作者:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **來源:** [Link](https://x.com/itsshara_ai/status/2060260037617152132) | **發布時間:** May 29, 2026
 
 ---
-### Midnight Arrival Luxury Hotel Prompt
+### 深夜抵達豪華飯店提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic dark crime drama prompt featuring a luxury hotel arrival on a rainy night, with specific camera moves and atmospheric lighting.
+> 這是一個電影級黑暗犯罪劇情提示詞，描繪雨夜中抵達豪華飯店的場景，包含具體的運鏡方式與氛圍照明。
 
 #### 📝 提示詞
 
 ```
-Grand luxury hotel entrance at night, wet cobblestone street, light rain, glowing city reflections in puddles.
-Style: Dark crime drama film tone, deep shadows, warm amber hotel facade lights against cold blue rain, film grain texture, slow controlled pacing.
-Lighting: Amber hotel awning light, cold blue rain scatter, wet reflective ground surface.
-Audio: Soft rain, distant city hum, low orchestral string swell, sharp footsteps on wet stone.
+深夜豪華飯店入口，潮濕的鵝卵石街道，細雨紛飛，水窪中映照著城市燈光。
+風格：黑暗犯罪電影色調，深邃陰影，溫暖的琥珀色飯店外牆燈光與冷藍色雨景形成對比，具備底片顆粒質感，節奏緩慢且受控。
+燈光：琥珀色飯店遮雨棚燈光，冷藍色雨滴散射，潮濕的反光地面。
+音效：輕柔雨聲，遠處城市喧囂，低沉的管弦樂弦音，濕石路上的清脆腳步聲。
 
-[0–4s]
-Camera: Slow aerial pull-down, wide establishing shot.
-Action: A black luxury sedan glides to a stop in front of the hotel entrance. Rain falls steadily. Steam rises from the wet street.
-Lighting: Cool blue rain light, warm amber spill from hotel facade.
+[0–4 秒]
+鏡頭：緩慢的空中俯衝，廣角建立鏡頭。
+動作：一輛黑色豪華轎車滑行至飯店入口前停下。雨勢穩定。濕漉漉的街道上升起水氣。
+燈光：冷藍色雨景光，飯店外牆投射出的溫暖琥珀色光芒。
 
-[4–8s]
-Camera: Low-angle static shot, then slow push-in.
-Action: The rear car door swings open. A man in an elegant black suit, sunglasses and leather gloves steps out. Two bodyguards appear behind him holding umbrellas.
-Lighting: Harsh amber key light from the hotel, deep shadows framing the figure.
+[4–8 秒]
+鏡頭：低角度靜態鏡頭，隨後緩慢推進。
+動作：後車門開啟。一名身穿優雅黑色西裝、戴著墨鏡與皮手套的男子步出車外。兩名保鑣隨後出現並撐起雨傘。
+燈光：來自飯店的強烈琥珀色主光，深邃陰影勾勒出人物輪廓。
 
-[8–12s]
-Camera: Smooth lateral tracking shot following his stride.
-Action: The suited man walks steadily toward the hotel entrance. Bystanders and hotel staff step aside. Cigarette smoke drifts from his hand.
-Lighting: Rim light from hotel windows, soft fill from overhead awning lamps.
+[8–12 秒]
+鏡頭：平滑的橫向跟拍鏡頭，跟隨他的步伐。
+動作：西裝男子穩步走向飯店入口。路人與飯店員工紛紛讓路。他手中的香菸煙霧繚繞。
+燈光：來自飯店窗戶的輪廓光，上方遮雨棚燈提供的柔和補光。
 
-[12–15s]
-Camera: Slow orbit around him, low angle rising.
-Action: He pauses at the entrance, adjusts his lapel, and glances back over his shoulder with a faint smirk. Text fades in: "Power doesn't ask for attention."
-Lighting: Warm single-source hotel lobby glow, city lights blurred behind him.
+[12–15 秒]
+鏡頭：繞著他緩慢環繞，低角度上升。
+動作：他在入口處停下，整理衣領，回頭露出一抹淺笑。文字淡入：「權力無需索求關注。」
+燈光：來自飯店大廳的溫暖單一光源，背景是模糊的城市燈光。
 
-Avoid: Identity drift, jitter, chaotic composition, temporal flicker, inconsistent features between shots.
+避免：身分特徵偏移、抖動、構圖混亂、時間閃爍、鏡頭間特徵不一致。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060243098043621381/pu/img/YpKNddu6vxhObMsp.jpg" width="600" alt="Midnight Arrival Luxury Hotel Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06b9ec4ba4f89c8b8742cc0a1b539377/thumbnails/thumbnail.jpg" width="600" alt="深夜抵達豪華飯店提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5445)**
 
 **作者:** [Zeeshi](https://x.com/AIwithZeeshi) | **來源:** [Link](https://x.com/AIwithZeeshi/status/2060243222199173467) | **發布時間:** May 29, 2026
 
 ---
-### Rocket Launch Explosion Video Prompt
+### 火箭發射爆炸影片提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A photorealistic video prompt for Seedance 2.0 simulating a catastrophic rocket explosion during a night static fire test.
+> 一個用於 Seedance 2.0 的照片級真實感影片提示詞，模擬火箭在夜間靜態點火測試中發生災難性爆炸的場景。
 
 #### 📝 提示詞
 
 ```
-Live telecast of a rocket launch with no commentary. Photorealistic recreation of a space rocket catastrophic explosion during a static fire test on the launch pad at nighttime.
-The massive orbital rocket stands vertically on the launch pad under dark night skies. Suddenly, a violent failure triggers an enormous explosion. A gigantic orange-red fireball erupts instantly from the base, rapidly expanding into a towering mushroom cloud of fire, thick black smoke, and flying debris. A powerful shockwave blasts outward, shaking the entire scene. The rocket structure violently disintegrates as intense flames completely consume it.
-Dynamic camera work captures the raw power with realistic fire physics, glowing embers, billowing smoke, and dramatic nighttime lighting. Epic scale, terrifying yet beautiful destruction, high-detail particles, 4K quality. 24-second intense explosion sequence.
+無旁白的火箭發射現場直播。照片級真實感重現太空火箭在夜間發射台進行靜態點火測試時發生災難性爆炸的場景。
+巨大的軌道火箭在漆黑的夜空下垂直矗立於發射台上。突然，一場劇烈的故障引發了巨大的爆炸。一團巨大的橘紅色火球瞬間從底部噴發，迅速擴散成高聳的蘑菇雲，伴隨著濃厚的黑煙與飛濺的碎片。強大的衝擊波向外擴散，震動了整個畫面。火箭結構劇烈解體，被猛烈的火焰完全吞噬。
+動態攝影捕捉了原始的力量，呈現出逼真的火焰物理效果、發光的餘燼、翻騰的煙霧以及戲劇性的夜間照明。史詩般的規模、既恐怖又壯觀的毀滅景象、高細節粒子效果，4K 畫質。24 秒的激烈爆炸序列。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/825d0ab09633b4d2f0851b771e099115/thumbnails/thumbnail.jpg" width="600" alt="Rocket Launch Explosion Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/825d0ab09633b4d2f0851b771e099115/thumbnails/thumbnail.jpg" width="600" alt="火箭發射爆炸影片提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5428)**
 
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **來源:** [Link](https://x.com/rahulnanda86/status/2060240094238593035) | **發布時間:** May 29, 2026
 
 ---
-### Cinematic Viral Waterslide Dream Sequence
+### 電影級病毒式滑水道夢境序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed POV prompt for a high-speed, surreal waterslide adventure that transitions from the sky into a realistic bedroom landing, designed for viral social media content.
+> 這是一份詳細的 POV 提示詞，用於創作一場從天際墜入真實臥室的高速超現實滑水道冒險，專為病毒式社群媒體內容設計。
 
 #### 📝 提示詞
 
 ```
-Cinematic viral AI dream sequence, photorealistic, intense fast-paced POV shot of a surreal extreme waterslide adventure.
-The video begins in first-person POV as the rider bursts out of the clouds at high speed on a giant, colorful, twisting waterslide built impossibly through the sky. Water splashes aggressively onto the lens with realistic spray and motion blur. The rider races down the massive slide with wild loops, sharp drops, spiraling turns, and near-vertical sections, zooming between towering skyscrapers and surreal city structures glowing with neon colors.
-As the descent continues, the ground and dense city buildings become clearly visible far below. At the end of the slide, the rider launches off halfway to the ground, suddenly flying through the air. Heavy breathing and panicked scared sounds fill the audio as the POV falls rapidly toward the ground. A house appears directly below, getting closer and closer. The rider crashes through the roof of the house and lands hard on a bed inside the bedroom. The final shot shows the person’s hands on the bed, breathing heavily in shock and relief as the video ends.
-Dynamic camera with extreme speed, intense motion blur, water spray, dizzying perspectives, and chaotic energy. Bright daytime lighting with vibrant colors, realistic water physics, and dream-like impossible architecture. Adrenaline-pumping, thrilling, surreal, and slightly terrifying vibe perfect for TikTok. Slinger continue shot
+電影級病毒式 AI 夢境序列，照片級真實感，呈現超現實極限滑水道冒險的快節奏 POV 鏡頭。
+影片以第一人稱 POV 開場，騎乘者以高速衝出雲層，置身於一座不可思議地穿梭在天際的巨大彩色蜿蜒滑水道上。水花猛烈地噴濺在鏡頭上，伴隨著逼真的水霧與動態模糊。騎乘者在巨大的滑水道上疾馳，經歷瘋狂的迴圈、急降、螺旋轉彎以及近乎垂直的區段，在閃爍著霓虹色彩的高聳摩天大樓與超現實城市建築間穿梭。
+隨著下降持續，地面與密集的城市建築在下方清晰可見。滑水道末端，騎乘者在半空中飛出，突然在空中飛行。沉重的呼吸聲與驚恐的叫聲充斥著音效，POV 快速向地面墜落。下方直接出現一棟房屋，且越來越近。騎乘者衝破屋頂，重重地落在臥室的床上。最後的鏡頭展示了此人的手放在床上，在震驚與解脫中大口喘氣，影片隨之結束。
+動態攝影機捕捉極致速度，強烈的動態模糊、水花噴濺、令人暈眩的視角與混亂的能量。明亮的日間光影搭配鮮豔色彩，真實的水體物理效果，以及夢境般的不可能建築。充滿腎上腺素、驚險、超現實且帶點恐怖的氛圍，非常適合 TikTok。Slinger 連續鏡頭
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/292c1e89047968555cd5f91766874fe3/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Viral Waterslide Dream Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/292c1e89047968555cd5f91766874fe3/thumbnails/thumbnail.jpg" width="600" alt="電影級病毒式滑水道夢境序列">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5430)**
 
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **來源:** [Link](https://x.com/rahulnanda86/status/2060235123015233858) | **發布時間:** May 29, 2026
 
 ---
-### Fast-Paced Japanese Commercial Prompt
+### 快節奏日式廣告提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A rapid-fire, high-energy Japanese advertisement prompt for Seedance, featuring 5 different lifestyle scenes with neon accents and bold typography.
+> 這是一份為 Seedance 設計的快節奏、高能量日式廣告提示詞，包含 5 個不同的生活場景，並結合霓虹燈光與大膽的排版設計。
 
 #### 📝 提示詞
 
 ```
-Hyper-fast 15-second Japanese commercial. Rapid fire cuts every 2-3 seconds. High energy, loud, exciting.Cut 1 — (0 :00–0:03):Girl EXPLODES onto screen grabbing a cracker, laughing wildly. Crackers fly everywhere. She shouts: "I can't stop!" Bold yellow text SLAMS on screen.Cut 2 — (0: 03–0:06):SMASH CUT — red lipstick swipe in extreme close-up. She smirks into camera. Text flashes: "Captivating!" Neon lights strobe.Cut 3 — (0: 06–0:09):She SPINS in leather jacket, hair whipping, street lights blur behind her. Text hits: "I make my own way!"Cut 4 — (0: 09–0:11):Ice and coffee EXPLODE in slow-mo for one second. She winks. "Cheers!"Cut 5 — (0: 11–0:13):She JUMPS into frame, fist punch toward camera. "Jump!"Final (0 :13–0:15):Split screen of ALL 5 scenes at once. She says fast and bold: "To the me I like!" Logo SLAMS in. FUTURE YOU.
+超高速 15 秒日式廣告。每 2-3 秒進行一次快速剪輯。高能量、音量大、令人興奮。鏡頭 1 — (0:00–0:03)：女孩衝入畫面，抓起餅乾，瘋狂大笑。餅乾碎片四處飛濺。她大喊：「我停不下來！」大膽的黃色文字猛然出現在螢幕上。鏡頭 2 — (0:03–0:06)：快速切換 — 極致特寫塗抹紅色口紅。她對著鏡頭冷笑。文字閃爍：「迷人！」霓虹燈閃爍。鏡頭 3 — (0:06–0:09)：她穿著皮夾克旋轉，頭髮飛揚，身後的街燈模糊成一片。文字出現：「我走自己的路！」鏡頭 4 — (0:09–0:11)：冰塊與咖啡在慢動作中炸開，持續一秒。她眨眼。「乾杯！」鏡頭 5 — (0:11–0:13)：她跳入畫面，對著鏡頭揮拳。「跳躍！」結尾 (0:13–0:15)：5 個場景同時出現的分屏畫面。她快速且大膽地說：「獻給喜歡的自己！」Logo 猛然撞入畫面。FUTURE YOU。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e17963709737439cd90c4f2efc69ac6d/thumbnails/thumbnail.jpg" width="600" alt="Fast-Paced Japanese Commercial Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e17963709737439cd90c4f2efc69ac6d/thumbnails/thumbnail.jpg" width="600" alt="快節奏日式廣告提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5427)**
 
 **作者:** [Synthia](https://x.com/AIwithSynthia) | **來源:** [Link](https://x.com/AIwithSynthia/status/2060220763731574935) | **發布時間:** May 29, 2026
 
 ---
-### Barista Cinematic Commercial Video Prompt
+### 咖啡師電影級廣告影片提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional advertising prompt for Seedance 2.0 creating a realistic commercial of a barista at a modern coffee stall.
+> 為 Seedance 2.0 設計的專業廣告提示詞，用於製作咖啡師在現代咖啡攤工作的寫實商業影片。
 
 #### 📝 提示詞
 
 ```
-Create a 15-second ultra-realistic cinematic commercial using the uploaded reference image as the exact character reference. Maintain the same face, hairstyle, skin tone, outfit, and body proportions in every shot with no character drift.
+使用上傳的參考圖片作為精確的角色參考，製作一支 15 秒的超寫實電影級商業廣告。確保每個鏡頭中的臉部、髮型、膚色、服裝和身體比例保持一致，不得出現角色特徵偏移。
 
-A confident young male coffee seller works at a stylish outdoor coffee stall branded “YAPPER COFFEE” in a busy modern city street. He wears a black shirt, dark brown barista apron, black pants, and sneakers.
+一位自信的年輕男性咖啡師在繁忙的現代城市街道上，於名為「YAPPER COFFEE」的時尚戶外咖啡攤工作。他身穿黑色襯衫、深棕色咖啡師圍裙、黑色長褲及運動鞋。
 
-0–3s: He walks toward a customer smiling while holding a takeaway cup.
-3–6s: He pours hot tea from a metal kettle in slow motion and hands over the cup.
-6–9s: The customer takes a sip and smiles with satisfaction.
-9–15s: The seller walks toward another customer while the camera smoothly follows him.
+0–3 秒：他微笑著走向顧客，手中拿著外帶杯。
+3–6 秒：他以慢動作從金屬水壺中倒出熱茶，並將杯子遞給顧客。
+6–9 秒：顧客喝了一口，露出滿意的微笑。
+9–15 秒：咖啡師走向另一位顧客，攝影機平穩地跟隨他移動。
 
-Warm daylight, cinematic background blur, smooth tracking shots, shallow depth of field, realistic motion blur, natural expressions, premium advertising quality, ultra-realistic lighting, polished storytelling, no subtitles, no character changes, full natural realistic video.
+溫暖日光、電影級背景虛化、平滑的追蹤鏡頭、淺景深、寫實動態模糊、自然表情、頂級廣告品質、超寫實光影、精緻的敘事感、無字幕、無角色變動、全自然寫實影片。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/812d81b7d5eb5e9e7e839272ad88d02e/thumbnails/thumbnail.jpg" width="600" alt="Barista Cinematic Commercial Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/812d81b7d5eb5e9e7e839272ad88d02e/thumbnails/thumbnail.jpg" width="600" alt="咖啡師電影級廣告影片提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5442)**
 
 **作者:** [Noor](https://x.com/noorlewisx) | **來源:** [Link](https://x.com/noorlewisx/status/2060218418029379829) | **發布時間:** May 29, 2026
 
 ---
-### Telekinetic School Girl Action Scene
+### 念力少女動作場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic action prompt featuring a Korean high school girl using powerful telekinetic abilities to freeze time and repel attackers in a school corridor.
+> 這是一個極具電影感的動作提示詞，描述一名韓國女高中生在學校走廊運用強大的念力凍結時間並擊退攻擊者。
 
 #### 📝 提示詞
 
 ```
-In a telekinetic action scene, a South Korean high school girl in a white short-sleeved shirt and gray pleated skirt stands calmly in the middle of a corridor. She is being attacked from both sides; some attackers, wearing brown school uniform jackets, wield short sticks, while others are dressed as black ninjas, creating a tense standoff in the corridor. As the enemies rush towards her, the girl unleashes a powerful telekinetic attack. Suddenly, everything around her enters a state of weightlessness and time freezes. Dozens of items—open textbooks, notebooks, a red soda can, and a wooden school chair—leave the ground, perfectly suspending themselves in mid-air. The attackers, in their lunging movements, are frozen in mid-air by an invisible force. Paper pages, scraps of paper, and dust float and swirl around her weightlessly. The camera slowly zooms in on the girl, perfectly freezing the chaotic corridor in the telekinetic-induced state of stillness and suspension. In the extreme stillness of the slowly zooming-in, frozen image, the girl's calm eyes narrow slightly. Immediately afterward, she calmly raised her right hand, her fingers loosely clenched, and then made a light yet decisive flick of her sleeve to either side of her body. In an instant, frozen time and gravity seemed to explode with this subtle gesture. A low rumble echoed in the air, and dozens of objects that had been suspended in mid-air—a heavy wooden school chair, scattered textbooks, even the red soda can—transformed into a dense projection, carrying powerful air currents, and were precisely launched towards the enemies attacking from both sides. At the same time, an invisible circular psychic shockwave violently spread out from the girl. The brown-uniformed attackers and black-clad ninjas, who had been frozen in mid-air, were instantly struck by this immense force, their bodies jolted violently, and they were sent flying backward like kites with broken strings to either end of the corridor. As gravity instantly returned, the wooden chairs shattered upon impact, textbooks scattered into a flurry of pages, and with the dull thud of heavy objects hitting the ground, the attackers collapsed onto the corridor floor, incapacitated. Silence returned to the corridor, broken only by countless tattered papers and fine dust drifting slowly in the air. The aftershocks of the shockwave ruffled the girl's bangs and hair. She remained composed, not even glancing at her fallen opponent. The girl slowly lowered her right hand, raised her slender left, and gracefully and calmly tucked a strand of black hair behind her ear, revealing her delicate and serene profile. The camera froze on this moment, the white papers falling around her like snowflakes, highlighting her still figure in a white short-sleeved shirt and gray pleated skirt. Then, the image faded out.
+在一個念力動作場景中，一名身穿白色短袖襯衫和灰色百褶裙的韓國女高中生冷靜地站在走廊中央。她正受到兩側攻擊者的夾擊；部分攻擊者身穿棕色校服外套，手持短棍，另一部分則裝扮成黑色忍者，走廊內的氣氛劍拔弩張。當敵人衝向她時，少女釋放了強大的念力攻擊。剎那間，她周圍的一切進入了失重狀態，時間隨之凍結。數十件物品——翻開的課本、筆記本、一罐紅色汽水以及一張木製校椅——紛紛離地，完美地懸浮在半空中。攻擊者們在衝刺的動作中被一股無形的力量定格在空中。紙張、紙屑和灰塵在少女周圍無重力地漂浮旋轉。鏡頭緩慢推向少女，將混亂的走廊完美地定格在念力引發的靜止與懸浮狀態中。在緩慢推鏡、畫面凍結的極致靜謐中，少女平靜的雙眼微微瞇起。緊接著，她冷靜地抬起右手，手指微微收攏，隨後輕巧而果斷地向身體兩側揮動衣袖。瞬間，凍結的時間與重力彷彿隨著這細微的動作爆發開來。空氣中迴盪著低沉的轟鳴聲，數十件懸浮在半空中的物體——沉重的木製校椅、散落的課本，甚至是那罐紅色汽水——化作密集的投射物，攜帶著強大的氣流，精準地朝兩側的敵人發射。與此同時，一股無形的圓形念力衝擊波從少女身上猛烈擴散。原本被定格在空中的棕色制服攻擊者和黑衣忍者瞬間受到這股巨大力量的衝擊，身體劇烈震顫，隨後像斷了線的風箏一樣向走廊兩端倒飛出去。隨著重力瞬間恢復，木椅在撞擊中碎裂，課本散落成漫天紙頁，伴隨著重物落地的沉悶聲響，攻擊者們癱倒在走廊地板上，失去行動能力。走廊恢復了寧靜，只剩下無數破碎的紙張和細微的塵埃在空中緩緩飄落。衝擊波的餘波吹動了少女的瀏海與髮絲。她神情自若，甚至沒有看一眼倒下的對手。少女緩緩放下右手，抬起纖細的左手，優雅而冷靜地將一縷黑髮撥至耳後，露出了精緻而寧靜的側臉。鏡頭定格在這一刻，白色的紙張如雪花般在她身邊飄落，襯托出她身穿白色短袖襯衫與灰色百褶裙的靜謐身影。隨後，畫面淡出。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea0bf9f4c305c556727312433dd5b4a2/thumbnails/thumbnail.jpg" width="600" alt="Telekinetic School Girl Action Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea0bf9f4c305c556727312433dd5b4a2/thumbnails/thumbnail.jpg" width="600" alt="念力少女動作場景">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5424)**
 
 **作者:** [Calira](https://x.com/CaliraVal) | **來源:** [Link](https://x.com/CaliraVal/status/2060217352818708623) | **發布時間:** May 29, 2026
 
 ---
-### Egypt Cinematic Travel Vlog Video Prompt
+### 埃及電影感旅遊 Vlog 影片提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A multi-scene travel vlog prompt featuring a young woman exploring Cairo, the Nile, and the Pyramids with consistent character appearance.
+> 一個多場景的旅遊 Vlog 提示詞，描繪一名年輕女性探索開羅、尼羅河與金字塔的過程，並保持角色外觀一致性。
 
 #### 📝 提示詞
 
 ```
-A beautiful young woman in her mid-20s with long wavy dark hair flowing in the wind, striking features, wearing stylish black round glasses, light beige ethnic embroidered top, natural glowing skin, cinematic travel vlog style, golden hour and warm lighting throughout.
+一位 20 多歲的美麗年輕女性，留著隨風飄逸的深色波浪長髮，五官精緻，戴著時尚的黑色圓框眼鏡，身穿淺米色民族風刺繡上衣，肌膚散發自然光澤，呈現電影感旅遊 Vlog 風格，全程採用黃金時刻的溫暖光影。
 
-0-2s: Close-up selfie-style shot, hair dramatically blowing across her face as she looks straight into camera with a soft confident smile, bustling old Cairo street background, slight handheld camera movement.
+0-2 秒：特寫自拍鏡頭，頭髮隨風飄過臉龐，她直視鏡頭並露出自信溫柔的微笑，背景為熙熙攘攘的開羅老街，帶有輕微的手持攝影晃動感。
 
-2-4s: Smooth transition to side profile by the Nile river at sunset, hair flowing, she turns her head toward camera with a gentle smile, sailboat in background, warm golden light reflecting on water.
+2-4 秒：平滑過渡至日落時分尼羅河畔的側面鏡頭，頭髮飄動，她轉頭看向鏡頭並露出溫柔微笑，背景有帆船，溫暖的金色光芒映照在水面上。
 
-4-6s: Cut to wide cinematic shot in front of the Great Pyramid of Giza, desert sand, she stands confidently looking at camera, wind gently moving her hair, epic scale.
+4-6 秒：切換至吉薩大金字塔前的廣角電影鏡頭，沙漠沙地，她自信地站立並看向鏡頭，微風輕拂她的秀髮，展現宏偉的規模感。
 
-6-7.5s: Quick cut inside vibrant Khan El Khalili market at dusk, she reaches up touching hanging ornate lanterns, magical warm lighting, slight smile.
+6-7.5 秒：快速切換至黃昏時分充滿活力的汗哈利利市集（Khan El Khalili），她伸手觸摸懸掛的華麗燈籠，光影溫暖夢幻，帶著淺淺微笑。
 
-7.5-9s: Fast-paced walking shot through crowded souk alley, she smiles brightly while looking around, people and colorful shops in background, dynamic handheld camera following her.
+7.5-9 秒：在擁擠的市集巷弄中快節奏行走鏡頭，她環顧四周並燦爛微笑，背景是人群與色彩繽紛的商店，動態的手持鏡頭跟隨她移動。
 
-9-10.5s: Extreme close-up of her face, she looks directly into camera, hair strands across face, intense eye contact, subtle playful smile turning into a wide genuine laugh showing perfect teeth.
+9-10.5 秒：臉部極致特寫，她直視鏡頭，髮絲掠過臉龐，眼神交流強烈，細膩俏皮的微笑轉變為開懷大笑，露出整齊的牙齒。
 
-10.5-12s: Sitting on a traditional Nile boat, legs crossed, wind in hair, soft smile while looking at the water, golden sunset reflection.
+10.5-12 秒：坐在傳統尼羅河帆船上，雙腿交疊，微風吹拂秀髮，看著水面露出溫柔微笑，映襯著金色的日落倒影。
 
-12-13.5s: Inside a colorful spice market, she stands among sacks of spices, looking peaceful and content, soft natural light.
+12-13.5 秒：在色彩斑斕的香料市集內，她站在香料袋中，神情平靜滿足，光線柔和自然。
 
-13.5-15s: Final shot - elegant side profile by the Nile at sunset with dramatic golden light, then smooth cut to her sitting in a cozy café holding a glass of drink, looking at camera with a warm intimate smile.
+13.5-15 秒：最終鏡頭 - 日落時分尼羅河畔優雅的側面剪影，伴隨戲劇性的金色光影，隨後平滑切換至她坐在舒適的咖啡館中，手持飲品，對著鏡頭露出溫暖親切的微笑。
 
-Camera work: Cinematic, smooth transitions, slight slow-motion on key emotional moments, rich color grading, warm cinematic tones, shallow depth of field, film grain.
+攝影手法：電影感、平滑過渡、關鍵情感時刻採用輕微慢動作、豐富的調色、溫暖的電影色調、淺景深、底片顆粒感。
 
-Character dialogue:
+角色對白：
 
-- 0-2s: "Heyy... come with me"
-- 4-6s: "This is unreal..."
-- 7.5-9s: (laughing) "I can't believe I'm here!"
-- 10.5-12s: "The most beautiful place..."
-- 13.5-15s: (soft, warm) "This moment... feels like magic."
+- 0-2 秒：「嘿……跟我一起來吧」
+- 4-6 秒：「這簡直太不真實了……」
+- 7.5-9 秒：（笑著）「真不敢相信我來到這裡了！」
+- 10.5-12 秒：「最美的地方……」
+- 13.5-15 秒：（溫柔、溫暖地）「這一刻……感覺就像魔法一樣。」
 
-High detail, photorealistic, 8K quality, emotional, dreamy travel aesthetic, perfect face consistency across all shots, matching the exact woman in the reference image
+高細節、照片級真實感、8K 畫質、情感豐富、夢幻旅遊美學，確保所有鏡頭中的臉部特徵與參考圖片中的女性完全一致。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/921d51ef2c0f3dcb93b8b2d23feae39a/thumbnails/thumbnail.jpg" width="600" alt="Egypt Cinematic Travel Vlog Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/921d51ef2c0f3dcb93b8b2d23feae39a/thumbnails/thumbnail.jpg" width="600" alt="埃及電影感旅遊 Vlog 影片提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5441)**
 
 **作者:** [Heisenberg](https://x.com/rovvmut_) | **來源:** [Link](https://x.com/rovvmut_/status/2060211469401362497) | **發布時間:** May 29, 2026
 
 ---
-### Mecha Exoskeleton Assembly Sequence
+### 機甲外骨骼組裝序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic sci-fi action prompt describing the high-speed mechanical assembly of an exoskeleton around a character.
+> 一段電影級科幻動作提示詞，描述角色周圍外骨骼高速機械組裝的過程。
 
 #### 📝 提示詞
 
 ```
-A cinematic, hyper-realistic sci-fi action sequence. It begins with a close-up of a young East Asian man with long, wavy dark hair focusing intense energy, red lightning and plasma crackling between his hands. The camera cuts to dozens of sleek, futuristic metallic armor pieces flying at high speed through a dark, industrial warehouse, converging on him. Sparks fly as the high-tech, gunmetal-grey armor rapidly mechanically assembles around his body. The final shot reveals him fully suited in a powerful, glowing mecha exoskeleton with a fiery, burning plasma aura radiating from his helmet. He executes an aggressive, sweeping strike with a glowing orange laser blade, causing a massive explosion with smoke and debris in the background. High-end CGI, studio lighting, octane render, 8k resolution, intense pacing.
+一段電影級、超寫實的科幻動作序列。開場特寫一位留著深色長捲髮的年輕東亞男子，他正集中強大能量，紅色的閃電與電漿在他雙手間劈啪作響。鏡頭切換至數十個流線型、充滿未來感的金屬裝甲零件，它們在陰暗的工業倉庫中高速飛馳，並向他匯聚。隨著高科技槍灰色裝甲在他身上迅速機械組裝，火花四濺。最後的鏡頭展示他已完全穿戴上強大的發光機甲外骨骼，頭盔散發出熾熱的電漿光暈。他揮舞著發出橘色光芒的雷射刃進行猛烈的橫掃攻擊，背景隨之引發巨大的爆炸，煙霧與碎片四散。高端 CGI、攝影棚燈光、Octane 渲染、8k 解析度，節奏緊湊。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce500e08df871f32ae6372cfd4a719c8/thumbnails/thumbnail.jpg" width="600" alt="Mecha Exoskeleton Assembly Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce500e08df871f32ae6372cfd4a719c8/thumbnails/thumbnail.jpg" width="600" alt="機甲外骨骼組裝序列">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5439)**
 
 **作者:** [Zyrella](https://x.com/Zyrellix) | **來源:** [Link](https://x.com/Zyrellix/status/2060208363867414564) | **發布時間:** May 29, 2026
 
 ---
-### Luxury Skincare Pitch Deck Animation
+### 奢華護膚簡報動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A workflow for animating a clinical luxury beauty storyboard with smooth transitions and editorial aesthetics.
+> 一套用於製作臨床級奢華美妝專案動畫的工作流程，具備流暢轉場與編輯美學。
 
 #### 📝 提示詞
 
 ```
-Create a high-end 4:3 luxury beauty tools pitch deck storyboard in 3x4 grid (12 frames), editorial layout, NuFace/Dr. Barbara Sturm style, glacier white + rose gold palette. Structured flow: science → tool → ritual → glow → confidence closure. Each frame split: top cinematic image (no text) + bottom storyboard notes. Clinical luxury minimal aesthetic, science meets beauty mood, precision self-care. A rose gold facial device is the emotional center throughout. Animate the provided 3x4 storyboard into a smooth cinematic video. Preserve exact shot order and continuity. Use slow device glide on skin, LED light pulse, serum absorption close-up, and mirror reflection reveal. Lighting transitions from cool clinical white light to warm vanity mirror rose glow. Beauty tools editorial aesthetic, surgical precision, empowered radiance mood. No new shots, no reordering, facial device remains emotional focus in all scenes.
+製作一套高階 4:3 奢華美妝工具簡報專案，採用 3x4 網格（共 12 幀）的編輯排版，風格參考 NuFace / Dr. Barbara Sturm，配色為冰川白與玫瑰金。結構流程：科學 → 工具 → 儀式 → 光澤 → 自信結尾。每幀分割：上方為電影感影像（無文字）+ 下方為專案筆記。呈現臨床奢華極簡美學、科學與美感結合的氛圍，以及精準的自我護理感。玫瑰金美容儀是貫穿始終的情感核心。將提供的 3x4 專案製作成流暢的電影感影片。保留精確的鏡頭順序與連貫性。運用美容儀在肌膚上的緩慢滑動、LED 燈光脈衝、精華液吸收特寫以及鏡面反射揭示。燈光從冷色調的臨床白光轉變為溫暖的化妝鏡玫瑰光。展現美妝工具的編輯美學、外科手術般的精準度與充滿力量的煥發光采感。不新增鏡頭，不重新排序，美容儀在所有場景中均保持為情感焦點。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aad0a6d8939fdbc35b1d919951f8bc9f/thumbnails/thumbnail.jpg" width="600" alt="Luxury Skincare Pitch Deck Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aad0a6d8939fdbc35b1d919951f8bc9f/thumbnails/thumbnail.jpg" width="600" alt="奢華護膚簡報動畫">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5436)**
 
 **作者:** [𝐌](https://x.com/Strength04_X) | **來源:** [Link](https://x.com/Strength04_X/status/2060200771912864078) | **發布時間:** May 29, 2026
 
 ---
-### Skateboard Big Air Sunset Highlight
+### 滑板 Big Air 日落精華片段
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic 15-second skateboarding highlight featuring a single rider performing a 360 aerial rotation on a large outdoor ramp during a golden sunset, with dynamic tracking shots and high-impact sound design.
+> 一段 15 秒的電影級滑板精華片段，呈現一名滑手在金色日落時分，於大型戶外坡道上完成 360 度空中旋轉的畫面，搭配動態跟拍鏡頭與震撼的音效設計。
 
 #### 📝 提示詞
 
 ```
-15-second live-action big-air skateboarding highlight continuing at the same huge outdoor ramp during deep golden sunset. Only one skateboarder and only one skateboard exist in the entire video. Do not duplicate the rider. Do not add extra skateboarders in the background.
+一段 15 秒的真人實拍 Big Air 滑板精華片段，場景延續在同一個大型戶外坡道，背景為深邃的金色日落。整支影片僅出現一名滑手與一塊滑板。請勿複製滑手，背景中也不要增加額外的滑板手。
 
-Start with a fast low side-rear tracking shot as the rider accelerates toward the largest ramp, not only from directly behind. Use one quick close-up of the wheels, feet, and board while the rider climbs the ramp with power and control. Briefly switch to a low side angle just before takeoff to show the ramp height and speed.
+開場採用快速的低角度側後方跟拍，拍攝滑手加速衝向大型坡道，鏡頭不應僅限於正後方。在滑手有力且穩定地攀爬坡道時，穿插一個輪子、雙腳與 board 的快速特寫。起跳前短暫切換至低側視角，以呈現坡道的高度與速度感。
 
-The rider launches into the highest big air and performs one clean 360 aerial rotation near the peak of the jump. Keep the aerial action clear and readable. Use a brief stop-motion-style freeze effect only at the peak moment of the rotation, then continue the motion naturally. Do not make the whole aerial section slow motion. Do not create ghost trails, overlapping silhouettes, or multiple riders. The real rider remains one person, and the skateboard stays controlled under the rider’s feet.
+滑手躍入最高點，並在跳躍頂峰處完成一個乾淨俐落的 360 度空中旋轉。保持空中動作清晰易讀。僅在旋轉頂峰瞬間使用短暫的定格動畫風格效果，隨後自然恢復動作。請勿將整個空中部分處理為慢動作。請勿產生殘影、重疊輪廓或多個滑手。畫面中始終保持為同一位滑手，且滑板始終受控於滑手腳下。
 
-After the peak rotation, return to normal motion for a clear descent and landing. Show the board aligning for touchdown, the wheels touching down, a short controlled slide, and a strong impact.
+旋轉頂峰過後，恢復正常速度以呈現清晰的下降與著陸。展示 board 對準地面、輪子觸地、短暫受控的滑行以及強烈的落地衝擊感。
 
-End with the rider gliding away into the sunset in a short cinematic silhouette from behind.
+結尾處，滑手滑向日落，鏡頭以背後的電影級剪影短暫收尾。
 
-Strong sports highlight energy, dynamic but simple camera changes, low tracking shot, side-rear angle, brief side angle during takeoff and air, ground-level landing angle, clear takeoff and clear landing, dramatic height difference, readable body silhouette, realistic skateboard motion, no static sports introduction. No clear spoken commentary, no narration, no understandable dialogue. Sound effects only: fast rolling wheels, ramp rumble, wind rush, brief silence at the peak freeze, heavy landing impact, distant crowd reaction. No logo, no watermark, no readable text.
+具備強烈的運動精華能量，動態但簡潔的鏡頭切換，包含低角度跟拍、側後方視角、起跳與空中時的短暫側視角、地面視角的著陸畫面，確保起跳與著陸清晰，呈現戲劇性的高度差，清晰的肢體輪廓，真實的滑板動作，不含靜態的運動介紹。無清晰的口頭評論、旁白或可辨識的對話。僅包含音效：快速滾動的輪子聲、坡道轟鳴聲、風聲、頂峰定格時的短暫靜音、沉重的落地衝擊聲、遠處的觀眾反應聲。無 Logo、無浮水印、無可辨識的文字。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060197720900734976/img/ym9Yq6kjEOmCWR14.jpg" width="600" alt="Skateboard Big Air Sunset Highlight">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b77a19c659b07feab6726a72c2c8f75/thumbnails/thumbnail.jpg" width="600" alt="滑板 Big Air 日落精華片段">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5466)**
 
 **作者:** [AIライフハック](https://x.com/ai_lifehack55) | **來源:** [Link](https://x.com/ai_lifehack55/status/2060198851953209598) | **發布時間:** May 29, 2026
 
 ---
-### Cybernetic Anaconda Pursuit in Dystopian Mumbai
+### 反烏托邦孟買的賽博龐克巨蟒追逐戰
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-action cyberpunk video prompt featuring a motorcycle chase through a ruined Mumbai street, pursued by a giant mechanical anaconda.
+> 這是一段高動作強度的賽博龐克影片提示詞，描述在荒廢的孟買街道上，一場摩托車追逐戰正激烈上演，背後還有巨大的機械巨蟒窮追不捨。
 
 #### 📝 提示詞
 
 ```
-Fast-paced dystopian cyberpunk action in a ruined Indian megacity at night. Burnt cars, neon signs flickering in Hindi, sparks, smoke vents, broken flyovers, puddles reflecting pink and blue neon. Chaotic handheld cinematography, shaky tracking shots, aggressive speed ramps, dirty lens flares, practical lighting. Sound: roaring engines, metallic screeches, distorted radio chatter, distant explosions, hydraulic snake sounds.
+節奏明快的反烏托邦賽博龐克動作場景，背景為夜晚荒廢的印度大都市。場景包含燒毀的汽車、閃爍的印地語霓虹燈招牌、火花、通風口冒出的煙霧、斷裂的高架橋，以及倒映著粉色與藍色霓虹燈的水窪。採用混亂的手持攝影風格、晃動的追蹤鏡頭、激進的變速特效、髒污的鏡頭光暈與實景照明。音效：引擎轟鳴聲、金屬摩擦聲、扭曲的無線電雜訊、遠處的爆炸聲，以及液壓驅動的蛇類嘶鳴聲。
 
 ⸻
 
-0–2s — HOOK
+0–2 秒 — 開場 (HOOK)
 
-A tattooed Indian cyberpunk woman with shaved punk hair tears through a dystopian street on a junkyard-built motorcycle made from welded scrap metal, exposed engine parts, and glowing wires.
+一位留著龐克短髮、滿身刺青的印度賽博龐克女性，騎著一輛由廢棄金屬焊接而成的改裝摩托車，在反烏托邦的街道上疾馳，車身露出引擎零件與發光的電線。
 
-Behind her—
+在她身後——
 
-A gigantic half-real, half-mechanical anaconda smashes through burnt cars in aggressive pursuit.
+一條半真實、半機械的巨大巨蟒正撞開燒毀的汽車，發動猛烈追擊。
 
-Metal jaws snapping.
+金屬下顎不斷開合。
 
-Red mechanical eyes glowing.
-
-⸻
-
-2–4s — ESCALATION
-
-Low shaky side tracking shot.
-
-The snake violently crashes through parked vehicles while partially gliding over wreckage with mechanical body segments flexing unnaturally.
-
-The woman swerves hard between wrecked taxis and burning debris.
-
-Radio crackles in her ear.
-
-Male voice:
-
-“Get it in position!”
+紅色的機械雙眼閃爍著光芒。
 
 ⸻
 
-4–7s — BUILD
+2–4 秒 — 升溫 (ESCALATION)
 
-She accelerates harder.
+低角度晃動的側向追蹤鏡頭。
 
-Rear tire skids through puddles.
+巨蟒暴力地撞穿停放的車輛，同時以機械身體部位不自然地扭曲滑行，穿過殘骸。
 
-The snake lunges low behind her, smashing a car sideways into a wall.
+女子在廢棄計程車與燃燒的碎片之間急轉閃避。
 
-She shouts into radio:
+耳邊傳來無線電雜訊。
 
-“I’m trying!”
+男性聲音：
 
-Ahead—
-
-a broken flyover ramp comes into view through smoke.
+「把它引到定位！」
 
 ⸻
 
-7–10s — COMMIT
+4–7 秒 — 鋪陳 (BUILD)
 
-The woman locks onto the ramp and speeds directly toward it.
+她猛力加速。
 
-Above on a ruined rooftop—
+後輪在水窪中打滑。
 
-A man with a bazooka takes aim.
+巨蟒在她身後低空猛撲，將一輛汽車撞向牆壁。
 
-Radio:
+她對著無線電大喊：
 
-“Just a little closer…”
+「我正在試！」
 
-The snake rapidly closes distance behind her.
+前方——
 
-⸻
-
-10–13s — BULLET TIME PAYOFF
-
-She hits the ramp and launches into the air.
-
-Bullet time engages.
-
-The cybernetic anaconda leaps upward after her, jaws opening inches from her bike.
-
-The man fires.
-
-Rocket streaks through frame in slow motion.
-
-Direct hit into the snake’s mechanical skull.
-
-Massive explosion of sparks, fire, metal fragments, and flesh.
+透過煙霧，可以看到一段斷裂的高架橋坡道。
 
 ⸻
 
-13–15s — FINAL BEAT
+7–10 秒 — 決斷 (COMMIT)
 
-Time snaps back.
+女子鎖定坡道，全速衝向前方。
 
-The woman lands hard, bike wobbling violently—
+上方荒廢的屋頂上——
 
-she regains balance perfectly and keeps riding.
+一名手持火箭筒的男子瞄準目標。
 
-Behind her, the burning mechanical anaconda crashes through wrecked cars.
+無線電：
 
-She laughs into the radio:
+「再靠近一點……」
 
-“Target down!”
+巨蟒迅速縮短與她的距離。
 
-The man cheers over comms.
+⸻
 
-Cut.
+10–13 秒 — 子彈時間高潮 (BULLET TIME PAYOFF)
+
+她衝上坡道，飛向空中。
+
+進入子彈時間。
+
+賽博龐克巨蟒向上躍起追擊，下顎距離她的摩托車僅剩幾英吋。
+
+男子開火。
+
+火箭彈以慢動作劃過畫面。
+
+精準命中巨蟒的機械頭骨。
+
+火花、火焰、金屬碎片與血肉瞬間劇烈爆炸。
+
+⸻
+
+13–15 秒 — 最終節奏 (FINAL BEAT)
+
+時間恢復正常。
+
+女子重重落地，摩托車劇烈搖晃——
+
+她完美地恢復平衡並繼續騎行。
+
+在她身後，燃燒的機械巨蟒撞毀在殘骸之中。
+
+她對著無線電大笑：
+
+「目標已擊落！」
+
+通訊頻道傳來男子的歡呼聲。
+
+切斷。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060184772211838977/img/HLmUfriw9HDj2KMB.jpg" width="600" alt="Cybernetic Anaconda Pursuit in Dystopian Mumbai">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93c1e654e674d35d0de679a8a8c3bcf0/thumbnails/thumbnail.jpg" width="600" alt="反烏托邦孟買的賽博龐克巨蟒追逐戰">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5462)**
 
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **來源:** [Link](https://x.com/rahulnanda86/status/2060184837856850203) | **發布時間:** May 29, 2026
 
 ---
-### Anime Characters in Photorealistic Shopping Mall
+### 置身於寫實購物中心的動漫角色
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A detailed multi-shot cinematic prompt for Seedance 2.0 that blends 2D anime characters with a realistic 3D mall environment, focusing on consistency and smooth motion across five different shots.
+> 這是一份為 Seedance 2.0 設計的詳細多鏡頭電影級提示詞，旨在將 2D 動漫角色與真實的 3D 購物中心環境相結合，重點在於五個不同鏡頭間的一致性與流暢動作。
 
 #### 📝 提示詞
 
 ```
-Use Image A and Image B as the two main characters in all shots.
+請將 Image A 和 Image B 作為所有鏡頭中的兩位主角。
 
-Image A : preserve her exact anime illustration identity, hairstyle, face, outfit, proportions, and overall design.
+Image A：保留其精確的動漫插畫特徵、髮型、臉部、服裝、比例及整體設計。
 
-Image B : preserve her exact anime illustration identity, hairstyle, face, outfit, proportions, and overall design.
+Image B：保留其精確的動漫插畫特徵、髮型、臉部、服裝、比例及整體設計。
 
-Both characters must remain anime-style illustrations with crisp clean line art, cel-shaded flat colors, expressive anime eyes, and zero photorealism on the characters.
+兩位角色必須維持動漫風格插畫，具備清晰俐落的線條、賽璐珞平塗色彩、生動的動漫眼睛，且角色本身不得帶有任何寫實感。
 
-All other elements — the shopping mall interior, storefronts, display windows, escalators, polished floors, shopping bags, crowd, lighting, and background architecture — are fully photorealistic.
+所有其他元素——購物中心內部、店面、展示櫥窗、手扶梯、拋光地板、購物袋、人群、燈光及背景建築——均為完全寫實風格。
 
-Setting: a busy modern shopping mall on a weekend afternoon. Stylish interior, bright natural and commercial lighting, large glass storefronts, digital signage, polished floors, open atrium, many shoppers walking around. The atmosphere is lively, fashionable, and cheerful.
+場景設定：週末下午繁忙的現代購物中心。時尚的室內裝潢、明亮的自然光與商業照明、大型玻璃店面、數位看板、拋光地板、開放式中庭，以及許多走動的購物者。氛圍熱鬧、時尚且充滿活力。
 
-15-second cinematic video, 24fps, smooth motion, clear emotional flow, character consistency across all shots.
+15 秒電影級影片，24fps，動作流暢，情感流動清晰，確保所有鏡頭的角色一致性。
 
-Shot 1 [MALL ENTRANCE — ARRIVAL]
+鏡頭 1 [購物中心入口 — 到達]
 
-Image A and Image B walk side by side into a crowded modern shopping mall, smiling and chatting. Many shoppers pass around them. The camera tracks backward in front of them as they enter the bright open atrium. They look excited for a fun day of window shopping.
+Image A 和 Image B 並肩走進擁擠的現代購物中心，邊走邊笑著聊天。許多購物者從她們身邊經過。當她們進入明亮的開放式中庭時，攝影機在前方進行後退跟拍。她們看起來對即將到來的逛街行程感到興奮。
 
-Cut to Shot 2 [WINDOW SHOPPING — DISCOVERY]
+切換至鏡頭 2 [櫥窗購物 — 發現]
 
-The two girls stop in front of a stylish fashion storefront with a large glass display window. They lean in slightly and admire the items inside. Image A points at something cute in the display. Image B reacts with a bright smile and curious eyes. Medium shot, then close-up on their happy faces and pointing gesture.
+兩位女孩停在一家時尚服飾店的大型玻璃櫥窗前。她們微微前傾，欣賞裡面的商品。Image A 指著展示櫃裡可愛的東西。Image B 露出燦爛的笑容，眼神充滿好奇。中景鏡頭，隨後特寫她們開心的臉龐與指點的動作。
 
-Cut to Shot 3 [MOVING THROUGH THE MALL]
+切換至鏡頭 3 [穿梭於購物中心]
 
-Image A and Image B continue walking through the busy mall, passing elegant shop windows, cosmetics counters, and accessory displays. They laugh together and casually gesture while talking. Camera moves alongside them. Background crowd flows naturally around them. Their mood is relaxed, lively, and playful.
+Image A 和 Image B 繼續在繁忙的購物中心內行走，經過優雅的商店櫥窗、化妝品櫃檯和飾品展示區。她們一起歡笑，邊走邊自然地比手畫腳。攝影機隨行拍攝。背景人群自然地在周圍流動。她們的心情輕鬆、活潑且俏皮。
 
-Cut to Shot 4 [EXCITEMENT AT A DISPLAY]
+切換至鏡頭 4 [展示櫃前的興奮]
 
-They stop at another display window with fashionable accessories and seasonal decor. Image B notices something first and gently pulls Image A’s sleeve to show it. Image A’s expression changes into delighted surprise. Close-up on their faces, then cut to a wider shot showing both of them framed by the bright storefront and the bustling crowd behind.
+她們停在另一個展示時尚飾品與季節性裝飾的櫥窗前。Image B 先注意到了某樣東西，輕輕拉了拉 Image A 的袖子示意。Image A 的表情轉為驚喜。特寫她們的臉部，隨後切換至廣角鏡頭，將兩人框在明亮的店面與後方熙熙攘攘的人群中。
 
-Cut to Shot 5 [PURE WEEKEND JOY]
+切換至鏡頭 5 [純粹的週末喜悅]
 
-Image A and Image B continue window shopping deeper into the mall, each carrying a few small shopping bags. They smile, laugh, and enjoy the lively weekend atmosphere. Wide cinematic shot of the modern shopping mall interior, the two girls walking happily together at the center of the frame, surrounded by the photorealistic crowd and glowing storefronts. End with a gentle crane out
+Image A 和 Image B 繼續往購物中心深處逛去，每人手上提著幾個小購物袋。她們微笑、歡笑，享受著熱鬧的週末氛圍。現代購物中心內部的廣角電影鏡頭，兩位女孩開心地走在畫面中央，周圍是寫實的人群與閃耀的店面。最後以緩慢的升降鏡頭（crane out）結束。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060180079305756672/img/-nsftlOfh54VS_bz.jpg" width="600" alt="Anime Characters in Photorealistic Shopping Mall">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef97ac3fc65eabddfac8e55fabbab5fd/thumbnails/thumbnail.jpg" width="600" alt="置身於寫實購物中心的動漫角色">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5467)**
 
 **作者:** [Toshi@ニャルオAI](https://x.com/Toshi_nyaruo_AI) | **來源:** [Link](https://x.com/Toshi_nyaruo_AI/status/2060181284908073254) | **發布時間:** May 29, 2026
 
 ---
-### Rooftop Sunset Fashion Film Prompt
+### 頂樓日落時尚短片提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A luxurious and viral-style fashion film prompt featuring a model on a skyscraper rooftop during golden hour.
+> 這是一份奢華且具備病毒式傳播潛力的時尚短片提示詞，場景設定為黃金時刻的摩天大樓頂樓，由模特兒演繹。
 
 #### 📝 提示詞
 
 ```
-15-second ultra realistic cinematic rooftop fashion film during sunset.
+15 秒超寫實電影感頂樓時尚短片，背景為日落時分。
 
-Scene 1 (0–4s): A stunning fashion model steps onto a luxury rooftop overlooking a glowing city skyline at golden hour. Soft wind moves her hair and long black outfit naturally, cinematic drone shot approaching slowly, warm orange sunlight reflecting on glass buildings, ultra aesthetic atmosphere.
+場景 1 (0–4 秒)：一位迷人的時尚模特兒踏上豪華頂樓，俯瞰黃金時刻閃耀的城市天際線。微風輕拂她的秀髮與黑色長裙，動作自然；電影感無人機鏡頭緩慢推進，溫暖的橙色陽光反射在玻璃大樓上，營造出極致的唯美氛圍。
 
-Scene 2 (4–8s): Slow-motion tracking shot as she confidently walks across the rooftop edge in a luxurious designer outfit with sunglasses and silver accessories. Cinematic lens flares, flowing fabric movement, rich old-money aesthetic, shallow depth of field, Vogue editorial vibe.
+場景 2 (4–8 秒)：慢動作跟拍鏡頭，她身穿奢華設計師服飾，配戴太陽眼鏡與銀色飾品，自信地走在頂樓邊緣。電影感鏡頭光暈，飄逸的布料質感，濃厚的「老錢風」美學，淺景深效果，呈現 Vogue 雜誌社論風格。
 
-Scene 3 (8–12s): Dramatic side-profile close-up with sunset behind her, hair moving beautifully in wind, emotional “main character” energy, cinematic camera orbit movement, realistic skin texture, luxury perfume advertisement style.
+場景 3 (8–12 秒)：戲劇性的側面特寫，背景為落日餘暉，秀髮在風中優美擺動，充滿情感的「主角」氣場，電影感環繞鏡頭運動，真實的皮膚紋理，奢華香水廣告風格。
 
-Scene 4 (12–15s): Final powerful shot facing the city skyline while city lights begin glowing at blue hour. Camera slowly pulls back revealing the massive skyline and luxury rooftop ambiance. Text fades in: “Some people don’t follow trends… they become them.”
+場景 4 (12–15 秒)：最後的震撼鏡頭，面對城市天際線，此時城市燈光在藍調時刻開始閃爍。鏡頭緩慢拉遠，展現宏偉的天際線與豪華頂樓氛圍。文字淡入：「有些人不追隨潮流……他們本身就是潮流。」
 
-Ultra realistic cinematic fashion storytelling, viral Twitter/TikTok aesthetic, luxury lifestyle energy, smooth camera motion, film grain, anamorphic lens flare, highly detailed, emotional cinematic mood, 4K masterpiece.
+超寫實電影感時尚敘事，病毒式 Twitter/TikTok 美學，奢華生活方式能量，流暢的鏡頭運動，底片顆粒感，變形鏡頭光暈，高度細節，情感豐富的電影氛圍，4K 傑作。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060180922276909056/pu/img/DTES8Zi37QOrQ2y_.jpg" width="600" alt="Rooftop Sunset Fashion Film Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/915d27f621dde0b577da6db1c94683cf/thumbnails/thumbnail.jpg" width="600" alt="頂樓日落時尚短片提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5448)**
 
 **作者:** [Zeeshi](https://x.com/AIwithZeeshi) | **來源:** [Link](https://x.com/AIwithZeeshi/status/2060181075779781084) | **發布時間:** May 29, 2026
 
 ---
-### Mushroom Port Town Anime Escape
+### 蘑菇港口小鎮動漫逃脫
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A cinematic anime sequence showing a girl in a blue hood stealing a glowing mushroom and escaping through a high-speed chase across the bridges and walkways of a floating mushroom market town.
+> 一段電影級的動漫短片，描述一名穿著藍色連帽斗篷的女孩偷走了一顆發光的蘑菇，並在漂浮蘑菇市場的橋樑與步道間展開高速追逐逃亡。
 
 #### 📝 提示詞
 
 ```
-@Image 1 = Protagonist character. @Image 2 = Storyboard reference. Based on the attached storyboard image, create a 15-second horizontal 16:9 anime thrilling escape scene video. Theme: Thief Girl. Animate as a high-tempo, brisk scene following the panel order of the storyboard. Flow: Start with an overhead view of a mushroom port town market spread across the water. A girl in a blue hood hides at the edge of the pier or market and steals a rare purple-glowing mushroom. Impressively depict the moment of theft with hand close-ups, the girl's sparkling eyes, and the glow of the rare mushroom. Once the theft is discovered, the girl escapes quickly using wooden piers, waterside paths, docks, rope bridges, and floating platforms. As pursuers close in, show a high-speed escape where she runs across narrow bridges, nearly slips but recovers, jumps across canals, and brushes past boats and ropes. Include seagulls flying and textures of water splashes and damp wood. End with her running across a long bridge toward the light, leaving the port town behind. Style: High-quality anime film style, cinematic lighting, top-tier animation, high definition, vivid colors, transparent water, damp wood texture, openness of the port town, and an adventurous world filled with mushroom stalls and floating architecture. The girl should appear small and agile, mischievous yet serious, and as if she is truly escaping while enjoying the thrill. Editing: Use rhythmic high-speed cuts, close-ups, extreme close-ups, low angles, overhead shots, quick pans, and smooth match cuts. Mix an overhead market panorama, hand close-ups during theft, the girl's face close-up, following shots escaping from pursuers, low angles near the water surface, extreme close-ups of feet kicking the pier, wide shots of canal jumps, and dynamic diagonal compositions using rope movement or high vantage points. Create an energetic and stylish video, utilizing the precarious waterside and continuity of bridges unique to a floating port town. Important: Do not make it a slideshow of still images. Animate running and stealing naturally. Maintain the same atmosphere of the floating mushroom port town and high-quality anime style throughout. Do not include text, subtitles, logos, or watermarks. Perform the suspenseful thrill as a brisk scene. Consistently maintain the protagonist's face, blue hood, outfit, basket, and purple glowing mushroom throughout.
+@Image 1 = 主角人物。 @Image 2 = 專案參考。根據所附的專案圖片，製作一段 15 秒、橫向 16:9 的動漫驚險逃脫場景影片。主題：盜竊少女。請依照專案的畫面順序，製作成快節奏、俐落的場景。流程：開場為俯瞰水面上蘑菇港口小鎮市場的全景。一名穿著藍色連帽斗篷的女孩躲在碼頭或市場邊緣，偷走了一顆稀有的紫色發光蘑菇。請透過手部特寫、女孩閃閃發光的雙眼以及稀有蘑菇的光芒，生動地描繪偷竊的瞬間。當偷竊被發現後，女孩迅速利用木棧道、水邊小徑、碼頭、繩橋和漂浮平台逃離。隨著追捕者逼近，展現一場高速逃亡，她奔跑在狹窄的橋樑上，險些滑倒但隨即穩住身形，跳過運河，並擦過船隻與繩索。加入海鷗飛翔的畫面，以及水花飛濺和潮濕木頭的質感。結尾為她奔跑在長橋上奔向光亮處，將港口小鎮拋在身後。風格：高品質動漫電影風格、電影級燈光、頂級動畫、高畫質、色彩鮮豔、清澈的水面、潮濕的木頭質感，以及充滿蘑菇攤位與漂浮建築的開放式冒險世界。女孩應顯得嬌小靈活、調皮而認真，彷彿在享受逃脫的刺激感。剪輯：運用節奏感強的高速剪輯、特寫、極端特寫、低角度、俯拍、快速平移和流暢的銜接鏡頭。混合市場俯瞰全景、偷竊時的手部特寫、女孩臉部特寫、逃離追捕者的跟拍鏡頭、水面附近的低角度鏡頭、腳部踢踏碼頭的極端特寫、跳躍運河的廣角鏡頭，以及利用繩索移動或高處視角的動態對角線構圖。創造出一部充滿活力且時尚的影片，充分利用漂浮港口小鎮獨有的水邊險境與橋樑連續性。重要：請勿製作成靜態圖片的幻燈片。請自然地呈現奔跑與偷竊的動作。全程保持漂浮蘑菇港口小鎮的氛圍與高品質動漫風格。請勿包含任何文字、字幕、標誌或浮水印。將懸疑刺激感表現為俐落的場景。在整段影片中，請始終保持主角的臉部特徵、藍色連帽斗篷、服裝、籃子以及紫色發光蘑菇的一致性。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060178543808786432/img/dhAVzjA-P9Prag2Q.jpg" width="600" alt="Mushroom Port Town Anime Escape">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/282ac02aeb41e21701103daef3f76c1c/thumbnails/thumbnail.jpg" width="600" alt="蘑菇港口小鎮動漫逃脫">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5468)**
 
 **作者:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **來源:** [Link](https://x.com/Ryuki_Yano/status/2060179315011277307) | **發布時間:** May 29, 2026
 
 ---
-### Medieval Knight Horseback POV
+### 中世紀騎士馬背第一人稱視角
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed first-person perspective prompt for a cinematic medieval sequence showing a knight riding through a village, emphasizing realistic human visual perspective and natural motion.
+> 一個詳細的第一人稱視角提示詞，用於製作電影級中世紀場景，展示騎士騎馬穿過村莊的過程，強調真實的人類視覺透視與自然運動感。
 
 #### 📝 提示詞
 
 ```
-A first-person POV (horseback riding POV) sequence in a live-action medieval European-style film, showing a knight traveling on horseback.
-The camera is permanently fixed to the knight’s eye level, representing a realistic human visual perspective from atop a horse. There are no cuts, no switches to third-person, and no aerial or top-down viewpoints at any point.
-The horse follows the route indicated in the reference image. The journey begins at the location labeled “Start” and ends at the location labeled “Stop Here.” Movement follows a realistic walking pace of a horse, with natural body motion including subtle head, shoulder, and reins-induced camera sway.
-Along the way, the knight briefly greets villagers while passing them (simple nods or short hand waves). The village is a live-action medieval settlement with wooden buildings, stone-paved streets, and naturally active inhabitants.
-Upon reaching the final destination, the horse gradually slows down and stops. The knight then naturally dismounts the horse. The footage remains a single continuous shot until that moment.
+真人實拍中世紀歐洲風格電影中的第一人稱視角（騎馬視角）片段，展示騎士騎馬前行的過程。
+攝影機固定在騎士的視線高度，呈現出騎在馬背上真實的人類視覺透視。全程無剪輯、無切換至第三人稱視角，亦無任何空中或俯瞰視角。
+馬匹遵循參考圖片中標示的路徑行進。旅程始於標記為「Start」的位置，並於標記為「Stop Here」的位置結束。移動速度遵循馬匹真實的步行節奏，並包含自然的身體晃動，如頭部、肩膀及因韁繩牽引而產生的攝影機擺動。
+途中，騎士在經過村民時會簡短地致意（簡單點頭或揮手）。村莊為真人實拍風格的中世紀聚落，設有木造建築、石板街道，以及自然活動的居民。
+抵達最終目的地後，馬匹逐漸減速並停下。隨後騎士自然地從馬背上下來。在此之前，影片保持單一連續鏡頭。
 
-Visual Style (Photoreal Enhancement):
-Live-action cinematic film quality, photorealistic
-Natural light–based cinematic lighting
-Lens characteristics (shallow depth of field, slight lens breathing)
-Handheld-like but stabilized POV camera motion
-Realistic motion blur
-4K RAW film look
-Cinematic color grading (no excessive CGI appearance)
+視覺風格（照片級真實感增強）：
+真人實拍電影畫質，照片級真實感
+基於自然光的電影級燈光
+鏡頭特性（淺景深、輕微的鏡頭呼吸效應）
+手持感但穩定的 POV 攝影機運動
+真實的動態模糊
+4K RAW 電影質感
+電影級調色（無過度的 CGI 感）
 
-Negative Prompt (for maintaining realism):
-Anime, CGI, or game engine-style visuals
-Drone view, aerial view, or third-person perspective
-HUD, UI, subtitles, markers, text overlays
-Route lines, guide lines, or map visualizations
-Excessive slow motion or unnatural speed changes
-Unrealistic floating sensation or gravity-defying motion
-Cuts or viewpoint transitions
-Overly smooth CGI-style camera movement
-Unrealistic horse movement
+負面提示詞（用於維持真實感）：
+動畫、CGI 或遊戲引擎風格的視覺效果
+無人機視角、空中俯瞰或第三人稱視角
+HUD、UI、字幕、標記、文字疊加
+路線線條、引導線或地圖視覺化
+過度的慢動作或不自然的變速
+不真實的漂浮感或違背重力的運動
+剪輯或視角轉換
+過於平滑的 CGI 風格攝影機運動
+不真實的馬匹動作
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060172486021685248/img/IpxHu_sAVfJwkyrw.jpg" width="600" alt="Medieval Knight Horseback POV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e05205527441c64fa6a674cc6daaec6/thumbnails/thumbnail.jpg" width="600" alt="中世紀騎士馬背第一人稱視角">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5471)**
 
 **作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **來源:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **發布時間:** May 29, 2026
 
 ---
-### Cyberpunk Mumbai Werewolf Pursuit
+### 賽博龐克孟買：狼人追逐戰
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic 15-second action sequence set in a dystopian Mumbai with a robotic werewolf chasing a cyberpunk woman on a motorcycle.
+> 一段 15 秒的電影級動作短片，背景設定在反烏托邦的孟買，一隻機械狼人正追逐著騎乘摩托車的賽博龐克女性。
 
 #### 📝 提示詞
 
 ```
-Fast-paced dystopian cyberpunk action in a ruined Indian megacity at night. Burnt cars, neon Hindi signs flickering, smoke vents, broken flyovers, puddles reflecting pink and blue neon. Chaotic shaky cinematography, aggressive handheld tracking, dirty lens flares, speed ramps, practical lighting. Sound: roaring engines, distorted radio chatter, hydraulic servos, metallic growls, distant explosions.
+節奏明快的反烏托邦賽博龐克動作場景，背景為夜晚荒廢的印度大都市。燃燒的汽車、閃爍的印地語霓虹招牌、排煙口、斷裂的高架橋，以及倒映著粉色與藍色霓虹燈的水窪。混亂的晃動鏡頭、激進的手持追蹤拍攝、髒污的鏡頭光暈、變速特效與實景照明。音效：引擎轟鳴、失真的無線電雜訊、液壓伺服馬達聲、金屬咆哮聲與遠處的爆炸聲。
 
 ⸻
 
-0–2s — HOOK
+0–2 秒 — 開場（HOOK）
 
-A tattooed Indian cyberpunk woman with shaved punk hair races through a destroyed street on a junkyard-built motorcycle made from exposed engine parts, welded scrap, and glowing cables.
+一位留著龐克短髮、身上有刺青的印度賽博龐克女性，正騎著由外露引擎零件、焊接廢鐵與發光電纜組裝而成的廢土風摩托車，在毀滅的街道上疾馳。
 
-Behind her—
+在她身後——
 
-A gigantic half-real, half-robotic werewolf crashes through burnt cars at full speed.
+一隻巨大的半生物、半機械狼人正以全速衝撞開燃燒的車輛。
 
-Metal claws scraping asphalt.
+金屬爪子刮過柏油路面。
 
-Hydraulic limbs flexing.
+液壓肢體不斷伸縮。
 
-One glowing red cybernetic eye.
-
-⸻
-
-2–4s — ESCALATION
-
-Low shaky side-tracking shot.
-
-The cyber-werewolf runs unnaturally fast, sometimes on all fours, sometimes launching itself over wrecked vehicles.
-
-Its exposed mechanical spine sparks while flesh and metal shift together violently.
-
-Radio crackles in her ear.
-
-Male voice:
-
-“Get it in position!”
+一隻發著紅光的機械眼。
 
 ⸻
 
-4–7s — BUILD
+2–4 秒 — 升溫（ESCALATION）
 
-She drifts hard around a pile of overturned taxis.
+低角度晃動的側向追蹤鏡頭。
 
-The werewolf slams through one car completely, sending debris flying across the road.
+機械狼人以不自然的極快速度奔跑，時而四肢著地，時而躍過廢棄車輛。
 
-It gains ground fast.
+牠外露的機械脊椎不斷迸出火花，血肉與金屬劇烈地交織在一起。
 
-The woman shouts into the radio:
+無線電在她的耳邊響起雜訊。
 
-“I’m trying!”
+男聲：
 
-Ahead through smoke and neon haze—
-
-a broken flyover ramp appears.
+「把它引到定位！」
 
 ⸻
 
-7–10s — COMMIT
+4–7 秒 — 鋪陳（BUILD）
 
-She accelerates directly toward the ramp.
+她猛力甩尾，繞過一堆翻覆的計程車。
 
-Cut to rooftop—
+狼人直接撞穿其中一輛車，碎片飛散在整條路上。
 
-A man with a bazooka steadies his aim through heat distortion.
+牠迅速拉近距離。
 
-Radio:
+女子對著無線電大喊：
 
-“Bring it closer…”
+「我正在試！」
 
-The cyber-werewolf launches itself forward in massive leaps, nearly reaching the bike.
+透過煙霧與霓虹迷霧看向前方——
 
-⸻
-
-10–13s — BULLET TIME PAYOFF
-
-The woman hits the ramp and flies into the air.
-
-Bullet time engages.
-
-The cybernetic werewolf leaps upward behind her, claws reaching inches from her back.
-
-The bazooka fires.
-
-Rocket streaks through frame in slow motion.
-
-Direct impact into the werewolf’s chest.
-
-Explosion of sparks, fire, metal fragments, fur, and smoke.
+出現了一座斷裂的高架橋坡道。
 
 ⸻
 
-13–15s — FINAL BEAT
+7–10 秒 — 決意（COMMIT）
 
-Time snaps back.
+她加速直衝坡道。
 
-The woman lands hard, bike wobbling violently—
+切換至屋頂視角——
 
-she regains control and speeds forward.
+一名扛著火箭筒的男子透過熱變形瞄準目標。
 
-Behind her, the burning cyber-werewolf crashes through wrecked cars and explodes into debris.
+無線電：
 
-She laughs into the radio:
+「再靠近一點……」
 
-“Got him.”
+機械狼人以巨大的跳躍向前衝刺，爪子幾乎觸及摩托車後方。
 
-The man cheers over comms.
+⸻
 
-Cut.
+10–13 秒 — 子彈時間高潮（BULLET TIME PAYOFF）
+
+女子衝上坡道，飛向空中。
+
+進入子彈時間。
+
+機械狼人躍向空中追趕，爪子距離她的背部僅有幾英吋。
+
+火箭筒開火。
+
+火箭以慢動作劃過畫面。
+
+直接命中狼人的胸口。
+
+火花、火焰、金屬碎片、毛髮與煙霧瞬間炸開。
+
+⸻
+
+13–15 秒 — 最終收尾（FINAL BEAT）
+
+時間恢復正常。
+
+女子重重落地，摩托車劇烈搖晃——
+
+她重新穩住車身，加速向前駛去。
+
+在她身後，燃燒的機械狼人撞穿廢車，炸成碎片。
+
+她對著無線電大笑：
+
+「搞定了。」
+
+男子在通訊頻道中歡呼。
+
+畫面切斷。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0fab2eea50a88534f5e208367d91f57/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Mumbai Werewolf Pursuit">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0fab2eea50a88534f5e208367d91f57/thumbnails/thumbnail.jpg" width="600" alt="賽博龐克孟買：狼人追逐戰">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5434)**
 
@@ -4864,6 +4862,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-05-30T07:02:53.328Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-05-30T10:18:45.411Z</sub>
 
 </div>

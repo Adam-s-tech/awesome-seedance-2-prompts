@@ -361,3030 +361,3030 @@ Seedance 2.0을 사용하여 야간 스트리트 레이싱 시퀀스를 생성�
 
 > 📝 게시일 기준 정렬(최신순)
 
-### Mega Crocodile vs Carnivorous Flower Pit
+### 메가 악어 vs 식인 꽃 구덩이
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A terrifying jungle creature feature prompt featuring a giant crocodile falling into a pit of predatory carnivorous plants.
+> 거대한 악어가 포식성 식인 식물 구덩이에 빠지는 공포스러운 정글 크리처물 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Nightmare creature island. Dense prehistoric jungle. Giant ferns, twisted roots, thick humidity, insects screaming in the background. Sunlight barely reaches the ground. Hyper-real creature-feature action. Chaotic handheld cinematography, aggressive speed ramps, crash zooms, whip pans, low-angle tracking shots. Sound: crocodile roars, breaking trees, snapping plant jaws, frantic breathing.
+악몽 같은 크리처 섬. 울창한 선사 시대 정글. 거대한 양치식물, 뒤틀린 뿌리, 짙은 습기, 배경에서 울려 퍼지는 곤충 소리. 햇빛이 거의 닿지 않는 지면. 초현실적인 크리처물 액션. 혼란스러운 핸드헬드 촬영, 공격적인 속도 변화, 크래시 줌, 휩 팬, 로우 앵글 트래킹 샷. 사운드: 악어의 포효, 부러지는 나무 소리, 식물의 턱이 닫히는 소리, 다급한 숨소리.
 
 ⸻
 
-0–2s — HOOK
+0–2초 — 훅 (HOOK)
 
-Low-angle handheld tracking shot.
+로우 앵글 핸드헬드 트래킹 샷.
 
-A survivor is already sprinting through dense jungle.
+생존자가 울창한 정글을 가로질러 전력 질주한다.
 
-Branches whip across frame.
+나뭇가지들이 화면을 가로질러 휘몰아친다.
 
-Behind him—
+그의 뒤에서—
 
-A gigantic mega crocodile explodes through the vegetation.
+거대한 메가 악어가 수풀을 뚫고 튀어나온다.
 
-Forty feet long.
+길이 40피트.
 
-Ancient scars covering its body.
+몸 전체를 뒤덮은 고대의 흉터.
 
-Trees snap in half as it charges.
+악어가 돌진하며 나무들이 반으로 꺾인다.
 
-Its jaws slam shut inches behind him.
-
-⸻
-
-2–5s — ESCALATION
-
-Side tracking shot.
-
-The survivor jumps over roots and fallen logs.
-
-The crocodile ignores obstacles completely.
-
-It bulldozes through everything.
-
-Entire bushes and small trees are launched into the air.
-
-The gap between them shrinks rapidly.
-
-The survivor looks ahead—
-
-A strange clearing.
+악어의 턱이 그의 등 뒤 몇 인치 차이로 쾅 닫힌다.
 
 ⸻
 
-5–8s — FALSE SAFETY
+2–5초 — 고조 (ESCALATION)
 
-Wide shot.
+측면 트래킹 샷.
 
-The survivor bursts into a beautiful field of enormous flowers.
+생존자가 뿌리와 쓰러진 통나무를 뛰어넘는다.
 
-Bright colors.
+악어는 장애물을 완전히 무시한다.
 
-Huge petals.
+모든 것을 밀어붙이며 돌진한다.
 
-Completely peaceful.
+덤불과 작은 나무들이 공중으로 튕겨 나간다.
 
-He doesn’t stop.
+둘 사이의 거리가 급격히 좁혀진다.
 
-Runs straight through.
+생존자가 앞을 바라본다—
 
-The crocodile follows at full speed.
-
-Then—
-
-The ground beneath the crocodile cracks.
+낯선 공터가 나타난다.
 
 ⸻
 
-8–11s — REVEAL
+5–8초 — 거짓된 안전 (FALSE SAFETY)
 
-Crash zoom downward.
+와이드 샷.
 
-The entire flower field collapses.
+생존자가 거대한 꽃들이 가득한 아름다운 들판으로 뛰어든다.
 
-Hidden beneath it—
+밝은 색상.
 
-A gigantic biological pit.
+거대한 꽃잎들.
 
-Hundreds of flower stalks erupt upward.
+완전히 평화로운 모습.
 
-But these aren’t flowers.
+그는 멈추지 않는다.
 
-Each bloom opens into a circular mouth lined with jagged teeth.
+곧장 가로질러 달린다.
 
-The crocodile falls directly into the center.
+악어가 전속력으로 뒤따른다.
 
-⸻
+그때—
 
-11–13s — CHAOS
-
-The flower creatures attack immediately.
-
-Dozens latch onto the crocodile.
-
-The beast thrashes violently.
-
-Flower heads are ripped apart.
-
-Others immediately replace them.
-
-The entire pit becomes a feeding frenzy.
-
-Petals.
-
-Teeth.
-
-Mud.
-
-Blood-red pollen exploding everywhere.
+악어 발밑의 땅이 갈라진다.
 
 ⸻
 
-13–15s — SHOCKING PAYOFF
+8–11초 — 반전 (REVEAL)
 
-The ground shakes.
+아래를 향한 크래시 줌.
 
-A colossal flower rises from the center of the pit.
+꽃밭 전체가 무너져 내린다.
 
-Its bloom is larger than a truck.
+그 아래 숨겨진 것—
 
-It wraps around the struggling crocodile.
+거대한 생물학적 구덩이.
 
-Then violently launches it into the air.
+수백 개의 꽃 줄기가 위로 솟구친다.
 
-The giant flower opens fully—
+하지만 이것들은 꽃이 아니다.
 
-Catches the airborne crocodile whole—
+각 꽃봉오리가 톱니 같은 이빨로 둘러싸인 원형의 입으로 벌어진다.
 
-And swallows it in a single motion.
+악어가 구덩이 한가운데로 떨어진다.
 
-The survivor stares in disbelief.
+⸻
 
-Then the giant flower slowly turns toward him.
+11–13초 — 혼돈 (CHAOS)
 
-Its mouth begins opening again.
+꽃 크리처들이 즉시 공격한다.
 
-Hard cut to black.
+수십 마리가 악어에게 달라붙는다.
+
+짐승이 격렬하게 몸부림친다.
+
+꽃 머리들이 찢겨 나간다.
+
+다른 꽃들이 즉시 그 자리를 대신한다.
+
+구덩이 전체가 광란의 먹이 사냥터가 된다.
+
+꽃잎.
+
+이빨.
+
+진흙.
+
+사방으로 터져 나오는 핏빛 꽃가루.
+
+⸻
+
+13–15초 — 충격적인 결말 (SHOCKING PAYOFF)
+
+땅이 흔들린다.
+
+구덩이 중앙에서 거대한 꽃이 솟아오른다.
+
+꽃봉오리가 트럭보다 크다.
+
+몸부림치는 악어를 휘감는다.
+
+그리고 격렬하게 공중으로 쏘아 올린다.
+
+거대한 꽃이 완전히 벌어지며—
+
+공중에 뜬 악어를 통째로 낚아채—
+
+단 한 번의 동작으로 삼켜버린다.
+
+생존자가 믿을 수 없다는 듯 쳐다본다.
+
+그때 거대한 꽃이 천천히 그를 향해 돌아선다.
+
+꽃의 입이 다시 벌어지기 시작한다.
+
+블랙 화면으로 하드 컷.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/944b873cdbe26e5c1e2536607831457b/thumbnails/thumbnail.jpg" width="600" alt="Mega Crocodile vs Carnivorous Flower Pit">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/944b873cdbe26e5c1e2536607831457b/thumbnails/thumbnail.jpg" width="600" alt="메가 악어 vs 식인 꽃 구덩이">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5437)**
 
 **작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2060509418903716012) | **게시일:** May 29, 2026
 
 ---
-### Parasite Lake and Mutated Crocodile Horror Sequence
+### 기생충 호수와 돌연변이 악어 공포 시퀀스
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A terrifying creature-feature video prompt featuring a survivor fleeing a forty-foot crocodile that undergoes a horrific mutation caused by glowing parasites.
+> 빛나는 기생충으로 인해 끔찍한 돌연변이를 일으킨 40피트 크기의 악어로부터 도망치는 생존자를 다룬 공포 크리처물 영상 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Nightmare jungle island. Black water lake surrounded by twisted mangrove roots, giant ferns, strange glowing plants, thick fog hanging over the water. The island feels biologically wrong. Hyper-real creature-feature action. Chaotic handheld cinematography, aggressive speed ramps, crash zooms, rapid cut-tos. Sound: splashing water, crocodile roars, parasite screeches, frantic breathing. Multiple shots. Like a movie scene. 
+악몽 같은 정글 섬. 뒤틀린 맹그로브 뿌리, 거대한 양치식물, 기이하게 빛나는 식물들로 둘러싸인 검은 호수, 수면 위로 자욱하게 깔린 안개. 섬 전체가 생물학적으로 기괴한 느낌을 줍니다. 초현실적인 크리처물 액션. 혼란스러운 핸드헬드 촬영 기법, 공격적인 스피드 램프, 크래시 줌, 빠른 컷 전환. 사운드: 물 튀기는 소리, 악어의 포효, 기생충의 날카로운 울음소리, 다급한 숨소리. 다중 샷. 영화의 한 장면처럼.
 
 ⸻
 
-0–2s — HOOK
+0–2초 — 훅 (HOOK)
 
-Handheld chase shot.
+핸드헬드 추격 샷.
 
-A survivor is already sprinting along the muddy shoreline.
+생존자가 진흙투성이 강변을 따라 필사적으로 달리고 있다.
 
-Behind him—
+그 뒤로—
 
-A gigantic crocodile bursts through shallow water.
+거대한 악어 한 마리가 얕은 물을 가르며 튀어 오른다.
 
-Forty feet long.
+길이 40피트.
 
-Ancient scars.
+고대의 흉터들.
 
-Massive jaws snapping shut inches behind him.
+등 뒤 몇 인치 차이로 거대한 턱이 닫힌다.
 
-Mud and water explode everywhere.
-
-⸻
-
-2–5s — ESCALATION
-
-The survivor reaches the lake edge.
-
-No options left.
-
-The crocodile lunges.
-
-At the last second—
-
-He dives into the water.
-
-Cut underwater.
-
-The crocodile crashes into the lake behind him.
-
-A massive wall of bubbles and mud fills the frame.
+진흙과 물이 사방으로 튄다.
 
 ⸻
 
-5–8s — FALSE SAFETY
+2–5초 — 고조 (ESCALATION)
 
-Underwater tracking shot.
+생존자가 호숫가 끝에 다다른다.
 
-The survivor swims deeper.
+더 이상 갈 곳이 없다.
 
-Looks behind.
+악어가 달려든다.
 
-The crocodile is still searching.
+마지막 순간—
 
-Then something changes.
+그는 물속으로 뛰어든다.
 
-Small glowing worm-like creatures emerge from the darkness.
+수중 컷.
 
-Hundreds of them with large jagged teeth
+악어가 그 뒤를 따라 호수로 돌진한다.
 
-Moving unnaturally fast.
-
-⸻
-
-8–11s — REVEAL
-
-The parasites attach themselves to the crocodile.
-
-One.
-
-Ten.
-
-Fifty.
-
-Hundreds.
-
-The crocodile thrashes violently.
-
-Its body starts mutating almost immediately.
-
-Extra limbs push through its sides.
-
-Additional jaws emerge from its neck.
-
-New eyes open beneath its scales.
-
-The water turns chaotic.
+거대한 거품과 진흙 벽이 화면을 가득 채운다.
 
 ⸻
 
-11–13s — CHAOS
+5–8초 — 거짓된 안전 (FALSE SAFETY)
 
-The survivor surfaces and pulls himself onto shore.
+수중 트래킹 샷.
 
-Gasping for air.
+생존자가 더 깊은 곳으로 헤엄친다.
 
-Relieved.
+뒤를 돌아본다.
 
-Then the lake erupts.
+악어가 여전히 그를 찾고 있다.
 
-The mutated crocodile explodes upward.
+그때 무언가가 변한다.
 
-Twice as large.
+어둠 속에서 작고 빛나는 벌레 같은 생명체들이 나타난다.
 
-Covered in glowing parasites.
+크고 날카로운 이빨을 가진 수백 마리의 생명체들.
 
-Multiple jaws opening independently.
+부자연스러울 정도로 빠르게 움직인다.
 
 ⸻
 
-13–15s — SHOCKING PAYOFF
+8–11초 — 정체 공개 (REVEAL)
 
-The creature roars.
+기생충들이 악어의 몸에 달라붙는다.
 
-Then one of the extra jaws tears open.
+한 마리.
 
-Inside—
+열 마리.
 
-Another fully formed crocodile head begins pushing outward.
+쉰 마리.
 
-Growing from inside the first.
+수백 마리.
 
-The survivor stares in disbelief.
+악어가 격렬하게 몸부림친다.
 
-The second head opens its eyes.
+몸이 즉각적으로 변이하기 시작한다.
 
-Hard cut to black.
+옆구리에서 여분의 팔다리가 돋아난다.
+
+목에서 추가적인 턱이 튀어나온다.
+
+비늘 아래로 새로운 눈들이 떠진다.
+
+물속이 혼돈으로 변한다.
+
+⸻
+
+11–13초 — 혼돈 (CHAOS)
+
+생존자가 수면 위로 올라와 강변으로 기어 올라온다.
+
+거친 숨을 몰아쉰다.
+
+안도한다.
+
+그때 호수가 폭발한다.
+
+돌연변이 악어가 위로 솟구친다.
+
+두 배는 더 커진 몸집.
+
+빛나는 기생충들로 뒤덮여 있다.
+
+여러 개의 턱이 제각각 벌어진다.
+
+⸻
+
+13–15초 — 충격적인 결말 (SHOCKING PAYOFF)
+
+괴물이 포효한다.
+
+그때 여분의 턱 중 하나가 찢어진다.
+
+그 안에서—
+
+또 다른 온전한 악어 머리가 밖으로 밀려 나오기 시작한다.
+
+첫 번째 악어의 몸 안에서 자라나고 있다.
+
+생존자가 믿을 수 없다는 듯 쳐다본다.
+
+두 번째 머리가 눈을 뜬다.
+
+화면이 갑자기 암전된다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060499124030713856/img/j_Hg9QsHetZjRXW6.jpg" width="600" alt="Parasite Lake and Mutated Crocodile Horror Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/deb9f35702d4d63089ec47f0c10e1c9d/thumbnails/thumbnail.jpg" width="600" alt="기생충 호수와 돌연변이 악어 공포 시퀀스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5454)**
 
 **작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2060499189478642005) | **게시일:** May 29, 2026
 
 ---
-### Sled Dog Mutation Body Horror Sequence
+### 썰매개 변이 바디 호러 시퀀스
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A terrifying body horror scene inspired by 'The Thing', depicting a frightened sled dog undergoing a violent biological transformation in an Antarctic outpost.
+> 영화 '더 씽(The Thing)'에서 영감을 받은 공포스러운 바디 호러 장면으로, 남극 기지에서 격렬한 생물학적 변이를 겪는 겁에 질린 썰매개의 모습을 묘사합니다.
 
 #### 📝 프롬프트
 
 ```
-Remote Antarctic outpost at night. Snowstorm outside. Dim yellow lighting inside a kennel room. Metal cages. Frost-covered windows. High-tension body horror with escalating dread and explosive transformation. Slow unease that detonates into chaos. Sound: wind, dog breathing, distant generator hum.
+밤, 외딴 남극 기지. 밖에는 눈보라가 몰아친다. 개 사육장 안의 희미한 노란 조명. 금속 케이지. 서리가 낀 창문. 고조되는 공포와 폭발적인 변이가 어우러진 긴장감 넘치는 바디 호러. 서서히 다가오는 불안감이 혼돈으로 폭발한다. 사운드: 바람 소리, 개의 거친 숨소리, 멀리서 들리는 발전기 소음.
 
 ⸻
 
-0–2s — HOOK
+0–2초 — 훅(HOOK)
 
-Wide shot.
+와이드 샷.
 
-A frightened sled dog bursts into a research statio
+겁에 질린 썰매개 한 마리가 연구 기지로 뛰어 들어온다.
 
-Snow covering its fur.
+털에 눈이 덮여 있다.
 
-Researchers quickly shut the door behind it.
+연구원들이 서둘러 뒤쪽 문을 닫는다.
 
-Outside, the blizzard rages.
+밖에서는 눈보라가 거세게 몰아친다.
 
-The dog looks terrified.
-
-⸻
-
-2–4s— UNEASE
-
-Close-up.
-
-The dog sits quietly.
-
-Panting.
-
-Researchers watch the dog bark sing a them
-
-One scientist smiles.
-
-“Poor thing.”
-
-Everything seems normal.
-
-Too normal.
+개는 겁에 질린 표정이다.
 
 ⸻
 
-4-6s — THE WRONGNESS
+2–4초 — 불안감
 
-The dog suddenly stops panting.
+클로즈업.
 
-Its chest expands.
+개는 조용히 앉아 있다.
 
-Then expands more.
+헐떡거린다.
 
-Then keeps expanding.
+연구원들이 개를 지켜본다.
 
-Far beyond what should be possible.
+한 과학자가 미소 짓는다.
 
-The room goes silent.
+“불쌍한 녀석.”
 
-Nobody understands what they’re seeing.
+모든 것이 평범해 보인다.
 
-⸻
-
-6-9s — REVEAL
-
-Crash zoom.
-
-The dog’s ribcage begins opening.
-
-Slowly.
-
-Like flower petals.
-
-Skin stretches.
-
-Bones separate.
-
-Inside—
-
-Dozens of blinking eyes.
-
-All looking in different directions.
-
-Watching everyone.
+지나치게 평범하다.
 
 ⸻
 
-9-12s — CHAOS
+4–6초 — 위화감
 
-The dog stands.
+개가 갑자기 헐떡임을 멈춘다.
 
-Or what used to be a dog.
+가슴이 부풀어 오른다.
 
-Tentacles emerge.
+더 크게 부풀어 오른다.
 
-Additional limbs unfold from its body.
+계속해서 부풀어 오른다.
 
-The kennel erupts into panic.
+생물학적으로 불가능할 정도로 커진다.
 
-Scientists back away.
+방 안은 정적에 휩싸인다.
 
-One drops a flamethrower.
+아무도 눈앞의 상황을 이해하지 못한다.
 
 ⸻
 
-12-15s — PAYOFF
+6–9초 — 정체 공개
 
-The creature lunges across the kennel.
+크래시 줌.
 
-Cages explode apart.
+개의 흉곽이 열리기 시작한다.
 
-Metal bends.
+천천히.
 
-People scream.
+꽃잎처럼.
 
-Bullet-time moment.
+피부가 늘어난다.
 
-Eyes opening everywhere.
+뼈가 분리된다.
 
-Tentacles extending.
+그 안에는—
 
-The flamethrower ignites.
+수십 개의 깜빡이는 눈.
 
-Fire fills frame.
+모두 다른 방향을 바라보고 있다.
 
-The creature screams.
+모두를 지켜보며.
+
+⸻
+
+9–12초 — 혼돈
+
+개가 일어선다.
+
+아니, 한때 개였던 무언가가.
+
+촉수가 튀어나온다.
+
+몸에서 추가적인 팔다리가 펼쳐진다.
+
+사육장은 아수라장이 된다.
+
+과학자들이 뒷걸음질 친다.
+
+한 명이 화염방사기를 떨어뜨린다.
+
+⸻
+
+12–15초 — 절정
+
+괴물이 사육장을 가로질러 달려든다.
+
+케이지가 폭발하듯 부서진다.
+
+금속이 휘어진다.
+
+사람들의 비명 소리.
+
+불렛 타임 연출.
+
+곳곳에서 눈이 떠진다.
+
+촉수가 뻗어 나온다.
+
+화염방사기가 점화된다.
+
+화면을 가득 채우는 불길.
+
+괴물이 비명을 지른다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060496113569071104/img/qmQEocDuIi_zj2oa.jpg" width="600" alt="Sled Dog Mutation Body Horror Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ad6c423b58c95f8a50b5d60b8eac30a/thumbnails/thumbnail.jpg" width="600" alt="썰매개 변이 바디 호러 시퀀스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5459)**
 
 **작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2060496176521359470) | **게시일:** May 29, 2026
 
 ---
-### FPV Airship Flight through Grand Harbor
+### 그랜드 하버를 비행하는 FPV 비행선
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A breathtaking first-person view animation of a woman piloting a small white airship through a majestic fantasy harbor city, featuring high-speed FPV drone-style camera work and cinematic lighting.
+> 웅장한 판타지 항구 도시를 가로질러 작은 흰색 비행선을 조종하는 여성의 모습을 담은 숨 막히는 1인칭 시점 애니메이션으로, 고속 FPV 드론 스타일의 카메라 워킹과 영화 같은 조명이 특징입니다.
 
 #### 📝 프롬프트
 
 ```
-An ultra-beautiful professional anime video in first-person perspective of a woman piloting a one-person white airship. Red lines and arrows must not appear in the final video. Set in the majestic harbor city from the reference image, based in white and gold, the camera flies faithfully at ultra-high speed along the route indicated by red arrows, like an FPV drone. The camera starts from the sea on the left side of the screen, racing low across the surface of the blue harbor. Navigating between yachts, piers, white ships, and harbor architecture, it crosses the coastal city at high speed from left to center. It then accelerates toward the giant cathedral in the center, approaching closely as if skimming over the buildings. Just before passing the cathedral front, the camera surges upward along the main tower. Rising sharply with the power of looking up at the spire from directly below, it transitions into a grand overhead view of the entire city, harbor, and distant mountains. After crossing the top of the tower, the camera banks heavily to the right and orbits. Keeping the cathedral tower in the center of the screen, it circles dynamically clockwise, showing the white palace-like streets, blue sea, bridges, port facilities, and distant mountains in a flowing manner. Afterward, the camera passes over the city on the right at high speed and gently descends along the trajectory of the red line. It glides low over canal roads, squares, piers, and buildings with gold decorations, flying through toward the large glass-roofed building and port-side street in the right foreground. The video is cinematic, ultra-high definition, with smooth camera work, a strong sense of speed, natural motion blur, realistic atmosphere, water reflections, sunlight, three-dimensional clouds, and emphasizes the scale of a grand fantasy harbor city. Do not display any red guide lines, arrows, hand-drawn marks, annotations, or text.
+1인용 흰색 비행선을 조종하는 여성의 1인칭 시점을 담은 초고화질 전문 애니메이션 영상입니다. 최종 영상에는 빨간색 선이나 화살표가 나타나지 않아야 합니다. 참조 이미지 속 흰색과 금색이 어우러진 웅장한 항구 도시를 배경으로, 카메라는 FPV 드론처럼 빨간색 화살표가 가리키는 경로를 따라 초고속으로 비행합니다. 카메라는 화면 왼쪽 바다에서 시작하여 푸른 항구 수면 위를 낮게 질주합니다. 요트, 부두, 흰색 선박, 항구 건축물 사이를 누비며 왼쪽에서 중앙으로 해안 도시를 고속으로 가로지릅니다. 이후 중앙에 위치한 거대한 대성당을 향해 가속하며 건물 위를 스치듯 가깝게 접근합니다. 대성당 정면을 통과하기 직전, 카메라는 주 탑을 따라 급상승합니다. 탑 아래에서 첨탑을 올려다보는 듯한 강력한 상승감과 함께 도시 전체와 항구, 멀리 보이는 산맥을 조망하는 웅장한 오버헤드 뷰로 전환됩니다. 탑 꼭대기를 지난 후 카메라는 오른쪽으로 크게 기울며 선회합니다. 대성당 탑을 화면 중앙에 두고 시계 방향으로 역동적으로 회전하며, 흰색 궁전 같은 거리, 푸른 바다, 다리, 항만 시설, 멀리 보이는 산맥을 유려하게 보여줍니다. 그 후 카메라는 오른쪽 도시 위를 고속으로 지나 빨간색 선의 궤적을 따라 부드럽게 하강합니다. 운하 도로, 광장, 부두, 금색 장식이 있는 건물 위를 낮게 활공하며 오른쪽 전경에 있는 대형 유리 지붕 건물과 항구 쪽 거리를 향해 비행합니다. 이 영상은 영화 같고 초고해상도이며, 부드러운 카메라 워킹, 강렬한 속도감, 자연스러운 모션 블러, 사실적인 분위기, 물에 비친 반사, 햇살, 입체적인 구름을 구현하여 웅장한 판타지 항구 도시의 규모감을 강조합니다. 어떠한 빨간색 가이드라인, 화살표, 손으로 그린 표시, 주석 또는 텍스트도 표시하지 마십시오.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060428594497896449/img/s6hkHrX4qBXQrxyD.jpg" width="600" alt="FPV Airship Flight through Grand Harbor">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d97f804ece714c9bc4a5729e9dbab573/thumbnails/thumbnail.jpg" width="600" alt="그랜드 하버를 비행하는 FPV 비행선">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5470)**
 
 **작성자:** [妖精アーヤさん](https://x.com/aiehon_aya) | **출처:** [Link](https://x.com/aiehon_aya/status/2060481313145262213) | **게시일:** May 29, 2026
 
 ---
-### 90s Disney Style Anubis Animation
+### 90년대 디즈니 스타일 아누비스 애니메이션
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed multi-scene prompt for Seedance 2.0 creating a 90s Disney style animation where the god Anubis is defeated by tickling.
+> Seedance 2.0을 위한 상세한 멀티 씬 프롬프트로, 90년대 디즈니 애니메이션 스타일로 아누비스 신이 간지럼을 당해 패배하는 장면을 연출합니다.
 
 #### 📝 프롬프트
 
 ```
-Classic 90s Disney animation style. Scene 1 [0-3 seconds]: In front of a palace in the desert, the powerful jackal god Anubis is performing magic. He raises his arms slightly, lightning magic gathering in his clawed palms, and says in his majestic voice: 'Humans, you will pay for your arrogance!' Lightning flashes near him several times. In front of him, three humans (two men and one woman) look at him nervously, wanting to stop the evil Anubis but not knowing how. Scene 2 [4-6 seconds]: A close-up of Anubis's face. Anubis threatens with an evil smile: 'You are finished.' Then he lets out an evil laugh. He continues to laugh evilly, then closes his eyes, and the laughter turns into a ticklish laugh, indicating he is very ticklish and something is scratching him. Scene 3 [7-9 seconds]: The camera slowly pulls back to show the woman standing next to Anubis, gently moving a feather up and down under Anubis's armpit and repeating the action. Anubis closes his eyes, grins broadly, raises his arms to reveal his armpits, and giggles. Scene 4 [10-12 seconds]: The woman continues to move the feather up and down under Anubis's armpits, and Anubis continues to giggle. Meanwhile, the light magic gradually fades, leaving only the sun. Anubis laughs and laughs, unable to focus on feeling the magic. Anubis laughs so hard he falls to one knee, one arm raised high to reveal his armpit, letting the feather tickle him, while the other empty hand pounds the ground, laughing continuously. Scene 5 [13-14 seconds]: The woman continues to tickle Anubis's armpit with the feather, and Anubis continues to laugh heartily, shouting in a giggling voice: 'Stop torturing me! Don't do this!' then continues to giggle. The two men watch this scene, relieved that they stopped the evil Anubis. Anubis is muscular, with rings on his arms and neck. He is shirtless. His voice is deep and magnetic, yet full of power. His hands are claws. Audio in English.
+고전적인 90년대 디즈니 애니메이션 스타일. 장면 1 [0-3초]: 사막의 궁전 앞, 강력한 자칼의 신 아누비스가 마법을 부리고 있습니다. 그는 팔을 살짝 들어 올리며 갈퀴 같은 손바닥에 번개 마법을 모으고, 위엄 있는 목소리로 말합니다: '인간들아, 너희의 오만함을 대가로 치르게 될 것이다!' 그의 주변에서 번개가 여러 번 번쩍입니다. 그 앞에는 세 명의 인간(남성 2명, 여성 1명)이 사악한 아누비스를 막고 싶어 하지만 방법을 몰라 불안한 표정으로 그를 바라보고 있습니다. 장면 2 [4-6초]: 아누비스의 얼굴 클로즈업. 아누비스가 사악한 미소를 지으며 위협합니다: '이제 끝이다.' 그러고는 사악한 웃음소리를 냅니다. 계속해서 사악하게 웃던 그가 눈을 감자, 웃음소리가 간지럼을 타는 웃음으로 변하며 그가 매우 간지럼을 잘 타고 무언가가 그를 긁고 있음을 암시합니다. 장면 3 [7-9초]: 카메라가 천천히 뒤로 빠지며 아누비스 옆에 서 있는 여성이 깃털을 아누비스의 겨드랑이 아래에서 위아래로 부드럽게 움직이며 반복하는 모습이 보입니다. 아누비스는 눈을 감고 활짝 웃으며, 겨드랑이를 드러내기 위해 팔을 들어 올리고 낄낄거립니다. 장면 4 [10-12초]: 여성이 계속해서 깃털로 아누비스의 겨드랑이를 간지럽히고, 아누비스는 계속해서 낄낄거립니다. 그동안 빛의 마법은 서서히 사라지고 태양만 남습니다. 아누비스는 마법에 집중하지 못한 채 계속해서 웃음을 터뜨립니다. 아누비스는 너무 웃은 나머지 한쪽 무릎을 꿇고, 한 팔은 높이 들어 겨드랑이를 드러낸 채 깃털이 자신을 간지럽히게 내버려 둡니다. 다른 한 손으로는 땅을 치며 계속해서 웃습니다. 장면 5 [13-14초]: 여성이 계속해서 깃털로 아누비스의 겨드랑이를 간지럽히고, 아누비스는 낄낄거리는 목소리로 '그만 괴롭혀! 이러지 마!'라고 외치며 호탕하게 웃음을 터뜨립니다. 두 남자는 사악한 아누비스를 막아냈다는 안도감으로 이 장면을 지켜봅니다. 아누비스는 근육질이며 팔과 목에 고리를 차고 있습니다. 상의는 입지 않았습니다. 그의 목소리는 낮고 매력적이지만 힘이 넘칩니다. 그의 손은 갈퀴 모양입니다. 오디오는 영어.
 ```
 
-<img src="https://pbs.twimg.com/media/HJhF1qkWEAMznW5.jpg" width="600" alt="90s Disney Style Anubis Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/568a61242d6b4b234c8717ebc3a00f23/thumbnails/thumbnail.jpg" width="600" alt="90년대 디즈니 스타일 아누비스 애니메이션">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5464)**
 
 **작성자:** [migrok](https://x.com/migrok293703) | **출처:** [Link](https://x.com/migrok293703/status/2060473171812511979) | **게시일:** May 29, 2026
 
 ---
-### Brutalist Architecture Rotring Product Commercial
+### 브루탈리즘 건축 양식 Rotring 제품 광고
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A sophisticated brutalist-themed commercial for a Rotring pencil, featuring architectural visualization, massive concrete structures, and realistic lighting.
+> Rotring 연필을 위한 세련된 브루탈리즘 테마의 광고로, 건축 시각화, 거대한 콘크리트 구조물, 사실적인 조명 효과를 특징으로 합니다.
 
 #### 📝 프롬프트
 
 ```
-Use the attached image for the pencil reference.
+연필 참고 자료로 첨부된 이미지를 사용하세요.
 
-Style: Brutalist architecture, luxury product commercial, architectural visualization, ultra-realistic cinematography, raw concrete, exposed rebar, monumental scale, Porsche Design precision, Apple-level minimalism, cinematic lighting, volumetric dust, photoreal VFX.
+스타일: 브루탈리즘 건축, 럭셔리 제품 광고, 건축 시각화, 초현실적 영화 촬영 기법, 가공되지 않은 콘크리트, 노출 철근, 기념비적 규모, Porsche Design의 정밀함, Apple 수준의 미니멀리즘, 영화적 조명, 볼륨감 있는 먼지 효과, 사실적인 VFX.
 
 0:00–0:03
 
-Pure black. A single red line appears in darkness. The line glows softly. The camera follows it. As it moves forward, enormous concrete walls begin rising from the ground. Massive slabs. Raw geometry. Monolithic forms. The line is literally building architecture.
+완전한 어둠. 어둠 속에서 하나의 빨간 선이 나타납니다. 선은 부드럽게 빛납니다. 카메라는 그 선을 따라갑니다. 선이 앞으로 나아감에 따라 거대한 콘크리트 벽이 땅에서 솟아오르기 시작합니다. 거대한 슬래브. 가공되지 않은 기하학적 형태. 모놀리식 구조. 이 선은 말 그대로 건축물을 짓고 있습니다.
 
-SFX: Deep architectural bass, concrete resonance, heavy structural impacts, distant industrial ambience.
+SFX: 깊은 건축적 베이스, 콘크리트 공명, 무거운 구조적 충격음, 멀리서 들리는 산업적 분위기.
 
-VOICEOVER: "Every structure begins with a line."
+내레이션: "모든 구조물은 하나의 선에서 시작된다."
 
 0:03–0:06
 
-The camera accelerates through a sprawling brutalist megacity. Towering concrete masses. Suspended walkways. Exposed steel reinforcement. Gigantic voids and shadows. The red line snakes through the city like an artery. Unnoticed by the viewer, the city's geometry subtly mirrors the proportions of a Rotring.
+카메라는 광활한 브루탈리즘 메가시티를 가로질러 가속합니다. 우뚝 솟은 콘크리트 덩어리들. 공중에 매달린 통로. 노출된 철근. 거대한 빈 공간과 그림자. 빨간 선은 동맥처럼 도시를 누비고 다닙니다. 시청자는 눈치채지 못하지만, 도시의 기하학적 구조는 미묘하게 Rotring의 비율을 반영합니다.
 
-MUSIC: Minimal industrial pulse, mechanical rhythm, slow cinematic build.
+음악: 미니멀한 인더스트리얼 펄스, 기계적인 리듬, 느리고 영화적인 빌드업.
 
-VOICEOVER: "A line becomes a wall." "A wall becomes a city."
+내레이션: "선은 벽이 되고." "벽은 도시가 된다."
 
 0:06–0:10
 
-The camera rises thousands of feet above the metropolis. The full scale is revealed. A breathtaking brutalist world stretching to the horizon. Then the impossible happens. The entire city begins lifting from the ground. Buildings detach. Bridges separate. Concrete fragments float upward. The audience realizes the city was never a city. It was a product.
+카메라는 대도시 위 수천 피트 상공으로 솟아오릅니다. 전체적인 규모가 드러납니다. 지평선까지 뻗어 있는 숨 막히는 브루탈리즘 세계. 그때 불가능한 일이 벌어집니다. 도시 전체가 땅에서 떠오르기 시작합니다. 건물들이 분리됩니다. 다리가 떨어져 나갑니다. 콘크리트 파편들이 위로 떠오릅니다. 관객은 이 도시가 결코 도시가 아니었음을 깨닫습니다. 그것은 하나의 제품이었습니다.
 
-SFX: Structural groans, concrete fractures, low-frequency shockwaves, massive whooshes.
+SFX: 구조물이 삐걱거리는 소리, 콘크리트가 부서지는 소리, 저주파 충격파, 거대한 바람 소리.
 
 0:10–0:13
 
-Millions of concrete particles and rusted steel elements spiral inward. Everything converges. The megastructure collapses into a single object. Your brutalist Rotring emerges. Raw. Scarred. Unbreakable. Floating in white space.
+수백만 개의 콘크리트 입자와 녹슨 철제 요소들이 안쪽으로 소용돌이칩니다. 모든 것이 하나로 모입니다. 거대 구조물이 붕괴하며 단 하나의 물체로 변합니다. 당신의 브루탈리즘 Rotring이 나타납니다. 가공되지 않은, 흠집이 난, 깨지지 않는 모습으로. 흰 공간에 떠 있습니다.
 
-MUSIC: Full orchestral rise, massive cinematic hit.
+음악: 웅장한 오케스트라의 고조, 거대한 영화적 타격음.
 
-VOICEOVER: "Some tools create architecture." "This one became it."
+내레이션: "어떤 도구는 건축을 창조한다." "이 도구는 그 자체가 되었다."
 
 0:13–0:15
 
-Hero shot. The Rotring slowly rotates. Dust falls from the concrete surface. The red ring catches the light. Silence. A precise mechanical click.
+히어로 샷. Rotring이 천천히 회전합니다. 콘크리트 표면에서 먼지가 떨어집니다. 빨간 링이 빛을 받습니다. 정적. 정밀한 기계적 클릭 소리.
 
-VOICEOVER: "Rotring." Pause. "Drawn from concrete."
+내레이션: "Rotring." (잠시 멈춤) "콘크리트에서 그려지다."
 
-END FRAME
+엔드 프레임
 
 ROTRING
 
 DRAWN FROM CONCRETE
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060457916994371585/img/pAhza1w9gkWEHbBQ.jpg" width="600" alt="Brutalist Architecture Rotring Product Commercial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9ca8b9eaa01d49314f78334a29e93e4e/thumbnails/thumbnail.jpg" width="600" alt="브루탈리즘 건축 양식 Rotring 제품 광고">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5455)**
 
 **작성자:** [Ege](https://x.com/egeberkina) | **출처:** [Link](https://x.com/egeberkina/status/2060458879369216202) | **게시일:** May 29, 2026
 
 ---
-### Cliffside Highway Coastal Disaster Video Prompt
+### 절벽 해안 도로 재난 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic and high-energy video prompt depicting a coastal disaster where a motorcycle rider races along a collapsing cliffside highway amidst a violent storm.
+> 거센 폭풍 속에서 무너지는 절벽 해안 도로를 질주하는 오토바이 라이더를 담은 영화적이고 역동적인 영상 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Hyperrealistic cinematic coastal disaster, ocean cliff highway, violent atmospheric storm surge, road erosion physics, continuous high-speed motion, ground-level chase perspective behind motorcycle rider (no visible hands emphasis), wind pressure, collapsing asphalt, hard cuts only, no fade, no dissolve, no morph transition
+초현실적인 영화적 해안 재난, 해안 절벽 도로, 격렬한 대기 폭풍 해일, 도로 침식 물리 효과, 지속적인 고속 모션, 오토바이 라이더 뒤를 쫓는 지면 높이의 추격 시점 (손이 보이지 않도록 강조), 풍압, 무너지는 아스팔트, 하드 컷 전용, 페이드 없음, 디졸브 없음, 모프 전환 없음
 
-Shot 1: Camera follows a motorcycle racing along a narrow cliffside road above violent ocean waves
-Cut to Shot 2: Cliff face begins collapsing sideways into the sea in massive chunks
-Cut to Shot 3: Road surface fractures directly under the motorcycle, forcing rapid lane shifts
-Cut to Shot 4: Ocean surge rises vertically against cliff, forming a moving wall of water
-Cut to Shot 5: FULL ACTION as entire highway segments detach and fall while motorcycle threads through collapsing gaps
-Cut to Shot 6: IMPOSSIBLE MOMENT: rider crosses a falling road slab rotating mid-air before landing back onto a narrowing strip
-Cut to Shot 7: Cliffline breaks continuously, shortening the path every second
-Cut to Shot 8: Wind and spray create near-whiteout as ocean overtakes lower cliff levels
-Cut to Shot 9: Final: road ends mid-collapse as ocean surge engulfs the frame
+샷 1: 거친 파도가 치는 좁은 절벽 도로를 따라 질주하는 오토바이를 따라가는 카메라
+샷 2로 전환: 절벽 면이 거대한 덩어리로 바다를 향해 옆으로 무너지기 시작함
+샷 3로 전환: 오토바이 바로 아래의 도로 표면이 갈라지며 급격한 차선 변경을 강요함
+샷 4로 전환: 절벽을 타고 수직으로 솟구치는 해일, 움직이는 물의 벽 형성
+샷 5로 전환: 전체 액션, 도로 구간 전체가 분리되어 떨어지는 동안 무너지는 틈새를 통과하는 오토바이
+샷 6로 전환: 불가능한 순간, 라이더가 공중에서 회전하는 떨어지는 도로 슬래브를 건너 좁아지는 길 위로 착지
+샷 7로 전환: 절벽 라인이 계속해서 무너지며 매초 경로가 짧아짐
+샷 8로 전환: 바람과 물보라가 거의 화이트아웃 상태를 만들고 바다가 낮은 절벽 단계를 집어삼킴
+샷 9로 전환: 마지막, 도로가 붕괴 도중 끊기고 해일이 화면을 집어삼킴
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/794f8c6e7e0ee90df6af1941f5c87e03/thumbnails/thumbnail.jpg" width="600" alt="Cliffside Highway Coastal Disaster Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/794f8c6e7e0ee90df6af1941f5c87e03/thumbnails/thumbnail.jpg" width="600" alt="절벽 해안 도로 재난 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5440)**
 
 **작성자:** [Alexandra Aisling](https://x.com/AllaAisling) | **출처:** [Link](https://x.com/AllaAisling/status/2060448088674935036) | **게시일:** May 29, 2026
 
 ---
-### Mega Crocodile Swamp Spider Chase
+### 메가 크로커다일 늪지대 스파이더 추격전
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-tension creature-feature script featuring a swamp chase between a giant crocodile and camouflaged jungle spiders.
+> 거대한 악어와 위장한 정글 거미 사이의 늪지대 추격전을 다룬 긴장감 넘치는 크리처물 대본입니다.
 
 #### 📝 프롬프트
 
 ```
-Tropical nightmare island. In South East Asia   - Dense jungle, giant mangrove roots, thick fog hanging over dark swamp water. Everything feels prehistoric and hostile. Fast-paced creature-feature action. Aggressive handheld camera, rapid cut-tos, speed ramps, chaotic movement. Sound: splashing water, crocodile roars, spider chittering, breaking wood.
+열대 악몽의 섬. 동남아시아 - 울창한 정글, 거대한 맹그로브 뿌리, 어두운 늪지대 위로 자욱하게 깔린 안개. 모든 것이 선사 시대처럼 적대적으로 느껴진다. 속도감 넘치는 크리처물 액션. 공격적인 핸드헬드 카메라, 빠른 컷 전환, 스피드 램프, 혼란스러운 움직임. 사운드: 물 튀기는 소리, 악어의 포효, 거미의 찍찍거리는 소리, 나무 부러지는 소리.
 
 ⸻
 
-0–2s — HOOK
+0–2초 — 훅 (HOOK)
 
-Low angle tracking shot.
+로우 앵글 트래킹 샷.
 
-A survivor is already sprinting through waist-deep swamp water.
+생존자가 허리까지 오는 늪지대 물속을 이미 전력 질주하고 있다.
 
-Behind him—
+그의 뒤에서—
 
-A gigantic crocodile explodes from the water.
+거대한 악어 한 마리가 물속에서 튀어 오른다.
 
-At least 40 feet long.
+최소 40피트(약 12미터) 길이.
 
-Ancient scars.
+고대의 흉터들.
 
-Massive jaws snapping shut inches behind him.
+등 뒤 몇 인치 차이로 거대한 턱이 닫힌다.
 
-Water erupts everywhere.
-
-⸻
-
-2–5s — ESCALATION
-
-Handheld chase shot.
-
-The survivor reaches a giant fallen tree spanning the swamp and scrambles onto it.
-
-The crocodile follows below.
-
-Crashing through roots.
-
-Biting chunks from the log.
-
-The survivor almost loses balance.
-
-The crocodile launches upward.
-
-Misses by inches.
+사방으로 물이 솟구친다.
 
 ⸻
 
-5–8s — FALSE RELIEF
+2–5초 — 고조 (ESCALATION)
 
-The survivor reaches the center of the log.
+핸드헬드 추격 샷.
 
-Finally gains distance.
+생존자가 늪지대를 가로지르는 거대한 쓰러진 나무에 도착해 기어 올라간다.
 
-Breathing hard.
+악어가 아래에서 뒤따른다.
 
-Then—
+뿌리를 부수며.
 
-The log moves.
+통나무를 물어뜯는다.
 
-At first slightly.
+생존자가 중심을 잃을 뻔한다.
 
-Then again.
+악어가 위로 솟구친다.
 
-The survivor freezes.
-
-Looks down.
+몇 인치 차이로 빗나간다.
 
 ⸻
 
-8–11s — REVEAL
+5–8초 — 거짓된 안도 (FALSE RELIEF)
 
-Crash zoom.
+생존자가 통나무 중앙에 도착한다.
 
-The entire fallen tree is covered with giant camouflage spiders.
+마침내 거리를 벌린다.
 
-Hundreds of them.
+거칠게 숨을 몰아쉰다.
 
-Some the size of dogs.
+그때—
 
-Others much larger.
+통나무가 움직인다.
 
-They begin emerging from cracks and bark.
+처음엔 살짝.
 
-The survivor realizes he’s standing in a nest.
+그다음 다시 한번.
 
-⸻
+생존자가 얼어붙는다.
 
-11–13s — CHAOS
-
-The spiders swarm.
-
-The survivor sprints.
-
-The crocodile charges onto the log after him.
-
-Spiders begin attacking both.
-
-Webs firing.
-
-Legs everywhere.
-
-The entire bridge becomes a three-way battle.
+아래를 내려다본다.
 
 ⸻
 
-13–15s — PAYOFF
+8–11초 — 반전 (REVEAL)
 
-Wide shot.
+크래시 줌.
 
-A giant alpha spider drops from above onto the crocodile’s back.
+쓰러진 나무 전체가 거대한 위장 거미들로 뒤덮여 있다.
 
-The crocodile rolls violently into the swamp.
+수백 마리의 거미들.
 
-Spider and crocodile disappear into the water fighting.
+개 크기만 한 것들도 있고.
 
-The survivor leaps off the end of the log and disappears into the jungle.
+그보다 훨씬 큰 것들도 있다.
 
-Behind him—
+거미들이 나무 틈과 껍질 사이에서 나오기 시작한다.
 
-Water erupts as the monsters continue battling.
+생존자는 자신이 둥지 위에 서 있다는 사실을 깨닫는다.
 
-Hard cut.
+⸻
+
+11–13초 — 혼돈 (CHAOS)
+
+거미 떼가 몰려든다.
+
+생존자가 전력 질주한다.
+
+악어가 그를 뒤쫓아 통나무 위로 돌진한다.
+
+거미들이 둘 다 공격하기 시작한다.
+
+거미줄이 발사된다.
+
+사방에 다리들이 가득하다.
+
+통나무 다리 전체가 삼파전의 전쟁터가 된다.
+
+⸻
+
+13–15초 — 결말 (PAYOFF)
+
+와이드 샷.
+
+거대한 알파 거미가 위에서 악어의 등 위로 떨어진다.
+
+악어가 격렬하게 몸을 뒤틀며 늪으로 굴러떨어진다.
+
+거미와 악어가 싸우며 물속으로 사라진다.
+
+생존자가 통나무 끝에서 뛰어내려 정글 속으로 사라진다.
+
+그의 뒤에서—
+
+괴물들이 계속 싸우며 물이 솟구친다.
+
+하드 컷.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8f322adc101f65dfad710118c2310e6a/thumbnails/thumbnail.jpg" width="600" alt="Mega Crocodile Swamp Spider Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8f322adc101f65dfad710118c2310e6a/thumbnails/thumbnail.jpg" width="600" alt="메가 크로커다일 늪지대 스파이더 추격전">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5438)**
 
 **작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2060440976561508389) | **게시일:** May 29, 2026
 
 ---
-### Heavenly Rivalry Xianxia Action Film Prompt
+### 천상의 대결 선협 액션 영화 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic prompt for a high-end martial arts confrontation between two legendary Chinese figures at an ancient mountain temple.
+> 고대 산사에서 펼쳐지는 두 전설적인 중국 인물의 고품격 무협 대결을 위한 상세한 시네마틱 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Ultra-realistic cinematic AAA Xianxia action film inspired by high-end martial arts fantasy and Black Myth Wukong combat energy. Ancient stormy mountain temple ruins above the clouds at night, rain, fog, burning incense embers drifting through the air. Erlang Shen and Sun Wukong face each other in silence before battle.
+고품격 무협 판타지와 Black Myth Wukong 의 전투 에너지에서 영감을 받은 초현실적 시네마틱 AAA 선협 액션 영화. 구름 위 밤, 비와 안개가 자욱한 고대 산사의 폐허, 공중에 흩날리는 타오르는 향불의 불씨. 얼랑신 (Erlang Shen) 과 손오공 (Sun Wukong) 이 전투 전 침묵 속에 서로를 마주한다.
 
-Erlang Shen [Image1] : divine Chinese god warrior, silver-black celestial armor, red waist cloth, third eye glowing faintly, wielding an enormous three-pointed double-edged spear.
-Sun Wukong [Image2] : legendary monkey king, dark golden fur details, battle-worn ornate armor, flaming phoenix-red cloth strips, holding the Ruyi Jingu Bang staff.
+얼랑신 [Image1] : 신성한 중국 신화 속 전사, 은흑색 천상 갑옷, 붉은 허리띠, 희미하게 빛나는 제3의 눈, 거대한 삼첨양인창을 휘두름.
+손오공 [Image2] : 전설적인 원숭이 왕, 어두운 황금빛 털 디테일, 전투로 닳은 화려한 갑옷, 불타는 듯한 봉황색 천 조각, 여의봉을 들고 있음.
 
-Both characters use attached face references exactly.
-No cartoon style. Pure cinematic realism.
+두 캐릭터 모두 첨부된 얼굴 참조 이미지를 정확히 사용.
+만화 스타일 금지. 순수한 시네마틱 리얼리즘.
 
-The camera begins with extreme close-ups of wet armor, eyes, fingers gripping weapons, boots sliding across stone. Sudden explosive movement — Wukong [Image2] vanishes using cloud-step speed movement, appearing behind Erlang Shen [Image1]  instantly. Erlang blocks without looking using the spear shaft. Sparks explode. Shockwaves ripple through rain puddles.
+카메라는 젖은 갑옷, 눈, 무기를 쥔 손가락, 돌 위를 미끄러지는 부츠의 익스트림 클로즈업으로 시작한다. 갑작스러운 폭발적 움직임 — 손오공 [Image2] 이 구름을 타는 듯한 속도로 사라졌다가 즉시 얼랑신 [Image1] 의 뒤에 나타난다. 얼랑신은 보지도 않고 창대로 막아낸다. 불꽃이 튀고, 빗물 웅덩이에 충격파가 퍼진다.
 
-Rapid wuxia movement, superhuman agility, gravity-defying martial arts, realistic cloth physics, detailed rain simulation, cinematic debris.
+빠른 무협 액션, 초인적인 민첩성, 중력을 거스르는 무술, 사실적인 의상 물리 효과, 상세한 빗물 시뮬레이션, 시네마틱 파편 효과.
 
-Chinese dialogue only:
-Sun Wukong [Image2] : “Yang Jian, you're still the same.”
-Erlang Shen [Image1] : “This time, I won't let you escape.”
+중국어 대사 전용:
+손오공 [Image2] : “양전, 너는 여전하구나.”
+얼랑신 [Image1] : “이번에는 절대 도망치게 두지 않겠다.”
 
-English subtitles burned-in.
+영어 자막 삽입.
 
-CAMERA:
+카메라:
 ARRI Alexa 65
-Lens: Atlas Orion Anamorphic 40mm and 65mm
-Fast handheld + drone-like orbital tracking + speed ramping
+렌즈: Atlas Orion Anamorphic 40mm 및 65mm
+빠른 핸드헬드 + 드론 같은 궤도 추적 + 속도 램핑
 
-LIGHTING:
-Cold moonlight mixed with warm fire embers
+조명:
+차가운 달빛과 따뜻한 불씨의 조화
 
-COLOR GRADING:
-Dark teal, silver, gold highlights, high contrast cinematic grading, subtle film grain
+색 보정:
+다크 틸, 실버, 골드 하이라이트, 고대비 시네마틱 그레이딩, 미세한 필름 그레인
 
-NO MUSIC.
-Only rain, wind, footsteps, weapon impacts, cloth movement, thunder, breathing.
+음악 없음.
+빗소리, 바람 소리, 발자국 소리, 무기 충돌음, 옷깃 스치는 소리, 천둥 소리, 숨소리만 포함.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060421670540918784/img/9y80epF-AYgsLLei.jpg" width="600" alt="Heavenly Rivalry Xianxia Action Film Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09f30753d96cb744cdd3caf9c231baa3/thumbnails/thumbnail.jpg" width="600" alt="천상의 대결 선협 액션 영화 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5443)**
 
 **작성자:** [Paween Chantaraudorn](https://x.com/LumPaween64255) | **출처:** [Link](https://x.com/LumPaween64255/status/2060421985608597798) | **게시일:** May 29, 2026
 
 ---
-### The Thing Inspired Antarctic Horror Scene
+### 영화 '괴물(The Thing)'에서 영감을 받은 남극 공포 장면
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-tension horror cinematic sequence set in an Antarctic research station, following survivors as they realize one of them has mutated with a disturbing physical reveal.
+> 남극 연구 기지를 배경으로 한 긴장감 넘치는 공포 시네마틱 시퀀스. 생존자들이 동료 중 한 명이 변이했다는 사실을 깨닫고 충격적인 신체 변화를 목격하는 과정을 담았습니다.
 
 #### 📝 프롬프트
 
 ```
-Antarctic research station during a blizzard. Emergency backup power only. Red warning lights. Frost-covered walls. Metal doors sealed shut. Breath visible in the freezing air. High-tension paranoia horror with sudden explosive chaos. Aggressive push-ins, handheld camera, crash zooms, rapid cut-tos. Sound: distant wind, metal creaking, nervous breathing.
+눈보라가 몰아치는 남극 연구 기지. 비상용 예비 전력만 작동 중. 붉은 경고등. 서리로 뒤덮인 벽. 굳게 닫힌 철문. 얼어붙은 공기 속에서 하얗게 피어오르는 입김. 갑작스러운 폭발적 혼란이 동반된 고도의 긴장감 넘치는 공포. 공격적인 푸시 인(Push-in), 핸드헬드 카메라, 크래시 줌(Crash zoom), 빠른 컷 전환. 사운드: 멀리서 들리는 바람 소리, 금속이 삐걱거리는 소리, 불안한 숨소리.
 
 ⸻
 
-0–2s — HOOK
+0–2초 — 훅(HOOK)
 
-Handheld shot.
+핸드헬드 샷.
 
-Four survivors burst into a small storage room.
+네 명의 생존자가 작은 창고로 뛰어 들어온다.
 
-One slams the heavy steel door shut.
+한 명이 무거운 강철 문을 쾅 닫는다.
 
-Another locks it.
+다른 한 명이 문을 잠근다.
 
-Everyone breathing hard.
+모두 거칠게 숨을 몰아쉰다.
 
-Outside—
+밖에서—
 
-Something slams against the door.
+무언가가 문을 강하게 내리친다.
 
-Then silence.
-
-⸻
-
-2–5s — FALSE SAFETY
-
-Close-up cut-tos.
-
-One survivor checks the lock.
-
-Another collapses against the wall.
-
-A young woman starts crying.
-
-Everyone finally believes they’ve escaped.
-
-A man kneels beside her.
-
-“It’s okay. We’re safe.”
+이내 정적.
 
 ⸻
 
-5–8s — THE DETAIL
+2–5초 — 거짓된 안전
 
-The crying woman slowly looks up.
+클로즈업 컷 전환.
 
-Something catches her eye.
+한 생존자가 잠금장치를 확인한다.
 
-Crash zoom.
+다른 생존자는 벽에 기대어 주저앉는다.
 
-The comforting man’s hand.
+한 젊은 여성이 울음을 터뜨린다.
 
-Six fingers.
+모두가 마침내 탈출했다고 믿는다.
 
-Not five.
+한 남자가 그녀 옆에 무릎을 꿇는다.
 
-Six.
-
-Nobody notices.
-
-Except her.
+“괜찮아. 우린 안전해.”
 
 ⸻
 
-8–11s — REVEAL
+5–8초 — 디테일
 
-Her face changes instantly.
+울고 있던 여성이 천천히 고개를 든다.
 
-Fear.
+무언가가 그녀의 시선을 사로잡는다.
 
-Pure terror.
+크래시 줌.
 
-She points.
+그녀를 위로하던 남자의 손.
 
-Everyone turns.
+여섯 개의 손가락.
 
-The man looks confused.
+다섯 개가 아니다.
 
-Then looks at his own hand.
+여섯 개다.
 
-Six fingers.
+아무도 눈치채지 못한다.
 
-A beat of silence.
-
-Nobody moves.
-
-Nobody knows how long he’s been like that.
+그녀를 제외하고는.
 
 ⸻
 
-11–13s — BREAKDOWN
+8–11초 — 정체 탄로
 
-The man slowly backs away.
+여자의 표정이 순식간에 바뀐다.
 
-“Wait… I don’t know…”
+두려움.
 
-His fingers begin moving.
+순수한 공포.
 
-Separating.
+그녀가 손가락으로 가리킨다.
 
-Stretching.
+모두가 돌아본다.
 
-Additional joints forming.
+남자는 당황한 표정이다.
 
-His hand starts opening like a flower.
+그러고는 자신의 손을 내려다본다.
 
-Everyone panics.
+여섯 개의 손가락.
 
-Weapons come up.
+잠시 흐르는 정적.
+
+아무도 움직이지 않는다.
+
+그가 언제부터 그랬는지 아무도 모른다.
 
 ⸻
 
-13–15s — PAYOFF
+11–13초 — 붕괴
 
-His arm violently splits open.
+남자가 천천히 뒷걸음질 친다.
 
-Tendrils explode outward.
+“잠깐… 나도 모르겠어…”
 
-The room erupts into chaos.
+그의 손가락이 움직이기 시작한다.
 
-People scream.
+갈라지고.
 
-Someone fires a flare.
+늘어난다.
 
-Red light fills the room.
+추가 관절이 형성된다.
 
-The transforming creature lunges toward camera. Cut.
+그의 손이 마치 꽃처럼 벌어지기 시작한다.
+
+모두가 패닉에 빠진다.
+
+무기를 들어 올린다.
+
+⸻
+
+13–15초 — 결말
+
+남자의 팔이 격렬하게 찢어진다.
+
+촉수들이 밖으로 튀어 나온다.
+
+방 안은 순식간에 아수라장이 된다.
+
+사람들의 비명 소리.
+
+누군가 조명탄을 발사한다.
+
+붉은 빛이 방을 가득 채운다.
+
+변이하는 괴물이 카메라를 향해 달려든다. 컷.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060414372942589952/img/ufyEKo35EGdI8sfy.jpg" width="600" alt="The Thing Inspired Antarctic Horror Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6bb5b21cbf40840f1334c1180fc709e1/thumbnails/thumbnail.jpg" width="600" alt="영화 '괴물(The Thing)'에서 영감을 받은 남극 공포 장면">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5452)**
 
 **작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2060414433692946561) | **게시일:** May 29, 2026
 
 ---
-### Antarctic Research Station Blood Test Horror
+### 남극 연구 기지 혈액 검사 공포
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A suspenseful horror prompt depicting survivors in an Antarctic station conducting a plasma test, leading to a violent monster revelation.
+> 남극 기지의 생존자들이 혈장 검사를 진행하다 괴물의 정체가 드러나며 벌어지는 폭력적이고 긴박한 공포 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Interior Antarctic research station. Emergency lighting only. Red warning lights. Metal walls. Breath visible from the cold. Everybody is exhausted, terrified, suspicious of one another. High-tension horror with sudden explosive action. Fast cuts, push-ins, handheld movement.
+남극 연구 기지 내부. 비상등만 켜진 상태. 붉은 경고등. 금속 벽. 추위로 인해 입김이 보임. 모두가 지쳐 있고, 겁에 질려 있으며, 서로를 의심함. 갑작스럽고 폭발적인 액션이 가미된 고도의 긴장감 넘치는 공포물. 빠른 컷 전환, 푸시인, 핸드헬드 촬영 기법.
 
 ⸻
 
-0–2s — HOOK
+0–2초 — 훅 (HOOK)
 
-Close-up.
+클로즈업.
 
-A wire is lowered into a plasma sample.
+혈장 샘플 속으로 와이어가 내려감.
 
-Six survivors stand around a metal table.
+6명의 생존자가 금속 테이블 주위에 서 있음.
 
-Nobody speaks.
+아무도 말하지 않음.
 
-Everybody watches.
+모두가 지켜봄.
 
-A flamethrower waits nearby.
+근처에는 화염방사기가 대기 중.
 
-One survivor even laughs nervously.
+한 생존자가 신경질적으로 웃음.
 
-The tension starts breaking.
-
-⸻
-
-2-4s — REVEAL
-
-The next  plasma sample suddenly jumps.
-
-Not much.
-
-Just a twitch.
-
-Everyone freezes.
-
-Then—
-
-The sample launches off the table.
-
-Screaming.
-
-Moving on its own.
-
-Pure panic.
+긴장감이 깨지기 시작함.
 
 ⸻
 
-4-7s — CHAOS
+2–4초 — 정체 공개 (REVEAL)
 
-Everyone immediately backs away.
+다음 혈장 샘플이 갑자기 튐.
 
-The owner of the plasma looks confused.
+크게는 아님.
 
-Then his chest caves inward.
+살짝 꿈틀거림.
 
-His ribs begin moving.
+모두가 얼어붙음.
 
-Cracking.
+그때—
 
-Breaking.
+샘플이 테이블 위로 튀어 오름.
 
-Rearranging.
+비명 소리.
 
-Crash zoom.
+스스로 움직임.
 
-His ribcage unfolds outward like giant spider legs.
-
-⸻
-
-7-10s — THE THING
-
-His body expands violently.
-
-Jaw splits.
-
-Neck stretches.
-
-Limbs bend backward.
-
-The creature erupts across the room.
-
-Tables flip.
-
-Equipment explodes.
-
-People are screaming.
-
-One survivor grabs the flamethrower.
+극도의 공포.
 
 ⸻
 
-10-13s — PAYOFF
+4–7초 — 혼돈 (CHAOS)
 
-Bullet-time moment.
+모두가 즉시 뒤로 물러남.
 
-The transformed creature launches toward the group.
+혈장의 주인은 당황한 기색.
 
-The flamethrower ignites.
+그 순간 그의 가슴이 안으로 함몰됨.
 
-A wall of fire fills frame.
+갈비뼈가 움직이기 시작함.
 
-The creature screams.
+우드득.
 
-Fire engulfs the room.
+부러짐.
 
-The survivors dive for cover.
+재배열됨.
+
+크래시 줌.
+
+갈비뼈가 거대한 거미 다리처럼 밖으로 펼쳐짐.
+
+⸻
+
+7–10초 — 괴물 (THE THING)
+
+몸이 격렬하게 팽창함.
+
+턱이 갈라짐.
+
+목이 늘어남.
+
+사지가 뒤로 꺾임.
+
+괴물이 방 안으로 튀어 나옴.
+
+테이블이 뒤집힘.
+
+장비가 폭발함.
+
+사람들의 비명 소리.
+
+한 생존자가 화염방사기를 집어 듦.
+
+⸻
+
+10–13초 — 결말 (PAYOFF)
+
+불렛 타임 순간.
+
+변이된 괴물이 무리를 향해 돌진함.
+
+화염방사기가 점화됨.
+
+화염의 벽이 화면을 가득 채움.
+
+괴물이 비명을 지름.
+
+방 안이 불길에 휩싸임.
+
+생존자들이 몸을 숨기려 뛰어듦.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060409711829327872/img/3khcBcKfc9rL2Ggp.jpg" width="600" alt="Antarctic Research Station Blood Test Horror">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d0fe47014a03fa00bd6add8ec3d08750/thumbnails/thumbnail.jpg" width="600" alt="남극 연구 기지 혈액 검사 공포">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5458)**
 
 **작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2060409772688777582) | **게시일:** May 29, 2026
 
 ---
-### Wukong vs Erlang Shen Epic Fantasy Battle
+### 손오공 vs 이랑진군, 서사적 판타지 전투
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-action AAA fantasy martial arts battle prompt featuring Sun Wukong and Erlang Shen in a flooded canyon with complex physics.
+> 손오공과 이랑진군이 침수된 협곡에서 복잡한 물리 효과와 함께 펼치는 고액션 AAA급 판타지 무협 전투 프롬프트.
 
 #### 📝 프롬프트
 
 ```
-Epic AAA fantasy martial arts battle in a giant flooded canyon beneath dark storm clouds. Ultra-realistic cinematic style. Water reflects lightning flashes as Erlang Shen [Image1]  and Sun Wukong [Image2]  unleash supernatural abilities.
+어두운 폭풍우가 몰아치는 거대한 침수 협곡에서 펼쳐지는 서사적인 AAA급 판타지 무협 전투. 초현실적인 시네마틱 스타일. 이랑진군 [Image1] 과 손오공 [Image2] 이 초자연적인 능력을 발휘할 때마다 물 위로 번개가 반사된다.
 
-Erlang Shen [Image1] opens his celestial third eye fully for the first time — massive divine energy erupts outward in glowing golden-white waves. The clouds split open above him. Floating rocks rise into the air.
+이랑진군 [Image1] 이 처음으로 천상의 제3의 눈을 완전히 개방하자, 거대한 신성한 에너지가 빛나는 금백색 파동으로 뿜어져 나온다. 머리 위의 구름이 갈라지고 떠다니는 바위들이 공중으로 솟구친다.
 
-Sun Wukong [Image2] slams the Ruyi Jingu Bang into the ground, creating a colossal shockwave that parts the flood water and launches giant stone fragments upward. He spins the staff at extreme speed, deflecting divine energy beams.
+손오공 [Image2] 이 여의봉을 지면에 내리꽂자 거대한 충격파가 발생하여 범람하는 물을 가르고 거대한 돌 파편들을 공중으로 띄운다. 그는 엄청난 속도로 봉을 휘두르며 신성한 에너지 광선을 튕겨낸다.
 
-The two collide mid-air with overwhelming force. Their weapons lock together while lightning flashes around them. Slow-motion facial close-ups show determination and rage.
+두 인물이 압도적인 힘으로 공중에서 충돌한다. 무기가 맞물리고 주변에는 번개가 번쩍인다. 슬로우 모션으로 비춰지는 얼굴 클로즈업 장면에서 결의와 분노가 드러난다.
 
-Hyper-realistic water physics, volumetric fog, cinematic lightning, dynamic environmental destruction, wuxia wire-action realism blended with grounded physics.
+초현실적인 물 물리 효과, 볼류메트릭 포그, 시네마틱 라이팅, 역동적인 환경 파괴, 무협 와이어 액션의 사실감과 현실적인 물리 법칙의 조화.
 
-Chinese dialogue only:
-Sun Wukong: “The Heavens cannot trap me.”
-Erlang Shen: “Then let me personally suppress you.”
+중국어 대사 전용:
+손오공: “하늘도 나를 가둘 수는 없다.”
+이랑진군: “그렇다면 내가 직접 너를 제압하겠다.”
 
-English subtitles burned-in.
+영어 자막 삽입.
 
-CAMERA:
+카메라:
 RED V-RAPTOR XL
-Lens: Leica Summilux-C
+렌즈: Leica Summilux-C
 
-CAMERA MOVEMENT:
-Aggressive crane dives, rotating aerial shots, ultra-fast tracking, dramatic slow-motion impact frames
+카메라 무빙:
+공격적인 크레인 다이빙, 회전하는 항공 촬영, 초고속 트래킹, 극적인 슬로우 모션 임팩트 프레임
 
-COLOR GRADING:
-Storm gray, celestial gold, deep black shadows, cinematic bloom highlights
+색 보정:
+폭풍우의 회색, 천상의 금색, 깊은 검은색 그림자, 시네마틱 블룸 하이라이트
 
-NO MUSIC.
-Only lightning, explosions, water impacts, roaring wind, weapon resonance.
+음악 없음.
+번개, 폭발, 물이 부딪히는 소리, 휘몰아치는 바람, 무기 공명음만 포함.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/530a5f0a0c22a8b42b48b051da340045/thumbnails/thumbnail.jpg" width="600" alt="Wukong vs Erlang Shen Epic Fantasy Battle">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/530a5f0a0c22a8b42b48b051da340045/thumbnails/thumbnail.jpg" width="600" alt="손오공 vs 이랑진군, 서사적 판타지 전투">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5444)**
 
 **작성자:** [Paween Chantaraudorn](https://x.com/LumPaween64255) | **출처:** [Link](https://x.com/LumPaween64255/status/2060402691818570140) | **게시일:** May 29, 2026
 
 ---
-### Fluffy Cat CEO Corporate Boardroom Drama
+### 폭신한 고양이 CEO의 기업 이사회 드라마
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A humorous prestige-drama style video prompt featuring an orange tabby cat as a CEO swiping a laptop off a conference table and meowing at employees.
+> 회의실 테이블에서 노트북을 밀어 떨어뜨리고 직원들을 향해 야옹거리는 오렌지색 태비 고양이 CEO를 주인공으로 한 유머러스한 명품 드라마 스타일의 영상 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Characters: CEO is a fluffy orange tabby cat wearing a fitted navy suit and tie, seated at the head of a long glass conference table. Human employees in business attire fill the seats around the table. Scene: Luxury corporate boardroom, floor-to-ceiling windows overlooking a city skyline, framed charts and graphs on a large display screen behind the cat. Style: Prestige drama film tone, dry deadpan comedy, warm amber-mahogany palette, shallow depth of field, subtle film grain. Lighting: Warm overhead pendant lights, soft golden rim light on the cat, cool blue daylight spilling from the city windows. Audio: Tense orchestral underscore with low brass swells, sharp SFX punctuation on each cat action, muffled office ambiance, AC hum. [0-3s] — Establishing Camera: Slow wide push-in from the back of the boardroom. Action: The orange cat in a suit stands at the head of the table, raising one paw and tapping a bar chart on the display screen behind him. Lighting: Warm amber overhead wash, screen glow backlighting the cat. SFX: Low orchestral swell, soft pointer tap on screen. [3-6s] — Employees React Camera: Fixed medium shot across the table, facing the employees. Hard cut from previous shot. Action: Six nervous employees begin clapping stiffly, eyes wide, smiles strained and hollow. Lighting: Even cool overhead office light, slight shadow under each face. SFX: Slow, uncertain applause, a throat-clear, shuffling papers. [6-10s] — Laptop Incident Camera: Low tabletop angle, fixed. Hold. Action: The cat slowly turns, locks eyes with an open laptop at the edge of the table, then swipes it cleanly off with one deliberate paw. Lighting: Warm side light on cat, deep shadow behind. SFX: Sharp laptop crash on floor, echoing in the silent room. Gasps from employees. [10-13s] — Dramatic Zoom Camera: Slow push-in to extreme close-up on the cat's face. Action: The cat's eyes narrow. Its mouth opens in a wide, silent, furious meow — jaw fully extended. Lighting: Single warm overhead spot, deep dramatic shadow framing both cheeks. SFX: Orchestral sting, dead silence — then a single low bass hit on the meow. [13-15s] — Title Card Beat Camera: Static wide shot, full boardroom. Hold. Action: The cat sits back down calmly, adjusting its tie. The employees stare frozen. Dialogue: "Quarterly profits are down." Lighting: Room dims slightly, cool blue from the windows takes over. SFX: Low cello note sustains. Silence. Avoid: Identity drift on the cat between shots, jitter, temporal flicker, chaotic composition
+캐릭터: CEO는 딱 맞는 네이비 정장과 넥타이를 착용한 폭신한 오렌지색 태비 고양이로, 긴 유리 회의실 테이블 상석에 앉아 있습니다. 정장을 입은 인간 직원들이 테이블 주위에 앉아 있습니다. 장면: 고급 기업 회의실, 도시 스카이라인이 내려다보이는 통유리창, 고양이 뒤 대형 디스플레이 화면에는 차트와 그래프가 표시되어 있습니다. 스타일: 명품 드라마 영화 톤, 건조한 덤덤한 코미디, 따뜻한 호박색 및 마호가니 색조, 얕은 피사계 심도, 미세한 필름 그레인. 조명: 따뜻한 천장 펜던트 조명, 고양이에게 비치는 부드러운 황금빛 림 라이트, 도시 창문에서 들어오는 차가운 푸른색 주광. 오디오: 낮은 금관악기가 고조되는 긴장감 넘치는 오케스트라 배경 음악, 고양이의 각 동작에 맞춘 날카로운 효과음, 웅성거리는 사무실 분위기, 에어컨 소음. [0-3초] — 설정 카메라: 회의실 뒤쪽에서 천천히 다가가는 와이드 샷. 동작: 정장을 입은 오렌지색 고양이가 테이블 상석에 서서 한쪽 앞발을 들어 뒤쪽 디스플레이 화면의 막대그래프를 톡톡 두드립니다. 조명: 따뜻한 호박색 천장 조명, 화면 빛이 고양이를 뒤에서 비춤. 효과음: 낮은 오케스트라 고조, 화면을 두드리는 부드러운 소리. [3-6초] — 직원들의 반응 카메라: 테이블 건너편에서 직원들을 향한 고정 미디엄 샷. 이전 샷에서 하드 컷. 동작: 긴장한 6명의 직원이 뻣뻣하게 박수를 치기 시작하며, 눈은 커지고 미소는 경직되어 있습니다. 조명: 고른 차가운 천장 사무실 조명, 얼굴 아래로 약간의 그림자. 효과음: 느리고 불확실한 박수 소리, 헛기침 소리, 종이 넘기는 소리. [6-10초] — 노트북 사건 카메라: 낮은 테이블 높이, 고정 샷. 유지. 동작: 고양이가 천천히 몸을 돌려 테이블 끝에 놓인 열린 노트북과 눈을 맞춘 뒤, 앞발로 단호하게 밀어 떨어뜨립니다. 조명: 고양이에게 비치는 따뜻한 측면 조명, 뒤쪽의 깊은 그림자. 효과음: 바닥에 노트북이 떨어지는 날카로운 소리, 조용한 방 안에 울려 퍼짐. 직원들의 놀란 숨소리. [10-13초] — 드라마틱 줌 카메라: 고양이 얼굴을 향한 극단적인 클로즈업으로 천천히 다가감. 동작: 고양이의 눈이 가늘어집니다. 입이 크게 벌어지며 소리 없는 격렬한 야옹 소리를 냅니다. 턱이 완전히 벌어짐. 조명: 단일 따뜻한 천장 스포트라이트, 양 볼을 감싸는 깊고 드라마틱한 그림자. 효과음: 오케스트라 스팅, 정적 — 야옹 소리에 맞춰 낮게 깔리는 베이스 음. [13-15초] — 타이틀 카드 비트 카메라: 정적인 와이드 샷, 전체 회의실. 유지. 동작: 고양이가 차분하게 다시 앉아 넥타이를 고쳐 맵니다. 직원들은 얼어붙은 채 쳐다봅니다. 대사: "분기별 수익이 감소했습니다." 조명: 방이 약간 어두워지고 창문에서 들어오는 차가운 푸른빛이 감돕니다. 효과음: 낮은 첼로 음이 지속됨. 정적. 주의 사항: 샷 간 고양이의 외형 변화, 지터(jitter), 시간적 깜박임, 혼란스러운 구도 방지
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060390717906878464/img/Ic3YA7Qzjgl0a_dc.jpg" width="600" alt="Fluffy Cat CEO Corporate Boardroom Drama">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0cc05bb392f3956756b3ef0a45c5e732/thumbnails/thumbnail.jpg" width="600" alt="폭신한 고양이 CEO의 기업 이사회 드라마">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5460)**
 
 **작성자:** [Jasmine Ai](https://x.com/jasminekhan90_) | **출처:** [Link](https://x.com/jasminekhan90_/status/2060390860559409594) | **게시일:** May 29, 2026
 
 ---
-### 1980s Gritty Film Noir Mafia Scene
+### 1980년대 거친 필름 누아르 마피아 장면
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly complex cinematic prompt for generating a realistic 1980s mob-themed sequence with 35mm film grain and practical lighting.
+> 35mm 필름 그레인과 실제 조명을 사용하여 1980년대 마피아 테마의 시퀀스를 사실적으로 생성하기 위한 고도로 복잡한 시네마틱 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Style: 1980s 35mm film. Anamorphic grain. Practical lighting only. Real location street. No digital polish. Looks like it was actually shot on location in 1982.
-Camera: Mix of styles — slow tracking steadicam, tight close-ups, low angle wide, slow motion on key moments. Deep shadows. Film burn on cuts.
-Environment: Real wet cobblestone street at dusk. Old brick buildings. Dim tungsten storefronts. Smoke in the air. Parked vintage cars lining the street. Feels like lived-in 1980s New York or Chicago.
-Crowd: Real-looking 1980s dressed pedestrians. Naturally parting. Silent. Watching with deep respect. Faces weathered and real — no smooth AI skin.
-SCENE:
-Wide low angle slow-mo: Three figures emerge from shadow. Long black coats. Wet cobblestone reflecting their silhouettes. Crowd silently parts.
-Close-up slow-mo: @ img face — hat brim casting shadow over eyes. Cigar smoke curling past the lens. Expression unreadable.
-Wide tracking shot: The trio walks forward. Six bodyguards moving like a wall around them. Every face in the crowd watching.
-Close-up: His hand — cigar between fingers. Smoke trail. Slow motion.
-Low angle wide: Vintage black Cadillac DeVille waiting. Engine idling. Door opens.
-Close-up slow-mo: He takes one final drag. Exhales. Steps inside. Door shuts.
-Wide: Car pulls away into dark wet street. Crowd watches in silence.
-Lock phrases: 1980s 35mm grain, anamorphic flare, no AI rendering, no digital sharpness, practical location lighting, real human skin texture, photochemical film look, gritty realism, no color grading, raw film negative aesthetic
+스타일: 1980년대 35mm 필름. 아나모픽 그레인. 실제 조명만 사용. 실제 거리 로케이션. 디지털 보정 없음. 1982년 현장에서 실제로 촬영한 듯한 느낌.
+카메라: 다양한 스타일 혼합 — 느린 트래킹 스테디캠, 타이트한 클로즈업, 로우 앵글 와이드, 주요 장면에서의 슬로우 모션. 깊은 그림자. 컷 전환 시 필름 번 효과.
+환경: 황혼 무렵의 젖은 실제 자갈길. 오래된 벽돌 건물. 어두운 텅스텐 조명의 상점가. 공기 중의 연기. 거리에 주차된 빈티지 자동차들. 1980년대 뉴욕이나 시카고의 실제 생활감이 느껴지는 분위기.
+군중: 1980년대 복장을 한 실제 같은 보행자들. 자연스럽게 갈라지는 모습. 침묵. 깊은 경외심으로 지켜봄. 거칠고 사실적인 얼굴 — 매끄러운 AI 피부 느낌 없음.
+장면:
+와이드 로우 앵글 슬로우 모션: 그림자 속에서 세 인물이 나타남. 긴 검은색 코트. 실루엣을 비추는 젖은 자갈길. 군중이 조용히 길을 비킴.
+클로즈업 슬로우 모션: @ img 얼굴 — 모자 챙이 눈 위로 그림자를 드리움. 렌즈를 스쳐 지나가는 시가 연기. 읽을 수 없는 표정.
+와이드 트래킹 샷: 세 사람이 앞으로 걸어 나옴. 벽처럼 그들을 둘러싼 6명의 경호원. 군중 속 모든 이들이 지켜보고 있음.
+클로즈업: 그의 손 — 손가락 사이에 낀 시가. 연기 자국. 슬로우 모션.
+로우 앵글 와이드: 기다리고 있는 빈티지 검은색 Cadillac DeVille. 공회전 중인 엔진. 문이 열림.
+클로즈업 슬로우 모션: 그가 마지막으로 시가를 한 모금 빰. 연기를 내뿜음. 차에 올라탐. 문이 닫힘.
+와이드: 차가 어둡고 젖은 거리로 멀어짐. 군중이 침묵 속에 지켜봄.
+고정 문구: 1980년대 35mm 그레인, 아나모픽 플레어, AI 렌더링 없음, 디지털 선명도 없음, 실제 로케이션 조명, 실제 인간 피부 질감, 광화학 필름 룩, 거친 사실주의, 색 보정 없음, 원본 필름 네거티브 미학
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8aaa36afa844d45d1651dd2f441f5a2/thumbnails/thumbnail.jpg" width="600" alt="1980s Gritty Film Noir Mafia Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8aaa36afa844d45d1651dd2f441f5a2/thumbnails/thumbnail.jpg" width="600" alt="1980년대 거친 필름 누아르 마피아 장면">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5432)**
 
 **작성자:** [WasifAI](https://x.com/doctorwasif) | **출처:** [Link](https://x.com/doctorwasif/status/2060382063317102961) | **게시일:** May 29, 2026
 
 ---
-### The Hive Queen Escape Video Prompt
+### 하이브 퀸 탈출 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive sci-fi horror video prompt for Seedance 2.0 featuring an astronaut fleeing a swarm in an alien hive.
+> 외계 하이브에서 무리를 피해 도망치는 우주비행사를 다룬 Seedance 2.0용 종합 SF 호러 비디오 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Nightmarish alien hive deep beneath the surface of a hostile planet. Organic tunnels, pulsing walls, glowing biological veins, hanging egg sacs, dripping acid. Everything feels alive. High-intensity survival horror. Fast cuts, handheld chaos, rapid camera movement. Sound: insect screeches, biological clicking, suit alarms, collapsing organic structures.
+적대적인 행성 지표면 깊은 곳에 위치한 악몽 같은 외계 하이브. 유기적인 터널, 맥동하는 벽, 빛나는 생체 혈관, 매달린 알 주머니, 뚝뚝 떨어지는 산성액. 모든 것이 살아 움직이는 듯한 느낌. 고강도 서바이벌 호러. 빠른 컷 전환, 핸드헬드 카메라의 혼란스러움, 급격한 카메라 움직임. 사운드: 곤충의 날카로운 울음소리, 생물학적인 클릭 소리, 우주복 경보음, 무너져 내리는 유기적 구조물.
 
 ⸻
 
-0–2s — HOOK
+0–2초 — 훅 (HOOK)
 
-Helmet POV.
+헬멧 시점 (POV).
 
-An astronaut is already sprinting through a living alien hive.
+우주비행사가 살아있는 외계 하이브 속을 전력 질주하고 있다.
 
-Dozens of insectoid creatures chase him.
+수십 마리의 곤충형 생명체가 그를 뒤쫓는다.
 
-Multiple legs.
+여러 개의 다리.
 
-Bladed limbs.
+칼날 같은 팔다리.
 
-Glowing mouths.
+빛나는 입.
 
-They swarm across walls, ceilings, and floors.
+벽과 천장, 바닥을 가로질러 떼를 지어 몰려온다.
 
-Closing fast.
-
-⸻
-
-2–5s — ESCALATION
-
-Side tracking shot.
-
-The astronaut turns a corner and enters a gigantic chamber.
-
-At its center—
-
-The Hive Queen.
-
-Massive.
-
-Bloated.
-
-Attached to the chamber by thick biological tendrils.
-
-Thousands of glowing eggs surround her.
-
-The swarm continues closing in behind him.
+빠르게 좁혀오는 거리.
 
 ⸻
 
-5–8s — BUILD
+2–5초 — 고조 (ESCALATION)
 
-The astronaut reaches a rocky ledge overlooking the egg chamber.
+측면 트래킹 샷.
 
-No escape route.
+우주비행사가 모퉁이를 돌아 거대한 방으로 들어선다.
 
-Creatures approaching from every direction.
+그 중심에는—
 
-He quickly pulls out a mining laser.
+하이브 퀸이 있다.
 
-The queen notices him.
+거대하고.
 
-The entire chamber begins vibrating.
+퉁퉁 부어 있다.
 
-⸻
+두꺼운 생체 덩굴로 방에 고정되어 있다.
 
-8–11s — THE PLAN
+그녀를 둘러싼 수천 개의 빛나는 알들.
 
-Close-up.
-
-The astronaut aims directly at the largest glowing egg structure.
-
-He fires.
-
-The mining laser slices through the organic mass.
-
-A chain reaction begins.
-
-Cracks spread through the egg cluster.
-
-Biological fluid erupts everywhere.
+뒤에서 계속 좁혀오는 무리들.
 
 ⸻
 
-11–13s — CHAOS
+5–8초 — 빌드업 (BUILD)
 
-The Hive Queen immediately attacks her own swarm.
+우주비행사가 알이 가득한 방을 내려다보는 바위 턱에 도달한다.
 
-Protecting the eggs.
+탈출구는 없다.
 
-Massive limbs crush dozens of creatures.
+사방에서 다가오는 생명체들.
 
-The chamber collapses.
+그는 재빨리 채굴용 레이저를 꺼낸다.
 
-Walls rupture.
+퀸이 그를 알아차린다.
 
-Eggs explode.
-
-Insects begin attacking each other.
-
-Complete chaos.
+방 전체가 진동하기 시작한다.
 
 ⸻
 
-13–15s — PAYOFF
+8–11초 — 계획 (THE PLAN)
 
-An organic bridge breaks loose beneath the astronaut.
+클로즈업.
 
-He rides it like a collapsing surfboard toward an exit tunnel.
+우주비행사가 가장 크게 빛나는 알 구조물을 직접 조준한다.
 
-Behind him—
+발사.
 
-The Queen and swarm devour each other amidst the collapsing hive.
+채굴용 레이저가 유기체 덩어리를 가로질러 자른다.
 
-The astronaut shoots out of the tunnel just as the entire chamber implodes.
+연쇄 반응이 시작된다.
 
-Darkness.
+알 군집 전체로 퍼져나가는 균열.
+
+사방으로 분출되는 생체 액체.
+
+⸻
+
+11–13초 — 혼돈 (CHAOS)
+
+하이브 퀸이 즉시 자신의 무리를 공격한다.
+
+알을 보호하기 위해서다.
+
+거대한 팔다리가 수십 마리의 생명체를 짓밟는다.
+
+방이 무너져 내린다.
+
+벽이 파열된다.
+
+알들이 폭발한다.
+
+곤충들이 서로를 공격하기 시작한다.
+
+완벽한 혼돈.
+
+⸻
+
+13–15초 — 결말 (PAYOFF)
+
+우주비행사 아래의 유기적 다리가 끊어진다.
+
+그는 무너지는 서핑보드처럼 그것을 타고 탈출 터널을 향해 나아간다.
+
+그의 뒤에서는—
+
+퀸과 무리가 무너지는 하이브 속에서 서로를 잡아먹는다.
+
+방 전체가 내파되는 순간, 우주비행사가 터널 밖으로 튕겨 나간다.
+
+어둠.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09ee6b2bfdfda318594b7473e7dfa590/thumbnails/thumbnail.jpg" width="600" alt="The Hive Queen Escape Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09ee6b2bfdfda318594b7473e7dfa590/thumbnails/thumbnail.jpg" width="600" alt="하이브 퀸 탈출 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5426)**
 
 **작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2060377183479382356) | **게시일:** May 29, 2026
 
 ---
-### The Crystal Worm Ambush Video Prompt
+### 크리스탈 웜 매복(Crystal Worm Ambush) 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed, multi-stage storyboard prompt for Seedance 2.0 depicting an astronaut escaping a giant crystal worm on an alien planet.
+> 외계 행성에서 거대한 크리스탈 웜을 피해 탈출하는 우주비행사를 묘사한 Seedance 2.0용 고도로 상세한 다단계 스토리보드 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Ultra-hostile alien planet. Endless desert made entirely of gigantic glowing crystal formations. Violet skies, twin suns, electrical storms in the distance. Every crystal emits strange bioluminescent pulses. Survival horror action. Chaotic handheld camera, aggressive speed ramps, rapid cut-tos, dynamic camera angles. Sound: crystal resonance hums, astronaut breathing, deep underground rumbling.
+극도로 적대적인 외계 행성. 거대한 발광 크리스탈 지형으로만 이루어진 끝없는 사막. 보랏빛 하늘, 두 개의 태양, 멀리서 치는 번개 폭풍. 모든 크리스탈은 기이한 생체 발광 맥동을 내뿜음. 서바이벌 호러 액션. 혼란스러운 핸드헬드 카메라, 공격적인 속도 변화(speed ramps), 빠른 컷 전환, 역동적인 카메라 앵글. 사운드: 크리스탈 공명음, 우주비행사의 거친 숨소리, 땅속 깊은 곳에서 울리는 굉음.
 
 ⸻
 
-0–2s — HOOK
+0–2초 — 훅(HOOK)
 
-Wide aerial shot.
+광활한 항공 샷.
 
-An astronaut is already sprinting across a glowing crystal desert.
+우주비행사가 빛나는 크리스탈 사막을 가로질러 전력 질주 중.
 
-Suddenly—
+갑자기—
 
-The ground erupts behind him.
+그의 뒤쪽 지면이 솟구침.
 
-A colossal alien crystal worm explodes upward.
+거대한 외계 크리스탈 웜이 위로 솟구쳐 오름.
 
-Hundreds of meters long.
+길이는 수백 미터.
 
-Its body covered in razor-sharp translucent crystal plates.
-
-⸻
-
-2–5s — ESCALATION
-
-Helmet POV.
-
-The worm crashes back underground.
-
-Crystal shards rain everywhere.
-
-The astronaut dodges flying debris while running.
-
-The desert ahead begins rippling.
-
-The worm is moving beneath him.
-
-Fast.
-
-Very fast.
+몸체는 면도날처럼 날카로운 반투명 크리스탈 판으로 덮여 있음.
 
 ⸻
 
-5–8s — BUILD
+2–5초 — 고조(ESCALATION)
 
-Low angle tracking shot.
+헬멧 시점(POV).
 
-The astronaut spots a gigantic crystal spire ahead.
+웜이 다시 땅속으로 파고듦.
 
-He jumps onto its base and begins climbing.
+사방으로 크리스탈 파편이 비처럼 쏟아짐.
 
-The worm erupts again.
+우주비행사는 달리면서 날아오는 파편을 피함.
 
-This time directly beside him.
+앞쪽 사막이 물결치기 시작함.
 
-Its jaws snap shut inches from his body.
+웜이 그의 아래에서 움직이는 중.
 
-The impact fractures the entire spire.
+빠르게.
 
-⸻
-
-8–11s — CHAOS
-
-Wide shot.
-
-The crystal tower begins collapsing.
-
-The astronaut slides down the falling structure.
-
-Crystal fragments the size of vehicles tumble everywhere.
-
-The worm smashes through multiple crystal formations trying to intercept him.
-
-The entire landscape explodes into chaos.
+매우 빠르게.
 
 ⸻
 
-11–13s — THE PLAN
+5–8초 — 빌드업(BUILD)
 
-The astronaut lands hard.
+로우 앵글 트래킹 샷.
 
-Rolls.
+우주비행사가 앞쪽에 거대한 크리스탈 첨탑을 발견함.
 
-Pulls a distress flare from his suit.
+그는 첨탑 밑동으로 뛰어올라 기어오르기 시작함.
 
-The worm erupts directly ahead.
+웜이 다시 솟구침.
 
-Its mouth opens wide.
+이번에는 바로 옆에서.
 
-Rows of crystalline teeth.
+웜의 턱이 그의 몸에서 불과 몇 인치 차이로 닫힘.
 
-Bullet time.
-
-The astronaut throws the flare.
+충격으로 첨탑 전체가 갈라짐.
 
 ⸻
 
-13–15s — PAYOFF
+8–11초 — 혼돈(CHAOS)
 
-The flare disappears into the worm’s throat.
+와이드 샷.
 
-A pulse travels through its transparent crystal body.
+크리스탈 타워가 붕괴하기 시작함.
 
-The entire creature begins glowing.
+우주비행사가 무너지는 구조물을 타고 미끄러짐(Slides).
 
-Brighter.
+자동차만 한 크리스탈 파편들이 사방으로 굴러다님.
 
-Brighter.
+웜은 그를 가로막기 위해 여러 크리스탈 지형을 부수며 돌진함.
 
-Then—
+풍경 전체가 혼돈 속으로 폭발함.
 
-A massive resonance explosion tears through its body from the inside.
+⸻
 
-Crystal shards erupt across the desert.
+11–13초 — 계획(THE PLAN)
 
-The astronaut shields himself.
+우주비행사가 거칠게 착지함.
 
-Silence.
+구름.
 
-Only glowing fragments falling from the sky
+슈트에서 조난 신호탄을 꺼냄.
+
+웜이 바로 앞쪽에서 솟구침.
+
+입이 크게 벌어짐.
+
+크리스탈로 된 이빨들이 줄지어 있음.
+
+불렛 타임.
+
+우주비행사가 신호탄을 던짐.
+
+⸻
+
+13–15초 — 결말(PAYOFF)
+
+신호탄이 웜의 목구멍 속으로 사라짐.
+
+투명한 크리스탈 몸체를 타고 맥동이 전달됨.
+
+생명체 전체가 빛나기 시작함.
+
+더 밝게.
+
+더 밝게.
+
+그때—
+
+거대한 공명 폭발이 내부로부터 몸체를 찢어버림.
+
+사막 전역으로 크리스탈 파편이 튀어 오름.
+
+우주비행사가 몸을 보호함.
+
+정적.
+
+하늘에서 떨어지는 빛나는 파편들뿐
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060363429693820928/img/Jo9oNYVszL6J0i5j.jpg" width="600" alt="The Crystal Worm Ambush Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ace3e397b1750148de2905ea923df96/thumbnails/thumbnail.jpg" width="600" alt="크리스탈 웜 매복(Crystal Worm Ambush) 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5423)**
 
 **작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2060363498744586530) | **게시일:** May 29, 2026
 
 ---
-### Cinematic Anime Tennis Match Video
+### 영화 같은 애니메이션 테니스 경기 영상
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a high-energy anime-style tennis match video set against a warm sunset, featuring cinematic lighting and soft lens flares.
+> 따뜻한 노을을 배경으로 영화 같은 조명과 부드러운 렌즈 플레어가 돋보이는, 에너지가 넘치는 애니메이션 스타일의 테니스 경기 영상 생성 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Create a cinematic anime tennis match video at sunset on an outdoor court with chain-link fence, warm golden light, soft lens flare, realistic court shadows, and energetic match atmosphere.
+철조망 울타리가 있는 야외 코트에서 노을을 배경으로 한 영화 같은 애니메이션 테니스 경기 영상을 제작하세요. 따뜻한 황금빛 조명, 부드러운 렌즈 플레어, 사실적인 코트 그림자, 그리고 활기찬 경기 분위기를 포함해야 합니다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060362855858458624/img/zbdgrbVffxEhWQoV.jpg" width="600" alt="Cinematic Anime Tennis Match Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ba5902a810aa865a1cacb22eef84867/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 애니메이션 테니스 경기 영상">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5463)**
 
 **작성자:** [Abdul Șhakoor](https://x.com/abxxai) | **출처:** [Link](https://x.com/abxxai/status/2060362950788121082) | **게시일:** May 29, 2026
 
 ---
-### The Lava Beast Duel Video Prompt
+### 용암 괴수 결투 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed action-horror storyboard prompt for Seedance 2.0 depicting a struggle between an astronaut and a lava beast in a volcanic environment.
+> 화산 환경에서 우주비행사와 용암 괴수 간의 사투를 묘사한 Seedance 2.0용 액션 호러 스토리보드 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Nightmarish volcanic alien world. Rivers of lava cutting through black mountains. Ash storms. Exploding gas vents. Red lightning inside thick smoke clouds. Survival horror action. Fast-paced camera work, violent handheld energy, rapid cuts, speed ramps. Sound: volcanic eruptions, creature roars, jetpack bursts, collapsing rock.
+악몽 같은 화산 외계 행성. 검은 산맥을 가로지르는 용암 강. 재 폭풍. 폭발하는 가스 분출구. 짙은 연기 구름 속의 붉은 번개. 서바이벌 호러 액션. 빠른 템포의 카메라 워크, 거친 핸드헬드 에너지, 빠른 컷 전환, 속도감 있는 램핑. 사운드: 화산 폭발음, 괴수의 포효, 제트팩 분사음, 바위가 무너지는 소리.
 
 ⸻
 
-0–2s — HOOK
+0–2초 — 훅 (HOOK)
 
-Wide shot.
+와이드 샷.
 
-An astronaut is already running along a narrow volcanic ridge.
+우주비행사가 좁은 화산 능선을 따라 달리고 있다.
 
-Behind him—
+그의 뒤로—
 
-A gigantic lava-covered alien beast charges.
+거대한 용암으로 뒤덮인 외계 괴수가 돌진한다.
 
-Twelve feet tall.
+키는 12피트(약 3.6미터).
 
-Molten cracks glowing across its body.
+몸 전체에 녹아내린 균열이 빛을 발한다.
 
-Every footstep throws sparks and molten rock.
-
-⸻
-
-2–5s — ESCALATION
-
-Side tracking shot.
-
-The beast rapidly closes distance.
-
-The astronaut fires a plasma rifle over his shoulder.
-
-The shots hit.
-
-Nothing happens.
-
-The creature keeps coming.
-
-A gas vent erupts beside them.
-
-Fire blasts into the sky.
+발을 내디딜 때마다 불꽃과 녹은 바위가 튄다.
 
 ⸻
 
-5–8s — BUILD
+2–5초 — 고조 (ESCALATION)
 
-The ridge narrows.
+측면 트래킹 샷.
 
-Lava rivers on both sides.
+괴수가 빠르게 거리를 좁힌다.
 
-The astronaut slips.
+우주비행사가 어깨 너머로 플라즈마 소총을 발사한다.
 
-Recovers.
+총탄이 명중한다.
 
-The beast launches itself forward.
+아무 일도 일어나지 않는다.
 
-Its claws barely miss his suit.
+괴수는 계속 다가온다.
 
-Ash and molten debris fill the frame.
+옆에서 가스 분출구가 폭발한다.
 
-⸻
-
-8–11s — CHAOS
-
-Overhead drone-style shot.
-
-The entire ridge begins collapsing beneath their combined weight.
-
-Massive chunks break away.
-
-The astronaut jumps across a widening gap.
-
-The beast follows.
-
-The jump cracks the remaining rock.
-
-Everything starts falling.
+불길이 하늘로 치솟는다.
 
 ⸻
 
-11–13s — PAYOFF BUILD
+5–8초 — 빌드업 (BUILD)
 
-The ridge gives way completely.
+능선이 좁아진다.
 
-Astronaut and beast plunge toward a raging lava river.
+양옆으로 흐르는 용암 강.
 
-Bullet time.
+우주비행사가 미끄러진다.
 
-The astronaut grabs a hanging volcanic rock formation.
+다시 자세를 잡는다.
 
-The beast falls below him.
+괴수가 몸을 날린다.
+
+괴수의 발톱이 우주복을 아슬아슬하게 빗나간다.
+
+재와 녹은 파편들이 화면을 가득 채운다.
 
 ⸻
 
-13–15s — FINAL PAYOFF
+8–11초 — 혼돈 (CHAOS)
 
-The creature crashes into the lava.
+오버헤드 드론 스타일 샷.
 
-Molten rock erupts everywhere.
+둘의 무게를 견디지 못하고 능선 전체가 무너지기 시작한다.
 
-The astronaut looks down—
+거대한 바위 덩어리들이 떨어져 나간다.
 
-Relieved.
+우주비행사가 벌어지는 틈을 뛰어넘는다.
 
-Then suddenly—
+괴수가 뒤따른다.
 
-The beast erupts back out of the lava completely engulfed in fire.
+착지 충격으로 남은 바위가 갈라진다.
 
-Roaring.
+모든 것이 추락하기 시작한다.
 
-Launching itself toward him.
+⸻
+
+11–13초 — 페이오프 빌드 (PAYOFF BUILD)
+
+능선이 완전히 무너져 내린다.
+
+우주비행사와 괴수가 격렬한 용암 강을 향해 추락한다.
+
+불렛 타임(슬로우 모션).
+
+우주비행사가 매달려 있는 화산 암석 구조물을 붙잡는다.
+
+괴수는 그의 아래로 떨어진다.
+
+⸻
+
+13–15초 — 최종 페이오프 (FINAL PAYOFF)
+
+괴수가 용암 속으로 처박힌다.
+
+녹은 바위가 사방으로 솟구친다.
+
+우주비행사가 아래를 내려다본다—
+
+안도한다.
+
+그때 갑자기—
+
+괴수가 온몸이 불길에 휩싸인 채 용암 밖으로 튀어 오른다.
+
+포효하며.
+
+그를 향해 몸을 날린다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1bbc3d26077cca6baea2fb93e536684c/thumbnails/thumbnail.jpg" width="600" alt="The Lava Beast Duel Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1bbc3d26077cca6baea2fb93e536684c/thumbnails/thumbnail.jpg" width="600" alt="용암 괴수 결투 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5429)**
 
 **작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2060360339628364155) | **게시일:** May 29, 2026
 
 ---
-### Epic Mammoth Charge Survival Sequence
+### 웅장한 매머드 돌진 생존 시퀀스
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A thrilling fantasy video prompt set on a frozen tundra where a hunter lures a giant white werewolf into the middle of a woolly mammoth stampede.
+> 얼어붙은 툰드라를 배경으로, 사냥꾼이 거대한 흰색 늑대인간을 털북숭이 매머드 떼 한가운데로 유인하는 스릴 넘치는 판타지 영상 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Epic fantasy survival sequence set on a vast frozen tundra beneath storm-filled northern skies. Endless snowfields stretch to the horizon. Winds whip across the landscape. Visibility constantly shifts as snow blows through frame. High-action chase with huge scale and relentless momentum. Sound: pounding footsteps, mammoth calls, werewolf roars, cracking ice, screaming wind.
+폭풍이 몰아치는 북쪽 하늘 아래, 광활한 얼어붙은 툰드라를 배경으로 펼쳐지는 웅장한 판타지 생존 시퀀스. 끝없이 펼쳐진 설원과 지평선. 거센 바람이 풍경을 가로지르고, 눈보라가 프레임을 가득 채우며 시야가 계속해서 바뀝니다. 거대한 규모와 멈출 수 없는 추진력을 가진 고강도 추격전. 사운드: 쿵쿵거리는 발소리, 매머드의 울음소리, 늑대인간의 포효, 얼음이 깨지는 소리, 휘몰아치는 바람 소리.
 
 ⸻
 
-0–3s — HOOK
+0–3초 — 훅 (HOOK)
 
-A young hunter sprints across an open snowfield.
+젊은 사냥꾼이 탁 트인 설원을 가로질러 전력 질주합니다.
 
-Animal furs wrapped around his shoulders.
+어깨에는 동물 가죽을 두르고 있습니다.
 
-A hunting spear gripped tightly in one hand.
+한 손에는 사냥용 창을 꽉 쥐고 있습니다.
 
-His breath freezes in the air.
+입김이 공기 중에서 얼어붙습니다.
 
-Behind him—
+그의 뒤로—
 
-A colossal white werewolf bursts over a ridge.
+거대한 흰색 늑대인간이 능선을 넘어 튀어 나옵니다.
 
-Nearly nine feet tall.
+키는 거의 9 피트 (약 2.7 미터)에 달합니다.
 
-Massive muscles visible beneath thick frost-covered fur.
+서리가 낀 두꺼운 털 아래로 거대한 근육이 보입니다.
 
-Blue eyes glowing through blowing snow.
+눈보라 속에서 파란 눈이 빛납니다.
 
-The creature immediately locks onto him.
+괴물은 즉시 사냥꾼을 노립니다.
 
-It charges downhill.
+언덕 아래로 돌진합니다.
 
-Fast.
+빠릅니다.
 
-Much too fast.
-
-⸻
-
-3–6s — ESCALATION
-
-The hunter pushes himself harder.
-
-Snow explodes beneath every stride.
-
-The werewolf rapidly closes distance.
-
-Its powerful legs launch it through deep drifts effortlessly.
-
-Every leap covers huge ground.
-
-The hunter glances back.
-
-The beast is only seconds away.
-
-Its jaws snap.
-
-Its roar echoes across the tundra.
+너무나도 빠릅니다.
 
 ⸻
 
-6–9s — BUILD
+3–6초 — 긴장 고조 (ESCALATION)
 
-Ahead—
+사냥꾼은 더욱 속도를 냅니다.
 
-Movement.
+발을 내디딜 때마다 눈이 사방으로 튑니다.
 
-A gigantic migrating herd of woolly mammoths crosses the frozen plain.
+늑대인간이 빠르게 거리를 좁혀옵니다.
 
-Dozens of them.
+강력한 다리로 깊은 눈더미를 힘차게 박차고 나갑니다.
 
-Towering bodies.
+한 번의 도약으로 엄청난 거리를 이동합니다.
 
-Massive curved tusks.
+사냥꾼이 뒤를 돌아봅니다.
 
-The ground vibrates beneath their weight.
+괴물과의 거리는 불과 몇 초 차이입니다.
 
-The hunter changes direction and runs directly toward the herd.
+괴물의 턱이 딱딱거립니다.
 
-The werewolf follows without hesitation.
-
-⸻
-
-9–12s — THE PLAN
-
-The hunter reaches the mammoths.
-
-He darts between enormous legs and charging bodies.
-
-Snow and ice spray into the air.
-
-The werewolf enters the herd moments later.
-
-Now completely surrounded by mammoths.
-
-The hunter plants his feet.
-
-Turns.
-
-Throws his spear.
-
-Bullet time.
-
-The spear spins through the air.
-
-Strikes a mammoth’s flank.
+포효 소리가 툰드라 전역에 울려 퍼집니다.
 
 ⸻
 
-12–15s — PAYOFF
+6–9초 — 빌드업 (BUILD)
 
-The injured mammoth bellows.
+앞쪽에서—
 
-The herd panics instantly.
+움직임이 포착됩니다.
 
-Dozens of mammoths turn simultaneously.
+거대한 털북숭이 매머드 무리가 얼어붙은 평원을 가로질러 이동하고 있습니다.
 
-Thousands of pounds of muscle and tusk begin charging directly toward the werewolf.
+수십 마리에 달합니다.
 
-The beast tries to stop.
+우뚝 솟은 몸집.
 
-Too late.
+거대하게 굽은 상아.
 
-The stampede slams into it.
+매머드들의 무게에 땅이 진동합니다.
 
-Tusks.
+사냥꾼은 방향을 틀어 무리를 향해 곧장 달립니다.
 
-Snow.
+늑대인간도 망설임 없이 뒤를 쫓습니다.
 
-Fur.
+⸻
 
-Ice.
+9–12초 — 작전 (THE PLAN)
 
-Chaos.
+사냥꾼이 매머드 무리에 도달합니다.
 
-The werewolf disappears beneath a wall of charging mammoths.
+거대한 다리와 돌진하는 몸체 사이를 요리조리 빠져나갑니다.
 
-The hunter watches from a rocky outcrop as the herd thunders past.
+눈과 얼음 조각이 공중으로 흩날립니다.
 
-Snow fills the air.
+잠시 후 늑대인간도 무리 속으로 진입합니다.
 
-The creature is gone.
+이제 완전히 매머드들에게 둘러싸였습니다.
 
-Only the sound of the stampede remains.
+사냥꾼이 발을 멈추고.
+
+몸을 돌립니다.
+
+창을 던집니다.
+
+불렛 타임 (Bullet time).
+
+창이 공중을 회전하며 날아갑니다.
+
+매머드의 옆구리에 꽂힙니다.
+
+⸻
+
+12–15초 — 결말 (PAYOFF)
+
+상처 입은 매머드가 울부짖습니다.
+
+무리는 즉시 공황 상태에 빠집니다.
+
+수십 마리의 매머드가 동시에 몸을 돌립니다.
+
+수천 파운드에 달하는 근육과 상아를 가진 매머드들이 늑대인간을 향해 곧장 돌진하기 시작합니다.
+
+괴물이 멈추려 하지만.
+
+너무 늦었습니다.
+
+매머드 떼가 괴물을 덮칩니다.
+
+상아.
+
+눈.
+
+털.
+
+얼음.
+
+혼돈 그 자체.
+
+늑대인간은 돌진하는 매머드들의 벽 아래로 사라집니다.
+
+사냥꾼은 바위 언덕 위에서 매머드 무리가 천둥처럼 지나가는 모습을 지켜봅니다.
+
+눈보라가 공기를 가득 채웁니다.
+
+괴물은 사라졌습니다.
+
+오직 매머드 떼가 지나가는 소리만이 남았습니다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060354793890357249/img/1YwIi43ZPwLRgyHD.jpg" width="600" alt="Epic Mammoth Charge Survival Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9f56035e387872401d848a3e7c4dc84/thumbnails/thumbnail.jpg" width="600" alt="웅장한 매머드 돌진 생존 시퀀스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5457)**
 
 **작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2060354858277019768) | **게시일:** May 29, 2026
 
 ---
-### Magma Demon Medieval Siege
+### 마그마 악마 중세 공성전
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dark fantasy apocalypse prompt featuring a colossal magma demon destroying a medieval kingdom with dramatic cinematography and debris effects.
+> 거대한 마그마 악마가 중세 왕국을 파괴하는 다크 판타지 아포칼립스 프롬프트로, 드라마틱한 촬영 기법과 파편 효과가 특징입니다.
 
 #### 📝 프롬프트
 
 ```
-A colossal demonic creature with obsidian skin cracked by flowing magma, gigantic horns piercing through smoke clouds, glowing eyes radiating pure rage
-Emerges from beneath the earth and rampages through a medieval kingdom, crushing castles with its bare hands while armies desperately attack from every direction
-Dark fantasy apocalypse with burning villages, collapsing cathedrals, lava fissures splitting the ground and dragons circling through ash-filled skies
-Begins with ground-level tracking as cracks spread violently through the city, sudden eruption sending debris flying toward the camera, whip pans following collapsing towers, aerial orbit around the demon roaring through flames, fire and molten rock flooding the frame, ending with the demon standing atop the destroyed kingdom while the last remaining castle collapses behind it into lava, camera slowly pulling back through smoke revealing complete annihilation across the horizon
+흑요석 피부 사이로 마그마가 흐르고, 거대한 뿔이 연기 구름을 뚫고 나오며, 순수한 분노를 뿜어내는 빛나는 눈을 가진 거대한 악마 생명체
+땅속에서 솟아올라 중세 왕국을 휩쓸며 맨손으로 성을 부수고, 사방에서 필사적으로 공격하는 군대와 맞서는 모습
+불타는 마을, 무너지는 대성당, 땅을 가르는 용암 균열, 재로 뒤덮인 하늘을 선회하는 용들이 등장하는 다크 판타지 아포칼립스
+도시 전역으로 균열이 격렬하게 퍼지는 지면 추적 샷으로 시작, 갑작스러운 분출로 파편이 카메라를 향해 날아오고, 무너지는 탑을 따라가는 휩 팬(whip pan), 화염 속에서 포효하는 악마 주변을 도는 항공 궤도 샷, 불과 녹은 암석이 화면을 가득 채우며, 마지막 남은 성이 뒤에서 용암 속으로 무너져 내리는 동안 파괴된 왕국 위에 서 있는 악마의 모습으로 마무리, 연기 속으로 카메라가 천천히 멀어지며 지평선 너머의 완전한 파멸을 드러냄
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5b1966061ce67625b08a2f75a7bfefb/thumbnails/thumbnail.jpg" width="600" alt="Magma Demon Medieval Siege">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5b1966061ce67625b08a2f75a7bfefb/thumbnails/thumbnail.jpg" width="600" alt="마그마 악마 중세 공성전">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5431)**
 
 **작성자:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **출처:** [Link](https://x.com/CharaspowerAI/status/2060352986509955507) | **게시일:** May 29, 2026
 
 ---
-### Sci-Fi Astronaut Monster Chase
+### SF 우주비행사와 괴물의 추격전
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic sci-fi horror prompt featuring an astronaut fleeing a giant flying moth-dragon on an alien world with floating islands.
+> 떠다니는 섬들이 있는 외계 행성에서 거대한 나방-드래곤 괴물에게 쫓기는 우주비행사를 다룬 영화 같은 SF 호러 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Cinematic photorealistic sci-fi action horror sequence set on a surreal alien world with dark purple skies and endless floating islands covered in glowing blue crystals. An astronaut in a detailed white spacesuit with jetpack runs desperately across the rocky floating platforms, jumping between them while being chased by a massive terrifying winged creature resembling a giant moth-dragon hybrid with powerful wings and sharp features.
-The camera dynamically follows the high-speed chase with sweeping aerial shots, tracking the astronaut from behind and side angles. The astronaut leaps across chasms as glowing crystals pulse with bright blue light. A dramatic close-up shows the astronaut’s terrified face inside the helmet, eyes wide and mouth open in panic. The giant creature swoops aggressively, creating chaos. In the climax, the astronaut grabs onto a thick hanging vine on the edge of a crumbling floating island, looking back in fear as the monster approaches and debris flies everywhere.
-Moody volumetric fog, dramatic purple-blue lighting, intense motion, realistic physics, high detail textures, and epic scale. Fast-paced thrilling survival chase with strong cinematic tension.
+어두운 보랏빛 하늘과 끝없이 펼쳐진 떠다니는 섬들로 가득한 초현실적인 외계 행성을 배경으로 한 영화 같은 사실적 SF 액션 호러 시퀀스입니다. 정교한 흰색 우주복과 제트팩을 착용한 우주비행사가 바위로 된 부유 플랫폼 위를 필사적으로 달리며, 강력한 날개와 날카로운 이목구비를 가진 거대한 나방-드래곤 하이브리드 괴물에게 쫓기며 플랫폼 사이를 뛰어넘습니다.
+카메라는 역동적인 항공 촬영을 통해 고속 추격전을 따라가며, 우주비행사의 뒤와 측면에서 긴박한 움직임을 포착합니다. 우주비행사가 깊은 틈을 뛰어넘을 때마다 빛나는 수정들이 밝은 푸른색으로 맥동합니다. 헬멧 안으로 비친 우주비행사의 공포에 질린 얼굴이 클로즈업되며, 눈을 크게 뜨고 입을 벌린 채 당황한 모습이 드러납니다. 거대한 괴물은 공격적으로 급강하하며 혼란을 야기합니다. 절정 부분에서 우주비행사는 무너져 내리는 부유 섬 가장자리에 매달린 굵은 덩굴을 붙잡고, 괴물이 다가오며 파편이 사방으로 튀는 가운데 공포에 질린 채 뒤를 돌아봅니다.
+분위기 있는 볼류메트릭 안개, 드라마틱한 보라-푸른색 조명, 강렬한 움직임, 사실적인 물리 효과, 고해상도 텍스처, 그리고 웅장한 스케일이 특징입니다. 강렬한 영화적 긴장감이 느껴지는 빠른 속도의 스릴 넘치는 생존 추격전입니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ded2075a8afed31bf7ed63970d6c7f8/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi Astronaut Monster Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ded2075a8afed31bf7ed63970d6c7f8/thumbnails/thumbnail.jpg" width="600" alt="SF 우주비행사와 괴물의 추격전">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5435)**
 
 **작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2060346290907848960) | **게시일:** May 29, 2026
 
 ---
-### Astronaut vs Giant Alien Spiders Video Prompt
+### 우주비행사 대 거대 외계 거미 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intense, epic-scale sci-fi horror chase prompt for Seedance 2.0 involving giant spider-crab creatures and a transforming environment.
+> 거대 거미-게 생명체와 변형되는 환경을 다룬 Seedance 2.0용 강렬하고 서사적인 SF 호러 추격 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Cinematic photorealistic sci-fi horror chase sequence set on a dark, foggy alien planet with rocky canyons and floating islands. An astronaut in a white and blue spacesuit runs desperately for his life through a narrow rocky path, looking back in terror. He is relentlessly chased by multiple giant menacing red spider-crab alien creatures with glowing orange eyes and sharp legs.
-The camera dynamically follows from behind and switches to high-angle shots revealing the terrifying scale. The path dramatically transforms into the inside of a massive ancient monster’s mouth lined with huge teeth and fleshy walls. The astronaut keeps running straight into the giant maw as the spider monsters close in. In the climax, the enormous creature awakens, its massive head rising with jaws opening wide. The astronaut is thrown into the air as the gigantic beast emerges powerfully from the mountain-like structure.
-Intense action, dramatic foggy atmosphere, realistic creature details, dynamic camera movement, high tension, and epic scale. Dark moody lighting with volumetric fog, fast-paced editing, and thrilling survival horror vibe. 13-second high-impact sequence.
+바위 협곡과 떠 있는 섬들이 있는 어둡고 안개 낀 외계 행성을 배경으로 한 영화 같은 실사 SF 호러 추격 시퀀스. 흰색과 파란색 우주복을 입은 우주비행사가 공포에 질려 뒤를 돌아보며 좁은 바위 길을 필사적으로 달립니다. 그는 주황색으로 빛나는 눈과 날카로운 다리를 가진 여러 마리의 거대하고 위협적인 붉은 거미-게 외계 생명체에게 끈질기게 쫓기고 있습니다.
+카메라는 뒤에서 역동적으로 따라가다가 높은 각도의 샷으로 전환되어 공포스러운 규모를 드러냅니다. 길은 거대한 이빨과 살점 벽으로 둘러싸인 고대 괴물의 입속으로 극적으로 변합니다. 우주비행사는 거미 괴물들이 다가오는 가운데 거대한 입을 향해 계속 달립니다. 클라이맥스에서 거대한 생명체가 깨어나며 턱을 크게 벌리고 거대한 머리를 들어 올립니다. 산과 같은 구조물에서 거대한 짐승이 강력하게 솟아오르면서 우주비행사는 공중으로 튕겨 나갑니다.
+강렬한 액션, 극적인 안개 분위기, 사실적인 생명체 디테일, 역동적인 카메라 움직임, 높은 긴장감과 서사적인 규모. 볼륨감 있는 안개가 깔린 어둡고 분위기 있는 조명, 빠른 편집, 스릴 넘치는 서바이벌 호러 분위기. 13초 분량의 강렬한 시퀀스.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed96a90c65a09bb3ff745c22c2d451c7/thumbnails/thumbnail.jpg" width="600" alt="Astronaut vs Giant Alien Spiders Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed96a90c65a09bb3ff745c22c2d451c7/thumbnails/thumbnail.jpg" width="600" alt="우주비행사 대 거대 외계 거미 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5425)**
 
 **작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2060344965818139054) | **게시일:** May 29, 2026
 
 ---
-### Cinematic Fire Dancer Performance in Abandoned Courtyard
+### 버려진 안뜰에서 펼쳐지는 영화 같은 불꽃 무용수 공연
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A multi-scene video prompt generating a cinematic performance of a young fire dancer in an ancient stone courtyard, featuring dynamic camera movements and detailed fire visual effects.
+> 고대 석조 안뜰에서 펼쳐지는 젊은 불꽃 무용수의 영화 같은 공연을 생성하는 다중 장면 비디오 프롬프트로, 역동적인 카메라 움직임과 디테일한 불꽃 시각 효과를 포함합니다.
 
 #### 📝 프롬프트
 
 ```
-A dark, atmospheric outdoor setting at night in an abandoned open courtyard surrounded by ancient stone pillars. The air is still, and faint embers float in the wind. A powerful cinematic silence builds tension with low ambient sound and distant wind.
+고대 돌기둥으로 둘러싸인 버려진 야외 안뜰의 어둡고 분위기 있는 밤 배경. 공기는 고요하고 희미한 불씨가 바람에 흩날립니다. 낮게 깔리는 주변 소음과 멀리서 들려오는 바람 소리가 긴장감을 조성하며 강렬한 영화적 정적을 만들어냅니다.
 
-The camera slowly pushes in on a young fire dancer standing in the center. She wears flowing, elegant performance attire with subtle reflective details that catch the faint glow of nearby embers. Her expression is calm, focused, and almost trance-like.
+카메라가 중앙에 서 있는 젊은 불꽃 무용수를 향해 천천히 다가갑니다. 그녀는 주변 불씨의 희미한 빛을 반사하는 섬세한 디테일이 가미된 우아하고 흐르는 듯한 공연 의상을 입고 있습니다. 그녀의 표정은 차분하고 집중되어 있으며, 마치 무아지경에 빠진 듯합니다.
 
-At second 3–5, she begins to move slowly. Each hand gesture feels deliberate and controlled. As her fingers trace through the air, **small sparks ignite around her hands**, forming glowing orange trails.
+3~5초 구간에서 그녀가 천천히 움직이기 시작합니다. 손동작 하나하나가 의도적이고 절제되어 있습니다. 그녀의 손가락이 공중을 가로지를 때마다 **손 주변에서 작은 불꽃이 점화되며** 주황색 빛의 궤적을 그립니다.
 
-Suddenly, the music drops into a deep cinematic beat.
+갑자기 음악이 깊고 웅장한 영화적 비트로 전환됩니다.
 
-She spins once — and a **ring of fire bursts outward** in perfect symmetry around her feet. The flames respond to her movement as if alive. Every motion she makes bends the fire: swirling, rising, and flowing like liquid light.
+그녀가 한 바퀴 회전하자 **발밑으로 완벽한 대칭을 이루는 불의 고리가 터져 나옵니다**. 불꽃은 마치 살아있는 것처럼 그녀의 움직임에 반응합니다. 그녀가 움직일 때마다 불길은 액체 빛처럼 소용돌이치고, 솟구치며, 흐릅니다.
 
-The camera switches between:
+카메라는 다음 장면들을 교차합니다:
 
-* Slow-motion close-ups of her hands controlling fire streams
-* Low-angle shots showing flames rising behind her like a crown
-* Wide cinematic orbit shots circling her as fire forms patterns in the air
+* 불꽃의 흐름을 조종하는 그녀의 손을 담은 슬로우 모션 클로즈업
+* 그녀의 뒤로 왕관처럼 솟아오르는 불길을 보여주는 로우 앵글 샷
+* 공중에 불꽃 패턴이 형성되는 동안 그녀를 중심으로 회전하는 와이드 시네마틱 궤도 샷
 
-At second 10–13, she raises both hands upward — and the flames rise dramatically into the sky, forming a **giant spiraling fire vortex above her**.
+10~13초 구간에서 그녀가 양손을 위로 들어 올리자 불길이 극적으로 하늘로 치솟으며 **그녀 머리 위로 거대한 나선형 불꽃 소용돌이**를 형성합니다.
 
-Final moment: she gently lowers her hands, and the fire collapses into glowing embers that float around her like fireflies. She stands still in the center, untouched, powerful, and calm.
+마지막 순간: 그녀가 천천히 손을 내리자 불꽃은 반딧불이처럼 그녀 주변을 떠다니는 빛나는 불씨로 변합니다. 그녀는 중심에 가만히 서 있으며, 그 어떤 상처도 없이 강력하고 차분한 모습을 유지합니다.
 
-End with a cinematic freeze frame: her silhouette surrounded by drifting embers, warm orange glow against deep black night sky, ultra-dramatic fantasy realism.
+영화 같은 프리즈 프레임으로 마무리: 흩날리는 불씨에 둘러싸인 그녀의 실루엣, 짙은 밤하늘을 배경으로 한 따뜻한 주황빛 광채, 초현실적인 판타지 리얼리즘을 선사합니다.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060342500913508353/pu/img/D1Gx-ExoyVxXnN8w.jpg" width="600" alt="Cinematic Fire Dancer Performance in Abandoned Courtyard">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f69f830a7dc6bde023d001a4c1c2e9cd/thumbnails/thumbnail.jpg" width="600" alt="버려진 안뜰에서 펼쳐지는 영화 같은 불꽃 무용수 공연">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5451)**
 
 **작성자:** [Ai Doctor](https://x.com/DoctorAmna11) | **출처:** [Link](https://x.com/DoctorAmna11/status/2060342535822979429) | **게시일:** May 29, 2026
 
 ---
-### Cartoon Chef Boy Hotel Kitchen Sequence
+### 만화 셰프 소년의 호텔 주방 시퀀스
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A multi-frame video prompt telling a story of a cute cartoon chef preparing a gourmet dish in a grand hotel kitchen with warm cinematic lighting.
+> 따뜻한 영화적 조명이 비치는 웅장한 호텔 주방에서 귀여운 만화 셰프가 고급 요리를 준비하는 이야기를 담은 다중 프레임 비디오 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Frame 1: Cute cartoon chef boy walking slowly into grand hotel kitchen, camera slowly zooming out, golden warm light glowing, cinematic entrance, no text, 4K
+프레임 1: 귀여운 만화 셰프 소년이 웅장한 호텔 주방으로 천천히 걸어 들어오고, 카메라가 천천히 줌 아웃되며, 황금빛 따뜻한 조명이 빛나는 영화 같은 등장, 텍스트 없음, 4K
 
-Frame 2: Cartoon chef boy carefully picking fresh vegetables, hands moving slowly, ingredients glistening, warm golden light, cinematic close-up, no text, 4K
+프레임 2: 만화 셰프 소년이 신선한 채소를 조심스럽게 고르고, 손이 천천히 움직이며, 재료가 반짝이고, 따뜻한 황금빛 조명이 비치는 영화 같은 클로즈업, 텍스트 없음, 4K
 
-Frame 3: Cartoon chef boy chopping vegetables slowly, knife moving with motion blur, steam rising gently, cinematic lighting, no text, 4K
+프레임 3: 만화 셰프 소년이 천천히 채소를 썰고, 칼이 모션 블러와 함께 움직이며, 김이 부드럽게 피어오르는 영화 같은 조명, 텍스트 없음, 4K
 
-Frame 4: Cartoon chef boy tossing food in pan, dramatic flames rising slowly, sparks flying, fire lighting up face, cinematic slow motion, no text, 4K
+프레임 4: 만화 셰프 소년이 팬에 음식을 던지고, 극적인 불길이 천천히 솟아오르며, 불꽃이 튀고, 불빛이 얼굴을 비추는 영화 같은 슬로우 모션, 텍스트 없음, 4K
 
-Frame 5: Golden sauce pouring slowly from ladle into pan, steam rising dramatically, warm cinematic light, extreme slow motion, no text, 4K
+프레임 5: 국자에서 팬으로 황금빛 소스가 천천히 부어지고, 김이 극적으로 피어오르며, 따뜻한 영화적 조명이 비치는 초고속 슬로우 모션, 텍스트 없음, 4K
 
-Frame 6: Cartoon chef boy tasting food from spoon, eyes closing slowly with blissful expression, soft warm light on face, cinematic portrait, no text, 4K
+프레임 6: 만화 셰프 소년이 숟가락으로 음식을 맛보고, 행복한 표정으로 천천히 눈을 감으며, 얼굴에 부드럽고 따뜻한 빛이 비치는 영화 같은 인물 사진, 텍스트 없음, 4K
 
-Frame 7: Cartoon chef boy carefully placing garnish on plate with tweezers, dramatic spotlight on dish, slow precise movement, cinematic close-up, no text, 4K
+프레임 7: 만화 셰프 소년이 핀셋으로 접시에 고명을 조심스럽게 올리고, 요리에 극적인 조명이 비치며, 느리고 정밀한 움직임이 돋보이는 영화 같은 클로즈업, 텍스트 없음, 4K
 
-Frame 8: Cartoon chef boy lifting silver dome slowly, dramatic steam rising, golden light flooding out, proud smile, cinematic reveal, no text, 4K
+프레임 8: 만화 셰프 소년이 은색 돔을 천천히 들어 올리고, 극적인 김이 피어오르며, 황금빛이 쏟아져 나오고, 자랑스러운 미소를 짓는 영화 같은 공개 장면, 텍스트 없음, 4K
 
-Frame 9: Cartoon chef boy standing tall arms crossed, slow cinematic zoom out, full kitchen glowing behind him, hero moment, warm light, no text, 4K
+프레임 9: 만화 셰프 소년이 팔짱을 끼고 당당하게 서 있고, 뒤로 주방 전체가 빛나며 천천히 줌 아웃되는 영웅적인 순간, 따뜻한 조명, 텍스트 없음, 4K
 
-Frame 10: Extreme close-up of beautifully plated gourmet dish, slow cinematic push forward, garnish glistening, golden light, mouth-watering food shot, no text, 4K
+프레임 10: 아름답게 플레이팅 된 고급 요리의 극단적인 클로즈업, 천천히 영화처럼 다가가며, 고명이 반짝이고, 황금빛 조명이 비치는 군침 도는 음식 샷, 텍스트 없음, 4K
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060268763824672768/img/q8pamDGZpX3h2N4-.jpg" width="600" alt="Cartoon Chef Boy Hotel Kitchen Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1419b6c1507e7447c1691d3cc69ab353/thumbnails/thumbnail.jpg" width="600" alt="만화 셰프 소년의 호텔 주방 시퀀스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5461)**
 
 **작성자:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **출처:** [Link](https://x.com/itsshara_ai/status/2060341637356966097) | **게시일:** May 29, 2026
 
 ---
-### Cinematic Luxury Lifestyle Speedboat Scene
+### 영화 같은 럭셔리 라이프스타일 스피드보트 장면
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional Hollywood-style commercial video prompt of a young woman driving a speedboat on the ocean during golden hour, with highly realistic water physics and drone tracking.
+> 골든 아워 시간대 바다 위에서 스피드보트를 운전하는 젊은 여성의 모습을 담은 전문가용 할리우드 스타일 상업 영상 프롬프트로, 매우 사실적인 물 물리 효과와 드론 추적 촬영이 포함되어 있습니다.
 
 #### 📝 프롬프트
 
 ```
-A highly realistic cinematic luxury lifestyle scene filmed like a professional Hollywood commercial.
+전문가용 할리우드 광고처럼 촬영된 매우 사실적인 영화 같은 럭셔리 라이프스타일 장면입니다.
 
-Opening shot: captured with a stabilized drone camera during golden hour over a calm deep-blue ocean. A beautiful young woman in her mid-20s naturally drives a modern white speedboat at medium-fast speed. Her hair flows realistically in the wind, sunlight softly reflects on her skin, and the water movement looks physically accurate with natural splashes and detailed wake trails behind the boat.
+오프닝 샷: 잔잔하고 깊은 푸른 바다 위 골든 아워 시간대에 안정화된 드론 카메라로 촬영되었습니다. 20대 중반의 아름다운 젊은 여성이 현대적인 흰색 스피드보트를 적당히 빠른 속도로 자연스럽게 운전합니다. 그녀의 머리카락은 바람에 사실적으로 흩날리고, 햇살이 피부에 부드럽게 반사되며, 물의 움직임은 자연스러운 물보라와 보트 뒤로 남는 상세한 항적과 함께 물리적으로 정확하게 표현됩니다.
 
-Camera transitions smoothly between professional cinematic angles:
-— wide aerial drone tracking shot
-— side profile tracking shot close to the water
-— realistic handheld close-up of her adjusting the steering wheel
-— slow-motion splash shots with authentic lighting reflections
-— cinematic close-up of her relaxed confident expression wearing elegant sunglasses
+카메라는 다음과 같은 전문적인 영화적 앵글 사이를 매끄럽게 전환합니다:
+— 넓은 항공 드론 추적 샷
+— 수면 가까이에서 촬영한 측면 프로필 추적 샷
+— 운전대를 조절하는 그녀의 모습을 담은 사실적인 핸드헬드 클로즈업
+— 실제와 같은 빛 반사가 담긴 슬로우 모션 물보라 샷
+— 우아한 선글라스를 쓴 그녀의 편안하고 자신감 넘치는 표정을 담은 영화적 클로즈업
 
-The boat movement feels realistic with proper wave interaction and balanced motion physics. Natural wind simulation, true-to-life ocean textures, realistic shadows, premium color grading, subtle lens flare, shallow depth of field, documentary-style realism mixed with luxury commercial aesthetics.
+보트의 움직임은 적절한 파도 상호작용과 균형 잡힌 모션 물리 효과로 사실적으로 느껴집니다. 자연스러운 바람 시뮬레이션, 실물 같은 바다 질감, 사실적인 그림자, 프리미엄 컬러 그레이딩, 은은한 렌즈 플레어, 얕은 피사계 심도, 다큐멘터리 스타일의 사실주의와 럭셔리 상업 광고 미학이 결합되었습니다.
 
-Final shot: drone slowly pulls away as the speedboat moves toward the glowing sunset horizon, creating a premium emotional ending.
+마지막 샷: 스피드보트가 빛나는 일몰 지평선을 향해 나아가는 동안 드론이 천천히 멀어지며 프리미엄한 감성적 엔딩을 연출합니다.
 
-Style: ultra photorealistic, professionally filmed, cinematic lighting, realistic camera motion, authentic human movement, luxury travel commercial, 4K HDR, smooth transitions, no CGI look, no artificial facial distortions, natural body proportions, highly detailed water simulation...
+스타일: 초고화질 사실주의, 전문 촬영, 영화적 조명, 사실적인 카메라 움직임, 자연스러운 인체 움직임, 럭셔리 여행 광고, 4K HDR, 매끄러운 전환, CGI 느낌 없음, 인위적인 얼굴 왜곡 없음, 자연스러운 신체 비율, 매우 상세한 물 시뮬레이션...
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060336731191197697/pu/img/NKMrfBdObQe4CVBn.jpg" width="600" alt="Cinematic Luxury Lifestyle Speedboat Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3d7f577cd476a9555bb75307d18f9cc/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 럭셔리 라이프스타일 스피드보트 장면">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5456)**
 
 **작성자:** [Ai Girllie](https://x.com/Inshrah_ali_) | **출처:** [Link](https://x.com/Inshrah_ali_/status/2060336792646361109) | **게시일:** May 29, 2026
 
 ---
-### Festive Mushroom City Anime Chase
+### 축제 분위기의 버섯 도시, 애니메이션 추격전
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A high-energy anime escape sequence set in a vibrant festival mushroom city, featuring a thief girl dodging crowds and leaping across rooftops with cinematic lighting and dynamic angles.
+> 활기 넘치는 축제 버섯 도시를 배경으로 한 고속 애니메이션 탈출 시퀀스입니다. 도둑 소녀가 인파를 피하고 지붕 사이를 뛰어넘는 모습을 영화 같은 조명과 역동적인 앵글로 담아냈습니다.
 
 #### 📝 프롬프트
 
 ```
-@Image 1 = Protagonist character. @Image 2 = Storyboard reference. Based on the attached storyboard image, create a 15-second horizontal 16:9 anime thrilling escape scene video. Theme: Thief Girl. Animate as a high-tempo, brisk scene following the panel order of the storyboard. Flow: Start with an overhead view of a festive giant mushroom city. A girl in a blue hood, blending into the heat and decorations of the crowd, steals a rare glowing mushroom from the center of the festival. Mix close-ups of hands and expressions during the theft, and show a thrilling smile as if she's enjoying herself immediately after succeeding. Afterward, escape briskly using the multi-level platforms of the festival venue, rooftops of stalls, decorated walkways, and spaces filled with ropes and cloth. Pursuers and the surrounding crowd are surprised and begin to chase her; the girl slips through people, leaps over them, slides, and escapes nimbly. End by escaping to a high platform or bridge and running through the festive lights. Style: High-quality anime film style, cinematic lighting, top-tier animation, high definition, vivid colors, a celebratory and gorgeous atmosphere, busy crowds, giant mushroom decorations, and an energetic world where confetti and fabric decorations dance. Make the girl embody both cuteness and agility, with an aura of combined fun and danger. Editing: Use rhythmic high-speed cuts, close-ups, extreme close-ups, low angles, overhead shots, quick pans, and smooth match cuts. Incorporate hand close-ups at the moment of theft, expression close-ups at the start of the run, following shots slipping through crowds, overhead shots jumping between platforms, extreme close-ups of feet upon landing, and dynamic diagonal compositions using rope or cloth for movement. Create an energetic and stylish video, making use of the height differences and congestion unique to a festival city for a thrilling escape. Important: Do not make it a slideshow of still images. Animate running and stealing naturally. Maintain the same festival mushroom city atmosphere and high-quality anime style throughout. Do not include text, subtitles, logos, or watermarks. Perform the suspenseful thrill as a brisk scene. Consistently maintain the protagonist's face, blue hood, outfit, basket, and the shape of the glowing mushroom throughout.
+@Image 1 = 주인공 캐릭터. @Image 2 = 스토리보드 참조. 첨부된 스토리보드 이미지를 바탕으로 15초 분량의 16:9 가로형 애니메이션 스릴러 탈출 장면 영상을 제작하세요. 테마: 도둑 소녀. 스토리보드의 패널 순서에 따라 템포가 빠르고 경쾌한 장면으로 애니메이션화하세요. 흐름: 축제가 열리는 거대한 버섯 도시의 부감 샷으로 시작합니다. 파란색 후드를 쓴 소녀가 축제의 열기와 장식 속에 섞여 중앙에서 희귀한 빛나는 버섯을 훔칩니다. 절도 순간의 손과 표정을 클로즈업하고, 성공 직후 즐거워하는 스릴 넘치는 미소를 보여주세요. 그 후 축제장의 다층 플랫폼, 가판대 지붕, 장식된 통로, 밧줄과 천으로 가득 찬 공간을 활용해 빠르게 탈출합니다. 추격자들과 주변 군중은 놀라며 그녀를 쫓기 시작하고, 소녀는 사람들 사이를 빠져나가고, 뛰어넘고, 슬라이딩하며 민첩하게 도망칩니다. 마지막에는 높은 플랫폼이나 다리로 탈출하여 축제 조명 사이를 달리는 모습으로 마무리하세요. 스타일: 고품질 애니메이션 영화 스타일, 영화 같은 조명, 최고 수준의 애니메이션, 고해상도, 선명한 색감, 축제 분위기의 화려한 배경, 붐비는 인파, 거대한 버섯 장식, 꽃가루와 천 장식이 흩날리는 에너지 넘치는 세계관. 소녀는 귀여움과 민첩함을 동시에 갖추고, 재미와 위험이 공존하는 아우라를 풍기도록 표현하세요. 편집: 리듬감 있는 고속 컷, 클로즈업, 익스트림 클로즈업, 로우 앵글, 오버헤드 샷, 빠른 팬, 부드러운 매치 컷을 사용하세요. 절도 순간의 손 클로즈업, 달리기 시작할 때의 표정 클로즈업, 군중 사이를 빠져나가는 팔로잉 샷, 플랫폼 사이를 점프하는 오버헤드 샷, 착지 시 발의 익스트림 클로즈업, 밧줄이나 천을 활용한 역동적인 대각선 구도를 포함하세요. 축제 도시 특유의 고저 차와 혼잡함을 활용하여 스릴 넘치는 탈출 장면을 에너지 있고 스타일리시하게 연출하세요. 중요: 정지 이미지의 슬라이드쇼가 되지 않도록 하세요. 달리기와 훔치는 동작을 자연스럽게 애니메이션화하세요. 전체적으로 축제 버섯 도시의 분위기와 고품질 애니메이션 스타일을 일관되게 유지하세요. 텍스트, 자막, 로고, 워터마크는 포함하지 마세요. 긴장감 넘치는 스릴을 경쾌한 장면으로 표현하세요. 주인공의 얼굴, 파란색 후드, 의상, 바구니, 빛나는 버섯의 형태를 영상 전체에서 일관되게 유지하세요.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060315481106714624/img/LM-ANLruIV4cJR-i.jpg" width="600" alt="Festive Mushroom City Anime Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e8f79a5ac1088a28039b28a7f15a1850/thumbnails/thumbnail.jpg" width="600" alt="축제 분위기의 버섯 도시, 애니메이션 추격전">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5469)**
 
 **작성자:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **출처:** [Link](https://x.com/Ryuki_Yano/status/2060316111569096883) | **게시일:** May 29, 2026
 
 ---
-### Arctic Titan Awakening Dark Fantasy Prompt
+### 북극의 거인: 깨어나는 다크 판타지 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A suspenseful dark fantasy sequence featuring a colossal ancient titan trapped beneath an iceberg in a snowstorm.
+> 눈보라 속 빙산 아래 갇힌 거대한 고대 거인을 다룬 긴장감 넘치는 다크 판타지 시퀀스.
 
 #### 📝 프롬프트
 
 ```
-15-second cinematic dark fantasy sequence inside a frozen arctic wasteland during a violent snowstorm.
+격렬한 눈보라가 몰아치는 얼어붙은 북극 황무지를 배경으로 한 15초 분량의 시네마틱 다크 판타지 시퀀스.
 
-A colossal ancient titan sleeps trapped beneath a massive iceberg larger than mountains, barely visible under layers of translucent ice and deep frozen cracks. Only vague shapes of its gigantic face and body can be seen beneath the frozen surface.
+산보다 거대한 빙산 아래, 겹겹이 쌓인 반투명한 얼음과 깊게 갈라진 틈새 사이로 고대의 거대한 거인이 잠들어 있다. 얼어붙은 표면 아래로 거인의 거대한 얼굴과 몸의 윤곽이 희미하게 보인다.
 
-The camera slowly glides across the icy landscape with heavy wind, drifting snow particles, frozen fog, and deep blue-white moonlight reflecting through the glacier.
+카메라는 거센 바람과 휘날리는 눈보라, 얼어붙은 안개, 빙하를 통해 반사되는 짙은 청백색 달빛 속을 천천히 가로지른다.
 
-As the camera pushes closer, subtle tremors begin beneath the ice. Tiny fractures spread slowly across the frozen surface. Deep muffled resonance echoes from below like an ancient heartbeat awakening after centuries.
+카메라가 가까워질수록 얼음 아래에서 미세한 진동이 시작된다. 얼어붙은 표면 위로 작은 균열이 서서히 퍼져 나간다. 수 세기 만에 깨어나는 고대의 심장 박동처럼 깊고 둔탁한 울림이 아래에서부터 메아리친다.
 
-The titan’s enormous eye slowly opens beneath the translucent ice. A massive glowing iris appears under the glacier, illuminating the frozen depths with cold cyan light. Snow and frost slide from the surface as the eye moves for the first time.
+반투명한 얼음 아래에서 거인의 거대한 눈이 천천히 떠진다. 빙하 아래로 거대한 빛의 홍채가 나타나 차가운 청록색 빛으로 얼어붙은 심연을 밝힌다. 눈과 서리가 표면에서 미끄러져 내리고, 눈이 처음으로 움직이기 시작한다.
 
-The surrounding iceberg creaks violently, frozen dust falling into deep cracks. The camera holds on the gigantic eye staring upward from beneath the ice while distant thunder rolls through the blizzard.
+주변 빙산이 격렬하게 삐걱거리며 얼음 가루가 깊은 균열 속으로 떨어진다. 카메라는 얼음 아래에서 위를 응시하는 거대한 눈을 비추고, 멀리서 천둥소리가 눈보라를 뚫고 울려 퍼진다.
 
-Style: ultra cinematic dark fantasy, colossal scale, ancient god atmosphere, frozen textures, realistic snow simulation, volumetric fog, moody blue lighting, atmospheric depth, glacier translucency, slow suspense pacing, photorealistic ice details.
+스타일: 초현실적인 시네마틱 다크 판타지, 거대한 스케일, 고대 신의 분위기, 얼음 질감, 사실적인 눈 시뮬레이션, 볼류메트릭 안개, 분위기 있는 푸른 조명, 대기 깊이감, 빙하의 반투명함, 느린 긴장감의 속도감, 사실적인 얼음 디테일.
 
-Audio: ONLY cinematic sound effects, no music. Arctic wind, distant ice cracking, deep subsonic rumbles, frozen debris shifting, muffled titan breathing beneath the glacier, low resonance pulses.
+오디오: 오직 시네마틱 효과음만 사용, 음악 없음. 북극의 바람 소리, 멀리서 얼음이 갈라지는 소리, 깊은 저주파의 웅웅거림, 얼음 파편이 움직이는 소리, 빙하 아래에서 들리는 거인의 둔탁한 숨소리, 낮은 공명음.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060300157678141442/pu/img/HE3Xi-Gq2bf8JL7s.jpg" width="600" alt="Arctic Titan Awakening Dark Fantasy Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4beaf2ebc029890b4f733e322f5f90aa/thumbnails/thumbnail.jpg" width="600" alt="북극의 거인: 깨어나는 다크 판타지 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5449)**
 
 **작성자:** [LudovicCreator](https://x.com/LudovicCreator) | **출처:** [Link](https://x.com/LudovicCreator/status/2060300184177856898) | **게시일:** May 29, 2026
 
 ---
-### Viking Werewolf Frozen Lake Hunt Prompt
+### 바이킹 늑대인간 얼어붙은 호수 추격 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic Viking action sequence involving a survival chase on a frozen lake with realistic ice and snow physics.
+> 얼어붙은 호수 위에서 펼쳐지는 생존 추격전과 사실적인 얼음 및 눈 물리 효과가 포함된 서사적인 바이킹 액션 시퀀스입니다.
 
 #### 📝 프롬프트
 
 ```
-Epic Viking fantasy action set on a vast frozen lake beneath a stormy northern sky. Endless snowfields, distant mountains, harsh winds, blowing snow. High-speed chase with brutal survival energy. Sound: crunching ice, roaring wind, heavy breathing, cracking frozen surfaces, monstrous growls.
+폭풍우가 몰아치는 북쪽 하늘 아래, 광활한 얼어붙은 호수에서 펼쳐지는 서사적인 바이킹 판타지 액션. 끝없이 펼쳐진 설원, 멀리 보이는 산맥, 거친 바람, 휘날리는 눈보라. 잔혹한 생존 본능이 느껴지는 고속 추격전. 사운드: 얼음이 으스러지는 소리, 몰아치는 바람 소리, 거친 숨소리, 얼어붙은 표면이 갈라지는 소리, 괴물의 포효.
 
-0–3s — HOOK
+0–3초 — 도입 (HOOK)
 
-A Viking warrior carrying a flaming torch sprints across a frozen lake.
+횃불을 든 바이킹 전사가 얼어붙은 호수를 가로질러 전력 질주합니다.
 
-His boots hammer across the ice.
+그의 부츠가 얼음 위를 강하게 내딛습니다.
 
-Behind him—
+그 뒤로—
 
-A gigantic frost-covered werewolf bursts through drifting snow.
+눈보라를 뚫고 거대한 서리 늑대인간이 나타납니다.
 
-White fur coated in ice crystals.
+얼음 결정으로 뒤덮인 하얀 털.
 
-Blue eyes glowing.
+빛나는 푸른 눈.
 
-Its massive paws crack the frozen surface beneath every step.
-
-⸻
-
-3–6s — ESCALATION
-
-The warrior pushes harder.
-
-The werewolf rapidly closes distance.
-
-Chunks of ice break apart behind them.
-
-The creature occasionally lunges forward, nearly catching him.
-
-Its claws leave deep fractures spreading across the lake.
+거대한 발이 내디딜 때마다 얼어붙은 호수 표면이 갈라집니다.
 
 ⸻
 
-6–9s — BUILD
+3–6초 — 고조 (ESCALATION)
 
-Ahead, a huge pressure crack cuts across the lake.
+전사는 더욱 속도를 높입니다.
 
-The warrior spots it.
+늑대인간이 빠르게 거리를 좁혀옵니다.
 
-He lowers his center of gravity and accelerates.
+그들 뒤로 얼음 조각들이 산산조각 납니다.
 
-The werewolf roars and commits fully to the chase.
+괴물이 간헐적으로 달려들며 전사를 거의 덮칠 뻔합니다.
 
-Snow and ice explode behind it.
-
-⸻
-
-9–12s — THE TRAP
-
-The warrior reaches the pressure crack and dives into a controlled slide.
-
-He skims across the narrow gap and reaches solid ice beyond.
-
-The werewolf charges after him.
-
-Bullet time.
-
-Its front paws hit the weakened section.
-
-Cracks spread outward in every direction.
+괴물의 발톱이 호수 표면에 깊은 균열을 남기며 퍼져 나갑니다.
 
 ⸻
 
-12–15s — PAYOFF
+6–9초 — 전개 (BUILD)
 
-The entire frozen surface collapses beneath the werewolf.
+전방에 거대한 압력 균열이 호수를 가로지르고 있습니다.
 
-Massive sheets of ice explode upward.
+전사가 이를 발견합니다.
 
-The beast drops into the freezing black water below.
+그는 무게 중심을 낮추고 가속합니다.
 
-The warrior rolls onto the snowy shoreline and scrambles to safety.
+늑대인간이 포효하며 추격에 완전히 몰입합니다.
 
-Behind him, enormous ice slabs crash back into the lake.
+괴물의 뒤로 눈과 얼음이 폭발하듯 튀어 오릅니다.
 
-Silence.
+⸻
 
-The warrior stands, breathing heavily, torch still burning.
+9–12초 — 함정 (THE TRAP)
+
+전사가 압력 균열에 도달해 제어된 슬라이딩(Slides)으로 뛰어듭니다.
+
+그는 좁은 틈을 미끄러져 지나가 반대편의 단단한 얼음 위로 착지합니다.
+
+늑대인간이 그 뒤를 쫓아 돌진합니다.
+
+불렛 타임(Bullet time).
+
+괴물의 앞발이 약해진 구간을 강타합니다.
+
+균열이 사방으로 퍼져 나갑니다.
+
+⸻
+
+12–15초 — 결말 (PAYOFF)
+
+늑대인간 아래의 얼어붙은 표면 전체가 무너져 내립니다.
+
+거대한 얼음판들이 위로 솟구칩니다.
+
+괴물이 아래의 차가운 검은 물속으로 빠져듭니다.
+
+전사는 눈 덮인 호숫가로 굴러 안전한 곳으로 몸을 피합니다.
+
+그의 뒤로 거대한 얼음 조각들이 호수 위로 쏟아집니다.
+
+정적.
+
+전사가 거친 숨을 몰아쉬며 일어섭니다. 횃불은 여전히 타오르고 있습니다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060280339659161600/img/7kWzOvorj8Y51UZZ.jpg" width="600" alt="Viking Werewolf Frozen Lake Hunt Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/048717df23438477d130039b7a488ed7/thumbnails/thumbnail.jpg" width="600" alt="바이킹 늑대인간 얼어붙은 호수 추격 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5450)**
 
 **작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2060280405417406523) | **게시일:** May 29, 2026
 
 ---
-### Medieval Werewolf Rooftop Chase
+### 중세 늑대인간 지붕 추격전
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intense, multi-stage action prompt for a werewolf pursuit across European stone rooftops featuring speed ramps and bullet time.
+> 유럽의 돌 지붕 위에서 펼쳐지는 늑대인간 추격전을 다룬 강렬한 다단계 액션 프롬프트로, 스피드 램프와 불릿 타임 효과가 포함되어 있습니다.
 
 #### 📝 프롬프트
 
 ```
-High-action medieval fantasy chase beneath a massive full moon. Ancient European city of stone towers, narrow streets, cathedral spires, smoking chimneys, fluttering banners. Silver moonlight reflects off wet rooftops from recent rain. Fast-paced, chaotic cinematography with aggressive tracking shots, speed ramps, handheld energy, and dramatic moonlit silhouettes. Sound: distant church bells, heavy breathing, tile cracking, werewolf roars, rushing wind.
+거대한 보름달 아래에서 펼쳐지는 고강도 중세 판타지 추격전. 돌탑, 좁은 골목, 성당 첨탑, 연기 나는 굴뚝, 펄럭이는 깃발이 있는 고대 유럽 도시. 최근 내린 비로 젖은 지붕 위로 은빛 달빛이 반사됨. 스피드 램프, 핸드헬드 카메라의 역동성, 극적인 달빛 실루엣을 활용한 빠르고 혼란스러운 촬영 기법. 사운드: 멀리서 들리는 교회 종소리, 거친 숨소리, 기와 깨지는 소리, 늑대인간의 포효, 몰아치는 바람.
 
-0–3s — HOOK
+0–3초 — 훅 (HOOK)
 
-A rogue thief in a dark leather cloak sprints across steep medieval rooftops.
+어두운 가죽 망토를 입은 도둑이 가파른 중세 지붕 위를 질주함.
 
-He leaps a gap between buildings.
+건물 사이의 간격을 뛰어넘음.
 
-The instant he lands—
+착지하는 순간—
 
-A gigantic werewolf crashes onto the roof behind him.
+거대한 늑대인간이 뒤쪽 지붕 위로 덮침.
 
-Eight feet tall.
+키는 8피트(약 2.4미터).
 
-Jet-black fur.
+칠흑 같은 털.
 
-Yellow eyes glowing in the moonlight.
+달빛에 빛나는 노란 눈.
 
-The roof caves beneath its weight.
+늑대인간의 무게에 지붕이 무너져 내림.
 
-Tiles explode everywhere.
-
-⸻
-
-3–6s — ESCALATION
-
-The thief races along the rooftops, vaulting chimneys and sliding over wet tiles.
-
-Behind him, the werewolf ignores every obstacle.
-
-It smashes through chimneys instead of avoiding them.
-
-Bricks and debris rain into the streets below.
-
-The creature gains ground rapidly.
+기와 파편이 사방으로 튐.
 
 ⸻
 
-6–9s — BUILD
+3–6초 — 고조 (ESCALATION)
 
-Ahead, the thief reaches a steep roof overlooking a massive cathedral square.
+도둑은 굴뚝을 뛰어넘고 젖은 기와 위를 미끄러지듯 지붕을 따라 달림.
 
-He slides uncontrollably down slick tiles.
+뒤에서 늑대인간은 장애물을 피하지 않고 그대로 돌파함.
 
-The werewolf launches after him.
+굴뚝을 부수며 지나감.
 
-The gap between them shrinks to almost nothing.
+벽돌과 잔해들이 아래 거리로 쏟아짐.
 
-The beast’s claws scrape sparks from the stone.
-
-⸻
-
-9–12s — THE ESCAPE
-
-At the edge of the roof hangs a giant ceremonial banner suspended above the square.
-
-The thief leaps and grabs it.
-
-The banner tears loose from its mountings.
-
-He swings across the moonlit square.
-
-The werewolf follows without hesitation.
-
-Bullet time.
-
-Both suspended over open air.
+괴물이 빠르게 거리를 좁혀옴.
 
 ⸻
 
-12–15s — PAYOFF
+6–9초 — 빌드업 (BUILD)
 
-The thief draws a knife and slices the banner rope.
+앞쪽, 도둑이 거대한 성당 광장이 내려다보이는 가파른 지붕에 도달함.
 
-He swings clear.
+미끄러운 기와 위에서 통제력을 잃고 미끄러짐.
 
-The werewolf loses its trajectory.
+늑대인간이 그 뒤를 쫓아 뛰어오름.
 
-It crashes directly through the cathedral’s enormous stained-glass rose window.
+둘 사이의 거리가 거의 사라짐.
 
-Colored glass explodes outward.
+짐승의 발톱이 돌을 긁으며 불꽃을 틔움.
 
-The beast disappears into darkness inside the cathedral.
+⸻
 
-The thief lands on the opposite rooftop and turns back.
+9–12초 — 탈출 (THE ESCAPE)
 
-A massive crash echoes from within the cathedral.
+지붕 끝에는 광장 위로 거대한 의식용 깃발이 매달려 있음.
+
+도둑이 뛰어올라 깃발을 붙잡음.
+
+깃발이 고정 장치에서 뜯겨 나감.
+
+달빛 비치는 광장을 가로질러 공중을 가름.
+
+늑대인간도 주저 없이 뒤따름.
+
+불릿 타임.
+
+둘 다 허공에 매달려 있음.
+
+⸻
+
+12–15초 — 결말 (PAYOFF)
+
+도둑이 칼을 꺼내 깃발 밧줄을 끊음.
+
+도둑은 안전하게 빠져나감.
+
+늑대인간은 궤도를 잃음.
+
+성당의 거대한 스테인드글라스 장미 창문을 정면으로 뚫고 들어감.
+
+색유리 조각들이 밖으로 쏟아짐.
+
+짐승은 성당 안 어둠 속으로 사라짐.
+
+도둑은 반대편 지붕에 착지하여 뒤를 돌아봄.
+
+성당 안에서 거대한 충돌음이 울려 퍼짐.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a564ede36c43d87a9745d971abf4772/thumbnails/thumbnail.jpg" width="600" alt="Medieval Werewolf Rooftop Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a564ede36c43d87a9745d971abf4772/thumbnails/thumbnail.jpg" width="600" alt="중세 늑대인간 지붕 추격전">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5433)**
 
 **작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2060280102924300676) | **게시일:** May 29, 2026
 
 ---
-### Moonlit Werewolf Forest Chase Prompt
+### 달빛 아래 늑대인간 숲 추격전 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fast-paced dark fantasy action sequence featuring a warrior being chased by a colossal werewolf through a dense forest.
+> 울창한 숲속에서 거대한 늑대인간에게 쫓기는 전사의 긴박한 다크 판타지 액션 시퀀스.
 
 #### 📝 프롬프트
 
 ```
-Dark fantasy action sequence. Dense moonlit forest at night. Thick fog. Silver moonlight cutting through trees. Fast handheld tracking shots. Chaotic action. Sound: heavy breathing, snapping branches, pounding hooves, werewolf growls.
+다크 판타지 액션 시퀀스. 달빛이 비치는 울창한 밤의 숲. 짙은 안개. 나무 사이로 내리쬐는 은빛 달빛. 빠른 핸드헬드 트래킹 샷. 혼란스러운 액션. 사운드: 거친 숨소리, 나뭇가지 부러지는 소리, 발굽 소리, 늑대인간의 으르렁거림.
 
-0–3s — HOOK
+0–3초 — 훅 (HOOK)
 
-A young warrior sprints through dense forest carrying a spear.
+젊은 전사가 창을 들고 울창한 숲을 전력 질주한다.
 
-Branches whip past his face.
+나뭇가지들이 얼굴 옆으로 스쳐 지나간다.
 
-Behind him—
+그의 뒤에서—
 
-A colossal werewolf crashes through trees.
+거대한 늑대인간이 나무들을 부수며 달려온다.
 
-Massive shoulders.
+육중한 어깨.
 
-Silver-gray fur.
+은회색 털.
 
-Glowing amber eyes.
+빛나는 호박색 눈.
 
-Every step sends dirt flying.
+발을 내디딜 때마다 흙먼지가 날린다.
 
-The creature is gaining fast.
+괴물이 빠르게 거리를 좁혀온다.
 
-3–6s — ESCALATION
+3–6초 — 고조 (ESCALATION)
 
-The warrior vaults fallen logs and dodges tree trunks.
+전사는 쓰러진 통나무를 뛰어넘고 나무 기둥을 피한다.
 
-The werewolf tears straight through obstacles instead of avoiding them.
+늑대인간은 장애물을 피하는 대신 그대로 들이받으며 돌진한다.
 
-Entire trees snap and fall.
+나무들이 통째로 부러지고 쓰러진다.
 
-The forest explodes around them.
+숲이 폭발하듯 요동친다.
 
-The warrior glances back.
+전사가 뒤를 돌아본다.
 
-The werewolf is only meters away.
+늑대인간이 불과 몇 미터 뒤까지 쫓아왔다.
 
-6–9s — BUILD
+6–9초 — 빌드업 (BUILD)
 
-The warrior bursts into a giant moonlit clearing.
+전사가 달빛이 비치는 거대한 공터로 튀어 나간다.
 
-Ahead—
+앞쪽에는—
 
-A herd of enormous elk-like creatures stampedes across the field.
+거대한 엘크 무리가 들판을 가로질러 질주하고 있다.
 
-Towering antlers.
+높게 솟은 뿔.
 
-Dozens of them.
+수십 마리의 엘크.
 
-The ground shakes beneath their charge.
+그들의 돌진에 땅이 진동한다.
 
-9–12s — CHAOS
+9–12초 — 혼돈 (CHAOS)
 
-The warrior dives into the middle of the stampede.
+전사가 질주하는 무리 한가운데로 뛰어든다.
 
-Bodies thunder past on both sides.
+양옆으로 거대한 몸집들이 천둥처럼 지나간다.
 
-The werewolf charges directly after him.
+늑대인간이 그를 뒤쫓아 곧장 돌진한다.
 
-Antlers slam into the beast.
+엘크의 뿔이 짐승의 몸을 들이받는다.
 
-Hooves strike.
+발굽이 내리꽂힌다.
 
-Dirt and debris fill the air.
+흙과 파편이 공중을 가득 채운다.
 
-The clearing becomes complete chaos.
+공터는 아수라장이 된다.
 
-12–15s — PAYOFF
+12–15초 — 결말 (PAYOFF)
 
-The warrior reaches a cliff edge hidden beyond the clearing.
+전사가 공터 너머에 숨겨진 절벽 끝에 도달한다.
 
-He leaps.
+그가 뛰어내린다.
 
-The werewolf bursts through the stampede behind him and jumps too.
+늑대인간은 뒤에서 무리를 뚫고 나와 함께 뛰어오른다.
 
-The warrior catches a tree growing from the cliff face.
+전사는 절벽 면에서 자라난 나무를 붙잡는다.
 
-The werewolf misses.
+늑대인간은 빗나간다.
 
-It sails past him and disappears into the darkness below.
+괴물은 그를 지나쳐 아래 어둠 속으로 사라진다.
 
-The warrior hangs from the tree, breathing hard.
+전사는 나무에 매달려 거칠게 숨을 몰아쉰다.
 
-Cut.
+컷.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060270217025191936/img/qJfzwxhrvV5A6LZO.jpg" width="600" alt="Moonlit Werewolf Forest Chase Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f871d0e35fd6fdc828133e5a26e1bcb7/thumbnails/thumbnail.jpg" width="600" alt="달빛 아래 늑대인간 숲 추격전 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5446)**
 
 **작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2060270283794374923) | **게시일:** May 29, 2026
 
 ---
-### Purikura Booth Comedy Scene
+### 스티커 사진 부스 코미디 장면
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A high-tempo animated comedy scene inside a photo booth where three characters fight to be at the center of the frame for each shutter flash, featuring vibrant lighting and expressive reactions.
+> 스티커 사진 부스 안에서 세 명의 캐릭터가 셔터가 눌릴 때마다 화면 중앙을 차지하려고 다투는 고템포 애니메이션 코미디 장면입니다. 생동감 넘치는 조명과 캐릭터들의 익살스러운 표정이 돋보입니다.
 
 #### 📝 프롬프트
 
 ```
-Image 1 = Reference for 3 characters. Maintain face, hairstyle, clothing, and atmosphere consistently throughout. Image 2 = Reference for storyboard. Follow panel order, tempo, facial expression changes, competition for positions, and comedy direction. Based on attached Image 1 and Image 2, create a 15-second horizontal 16:9 purikura booth comedy scene video. Theme: A high-tempo, cute, and noisy comedy scene inside a purikura booth where three people fight for the center spot every time the shutter clicks.
+이미지 1 = 3인 캐릭터 참조용. 얼굴, 헤어스타일, 의상, 분위기를 전체적으로 일관되게 유지할 것. 이미지 2 = 스토리보드 참조용. 패널 순서, 템포, 표정 변화, 위치 쟁탈전 및 코미디 연출 방향을 따를 것. 첨부된 이미지 1과 이미지 2를 바탕으로 15초 분량의 가로형 16:9 스티커 사진 부스 코미디 영상 제작. 테마: 셔터가 눌릴 때마다 세 사람이 중앙 자리를 차지하려고 다투는, 빠르고 귀엽고 소란스러운 스티커 사진 부스 안의 코미디.
 
-Scene Setting: Inside the purikura machine. The camera is a fixed lens view from the purikura machine; do not show shots from outside or include the camera body itself. The screen always shows the three people as seen on the purikura machine's capture display. The three characters should be exactly as in Image 1, maintaining the appeal of the relationship, looks, and expressions of the black-haired male on the left, the girl in the center, and the blonde male on the right. Basic concept: The three compete for the 'best position = center of the screen.' Just before the shutter clicks, someone suddenly moves forward, interrupts from the side, pushes others away, or sticks their face in to steal the center. Include comical and exaggerated reactions, cute poses, anxiety on the verge of making funny faces, jealousy, surprise, playing coy, and forceful interruptions, depicting it as a battle of the desire to 'look good' in a purikura way. Finally, all three should fit in the frame and end with a cute, friendly pose.
+장면 설정: 스티커 사진 기기 내부. 카메라는 스티커 사진 기기의 고정 렌즈 시점이며, 외부에서 촬영한 샷이나 카메라 본체가 노출되어서는 안 됨. 화면에는 항상 스티커 사진 기기 촬영 디스플레이에 보이는 세 사람의 모습이 담겨야 함. 세 캐릭터는 이미지 1과 정확히 일치해야 하며, 왼쪽의 흑발 남성, 중앙의 소녀, 오른쪽의 금발 남성이 가진 관계성과 외모, 표정의 매력을 유지할 것. 기본 콘셉트: 세 사람이 '최고의 위치 = 화면 중앙'을 차지하기 위해 경쟁함. 셔터가 눌리기 직전, 누군가 갑자기 앞으로 나오거나 옆에서 끼어들고, 다른 사람을 밀치거나 얼굴을 들이밀어 중앙을 가로챔. 코믹하고 과장된 리액션, 귀여운 포즈, 망가진 표정을 짓기 직전의 불안함, 질투, 놀람, 내숭, 강제적인 끼어들기 등을 포함하여 스티커 사진 특유의 '잘 나오고 싶은' 욕망이 담긴 배틀을 묘사할 것. 마지막에는 세 명 모두 프레임 안에 들어와 귀엽고 다정한 포즈로 마무리.
 
-Flow (15-second composition): 0.0s-2.0s: The three enter their first pose. The center girl poses cutely, while the two on the sides lean in saying they want to be in it too. It's peaceful but the center battle is already brewing. Expressions: the black-haired male looks like he's coolly aiming for it, the blonde male is exaggerated and high-tension, and the girl is a bit puzzled but posing cutely. 2.0s-4.0s: Just before the first shutter, the blonde male on the right vigorously sticks his face into the center. His face comes close to the front, almost pushing the others out. The girl is surprised, and the black-haired male glares at him unhappily. Emphasize the humor of someone suddenly coming forward. 4.0s-6.0s: Before the next shutter, the black-haired male on the left quickly moves forward and steals the center with a cool pose. The blonde male gives an overreaction ('What?!'), and the girl looks troubled between them. Create laughs through facial close-ups, clashing gazes, and subtle pushing. 6.0s-8.0s: The girl pushes the two back as if to say 'Wait a minute!' and reclaims the center for herself. She performs typical purikura poses like a cute wink or cupping her cheeks. The two on the sides are pushed to the background or edges and look frustrated. 8.0s-10.0s: Matching the shutter sound timing, all three scramble for the center at once. Faces get too close, shoulders bump, one pushes their face in, another enters from the side, making it a chaotic and dense comedy. This is the fastest tempo. Expressions are a mix of panic, stubbornness, surprise, laughter, and desperation. 10.0s-12.5s: They momentarily lose balance but adjust to try and fit within the frame. The pushing changes to an atmosphere of coming together on 'ready, set, go.' The girl moves to the center, the black-haired male to the left, and the blonde male to the right, converging into positions where all three faces are clearly visible. 12.5s-15.0s: The last shutter. All three strike their best poses simultaneously. The girl is cute, the black-haired male smiles coolly, and the blonde male smiles energetically and brightly. End with a final cut of a great purikura photo showing their friendship. Ensure the atmosphere changes from cute chaos to a friendly ending toward the finish.
+흐름 (15초 구성): 0.0초~2.0초: 세 사람이 첫 번째 포즈를 취함. 중앙의 소녀는 귀엽게 포즈를 취하고, 양옆의 두 남자는 자신도 나오겠다며 몸을 기울임. 평화로워 보이지만 중앙 쟁탈전의 조짐이 보임. 표정: 흑발 남성은 쿨하게 노리는 듯한 모습, 금발 남성은 과장되고 하이텐션인 모습, 소녀는 약간 당황하면서도 귀엽게 포즈를 취함. 2.0초~4.0초: 첫 번째 셔터 직전, 오른쪽의 금발 남성이 격렬하게 얼굴을 중앙으로 들이밈. 얼굴이 앞쪽으로 다가와 다른 사람들을 밀어내는 듯한 모습. 소녀는 놀라고, 흑발 남성은 불만스러운 듯 그를 노려봄. 갑자기 앞으로 튀어나오는 유머를 강조할 것. 4.0초~6.0초: 다음 셔터 전, 왼쪽의 흑발 남성이 빠르게 앞으로 나와 쿨한 포즈로 중앙을 가로챔. 금발 남성은 과장된 리액션('뭐야?!')을 보이고, 소녀는 그들 사이에서 곤란해함. 얼굴 클로즈업, 시선 충돌, 미묘한 밀치기 등을 통해 웃음을 유발할 것. 6.0초~8.0초: 소녀가 '잠깐만!'이라는 듯 두 남자를 밀어내고 중앙을 탈환함. 윙크나 볼에 손을 대는 등 전형적인 스티커 사진 포즈를 취함. 양옆의 두 남자는 배경이나 가장자리로 밀려나 좌절하는 모습. 8.0초~10.0초: 셔터 소리에 맞춰 세 사람 모두 동시에 중앙을 향해 달려듦. 얼굴이 너무 가까워지고 어깨가 부딪히며, 한 명은 얼굴을 들이밀고 다른 한 명은 옆에서 끼어드는 등 혼란스럽고 밀도 높은 코미디 연출. 가장 빠른 템포. 표정은 당황, 고집, 놀람, 웃음, 절박함이 뒤섞임. 10.0초~12.5초: 잠시 균형을 잃지만 프레임 안에 들어오기 위해 자세를 조정함. 밀치던 분위기에서 '하나, 둘, 셋'에 맞춰 모이는 분위기로 전환. 소녀는 중앙, 흑발 남성은 왼쪽, 금발 남성은 오른쪽으로 이동하여 세 사람의 얼굴이 모두 잘 보이는 위치로 정렬. 12.5초~15.0초: 마지막 셔터. 세 사람 모두 동시에 최고의 포즈를 취함. 소녀는 귀엽게, 흑발 남성은 쿨하게 미소 짓고, 금발 남성은 활기차고 밝게 웃음. 우정이 돋보이는 멋진 스티커 사진 최종 컷으로 마무리. 귀여운 혼란에서 다정한 결말로 분위기가 전환되도록 할 것.
 
-Style: Ultra-high quality, ultra-high definition, photorealistic live-action style video. However, the atmosphere should be the pop and cute world of purikura. Overall, use bright and soft high-key lighting, smooth skin texture, slightly pink, lavender, and light blue cute tones, sparkling effects, and a pop, lovely vibe with a youthful energy. A high-tempo visual that feels like the cute purikura culture from the Heisei to Reiwa eras. Direction: The camera is primarily a fixed lens view from the purikura machine. However, to make the final video look pleasing, slight digital punch-ins, subtle shakes, forward/backward movement for momentum, and facial zooming are allowed. Wide shots from the outside are prohibited. Compositions showing the camera body are prohibited. The humor should be created through the subjects' movements, faces entering/exiting, pushing, interruptions, and facial acting. Clearly show the flow of 'almost striking a pose' then collapsing because someone interrupts at each shutter timing. Editing: Emphasize rhythmic high-speed development, close-up cuts, extreme close-ups, momentum-filled forward/backward motion, and facial expression switching. Even if the actual camera position is fixed, create significant changes in the video by having subjects approach/distance themselves from the lens or interrupt from the sides. Be mindful of well-timed shutters, cute pauses, comical crowding, and a perfectly landing finale. Do not make it a slideshow of still images. Move the three naturally and richly as animation while maintaining their faces, hair, clothes, accessories, age, and atmosphere. Emotional Tone: Cute, comedy, chaotic, slightly romantic air, light jealousy, everyone desperate to look their best/coolest, and finally friendly. Important: Do not show the camera body in the frame. Unify shots from the lens perspective of the purikura machine. Maintain consistency in the faces, hairstyles, clothing, and character traits of the three from Image 1 throughout. Follow the tempo, competition for positions, and comedic nature of the storyboard in Image 2. No slideshows. No text, subtitles, logos, or watermarks. Act out the suspenseful excitement as a quick-moving scene. Ensure the three look good and come together cutely at the end.
+스타일: 초고화질, 초고해상도, 실사 스타일의 영상. 단, 분위기는 스티커 사진 특유의 팝하고 귀여운 세계관이어야 함. 전체적으로 밝고 부드러운 하이키 조명, 매끄러운 피부 질감, 약간의 핑크, 라벤더, 연하늘색의 귀여운 톤, 반짝이는 효과, 젊은 에너지가 느껴지는 팝하고 사랑스러운 분위기. 헤이세이에서 레이와 시대까지 이어지는 귀여운 스티커 사진 문화가 느껴지는 고템포 비주얼. 연출: 카메라는 기본적으로 스티커 사진 기기의 고정 렌즈 시점. 단, 최종 영상의 재미를 위해 약간의 디지털 펀치 인, 미세한 흔들림, 속도감을 위한 앞뒤 움직임, 얼굴 줌인 등은 허용됨. 외부에서 찍은 와이드 샷은 금지. 카메라 본체가 보이는 구도 금지. 인물의 움직임, 얼굴의 출입, 밀치기, 끼어들기, 표정 연기를 통해 유머를 창출할 것. '포즈를 취하려다 누군가의 방해로 무너지는' 흐름을 셔터 타이밍마다 명확히 보여줄 것. 편집: 리드미컬한 고속 전개, 클로즈업 컷, 익스트림 클로즈업, 속도감 있는 앞뒤 움직임, 표정 전환을 강조할 것. 실제 카메라 위치가 고정되어 있더라도 인물이 렌즈에 다가오거나 멀어지고, 옆에서 끼어드는 방식으로 영상에 큰 변화를 줄 것. 셔터 타이밍, 귀여운 포즈, 코믹한 북적거림, 완벽한 피날레에 유의할 것. 스틸 이미지 슬라이드쇼가 되지 않도록 할 것. 얼굴, 머리카락, 의상, 액세서리, 나이, 분위기를 유지하면서 세 사람을 애니메이션처럼 자연스럽고 풍부하게 움직일 것. 감정 톤: 귀여움, 코미디, 혼란, 약간의 로맨틱한 기류, 가벼운 질투, 최고로 잘 나오고 싶은 절박함, 그리고 마지막엔 다정함. 중요: 프레임 안에 카메라 본체를 노출하지 말 것. 스티커 사진 기기의 렌즈 시점으로 샷을 통일할 것. 이미지 1의 세 사람 얼굴, 헤어스타일, 의상, 캐릭터 특징을 일관되게 유지할 것. 이미지 2의 스토리보드 템포, 위치 쟁탈전, 코미디적 성격을 따를 것. 슬라이드쇼 금지. 텍스트, 자막, 로고, 워터마크 금지. 긴장감 넘치는 즐거움을 빠르게 전개되는 장면으로 연출할 것. 마지막에는 세 사람이 조화롭게 어우러져 귀엽게 나오도록 할 것.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060263346813927424/img/WZnHa8kzSRrLn5qD.jpg" width="600" alt="Purikura Booth Comedy Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f16d9e78c19bad24f0489de9d3d1116d/thumbnails/thumbnail.jpg" width="600" alt="스티커 사진 부스 코미디 장면">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5465)**
 
 **작성자:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **출처:** [Link](https://x.com/Ryuki_Yano/status/2060263464069947742) | **게시일:** May 29, 2026
 
 ---
-### Fantasy Dragon Bridge Escape Sequence
+### 판타지 드래곤 브릿지 탈출 시퀀스
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic fantasy action scene featuring a huntress fleeing an armored werewolf across a collapsing bridge, ending with a dramatic leap onto a dragon's back.
+> 무너지는 다리 위에서 갑옷 입은 늑대인간을 피해 도망치는 여사냥꾼과, 마지막에 드래곤 등에 올라타는 극적인 도약이 담긴 장대한 판타지 액션 장면입니다.
 
 #### 📝 프롬프트
 
 ```
-High fantasy action sequence. Massive stone bridge spanning a bottomless canyon under stormy skies. Wind howling. Lightning in the distance. Medieval fantasy world. Fast-paced, chaotic cinematography with aggressive camera movement and speed ramps. Sound: crashing stone, werewolf growls, chain rattles, dragon roars.
+하이 판타지 액션 시퀀스. 폭풍우 치는 하늘 아래 끝을 알 수 없는 협곡을 가로지르는 거대한 석조 다리. 울부짖는 바람. 멀리서 치는 번개. 중세 판타지 세계관. 공격적인 카메라 움직임과 속도 변화를 활용한 빠르고 혼란스러운 영상미. 사운드: 돌이 부서지는 소리, 늑대인간의 으르렁거림, 쇠사슬이 흔들리는 소리, 드래곤의 포효.
 
-0–3s — HOOK
+0–3초 — 훅 (HOOK)
 
-A female huntress with braided hair, leather armor, and a bow sprints across an ancient stone bridge.
+땋은 머리에 가죽 갑옷을 입고 활을 든 여사냥꾼이 고대 석조 다리를 질주합니다.
 
-Behind her—
+그녀의 뒤로—
 
-A gigantic armored werewolf bursts through the bridge entrance.
+거대한 갑옷을 입은 늑대인간이 다리 입구를 뚫고 나타납니다.
 
-Seven feet tall.
+키는 7피트(약 2.1미터).
 
-Black fur.
+검은 털.
 
-Steel armor plates fused into its shoulders and forearms.
+어깨와 팔뚝에 융합된 강철 갑옷 판.
 
-It charges at terrifying speed.
+공포스러운 속도로 돌진합니다.
 
-Stone cracks beneath every step.
+발을 내디딜 때마다 돌이 갈라집니다.
 
-3–6s — ESCALATION
+3–6초 — 고조 (ESCALATION)
 
-The huntress races forward.
+사냥꾼은 앞을 향해 달립니다.
 
-The werewolf smashes through support pillars while gaining ground.
+늑대인간은 지지대 기둥을 부수며 거리를 좁혀옵니다.
 
-Chunks of stone fall into the canyon.
+돌덩이들이 협곡 아래로 떨어집니다.
 
-The bridge begins collapsing section by section behind them.
+다리가 뒤쪽부터 구간별로 무너지기 시작합니다.
 
-The gap between them shrinks rapidly.
+둘 사이의 거리가 급격히 좁혀집니다.
 
-6–9s — BUILD
+6–9초 — 빌드업 (BUILD)
 
-Ahead, the huntress spots a massive hanging chain descending into the canyon.
+앞쪽, 사냥꾼은 협곡 아래로 늘어진 거대한 쇠사슬을 발견합니다.
 
-The bridge is breaking apart.
+다리가 산산조각 나고 있습니다.
 
-She sprints harder.
+그녀는 더욱 속도를 냅니다.
 
-The werewolf lunges and nearly grabs her cloak.
+늑대인간이 달려들어 그녀의 망토를 거의 붙잡을 뻔합니다.
 
-A support tower collapses.
+지지대 탑이 무너집니다.
 
-The entire bridge starts giving way.
+다리 전체가 내려앉기 시작합니다.
 
-9–12s — THE JUMP
+9–12초 — 도약 (THE JUMP)
 
-The huntress leaps.
+사냥꾼이 뛰어오릅니다.
 
-She catches the hanging chain and swings out over the canyon.
+그녀는 늘어진 쇠사슬을 잡고 협곡 위로 몸을 날립니다.
 
-The werewolf launches after her.
+늑대인간이 그녀를 뒤따라 도약합니다.
 
-Bullet time.
+불렛 타임.
 
-Chain swinging.
+흔들리는 쇠사슬.
 
-Stone exploding.
+폭발하는 돌 파편.
 
-The werewolf suspended mid-air.
+공중에 멈춘 듯한 늑대인간.
 
-Its claws miss by inches.
+발톱이 몇 인치 차이로 빗나갑니다.
 
-12–15s — PAYOFF
+12–15초 — 결말 (PAYOFF)
 
-A giant dragon erupts upward from beneath the canyon.
+거대한 드래곤이 협곡 아래에서 솟구쳐 오릅니다.
 
-The huntress releases the chain and lands on the dragon’s back.
+사냥꾼은 쇠사슬을 놓고 드래곤 등에 착지합니다.
 
-The dragon banks hard.
+드래곤이 급격히 방향을 틉니다.
 
-The werewolf falls past them roaring.
+늑대인간은 포효하며 그들 옆을 지나 추락합니다.
 
-Disappearing into the fog below.
+아래쪽 안개 속으로 사라지는 늑대인간.
 
-The huntress raises her fist.
+사냥꾼이 주먹을 치켜듭니다.
 
-Dragon roars.
+드래곤의 포효.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060262038669238272/img/6El5e4cibXSL-e6T.jpg" width="600" alt="Fantasy Dragon Bridge Escape Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/76759544d117aeb737d1fbcb24eae490/thumbnails/thumbnail.jpg" width="600" alt="판타지 드래곤 브릿지 탈출 시퀀스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5453)**
 
 **작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2060262106839363697) | **게시일:** May 29, 2026
 
 ---
-### Blue Sports Shoe Product Commercial Shots
+### 블루 스포츠화 제품 광고 촬영 컷
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A series of cinematic product shots for a sports shoe, including extreme slow-motion water splashes and dynamic movement.
+> 스포츠화를 위한 일련의 영화 같은 제품 촬영 컷으로, 극도로 느린 슬로우 모션의 물보라와 역동적인 움직임을 포함합니다.
 
 #### 📝 프롬프트
 
 ```
-Frame 1:
-Slow dramatic zoom into white blue sports shoe laces, single light ray moving subtly, dust particles floating, cinematic 4K, no people
-Frame 2:
-White blue sports shoe hitting wet ground, water droplets exploding outward in extreme slow motion, blue neon light rippling, cinematic, no people
-Frame 3:
-White blue sports shoes moving forward in slow motion on dark road, motion blur, fog drifting slowly, cinematic 4K, no people
-Frame 4:
-White blue sports shoes running left to right, rain falling slowly, wet road reflection shimmering, cinematic, no people
-Frame 5:
-White blue shoe rotating slowly mid-air, smoke wisps drifting upward, black background, cinematic product shot, no people
-Frame 6:
-White blue sports shoe rising upward slowly, clouds moving, golden light expanding, cinematic, no people
-Frame 7:
-Slow cinematic push forward toward white blue shoe, city lights twinkling in background, sun rays expanding, no people
+프레임 1:
+화이트 블루 스포츠화 끈으로 향하는 느리고 드라마틱한 줌인, 미세하게 움직이는 단일 광선, 떠다니는 먼지 입자, 영화 같은 4K 화질, 인물 없음
+프레임 2:
+젖은 지면에 닿는 화이트 블루 스포츠화, 극도로 느린 슬로우 모션으로 사방으로 튀는 물방울, 일렁이는 블루 네온 조명, 영화 같은 연출, 인물 없음
+프레임 3:
+어두운 도로 위에서 슬로우 모션으로 앞으로 나아가는 화이트 블루 스포츠화, 모션 블러, 천천히 흐르는 안개, 영화 같은 4K 화질, 인물 없음
+프레임 4:
+왼쪽에서 오른쪽으로 달리는 화이트 블루 스포츠화, 천천히 내리는 비, 젖은 도로 위로 반짝이는 반사광, 영화 같은 연출, 인물 없음
+프레임 5:
+공중에서 천천히 회전하는 화이트 블루 신발, 위로 피어오르는 연기, 검은색 배경, 영화 같은 제품 샷, 인물 없음
+프레임 6:
+천천히 위로 떠오르는 화이트 블루 스포츠화, 움직이는 구름, 퍼져나가는 황금빛 조명, 영화 같은 연출, 인물 없음
+프레임 7:
+화이트 블루 신발을 향해 천천히 다가가는 영화 같은 푸시 인, 배경에서 반짝이는 도시의 불빛, 퍼져나가는 태양 광선, 인물 없음
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060259713737220096/img/TZ2Nu2-dRXMsED6_.jpg" width="600" alt="Blue Sports Shoe Product Commercial Shots">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bdcd2545bc1511a5467dc3d139a5575a/thumbnails/thumbnail.jpg" width="600" alt="블루 스포츠화 제품 광고 촬영 컷">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5447)**
 
 **작성자:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **출처:** [Link](https://x.com/itsshara_ai/status/2060260037617152132) | **게시일:** May 29, 2026
 
 ---
-### Midnight Arrival Luxury Hotel Prompt
+### 심야의 도착 럭셔리 호텔 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic dark crime drama prompt featuring a luxury hotel arrival on a rainy night, with specific camera moves and atmospheric lighting.
+> 비 오는 밤, 럭셔리 호텔에 도착하는 장면을 담은 영화 같은 다크 범죄 드라마 프롬프트로, 구체적인 카메라 무빙과 분위기 있는 조명을 포함합니다.
 
 #### 📝 프롬프트
 
 ```
-Grand luxury hotel entrance at night, wet cobblestone street, light rain, glowing city reflections in puddles.
-Style: Dark crime drama film tone, deep shadows, warm amber hotel facade lights against cold blue rain, film grain texture, slow controlled pacing.
-Lighting: Amber hotel awning light, cold blue rain scatter, wet reflective ground surface.
-Audio: Soft rain, distant city hum, low orchestral string swell, sharp footsteps on wet stone.
+밤의 웅장한 럭셔리 호텔 입구, 젖은 자갈길, 가랑비, 물웅덩이에 비친 도시의 불빛.
+스타일: 다크 범죄 드라마 영화 톤, 깊은 그림자, 차가운 푸른 빗줄기와 대비되는 따뜻한 호박색 호텔 외관 조명, 필름 그레인 질감, 느리고 절제된 속도감.
+조명: 호박색 호텔 차양 조명, 차가운 푸른 빗줄기 산란, 젖어서 반사되는 지면.
+오디오: 부드러운 빗소리, 멀리서 들리는 도시의 소음, 낮게 깔리는 오케스트라 현악기 연주, 젖은 돌바닥 위를 걷는 선명한 발자국 소리.
 
-[0–4s]
-Camera: Slow aerial pull-down, wide establishing shot.
-Action: A black luxury sedan glides to a stop in front of the hotel entrance. Rain falls steadily. Steam rises from the wet street.
-Lighting: Cool blue rain light, warm amber spill from hotel facade.
+[0–4초]
+카메라: 느린 항공 촬영 하강, 와이드 설정 샷.
+액션: 검은색 럭셔리 세단이 호텔 입구 앞에 미끄러지듯 멈춘다. 비가 꾸준히 내린다. 젖은 거리에서 김이 피어오른다.
+조명: 차가운 푸른 빗줄기 조명, 호텔 외관에서 쏟아지는 따뜻한 호박색 빛.
 
-[4–8s]
-Camera: Low-angle static shot, then slow push-in.
-Action: The rear car door swings open. A man in an elegant black suit, sunglasses and leather gloves steps out. Two bodyguards appear behind him holding umbrellas.
-Lighting: Harsh amber key light from the hotel, deep shadows framing the figure.
+[4–8초]
+카메라: 로우 앵글 고정 샷, 이후 느린 푸시 인.
+액션: 뒷좌석 문이 열린다. 우아한 검은색 정장을 입고 선글라스와 가죽 장갑을 착용한 남자가 내린다. 그의 뒤로 우산을 든 경호원 두 명이 나타난다.
+조명: 호텔에서 비치는 강렬한 호박색 키 라이트, 인물을 감싸는 깊은 그림자.
 
-[8–12s]
-Camera: Smooth lateral tracking shot following his stride.
-Action: The suited man walks steadily toward the hotel entrance. Bystanders and hotel staff step aside. Cigarette smoke drifts from his hand.
-Lighting: Rim light from hotel windows, soft fill from overhead awning lamps.
+[8–12초]
+카메라: 그의 걸음을 따라가는 부드러운 측면 트래킹 샷.
+액션: 정장 차림의 남자가 호텔 입구를 향해 꾸준히 걸어간다. 구경꾼들과 호텔 직원들이 길을 비킨다. 그의 손에서 담배 연기가 피어오른다.
+조명: 호텔 창문에서 나오는 림 라이트, 머리 위 차양 램프에서 나오는 부드러운 필 라이트.
 
-[12–15s]
-Camera: Slow orbit around him, low angle rising.
-Action: He pauses at the entrance, adjusts his lapel, and glances back over his shoulder with a faint smirk. Text fades in: "Power doesn't ask for attention."
-Lighting: Warm single-source hotel lobby glow, city lights blurred behind him.
+[12–15초]
+카메라: 그를 중심으로 느린 궤도 회전, 로우 앵글에서 상승.
+액션: 그가 입구에서 멈춰 서서 옷깃을 정리하고, 살짝 미소 지으며 뒤를 돌아본다. 텍스트가 서서히 나타난다: "권력은 관심을 구걸하지 않는다."
+조명: 호텔 로비에서 나오는 따뜻한 단일 광원, 배경으로 흐릿하게 보이는 도시의 불빛.
 
-Avoid: Identity drift, jitter, chaotic composition, temporal flicker, inconsistent features between shots.
+주의 사항: 인물 변형, 지터(Jitter), 혼란스러운 구도, 시간적 깜빡임, 샷 간의 일관되지 않은 특징을 피할 것.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060243098043621381/pu/img/YpKNddu6vxhObMsp.jpg" width="600" alt="Midnight Arrival Luxury Hotel Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06b9ec4ba4f89c8b8742cc0a1b539377/thumbnails/thumbnail.jpg" width="600" alt="심야의 도착 럭셔리 호텔 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5445)**
 
 **작성자:** [Zeeshi](https://x.com/AIwithZeeshi) | **출처:** [Link](https://x.com/AIwithZeeshi/status/2060243222199173467) | **게시일:** May 29, 2026
 
 ---
-### Rocket Launch Explosion Video Prompt
+### 로켓 발사 폭발 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A photorealistic video prompt for Seedance 2.0 simulating a catastrophic rocket explosion during a night static fire test.
+> 야간 정지 점화 시험 중 발생한 치명적인 로켓 폭발을 시뮬레이션하는 Seedance 2.0용 실사 영상 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Live telecast of a rocket launch with no commentary. Photorealistic recreation of a space rocket catastrophic explosion during a static fire test on the launch pad at nighttime.
-The massive orbital rocket stands vertically on the launch pad under dark night skies. Suddenly, a violent failure triggers an enormous explosion. A gigantic orange-red fireball erupts instantly from the base, rapidly expanding into a towering mushroom cloud of fire, thick black smoke, and flying debris. A powerful shockwave blasts outward, shaking the entire scene. The rocket structure violently disintegrates as intense flames completely consume it.
-Dynamic camera work captures the raw power with realistic fire physics, glowing embers, billowing smoke, and dramatic nighttime lighting. Epic scale, terrifying yet beautiful destruction, high-detail particles, 4K quality. 24-second intense explosion sequence.
+해설 없는 로켓 발사 생중계 영상. 야간 발사대에서 진행된 정지 점화 시험 중 우주 로켓이 치명적인 폭발을 일으키는 장면을 실사처럼 재현.
+거대한 궤도 로켓이 어두운 밤하늘 아래 발사대에 수직으로 서 있다. 갑자기 치명적인 결함으로 인해 거대한 폭발이 발생한다. 주황빛이 감도는 거대한 화염구가 기체 하단에서 즉시 솟구치며, 불길과 짙은 검은 연기, 파편이 뒤섞인 거대한 버섯구름으로 빠르게 번진다. 강력한 충격파가 밖으로 퍼져 나가며 화면 전체를 뒤흔든다. 로켓 구조물은 격렬하게 분해되고 강렬한 화염이 기체를 완전히 집어삼킨다.
+역동적인 카메라 워킹으로 사실적인 화염 물리 효과, 빛나는 불씨, 피어오르는 연기, 극적인 야간 조명을 포착한다. 웅장한 규모, 경이로우면서도 공포스러운 파괴 장면, 고해상도 입자 효과, 4K 화질. 24초 분량의 강렬한 폭발 시퀀스.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/825d0ab09633b4d2f0851b771e099115/thumbnails/thumbnail.jpg" width="600" alt="Rocket Launch Explosion Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/825d0ab09633b4d2f0851b771e099115/thumbnails/thumbnail.jpg" width="600" alt="로켓 발사 폭발 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5428)**
 
 **작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2060240094238593035) | **게시일:** May 29, 2026
 
 ---
-### Cinematic Viral Waterslide Dream Sequence
+### 영화 같은 바이럴 워터슬라이드 꿈 시퀀스
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed POV prompt for a high-speed, surreal waterslide adventure that transitions from the sky into a realistic bedroom landing, designed for viral social media content.
+> 하늘에서 시작해 현실적인 침실로 착륙하는 초현실적인 고속 워터슬라이드 모험을 위한 상세한 POV 프롬프트로, 바이럴 소셜 미디어 콘텐츠 제작에 최적화되어 있습니다.
 
 #### 📝 프롬프트
 
 ```
-Cinematic viral AI dream sequence, photorealistic, intense fast-paced POV shot of a surreal extreme waterslide adventure.
-The video begins in first-person POV as the rider bursts out of the clouds at high speed on a giant, colorful, twisting waterslide built impossibly through the sky. Water splashes aggressively onto the lens with realistic spray and motion blur. The rider races down the massive slide with wild loops, sharp drops, spiraling turns, and near-vertical sections, zooming between towering skyscrapers and surreal city structures glowing with neon colors.
-As the descent continues, the ground and dense city buildings become clearly visible far below. At the end of the slide, the rider launches off halfway to the ground, suddenly flying through the air. Heavy breathing and panicked scared sounds fill the audio as the POV falls rapidly toward the ground. A house appears directly below, getting closer and closer. The rider crashes through the roof of the house and lands hard on a bed inside the bedroom. The final shot shows the person’s hands on the bed, breathing heavily in shock and relief as the video ends.
-Dynamic camera with extreme speed, intense motion blur, water spray, dizzying perspectives, and chaotic energy. Bright daytime lighting with vibrant colors, realistic water physics, and dream-like impossible architecture. Adrenaline-pumping, thrilling, surreal, and slightly terrifying vibe perfect for TikTok. Slinger continue shot
+영화 같은 바이럴 AI 꿈 시퀀스, 사실적인 사진 느낌, 초현실적인 익스트림 워터슬라이드 모험을 담은 강렬하고 빠른 속도의 POV 샷.
+영상은 거대하고 화려하며 구불구불하게 하늘을 가로질러 설치된 워터슬라이드를 타고 구름을 뚫고 고속으로 질주하는 1인칭 시점(POV)으로 시작됩니다. 물방울이 렌즈에 강렬하게 튀며 사실적인 물보라와 모션 블러 효과가 연출됩니다. 라이더는 거대한 슬라이드를 따라 급커브, 급강하, 나선형 회전, 거의 수직에 가까운 구간을 질주하며 네온 컬러로 빛나는 고층 빌딩과 초현실적인 도시 구조물 사이를 빠르게 통과합니다.
+하강이 계속되면서 지면과 빽빽한 도시 건물들이 저 멀리 아래로 선명하게 보입니다. 슬라이드 끝에서 라이더는 지면으로 향하는 도중 공중으로 튕겨 나가며 갑자기 허공을 날게 됩니다. 거친 숨소리와 겁에 질린 비명 소리가 오디오를 채우고, POV는 지면을 향해 빠르게 추락합니다. 바로 아래에 집이 나타나며 점점 가까워집니다. 라이더는 지붕을 뚫고 들어가 침실 안 침대 위로 거칠게 착륙합니다. 마지막 장면에서는 침대 위에 놓인 사람의 손이 보이고, 충격과 안도감에 거칠게 숨을 몰아쉬며 영상이 끝납니다.
+극도의 속도감, 강렬한 모션 블러, 물보라, 어지러운 시점, 혼란스러운 에너지를 담은 다이내믹한 카메라 워킹. 밝은 낮 조명과 생생한 색감, 사실적인 물 물리 효과, 꿈속에서나 볼 법한 불가능한 건축물이 특징입니다. 틱톡(TikTok)에 최적화된 아드레날린이 솟구치는 스릴 넘치고 초현실적이며 약간은 공포스러운 분위기. 슬링어(Slinger) 연속 샷.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/292c1e89047968555cd5f91766874fe3/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Viral Waterslide Dream Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/292c1e89047968555cd5f91766874fe3/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 바이럴 워터슬라이드 꿈 시퀀스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5430)**
 
 **작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2060235123015233858) | **게시일:** May 29, 2026
 
 ---
-### Fast-Paced Japanese Commercial Prompt
+### 빠른 템포의 일본어 광고 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A rapid-fire, high-energy Japanese advertisement prompt for Seedance, featuring 5 different lifestyle scenes with neon accents and bold typography.
+> Seedance를 위한 빠르고 에너지가 넘치는 일본어 광고 프롬프트로, 네온 포인트와 강렬한 타이포그래피가 돋보이는 5가지 라이프스타일 장면을 포함합니다.
 
 #### 📝 프롬프트
 
 ```
-Hyper-fast 15-second Japanese commercial. Rapid fire cuts every 2-3 seconds. High energy, loud, exciting.Cut 1 — (0 :00–0:03):Girl EXPLODES onto screen grabbing a cracker, laughing wildly. Crackers fly everywhere. She shouts: "I can't stop!" Bold yellow text SLAMS on screen.Cut 2 — (0: 03–0:06):SMASH CUT — red lipstick swipe in extreme close-up. She smirks into camera. Text flashes: "Captivating!" Neon lights strobe.Cut 3 — (0: 06–0:09):She SPINS in leather jacket, hair whipping, street lights blur behind her. Text hits: "I make my own way!"Cut 4 — (0: 09–0:11):Ice and coffee EXPLODE in slow-mo for one second. She winks. "Cheers!"Cut 5 — (0: 11–0:13):She JUMPS into frame, fist punch toward camera. "Jump!"Final (0 :13–0:15):Split screen of ALL 5 scenes at once. She says fast and bold: "To the me I like!" Logo SLAMS in. FUTURE YOU.
+초고속 15초 일본어 광고. 2~3초마다 빠르게 전환되는 컷. 높은 에너지, 강렬한 사운드, 흥미진진한 분위기. 컷 1 — (0:00–0:03): 소녀가 화면에 갑자기 나타나 과자를 집어 들고 크게 웃는다. 과자 부스러기가 사방으로 튄다. 소녀가 외친다: "멈출 수 없어!" 굵은 노란색 텍스트가 화면에 강렬하게 나타난다. 컷 2 — (0:03–0:06): 스매시 컷 — 빨간 립스틱을 바르는 모습을 초근접 촬영. 카메라를 보며 미소 짓는다. 텍스트가 번쩍인다: "매혹적이야!" 네온사인이 번쩍인다. 컷 3 — (0:06–0:09): 가죽 재킷을 입고 회전하며 머리카락이 휘날리고, 뒤로 거리의 불빛이 흐릿하게 지나간다. 텍스트가 나타난다: "나만의 길을 간다!" 컷 4 — (0:09–0:11): 얼음과 커피가 슬로 모션으로 1초간 튀어 오른다. 소녀가 윙크한다. "건배!" 컷 5 — (0:11–0:13): 소녀가 프레임 안으로 뛰어들며 카메라를 향해 주먹을 내지른다. "점프!" 마지막 (0:13–0:15): 5가지 장면을 한 번에 보여주는 분할 화면. 소녀가 빠르고 힘차게 말한다: "내가 좋아하는 나에게!" 로고가 강렬하게 등장한다. FUTURE YOU.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e17963709737439cd90c4f2efc69ac6d/thumbnails/thumbnail.jpg" width="600" alt="Fast-Paced Japanese Commercial Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e17963709737439cd90c4f2efc69ac6d/thumbnails/thumbnail.jpg" width="600" alt="빠른 템포의 일본어 광고 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5427)**
 
 **작성자:** [Synthia](https://x.com/AIwithSynthia) | **출처:** [Link](https://x.com/AIwithSynthia/status/2060220763731574935) | **게시일:** May 29, 2026
 
 ---
-### Barista Cinematic Commercial Video Prompt
+### 바리스타 시네마틱 광고 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional advertising prompt for Seedance 2.0 creating a realistic commercial of a barista at a modern coffee stall.
+> Seedance 2.0을 사용하여 현대적인 커피 가판대에서 바리스타의 모습을 담은 사실적인 광고 영상을 제작하기 위한 전문 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Create a 15-second ultra-realistic cinematic commercial using the uploaded reference image as the exact character reference. Maintain the same face, hairstyle, skin tone, outfit, and body proportions in every shot with no character drift.
+업로드된 참조 이미지를 정확한 캐릭터 레퍼런스로 사용하여 15초 분량의 초현실적인 시네마틱 광고 영상을 제작하세요. 모든 샷에서 캐릭터의 얼굴, 헤어스타일, 피부 톤, 의상 및 신체 비율을 동일하게 유지하여 캐릭터 왜곡이 발생하지 않도록 하세요.
 
-A confident young male coffee seller works at a stylish outdoor coffee stall branded “YAPPER COFFEE” in a busy modern city street. He wears a black shirt, dark brown barista apron, black pants, and sneakers.
+자신감 넘치는 젊은 남성 커피 판매원이 번화한 현대 도시 거리의 세련된 야외 커피 가판대인 “YAPPER COFFEE”에서 일하고 있습니다. 그는 검은색 셔츠, 짙은 갈색 바리스타 앞치마, 검은색 바지, 운동화를 착용하고 있습니다.
 
-0–3s: He walks toward a customer smiling while holding a takeaway cup.
-3–6s: He pours hot tea from a metal kettle in slow motion and hands over the cup.
-6–9s: The customer takes a sip and smiles with satisfaction.
-9–15s: The seller walks toward another customer while the camera smoothly follows him.
+0~3초: 그가 테이크아웃 컵을 들고 미소를 지으며 손님을 향해 걸어갑니다.
+3~6초: 그가 슬로우 모션으로 금속 주전자에 담긴 뜨거운 차를 따르고 컵을 건넵니다.
+6~9초: 손님이 차를 한 모금 마시고 만족스러운 미소를 짓습니다.
+9~15초: 카메라가 그를 부드럽게 따라가는 동안 판매원이 다른 손님을 향해 걸어갑니다.
 
-Warm daylight, cinematic background blur, smooth tracking shots, shallow depth of field, realistic motion blur, natural expressions, premium advertising quality, ultra-realistic lighting, polished storytelling, no subtitles, no character changes, full natural realistic video.
+따뜻한 햇살, 시네마틱 배경 흐림 효과, 부드러운 트래킹 샷, 얕은 피사계 심도, 사실적인 모션 블러, 자연스러운 표정, 프리미엄 광고 품질, 초현실적인 조명, 세련된 스토리텔링, 자막 없음, 캐릭터 변화 없음, 완전한 자연스러운 실사 영상.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/812d81b7d5eb5e9e7e839272ad88d02e/thumbnails/thumbnail.jpg" width="600" alt="Barista Cinematic Commercial Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/812d81b7d5eb5e9e7e839272ad88d02e/thumbnails/thumbnail.jpg" width="600" alt="바리스타 시네마틱 광고 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5442)**
 
 **작성자:** [Noor](https://x.com/noorlewisx) | **출처:** [Link](https://x.com/noorlewisx/status/2060218418029379829) | **게시일:** May 29, 2026
 
 ---
-### Telekinetic School Girl Action Scene
+### 염력을 사용하는 여고생 액션 장면
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic action prompt featuring a Korean high school girl using powerful telekinetic abilities to freeze time and repel attackers in a school corridor.
+> 한국 여고생이 강력한 염력으로 시간을 멈추고 학교 복도에서 공격자들을 물리치는 고도로 디테일한 영화적 액션 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-In a telekinetic action scene, a South Korean high school girl in a white short-sleeved shirt and gray pleated skirt stands calmly in the middle of a corridor. She is being attacked from both sides; some attackers, wearing brown school uniform jackets, wield short sticks, while others are dressed as black ninjas, creating a tense standoff in the corridor. As the enemies rush towards her, the girl unleashes a powerful telekinetic attack. Suddenly, everything around her enters a state of weightlessness and time freezes. Dozens of items—open textbooks, notebooks, a red soda can, and a wooden school chair—leave the ground, perfectly suspending themselves in mid-air. The attackers, in their lunging movements, are frozen in mid-air by an invisible force. Paper pages, scraps of paper, and dust float and swirl around her weightlessly. The camera slowly zooms in on the girl, perfectly freezing the chaotic corridor in the telekinetic-induced state of stillness and suspension. In the extreme stillness of the slowly zooming-in, frozen image, the girl's calm eyes narrow slightly. Immediately afterward, she calmly raised her right hand, her fingers loosely clenched, and then made a light yet decisive flick of her sleeve to either side of her body. In an instant, frozen time and gravity seemed to explode with this subtle gesture. A low rumble echoed in the air, and dozens of objects that had been suspended in mid-air—a heavy wooden school chair, scattered textbooks, even the red soda can—transformed into a dense projection, carrying powerful air currents, and were precisely launched towards the enemies attacking from both sides. At the same time, an invisible circular psychic shockwave violently spread out from the girl. The brown-uniformed attackers and black-clad ninjas, who had been frozen in mid-air, were instantly struck by this immense force, their bodies jolted violently, and they were sent flying backward like kites with broken strings to either end of the corridor. As gravity instantly returned, the wooden chairs shattered upon impact, textbooks scattered into a flurry of pages, and with the dull thud of heavy objects hitting the ground, the attackers collapsed onto the corridor floor, incapacitated. Silence returned to the corridor, broken only by countless tattered papers and fine dust drifting slowly in the air. The aftershocks of the shockwave ruffled the girl's bangs and hair. She remained composed, not even glancing at her fallen opponent. The girl slowly lowered her right hand, raised her slender left, and gracefully and calmly tucked a strand of black hair behind her ear, revealing her delicate and serene profile. The camera froze on this moment, the white papers falling around her like snowflakes, highlighting her still figure in a white short-sleeved shirt and gray pleated skirt. Then, the image faded out.
+염력 액션 장면에서 흰색 반팔 셔츠와 회색 주름치마를 입은 한국 여고생이 복도 한가운데에 차분하게 서 있습니다. 양쪽에서 공격이 들어오고 있습니다. 갈색 교복 재킷을 입은 공격자들은 짧은 막대기를 휘두르고 있고, 다른 공격자들은 검은색 닌자 복장을 하고 있어 복도에는 긴장감이 감돕니다. 적들이 그녀를 향해 달려들자, 소녀는 강력한 염력 공격을 펼칩니다. 갑자기 그녀 주변의 모든 것이 무중력 상태가 되고 시간이 멈춥니다. 펼쳐진 교과서, 공책, 빨간색 탄산음료 캔, 나무 의자 등 수십 개의 물건이 바닥에서 떠올라 공중에 완벽하게 정지합니다. 달려들던 공격자들도 보이지 않는 힘에 의해 공중에 멈춰 섭니다. 종이 페이지, 종이 조각, 먼지들이 무중력 상태로 그녀 주변을 떠다니며 소용돌이칩니다. 카메라는 소녀를 향해 천천히 줌인하며, 염력으로 인해 정지된 혼란스러운 복도의 상태를 완벽하게 포착합니다. 천천히 줌인되는 극도의 정적 속에서 소녀의 차분한 눈매가 살짝 가늘어집니다. 직후, 그녀는 차분하게 오른손을 들어 손가락을 가볍게 쥐었다가, 소매를 양옆으로 가볍지만 단호하게 휘두릅니다. 그 순간, 멈춰 있던 시간과 중력이 이 미묘한 동작과 함께 폭발하는 듯합니다. 낮은 굉음이 공중에 울려 퍼지고, 공중에 떠 있던 수십 개의 물체들(무거운 나무 의자, 흩어진 교과서, 심지어 빨간색 탄산음료 캔까지)이 강력한 기류를 동반한 밀도 높은 투사체로 변해 양쪽에서 공격해 오던 적들을 향해 정확하게 발사됩니다. 동시에 소녀에게서 보이지 않는 원형의 염력 충격파가 격렬하게 퍼져 나갑니다. 공중에 멈춰 있던 갈색 교복의 공격자들과 검은 옷의 닌자들은 이 엄청난 힘에 즉시 타격을 입고 몸이 격렬하게 튕겨 나가며, 마치 줄이 끊어진 연처럼 복도 양 끝으로 날아갑니다. 중력이 즉시 돌아오자 나무 의자들은 충격으로 산산조각이 나고, 교과서들은 페이지가 흩날리며, 무거운 물체들이 바닥에 떨어지는 둔탁한 소리와 함께 공격자들은 복도 바닥에 쓰러져 무력화됩니다. 복도에는 다시 정적이 찾아오고, 수많은 찢어진 종이와 미세한 먼지만이 공중에 천천히 떠다닙니다. 충격파의 여파가 소녀의 앞머리와 머리카락을 흩뜨립니다. 그녀는 쓰러진 상대를 쳐다보지도 않은 채 침착함을 유지합니다. 소녀는 천천히 오른손을 내리고 가느다란 왼손을 들어 우아하고 차분하게 검은 머리카락 한 가닥을 귀 뒤로 넘기며 섬세하고 평온한 옆모습을 드러냅니다. 카메라는 이 순간을 포착하며 멈춥니다. 흰색 종이들이 눈송이처럼 그녀 주변으로 떨어지고, 흰색 반팔 셔츠와 회색 주름치마를 입은 그녀의 정적인 모습이 강조됩니다. 그리고 화면이 서서히 어두워지며 페이드 아웃됩니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea0bf9f4c305c556727312433dd5b4a2/thumbnails/thumbnail.jpg" width="600" alt="Telekinetic School Girl Action Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea0bf9f4c305c556727312433dd5b4a2/thumbnails/thumbnail.jpg" width="600" alt="염력을 사용하는 여고생 액션 장면">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5424)**
 
 **작성자:** [Calira](https://x.com/CaliraVal) | **출처:** [Link](https://x.com/CaliraVal/status/2060217352818708623) | **게시일:** May 29, 2026
 
 ---
-### Egypt Cinematic Travel Vlog Video Prompt
+### 이집트 시네마틱 여행 브이로그 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A multi-scene travel vlog prompt featuring a young woman exploring Cairo, the Nile, and the Pyramids with consistent character appearance.
+> 일관된 캐릭터 외형을 유지하며 카이로, 나일강, 피라미드를 탐험하는 젊은 여성의 모습을 담은 다중 장면 여행 브이로그 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-A beautiful young woman in her mid-20s with long wavy dark hair flowing in the wind, striking features, wearing stylish black round glasses, light beige ethnic embroidered top, natural glowing skin, cinematic travel vlog style, golden hour and warm lighting throughout.
+바람에 흩날리는 긴 웨이브 다크 헤어, 뚜렷한 이목구비, 세련된 검은색 원형 안경, 연한 베이지색 에스닉 자수 상의를 착용한 20대 중반의 아름다운 젊은 여성, 자연스럽게 빛나는 피부, 시네마틱 여행 브이로그 스타일, 골든 아워의 따뜻한 조명.
 
-0-2s: Close-up selfie-style shot, hair dramatically blowing across her face as she looks straight into camera with a soft confident smile, bustling old Cairo street background, slight handheld camera movement.
+0-2초: 셀카 스타일의 클로즈업 샷, 바람에 머리카락이 얼굴을 스치며 카메라를 정면으로 응시하는 부드럽고 자신감 있는 미소, 활기찬 카이로 구시가지 배경, 약간의 핸드헬드 카메라 움직임.
 
-2-4s: Smooth transition to side profile by the Nile river at sunset, hair flowing, she turns her head toward camera with a gentle smile, sailboat in background, warm golden light reflecting on water.
+2-4초: 해 질 녘 나일강 옆에서의 부드러운 측면 전환, 흩날리는 머리카락, 카메라를 향해 고개를 돌리며 짓는 온화한 미소, 배경의 돛단배, 물에 반사되는 따뜻한 황금빛 조명.
 
-4-6s: Cut to wide cinematic shot in front of the Great Pyramid of Giza, desert sand, she stands confidently looking at camera, wind gently moving her hair, epic scale.
+4-6초: 기자 대피라미드 앞에서의 와이드 시네마틱 샷, 사막의 모래, 자신감 있게 카메라를 바라보며 서 있는 모습, 머리카락을 부드럽게 흔드는 바람, 웅장한 스케일.
 
-6-7.5s: Quick cut inside vibrant Khan El Khalili market at dusk, she reaches up touching hanging ornate lanterns, magical warm lighting, slight smile.
+6-7.5초: 해 질 녘 활기찬 칸 엘 칼릴리 시장 내부로의 빠른 전환, 매달린 화려한 랜턴을 손으로 만지는 모습, 마법 같은 따뜻한 조명, 은은한 미소.
 
-7.5-9s: Fast-paced walking shot through crowded souk alley, she smiles brightly while looking around, people and colorful shops in background, dynamic handheld camera following her.
+7.5-9초: 붐비는 시장 골목을 빠르게 걷는 샷, 주변을 둘러보며 밝게 웃는 모습, 배경의 사람들과 다채로운 상점들, 그녀를 따라가는 역동적인 핸드헬드 카메라.
 
-9-10.5s: Extreme close-up of her face, she looks directly into camera, hair strands across face, intense eye contact, subtle playful smile turning into a wide genuine laugh showing perfect teeth.
+9-10.5초: 얼굴 익스트림 클로즈업, 카메라를 직접 응시, 얼굴을 가로지르는 머리카락, 강렬한 눈맞춤, 장난기 어린 미소에서 완벽한 치아를 드러내며 환하게 웃는 모습으로 변화.
 
-10.5-12s: Sitting on a traditional Nile boat, legs crossed, wind in hair, soft smile while looking at the water, golden sunset reflection.
+10.5-12초: 전통 나일강 보트에 앉아 다리를 꼬고 바람을 느끼는 모습, 물을 바라보며 짓는 부드러운 미소, 황금빛 노을의 반사.
 
-12-13.5s: Inside a colorful spice market, she stands among sacks of spices, looking peaceful and content, soft natural light.
+12-13.5초: 다채로운 향신료 시장 내부, 향신료 자루 사이에 서서 평온하고 만족스러운 표정, 부드러운 자연광.
 
-13.5-15s: Final shot - elegant side profile by the Nile at sunset with dramatic golden light, then smooth cut to her sitting in a cozy café holding a glass of drink, looking at camera with a warm intimate smile.
+13.5-15초: 마지막 샷 - 극적인 황금빛 조명 아래 나일강 옆의 우아한 측면 프로필, 이후 아늑한 카페에 앉아 음료 잔을 들고 카메라를 향해 따뜻하고 친밀한 미소를 짓는 모습으로 부드럽게 전환.
 
-Camera work: Cinematic, smooth transitions, slight slow-motion on key emotional moments, rich color grading, warm cinematic tones, shallow depth of field, film grain.
+카메라 워크: 시네마틱, 부드러운 전환, 주요 감정적 순간의 약간의 슬로우 모션, 풍부한 색감 보정, 따뜻한 시네마틱 톤, 얕은 피사계 심도, 필름 그레인.
 
-Character dialogue:
+캐릭터 대사:
 
-- 0-2s: "Heyy... come with me"
-- 4-6s: "This is unreal..."
-- 7.5-9s: (laughing) "I can't believe I'm here!"
-- 10.5-12s: "The most beautiful place..."
-- 13.5-15s: (soft, warm) "This moment... feels like magic."
+- 0-2초: "헤이... 나랑 같이 가자"
+- 4-6초: "정말 비현실적이야..."
+- 7.5-9초: (웃으며) "내가 여기 있다니 믿을 수 없어!"
+- 10.5-12초: "가장 아름다운 곳이야..."
+- 13.5-15초: (부드럽고 따뜻하게) "이 순간... 마법 같아."
 
-High detail, photorealistic, 8K quality, emotional, dreamy travel aesthetic, perfect face consistency across all shots, matching the exact woman in the reference image
+고디테일, 사실적인 사진, 8K 품질, 감성적이고 꿈같은 여행 미학, 모든 샷에서 완벽한 얼굴 일관성 유지, 참조 이미지 속 여성과 동일한 외형
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/921d51ef2c0f3dcb93b8b2d23feae39a/thumbnails/thumbnail.jpg" width="600" alt="Egypt Cinematic Travel Vlog Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/921d51ef2c0f3dcb93b8b2d23feae39a/thumbnails/thumbnail.jpg" width="600" alt="이집트 시네마틱 여행 브이로그 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5441)**
 
 **작성자:** [Heisenberg](https://x.com/rovvmut_) | **출처:** [Link](https://x.com/rovvmut_/status/2060211469401362497) | **게시일:** May 29, 2026
 
 ---
-### Mecha Exoskeleton Assembly Sequence
+### 메카 외골격 조립 시퀀스
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic sci-fi action prompt describing the high-speed mechanical assembly of an exoskeleton around a character.
+> 캐릭터 주변으로 외골격이 고속으로 기계 조립되는 과정을 묘사한 영화 같은 SF 액션 프롬프트.
 
 #### 📝 프롬프트
 
 ```
-A cinematic, hyper-realistic sci-fi action sequence. It begins with a close-up of a young East Asian man with long, wavy dark hair focusing intense energy, red lightning and plasma crackling between his hands. The camera cuts to dozens of sleek, futuristic metallic armor pieces flying at high speed through a dark, industrial warehouse, converging on him. Sparks fly as the high-tech, gunmetal-grey armor rapidly mechanically assembles around his body. The final shot reveals him fully suited in a powerful, glowing mecha exoskeleton with a fiery, burning plasma aura radiating from his helmet. He executes an aggressive, sweeping strike with a glowing orange laser blade, causing a massive explosion with smoke and debris in the background. High-end CGI, studio lighting, octane render, 8k resolution, intense pacing.
+영화 같고 초현실적인 SF 액션 시퀀스. 긴 웨이브 진 흑발의 젊은 동양인 남성이 강렬한 에너지를 집중하고 있으며, 그의 손 사이로 붉은 번개와 플라즈마가 튀는 클로즈업 장면으로 시작된다. 카메라는 어두운 산업용 창고를 가로질러 그를 향해 고속으로 날아오는 수십 개의 매끄럽고 미래지향적인 금속 갑옷 조각들을 비춘다. 하이테크 건메탈 그레이 색상의 갑옷이 그의 몸 주변으로 빠르게 기계적으로 조립되면서 불꽃이 튄다. 마지막 장면에서는 헬멧에서 타오르는 듯한 플라즈마 아우라를 뿜어내는 강력한 메카 외골격을 완전히 착용한 그의 모습이 드러난다. 그가 빛나는 주황색 레이저 블레이드로 공격적인 휘두르기 동작을 취하자, 배경에는 연기와 파편이 흩날리는 거대한 폭발이 일어난다. 하이엔드 CGI, 스튜디오 조명, 옥테인 렌더링, 8k 해상도, 강렬한 속도감.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce500e08df871f32ae6372cfd4a719c8/thumbnails/thumbnail.jpg" width="600" alt="Mecha Exoskeleton Assembly Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce500e08df871f32ae6372cfd4a719c8/thumbnails/thumbnail.jpg" width="600" alt="메카 외골격 조립 시퀀스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5439)**
 
 **작성자:** [Zyrella](https://x.com/Zyrellix) | **출처:** [Link](https://x.com/Zyrellix/status/2060208363867414564) | **게시일:** May 29, 2026
 
 ---
-### Luxury Skincare Pitch Deck Animation
+### 럭셔리 스킨케어 피치 덱 애니메이션
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A workflow for animating a clinical luxury beauty storyboard with smooth transitions and editorial aesthetics.
+> 임상 럭셔리 뷰티 스토리보드를 부드러운 전환과 편집 디자인 감성으로 애니메이션화하는 워크플로우입니다.
 
 #### 📝 프롬프트
 
 ```
-Create a high-end 4:3 luxury beauty tools pitch deck storyboard in 3x4 grid (12 frames), editorial layout, NuFace/Dr. Barbara Sturm style, glacier white + rose gold palette. Structured flow: science → tool → ritual → glow → confidence closure. Each frame split: top cinematic image (no text) + bottom storyboard notes. Clinical luxury minimal aesthetic, science meets beauty mood, precision self-care. A rose gold facial device is the emotional center throughout. Animate the provided 3x4 storyboard into a smooth cinematic video. Preserve exact shot order and continuity. Use slow device glide on skin, LED light pulse, serum absorption close-up, and mirror reflection reveal. Lighting transitions from cool clinical white light to warm vanity mirror rose glow. Beauty tools editorial aesthetic, surgical precision, empowered radiance mood. No new shots, no reordering, facial device remains emotional focus in all scenes.
+3x4 그리드(12 프레임) 구성의 고급스러운 4:3 럭셔리 뷰티 툴 피치 덱 스토리보드를 제작하세요. 편집 디자인 레이아웃을 적용하고, NuFace/Dr. Barbara Sturm 스타일의 글레이셔 화이트와 로즈 골드 컬러 팔레트를 사용합니다. 구조적 흐름: 과학 → 도구 → 리추얼 → 광채 → 자신감 있는 마무리. 각 프레임은 상단 시네마틱 이미지(텍스트 없음)와 하단 스토리보드 노트로 분할합니다. 임상적 럭셔리 미니멀리즘 미학, 과학과 뷰티가 만나는 무드, 정교한 셀프 케어를 표현하세요. 로즈 골드 페이셜 디바이스가 전체 영상의 감성적 중심이 되어야 합니다. 제공된 3x4 스토리보드를 부드러운 시네마틱 영상으로 애니메이션화하세요. 정확한 샷 순서와 연속성을 유지해야 합니다. 피부 위를 미끄러지는 디바이스, LED 라이트 펄스, 세럼 흡수 클로즈업, 거울 반사 효과를 활용하세요. 조명은 차가운 임상적 화이트 라이트에서 따뜻한 화장대 거울의 로즈 글로우로 전환됩니다. 뷰티 툴의 편집 디자인 감성, 수술적 정교함, 자신감 넘치는 광채 무드를 담아내세요. 새로운 샷을 추가하거나 순서를 변경하지 말고, 모든 장면에서 페이셜 디바이스가 감성적 초점이 되도록 유지하세요.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aad0a6d8939fdbc35b1d919951f8bc9f/thumbnails/thumbnail.jpg" width="600" alt="Luxury Skincare Pitch Deck Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aad0a6d8939fdbc35b1d919951f8bc9f/thumbnails/thumbnail.jpg" width="600" alt="럭셔리 스킨케어 피치 덱 애니메이션">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5436)**
 
 **작성자:** [𝐌](https://x.com/Strength04_X) | **출처:** [Link](https://x.com/Strength04_X/status/2060200771912864078) | **게시일:** May 29, 2026
 
 ---
-### Skateboard Big Air Sunset Highlight
+### 스케이트보드 빅 에어 선셋 하이라이트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic 15-second skateboarding highlight featuring a single rider performing a 360 aerial rotation on a large outdoor ramp during a golden sunset, with dynamic tracking shots and high-impact sound design.
+> 황금빛 노을 아래 대형 야외 램프에서 360도 공중 회전을 선보이는 스케이트보더의 모습을 담은 15초 분량의 영화 같은 하이라이트 영상으로, 역동적인 트래킹 샷과 강렬한 사운드 디자인이 특징입니다.
 
 #### 📝 프롬프트
 
 ```
-15-second live-action big-air skateboarding highlight continuing at the same huge outdoor ramp during deep golden sunset. Only one skateboarder and only one skateboard exist in the entire video. Do not duplicate the rider. Do not add extra skateboarders in the background.
+깊은 황금빛 노을이 지는 거대한 야외 램프를 배경으로 한 15초 분량의 실사 스케이트보드 빅 에어 하이라이트 영상입니다. 영상 전체에 단 한 명의 스케이트보더와 하나의 스케이트보드만 등장해야 합니다. 라이더를 복제하지 마십시오. 배경에 다른 스케이트보더를 추가하지 마십시오.
 
-Start with a fast low side-rear tracking shot as the rider accelerates toward the largest ramp, not only from directly behind. Use one quick close-up of the wheels, feet, and board while the rider climbs the ramp with power and control. Briefly switch to a low side angle just before takeoff to show the ramp height and speed.
+라이더가 가장 큰 램프를 향해 가속하는 모습을 단순히 뒤에서만 찍는 것이 아니라, 빠른 속도의 낮은 측후방 트래킹 샷으로 시작하십시오. 라이더가 힘과 통제력을 유지하며 램프를 오르는 동안 바퀴, 발, 보드를 보여주는 빠른 클로즈업 샷을 한 번 사용하십시오. 도약 직전에는 램프의 높이와 속도감을 보여주기 위해 낮은 측면 앵글로 잠시 전환하십시오.
 
-The rider launches into the highest big air and performs one clean 360 aerial rotation near the peak of the jump. Keep the aerial action clear and readable. Use a brief stop-motion-style freeze effect only at the peak moment of the rotation, then continue the motion naturally. Do not make the whole aerial section slow motion. Do not create ghost trails, overlapping silhouettes, or multiple riders. The real rider remains one person, and the skateboard stays controlled under the rider’s feet.
+라이더가 최고 높이의 빅 에어로 도약하여 정점에서 깔끔한 360도 공중 회전을 수행합니다. 공중 동작은 명확하고 잘 보이게 유지하십시오. 회전의 정점 순간에만 짧게 스톱 모션 스타일의 정지 효과를 사용한 뒤, 자연스럽게 동작을 이어가십시오. 전체 공중 구간을 슬로우 모션으로 만들지 마십시오. 잔상, 겹치는 실루엣, 또는 여러 명의 라이더를 생성하지 마십시오. 실제 라이더는 한 명이어야 하며, 스케이트보드는 라이더의 발 아래에서 안정적으로 유지되어야 합니다.
 
-After the peak rotation, return to normal motion for a clear descent and landing. Show the board aligning for touchdown, the wheels touching down, a short controlled slide, and a strong impact.
+회전 정점 이후에는 정상 속도로 돌아와 명확한 하강과 착지를 보여주십시오. 보드가 착지 지점에 정렬되고, 바퀴가 지면에 닿으며, 짧고 안정적인 슬라이드 후 강한 임팩트로 마무리되는 모습을 보여주십시오.
 
-End with the rider gliding away into the sunset in a short cinematic silhouette from behind.
+마지막에는 라이더가 노을 속으로 멀어지는 뒷모습을 짧은 영화적 실루엣으로 담아내며 끝맺으십시오.
 
-Strong sports highlight energy, dynamic but simple camera changes, low tracking shot, side-rear angle, brief side angle during takeoff and air, ground-level landing angle, clear takeoff and clear landing, dramatic height difference, readable body silhouette, realistic skateboard motion, no static sports introduction. No clear spoken commentary, no narration, no understandable dialogue. Sound effects only: fast rolling wheels, ramp rumble, wind rush, brief silence at the peak freeze, heavy landing impact, distant crowd reaction. No logo, no watermark, no readable text.
+강렬한 스포츠 하이라이트 에너지, 역동적이면서도 단순한 카메라 전환, 낮은 트래킹 샷, 측후방 앵글, 도약 및 공중 구간의 짧은 측면 앵글, 지면 높이의 착지 앵글, 명확한 도약과 착지, 극적인 높이 차이, 뚜렷한 신체 실루엣, 사실적인 스케이트보드 움직임이 필요하며, 정적인 스포츠 인트로 영상은 포함하지 마십시오. 명확한 음성 해설, 내레이션, 알아들을 수 있는 대사는 없습니다. 사운드 효과만 사용하십시오: 빠르게 구르는 바퀴 소리, 램프의 웅장한 소리, 바람 소리, 정점 정지 순간의 짧은 정적, 묵직한 착지 충격음, 멀리서 들리는 관중의 반응. 로고, 워터마크, 읽을 수 있는 텍스트는 포함하지 마십시오.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060197720900734976/img/ym9Yq6kjEOmCWR14.jpg" width="600" alt="Skateboard Big Air Sunset Highlight">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b77a19c659b07feab6726a72c2c8f75/thumbnails/thumbnail.jpg" width="600" alt="스케이트보드 빅 에어 선셋 하이라이트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5466)**
 
 **작성자:** [AIライフハック](https://x.com/ai_lifehack55) | **출처:** [Link](https://x.com/ai_lifehack55/status/2060198851953209598) | **게시일:** May 29, 2026
 
 ---
-### Cybernetic Anaconda Pursuit in Dystopian Mumbai
+### 디스토피아 뭄바이에서 펼쳐지는 사이버네틱 아나콘다 추격전
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-action cyberpunk video prompt featuring a motorcycle chase through a ruined Mumbai street, pursued by a giant mechanical anaconda.
+> 폐허가 된 뭄바이 거리를 배경으로 거대한 기계 아나콘다에게 쫓기는 오토바이 추격전을 담은 고강도 사이버펑크 영상 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Fast-paced dystopian cyberpunk action in a ruined Indian megacity at night. Burnt cars, neon signs flickering in Hindi, sparks, smoke vents, broken flyovers, puddles reflecting pink and blue neon. Chaotic handheld cinematography, shaky tracking shots, aggressive speed ramps, dirty lens flares, practical lighting. Sound: roaring engines, metallic screeches, distorted radio chatter, distant explosions, hydraulic snake sounds.
+밤의 폐허가 된 인도 메가시티를 배경으로 한 속도감 넘치는 디스토피아 사이버펑크 액션. 불타는 자동차, 힌디어로 깜빡이는 네온사인, 불꽃, 연기 배출구, 부서진 고가도로, 분홍색과 파란색 네온이 반사되는 웅덩이. 혼란스러운 핸드헬드 촬영, 흔들리는 트래킹 샷, 공격적인 스피드 램프, 더러운 렌즈 플레어, 실용적인 조명. 사운드: 엔진 굉음, 금속성 비명, 왜곡된 무전 소리, 멀리서 들리는 폭발음, 기계적인 뱀 소리.
 
 ⸻
 
-0–2s — HOOK
+0–2초 — 훅 (HOOK)
 
-A tattooed Indian cyberpunk woman with shaved punk hair tears through a dystopian street on a junkyard-built motorcycle made from welded scrap metal, exposed engine parts, and glowing wires.
+펑크 스타일로 머리를 민 문신한 인도 사이버펑크 여성이 용접된 고철, 노출된 엔진 부품, 빛나는 전선으로 만든 조잡한 오토바이를 타고 디스토피아 거리를 질주한다.
 
-Behind her—
+그녀의 뒤에서—
 
-A gigantic half-real, half-mechanical anaconda smashes through burnt cars in aggressive pursuit.
+반은 생물이고 반은 기계인 거대한 아나콘다가 불타는 자동차들을 부수며 공격적으로 추격한다.
 
-Metal jaws snapping.
+금속 턱이 딱딱거린다.
 
-Red mechanical eyes glowing.
-
-⸻
-
-2–4s — ESCALATION
-
-Low shaky side tracking shot.
-
-The snake violently crashes through parked vehicles while partially gliding over wreckage with mechanical body segments flexing unnaturally.
-
-The woman swerves hard between wrecked taxis and burning debris.
-
-Radio crackles in her ear.
-
-Male voice:
-
-“Get it in position!”
+붉은 기계 눈이 빛난다.
 
 ⸻
 
-4–7s — BUILD
+2–4초 — 고조 (ESCALATION)
 
-She accelerates harder.
+낮고 흔들리는 측면 트래킹 샷.
 
-Rear tire skids through puddles.
+뱀이 기계적인 신체 부위를 부자연스럽게 구부리며 잔해 위를 미끄러지듯 이동하고, 주차된 차량들을 격렬하게 들이받는다.
 
-The snake lunges low behind her, smashing a car sideways into a wall.
+여성은 부서진 택시와 불타는 잔해 사이를 급하게 방향을 틀며 빠져나간다.
 
-She shouts into radio:
+귀에 꽂힌 무전기에서 지지직거리는 소리가 들린다.
 
-“I’m trying!”
+남자의 목소리:
 
-Ahead—
-
-a broken flyover ramp comes into view through smoke.
+“위치로 유인해!”
 
 ⸻
 
-7–10s — COMMIT
+4–7초 — 빌드업 (BUILD)
 
-The woman locks onto the ramp and speeds directly toward it.
+그녀는 속도를 더 높인다.
 
-Above on a ruined rooftop—
+뒷바퀴가 웅덩이를 지나며 미끄러진다.
 
-A man with a bazooka takes aim.
+뱀이 그녀의 뒤로 낮게 돌진하며 자동차 한 대를 옆으로 들이받아 벽에 처박는다.
 
-Radio:
+그녀가 무전기에 대고 외친다:
 
-“Just a little closer…”
+“노력 중이야!”
 
-The snake rapidly closes distance behind her.
+전방—
 
-⸻
-
-10–13s — BULLET TIME PAYOFF
-
-She hits the ramp and launches into the air.
-
-Bullet time engages.
-
-The cybernetic anaconda leaps upward after her, jaws opening inches from her bike.
-
-The man fires.
-
-Rocket streaks through frame in slow motion.
-
-Direct hit into the snake’s mechanical skull.
-
-Massive explosion of sparks, fire, metal fragments, and flesh.
+연기 사이로 부서진 고가도로 램프가 보이기 시작한다.
 
 ⸻
 
-13–15s — FINAL BEAT
+7–10초 — 결단 (COMMIT)
 
-Time snaps back.
+여성은 램프를 조준하고 그곳을 향해 전속력으로 달린다.
 
-The woman lands hard, bike wobbling violently—
+위쪽 폐허가 된 옥상에서—
 
-she regains balance perfectly and keeps riding.
+바주카포를 든 남자가 조준한다.
 
-Behind her, the burning mechanical anaconda crashes through wrecked cars.
+무전기:
 
-She laughs into the radio:
+“조금만 더 가까이…”
 
-“Target down!”
+뱀이 그녀의 뒤를 빠르게 좁혀온다.
 
-The man cheers over comms.
+⸻
 
-Cut.
+10–13초 — 불렛 타임 피날레 (BULLET TIME PAYOFF)
+
+그녀가 램프를 밟고 공중으로 솟구친다.
+
+불렛 타임이 시작된다.
+
+사이버네틱 아나콘다가 그녀를 뒤따라 위로 도약하고, 턱이 오토바이 바로 몇 인치 앞까지 벌어진다.
+
+남자가 발사한다.
+
+로켓이 슬로 모션으로 화면을 가로지른다.
+
+뱀의 기계 두개골에 직격.
+
+불꽃, 화염, 금속 파편, 살점이 튀며 거대한 폭발이 일어난다.
+
+⸻
+
+13–15초 — 마지막 장면 (FINAL BEAT)
+
+시간이 정상으로 돌아온다.
+
+여성이 거칠게 착지하고 오토바이가 심하게 흔들리지만—
+
+완벽하게 균형을 잡고 계속 달린다.
+
+그녀의 뒤에서 불타는 기계 아나콘다가 부서진 자동차들 사이로 추락한다.
+
+그녀가 무전기에 대고 웃으며 말한다:
+
+“타겟 제거 완료!”
+
+통신 너머로 남자의 환호성이 들린다.
+
+컷.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060184772211838977/img/HLmUfriw9HDj2KMB.jpg" width="600" alt="Cybernetic Anaconda Pursuit in Dystopian Mumbai">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93c1e654e674d35d0de679a8a8c3bcf0/thumbnails/thumbnail.jpg" width="600" alt="디스토피아 뭄바이에서 펼쳐지는 사이버네틱 아나콘다 추격전">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5462)**
 
 **작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2060184837856850203) | **게시일:** May 29, 2026
 
 ---
-### Anime Characters in Photorealistic Shopping Mall
+### 실사 쇼핑몰 속 애니메이션 캐릭터
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A detailed multi-shot cinematic prompt for Seedance 2.0 that blends 2D anime characters with a realistic 3D mall environment, focusing on consistency and smooth motion across five different shots.
+> Seedance 2.0을 위한 상세한 멀티 샷 시네마틱 프롬프트로, 2D 애니메이션 캐릭터와 사실적인 3D 쇼핑몰 환경을 결합하여 5개의 서로 다른 샷에서 일관성과 부드러운 움직임을 구현합니다.
 
 #### 📝 프롬프트
 
 ```
-Use Image A and Image B as the two main characters in all shots.
+모든 샷에서 Image A와 Image B를 두 주인공으로 사용하세요.
 
-Image A : preserve her exact anime illustration identity, hairstyle, face, outfit, proportions, and overall design.
+Image A : 그녀의 정확한 애니메이션 일러스트 정체성, 헤어스타일, 얼굴, 의상, 비율 및 전체적인 디자인을 유지하세요.
 
-Image B : preserve her exact anime illustration identity, hairstyle, face, outfit, proportions, and overall design.
+Image B : 그녀의 정확한 애니메이션 일러스트 정체성, 헤어스타일, 얼굴, 의상, 비율 및 전체적인 디자인을 유지하세요.
 
-Both characters must remain anime-style illustrations with crisp clean line art, cel-shaded flat colors, expressive anime eyes, and zero photorealism on the characters.
+두 캐릭터 모두 선명하고 깔끔한 라인 아트, 셀 셰이딩 플랫 컬러, 표정이 풍부한 애니메이션 눈을 가진 애니메이션 스타일 일러스트를 유지해야 하며, 캐릭터에 실사 느낌이 전혀 없어야 합니다.
 
-All other elements — the shopping mall interior, storefronts, display windows, escalators, polished floors, shopping bags, crowd, lighting, and background architecture — are fully photorealistic.
+쇼핑몰 내부, 매장 전면, 진열창, 에스컬레이터, 광택이 나는 바닥, 쇼핑백, 군중, 조명, 배경 건축물 등 나머지 모든 요소는 완전히 사실적인 실사여야 합니다.
 
-Setting: a busy modern shopping mall on a weekend afternoon. Stylish interior, bright natural and commercial lighting, large glass storefronts, digital signage, polished floors, open atrium, many shoppers walking around. The atmosphere is lively, fashionable, and cheerful.
+배경: 주말 오후의 붐비는 현대식 쇼핑몰. 세련된 인테리어, 밝은 자연광 및 상업용 조명, 대형 유리 매장 전면, 디지털 사이니지, 광택이 나는 바닥, 개방형 아트리움, 주변을 걷는 많은 쇼핑객. 분위기는 활기차고 세련되며 즐겁습니다.
 
-15-second cinematic video, 24fps, smooth motion, clear emotional flow, character consistency across all shots.
+15초 시네마틱 영상, 24fps, 부드러운 움직임, 명확한 감정 흐름, 모든 샷에서 캐릭터 일관성 유지.
 
-Shot 1 [MALL ENTRANCE — ARRIVAL]
+샷 1 [쇼핑몰 입구 — 도착]
 
-Image A and Image B walk side by side into a crowded modern shopping mall, smiling and chatting. Many shoppers pass around them. The camera tracks backward in front of them as they enter the bright open atrium. They look excited for a fun day of window shopping.
+Image A와 Image B가 붐비는 현대식 쇼핑몰 안으로 나란히 걸어 들어오며 웃으며 대화합니다. 많은 쇼핑객이 그들 주변을 지나갑니다. 밝은 개방형 아트리움으로 들어오는 그들의 앞모습을 카메라가 뒤로 물러나며 촬영합니다. 그들은 즐거운 윈도우 쇼핑을 기대하는 들뜬 표정입니다.
 
-Cut to Shot 2 [WINDOW SHOPPING — DISCOVERY]
+샷 2로 전환 [윈도우 쇼핑 — 발견]
 
-The two girls stop in front of a stylish fashion storefront with a large glass display window. They lean in slightly and admire the items inside. Image A points at something cute in the display. Image B reacts with a bright smile and curious eyes. Medium shot, then close-up on their happy faces and pointing gesture.
+두 소녀가 대형 유리 진열창이 있는 세련된 패션 매장 앞에 멈춰 섭니다. 그들은 몸을 살짝 기울여 안쪽의 물건들을 구경합니다. Image A가 진열대 안의 귀여운 물건을 가리킵니다. Image B가 밝은 미소와 호기심 어린 눈빛으로 반응합니다. 미디엄 샷 후, 그들의 행복한 얼굴과 가리키는 손짓을 클로즈업합니다.
 
-Cut to Shot 3 [MOVING THROUGH THE MALL]
+샷 3으로 전환 [쇼핑몰 이동]
 
-Image A and Image B continue walking through the busy mall, passing elegant shop windows, cosmetics counters, and accessory displays. They laugh together and casually gesture while talking. Camera moves alongside them. Background crowd flows naturally around them. Their mood is relaxed, lively, and playful.
+Image A와 Image B가 우아한 상점 진열창, 화장품 매대, 액세서리 진열대를 지나며 붐비는 쇼핑몰을 계속 걷습니다. 그들은 함께 웃으며 대화 중에 자연스럽게 손짓합니다. 카메라는 그들 옆에서 함께 이동합니다. 배경의 군중은 그들 주변으로 자연스럽게 흐릅니다. 분위기는 편안하고 활기차며 장난스럽습니다.
 
-Cut to Shot 4 [EXCITEMENT AT A DISPLAY]
+샷 4로 전환 [진열대에서의 즐거움]
 
-They stop at another display window with fashionable accessories and seasonal decor. Image B notices something first and gently pulls Image A’s sleeve to show it. Image A’s expression changes into delighted surprise. Close-up on their faces, then cut to a wider shot showing both of them framed by the bright storefront and the bustling crowd behind.
+그들은 패션 액세서리와 시즌 장식이 있는 다른 진열창 앞에 멈춰 섭니다. Image B가 무언가를 먼저 발견하고 Image A의 소매를 살짝 잡아당겨 보여줍니다. Image A의 표정이 기쁜 놀라움으로 바뀝니다. 그들의 얼굴을 클로즈업한 후, 밝은 매장 전면과 뒤쪽의 붐비는 군중 속에 프레임된 두 사람을 보여주는 와이드 샷으로 전환합니다.
 
-Cut to Shot 5 [PURE WEEKEND JOY]
+샷 5로 전환 [순수한 주말의 즐거움]
 
-Image A and Image B continue window shopping deeper into the mall, each carrying a few small shopping bags. They smile, laugh, and enjoy the lively weekend atmosphere. Wide cinematic shot of the modern shopping mall interior, the two girls walking happily together at the center of the frame, surrounded by the photorealistic crowd and glowing storefronts. End with a gentle crane out
+Image A와 Image B는 작은 쇼핑백을 몇 개씩 들고 쇼핑몰 안쪽으로 더 깊숙이 윈도우 쇼핑을 이어갑니다. 그들은 미소 짓고 웃으며 활기찬 주말 분위기를 즐깁니다. 현대식 쇼핑몰 내부의 와이드 시네마틱 샷으로, 두 소녀가 사실적인 군중과 빛나는 매장들 사이에서 프레임 중앙을 행복하게 걸어갑니다. 부드러운 크레인 아웃으로 마무리합니다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060180079305756672/img/-nsftlOfh54VS_bz.jpg" width="600" alt="Anime Characters in Photorealistic Shopping Mall">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef97ac3fc65eabddfac8e55fabbab5fd/thumbnails/thumbnail.jpg" width="600" alt="실사 쇼핑몰 속 애니메이션 캐릭터">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5467)**
 
 **작성자:** [Toshi@ニャルオAI](https://x.com/Toshi_nyaruo_AI) | **출처:** [Link](https://x.com/Toshi_nyaruo_AI/status/2060181284908073254) | **게시일:** May 29, 2026
 
 ---
-### Rooftop Sunset Fashion Film Prompt
+### 루프탑 선셋 패션 필름 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A luxurious and viral-style fashion film prompt featuring a model on a skyscraper rooftop during golden hour.
+> 골든 아워 시간대, 고층 빌딩 루프탑에 선 모델을 주인공으로 한 럭셔리하고 바이럴 스타일의 패션 필름 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-15-second ultra realistic cinematic rooftop fashion film during sunset.
+15초 분량의 초현실적인 시네마틱 루프탑 패션 필름 (일몰 배경).
 
-Scene 1 (0–4s): A stunning fashion model steps onto a luxury rooftop overlooking a glowing city skyline at golden hour. Soft wind moves her hair and long black outfit naturally, cinematic drone shot approaching slowly, warm orange sunlight reflecting on glass buildings, ultra aesthetic atmosphere.
+장면 1 (0–4초): 골든 아워, 빛나는 도시 스카이라인이 내려다보이는 럭셔리 루프탑으로 걸어 나오는 아름다운 패션 모델. 부드러운 바람에 자연스럽게 흩날리는 머리카락과 긴 블랙 의상, 천천히 접근하는 시네마틱 드론 샷, 유리 건물에 반사되는 따뜻한 오렌지빛 햇살, 초미적 분위기.
 
-Scene 2 (4–8s): Slow-motion tracking shot as she confidently walks across the rooftop edge in a luxurious designer outfit with sunglasses and silver accessories. Cinematic lens flares, flowing fabric movement, rich old-money aesthetic, shallow depth of field, Vogue editorial vibe.
+장면 2 (4–8초): 선글라스와 실버 액세서리를 착용한 채 럭셔리한 디자이너 의상을 입고 루프탑 가장자리를 자신감 있게 걷는 슬로우 모션 트래킹 샷. 시네마틱 렌즈 플레어, 흐르는 듯한 의상의 움직임, 풍부한 올드머니 룩 감성, 얕은 피사계 심도, 보그(Vogue) 에디토리얼 무드.
 
-Scene 3 (8–12s): Dramatic side-profile close-up with sunset behind her, hair moving beautifully in wind, emotional “main character” energy, cinematic camera orbit movement, realistic skin texture, luxury perfume advertisement style.
+장면 3 (8–12초): 석양을 등진 드라마틱한 측면 클로즈업, 바람에 아름답게 흩날리는 머리카락, 감성적인 '주인공' 에너지, 시네마틱 카메라 오빗 무브먼트, 사실적인 피부 질감, 럭셔리 향수 광고 스타일.
 
-Scene 4 (12–15s): Final powerful shot facing the city skyline while city lights begin glowing at blue hour. Camera slowly pulls back revealing the massive skyline and luxury rooftop ambiance. Text fades in: “Some people don’t follow trends… they become them.”
+장면 4 (12–15초): 블루 아워에 도시의 불빛이 켜지기 시작하는 스카이라인을 마주한 마지막 강렬한 샷. 카메라가 천천히 뒤로 빠지며 거대한 스카이라인과 럭셔리한 루프탑 분위기를 보여줌. 텍스트 페이드 인: “어떤 사람들은 트렌드를 따르지 않는다… 그들이 곧 트렌드가 된다.”
 
-Ultra realistic cinematic fashion storytelling, viral Twitter/TikTok aesthetic, luxury lifestyle energy, smooth camera motion, film grain, anamorphic lens flare, highly detailed, emotional cinematic mood, 4K masterpiece.
+초현실적인 시네마틱 패션 스토리텔링, 바이럴 트위터/틱톡 감성, 럭셔리 라이프스타일 에너지, 부드러운 카메라 움직임, 필름 그레인, 아나모픽 렌즈 플레어, 고도로 디테일한 묘사, 감성적인 시네마틱 무드, 4K 마스터피스.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060180922276909056/pu/img/DTES8Zi37QOrQ2y_.jpg" width="600" alt="Rooftop Sunset Fashion Film Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/915d27f621dde0b577da6db1c94683cf/thumbnails/thumbnail.jpg" width="600" alt="루프탑 선셋 패션 필름 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5448)**
 
 **작성자:** [Zeeshi](https://x.com/AIwithZeeshi) | **출처:** [Link](https://x.com/AIwithZeeshi/status/2060181075779781084) | **게시일:** May 29, 2026
 
 ---
-### Mushroom Port Town Anime Escape
+### 버섯 항구 마을 애니메이션 탈출극
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A cinematic anime sequence showing a girl in a blue hood stealing a glowing mushroom and escaping through a high-speed chase across the bridges and walkways of a floating mushroom market town.
+> 파란색 후드를 쓴 소녀가 빛나는 버섯을 훔쳐 떠다니는 버섯 시장 마을의 다리와 통로를 가로지르며 고속 추격전을 벌이는 영화 같은 애니메이션 시퀀스.
 
 #### 📝 프롬프트
 
 ```
-@Image 1 = Protagonist character. @Image 2 = Storyboard reference. Based on the attached storyboard image, create a 15-second horizontal 16:9 anime thrilling escape scene video. Theme: Thief Girl. Animate as a high-tempo, brisk scene following the panel order of the storyboard. Flow: Start with an overhead view of a mushroom port town market spread across the water. A girl in a blue hood hides at the edge of the pier or market and steals a rare purple-glowing mushroom. Impressively depict the moment of theft with hand close-ups, the girl's sparkling eyes, and the glow of the rare mushroom. Once the theft is discovered, the girl escapes quickly using wooden piers, waterside paths, docks, rope bridges, and floating platforms. As pursuers close in, show a high-speed escape where she runs across narrow bridges, nearly slips but recovers, jumps across canals, and brushes past boats and ropes. Include seagulls flying and textures of water splashes and damp wood. End with her running across a long bridge toward the light, leaving the port town behind. Style: High-quality anime film style, cinematic lighting, top-tier animation, high definition, vivid colors, transparent water, damp wood texture, openness of the port town, and an adventurous world filled with mushroom stalls and floating architecture. The girl should appear small and agile, mischievous yet serious, and as if she is truly escaping while enjoying the thrill. Editing: Use rhythmic high-speed cuts, close-ups, extreme close-ups, low angles, overhead shots, quick pans, and smooth match cuts. Mix an overhead market panorama, hand close-ups during theft, the girl's face close-up, following shots escaping from pursuers, low angles near the water surface, extreme close-ups of feet kicking the pier, wide shots of canal jumps, and dynamic diagonal compositions using rope movement or high vantage points. Create an energetic and stylish video, utilizing the precarious waterside and continuity of bridges unique to a floating port town. Important: Do not make it a slideshow of still images. Animate running and stealing naturally. Maintain the same atmosphere of the floating mushroom port town and high-quality anime style throughout. Do not include text, subtitles, logos, or watermarks. Perform the suspenseful thrill as a brisk scene. Consistently maintain the protagonist's face, blue hood, outfit, basket, and purple glowing mushroom throughout.
+@Image 1 = 주인공 캐릭터. @Image 2 = 스토리보드 참조. 첨부된 스토리보드 이미지를 바탕으로 15초 분량의 16:9 가로형 애니메이션 스릴러 탈출 장면 영상을 제작하세요. 테마: 도둑 소녀. 스토리보드 패널 순서에 따라 템포가 빠르고 경쾌한 장면으로 애니메이션화하세요. 흐름: 물 위에 펼쳐진 버섯 항구 마을 시장의 조감도로 시작합니다. 파란색 후드를 쓴 소녀가 부두나 시장 끝자락에 숨어 희귀한 보라색 빛을 내는 버섯을 훔칩니다. 손 클로즈업, 소녀의 반짝이는 눈, 희귀한 버섯의 빛을 통해 절도 순간을 인상적으로 묘사하세요. 절도가 발각되자 소녀는 나무 부두, 물가 길, 선착장, 밧줄 다리, 떠다니는 플랫폼을 이용해 빠르게 도망칩니다. 추격자들이 다가오면 좁은 다리를 달리고, 미끄러질 뻔하다가 중심을 잡고, 운하를 뛰어넘고, 보트와 밧줄을 스치듯 지나가는 고속 탈출 장면을 보여주세요. 갈매기가 날아다니는 모습과 물보라, 젖은 나무의 질감을 포함하세요. 마지막에는 긴 다리를 달려 빛을 향해 나아가며 항구 마을을 뒤로하는 모습으로 끝맺음하세요. 스타일: 고품질 애니메이션 영화 스타일, 영화적 조명, 최고 수준의 애니메이션, 고해상도, 선명한 색감, 투명한 물, 젖은 나무 질감, 항구 마을의 개방감, 버섯 가판대와 떠다니는 건축물로 가득 찬 모험적인 세계. 소녀는 작고 민첩하며 장난기 넘치면서도 진지한 모습으로, 스릴을 즐기며 진정으로 탈출하는 것처럼 보여야 합니다. 편집: 리듬감 있는 고속 컷, 클로즈업, 익스트림 클로즈업, 로우 앵글, 오버헤드 샷, 빠른 팬, 부드러운 매치 컷을 사용하세요. 시장 전체를 조망하는 파노라마, 절도 시 손 클로즈업, 소녀의 얼굴 클로즈업, 추격자로부터 도망치는 팔로잉 샷, 수면 근처의 로우 앵글, 부두를 박차는 발의 익스트림 클로즈업, 운하를 뛰어넘는 와이드 샷, 밧줄의 움직임이나 높은 시점을 활용한 역동적인 대각선 구도를 섞어주세요. 떠다니는 항구 마을 특유의 위태로운 물가와 다리의 연속성을 활용하여 에너지가 넘치고 스타일리시한 영상을 만드세요. 중요: 정지 이미지의 슬라이드쇼가 되지 않도록 하세요. 달리기와 훔치는 동작을 자연스럽게 애니메이션화하세요. 떠다니는 버섯 항구 마을의 분위기와 고품질 애니메이션 스타일을 전체적으로 일관되게 유지하세요. 텍스트, 자막, 로고, 워터마크는 포함하지 마세요. 긴박한 스릴을 경쾌한 장면으로 연출하세요. 주인공의 얼굴, 파란색 후드, 의상, 바구니, 보라색 빛나는 버섯을 영상 전체에서 일관되게 유지하세요.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060178543808786432/img/dhAVzjA-P9Prag2Q.jpg" width="600" alt="Mushroom Port Town Anime Escape">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/282ac02aeb41e21701103daef3f76c1c/thumbnails/thumbnail.jpg" width="600" alt="버섯 항구 마을 애니메이션 탈출극">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5468)**
 
 **작성자:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **출처:** [Link](https://x.com/Ryuki_Yano/status/2060179315011277307) | **게시일:** May 29, 2026
 
 ---
-### Medieval Knight Horseback POV
+### 중세 기사 말 타기 1인칭 시점(POV)
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed first-person perspective prompt for a cinematic medieval sequence showing a knight riding through a village, emphasizing realistic human visual perspective and natural motion.
+> 기사가 마을을 가로질러 말을 타고 가는 영화 같은 중세 시퀀스를 위한 상세한 1인칭 시점 프롬프트로, 사실적인 인간의 시각적 관점과 자연스러운 움직임을 강조합니다.
 
 #### 📝 프롬프트
 
 ```
-A first-person POV (horseback riding POV) sequence in a live-action medieval European-style film, showing a knight traveling on horseback.
-The camera is permanently fixed to the knight’s eye level, representing a realistic human visual perspective from atop a horse. There are no cuts, no switches to third-person, and no aerial or top-down viewpoints at any point.
-The horse follows the route indicated in the reference image. The journey begins at the location labeled “Start” and ends at the location labeled “Stop Here.” Movement follows a realistic walking pace of a horse, with natural body motion including subtle head, shoulder, and reins-induced camera sway.
-Along the way, the knight briefly greets villagers while passing them (simple nods or short hand waves). The village is a live-action medieval settlement with wooden buildings, stone-paved streets, and naturally active inhabitants.
-Upon reaching the final destination, the horse gradually slows down and stops. The knight then naturally dismounts the horse. The footage remains a single continuous shot until that moment.
+실사 중세 유럽풍 영화 속 1인칭 시점(말 타기 POV) 시퀀스로, 기사가 말을 타고 이동하는 모습을 보여줍니다.
+카메라는 기사의 눈높이에 고정되어 말 위에서 보는 사실적인 인간의 시각적 관점을 나타냅니다. 컷 전환이나 3인칭 시점으로의 변경, 항공 뷰 또는 탑다운 뷰는 전혀 없습니다.
+말은 참조 이미지에 표시된 경로를 따라갑니다. 여정은 “Start”라고 표시된 위치에서 시작하여 “Stop Here”라고 표시된 위치에서 끝납니다. 움직임은 말의 사실적인 보행 속도를 따르며, 머리, 어깨, 고삐로 인한 미세한 카메라 흔들림 등 자연스러운 신체 움직임이 포함됩니다.
+이동 중에 기사는 마을 사람들을 지나치며 간단히 인사합니다(가벼운 끄덕임이나 짧은 손짓). 마을은 목조 건물, 돌이 깔린 거리, 자연스럽게 활동하는 주민들이 있는 실사 중세 정착지입니다.
+최종 목적지에 도착하면 말은 서서히 속도를 줄이며 멈춥니다. 그 후 기사는 자연스럽게 말에서 내립니다. 영상은 그 순간까지 단일 연속 샷으로 유지됩니다.
 
-Visual Style (Photoreal Enhancement):
-Live-action cinematic film quality, photorealistic
-Natural light–based cinematic lighting
-Lens characteristics (shallow depth of field, slight lens breathing)
-Handheld-like but stabilized POV camera motion
-Realistic motion blur
-4K RAW film look
-Cinematic color grading (no excessive CGI appearance)
+시각적 스타일(포토리얼 향상):
+실사 영화 품질, 사실적인 사진 느낌
+자연광 기반의 영화적 조명
+렌즈 특성(얕은 피사계 심도, 미세한 렌즈 브리딩)
+핸드헬드 느낌의 안정적인 POV 카메라 움직임
+사실적인 모션 블러
+4K RAW 필름 룩
+영화적 색 보정(과도한 CGI 느낌 배제)
 
-Negative Prompt (for maintaining realism):
-Anime, CGI, or game engine-style visuals
-Drone view, aerial view, or third-person perspective
-HUD, UI, subtitles, markers, text overlays
-Route lines, guide lines, or map visualizations
-Excessive slow motion or unnatural speed changes
-Unrealistic floating sensation or gravity-defying motion
-Cuts or viewpoint transitions
-Overly smooth CGI-style camera movement
-Unrealistic horse movement
+부정 프롬프트(사실성 유지용):
+애니메이션, CGI 또는 게임 엔진 스타일의 비주얼
+드론 뷰, 항공 뷰 또는 3인칭 시점
+HUD, UI, 자막, 마커, 텍스트 오버레이
+경로선, 가이드라인 또는 지도 시각화
+과도한 슬로우 모션 또는 부자연스러운 속도 변화
+비현실적인 부유감 또는 중력을 거스르는 움직임
+컷 편집 또는 시점 전환
+지나치게 매끄러운 CGI 스타일의 카메라 움직임
+비현실적인 말의 움직임
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060172486021685248/img/IpxHu_sAVfJwkyrw.jpg" width="600" alt="Medieval Knight Horseback POV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e05205527441c64fa6a674cc6daaec6/thumbnails/thumbnail.jpg" width="600" alt="중세 기사 말 타기 1인칭 시점(POV)">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5471)**
 
 **작성자:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **출처:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **게시일:** May 29, 2026
 
 ---
-### Cyberpunk Mumbai Werewolf Pursuit
+### 사이버펑크 뭄바이 늑대인간 추격전
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic 15-second action sequence set in a dystopian Mumbai with a robotic werewolf chasing a cyberpunk woman on a motorcycle.
+> 디스토피아적 뭄바이를 배경으로, 로봇 늑대인간이 오토바이를 탄 사이버펑크 여성을 추격하는 15초 분량의 영화 같은 액션 시퀀스.
 
 #### 📝 프롬프트
 
 ```
-Fast-paced dystopian cyberpunk action in a ruined Indian megacity at night. Burnt cars, neon Hindi signs flickering, smoke vents, broken flyovers, puddles reflecting pink and blue neon. Chaotic shaky cinematography, aggressive handheld tracking, dirty lens flares, speed ramps, practical lighting. Sound: roaring engines, distorted radio chatter, hydraulic servos, metallic growls, distant explosions.
+밤의 폐허가 된 인도 메가시티를 배경으로 펼쳐지는 속도감 넘치는 디스토피아 사이버펑크 액션. 불타는 자동차, 깜빡이는 네온 힌디어 간판, 연기 뿜는 환기구, 부서진 고가도로, 핑크와 블루 네온이 반사되는 웅덩이. 혼란스러운 흔들리는 촬영 기법, 공격적인 핸드헬드 트래킹, 더티 렌즈 플레어, 스피드 램프, 실용 조명. 사운드: 엔진 굉음, 왜곡된 무전 잡음, 유압식 서보 모터 소리, 금속성 으르렁거림, 멀리서 들리는 폭발음.
 
 ⸻
 
-0–2s — HOOK
+0–2초 — 훅 (HOOK)
 
-A tattooed Indian cyberpunk woman with shaved punk hair races through a destroyed street on a junkyard-built motorcycle made from exposed engine parts, welded scrap, and glowing cables.
+펑크 스타일로 머리를 민 문신한 인도 사이버펑크 여성이 노출된 엔진 부품, 용접된 고철, 빛나는 케이블로 조립한 오토바이를 타고 파괴된 거리를 질주한다.
 
-Behind her—
+그녀의 뒤로—
 
-A gigantic half-real, half-robotic werewolf crashes through burnt cars at full speed.
+거대한 반은 생명체, 반은 로봇인 늑대인간이 불타는 자동차들을 뚫고 전속력으로 돌진한다.
 
-Metal claws scraping asphalt.
+아스팔트를 긁는 금속 발톱.
 
-Hydraulic limbs flexing.
+유압식으로 움직이는 사지.
 
-One glowing red cybernetic eye.
-
-⸻
-
-2–4s — ESCALATION
-
-Low shaky side-tracking shot.
-
-The cyber-werewolf runs unnaturally fast, sometimes on all fours, sometimes launching itself over wrecked vehicles.
-
-Its exposed mechanical spine sparks while flesh and metal shift together violently.
-
-Radio crackles in her ear.
-
-Male voice:
-
-“Get it in position!”
+빛나는 한쪽의 붉은 사이버네틱 눈.
 
 ⸻
 
-4–7s — BUILD
+2–4초 — 고조 (ESCALATION)
 
-She drifts hard around a pile of overturned taxis.
+낮고 흔들리는 측면 트래킹 샷.
 
-The werewolf slams through one car completely, sending debris flying across the road.
+사이버 늑대인간은 비정상적으로 빠르게 달리며, 때로는 네 발로, 때로는 난파된 차량 위를 뛰어넘으며 질주한다.
 
-It gains ground fast.
+노출된 기계식 척추에서 불꽃이 튀고, 살점과 금속이 격렬하게 뒤섞인다.
 
-The woman shouts into the radio:
+그녀의 귀에 무전이 지직거린다.
 
-“I’m trying!”
+남자의 목소리:
 
-Ahead through smoke and neon haze—
-
-a broken flyover ramp appears.
+“위치로 유인해!”
 
 ⸻
 
-7–10s — COMMIT
+4–7초 — 빌드업 (BUILD)
 
-She accelerates directly toward the ramp.
+그녀는 뒤집힌 택시 더미를 돌며 급커브(드리프트)를 한다.
 
-Cut to rooftop—
+늑대인간은 자동차 한 대를 완전히 들이받아 부수며, 도로 위로 파편을 날려 보낸다.
 
-A man with a bazooka steadies his aim through heat distortion.
+늑대인간이 빠르게 거리를 좁혀온다.
 
-Radio:
+여성이 무전기에 대고 소리친다:
 
-“Bring it closer…”
+“노력 중이야!”
 
-The cyber-werewolf launches itself forward in massive leaps, nearly reaching the bike.
+연기와 네온 안개 너머 전방에—
 
-⸻
-
-10–13s — BULLET TIME PAYOFF
-
-The woman hits the ramp and flies into the air.
-
-Bullet time engages.
-
-The cybernetic werewolf leaps upward behind her, claws reaching inches from her back.
-
-The bazooka fires.
-
-Rocket streaks through frame in slow motion.
-
-Direct impact into the werewolf’s chest.
-
-Explosion of sparks, fire, metal fragments, fur, and smoke.
+끊어진 고가도로 램프가 나타난다.
 
 ⸻
 
-13–15s — FINAL BEAT
+7–10초 — 결단 (COMMIT)
 
-Time snaps back.
+그녀는 램프를 향해 곧장 가속한다.
 
-The woman lands hard, bike wobbling violently—
+옥상으로 화면 전환—
 
-she regains control and speeds forward.
+바주카포를 든 남자가 아지랑이 사이로 조준을 고정한다.
 
-Behind her, the burning cyber-werewolf crashes through wrecked cars and explodes into debris.
+무전:
 
-She laughs into the radio:
+“더 가까이 끌어들여…”
 
-“Got him.”
+사이버 늑대인간이 거대한 도약으로 앞으로 튀어 오르며 오토바이에 거의 근접한다.
 
-The man cheers over comms.
+⸻
 
-Cut.
+10–13초 — 불릿 타임 (BULLET TIME PAYOFF)
+
+여성이 램프를 밟고 공중으로 날아오른다.
+
+불릿 타임이 시작된다.
+
+사이버네틱 늑대인간이 그녀 뒤를 따라 위로 도약하고, 발톱이 그녀의 등 뒤 몇 인치 앞까지 닿는다.
+
+바주카포가 발사된다.
+
+로켓이 슬로우 모션으로 프레임을 가로지른다.
+
+늑대인간의 가슴에 직격.
+
+불꽃, 화염, 금속 파편, 털, 연기가 폭발한다.
+
+⸻
+
+13–15초 — 피날레 (FINAL BEAT)
+
+시간이 정상 속도로 돌아온다.
+
+여성이 거칠게 착지하고, 오토바이가 격렬하게 흔들리지만—
+
+그녀는 중심을 잡고 앞으로 속도를 낸다.
+
+그녀의 뒤에서 불타는 사이버 늑대인간이 난파된 차들을 들이받고 파편이 되어 폭발한다.
+
+그녀가 무전기에 대고 웃으며 말한다:
+
+“처리했어.”
+
+무전 너머로 남자의 환호성이 들린다.
+
+컷.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0fab2eea50a88534f5e208367d91f57/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Mumbai Werewolf Pursuit">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0fab2eea50a88534f5e208367d91f57/thumbnails/thumbnail.jpg" width="600" alt="사이버펑크 뭄바이 늑대인간 추격전">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5434)**
 
@@ -4864,6 +4864,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-30T07:02:57.332Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-30T10:18:54.231Z</sub>
 
 </div>

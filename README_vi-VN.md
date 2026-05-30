@@ -361,3030 +361,3030 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
-### Mega Crocodile vs Carnivorous Flower Pit
+### Siêu cá sấu đối đầu Hố hoa ăn thịt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A terrifying jungle creature feature prompt featuring a giant crocodile falling into a pit of predatory carnivorous plants.
+> Một gợi ý (prompt) về sinh vật rừng rậm kinh dị, mô tả cảnh một con cá sấu khổng lồ rơi xuống hố đầy những loài thực vật ăn thịt.
 
 #### 📝 Prompt
 
 ```
-Nightmare creature island. Dense prehistoric jungle. Giant ferns, twisted roots, thick humidity, insects screaming in the background. Sunlight barely reaches the ground. Hyper-real creature-feature action. Chaotic handheld cinematography, aggressive speed ramps, crash zooms, whip pans, low-angle tracking shots. Sound: crocodile roars, breaking trees, snapping plant jaws, frantic breathing.
+Hòn đảo sinh vật ác mộng. Rừng rậm tiền sử rậm rạp. Những cây dương xỉ khổng lồ, rễ cây xoắn xuýt, độ ẩm cao, tiếng côn trùng gào thét trong nền. Ánh sáng mặt trời khó lòng chạm tới mặt đất. Hành động phim quái vật siêu thực. Kỹ thuật quay phim cầm tay hỗn loạn, tăng tốc độ đột ngột, zoom cận cảnh, lia máy nhanh, góc quay thấp bám đuổi. Âm thanh: tiếng cá sấu gầm, tiếng cây cối gãy đổ, tiếng hàm cây cối đớp mồi, tiếng thở gấp gáp.
 
 ⸻
 
-0–2s — HOOK
+0–2 giây — MỞ ĐẦU (HOOK)
 
-Low-angle handheld tracking shot.
+Góc quay thấp cầm tay bám đuổi.
 
-A survivor is already sprinting through dense jungle.
+Một người sống sót đang chạy thục mạng xuyên qua khu rừng rậm rạp.
 
-Branches whip across frame.
+Cành cây quất vào khung hình.
 
-Behind him—
+Phía sau anh ta—
 
-A gigantic mega crocodile explodes through the vegetation.
+Một con siêu cá sấu khổng lồ lao ra từ bụi rậm.
 
-Forty feet long.
+Dài hơn 12 mét.
 
-Ancient scars covering its body.
+Những vết sẹo cổ xưa bao phủ khắp cơ thể.
 
-Trees snap in half as it charges.
+Cây cối gãy đôi khi nó lao tới.
 
-Its jaws slam shut inches behind him.
-
-⸻
-
-2–5s — ESCALATION
-
-Side tracking shot.
-
-The survivor jumps over roots and fallen logs.
-
-The crocodile ignores obstacles completely.
-
-It bulldozes through everything.
-
-Entire bushes and small trees are launched into the air.
-
-The gap between them shrinks rapidly.
-
-The survivor looks ahead—
-
-A strange clearing.
+Bộ hàm của nó đập mạnh chỉ cách anh ta vài centimet.
 
 ⸻
 
-5–8s — FALSE SAFETY
+2–5 giây — LEO THANG
 
-Wide shot.
+Góc quay ngang bám đuổi.
 
-The survivor bursts into a beautiful field of enormous flowers.
+Người sống sót nhảy qua rễ cây và những khúc gỗ đổ.
 
-Bright colors.
+Con cá sấu hoàn toàn phớt lờ mọi chướng ngại vật.
 
-Huge petals.
+Nó ủi bay mọi thứ trên đường đi.
 
-Completely peaceful.
+Toàn bộ bụi rậm và cây nhỏ bị hất tung lên không trung.
 
-He doesn’t stop.
+Khoảng cách giữa họ thu hẹp nhanh chóng.
 
-Runs straight through.
+Người sống sót nhìn về phía trước—
 
-The crocodile follows at full speed.
-
-Then—
-
-The ground beneath the crocodile cracks.
+Một khoảng trống kỳ lạ.
 
 ⸻
 
-8–11s — REVEAL
+5–8 giây — AN TOÀN GIẢ TẠO
 
-Crash zoom downward.
+Góc quay rộng.
 
-The entire flower field collapses.
+Người sống sót lao vào một cánh đồng hoa khổng lồ tuyệt đẹp.
 
-Hidden beneath it—
+Màu sắc rực rỡ.
 
-A gigantic biological pit.
+Những cánh hoa to lớn.
 
-Hundreds of flower stalks erupt upward.
+Hoàn toàn yên bình.
 
-But these aren’t flowers.
+Anh ta không dừng lại.
 
-Each bloom opens into a circular mouth lined with jagged teeth.
+Chạy thẳng xuyên qua.
 
-The crocodile falls directly into the center.
+Con cá sấu đuổi theo với tốc độ tối đa.
 
-⸻
+Sau đó—
 
-11–13s — CHAOS
-
-The flower creatures attack immediately.
-
-Dozens latch onto the crocodile.
-
-The beast thrashes violently.
-
-Flower heads are ripped apart.
-
-Others immediately replace them.
-
-The entire pit becomes a feeding frenzy.
-
-Petals.
-
-Teeth.
-
-Mud.
-
-Blood-red pollen exploding everywhere.
+Mặt đất dưới chân con cá sấu nứt toác.
 
 ⸻
 
-13–15s — SHOCKING PAYOFF
+8–11 giây — TIẾT LỘ
 
-The ground shakes.
+Zoom cận cảnh xuống dưới.
 
-A colossal flower rises from the center of the pit.
+Toàn bộ cánh đồng hoa sụp đổ.
 
-Its bloom is larger than a truck.
+Ẩn giấu bên dưới—
 
-It wraps around the struggling crocodile.
+Một cái hố sinh học khổng lồ.
 
-Then violently launches it into the air.
+Hàng trăm thân hoa vươn lên.
 
-The giant flower opens fully—
+Nhưng đây không phải là hoa.
 
-Catches the airborne crocodile whole—
+Mỗi bông hoa mở ra thành một cái miệng tròn với những chiếc răng lởm chởm.
 
-And swallows it in a single motion.
+Con cá sấu rơi thẳng vào trung tâm.
 
-The survivor stares in disbelief.
+⸻
 
-Then the giant flower slowly turns toward him.
+11–13 giây — HỖN LOẠN
 
-Its mouth begins opening again.
+Những sinh vật hoa tấn công ngay lập tức.
 
-Hard cut to black.
+Hàng chục bông hoa bám chặt lấy con cá sấu.
+
+Con quái vật vùng vẫy dữ dội.
+
+Những bông hoa bị xé toạc.
+
+Những bông khác ngay lập tức thay thế vị trí.
+
+Toàn bộ cái hố trở thành một bữa tiệc săn mồi điên cuồng.
+
+Cánh hoa.
+
+Răng.
+
+Bùn đất.
+
+Phấn hoa đỏ như máu bắn tung tóe khắp nơi.
+
+⸻
+
+13–15 giây — CÚ SỐC CUỐI CÙNG
+
+Mặt đất rung chuyển.
+
+Một bông hoa khổng lồ trồi lên từ trung tâm cái hố.
+
+Bông hoa của nó còn lớn hơn cả một chiếc xe tải.
+
+Nó quấn lấy con cá sấu đang giãy giụa.
+
+Sau đó hất văng nó lên không trung một cách bạo lực.
+
+Bông hoa khổng lồ mở to hết cỡ—
+
+Đớp trọn con cá sấu đang bay trên không—
+
+Và nuốt chửng nó chỉ trong một cú đớp.
+
+Người sống sót đứng sững sờ trong sự hoài nghi.
+
+Sau đó, bông hoa khổng lồ từ từ quay về phía anh ta.
+
+Cái miệng của nó bắt đầu mở ra lần nữa.
+
+Cắt cảnh đột ngột sang màu đen.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/944b873cdbe26e5c1e2536607831457b/thumbnails/thumbnail.jpg" width="600" alt="Mega Crocodile vs Carnivorous Flower Pit">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/944b873cdbe26e5c1e2536607831457b/thumbnails/thumbnail.jpg" width="600" alt="Siêu cá sấu đối đầu Hố hoa ăn thịt">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5437)**
 
 **Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060509418903716012) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Parasite Lake and Mutated Crocodile Horror Sequence
+### Hồ Ký Sinh và Phân cảnh Kinh dị Cá sấu Đột biến
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A terrifying creature-feature video prompt featuring a survivor fleeing a forty-foot crocodile that undergoes a horrific mutation caused by glowing parasites.
+> Một gợi ý video thể loại sinh vật kinh dị, mô tả cảnh một người sống sót đang chạy trốn khỏi con cá sấu dài 12 mét bị đột biến khủng khiếp do các ký sinh trùng phát sáng.
 
 #### 📝 Prompt
 
 ```
-Nightmare jungle island. Black water lake surrounded by twisted mangrove roots, giant ferns, strange glowing plants, thick fog hanging over the water. The island feels biologically wrong. Hyper-real creature-feature action. Chaotic handheld cinematography, aggressive speed ramps, crash zooms, rapid cut-tos. Sound: splashing water, crocodile roars, parasite screeches, frantic breathing. Multiple shots. Like a movie scene. 
+Hòn đảo rừng rậm ác mộng. Hồ nước đen bao quanh bởi những rễ cây đước xoắn xuýt, dương xỉ khổng lồ, các loài thực vật phát sáng kỳ lạ, sương mù dày đặc bao phủ mặt nước. Hòn đảo mang lại cảm giác sai lệch về mặt sinh học. Hành động thể loại sinh vật siêu thực. Quay phim cầm tay hỗn loạn, tăng tốc độ mạnh, zoom cận cảnh đột ngột, cắt cảnh nhanh. Âm thanh: tiếng nước bắn, tiếng cá sấu gầm, tiếng ký sinh trùng rít, tiếng thở dồn dập. Nhiều góc quay. Giống như một cảnh trong phim.
 
 ⸻
 
-0–2s — HOOK
+0–2 giây — MỞ ĐẦU (HOOK)
 
-Handheld chase shot.
+Góc quay cầm tay cảnh truy đuổi.
 
-A survivor is already sprinting along the muddy shoreline.
+Một người sống sót đang chạy nước rút dọc theo bờ bùn.
 
-Behind him—
+Phía sau anh ta—
 
-A gigantic crocodile bursts through shallow water.
+Một con cá sấu khổng lồ lao lên từ vùng nước nông.
 
-Forty feet long.
+Dài 12 mét.
 
-Ancient scars.
+Những vết sẹo cổ xưa.
 
-Massive jaws snapping shut inches behind him.
+Bộ hàm khổng lồ đớp mạnh chỉ cách anh ta vài inch.
 
-Mud and water explode everywhere.
-
-⸻
-
-2–5s — ESCALATION
-
-The survivor reaches the lake edge.
-
-No options left.
-
-The crocodile lunges.
-
-At the last second—
-
-He dives into the water.
-
-Cut underwater.
-
-The crocodile crashes into the lake behind him.
-
-A massive wall of bubbles and mud fills the frame.
+Bùn và nước bắn tung tóe khắp nơi.
 
 ⸻
 
-5–8s — FALSE SAFETY
+2–5 giây — LEO THANG
 
-Underwater tracking shot.
+Người sống sót chạy đến mép hồ.
 
-The survivor swims deeper.
+Không còn lựa chọn nào khác.
 
-Looks behind.
+Con cá sấu lao tới.
 
-The crocodile is still searching.
+Vào giây cuối cùng—
 
-Then something changes.
+Anh ta lao xuống nước.
 
-Small glowing worm-like creatures emerge from the darkness.
+Cắt cảnh dưới nước.
 
-Hundreds of them with large jagged teeth
+Con cá sấu lao vào hồ ngay phía sau anh ta.
 
-Moving unnaturally fast.
-
-⸻
-
-8–11s — REVEAL
-
-The parasites attach themselves to the crocodile.
-
-One.
-
-Ten.
-
-Fifty.
-
-Hundreds.
-
-The crocodile thrashes violently.
-
-Its body starts mutating almost immediately.
-
-Extra limbs push through its sides.
-
-Additional jaws emerge from its neck.
-
-New eyes open beneath its scales.
-
-The water turns chaotic.
+Một bức tường bong bóng và bùn khổng lồ lấp đầy khung hình.
 
 ⸻
 
-11–13s — CHAOS
+5–8 giây — AN TOÀN GIẢ TẠO
 
-The survivor surfaces and pulls himself onto shore.
+Góc quay theo dõi dưới nước.
 
-Gasping for air.
+Người sống sót bơi sâu hơn.
 
-Relieved.
+Nhìn lại phía sau.
 
-Then the lake erupts.
+Con cá sấu vẫn đang tìm kiếm.
 
-The mutated crocodile explodes upward.
+Sau đó, có điều gì đó thay đổi.
 
-Twice as large.
+Những sinh vật nhỏ giống như giun phát sáng xuất hiện từ bóng tối.
 
-Covered in glowing parasites.
+Hàng trăm con với những chiếc răng sắc nhọn.
 
-Multiple jaws opening independently.
+Di chuyển nhanh một cách bất thường.
 
 ⸻
 
-13–15s — SHOCKING PAYOFF
+8–11 giây — TIẾT LỘ
 
-The creature roars.
+Các ký sinh trùng bám vào con cá sấu.
 
-Then one of the extra jaws tears open.
+Một con.
 
-Inside—
+Mười con.
 
-Another fully formed crocodile head begins pushing outward.
+Năm mươi con.
 
-Growing from inside the first.
+Hàng trăm con.
 
-The survivor stares in disbelief.
+Con cá sấu quẫy đạp dữ dội.
 
-The second head opens its eyes.
+Cơ thể nó bắt đầu đột biến gần như ngay lập tức.
 
-Hard cut to black.
+Các chi phụ mọc ra từ hai bên sườn.
+
+Thêm những bộ hàm xuất hiện từ cổ.
+
+Những con mắt mới mở ra dưới lớp vảy.
+
+Mặt nước trở nên hỗn loạn.
+
+⸻
+
+11–13 giây — HỖN LOẠN
+
+Người sống sót trồi lên mặt nước và kéo mình lên bờ.
+
+Thở hổn hển.
+
+Nhẹ nhõm.
+
+Sau đó, mặt hồ bùng nổ.
+
+Con cá sấu đột biến lao vọt lên.
+
+Kích thước lớn gấp đôi.
+
+Bao phủ bởi các ký sinh trùng phát sáng.
+
+Nhiều bộ hàm mở ra độc lập.
+
+⸻
+
+13–15 giây — CÚ SỐC CUỐI CÙNG
+
+Sinh vật gầm lên.
+
+Sau đó, một trong những bộ hàm phụ xé toạc ra.
+
+Bên trong—
+
+Một cái đầu cá sấu khác đã hình thành đầy đủ bắt đầu đẩy ra ngoài.
+
+Mọc lên từ bên trong con đầu tiên.
+
+Người sống sót nhìn trong sự hoảng loạn tột độ.
+
+Cái đầu thứ hai mở mắt.
+
+Cắt đột ngột sang màu đen.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060499124030713856/img/j_Hg9QsHetZjRXW6.jpg" width="600" alt="Parasite Lake and Mutated Crocodile Horror Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/deb9f35702d4d63089ec47f0c10e1c9d/thumbnails/thumbnail.jpg" width="600" alt="Hồ Ký Sinh và Phân cảnh Kinh dị Cá sấu Đột biến">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5454)**
 
 **Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060499189478642005) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Sled Dog Mutation Body Horror Sequence
+### Phân cảnh kinh dị biến đổi cơ thể của chó kéo xe
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A terrifying body horror scene inspired by 'The Thing', depicting a frightened sled dog undergoing a violent biological transformation in an Antarctic outpost.
+> Một phân cảnh kinh dị về biến đổi cơ thể đầy ám ảnh lấy cảm hứng từ 'The Thing', mô tả một chú chó kéo xe đang hoảng sợ trải qua quá trình biến đổi sinh học bạo liệt tại một trạm tiền tiêu ở Nam Cực.
 
 #### 📝 Prompt
 
 ```
-Remote Antarctic outpost at night. Snowstorm outside. Dim yellow lighting inside a kennel room. Metal cages. Frost-covered windows. High-tension body horror with escalating dread and explosive transformation. Slow unease that detonates into chaos. Sound: wind, dog breathing, distant generator hum.
+Trạm tiền tiêu hẻo lánh tại Nam Cực vào ban đêm. Bão tuyết bên ngoài. Ánh đèn vàng mờ ảo bên trong khu vực chuồng chó. Những chiếc lồng kim loại. Cửa sổ phủ đầy sương giá. Phân cảnh kinh dị với sự căng thẳng tột độ, nỗi sợ hãi leo thang và màn biến đổi bùng nổ. Sự bất an chậm rãi bùng phát thành hỗn loạn. Âm thanh: tiếng gió rít, tiếng chó thở, tiếng máy phát điện rì rầm từ xa.
 
 ⸻
 
-0–2s — HOOK
+0–2 giây — MỞ ĐẦU
 
-Wide shot.
+Cảnh quay toàn.
 
-A frightened sled dog bursts into a research statio
+Một chú chó kéo xe hoảng loạn lao vào trạm nghiên cứu.
 
-Snow covering its fur.
+Tuyết phủ kín bộ lông.
 
-Researchers quickly shut the door behind it.
+Các nhà nghiên cứu nhanh chóng đóng cửa lại phía sau nó.
 
-Outside, the blizzard rages.
+Bên ngoài, trận bão tuyết đang gào thét.
 
-The dog looks terrified.
-
-⸻
-
-2–4s— UNEASE
-
-Close-up.
-
-The dog sits quietly.
-
-Panting.
-
-Researchers watch the dog bark sing a them
-
-One scientist smiles.
-
-“Poor thing.”
-
-Everything seems normal.
-
-Too normal.
+Chú chó trông đầy sợ hãi.
 
 ⸻
 
-4-6s — THE WRONGNESS
+2–4 giây — BẤT AN
 
-The dog suddenly stops panting.
+Cảnh quay cận.
 
-Its chest expands.
+Chú chó ngồi im lặng.
 
-Then expands more.
+Thở hổn hển.
 
-Then keeps expanding.
+Các nhà nghiên cứu quan sát chú chó.
 
-Far beyond what should be possible.
+Một nhà khoa học mỉm cười.
 
-The room goes silent.
+“Tội nghiệp quá.”
 
-Nobody understands what they’re seeing.
+Mọi thứ có vẻ bình thường.
 
-⸻
-
-6-9s — REVEAL
-
-Crash zoom.
-
-The dog’s ribcage begins opening.
-
-Slowly.
-
-Like flower petals.
-
-Skin stretches.
-
-Bones separate.
-
-Inside—
-
-Dozens of blinking eyes.
-
-All looking in different directions.
-
-Watching everyone.
+Quá đỗi bình thường.
 
 ⸻
 
-9-12s — CHAOS
+4-6 giây — ĐIỀM BÁO
 
-The dog stands.
+Chú chó đột ngột ngừng thở hổn hển.
 
-Or what used to be a dog.
+Lồng ngực nó phồng lên.
 
-Tentacles emerge.
+Rồi lại phồng lên nữa.
 
-Additional limbs unfold from its body.
+Tiếp tục phồng to hơn.
 
-The kennel erupts into panic.
+Vượt xa mức bình thường.
 
-Scientists back away.
+Căn phòng trở nên im phăng phắc.
 
-One drops a flamethrower.
+Không ai hiểu nổi những gì họ đang chứng kiến.
 
 ⸻
 
-12-15s — PAYOFF
+6-9 giây — TIẾT LỘ
 
-The creature lunges across the kennel.
+Cú zoom nhanh vào chủ thể.
 
-Cages explode apart.
+Lồng ngực của chú chó bắt đầu mở ra.
 
-Metal bends.
+Chậm rãi.
 
-People scream.
+Như những cánh hoa.
 
-Bullet-time moment.
+Da thịt căng ra.
 
-Eyes opening everywhere.
+Xương cốt tách rời.
 
-Tentacles extending.
+Bên trong—
 
-The flamethrower ignites.
+Hàng chục con mắt đang chớp nháy.
 
-Fire fills frame.
+Tất cả nhìn về các hướng khác nhau.
 
-The creature screams.
+Đang quan sát tất cả mọi người.
+
+⸻
+
+9-12 giây — HỖN LOẠN
+
+Chú chó đứng dậy.
+
+Hoặc thứ gì đó từng là một chú chó.
+
+Những xúc tu trồi ra.
+
+Các chi phụ bung ra từ cơ thể nó.
+
+Khu vực chuồng chó rơi vào cảnh hỗn loạn.
+
+Các nhà khoa học lùi lại.
+
+Một người đánh rơi súng phun lửa.
+
+⸻
+
+12-15 giây — CAO TRÀO
+
+Sinh vật lao qua khu vực chuồng chó.
+
+Những chiếc lồng vỡ vụn.
+
+Kim loại uốn cong.
+
+Mọi người la hét.
+
+Khoảnh khắc quay chậm (bullet-time).
+
+Đôi mắt mở ra ở khắp mọi nơi.
+
+Những xúc tu vươn dài.
+
+Súng phun lửa khai hỏa.
+
+Lửa bao trùm khung hình.
+
+Sinh vật gào thét.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060496113569071104/img/qmQEocDuIi_zj2oa.jpg" width="600" alt="Sled Dog Mutation Body Horror Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ad6c423b58c95f8a50b5d60b8eac30a/thumbnails/thumbnail.jpg" width="600" alt="Phân cảnh kinh dị biến đổi cơ thể của chó kéo xe">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5459)**
 
 **Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060496176521359470) | **Đã xuất bản:** May 29, 2026
 
 ---
-### FPV Airship Flight through Grand Harbor
+### Chuyến bay FPV bằng khí cầu qua Grand Harbor
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A breathtaking first-person view animation of a woman piloting a small white airship through a majestic fantasy harbor city, featuring high-speed FPV drone-style camera work and cinematic lighting.
+> Một đoạn phim hoạt hình góc nhìn thứ nhất đầy ngoạn mục về một người phụ nữ lái chiếc khí cầu nhỏ màu trắng xuyên qua một thành phố cảng giả tưởng hùng vĩ, với kỹ thuật quay phim kiểu drone FPV tốc độ cao và ánh sáng đậm chất điện ảnh.
 
 #### 📝 Prompt
 
 ```
-An ultra-beautiful professional anime video in first-person perspective of a woman piloting a one-person white airship. Red lines and arrows must not appear in the final video. Set in the majestic harbor city from the reference image, based in white and gold, the camera flies faithfully at ultra-high speed along the route indicated by red arrows, like an FPV drone. The camera starts from the sea on the left side of the screen, racing low across the surface of the blue harbor. Navigating between yachts, piers, white ships, and harbor architecture, it crosses the coastal city at high speed from left to center. It then accelerates toward the giant cathedral in the center, approaching closely as if skimming over the buildings. Just before passing the cathedral front, the camera surges upward along the main tower. Rising sharply with the power of looking up at the spire from directly below, it transitions into a grand overhead view of the entire city, harbor, and distant mountains. After crossing the top of the tower, the camera banks heavily to the right and orbits. Keeping the cathedral tower in the center of the screen, it circles dynamically clockwise, showing the white palace-like streets, blue sea, bridges, port facilities, and distant mountains in a flowing manner. Afterward, the camera passes over the city on the right at high speed and gently descends along the trajectory of the red line. It glides low over canal roads, squares, piers, and buildings with gold decorations, flying through toward the large glass-roofed building and port-side street in the right foreground. The video is cinematic, ultra-high definition, with smooth camera work, a strong sense of speed, natural motion blur, realistic atmosphere, water reflections, sunlight, three-dimensional clouds, and emphasizes the scale of a grand fantasy harbor city. Do not display any red guide lines, arrows, hand-drawn marks, annotations, or text.
+Một video anime chuyên nghiệp cực đẹp ở góc nhìn thứ nhất về một người phụ nữ đang lái chiếc khí cầu màu trắng dành cho một người. Các đường kẻ và mũi tên màu đỏ tuyệt đối không được xuất hiện trong video cuối cùng. Lấy bối cảnh thành phố cảng hùng vĩ từ hình ảnh tham chiếu, với tông màu trắng và vàng chủ đạo, camera bay chân thực ở tốc độ cực cao dọc theo lộ trình được chỉ định bởi các mũi tên màu đỏ, giống như một chiếc drone FPV. Camera bắt đầu từ mặt biển ở phía bên trái màn hình, lướt nhanh sát mặt nước của bến cảng xanh biếc. Điều hướng giữa các du thuyền, cầu tàu, tàu trắng và kiến trúc cảng, camera băng qua thành phố ven biển ở tốc độ cao từ trái sang trung tâm. Sau đó, nó tăng tốc về phía nhà thờ lớn ở trung tâm, tiếp cận sát sao như thể đang lướt trên các tòa nhà. Ngay trước khi vượt qua mặt tiền nhà thờ, camera vút lên cao dọc theo tòa tháp chính. Vươn lên mạnh mẽ với cảm giác nhìn lên đỉnh tháp từ ngay bên dưới, cảnh quay chuyển sang góc nhìn toàn cảnh từ trên cao bao quát toàn bộ thành phố, bến cảng và những ngọn núi xa xôi. Sau khi vượt qua đỉnh tháp, camera nghiêng mạnh sang phải và bay vòng quanh. Giữ tòa tháp nhà thờ ở trung tâm màn hình, camera xoay vòng theo chiều kim đồng hồ một cách năng động, hiển thị các con phố giống như cung điện màu trắng, biển xanh, cầu, cơ sở hạ tầng cảng và những ngọn núi xa xôi một cách mượt mà. Sau đó, camera bay qua thành phố ở phía bên phải với tốc độ cao và hạ thấp dần theo quỹ đạo của đường kẻ màu đỏ. Nó lướt thấp trên các con đường kênh đào, quảng trường, cầu tàu và các tòa nhà với những chi tiết trang trí bằng vàng, bay xuyên qua hướng tới tòa nhà mái kính lớn và con phố ven cảng ở phía trước bên phải. Video mang phong cách điện ảnh, độ phân giải cực cao, với kỹ thuật quay phim mượt mà, cảm giác tốc độ mạnh mẽ, hiệu ứng nhòe chuyển động tự nhiên, bầu không khí chân thực, hình ảnh phản chiếu trên mặt nước, ánh sáng mặt trời, những đám mây ba chiều và làm nổi bật quy mô của một thành phố cảng giả tưởng hùng vĩ. Không hiển thị bất kỳ đường hướng dẫn màu đỏ, mũi tên, dấu vẽ tay, chú thích hoặc văn bản nào.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060428594497896449/img/s6hkHrX4qBXQrxyD.jpg" width="600" alt="FPV Airship Flight through Grand Harbor">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d97f804ece714c9bc4a5729e9dbab573/thumbnails/thumbnail.jpg" width="600" alt="Chuyến bay FPV bằng khí cầu qua Grand Harbor">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5470)**
 
 **Tác giả:** [妖精アーヤさん](https://x.com/aiehon_aya) | **Nguồn:** [Link](https://x.com/aiehon_aya/status/2060481313145262213) | **Đã xuất bản:** May 29, 2026
 
 ---
-### 90s Disney Style Anubis Animation
+### Hoạt hình Anubis phong cách Disney thập niên 90
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed multi-scene prompt for Seedance 2.0 creating a 90s Disney style animation where the god Anubis is defeated by tickling.
+> Một câu lệnh (prompt) chi tiết gồm nhiều cảnh dành cho Seedance 2.0, tạo ra hoạt hình phong cách Disney thập niên 90, trong đó vị thần Anubis bị đánh bại bằng cách cù lét.
 
 #### 📝 Prompt
 
 ```
-Classic 90s Disney animation style. Scene 1 [0-3 seconds]: In front of a palace in the desert, the powerful jackal god Anubis is performing magic. He raises his arms slightly, lightning magic gathering in his clawed palms, and says in his majestic voice: 'Humans, you will pay for your arrogance!' Lightning flashes near him several times. In front of him, three humans (two men and one woman) look at him nervously, wanting to stop the evil Anubis but not knowing how. Scene 2 [4-6 seconds]: A close-up of Anubis's face. Anubis threatens with an evil smile: 'You are finished.' Then he lets out an evil laugh. He continues to laugh evilly, then closes his eyes, and the laughter turns into a ticklish laugh, indicating he is very ticklish and something is scratching him. Scene 3 [7-9 seconds]: The camera slowly pulls back to show the woman standing next to Anubis, gently moving a feather up and down under Anubis's armpit and repeating the action. Anubis closes his eyes, grins broadly, raises his arms to reveal his armpits, and giggles. Scene 4 [10-12 seconds]: The woman continues to move the feather up and down under Anubis's armpits, and Anubis continues to giggle. Meanwhile, the light magic gradually fades, leaving only the sun. Anubis laughs and laughs, unable to focus on feeling the magic. Anubis laughs so hard he falls to one knee, one arm raised high to reveal his armpit, letting the feather tickle him, while the other empty hand pounds the ground, laughing continuously. Scene 5 [13-14 seconds]: The woman continues to tickle Anubis's armpit with the feather, and Anubis continues to laugh heartily, shouting in a giggling voice: 'Stop torturing me! Don't do this!' then continues to giggle. The two men watch this scene, relieved that they stopped the evil Anubis. Anubis is muscular, with rings on his arms and neck. He is shirtless. His voice is deep and magnetic, yet full of power. His hands are claws. Audio in English.
+Phong cách hoạt hình Disney cổ điển thập niên 90. Cảnh 1 [0-3 giây]: Trước một cung điện trên sa mạc, vị thần chó rừng quyền năng Anubis đang thi triển phép thuật. Ông giơ nhẹ đôi tay, ma thuật sấm sét tụ lại trong lòng bàn tay đầy móng vuốt và cất giọng uy nghiêm: 'Con người, các ngươi sẽ phải trả giá cho sự kiêu ngạo của mình!' Sét lóe lên gần ông vài lần. Trước mặt ông, ba con người (hai nam, một nữ) nhìn ông đầy lo lắng, muốn ngăn chặn Anubis độc ác nhưng không biết làm cách nào. Cảnh 2 [4-6 giây]: Cận cảnh khuôn mặt của Anubis. Anubis đe dọa với nụ cười nham hiểm: 'Các ngươi xong đời rồi.' Sau đó, ông bật cười đầy ác ý. Ông tiếp tục cười lớn, rồi nhắm mắt lại, tiếng cười chuyển thành tiếng cười nhột, cho thấy ông rất sợ nhột và có thứ gì đó đang làm ông ngứa ngáy. Cảnh 3 [7-9 giây]: Máy quay từ từ lùi lại để lộ người phụ nữ đang đứng cạnh Anubis, nhẹ nhàng di chuyển một chiếc lông vũ lên xuống dưới nách Anubis và lặp lại hành động đó. Anubis nhắm mắt, cười toe toét, giơ tay lên để lộ nách và khúc khích cười. Cảnh 4 [10-12 giây]: Người phụ nữ tiếp tục di chuyển chiếc lông vũ lên xuống dưới nách Anubis, và Anubis tiếp tục khúc khích cười. Trong khi đó, ma thuật ánh sáng dần tan biến, chỉ còn lại ánh mặt trời. Anubis cười ngặt nghẽo, không thể tập trung vào việc thi triển phép thuật. Anubis cười lớn đến mức quỵ một đầu gối xuống, một tay giơ cao để lộ nách cho chiếc lông vũ cù lét, trong khi tay kia đập xuống đất, cười không ngừng nghỉ. Cảnh 5 [13-14 giây]: Người phụ nữ tiếp tục cù vào nách Anubis bằng chiếc lông vũ, và Anubis tiếp tục cười sảng khoái, hét lên bằng giọng cười khúc khích: 'Dừng tra tấn ta lại! Đừng làm thế này!' rồi tiếp tục cười ngặt nghẽo. Hai người đàn ông chứng kiến cảnh tượng này, nhẹ nhõm vì đã ngăn chặn được Anubis độc ác. Anubis có cơ bắp cuồn cuộn, đeo vòng trên cánh tay và cổ. Ông để ngực trần. Giọng nói của ông trầm ấm, đầy uy quyền. Đôi bàn tay ông là những móng vuốt. Âm thanh bằng tiếng Anh.
 ```
 
-<img src="https://pbs.twimg.com/media/HJhF1qkWEAMznW5.jpg" width="600" alt="90s Disney Style Anubis Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/568a61242d6b4b234c8717ebc3a00f23/thumbnails/thumbnail.jpg" width="600" alt="Hoạt hình Anubis phong cách Disney thập niên 90">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5464)**
 
 **Tác giả:** [migrok](https://x.com/migrok293703) | **Nguồn:** [Link](https://x.com/migrok293703/status/2060473171812511979) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Brutalist Architecture Rotring Product Commercial
+### Quảng cáo sản phẩm Rotring theo phong cách kiến trúc Brutalist
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A sophisticated brutalist-themed commercial for a Rotring pencil, featuring architectural visualization, massive concrete structures, and realistic lighting.
+> Một video quảng cáo tinh tế theo chủ đề kiến trúc Brutalist cho bút chì Rotring, kết hợp hình ảnh trực quan kiến trúc, các cấu trúc bê tông đồ sộ và hiệu ứng ánh sáng chân thực.
 
 #### 📝 Prompt
 
 ```
-Use the attached image for the pencil reference.
+Sử dụng hình ảnh đính kèm làm tài liệu tham khảo cho bút chì.
 
-Style: Brutalist architecture, luxury product commercial, architectural visualization, ultra-realistic cinematography, raw concrete, exposed rebar, monumental scale, Porsche Design precision, Apple-level minimalism, cinematic lighting, volumetric dust, photoreal VFX.
+Phong cách: Kiến trúc Brutalist, quảng cáo sản phẩm cao cấp, hình ảnh trực quan kiến trúc, kỹ thuật quay phim siêu thực, bê tông thô, cốt thép lộ thiên, quy mô hoành tráng, độ chính xác kiểu Porsche Design, chủ nghĩa tối giản đẳng cấp Apple, ánh sáng điện ảnh, bụi thể tích, hiệu ứng hình ảnh (VFX) chân thực.
 
 0:00–0:03
 
-Pure black. A single red line appears in darkness. The line glows softly. The camera follows it. As it moves forward, enormous concrete walls begin rising from the ground. Massive slabs. Raw geometry. Monolithic forms. The line is literally building architecture.
+Đen thuần khiết. Một đường kẻ đỏ duy nhất xuất hiện trong bóng tối. Đường kẻ phát sáng nhẹ nhàng. Máy quay dõi theo nó. Khi đường kẻ di chuyển về phía trước, những bức tường bê tông khổng lồ bắt đầu trồi lên từ mặt đất. Những phiến đá đồ sộ. Hình khối thô sơ. Những hình thái nguyên khối. Đường kẻ đó thực sự đang xây dựng nên kiến trúc.
 
-SFX: Deep architectural bass, concrete resonance, heavy structural impacts, distant industrial ambience.
+SFX: Âm trầm kiến trúc sâu lắng, tiếng vang của bê tông, những tác động cấu trúc mạnh mẽ, âm thanh công nghiệp từ xa.
 
-VOICEOVER: "Every structure begins with a line."
+LỜI BÌNH: "Mọi cấu trúc đều bắt đầu từ một đường kẻ."
 
 0:03–0:06
 
-The camera accelerates through a sprawling brutalist megacity. Towering concrete masses. Suspended walkways. Exposed steel reinforcement. Gigantic voids and shadows. The red line snakes through the city like an artery. Unnoticed by the viewer, the city's geometry subtly mirrors the proportions of a Rotring.
+Máy quay tăng tốc xuyên qua một siêu đô thị Brutalist rộng lớn. Những khối bê tông cao chót vót. Những lối đi treo lơ lửng. Cốt thép lộ thiên. Những khoảng trống và bóng tối khổng lồ. Đường kẻ đỏ uốn lượn qua thành phố như một mạch máu. Người xem không nhận ra rằng hình học của thành phố phản chiếu một cách tinh tế các tỷ lệ của một chiếc bút Rotring.
 
-MUSIC: Minimal industrial pulse, mechanical rhythm, slow cinematic build.
+ÂM NHẠC: Nhịp điệu công nghiệp tối giản, nhịp điệu cơ khí, sự phát triển điện ảnh chậm rãi.
 
-VOICEOVER: "A line becomes a wall." "A wall becomes a city."
+LỜI BÌNH: "Một đường kẻ trở thành một bức tường." "Một bức tường trở thành một thành phố."
 
 0:06–0:10
 
-The camera rises thousands of feet above the metropolis. The full scale is revealed. A breathtaking brutalist world stretching to the horizon. Then the impossible happens. The entire city begins lifting from the ground. Buildings detach. Bridges separate. Concrete fragments float upward. The audience realizes the city was never a city. It was a product.
+Máy quay bay lên hàng ngàn feet phía trên đô thị. Quy mô đầy đủ được hé lộ. Một thế giới Brutalist ngoạn mục trải dài đến tận chân trời. Sau đó, điều không tưởng xảy ra. Toàn bộ thành phố bắt đầu nhấc bổng khỏi mặt đất. Các tòa nhà tách rời. Những cây cầu tách biệt. Các mảnh bê tông bay ngược lên trên. Khán giả nhận ra thành phố chưa bao giờ là một thành phố. Đó là một sản phẩm.
 
-SFX: Structural groans, concrete fractures, low-frequency shockwaves, massive whooshes.
+SFX: Tiếng rên rỉ của cấu trúc, tiếng bê tông nứt vỡ, sóng xung kích tần số thấp, những tiếng rít lớn.
 
 0:10–0:13
 
-Millions of concrete particles and rusted steel elements spiral inward. Everything converges. The megastructure collapses into a single object. Your brutalist Rotring emerges. Raw. Scarred. Unbreakable. Floating in white space.
+Hàng triệu hạt bê tông và các yếu tố thép gỉ xoáy vào trong. Mọi thứ hội tụ. Siêu cấu trúc sụp đổ thành một vật thể duy nhất. Chiếc Rotring Brutalist của bạn xuất hiện. Thô ráp. Trầy xước. Không thể phá vỡ. Lơ lửng trong không gian trắng.
 
-MUSIC: Full orchestral rise, massive cinematic hit.
+ÂM NHẠC: Nhạc giao hưởng dâng trào, cú nhấn điện ảnh mạnh mẽ.
 
-VOICEOVER: "Some tools create architecture." "This one became it."
+LỜI BÌNH: "Một số công cụ tạo ra kiến trúc." "Công cụ này đã trở thành chính nó."
 
 0:13–0:15
 
-Hero shot. The Rotring slowly rotates. Dust falls from the concrete surface. The red ring catches the light. Silence. A precise mechanical click.
+Cảnh quay chính. Chiếc Rotring xoay chậm. Bụi rơi xuống từ bề mặt bê tông. Vòng đỏ bắt sáng. Im lặng. Một tiếng click cơ khí chính xác.
 
-VOICEOVER: "Rotring." Pause. "Drawn from concrete."
+LỜI BÌNH: "Rotring." Tạm dừng. "Được vẽ từ bê tông."
 
-END FRAME
+KHUNG HÌNH KẾT THÚC
 
 ROTRING
 
-DRAWN FROM CONCRETE
+ĐƯỢC VẼ TỪ BÊ TÔNG
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060457916994371585/img/pAhza1w9gkWEHbBQ.jpg" width="600" alt="Brutalist Architecture Rotring Product Commercial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9ca8b9eaa01d49314f78334a29e93e4e/thumbnails/thumbnail.jpg" width="600" alt="Quảng cáo sản phẩm Rotring theo phong cách kiến trúc Brutalist">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5455)**
 
 **Tác giả:** [Ege](https://x.com/egeberkina) | **Nguồn:** [Link](https://x.com/egeberkina/status/2060458879369216202) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Cliffside Highway Coastal Disaster Video Prompt
+### Prompt video thảm họa ven biển trên đường cao tốc vách đá
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic and high-energy video prompt depicting a coastal disaster where a motorcycle rider races along a collapsing cliffside highway amidst a violent storm.
+> Một prompt video đậm chất điện ảnh và đầy kịch tính, mô tả cảnh thảm họa ven biển nơi một tay lái mô tô đang lao nhanh dọc theo con đường cao tốc trên vách đá đang sụp đổ giữa cơn bão dữ dội.
 
 #### 📝 Prompt
 
 ```
-Hyperrealistic cinematic coastal disaster, ocean cliff highway, violent atmospheric storm surge, road erosion physics, continuous high-speed motion, ground-level chase perspective behind motorcycle rider (no visible hands emphasis), wind pressure, collapsing asphalt, hard cuts only, no fade, no dissolve, no morph transition
+Thảm họa ven biển điện ảnh siêu thực, đường cao tốc trên vách đá sát đại dương, bão lớn dữ dội, vật lý xói mòn mặt đường, chuyển động tốc độ cao liên tục, góc nhìn đuổi theo ngang tầm mặt đất phía sau tay lái mô tô (nhấn mạnh không thấy tay người lái), áp suất gió, nhựa đường sụp đổ, chỉ sử dụng cắt cảnh cứng (hard cuts), không làm mờ, không hòa tan, không chuyển cảnh biến hình
 
-Shot 1: Camera follows a motorcycle racing along a narrow cliffside road above violent ocean waves
-Cut to Shot 2: Cliff face begins collapsing sideways into the sea in massive chunks
-Cut to Shot 3: Road surface fractures directly under the motorcycle, forcing rapid lane shifts
-Cut to Shot 4: Ocean surge rises vertically against cliff, forming a moving wall of water
-Cut to Shot 5: FULL ACTION as entire highway segments detach and fall while motorcycle threads through collapsing gaps
-Cut to Shot 6: IMPOSSIBLE MOMENT: rider crosses a falling road slab rotating mid-air before landing back onto a narrowing strip
-Cut to Shot 7: Cliffline breaks continuously, shortening the path every second
-Cut to Shot 8: Wind and spray create near-whiteout as ocean overtakes lower cliff levels
-Cut to Shot 9: Final: road ends mid-collapse as ocean surge engulfs the frame
+Cảnh 1: Máy quay theo sau một chiếc mô tô đang lao nhanh dọc theo con đường vách đá hẹp phía trên những con sóng đại dương dữ dội
+Cắt sang Cảnh 2: Vách đá bắt đầu sụp đổ sang một bên xuống biển thành từng khối lớn
+Cắt sang Cảnh 3: Mặt đường nứt vỡ ngay dưới bánh xe mô tô, buộc người lái phải chuyển làn nhanh chóng
+Cắt sang Cảnh 4: Sóng biển dâng cao theo chiều dọc vách đá, tạo thành một bức tường nước di động
+Cắt sang Cảnh 5: HÀNH ĐỘNG TỐI ĐA khi toàn bộ các đoạn đường cao tốc tách rời và rơi xuống trong khi mô tô luồn lách qua các khe hở đang sụp đổ
+Cắt sang Cảnh 6: KHOẢNH KHẮC KHÔNG TƯỞNG: người lái băng qua một phiến đường đang rơi và xoay giữa không trung trước khi tiếp đất trở lại một dải đường đang hẹp dần
+Cắt sang Cảnh 7: Đường vách đá vỡ liên tục, khiến con đường ngắn lại mỗi giây
+Cảnh 8: Gió và bọt nước tạo ra tầm nhìn gần như trắng xóa khi đại dương tràn qua các tầng vách đá thấp hơn
+Cảnh 9: Kết thúc: con đường kết thúc giữa chừng khi đang sụp đổ và sóng biển bao trùm toàn bộ khung hình
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/794f8c6e7e0ee90df6af1941f5c87e03/thumbnails/thumbnail.jpg" width="600" alt="Cliffside Highway Coastal Disaster Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/794f8c6e7e0ee90df6af1941f5c87e03/thumbnails/thumbnail.jpg" width="600" alt="Prompt video thảm họa ven biển trên đường cao tốc vách đá">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5440)**
 
 **Tác giả:** [Alexandra Aisling](https://x.com/AllaAisling) | **Nguồn:** [Link](https://x.com/AllaAisling/status/2060448088674935036) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Mega Crocodile Swamp Spider Chase
+### Cuộc rượt đuổi của Cá sấu khổng lồ và Nhện đầm lầy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-tension creature-feature script featuring a swamp chase between a giant crocodile and camouflaged jungle spiders.
+> Một kịch bản phim kinh dị sinh vật đầy kịch tính về cuộc rượt đuổi trong đầm lầy giữa một con cá sấu khổng lồ và những con nhện rừng ngụy trang.
 
 #### 📝 Prompt
 
 ```
-Tropical nightmare island. In South East Asia   - Dense jungle, giant mangrove roots, thick fog hanging over dark swamp water. Everything feels prehistoric and hostile. Fast-paced creature-feature action. Aggressive handheld camera, rapid cut-tos, speed ramps, chaotic movement. Sound: splashing water, crocodile roars, spider chittering, breaking wood.
+Hòn đảo ác mộng nhiệt đới. Tại Đông Nam Á - Rừng rậm dày đặc, rễ cây đước khổng lồ, sương mù bao phủ mặt nước đầm lầy đen ngòm. Mọi thứ đều mang cảm giác tiền sử và đầy hiểm nguy. Hành động kịch tính nhịp độ nhanh. Camera cầm tay rung lắc, cắt cảnh liên tục, hiệu ứng tăng tốc, chuyển động hỗn loạn. Âm thanh: tiếng nước bắn tung tóe, tiếng cá sấu gầm, tiếng nhện rít, tiếng gỗ gãy.
 
 ⸻
 
-0–2s — HOOK
+0–2s — MỞ ĐẦU
 
-Low angle tracking shot.
+Góc quay thấp theo sát nhân vật.
 
-A survivor is already sprinting through waist-deep swamp water.
+Một người sống sót đang chạy nước rút qua vùng đầm lầy ngập ngang eo.
 
-Behind him—
+Phía sau anh ta—
 
-A gigantic crocodile explodes from the water.
+Một con cá sấu khổng lồ lao lên từ mặt nước.
 
-At least 40 feet long.
+Dài ít nhất 40 feet (khoảng 12 mét).
 
-Ancient scars.
+Những vết sẹo cổ xưa.
 
-Massive jaws snapping shut inches behind him.
+Bộ hàm khổng lồ đớp mạnh chỉ cách anh ta vài inch.
 
-Water erupts everywhere.
-
-⸻
-
-2–5s — ESCALATION
-
-Handheld chase shot.
-
-The survivor reaches a giant fallen tree spanning the swamp and scrambles onto it.
-
-The crocodile follows below.
-
-Crashing through roots.
-
-Biting chunks from the log.
-
-The survivor almost loses balance.
-
-The crocodile launches upward.
-
-Misses by inches.
+Nước bắn tung tóe khắp nơi.
 
 ⸻
 
-5–8s — FALSE RELIEF
+2–5s — CAO TRÀO
 
-The survivor reaches the center of the log.
+Cảnh quay rượt đuổi bằng camera cầm tay.
 
-Finally gains distance.
+Người sống sót chạy đến một thân cây lớn đổ ngang đầm lầy và leo lên đó.
 
-Breathing hard.
+Con cá sấu đuổi theo bên dưới.
 
-Then—
+Đâm sầm qua các rễ cây.
 
-The log moves.
+Cắn nát từng mảng gỗ.
 
-At first slightly.
+Người sống sót suýt mất thăng bằng.
 
-Then again.
+Con cá sấu phóng người lên trên.
 
-The survivor freezes.
-
-Looks down.
+Trượt mục tiêu trong gang tấc.
 
 ⸻
 
-8–11s — REVEAL
+5–8s — SỰ AN TOÀN GIẢ TẠO
 
-Crash zoom.
+Người sống sót chạy đến giữa thân cây.
 
-The entire fallen tree is covered with giant camouflage spiders.
+Cuối cùng cũng tạo được khoảng cách.
 
-Hundreds of them.
+Thở hổn hển.
 
-Some the size of dogs.
+Sau đó—
 
-Others much larger.
+Thân cây chuyển động.
 
-They begin emerging from cracks and bark.
+Ban đầu chỉ hơi rung nhẹ.
 
-The survivor realizes he’s standing in a nest.
+Rồi lại rung tiếp.
 
-⸻
+Người sống sót đứng sững lại.
 
-11–13s — CHAOS
-
-The spiders swarm.
-
-The survivor sprints.
-
-The crocodile charges onto the log after him.
-
-Spiders begin attacking both.
-
-Webs firing.
-
-Legs everywhere.
-
-The entire bridge becomes a three-way battle.
+Nhìn xuống dưới.
 
 ⸻
 
-13–15s — PAYOFF
+8–11s — TIẾT LỘ
 
-Wide shot.
+Zoom cận cảnh đột ngột.
 
-A giant alpha spider drops from above onto the crocodile’s back.
+Toàn bộ thân cây đổ bị bao phủ bởi những con nhện ngụy trang khổng lồ.
 
-The crocodile rolls violently into the swamp.
+Hàng trăm con.
 
-Spider and crocodile disappear into the water fighting.
+Một số con to bằng con chó.
 
-The survivor leaps off the end of the log and disappears into the jungle.
+Những con khác còn lớn hơn nhiều.
 
-Behind him—
+Chúng bắt đầu chui ra từ các khe nứt và vỏ cây.
 
-Water erupts as the monsters continue battling.
+Người sống sót nhận ra mình đang đứng trong một cái tổ.
 
-Hard cut.
+⸻
+
+11–13s — HỖN LOẠN
+
+Đàn nhện tràn ra.
+
+Người sống sót chạy nước rút.
+
+Con cá sấu lao lên thân cây đuổi theo anh ta.
+
+Nhện bắt đầu tấn công cả hai.
+
+Tơ nhện bắn ra.
+
+Chân nhện khắp nơi.
+
+Toàn bộ thân cây trở thành chiến trường ba bên.
+
+⸻
+
+13–15s — KẾT THÚC
+
+Cảnh quay toàn cảnh.
+
+Một con nhện chúa khổng lồ từ trên cao rơi xuống lưng con cá sấu.
+
+Con cá sấu quẫy đạp dữ dội xuống đầm lầy.
+
+Nhện và cá sấu biến mất dưới làn nước trong khi vẫn đang chiến đấu.
+
+Người sống sót nhảy khỏi đầu thân cây và biến mất vào rừng rậm.
+
+Phía sau anh ta—
+
+Nước bắn tung tóe khi lũ quái vật vẫn tiếp tục giao chiến.
+
+Cắt cảnh dứt khoát.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8f322adc101f65dfad710118c2310e6a/thumbnails/thumbnail.jpg" width="600" alt="Mega Crocodile Swamp Spider Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8f322adc101f65dfad710118c2310e6a/thumbnails/thumbnail.jpg" width="600" alt="Cuộc rượt đuổi của Cá sấu khổng lồ và Nhện đầm lầy">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5438)**
 
 **Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060440976561508389) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Heavenly Rivalry Xianxia Action Film Prompt
+### Gợi ý (Prompt) phim hành động Tiên hiệp: Cuộc đối đầu thiên giới
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic prompt for a high-end martial arts confrontation between two legendary Chinese figures at an ancient mountain temple.
+> Gợi ý chi tiết mang tính điện ảnh cho một màn đối đầu võ thuật đỉnh cao giữa hai nhân vật huyền thoại Trung Hoa tại một ngôi đền cổ trên núi.
 
 #### 📝 Prompt
 
 ```
-Ultra-realistic cinematic AAA Xianxia action film inspired by high-end martial arts fantasy and Black Myth Wukong combat energy. Ancient stormy mountain temple ruins above the clouds at night, rain, fog, burning incense embers drifting through the air. Erlang Shen and Sun Wukong face each other in silence before battle.
+Phim hành động Tiên hiệp AAA siêu thực, lấy cảm hứng từ võ thuật giả tưởng cao cấp và năng lượng chiến đấu của Black Myth Wukong. Bối cảnh tàn tích ngôi đền cổ trên núi cao giữa mây mù vào ban đêm, mưa, sương, những đốm lửa hương bay lơ lửng trong không trung. Nhị Lang Thần và Tôn Ngộ Không lặng lẽ đối mặt trước trận chiến.
 
-Erlang Shen [Image1] : divine Chinese god warrior, silver-black celestial armor, red waist cloth, third eye glowing faintly, wielding an enormous three-pointed double-edged spear.
-Sun Wukong [Image2] : legendary monkey king, dark golden fur details, battle-worn ornate armor, flaming phoenix-red cloth strips, holding the Ruyi Jingu Bang staff.
+Nhị Lang Thần [Image1] : chiến thần Trung Hoa, giáp thiên đình màu bạc đen, dải vải đỏ quanh eo, con mắt thứ ba phát sáng mờ ảo, cầm cây tam tiêm lưỡng nhận đao khổng lồ.
+Tôn Ngộ Không [Image2] : vua khỉ huyền thoại, chi tiết lông vàng sẫm, giáp trụ tinh xảo nhuốm màu chiến trận, dải vải đỏ rực như phượng hoàng, cầm gậy Như Ý Kim Cô Bổng.
 
-Both characters use attached face references exactly.
-No cartoon style. Pure cinematic realism.
+Cả hai nhân vật sử dụng chính xác các hình ảnh tham chiếu khuôn mặt được đính kèm.
+Không theo phong cách hoạt hình. Hiện thực điện ảnh thuần túy.
 
-The camera begins with extreme close-ups of wet armor, eyes, fingers gripping weapons, boots sliding across stone. Sudden explosive movement — Wukong [Image2] vanishes using cloud-step speed movement, appearing behind Erlang Shen [Image1]  instantly. Erlang blocks without looking using the spear shaft. Sparks explode. Shockwaves ripple through rain puddles.
+Máy quay bắt đầu với những cảnh quay cận cảnh cực độ vào bộ giáp ướt, đôi mắt, những ngón tay siết chặt vũ khí, đôi ủng trượt trên mặt đá. Chuyển động bùng nổ bất ngờ — Ngộ Không [Image2] biến mất bằng kỹ thuật cân đẩu vân, xuất hiện ngay phía sau Nhị Lang Thần [Image1]. Nhị Lang chặn đòn mà không cần nhìn bằng thân giáo. Tia lửa bắn ra. Sóng xung kích lan tỏa qua những vũng nước mưa.
 
-Rapid wuxia movement, superhuman agility, gravity-defying martial arts, realistic cloth physics, detailed rain simulation, cinematic debris.
+Chuyển động võ hiệp nhanh, sự nhanh nhẹn siêu phàm, võ thuật bất chấp trọng lực, vật lý vải chân thực, mô phỏng mưa chi tiết, mảnh vỡ điện ảnh.
 
-Chinese dialogue only:
-Sun Wukong [Image2] : “Yang Jian, you're still the same.”
-Erlang Shen [Image1] : “This time, I won't let you escape.”
+Chỉ sử dụng lời thoại tiếng Trung:
+Tôn Ngộ Không [Image2] : “Dương Tiễn, ngươi vẫn như xưa.”
+Nhị Lang Thần [Image1] : “Lần này, ta sẽ không để ngươi thoát.”
 
-English subtitles burned-in.
+Phụ đề tiếng Anh được chèn sẵn.
 
-CAMERA:
+MÁY QUAY:
 ARRI Alexa 65
-Lens: Atlas Orion Anamorphic 40mm and 65mm
-Fast handheld + drone-like orbital tracking + speed ramping
+Ống kính: Atlas Orion Anamorphic 40mm và 65mm
+Cầm tay tốc độ cao + theo dõi quỹ đạo kiểu drone + tăng tốc độ (speed ramping)
 
-LIGHTING:
-Cold moonlight mixed with warm fire embers
+ÁNH SÁNG:
+Ánh trăng lạnh kết hợp với đốm lửa ấm
 
-COLOR GRADING:
-Dark teal, silver, gold highlights, high contrast cinematic grading, subtle film grain
+CHỈNH MÀU:
+Xanh mòng két đậm, bạc, điểm nhấn vàng, chỉnh màu điện ảnh độ tương phản cao, hạt phim tinh tế
 
-NO MUSIC.
-Only rain, wind, footsteps, weapon impacts, cloth movement, thunder, breathing.
+KHÔNG NHẠC.
+Chỉ có tiếng mưa, gió, tiếng bước chân, tiếng va chạm vũ khí, chuyển động vải, sấm sét, tiếng thở.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060421670540918784/img/9y80epF-AYgsLLei.jpg" width="600" alt="Heavenly Rivalry Xianxia Action Film Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09f30753d96cb744cdd3caf9c231baa3/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý (Prompt) phim hành động Tiên hiệp: Cuộc đối đầu thiên giới">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5443)**
 
 **Tác giả:** [Paween Chantaraudorn](https://x.com/LumPaween64255) | **Nguồn:** [Link](https://x.com/LumPaween64255/status/2060421985608597798) | **Đã xuất bản:** May 29, 2026
 
 ---
-### The Thing Inspired Antarctic Horror Scene
+### Cảnh kinh dị lấy cảm hứng từ The Thing tại Nam Cực
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-tension horror cinematic sequence set in an Antarctic research station, following survivors as they realize one of them has mutated with a disturbing physical reveal.
+> Một phân cảnh điện ảnh kinh dị đầy căng thẳng tại trạm nghiên cứu ở Nam Cực, theo chân những người sống sót khi họ nhận ra một người trong nhóm đã biến dị với màn lộ diện đầy ám ảnh.
 
 #### 📝 Prompt
 
 ```
-Antarctic research station during a blizzard. Emergency backup power only. Red warning lights. Frost-covered walls. Metal doors sealed shut. Breath visible in the freezing air. High-tension paranoia horror with sudden explosive chaos. Aggressive push-ins, handheld camera, crash zooms, rapid cut-tos. Sound: distant wind, metal creaking, nervous breathing.
+Trạm nghiên cứu tại Nam Cực trong trận bão tuyết. Chỉ còn nguồn điện dự phòng khẩn cấp. Đèn cảnh báo màu đỏ. Những bức tường phủ đầy sương giá. Cửa kim loại bị khóa chặt. Hơi thở hiện rõ trong không khí giá lạnh. Phim kinh dị tâm lý căng thẳng với sự hỗn loạn bùng nổ bất ngờ. Các góc quay cận cảnh dồn dập, máy quay cầm tay, zoom nhanh, cắt cảnh liên tục. Âm thanh: tiếng gió rít từ xa, tiếng kim loại cọt kẹt, tiếng thở gấp đầy lo âu.
 
 ⸻
 
-0–2s — HOOK
+0–2s — MỞ ĐẦU
 
-Handheld shot.
+Quay bằng máy cầm tay.
 
-Four survivors burst into a small storage room.
+Bốn người sống sót lao vào một căn phòng kho nhỏ.
 
-One slams the heavy steel door shut.
+Một người đóng sầm cánh cửa thép nặng nề.
 
-Another locks it.
+Người khác khóa cửa lại.
 
-Everyone breathing hard.
+Tất cả đều thở hổn hển.
 
-Outside—
+Bên ngoài—
 
-Something slams against the door.
+Có thứ gì đó đập mạnh vào cửa.
 
-Then silence.
-
-⸻
-
-2–5s — FALSE SAFETY
-
-Close-up cut-tos.
-
-One survivor checks the lock.
-
-Another collapses against the wall.
-
-A young woman starts crying.
-
-Everyone finally believes they’ve escaped.
-
-A man kneels beside her.
-
-“It’s okay. We’re safe.”
+Rồi im lặng.
 
 ⸻
 
-5–8s — THE DETAIL
+2–5s — SỰ AN TOÀN GIẢ TẠO
 
-The crying woman slowly looks up.
+Cắt cảnh cận mặt.
 
-Something catches her eye.
+Một người sống sót kiểm tra ổ khóa.
 
-Crash zoom.
+Một người khác đổ gục xuống tường.
 
-The comforting man’s hand.
+Một cô gái trẻ bắt đầu khóc.
 
-Six fingers.
+Mọi người cuối cùng cũng tin rằng họ đã thoát nạn.
 
-Not five.
+Một người đàn ông quỳ xuống bên cạnh cô.
 
-Six.
-
-Nobody notices.
-
-Except her.
+“Không sao đâu. Chúng ta an toàn rồi.”
 
 ⸻
 
-8–11s — REVEAL
+5–8s — CHI TIẾT
 
-Her face changes instantly.
+Người phụ nữ đang khóc từ từ ngước lên.
 
-Fear.
+Thứ gì đó thu hút ánh nhìn của cô.
 
-Pure terror.
+Zoom nhanh.
 
-She points.
+Bàn tay của người đàn ông đang an ủi cô.
 
-Everyone turns.
+Sáu ngón tay.
 
-The man looks confused.
+Không phải năm.
 
-Then looks at his own hand.
+Sáu.
 
-Six fingers.
+Không ai nhận ra.
 
-A beat of silence.
-
-Nobody moves.
-
-Nobody knows how long he’s been like that.
+Ngoại trừ cô.
 
 ⸻
 
-11–13s — BREAKDOWN
+8–11s — LỘ DIỆN
 
-The man slowly backs away.
+Biểu cảm trên khuôn mặt cô thay đổi ngay lập tức.
 
-“Wait… I don’t know…”
+Sợ hãi.
 
-His fingers begin moving.
+Kinh hoàng tột độ.
 
-Separating.
+Cô chỉ tay về phía đó.
 
-Stretching.
+Tất cả mọi người quay lại.
 
-Additional joints forming.
+Người đàn ông tỏ vẻ bối rối.
 
-His hand starts opening like a flower.
+Sau đó nhìn xuống bàn tay của chính mình.
 
-Everyone panics.
+Sáu ngón tay.
 
-Weapons come up.
+Một khoảng lặng.
+
+Không ai cử động.
+
+Không ai biết anh ta đã như vậy từ bao giờ.
 
 ⸻
 
-13–15s — PAYOFF
+11–13s — ĐỔ VỠ
 
-His arm violently splits open.
+Người đàn ông từ từ lùi lại.
 
-Tendrils explode outward.
+“Khoan đã… Tôi không biết…”
 
-The room erupts into chaos.
+Các ngón tay của anh bắt đầu cử động.
 
-People scream.
+Tách ra.
 
-Someone fires a flare.
+Kéo dài.
 
-Red light fills the room.
+Các khớp xương bổ sung hình thành.
 
-The transforming creature lunges toward camera. Cut.
+Bàn tay anh bắt đầu nở ra như một đóa hoa.
+
+Mọi người hoảng loạn.
+
+Vũ khí được giương lên.
+
+⸻
+
+13–15s — CAO TRÀO
+
+Cánh tay anh xé toạc một cách dữ dội.
+
+Những xúc tu bùng nổ ra ngoài.
+
+Căn phòng chìm trong hỗn loạn.
+
+Mọi người la hét.
+
+Ai đó bắn một quả pháo sáng.
+
+Ánh sáng đỏ bao trùm căn phòng.
+
+Sinh vật biến dị lao về phía ống kính. Cắt.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060414372942589952/img/ufyEKo35EGdI8sfy.jpg" width="600" alt="The Thing Inspired Antarctic Horror Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6bb5b21cbf40840f1334c1180fc709e1/thumbnails/thumbnail.jpg" width="600" alt="Cảnh kinh dị lấy cảm hứng từ The Thing tại Nam Cực">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5452)**
 
 **Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060414433692946561) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Antarctic Research Station Blood Test Horror
+### Kinh hoàng xét nghiệm máu tại trạm nghiên cứu Nam Cực
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A suspenseful horror prompt depicting survivors in an Antarctic station conducting a plasma test, leading to a violent monster revelation.
+> Một gợi ý (prompt) kinh dị đầy kịch tính mô tả những người sống sót tại một trạm nghiên cứu Nam Cực đang thực hiện xét nghiệm huyết tương, dẫn đến sự xuất hiện đầy bạo lực của một con quái vật.
 
 #### 📝 Prompt
 
 ```
-Interior Antarctic research station. Emergency lighting only. Red warning lights. Metal walls. Breath visible from the cold. Everybody is exhausted, terrified, suspicious of one another. High-tension horror with sudden explosive action. Fast cuts, push-ins, handheld movement.
+Bên trong trạm nghiên cứu Nam Cực. Chỉ có ánh sáng khẩn cấp. Đèn cảnh báo màu đỏ. Những bức tường kim loại. Hơi thở hiện rõ trong cái lạnh. Mọi người đều kiệt sức, sợ hãi và nghi ngờ lẫn nhau. Không khí kinh dị căng thẳng tột độ với những pha hành động bùng nổ bất ngờ. Cắt cảnh nhanh, quay cận cảnh, chuyển động máy quay cầm tay.
 
 ⸻
 
-0–2s — HOOK
+0–2 giây — MỞ ĐẦU (HOOK)
 
-Close-up.
+Cận cảnh.
 
-A wire is lowered into a plasma sample.
+Một sợi dây được hạ xuống mẫu huyết tương.
 
-Six survivors stand around a metal table.
+Sáu người sống sót đứng quanh một chiếc bàn kim loại.
 
-Nobody speaks.
+Không ai nói lời nào.
 
-Everybody watches.
+Tất cả đều quan sát.
 
-A flamethrower waits nearby.
+Một khẩu súng phun lửa đặt gần đó.
 
-One survivor even laughs nervously.
+Một người sống sót thậm chí cười một cách lo lắng.
 
-The tension starts breaking.
-
-⸻
-
-2-4s — REVEAL
-
-The next  plasma sample suddenly jumps.
-
-Not much.
-
-Just a twitch.
-
-Everyone freezes.
-
-Then—
-
-The sample launches off the table.
-
-Screaming.
-
-Moving on its own.
-
-Pure panic.
+Sự căng thẳng bắt đầu vỡ vụn.
 
 ⸻
 
-4-7s — CHAOS
+2-4 giây — TIẾT LỘ (REVEAL)
 
-Everyone immediately backs away.
+Mẫu huyết tương tiếp theo đột ngột nhảy lên.
 
-The owner of the plasma looks confused.
+Không nhiều.
 
-Then his chest caves inward.
+Chỉ là một cái co giật.
 
-His ribs begin moving.
+Tất cả mọi người đều sững sờ.
 
-Cracking.
+Sau đó—
 
-Breaking.
+Mẫu thử lao ra khỏi bàn.
 
-Rearranging.
+Tiếng la hét.
 
-Crash zoom.
+Nó tự di chuyển.
 
-His ribcage unfolds outward like giant spider legs.
-
-⸻
-
-7-10s — THE THING
-
-His body expands violently.
-
-Jaw splits.
-
-Neck stretches.
-
-Limbs bend backward.
-
-The creature erupts across the room.
-
-Tables flip.
-
-Equipment explodes.
-
-People are screaming.
-
-One survivor grabs the flamethrower.
+Sự hoảng loạn tột độ.
 
 ⸻
 
-10-13s — PAYOFF
+4-7 giây — HỖN LOẠN (CHAOS)
 
-Bullet-time moment.
+Tất cả mọi người lập tức lùi lại.
 
-The transformed creature launches toward the group.
+Người sở hữu mẫu huyết tương trông có vẻ bối rối.
 
-The flamethrower ignites.
+Sau đó, lồng ngực anh ta lõm vào trong.
 
-A wall of fire fills frame.
+Các xương sườn bắt đầu chuyển động.
 
-The creature screams.
+Rắc.
 
-Fire engulfs the room.
+Gãy.
 
-The survivors dive for cover.
+Sắp xếp lại.
+
+Phóng to đột ngột (Crash zoom).
+
+Lồng ngực anh ta mở ra phía ngoài như những chiếc chân nhện khổng lồ.
+
+⸻
+
+7-10 giây — SINH VẬT ĐÓ (THE THING)
+
+Cơ thể anh ta giãn nở dữ dội.
+
+Hàm tách ra.
+
+Cổ kéo dài.
+
+Các chi bẻ ngược ra sau.
+
+Sinh vật đó lao ra khắp căn phòng.
+
+Bàn ghế bị lật tung.
+
+Thiết bị nổ tung.
+
+Mọi người đang la hét.
+
+Một người sống sót chộp lấy khẩu súng phun lửa.
+
+⸻
+
+10-13 giây — CAO TRÀO (PAYOFF)
+
+Khoảnh khắc quay chậm (Bullet-time).
+
+Sinh vật đã biến đổi lao về phía nhóm người.
+
+Súng phun lửa khai hỏa.
+
+Một bức tường lửa lấp đầy khung hình.
+
+Sinh vật gào thét.
+
+Lửa bao trùm căn phòng.
+
+Những người sống sót lao vào chỗ ẩn nấp.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060409711829327872/img/3khcBcKfc9rL2Ggp.jpg" width="600" alt="Antarctic Research Station Blood Test Horror">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d0fe47014a03fa00bd6add8ec3d08750/thumbnails/thumbnail.jpg" width="600" alt="Kinh hoàng xét nghiệm máu tại trạm nghiên cứu Nam Cực">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5458)**
 
 **Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060409772688777582) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Wukong vs Erlang Shen Epic Fantasy Battle
+### Trận chiến giả tưởng sử thi giữa Ngộ Không và Nhị Lang Thần
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-action AAA fantasy martial arts battle prompt featuring Sun Wukong and Erlang Shen in a flooded canyon with complex physics.
+> Một câu lệnh (prompt) tạo video võ thuật giả tưởng AAA hành động cao độ, tái hiện cuộc đối đầu giữa Tôn Ngộ Không và Nhị Lang Thần trong một hẻm núi ngập nước với hiệu ứng vật lý phức tạp.
 
 #### 📝 Prompt
 
 ```
-Epic AAA fantasy martial arts battle in a giant flooded canyon beneath dark storm clouds. Ultra-realistic cinematic style. Water reflects lightning flashes as Erlang Shen [Image1]  and Sun Wukong [Image2]  unleash supernatural abilities.
+Trận chiến võ thuật giả tưởng AAA sử thi diễn ra trong một hẻm núi khổng lồ ngập nước dưới những đám mây giông đen kịt. Phong cách điện ảnh siêu thực. Mặt nước phản chiếu những tia chớp khi Nhị Lang Thần [Image1] và Tôn Ngộ Không [Image2] tung ra các kỹ năng siêu nhiên.
 
-Erlang Shen [Image1] opens his celestial third eye fully for the first time — massive divine energy erupts outward in glowing golden-white waves. The clouds split open above him. Floating rocks rise into the air.
+Nhị Lang Thần [Image1] mở to con mắt thứ ba thiên nhãn lần đầu tiên — nguồn năng lượng thần thánh khổng lồ bùng phát ra ngoài thành những làn sóng vàng trắng rực rỡ. Những đám mây phía trên tách ra. Những tảng đá lơ lửng bay lên không trung.
 
-Sun Wukong [Image2] slams the Ruyi Jingu Bang into the ground, creating a colossal shockwave that parts the flood water and launches giant stone fragments upward. He spins the staff at extreme speed, deflecting divine energy beams.
+Tôn Ngộ Không [Image2] đập mạnh Như Ý Kim Cô Bổng xuống đất, tạo ra một làn sóng xung kích khổng lồ rẽ nước lũ và hất tung những mảnh đá lớn lên cao. Ngài xoay gậy với tốc độ cực nhanh, làm chệch hướng các tia năng lượng thần thánh.
 
-The two collide mid-air with overwhelming force. Their weapons lock together while lightning flashes around them. Slow-motion facial close-ups show determination and rage.
+Cả hai va chạm giữa không trung với lực lượng áp đảo. Vũ khí của họ khóa chặt vào nhau trong khi sấm sét lóe lên xung quanh. Những cảnh quay cận cảnh khuôn mặt ở chế độ quay chậm cho thấy sự quyết tâm và giận dữ.
 
-Hyper-realistic water physics, volumetric fog, cinematic lightning, dynamic environmental destruction, wuxia wire-action realism blended with grounded physics.
+Hiệu ứng vật lý nước siêu thực, sương mù thể tích, ánh sáng điện ảnh, sự phá hủy môi trường năng động, sự kết hợp giữa kỹ thuật võ hiệp (wire-action) và vật lý thực tế.
 
-Chinese dialogue only:
-Sun Wukong: “The Heavens cannot trap me.”
-Erlang Shen: “Then let me personally suppress you.”
+Chỉ sử dụng lời thoại tiếng Trung:
+Tôn Ngộ Không: “Trời xanh không thể giam cầm ta.”
+Nhị Lang Thần: “Vậy để ta đích thân trấn áp ngươi.”
 
-English subtitles burned-in.
+Phụ đề tiếng Anh được chèn trực tiếp.
 
 CAMERA:
 RED V-RAPTOR XL
-Lens: Leica Summilux-C
+Ống kính: Leica Summilux-C
 
-CAMERA MOVEMENT:
-Aggressive crane dives, rotating aerial shots, ultra-fast tracking, dramatic slow-motion impact frames
+CHUYỂN ĐỘNG CAMERA:
+Cần cẩu lao xuống mạnh mẽ, các cú quay trên không xoay vòng, theo dõi tốc độ cực nhanh, các khung hình va chạm quay chậm đầy kịch tính
 
-COLOR GRADING:
-Storm gray, celestial gold, deep black shadows, cinematic bloom highlights
+CHỈNH MÀU:
+Xám bão, vàng thiên giới, bóng đen sâu thẳm, hiệu ứng ánh sáng điện ảnh (bloom highlights)
 
-NO MUSIC.
-Only lightning, explosions, water impacts, roaring wind, weapon resonance.
+KHÔNG NHẠC.
+Chỉ có tiếng sấm, tiếng nổ, tiếng nước va đập, tiếng gió gào thét, tiếng cộng hưởng của vũ khí.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/530a5f0a0c22a8b42b48b051da340045/thumbnails/thumbnail.jpg" width="600" alt="Wukong vs Erlang Shen Epic Fantasy Battle">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/530a5f0a0c22a8b42b48b051da340045/thumbnails/thumbnail.jpg" width="600" alt="Trận chiến giả tưởng sử thi giữa Ngộ Không và Nhị Lang Thần">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5444)**
 
 **Tác giả:** [Paween Chantaraudorn](https://x.com/LumPaween64255) | **Nguồn:** [Link](https://x.com/LumPaween64255/status/2060402691818570140) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Fluffy Cat CEO Corporate Boardroom Drama
+### Drama phòng họp của CEO mèo lông xù
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A humorous prestige-drama style video prompt featuring an orange tabby cat as a CEO swiping a laptop off a conference table and meowing at employees.
+> Một video prompt theo phong cách chính kịch hài hước, với nhân vật chính là một chú mèo mướp cam trong vai CEO, hất văng máy tính xách tay khỏi bàn họp và kêu meo meo với nhân viên.
 
 #### 📝 Prompt
 
 ```
-Characters: CEO is a fluffy orange tabby cat wearing a fitted navy suit and tie, seated at the head of a long glass conference table. Human employees in business attire fill the seats around the table. Scene: Luxury corporate boardroom, floor-to-ceiling windows overlooking a city skyline, framed charts and graphs on a large display screen behind the cat. Style: Prestige drama film tone, dry deadpan comedy, warm amber-mahogany palette, shallow depth of field, subtle film grain. Lighting: Warm overhead pendant lights, soft golden rim light on the cat, cool blue daylight spilling from the city windows. Audio: Tense orchestral underscore with low brass swells, sharp SFX punctuation on each cat action, muffled office ambiance, AC hum. [0-3s] — Establishing Camera: Slow wide push-in from the back of the boardroom. Action: The orange cat in a suit stands at the head of the table, raising one paw and tapping a bar chart on the display screen behind him. Lighting: Warm amber overhead wash, screen glow backlighting the cat. SFX: Low orchestral swell, soft pointer tap on screen. [3-6s] — Employees React Camera: Fixed medium shot across the table, facing the employees. Hard cut from previous shot. Action: Six nervous employees begin clapping stiffly, eyes wide, smiles strained and hollow. Lighting: Even cool overhead office light, slight shadow under each face. SFX: Slow, uncertain applause, a throat-clear, shuffling papers. [6-10s] — Laptop Incident Camera: Low tabletop angle, fixed. Hold. Action: The cat slowly turns, locks eyes with an open laptop at the edge of the table, then swipes it cleanly off with one deliberate paw. Lighting: Warm side light on cat, deep shadow behind. SFX: Sharp laptop crash on floor, echoing in the silent room. Gasps from employees. [10-13s] — Dramatic Zoom Camera: Slow push-in to extreme close-up on the cat's face. Action: The cat's eyes narrow. Its mouth opens in a wide, silent, furious meow — jaw fully extended. Lighting: Single warm overhead spot, deep dramatic shadow framing both cheeks. SFX: Orchestral sting, dead silence — then a single low bass hit on the meow. [13-15s] — Title Card Beat Camera: Static wide shot, full boardroom. Hold. Action: The cat sits back down calmly, adjusting its tie. The employees stare frozen. Dialogue: "Quarterly profits are down." Lighting: Room dims slightly, cool blue from the windows takes over. SFX: Low cello note sustains. Silence. Avoid: Identity drift on the cat between shots, jitter, temporal flicker, chaotic composition
+Nhân vật: CEO là một chú mèo mướp cam lông xù, mặc bộ vest xanh navy vừa vặn và thắt cà vạt, ngồi ở đầu bàn họp dài bằng kính. Các nhân viên mặc trang phục công sở ngồi kín xung quanh bàn. Bối cảnh: Phòng họp doanh nghiệp sang trọng, cửa sổ sát trần nhìn ra đường chân trời thành phố, phía sau chú mèo là màn hình lớn hiển thị các biểu đồ. Phong cách: Tông màu phim chính kịch cao cấp, hài hước kiểu châm biếm, bảng màu hổ phách - gỗ gụ ấm áp, độ sâu trường ảnh nông, hạt phim tinh tế. Ánh sáng: Đèn treo trần ấm áp, ánh sáng viền vàng dịu trên chú mèo, ánh sáng ban ngày xanh mát từ cửa sổ thành phố. Âm thanh: Nhạc nền dàn nhạc căng thẳng với tiếng kèn đồng trầm, hiệu ứng âm thanh sắc nét cho mỗi hành động của chú mèo, tiếng ồn văn phòng bị làm mờ, tiếng máy điều hòa. [0-3 giây] — Thiết lập Camera: Quay chậm từ phía sau phòng họp tiến lại gần. Hành động: Chú mèo cam mặc vest đứng ở đầu bàn, giơ một chân lên và gõ vào biểu đồ trên màn hình phía sau. Ánh sáng: Ánh sáng hổ phách ấm áp từ trên cao, ánh sáng màn hình hắt ngược lên chú mèo. Hiệu ứng âm thanh: Nhạc dàn nhạc trầm, tiếng gõ nhẹ vào màn hình. [3-6 giây] — Phản ứng của nhân viên Camera: Cố định góc trung, đối diện với các nhân viên. Cắt cảnh nhanh từ cảnh trước. Hành động: Sáu nhân viên lo lắng bắt đầu vỗ tay một cách cứng nhắc, mắt mở to, nụ cười gượng gạo và trống rỗng. Ánh sáng: Ánh sáng văn phòng mát mẻ, bóng đổ nhẹ dưới khuôn mặt mỗi người. Hiệu ứng âm thanh: Tiếng vỗ tay chậm, không chắc chắn, tiếng hắng giọng, tiếng xào xạc của giấy tờ. [6-10 giây] — Sự cố máy tính xách tay Camera: Góc thấp trên mặt bàn, cố định. Giữ cảnh. Hành động: Chú mèo từ từ quay lại, nhìn chằm chằm vào chiếc máy tính xách tay đang mở ở mép bàn, rồi dùng một chân hất mạnh nó xuống đất. Ánh sáng: Ánh sáng bên ấm áp trên chú mèo, bóng tối sâu phía sau. Hiệu ứng âm thanh: Tiếng máy tính rơi xuống sàn sắc nét, vang vọng trong căn phòng im lặng. Tiếng hít thở kinh ngạc từ các nhân viên. [10-13 giây] — Zoom kịch tính Camera: Quay chậm cận cảnh cực đại vào mặt chú mèo. Hành động: Mắt chú mèo nheo lại. Miệng mở to trong một tiếng meo giận dữ, im lặng — hàm mở rộng hết cỡ. Ánh sáng: Một điểm sáng ấm áp từ trên cao, bóng tối kịch tính bao quanh hai bên má. Hiệu ứng âm thanh: Nhạc dàn nhạc cao trào, im lặng tuyệt đối — sau đó là một tiếng bass trầm khi chú mèo kêu. [13-15 giây] — Tiêu đề Beat Camera: Cố định góc rộng, toàn cảnh phòng họp. Giữ cảnh. Hành động: Chú mèo bình tĩnh ngồi xuống, chỉnh lại cà vạt. Các nhân viên đứng hình. Đối thoại: "Lợi nhuận quý này đang giảm." Ánh sáng: Căn phòng tối dần, ánh sáng xanh mát từ cửa sổ bao trùm. Hiệu ứng âm thanh: Tiếng đàn cello trầm kéo dài. Im lặng. Tránh: Sự thay đổi nhận dạng của chú mèo giữa các cảnh, hiện tượng rung hình, nhấp nháy theo thời gian, bố cục hỗn loạn.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060390717906878464/img/Ic3YA7Qzjgl0a_dc.jpg" width="600" alt="Fluffy Cat CEO Corporate Boardroom Drama">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0cc05bb392f3956756b3ef0a45c5e732/thumbnails/thumbnail.jpg" width="600" alt="Drama phòng họp của CEO mèo lông xù">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5460)**
 
 **Tác giả:** [Jasmine Ai](https://x.com/jasminekhan90_) | **Nguồn:** [Link](https://x.com/jasminekhan90_/status/2060390860559409594) | **Đã xuất bản:** May 29, 2026
 
 ---
-### 1980s Gritty Film Noir Mafia Scene
+### Cảnh phim Mafia phong cách Noir gai góc thập niên 1980
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly complex cinematic prompt for generating a realistic 1980s mob-themed sequence with 35mm film grain and practical lighting.
+> Một câu lệnh (prompt) điện ảnh phức tạp để tạo ra chuỗi hình ảnh chủ đề mafia chân thực thập niên 1980 với hạt phim 35mm và ánh sáng thực tế.
 
 #### 📝 Prompt
 
 ```
-Style: 1980s 35mm film. Anamorphic grain. Practical lighting only. Real location street. No digital polish. Looks like it was actually shot on location in 1982.
-Camera: Mix of styles — slow tracking steadicam, tight close-ups, low angle wide, slow motion on key moments. Deep shadows. Film burn on cuts.
-Environment: Real wet cobblestone street at dusk. Old brick buildings. Dim tungsten storefronts. Smoke in the air. Parked vintage cars lining the street. Feels like lived-in 1980s New York or Chicago.
-Crowd: Real-looking 1980s dressed pedestrians. Naturally parting. Silent. Watching with deep respect. Faces weathered and real — no smooth AI skin.
-SCENE:
-Wide low angle slow-mo: Three figures emerge from shadow. Long black coats. Wet cobblestone reflecting their silhouettes. Crowd silently parts.
-Close-up slow-mo: @ img face — hat brim casting shadow over eyes. Cigar smoke curling past the lens. Expression unreadable.
-Wide tracking shot: The trio walks forward. Six bodyguards moving like a wall around them. Every face in the crowd watching.
-Close-up: His hand — cigar between fingers. Smoke trail. Slow motion.
-Low angle wide: Vintage black Cadillac DeVille waiting. Engine idling. Door opens.
-Close-up slow-mo: He takes one final drag. Exhales. Steps inside. Door shuts.
-Wide: Car pulls away into dark wet street. Crowd watches in silence.
-Lock phrases: 1980s 35mm grain, anamorphic flare, no AI rendering, no digital sharpness, practical location lighting, real human skin texture, photochemical film look, gritty realism, no color grading, raw film negative aesthetic
+Phong cách: Phim 35mm thập niên 1980. Hạt phim Anamorphic. Chỉ sử dụng ánh sáng thực tế. Bối cảnh đường phố thật. Không chỉnh sửa kỹ thuật số. Trông như được quay tại hiện trường vào năm 1982.
+Camera: Kết hợp nhiều phong cách — quay theo dõi chậm bằng steadicam, cận cảnh, góc rộng từ dưới lên, chuyển động chậm ở những khoảnh khắc quan trọng. Bóng tối sâu. Cháy sáng ở các đoạn cắt cảnh.
+Bối cảnh: Đường phố lát đá cuội ướt át lúc hoàng hôn. Những tòa nhà gạch cũ. Ánh đèn vonfram mờ ảo từ cửa hiệu. Khói trong không khí. Những chiếc xe cổ đỗ dọc con phố. Mang lại cảm giác như New York hoặc Chicago thập niên 1980 thực thụ.
+Đám đông: Người đi bộ mặc trang phục thập niên 1980 trông như thật. Tự động tách ra. Im lặng. Quan sát với sự tôn trọng sâu sắc. Gương mặt phong trần và chân thực — không có làn da mịn màng kiểu AI.
+CẢNH:
+Góc rộng từ dưới lên, chuyển động chậm: Ba nhân vật bước ra từ bóng tối. Áo khoác đen dài. Đá cuội ướt phản chiếu bóng dáng họ. Đám đông lặng lẽ tách ra.
+Cận cảnh, chuyển động chậm: @ img gương mặt — vành mũ đổ bóng lên đôi mắt. Khói xì gà cuộn qua ống kính. Biểu cảm khó đoán.
+Góc quay theo dõi rộng: Bộ ba bước về phía trước. Sáu vệ sĩ di chuyển như một bức tường bao quanh họ. Mọi gương mặt trong đám đông đều dõi theo.
+Cận cảnh: Bàn tay nhân vật — điếu xì gà giữa các ngón tay. Vệt khói. Chuyển động chậm.
+Góc rộng từ dưới lên: Chiếc Cadillac DeVille đen cổ điển đang chờ sẵn. Động cơ nổ máy. Cửa mở.
+Cận cảnh, chuyển động chậm: Anh ta rít hơi cuối cùng. Thở ra. Bước vào trong. Cửa đóng lại.
+Góc rộng: Xe lăn bánh vào con phố tối và ướt. Đám đông lặng lẽ dõi theo.
+Các cụm từ khóa: hạt phim 35mm thập niên 1980, hiệu ứng lóe sáng anamorphic, không kết xuất AI, không độ sắc nét kỹ thuật số, ánh sáng hiện trường thực tế, kết cấu da người thật, diện mạo phim nhựa hóa học, chủ nghĩa hiện thực gai góc, không chỉnh màu, thẩm mỹ âm bản phim thô
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8aaa36afa844d45d1651dd2f441f5a2/thumbnails/thumbnail.jpg" width="600" alt="1980s Gritty Film Noir Mafia Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8aaa36afa844d45d1651dd2f441f5a2/thumbnails/thumbnail.jpg" width="600" alt="Cảnh phim Mafia phong cách Noir gai góc thập niên 1980">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5432)**
 
 **Tác giả:** [WasifAI](https://x.com/doctorwasif) | **Nguồn:** [Link](https://x.com/doctorwasif/status/2060382063317102961) | **Đã xuất bản:** May 29, 2026
 
 ---
-### The Hive Queen Escape Video Prompt
+### Video Prompt: Cuộc trốn chạy khỏi Hive Queen
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive sci-fi horror video prompt for Seedance 2.0 featuring an astronaut fleeing a swarm in an alien hive.
+> Một video prompt kinh dị khoa học viễn tưởng toàn diện dành cho Seedance 2.0, mô tả cảnh một phi hành gia đang chạy trốn khỏi bầy đàn trong một tổ ong ngoài hành tinh.
 
 #### 📝 Prompt
 
 ```
-Nightmarish alien hive deep beneath the surface of a hostile planet. Organic tunnels, pulsing walls, glowing biological veins, hanging egg sacs, dripping acid. Everything feels alive. High-intensity survival horror. Fast cuts, handheld chaos, rapid camera movement. Sound: insect screeches, biological clicking, suit alarms, collapsing organic structures.
+Tổ ong ngoài hành tinh đầy ác mộng nằm sâu dưới bề mặt của một hành tinh thù địch. Các đường hầm hữu cơ, những bức tường rung động, các mạch máu sinh học phát sáng, những túi trứng treo lơ lửng, axit nhỏ giọt. Mọi thứ đều như đang sống. Kinh dị sinh tồn cường độ cao. Cắt cảnh nhanh, phong cách quay cầm tay hỗn loạn, chuyển động camera dồn dập. Âm thanh: tiếng côn trùng rít, tiếng lách cách sinh học, tiếng báo động trên bộ đồ phi hành gia, các cấu trúc hữu cơ đang sụp đổ.
 
 ⸻
 
-0–2s — HOOK
+0–2s — MỞ ĐẦU (HOOK)
 
-Helmet POV.
+Góc nhìn POV từ mũ bảo hiểm.
 
-An astronaut is already sprinting through a living alien hive.
+Một phi hành gia đang chạy nước rút xuyên qua một tổ ong ngoài hành tinh sống động.
 
-Dozens of insectoid creatures chase him.
+Hàng chục sinh vật giống côn trùng đuổi theo anh ta.
 
-Multiple legs.
+Nhiều chân.
 
-Bladed limbs.
+Các chi sắc nhọn như lưỡi dao.
 
-Glowing mouths.
+Miệng phát sáng.
 
-They swarm across walls, ceilings, and floors.
+Chúng tràn qua tường, trần nhà và sàn nhà.
 
-Closing fast.
-
-⸻
-
-2–5s — ESCALATION
-
-Side tracking shot.
-
-The astronaut turns a corner and enters a gigantic chamber.
-
-At its center—
-
-The Hive Queen.
-
-Massive.
-
-Bloated.
-
-Attached to the chamber by thick biological tendrils.
-
-Thousands of glowing eggs surround her.
-
-The swarm continues closing in behind him.
+Đang áp sát rất nhanh.
 
 ⸻
 
-5–8s — BUILD
+2–5s — LEO THANG
 
-The astronaut reaches a rocky ledge overlooking the egg chamber.
+Cảnh quay theo dõi từ bên cạnh.
 
-No escape route.
+Phi hành gia rẽ qua một góc và bước vào một căn phòng khổng lồ.
 
-Creatures approaching from every direction.
+Ở trung tâm căn phòng—
 
-He quickly pulls out a mining laser.
+Hive Queen.
 
-The queen notices him.
+Khổng lồ.
 
-The entire chamber begins vibrating.
+Phình to.
 
-⸻
+Được gắn chặt vào căn phòng bởi những xúc tu sinh học dày đặc.
 
-8–11s — THE PLAN
+Hàng ngàn quả trứng phát sáng bao quanh nó.
 
-Close-up.
-
-The astronaut aims directly at the largest glowing egg structure.
-
-He fires.
-
-The mining laser slices through the organic mass.
-
-A chain reaction begins.
-
-Cracks spread through the egg cluster.
-
-Biological fluid erupts everywhere.
+Bầy đàn tiếp tục áp sát phía sau anh ta.
 
 ⸻
 
-11–13s — CHAOS
+5–8s — CAO TRÀO
 
-The Hive Queen immediately attacks her own swarm.
+Phi hành gia chạm tới một gờ đá nhìn xuống căn phòng chứa trứng.
 
-Protecting the eggs.
+Không có lối thoát.
 
-Massive limbs crush dozens of creatures.
+Các sinh vật đang tiến đến từ mọi hướng.
 
-The chamber collapses.
+Anh nhanh chóng rút ra một tia laser khai thác mỏ.
 
-Walls rupture.
+Hive Queen chú ý đến anh.
 
-Eggs explode.
-
-Insects begin attacking each other.
-
-Complete chaos.
+Toàn bộ căn phòng bắt đầu rung chuyển.
 
 ⸻
 
-13–15s — PAYOFF
+8–11s — KẾ HOẠCH
 
-An organic bridge breaks loose beneath the astronaut.
+Cận cảnh.
 
-He rides it like a collapsing surfboard toward an exit tunnel.
+Phi hành gia nhắm thẳng vào cấu trúc trứng phát sáng lớn nhất.
 
-Behind him—
+Anh khai hỏa.
 
-The Queen and swarm devour each other amidst the collapsing hive.
+Tia laser khai thác mỏ cắt xuyên qua khối hữu cơ.
 
-The astronaut shoots out of the tunnel just as the entire chamber implodes.
+Một phản ứng dây chuyền bắt đầu.
 
-Darkness.
+Các vết nứt lan rộng khắp cụm trứng.
+
+Chất lỏng sinh học phun trào khắp nơi.
+
+⸻
+
+11–13s — HỖN LOẠN
+
+Hive Queen ngay lập tức tấn công chính bầy đàn của mình.
+
+Để bảo vệ những quả trứng.
+
+Các chi khổng lồ nghiền nát hàng chục sinh vật.
+
+Căn phòng sụp đổ.
+
+Các bức tường vỡ vụn.
+
+Trứng nổ tung.
+
+Côn trùng bắt đầu tấn công lẫn nhau.
+
+Sự hỗn loạn hoàn toàn.
+
+⸻
+
+13–15s — KẾT QUẢ
+
+Một cây cầu hữu cơ vỡ ra bên dưới chân phi hành gia.
+
+Anh lướt trên đó như một chiếc ván lướt sóng đang sụp đổ về phía đường hầm thoát hiểm.
+
+Phía sau anh—
+
+Hive Queen và bầy đàn đang ăn thịt lẫn nhau giữa tổ ong đang sụp đổ.
+
+Phi hành gia lao ra khỏi đường hầm ngay khi toàn bộ căn phòng nổ tung vào trong.
+
+Bóng tối.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09ee6b2bfdfda318594b7473e7dfa590/thumbnails/thumbnail.jpg" width="600" alt="The Hive Queen Escape Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09ee6b2bfdfda318594b7473e7dfa590/thumbnails/thumbnail.jpg" width="600" alt="Video Prompt: Cuộc trốn chạy khỏi Hive Queen">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5426)**
 
 **Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060377183479382356) | **Đã xuất bản:** May 29, 2026
 
 ---
-### The Crystal Worm Ambush Video Prompt
+### Prompt video Cuộc phục kích của Sâu Pha lê
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed, multi-stage storyboard prompt for Seedance 2.0 depicting an astronaut escaping a giant crystal worm on an alien planet.
+> Một prompt phân cảnh đa giai đoạn cực kỳ chi tiết dành cho Seedance 2.0, mô tả một phi hành gia đang chạy trốn khỏi một con sâu pha lê khổng lồ trên một hành tinh xa lạ.
 
 #### 📝 Prompt
 
 ```
-Ultra-hostile alien planet. Endless desert made entirely of gigantic glowing crystal formations. Violet skies, twin suns, electrical storms in the distance. Every crystal emits strange bioluminescent pulses. Survival horror action. Chaotic handheld camera, aggressive speed ramps, rapid cut-tos, dynamic camera angles. Sound: crystal resonance hums, astronaut breathing, deep underground rumbling.
+Hành tinh xa lạ cực kỳ khắc nghiệt. Sa mạc vô tận được tạo thành hoàn toàn từ những khối pha lê khổng lồ phát sáng. Bầu trời màu tím, hai mặt trời, những cơn bão điện từ ở phía xa. Mỗi khối pha lê đều phát ra những xung nhịp phát quang kỳ lạ. Hành động kinh dị sinh tồn. Camera cầm tay hỗn loạn, hiệu ứng tăng tốc mạnh mẽ, cắt cảnh nhanh, góc quay linh hoạt. Âm thanh: tiếng vo ve cộng hưởng của pha lê, tiếng thở của phi hành gia, tiếng ầm ầm sâu dưới lòng đất.
 
 ⸻
 
-0–2s — HOOK
+0–2s — MỞ ĐẦU (HOOK)
 
-Wide aerial shot.
+Cảnh quay toàn cảnh từ trên cao.
 
-An astronaut is already sprinting across a glowing crystal desert.
+Một phi hành gia đang chạy nước rút băng qua sa mạc pha lê phát sáng.
 
-Suddenly—
+Đột nhiên—
 
-The ground erupts behind him.
+Mặt đất nứt toác phía sau anh ta.
 
-A colossal alien crystal worm explodes upward.
+Một con sâu pha lê ngoài hành tinh khổng lồ trồi lên.
 
-Hundreds of meters long.
+Dài hàng trăm mét.
 
-Its body covered in razor-sharp translucent crystal plates.
-
-⸻
-
-2–5s — ESCALATION
-
-Helmet POV.
-
-The worm crashes back underground.
-
-Crystal shards rain everywhere.
-
-The astronaut dodges flying debris while running.
-
-The desert ahead begins rippling.
-
-The worm is moving beneath him.
-
-Fast.
-
-Very fast.
+Cơ thể nó bao phủ bởi những lớp vảy pha lê trong suốt sắc như dao cạo.
 
 ⸻
 
-5–8s — BUILD
+2–5s — LEO THANG
 
-Low angle tracking shot.
+Góc nhìn từ mũ bảo hiểm (POV).
 
-The astronaut spots a gigantic crystal spire ahead.
+Con sâu lao ngược xuống lòng đất.
 
-He jumps onto its base and begins climbing.
+Các mảnh pha lê văng tung tóe khắp nơi.
 
-The worm erupts again.
+Phi hành gia né tránh các mảnh vỡ bay tới trong khi vẫn đang chạy.
 
-This time directly beside him.
+Sa mạc phía trước bắt đầu gợn sóng.
 
-Its jaws snap shut inches from his body.
+Con sâu đang di chuyển bên dưới anh ta.
 
-The impact fractures the entire spire.
+Nhanh.
 
-⸻
-
-8–11s — CHAOS
-
-Wide shot.
-
-The crystal tower begins collapsing.
-
-The astronaut slides down the falling structure.
-
-Crystal fragments the size of vehicles tumble everywhere.
-
-The worm smashes through multiple crystal formations trying to intercept him.
-
-The entire landscape explodes into chaos.
+Rất nhanh.
 
 ⸻
 
-11–13s — THE PLAN
+5–8s — CAO TRÀO
 
-The astronaut lands hard.
+Cảnh quay góc thấp theo sau.
 
-Rolls.
+Phi hành gia phát hiện một ngọn tháp pha lê khổng lồ phía trước.
 
-Pulls a distress flare from his suit.
+Anh nhảy lên chân tháp và bắt đầu leo.
 
-The worm erupts directly ahead.
+Con sâu lại trồi lên.
 
-Its mouth opens wide.
+Lần này là ngay bên cạnh anh.
 
-Rows of crystalline teeth.
+Bộ hàm của nó đớp mạnh chỉ cách cơ thể anh vài inch.
 
-Bullet time.
-
-The astronaut throws the flare.
+Cú va chạm làm nứt vỡ toàn bộ ngọn tháp.
 
 ⸻
 
-13–15s — PAYOFF
+8–11s — HỖN LOẠN
 
-The flare disappears into the worm’s throat.
+Cảnh quay toàn cảnh.
 
-A pulse travels through its transparent crystal body.
+Tháp pha lê bắt đầu sụp đổ.
 
-The entire creature begins glowing.
+Phi hành gia trượt xuống cấu trúc đang đổ sập.
 
-Brighter.
+Những mảnh pha lê to bằng chiếc xe hơi rơi vãi khắp nơi.
 
-Brighter.
+Con sâu đâm xuyên qua nhiều khối pha lê để cố gắng chặn đường anh.
 
-Then—
+Toàn bộ cảnh quan nổ tung trong sự hỗn loạn.
 
-A massive resonance explosion tears through its body from the inside.
+⸻
 
-Crystal shards erupt across the desert.
+11–13s — KẾ HOẠCH
 
-The astronaut shields himself.
+Phi hành gia tiếp đất mạnh.
 
-Silence.
+Lăn người.
 
-Only glowing fragments falling from the sky
+Rút một quả pháo cứu hộ từ bộ đồ của mình.
+
+Con sâu trồi lên ngay phía trước.
+
+Miệng nó mở rộng.
+
+Những hàng răng bằng pha lê.
+
+Hiệu ứng thời gian chậm (Bullet time).
+
+Phi hành gia ném quả pháo.
+
+⸻
+
+13–15s — KẾT QUẢ
+
+Quả pháo biến mất vào cổ họng con sâu.
+
+Một xung nhịp chạy dọc theo cơ thể pha lê trong suốt của nó.
+
+Toàn bộ sinh vật bắt đầu phát sáng.
+
+Sáng hơn.
+
+Sáng hơn nữa.
+
+Sau đó—
+
+Một vụ nổ cộng hưởng dữ dội xé toạc cơ thể nó từ bên trong.
+
+Các mảnh pha lê văng tung tóe khắp sa mạc.
+
+Phi hành gia che chắn cho bản thân.
+
+Sự im lặng bao trùm.
+
+Chỉ còn những mảnh vỡ phát sáng rơi xuống từ bầu trời.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060363429693820928/img/Jo9oNYVszL6J0i5j.jpg" width="600" alt="The Crystal Worm Ambush Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ace3e397b1750148de2905ea923df96/thumbnails/thumbnail.jpg" width="600" alt="Prompt video Cuộc phục kích của Sâu Pha lê">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5423)**
 
 **Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060363498744586530) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Cinematic Anime Tennis Match Video
+### Video trận đấu quần vợt phong cách anime điện ảnh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a high-energy anime-style tennis match video set against a warm sunset, featuring cinematic lighting and soft lens flares.
+> Một câu lệnh để tạo video trận đấu quần vợt phong cách anime đầy năng lượng trong bối cảnh hoàng hôn ấm áp, với ánh sáng điện ảnh và hiệu ứng lóe sáng ống kính nhẹ nhàng.
 
 #### 📝 Prompt
 
 ```
-Create a cinematic anime tennis match video at sunset on an outdoor court with chain-link fence, warm golden light, soft lens flare, realistic court shadows, and energetic match atmosphere.
+Tạo một video trận đấu quần vợt phong cách anime điện ảnh vào lúc hoàng hôn trên sân ngoài trời có hàng rào lưới, ánh sáng vàng ấm áp, hiệu ứng lóe sáng ống kính nhẹ nhàng, bóng đổ chân thực trên sân và bầu không khí trận đấu đầy năng lượng.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060362855858458624/img/zbdgrbVffxEhWQoV.jpg" width="600" alt="Cinematic Anime Tennis Match Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ba5902a810aa865a1cacb22eef84867/thumbnails/thumbnail.jpg" width="600" alt="Video trận đấu quần vợt phong cách anime điện ảnh">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5463)**
 
 **Tác giả:** [Abdul Șhakoor](https://x.com/abxxai) | **Nguồn:** [Link](https://x.com/abxxai/status/2060362950788121082) | **Đã xuất bản:** May 29, 2026
 
 ---
-### The Lava Beast Duel Video Prompt
+### Prompt video Cuộc đối đầu với Quái vật Dung nham
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed action-horror storyboard prompt for Seedance 2.0 depicting a struggle between an astronaut and a lava beast in a volcanic environment.
+> Một prompt phân cảnh hành động kinh dị chi tiết dành cho Seedance 2.0, mô tả cuộc chiến giữa một phi hành gia và quái vật dung nham trong môi trường núi lửa.
 
 #### 📝 Prompt
 
 ```
-Nightmarish volcanic alien world. Rivers of lava cutting through black mountains. Ash storms. Exploding gas vents. Red lightning inside thick smoke clouds. Survival horror action. Fast-paced camera work, violent handheld energy, rapid cuts, speed ramps. Sound: volcanic eruptions, creature roars, jetpack bursts, collapsing rock.
+Thế giới ngoài hành tinh núi lửa đầy ác mộng. Những dòng sông dung nham cắt ngang qua những ngọn núi đen. Bão tro bụi. Các lỗ thông hơi khí gas phun trào. Sét đỏ rạch ngang những đám mây khói dày đặc. Hành động kinh dị sinh tồn. Camera nhịp độ nhanh, năng lượng cầm tay dữ dội, cắt cảnh nhanh, tăng tốc độ. Âm thanh: núi lửa phun trào, tiếng gầm của sinh vật, tiếng động cơ phản lực, đá đổ.
 
 ⸻
 
-0–2s — HOOK
+0–2 giây — MỞ ĐẦU (HOOK)
 
-Wide shot.
+Cảnh toàn.
 
-An astronaut is already running along a narrow volcanic ridge.
+Một phi hành gia đang chạy dọc theo một sườn núi lửa hẹp.
 
-Behind him—
+Phía sau anh ta—
 
-A gigantic lava-covered alien beast charges.
+Một con quái vật ngoài hành tinh khổng lồ phủ đầy dung nham đang lao tới.
 
-Twelve feet tall.
+Cao 12 feet (khoảng 3,6 mét).
 
-Molten cracks glowing across its body.
+Những vết nứt nóng chảy rực sáng khắp cơ thể nó.
 
-Every footstep throws sparks and molten rock.
-
-⸻
-
-2–5s — ESCALATION
-
-Side tracking shot.
-
-The beast rapidly closes distance.
-
-The astronaut fires a plasma rifle over his shoulder.
-
-The shots hit.
-
-Nothing happens.
-
-The creature keeps coming.
-
-A gas vent erupts beside them.
-
-Fire blasts into the sky.
+Mỗi bước chân của nó làm văng ra tia lửa và đá nóng chảy.
 
 ⸻
 
-5–8s — BUILD
+2–5 giây — LEO THANG
 
-The ridge narrows.
+Cảnh quay theo chiều ngang.
 
-Lava rivers on both sides.
+Con quái vật nhanh chóng thu hẹp khoảng cách.
 
-The astronaut slips.
+Phi hành gia bắn súng trường plasma qua vai.
 
-Recovers.
+Những phát đạn trúng đích.
 
-The beast launches itself forward.
+Không có gì xảy ra.
 
-Its claws barely miss his suit.
+Sinh vật đó vẫn tiếp tục lao tới.
 
-Ash and molten debris fill the frame.
+Một lỗ thông hơi khí gas phun trào bên cạnh họ.
 
-⸻
-
-8–11s — CHAOS
-
-Overhead drone-style shot.
-
-The entire ridge begins collapsing beneath their combined weight.
-
-Massive chunks break away.
-
-The astronaut jumps across a widening gap.
-
-The beast follows.
-
-The jump cracks the remaining rock.
-
-Everything starts falling.
+Lửa bùng lên bầu trời.
 
 ⸻
 
-11–13s — PAYOFF BUILD
+5–8 giây — CAO TRÀO
 
-The ridge gives way completely.
+Sườn núi hẹp dần.
 
-Astronaut and beast plunge toward a raging lava river.
+Dòng sông dung nham ở cả hai bên.
 
-Bullet time.
+Phi hành gia trượt chân.
 
-The astronaut grabs a hanging volcanic rock formation.
+Lấy lại thăng bằng.
 
-The beast falls below him.
+Con quái vật lao người về phía trước.
+
+Móng vuốt của nó suýt chạm vào bộ đồ của anh.
+
+Tro bụi và mảnh vụn nóng chảy lấp đầy khung hình.
 
 ⸻
 
-13–15s — FINAL PAYOFF
+8–11 giây — HỖN LOẠN
 
-The creature crashes into the lava.
+Cảnh quay kiểu drone từ trên cao.
 
-Molten rock erupts everywhere.
+Toàn bộ sườn núi bắt đầu sụp đổ dưới sức nặng của cả hai.
 
-The astronaut looks down—
+Những tảng đá lớn vỡ ra.
 
-Relieved.
+Phi hành gia nhảy qua một khe nứt đang mở rộng.
 
-Then suddenly—
+Con quái vật đuổi theo.
 
-The beast erupts back out of the lava completely engulfed in fire.
+Cú nhảy làm nứt toác phần đá còn lại.
 
-Roaring.
+Mọi thứ bắt đầu đổ sụp.
 
-Launching itself toward him.
+⸻
+
+11–13 giây — KẾT QUẢ DỰ BÁO
+
+Sườn núi hoàn toàn sụp đổ.
+
+Phi hành gia và quái vật lao xuống dòng sông dung nham đang cuộn trào.
+
+Hiệu ứng bullet time.
+
+Phi hành gia bám vào một khối đá núi lửa treo lơ lửng.
+
+Con quái vật rơi xuống bên dưới anh.
+
+⸻
+
+13–15 giây — KẾT QUẢ CUỐI CÙNG
+
+Sinh vật đó rơi xuống dung nham.
+
+Đá nóng chảy phun trào khắp nơi.
+
+Phi hành gia nhìn xuống—
+
+Thở phào nhẹ nhõm.
+
+Sau đó bất ngờ—
+
+Con quái vật lao ngược lên từ dung nham, toàn thân chìm trong lửa.
+
+Gầm thét.
+
+Lao thẳng về phía anh.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1bbc3d26077cca6baea2fb93e536684c/thumbnails/thumbnail.jpg" width="600" alt="The Lava Beast Duel Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1bbc3d26077cca6baea2fb93e536684c/thumbnails/thumbnail.jpg" width="600" alt="Prompt video Cuộc đối đầu với Quái vật Dung nham">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5429)**
 
 **Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060360339628364155) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Epic Mammoth Charge Survival Sequence
+### Chuỗi cảnh sinh tồn hoành tráng: Cuộc truy đuổi của voi ma mút
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A thrilling fantasy video prompt set on a frozen tundra where a hunter lures a giant white werewolf into the middle of a woolly mammoth stampede.
+> Một video prompt giả tưởng đầy kịch tính lấy bối cảnh vùng lãnh nguyên băng giá, nơi một thợ săn dụ một con người sói trắng khổng lồ vào giữa đàn voi ma mút đang giận dữ.
 
 #### 📝 Prompt
 
 ```
-Epic fantasy survival sequence set on a vast frozen tundra beneath storm-filled northern skies. Endless snowfields stretch to the horizon. Winds whip across the landscape. Visibility constantly shifts as snow blows through frame. High-action chase with huge scale and relentless momentum. Sound: pounding footsteps, mammoth calls, werewolf roars, cracking ice, screaming wind.
+Chuỗi cảnh sinh tồn giả tưởng hoành tráng lấy bối cảnh vùng lãnh nguyên băng giá rộng lớn dưới bầu trời phương Bắc đầy bão tố. Những cánh đồng tuyết trải dài đến tận chân trời. Gió rít gào trên khắp cảnh quan. Tầm nhìn liên tục thay đổi khi tuyết thổi qua khung hình. Cuộc rượt đuổi hành động cao độ với quy mô lớn và nhịp độ dồn dập. Âm thanh: tiếng bước chân dồn dập, tiếng voi ma mút kêu, tiếng người sói gầm, tiếng băng nứt, tiếng gió rít.
 
 ⸻
 
-0–3s — HOOK
+0–3 giây — MỞ ĐẦU
 
-A young hunter sprints across an open snowfield.
+Một thợ săn trẻ tuổi chạy nước rút trên cánh đồng tuyết trống trải.
 
-Animal furs wrapped around his shoulders.
+Khoác trên vai những tấm da thú.
 
-A hunting spear gripped tightly in one hand.
+Tay nắm chặt một cây giáo săn.
 
-His breath freezes in the air.
+Hơi thở của anh đông cứng trong không khí.
 
-Behind him—
+Phía sau anh—
 
-A colossal white werewolf bursts over a ridge.
+Một con người sói trắng khổng lồ lao qua sườn núi.
 
-Nearly nine feet tall.
+Cao gần 3 mét.
 
-Massive muscles visible beneath thick frost-covered fur.
+Cơ bắp cuồn cuộn ẩn dưới lớp lông dày phủ đầy sương giá.
 
-Blue eyes glowing through blowing snow.
+Đôi mắt xanh rực sáng giữa làn tuyết thổi.
 
-The creature immediately locks onto him.
+Sinh vật này ngay lập tức khóa mục tiêu vào anh.
 
-It charges downhill.
+Nó lao xuống dốc.
 
-Fast.
+Nhanh.
 
-Much too fast.
-
-⸻
-
-3–6s — ESCALATION
-
-The hunter pushes himself harder.
-
-Snow explodes beneath every stride.
-
-The werewolf rapidly closes distance.
-
-Its powerful legs launch it through deep drifts effortlessly.
-
-Every leap covers huge ground.
-
-The hunter glances back.
-
-The beast is only seconds away.
-
-Its jaws snap.
-
-Its roar echoes across the tundra.
+Quá nhanh.
 
 ⸻
 
-6–9s — BUILD
+3–6 giây — LEO THANG
 
-Ahead—
+Người thợ săn cố gắng chạy nhanh hơn.
 
-Movement.
+Tuyết tung bay dưới mỗi bước chân.
 
-A gigantic migrating herd of woolly mammoths crosses the frozen plain.
+Con người sói nhanh chóng rút ngắn khoảng cách.
 
-Dozens of them.
+Đôi chân mạnh mẽ giúp nó lướt qua những lớp tuyết dày một cách dễ dàng.
 
-Towering bodies.
+Mỗi cú nhảy bao phủ một khoảng cách lớn.
 
-Massive curved tusks.
+Người thợ săn ngoái nhìn lại.
 
-The ground vibrates beneath their weight.
+Quái thú chỉ còn cách vài giây.
 
-The hunter changes direction and runs directly toward the herd.
+Bộ hàm của nó đớp lấy không khí.
 
-The werewolf follows without hesitation.
-
-⸻
-
-9–12s — THE PLAN
-
-The hunter reaches the mammoths.
-
-He darts between enormous legs and charging bodies.
-
-Snow and ice spray into the air.
-
-The werewolf enters the herd moments later.
-
-Now completely surrounded by mammoths.
-
-The hunter plants his feet.
-
-Turns.
-
-Throws his spear.
-
-Bullet time.
-
-The spear spins through the air.
-
-Strikes a mammoth’s flank.
+Tiếng gầm của nó vang vọng khắp lãnh nguyên.
 
 ⸻
 
-12–15s — PAYOFF
+6–9 giây — CAO TRÀO
 
-The injured mammoth bellows.
+Phía trước—
 
-The herd panics instantly.
+Có chuyển động.
 
-Dozens of mammoths turn simultaneously.
+Một đàn voi ma mút khổng lồ đang di cư băng qua vùng đồng bằng đóng băng.
 
-Thousands of pounds of muscle and tusk begin charging directly toward the werewolf.
+Hàng chục con.
 
-The beast tries to stop.
+Những thân hình cao lớn.
 
-Too late.
+Những chiếc ngà cong vút.
 
-The stampede slams into it.
+Mặt đất rung chuyển dưới sức nặng của chúng.
 
-Tusks.
+Người thợ săn đổi hướng và chạy thẳng về phía đàn voi.
 
-Snow.
+Con người sói đuổi theo không chút do dự.
 
-Fur.
+⸻
 
-Ice.
+9–12 giây — KẾ HOẠCH
 
-Chaos.
+Người thợ săn tiếp cận đàn voi ma mút.
 
-The werewolf disappears beneath a wall of charging mammoths.
+Anh luồn lách giữa những đôi chân khổng lồ và những thân hình đang lao tới.
 
-The hunter watches from a rocky outcrop as the herd thunders past.
+Tuyết và băng bắn tung lên không trung.
 
-Snow fills the air.
+Con người sói tiến vào giữa đàn voi ngay sau đó.
 
-The creature is gone.
+Giờ đây nó hoàn toàn bị bao vây bởi những con voi ma mút.
 
-Only the sound of the stampede remains.
+Người thợ săn dừng chân.
+
+Quay lại.
+
+Phóng cây giáo.
+
+Hiệu ứng quay chậm (Bullet time).
+
+Cây giáo xoay tròn trong không trung.
+
+Cắm phập vào sườn một con voi ma mút.
+
+⸻
+
+12–15 giây — KẾT QUẢ
+
+Con voi ma mút bị thương rống lên.
+
+Cả đàn hoảng loạn ngay lập tức.
+
+Hàng chục con voi ma mút đồng loạt quay đầu.
+
+Hàng ngàn cân cơ bắp và ngà bắt đầu lao thẳng về phía con người sói.
+
+Quái thú cố gắng dừng lại.
+
+Đã quá muộn.
+
+Cả đàn voi lao sầm vào nó.
+
+Ngà.
+
+Tuyết.
+
+Lông.
+
+Băng.
+
+Hỗn loạn.
+
+Con người sói biến mất dưới bức tường voi ma mút đang lao tới.
+
+Người thợ săn quan sát từ một mỏm đá khi đàn voi chạy vụt qua.
+
+Tuyết lấp đầy không gian.
+
+Sinh vật đó đã biến mất.
+
+Chỉ còn lại âm thanh của đàn voi đang chạy đi.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060354793890357249/img/1YwIi43ZPwLRgyHD.jpg" width="600" alt="Epic Mammoth Charge Survival Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9f56035e387872401d848a3e7c4dc84/thumbnails/thumbnail.jpg" width="600" alt="Chuỗi cảnh sinh tồn hoành tráng: Cuộc truy đuổi của voi ma mút">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5457)**
 
 **Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060354858277019768) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Magma Demon Medieval Siege
+### Cuộc vây hãm thời trung cổ của quỷ dung nham
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dark fantasy apocalypse prompt featuring a colossal magma demon destroying a medieval kingdom with dramatic cinematography and debris effects.
+> Một câu lệnh (prompt) về ngày tận thế giả tưởng đen tối, mô tả một con quỷ dung nham khổng lồ đang tàn phá một vương quốc thời trung cổ với kỹ thuật quay phim ấn tượng và hiệu ứng đổ nát.
 
 #### 📝 Prompt
 
 ```
-A colossal demonic creature with obsidian skin cracked by flowing magma, gigantic horns piercing through smoke clouds, glowing eyes radiating pure rage
-Emerges from beneath the earth and rampages through a medieval kingdom, crushing castles with its bare hands while armies desperately attack from every direction
-Dark fantasy apocalypse with burning villages, collapsing cathedrals, lava fissures splitting the ground and dragons circling through ash-filled skies
-Begins with ground-level tracking as cracks spread violently through the city, sudden eruption sending debris flying toward the camera, whip pans following collapsing towers, aerial orbit around the demon roaring through flames, fire and molten rock flooding the frame, ending with the demon standing atop the destroyed kingdom while the last remaining castle collapses behind it into lava, camera slowly pulling back through smoke revealing complete annihilation across the horizon
+Một sinh vật quỷ khổng lồ với làn da obsidian nứt nẻ bởi dòng dung nham đang chảy, đôi sừng khổng lồ xuyên qua những đám mây khói, đôi mắt rực sáng tỏa ra sự giận dữ tột độ
+Trồi lên từ lòng đất và càn quét qua một vương quốc thời trung cổ, nghiền nát các lâu đài bằng đôi tay trần trong khi quân đội tuyệt vọng tấn công từ mọi hướng
+Ngày tận thế giả tưởng đen tối với những ngôi làng đang bốc cháy, những nhà thờ sụp đổ, các khe nứt dung nham xẻ dọc mặt đất và những con rồng bay lượn trên bầu trời đầy tro bụi
+Bắt đầu với cảnh quay bám theo tầm thấp khi các vết nứt lan rộng dữ dội khắp thành phố, sự phun trào đột ngột khiến các mảnh vỡ bay về phía máy quay, các cú lia máy nhanh theo những tòa tháp đang sụp đổ, cảnh quay trên không xoay quanh con quỷ đang gầm thét giữa ngọn lửa, lửa và đá nóng chảy tràn ngập khung hình, kết thúc với cảnh con quỷ đứng trên đỉnh vương quốc đã bị phá hủy trong khi lâu đài cuối cùng còn sót lại sụp đổ phía sau nó xuống dòng dung nham, máy quay từ từ lùi lại qua làn khói để lộ ra sự hủy diệt hoàn toàn trên đường chân trời
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5b1966061ce67625b08a2f75a7bfefb/thumbnails/thumbnail.jpg" width="600" alt="Magma Demon Medieval Siege">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5b1966061ce67625b08a2f75a7bfefb/thumbnails/thumbnail.jpg" width="600" alt="Cuộc vây hãm thời trung cổ của quỷ dung nham">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5431)**
 
 **Tác giả:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Nguồn:** [Link](https://x.com/CharaspowerAI/status/2060352986509955507) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Sci-Fi Astronaut Monster Chase
+### Cuộc rượt đuổi của quái vật phi hành gia viễn tưởng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic sci-fi horror prompt featuring an astronaut fleeing a giant flying moth-dragon on an alien world with floating islands.
+> Một câu lệnh (prompt) kinh dị khoa học viễn tưởng đậm chất điện ảnh, mô tả một phi hành gia đang chạy trốn khỏi một con rồng bướm khổng lồ trên một hành tinh xa lạ với những hòn đảo bay.
 
 #### 📝 Prompt
 
 ```
-Cinematic photorealistic sci-fi action horror sequence set on a surreal alien world with dark purple skies and endless floating islands covered in glowing blue crystals. An astronaut in a detailed white spacesuit with jetpack runs desperately across the rocky floating platforms, jumping between them while being chased by a massive terrifying winged creature resembling a giant moth-dragon hybrid with powerful wings and sharp features.
-The camera dynamically follows the high-speed chase with sweeping aerial shots, tracking the astronaut from behind and side angles. The astronaut leaps across chasms as glowing crystals pulse with bright blue light. A dramatic close-up shows the astronaut’s terrified face inside the helmet, eyes wide and mouth open in panic. The giant creature swoops aggressively, creating chaos. In the climax, the astronaut grabs onto a thick hanging vine on the edge of a crumbling floating island, looking back in fear as the monster approaches and debris flies everywhere.
-Moody volumetric fog, dramatic purple-blue lighting, intense motion, realistic physics, high detail textures, and epic scale. Fast-paced thrilling survival chase with strong cinematic tension.
+Phân cảnh hành động kinh dị khoa học viễn tưởng chân thực như phim điện ảnh, lấy bối cảnh trên một hành tinh xa lạ siêu thực với bầu trời tím thẫm và vô số hòn đảo bay bao phủ bởi những tinh thể phát sáng màu xanh lam. Một phi hành gia trong bộ đồ du hành vũ trụ màu trắng chi tiết cùng bộ phản lực đang chạy trốn trong tuyệt vọng trên các nền tảng đá lơ lửng, nhảy qua lại giữa chúng trong khi bị truy đuổi bởi một sinh vật có cánh khổng lồ đáng sợ, giống như sự kết hợp giữa rồng và bướm với đôi cánh đầy uy lực cùng những đường nét sắc nhọn.
+Camera theo sát cuộc rượt đuổi tốc độ cao bằng các góc quay trên không bao quát, theo dõi phi hành gia từ phía sau và các góc nghiêng. Phi hành gia nhảy qua các khe vực khi những tinh thể phát sáng nhấp nháy ánh sáng xanh rực rỡ. Một cảnh quay cận cảnh đầy kịch tính cho thấy gương mặt hoảng sợ của phi hành gia bên trong mũ bảo hiểm, đôi mắt mở to và miệng há hốc vì hoảng loạn. Sinh vật khổng lồ lao xuống đầy hung hãn, tạo nên sự hỗn loạn. Ở cao trào, phi hành gia bám lấy một dây leo dày treo lơ lửng trên rìa của một hòn đảo bay đang sụp đổ, nhìn lại phía sau đầy sợ hãi khi con quái vật tiến đến gần và các mảnh vụn bay tứ tung.
+Sương mù thể tích đầy tâm trạng, ánh sáng tím xanh kịch tính, chuyển động cường độ cao, vật lý chân thực, kết cấu chi tiết cao và quy mô hoành tráng. Một cuộc rượt đuổi sinh tồn gay cấn với nhịp độ nhanh và sự căng thẳng đậm chất điện ảnh.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ded2075a8afed31bf7ed63970d6c7f8/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi Astronaut Monster Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ded2075a8afed31bf7ed63970d6c7f8/thumbnails/thumbnail.jpg" width="600" alt="Cuộc rượt đuổi của quái vật phi hành gia viễn tưởng">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5435)**
 
 **Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060346290907848960) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Astronaut vs Giant Alien Spiders Video Prompt
+### Prompt video Phi hành gia đối đầu Nhện ngoài hành tinh khổng lồ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intense, epic-scale sci-fi horror chase prompt for Seedance 2.0 involving giant spider-crab creatures and a transforming environment.
+> Một prompt kinh dị khoa học viễn tưởng với quy mô hoành tráng, kịch tính dành cho Seedance 2.0, bao gồm các sinh vật nhện-cua khổng lồ và môi trường biến đổi.
 
 #### 📝 Prompt
 
 ```
-Cinematic photorealistic sci-fi horror chase sequence set on a dark, foggy alien planet with rocky canyons and floating islands. An astronaut in a white and blue spacesuit runs desperately for his life through a narrow rocky path, looking back in terror. He is relentlessly chased by multiple giant menacing red spider-crab alien creatures with glowing orange eyes and sharp legs.
-The camera dynamically follows from behind and switches to high-angle shots revealing the terrifying scale. The path dramatically transforms into the inside of a massive ancient monster’s mouth lined with huge teeth and fleshy walls. The astronaut keeps running straight into the giant maw as the spider monsters close in. In the climax, the enormous creature awakens, its massive head rising with jaws opening wide. The astronaut is thrown into the air as the gigantic beast emerges powerfully from the mountain-like structure.
-Intense action, dramatic foggy atmosphere, realistic creature details, dynamic camera movement, high tension, and epic scale. Dark moody lighting with volumetric fog, fast-paced editing, and thrilling survival horror vibe. 13-second high-impact sequence.
+Phân cảnh rượt đuổi kinh dị khoa học viễn tưởng chân thực như phim điện ảnh, lấy bối cảnh trên một hành tinh ngoài không gian tối tăm, đầy sương mù với những hẻm núi đá và các hòn đảo lơ lửng. Một phi hành gia trong bộ đồ du hành màu trắng và xanh đang chạy trốn tuyệt vọng trên con đường đá hẹp, ngoái nhìn lại với vẻ kinh hoàng. Anh ta bị truy đuổi không ngừng bởi nhiều sinh vật ngoài hành tinh dạng nhện-cua đỏ khổng lồ, đầy đe dọa với đôi mắt cam rực sáng và những chiếc chân sắc nhọn.
+Camera theo sát từ phía sau một cách linh hoạt và chuyển sang các góc quay từ trên cao để lộ ra quy mô đáng sợ. Con đường biến đổi đầy kịch tính thành bên trong miệng của một con quái vật cổ đại khổng lồ với những chiếc răng lớn và vách thịt. Phi hành gia tiếp tục chạy thẳng vào cái miệng khổng lồ khi lũ quái vật nhện đang áp sát. Ở cao trào, sinh vật khổng lồ thức tỉnh, cái đầu to lớn trồi lên cùng bộ hàm mở rộng. Phi hành gia bị hất tung lên không trung khi con quái vật khổng lồ trỗi dậy đầy uy lực từ cấu trúc giống như ngọn núi.
+Hành động kịch tính, bầu không khí sương mù đầy ám ảnh, chi tiết sinh vật chân thực, chuyển động camera linh hoạt, căng thẳng cao độ và quy mô hoành tráng. Ánh sáng tối tăm, tâm trạng với sương mù thể tích, nhịp độ nhanh và cảm giác kinh dị sinh tồn đầy kịch tính. Phân cảnh tác động mạnh kéo dài 13 giây.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed96a90c65a09bb3ff745c22c2d451c7/thumbnails/thumbnail.jpg" width="600" alt="Astronaut vs Giant Alien Spiders Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed96a90c65a09bb3ff745c22c2d451c7/thumbnails/thumbnail.jpg" width="600" alt="Prompt video Phi hành gia đối đầu Nhện ngoài hành tinh khổng lồ">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5425)**
 
 **Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060344965818139054) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Cinematic Fire Dancer Performance in Abandoned Courtyard
+### Màn trình diễn múa lửa điện ảnh trong sân trong bỏ hoang
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A multi-scene video prompt generating a cinematic performance of a young fire dancer in an ancient stone courtyard, featuring dynamic camera movements and detailed fire visual effects.
+> Một video prompt đa cảnh tạo ra màn trình diễn điện ảnh của một vũ công múa lửa trẻ tuổi trong một sân trong bằng đá cổ kính, với các chuyển động camera linh hoạt và hiệu ứng hình ảnh lửa chi tiết.
 
 #### 📝 Prompt
 
 ```
-A dark, atmospheric outdoor setting at night in an abandoned open courtyard surrounded by ancient stone pillars. The air is still, and faint embers float in the wind. A powerful cinematic silence builds tension with low ambient sound and distant wind.
+Một bối cảnh ngoài trời tối tăm, đầy không khí vào ban đêm tại một sân trong bỏ hoang được bao quanh bởi những cột đá cổ kính. Không khí tĩnh lặng, những đốm lửa nhỏ lơ lửng trong gió. Một sự im lặng điện ảnh đầy uy lực tạo nên sự căng thẳng với âm thanh môi trường trầm và tiếng gió xa xăm.
 
-The camera slowly pushes in on a young fire dancer standing in the center. She wears flowing, elegant performance attire with subtle reflective details that catch the faint glow of nearby embers. Her expression is calm, focused, and almost trance-like.
+Camera từ từ tiến lại gần một vũ công múa lửa trẻ tuổi đang đứng ở trung tâm. Cô mặc trang phục biểu diễn thanh lịch, thướt tha với những chi tiết phản quang tinh tế bắt lấy ánh sáng mờ nhạt của những đốm lửa gần đó. Biểu cảm của cô bình tĩnh, tập trung và gần như đang xuất thần.
 
-At second 3–5, she begins to move slowly. Each hand gesture feels deliberate and controlled. As her fingers trace through the air, **small sparks ignite around her hands**, forming glowing orange trails.
+Ở giây thứ 3–5, cô bắt đầu di chuyển chậm rãi. Mỗi cử chỉ tay đều có chủ đích và được kiểm soát. Khi những ngón tay cô lướt trong không trung, **những tia lửa nhỏ bùng lên xung quanh đôi bàn tay**, tạo thành những vệt sáng màu cam rực rỡ.
 
-Suddenly, the music drops into a deep cinematic beat.
+Đột nhiên, âm nhạc chuyển sang một nhịp điệu điện ảnh sâu lắng.
 
-She spins once — and a **ring of fire bursts outward** in perfect symmetry around her feet. The flames respond to her movement as if alive. Every motion she makes bends the fire: swirling, rising, and flowing like liquid light.
+Cô xoay người một vòng — và một **vòng lửa bùng phát ra ngoài** đối xứng hoàn hảo quanh đôi chân cô. Những ngọn lửa phản ứng với chuyển động của cô như thể chúng đang sống. Mọi cử động cô thực hiện đều uốn cong ngọn lửa: xoáy, bốc cao và chảy tràn như ánh sáng lỏng.
 
-The camera switches between:
+Camera chuyển đổi giữa:
 
-* Slow-motion close-ups of her hands controlling fire streams
-* Low-angle shots showing flames rising behind her like a crown
-* Wide cinematic orbit shots circling her as fire forms patterns in the air
+* Các cảnh quay cận cảnh chuyển động chậm (slow-motion) đôi bàn tay cô đang điều khiển các dòng lửa
+* Các góc quay thấp cho thấy ngọn lửa bốc lên sau lưng cô như một chiếc vương miện
+* Các cảnh quay toàn cảnh điện ảnh xoay quanh cô khi lửa tạo thành các hình mẫu trong không trung
 
-At second 10–13, she raises both hands upward — and the flames rise dramatically into the sky, forming a **giant spiraling fire vortex above her**.
+Ở giây thứ 10–13, cô giơ cả hai tay lên cao — và những ngọn lửa bốc lên dữ dội lên bầu trời, tạo thành một **cơn lốc lửa xoáy khổng lồ phía trên cô**.
 
-Final moment: she gently lowers her hands, and the fire collapses into glowing embers that float around her like fireflies. She stands still in the center, untouched, powerful, and calm.
+Khoảnh khắc cuối cùng: cô nhẹ nhàng hạ tay xuống, và ngọn lửa tan biến thành những đốm sáng rực rỡ trôi nổi xung quanh cô như những con đom đóm. Cô đứng yên ở trung tâm, không hề hấn gì, đầy uy quyền và điềm tĩnh.
 
-End with a cinematic freeze frame: her silhouette surrounded by drifting embers, warm orange glow against deep black night sky, ultra-dramatic fantasy realism.
+Kết thúc bằng một khung hình đóng băng đầy điện ảnh: bóng dáng cô được bao quanh bởi những đốm lửa trôi dạt, ánh sáng màu cam ấm áp tương phản với bầu trời đêm đen thẳm, mang phong cách hiện thực giả tưởng cực kỳ ấn tượng.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060342500913508353/pu/img/D1Gx-ExoyVxXnN8w.jpg" width="600" alt="Cinematic Fire Dancer Performance in Abandoned Courtyard">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f69f830a7dc6bde023d001a4c1c2e9cd/thumbnails/thumbnail.jpg" width="600" alt="Màn trình diễn múa lửa điện ảnh trong sân trong bỏ hoang">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5451)**
 
 **Tác giả:** [Ai Doctor](https://x.com/DoctorAmna11) | **Nguồn:** [Link](https://x.com/DoctorAmna11/status/2060342535822979429) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Cartoon Chef Boy Hotel Kitchen Sequence
+### Chuỗi cảnh đầu bếp hoạt hình trong bếp khách sạn
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A multi-frame video prompt telling a story of a cute cartoon chef preparing a gourmet dish in a grand hotel kitchen with warm cinematic lighting.
+> Một video prompt đa khung hình kể về câu chuyện một cậu bé đầu bếp hoạt hình dễ thương đang chuẩn bị món ăn thượng hạng trong căn bếp khách sạn sang trọng với ánh sáng điện ảnh ấm áp.
 
 #### 📝 Prompt
 
 ```
-Frame 1: Cute cartoon chef boy walking slowly into grand hotel kitchen, camera slowly zooming out, golden warm light glowing, cinematic entrance, no text, 4K
+Khung 1: Cậu bé đầu bếp hoạt hình dễ thương bước chậm rãi vào căn bếp khách sạn sang trọng, máy quay thu nhỏ dần, ánh sáng vàng ấm áp tỏa ra, lối vào đậm chất điện ảnh, không văn bản, 4K
 
-Frame 2: Cartoon chef boy carefully picking fresh vegetables, hands moving slowly, ingredients glistening, warm golden light, cinematic close-up, no text, 4K
+Khung 2: Cậu bé đầu bếp hoạt hình cẩn thận chọn rau củ tươi, đôi tay di chuyển chậm rãi, nguyên liệu sáng bóng, ánh sáng vàng ấm áp, cận cảnh điện ảnh, không văn bản, 4K
 
-Frame 3: Cartoon chef boy chopping vegetables slowly, knife moving with motion blur, steam rising gently, cinematic lighting, no text, 4K
+Khung 3: Cậu bé đầu bếp hoạt hình thái rau củ chậm rãi, con dao di chuyển với hiệu ứng nhòe chuyển động, hơi nước bốc lên nhẹ nhàng, ánh sáng điện ảnh, không văn bản, 4K
 
-Frame 4: Cartoon chef boy tossing food in pan, dramatic flames rising slowly, sparks flying, fire lighting up face, cinematic slow motion, no text, 4K
+Khung 4: Cậu bé đầu bếp hoạt hình hất thức ăn trong chảo, ngọn lửa ấn tượng bốc lên chậm rãi, tia lửa bay tung tóe, ánh lửa chiếu sáng gương mặt, chuyển động chậm điện ảnh, không văn bản, 4K
 
-Frame 5: Golden sauce pouring slowly from ladle into pan, steam rising dramatically, warm cinematic light, extreme slow motion, no text, 4K
+Khung 5: Nước sốt vàng óng đổ chậm rãi từ muôi vào chảo, hơi nước bốc lên đầy ấn tượng, ánh sáng điện ảnh ấm áp, chuyển động siêu chậm, không văn bản, 4K
 
-Frame 6: Cartoon chef boy tasting food from spoon, eyes closing slowly with blissful expression, soft warm light on face, cinematic portrait, no text, 4K
+Khung 6: Cậu bé đầu bếp hoạt hình nếm thử thức ăn từ thìa, đôi mắt nhắm lại chậm rãi với biểu cảm hạnh phúc, ánh sáng ấm áp dịu nhẹ trên gương mặt, chân dung điện ảnh, không văn bản, 4K
 
-Frame 7: Cartoon chef boy carefully placing garnish on plate with tweezers, dramatic spotlight on dish, slow precise movement, cinematic close-up, no text, 4K
+Khung 7: Cậu bé đầu bếp hoạt hình cẩn thận đặt đồ trang trí lên đĩa bằng nhíp, ánh đèn sân khấu ấn tượng chiếu vào món ăn, chuyển động chính xác chậm rãi, cận cảnh điện ảnh, không văn bản, 4K
 
-Frame 8: Cartoon chef boy lifting silver dome slowly, dramatic steam rising, golden light flooding out, proud smile, cinematic reveal, no text, 4K
+Khung 8: Cậu bé đầu bếp hoạt hình từ từ nhấc nắp đậy bạc, hơi nước bốc lên đầy ấn tượng, ánh sáng vàng tỏa ra, nụ cười tự hào, màn lộ diện đậm chất điện ảnh, không văn bản, 4K
 
-Frame 9: Cartoon chef boy standing tall arms crossed, slow cinematic zoom out, full kitchen glowing behind him, hero moment, warm light, no text, 4K
+Khung 9: Cậu bé đầu bếp hoạt hình đứng thẳng, khoanh tay, máy quay thu nhỏ chậm rãi theo phong cách điện ảnh, toàn bộ căn bếp tỏa sáng phía sau, khoảnh khắc người hùng, ánh sáng ấm áp, không văn bản, 4K
 
-Frame 10: Extreme close-up of beautifully plated gourmet dish, slow cinematic push forward, garnish glistening, golden light, mouth-watering food shot, no text, 4K
+Khung 10: Cận cảnh cực đại món ăn thượng hạng được trình bày đẹp mắt, máy quay tiến dần chậm rãi theo phong cách điện ảnh, đồ trang trí lấp lánh, ánh sáng vàng, hình ảnh món ăn hấp dẫn, không văn bản, 4K
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060268763824672768/img/q8pamDGZpX3h2N4-.jpg" width="600" alt="Cartoon Chef Boy Hotel Kitchen Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1419b6c1507e7447c1691d3cc69ab353/thumbnails/thumbnail.jpg" width="600" alt="Chuỗi cảnh đầu bếp hoạt hình trong bếp khách sạn">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5461)**
 
 **Tác giả:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **Nguồn:** [Link](https://x.com/itsshara_ai/status/2060341637356966097) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Cinematic Luxury Lifestyle Speedboat Scene
+### Cảnh quay du thuyền phong cách sống sang trọng đậm chất điện ảnh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional Hollywood-style commercial video prompt of a young woman driving a speedboat on the ocean during golden hour, with highly realistic water physics and drone tracking.
+> Một câu lệnh (prompt) tạo video quảng cáo chuyên nghiệp theo phong cách Hollywood, mô tả một phụ nữ trẻ đang lái du thuyền trên đại dương vào giờ vàng, với hiệu ứng vật lý nước chân thực và góc quay drone bám đuổi.
 
 #### 📝 Prompt
 
 ```
-A highly realistic cinematic luxury lifestyle scene filmed like a professional Hollywood commercial.
+Một cảnh quay phong cách sống sang trọng, chân thực đậm chất điện ảnh, được thực hiện như một thước phim quảng cáo chuyên nghiệp của Hollywood.
 
-Opening shot: captured with a stabilized drone camera during golden hour over a calm deep-blue ocean. A beautiful young woman in her mid-20s naturally drives a modern white speedboat at medium-fast speed. Her hair flows realistically in the wind, sunlight softly reflects on her skin, and the water movement looks physically accurate with natural splashes and detailed wake trails behind the boat.
+Cảnh mở đầu: được quay bằng camera drone ổn định trong thời điểm giờ vàng trên mặt biển xanh thẳm tĩnh lặng. Một cô gái trẻ xinh đẹp ở độ tuổi đôi mươi đang tự nhiên điều khiển chiếc du thuyền hiện đại màu trắng với tốc độ trung bình. Mái tóc cô bay nhẹ trong gió một cách chân thực, ánh nắng phản chiếu dịu nhẹ trên làn da, và chuyển động của mặt nước trông chính xác về mặt vật lý với những tia nước tự nhiên cùng vệt sóng chi tiết phía sau thuyền.
 
-Camera transitions smoothly between professional cinematic angles:
-— wide aerial drone tracking shot
-— side profile tracking shot close to the water
-— realistic handheld close-up of her adjusting the steering wheel
-— slow-motion splash shots with authentic lighting reflections
-— cinematic close-up of her relaxed confident expression wearing elegant sunglasses
+Camera chuyển cảnh mượt mà giữa các góc quay điện ảnh chuyên nghiệp:
+— Góc quay drone toàn cảnh từ trên cao
+— Góc quay ngang bám đuổi sát mặt nước
+— Cận cảnh cầm tay chân thực khi cô điều chỉnh vô lăng
+— Các cảnh quay chậm (slow-motion) bắt trọn tia nước với phản chiếu ánh sáng chân thực
+— Cận cảnh điện ảnh gương mặt thư thái, tự tin của cô khi đeo kính râm sang trọng
 
-The boat movement feels realistic with proper wave interaction and balanced motion physics. Natural wind simulation, true-to-life ocean textures, realistic shadows, premium color grading, subtle lens flare, shallow depth of field, documentary-style realism mixed with luxury commercial aesthetics.
+Chuyển động của thuyền mang lại cảm giác chân thực với sự tương tác sóng nước chuẩn xác và vật lý chuyển động cân bằng. Mô phỏng gió tự nhiên, kết cấu đại dương sống động, đổ bóng chân thực, hiệu chỉnh màu sắc cao cấp, hiệu ứng lóe sáng (lens flare) tinh tế, độ sâu trường ảnh nông, sự kết hợp giữa chủ nghĩa hiện thực kiểu phim tài liệu và thẩm mỹ quảng cáo sang trọng.
 
-Final shot: drone slowly pulls away as the speedboat moves toward the glowing sunset horizon, creating a premium emotional ending.
+Cảnh kết: drone từ từ bay xa khi chiếc du thuyền tiến về phía đường chân trời rực rỡ lúc hoàng hôn, tạo nên một cái kết đầy cảm xúc và đẳng cấp.
 
-Style: ultra photorealistic, professionally filmed, cinematic lighting, realistic camera motion, authentic human movement, luxury travel commercial, 4K HDR, smooth transitions, no CGI look, no artificial facial distortions, natural body proportions, highly detailed water simulation...
+Phong cách: siêu thực, quay phim chuyên nghiệp, ánh sáng điện ảnh, chuyển động camera thực tế, cử động con người tự nhiên, quảng cáo du lịch sang trọng, 4K HDR, chuyển cảnh mượt mà, không có cảm giác CGI, không biến dạng khuôn mặt, tỷ lệ cơ thể tự nhiên, mô phỏng nước chi tiết cao...
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060336731191197697/pu/img/NKMrfBdObQe4CVBn.jpg" width="600" alt="Cinematic Luxury Lifestyle Speedboat Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3d7f577cd476a9555bb75307d18f9cc/thumbnails/thumbnail.jpg" width="600" alt="Cảnh quay du thuyền phong cách sống sang trọng đậm chất điện ảnh">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5456)**
 
 **Tác giả:** [Ai Girllie](https://x.com/Inshrah_ali_) | **Nguồn:** [Link](https://x.com/Inshrah_ali_/status/2060336792646361109) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Festive Mushroom City Anime Chase
+### Cuộc rượt đuổi anime tại Thành phố Nấm lễ hội
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A high-energy anime escape sequence set in a vibrant festival mushroom city, featuring a thief girl dodging crowds and leaping across rooftops with cinematic lighting and dynamic angles.
+> Một phân cảnh trốn thoát phong cách anime đầy năng lượng lấy bối cảnh tại một thành phố nấm lễ hội rực rỡ, với nhân vật nữ đạo chích đang lách qua đám đông và nhảy qua các mái nhà với ánh sáng điện ảnh cùng các góc quay năng động.
 
 #### 📝 Prompt
 
 ```
-@Image 1 = Protagonist character. @Image 2 = Storyboard reference. Based on the attached storyboard image, create a 15-second horizontal 16:9 anime thrilling escape scene video. Theme: Thief Girl. Animate as a high-tempo, brisk scene following the panel order of the storyboard. Flow: Start with an overhead view of a festive giant mushroom city. A girl in a blue hood, blending into the heat and decorations of the crowd, steals a rare glowing mushroom from the center of the festival. Mix close-ups of hands and expressions during the theft, and show a thrilling smile as if she's enjoying herself immediately after succeeding. Afterward, escape briskly using the multi-level platforms of the festival venue, rooftops of stalls, decorated walkways, and spaces filled with ropes and cloth. Pursuers and the surrounding crowd are surprised and begin to chase her; the girl slips through people, leaps over them, slides, and escapes nimbly. End by escaping to a high platform or bridge and running through the festive lights. Style: High-quality anime film style, cinematic lighting, top-tier animation, high definition, vivid colors, a celebratory and gorgeous atmosphere, busy crowds, giant mushroom decorations, and an energetic world where confetti and fabric decorations dance. Make the girl embody both cuteness and agility, with an aura of combined fun and danger. Editing: Use rhythmic high-speed cuts, close-ups, extreme close-ups, low angles, overhead shots, quick pans, and smooth match cuts. Incorporate hand close-ups at the moment of theft, expression close-ups at the start of the run, following shots slipping through crowds, overhead shots jumping between platforms, extreme close-ups of feet upon landing, and dynamic diagonal compositions using rope or cloth for movement. Create an energetic and stylish video, making use of the height differences and congestion unique to a festival city for a thrilling escape. Important: Do not make it a slideshow of still images. Animate running and stealing naturally. Maintain the same festival mushroom city atmosphere and high-quality anime style throughout. Do not include text, subtitles, logos, or watermarks. Perform the suspenseful thrill as a brisk scene. Consistently maintain the protagonist's face, blue hood, outfit, basket, and the shape of the glowing mushroom throughout.
+@Image 1 = Nhân vật chính. @Image 2 = Tham chiếu bảng phân cảnh. Dựa trên hình ảnh bảng phân cảnh đính kèm, hãy tạo một video anime dài 15 giây theo khung hình ngang 16:9 về một cảnh trốn thoát kịch tính. Chủ đề: Nữ đạo chích. Hoạt họa theo phong cách nhanh, dồn dập, tuân theo thứ tự các khung hình trong bảng phân cảnh. Diễn biến: Bắt đầu bằng góc nhìn từ trên cao xuống một thành phố nấm khổng lồ đang trong không khí lễ hội. Một cô gái đội mũ trùm đầu màu xanh, hòa mình vào không khí náo nhiệt và các món đồ trang trí của đám đông, đánh cắp một cây nấm phát sáng quý hiếm từ trung tâm lễ hội. Kết hợp các cảnh quay cận cảnh bàn tay và biểu cảm trong lúc thực hiện vụ trộm, đồng thời thể hiện nụ cười đầy phấn khích như thể cô đang tận hưởng thành quả ngay sau khi thành công. Sau đó, nhanh chóng tẩu thoát bằng cách sử dụng các nền tảng nhiều tầng của địa điểm lễ hội, mái nhà của các gian hàng, lối đi được trang trí, và những không gian đầy dây thừng cùng vải vóc. Những kẻ truy đuổi và đám đông xung quanh ngạc nhiên và bắt đầu đuổi theo cô; cô gái lách qua mọi người, nhảy qua họ, trượt đi và tẩu thoát một cách linh hoạt. Kết thúc bằng cảnh cô chạy thoát lên một nền tảng cao hoặc cây cầu và chạy xuyên qua những ánh đèn lễ hội. Phong cách: Phong cách phim anime chất lượng cao, ánh sáng điện ảnh, hoạt họa đỉnh cao, độ phân giải cao, màu sắc sống động, không khí lễ hội lộng lẫy, đám đông nhộn nhịp, các món đồ trang trí hình nấm khổng lồ, và một thế giới tràn đầy năng lượng nơi hoa giấy và các vật dụng trang trí bằng vải bay lượn. Hãy khắc họa cô gái vừa dễ thương vừa nhanh nhẹn, với khí chất kết hợp giữa sự vui vẻ và nguy hiểm. Biên tập: Sử dụng các nhịp cắt nhanh, cận cảnh, cực cận, góc thấp, góc quay từ trên cao, lia máy nhanh và các cảnh chuyển tiếp mượt mà. Kết hợp các cảnh cận cảnh bàn tay lúc thực hiện vụ trộm, cận cảnh biểu cảm khi bắt đầu chạy, các cảnh quay theo sau khi cô lách qua đám đông, góc quay từ trên cao khi nhảy giữa các nền tảng, cực cận cảnh bàn chân khi tiếp đất, và bố cục chéo năng động sử dụng dây thừng hoặc vải để tạo chuyển động. Tạo ra một video đầy năng lượng và phong cách, tận dụng sự chênh lệch về độ cao và sự đông đúc đặc trưng của một thành phố lễ hội để tạo nên một cuộc trốn thoát đầy kịch tính. Quan trọng: Không tạo thành dạng trình chiếu các hình ảnh tĩnh. Hãy hoạt họa cảnh chạy và trộm một cách tự nhiên. Duy trì bầu không khí thành phố nấm lễ hội và phong cách anime chất lượng cao xuyên suốt video. Không bao gồm văn bản, phụ đề, logo hoặc hình mờ. Thể hiện sự kịch tính đầy hồi hộp như một phân cảnh nhanh. Duy trì nhất quán khuôn mặt, mũ trùm đầu màu xanh, trang phục, giỏ và hình dáng của cây nấm phát sáng của nhân vật chính xuyên suốt video.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060315481106714624/img/LM-ANLruIV4cJR-i.jpg" width="600" alt="Festive Mushroom City Anime Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e8f79a5ac1088a28039b28a7f15a1850/thumbnails/thumbnail.jpg" width="600" alt="Cuộc rượt đuổi anime tại Thành phố Nấm lễ hội">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5469)**
 
 **Tác giả:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **Nguồn:** [Link](https://x.com/Ryuki_Yano/status/2060316111569096883) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Arctic Titan Awakening Dark Fantasy Prompt
+### Gợi ý Dark Fantasy: Sự thức tỉnh của Arctic Titan
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A suspenseful dark fantasy sequence featuring a colossal ancient titan trapped beneath an iceberg in a snowstorm.
+> Một phân cảnh dark fantasy đầy kịch tính với hình ảnh gã khổng lồ cổ đại bị giam cầm dưới tảng băng trôi trong cơn bão tuyết.
 
 #### 📝 Prompt
 
 ```
-15-second cinematic dark fantasy sequence inside a frozen arctic wasteland during a violent snowstorm.
+Phân cảnh dark fantasy điện ảnh dài 15 giây lấy bối cảnh vùng đất hoang dã Bắc Cực đóng băng trong một trận bão tuyết dữ dội.
 
-A colossal ancient titan sleeps trapped beneath a massive iceberg larger than mountains, barely visible under layers of translucent ice and deep frozen cracks. Only vague shapes of its gigantic face and body can be seen beneath the frozen surface.
+Một gã khổng lồ cổ đại đang ngủ say, bị giam cầm dưới một tảng băng trôi khổng lồ lớn hơn cả những ngọn núi, chỉ có thể nhìn thấy lờ mờ dưới các lớp băng trong suốt và những vết nứt đóng băng sâu thẳm. Chỉ những hình dáng mơ hồ về khuôn mặt và cơ thể khổng lồ của nó mới có thể được nhìn thấy bên dưới bề mặt băng giá.
 
-The camera slowly glides across the icy landscape with heavy wind, drifting snow particles, frozen fog, and deep blue-white moonlight reflecting through the glacier.
+Máy quay lướt chậm qua khung cảnh băng giá với gió mạnh, các hạt tuyết bay, sương mù đóng băng và ánh trăng xanh trắng phản chiếu qua dòng sông băng.
 
-As the camera pushes closer, subtle tremors begin beneath the ice. Tiny fractures spread slowly across the frozen surface. Deep muffled resonance echoes from below like an ancient heartbeat awakening after centuries.
+Khi máy quay tiến lại gần, những rung chấn tinh tế bắt đầu xuất hiện dưới lớp băng. Những vết nứt nhỏ lan rộng chậm rãi trên bề mặt đóng băng. Tiếng vang trầm đục từ bên dưới vọng lên như nhịp tim cổ đại đang thức tỉnh sau nhiều thế kỷ.
 
-The titan’s enormous eye slowly opens beneath the translucent ice. A massive glowing iris appears under the glacier, illuminating the frozen depths with cold cyan light. Snow and frost slide from the surface as the eye moves for the first time.
+Con mắt khổng lồ của gã khổng lồ từ từ mở ra dưới lớp băng trong suốt. Một mống mắt phát sáng khổng lồ xuất hiện dưới dòng sông băng, chiếu sáng những tầng sâu đóng băng bằng ánh sáng màu lục lam lạnh lẽo. Tuyết và sương giá trượt khỏi bề mặt khi con mắt di chuyển lần đầu tiên.
 
-The surrounding iceberg creaks violently, frozen dust falling into deep cracks. The camera holds on the gigantic eye staring upward from beneath the ice while distant thunder rolls through the blizzard.
+Tảng băng trôi xung quanh kêu răng rắc dữ dội, bụi băng rơi xuống những vết nứt sâu. Máy quay tập trung vào con mắt khổng lồ đang nhìn lên từ bên dưới lớp băng trong khi tiếng sấm xa xăm vang vọng qua cơn bão tuyết.
 
-Style: ultra cinematic dark fantasy, colossal scale, ancient god atmosphere, frozen textures, realistic snow simulation, volumetric fog, moody blue lighting, atmospheric depth, glacier translucency, slow suspense pacing, photorealistic ice details.
+Phong cách: dark fantasy siêu điện ảnh, quy mô khổng lồ, bầu không khí thần thoại cổ đại, kết cấu đóng băng, mô phỏng tuyết chân thực, sương mù thể tích, ánh sáng xanh tâm trạng, chiều sâu không gian, độ trong suốt của sông băng, nhịp độ kịch tính chậm rãi, chi tiết băng chân thực.
 
-Audio: ONLY cinematic sound effects, no music. Arctic wind, distant ice cracking, deep subsonic rumbles, frozen debris shifting, muffled titan breathing beneath the glacier, low resonance pulses.
+Âm thanh: CHỈ có hiệu ứng âm thanh điện ảnh, không có nhạc. Gió Bắc Cực, tiếng băng nứt từ xa, tiếng ầm ầm hạ âm sâu, các mảnh vụn băng dịch chuyển, tiếng thở bị bóp nghẹt của gã khổng lồ dưới dòng sông băng, các xung cộng hưởng thấp.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060300157678141442/pu/img/HE3Xi-Gq2bf8JL7s.jpg" width="600" alt="Arctic Titan Awakening Dark Fantasy Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4beaf2ebc029890b4f733e322f5f90aa/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý Dark Fantasy: Sự thức tỉnh của Arctic Titan">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5449)**
 
 **Tác giả:** [LudovicCreator](https://x.com/LudovicCreator) | **Nguồn:** [Link](https://x.com/LudovicCreator/status/2060300184177856898) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Viking Werewolf Frozen Lake Hunt Prompt
+### Prompt Săn đuổi Người sói Viking trên Hồ băng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic Viking action sequence involving a survival chase on a frozen lake with realistic ice and snow physics.
+> Một phân cảnh hành động Viking hoành tráng với cuộc rượt đuổi sinh tồn trên mặt hồ đóng băng, kết hợp hiệu ứng vật lý băng tuyết chân thực.
 
 #### 📝 Prompt
 
 ```
-Epic Viking fantasy action set on a vast frozen lake beneath a stormy northern sky. Endless snowfields, distant mountains, harsh winds, blowing snow. High-speed chase with brutal survival energy. Sound: crunching ice, roaring wind, heavy breathing, cracking frozen surfaces, monstrous growls.
+Hành động giả tưởng Viking hoành tráng diễn ra trên một mặt hồ đóng băng rộng lớn dưới bầu trời phương Bắc đầy giông bão. Những cánh đồng tuyết vô tận, những ngọn núi xa xăm, gió rít gào, tuyết bay mù mịt. Cuộc rượt đuổi tốc độ cao với năng lượng sinh tồn khốc liệt. Âm thanh: tiếng băng vỡ vụn, tiếng gió gào thét, tiếng thở dốc, tiếng bề mặt băng nứt toác, tiếng gầm gừ của quái vật.
 
-0–3s — HOOK
+0–3s — MỞ ĐẦU
 
-A Viking warrior carrying a flaming torch sprints across a frozen lake.
+Một chiến binh Viking cầm đuốc rực lửa chạy nước rút trên mặt hồ đóng băng.
 
-His boots hammer across the ice.
+Đôi ủng của anh nện mạnh xuống nền băng.
 
-Behind him—
+Phía sau anh—
 
-A gigantic frost-covered werewolf bursts through drifting snow.
+Một con người sói khổng lồ phủ đầy sương giá lao ra từ màn tuyết bay.
 
-White fur coated in ice crystals.
+Bộ lông trắng phủ đầy tinh thể băng.
 
-Blue eyes glowing.
+Đôi mắt xanh rực sáng.
 
-Its massive paws crack the frozen surface beneath every step.
-
-⸻
-
-3–6s — ESCALATION
-
-The warrior pushes harder.
-
-The werewolf rapidly closes distance.
-
-Chunks of ice break apart behind them.
-
-The creature occasionally lunges forward, nearly catching him.
-
-Its claws leave deep fractures spreading across the lake.
+Những bàn chân khổng lồ của nó làm nứt toác bề mặt băng giá sau mỗi bước chạy.
 
 ⸻
 
-6–9s — BUILD
+3–6s — CAO TRÀO
 
-Ahead, a huge pressure crack cuts across the lake.
+Chiến binh tăng tốc hết sức.
 
-The warrior spots it.
+Người sói nhanh chóng thu hẹp khoảng cách.
 
-He lowers his center of gravity and accelerates.
+Những tảng băng vỡ vụn phía sau họ.
 
-The werewolf roars and commits fully to the chase.
+Con quái vật thỉnh thoảng lao tới, suýt chút nữa đã bắt được anh.
 
-Snow and ice explode behind it.
-
-⸻
-
-9–12s — THE TRAP
-
-The warrior reaches the pressure crack and dives into a controlled slide.
-
-He skims across the narrow gap and reaches solid ice beyond.
-
-The werewolf charges after him.
-
-Bullet time.
-
-Its front paws hit the weakened section.
-
-Cracks spread outward in every direction.
+Những móng vuốt của nó để lại các vết nứt sâu lan rộng khắp mặt hồ.
 
 ⸻
 
-12–15s — PAYOFF
+6–9s — PHÁT TRIỂN
 
-The entire frozen surface collapses beneath the werewolf.
+Phía trước, một vết nứt áp lực khổng lồ cắt ngang mặt hồ.
 
-Massive sheets of ice explode upward.
+Chiến binh nhìn thấy nó.
 
-The beast drops into the freezing black water below.
+Anh hạ thấp trọng tâm và tăng tốc.
 
-The warrior rolls onto the snowy shoreline and scrambles to safety.
+Người sói gầm lên và dồn toàn lực vào cuộc săn đuổi.
 
-Behind him, enormous ice slabs crash back into the lake.
+Tuyết và băng nổ tung phía sau nó.
 
-Silence.
+⸻
 
-The warrior stands, breathing heavily, torch still burning.
+9–12s — CÁI BẪY
+
+Chiến binh tiếp cận vết nứt áp lực và thực hiện một cú trượt có kiểm soát.
+
+Anh lướt qua khe hở hẹp và chạm tới vùng băng cứng phía bên kia.
+
+Người sói lao theo anh.
+
+Hiệu ứng Bullet time.
+
+Hai chân trước của nó đập vào phần băng yếu.
+
+Các vết nứt lan rộng ra mọi hướng.
+
+⸻
+
+12–15s — KẾT QUẢ
+
+Toàn bộ bề mặt băng sụp đổ dưới chân người sói.
+
+Những phiến băng khổng lồ văng ngược lên trên.
+
+Con quái vật rơi xuống làn nước đen lạnh giá bên dưới.
+
+Chiến binh lăn người lên bờ tuyết và vội vã tìm nơi an toàn.
+
+Phía sau anh, những tảng băng khổng lồ đổ ập xuống hồ.
+
+Sự im lặng bao trùm.
+
+Chiến binh đứng dậy, thở dốc, ngọn đuốc vẫn cháy rực.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060280339659161600/img/7kWzOvorj8Y51UZZ.jpg" width="600" alt="Viking Werewolf Frozen Lake Hunt Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/048717df23438477d130039b7a488ed7/thumbnails/thumbnail.jpg" width="600" alt="Prompt Săn đuổi Người sói Viking trên Hồ băng">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5450)**
 
 **Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060280405417406523) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Medieval Werewolf Rooftop Chase
+### Cuộc rượt đuổi người sói trên mái nhà thời trung cổ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intense, multi-stage action prompt for a werewolf pursuit across European stone rooftops featuring speed ramps and bullet time.
+> Một câu lệnh hành động đa giai đoạn đầy kịch tính về cuộc truy đuổi người sói trên những mái nhà bằng đá ở châu Âu, kết hợp hiệu ứng tăng tốc và bullet time.
 
 #### 📝 Prompt
 
 ```
-High-action medieval fantasy chase beneath a massive full moon. Ancient European city of stone towers, narrow streets, cathedral spires, smoking chimneys, fluttering banners. Silver moonlight reflects off wet rooftops from recent rain. Fast-paced, chaotic cinematography with aggressive tracking shots, speed ramps, handheld energy, and dramatic moonlit silhouettes. Sound: distant church bells, heavy breathing, tile cracking, werewolf roars, rushing wind.
+Cuộc rượt đuổi giả tưởng thời trung cổ đầy kịch tính dưới ánh trăng tròn khổng lồ. Thành phố châu Âu cổ kính với những tòa tháp đá, đường phố hẹp, tháp chuông nhà thờ, ống khói tỏa khói và những lá cờ bay phấp phới. Ánh trăng bạc phản chiếu trên những mái nhà ướt đẫm sau cơn mưa. Kỹ thuật quay phim nhịp độ nhanh, hỗn loạn với các cú máy theo sát đầy mạnh mẽ, hiệu ứng tăng tốc, cảm giác chân thực của máy quay cầm tay và những bóng đen ấn tượng dưới ánh trăng. Âm thanh: tiếng chuông nhà thờ xa xăm, tiếng thở dốc, tiếng ngói vỡ, tiếng người sói gầm rú và tiếng gió rít.
 
-0–3s — HOOK
+0–3s — MỞ ĐẦU
 
-A rogue thief in a dark leather cloak sprints across steep medieval rooftops.
+Một tên trộm khoác áo choàng da sẫm màu đang chạy nước rút trên những mái nhà thời trung cổ dốc đứng.
 
-He leaps a gap between buildings.
+Hắn nhảy qua khoảng cách giữa các tòa nhà.
 
-The instant he lands—
+Ngay khoảnh khắc hắn tiếp đất—
 
-A gigantic werewolf crashes onto the roof behind him.
+Một con người sói khổng lồ lao xuống mái nhà phía sau hắn.
 
-Eight feet tall.
+Cao tám feet (khoảng 2,4 mét).
 
-Jet-black fur.
+Bộ lông đen tuyền.
 
-Yellow eyes glowing in the moonlight.
+Đôi mắt vàng rực sáng dưới ánh trăng.
 
-The roof caves beneath its weight.
+Mái nhà sụp đổ dưới sức nặng của nó.
 
-Tiles explode everywhere.
-
-⸻
-
-3–6s — ESCALATION
-
-The thief races along the rooftops, vaulting chimneys and sliding over wet tiles.
-
-Behind him, the werewolf ignores every obstacle.
-
-It smashes through chimneys instead of avoiding them.
-
-Bricks and debris rain into the streets below.
-
-The creature gains ground rapidly.
+Ngói vỡ vụn văng tung tóe khắp nơi.
 
 ⸻
 
-6–9s — BUILD
+3–6s — LEO THANG
 
-Ahead, the thief reaches a steep roof overlooking a massive cathedral square.
+Tên trộm chạy dọc theo các mái nhà, nhảy qua các ống khói và trượt trên những viên ngói ướt.
 
-He slides uncontrollably down slick tiles.
+Phía sau hắn, con người sói không hề bận tâm đến bất kỳ chướng ngại vật nào.
 
-The werewolf launches after him.
+Nó đâm sầm qua các ống khói thay vì né tránh chúng.
 
-The gap between them shrinks to almost nothing.
+Gạch và mảnh vụn rơi xuống đường phố bên dưới.
 
-The beast’s claws scrape sparks from the stone.
-
-⸻
-
-9–12s — THE ESCAPE
-
-At the edge of the roof hangs a giant ceremonial banner suspended above the square.
-
-The thief leaps and grabs it.
-
-The banner tears loose from its mountings.
-
-He swings across the moonlit square.
-
-The werewolf follows without hesitation.
-
-Bullet time.
-
-Both suspended over open air.
+Con quái vật nhanh chóng thu hẹp khoảng cách.
 
 ⸻
 
-12–15s — PAYOFF
+6–9s — CAO TRÀO
 
-The thief draws a knife and slices the banner rope.
+Phía trước, tên trộm chạm đến một mái nhà dốc nhìn xuống quảng trường nhà thờ lớn.
 
-He swings clear.
+Hắn trượt không kiểm soát trên những viên ngói trơn trượt.
 
-The werewolf loses its trajectory.
+Con người sói lao theo hắn.
 
-It crashes directly through the cathedral’s enormous stained-glass rose window.
+Khoảng cách giữa chúng gần như bằng không.
 
-Colored glass explodes outward.
+Móng vuốt của con quái vật cào ra những tia lửa từ đá.
 
-The beast disappears into darkness inside the cathedral.
+⸻
 
-The thief lands on the opposite rooftop and turns back.
+9–12s — CUỘC TẨU THOÁT
 
-A massive crash echoes from within the cathedral.
+Ở mép mái nhà treo một lá cờ nghi lễ khổng lồ phía trên quảng trường.
+
+Tên trộm nhảy lên và nắm lấy nó.
+
+Lá cờ tuột khỏi giá đỡ.
+
+Hắn đu mình băng qua quảng trường dưới ánh trăng.
+
+Con người sói đuổi theo không chút do dự.
+
+Hiệu ứng Bullet time.
+
+Cả hai lơ lửng giữa không trung.
+
+⸻
+
+12–15s — KẾT THÚC
+
+Tên trộm rút dao và cắt đứt dây treo lá cờ.
+
+Hắn đu mình thoát ra ngoài.
+
+Con người sói mất đà.
+
+Nó đâm sầm trực diện qua ô cửa sổ kính màu hình hoa hồng khổng lồ của nhà thờ.
+
+Kính màu vỡ vụn bắn ra ngoài.
+
+Con quái vật biến mất vào bóng tối bên trong nhà thờ.
+
+Tên trộm tiếp đất trên mái nhà đối diện và quay đầu nhìn lại.
+
+Một tiếng đổ vỡ dữ dội vang vọng từ bên trong nhà thờ.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a564ede36c43d87a9745d971abf4772/thumbnails/thumbnail.jpg" width="600" alt="Medieval Werewolf Rooftop Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a564ede36c43d87a9745d971abf4772/thumbnails/thumbnail.jpg" width="600" alt="Cuộc rượt đuổi người sói trên mái nhà thời trung cổ">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5433)**
 
 **Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060280102924300676) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Moonlit Werewolf Forest Chase Prompt
+### Gợi ý (Prompt) cảnh rượt đuổi người sói trong rừng dưới ánh trăng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fast-paced dark fantasy action sequence featuring a warrior being chased by a colossal werewolf through a dense forest.
+> Một phân cảnh hành động giả tưởng đen tối nhịp độ nhanh, kể về một chiến binh bị một con người sói khổng lồ truy đuổi trong khu rừng rậm rạp.
 
 #### 📝 Prompt
 
 ```
-Dark fantasy action sequence. Dense moonlit forest at night. Thick fog. Silver moonlight cutting through trees. Fast handheld tracking shots. Chaotic action. Sound: heavy breathing, snapping branches, pounding hooves, werewolf growls.
+Phân cảnh hành động giả tưởng đen tối. Khu rừng rậm rạp dưới ánh trăng vào ban đêm. Sương mù dày đặc. Ánh trăng bạc xuyên qua các tán cây. Những cú máy quay cầm tay theo sát nhịp độ nhanh. Hành động hỗn loạn. Âm thanh: tiếng thở dốc, tiếng cành cây gãy, tiếng móng guốc dậm mạnh, tiếng gầm gừ của người sói.
 
-0–3s — HOOK
+0–3s — MỞ ĐẦU (HOOK)
 
-A young warrior sprints through dense forest carrying a spear.
+Một chiến binh trẻ chạy nước rút qua khu rừng rậm, tay cầm một ngọn giáo.
 
-Branches whip past his face.
+Các cành cây quất vào mặt anh.
 
-Behind him—
+Phía sau anh—
 
-A colossal werewolf crashes through trees.
+Một con người sói khổng lồ lao qua những thân cây.
 
-Massive shoulders.
+Đôi vai đồ sộ.
 
-Silver-gray fur.
+Bộ lông màu xám bạc.
 
-Glowing amber eyes.
+Đôi mắt màu hổ phách rực sáng.
 
-Every step sends dirt flying.
+Mỗi bước chân làm đất đá văng tung tóe.
 
-The creature is gaining fast.
+Sinh vật này đang đuổi theo rất sát.
 
-3–6s — ESCALATION
+3–6s — LEO THANG (ESCALATION)
 
-The warrior vaults fallen logs and dodges tree trunks.
+Chiến binh nhảy qua những khúc gỗ đổ và né tránh các thân cây.
 
-The werewolf tears straight through obstacles instead of avoiding them.
+Người sói xé toạc mọi chướng ngại vật thay vì né tránh chúng.
 
-Entire trees snap and fall.
+Những cái cây bị gãy đổ hoàn toàn.
 
-The forest explodes around them.
+Khu rừng nổ tung xung quanh họ.
 
-The warrior glances back.
+Chiến binh ngoái nhìn lại.
 
-The werewolf is only meters away.
+Người sói chỉ còn cách anh vài mét.
 
-6–9s — BUILD
+6–9s — CAO TRÀO (BUILD)
 
-The warrior bursts into a giant moonlit clearing.
+Chiến binh lao ra một khoảng rừng trống trải dưới ánh trăng.
 
-Ahead—
+Phía trước—
 
-A herd of enormous elk-like creatures stampedes across the field.
+Một đàn sinh vật khổng lồ giống nai đang chạy hoảng loạn băng qua cánh đồng.
 
-Towering antlers.
+Những cặp gạc cao vút.
 
-Dozens of them.
+Hàng chục con.
 
-The ground shakes beneath their charge.
+Mặt đất rung chuyển dưới sức nặng của chúng.
 
-9–12s — CHAOS
+9–12s — HỖN LOẠN (CHAOS)
 
-The warrior dives into the middle of the stampede.
+Chiến binh lao vào giữa đàn thú đang chạy hoảng loạn.
 
-Bodies thunder past on both sides.
+Những thân hình to lớn chạy sầm sập qua hai bên.
 
-The werewolf charges directly after him.
+Người sói đuổi theo ngay sát phía sau anh.
 
-Antlers slam into the beast.
+Những cặp gạc húc mạnh vào con quái vật.
 
-Hooves strike.
+Tiếng móng guốc va đập.
 
-Dirt and debris fill the air.
+Đất đá và mảnh vụn bay đầy không trung.
 
-The clearing becomes complete chaos.
+Khoảng rừng trống trở nên hỗn loạn hoàn toàn.
 
-12–15s — PAYOFF
+12–15s — KẾT THÚC (PAYOFF)
 
-The warrior reaches a cliff edge hidden beyond the clearing.
+Chiến binh chạm đến mép vách đá ẩn sau khoảng rừng trống.
 
-He leaps.
+Anh nhảy xuống.
 
-The werewolf bursts through the stampede behind him and jumps too.
+Người sói lao qua đàn thú phía sau anh và cũng nhảy theo.
 
-The warrior catches a tree growing from the cliff face.
+Chiến binh bám được vào một cái cây mọc ra từ vách đá.
 
-The werewolf misses.
+Người sói trượt mục tiêu.
 
-It sails past him and disappears into the darkness below.
+Nó bay vụt qua anh và biến mất vào bóng tối bên dưới.
 
-The warrior hangs from the tree, breathing hard.
+Chiến binh treo mình trên cây, thở hổn hển.
 
-Cut.
+Cắt.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060270217025191936/img/qJfzwxhrvV5A6LZO.jpg" width="600" alt="Moonlit Werewolf Forest Chase Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f871d0e35fd6fdc828133e5a26e1bcb7/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý (Prompt) cảnh rượt đuổi người sói trong rừng dưới ánh trăng">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5446)**
 
 **Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060270283794374923) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Purikura Booth Comedy Scene
+### Cảnh hài hước trong buồng chụp ảnh Purikura
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A high-tempo animated comedy scene inside a photo booth where three characters fight to be at the center of the frame for each shutter flash, featuring vibrant lighting and expressive reactions.
+> Một phân cảnh hoạt hình hài hước với nhịp độ nhanh bên trong buồng chụp ảnh, nơi ba nhân vật tranh giành vị trí trung tâm khung hình mỗi khi đèn flash nháy, với ánh sáng rực rỡ và những biểu cảm đầy sống động.
 
 #### 📝 Prompt
 
 ```
-Image 1 = Reference for 3 characters. Maintain face, hairstyle, clothing, and atmosphere consistently throughout. Image 2 = Reference for storyboard. Follow panel order, tempo, facial expression changes, competition for positions, and comedy direction. Based on attached Image 1 and Image 2, create a 15-second horizontal 16:9 purikura booth comedy scene video. Theme: A high-tempo, cute, and noisy comedy scene inside a purikura booth where three people fight for the center spot every time the shutter clicks.
+Hình 1 = Tham chiếu cho 3 nhân vật. Duy trì sự nhất quán về khuôn mặt, kiểu tóc, trang phục và không khí trong suốt video. Hình 2 = Tham chiếu cho bảng phân cảnh. Tuân thủ thứ tự khung hình, nhịp độ, sự thay đổi biểu cảm khuôn mặt, sự cạnh tranh vị trí và phong cách hài hước. Dựa trên Hình 1 và Hình 2 được đính kèm, hãy tạo một video hài hước dài 15 giây định dạng ngang 16:9 trong buồng chụp ảnh Purikura. Chủ đề: Một phân cảnh hài hước, dễ thương và ồn ào với nhịp độ nhanh bên trong buồng Purikura, nơi ba người tranh giành vị trí trung tâm mỗi khi màn trập máy ảnh nháy.
 
-Scene Setting: Inside the purikura machine. The camera is a fixed lens view from the purikura machine; do not show shots from outside or include the camera body itself. The screen always shows the three people as seen on the purikura machine's capture display. The three characters should be exactly as in Image 1, maintaining the appeal of the relationship, looks, and expressions of the black-haired male on the left, the girl in the center, and the blonde male on the right. Basic concept: The three compete for the 'best position = center of the screen.' Just before the shutter clicks, someone suddenly moves forward, interrupts from the side, pushes others away, or sticks their face in to steal the center. Include comical and exaggerated reactions, cute poses, anxiety on the verge of making funny faces, jealousy, surprise, playing coy, and forceful interruptions, depicting it as a battle of the desire to 'look good' in a purikura way. Finally, all three should fit in the frame and end with a cute, friendly pose.
+Bối cảnh: Bên trong máy chụp ảnh Purikura. Góc máy là ống kính cố định từ máy Purikura; không quay cảnh từ bên ngoài hoặc để lộ thân máy ảnh. Màn hình luôn hiển thị ba người như trên màn hình chụp của máy Purikura. Ba nhân vật phải giống hệt Hình 1, duy trì sức hút về mối quan hệ, ngoại hình và biểu cảm của nam chính tóc đen bên trái, cô gái ở giữa và nam chính tóc vàng bên phải. Ý tưởng cơ bản: Cả ba tranh giành 'vị trí đẹp nhất = trung tâm màn hình'. Ngay trước khi màn trập nháy, một người bất ngờ tiến lên phía trước, chen ngang từ bên cạnh, đẩy người khác ra hoặc thò mặt vào để chiếm vị trí trung tâm. Bao gồm các phản ứng hài hước và cường điệu, các tư thế dễ thương, sự lo lắng khi sắp làm mặt xấu, sự ghen tị, ngạc nhiên, làm nũng và chen lấn mạnh bạo, khắc họa đây là cuộc chiến của mong muốn 'lên hình đẹp' theo phong cách Purikura. Cuối cùng, cả ba phải nằm gọn trong khung hình và kết thúc bằng một tư thế dễ thương, thân thiện.
 
-Flow (15-second composition): 0.0s-2.0s: The three enter their first pose. The center girl poses cutely, while the two on the sides lean in saying they want to be in it too. It's peaceful but the center battle is already brewing. Expressions: the black-haired male looks like he's coolly aiming for it, the blonde male is exaggerated and high-tension, and the girl is a bit puzzled but posing cutely. 2.0s-4.0s: Just before the first shutter, the blonde male on the right vigorously sticks his face into the center. His face comes close to the front, almost pushing the others out. The girl is surprised, and the black-haired male glares at him unhappily. Emphasize the humor of someone suddenly coming forward. 4.0s-6.0s: Before the next shutter, the black-haired male on the left quickly moves forward and steals the center with a cool pose. The blonde male gives an overreaction ('What?!'), and the girl looks troubled between them. Create laughs through facial close-ups, clashing gazes, and subtle pushing. 6.0s-8.0s: The girl pushes the two back as if to say 'Wait a minute!' and reclaims the center for herself. She performs typical purikura poses like a cute wink or cupping her cheeks. The two on the sides are pushed to the background or edges and look frustrated. 8.0s-10.0s: Matching the shutter sound timing, all three scramble for the center at once. Faces get too close, shoulders bump, one pushes their face in, another enters from the side, making it a chaotic and dense comedy. This is the fastest tempo. Expressions are a mix of panic, stubbornness, surprise, laughter, and desperation. 10.0s-12.5s: They momentarily lose balance but adjust to try and fit within the frame. The pushing changes to an atmosphere of coming together on 'ready, set, go.' The girl moves to the center, the black-haired male to the left, and the blonde male to the right, converging into positions where all three faces are clearly visible. 12.5s-15.0s: The last shutter. All three strike their best poses simultaneously. The girl is cute, the black-haired male smiles coolly, and the blonde male smiles energetically and brightly. End with a final cut of a great purikura photo showing their friendship. Ensure the atmosphere changes from cute chaos to a friendly ending toward the finish.
+Diễn biến (bố cục 15 giây): 0.0s-2.0s: Cả ba thực hiện tư thế đầu tiên. Cô gái ở giữa tạo dáng dễ thương, trong khi hai người ở hai bên nghiêng người vào nói rằng họ cũng muốn xuất hiện. Không khí yên bình nhưng cuộc chiến giành vị trí trung tâm đã bắt đầu nhen nhóm. Biểu cảm: nam tóc đen trông như đang ngầu ngầu nhắm đến vị trí đó, nam tóc vàng thì cường điệu và đầy năng lượng, còn cô gái hơi bối rối nhưng vẫn tạo dáng dễ thương. 2.0s-4.0s: Ngay trước lần nháy màn trập đầu tiên, nam tóc vàng bên phải mạnh mẽ thò mặt vào trung tâm. Mặt cậu ta tiến sát ra phía trước, suýt đẩy những người khác ra ngoài. Cô gái ngạc nhiên, còn nam tóc đen lườm cậu ta đầy khó chịu. Nhấn mạnh sự hài hước khi có người bất ngờ tiến lên phía trước. 4.0s-6.0s: Trước lần nháy tiếp theo, nam tóc đen bên trái nhanh chóng tiến lên và chiếm vị trí trung tâm với một tư thế ngầu. Nam tóc vàng phản ứng thái quá ('Cái gì?!'), và cô gái trông bối rối giữa hai người. Tạo tiếng cười qua các cảnh cận mặt, ánh mắt va chạm và những cú đẩy nhẹ. 6.0s-8.0s: Cô gái đẩy cả hai ra sau như muốn nói 'Chờ chút đã!' và giành lại vị trí trung tâm cho mình. Cô thực hiện các tư thế Purikura điển hình như nháy mắt dễ thương hoặc áp tay vào má. Hai người ở hai bên bị đẩy ra phía sau hoặc ra rìa và trông đầy thất vọng. 8.0s-10.0s: Khớp với nhịp âm thanh màn trập, cả ba cùng tranh giành vị trí trung tâm. Khuôn mặt quá gần nhau, vai va vào nhau, người này thò mặt vào, người kia chen từ bên cạnh, tạo nên một khung cảnh hỗn loạn và dày đặc tiếng cười. Đây là nhịp độ nhanh nhất. Biểu cảm là sự pha trộn giữa hoảng loạn, bướng bỉnh, ngạc nhiên, cười đùa và tuyệt vọng. 10.0s-12.5s: Họ mất thăng bằng trong giây lát nhưng điều chỉnh để cố gắng nằm gọn trong khung hình. Sự đẩy nhau chuyển sang bầu không khí hòa hợp khi nghe hiệu lệnh 'một, hai, ba'. Cô gái di chuyển vào trung tâm, nam tóc đen sang trái và nam tóc vàng sang phải, hội tụ vào vị trí mà cả ba khuôn mặt đều hiển thị rõ ràng. 12.5s-15.0s: Lần nháy màn trập cuối cùng. Cả ba cùng thực hiện tư thế đẹp nhất của mình. Cô gái dễ thương, nam tóc đen mỉm cười ngầu, và nam tóc vàng mỉm cười đầy năng lượng và rạng rỡ. Kết thúc bằng cảnh cuối của một bức ảnh Purikura tuyệt đẹp thể hiện tình bạn của họ. Đảm bảo bầu không khí chuyển từ sự hỗn loạn dễ thương sang một cái kết thân thiện.
 
-Style: Ultra-high quality, ultra-high definition, photorealistic live-action style video. However, the atmosphere should be the pop and cute world of purikura. Overall, use bright and soft high-key lighting, smooth skin texture, slightly pink, lavender, and light blue cute tones, sparkling effects, and a pop, lovely vibe with a youthful energy. A high-tempo visual that feels like the cute purikura culture from the Heisei to Reiwa eras. Direction: The camera is primarily a fixed lens view from the purikura machine. However, to make the final video look pleasing, slight digital punch-ins, subtle shakes, forward/backward movement for momentum, and facial zooming are allowed. Wide shots from the outside are prohibited. Compositions showing the camera body are prohibited. The humor should be created through the subjects' movements, faces entering/exiting, pushing, interruptions, and facial acting. Clearly show the flow of 'almost striking a pose' then collapsing because someone interrupts at each shutter timing. Editing: Emphasize rhythmic high-speed development, close-up cuts, extreme close-ups, momentum-filled forward/backward motion, and facial expression switching. Even if the actual camera position is fixed, create significant changes in the video by having subjects approach/distance themselves from the lens or interrupt from the sides. Be mindful of well-timed shutters, cute pauses, comical crowding, and a perfectly landing finale. Do not make it a slideshow of still images. Move the three naturally and richly as animation while maintaining their faces, hair, clothes, accessories, age, and atmosphere. Emotional Tone: Cute, comedy, chaotic, slightly romantic air, light jealousy, everyone desperate to look their best/coolest, and finally friendly. Important: Do not show the camera body in the frame. Unify shots from the lens perspective of the purikura machine. Maintain consistency in the faces, hairstyles, clothing, and character traits of the three from Image 1 throughout. Follow the tempo, competition for positions, and comedic nature of the storyboard in Image 2. No slideshows. No text, subtitles, logos, or watermarks. Act out the suspenseful excitement as a quick-moving scene. Ensure the three look good and come together cutely at the end.
+Phong cách: Video chất lượng siêu cao, độ phân giải siêu cao, phong cách live-action chân thực. Tuy nhiên, bầu không khí phải mang thế giới pop và dễ thương của Purikura. Nhìn chung, sử dụng ánh sáng high-key tươi sáng và mềm mại, kết cấu da mịn màng, các tông màu dễ thương như hồng nhạt, oải hương và xanh dương nhạt, hiệu ứng lấp lánh và cảm giác pop, đáng yêu với năng lượng trẻ trung. Một hình ảnh nhịp độ nhanh mang cảm giác văn hóa Purikura dễ thương từ thời Heisei đến Reiwa. Chỉ đạo: Máy ảnh chủ yếu là góc ống kính cố định từ máy Purikura. Tuy nhiên, để video cuối cùng trông bắt mắt, các hiệu ứng digital punch-in nhẹ, rung lắc tinh tế, chuyển động tiến/lùi để tạo động lực và zoom khuôn mặt được cho phép. Cấm các cảnh quay rộng từ bên ngoài. Cấm các bố cục để lộ thân máy ảnh. Sự hài hước nên được tạo ra thông qua chuyển động của các chủ thể, khuôn mặt ra/vào khung hình, đẩy nhau, chen ngang và diễn xuất bằng khuôn mặt. Thể hiện rõ diễn biến của việc 'suýt tạo dáng' rồi đổ vỡ vì ai đó chen ngang tại mỗi thời điểm nháy màn trập. Biên tập: Nhấn mạnh sự phát triển nhịp nhàng tốc độ cao, các cảnh cắt cận cảnh, cận cảnh cực đại, chuyển động tiến/lùi đầy động lực và sự thay đổi biểu cảm khuôn mặt. Ngay cả khi vị trí máy ảnh thực tế là cố định, hãy tạo ra những thay đổi đáng kể trong video bằng cách để các chủ thể tiến lại gần/ra xa ống kính hoặc chen ngang từ các phía. Chú ý đến thời điểm nháy màn trập chuẩn xác, các khoảng dừng dễ thương, sự chen chúc hài hước và một cái kết hoàn hảo. Không làm video dạng trình chiếu ảnh tĩnh. Hãy để ba người di chuyển tự nhiên và phong phú như hoạt hình trong khi vẫn duy trì khuôn mặt, kiểu tóc, quần áo, phụ kiện, độ tuổi và bầu không khí của họ. Cảm xúc: Dễ thương, hài hước, hỗn loạn, không khí hơi lãng mạn, ghen tị nhẹ, tất cả mọi người đều khao khát trông đẹp nhất/ngầu nhất và cuối cùng là thân thiện. Quan trọng: Không để lộ thân máy ảnh trong khung hình. Thống nhất các cảnh quay từ góc nhìn ống kính của máy Purikura. Duy trì sự nhất quán về khuôn mặt, kiểu tóc, trang phục và đặc điểm nhân vật của ba người từ Hình 1 trong suốt video. Tuân thủ nhịp độ, sự cạnh tranh vị trí và tính chất hài hước của bảng phân cảnh trong Hình 2. Không làm video trình chiếu. Không có văn bản, phụ đề, logo hoặc hình mờ. Hãy thể hiện sự phấn khích đầy hồi hộp như một phân cảnh chuyển động nhanh. Đảm bảo cả ba trông đẹp và hội tụ một cách dễ thương ở cuối video.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060263346813927424/img/WZnHa8kzSRrLn5qD.jpg" width="600" alt="Purikura Booth Comedy Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f16d9e78c19bad24f0489de9d3d1116d/thumbnails/thumbnail.jpg" width="600" alt="Cảnh hài hước trong buồng chụp ảnh Purikura">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5465)**
 
 **Tác giả:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **Nguồn:** [Link](https://x.com/Ryuki_Yano/status/2060263464069947742) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Fantasy Dragon Bridge Escape Sequence
+### Phân cảnh trốn thoát trên Cầu Rồng kỳ ảo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic fantasy action scene featuring a huntress fleeing an armored werewolf across a collapsing bridge, ending with a dramatic leap onto a dragon's back.
+> Một cảnh hành động kỳ ảo hoành tráng với hình ảnh nữ thợ săn chạy trốn khỏi một con người sói bọc giáp trên cây cầu đang sụp đổ, kết thúc bằng cú nhảy ngoạn mục lên lưng rồng.
 
 #### 📝 Prompt
 
 ```
-High fantasy action sequence. Massive stone bridge spanning a bottomless canyon under stormy skies. Wind howling. Lightning in the distance. Medieval fantasy world. Fast-paced, chaotic cinematography with aggressive camera movement and speed ramps. Sound: crashing stone, werewolf growls, chain rattles, dragon roars.
+Phân cảnh hành động kỳ ảo đỉnh cao. Cây cầu đá khổng lồ bắc qua vực thẳm không đáy dưới bầu trời giông bão. Gió rít gào. Sấm sét phía xa. Thế giới kỳ ảo thời trung cổ. Nhịp độ nhanh, kỹ thuật quay phim hỗn loạn với chuyển động máy quay mạnh mẽ và hiệu ứng tăng tốc. Âm thanh: đá đổ, tiếng người sói gầm gừ, tiếng xích va chạm, tiếng rồng gầm.
 
-0–3s — HOOK
+0–3 giây — MỞ ĐẦU (HOOK)
 
-A female huntress with braided hair, leather armor, and a bow sprints across an ancient stone bridge.
+Một nữ thợ săn với mái tóc tết, mặc giáp da và đeo cung tên đang chạy nước rút trên cây cầu đá cổ xưa.
 
-Behind her—
+Phía sau cô—
 
-A gigantic armored werewolf bursts through the bridge entrance.
+Một con người sói bọc giáp khổng lồ lao qua lối vào cầu.
 
-Seven feet tall.
+Cao hơn 2 mét.
 
-Black fur.
+Lông đen.
 
-Steel armor plates fused into its shoulders and forearms.
+Các tấm giáp thép gắn chặt vào vai và cẳng tay.
 
-It charges at terrifying speed.
+Nó lao tới với tốc độ kinh hoàng.
 
-Stone cracks beneath every step.
+Đá nứt vỡ dưới mỗi bước chân.
 
-3–6s — ESCALATION
+3–6 giây — LEO THANG
 
-The huntress races forward.
+Nữ thợ săn chạy đua về phía trước.
 
-The werewolf smashes through support pillars while gaining ground.
+Con người sói đập tan các cột trụ trong khi dần thu hẹp khoảng cách.
 
-Chunks of stone fall into the canyon.
+Những tảng đá rơi xuống vực sâu.
 
-The bridge begins collapsing section by section behind them.
+Cây cầu bắt đầu sụp đổ từng phần phía sau họ.
 
-The gap between them shrinks rapidly.
+Khoảng cách giữa họ thu hẹp nhanh chóng.
 
-6–9s — BUILD
+6–9 giây — CAO TRÀO
 
-Ahead, the huntress spots a massive hanging chain descending into the canyon.
+Phía trước, nữ thợ săn nhìn thấy một sợi xích treo khổng lồ thả xuống vực.
 
-The bridge is breaking apart.
+Cây cầu đang vỡ vụn.
 
-She sprints harder.
+Cô chạy nhanh hơn nữa.
 
-The werewolf lunges and nearly grabs her cloak.
+Con người sói lao tới và suýt tóm được áo choàng của cô.
 
-A support tower collapses.
+Một tháp đỡ sụp đổ.
 
-The entire bridge starts giving way.
+Toàn bộ cây cầu bắt đầu đổ sập.
 
-9–12s — THE JUMP
+9–12 giây — CÚ NHẢY
 
-The huntress leaps.
+Nữ thợ săn nhảy lên.
 
-She catches the hanging chain and swings out over the canyon.
+Cô bắt lấy sợi xích treo và đu mình ra phía trên vực thẳm.
 
-The werewolf launches after her.
+Con người sói lao theo cô.
 
-Bullet time.
+Hiệu ứng quay chậm (Bullet time).
 
-Chain swinging.
+Sợi xích đung đưa.
 
-Stone exploding.
+Đá nổ tung.
 
-The werewolf suspended mid-air.
+Con người sói lơ lửng giữa không trung.
 
-Its claws miss by inches.
+Vuốt của nó chỉ cách cô vài phân.
 
-12–15s — PAYOFF
+12–15 giây — KẾT THÚC
 
-A giant dragon erupts upward from beneath the canyon.
+Một con rồng khổng lồ vút lên từ dưới vực sâu.
 
-The huntress releases the chain and lands on the dragon’s back.
+Nữ thợ săn buông sợi xích và đáp xuống lưng rồng.
 
-The dragon banks hard.
+Con rồng nghiêng mình mạnh mẽ.
 
-The werewolf falls past them roaring.
+Con người sói rơi xuống phía dưới họ trong tiếng gầm thét.
 
-Disappearing into the fog below.
+Biến mất vào màn sương bên dưới.
 
-The huntress raises her fist.
+Nữ thợ săn giơ nắm đấm lên.
 
-Dragon roars.
+Rồng gầm vang.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060262038669238272/img/6El5e4cibXSL-e6T.jpg" width="600" alt="Fantasy Dragon Bridge Escape Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/76759544d117aeb737d1fbcb24eae490/thumbnails/thumbnail.jpg" width="600" alt="Phân cảnh trốn thoát trên Cầu Rồng kỳ ảo">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5453)**
 
 **Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060262106839363697) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Blue Sports Shoe Product Commercial Shots
+### Ảnh thương mại sản phẩm giày thể thao màu xanh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A series of cinematic product shots for a sports shoe, including extreme slow-motion water splashes and dynamic movement.
+> Một loạt ảnh sản phẩm mang tính điện ảnh cho giày thể thao, bao gồm các cảnh quay nước bắn tung tóe ở chế độ siêu chậm và chuyển động năng động.
 
 #### 📝 Prompt
 
 ```
-Frame 1:
-Slow dramatic zoom into white blue sports shoe laces, single light ray moving subtly, dust particles floating, cinematic 4K, no people
-Frame 2:
-White blue sports shoe hitting wet ground, water droplets exploding outward in extreme slow motion, blue neon light rippling, cinematic, no people
-Frame 3:
-White blue sports shoes moving forward in slow motion on dark road, motion blur, fog drifting slowly, cinematic 4K, no people
-Frame 4:
-White blue sports shoes running left to right, rain falling slowly, wet road reflection shimmering, cinematic, no people
-Frame 5:
-White blue shoe rotating slowly mid-air, smoke wisps drifting upward, black background, cinematic product shot, no people
-Frame 6:
-White blue sports shoe rising upward slowly, clouds moving, golden light expanding, cinematic, no people
-Frame 7:
-Slow cinematic push forward toward white blue shoe, city lights twinkling in background, sun rays expanding, no people
+Khung 1:
+Cận cảnh chậm rãi đầy kịch tính vào dây giày thể thao màu trắng xanh, một tia sáng duy nhất di chuyển tinh tế, các hạt bụi lơ lửng, chất lượng 4K điện ảnh, không có người
+Khung 2:
+Giày thể thao màu trắng xanh chạm xuống mặt đất ướt, các giọt nước bắn tung tóe ra ngoài ở chế độ siêu chậm, ánh sáng neon xanh gợn sóng, chất lượng điện ảnh, không có người
+Khung 3:
+Giày thể thao màu trắng xanh di chuyển về phía trước ở chế độ chậm trên con đường tối, hiệu ứng nhòe chuyển động, sương mù trôi chậm, chất lượng 4K điện ảnh, không có người
+Khung 4:
+Giày thể thao màu trắng xanh chạy từ trái sang phải, mưa rơi chậm, hình ảnh phản chiếu trên mặt đường ướt lung linh, chất lượng điện ảnh, không có người
+Khung 5:
+Giày màu trắng xanh xoay chậm giữa không trung, những làn khói bay lên, nền đen, ảnh sản phẩm điện ảnh, không có người
+Khung 6:
+Giày thể thao màu trắng xanh từ từ bay lên, mây di chuyển, ánh sáng vàng lan tỏa, chất lượng điện ảnh, không có người
+Khung 7:
+Cảnh quay chậm đầy điện ảnh tiến về phía đôi giày màu trắng xanh, ánh đèn thành phố lấp lánh ở phía sau, tia nắng lan tỏa, không có người
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060259713737220096/img/TZ2Nu2-dRXMsED6_.jpg" width="600" alt="Blue Sports Shoe Product Commercial Shots">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bdcd2545bc1511a5467dc3d139a5575a/thumbnails/thumbnail.jpg" width="600" alt="Ảnh thương mại sản phẩm giày thể thao màu xanh">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5447)**
 
 **Tác giả:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **Nguồn:** [Link](https://x.com/itsshara_ai/status/2060260037617152132) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Midnight Arrival Luxury Hotel Prompt
+### Prompt khách sạn sang trọng lúc nửa đêm
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic dark crime drama prompt featuring a luxury hotel arrival on a rainy night, with specific camera moves and atmospheric lighting.
+> Một prompt phim tội phạm đen tối đậm chất điện ảnh, mô tả cảnh đến khách sạn sang trọng trong đêm mưa, với các chuyển động máy quay và ánh sáng không gian đặc trưng.
 
 #### 📝 Prompt
 
 ```
-Grand luxury hotel entrance at night, wet cobblestone street, light rain, glowing city reflections in puddles.
-Style: Dark crime drama film tone, deep shadows, warm amber hotel facade lights against cold blue rain, film grain texture, slow controlled pacing.
-Lighting: Amber hotel awning light, cold blue rain scatter, wet reflective ground surface.
-Audio: Soft rain, distant city hum, low orchestral string swell, sharp footsteps on wet stone.
+Lối vào khách sạn sang trọng về đêm, đường lát đá cuội ướt, mưa nhẹ, ánh đèn thành phố phản chiếu trên các vũng nước.
+Phong cách: Tông màu phim tội phạm đen tối, đổ bóng sâu, ánh đèn mặt tiền khách sạn màu hổ phách ấm áp đối lập với cơn mưa xanh lạnh, kết cấu hạt phim, nhịp độ chậm rãi có kiểm soát.
+Ánh sáng: Đèn mái hiên khách sạn màu hổ phách, ánh sáng tán xạ từ cơn mưa xanh lạnh, bề mặt đất ướt phản chiếu.
+Âm thanh: Tiếng mưa rơi nhẹ, tiếng ồn thành phố từ xa, tiếng đàn dây trầm bổng, tiếng bước chân sắc nét trên nền đá ướt.
 
 [0–4s]
-Camera: Slow aerial pull-down, wide establishing shot.
-Action: A black luxury sedan glides to a stop in front of the hotel entrance. Rain falls steadily. Steam rises from the wet street.
-Lighting: Cool blue rain light, warm amber spill from hotel facade.
+Máy quay: Góc quay từ trên cao hạ xuống chậm, cảnh toàn thiết lập bối cảnh.
+Hành động: Một chiếc sedan hạng sang màu đen lướt nhẹ và dừng lại trước lối vào khách sạn. Mưa rơi đều đặn. Hơi nước bốc lên từ mặt đường ướt.
+Ánh sáng: Ánh sáng xanh lạnh của mưa, ánh sáng hổ phách ấm áp tỏa ra từ mặt tiền khách sạn.
 
 [4–8s]
-Camera: Low-angle static shot, then slow push-in.
-Action: The rear car door swings open. A man in an elegant black suit, sunglasses and leather gloves steps out. Two bodyguards appear behind him holding umbrellas.
-Lighting: Harsh amber key light from the hotel, deep shadows framing the figure.
+Máy quay: Góc thấp tĩnh, sau đó đẩy chậm vào chủ thể.
+Hành động: Cửa sau xe mở ra. Một người đàn ông mặc bộ vest đen lịch lãm, đeo kính râm và găng tay da bước ra. Hai vệ sĩ xuất hiện phía sau anh ta với những chiếc ô.
+Ánh sáng: Ánh sáng chính màu hổ phách gay gắt từ khách sạn, đổ bóng sâu bao quanh nhân vật.
 
 [8–12s]
-Camera: Smooth lateral tracking shot following his stride.
-Action: The suited man walks steadily toward the hotel entrance. Bystanders and hotel staff step aside. Cigarette smoke drifts from his hand.
-Lighting: Rim light from hotel windows, soft fill from overhead awning lamps.
+Máy quay: Cú máy theo ngang mượt mà theo bước chân của anh ta.
+Hành động: Người đàn ông mặc vest bước đi vững chãi về phía lối vào khách sạn. Những người xung quanh và nhân viên khách sạn tránh sang một bên. Khói thuốc lá bay ra từ tay anh ta.
+Ánh sáng: Ánh sáng viền từ cửa sổ khách sạn, ánh sáng phụ dịu nhẹ từ đèn mái hiên phía trên.
 
 [12–15s]
-Camera: Slow orbit around him, low angle rising.
-Action: He pauses at the entrance, adjusts his lapel, and glances back over his shoulder with a faint smirk. Text fades in: "Power doesn't ask for attention."
-Lighting: Warm single-source hotel lobby glow, city lights blurred behind him.
+Máy quay: Xoay chậm quanh chủ thể, góc thấp hướng lên.
+Hành động: Anh ta dừng lại ở lối vào, chỉnh lại ve áo và liếc nhìn lại qua vai với một nụ cười nhếch mép nhẹ. Văn bản hiện lên: "Quyền lực không cần phải tìm kiếm sự chú ý."
+Ánh sáng: Ánh sáng ấm áp từ sảnh khách sạn, ánh đèn thành phố mờ ảo phía sau anh ta.
 
-Avoid: Identity drift, jitter, chaotic composition, temporal flicker, inconsistent features between shots.
+Tránh: Thay đổi nhận diện, rung lắc, bố cục hỗn loạn, nhấp nháy theo thời gian, các đặc điểm không nhất quán giữa các cảnh quay.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060243098043621381/pu/img/YpKNddu6vxhObMsp.jpg" width="600" alt="Midnight Arrival Luxury Hotel Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06b9ec4ba4f89c8b8742cc0a1b539377/thumbnails/thumbnail.jpg" width="600" alt="Prompt khách sạn sang trọng lúc nửa đêm">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5445)**
 
 **Tác giả:** [Zeeshi](https://x.com/AIwithZeeshi) | **Nguồn:** [Link](https://x.com/AIwithZeeshi/status/2060243222199173467) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Rocket Launch Explosion Video Prompt
+### Lời nhắc video về vụ nổ khi phóng tên lửa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A photorealistic video prompt for Seedance 2.0 simulating a catastrophic rocket explosion during a night static fire test.
+> Một lời nhắc video chân thực cho Seedance 2.0 mô phỏng vụ nổ tên lửa thảm khốc trong quá trình thử nghiệm tĩnh vào ban đêm.
 
 #### 📝 Prompt
 
 ```
-Live telecast of a rocket launch with no commentary. Photorealistic recreation of a space rocket catastrophic explosion during a static fire test on the launch pad at nighttime.
-The massive orbital rocket stands vertically on the launch pad under dark night skies. Suddenly, a violent failure triggers an enormous explosion. A gigantic orange-red fireball erupts instantly from the base, rapidly expanding into a towering mushroom cloud of fire, thick black smoke, and flying debris. A powerful shockwave blasts outward, shaking the entire scene. The rocket structure violently disintegrates as intense flames completely consume it.
-Dynamic camera work captures the raw power with realistic fire physics, glowing embers, billowing smoke, and dramatic nighttime lighting. Epic scale, terrifying yet beautiful destruction, high-detail particles, 4K quality. 24-second intense explosion sequence.
+Truyền hình trực tiếp cảnh phóng tên lửa không bình luận. Tái hiện chân thực vụ nổ thảm khốc của tên lửa không gian trong quá trình thử nghiệm tĩnh trên bệ phóng vào ban đêm.
+Tên lửa quỹ đạo khổng lồ đứng thẳng trên bệ phóng dưới bầu trời đêm tối tăm. Đột nhiên, một sự cố dữ dội gây ra vụ nổ lớn. Một quả cầu lửa màu cam đỏ khổng lồ bùng phát ngay lập tức từ phần đế, nhanh chóng lan rộng thành cột khói hình nấm rực lửa, khói đen dày đặc và các mảnh vỡ bay tứ tung. Một làn sóng xung kích mạnh mẽ thổi bùng ra ngoài, làm rung chuyển toàn bộ khung cảnh. Cấu trúc tên lửa tan rã dữ dội khi những ngọn lửa dữ dội hoàn toàn bao trùm lấy nó.
+Các góc quay linh hoạt ghi lại sức mạnh thô sơ với vật lý lửa chân thực, tàn lửa rực sáng, khói cuồn cuộn và ánh sáng ban đêm đầy kịch tính. Quy mô hoành tráng, sự hủy diệt đáng sợ nhưng đầy vẻ đẹp, các hạt chi tiết cao, chất lượng 4K. Chuỗi cảnh nổ dữ dội kéo dài 24 giây.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/825d0ab09633b4d2f0851b771e099115/thumbnails/thumbnail.jpg" width="600" alt="Rocket Launch Explosion Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/825d0ab09633b4d2f0851b771e099115/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc video về vụ nổ khi phóng tên lửa">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5428)**
 
 **Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060240094238593035) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Cinematic Viral Waterslide Dream Sequence
+### Chuỗi hình ảnh giấc mơ cầu trượt nước lan truyền đậm chất điện ảnh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed POV prompt for a high-speed, surreal waterslide adventure that transitions from the sky into a realistic bedroom landing, designed for viral social media content.
+> Một câu lệnh POV chi tiết cho trải nghiệm phiêu lưu trên cầu trượt nước siêu thực, tốc độ cao, chuyển cảnh từ bầu trời xuống căn phòng ngủ chân thực, được thiết kế cho nội dung lan truyền trên mạng xã hội.
 
 #### 📝 Prompt
 
 ```
-Cinematic viral AI dream sequence, photorealistic, intense fast-paced POV shot of a surreal extreme waterslide adventure.
-The video begins in first-person POV as the rider bursts out of the clouds at high speed on a giant, colorful, twisting waterslide built impossibly through the sky. Water splashes aggressively onto the lens with realistic spray and motion blur. The rider races down the massive slide with wild loops, sharp drops, spiraling turns, and near-vertical sections, zooming between towering skyscrapers and surreal city structures glowing with neon colors.
-As the descent continues, the ground and dense city buildings become clearly visible far below. At the end of the slide, the rider launches off halfway to the ground, suddenly flying through the air. Heavy breathing and panicked scared sounds fill the audio as the POV falls rapidly toward the ground. A house appears directly below, getting closer and closer. The rider crashes through the roof of the house and lands hard on a bed inside the bedroom. The final shot shows the person’s hands on the bed, breathing heavily in shock and relief as the video ends.
-Dynamic camera with extreme speed, intense motion blur, water spray, dizzying perspectives, and chaotic energy. Bright daytime lighting with vibrant colors, realistic water physics, and dream-like impossible architecture. Adrenaline-pumping, thrilling, surreal, and slightly terrifying vibe perfect for TikTok. Slinger continue shot
+Chuỗi hình ảnh giấc mơ AI lan truyền đậm chất điện ảnh, chân thực như ảnh chụp, góc quay POV tốc độ cao đầy kịch tính của một cuộc phiêu lưu trên cầu trượt nước siêu thực.
+Video bắt đầu bằng góc nhìn thứ nhất (POV) khi người chơi lao ra khỏi những đám mây với tốc độ cao trên một chiếc cầu trượt nước khổng lồ, đầy màu sắc, uốn lượn một cách phi lý giữa bầu trời. Nước bắn mạnh vào ống kính với hiệu ứng tia nước và nhòe chuyển động chân thực. Người chơi lao xuống đường trượt khổng lồ với những vòng xoáy điên cuồng, những cú rơi gấp, những khúc cua xoắn ốc và các đoạn gần như thẳng đứng, lướt nhanh giữa các tòa nhà chọc trời cao vút và các cấu trúc thành phố siêu thực rực rỡ ánh đèn neon.
+Khi quá trình lao xuống tiếp tục, mặt đất và các tòa nhà dày đặc trong thành phố dần hiện rõ ở phía xa bên dưới. Ở cuối đường trượt, người chơi phóng ra giữa không trung. Âm thanh thở dốc và tiếng hét hoảng loạn lấp đầy không gian khi góc quay POV rơi nhanh về phía mặt đất. Một ngôi nhà xuất hiện ngay bên dưới, ngày càng tiến gần hơn. Người chơi lao xuyên qua mái nhà và rơi mạnh xuống chiếc giường trong phòng ngủ. Cảnh cuối cho thấy đôi bàn tay của người đó trên giường, thở dốc trong sự bàng hoàng và nhẹ nhõm khi video kết thúc.
+Camera linh hoạt với tốc độ cực nhanh, nhòe chuyển động mạnh, tia nước bắn tung tóe, góc nhìn gây chóng mặt và năng lượng hỗn loạn. Ánh sáng ban ngày rực rỡ với màu sắc sống động, vật lý nước chân thực và kiến trúc siêu thực như trong mơ. Cảm giác hồi hộp, gay cấn, siêu thực và hơi đáng sợ, hoàn hảo cho TikTok. Cảnh quay liên tục kiểu Slinger.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/292c1e89047968555cd5f91766874fe3/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Viral Waterslide Dream Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/292c1e89047968555cd5f91766874fe3/thumbnails/thumbnail.jpg" width="600" alt="Chuỗi hình ảnh giấc mơ cầu trượt nước lan truyền đậm chất điện ảnh">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5430)**
 
 **Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060235123015233858) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Fast-Paced Japanese Commercial Prompt
+### Prompt quảng cáo Nhật Bản nhịp độ nhanh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A rapid-fire, high-energy Japanese advertisement prompt for Seedance, featuring 5 different lifestyle scenes with neon accents and bold typography.
+> Một prompt quảng cáo Nhật Bản nhịp độ nhanh, tràn đầy năng lượng dành cho Seedance, bao gồm 5 cảnh đời thường khác nhau với điểm nhấn đèn neon và kiểu chữ đậm.
 
 #### 📝 Prompt
 
 ```
-Hyper-fast 15-second Japanese commercial. Rapid fire cuts every 2-3 seconds. High energy, loud, exciting.Cut 1 — (0 :00–0:03):Girl EXPLODES onto screen grabbing a cracker, laughing wildly. Crackers fly everywhere. She shouts: "I can't stop!" Bold yellow text SLAMS on screen.Cut 2 — (0: 03–0:06):SMASH CUT — red lipstick swipe in extreme close-up. She smirks into camera. Text flashes: "Captivating!" Neon lights strobe.Cut 3 — (0: 06–0:09):She SPINS in leather jacket, hair whipping, street lights blur behind her. Text hits: "I make my own way!"Cut 4 — (0: 09–0:11):Ice and coffee EXPLODE in slow-mo for one second. She winks. "Cheers!"Cut 5 — (0: 11–0:13):She JUMPS into frame, fist punch toward camera. "Jump!"Final (0 :13–0:15):Split screen of ALL 5 scenes at once. She says fast and bold: "To the me I like!" Logo SLAMS in. FUTURE YOU.
+Quảng cáo Nhật Bản siêu tốc 15 giây. Các cảnh cắt nhanh liên tục mỗi 2-3 giây. Năng lượng cao, âm thanh lớn, đầy phấn khích. Cảnh 1 — (0:00–0:03): Cô gái XUẤT HIỆN bùng nổ trên màn hình, chộp lấy chiếc bánh quy và cười lớn đầy phấn khích. Bánh quy bay khắp nơi. Cô ấy hét lên: "Mình không thể dừng lại!" Chữ màu vàng đậm ĐẬP mạnh trên màn hình. Cảnh 2 — (0:03–0:06): CẮT CẢNH NHANH — cận cảnh cực đại cảnh tô son đỏ. Cô ấy nhếch mép cười với camera. Chữ nhấp nháy: "Quyến rũ!" Đèn neon nhấp nháy liên hồi. Cảnh 3 — (0:06–0:09): Cô ấy XOAY người trong chiếc áo khoác da, tóc bay, ánh đèn đường mờ ảo phía sau. Chữ hiện lên: "Mình tự tạo lối đi riêng!" Cảnh 4 — (0:09–0:11): Đá và cà phê BÙNG NỔ trong hiệu ứng quay chậm trong một giây. Cô ấy nháy mắt. "Cụng ly nào!" Cảnh 5 — (0:11–0:13): Cô ấy NHẢY vào khung hình, đấm nắm tay về phía camera. "Nhảy thôi!" Kết thúc (0:13–0:15): Chia màn hình hiển thị TẤT CẢ 5 cảnh cùng lúc. Cô ấy nói nhanh và dứt khoát: "Hướng tới phiên bản mình yêu thích!" Logo ĐẬP mạnh vào màn hình. TƯƠNG LAI CỦA BẠN.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e17963709737439cd90c4f2efc69ac6d/thumbnails/thumbnail.jpg" width="600" alt="Fast-Paced Japanese Commercial Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e17963709737439cd90c4f2efc69ac6d/thumbnails/thumbnail.jpg" width="600" alt="Prompt quảng cáo Nhật Bản nhịp độ nhanh">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5427)**
 
 **Tác giả:** [Synthia](https://x.com/AIwithSynthia) | **Nguồn:** [Link](https://x.com/AIwithSynthia/status/2060220763731574935) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Barista Cinematic Commercial Video Prompt
+### Prompt video quảng cáo điện ảnh cho Barista
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional advertising prompt for Seedance 2.0 creating a realistic commercial of a barista at a modern coffee stall.
+> Một prompt quảng cáo chuyên nghiệp dành cho Seedance 2.0 để tạo video thương mại chân thực về một barista tại quầy cà phê hiện đại.
 
 #### 📝 Prompt
 
 ```
-Create a 15-second ultra-realistic cinematic commercial using the uploaded reference image as the exact character reference. Maintain the same face, hairstyle, skin tone, outfit, and body proportions in every shot with no character drift.
+Tạo một video quảng cáo điện ảnh siêu thực dài 15 giây, sử dụng hình ảnh tham chiếu đã tải lên làm mẫu nhân vật chính xác. Duy trì khuôn mặt, kiểu tóc, tông da, trang phục và tỷ lệ cơ thể nhất quán trong mọi cảnh quay, đảm bảo không bị biến đổi nhân vật.
 
-A confident young male coffee seller works at a stylish outdoor coffee stall branded “YAPPER COFFEE” in a busy modern city street. He wears a black shirt, dark brown barista apron, black pants, and sneakers.
+Một nam nhân viên bán cà phê trẻ tuổi, tự tin đang làm việc tại một quầy cà phê ngoài trời đầy phong cách có tên thương hiệu “YAPPER COFFEE” trên một con phố hiện đại sầm uất. Anh mặc áo sơ mi đen, tạp dề barista màu nâu sẫm, quần đen và giày thể thao.
 
-0–3s: He walks toward a customer smiling while holding a takeaway cup.
-3–6s: He pours hot tea from a metal kettle in slow motion and hands over the cup.
-6–9s: The customer takes a sip and smiles with satisfaction.
-9–15s: The seller walks toward another customer while the camera smoothly follows him.
+0–3 giây: Anh bước về phía khách hàng và mỉm cười trong khi cầm một chiếc cốc mang đi.
+3–6 giây: Anh rót trà nóng từ ấm kim loại theo hiệu ứng quay chậm (slow motion) và trao cốc cho khách.
+6–9 giây: Khách hàng nhấp một ngụm và mỉm cười hài lòng.
+9–15 giây: Người bán hàng bước về phía một khách hàng khác trong khi máy quay di chuyển theo mượt mà.
 
-Warm daylight, cinematic background blur, smooth tracking shots, shallow depth of field, realistic motion blur, natural expressions, premium advertising quality, ultra-realistic lighting, polished storytelling, no subtitles, no character changes, full natural realistic video.
+Ánh sáng ban ngày ấm áp, hậu cảnh điện ảnh mờ ảo, các cảnh quay theo dõi mượt mà, độ sâu trường ảnh nông, hiệu ứng nhòe chuyển động chân thực, biểu cảm tự nhiên, chất lượng quảng cáo cao cấp, ánh sáng siêu thực, kể chuyện tinh tế, không phụ đề, không thay đổi nhân vật, video chân thực tự nhiên hoàn toàn.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/812d81b7d5eb5e9e7e839272ad88d02e/thumbnails/thumbnail.jpg" width="600" alt="Barista Cinematic Commercial Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/812d81b7d5eb5e9e7e839272ad88d02e/thumbnails/thumbnail.jpg" width="600" alt="Prompt video quảng cáo điện ảnh cho Barista">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5442)**
 
 **Tác giả:** [Noor](https://x.com/noorlewisx) | **Nguồn:** [Link](https://x.com/noorlewisx/status/2060218418029379829) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Telekinetic School Girl Action Scene
+### Cảnh hành động nữ sinh có năng lực điều khiển vật thể từ xa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic action prompt featuring a Korean high school girl using powerful telekinetic abilities to freeze time and repel attackers in a school corridor.
+> Một câu lệnh (prompt) hành động điện ảnh chi tiết về một nữ sinh trung học Hàn Quốc sử dụng năng lực điều khiển vật thể từ xa mạnh mẽ để ngưng đọng thời gian và đẩy lùi kẻ tấn công trong hành lang trường học.
 
 #### 📝 Prompt
 
 ```
-In a telekinetic action scene, a South Korean high school girl in a white short-sleeved shirt and gray pleated skirt stands calmly in the middle of a corridor. She is being attacked from both sides; some attackers, wearing brown school uniform jackets, wield short sticks, while others are dressed as black ninjas, creating a tense standoff in the corridor. As the enemies rush towards her, the girl unleashes a powerful telekinetic attack. Suddenly, everything around her enters a state of weightlessness and time freezes. Dozens of items—open textbooks, notebooks, a red soda can, and a wooden school chair—leave the ground, perfectly suspending themselves in mid-air. The attackers, in their lunging movements, are frozen in mid-air by an invisible force. Paper pages, scraps of paper, and dust float and swirl around her weightlessly. The camera slowly zooms in on the girl, perfectly freezing the chaotic corridor in the telekinetic-induced state of stillness and suspension. In the extreme stillness of the slowly zooming-in, frozen image, the girl's calm eyes narrow slightly. Immediately afterward, she calmly raised her right hand, her fingers loosely clenched, and then made a light yet decisive flick of her sleeve to either side of her body. In an instant, frozen time and gravity seemed to explode with this subtle gesture. A low rumble echoed in the air, and dozens of objects that had been suspended in mid-air—a heavy wooden school chair, scattered textbooks, even the red soda can—transformed into a dense projection, carrying powerful air currents, and were precisely launched towards the enemies attacking from both sides. At the same time, an invisible circular psychic shockwave violently spread out from the girl. The brown-uniformed attackers and black-clad ninjas, who had been frozen in mid-air, were instantly struck by this immense force, their bodies jolted violently, and they were sent flying backward like kites with broken strings to either end of the corridor. As gravity instantly returned, the wooden chairs shattered upon impact, textbooks scattered into a flurry of pages, and with the dull thud of heavy objects hitting the ground, the attackers collapsed onto the corridor floor, incapacitated. Silence returned to the corridor, broken only by countless tattered papers and fine dust drifting slowly in the air. The aftershocks of the shockwave ruffled the girl's bangs and hair. She remained composed, not even glancing at her fallen opponent. The girl slowly lowered her right hand, raised her slender left, and gracefully and calmly tucked a strand of black hair behind her ear, revealing her delicate and serene profile. The camera froze on this moment, the white papers falling around her like snowflakes, highlighting her still figure in a white short-sleeved shirt and gray pleated skirt. Then, the image faded out.
+Trong một cảnh hành động điều khiển vật thể từ xa, một nữ sinh trung học Hàn Quốc mặc áo sơ mi trắng tay ngắn và váy xếp ly màu xám đang đứng bình thản giữa hành lang. Cô bé đang bị tấn công từ cả hai phía; một số kẻ tấn công mặc áo khoác đồng phục học sinh màu nâu, tay cầm gậy ngắn, trong khi những kẻ khác mặc đồ ninja đen, tạo nên một tình thế đối đầu căng thẳng trong hành lang. Khi kẻ thù lao về phía cô, cô bé tung ra một đòn tấn công bằng năng lực điều khiển vật thể từ xa đầy uy lực. Đột nhiên, mọi thứ xung quanh rơi vào trạng thái không trọng lực và thời gian ngưng đọng. Hàng chục vật dụng—sách giáo khoa mở, vở ghi chép, một lon nước ngọt màu đỏ và một chiếc ghế gỗ học sinh—rời khỏi mặt đất, lơ lửng hoàn hảo giữa không trung. Những kẻ tấn công, trong tư thế lao tới, bị đóng băng giữa không trung bởi một lực vô hình. Những trang giấy, mảnh giấy vụn và bụi bặm trôi nổi và xoay quanh cô bé một cách nhẹ bẫng. Máy quay chậm rãi phóng to vào cô bé, ghi lại khoảnh khắc hành lang hỗn loạn hoàn hảo trong trạng thái tĩnh lặng và lơ lửng do năng lực điều khiển vật thể từ xa tạo ra. Trong sự tĩnh lặng tột độ của hình ảnh đang dần phóng to, đôi mắt bình thản của cô bé hơi nheo lại. Ngay sau đó, cô bình tĩnh giơ tay phải lên, các ngón tay nắm hờ, rồi thực hiện một cái phẩy tay nhẹ nhàng nhưng dứt khoát sang hai bên cơ thể. Trong tích tắc, thời gian ngưng đọng và trọng lực dường như bùng nổ theo cử chỉ tinh tế này. Một tiếng ầm trầm vang vọng trong không trung, và hàng chục vật thể đang lơ lửng—một chiếc ghế gỗ học sinh nặng, những cuốn sách giáo khoa vương vãi, thậm chí cả lon nước ngọt màu đỏ—biến thành những vật thể phóng đi với tốc độ cao, mang theo luồng không khí mạnh mẽ và được nhắm chính xác vào những kẻ thù đang tấn công từ hai phía. Cùng lúc đó, một làn sóng xung kích tâm linh hình tròn vô hình lan tỏa dữ dội từ cô bé. Những kẻ tấn công mặc đồng phục nâu và các ninja mặc đồ đen đang bị đóng băng giữa không trung lập tức bị lực tác động khổng lồ này đánh trúng, cơ thể họ giật mạnh và bị hất văng ra phía sau như những con diều đứt dây về hai đầu hành lang. Khi trọng lực tức thì trở lại, những chiếc ghế gỗ vỡ tan khi va chạm, sách giáo khoa văng tung tóe thành những trang giấy, và cùng với tiếng va chạm nặng nề xuống sàn, những kẻ tấn công ngã gục xuống sàn hành lang, mất khả năng chiến đấu. Sự im lặng trở lại hành lang, chỉ còn tiếng vô số mảnh giấy rách và bụi mịn trôi chậm rãi trong không trung. Dư chấn của làn sóng xung kích làm rối mái tóc và phần tóc mái của cô bé. Cô vẫn giữ vẻ điềm tĩnh, thậm chí không thèm liếc nhìn đối thủ đã gục ngã. Cô bé từ từ hạ tay phải xuống, giơ tay trái thanh mảnh lên, rồi nhẹ nhàng và bình thản vén một lọn tóc đen ra sau tai, để lộ góc nghiêng thanh tú và tĩnh lặng của mình. Máy quay dừng lại ở khoảnh khắc này, những tờ giấy trắng rơi xung quanh cô như những bông tuyết, làm nổi bật dáng vẻ tĩnh lặng của cô trong chiếc áo sơ mi trắng tay ngắn và váy xếp ly màu xám. Sau đó, hình ảnh mờ dần.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea0bf9f4c305c556727312433dd5b4a2/thumbnails/thumbnail.jpg" width="600" alt="Telekinetic School Girl Action Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea0bf9f4c305c556727312433dd5b4a2/thumbnails/thumbnail.jpg" width="600" alt="Cảnh hành động nữ sinh có năng lực điều khiển vật thể từ xa">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5424)**
 
 **Tác giả:** [Calira](https://x.com/CaliraVal) | **Nguồn:** [Link](https://x.com/CaliraVal/status/2060217352818708623) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Egypt Cinematic Travel Vlog Video Prompt
+### Prompt video vlog du lịch điện ảnh Ai Cập
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A multi-scene travel vlog prompt featuring a young woman exploring Cairo, the Nile, and the Pyramids with consistent character appearance.
+> Một prompt cho video vlog du lịch đa cảnh, ghi lại hành trình của một cô gái trẻ khám phá Cairo, sông Nile và các Kim tự tháp với ngoại hình nhân vật nhất quán.
 
 #### 📝 Prompt
 
 ```
-A beautiful young woman in her mid-20s with long wavy dark hair flowing in the wind, striking features, wearing stylish black round glasses, light beige ethnic embroidered top, natural glowing skin, cinematic travel vlog style, golden hour and warm lighting throughout.
+Một cô gái trẻ xinh đẹp tầm 20-25 tuổi với mái tóc dài gợn sóng bay trong gió, đường nét khuôn mặt ấn tượng, đeo kính tròn màu đen thời trang, mặc áo thêu họa tiết dân tộc màu be nhạt, làn da sáng tự nhiên, phong cách vlog du lịch điện ảnh, ánh sáng vàng ấm áp bao trùm toàn bộ khung hình.
 
-0-2s: Close-up selfie-style shot, hair dramatically blowing across her face as she looks straight into camera with a soft confident smile, bustling old Cairo street background, slight handheld camera movement.
+0-2 giây: Cận cảnh kiểu selfie, tóc bay nhẹ nhàng che một phần khuôn mặt khi cô nhìn thẳng vào ống kính với nụ cười tự tin, hậu cảnh là đường phố Cairo cổ kính nhộn nhịp, hiệu ứng rung nhẹ như cầm tay.
 
-2-4s: Smooth transition to side profile by the Nile river at sunset, hair flowing, she turns her head toward camera with a gentle smile, sailboat in background, warm golden light reflecting on water.
+2-4 giây: Chuyển cảnh mượt mà sang góc nghiêng bên bờ sông Nile lúc hoàng hôn, tóc bay trong gió, cô quay đầu nhìn về phía máy quay với nụ cười dịu dàng, hậu cảnh có thuyền buồm, ánh sáng vàng ấm áp phản chiếu trên mặt nước.
 
-4-6s: Cut to wide cinematic shot in front of the Great Pyramid of Giza, desert sand, she stands confidently looking at camera, wind gently moving her hair, epic scale.
+4-6 giây: Cắt sang cảnh quay toàn cảnh điện ảnh trước Đại Kim tự tháp Giza, cát sa mạc, cô đứng tự tin nhìn vào máy quay, gió thổi nhẹ làm tóc bay, quy mô hùng vĩ.
 
-6-7.5s: Quick cut inside vibrant Khan El Khalili market at dusk, she reaches up touching hanging ornate lanterns, magical warm lighting, slight smile.
+6-7,5 giây: Cắt nhanh vào khu chợ Khan El Khalili rực rỡ lúc hoàng hôn, cô đưa tay chạm vào những chiếc đèn lồng trang trí treo phía trên, ánh sáng ấm áp huyền ảo, nụ cười nhẹ.
 
-7.5-9s: Fast-paced walking shot through crowded souk alley, she smiles brightly while looking around, people and colorful shops in background, dynamic handheld camera following her.
+7,5-9 giây: Cảnh quay bước đi nhanh qua con hẻm chợ đông đúc, cô cười tươi khi nhìn xung quanh, hậu cảnh là người qua lại và các cửa hàng đầy màu sắc, camera cầm tay chuyển động linh hoạt theo cô.
 
-9-10.5s: Extreme close-up of her face, she looks directly into camera, hair strands across face, intense eye contact, subtle playful smile turning into a wide genuine laugh showing perfect teeth.
+9-10,5 giây: Cận cảnh khuôn mặt, cô nhìn thẳng vào máy quay, vài sợi tóc vương trên mặt, ánh mắt sâu sắc, nụ cười tinh nghịch dần chuyển thành tràng cười sảng khoái để lộ hàm răng đều đẹp.
 
-10.5-12s: Sitting on a traditional Nile boat, legs crossed, wind in hair, soft smile while looking at the water, golden sunset reflection.
+10,5-12 giây: Ngồi trên chiếc thuyền truyền thống trên sông Nile, vắt chéo chân, tóc bay trong gió, nụ cười dịu dàng khi nhìn xuống mặt nước, phản chiếu ánh hoàng hôn vàng rực.
 
-12-13.5s: Inside a colorful spice market, she stands among sacks of spices, looking peaceful and content, soft natural light.
+12-13,5 giây: Bên trong khu chợ gia vị đầy màu sắc, cô đứng giữa các bao gia vị, vẻ mặt bình yên và hài lòng, ánh sáng tự nhiên dịu nhẹ.
 
-13.5-15s: Final shot - elegant side profile by the Nile at sunset with dramatic golden light, then smooth cut to her sitting in a cozy café holding a glass of drink, looking at camera with a warm intimate smile.
+13,5-15 giây: Cảnh cuối - góc nghiêng thanh lịch bên bờ sông Nile lúc hoàng hôn với ánh sáng vàng ấn tượng, sau đó cắt mượt mà sang cảnh cô ngồi trong một quán cà phê ấm cúng, cầm ly nước, nhìn vào máy quay với nụ cười ấm áp, gần gũi.
 
-Camera work: Cinematic, smooth transitions, slight slow-motion on key emotional moments, rich color grading, warm cinematic tones, shallow depth of field, film grain.
+Kỹ thuật quay: Điện ảnh, chuyển cảnh mượt mà, hiệu ứng chuyển động chậm (slow-motion) ở các khoảnh khắc cảm xúc quan trọng, chỉnh màu sắc nét, tông màu điện ảnh ấm áp, độ sâu trường ảnh nông, hiệu ứng hạt phim.
 
-Character dialogue:
+Lời thoại nhân vật:
 
-- 0-2s: "Heyy... come with me"
-- 4-6s: "This is unreal..."
-- 7.5-9s: (laughing) "I can't believe I'm here!"
-- 10.5-12s: "The most beautiful place..."
-- 13.5-15s: (soft, warm) "This moment... feels like magic."
+- 0-2 giây: "Này... đi cùng mình nhé"
+- 4-6 giây: "Thật không thể tin được..."
+- 7,5-9 giây: (cười) "Mình không thể tin là mình đang ở đây!"
+- 10,5-12 giây: "Nơi đẹp nhất..."
+- 13,5-15 giây: (nhẹ nhàng, ấm áp) "Khoảnh khắc này... tựa như phép màu."
 
-High detail, photorealistic, 8K quality, emotional, dreamy travel aesthetic, perfect face consistency across all shots, matching the exact woman in the reference image
+Chi tiết cao, chân thực như ảnh chụp, chất lượng 8K, giàu cảm xúc, thẩm mỹ du lịch mơ màng, đảm bảo sự nhất quán tuyệt đối của khuôn mặt trong tất cả các cảnh quay, khớp chính xác với người phụ nữ trong ảnh tham chiếu.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/921d51ef2c0f3dcb93b8b2d23feae39a/thumbnails/thumbnail.jpg" width="600" alt="Egypt Cinematic Travel Vlog Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/921d51ef2c0f3dcb93b8b2d23feae39a/thumbnails/thumbnail.jpg" width="600" alt="Prompt video vlog du lịch điện ảnh Ai Cập">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5441)**
 
 **Tác giả:** [Heisenberg](https://x.com/rovvmut_) | **Nguồn:** [Link](https://x.com/rovvmut_/status/2060211469401362497) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Mecha Exoskeleton Assembly Sequence
+### Trình tự lắp ráp bộ khung xương cơ khí
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic sci-fi action prompt describing the high-speed mechanical assembly of an exoskeleton around a character.
+> Một câu lệnh (prompt) hành động khoa học viễn tưởng đậm chất điện ảnh mô tả quá trình lắp ráp cơ khí tốc độ cao của một bộ khung xương bao quanh nhân vật.
 
 #### 📝 Prompt
 
 ```
-A cinematic, hyper-realistic sci-fi action sequence. It begins with a close-up of a young East Asian man with long, wavy dark hair focusing intense energy, red lightning and plasma crackling between his hands. The camera cuts to dozens of sleek, futuristic metallic armor pieces flying at high speed through a dark, industrial warehouse, converging on him. Sparks fly as the high-tech, gunmetal-grey armor rapidly mechanically assembles around his body. The final shot reveals him fully suited in a powerful, glowing mecha exoskeleton with a fiery, burning plasma aura radiating from his helmet. He executes an aggressive, sweeping strike with a glowing orange laser blade, causing a massive explosion with smoke and debris in the background. High-end CGI, studio lighting, octane render, 8k resolution, intense pacing.
+Một phân cảnh hành động khoa học viễn tưởng siêu thực, đậm chất điện ảnh. Bắt đầu bằng cận cảnh một nam thanh niên Đông Á với mái tóc đen dài gợn sóng đang tập trung năng lượng cực độ, những tia chớp đỏ và plasma nổ lách tách giữa hai bàn tay. Máy quay chuyển cảnh sang hàng chục mảnh giáp kim loại bóng bẩy, đậm chất tương lai đang bay với tốc độ cao xuyên qua một nhà kho công nghiệp tối tăm, hội tụ về phía anh. Những tia lửa bắn ra khi bộ giáp màu xám nòng súng công nghệ cao nhanh chóng lắp ráp cơ khí quanh cơ thể anh. Cảnh cuối cùng cho thấy anh đã mặc hoàn chỉnh bộ khung xương cơ khí mạnh mẽ, phát sáng với hào quang plasma rực cháy tỏa ra từ mũ bảo hiểm. Anh thực hiện một cú vung đòn quyết liệt bằng lưỡi kiếm laser màu cam rực rỡ, tạo ra một vụ nổ lớn với khói và mảnh vụn ở phía sau. CGI cao cấp, ánh sáng studio, octane render, độ phân giải 8k, nhịp độ dồn dập.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce500e08df871f32ae6372cfd4a719c8/thumbnails/thumbnail.jpg" width="600" alt="Mecha Exoskeleton Assembly Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce500e08df871f32ae6372cfd4a719c8/thumbnails/thumbnail.jpg" width="600" alt="Trình tự lắp ráp bộ khung xương cơ khí">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5439)**
 
 **Tác giả:** [Zyrella](https://x.com/Zyrellix) | **Nguồn:** [Link](https://x.com/Zyrellix/status/2060208363867414564) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Luxury Skincare Pitch Deck Animation
+### Hoạt ảnh Pitch Deck cho sản phẩm chăm sóc da cao cấp
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A workflow for animating a clinical luxury beauty storyboard with smooth transitions and editorial aesthetics.
+> Quy trình tạo hoạt ảnh cho bảng phân cảnh (storyboard) làm đẹp lâm sàng cao cấp với các hiệu ứng chuyển cảnh mượt mà và thẩm mỹ biên tập.
 
 #### 📝 Prompt
 
 ```
-Create a high-end 4:3 luxury beauty tools pitch deck storyboard in 3x4 grid (12 frames), editorial layout, NuFace/Dr. Barbara Sturm style, glacier white + rose gold palette. Structured flow: science → tool → ritual → glow → confidence closure. Each frame split: top cinematic image (no text) + bottom storyboard notes. Clinical luxury minimal aesthetic, science meets beauty mood, precision self-care. A rose gold facial device is the emotional center throughout. Animate the provided 3x4 storyboard into a smooth cinematic video. Preserve exact shot order and continuity. Use slow device glide on skin, LED light pulse, serum absorption close-up, and mirror reflection reveal. Lighting transitions from cool clinical white light to warm vanity mirror rose glow. Beauty tools editorial aesthetic, surgical precision, empowered radiance mood. No new shots, no reordering, facial device remains emotional focus in all scenes.
+Tạo bảng phân cảnh pitch deck cho công cụ làm đẹp cao cấp tỷ lệ 4:3 theo dạng lưới 3x4 (12 khung hình), bố cục biên tập, phong cách NuFace/Dr. Barbara Sturm, bảng màu trắng băng giá + vàng hồng. Luồng cấu trúc: khoa học → công cụ → nghi thức → rạng rỡ → kết thúc đầy tự tin. Mỗi khung hình được chia đôi: phía trên là hình ảnh điện ảnh (không chữ) + phía dưới là ghi chú phân cảnh. Thẩm mỹ tối giản sang trọng lâm sàng, tâm trạng khoa học kết hợp vẻ đẹp, chăm sóc bản thân chính xác. Một thiết bị chăm sóc da mặt màu vàng hồng là tâm điểm cảm xúc xuyên suốt. Tạo hoạt ảnh cho bảng phân cảnh 3x4 đã cung cấp thành video điện ảnh mượt mà. Giữ nguyên thứ tự cảnh quay và tính liên tục. Sử dụng hiệu ứng thiết bị lướt chậm trên da, đèn LED nhấp nháy, cận cảnh thẩm thấu serum và hình ảnh phản chiếu trong gương. Chuyển đổi ánh sáng từ ánh sáng trắng lâm sàng mát mẻ sang ánh sáng vàng hồng ấm áp của gương trang điểm. Thẩm mỹ biên tập công cụ làm đẹp, độ chính xác phẫu thuật, tâm trạng rạng rỡ đầy quyền năng. Không thêm cảnh mới, không sắp xếp lại, thiết bị chăm sóc da mặt vẫn là trọng tâm cảm xúc trong tất cả các cảnh.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aad0a6d8939fdbc35b1d919951f8bc9f/thumbnails/thumbnail.jpg" width="600" alt="Luxury Skincare Pitch Deck Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aad0a6d8939fdbc35b1d919951f8bc9f/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh Pitch Deck cho sản phẩm chăm sóc da cao cấp">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5436)**
 
 **Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2060200771912864078) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Skateboard Big Air Sunset Highlight
+### Điểm nhấn trượt ván Big Air trong ánh hoàng hôn
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic 15-second skateboarding highlight featuring a single rider performing a 360 aerial rotation on a large outdoor ramp during a golden sunset, with dynamic tracking shots and high-impact sound design.
+> Một đoạn video highlight trượt ván dài 15 giây đầy chất điện ảnh, ghi lại cảnh một vận động viên thực hiện cú xoay 360 độ trên không tại một đường dốc ngoài trời lớn trong ánh hoàng hôn rực rỡ, kết hợp với các góc quay chuyển động linh hoạt và thiết kế âm thanh ấn tượng.
 
 #### 📝 Prompt
 
 ```
-15-second live-action big-air skateboarding highlight continuing at the same huge outdoor ramp during deep golden sunset. Only one skateboarder and only one skateboard exist in the entire video. Do not duplicate the rider. Do not add extra skateboarders in the background.
+Đoạn highlight trượt ván big-air dài 15 giây, diễn ra tại cùng một đường dốc ngoài trời khổng lồ trong ánh hoàng hôn vàng rực. Chỉ có một vận động viên và một ván trượt trong toàn bộ video. Không được nhân bản vận động viên. Không thêm các vận động viên khác vào hậu cảnh.
 
-Start with a fast low side-rear tracking shot as the rider accelerates toward the largest ramp, not only from directly behind. Use one quick close-up of the wheels, feet, and board while the rider climbs the ramp with power and control. Briefly switch to a low side angle just before takeoff to show the ramp height and speed.
+Bắt đầu bằng một cú quay theo sát từ phía sau bên cạnh với tốc độ nhanh khi vận động viên tăng tốc về phía đường dốc lớn nhất, không chỉ quay trực diện từ phía sau. Sử dụng một cú cận cảnh nhanh vào bánh xe, bàn chân và ván trượt khi vận động viên leo lên dốc với sức mạnh và sự kiểm soát. Chuyển nhanh sang góc quay thấp bên cạnh ngay trước khi cất cánh để thể hiện độ cao và tốc độ của đường dốc.
 
-The rider launches into the highest big air and performs one clean 360 aerial rotation near the peak of the jump. Keep the aerial action clear and readable. Use a brief stop-motion-style freeze effect only at the peak moment of the rotation, then continue the motion naturally. Do not make the whole aerial section slow motion. Do not create ghost trails, overlapping silhouettes, or multiple riders. The real rider remains one person, and the skateboard stays controlled under the rider’s feet.
+Vận động viên lao lên không trung và thực hiện một cú xoay 360 độ gọn gàng gần đỉnh cú nhảy. Giữ cho hành động trên không rõ ràng và dễ nhìn. Sử dụng hiệu ứng dừng hình kiểu stop-motion ngắn chỉ tại khoảnh khắc đỉnh điểm của cú xoay, sau đó tiếp tục chuyển động một cách tự nhiên. Không làm chậm toàn bộ phân đoạn trên không. Không tạo ra hiệu ứng bóng ma, hình bóng chồng chéo hoặc nhiều vận động viên. Chỉ có một vận động viên duy nhất và ván trượt luôn nằm dưới sự kiểm soát của chân vận động viên.
 
-After the peak rotation, return to normal motion for a clear descent and landing. Show the board aligning for touchdown, the wheels touching down, a short controlled slide, and a strong impact.
+Sau cú xoay đỉnh điểm, trở lại chuyển động bình thường để thực hiện cú hạ cánh rõ ràng. Cho thấy ván trượt căn chỉnh để tiếp đất, bánh xe chạm đất, một cú trượt ngắn có kiểm soát và một cú va chạm mạnh mẽ.
 
-End with the rider gliding away into the sunset in a short cinematic silhouette from behind.
+Kết thúc bằng cảnh vận động viên lướt đi vào ánh hoàng hôn trong một hình bóng điện ảnh ngắn từ phía sau.
 
-Strong sports highlight energy, dynamic but simple camera changes, low tracking shot, side-rear angle, brief side angle during takeoff and air, ground-level landing angle, clear takeoff and clear landing, dramatic height difference, readable body silhouette, realistic skateboard motion, no static sports introduction. No clear spoken commentary, no narration, no understandable dialogue. Sound effects only: fast rolling wheels, ramp rumble, wind rush, brief silence at the peak freeze, heavy landing impact, distant crowd reaction. No logo, no watermark, no readable text.
+Năng lượng highlight thể thao mạnh mẽ, thay đổi góc máy linh hoạt nhưng đơn giản, góc quay theo sát thấp, góc quay từ phía sau bên cạnh, góc quay bên cạnh ngắn trong lúc cất cánh và trên không, góc quay ngang mặt đất khi hạ cánh, cú cất cánh và hạ cánh rõ ràng, sự chênh lệch độ cao ấn tượng, hình bóng cơ thể dễ nhìn, chuyển động ván trượt chân thực, không có phần giới thiệu thể thao tĩnh. Không có bình luận bằng lời, không có lời dẫn, không có đối thoại dễ hiểu. Chỉ có hiệu ứng âm thanh: tiếng bánh xe lăn nhanh, tiếng ầm ầm của đường dốc, tiếng gió rít, khoảng lặng ngắn tại thời điểm dừng hình, tiếng va chạm mạnh khi hạ cánh, tiếng phản ứng từ đám đông ở xa. Không logo, không hình mờ, không có văn bản dễ đọc.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060197720900734976/img/ym9Yq6kjEOmCWR14.jpg" width="600" alt="Skateboard Big Air Sunset Highlight">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b77a19c659b07feab6726a72c2c8f75/thumbnails/thumbnail.jpg" width="600" alt="Điểm nhấn trượt ván Big Air trong ánh hoàng hôn">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5466)**
 
 **Tác giả:** [AIライフハック](https://x.com/ai_lifehack55) | **Nguồn:** [Link](https://x.com/ai_lifehack55/status/2060198851953209598) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Cybernetic Anaconda Pursuit in Dystopian Mumbai
+### Cuộc truy đuổi của trăn máy Cybernetic tại Mumbai thời hậu tận thế
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-action cyberpunk video prompt featuring a motorcycle chase through a ruined Mumbai street, pursued by a giant mechanical anaconda.
+> Một video prompt hành động cyberpunk kịch tính với cảnh rượt đuổi bằng xe mô tô qua đường phố Mumbai đổ nát, bị truy đuổi bởi một con trăn máy khổng lồ.
 
 #### 📝 Prompt
 
 ```
-Fast-paced dystopian cyberpunk action in a ruined Indian megacity at night. Burnt cars, neon signs flickering in Hindi, sparks, smoke vents, broken flyovers, puddles reflecting pink and blue neon. Chaotic handheld cinematography, shaky tracking shots, aggressive speed ramps, dirty lens flares, practical lighting. Sound: roaring engines, metallic screeches, distorted radio chatter, distant explosions, hydraulic snake sounds.
+Hành động cyberpunk hậu tận thế nhịp độ nhanh tại một siêu đô thị Ấn Độ đổ nát vào ban đêm. Những chiếc xe cháy rụi, biển hiệu neon nhấp nháy chữ Hindi, tia lửa, lỗ thông hơi bốc khói, cầu vượt gãy đổ, vũng nước phản chiếu ánh đèn neon hồng và xanh. Quay phim cầm tay hỗn loạn, các cú máy tracking rung lắc, hiệu ứng tăng tốc mạnh mẽ, lóa ống kính bụi bặm, ánh sáng thực tế. Âm thanh: tiếng động cơ gầm rú, tiếng kim loại rít lên, tiếng đàm thoại vô tuyến bị méo, tiếng nổ từ xa, tiếng rắn thủy lực.
 
 ⸻
 
-0–2s — HOOK
+0–2s — MỞ ĐẦU
 
-A tattooed Indian cyberpunk woman with shaved punk hair tears through a dystopian street on a junkyard-built motorcycle made from welded scrap metal, exposed engine parts, and glowing wires.
+Một phụ nữ cyberpunk người Ấn Độ với hình xăm và mái tóc cạo kiểu punk lao vun vút qua con phố hậu tận thế trên chiếc mô tô tự chế từ phế liệu, các bộ phận động cơ lộ ra ngoài cùng những sợi dây điện phát sáng.
 
-Behind her—
+Phía sau cô ấy—
 
-A gigantic half-real, half-mechanical anaconda smashes through burnt cars in aggressive pursuit.
+Một con trăn khổng lồ nửa thực nửa máy đang đập tan những chiếc xe cháy rụi trong cuộc truy đuổi hung hãn.
 
-Metal jaws snapping.
+Bộ hàm kim loại đớp liên hồi.
 
-Red mechanical eyes glowing.
-
-⸻
-
-2–4s — ESCALATION
-
-Low shaky side tracking shot.
-
-The snake violently crashes through parked vehicles while partially gliding over wreckage with mechanical body segments flexing unnaturally.
-
-The woman swerves hard between wrecked taxis and burning debris.
-
-Radio crackles in her ear.
-
-Male voice:
-
-“Get it in position!”
+Đôi mắt máy màu đỏ rực sáng.
 
 ⸻
 
-4–7s — BUILD
+2–4s — LEO THANG
 
-She accelerates harder.
+Cú máy tracking ngang thấp và rung lắc.
 
-Rear tire skids through puddles.
+Con rắn đâm sầm qua các phương tiện đang đỗ, đồng thời lướt một phần trên đống đổ nát với các phân đoạn cơ thể máy uốn lượn một cách phi tự nhiên.
 
-The snake lunges low behind her, smashing a car sideways into a wall.
+Người phụ nữ lạng lách mạnh giữa những chiếc taxi bị phá hủy và mảnh vỡ đang cháy.
 
-She shouts into radio:
+Tiếng radio rè rè trong tai cô.
 
-“I’m trying!”
+Giọng nam:
 
-Ahead—
-
-a broken flyover ramp comes into view through smoke.
+“Đưa nó vào vị trí đi!”
 
 ⸻
 
-7–10s — COMMIT
+4–7s — CAO TRÀO
 
-The woman locks onto the ramp and speeds directly toward it.
+Cô tăng tốc mạnh hơn.
 
-Above on a ruined rooftop—
+Bánh sau trượt qua các vũng nước.
 
-A man with a bazooka takes aim.
+Con rắn lao thấp phía sau cô, đập văng một chiếc xe vào tường.
+
+Cô hét vào radio:
+
+“Tôi đang cố đây!”
+
+Phía trước—
+
+một đoạn đường dẫn cầu vượt bị gãy xuất hiện qua làn khói.
+
+⸻
+
+7–10s — QUYẾT ĐỊNH
+
+Người phụ nữ hướng thẳng vào đoạn đường dẫn và tăng tốc lao tới.
+
+Phía trên một mái nhà đổ nát—
+
+Một người đàn ông với khẩu bazooka đang nhắm bắn.
 
 Radio:
 
-“Just a little closer…”
+“Gần thêm chút nữa thôi…”
 
-The snake rapidly closes distance behind her.
-
-⸻
-
-10–13s — BULLET TIME PAYOFF
-
-She hits the ramp and launches into the air.
-
-Bullet time engages.
-
-The cybernetic anaconda leaps upward after her, jaws opening inches from her bike.
-
-The man fires.
-
-Rocket streaks through frame in slow motion.
-
-Direct hit into the snake’s mechanical skull.
-
-Massive explosion of sparks, fire, metal fragments, and flesh.
+Con rắn nhanh chóng thu hẹp khoảng cách phía sau cô.
 
 ⸻
 
-13–15s — FINAL BEAT
+10–13s — KẾT QUẢ (BULLET TIME)
 
-Time snaps back.
+Cô lao lên đoạn đường dẫn và bay lên không trung.
 
-The woman lands hard, bike wobbling violently—
+Hiệu ứng Bullet time được kích hoạt.
 
-she regains balance perfectly and keeps riding.
+Con trăn máy nhảy vọt lên theo cô, bộ hàm mở rộng chỉ cách chiếc xe vài inch.
 
-Behind her, the burning mechanical anaconda crashes through wrecked cars.
+Người đàn ông khai hỏa.
 
-She laughs into the radio:
+Quả tên lửa xé gió trong khung hình ở chế độ quay chậm.
 
-“Target down!”
+Trúng đích trực diện vào hộp sọ máy của con rắn.
 
-The man cheers over comms.
+Vụ nổ lớn với tia lửa, lửa, mảnh kim loại và thịt văng tung tóe.
 
-Cut.
+⸻
+
+13–15s — KẾT THÚC
+
+Thời gian trở lại bình thường.
+
+Người phụ nữ tiếp đất mạnh, chiếc xe chao đảo dữ dội—
+
+cô lấy lại thăng bằng hoàn hảo và tiếp tục lái đi.
+
+Phía sau cô, con trăn máy đang bốc cháy đâm sầm qua những chiếc xe đổ nát.
+
+Cô cười lớn vào radio:
+
+“Mục tiêu đã bị hạ!”
+
+Người đàn ông reo hò qua bộ đàm.
+
+Cắt.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060184772211838977/img/HLmUfriw9HDj2KMB.jpg" width="600" alt="Cybernetic Anaconda Pursuit in Dystopian Mumbai">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93c1e654e674d35d0de679a8a8c3bcf0/thumbnails/thumbnail.jpg" width="600" alt="Cuộc truy đuổi của trăn máy Cybernetic tại Mumbai thời hậu tận thế">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5462)**
 
 **Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060184837856850203) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Anime Characters in Photorealistic Shopping Mall
+### Nhân vật Anime trong trung tâm thương mại chân thực
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A detailed multi-shot cinematic prompt for Seedance 2.0 that blends 2D anime characters with a realistic 3D mall environment, focusing on consistency and smooth motion across five different shots.
+> Một câu lệnh điện ảnh đa cảnh chi tiết dành cho Seedance 2.0, kết hợp các nhân vật anime 2D với môi trường trung tâm thương mại 3D chân thực, tập trung vào tính nhất quán và chuyển động mượt mà qua năm cảnh quay khác nhau.
 
 #### 📝 Prompt
 
 ```
-Use Image A and Image B as the two main characters in all shots.
+Sử dụng Hình ảnh A và Hình ảnh B làm hai nhân vật chính trong tất cả các cảnh quay.
 
-Image A : preserve her exact anime illustration identity, hairstyle, face, outfit, proportions, and overall design.
+Hình ảnh A : giữ nguyên danh tính minh họa anime, kiểu tóc, khuôn mặt, trang phục, tỷ lệ và thiết kế tổng thể của cô ấy.
 
-Image B : preserve her exact anime illustration identity, hairstyle, face, outfit, proportions, and overall design.
+Hình ảnh B : giữ nguyên danh tính minh họa anime, kiểu tóc, khuôn mặt, trang phục, tỷ lệ và thiết kế tổng thể của cô ấy.
 
-Both characters must remain anime-style illustrations with crisp clean line art, cel-shaded flat colors, expressive anime eyes, and zero photorealism on the characters.
+Cả hai nhân vật phải giữ nguyên phong cách minh họa anime với nét vẽ sắc sảo, màu phẳng cel-shaded, đôi mắt anime biểu cảm và không có bất kỳ yếu tố chân thực nào trên nhân vật.
 
-All other elements — the shopping mall interior, storefronts, display windows, escalators, polished floors, shopping bags, crowd, lighting, and background architecture — are fully photorealistic.
+Tất cả các yếu tố khác — nội thất trung tâm thương mại, mặt tiền cửa hàng, cửa sổ trưng bày, thang cuốn, sàn nhà sáng bóng, túi mua sắm, đám đông, ánh sáng và kiến trúc nền — đều hoàn toàn chân thực.
 
-Setting: a busy modern shopping mall on a weekend afternoon. Stylish interior, bright natural and commercial lighting, large glass storefronts, digital signage, polished floors, open atrium, many shoppers walking around. The atmosphere is lively, fashionable, and cheerful.
+Bối cảnh: một trung tâm thương mại hiện đại sầm uất vào buổi chiều cuối tuần. Nội thất thời thượng, ánh sáng tự nhiên và thương mại rực rỡ, mặt tiền cửa hàng bằng kính lớn, bảng hiệu kỹ thuật số, sàn nhà sáng bóng, giếng trời thoáng đãng, nhiều người mua sắm đi lại. Không khí sôi động, thời trang và vui vẻ.
 
-15-second cinematic video, 24fps, smooth motion, clear emotional flow, character consistency across all shots.
+Video điện ảnh 15 giây, 24fps, chuyển động mượt mà, dòng cảm xúc rõ ràng, tính nhất quán của nhân vật xuyên suốt tất cả các cảnh quay.
 
-Shot 1 [MALL ENTRANCE — ARRIVAL]
+Cảnh 1 [LỐI VÀO TRUNG TÂM THƯƠNG MẠI — ĐẾN NƠI]
 
-Image A and Image B walk side by side into a crowded modern shopping mall, smiling and chatting. Many shoppers pass around them. The camera tracks backward in front of them as they enter the bright open atrium. They look excited for a fun day of window shopping.
+Hình ảnh A và Hình ảnh B đi bộ cạnh nhau vào một trung tâm thương mại hiện đại đông đúc, mỉm cười và trò chuyện. Nhiều người mua sắm đi ngang qua họ. Máy quay di chuyển lùi phía trước họ khi họ bước vào giếng trời sáng sủa. Họ trông rất hào hứng cho một ngày đi dạo mua sắm thú vị.
 
-Cut to Shot 2 [WINDOW SHOPPING — DISCOVERY]
+Chuyển sang Cảnh 2 [ĐI DẠO MUA SẮM — KHÁM PHÁ]
 
-The two girls stop in front of a stylish fashion storefront with a large glass display window. They lean in slightly and admire the items inside. Image A points at something cute in the display. Image B reacts with a bright smile and curious eyes. Medium shot, then close-up on their happy faces and pointing gesture.
+Hai cô gái dừng lại trước một cửa hàng thời trang sành điệu với cửa sổ trưng bày bằng kính lớn. Họ hơi nghiêng người và chiêm ngưỡng các món đồ bên trong. Hình ảnh A chỉ vào thứ gì đó dễ thương trong tủ trưng bày. Hình ảnh B phản ứng với nụ cười rạng rỡ và đôi mắt tò mò. Cảnh quay trung, sau đó cận cảnh khuôn mặt vui vẻ và cử chỉ chỉ tay của họ.
 
-Cut to Shot 3 [MOVING THROUGH THE MALL]
+Chuyển sang Cảnh 3 [DI CHUYỂN TRONG TRUNG TÂM THƯƠNG MẠI]
 
-Image A and Image B continue walking through the busy mall, passing elegant shop windows, cosmetics counters, and accessory displays. They laugh together and casually gesture while talking. Camera moves alongside them. Background crowd flows naturally around them. Their mood is relaxed, lively, and playful.
+Hình ảnh A và Hình ảnh B tiếp tục đi bộ qua trung tâm thương mại sầm uất, đi ngang qua các cửa hàng trang nhã, quầy mỹ phẩm và quầy trưng bày phụ kiện. Họ cười đùa cùng nhau và thỉnh thoảng ra hiệu khi trò chuyện. Máy quay di chuyển cùng họ. Đám đông phía sau di chuyển tự nhiên xung quanh họ. Tâm trạng của họ thoải mái, sống động và vui tươi.
 
-Cut to Shot 4 [EXCITEMENT AT A DISPLAY]
+Chuyển sang Cảnh 4 [HÀO HỨNG TẠI MỘT QUẦY TRƯNG BÀY]
 
-They stop at another display window with fashionable accessories and seasonal decor. Image B notices something first and gently pulls Image A’s sleeve to show it. Image A’s expression changes into delighted surprise. Close-up on their faces, then cut to a wider shot showing both of them framed by the bright storefront and the bustling crowd behind.
+Họ dừng lại ở một cửa sổ trưng bày khác với các phụ kiện thời trang và đồ trang trí theo mùa. Hình ảnh B nhận ra thứ gì đó trước và nhẹ nhàng kéo tay áo Hình ảnh A để chỉ cho cô ấy. Biểu cảm của Hình ảnh A thay đổi thành sự ngạc nhiên thích thú. Cận cảnh khuôn mặt của họ, sau đó chuyển sang cảnh quay rộng hơn cho thấy cả hai được bao quanh bởi mặt tiền cửa hàng rực rỡ và đám đông nhộn nhịp phía sau.
 
-Cut to Shot 5 [PURE WEEKEND JOY]
+Chuyển sang Cảnh 5 [NIỀM VUI CUỐI TUẦN TRỌN VẸN]
 
-Image A and Image B continue window shopping deeper into the mall, each carrying a few small shopping bags. They smile, laugh, and enjoy the lively weekend atmosphere. Wide cinematic shot of the modern shopping mall interior, the two girls walking happily together at the center of the frame, surrounded by the photorealistic crowd and glowing storefronts. End with a gentle crane out
+Hình ảnh A và Hình ảnh B tiếp tục đi dạo mua sắm sâu hơn vào trung tâm thương mại, mỗi người mang theo vài chiếc túi mua sắm nhỏ. Họ mỉm cười, cười đùa và tận hưởng không khí cuối tuần sôi động. Cảnh quay điện ảnh rộng về nội thất trung tâm thương mại hiện đại, hai cô gái đi bộ vui vẻ cùng nhau ở trung tâm khung hình, được bao quanh bởi đám đông chân thực và các mặt tiền cửa hàng rực rỡ. Kết thúc bằng một cú máy quay cần cẩu nhẹ nhàng ra xa.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060180079305756672/img/-nsftlOfh54VS_bz.jpg" width="600" alt="Anime Characters in Photorealistic Shopping Mall">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef97ac3fc65eabddfac8e55fabbab5fd/thumbnails/thumbnail.jpg" width="600" alt="Nhân vật Anime trong trung tâm thương mại chân thực">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5467)**
 
 **Tác giả:** [Toshi@ニャルオAI](https://x.com/Toshi_nyaruo_AI) | **Nguồn:** [Link](https://x.com/Toshi_nyaruo_AI/status/2060181284908073254) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Rooftop Sunset Fashion Film Prompt
+### Gợi ý Prompt cho phim thời trang hoàng hôn trên sân thượng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A luxurious and viral-style fashion film prompt featuring a model on a skyscraper rooftop during golden hour.
+> Một gợi ý prompt cho phim thời trang phong cách sang trọng và dễ lan tỏa (viral), với hình ảnh người mẫu trên sân thượng tòa nhà chọc trời vào giờ vàng.
 
 #### 📝 Prompt
 
 ```
-15-second ultra realistic cinematic rooftop fashion film during sunset.
+Phim thời trang điện ảnh siêu thực dài 15 giây trên sân thượng vào lúc hoàng hôn.
 
-Scene 1 (0–4s): A stunning fashion model steps onto a luxury rooftop overlooking a glowing city skyline at golden hour. Soft wind moves her hair and long black outfit naturally, cinematic drone shot approaching slowly, warm orange sunlight reflecting on glass buildings, ultra aesthetic atmosphere.
+Cảnh 1 (0–4 giây): Một người mẫu thời trang tuyệt đẹp bước lên sân thượng sang trọng nhìn ra đường chân trời thành phố rực rỡ vào giờ vàng. Gió nhẹ làm mái tóc và bộ trang phục đen dài của cô chuyển động tự nhiên, góc quay drone điện ảnh tiến lại gần chậm rãi, ánh nắng cam ấm áp phản chiếu trên các tòa nhà kính, bầu không khí cực kỳ thẩm mỹ.
 
-Scene 2 (4–8s): Slow-motion tracking shot as she confidently walks across the rooftop edge in a luxurious designer outfit with sunglasses and silver accessories. Cinematic lens flares, flowing fabric movement, rich old-money aesthetic, shallow depth of field, Vogue editorial vibe.
+Cảnh 2 (4–8 giây): Cú quay tracking chuyển động chậm khi cô tự tin bước dọc theo mép sân thượng trong bộ trang phục thiết kế sang trọng cùng kính râm và phụ kiện bạc. Hiệu ứng lóe sáng ống kính (lens flare) điện ảnh, chuyển động vải mềm mại, phong cách "old-money" sang trọng, độ sâu trường ảnh nông, mang hơi hướng biên tập của Vogue.
 
-Scene 3 (8–12s): Dramatic side-profile close-up with sunset behind her, hair moving beautifully in wind, emotional “main character” energy, cinematic camera orbit movement, realistic skin texture, luxury perfume advertisement style.
+Cảnh 3 (8–12 giây): Cận cảnh góc nghiêng đầy kịch tính với hoàng hôn phía sau, mái tóc bay nhẹ nhàng trong gió, năng lượng "nhân vật chính" đầy cảm xúc, chuyển động camera xoay quanh điện ảnh, kết cấu da chân thực, phong cách quảng cáo nước hoa cao cấp.
 
-Scene 4 (12–15s): Final powerful shot facing the city skyline while city lights begin glowing at blue hour. Camera slowly pulls back revealing the massive skyline and luxury rooftop ambiance. Text fades in: “Some people don’t follow trends… they become them.”
+Cảnh 4 (12–15 giây): Cú máy cuối cùng đầy ấn tượng hướng về phía đường chân trời thành phố khi ánh đèn bắt đầu rực sáng vào giờ xanh (blue hour). Camera từ từ lùi lại, để lộ đường chân trời rộng lớn và không gian sân thượng sang trọng. Văn bản hiện ra: “Một số người không chạy theo xu hướng… họ chính là xu hướng.”
 
-Ultra realistic cinematic fashion storytelling, viral Twitter/TikTok aesthetic, luxury lifestyle energy, smooth camera motion, film grain, anamorphic lens flare, highly detailed, emotional cinematic mood, 4K masterpiece.
+Kể chuyện thời trang điện ảnh siêu thực, phong cách viral trên Twitter/TikTok, năng lượng lối sống sang trọng, chuyển động camera mượt mà, hạt phim (film grain), hiệu ứng ống kính anamorphic, chi tiết cao, tâm trạng điện ảnh đầy cảm xúc, kiệt tác 4K.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060180922276909056/pu/img/DTES8Zi37QOrQ2y_.jpg" width="600" alt="Rooftop Sunset Fashion Film Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/915d27f621dde0b577da6db1c94683cf/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý Prompt cho phim thời trang hoàng hôn trên sân thượng">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5448)**
 
 **Tác giả:** [Zeeshi](https://x.com/AIwithZeeshi) | **Nguồn:** [Link](https://x.com/AIwithZeeshi/status/2060181075779781084) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Mushroom Port Town Anime Escape
+### Cuộc tẩu thoát anime tại thị trấn cảng nấm
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A cinematic anime sequence showing a girl in a blue hood stealing a glowing mushroom and escaping through a high-speed chase across the bridges and walkways of a floating mushroom market town.
+> Một phân cảnh anime điện ảnh về cô gái đội mũ trùm đầu màu xanh lam đánh cắp một cây nấm phát sáng và thực hiện cuộc rượt đuổi tốc độ cao qua các cây cầu và lối đi của một thị trấn cảng nấm nổi.
 
 #### 📝 Prompt
 
 ```
-@Image 1 = Protagonist character. @Image 2 = Storyboard reference. Based on the attached storyboard image, create a 15-second horizontal 16:9 anime thrilling escape scene video. Theme: Thief Girl. Animate as a high-tempo, brisk scene following the panel order of the storyboard. Flow: Start with an overhead view of a mushroom port town market spread across the water. A girl in a blue hood hides at the edge of the pier or market and steals a rare purple-glowing mushroom. Impressively depict the moment of theft with hand close-ups, the girl's sparkling eyes, and the glow of the rare mushroom. Once the theft is discovered, the girl escapes quickly using wooden piers, waterside paths, docks, rope bridges, and floating platforms. As pursuers close in, show a high-speed escape where she runs across narrow bridges, nearly slips but recovers, jumps across canals, and brushes past boats and ropes. Include seagulls flying and textures of water splashes and damp wood. End with her running across a long bridge toward the light, leaving the port town behind. Style: High-quality anime film style, cinematic lighting, top-tier animation, high definition, vivid colors, transparent water, damp wood texture, openness of the port town, and an adventurous world filled with mushroom stalls and floating architecture. The girl should appear small and agile, mischievous yet serious, and as if she is truly escaping while enjoying the thrill. Editing: Use rhythmic high-speed cuts, close-ups, extreme close-ups, low angles, overhead shots, quick pans, and smooth match cuts. Mix an overhead market panorama, hand close-ups during theft, the girl's face close-up, following shots escaping from pursuers, low angles near the water surface, extreme close-ups of feet kicking the pier, wide shots of canal jumps, and dynamic diagonal compositions using rope movement or high vantage points. Create an energetic and stylish video, utilizing the precarious waterside and continuity of bridges unique to a floating port town. Important: Do not make it a slideshow of still images. Animate running and stealing naturally. Maintain the same atmosphere of the floating mushroom port town and high-quality anime style throughout. Do not include text, subtitles, logos, or watermarks. Perform the suspenseful thrill as a brisk scene. Consistently maintain the protagonist's face, blue hood, outfit, basket, and purple glowing mushroom throughout.
+@Image 1 = Nhân vật chính. @Image 2 = Tham chiếu bảng phân cảnh. Dựa trên hình ảnh bảng phân cảnh đính kèm, hãy tạo một video anime dài 15 giây theo khung hình ngang 16:9 về một cuộc tẩu thoát kịch tính. Chủ đề: Cô gái trộm. Hoạt họa theo nhịp độ nhanh, dồn dập theo thứ tự các khung hình trong bảng phân cảnh. Diễn biến: Bắt đầu với góc nhìn từ trên cao xuống thị trấn cảng nấm trải dài trên mặt nước. Một cô gái đội mũ trùm đầu màu xanh lam ẩn nấp ở rìa cầu tàu hoặc khu chợ và đánh cắp một cây nấm phát sáng màu tím quý hiếm. Thể hiện ấn tượng khoảnh khắc trộm đồ với các cảnh quay cận cảnh bàn tay, đôi mắt lấp lánh của cô gái và ánh sáng rực rỡ của cây nấm quý. Khi vụ trộm bị phát hiện, cô gái nhanh chóng tẩu thoát qua các cầu gỗ, lối đi ven sông, bến tàu, cầu dây và các nền tảng nổi. Khi những kẻ truy đuổi đến gần, hãy thể hiện cuộc tẩu thoát tốc độ cao nơi cô chạy qua những cây cầu hẹp, suýt trượt chân nhưng lấy lại thăng bằng, nhảy qua các con kênh và lướt qua những chiếc thuyền và dây thừng. Thêm hình ảnh hải âu bay cùng kết cấu của nước bắn tung tóe và gỗ ẩm ướt. Kết thúc bằng cảnh cô chạy trên một cây cầu dài hướng về phía ánh sáng, bỏ lại thị trấn cảng phía sau. Phong cách: Phong cách phim anime chất lượng cao, ánh sáng điện ảnh, hoạt họa đỉnh cao, độ phân giải cao, màu sắc sống động, nước trong vắt, kết cấu gỗ ẩm, sự thoáng đãng của thị trấn cảng và một thế giới phiêu lưu đầy ắp các quầy hàng nấm và kiến trúc nổi. Cô gái cần xuất hiện với vẻ nhỏ nhắn, nhanh nhẹn, tinh nghịch nhưng nghiêm túc, như thể cô thực sự đang tận hưởng sự phấn khích của cuộc tẩu thoát. Biên tập: Sử dụng các nhát cắt tốc độ cao đầy nhịp điệu, cận cảnh, cực cận, góc thấp, góc nhìn từ trên cao, lia máy nhanh và các cảnh chuyển tiếp mượt mà. Kết hợp toàn cảnh khu chợ từ trên cao, cận cảnh bàn tay khi trộm, cận cảnh khuôn mặt cô gái, các cảnh quay theo chân khi bị truy đuổi, góc thấp gần mặt nước, cực cận cảnh đôi chân đạp trên cầu tàu, các cảnh quay rộng khi nhảy qua kênh và bố cục chéo năng động sử dụng chuyển động của dây thừng hoặc các điểm quan sát cao. Tạo ra một video tràn đầy năng lượng và phong cách, tận dụng sự chênh vênh của ven sông và tính liên tục của các cây cầu đặc trưng tại một thị trấn cảng nổi. Quan trọng: Không tạo thành một trình chiếu các hình ảnh tĩnh. Hãy hoạt họa các cảnh chạy và trộm một cách tự nhiên. Duy trì bầu không khí của thị trấn cảng nấm nổi và phong cách anime chất lượng cao xuyên suốt. Không bao gồm văn bản, phụ đề, logo hoặc hình mờ. Thể hiện sự kịch tính, hồi hộp như một phân cảnh dồn dập. Duy trì nhất quán khuôn mặt, mũ trùm đầu màu xanh lam, trang phục, giỏ và cây nấm phát sáng màu tím của nhân vật chính trong suốt video.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060178543808786432/img/dhAVzjA-P9Prag2Q.jpg" width="600" alt="Mushroom Port Town Anime Escape">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/282ac02aeb41e21701103daef3f76c1c/thumbnails/thumbnail.jpg" width="600" alt="Cuộc tẩu thoát anime tại thị trấn cảng nấm">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5468)**
 
 **Tác giả:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **Nguồn:** [Link](https://x.com/Ryuki_Yano/status/2060179315011277307) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Medieval Knight Horseback POV
+### Góc nhìn thứ nhất của hiệp sĩ thời trung cổ trên lưng ngựa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed first-person perspective prompt for a cinematic medieval sequence showing a knight riding through a village, emphasizing realistic human visual perspective and natural motion.
+> Một câu lệnh chi tiết về góc nhìn thứ nhất cho phân cảnh điện ảnh thời trung cổ, mô tả một hiệp sĩ đang cưỡi ngựa đi qua ngôi làng, nhấn mạnh vào góc nhìn thực tế của con người và chuyển động tự nhiên.
 
 #### 📝 Prompt
 
 ```
-A first-person POV (horseback riding POV) sequence in a live-action medieval European-style film, showing a knight traveling on horseback.
-The camera is permanently fixed to the knight’s eye level, representing a realistic human visual perspective from atop a horse. There are no cuts, no switches to third-person, and no aerial or top-down viewpoints at any point.
-The horse follows the route indicated in the reference image. The journey begins at the location labeled “Start” and ends at the location labeled “Stop Here.” Movement follows a realistic walking pace of a horse, with natural body motion including subtle head, shoulder, and reins-induced camera sway.
-Along the way, the knight briefly greets villagers while passing them (simple nods or short hand waves). The village is a live-action medieval settlement with wooden buildings, stone-paved streets, and naturally active inhabitants.
-Upon reaching the final destination, the horse gradually slows down and stops. The knight then naturally dismounts the horse. The footage remains a single continuous shot until that moment.
+Một phân cảnh góc nhìn thứ nhất (POV cưỡi ngựa) trong bộ phim người đóng phong cách châu Âu thời trung cổ, mô tả một hiệp sĩ đang di chuyển trên lưng ngựa.
+Camera được cố định vĩnh viễn ở tầm mắt của hiệp sĩ, thể hiện góc nhìn thực tế của con người từ trên lưng ngựa. Không có bất kỳ đoạn cắt cảnh, chuyển đổi sang góc nhìn thứ ba, hay góc quay từ trên cao nào xuất hiện trong suốt phân cảnh.
+Ngựa di chuyển theo lộ trình được chỉ định trong hình ảnh tham chiếu. Hành trình bắt đầu tại vị trí được đánh dấu “Start” và kết thúc tại vị trí được đánh dấu “Stop Here”. Chuyển động tuân theo tốc độ đi bộ thực tế của ngựa, với các chuyển động cơ thể tự nhiên bao gồm độ rung lắc nhẹ của camera do đầu, vai và dây cương tạo ra.
+Trên đường đi, hiệp sĩ chào hỏi ngắn gọn những người dân làng khi đi ngang qua họ (gật đầu đơn giản hoặc vẫy tay nhẹ). Ngôi làng là một khu định cư thời trung cổ với các tòa nhà bằng gỗ, đường lát đá và cư dân sinh hoạt tự nhiên.
+Khi đến đích cuối cùng, con ngựa dần chậm lại và dừng hẳn. Sau đó, hiệp sĩ xuống ngựa một cách tự nhiên. Đoạn phim vẫn là một cảnh quay liên tục duy nhất cho đến thời điểm đó.
 
-Visual Style (Photoreal Enhancement):
-Live-action cinematic film quality, photorealistic
-Natural light–based cinematic lighting
-Lens characteristics (shallow depth of field, slight lens breathing)
-Handheld-like but stabilized POV camera motion
-Realistic motion blur
-4K RAW film look
-Cinematic color grading (no excessive CGI appearance)
+Phong cách hình ảnh (Tăng cường độ chân thực):
+Chất lượng phim điện ảnh người đóng, chân thực như ảnh chụp
+Ánh sáng điện ảnh dựa trên ánh sáng tự nhiên
+Đặc tính ống kính (độ sâu trường ảnh nông, hiệu ứng thở ống kính nhẹ)
+Chuyển động camera POV kiểu cầm tay nhưng được ổn định
+Nhòe chuyển động (motion blur) thực tế
+Diện mạo phim 4K RAW
+Chỉnh màu điện ảnh (không có vẻ ngoài CGI quá đà)
 
-Negative Prompt (for maintaining realism):
-Anime, CGI, or game engine-style visuals
-Drone view, aerial view, or third-person perspective
-HUD, UI, subtitles, markers, text overlays
-Route lines, guide lines, or map visualizations
-Excessive slow motion or unnatural speed changes
-Unrealistic floating sensation or gravity-defying motion
-Cuts or viewpoint transitions
-Overly smooth CGI-style camera movement
-Unrealistic horse movement
+Câu lệnh phủ định (để duy trì tính chân thực):
+Hình ảnh phong cách anime, CGI hoặc công cụ trò chơi
+Góc quay từ trên cao (drone), góc nhìn từ trên không hoặc góc nhìn thứ ba
+HUD, UI, phụ đề, điểm đánh dấu, văn bản đè lên màn hình
+Đường lộ trình, đường hướng dẫn hoặc hình ảnh bản đồ
+Chuyển động chậm quá mức hoặc thay đổi tốc độ không tự nhiên
+Cảm giác lơ lửng không thực tế hoặc chuyển động bất chấp trọng lực
+Các đoạn cắt hoặc chuyển đổi góc nhìn
+Chuyển động camera kiểu CGI quá mượt mà
+Chuyển động của ngựa không thực tế
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060172486021685248/img/IpxHu_sAVfJwkyrw.jpg" width="600" alt="Medieval Knight Horseback POV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e05205527441c64fa6a674cc6daaec6/thumbnails/thumbnail.jpg" width="600" alt="Góc nhìn thứ nhất của hiệp sĩ thời trung cổ trên lưng ngựa">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5471)**
 
 **Tác giả:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Nguồn:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Cyberpunk Mumbai Werewolf Pursuit
+### Cuộc truy đuổi người sói Cyberpunk tại Mumbai
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic 15-second action sequence set in a dystopian Mumbai with a robotic werewolf chasing a cyberpunk woman on a motorcycle.
+> Một phân cảnh hành động điện ảnh dài 15 giây lấy bối cảnh Mumbai thời kỳ loạn lạc, với một con người sói robot đang truy đuổi một cô gái cyberpunk trên chiếc xe mô tô.
 
 #### 📝 Prompt
 
 ```
-Fast-paced dystopian cyberpunk action in a ruined Indian megacity at night. Burnt cars, neon Hindi signs flickering, smoke vents, broken flyovers, puddles reflecting pink and blue neon. Chaotic shaky cinematography, aggressive handheld tracking, dirty lens flares, speed ramps, practical lighting. Sound: roaring engines, distorted radio chatter, hydraulic servos, metallic growls, distant explosions.
+Hành động cyberpunk loạn lạc nhịp độ nhanh tại một siêu đô thị Ấn Độ đổ nát vào ban đêm. Những chiếc xe cháy rụi, biển hiệu tiếng Hindi bằng đèn neon nhấp nháy, lỗ thông hơi bốc khói, cầu vượt gãy đổ, những vũng nước phản chiếu ánh đèn neon hồng và xanh. Kỹ thuật quay phim rung lắc hỗn loạn, góc máy cầm tay bám đuổi quyết liệt, hiệu ứng lóe sáng trên ống kính bẩn, kỹ thuật tăng tốc (speed ramp), ánh sáng thực tế. Âm thanh: tiếng động cơ gầm rú, tiếng đàm thoại radio méo mó, tiếng động cơ thủy lực, tiếng gầm gừ kim loại, tiếng nổ từ xa.
 
 ⸻
 
-0–2s — HOOK
+0–2s — MỞ ĐẦU
 
-A tattooed Indian cyberpunk woman with shaved punk hair races through a destroyed street on a junkyard-built motorcycle made from exposed engine parts, welded scrap, and glowing cables.
+Một cô gái cyberpunk người Ấn Độ với hình xăm và mái tóc cạo kiểu punk đang lao đi trên con phố đổ nát bằng chiếc mô tô tự chế từ các bộ phận động cơ lộ thiên, phế liệu hàn gắn và những sợi cáp phát sáng.
 
-Behind her—
+Phía sau cô—
 
-A gigantic half-real, half-robotic werewolf crashes through burnt cars at full speed.
+Một con người sói khổng lồ nửa thật nửa máy đang lao qua những chiếc xe cháy rụi với tốc độ tối đa.
 
-Metal claws scraping asphalt.
+Móng vuốt kim loại cày xới mặt đường nhựa.
 
-Hydraulic limbs flexing.
+Các chi thủy lực co duỗi liên tục.
 
-One glowing red cybernetic eye.
-
-⸻
-
-2–4s — ESCALATION
-
-Low shaky side-tracking shot.
-
-The cyber-werewolf runs unnaturally fast, sometimes on all fours, sometimes launching itself over wrecked vehicles.
-
-Its exposed mechanical spine sparks while flesh and metal shift together violently.
-
-Radio crackles in her ear.
-
-Male voice:
-
-“Get it in position!”
+Một con mắt điều khiển học đỏ rực.
 
 ⸻
 
-4–7s — BUILD
+2–4s — LEO THANG
 
-She drifts hard around a pile of overturned taxis.
+Góc máy thấp, rung lắc, bám đuổi từ bên cạnh.
 
-The werewolf slams through one car completely, sending debris flying across the road.
+Người sói máy chạy với tốc độ phi tự nhiên, lúc thì bằng bốn chân, lúc thì phóng mình qua những chiếc xe bị hư hại.
 
-It gains ground fast.
+Cột sống cơ khí lộ thiên của nó tóe lửa trong khi da thịt và kim loại chuyển động dữ dội cùng nhau.
 
-The woman shouts into the radio:
+Tiếng radio rè rè trong tai cô.
 
-“I’m trying!”
+Giọng nam:
 
-Ahead through smoke and neon haze—
-
-a broken flyover ramp appears.
+“Đưa nó vào vị trí!”
 
 ⸻
 
-7–10s — COMMIT
+4–7s — CAO TRÀO
 
-She accelerates directly toward the ramp.
+Cô drift mạnh quanh một đống taxi bị lật.
 
-Cut to rooftop—
+Người sói đâm xuyên qua một chiếc xe, khiến mảnh vỡ bay tung tóe khắp đường.
 
-A man with a bazooka steadies his aim through heat distortion.
+Nó nhanh chóng rút ngắn khoảng cách.
+
+Cô gái hét vào radio:
+
+“Tôi đang cố đây!”
+
+Phía trước, xuyên qua làn khói và ánh sáng neon mờ ảo—
+
+một đoạn đường dẫn lên cầu vượt bị gãy xuất hiện.
+
+⸻
+
+7–10s — QUYẾT ĐỊNH
+
+Cô tăng tốc trực diện về phía đoạn đường dẫn.
+
+Chuyển cảnh lên sân thượng—
+
+Một người đàn ông với khẩu bazooka đang ổn định mục tiêu qua làn không khí nóng biến dạng.
 
 Radio:
 
-“Bring it closer…”
+“Dụ nó lại gần hơn nữa…”
 
-The cyber-werewolf launches itself forward in massive leaps, nearly reaching the bike.
-
-⸻
-
-10–13s — BULLET TIME PAYOFF
-
-The woman hits the ramp and flies into the air.
-
-Bullet time engages.
-
-The cybernetic werewolf leaps upward behind her, claws reaching inches from her back.
-
-The bazooka fires.
-
-Rocket streaks through frame in slow motion.
-
-Direct impact into the werewolf’s chest.
-
-Explosion of sparks, fire, metal fragments, fur, and smoke.
+Người sói máy phóng mình về phía trước bằng những cú nhảy khổng lồ, suýt chút nữa chạm tới chiếc xe.
 
 ⸻
 
-13–15s — FINAL BEAT
+10–13s — KẾT QUẢ BULLET TIME
 
-Time snaps back.
+Cô gái lao lên đoạn đường dẫn và bay lên không trung.
 
-The woman lands hard, bike wobbling violently—
+Hiệu ứng Bullet time kích hoạt.
 
-she regains control and speeds forward.
+Người sói máy nhảy vọt lên phía sau cô, móng vuốt chỉ còn cách lưng cô vài inch.
 
-Behind her, the burning cyber-werewolf crashes through wrecked cars and explodes into debris.
+Khẩu bazooka khai hỏa.
 
-She laughs into the radio:
+Quả tên lửa xé gió trong khung hình ở chế độ quay chậm.
 
-“Got him.”
+Va chạm trực diện vào ngực người sói.
 
-The man cheers over comms.
+Một vụ nổ của tia lửa, lửa, mảnh kim loại, lông thú và khói bụi.
 
-Cut.
+⸻
+
+13–15s — KẾT THÚC
+
+Thời gian trở lại bình thường.
+
+Cô gái tiếp đất mạnh, chiếc xe loạng choạng dữ dội—
+
+cô lấy lại quyền kiểm soát và tăng tốc lao đi.
+
+Phía sau, người sói máy đang bốc cháy đâm sầm qua những chiếc xe đổ nát và nổ tung thành những mảnh vụn.
+
+Cô cười vào radio:
+
+“Xong rồi.”
+
+Người đàn ông reo hò qua bộ đàm.
+
+Cắt.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0fab2eea50a88534f5e208367d91f57/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Mumbai Werewolf Pursuit">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0fab2eea50a88534f5e208367d91f57/thumbnails/thumbnail.jpg" width="600" alt="Cuộc truy đuổi người sói Cyberpunk tại Mumbai">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5434)**
 
@@ -4806,6 +4806,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-05-30T07:03:02.976Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-05-30T10:19:00.190Z</sub>
 
 </div>

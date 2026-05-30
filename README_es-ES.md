@@ -361,3030 +361,3030 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
-### Mega Crocodile vs Carnivorous Flower Pit
+### Mega cocodrilo contra foso de plantas carnívoras
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A terrifying jungle creature feature prompt featuring a giant crocodile falling into a pit of predatory carnivorous plants.
+> Un aterrador prompt de criaturas de la selva que muestra a un cocodrilo gigante cayendo en un foso de plantas carnívoras depredadoras.
 
 #### 📝 Prompt
 
 ```
-Nightmare creature island. Dense prehistoric jungle. Giant ferns, twisted roots, thick humidity, insects screaming in the background. Sunlight barely reaches the ground. Hyper-real creature-feature action. Chaotic handheld cinematography, aggressive speed ramps, crash zooms, whip pans, low-angle tracking shots. Sound: crocodile roars, breaking trees, snapping plant jaws, frantic breathing.
+Isla de criaturas de pesadilla. Selva prehistórica densa. Helechos gigantes, raíces retorcidas, humedad espesa, insectos gritando de fondo. La luz del sol apenas llega al suelo. Acción de criaturas hiperrealista. Cinematografía caótica en cámara en mano, rampas de velocidad agresivas, zooms bruscos, barridos rápidos, tomas de seguimiento en ángulo bajo. Sonido: rugidos de cocodrilo, árboles rompiéndose, mandíbulas de plantas chasqueando, respiración frenética.
 
 ⸻
 
-0–2s — HOOK
+0–2s — GANCHO
 
-Low-angle handheld tracking shot.
+Toma de seguimiento en ángulo bajo con cámara en mano.
 
-A survivor is already sprinting through dense jungle.
+Un superviviente ya está corriendo a través de la densa selva.
 
-Branches whip across frame.
+Las ramas azotan el encuadre.
 
-Behind him—
+Detrás de él—
 
-A gigantic mega crocodile explodes through the vegetation.
+Un cocodrilo gigante irrumpe a través de la vegetación.
 
-Forty feet long.
+Doce metros de largo.
 
-Ancient scars covering its body.
+Cicatrices antiguas cubriendo su cuerpo.
 
-Trees snap in half as it charges.
+Los árboles se parten por la mitad mientras carga.
 
-Its jaws slam shut inches behind him.
-
-⸻
-
-2–5s — ESCALATION
-
-Side tracking shot.
-
-The survivor jumps over roots and fallen logs.
-
-The crocodile ignores obstacles completely.
-
-It bulldozes through everything.
-
-Entire bushes and small trees are launched into the air.
-
-The gap between them shrinks rapidly.
-
-The survivor looks ahead—
-
-A strange clearing.
+Sus mandíbulas se cierran a centímetros de él.
 
 ⸻
 
-5–8s — FALSE SAFETY
+2–5s — ESCALADA
 
-Wide shot.
+Toma de seguimiento lateral.
 
-The survivor bursts into a beautiful field of enormous flowers.
+El superviviente salta sobre raíces y troncos caídos.
 
-Bright colors.
+El cocodrilo ignora los obstáculos por completo.
 
-Huge petals.
+Arrasa con todo a su paso.
 
-Completely peaceful.
+Arbustos enteros y árboles pequeños salen volando por el aire.
 
-He doesn’t stop.
+La distancia entre ellos se reduce rápidamente.
 
-Runs straight through.
+El superviviente mira hacia adelante—
 
-The crocodile follows at full speed.
-
-Then—
-
-The ground beneath the crocodile cracks.
+Un extraño claro.
 
 ⸻
 
-8–11s — REVEAL
+5–8s — FALSA SEGURIDAD
 
-Crash zoom downward.
+Plano general.
 
-The entire flower field collapses.
+El superviviente irrumpe en un hermoso campo de flores enormes.
 
-Hidden beneath it—
+Colores brillantes.
 
-A gigantic biological pit.
+Pétalos gigantescos.
 
-Hundreds of flower stalks erupt upward.
+Completamente pacífico.
 
-But these aren’t flowers.
+No se detiene.
 
-Each bloom opens into a circular mouth lined with jagged teeth.
+Corre directamente a través de él.
 
-The crocodile falls directly into the center.
+El cocodrilo lo sigue a toda velocidad.
 
-⸻
+Entonces—
 
-11–13s — CHAOS
-
-The flower creatures attack immediately.
-
-Dozens latch onto the crocodile.
-
-The beast thrashes violently.
-
-Flower heads are ripped apart.
-
-Others immediately replace them.
-
-The entire pit becomes a feeding frenzy.
-
-Petals.
-
-Teeth.
-
-Mud.
-
-Blood-red pollen exploding everywhere.
+El suelo bajo el cocodrilo se agrieta.
 
 ⸻
 
-13–15s — SHOCKING PAYOFF
+8–11s — REVELACIÓN
 
-The ground shakes.
+Zoom brusco hacia abajo.
 
-A colossal flower rises from the center of the pit.
+Todo el campo de flores colapsa.
 
-Its bloom is larger than a truck.
+Oculto bajo él—
 
-It wraps around the struggling crocodile.
+Un foso biológico gigantesco.
 
-Then violently launches it into the air.
+Cientos de tallos florales brotan hacia arriba.
 
-The giant flower opens fully—
+Pero estas no son flores.
 
-Catches the airborne crocodile whole—
+Cada capullo se abre en una boca circular forrada con dientes dentados.
 
-And swallows it in a single motion.
+El cocodrilo cae directamente al centro.
 
-The survivor stares in disbelief.
+⸻
 
-Then the giant flower slowly turns toward him.
+11–13s — CAOS
 
-Its mouth begins opening again.
+Las criaturas florales atacan de inmediato.
 
-Hard cut to black.
+Docenas se aferran al cocodrilo.
+
+La bestia se agita violentamente.
+
+Las cabezas de las flores son arrancadas.
+
+Otras las reemplazan inmediatamente.
+
+Todo el foso se convierte en un frenesí alimenticio.
+
+Pétalos.
+
+Dientes.
+
+Lodo.
+
+Polen rojo sangre explotando por todas partes.
+
+⸻
+
+13–15s — DESENLACE IMPACTANTE
+
+El suelo tiembla.
+
+Una flor colosal emerge del centro del foso.
+
+Su capullo es más grande que un camión.
+
+Se envuelve alrededor del cocodrilo que lucha.
+
+Luego lo lanza violentamente al aire.
+
+La flor gigante se abre por completo—
+
+Atrapa al cocodrilo en el aire—
+
+Y lo traga de un solo movimiento.
+
+El superviviente mira con incredulidad.
+
+Entonces la flor gigante se gira lentamente hacia él.
+
+Su boca comienza a abrirse de nuevo.
+
+Corte seco a negro.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/944b873cdbe26e5c1e2536607831457b/thumbnails/thumbnail.jpg" width="600" alt="Mega Crocodile vs Carnivorous Flower Pit">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/944b873cdbe26e5c1e2536607831457b/thumbnails/thumbnail.jpg" width="600" alt="Mega cocodrilo contra foso de plantas carnívoras">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5437)**
 
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2060509418903716012) | **Publicado:** May 29, 2026
 
 ---
-### Parasite Lake and Mutated Crocodile Horror Sequence
+### Secuencia de terror: El lago parásito y el cocodrilo mutante
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A terrifying creature-feature video prompt featuring a survivor fleeing a forty-foot crocodile that undergoes a horrific mutation caused by glowing parasites.
+> Un aterrador prompt de video de criaturas que muestra a un superviviente huyendo de un cocodrilo de doce metros que sufre una horrible mutación causada por parásitos brillantes.
 
 #### 📝 Prompt
 
 ```
-Nightmare jungle island. Black water lake surrounded by twisted mangrove roots, giant ferns, strange glowing plants, thick fog hanging over the water. The island feels biologically wrong. Hyper-real creature-feature action. Chaotic handheld cinematography, aggressive speed ramps, crash zooms, rapid cut-tos. Sound: splashing water, crocodile roars, parasite screeches, frantic breathing. Multiple shots. Like a movie scene. 
+Isla selvática de pesadilla. Lago de aguas negras rodeado de raíces de manglar retorcidas, helechos gigantes, plantas extrañas y brillantes, y una espesa niebla sobre el agua. La isla se siente biológicamente incorrecta. Acción de criaturas hiperrealista. Cinematografía caótica en mano, cambios de velocidad agresivos, zooms bruscos, cortes rápidos. Sonido: agua salpicando, rugidos de cocodrilo, chillidos de parásitos, respiración frenética. Múltiples planos. Como una escena de película.
 
 ⸻
 
-0–2s — HOOK
+0–2s — GANCHO
 
-Handheld chase shot.
+Plano de persecución en mano.
 
-A survivor is already sprinting along the muddy shoreline.
+Un superviviente corre a toda velocidad por la orilla fangosa.
 
-Behind him—
+Detrás de él—
 
-A gigantic crocodile bursts through shallow water.
+Un cocodrilo gigantesco irrumpe en las aguas poco profundas.
 
-Forty feet long.
+Doce metros de largo.
 
-Ancient scars.
+Cicatrices ancestrales.
 
-Massive jaws snapping shut inches behind him.
+Mandíbulas masivas cerrándose a centímetros de él.
 
-Mud and water explode everywhere.
-
-⸻
-
-2–5s — ESCALATION
-
-The survivor reaches the lake edge.
-
-No options left.
-
-The crocodile lunges.
-
-At the last second—
-
-He dives into the water.
-
-Cut underwater.
-
-The crocodile crashes into the lake behind him.
-
-A massive wall of bubbles and mud fills the frame.
+Lodo y agua explotan por todas partes.
 
 ⸻
 
-5–8s — FALSE SAFETY
+2–5s — ESCALADA
 
-Underwater tracking shot.
+El superviviente llega al borde del lago.
 
-The survivor swims deeper.
+No quedan opciones.
 
-Looks behind.
+El cocodrilo se lanza.
 
-The crocodile is still searching.
+En el último segundo—
 
-Then something changes.
+Se sumerge en el agua.
 
-Small glowing worm-like creatures emerge from the darkness.
+Corte bajo el agua.
 
-Hundreds of them with large jagged teeth
+El cocodrilo choca contra el lago detrás de él.
 
-Moving unnaturally fast.
-
-⸻
-
-8–11s — REVEAL
-
-The parasites attach themselves to the crocodile.
-
-One.
-
-Ten.
-
-Fifty.
-
-Hundreds.
-
-The crocodile thrashes violently.
-
-Its body starts mutating almost immediately.
-
-Extra limbs push through its sides.
-
-Additional jaws emerge from its neck.
-
-New eyes open beneath its scales.
-
-The water turns chaotic.
+Un muro masivo de burbujas y lodo llena el encuadre.
 
 ⸻
 
-11–13s — CHAOS
+5–8s — FALSA SEGURIDAD
 
-The survivor surfaces and pulls himself onto shore.
+Plano de seguimiento submarino.
 
-Gasping for air.
+El superviviente nada más profundo.
 
-Relieved.
+Mira hacia atrás.
 
-Then the lake erupts.
+El cocodrilo sigue buscando.
 
-The mutated crocodile explodes upward.
+Entonces algo cambia.
 
-Twice as large.
+Pequeñas criaturas brillantes similares a gusanos emergen de la oscuridad.
 
-Covered in glowing parasites.
+Cientos de ellas con grandes dientes dentados.
 
-Multiple jaws opening independently.
+Moviéndose de forma antinaturalmente rápida.
 
 ⸻
 
-13–15s — SHOCKING PAYOFF
+8–11s — REVELACIÓN
 
-The creature roars.
+Los parásitos se adhieren al cocodrilo.
 
-Then one of the extra jaws tears open.
+Uno.
 
-Inside—
+Diez.
 
-Another fully formed crocodile head begins pushing outward.
+Cincuenta.
 
-Growing from inside the first.
+Cientos.
 
-The survivor stares in disbelief.
+El cocodrilo se agita violentamente.
 
-The second head opens its eyes.
+Su cuerpo comienza a mutar casi de inmediato.
 
-Hard cut to black.
+Extremidades adicionales brotan de sus costados.
+
+Mandíbulas adicionales emergen de su cuello.
+
+Nuevos ojos se abren bajo sus escamas.
+
+El agua se vuelve caótica.
+
+⸻
+
+11–13s — CAOS
+
+El superviviente sale a la superficie y se arrastra hacia la orilla.
+
+Jadeando por aire.
+
+Aliviado.
+
+Entonces el lago entra en erupción.
+
+El cocodrilo mutado explota hacia arriba.
+
+El doble de grande.
+
+Cubierto de parásitos brillantes.
+
+Múltiples mandíbulas abriéndose de forma independiente.
+
+⸻
+
+13–15s — DESENLACE IMPACTANTE
+
+La criatura ruge.
+
+Entonces una de las mandíbulas extra se desgarra.
+
+Dentro—
+
+Otra cabeza de cocodrilo completamente formada comienza a empujar hacia afuera.
+
+Creciendo desde el interior de la primera.
+
+El superviviente mira con incredulidad.
+
+La segunda cabeza abre sus ojos.
+
+Corte seco a negro.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060499124030713856/img/j_Hg9QsHetZjRXW6.jpg" width="600" alt="Parasite Lake and Mutated Crocodile Horror Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/deb9f35702d4d63089ec47f0c10e1c9d/thumbnails/thumbnail.jpg" width="600" alt="Secuencia de terror: El lago parásito y el cocodrilo mutante">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5454)**
 
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2060499189478642005) | **Publicado:** May 29, 2026
 
 ---
-### Sled Dog Mutation Body Horror Sequence
+### Secuencia de horror corporal: mutación de perro de trineo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A terrifying body horror scene inspired by 'The Thing', depicting a frightened sled dog undergoing a violent biological transformation in an Antarctic outpost.
+> Una aterradora escena de horror corporal inspirada en 'The Thing', que muestra a un perro de trineo asustado experimentando una violenta transformación biológica en una base de la Antártida.
 
 #### 📝 Prompt
 
 ```
-Remote Antarctic outpost at night. Snowstorm outside. Dim yellow lighting inside a kennel room. Metal cages. Frost-covered windows. High-tension body horror with escalating dread and explosive transformation. Slow unease that detonates into chaos. Sound: wind, dog breathing, distant generator hum.
+Base remota en la Antártida durante la noche. Tormenta de nieve en el exterior. Iluminación amarilla tenue dentro de una perrera. Jaulas de metal. Ventanas cubiertas de escarcha. Horror corporal de alta tensión con un miedo creciente y una transformación explosiva. Inquietud lenta que estalla en caos. Sonido: viento, respiración del perro, zumbido lejano de un generador.
 
 ⸻
 
-0–2s — HOOK
+0–2s — GANCHO
 
-Wide shot.
+Plano general.
 
-A frightened sled dog bursts into a research statio
+Un perro de trineo asustado irrumpe en una estación de investigación.
 
-Snow covering its fur.
+Nieve cubriendo su pelaje.
 
-Researchers quickly shut the door behind it.
+Los investigadores cierran rápidamente la puerta tras él.
 
-Outside, the blizzard rages.
+Afuera, la ventisca ruge.
 
-The dog looks terrified.
-
-⸻
-
-2–4s— UNEASE
-
-Close-up.
-
-The dog sits quietly.
-
-Panting.
-
-Researchers watch the dog bark sing a them
-
-One scientist smiles.
-
-“Poor thing.”
-
-Everything seems normal.
-
-Too normal.
+El perro parece aterrorizado.
 
 ⸻
 
-4-6s — THE WRONGNESS
+2–4s — INQUIETUD
 
-The dog suddenly stops panting.
+Primer plano.
 
-Its chest expands.
+El perro se sienta en silencio.
 
-Then expands more.
+Jadeando.
 
-Then keeps expanding.
+Los investigadores observan al perro.
 
-Far beyond what should be possible.
+Un científico sonríe.
 
-The room goes silent.
+“Pobrecito”.
 
-Nobody understands what they’re seeing.
+Todo parece normal.
 
-⸻
-
-6-9s — REVEAL
-
-Crash zoom.
-
-The dog’s ribcage begins opening.
-
-Slowly.
-
-Like flower petals.
-
-Skin stretches.
-
-Bones separate.
-
-Inside—
-
-Dozens of blinking eyes.
-
-All looking in different directions.
-
-Watching everyone.
+Demasiado normal.
 
 ⸻
 
-9-12s — CHAOS
+4-6s — LO ANORMAL
 
-The dog stands.
+El perro deja de jadear repentinamente.
 
-Or what used to be a dog.
+Su pecho se expande.
 
-Tentacles emerge.
+Luego se expande más.
 
-Additional limbs unfold from its body.
+Y sigue expandiéndose.
 
-The kennel erupts into panic.
+Más allá de lo que debería ser posible.
 
-Scientists back away.
+La habitación queda en silencio.
 
-One drops a flamethrower.
+Nadie entiende lo que está viendo.
 
 ⸻
 
-12-15s — PAYOFF
+6-9s — REVELACIÓN
 
-The creature lunges across the kennel.
+Zoom rápido.
 
-Cages explode apart.
+La caja torácica del perro comienza a abrirse.
 
-Metal bends.
+Lentamente.
 
-People scream.
+Como pétalos de una flor.
 
-Bullet-time moment.
+La piel se estira.
 
-Eyes opening everywhere.
+Los huesos se separan.
 
-Tentacles extending.
+Dentro—
 
-The flamethrower ignites.
+Docenas de ojos parpadeantes.
 
-Fire fills frame.
+Todos mirando en diferentes direcciones.
 
-The creature screams.
+Observando a todos.
+
+⸻
+
+9-12s — CAOS
+
+El perro se pone de pie.
+
+O lo que solía ser un perro.
+
+Emergen tentáculos.
+
+Extremidades adicionales se despliegan de su cuerpo.
+
+La perrera estalla en pánico.
+
+Los científicos retroceden.
+
+Uno deja caer un lanzallamas.
+
+⸻
+
+12-15s — CLÍMAX
+
+La criatura se lanza a través de la perrera.
+
+Las jaulas explotan.
+
+El metal se dobla.
+
+La gente grita.
+
+Momento en cámara lenta (bullet-time).
+
+Ojos abriéndose por todas partes.
+
+Tentáculos extendiéndose.
+
+El lanzallamas se enciende.
+
+El fuego llena el encuadre.
+
+La criatura grita.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060496113569071104/img/qmQEocDuIi_zj2oa.jpg" width="600" alt="Sled Dog Mutation Body Horror Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ad6c423b58c95f8a50b5d60b8eac30a/thumbnails/thumbnail.jpg" width="600" alt="Secuencia de horror corporal: mutación de perro de trineo">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5459)**
 
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2060496176521359470) | **Publicado:** May 29, 2026
 
 ---
-### FPV Airship Flight through Grand Harbor
+### Vuelo de dirigible FPV a través del Gran Puerto
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A breathtaking first-person view animation of a woman piloting a small white airship through a majestic fantasy harbor city, featuring high-speed FPV drone-style camera work and cinematic lighting.
+> Una impresionante animación en primera persona de una mujer pilotando un pequeño dirigible blanco a través de una majestuosa ciudad portuaria de fantasía, con un estilo de cámara de dron FPV de alta velocidad e iluminación cinematográfica.
 
 #### 📝 Prompt
 
 ```
-An ultra-beautiful professional anime video in first-person perspective of a woman piloting a one-person white airship. Red lines and arrows must not appear in the final video. Set in the majestic harbor city from the reference image, based in white and gold, the camera flies faithfully at ultra-high speed along the route indicated by red arrows, like an FPV drone. The camera starts from the sea on the left side of the screen, racing low across the surface of the blue harbor. Navigating between yachts, piers, white ships, and harbor architecture, it crosses the coastal city at high speed from left to center. It then accelerates toward the giant cathedral in the center, approaching closely as if skimming over the buildings. Just before passing the cathedral front, the camera surges upward along the main tower. Rising sharply with the power of looking up at the spire from directly below, it transitions into a grand overhead view of the entire city, harbor, and distant mountains. After crossing the top of the tower, the camera banks heavily to the right and orbits. Keeping the cathedral tower in the center of the screen, it circles dynamically clockwise, showing the white palace-like streets, blue sea, bridges, port facilities, and distant mountains in a flowing manner. Afterward, the camera passes over the city on the right at high speed and gently descends along the trajectory of the red line. It glides low over canal roads, squares, piers, and buildings with gold decorations, flying through toward the large glass-roofed building and port-side street in the right foreground. The video is cinematic, ultra-high definition, with smooth camera work, a strong sense of speed, natural motion blur, realistic atmosphere, water reflections, sunlight, three-dimensional clouds, and emphasizes the scale of a grand fantasy harbor city. Do not display any red guide lines, arrows, hand-drawn marks, annotations, or text.
+Un video de anime profesional ultra hermoso en perspectiva de primera persona de una mujer pilotando un dirigible blanco monoplaza. Las líneas y flechas rojas no deben aparecer en el video final. Ambientado en la majestuosa ciudad portuaria de la imagen de referencia, con tonos blancos y dorados, la cámara vuela fielmente a ultra alta velocidad a lo largo de la ruta indicada por las flechas rojas, como un dron FPV. La cámara comienza desde el mar en el lado izquierdo de la pantalla, corriendo a baja altura sobre la superficie del puerto azul. Navegando entre yates, muelles, barcos blancos y la arquitectura portuaria, cruza la ciudad costera a alta velocidad de izquierda a centro. Luego acelera hacia la catedral gigante en el centro, acercándose como si rozara los edificios. Justo antes de pasar el frente de la catedral, la cámara asciende rápidamente a lo largo de la torre principal. Elevándose bruscamente con la sensación de mirar hacia arriba desde la base de la aguja, hace una transición hacia una gran vista aérea de toda la ciudad, el puerto y las montañas distantes. Después de cruzar la parte superior de la torre, la cámara gira fuertemente a la derecha y orbita. Manteniendo la torre de la catedral en el centro de la pantalla, gira dinámicamente en el sentido de las agujas del reloj, mostrando las calles blancas tipo palacio, el mar azul, los puentes, las instalaciones portuarias y las montañas distantes de manera fluida. Después, la cámara pasa sobre la ciudad a la derecha a alta velocidad y desciende suavemente a lo largo de la trayectoria de la línea roja. Se desliza a baja altura sobre los canales, plazas, muelles y edificios con decoraciones doradas, volando hacia el gran edificio con techo de cristal y la calle junto al puerto en el primer plano derecho. El video es cinematográfico, de ultra alta definición, con un movimiento de cámara fluido, una fuerte sensación de velocidad, desenfoque de movimiento natural, atmósfera realista, reflejos en el agua, luz solar, nubes tridimensionales y enfatiza la escala de una gran ciudad portuaria de fantasía. No muestre ninguna línea guía roja, flechas, marcas dibujadas a mano, anotaciones o texto.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060428594497896449/img/s6hkHrX4qBXQrxyD.jpg" width="600" alt="FPV Airship Flight through Grand Harbor">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d97f804ece714c9bc4a5729e9dbab573/thumbnails/thumbnail.jpg" width="600" alt="Vuelo de dirigible FPV a través del Gran Puerto">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5470)**
 
 **Autor:** [妖精アーヤさん](https://x.com/aiehon_aya) | **Fuente:** [Link](https://x.com/aiehon_aya/status/2060481313145262213) | **Publicado:** May 29, 2026
 
 ---
-### 90s Disney Style Anubis Animation
+### Animación de Anubis al estilo Disney de los 90
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed multi-scene prompt for Seedance 2.0 creating a 90s Disney style animation where the god Anubis is defeated by tickling.
+> Un prompt detallado de varias escenas para Seedance 2.0 que crea una animación al estilo Disney de los 90, donde el dios Anubis es derrotado mediante cosquillas.
 
 #### 📝 Prompt
 
 ```
-Classic 90s Disney animation style. Scene 1 [0-3 seconds]: In front of a palace in the desert, the powerful jackal god Anubis is performing magic. He raises his arms slightly, lightning magic gathering in his clawed palms, and says in his majestic voice: 'Humans, you will pay for your arrogance!' Lightning flashes near him several times. In front of him, three humans (two men and one woman) look at him nervously, wanting to stop the evil Anubis but not knowing how. Scene 2 [4-6 seconds]: A close-up of Anubis's face. Anubis threatens with an evil smile: 'You are finished.' Then he lets out an evil laugh. He continues to laugh evilly, then closes his eyes, and the laughter turns into a ticklish laugh, indicating he is very ticklish and something is scratching him. Scene 3 [7-9 seconds]: The camera slowly pulls back to show the woman standing next to Anubis, gently moving a feather up and down under Anubis's armpit and repeating the action. Anubis closes his eyes, grins broadly, raises his arms to reveal his armpits, and giggles. Scene 4 [10-12 seconds]: The woman continues to move the feather up and down under Anubis's armpits, and Anubis continues to giggle. Meanwhile, the light magic gradually fades, leaving only the sun. Anubis laughs and laughs, unable to focus on feeling the magic. Anubis laughs so hard he falls to one knee, one arm raised high to reveal his armpit, letting the feather tickle him, while the other empty hand pounds the ground, laughing continuously. Scene 5 [13-14 seconds]: The woman continues to tickle Anubis's armpit with the feather, and Anubis continues to laugh heartily, shouting in a giggling voice: 'Stop torturing me! Don't do this!' then continues to giggle. The two men watch this scene, relieved that they stopped the evil Anubis. Anubis is muscular, with rings on his arms and neck. He is shirtless. His voice is deep and magnetic, yet full of power. His hands are claws. Audio in English.
+Estilo de animación clásico de Disney de los 90. Escena 1 [0-3 segundos]: Frente a un palacio en el desierto, el poderoso dios chacal Anubis está realizando magia. Levanta los brazos ligeramente, mientras magia de rayos se acumula en sus palmas con garras, y dice con su voz majestuosa: '¡Humanos, pagarán por su arrogancia!'. Los rayos destellan cerca de él varias veces. Frente a él, tres humanos (dos hombres y una mujer) lo miran nerviosos, queriendo detener al malvado Anubis pero sin saber cómo. Escena 2 [4-6 segundos]: Un primer plano del rostro de Anubis. Anubis amenaza con una sonrisa malvada: 'Están acabados'. Luego suelta una risa malvada. Continúa riendo de forma malvada, luego cierra los ojos y la risa se convierte en una risa por cosquillas, indicando que es muy sensible a ellas y que algo lo está rozando. Escena 3 [7-9 segundos]: La cámara se aleja lentamente para mostrar a la mujer de pie junto a Anubis, moviendo suavemente una pluma de arriba abajo bajo la axila de Anubis y repitiendo la acción. Anubis cierra los ojos, sonríe ampliamente, levanta los brazos para dejar al descubierto sus axilas y se ríe a carcajadas. Escena 4 [10-12 segundos]: La mujer continúa moviendo la pluma de arriba abajo bajo las axilas de Anubis, y este sigue riendo. Mientras tanto, la magia de luz se desvanece gradualmente, dejando solo el sol. Anubis ríe y ríe, incapaz de concentrarse en sentir la magia. Anubis ríe tan fuerte que cae sobre una rodilla, con un brazo levantado en alto para exponer su axila, dejando que la pluma le haga cosquillas, mientras la otra mano vacía golpea el suelo, riendo continuamente. Escena 5 [13-14 segundos]: La mujer continúa haciendo cosquillas en la axila de Anubis con la pluma, y él sigue riendo de buena gana, gritando con voz risueña: '¡Deja de torturarme! ¡No hagas esto!', y luego continúa riendo. Los dos hombres observan esta escena, aliviados de haber detenido al malvado Anubis. Anubis es musculoso, con anillos en los brazos y el cuello. No lleva camisa. Su voz es profunda y magnética, pero llena de poder. Sus manos son garras. Audio en inglés.
 ```
 
-<img src="https://pbs.twimg.com/media/HJhF1qkWEAMznW5.jpg" width="600" alt="90s Disney Style Anubis Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/568a61242d6b4b234c8717ebc3a00f23/thumbnails/thumbnail.jpg" width="600" alt="Animación de Anubis al estilo Disney de los 90">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5464)**
 
 **Autor:** [migrok](https://x.com/migrok293703) | **Fuente:** [Link](https://x.com/migrok293703/status/2060473171812511979) | **Publicado:** May 29, 2026
 
 ---
-### Brutalist Architecture Rotring Product Commercial
+### Comercial de producto Rotring con estética de arquitectura brutalista
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A sophisticated brutalist-themed commercial for a Rotring pencil, featuring architectural visualization, massive concrete structures, and realistic lighting.
+> Un sofisticado comercial con temática brutalista para un lápiz Rotring, que presenta visualización arquitectónica, estructuras de hormigón masivas e iluminación realista.
 
 #### 📝 Prompt
 
 ```
-Use the attached image for the pencil reference.
+Utiliza la imagen adjunta como referencia para el lápiz.
 
-Style: Brutalist architecture, luxury product commercial, architectural visualization, ultra-realistic cinematography, raw concrete, exposed rebar, monumental scale, Porsche Design precision, Apple-level minimalism, cinematic lighting, volumetric dust, photoreal VFX.
+Estilo: Arquitectura brutalista, comercial de producto de lujo, visualización arquitectónica, cinematografía ultrarrealista, hormigón visto, varillas de refuerzo expuestas, escala monumental, precisión al estilo Porsche Design, minimalismo nivel Apple, iluminación cinematográfica, polvo volumétrico, efectos visuales fotorrealistas.
 
 0:00–0:03
 
-Pure black. A single red line appears in darkness. The line glows softly. The camera follows it. As it moves forward, enormous concrete walls begin rising from the ground. Massive slabs. Raw geometry. Monolithic forms. The line is literally building architecture.
+Negro puro. Una sola línea roja aparece en la oscuridad. La línea brilla suavemente. La cámara la sigue. A medida que avanza, enormes muros de hormigón comienzan a elevarse desde el suelo. Losas masivas. Geometría cruda. Formas monolíticas. La línea está, literalmente, construyendo arquitectura.
 
-SFX: Deep architectural bass, concrete resonance, heavy structural impacts, distant industrial ambience.
+SFX: Bajo arquitectónico profundo, resonancia de hormigón, impactos estructurales pesados, ambiente industrial lejano.
 
-VOICEOVER: "Every structure begins with a line."
+VOICEOVER: "Toda estructura comienza con una línea."
 
 0:03–0:06
 
-The camera accelerates through a sprawling brutalist megacity. Towering concrete masses. Suspended walkways. Exposed steel reinforcement. Gigantic voids and shadows. The red line snakes through the city like an artery. Unnoticed by the viewer, the city's geometry subtly mirrors the proportions of a Rotring.
+La cámara acelera a través de una extensa megaciudad brutalista. Masas de hormigón imponentes. Pasarelas suspendidas. Refuerzos de acero expuestos. Vacíos y sombras gigantescos. La línea roja serpentea por la ciudad como una arteria. Sin que el espectador lo note, la geometría de la ciudad refleja sutilmente las proporciones de un Rotring.
 
-MUSIC: Minimal industrial pulse, mechanical rhythm, slow cinematic build.
+MÚSICA: Pulso industrial minimalista, ritmo mecánico, progresión cinematográfica lenta.
 
-VOICEOVER: "A line becomes a wall." "A wall becomes a city."
+VOICEOVER: "Una línea se convierte en muro." "Un muro se convierte en ciudad."
 
 0:06–0:10
 
-The camera rises thousands of feet above the metropolis. The full scale is revealed. A breathtaking brutalist world stretching to the horizon. Then the impossible happens. The entire city begins lifting from the ground. Buildings detach. Bridges separate. Concrete fragments float upward. The audience realizes the city was never a city. It was a product.
+La cámara se eleva miles de pies sobre la metrópolis. Se revela la escala completa. Un impresionante mundo brutalista que se extiende hasta el horizonte. Entonces ocurre lo imposible. La ciudad entera comienza a elevarse desde el suelo. Los edificios se desprenden. Los puentes se separan. Fragmentos de hormigón flotan hacia arriba. La audiencia se da cuenta de que la ciudad nunca fue una ciudad. Era un producto.
 
-SFX: Structural groans, concrete fractures, low-frequency shockwaves, massive whooshes.
+SFX: Crujidos estructurales, fracturas de hormigón, ondas de choque de baja frecuencia, zumbidos masivos.
 
 0:10–0:13
 
-Millions of concrete particles and rusted steel elements spiral inward. Everything converges. The megastructure collapses into a single object. Your brutalist Rotring emerges. Raw. Scarred. Unbreakable. Floating in white space.
+Millones de partículas de hormigón y elementos de acero oxidado giran hacia adentro. Todo converge. La megaestructura colapsa en un solo objeto. Tu Rotring brutalista emerge. Crudo. Marcado. Indestructible. Flotando en un espacio blanco.
 
-MUSIC: Full orchestral rise, massive cinematic hit.
+MÚSICA: Crecendo orquestal completo, impacto cinematográfico masivo.
 
-VOICEOVER: "Some tools create architecture." "This one became it."
+VOICEOVER: "Algunas herramientas crean arquitectura." "Esta se convirtió en ella."
 
 0:13–0:15
 
-Hero shot. The Rotring slowly rotates. Dust falls from the concrete surface. The red ring catches the light. Silence. A precise mechanical click.
+Plano principal. El Rotring gira lentamente. El polvo cae de la superficie de hormigón. El anillo rojo atrapa la luz. Silencio. Un clic mecánico preciso.
 
-VOICEOVER: "Rotring." Pause. "Drawn from concrete."
+VOICEOVER: "Rotring." Pausa. "Dibujado desde el hormigón."
 
-END FRAME
+CUADRO FINAL
 
 ROTRING
 
-DRAWN FROM CONCRETE
+DIBUJADO DESDE EL HORMIGÓN
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060457916994371585/img/pAhza1w9gkWEHbBQ.jpg" width="600" alt="Brutalist Architecture Rotring Product Commercial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9ca8b9eaa01d49314f78334a29e93e4e/thumbnails/thumbnail.jpg" width="600" alt="Comercial de producto Rotring con estética de arquitectura brutalista">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5455)**
 
 **Autor:** [Ege](https://x.com/egeberkina) | **Fuente:** [Link](https://x.com/egeberkina/status/2060458879369216202) | **Publicado:** May 29, 2026
 
 ---
-### Cliffside Highway Coastal Disaster Video Prompt
+### Prompt de video: Desastre costero en carretera de acantilado
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic and high-energy video prompt depicting a coastal disaster where a motorcycle rider races along a collapsing cliffside highway amidst a violent storm.
+> Un prompt de video cinematográfico y de alta energía que representa un desastre costero donde un motociclista corre a lo largo de una carretera en un acantilado que se derrumba en medio de una tormenta violenta.
 
 #### 📝 Prompt
 
 ```
-Hyperrealistic cinematic coastal disaster, ocean cliff highway, violent atmospheric storm surge, road erosion physics, continuous high-speed motion, ground-level chase perspective behind motorcycle rider (no visible hands emphasis), wind pressure, collapsing asphalt, hard cuts only, no fade, no dissolve, no morph transition
+Desastre costero cinematográfico hiperrealista, carretera en acantilado sobre el océano, marejada ciclónica atmosférica violenta, física de erosión de la carretera, movimiento continuo a alta velocidad, perspectiva de persecución a nivel del suelo detrás del motociclista (énfasis en no mostrar manos), presión del viento, asfalto colapsando, solo cortes directos, sin fundidos, sin disolvencias, sin transiciones de transformación
 
-Shot 1: Camera follows a motorcycle racing along a narrow cliffside road above violent ocean waves
-Cut to Shot 2: Cliff face begins collapsing sideways into the sea in massive chunks
-Cut to Shot 3: Road surface fractures directly under the motorcycle, forcing rapid lane shifts
-Cut to Shot 4: Ocean surge rises vertically against cliff, forming a moving wall of water
-Cut to Shot 5: FULL ACTION as entire highway segments detach and fall while motorcycle threads through collapsing gaps
-Cut to Shot 6: IMPOSSIBLE MOMENT: rider crosses a falling road slab rotating mid-air before landing back onto a narrowing strip
-Cut to Shot 7: Cliffline breaks continuously, shortening the path every second
-Cut to Shot 8: Wind and spray create near-whiteout as ocean overtakes lower cliff levels
-Cut to Shot 9: Final: road ends mid-collapse as ocean surge engulfs the frame
+Toma 1: La cámara sigue a una motocicleta corriendo a lo largo de una carretera estrecha en un acantilado sobre olas oceánicas violentas
+Corte a Toma 2: La cara del acantilado comienza a colapsar lateralmente hacia el mar en trozos masivos
+Corte a Toma 3: La superficie de la carretera se fractura directamente debajo de la motocicleta, forzando cambios rápidos de carril
+Corte a Toma 4: La marejada oceánica se eleva verticalmente contra el acantilado, formando una pared de agua en movimiento
+Corte a Toma 5: ACCIÓN TOTAL mientras segmentos enteros de la carretera se desprenden y caen mientras la motocicleta se abre paso entre los huecos que colapsan
+Corte a Toma 6: MOMENTO IMPOSIBLE: el motociclista cruza una losa de carretera que cae y rota en el aire antes de aterrizar de nuevo en una franja cada vez más estrecha
+Corte a Toma 7: La línea del acantilado se rompe continuamente, acortando el camino cada segundo
+Corte a Toma 8: El viento y la bruma crean una visibilidad casi nula mientras el océano supera los niveles inferiores del acantilado
+Corte a Toma 9: Final: la carretera termina en medio del colapso mientras la marejada oceánica envuelve el encuadre
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/794f8c6e7e0ee90df6af1941f5c87e03/thumbnails/thumbnail.jpg" width="600" alt="Cliffside Highway Coastal Disaster Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/794f8c6e7e0ee90df6af1941f5c87e03/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video: Desastre costero en carretera de acantilado">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5440)**
 
 **Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fuente:** [Link](https://x.com/AllaAisling/status/2060448088674935036) | **Publicado:** May 29, 2026
 
 ---
-### Mega Crocodile Swamp Spider Chase
+### Persecución en el pantano: Mega cocodrilo contra arañas
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-tension creature-feature script featuring a swamp chase between a giant crocodile and camouflaged jungle spiders.
+> Un guion de criaturas de alta tensión que presenta una persecución en un pantano entre un cocodrilo gigante y arañas de la selva camufladas.
 
 #### 📝 Prompt
 
 ```
-Tropical nightmare island. In South East Asia   - Dense jungle, giant mangrove roots, thick fog hanging over dark swamp water. Everything feels prehistoric and hostile. Fast-paced creature-feature action. Aggressive handheld camera, rapid cut-tos, speed ramps, chaotic movement. Sound: splashing water, crocodile roars, spider chittering, breaking wood.
+Isla de pesadilla tropical. En el sudeste asiático: selva densa, raíces de manglar gigantes, niebla espesa sobre aguas pantanosas oscuras. Todo se siente prehistórico y hostil. Acción trepidante de criaturas. Cámara en mano agresiva, cortes rápidos, rampas de velocidad, movimiento caótico. Sonido: agua salpicando, rugidos de cocodrilo, chirridos de arañas, madera rompiéndose.
 
 ⸻
 
-0–2s — HOOK
+0–2s — GANCHO
 
-Low angle tracking shot.
+Plano de seguimiento en ángulo bajo.
 
-A survivor is already sprinting through waist-deep swamp water.
+Un superviviente ya está corriendo a través del agua del pantano que le llega a la cintura.
 
-Behind him—
+Detrás de él—
 
-A gigantic crocodile explodes from the water.
+Un cocodrilo gigantesco explota fuera del agua.
 
-At least 40 feet long.
+Al menos 12 metros de largo.
 
-Ancient scars.
+Cicatrices antiguas.
 
-Massive jaws snapping shut inches behind him.
+Mandíbulas masivas cerrándose a centímetros de él.
 
-Water erupts everywhere.
-
-⸻
-
-2–5s — ESCALATION
-
-Handheld chase shot.
-
-The survivor reaches a giant fallen tree spanning the swamp and scrambles onto it.
-
-The crocodile follows below.
-
-Crashing through roots.
-
-Biting chunks from the log.
-
-The survivor almost loses balance.
-
-The crocodile launches upward.
-
-Misses by inches.
+El agua estalla por todas partes.
 
 ⸻
 
-5–8s — FALSE RELIEF
+2–5s — ESCALADA
 
-The survivor reaches the center of the log.
+Plano de persecución cámara en mano.
 
-Finally gains distance.
+El superviviente llega a un árbol gigante caído que cruza el pantano y trepa sobre él.
 
-Breathing hard.
+El cocodrilo lo sigue por debajo.
 
-Then—
+Chocando contra las raíces.
 
-The log moves.
+Arrancando trozos del tronco a mordiscos.
 
-At first slightly.
+El superviviente casi pierde el equilibrio.
 
-Then again.
+El cocodrilo se lanza hacia arriba.
 
-The survivor freezes.
-
-Looks down.
+Falla por centímetros.
 
 ⸻
 
-8–11s — REVEAL
+5–8s — FALSO ALIVIO
 
-Crash zoom.
+El superviviente llega al centro del tronco.
 
-The entire fallen tree is covered with giant camouflage spiders.
+Finalmente gana distancia.
 
-Hundreds of them.
+Respirando con dificultad.
 
-Some the size of dogs.
+Entonces—
 
-Others much larger.
+El tronco se mueve.
 
-They begin emerging from cracks and bark.
+Al principio ligeramente.
 
-The survivor realizes he’s standing in a nest.
+Luego otra vez.
 
-⸻
+El superviviente se congela.
 
-11–13s — CHAOS
-
-The spiders swarm.
-
-The survivor sprints.
-
-The crocodile charges onto the log after him.
-
-Spiders begin attacking both.
-
-Webs firing.
-
-Legs everywhere.
-
-The entire bridge becomes a three-way battle.
+Mira hacia abajo.
 
 ⸻
 
-13–15s — PAYOFF
+8–11s — REVELACIÓN
 
-Wide shot.
+Zoom rápido.
 
-A giant alpha spider drops from above onto the crocodile’s back.
+Todo el árbol caído está cubierto de arañas gigantes camufladas.
 
-The crocodile rolls violently into the swamp.
+Cientos de ellas.
 
-Spider and crocodile disappear into the water fighting.
+Algunas del tamaño de perros.
 
-The survivor leaps off the end of the log and disappears into the jungle.
+Otras mucho más grandes.
 
-Behind him—
+Comienzan a emerger de las grietas y la corteza.
 
-Water erupts as the monsters continue battling.
+El superviviente se da cuenta de que está de pie en un nido.
 
-Hard cut.
+⸻
+
+11–13s — CAOS
+
+Las arañas pululan.
+
+El superviviente corre.
+
+El cocodrilo carga sobre el tronco tras él.
+
+Las arañas comienzan a atacar a ambos.
+
+Telarañas disparándose.
+
+Patas por todas partes.
+
+Todo el puente se convierte en una batalla a tres bandas.
+
+⸻
+
+13–15s — DESENLACE
+
+Plano general.
+
+Una araña alfa gigante cae desde arriba sobre el lomo del cocodrilo.
+
+El cocodrilo rueda violentamente hacia el pantano.
+
+La araña y el cocodrilo desaparecen en el agua luchando.
+
+El superviviente salta desde el extremo del tronco y desaparece en la selva.
+
+Detrás de él—
+
+El agua estalla mientras los monstruos continúan luchando.
+
+Corte seco.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8f322adc101f65dfad710118c2310e6a/thumbnails/thumbnail.jpg" width="600" alt="Mega Crocodile Swamp Spider Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8f322adc101f65dfad710118c2310e6a/thumbnails/thumbnail.jpg" width="600" alt="Persecución en el pantano: Mega cocodrilo contra arañas">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5438)**
 
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2060440976561508389) | **Publicado:** May 29, 2026
 
 ---
-### Heavenly Rivalry Xianxia Action Film Prompt
+### Prompt para película de acción Xianxia: Rivalidad Celestial
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic prompt for a high-end martial arts confrontation between two legendary Chinese figures at an ancient mountain temple.
+> Un prompt cinemático detallado para una confrontación de artes marciales de alto nivel entre dos figuras legendarias chinas en un antiguo templo de montaña.
 
 #### 📝 Prompt
 
 ```
-Ultra-realistic cinematic AAA Xianxia action film inspired by high-end martial arts fantasy and Black Myth Wukong combat energy. Ancient stormy mountain temple ruins above the clouds at night, rain, fog, burning incense embers drifting through the air. Erlang Shen and Sun Wukong face each other in silence before battle.
+Película de acción Xianxia AAA cinemática ultra realista inspirada en la fantasía de artes marciales de alto nivel y la energía de combate de Black Myth Wukong. Ruinas de un antiguo templo de montaña tormentosa sobre las nubes durante la noche, lluvia, niebla, brasas de incienso ardiendo flotando en el aire. Erlang Shen y Sun Wukong se enfrentan en silencio antes de la batalla.
 
-Erlang Shen [Image1] : divine Chinese god warrior, silver-black celestial armor, red waist cloth, third eye glowing faintly, wielding an enormous three-pointed double-edged spear.
-Sun Wukong [Image2] : legendary monkey king, dark golden fur details, battle-worn ornate armor, flaming phoenix-red cloth strips, holding the Ruyi Jingu Bang staff.
+Erlang Shen [Image1] : guerrero dios chino divino, armadura celestial negro plateado, tela roja en la cintura, tercer ojo brillando tenuemente, empuñando una enorme lanza de tres puntas y doble filo.
+Sun Wukong [Image2] : legendario rey mono, detalles de pelaje dorado oscuro, armadura ornamentada desgastada por la batalla, tiras de tela rojo fuego de fénix, sosteniendo el bastón Ruyi Jingu Bang.
 
-Both characters use attached face references exactly.
-No cartoon style. Pure cinematic realism.
+Ambos personajes utilizan las referencias faciales adjuntas exactamente. 
+Nada de estilo caricatura. Realismo cinemático puro.
 
-The camera begins with extreme close-ups of wet armor, eyes, fingers gripping weapons, boots sliding across stone. Sudden explosive movement — Wukong [Image2] vanishes using cloud-step speed movement, appearing behind Erlang Shen [Image1]  instantly. Erlang blocks without looking using the spear shaft. Sparks explode. Shockwaves ripple through rain puddles.
+La cámara comienza con primeros planos extremos de armaduras mojadas, ojos, dedos agarrando armas, botas deslizándose sobre la piedra. Movimiento explosivo repentino: Wukong [Image2] desaparece usando un movimiento de velocidad de paso de nube, apareciendo detrás de Erlang Shen [Image1] instantáneamente. Erlang bloquea sin mirar usando el mango de la lanza. Las chispas explotan. Ondas de choque se propagan a través de los charcos de lluvia.
 
-Rapid wuxia movement, superhuman agility, gravity-defying martial arts, realistic cloth physics, detailed rain simulation, cinematic debris.
+Movimiento wuxia rápido, agilidad sobrehumana, artes marciales que desafían la gravedad, física de telas realista, simulación de lluvia detallada, escombros cinemáticos.
 
-Chinese dialogue only:
-Sun Wukong [Image2] : “Yang Jian, you're still the same.”
-Erlang Shen [Image1] : “This time, I won't let you escape.”
+Solo diálogos en chino:
+Sun Wukong [Image2] : “Yang Jian, sigues siendo el mismo.”
+Erlang Shen [Image1] : “Esta vez, no dejaré que escapes.”
 
-English subtitles burned-in.
+Subtítulos en inglés incrustados.
 
-CAMERA:
+CÁMARA:
 ARRI Alexa 65
-Lens: Atlas Orion Anamorphic 40mm and 65mm
-Fast handheld + drone-like orbital tracking + speed ramping
+Lente: Atlas Orion Anamorphic 40mm y 65mm
+Cámara en mano rápida + seguimiento orbital tipo dron + aceleración de velocidad (speed ramping)
 
-LIGHTING:
-Cold moonlight mixed with warm fire embers
+ILUMINACIÓN:
+Luz de luna fría mezclada con brasas de fuego cálidas
 
-COLOR GRADING:
-Dark teal, silver, gold highlights, high contrast cinematic grading, subtle film grain
+ETALONAJE (COLOR GRADING):
+Verde azulado oscuro, reflejos plateados y dorados, gradación cinemática de alto contraste, grano de película sutil
 
-NO MUSIC.
-Only rain, wind, footsteps, weapon impacts, cloth movement, thunder, breathing.
+SIN MÚSICA.
+Solo lluvia, viento, pasos, impactos de armas, movimiento de telas, truenos, respiración.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060421670540918784/img/9y80epF-AYgsLLei.jpg" width="600" alt="Heavenly Rivalry Xianxia Action Film Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09f30753d96cb744cdd3caf9c231baa3/thumbnails/thumbnail.jpg" width="600" alt="Prompt para película de acción Xianxia: Rivalidad Celestial">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5443)**
 
 **Autor:** [Paween Chantaraudorn](https://x.com/LumPaween64255) | **Fuente:** [Link](https://x.com/LumPaween64255/status/2060421985608597798) | **Publicado:** May 29, 2026
 
 ---
-### The Thing Inspired Antarctic Horror Scene
+### Escena de terror en la Antártida inspirada en The Thing
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-tension horror cinematic sequence set in an Antarctic research station, following survivors as they realize one of them has mutated with a disturbing physical reveal.
+> Una secuencia cinematográfica de terror de alta tensión ambientada en una estación de investigación antártica, que sigue a los supervivientes al darse cuenta de que uno de ellos ha mutado con una perturbadora revelación física.
 
 #### 📝 Prompt
 
 ```
-Antarctic research station during a blizzard. Emergency backup power only. Red warning lights. Frost-covered walls. Metal doors sealed shut. Breath visible in the freezing air. High-tension paranoia horror with sudden explosive chaos. Aggressive push-ins, handheld camera, crash zooms, rapid cut-tos. Sound: distant wind, metal creaking, nervous breathing.
+Estación de investigación antártica durante una ventisca. Solo energía de emergencia. Luces rojas de advertencia. Paredes cubiertas de escarcha. Puertas de metal selladas. Aliento visible en el aire gélido. Terror de alta tensión y paranoia con un caos explosivo repentino. Planos de acercamiento agresivos, cámara en mano, zoom rápido, cortes rápidos. Sonido: viento distante, crujido de metal, respiración nerviosa.
 
 ⸻
 
-0–2s — HOOK
+0–2s — GANCHO
 
-Handheld shot.
+Plano en cámara en mano.
 
-Four survivors burst into a small storage room.
+Cuatro supervivientes irrumpen en un pequeño almacén.
 
-One slams the heavy steel door shut.
+Uno cierra de golpe la pesada puerta de acero.
 
-Another locks it.
+Otro la asegura con llave.
 
-Everyone breathing hard.
+Todos respiran con dificultad.
 
-Outside—
+Afuera—
 
-Something slams against the door.
+Algo golpea la puerta.
 
-Then silence.
-
-⸻
-
-2–5s — FALSE SAFETY
-
-Close-up cut-tos.
-
-One survivor checks the lock.
-
-Another collapses against the wall.
-
-A young woman starts crying.
-
-Everyone finally believes they’ve escaped.
-
-A man kneels beside her.
-
-“It’s okay. We’re safe.”
+Luego, silencio.
 
 ⸻
 
-5–8s — THE DETAIL
+2–5s — FALSA SEGURIDAD
 
-The crying woman slowly looks up.
+Cortes a primer plano.
 
-Something catches her eye.
+Un superviviente comprueba el cerrojo.
 
-Crash zoom.
+Otro se desploma contra la pared.
 
-The comforting man’s hand.
+Una mujer joven comienza a llorar.
 
-Six fingers.
+Todos finalmente creen que han escapado.
 
-Not five.
+Un hombre se arrodilla a su lado.
 
-Six.
-
-Nobody notices.
-
-Except her.
+“Está bien. Estamos a salvo”.
 
 ⸻
 
-8–11s — REVEAL
+5–8s — EL DETALLE
 
-Her face changes instantly.
+La mujer que llora levanta la vista lentamente.
 
-Fear.
+Algo llama su atención.
 
-Pure terror.
+Zoom rápido.
 
-She points.
+La mano del hombre que la consuela.
 
-Everyone turns.
+Seis dedos.
 
-The man looks confused.
+No cinco.
 
-Then looks at his own hand.
+Seis.
 
-Six fingers.
+Nadie se da cuenta.
 
-A beat of silence.
-
-Nobody moves.
-
-Nobody knows how long he’s been like that.
+Excepto ella.
 
 ⸻
 
-11–13s — BREAKDOWN
+8–11s — REVELACIÓN
 
-The man slowly backs away.
+Su rostro cambia al instante.
 
-“Wait… I don’t know…”
+Miedo.
 
-His fingers begin moving.
+Terror puro.
 
-Separating.
+Ella señala.
 
-Stretching.
+Todos se giran.
 
-Additional joints forming.
+El hombre parece confundido.
 
-His hand starts opening like a flower.
+Luego mira su propia mano.
 
-Everyone panics.
+Seis dedos.
 
-Weapons come up.
+Un instante de silencio.
+
+Nadie se mueve.
+
+Nadie sabe cuánto tiempo ha estado así.
 
 ⸻
 
-13–15s — PAYOFF
+11–13s — COLAPSO
 
-His arm violently splits open.
+El hombre retrocede lentamente.
 
-Tendrils explode outward.
+“Espera… no sé…”
 
-The room erupts into chaos.
+Sus dedos comienzan a moverse.
 
-People scream.
+Separándose.
 
-Someone fires a flare.
+Estirándose.
 
-Red light fills the room.
+Formando articulaciones adicionales.
 
-The transforming creature lunges toward camera. Cut.
+Su mano comienza a abrirse como una flor.
+
+Todos entran en pánico.
+
+Levantan sus armas.
+
+⸻
+
+13–15s — CLÍMAX
+
+Su brazo se abre violentamente.
+
+Zarcillos explotan hacia afuera.
+
+La habitación estalla en caos.
+
+La gente grita.
+
+Alguien dispara una bengala.
+
+La luz roja inunda la habitación.
+
+La criatura en transformación se lanza hacia la cámara. Corte.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060414372942589952/img/ufyEKo35EGdI8sfy.jpg" width="600" alt="The Thing Inspired Antarctic Horror Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6bb5b21cbf40840f1334c1180fc709e1/thumbnails/thumbnail.jpg" width="600" alt="Escena de terror en la Antártida inspirada en The Thing">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5452)**
 
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2060414433692946561) | **Publicado:** May 29, 2026
 
 ---
-### Antarctic Research Station Blood Test Horror
+### Horror en la estación de investigación antártica: la prueba de sangre
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A suspenseful horror prompt depicting survivors in an Antarctic station conducting a plasma test, leading to a violent monster revelation.
+> Un prompt de terror lleno de suspenso que muestra a los supervivientes en una estación antártica realizando una prueba de plasma, lo que conduce a la violenta revelación de un monstruo.
 
 #### 📝 Prompt
 
 ```
-Interior Antarctic research station. Emergency lighting only. Red warning lights. Metal walls. Breath visible from the cold. Everybody is exhausted, terrified, suspicious of one another. High-tension horror with sudden explosive action. Fast cuts, push-ins, handheld movement.
+Interior de una estación de investigación antártica. Solo iluminación de emergencia. Luces rojas de advertencia. Paredes de metal. El aliento es visible por el frío. Todos están exhaustos, aterrorizados y sospechan unos de otros. Terror de alta tensión con acción explosiva repentina. Cortes rápidos, acercamientos (push-ins), movimiento de cámara en mano.
 
 ⸻
 
-0–2s — HOOK
+0–2s — GANCHO
 
-Close-up.
+Primer plano.
 
-A wire is lowered into a plasma sample.
+Se introduce un cable en una muestra de plasma.
 
-Six survivors stand around a metal table.
+Seis supervivientes están de pie alrededor de una mesa de metal.
 
-Nobody speaks.
+Nadie habla.
 
-Everybody watches.
+Todos observan.
 
-A flamethrower waits nearby.
+Un lanzallamas espera cerca.
 
-One survivor even laughs nervously.
+Un superviviente incluso ríe nerviosamente.
 
-The tension starts breaking.
-
-⸻
-
-2-4s — REVEAL
-
-The next  plasma sample suddenly jumps.
-
-Not much.
-
-Just a twitch.
-
-Everyone freezes.
-
-Then—
-
-The sample launches off the table.
-
-Screaming.
-
-Moving on its own.
-
-Pure panic.
+La tensión comienza a romperse.
 
 ⸻
 
-4-7s — CHAOS
+2-4s — REVELACIÓN
 
-Everyone immediately backs away.
+La siguiente muestra de plasma salta repentinamente.
 
-The owner of the plasma looks confused.
+No mucho.
 
-Then his chest caves inward.
+Solo un espasmo.
 
-His ribs begin moving.
+Todos se quedan paralizados.
 
-Cracking.
+Entonces—
 
-Breaking.
+La muestra sale disparada de la mesa.
 
-Rearranging.
+Gritos.
 
-Crash zoom.
+Se mueve por sí sola.
 
-His ribcage unfolds outward like giant spider legs.
-
-⸻
-
-7-10s — THE THING
-
-His body expands violently.
-
-Jaw splits.
-
-Neck stretches.
-
-Limbs bend backward.
-
-The creature erupts across the room.
-
-Tables flip.
-
-Equipment explodes.
-
-People are screaming.
-
-One survivor grabs the flamethrower.
+Pánico puro.
 
 ⸻
 
-10-13s — PAYOFF
+4-7s — CAOS
 
-Bullet-time moment.
+Todos retroceden inmediatamente.
 
-The transformed creature launches toward the group.
+El dueño del plasma parece confundido.
 
-The flamethrower ignites.
+Entonces su pecho se hunde hacia adentro.
 
-A wall of fire fills frame.
+Sus costillas comienzan a moverse.
 
-The creature screams.
+Crujiendo.
 
-Fire engulfs the room.
+Rompiéndose.
 
-The survivors dive for cover.
+Reorganizándose.
+
+Zoom rápido (crash zoom).
+
+Su caja torácica se despliega hacia afuera como las patas de una araña gigante.
+
+⸻
+
+7-10s — LA COSA
+
+Su cuerpo se expande violentamente.
+
+La mandíbula se divide.
+
+El cuello se estira.
+
+Las extremidades se doblan hacia atrás.
+
+La criatura irrumpe en la habitación.
+
+Las mesas vuelan.
+
+El equipo explota.
+
+La gente grita.
+
+Un superviviente agarra el lanzallamas.
+
+⸻
+
+10-13s — DESENLACE
+
+Momento de tiempo bala (bullet-time).
+
+La criatura transformada se lanza hacia el grupo.
+
+El lanzallamas se enciende.
+
+Una pared de fuego llena el encuadre.
+
+La criatura grita.
+
+El fuego envuelve la habitación.
+
+Los supervivientes se lanzan a buscar refugio.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060409711829327872/img/3khcBcKfc9rL2Ggp.jpg" width="600" alt="Antarctic Research Station Blood Test Horror">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d0fe47014a03fa00bd6add8ec3d08750/thumbnails/thumbnail.jpg" width="600" alt="Horror en la estación de investigación antártica: la prueba de sangre">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5458)**
 
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2060409772688777582) | **Publicado:** May 29, 2026
 
 ---
-### Wukong vs Erlang Shen Epic Fantasy Battle
+### Batalla épica de fantasía: Wukong contra Erlang Shen
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-action AAA fantasy martial arts battle prompt featuring Sun Wukong and Erlang Shen in a flooded canyon with complex physics.
+> Un prompt de batalla de artes marciales de fantasía AAA de alta intensidad que presenta a Sun Wukong y Erlang Shen en un cañón inundado con físicas complejas.
 
 #### 📝 Prompt
 
 ```
-Epic AAA fantasy martial arts battle in a giant flooded canyon beneath dark storm clouds. Ultra-realistic cinematic style. Water reflects lightning flashes as Erlang Shen [Image1]  and Sun Wukong [Image2]  unleash supernatural abilities.
+Épica batalla de artes marciales de fantasía AAA en un gigantesco cañón inundado bajo oscuras nubes de tormenta. Estilo cinematográfico ultrarrealista. El agua refleja los destellos de los rayos mientras Erlang Shen [Image1] y Sun Wukong [Image2] desatan sus habilidades sobrenaturales.
 
-Erlang Shen [Image1] opens his celestial third eye fully for the first time — massive divine energy erupts outward in glowing golden-white waves. The clouds split open above him. Floating rocks rise into the air.
+Erlang Shen [Image1] abre su tercer ojo celestial por completo por primera vez: una energía divina masiva estalla hacia afuera en ondas doradas y blancas brillantes. Las nubes se abren sobre él. Rocas flotantes se elevan en el aire.
 
-Sun Wukong [Image2] slams the Ruyi Jingu Bang into the ground, creating a colossal shockwave that parts the flood water and launches giant stone fragments upward. He spins the staff at extreme speed, deflecting divine energy beams.
+Sun Wukong [Image2] golpea el Ruyi Jingu Bang contra el suelo, creando una onda expansiva colosal que divide el agua de la inundación y lanza gigantescos fragmentos de piedra hacia arriba. Gira el bastón a una velocidad extrema, desviando los rayos de energía divina.
 
-The two collide mid-air with overwhelming force. Their weapons lock together while lightning flashes around them. Slow-motion facial close-ups show determination and rage.
+Ambos chocan en el aire con una fuerza abrumadora. Sus armas se bloquean mientras los rayos centellean a su alrededor. Los primeros planos en cámara lenta muestran determinación y furia.
 
-Hyper-realistic water physics, volumetric fog, cinematic lightning, dynamic environmental destruction, wuxia wire-action realism blended with grounded physics.
+Físicas de agua hiperrealistas, niebla volumétrica, iluminación cinematográfica, destrucción ambiental dinámica, realismo de acción tipo wuxia combinado con físicas realistas.
 
-Chinese dialogue only:
+Solo diálogos en chino:
 Sun Wukong: “The Heavens cannot trap me.”
 Erlang Shen: “Then let me personally suppress you.”
 
-English subtitles burned-in.
+Subtítulos en inglés incrustados.
 
-CAMERA:
+CÁMARA:
 RED V-RAPTOR XL
-Lens: Leica Summilux-C
+Lente: Leica Summilux-C
 
-CAMERA MOVEMENT:
-Aggressive crane dives, rotating aerial shots, ultra-fast tracking, dramatic slow-motion impact frames
+MOVIMIENTO DE CÁMARA:
+Picados agresivos de grúa, tomas aéreas giratorias, seguimiento ultrarrápido, fotogramas de impacto dramáticos en cámara lenta
 
-COLOR GRADING:
-Storm gray, celestial gold, deep black shadows, cinematic bloom highlights
+ETALONAJE:
+Gris tormenta, dorado celestial, sombras negras profundas, reflejos cinematográficos con efecto bloom
 
-NO MUSIC.
-Only lightning, explosions, water impacts, roaring wind, weapon resonance.
+SIN MÚSICA.
+Solo rayos, explosiones, impactos de agua, viento rugiente, resonancia de armas.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/530a5f0a0c22a8b42b48b051da340045/thumbnails/thumbnail.jpg" width="600" alt="Wukong vs Erlang Shen Epic Fantasy Battle">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/530a5f0a0c22a8b42b48b051da340045/thumbnails/thumbnail.jpg" width="600" alt="Batalla épica de fantasía: Wukong contra Erlang Shen">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5444)**
 
 **Autor:** [Paween Chantaraudorn](https://x.com/LumPaween64255) | **Fuente:** [Link](https://x.com/LumPaween64255/status/2060402691818570140) | **Publicado:** May 29, 2026
 
 ---
-### Fluffy Cat CEO Corporate Boardroom Drama
+### Drama corporativo en la sala de juntas con un gato CEO esponjoso
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A humorous prestige-drama style video prompt featuring an orange tabby cat as a CEO swiping a laptop off a conference table and meowing at employees.
+> Un divertido prompt de video al estilo de drama de prestigio que presenta a un gato atigrado naranja como CEO, tirando una laptop de una mesa de conferencias y maullando a los empleados.
 
 #### 📝 Prompt
 
 ```
-Characters: CEO is a fluffy orange tabby cat wearing a fitted navy suit and tie, seated at the head of a long glass conference table. Human employees in business attire fill the seats around the table. Scene: Luxury corporate boardroom, floor-to-ceiling windows overlooking a city skyline, framed charts and graphs on a large display screen behind the cat. Style: Prestige drama film tone, dry deadpan comedy, warm amber-mahogany palette, shallow depth of field, subtle film grain. Lighting: Warm overhead pendant lights, soft golden rim light on the cat, cool blue daylight spilling from the city windows. Audio: Tense orchestral underscore with low brass swells, sharp SFX punctuation on each cat action, muffled office ambiance, AC hum. [0-3s] — Establishing Camera: Slow wide push-in from the back of the boardroom. Action: The orange cat in a suit stands at the head of the table, raising one paw and tapping a bar chart on the display screen behind him. Lighting: Warm amber overhead wash, screen glow backlighting the cat. SFX: Low orchestral swell, soft pointer tap on screen. [3-6s] — Employees React Camera: Fixed medium shot across the table, facing the employees. Hard cut from previous shot. Action: Six nervous employees begin clapping stiffly, eyes wide, smiles strained and hollow. Lighting: Even cool overhead office light, slight shadow under each face. SFX: Slow, uncertain applause, a throat-clear, shuffling papers. [6-10s] — Laptop Incident Camera: Low tabletop angle, fixed. Hold. Action: The cat slowly turns, locks eyes with an open laptop at the edge of the table, then swipes it cleanly off with one deliberate paw. Lighting: Warm side light on cat, deep shadow behind. SFX: Sharp laptop crash on floor, echoing in the silent room. Gasps from employees. [10-13s] — Dramatic Zoom Camera: Slow push-in to extreme close-up on the cat's face. Action: The cat's eyes narrow. Its mouth opens in a wide, silent, furious meow — jaw fully extended. Lighting: Single warm overhead spot, deep dramatic shadow framing both cheeks. SFX: Orchestral sting, dead silence — then a single low bass hit on the meow. [13-15s] — Title Card Beat Camera: Static wide shot, full boardroom. Hold. Action: The cat sits back down calmly, adjusting its tie. The employees stare frozen. Dialogue: "Quarterly profits are down." Lighting: Room dims slightly, cool blue from the windows takes over. SFX: Low cello note sustains. Silence. Avoid: Identity drift on the cat between shots, jitter, temporal flicker, chaotic composition
+Personajes: El CEO es un gato atigrado naranja esponjoso que viste un traje azul marino entallado y corbata, sentado a la cabecera de una larga mesa de conferencias de cristal. Empleados humanos con vestimenta de negocios ocupan los asientos alrededor de la mesa. Escena: Sala de juntas corporativa de lujo, ventanales de piso a techo con vista al horizonte de la ciudad, gráficos y tablas enmarcados en una pantalla grande detrás del gato. Estilo: Tono de película de drama de prestigio, comedia seca e inexpresiva, paleta de colores caoba y ámbar cálido, poca profundidad de campo, grano de película sutil. Iluminación: Luces colgantes cálidas, luz de contorno dorada suave sobre el gato, luz de día azul fría que entra por las ventanas de la ciudad. Audio: Música orquestal tensa con aumentos de metales graves, efectos de sonido nítidos en cada acción del gato, ambiente de oficina amortiguado, zumbido de aire acondicionado. [0-3s] — Cámara de establecimiento: Lento acercamiento (push-in) desde el fondo de la sala de juntas. Acción: El gato naranja con traje está de pie a la cabecera de la mesa, levantando una pata y tocando un gráfico de barras en la pantalla detrás de él. Iluminación: Baño de luz ámbar cálida desde arriba, el brillo de la pantalla ilumina al gato desde atrás. Efectos de sonido: Aumento orquestal grave, toque suave de puntero en la pantalla. [3-6s] — Reacción de los empleados Cámara: Plano medio fijo a través de la mesa, frente a los empleados. Corte directo desde la toma anterior. Acción: Seis empleados nerviosos comienzan a aplaudir rígidamente, con los ojos muy abiertos, sonrisas tensas y vacías. Iluminación: Luz de oficina fría y uniforme, ligera sombra bajo cada rostro. Efectos de sonido: Aplausos lentos e inciertos, alguien aclarándose la garganta, papeles moviéndose. [6-10s] — Incidente con la laptop Cámara: Ángulo bajo sobre la mesa, fijo. Mantener. Acción: El gato gira lentamente, fija la mirada en una laptop abierta al borde de la mesa y luego la empuja con una pata de forma deliberada. Iluminación: Luz lateral cálida sobre el gato, sombra profunda detrás. Efectos de sonido: Golpe seco de la laptop al caer al suelo, resonando en la habitación silenciosa. Jadeos de los empleados. [10-13s] — Zoom dramático Cámara: Lento acercamiento a un primer plano extremo del rostro del gato. Acción: Los ojos del gato se entrecierran. Su boca se abre en un maullido amplio, silencioso y furioso, con la mandíbula totalmente extendida. Iluminación: Un solo foco cálido desde arriba, sombra dramática profunda enmarcando ambas mejillas. Efectos de sonido: Golpe orquestal, silencio absoluto, seguido de un golpe de bajo grave en el maullido. [13-15s] — Título final Cámara: Plano general estático, sala de juntas completa. Mantener. Acción: El gato se sienta de nuevo con calma, ajustándose la corbata. Los empleados miran congelados. Diálogo: "Las ganancias trimestrales han bajado". Iluminación: La habitación se oscurece ligeramente, predomina el azul frío de las ventanas. Efectos de sonido: Nota de violonchelo grave sostenida. Silencio. Evitar: Inconsistencia en la identidad del gato entre tomas, inestabilidad, parpadeo temporal, composición caótica.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060390717906878464/img/Ic3YA7Qzjgl0a_dc.jpg" width="600" alt="Fluffy Cat CEO Corporate Boardroom Drama">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0cc05bb392f3956756b3ef0a45c5e732/thumbnails/thumbnail.jpg" width="600" alt="Drama corporativo en la sala de juntas con un gato CEO esponjoso">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5460)**
 
 **Autor:** [Jasmine Ai](https://x.com/jasminekhan90_) | **Fuente:** [Link](https://x.com/jasminekhan90_/status/2060390860559409594) | **Publicado:** May 29, 2026
 
 ---
-### 1980s Gritty Film Noir Mafia Scene
+### Escena de mafia estilo cine negro crudo de los años 80
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly complex cinematic prompt for generating a realistic 1980s mob-themed sequence with 35mm film grain and practical lighting.
+> Un prompt cinematográfico altamente complejo para generar una secuencia realista con temática de mafia de los años 80, con grano de película de 35 mm e iluminación práctica.
 
 #### 📝 Prompt
 
 ```
-Style: 1980s 35mm film. Anamorphic grain. Practical lighting only. Real location street. No digital polish. Looks like it was actually shot on location in 1982.
-Camera: Mix of styles — slow tracking steadicam, tight close-ups, low angle wide, slow motion on key moments. Deep shadows. Film burn on cuts.
-Environment: Real wet cobblestone street at dusk. Old brick buildings. Dim tungsten storefronts. Smoke in the air. Parked vintage cars lining the street. Feels like lived-in 1980s New York or Chicago.
-Crowd: Real-looking 1980s dressed pedestrians. Naturally parting. Silent. Watching with deep respect. Faces weathered and real — no smooth AI skin.
-SCENE:
-Wide low angle slow-mo: Three figures emerge from shadow. Long black coats. Wet cobblestone reflecting their silhouettes. Crowd silently parts.
-Close-up slow-mo: @ img face — hat brim casting shadow over eyes. Cigar smoke curling past the lens. Expression unreadable.
-Wide tracking shot: The trio walks forward. Six bodyguards moving like a wall around them. Every face in the crowd watching.
-Close-up: His hand — cigar between fingers. Smoke trail. Slow motion.
-Low angle wide: Vintage black Cadillac DeVille waiting. Engine idling. Door opens.
-Close-up slow-mo: He takes one final drag. Exhales. Steps inside. Door shuts.
-Wide: Car pulls away into dark wet street. Crowd watches in silence.
-Lock phrases: 1980s 35mm grain, anamorphic flare, no AI rendering, no digital sharpness, practical location lighting, real human skin texture, photochemical film look, gritty realism, no color grading, raw film negative aesthetic
+Estilo: Película de 35 mm de los años 80. Grano anamórfico. Solo iluminación práctica. Calle de locación real. Sin pulido digital. Parece que fue filmada realmente en locación en 1982.
+Cámara: Mezcla de estilos: steadicam con seguimiento lento, primeros planos cerrados, gran angular desde ángulo bajo, cámara lenta en momentos clave. Sombras profundas. Quemaduras de película en los cortes.
+Entorno: Calle real de adoquines mojados al atardecer. Edificios de ladrillo antiguos. Escaparates con luz de tungsteno tenue. Humo en el aire. Coches antiguos estacionados a lo largo de la calle. Se siente como una Nueva York o Chicago de los años 80 vivida.
+Multitud: Peatones vestidos al estilo real de los años 80. Separándose naturalmente. Silenciosos. Observando con profundo respeto. Rostros curtidos y reales: nada de piel suave generada por IA.
+ESCENA:
+Gran angular en ángulo bajo a cámara lenta: Tres figuras emergen de la sombra. Abrigos largos negros. Adoquines mojados reflejando sus siluetas. La multitud se aparta en silencio.
+Primer plano a cámara lenta: @ img rostro — el ala del sombrero proyecta sombra sobre los ojos. Humo de cigarro pasando frente al lente. Expresión indescifrable.
+Plano de seguimiento amplio: El trío camina hacia adelante. Seis guardaespaldas moviéndose como un muro a su alrededor. Cada rostro en la multitud observando.
+Primer plano: Su mano — cigarro entre los dedos. Rastro de humo. Cámara lenta.
+Gran angular en ángulo bajo: Cadillac DeVille negro antiguo esperando. Motor en ralentí. La puerta se abre.
+Primer plano a cámara lenta: Da una última calada. Exhala. Entra. La puerta se cierra.
+Gran angular: El coche se aleja hacia la calle oscura y mojada. La multitud observa en silencio.
+Frases clave: grano de 35 mm de los años 80, destello anamórfico, sin renderizado de IA, sin nitidez digital, iluminación de locación práctica, textura de piel humana real, aspecto de película fotoquímica, realismo crudo, sin corrección de color, estética de negativo de película en bruto
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8aaa36afa844d45d1651dd2f441f5a2/thumbnails/thumbnail.jpg" width="600" alt="1980s Gritty Film Noir Mafia Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8aaa36afa844d45d1651dd2f441f5a2/thumbnails/thumbnail.jpg" width="600" alt="Escena de mafia estilo cine negro crudo de los años 80">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5432)**
 
 **Autor:** [WasifAI](https://x.com/doctorwasif) | **Fuente:** [Link](https://x.com/doctorwasif/status/2060382063317102961) | **Publicado:** May 29, 2026
 
 ---
-### The Hive Queen Escape Video Prompt
+### Prompt de video: La huida de la Reina de la Colmena
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive sci-fi horror video prompt for Seedance 2.0 featuring an astronaut fleeing a swarm in an alien hive.
+> Un completo prompt de video de terror y ciencia ficción para Seedance 2.0 que muestra a un astronauta huyendo de un enjambre en una colmena alienígena.
 
 #### 📝 Prompt
 
 ```
-Nightmarish alien hive deep beneath the surface of a hostile planet. Organic tunnels, pulsing walls, glowing biological veins, hanging egg sacs, dripping acid. Everything feels alive. High-intensity survival horror. Fast cuts, handheld chaos, rapid camera movement. Sound: insect screeches, biological clicking, suit alarms, collapsing organic structures.
+Colmena alienígena de pesadilla en las profundidades de un planeta hostil. Túneles orgánicos, paredes palpitantes, venas biológicas brillantes, sacos de huevos colgantes, ácido goteando. Todo parece estar vivo. Terror de supervivencia de alta intensidad. Cortes rápidos, caos de cámara en mano, movimiento de cámara acelerado. Sonido: chillidos de insectos, chasquidos biológicos, alarmas del traje, estructuras orgánicas colapsando.
 
 ⸻
 
-0–2s — HOOK
+0–2s — GANCHO
 
-Helmet POV.
+Punto de vista (POV) desde el casco.
 
-An astronaut is already sprinting through a living alien hive.
+Un astronauta corre desesperadamente a través de una colmena alienígena viva.
 
-Dozens of insectoid creatures chase him.
+Docenas de criaturas insectoides lo persiguen.
 
-Multiple legs.
+Múltiples patas.
 
-Bladed limbs.
+Extremidades afiladas.
 
-Glowing mouths.
+Bocas brillantes.
 
-They swarm across walls, ceilings, and floors.
+Enjambran paredes, techos y suelos.
 
-Closing fast.
-
-⸻
-
-2–5s — ESCALATION
-
-Side tracking shot.
-
-The astronaut turns a corner and enters a gigantic chamber.
-
-At its center—
-
-The Hive Queen.
-
-Massive.
-
-Bloated.
-
-Attached to the chamber by thick biological tendrils.
-
-Thousands of glowing eggs surround her.
-
-The swarm continues closing in behind him.
+Se acercan rápidamente.
 
 ⸻
 
-5–8s — BUILD
+2–5s — ESCALADA
 
-The astronaut reaches a rocky ledge overlooking the egg chamber.
+Plano de seguimiento lateral.
 
-No escape route.
+El astronauta dobla una esquina y entra en una cámara gigantesca.
 
-Creatures approaching from every direction.
+En el centro—
 
-He quickly pulls out a mining laser.
+La Reina de la Colmena.
 
-The queen notices him.
+Masiva.
 
-The entire chamber begins vibrating.
+Hinchada.
 
-⸻
+Unida a la cámara por gruesos zarcillos biológicos.
 
-8–11s — THE PLAN
+Miles de huevos brillantes la rodean.
 
-Close-up.
-
-The astronaut aims directly at the largest glowing egg structure.
-
-He fires.
-
-The mining laser slices through the organic mass.
-
-A chain reaction begins.
-
-Cracks spread through the egg cluster.
-
-Biological fluid erupts everywhere.
+El enjambre continúa acercándose detrás de él.
 
 ⸻
 
-11–13s — CHAOS
+5–8s — TENSIÓN
 
-The Hive Queen immediately attacks her own swarm.
+El astronauta llega a una repisa rocosa que domina la cámara de huevos.
 
-Protecting the eggs.
+Sin ruta de escape.
 
-Massive limbs crush dozens of creatures.
+Criaturas acercándose desde todas las direcciones.
 
-The chamber collapses.
+Saca rápidamente un láser de minería.
 
-Walls rupture.
+La reina lo nota.
 
-Eggs explode.
-
-Insects begin attacking each other.
-
-Complete chaos.
+La cámara entera comienza a vibrar.
 
 ⸻
 
-13–15s — PAYOFF
+8–11s — EL PLAN
 
-An organic bridge breaks loose beneath the astronaut.
+Primer plano.
 
-He rides it like a collapsing surfboard toward an exit tunnel.
+El astronauta apunta directamente a la estructura de huevos brillantes más grande.
 
-Behind him—
+Dispara.
 
-The Queen and swarm devour each other amidst the collapsing hive.
+El láser de minería corta la masa orgánica.
 
-The astronaut shoots out of the tunnel just as the entire chamber implodes.
+Comienza una reacción en cadena.
 
-Darkness.
+Las grietas se extienden por el grupo de huevos.
+
+Fluido biológico brota por todas partes.
+
+⸻
+
+11–13s — CAOS
+
+La Reina de la Colmena ataca inmediatamente a su propio enjambre.
+
+Protegiendo los huevos.
+
+Extremidades masivas aplastan a docenas de criaturas.
+
+La cámara colapsa.
+
+Las paredes se rompen.
+
+Los huevos explotan.
+
+Los insectos comienzan a atacarse entre sí.
+
+Caos total.
+
+⸻
+
+13–15s — DESENLACE
+
+Un puente orgánico se desprende bajo el astronauta.
+
+Lo monta como si fuera una tabla de surf colapsando hacia un túnel de salida.
+
+Detrás de él—
+
+La Reina y el enjambre se devoran entre sí en medio de la colmena que se derrumba.
+
+El astronauta sale disparado del túnel justo cuando toda la cámara implosiona.
+
+Oscuridad.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09ee6b2bfdfda318594b7473e7dfa590/thumbnails/thumbnail.jpg" width="600" alt="The Hive Queen Escape Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09ee6b2bfdfda318594b7473e7dfa590/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video: La huida de la Reina de la Colmena">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5426)**
 
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2060377183479382356) | **Publicado:** May 29, 2026
 
 ---
-### The Crystal Worm Ambush Video Prompt
+### Prompt de video: La emboscada del gusano de cristal
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed, multi-stage storyboard prompt for Seedance 2.0 depicting an astronaut escaping a giant crystal worm on an alien planet.
+> Un prompt de storyboard altamente detallado y de varias etapas para Seedance 2.0 que representa a un astronauta escapando de un gusano de cristal gigante en un planeta alienígena.
 
 #### 📝 Prompt
 
 ```
-Ultra-hostile alien planet. Endless desert made entirely of gigantic glowing crystal formations. Violet skies, twin suns, electrical storms in the distance. Every crystal emits strange bioluminescent pulses. Survival horror action. Chaotic handheld camera, aggressive speed ramps, rapid cut-tos, dynamic camera angles. Sound: crystal resonance hums, astronaut breathing, deep underground rumbling.
+Planeta alienígena ultra hostil. Desierto infinito hecho completamente de gigantescas formaciones de cristal brillante. Cielos violetas, soles gemelos, tormentas eléctricas en la distancia. Cada cristal emite extraños pulsos bioluminiscentes. Acción de terror y supervivencia. Cámara en mano caótica, aceleraciones agresivas, cortes rápidos, ángulos de cámara dinámicos. Sonido: zumbidos de resonancia de cristal, respiración del astronauta, retumbar profundo bajo tierra.
 
 ⸻
 
-0–2s — HOOK
+0–2s — GANCHO
 
-Wide aerial shot.
+Plano aéreo amplio.
 
-An astronaut is already sprinting across a glowing crystal desert.
+Un astronauta ya está corriendo a través de un desierto de cristal brillante.
 
-Suddenly—
+De repente—
 
-The ground erupts behind him.
+El suelo estalla detrás de él.
 
-A colossal alien crystal worm explodes upward.
+Un colosal gusano de cristal alienígena explota hacia arriba.
 
-Hundreds of meters long.
+Cientos de metros de largo.
 
-Its body covered in razor-sharp translucent crystal plates.
-
-⸻
-
-2–5s — ESCALATION
-
-Helmet POV.
-
-The worm crashes back underground.
-
-Crystal shards rain everywhere.
-
-The astronaut dodges flying debris while running.
-
-The desert ahead begins rippling.
-
-The worm is moving beneath him.
-
-Fast.
-
-Very fast.
+Su cuerpo cubierto de placas de cristal translúcido afiladas como navajas.
 
 ⸻
 
-5–8s — BUILD
+2–5s — ESCALADA
 
-Low angle tracking shot.
+POV del casco.
 
-The astronaut spots a gigantic crystal spire ahead.
+El gusano se estrella de nuevo bajo tierra.
 
-He jumps onto its base and begins climbing.
+Fragmentos de cristal llueven por todas partes.
 
-The worm erupts again.
+El astronauta esquiva los escombros voladores mientras corre.
 
-This time directly beside him.
+El desierto frente a él comienza a ondularse.
 
-Its jaws snap shut inches from his body.
+El gusano se mueve debajo de él.
 
-The impact fractures the entire spire.
+Rápido.
 
-⸻
-
-8–11s — CHAOS
-
-Wide shot.
-
-The crystal tower begins collapsing.
-
-The astronaut slides down the falling structure.
-
-Crystal fragments the size of vehicles tumble everywhere.
-
-The worm smashes through multiple crystal formations trying to intercept him.
-
-The entire landscape explodes into chaos.
+Muy rápido.
 
 ⸻
 
-11–13s — THE PLAN
+5–8s — TENSIÓN
 
-The astronaut lands hard.
+Plano de seguimiento en ángulo bajo.
 
-Rolls.
+El astronauta divisa una gigantesca aguja de cristal más adelante.
 
-Pulls a distress flare from his suit.
+Salta sobre su base y comienza a escalar.
 
-The worm erupts directly ahead.
+El gusano vuelve a erupcionar.
 
-Its mouth opens wide.
+Esta vez justo a su lado.
 
-Rows of crystalline teeth.
+Sus mandíbulas se cierran a centímetros de su cuerpo.
 
-Bullet time.
-
-The astronaut throws the flare.
+El impacto fractura toda la aguja.
 
 ⸻
 
-13–15s — PAYOFF
+8–11s — CAOS
 
-The flare disappears into the worm’s throat.
+Plano amplio.
 
-A pulse travels through its transparent crystal body.
+La torre de cristal comienza a colapsar.
 
-The entire creature begins glowing.
+El astronauta se desliza por la estructura que cae.
 
-Brighter.
+Fragmentos de cristal del tamaño de vehículos caen por todas partes.
 
-Brighter.
+El gusano atraviesa múltiples formaciones de cristal intentando interceptarlo.
 
-Then—
+Todo el paisaje explota en caos.
 
-A massive resonance explosion tears through its body from the inside.
+⸻
 
-Crystal shards erupt across the desert.
+11–13s — EL PLAN
 
-The astronaut shields himself.
+El astronauta aterriza con fuerza.
 
-Silence.
+Rueda.
 
-Only glowing fragments falling from the sky
+Saca una bengala de emergencia de su traje.
+
+El gusano erupciona justo delante.
+
+Su boca se abre de par en par.
+
+Filas de dientes cristalinos.
+
+Cámara lenta (bullet time).
+
+El astronauta lanza la bengala.
+
+⸻
+
+13–15s — DESENLACE
+
+La bengala desaparece en la garganta del gusano.
+
+Un pulso viaja a través de su cuerpo de cristal transparente.
+
+La criatura entera comienza a brillar.
+
+Más brillante.
+
+Más brillante.
+
+Entonces—
+
+Una explosión de resonancia masiva desgarra su cuerpo desde el interior.
+
+Fragmentos de cristal estallan por todo el desierto.
+
+El astronauta se protege.
+
+Silencio.
+
+Solo fragmentos brillantes cayendo del cielo.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060363429693820928/img/Jo9oNYVszL6J0i5j.jpg" width="600" alt="The Crystal Worm Ambush Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ace3e397b1750148de2905ea923df96/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video: La emboscada del gusano de cristal">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5423)**
 
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2060363498744586530) | **Publicado:** May 29, 2026
 
 ---
-### Cinematic Anime Tennis Match Video
+### Video de partido de tenis estilo anime cinematográfico
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a high-energy anime-style tennis match video set against a warm sunset, featuring cinematic lighting and soft lens flares.
+> Un prompt para generar un video de un partido de tenis estilo anime de alta energía ambientado bajo un cálido atardecer, con iluminación cinematográfica y destellos de lente suaves.
 
 #### 📝 Prompt
 
 ```
-Create a cinematic anime tennis match video at sunset on an outdoor court with chain-link fence, warm golden light, soft lens flare, realistic court shadows, and energetic match atmosphere.
+Crea un video cinematográfico de un partido de tenis estilo anime al atardecer en una cancha al aire libre con valla metálica, luz dorada cálida, destellos de lente suaves, sombras realistas en la cancha y una atmósfera de partido llena de energía.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060362855858458624/img/zbdgrbVffxEhWQoV.jpg" width="600" alt="Cinematic Anime Tennis Match Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ba5902a810aa865a1cacb22eef84867/thumbnails/thumbnail.jpg" width="600" alt="Video de partido de tenis estilo anime cinematográfico">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5463)**
 
 **Autor:** [Abdul Șhakoor](https://x.com/abxxai) | **Fuente:** [Link](https://x.com/abxxai/status/2060362950788121082) | **Publicado:** May 29, 2026
 
 ---
-### The Lava Beast Duel Video Prompt
+### Prompt de video: El duelo con la bestia de lava
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed action-horror storyboard prompt for Seedance 2.0 depicting a struggle between an astronaut and a lava beast in a volcanic environment.
+> Un prompt de storyboard detallado de acción y terror para Seedance 2.0 que representa una lucha entre un astronauta y una bestia de lava en un entorno volcánico.
 
 #### 📝 Prompt
 
 ```
-Nightmarish volcanic alien world. Rivers of lava cutting through black mountains. Ash storms. Exploding gas vents. Red lightning inside thick smoke clouds. Survival horror action. Fast-paced camera work, violent handheld energy, rapid cuts, speed ramps. Sound: volcanic eruptions, creature roars, jetpack bursts, collapsing rock.
+Mundo alienígena volcánico de pesadilla. Ríos de lava atravesando montañas negras. Tormentas de ceniza. Respiraderos de gas en explosión. Relámpagos rojos dentro de densas nubes de humo. Acción de terror y supervivencia. Cámara dinámica, energía violenta de cámara en mano, cortes rápidos, rampas de velocidad. Sonido: erupciones volcánicas, rugidos de criaturas, ráfagas de propulsores, rocas colapsando.
 
 ⸻
 
-0–2s — HOOK
+0–2s — GANCHO
 
-Wide shot.
+Plano general.
 
-An astronaut is already running along a narrow volcanic ridge.
+Un astronauta ya está corriendo a lo largo de una estrecha cresta volcánica.
 
-Behind him—
+Detrás de él—
 
-A gigantic lava-covered alien beast charges.
+Una gigantesca bestia alienígena cubierta de lava carga.
 
-Twelve feet tall.
+Tres metros y medio de altura.
 
-Molten cracks glowing across its body.
+Grietas fundidas brillando por todo su cuerpo.
 
-Every footstep throws sparks and molten rock.
-
-⸻
-
-2–5s — ESCALATION
-
-Side tracking shot.
-
-The beast rapidly closes distance.
-
-The astronaut fires a plasma rifle over his shoulder.
-
-The shots hit.
-
-Nothing happens.
-
-The creature keeps coming.
-
-A gas vent erupts beside them.
-
-Fire blasts into the sky.
+Cada paso lanza chispas y roca fundida.
 
 ⸻
 
-5–8s — BUILD
+2–5s — ESCALADA
 
-The ridge narrows.
+Plano de seguimiento lateral.
 
-Lava rivers on both sides.
+La bestia acorta la distancia rápidamente.
 
-The astronaut slips.
+El astronauta dispara un rifle de plasma por encima de su hombro.
 
-Recovers.
+Los disparos impactan.
 
-The beast launches itself forward.
+No sucede nada.
 
-Its claws barely miss his suit.
+La criatura sigue avanzando.
 
-Ash and molten debris fill the frame.
+Un respiradero de gas erupciona junto a ellos.
 
-⸻
-
-8–11s — CHAOS
-
-Overhead drone-style shot.
-
-The entire ridge begins collapsing beneath their combined weight.
-
-Massive chunks break away.
-
-The astronaut jumps across a widening gap.
-
-The beast follows.
-
-The jump cracks the remaining rock.
-
-Everything starts falling.
+Fuego se dispara hacia el cielo.
 
 ⸻
 
-11–13s — PAYOFF BUILD
+5–8s — TENSIÓN
 
-The ridge gives way completely.
+La cresta se estrecha.
 
-Astronaut and beast plunge toward a raging lava river.
+Ríos de lava a ambos lados.
 
-Bullet time.
+El astronauta resbala.
 
-The astronaut grabs a hanging volcanic rock formation.
+Se recupera.
 
-The beast falls below him.
+La bestia se lanza hacia adelante.
+
+Sus garras apenas rozan su traje.
+
+Ceniza y escombros fundidos llenan el encuadre.
 
 ⸻
 
-13–15s — FINAL PAYOFF
+8–11s — CAOS
 
-The creature crashes into the lava.
+Plano cenital estilo dron.
 
-Molten rock erupts everywhere.
+Toda la cresta comienza a colapsar bajo su peso combinado.
 
-The astronaut looks down—
+Trozos masivos se desprenden.
 
-Relieved.
+El astronauta salta a través de una brecha que se ensancha.
 
-Then suddenly—
+La bestia lo sigue.
 
-The beast erupts back out of the lava completely engulfed in fire.
+El salto agrieta la roca restante.
 
-Roaring.
+Todo comienza a caer.
 
-Launching itself toward him.
+⸻
+
+11–13s — PREPARACIÓN DEL CLÍMAX
+
+La cresta cede por completo.
+
+El astronauta y la bestia caen hacia un río de lava furioso.
+
+Cámara lenta (bullet time).
+
+El astronauta se agarra a una formación rocosa volcánica colgante.
+
+La bestia cae por debajo de él.
+
+⸻
+
+13–15s — CLÍMAX FINAL
+
+La criatura se estrella contra la lava.
+
+Roca fundida erupciona por todas partes.
+
+El astronauta mira hacia abajo—
+
+Aliviado.
+
+Entonces, de repente—
+
+La bestia emerge de nuevo de la lava completamente envuelta en fuego.
+
+Rugiendo.
+
+Lanzándose hacia él.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1bbc3d26077cca6baea2fb93e536684c/thumbnails/thumbnail.jpg" width="600" alt="The Lava Beast Duel Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1bbc3d26077cca6baea2fb93e536684c/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video: El duelo con la bestia de lava">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5429)**
 
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2060360339628364155) | **Publicado:** May 29, 2026
 
 ---
-### Epic Mammoth Charge Survival Sequence
+### Secuencia épica de supervivencia: La carga del mamut
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A thrilling fantasy video prompt set on a frozen tundra where a hunter lures a giant white werewolf into the middle of a woolly mammoth stampede.
+> Un emocionante prompt de video de fantasía ambientado en una tundra helada, donde un cazador atrae a un lobo blanco gigante hacia una estampida de mamuts lanudos.
 
 #### 📝 Prompt
 
 ```
-Epic fantasy survival sequence set on a vast frozen tundra beneath storm-filled northern skies. Endless snowfields stretch to the horizon. Winds whip across the landscape. Visibility constantly shifts as snow blows through frame. High-action chase with huge scale and relentless momentum. Sound: pounding footsteps, mammoth calls, werewolf roars, cracking ice, screaming wind.
+Secuencia épica de supervivencia de fantasía ambientada en una vasta tundra helada bajo cielos nórdicos tormentosos. Campos de nieve infinitos se extienden hasta el horizonte. El viento azota el paisaje. La visibilidad cambia constantemente a medida que la nieve atraviesa el encuadre. Persecución de alta intensidad con una escala enorme y un impulso implacable. Sonido: pisadas fuertes, llamadas de mamuts, rugidos de hombres lobo, hielo resquebrajándose, viento aullante.
 
 ⸻
 
-0–3s — HOOK
+0–3s — GANCHO
 
-A young hunter sprints across an open snowfield.
+Un joven cazador corre a través de un campo de nieve abierto.
 
-Animal furs wrapped around his shoulders.
+Pieles de animales envueltas alrededor de sus hombros.
 
-A hunting spear gripped tightly in one hand.
+Una lanza de caza sujeta con fuerza en una mano.
 
-His breath freezes in the air.
+Su aliento se congela en el aire.
 
-Behind him—
+Detrás de él—
 
-A colossal white werewolf bursts over a ridge.
+Un colosal hombre lobo blanco irrumpe sobre una cresta.
 
-Nearly nine feet tall.
+Casi tres metros de altura.
 
-Massive muscles visible beneath thick frost-covered fur.
+Músculos masivos visibles bajo un pelaje espeso cubierto de escarcha.
 
-Blue eyes glowing through blowing snow.
+Ojos azules brillando a través de la nieve que vuela.
 
-The creature immediately locks onto him.
+La criatura se fija inmediatamente en él.
 
-It charges downhill.
+Carga cuesta abajo.
 
-Fast.
+Rápido.
 
-Much too fast.
-
-⸻
-
-3–6s — ESCALATION
-
-The hunter pushes himself harder.
-
-Snow explodes beneath every stride.
-
-The werewolf rapidly closes distance.
-
-Its powerful legs launch it through deep drifts effortlessly.
-
-Every leap covers huge ground.
-
-The hunter glances back.
-
-The beast is only seconds away.
-
-Its jaws snap.
-
-Its roar echoes across the tundra.
+Demasiado rápido.
 
 ⸻
 
-6–9s — BUILD
+3–6s — ESCALADA
 
-Ahead—
+El cazador se esfuerza más.
 
-Movement.
+La nieve explota bajo cada zancada.
 
-A gigantic migrating herd of woolly mammoths crosses the frozen plain.
+El hombre lobo reduce la distancia rápidamente.
 
-Dozens of them.
+Sus poderosas patas lo impulsan a través de ventisqueros profundos sin esfuerzo.
 
-Towering bodies.
+Cada salto cubre una gran distancia.
 
-Massive curved tusks.
+El cazador mira hacia atrás.
 
-The ground vibrates beneath their weight.
+La bestia está a solo segundos de distancia.
 
-The hunter changes direction and runs directly toward the herd.
+Sus mandíbulas chasquean.
 
-The werewolf follows without hesitation.
-
-⸻
-
-9–12s — THE PLAN
-
-The hunter reaches the mammoths.
-
-He darts between enormous legs and charging bodies.
-
-Snow and ice spray into the air.
-
-The werewolf enters the herd moments later.
-
-Now completely surrounded by mammoths.
-
-The hunter plants his feet.
-
-Turns.
-
-Throws his spear.
-
-Bullet time.
-
-The spear spins through the air.
-
-Strikes a mammoth’s flank.
+Su rugido resuena en toda la tundra.
 
 ⸻
 
-12–15s — PAYOFF
+6–9s — PREPARACIÓN
 
-The injured mammoth bellows.
+Adelante—
 
-The herd panics instantly.
+Movimiento.
 
-Dozens of mammoths turn simultaneously.
+Una gigantesca manada migratoria de mamuts lanudos cruza la llanura helada.
 
-Thousands of pounds of muscle and tusk begin charging directly toward the werewolf.
+Docenas de ellos.
 
-The beast tries to stop.
+Cuerpos imponentes.
 
-Too late.
+Masivos colmillos curvados.
 
-The stampede slams into it.
+El suelo vibra bajo su peso.
 
-Tusks.
+El cazador cambia de dirección y corre directamente hacia la manada.
 
-Snow.
+El hombre lobo lo sigue sin dudarlo.
 
-Fur.
+⸻
 
-Ice.
+9–12s — EL PLAN
 
-Chaos.
+El cazador llega hasta los mamuts.
 
-The werewolf disappears beneath a wall of charging mammoths.
+Se escabulle entre patas enormes y cuerpos que cargan.
 
-The hunter watches from a rocky outcrop as the herd thunders past.
+Nieve y hielo se esparcen por el aire.
 
-Snow fills the air.
+El hombre lobo entra en la manada momentos después.
 
-The creature is gone.
+Ahora completamente rodeado por mamuts.
 
-Only the sound of the stampede remains.
+El cazador se planta.
+
+Se gira.
+
+Lanza su lanza.
+
+Cámara lenta (bullet time).
+
+La lanza gira en el aire.
+
+Golpea el costado de un mamut.
+
+⸻
+
+12–15s — DESENLACE
+
+El mamut herido brama.
+
+La manada entra en pánico al instante.
+
+Docenas de mamuts se giran simultáneamente.
+
+Miles de kilos de músculo y colmillos comienzan a cargar directamente hacia el hombre lobo.
+
+La bestia intenta detenerse.
+
+Demasiado tarde.
+
+La estampida choca contra él.
+
+Colmillos.
+
+Nieve.
+
+Pelaje.
+
+Hielo.
+
+Caos.
+
+El hombre lobo desaparece bajo un muro de mamuts en carga.
+
+El cazador observa desde un afloramiento rocoso mientras la manada pasa a toda velocidad.
+
+La nieve llena el aire.
+
+La criatura ha desaparecido.
+
+Solo queda el sonido de la estampida.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060354793890357249/img/1YwIi43ZPwLRgyHD.jpg" width="600" alt="Epic Mammoth Charge Survival Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9f56035e387872401d848a3e7c4dc84/thumbnails/thumbnail.jpg" width="600" alt="Secuencia épica de supervivencia: La carga del mamut">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5457)**
 
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2060354858277019768) | **Publicado:** May 29, 2026
 
 ---
-### Magma Demon Medieval Siege
+### Asedio medieval del demonio de magma
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dark fantasy apocalypse prompt featuring a colossal magma demon destroying a medieval kingdom with dramatic cinematography and debris effects.
+> Un prompt de apocalipsis de fantasía oscura que presenta a un colosal demonio de magma destruyendo un reino medieval con cinematografía dramática y efectos de escombros.
 
 #### 📝 Prompt
 
 ```
-A colossal demonic creature with obsidian skin cracked by flowing magma, gigantic horns piercing through smoke clouds, glowing eyes radiating pure rage
-Emerges from beneath the earth and rampages through a medieval kingdom, crushing castles with its bare hands while armies desperately attack from every direction
-Dark fantasy apocalypse with burning villages, collapsing cathedrals, lava fissures splitting the ground and dragons circling through ash-filled skies
-Begins with ground-level tracking as cracks spread violently through the city, sudden eruption sending debris flying toward the camera, whip pans following collapsing towers, aerial orbit around the demon roaring through flames, fire and molten rock flooding the frame, ending with the demon standing atop the destroyed kingdom while the last remaining castle collapses behind it into lava, camera slowly pulling back through smoke revealing complete annihilation across the horizon
+Una criatura demoníaca colosal con piel de obsidiana agrietada por magma fluido, cuernos gigantescos que atraviesan nubes de humo, ojos brillantes que irradian pura furia
+Surge de debajo de la tierra y arrasa un reino medieval, aplastando castillos con sus propias manos mientras los ejércitos atacan desesperadamente desde todas las direcciones
+Apocalipsis de fantasía oscura con aldeas en llamas, catedrales colapsando, fisuras de lava que parten el suelo y dragones dando vueltas a través de cielos llenos de ceniza
+Comienza con un seguimiento a nivel del suelo mientras las grietas se extienden violentamente por la ciudad, una erupción repentina que envía escombros volando hacia la cámara, barridos de cámara siguiendo torres que se desploman, órbita aérea alrededor del demonio rugiendo entre llamas, fuego y roca fundida inundando el encuadre, terminando con el demonio de pie sobre el reino destruido mientras el último castillo restante se derrumba detrás de él hacia la lava, la cámara se aleja lentamente a través del humo revelando la aniquilación total en el horizonte
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5b1966061ce67625b08a2f75a7bfefb/thumbnails/thumbnail.jpg" width="600" alt="Magma Demon Medieval Siege">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5b1966061ce67625b08a2f75a7bfefb/thumbnails/thumbnail.jpg" width="600" alt="Asedio medieval del demonio de magma">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5431)**
 
 **Autor:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Fuente:** [Link](https://x.com/CharaspowerAI/status/2060352986509955507) | **Publicado:** May 29, 2026
 
 ---
-### Sci-Fi Astronaut Monster Chase
+### Persecución de monstruo astronauta de ciencia ficción
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic sci-fi horror prompt featuring an astronaut fleeing a giant flying moth-dragon on an alien world with floating islands.
+> Un prompt de terror cinematográfico de ciencia ficción que presenta a un astronauta huyendo de una polilla-dragón gigante voladora en un mundo alienígena con islas flotantes.
 
 #### 📝 Prompt
 
 ```
-Cinematic photorealistic sci-fi action horror sequence set on a surreal alien world with dark purple skies and endless floating islands covered in glowing blue crystals. An astronaut in a detailed white spacesuit with jetpack runs desperately across the rocky floating platforms, jumping between them while being chased by a massive terrifying winged creature resembling a giant moth-dragon hybrid with powerful wings and sharp features.
-The camera dynamically follows the high-speed chase with sweeping aerial shots, tracking the astronaut from behind and side angles. The astronaut leaps across chasms as glowing crystals pulse with bright blue light. A dramatic close-up shows the astronaut’s terrified face inside the helmet, eyes wide and mouth open in panic. The giant creature swoops aggressively, creating chaos. In the climax, the astronaut grabs onto a thick hanging vine on the edge of a crumbling floating island, looking back in fear as the monster approaches and debris flies everywhere.
-Moody volumetric fog, dramatic purple-blue lighting, intense motion, realistic physics, high detail textures, and epic scale. Fast-paced thrilling survival chase with strong cinematic tension.
+Secuencia de acción y terror de ciencia ficción fotorrealista y cinematográfica ambientada en un mundo alienígena surrealista con cielos de color púrpura oscuro e infinitas islas flotantes cubiertas de cristales azules brillantes. Un astronauta con un traje espacial blanco detallado y propulsor corre desesperadamente a través de las plataformas rocosas flotantes, saltando entre ellas mientras es perseguido por una criatura alada masiva y aterradora que se asemeja a un híbrido de polilla-dragón gigante con alas poderosas y rasgos afilados.
+La cámara sigue dinámicamente la persecución a alta velocidad con planos aéreos envolventes, rastreando al astronauta desde ángulos traseros y laterales. El astronauta salta a través de abismos mientras los cristales brillantes pulsan con una luz azul intensa. Un primer plano dramático muestra el rostro aterrorizado del astronauta dentro del casco, con los ojos muy abiertos y la boca abierta por el pánico. La criatura gigante se abalanza agresivamente, creando el caos. En el clímax, el astronauta se agarra a una enredadera gruesa que cuelga en el borde de una isla flotante que se desmorona, mirando hacia atrás con miedo mientras el monstruo se acerca y los escombros vuelan por todas partes.
+Niebla volumétrica ambiental, iluminación dramática en tonos púrpura y azul, movimiento intenso, física realista, texturas de gran detalle y escala épica. Persecución de supervivencia trepidante y emocionante con una fuerte tensión cinematográfica.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ded2075a8afed31bf7ed63970d6c7f8/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi Astronaut Monster Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ded2075a8afed31bf7ed63970d6c7f8/thumbnails/thumbnail.jpg" width="600" alt="Persecución de monstruo astronauta de ciencia ficción">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5435)**
 
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2060346290907848960) | **Publicado:** May 29, 2026
 
 ---
-### Astronaut vs Giant Alien Spiders Video Prompt
+### Prompt de video: Astronauta contra arañas alienígenas gigantes
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intense, epic-scale sci-fi horror chase prompt for Seedance 2.0 involving giant spider-crab creatures and a transforming environment.
+> Un prompt de terror de ciencia ficción intenso y de escala épica para Seedance 2.0 que involucra criaturas araña-cangrejo gigantes y un entorno que se transforma.
 
 #### 📝 Prompt
 
 ```
-Cinematic photorealistic sci-fi horror chase sequence set on a dark, foggy alien planet with rocky canyons and floating islands. An astronaut in a white and blue spacesuit runs desperately for his life through a narrow rocky path, looking back in terror. He is relentlessly chased by multiple giant menacing red spider-crab alien creatures with glowing orange eyes and sharp legs.
-The camera dynamically follows from behind and switches to high-angle shots revealing the terrifying scale. The path dramatically transforms into the inside of a massive ancient monster’s mouth lined with huge teeth and fleshy walls. The astronaut keeps running straight into the giant maw as the spider monsters close in. In the climax, the enormous creature awakens, its massive head rising with jaws opening wide. The astronaut is thrown into the air as the gigantic beast emerges powerfully from the mountain-like structure.
-Intense action, dramatic foggy atmosphere, realistic creature details, dynamic camera movement, high tension, and epic scale. Dark moody lighting with volumetric fog, fast-paced editing, and thrilling survival horror vibe. 13-second high-impact sequence.
+Secuencia de persecución de terror de ciencia ficción cinematográfica y fotorrealista ambientada en un planeta alienígena oscuro y brumoso con cañones rocosos e islas flotantes. Un astronauta con un traje espacial blanco y azul corre desesperadamente por su vida a través de un estrecho sendero rocoso, mirando hacia atrás con terror. Es perseguido implacablemente por múltiples criaturas alienígenas gigantes y amenazantes con forma de araña-cangrejo roja, ojos de color naranja brillante y patas afiladas.
+La cámara sigue dinámicamente desde atrás y cambia a tomas de ángulo alto que revelan la escala aterradora. El camino se transforma dramáticamente en el interior de la boca de un monstruo antiguo masivo, revestida con enormes dientes y paredes carnosas. El astronauta sigue corriendo directamente hacia las fauces gigantes mientras los monstruos araña se acercan. En el clímax, la enorme criatura despierta, su cabeza masiva se eleva mientras sus mandíbulas se abren de par en par. El astronauta es lanzado al aire mientras la gigantesca bestia emerge poderosamente de la estructura similar a una montaña.
+Acción intensa, atmósfera brumosa dramática, detalles realistas de las criaturas, movimiento de cámara dinámico, alta tensión y escala épica. Iluminación oscura y temperamental con niebla volumétrica, edición de ritmo rápido y una emocionante vibra de terror de supervivencia. Secuencia de alto impacto de 13 segundos.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed96a90c65a09bb3ff745c22c2d451c7/thumbnails/thumbnail.jpg" width="600" alt="Astronaut vs Giant Alien Spiders Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed96a90c65a09bb3ff745c22c2d451c7/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video: Astronauta contra arañas alienígenas gigantes">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5425)**
 
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2060344965818139054) | **Publicado:** May 29, 2026
 
 ---
-### Cinematic Fire Dancer Performance in Abandoned Courtyard
+### Actuación cinematográfica de bailarina de fuego en un patio abandonado
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A multi-scene video prompt generating a cinematic performance of a young fire dancer in an ancient stone courtyard, featuring dynamic camera movements and detailed fire visual effects.
+> Un prompt de video de múltiples escenas que genera la actuación cinematográfica de una joven bailarina de fuego en un antiguo patio de piedra, con movimientos de cámara dinámicos y efectos visuales de fuego detallados.
 
 #### 📝 Prompt
 
 ```
-A dark, atmospheric outdoor setting at night in an abandoned open courtyard surrounded by ancient stone pillars. The air is still, and faint embers float in the wind. A powerful cinematic silence builds tension with low ambient sound and distant wind.
+Un entorno exterior oscuro y atmosférico durante la noche en un patio abierto abandonado, rodeado de antiguos pilares de piedra. El aire está en calma y tenues brasas flotan con el viento. Un poderoso silencio cinematográfico genera tensión con un sonido ambiental tenue y el viento a lo lejos.
 
-The camera slowly pushes in on a young fire dancer standing in the center. She wears flowing, elegant performance attire with subtle reflective details that catch the faint glow of nearby embers. Her expression is calm, focused, and almost trance-like.
+La cámara se acerca lentamente a una joven bailarina de fuego que se encuentra en el centro. Viste un atuendo elegante y fluido con sutiles detalles reflectantes que captan el tenue resplandor de las brasas cercanas. Su expresión es tranquila, concentrada y casi como en trance.
 
-At second 3–5, she begins to move slowly. Each hand gesture feels deliberate and controlled. As her fingers trace through the air, **small sparks ignite around her hands**, forming glowing orange trails.
+En los segundos 3 a 5, comienza a moverse lentamente. Cada gesto de sus manos se siente deliberado y controlado. A medida que sus dedos recorren el aire, **pequeñas chispas se encienden alrededor de sus manos**, formando estelas de color naranja brillante.
 
-Suddenly, the music drops into a deep cinematic beat.
+De repente, la música cae en un ritmo cinematográfico profundo.
 
-She spins once — and a **ring of fire bursts outward** in perfect symmetry around her feet. The flames respond to her movement as if alive. Every motion she makes bends the fire: swirling, rising, and flowing like liquid light.
+Gira una vez y un **anillo de fuego estalla hacia afuera** en perfecta simetría alrededor de sus pies. Las llamas responden a su movimiento como si estuvieran vivas. Cada movimiento que hace curva el fuego: girando, elevándose y fluyendo como luz líquida.
 
-The camera switches between:
+La cámara alterna entre:
 
-* Slow-motion close-ups of her hands controlling fire streams
-* Low-angle shots showing flames rising behind her like a crown
-* Wide cinematic orbit shots circling her as fire forms patterns in the air
+* Primeros planos en cámara lenta de sus manos controlando corrientes de fuego
+* Tomas de ángulo bajo que muestran llamas elevándose detrás de ella como una corona
+* Tomas cinematográficas de órbita amplia que la rodean mientras el fuego forma patrones en el aire
 
-At second 10–13, she raises both hands upward — and the flames rise dramatically into the sky, forming a **giant spiraling fire vortex above her**.
+En los segundos 10 a 13, levanta ambas manos hacia arriba y las llamas se elevan dramáticamente hacia el cielo, formando un **vórtice de fuego gigante en espiral sobre ella**.
 
-Final moment: she gently lowers her hands, and the fire collapses into glowing embers that float around her like fireflies. She stands still in the center, untouched, powerful, and calm.
+Momento final: baja suavemente las manos y el fuego se colapsa en brasas brillantes que flotan a su alrededor como luciérnagas. Ella permanece quieta en el centro, intacta, poderosa y tranquila.
 
-End with a cinematic freeze frame: her silhouette surrounded by drifting embers, warm orange glow against deep black night sky, ultra-dramatic fantasy realism.
+Finaliza con un fotograma cinematográfico congelado: su silueta rodeada de brasas a la deriva, un cálido resplandor naranja contra el cielo nocturno negro profundo, realismo de fantasía ultra dramático.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060342500913508353/pu/img/D1Gx-ExoyVxXnN8w.jpg" width="600" alt="Cinematic Fire Dancer Performance in Abandoned Courtyard">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f69f830a7dc6bde023d001a4c1c2e9cd/thumbnails/thumbnail.jpg" width="600" alt="Actuación cinematográfica de bailarina de fuego en un patio abandonado">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5451)**
 
 **Autor:** [Ai Doctor](https://x.com/DoctorAmna11) | **Fuente:** [Link](https://x.com/DoctorAmna11/status/2060342535822979429) | **Publicado:** May 29, 2026
 
 ---
-### Cartoon Chef Boy Hotel Kitchen Sequence
+### Secuencia de cocina de hotel con niño chef de dibujos animados
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A multi-frame video prompt telling a story of a cute cartoon chef preparing a gourmet dish in a grand hotel kitchen with warm cinematic lighting.
+> Un prompt de video de varios fotogramas que cuenta la historia de un lindo niño chef de dibujos animados preparando un plato gourmet en la cocina de un gran hotel con una cálida iluminación cinematográfica.
 
 #### 📝 Prompt
 
 ```
-Frame 1: Cute cartoon chef boy walking slowly into grand hotel kitchen, camera slowly zooming out, golden warm light glowing, cinematic entrance, no text, 4K
+Fotograma 1: Lindo niño chef de dibujos animados entrando lentamente a la gran cocina de un hotel, la cámara se aleja lentamente, luz cálida dorada brillante, entrada cinematográfica, sin texto, 4K
 
-Frame 2: Cartoon chef boy carefully picking fresh vegetables, hands moving slowly, ingredients glistening, warm golden light, cinematic close-up, no text, 4K
+Fotograma 2: Niño chef de dibujos animados eligiendo cuidadosamente verduras frescas, manos moviéndose lentamente, ingredientes relucientes, luz dorada cálida, primer plano cinematográfico, sin texto, 4K
 
-Frame 3: Cartoon chef boy chopping vegetables slowly, knife moving with motion blur, steam rising gently, cinematic lighting, no text, 4K
+Fotograma 3: Niño chef de dibujos animados cortando verduras lentamente, cuchillo moviéndose con desenfoque de movimiento, vapor subiendo suavemente, iluminación cinematográfica, sin texto, 4K
 
-Frame 4: Cartoon chef boy tossing food in pan, dramatic flames rising slowly, sparks flying, fire lighting up face, cinematic slow motion, no text, 4K
+Fotograma 4: Niño chef de dibujos animados salteando comida en la sartén, llamas dramáticas subiendo lentamente, chispas volando, fuego iluminando el rostro, cámara lenta cinematográfica, sin texto, 4K
 
-Frame 5: Golden sauce pouring slowly from ladle into pan, steam rising dramatically, warm cinematic light, extreme slow motion, no text, 4K
+Fotograma 5: Salsa dorada vertiéndose lentamente desde un cucharón a la sartén, vapor subiendo dramáticamente, luz cinematográfica cálida, cámara superlenta, sin texto, 4K
 
-Frame 6: Cartoon chef boy tasting food from spoon, eyes closing slowly with blissful expression, soft warm light on face, cinematic portrait, no text, 4K
+Fotograma 6: Niño chef de dibujos animados probando comida con una cuchara, ojos cerrándose lentamente con expresión de felicidad, luz cálida suave en el rostro, retrato cinematográfico, sin texto, 4K
 
-Frame 7: Cartoon chef boy carefully placing garnish on plate with tweezers, dramatic spotlight on dish, slow precise movement, cinematic close-up, no text, 4K
+Fotograma 7: Niño chef de dibujos animados colocando cuidadosamente la guarnición en el plato con pinzas, foco dramático sobre el plato, movimiento preciso y lento, primer plano cinematográfico, sin texto, 4K
 
-Frame 8: Cartoon chef boy lifting silver dome slowly, dramatic steam rising, golden light flooding out, proud smile, cinematic reveal, no text, 4K
+Fotograma 8: Niño chef de dibujos animados levantando lentamente la cúpula plateada, vapor dramático subiendo, luz dorada inundando el lugar, sonrisa orgullosa, revelación cinematográfica, sin texto, 4K
 
-Frame 9: Cartoon chef boy standing tall arms crossed, slow cinematic zoom out, full kitchen glowing behind him, hero moment, warm light, no text, 4K
+Fotograma 9: Niño chef de dibujos animados de pie con los brazos cruzados, alejamiento cinematográfico lento, cocina completa brillando detrás de él, momento heroico, luz cálida, sin texto, 4K
 
-Frame 10: Extreme close-up of beautifully plated gourmet dish, slow cinematic push forward, garnish glistening, golden light, mouth-watering food shot, no text, 4K
+Fotograma 10: Primer plano extremo de un plato gourmet bellamente servido, acercamiento cinematográfico lento, guarnición reluciente, luz dorada, toma de comida apetitosa, sin texto, 4K
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060268763824672768/img/q8pamDGZpX3h2N4-.jpg" width="600" alt="Cartoon Chef Boy Hotel Kitchen Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1419b6c1507e7447c1691d3cc69ab353/thumbnails/thumbnail.jpg" width="600" alt="Secuencia de cocina de hotel con niño chef de dibujos animados">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5461)**
 
 **Autor:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **Fuente:** [Link](https://x.com/itsshara_ai/status/2060341637356966097) | **Publicado:** May 29, 2026
 
 ---
-### Cinematic Luxury Lifestyle Speedboat Scene
+### Escena cinematográfica de lujo en lancha rápida
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional Hollywood-style commercial video prompt of a young woman driving a speedboat on the ocean during golden hour, with highly realistic water physics and drone tracking.
+> Un prompt de video comercial al estilo profesional de Hollywood que muestra a una mujer joven conduciendo una lancha rápida en el océano durante la hora dorada, con física del agua altamente realista y seguimiento con drones.
 
 #### 📝 Prompt
 
 ```
-A highly realistic cinematic luxury lifestyle scene filmed like a professional Hollywood commercial.
+Una escena de estilo de vida de lujo cinematográfica y altamente realista, filmada como un comercial profesional de Hollywood.
 
-Opening shot: captured with a stabilized drone camera during golden hour over a calm deep-blue ocean. A beautiful young woman in her mid-20s naturally drives a modern white speedboat at medium-fast speed. Her hair flows realistically in the wind, sunlight softly reflects on her skin, and the water movement looks physically accurate with natural splashes and detailed wake trails behind the boat.
+Plano inicial: capturado con una cámara de dron estabilizada durante la hora dorada sobre un océano profundo y en calma. Una hermosa mujer joven de unos 20 y tantos años conduce con naturalidad una lancha rápida blanca moderna a una velocidad media-rápida. Su cabello fluye de manera realista con el viento, la luz del sol se refleja suavemente en su piel y el movimiento del agua se ve físicamente preciso, con salpicaduras naturales y estelas detalladas detrás de la embarcación.
 
-Camera transitions smoothly between professional cinematic angles:
-— wide aerial drone tracking shot
-— side profile tracking shot close to the water
-— realistic handheld close-up of her adjusting the steering wheel
-— slow-motion splash shots with authentic lighting reflections
-— cinematic close-up of her relaxed confident expression wearing elegant sunglasses
+La cámara realiza transiciones fluidas entre ángulos cinematográficos profesionales:
+— plano aéreo amplio de seguimiento con dron
+— plano de seguimiento lateral cerca del agua
+— primer plano realista cámara en mano de ella ajustando el volante
+— tomas en cámara lenta de salpicaduras con reflejos de iluminación auténticos
+— primer plano cinematográfico de su expresión relajada y segura usando gafas de sol elegantes
 
-The boat movement feels realistic with proper wave interaction and balanced motion physics. Natural wind simulation, true-to-life ocean textures, realistic shadows, premium color grading, subtle lens flare, shallow depth of field, documentary-style realism mixed with luxury commercial aesthetics.
+El movimiento de la lancha se siente realista, con una interacción adecuada con las olas y una física de movimiento equilibrada. Simulación de viento natural, texturas oceánicas realistas, sombras realistas, gradación de color premium, destellos de lente sutiles, profundidad de campo reducida, realismo estilo documental mezclado con estética comercial de lujo.
 
-Final shot: drone slowly pulls away as the speedboat moves toward the glowing sunset horizon, creating a premium emotional ending.
+Plano final: el dron se aleja lentamente mientras la lancha rápida avanza hacia el horizonte al atardecer, creando un final emocional de alta calidad.
 
-Style: ultra photorealistic, professionally filmed, cinematic lighting, realistic camera motion, authentic human movement, luxury travel commercial, 4K HDR, smooth transitions, no CGI look, no artificial facial distortions, natural body proportions, highly detailed water simulation...
+Estilo: ultra fotorrealista, filmación profesional, iluminación cinematográfica, movimiento de cámara realista, movimiento humano auténtico, comercial de viajes de lujo, 4K HDR, transiciones fluidas, sin apariencia de CGI, sin distorsiones faciales artificiales, proporciones corporales naturales, simulación de agua altamente detallada...
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060336731191197697/pu/img/NKMrfBdObQe4CVBn.jpg" width="600" alt="Cinematic Luxury Lifestyle Speedboat Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3d7f577cd476a9555bb75307d18f9cc/thumbnails/thumbnail.jpg" width="600" alt="Escena cinematográfica de lujo en lancha rápida">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5456)**
 
 **Autor:** [Ai Girllie](https://x.com/Inshrah_ali_) | **Fuente:** [Link](https://x.com/Inshrah_ali_/status/2060336792646361109) | **Publicado:** May 29, 2026
 
 ---
-### Festive Mushroom City Anime Chase
+### Persecución anime en la festiva Ciudad Champiñón
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A high-energy anime escape sequence set in a vibrant festival mushroom city, featuring a thief girl dodging crowds and leaping across rooftops with cinematic lighting and dynamic angles.
+> Una secuencia de escape anime de alta energía ambientada en una vibrante ciudad festiva de champiñones, donde una chica ladrona esquiva a la multitud y salta por los tejados con iluminación cinematográfica y ángulos dinámicos.
 
 #### 📝 Prompt
 
 ```
-@Image 1 = Protagonist character. @Image 2 = Storyboard reference. Based on the attached storyboard image, create a 15-second horizontal 16:9 anime thrilling escape scene video. Theme: Thief Girl. Animate as a high-tempo, brisk scene following the panel order of the storyboard. Flow: Start with an overhead view of a festive giant mushroom city. A girl in a blue hood, blending into the heat and decorations of the crowd, steals a rare glowing mushroom from the center of the festival. Mix close-ups of hands and expressions during the theft, and show a thrilling smile as if she's enjoying herself immediately after succeeding. Afterward, escape briskly using the multi-level platforms of the festival venue, rooftops of stalls, decorated walkways, and spaces filled with ropes and cloth. Pursuers and the surrounding crowd are surprised and begin to chase her; the girl slips through people, leaps over them, slides, and escapes nimbly. End by escaping to a high platform or bridge and running through the festive lights. Style: High-quality anime film style, cinematic lighting, top-tier animation, high definition, vivid colors, a celebratory and gorgeous atmosphere, busy crowds, giant mushroom decorations, and an energetic world where confetti and fabric decorations dance. Make the girl embody both cuteness and agility, with an aura of combined fun and danger. Editing: Use rhythmic high-speed cuts, close-ups, extreme close-ups, low angles, overhead shots, quick pans, and smooth match cuts. Incorporate hand close-ups at the moment of theft, expression close-ups at the start of the run, following shots slipping through crowds, overhead shots jumping between platforms, extreme close-ups of feet upon landing, and dynamic diagonal compositions using rope or cloth for movement. Create an energetic and stylish video, making use of the height differences and congestion unique to a festival city for a thrilling escape. Important: Do not make it a slideshow of still images. Animate running and stealing naturally. Maintain the same festival mushroom city atmosphere and high-quality anime style throughout. Do not include text, subtitles, logos, or watermarks. Perform the suspenseful thrill as a brisk scene. Consistently maintain the protagonist's face, blue hood, outfit, basket, and the shape of the glowing mushroom throughout.
+@Image 1 = Personaje protagonista. @Image 2 = Referencia del guion gráfico (storyboard). Basado en la imagen del guion gráfico adjunto, crea un video de 15 segundos en formato horizontal 16:9 de una emocionante escena de escape estilo anime. Tema: Chica ladrona. Anima la escena con un ritmo rápido y ágil siguiendo el orden de los paneles del guion gráfico. Flujo: Comienza con una vista aérea de una ciudad festiva de champiñones gigantes. Una chica con capucha azul, mezclándose con el calor y las decoraciones de la multitud, roba un raro champiñón brillante del centro del festival. Mezcla primeros planos de las manos y las expresiones durante el robo, y muestra una sonrisa emocionante como si estuviera disfrutando del momento justo después de tener éxito. Después, escapa rápidamente utilizando las plataformas multinivel del recinto del festival, los tejados de los puestos, los pasillos decorados y los espacios llenos de cuerdas y telas. Los perseguidores y la multitud circundante se sorprenden y comienzan a perseguirla; la chica se desliza entre la gente, salta sobre ellos, hace Slides y escapa con agilidad. Termina escapando hacia una plataforma alta o un puente y corriendo a través de las luces festivas. Estilo: Estilo de película anime de alta calidad, iluminación cinematográfica, animación de primer nivel, alta definición, colores vivos, una atmósfera festiva y espléndida, multitudes concurridas, decoraciones de champiñones gigantes y un mundo energético donde el confeti y las decoraciones de tela bailan. Haz que la chica encarne tanto ternura como agilidad, con un aura que combina diversión y peligro. Edición: Utiliza cortes rítmicos de alta velocidad, primeros planos, planos detalle, ángulos bajos, tomas aéreas, paneos rápidos y cortes de montaje fluidos. Incorpora primeros planos de las manos en el momento del robo, primeros planos de la expresión al inicio de la carrera, tomas de seguimiento deslizándose entre la multitud, tomas aéreas saltando entre plataformas, planos detalle de los pies al aterrizar y composiciones diagonales dinámicas utilizando cuerdas o telas para el movimiento. Crea un video energético y elegante, aprovechando las diferencias de altura y la congestión únicas de una ciudad festiva para un escape emocionante. Importante: No lo hagas como una presentación de diapositivas de imágenes estáticas. Anima el correr y el robar de forma natural. Mantén la misma atmósfera de ciudad festiva de champiñones y el estilo anime de alta calidad en todo momento. No incluyas texto, subtítulos, logotipos ni marcas de agua. Ejecuta la emoción del suspenso como una escena ágil. Mantén de forma consistente el rostro de la protagonista, la capucha azul, el atuendo, la cesta y la forma del champiñón brillante durante todo el video.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060315481106714624/img/LM-ANLruIV4cJR-i.jpg" width="600" alt="Festive Mushroom City Anime Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e8f79a5ac1088a28039b28a7f15a1850/thumbnails/thumbnail.jpg" width="600" alt="Persecución anime en la festiva Ciudad Champiñón">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5469)**
 
 **Autor:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **Fuente:** [Link](https://x.com/Ryuki_Yano/status/2060316111569096883) | **Publicado:** May 29, 2026
 
 ---
-### Arctic Titan Awakening Dark Fantasy Prompt
+### Prompt de fantasía oscura: El despertar del Titán Ártico
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A suspenseful dark fantasy sequence featuring a colossal ancient titan trapped beneath an iceberg in a snowstorm.
+> Una secuencia de fantasía oscura llena de suspense que muestra a un colosal titán ancestral atrapado bajo un iceberg en medio de una tormenta de nieve.
 
 #### 📝 Prompt
 
 ```
-15-second cinematic dark fantasy sequence inside a frozen arctic wasteland during a violent snowstorm.
+Secuencia cinematográfica de fantasía oscura de 15 segundos en un páramo ártico congelado durante una violenta tormenta de nieve.
 
-A colossal ancient titan sleeps trapped beneath a massive iceberg larger than mountains, barely visible under layers of translucent ice and deep frozen cracks. Only vague shapes of its gigantic face and body can be seen beneath the frozen surface.
+Un colosal titán ancestral duerme atrapado bajo un iceberg masivo más grande que las montañas, apenas visible bajo capas de hielo translúcido y profundas grietas congeladas. Solo se pueden ver formas vagas de su rostro y cuerpo gigantescos bajo la superficie helada.
 
-The camera slowly glides across the icy landscape with heavy wind, drifting snow particles, frozen fog, and deep blue-white moonlight reflecting through the glacier.
+La cámara se desliza lentamente a través del paisaje helado con viento fuerte, partículas de nieve a la deriva, niebla gélida y la luz de la luna azulada reflejándose a través del glaciar.
 
-As the camera pushes closer, subtle tremors begin beneath the ice. Tiny fractures spread slowly across the frozen surface. Deep muffled resonance echoes from below like an ancient heartbeat awakening after centuries.
+A medida que la cámara se acerca, comienzan sutiles temblores bajo el hielo. Pequeñas fracturas se extienden lentamente por la superficie congelada. Una resonancia profunda y amortiguada resuena desde abajo como el latido de un corazón ancestral despertando después de siglos.
 
-The titan’s enormous eye slowly opens beneath the translucent ice. A massive glowing iris appears under the glacier, illuminating the frozen depths with cold cyan light. Snow and frost slide from the surface as the eye moves for the first time.
+El enorme ojo del titán se abre lentamente bajo el hielo translúcido. Un iris masivo y brillante aparece bajo el glaciar, iluminando las profundidades congeladas con una fría luz cian. La nieve y la escarcha se deslizan de la superficie mientras el ojo se mueve por primera vez.
 
-The surrounding iceberg creaks violently, frozen dust falling into deep cracks. The camera holds on the gigantic eye staring upward from beneath the ice while distant thunder rolls through the blizzard.
+El iceberg circundante cruje violentamente, con polvo congelado cayendo en grietas profundas. La cámara se mantiene enfocada en el ojo gigantesco que mira hacia arriba desde debajo del hielo mientras truenos distantes retumban a través de la ventisca.
 
-Style: ultra cinematic dark fantasy, colossal scale, ancient god atmosphere, frozen textures, realistic snow simulation, volumetric fog, moody blue lighting, atmospheric depth, glacier translucency, slow suspense pacing, photorealistic ice details.
+Estilo: fantasía oscura ultra cinematográfica, escala colosal, atmósfera de dios ancestral, texturas congeladas, simulación de nieve realista, niebla volumétrica, iluminación azul temperamental, profundidad atmosférica, translucidez del glaciar, ritmo de suspense lento, detalles de hielo fotorrealistas.
 
-Audio: ONLY cinematic sound effects, no music. Arctic wind, distant ice cracking, deep subsonic rumbles, frozen debris shifting, muffled titan breathing beneath the glacier, low resonance pulses.
+Audio: SOLO efectos de sonido cinematográficos, sin música. Viento ártico, crujido de hielo distante, retumbos subsónicos profundos, escombros congelados desplazándose, respiración amortiguada del titán bajo el glaciar, pulsos de baja resonancia.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060300157678141442/pu/img/HE3Xi-Gq2bf8JL7s.jpg" width="600" alt="Arctic Titan Awakening Dark Fantasy Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4beaf2ebc029890b4f733e322f5f90aa/thumbnails/thumbnail.jpg" width="600" alt="Prompt de fantasía oscura: El despertar del Titán Ártico">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5449)**
 
 **Autor:** [LudovicCreator](https://x.com/LudovicCreator) | **Fuente:** [Link](https://x.com/LudovicCreator/status/2060300184177856898) | **Publicado:** May 29, 2026
 
 ---
-### Viking Werewolf Frozen Lake Hunt Prompt
+### Prompt de caza de hombre lobo vikingo en lago congelado
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic Viking action sequence involving a survival chase on a frozen lake with realistic ice and snow physics.
+> Una secuencia de acción vikinga épica que involucra una persecución de supervivencia en un lago congelado con física realista de hielo y nieve.
 
 #### 📝 Prompt
 
 ```
-Epic Viking fantasy action set on a vast frozen lake beneath a stormy northern sky. Endless snowfields, distant mountains, harsh winds, blowing snow. High-speed chase with brutal survival energy. Sound: crunching ice, roaring wind, heavy breathing, cracking frozen surfaces, monstrous growls.
+Acción de fantasía vikinga épica ambientada en un vasto lago congelado bajo un tormentoso cielo nórdico. Campos de nieve infinitos, montañas distantes, vientos fuertes, nieve arrastrada por el viento. Persecución a alta velocidad con una energía de supervivencia brutal. Sonido: crujido de hielo, viento rugiente, respiración agitada, superficies congeladas rompiéndose, gruñidos monstruosos.
 
-0–3s — HOOK
+0–3s — GANCHO
 
-A Viking warrior carrying a flaming torch sprints across a frozen lake.
+Un guerrero vikingo que lleva una antorcha encendida corre a través de un lago congelado.
 
-His boots hammer across the ice.
+Sus botas golpean con fuerza el hielo.
 
-Behind him—
+Detrás de él—
 
-A gigantic frost-covered werewolf bursts through drifting snow.
+Un gigantesco hombre lobo cubierto de escarcha irrumpe a través de la nieve a la deriva.
 
-White fur coated in ice crystals.
+Pelaje blanco cubierto de cristales de hielo.
 
-Blue eyes glowing.
+Ojos azules brillantes.
 
-Its massive paws crack the frozen surface beneath every step.
-
-⸻
-
-3–6s — ESCALATION
-
-The warrior pushes harder.
-
-The werewolf rapidly closes distance.
-
-Chunks of ice break apart behind them.
-
-The creature occasionally lunges forward, nearly catching him.
-
-Its claws leave deep fractures spreading across the lake.
+Sus enormes patas agrietan la superficie congelada bajo cada paso.
 
 ⸻
 
-6–9s — BUILD
+3–6s — ESCALADA
 
-Ahead, a huge pressure crack cuts across the lake.
+El guerrero se esfuerza más.
 
-The warrior spots it.
+El hombre lobo acorta la distancia rápidamente.
 
-He lowers his center of gravity and accelerates.
+Trozos de hielo se rompen detrás de ellos.
 
-The werewolf roars and commits fully to the chase.
+La criatura se lanza ocasionalmente hacia adelante, casi atrapándolo.
 
-Snow and ice explode behind it.
-
-⸻
-
-9–12s — THE TRAP
-
-The warrior reaches the pressure crack and dives into a controlled slide.
-
-He skims across the narrow gap and reaches solid ice beyond.
-
-The werewolf charges after him.
-
-Bullet time.
-
-Its front paws hit the weakened section.
-
-Cracks spread outward in every direction.
+Sus garras dejan fracturas profundas que se extienden por todo el lago.
 
 ⸻
 
-12–15s — PAYOFF
+6–9s — TENSIÓN
 
-The entire frozen surface collapses beneath the werewolf.
+Más adelante, una enorme grieta de presión atraviesa el lago.
 
-Massive sheets of ice explode upward.
+El guerrero la divisa.
 
-The beast drops into the freezing black water below.
+Baja su centro de gravedad y acelera.
 
-The warrior rolls onto the snowy shoreline and scrambles to safety.
+El hombre lobo ruge y se compromete totalmente con la persecución.
 
-Behind him, enormous ice slabs crash back into the lake.
+La nieve y el hielo explotan detrás de él.
 
-Silence.
+⸻
 
-The warrior stands, breathing heavily, torch still burning.
+9–12s — LA TRAMPA
+
+El guerrero llega a la grieta de presión y se lanza en un deslizamiento controlado.
+
+Se desliza por la estrecha brecha y alcanza el hielo sólido al otro lado.
+
+El hombre lobo lo persigue.
+
+Cámara lenta.
+
+Sus patas delanteras golpean la sección debilitada.
+
+Las grietas se extienden en todas direcciones.
+
+⸻
+
+12–15s — DESENLACE
+
+Toda la superficie congelada colapsa bajo el hombre lobo.
+
+Enormes placas de hielo explotan hacia arriba.
+
+La bestia cae en el agua negra y helada.
+
+El guerrero rueda hacia la orilla nevada y se apresura a ponerse a salvo.
+
+Detrás de él, enormes losas de hielo chocan contra el lago.
+
+Silencio.
+
+El guerrero se pone de pie, respirando con dificultad, con la antorcha aún encendida.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060280339659161600/img/7kWzOvorj8Y51UZZ.jpg" width="600" alt="Viking Werewolf Frozen Lake Hunt Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/048717df23438477d130039b7a488ed7/thumbnails/thumbnail.jpg" width="600" alt="Prompt de caza de hombre lobo vikingo en lago congelado">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5450)**
 
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2060280405417406523) | **Publicado:** May 29, 2026
 
 ---
-### Medieval Werewolf Rooftop Chase
+### Persecución de hombres lobo medievales en tejados
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intense, multi-stage action prompt for a werewolf pursuit across European stone rooftops featuring speed ramps and bullet time.
+> Un intenso prompt de acción multietapa para una persecución de hombres lobo a través de tejados de piedra europeos, con rampas de velocidad y tiempo bala.
 
 #### 📝 Prompt
 
 ```
-High-action medieval fantasy chase beneath a massive full moon. Ancient European city of stone towers, narrow streets, cathedral spires, smoking chimneys, fluttering banners. Silver moonlight reflects off wet rooftops from recent rain. Fast-paced, chaotic cinematography with aggressive tracking shots, speed ramps, handheld energy, and dramatic moonlit silhouettes. Sound: distant church bells, heavy breathing, tile cracking, werewolf roars, rushing wind.
+Persecución de fantasía medieval de alta intensidad bajo una enorme luna llena. Antigua ciudad europea de torres de piedra, calles estrechas, agujas de catedral, chimeneas humeantes y estandartes ondeantes. La luz de la luna plateada se refleja en los tejados mojados por la lluvia reciente. Cinematografía caótica y vertiginosa con tomas de seguimiento agresivas, rampas de velocidad, energía de cámara en mano y siluetas dramáticas bajo la luz de la luna. Sonido: campanas de iglesia distantes, respiración agitada, tejas rompiéndose, rugidos de hombre lobo, viento huracanado.
 
-0–3s — HOOK
+0–3s — GANCHO
 
-A rogue thief in a dark leather cloak sprints across steep medieval rooftops.
+Un ladrón pícaro con una capa de cuero oscuro corre a través de empinados tejados medievales.
 
-He leaps a gap between buildings.
+Salta un hueco entre edificios.
 
-The instant he lands—
+En el instante en que aterriza—
 
-A gigantic werewolf crashes onto the roof behind him.
+Un hombre lobo gigantesco se estrella contra el tejado detrás de él.
 
-Eight feet tall.
+Dos metros y medio de altura.
 
-Jet-black fur.
+Pelaje negro azabache.
 
-Yellow eyes glowing in the moonlight.
+Ojos amarillos brillando bajo la luz de la luna.
 
-The roof caves beneath its weight.
+El tejado se hunde bajo su peso.
 
-Tiles explode everywhere.
-
-⸻
-
-3–6s — ESCALATION
-
-The thief races along the rooftops, vaulting chimneys and sliding over wet tiles.
-
-Behind him, the werewolf ignores every obstacle.
-
-It smashes through chimneys instead of avoiding them.
-
-Bricks and debris rain into the streets below.
-
-The creature gains ground rapidly.
+Las tejas explotan por todas partes.
 
 ⸻
 
-6–9s — BUILD
+3–6s — ESCALADA
 
-Ahead, the thief reaches a steep roof overlooking a massive cathedral square.
+El ladrón corre por los tejados, saltando chimeneas y deslizándose sobre tejas mojadas.
 
-He slides uncontrollably down slick tiles.
+Detrás de él, el hombre lobo ignora todos los obstáculos.
 
-The werewolf launches after him.
+Atraviesa las chimeneas en lugar de evitarlas.
 
-The gap between them shrinks to almost nothing.
+Ladrillos y escombros caen hacia las calles de abajo.
 
-The beast’s claws scrape sparks from the stone.
-
-⸻
-
-9–12s — THE ESCAPE
-
-At the edge of the roof hangs a giant ceremonial banner suspended above the square.
-
-The thief leaps and grabs it.
-
-The banner tears loose from its mountings.
-
-He swings across the moonlit square.
-
-The werewolf follows without hesitation.
-
-Bullet time.
-
-Both suspended over open air.
+La criatura gana terreno rápidamente.
 
 ⸻
 
-12–15s — PAYOFF
+6–9s — TENSIÓN
 
-The thief draws a knife and slices the banner rope.
+Más adelante, el ladrón llega a un tejado empinado que da a una enorme plaza de catedral.
 
-He swings clear.
+Se desliza sin control por las tejas resbaladizas.
 
-The werewolf loses its trajectory.
+El hombre lobo se lanza tras él.
 
-It crashes directly through the cathedral’s enormous stained-glass rose window.
+La distancia entre ellos se reduce a casi nada.
 
-Colored glass explodes outward.
+Las garras de la bestia sacan chispas de la piedra.
 
-The beast disappears into darkness inside the cathedral.
+⸻
 
-The thief lands on the opposite rooftop and turns back.
+9–12s — LA HUIDA
 
-A massive crash echoes from within the cathedral.
+En el borde del tejado cuelga un estandarte ceremonial gigante suspendido sobre la plaza.
+
+El ladrón salta y lo agarra.
+
+El estandarte se suelta de sus soportes.
+
+Se balancea a través de la plaza iluminada por la luna.
+
+El hombre lobo lo sigue sin dudar.
+
+Tiempo bala.
+
+Ambos suspendidos en el aire.
+
+⸻
+
+12–15s — CLÍMAX
+
+El ladrón saca un cuchillo y corta la cuerda del estandarte.
+
+Se balancea y se libera.
+
+El hombre lobo pierde su trayectoria.
+
+Se estrella directamente contra el enorme rosetón de vidrieras de la catedral.
+
+El vidrio de colores explota hacia afuera.
+
+La bestia desaparece en la oscuridad dentro de la catedral.
+
+El ladrón aterriza en el tejado opuesto y mira hacia atrás.
+
+Un estruendo masivo resuena desde el interior de la catedral.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a564ede36c43d87a9745d971abf4772/thumbnails/thumbnail.jpg" width="600" alt="Medieval Werewolf Rooftop Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a564ede36c43d87a9745d971abf4772/thumbnails/thumbnail.jpg" width="600" alt="Persecución de hombres lobo medievales en tejados">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5433)**
 
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2060280102924300676) | **Publicado:** May 29, 2026
 
 ---
-### Moonlit Werewolf Forest Chase Prompt
+### Prompt de persecución de hombre lobo en bosque iluminado por la luna
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fast-paced dark fantasy action sequence featuring a warrior being chased by a colossal werewolf through a dense forest.
+> Una secuencia de acción de fantasía oscura de ritmo rápido que presenta a un guerrero siendo perseguido por un hombre lobo colosal a través de un bosque denso.
 
 #### 📝 Prompt
 
 ```
-Dark fantasy action sequence. Dense moonlit forest at night. Thick fog. Silver moonlight cutting through trees. Fast handheld tracking shots. Chaotic action. Sound: heavy breathing, snapping branches, pounding hooves, werewolf growls.
+Secuencia de acción de fantasía oscura. Bosque denso iluminado por la luna durante la noche. Niebla espesa. La luz de luna plateada atraviesa los árboles. Tomas de seguimiento rápidas en mano. Acción caótica. Sonido: respiración agitada, ramas rompiéndose, cascos golpeando, gruñidos de hombre lobo.
 
-0–3s — HOOK
+0–3s — GANCHO
 
-A young warrior sprints through dense forest carrying a spear.
+Un joven guerrero corre a través de un bosque denso portando una lanza.
 
-Branches whip past his face.
+Las ramas azotan su rostro.
 
-Behind him—
+Detrás de él—
 
-A colossal werewolf crashes through trees.
+Un hombre lobo colosal atraviesa los árboles.
 
-Massive shoulders.
+Hombros masivos.
 
-Silver-gray fur.
+Pelaje gris plateado.
 
-Glowing amber eyes.
+Ojos color ámbar brillante.
 
-Every step sends dirt flying.
+Cada paso hace que la tierra salga volando.
 
-The creature is gaining fast.
+La criatura se acerca rápidamente.
 
-3–6s — ESCALATION
+3–6s — ESCALADA
 
-The warrior vaults fallen logs and dodges tree trunks.
+El guerrero salta troncos caídos y esquiva los troncos de los árboles.
 
-The werewolf tears straight through obstacles instead of avoiding them.
+El hombre lobo atraviesa los obstáculos directamente en lugar de evitarlos.
 
-Entire trees snap and fall.
+Árboles enteros se rompen y caen.
 
-The forest explodes around them.
+El bosque explota a su alrededor.
 
-The warrior glances back.
+El guerrero mira hacia atrás.
 
-The werewolf is only meters away.
+El hombre lobo está a solo unos metros.
 
-6–9s — BUILD
+6–9s — TENSIÓN
 
-The warrior bursts into a giant moonlit clearing.
+El guerrero irrumpe en un claro gigante iluminado por la luna.
 
-Ahead—
+Adelante—
 
-A herd of enormous elk-like creatures stampedes across the field.
+Una manada de enormes criaturas parecidas a alces corre a través del campo.
 
-Towering antlers.
+Astas imponentes.
 
-Dozens of them.
+Docenas de ellos.
 
-The ground shakes beneath their charge.
+El suelo tiembla bajo su carga.
 
-9–12s — CHAOS
+9–12s — CAOS
 
-The warrior dives into the middle of the stampede.
+El guerrero se lanza al medio de la estampida.
 
-Bodies thunder past on both sides.
+Cuerpos pasan atronadores a ambos lados.
 
-The werewolf charges directly after him.
+El hombre lobo carga directamente tras él.
 
-Antlers slam into the beast.
+Las astas golpean a la bestia.
 
-Hooves strike.
+Los cascos impactan.
 
-Dirt and debris fill the air.
+Tierra y escombros llenan el aire.
 
-The clearing becomes complete chaos.
+El claro se convierte en un caos total.
 
-12–15s — PAYOFF
+12–15s — CLÍMAX
 
-The warrior reaches a cliff edge hidden beyond the clearing.
+El guerrero llega al borde de un acantilado oculto más allá del claro.
 
-He leaps.
+Él salta.
 
-The werewolf bursts through the stampede behind him and jumps too.
+El hombre lobo atraviesa la estampida detrás de él y salta también.
 
-The warrior catches a tree growing from the cliff face.
+El guerrero se sujeta de un árbol que crece en la cara del acantilado.
 
-The werewolf misses.
+El hombre lobo falla.
 
-It sails past him and disappears into the darkness below.
+Pasa de largo y desaparece en la oscuridad de abajo.
 
-The warrior hangs from the tree, breathing hard.
+El guerrero cuelga del árbol, respirando con dificultad.
 
-Cut.
+Corte.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060270217025191936/img/qJfzwxhrvV5A6LZO.jpg" width="600" alt="Moonlit Werewolf Forest Chase Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f871d0e35fd6fdc828133e5a26e1bcb7/thumbnails/thumbnail.jpg" width="600" alt="Prompt de persecución de hombre lobo en bosque iluminado por la luna">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5446)**
 
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2060270283794374923) | **Publicado:** May 29, 2026
 
 ---
-### Purikura Booth Comedy Scene
+### Escena de comedia en cabina de Purikura
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A high-tempo animated comedy scene inside a photo booth where three characters fight to be at the center of the frame for each shutter flash, featuring vibrant lighting and expressive reactions.
+> Una escena de comedia animada de ritmo rápido dentro de una cabina de fotos donde tres personajes luchan por estar en el centro del encuadre en cada disparo del obturador, con iluminación vibrante y reacciones expresivas.
 
 #### 📝 Prompt
 
 ```
-Image 1 = Reference for 3 characters. Maintain face, hairstyle, clothing, and atmosphere consistently throughout. Image 2 = Reference for storyboard. Follow panel order, tempo, facial expression changes, competition for positions, and comedy direction. Based on attached Image 1 and Image 2, create a 15-second horizontal 16:9 purikura booth comedy scene video. Theme: A high-tempo, cute, and noisy comedy scene inside a purikura booth where three people fight for the center spot every time the shutter clicks.
+Imagen 1 = Referencia para los 3 personajes. Mantén la consistencia del rostro, peinado, vestimenta y atmósfera en todo momento. Imagen 2 = Referencia para el guion gráfico (storyboard). Sigue el orden de los paneles, el tempo, los cambios en las expresiones faciales, la competencia por las posiciones y la dirección cómica. Basado en las imágenes 1 y 2 adjuntas, crea un video de escena de comedia en una cabina de Purikura de 15 segundos en formato horizontal 16:9. Tema: Una escena de comedia rítmica, linda y ruidosa dentro de una cabina de Purikura donde tres personas luchan por el lugar central cada vez que suena el obturador.
 
-Scene Setting: Inside the purikura machine. The camera is a fixed lens view from the purikura machine; do not show shots from outside or include the camera body itself. The screen always shows the three people as seen on the purikura machine's capture display. The three characters should be exactly as in Image 1, maintaining the appeal of the relationship, looks, and expressions of the black-haired male on the left, the girl in the center, and the blonde male on the right. Basic concept: The three compete for the 'best position = center of the screen.' Just before the shutter clicks, someone suddenly moves forward, interrupts from the side, pushes others away, or sticks their face in to steal the center. Include comical and exaggerated reactions, cute poses, anxiety on the verge of making funny faces, jealousy, surprise, playing coy, and forceful interruptions, depicting it as a battle of the desire to 'look good' in a purikura way. Finally, all three should fit in the frame and end with a cute, friendly pose.
+Configuración de la escena: Dentro de la máquina de Purikura. La cámara es una vista de lente fija desde la propia máquina; no muestres tomas desde el exterior ni incluyas el cuerpo de la cámara. La pantalla siempre muestra a las tres personas tal como se ven en la pantalla de captura de la máquina. Los tres personajes deben ser exactamente como en la Imagen 1, manteniendo el atractivo de la relación, la apariencia y las expresiones del chico de cabello negro a la izquierda, la chica en el centro y el chico rubio a la derecha. Concepto básico: Los tres compiten por la 'mejor posición = el centro de la pantalla'. Justo antes de que el obturador haga clic, alguien se mueve repentinamente hacia adelante, interrumpe desde un lado, empuja a los demás o mete la cara para robar el centro. Incluye reacciones cómicas y exageradas, poses lindas, ansiedad al borde de hacer muecas graciosas, celos, sorpresa, coqueteo e interrupciones forzadas, representándolo como una batalla por el deseo de 'verse bien' al estilo Purikura. Finalmente, los tres deben encajar en el encuadre y terminar con una pose linda y amistosa.
 
-Flow (15-second composition): 0.0s-2.0s: The three enter their first pose. The center girl poses cutely, while the two on the sides lean in saying they want to be in it too. It's peaceful but the center battle is already brewing. Expressions: the black-haired male looks like he's coolly aiming for it, the blonde male is exaggerated and high-tension, and the girl is a bit puzzled but posing cutely. 2.0s-4.0s: Just before the first shutter, the blonde male on the right vigorously sticks his face into the center. His face comes close to the front, almost pushing the others out. The girl is surprised, and the black-haired male glares at him unhappily. Emphasize the humor of someone suddenly coming forward. 4.0s-6.0s: Before the next shutter, the black-haired male on the left quickly moves forward and steals the center with a cool pose. The blonde male gives an overreaction ('What?!'), and the girl looks troubled between them. Create laughs through facial close-ups, clashing gazes, and subtle pushing. 6.0s-8.0s: The girl pushes the two back as if to say 'Wait a minute!' and reclaims the center for herself. She performs typical purikura poses like a cute wink or cupping her cheeks. The two on the sides are pushed to the background or edges and look frustrated. 8.0s-10.0s: Matching the shutter sound timing, all three scramble for the center at once. Faces get too close, shoulders bump, one pushes their face in, another enters from the side, making it a chaotic and dense comedy. This is the fastest tempo. Expressions are a mix of panic, stubbornness, surprise, laughter, and desperation. 10.0s-12.5s: They momentarily lose balance but adjust to try and fit within the frame. The pushing changes to an atmosphere of coming together on 'ready, set, go.' The girl moves to the center, the black-haired male to the left, and the blonde male to the right, converging into positions where all three faces are clearly visible. 12.5s-15.0s: The last shutter. All three strike their best poses simultaneously. The girl is cute, the black-haired male smiles coolly, and the blonde male smiles energetically and brightly. End with a final cut of a great purikura photo showing their friendship. Ensure the atmosphere changes from cute chaos to a friendly ending toward the finish.
+Flujo (composición de 15 segundos): 0.0s-2.0s: Los tres adoptan su primera pose. La chica del centro posa de forma linda, mientras los dos de los lados se inclinan diciendo que también quieren salir. Es pacífico, pero la batalla por el centro ya se está gestando. Expresiones: el chico de cabello negro parece estar apuntando a ello con frialdad, el chico rubio es exagerado y de alta tensión, y la chica está un poco desconcertada pero posando de forma linda. 2.0s-4.0s: Justo antes del primer obturador, el chico rubio de la derecha mete su cara vigorosamente en el centro. Su rostro se acerca al frente, casi empujando a los demás hacia afuera. La chica se sorprende y el chico de cabello negro lo mira con descontento. Enfatiza el humor de alguien que de repente se adelanta. 4.0s-6.0s: Antes del siguiente obturador, el chico de cabello negro de la izquierda se mueve rápidamente hacia adelante y roba el centro con una pose genial. El chico rubio tiene una reacción exagerada ('¡¿Qué?!') y la chica se ve en problemas entre ellos. Crea risas a través de primeros planos faciales, miradas que chocan y empujones sutiles. 6.0s-8.0s: La chica empuja a los dos hacia atrás como diciendo '¡Esperen un momento!' y reclama el centro para ella. Realiza poses típicas de Purikura como un guiño lindo o sosteniendo sus mejillas. Los dos de los lados son empujados al fondo o a los bordes y se ven frustrados. 8.0s-10.0s: Coincidiendo con el sonido del obturador, los tres luchan por el centro a la vez. Las caras se acercan demasiado, los hombros chocan, uno empuja su cara, otro entra desde el lado, convirtiéndolo en una comedia caótica y densa. Este es el tempo más rápido. Las expresiones son una mezcla de pánico, terquedad, sorpresa, risa y desesperación. 10.0s-12.5s: Momentáneamente pierden el equilibrio pero se ajustan para intentar encajar en el encuadre. El empuje cambia a una atmósfera de unión al ritmo de 'preparados, listos, ya'. La chica se mueve al centro, el chico de cabello negro a la izquierda y el chico rubio a la derecha, convergiendo en posiciones donde las tres caras son claramente visibles. 12.5s-15.0s: El último obturador. Los tres hacen sus mejores poses simultáneamente. La chica es linda, el chico de cabello negro sonríe con frialdad y el chico rubio sonríe con energía y brillo. Termina con un corte final de una gran foto de Purikura que muestra su amistad. Asegúrate de que la atmósfera cambie de un caos lindo a un final amistoso.
 
-Style: Ultra-high quality, ultra-high definition, photorealistic live-action style video. However, the atmosphere should be the pop and cute world of purikura. Overall, use bright and soft high-key lighting, smooth skin texture, slightly pink, lavender, and light blue cute tones, sparkling effects, and a pop, lovely vibe with a youthful energy. A high-tempo visual that feels like the cute purikura culture from the Heisei to Reiwa eras. Direction: The camera is primarily a fixed lens view from the purikura machine. However, to make the final video look pleasing, slight digital punch-ins, subtle shakes, forward/backward movement for momentum, and facial zooming are allowed. Wide shots from the outside are prohibited. Compositions showing the camera body are prohibited. The humor should be created through the subjects' movements, faces entering/exiting, pushing, interruptions, and facial acting. Clearly show the flow of 'almost striking a pose' then collapsing because someone interrupts at each shutter timing. Editing: Emphasize rhythmic high-speed development, close-up cuts, extreme close-ups, momentum-filled forward/backward motion, and facial expression switching. Even if the actual camera position is fixed, create significant changes in the video by having subjects approach/distance themselves from the lens or interrupt from the sides. Be mindful of well-timed shutters, cute pauses, comical crowding, and a perfectly landing finale. Do not make it a slideshow of still images. Move the three naturally and richly as animation while maintaining their faces, hair, clothes, accessories, age, and atmosphere. Emotional Tone: Cute, comedy, chaotic, slightly romantic air, light jealousy, everyone desperate to look their best/coolest, and finally friendly. Important: Do not show the camera body in the frame. Unify shots from the lens perspective of the purikura machine. Maintain consistency in the faces, hairstyles, clothing, and character traits of the three from Image 1 throughout. Follow the tempo, competition for positions, and comedic nature of the storyboard in Image 2. No slideshows. No text, subtitles, logos, or watermarks. Act out the suspenseful excitement as a quick-moving scene. Ensure the three look good and come together cutely at the end.
+Estilo: Video de estilo live-action fotorrealista de ultra alta calidad y ultra alta definición. Sin embargo, la atmósfera debe ser el mundo pop y lindo de Purikura. En general, utiliza iluminación brillante y suave de clave alta, textura de piel suave, tonos lindos ligeramente rosados, lavanda y azul claro, efectos brillantes y un ambiente pop y encantador con energía juvenil. Un visual de ritmo rápido que se siente como la linda cultura Purikura de las eras Heisei a Reiwa. Dirección: La cámara es principalmente una vista de lente fija desde la máquina de Purikura. Sin embargo, para que el video final se vea agradable, se permiten ligeros zoom digitales, sacudidas sutiles, movimiento hacia adelante/atrás para dar impulso y acercamientos faciales. Se prohíben las tomas amplias desde el exterior. Se prohíben las composiciones que muestren el cuerpo de la cámara. El humor debe crearse a través de los movimientos de los sujetos, las caras que entran/salen, los empujones, las interrupciones y la actuación facial. Muestra claramente el flujo de 'casi posar' y luego colapsar porque alguien interrumpe en cada tiempo del obturador. Edición: Enfatiza el desarrollo rítmico de alta velocidad, cortes de primer plano, primeros planos extremos, movimiento hacia adelante/atrás lleno de impulso y cambio de expresión facial. Incluso si la posición real de la cámara es fija, crea cambios significativos en el video haciendo que los sujetos se acerquen/alejen de la lente o interrumpan desde los lados. Ten en cuenta los obturadores bien sincronizados, las pausas lindas, el hacinamiento cómico y un final perfectamente logrado. No lo conviertas en una presentación de diapositivas de imágenes fijas. Mueve a los tres de forma natural y rica como animación mientras mantienes sus rostros, cabello, ropa, accesorios, edad y atmósfera. Tono emocional: Lindo, comedia, caótico, aire ligeramente romántico, celos leves, todos desesperados por verse lo mejor posible/más geniales, y finalmente amistosos. Importante: No muestres el cuerpo de la cámara en el encuadre. Unifica las tomas desde la perspectiva de la lente de la máquina de Purikura. Mantén la consistencia en los rostros, peinados, vestimenta y rasgos de carácter de los tres de la Imagen 1 en todo momento. Sigue el tempo, la competencia por las posiciones y la naturaleza cómica del guion gráfico en la Imagen 2. Sin presentaciones de diapositivas. Sin texto, subtítulos, logotipos ni marcas de agua. Actúa la emoción de suspenso como una escena de movimiento rápido. Asegúrate de que los tres se vean bien y se unan de forma linda al final.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060263346813927424/img/WZnHa8kzSRrLn5qD.jpg" width="600" alt="Purikura Booth Comedy Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f16d9e78c19bad24f0489de9d3d1116d/thumbnails/thumbnail.jpg" width="600" alt="Escena de comedia en cabina de Purikura">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5465)**
 
 **Autor:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **Fuente:** [Link](https://x.com/Ryuki_Yano/status/2060263464069947742) | **Publicado:** May 29, 2026
 
 ---
-### Fantasy Dragon Bridge Escape Sequence
+### Secuencia de escape en el puente del dragón de fantasía
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic fantasy action scene featuring a huntress fleeing an armored werewolf across a collapsing bridge, ending with a dramatic leap onto a dragon's back.
+> Una épica escena de acción de fantasía que muestra a una cazadora huyendo de un hombre lobo acorazado a través de un puente que se derrumba, terminando con un salto dramático sobre el lomo de un dragón.
 
 #### 📝 Prompt
 
 ```
-High fantasy action sequence. Massive stone bridge spanning a bottomless canyon under stormy skies. Wind howling. Lightning in the distance. Medieval fantasy world. Fast-paced, chaotic cinematography with aggressive camera movement and speed ramps. Sound: crashing stone, werewolf growls, chain rattles, dragon roars.
+Secuencia de acción de alta fantasía. Un enorme puente de piedra que cruza un cañón sin fondo bajo cielos tormentosos. El viento aúlla. Relámpagos en la distancia. Mundo de fantasía medieval. Cinematografía caótica y de ritmo rápido con movimientos de cámara agresivos y aceleraciones. Sonido: piedras chocando, gruñidos de hombre lobo, cadenas traqueteando, rugidos de dragón.
 
-0–3s — HOOK
+0–3s — GANCHO
 
-A female huntress with braided hair, leather armor, and a bow sprints across an ancient stone bridge.
+Una cazadora con cabello trenzado, armadura de cuero y un arco corre a través de un antiguo puente de piedra.
 
-Behind her—
+Detrás de ella—
 
-A gigantic armored werewolf bursts through the bridge entrance.
+Un gigantesco hombre lobo acorazado irrumpe en la entrada del puente.
 
-Seven feet tall.
+Dos metros de altura.
 
-Black fur.
+Pelaje negro.
 
-Steel armor plates fused into its shoulders and forearms.
+Placas de armadura de acero fusionadas en sus hombros y antebrazos.
 
-It charges at terrifying speed.
+Carga a una velocidad aterradora.
 
-Stone cracks beneath every step.
+La piedra se agrieta bajo cada paso.
 
-3–6s — ESCALATION
+3–6s — ESCALADA
 
-The huntress races forward.
+La cazadora corre hacia adelante.
 
-The werewolf smashes through support pillars while gaining ground.
+El hombre lobo destroza los pilares de soporte mientras gana terreno.
 
-Chunks of stone fall into the canyon.
+Trozos de piedra caen al cañón.
 
-The bridge begins collapsing section by section behind them.
+El puente comienza a colapsar sección por sección detrás de ellos.
 
-The gap between them shrinks rapidly.
+La distancia entre ambos se reduce rápidamente.
 
-6–9s — BUILD
+6–9s — TENSIÓN
 
-Ahead, the huntress spots a massive hanging chain descending into the canyon.
+Más adelante, la cazadora divisa una enorme cadena colgante que desciende hacia el cañón.
 
-The bridge is breaking apart.
+El puente se está desmoronando.
 
-She sprints harder.
+Ella corre con más fuerza.
 
-The werewolf lunges and nearly grabs her cloak.
+El hombre lobo se lanza y casi atrapa su capa.
 
-A support tower collapses.
+Una torre de soporte colapsa.
 
-The entire bridge starts giving way.
+Todo el puente comienza a ceder.
 
-9–12s — THE JUMP
+9–12s — EL SALTO
 
-The huntress leaps.
+La cazadora salta.
 
-She catches the hanging chain and swings out over the canyon.
+Atrapa la cadena colgante y se balancea sobre el cañón.
 
-The werewolf launches after her.
+El hombre lobo se lanza tras ella.
 
-Bullet time.
+Tiempo bala.
 
-Chain swinging.
+La cadena se balancea.
 
-Stone exploding.
+La piedra explota.
 
-The werewolf suspended mid-air.
+El hombre lobo suspendido en el aire.
 
-Its claws miss by inches.
+Sus garras fallan por centímetros.
 
-12–15s — PAYOFF
+12–15s — DESENLACE
 
-A giant dragon erupts upward from beneath the canyon.
+Un dragón gigante emerge desde el fondo del cañón.
 
-The huntress releases the chain and lands on the dragon’s back.
+La cazadora suelta la cadena y aterriza sobre el lomo del dragón.
 
-The dragon banks hard.
+El dragón gira bruscamente.
 
-The werewolf falls past them roaring.
+El hombre lobo cae junto a ellos rugiendo.
 
-Disappearing into the fog below.
+Desapareciendo en la niebla de abajo.
 
-The huntress raises her fist.
+La cazadora levanta el puño.
 
-Dragon roars.
+El dragón ruge.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060262038669238272/img/6El5e4cibXSL-e6T.jpg" width="600" alt="Fantasy Dragon Bridge Escape Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/76759544d117aeb737d1fbcb24eae490/thumbnails/thumbnail.jpg" width="600" alt="Secuencia de escape en el puente del dragón de fantasía">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5453)**
 
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2060262106839363697) | **Publicado:** May 29, 2026
 
 ---
-### Blue Sports Shoe Product Commercial Shots
+### Tomas comerciales de producto para zapatillas deportivas azules
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A series of cinematic product shots for a sports shoe, including extreme slow-motion water splashes and dynamic movement.
+> Una serie de tomas cinematográficas de producto para una zapatilla deportiva, que incluyen salpicaduras de agua en cámara lenta extrema y movimiento dinámico.
 
 #### 📝 Prompt
 
 ```
-Frame 1:
-Slow dramatic zoom into white blue sports shoe laces, single light ray moving subtly, dust particles floating, cinematic 4K, no people
-Frame 2:
-White blue sports shoe hitting wet ground, water droplets exploding outward in extreme slow motion, blue neon light rippling, cinematic, no people
-Frame 3:
-White blue sports shoes moving forward in slow motion on dark road, motion blur, fog drifting slowly, cinematic 4K, no people
-Frame 4:
-White blue sports shoes running left to right, rain falling slowly, wet road reflection shimmering, cinematic, no people
-Frame 5:
-White blue shoe rotating slowly mid-air, smoke wisps drifting upward, black background, cinematic product shot, no people
-Frame 6:
-White blue sports shoe rising upward slowly, clouds moving, golden light expanding, cinematic, no people
-Frame 7:
-Slow cinematic push forward toward white blue shoe, city lights twinkling in background, sun rays expanding, no people
+Cuadro 1:
+Zoom lento y dramático hacia los cordones de la zapatilla deportiva azul y blanca, un solo rayo de luz moviéndose sutilmente, partículas de polvo flotando, 4K cinematográfico, sin personas
+Cuadro 2:
+Zapatilla deportiva azul y blanca golpeando el suelo mojado, gotas de agua explotando hacia afuera en cámara lenta extrema, luz de neón azul ondulante, cinematográfico, sin personas
+Cuadro 3:
+Zapatillas deportivas azules y blancas moviéndose hacia adelante en cámara lenta sobre un camino oscuro, desenfoque de movimiento, niebla desplazándose lentamente, 4K cinematográfico, sin personas
+Cuadro 4:
+Zapatillas deportivas azules y blancas corriendo de izquierda a derecha, lluvia cayendo lentamente, reflejo en el camino mojado brillando, cinematográfico, sin personas
+Cuadro 5:
+Zapatilla azul y blanca girando lentamente en el aire, volutas de humo desplazándose hacia arriba, fondo negro, toma de producto cinematográfica, sin personas
+Cuadro 6:
+Zapatilla deportiva azul y blanca elevándose lentamente, nubes moviéndose, luz dorada expandiéndose, cinematográfico, sin personas
+Cuadro 7:
+Lento acercamiento cinematográfico hacia la zapatilla azul y blanca, luces de la ciudad parpadeando al fondo, rayos de sol expandiéndose, sin personas
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060259713737220096/img/TZ2Nu2-dRXMsED6_.jpg" width="600" alt="Blue Sports Shoe Product Commercial Shots">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bdcd2545bc1511a5467dc3d139a5575a/thumbnails/thumbnail.jpg" width="600" alt="Tomas comerciales de producto para zapatillas deportivas azules">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5447)**
 
 **Autor:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **Fuente:** [Link](https://x.com/itsshara_ai/status/2060260037617152132) | **Publicado:** May 29, 2026
 
 ---
-### Midnight Arrival Luxury Hotel Prompt
+### Prompt para hotel de lujo con llegada a medianoche
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic dark crime drama prompt featuring a luxury hotel arrival on a rainy night, with specific camera moves and atmospheric lighting.
+> Un prompt de drama criminal oscuro y cinematográfico que presenta la llegada a un hotel de lujo en una noche lluviosa, con movimientos de cámara específicos e iluminación atmosférica.
 
 #### 📝 Prompt
 
 ```
-Grand luxury hotel entrance at night, wet cobblestone street, light rain, glowing city reflections in puddles.
-Style: Dark crime drama film tone, deep shadows, warm amber hotel facade lights against cold blue rain, film grain texture, slow controlled pacing.
-Lighting: Amber hotel awning light, cold blue rain scatter, wet reflective ground surface.
-Audio: Soft rain, distant city hum, low orchestral string swell, sharp footsteps on wet stone.
+Gran entrada de hotel de lujo por la noche, calle de adoquines mojados, lluvia ligera, reflejos de la ciudad brillando en los charcos.
+Estilo: Tono de película de drama criminal oscuro, sombras profundas, luces cálidas de color ámbar en la fachada del hotel contra la lluvia azul fría, textura de grano de película, ritmo lento y controlado.
+Iluminación: Luz ámbar del toldo del hotel, dispersión de lluvia azul fría, superficie del suelo húmeda y reflectante.
+Audio: Lluvia suave, zumbido lejano de la ciudad, suave crescendo de cuerdas orquestales, pasos marcados sobre piedra mojada.
 
 [0–4s]
-Camera: Slow aerial pull-down, wide establishing shot.
-Action: A black luxury sedan glides to a stop in front of the hotel entrance. Rain falls steadily. Steam rises from the wet street.
-Lighting: Cool blue rain light, warm amber spill from hotel facade.
+Cámara: Descenso aéreo lento, plano general de establecimiento.
+Acción: Un sedán de lujo negro se desliza hasta detenerse frente a la entrada del hotel. La lluvia cae de forma constante. El vapor se eleva desde la calle mojada.
+Iluminación: Luz azul fría de lluvia, cálido resplandor ámbar de la fachada del hotel.
 
 [4–8s]
-Camera: Low-angle static shot, then slow push-in.
-Action: The rear car door swings open. A man in an elegant black suit, sunglasses and leather gloves steps out. Two bodyguards appear behind him holding umbrellas.
-Lighting: Harsh amber key light from the hotel, deep shadows framing the figure.
+Cámara: Plano estático en ángulo bajo, seguido de un acercamiento lento (push-in).
+Acción: La puerta trasera del coche se abre. Un hombre con un elegante traje negro, gafas de sol y guantes de cuero desciende. Dos guardaespaldas aparecen detrás de él sosteniendo paraguas.
+Iluminación: Luz principal ámbar intensa desde el hotel, sombras profundas que enmarcan la figura.
 
 [8–12s]
-Camera: Smooth lateral tracking shot following his stride.
-Action: The suited man walks steadily toward the hotel entrance. Bystanders and hotel staff step aside. Cigarette smoke drifts from his hand.
-Lighting: Rim light from hotel windows, soft fill from overhead awning lamps.
+Cámara: Travelling lateral suave siguiendo su paso.
+Acción: El hombre trajeado camina con paso firme hacia la entrada del hotel. Los transeúntes y el personal del hotel se apartan. El humo de un cigarrillo se desprende de su mano.
+Iluminación: Luz de contorno desde las ventanas del hotel, relleno suave de las lámparas del toldo superior.
 
 [12–15s]
-Camera: Slow orbit around him, low angle rising.
-Action: He pauses at the entrance, adjusts his lapel, and glances back over his shoulder with a faint smirk. Text fades in: "Power doesn't ask for attention."
-Lighting: Warm single-source hotel lobby glow, city lights blurred behind him.
+Cámara: Órbita lenta alrededor de él, ángulo bajo ascendente.
+Acción: Se detiene en la entrada, se ajusta la solapa y mira por encima del hombro con una leve sonrisa. El texto aparece gradualmente: "El poder no pide atención".
+Iluminación: Resplandor cálido de fuente única desde el vestíbulo del hotel, luces de la ciudad desenfocadas detrás de él.
 
-Avoid: Identity drift, jitter, chaotic composition, temporal flicker, inconsistent features between shots.
+Evitar: Desviación de identidad, inestabilidad (jitter), composición caótica, parpadeo temporal, rasgos inconsistentes entre tomas.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060243098043621381/pu/img/YpKNddu6vxhObMsp.jpg" width="600" alt="Midnight Arrival Luxury Hotel Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06b9ec4ba4f89c8b8742cc0a1b539377/thumbnails/thumbnail.jpg" width="600" alt="Prompt para hotel de lujo con llegada a medianoche">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5445)**
 
 **Autor:** [Zeeshi](https://x.com/AIwithZeeshi) | **Fuente:** [Link](https://x.com/AIwithZeeshi/status/2060243222199173467) | **Publicado:** May 29, 2026
 
 ---
-### Rocket Launch Explosion Video Prompt
+### Prompt de video: Explosión de lanzamiento de cohete
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A photorealistic video prompt for Seedance 2.0 simulating a catastrophic rocket explosion during a night static fire test.
+> Un prompt de video fotorrealista para Seedance 2.0 que simula la explosión catastrófica de un cohete durante una prueba de encendido estático nocturna.
 
 #### 📝 Prompt
 
 ```
-Live telecast of a rocket launch with no commentary. Photorealistic recreation of a space rocket catastrophic explosion during a static fire test on the launch pad at nighttime.
-The massive orbital rocket stands vertically on the launch pad under dark night skies. Suddenly, a violent failure triggers an enormous explosion. A gigantic orange-red fireball erupts instantly from the base, rapidly expanding into a towering mushroom cloud of fire, thick black smoke, and flying debris. A powerful shockwave blasts outward, shaking the entire scene. The rocket structure violently disintegrates as intense flames completely consume it.
-Dynamic camera work captures the raw power with realistic fire physics, glowing embers, billowing smoke, and dramatic nighttime lighting. Epic scale, terrifying yet beautiful destruction, high-detail particles, 4K quality. 24-second intense explosion sequence.
+Transmisión en vivo de un lanzamiento de cohete sin comentarios. Recreación fotorrealista de la explosión catastrófica de un cohete espacial durante una prueba de encendido estático en la plataforma de lanzamiento durante la noche.
+El enorme cohete orbital se mantiene verticalmente en la plataforma de lanzamiento bajo un cielo nocturno oscuro. De repente, un fallo violento desencadena una explosión enorme. Una gigantesca bola de fuego de color rojo anaranjado surge instantáneamente desde la base, expandiéndose rápidamente hasta convertirse en una imponente nube en forma de hongo compuesta de fuego, espeso humo negro y escombros voladores. Una poderosa onda expansiva sale disparada hacia afuera, sacudiendo toda la escena. La estructura del cohete se desintegra violentamente mientras las intensas llamas lo consumen por completo.
+El trabajo de cámara dinámico captura la fuerza bruta con una física de fuego realista, brasas brillantes, humo denso y una iluminación nocturna dramática. Escala épica, destrucción aterradora pero hermosa, partículas de alto detalle, calidad 4K. Secuencia de explosión intensa de 24 segundos.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/825d0ab09633b4d2f0851b771e099115/thumbnails/thumbnail.jpg" width="600" alt="Rocket Launch Explosion Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/825d0ab09633b4d2f0851b771e099115/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video: Explosión de lanzamiento de cohete">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5428)**
 
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2060240094238593035) | **Publicado:** May 29, 2026
 
 ---
-### Cinematic Viral Waterslide Dream Sequence
+### Secuencia de ensueño cinematográfica y viral en tobogán acuático
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed POV prompt for a high-speed, surreal waterslide adventure that transitions from the sky into a realistic bedroom landing, designed for viral social media content.
+> Un prompt detallado en primera persona (POV) para una aventura surrealista de alta velocidad en un tobogán acuático, que transiciona desde el cielo hasta un aterrizaje realista en un dormitorio, diseñado para contenido viral en redes sociales.
 
 #### 📝 Prompt
 
 ```
-Cinematic viral AI dream sequence, photorealistic, intense fast-paced POV shot of a surreal extreme waterslide adventure.
-The video begins in first-person POV as the rider bursts out of the clouds at high speed on a giant, colorful, twisting waterslide built impossibly through the sky. Water splashes aggressively onto the lens with realistic spray and motion blur. The rider races down the massive slide with wild loops, sharp drops, spiraling turns, and near-vertical sections, zooming between towering skyscrapers and surreal city structures glowing with neon colors.
-As the descent continues, the ground and dense city buildings become clearly visible far below. At the end of the slide, the rider launches off halfway to the ground, suddenly flying through the air. Heavy breathing and panicked scared sounds fill the audio as the POV falls rapidly toward the ground. A house appears directly below, getting closer and closer. The rider crashes through the roof of the house and lands hard on a bed inside the bedroom. The final shot shows the person’s hands on the bed, breathing heavily in shock and relief as the video ends.
-Dynamic camera with extreme speed, intense motion blur, water spray, dizzying perspectives, and chaotic energy. Bright daytime lighting with vibrant colors, realistic water physics, and dream-like impossible architecture. Adrenaline-pumping, thrilling, surreal, and slightly terrifying vibe perfect for TikTok. Slinger continue shot
+Secuencia de ensueño cinematográfica y viral generada por IA, fotorrealista, toma en primera persona (POV) de ritmo rápido e intenso de una aventura surrealista en un tobogán acuático extremo.
+El video comienza en primera persona mientras el usuario sale disparado de las nubes a gran velocidad en un tobogán acuático gigante, colorido y retorcido, construido de forma imposible a través del cielo. El agua salpica agresivamente la lente con un efecto de rociado realista y desenfoque de movimiento. El usuario desciende por el enorme tobogán con bucles salvajes, caídas pronunciadas, giros en espiral y secciones casi verticales, pasando a toda velocidad entre imponentes rascacielos y estructuras urbanas surrealistas que brillan con colores neón.
+A medida que continúa el descenso, el suelo y los densos edificios de la ciudad se vuelven claramente visibles muy abajo. Al final del tobogán, el usuario sale despedido a mitad de camino hacia el suelo, volando repentinamente por el aire. Una respiración agitada y sonidos de pánico llenan el audio mientras el POV cae rápidamente hacia el suelo. Una casa aparece directamente debajo, acercándose cada vez más. El usuario atraviesa el techo de la casa y aterriza con fuerza en una cama dentro del dormitorio. La toma final muestra las manos de la persona sobre la cama, respirando con dificultad por el impacto y el alivio mientras el video termina.
+Cámara dinámica con velocidad extrema, intenso desenfoque de movimiento, salpicaduras de agua, perspectivas vertiginosas y energía caótica. Iluminación diurna brillante con colores vibrantes, física del agua realista y arquitectura imposible de ensueño. Ambiente lleno de adrenalina, emocionante, surrealista y ligeramente aterrador, perfecto para TikTok. Toma continua tipo Slinger
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/292c1e89047968555cd5f91766874fe3/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Viral Waterslide Dream Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/292c1e89047968555cd5f91766874fe3/thumbnails/thumbnail.jpg" width="600" alt="Secuencia de ensueño cinematográfica y viral en tobogán acuático">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5430)**
 
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2060235123015233858) | **Publicado:** May 29, 2026
 
 ---
-### Fast-Paced Japanese Commercial Prompt
+### Prompt publicitario japonés de ritmo rápido
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A rapid-fire, high-energy Japanese advertisement prompt for Seedance, featuring 5 different lifestyle scenes with neon accents and bold typography.
+> Un prompt para un anuncio japonés de ritmo rápido y alta energía para Seedance, que presenta 5 escenas de estilo de vida diferentes con acentos de neón y tipografía llamativa.
 
 #### 📝 Prompt
 
 ```
-Hyper-fast 15-second Japanese commercial. Rapid fire cuts every 2-3 seconds. High energy, loud, exciting.Cut 1 — (0 :00–0:03):Girl EXPLODES onto screen grabbing a cracker, laughing wildly. Crackers fly everywhere. She shouts: "I can't stop!" Bold yellow text SLAMS on screen.Cut 2 — (0: 03–0:06):SMASH CUT — red lipstick swipe in extreme close-up. She smirks into camera. Text flashes: "Captivating!" Neon lights strobe.Cut 3 — (0: 06–0:09):She SPINS in leather jacket, hair whipping, street lights blur behind her. Text hits: "I make my own way!"Cut 4 — (0: 09–0:11):Ice and coffee EXPLODE in slow-mo for one second. She winks. "Cheers!"Cut 5 — (0: 11–0:13):She JUMPS into frame, fist punch toward camera. "Jump!"Final (0 :13–0:15):Split screen of ALL 5 scenes at once. She says fast and bold: "To the me I like!" Logo SLAMS in. FUTURE YOU.
+Anuncio japonés hiperrápido de 15 segundos. Cortes rápidos cada 2-3 segundos. Alta energía, sonido potente, emocionante. Corte 1 — (0:00–0:03): Una chica APARECE de repente en pantalla agarrando una galleta, riendo salvajemente. Las galletas vuelan por todas partes. Ella grita: "¡No puedo parar!". Un texto amarillo llamativo GOLPEA la pantalla. Corte 2 — (0:03–0:06): CORTE BRUSCO — primer plano extremo de una aplicación de pintalabios rojo. Ella sonríe a la cámara. El texto parpadea: "¡Cautivadora!". Luces de neón estroboscópicas. Corte 3 — (0:06–0:09): Ella GIRA con una chaqueta de cuero, el cabello al viento, las luces de la calle se difuminan detrás de ella. El texto aparece: "¡Yo marco mi propio camino!". Corte 4 — (0:09–0:11): Hielo y café EXPLOTAN en cámara lenta durante un segundo. Ella guiña un ojo. "¡Salud!". Corte 5 — (0:11–0:13): Ella SALTA al encuadre, lanzando un puñetazo hacia la cámara. "¡Salta!". Final (0:13–0:15): Pantalla dividida con las 5 escenas a la vez. Ella dice de forma rápida y audaz: "¡Por la versión de mí que me gusta!". El logo APARECE con fuerza. FUTURE YOU.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e17963709737439cd90c4f2efc69ac6d/thumbnails/thumbnail.jpg" width="600" alt="Fast-Paced Japanese Commercial Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e17963709737439cd90c4f2efc69ac6d/thumbnails/thumbnail.jpg" width="600" alt="Prompt publicitario japonés de ritmo rápido">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5427)**
 
 **Autor:** [Synthia](https://x.com/AIwithSynthia) | **Fuente:** [Link](https://x.com/AIwithSynthia/status/2060220763731574935) | **Publicado:** May 29, 2026
 
 ---
-### Barista Cinematic Commercial Video Prompt
+### Prompt para anuncio cinematográfico de barista
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional advertising prompt for Seedance 2.0 creating a realistic commercial of a barista at a modern coffee stall.
+> Un prompt publicitario profesional para Seedance 2.0 que permite crear un anuncio realista de un barista en un puesto de café moderno.
 
 #### 📝 Prompt
 
 ```
-Create a 15-second ultra-realistic cinematic commercial using the uploaded reference image as the exact character reference. Maintain the same face, hairstyle, skin tone, outfit, and body proportions in every shot with no character drift.
+Crea un anuncio cinematográfico ultrarrealista de 15 segundos utilizando la imagen de referencia cargada como referencia exacta del personaje. Mantén el mismo rostro, peinado, tono de piel, vestimenta y proporciones corporales en cada toma sin que el personaje varíe.
 
-A confident young male coffee seller works at a stylish outdoor coffee stall branded “YAPPER COFFEE” in a busy modern city street. He wears a black shirt, dark brown barista apron, black pants, and sneakers.
+Un joven vendedor de café seguro de sí mismo trabaja en un elegante puesto de café al aire libre con la marca "YAPPER COFFEE" en una concurrida calle de una ciudad moderna. Viste una camisa negra, un delantal de barista marrón oscuro, pantalones negros y zapatillas deportivas.
 
-0–3s: He walks toward a customer smiling while holding a takeaway cup.
-3–6s: He pours hot tea from a metal kettle in slow motion and hands over the cup.
-6–9s: The customer takes a sip and smiles with satisfaction.
-9–15s: The seller walks toward another customer while the camera smoothly follows him.
+0–3s: Camina hacia un cliente sonriendo mientras sostiene un vaso para llevar.
+3–6s: Sirve té caliente desde una tetera de metal en cámara lenta y entrega el vaso.
+6–9s: El cliente da un sorbo y sonríe con satisfacción.
+9–15s: El vendedor camina hacia otro cliente mientras la cámara lo sigue con fluidez.
 
-Warm daylight, cinematic background blur, smooth tracking shots, shallow depth of field, realistic motion blur, natural expressions, premium advertising quality, ultra-realistic lighting, polished storytelling, no subtitles, no character changes, full natural realistic video.
+Luz diurna cálida, desenfoque de fondo cinematográfico, tomas de seguimiento fluidas, poca profundidad de campo, desenfoque de movimiento realista, expresiones naturales, calidad publicitaria premium, iluminación ultrarrealista, narrativa pulida, sin subtítulos, sin cambios de personaje, video realista totalmente natural.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/812d81b7d5eb5e9e7e839272ad88d02e/thumbnails/thumbnail.jpg" width="600" alt="Barista Cinematic Commercial Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/812d81b7d5eb5e9e7e839272ad88d02e/thumbnails/thumbnail.jpg" width="600" alt="Prompt para anuncio cinematográfico de barista">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5442)**
 
 **Autor:** [Noor](https://x.com/noorlewisx) | **Fuente:** [Link](https://x.com/noorlewisx/status/2060218418029379829) | **Publicado:** May 29, 2026
 
 ---
-### Telekinetic School Girl Action Scene
+### Escena de acción de colegiala con telequinesis
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic action prompt featuring a Korean high school girl using powerful telekinetic abilities to freeze time and repel attackers in a school corridor.
+> Un prompt de acción cinematográfica altamente detallado que presenta a una estudiante de secundaria coreana usando poderosas habilidades telequinéticas para congelar el tiempo y repeler a los atacantes en un pasillo escolar.
 
 #### 📝 Prompt
 
 ```
-In a telekinetic action scene, a South Korean high school girl in a white short-sleeved shirt and gray pleated skirt stands calmly in the middle of a corridor. She is being attacked from both sides; some attackers, wearing brown school uniform jackets, wield short sticks, while others are dressed as black ninjas, creating a tense standoff in the corridor. As the enemies rush towards her, the girl unleashes a powerful telekinetic attack. Suddenly, everything around her enters a state of weightlessness and time freezes. Dozens of items—open textbooks, notebooks, a red soda can, and a wooden school chair—leave the ground, perfectly suspending themselves in mid-air. The attackers, in their lunging movements, are frozen in mid-air by an invisible force. Paper pages, scraps of paper, and dust float and swirl around her weightlessly. The camera slowly zooms in on the girl, perfectly freezing the chaotic corridor in the telekinetic-induced state of stillness and suspension. In the extreme stillness of the slowly zooming-in, frozen image, the girl's calm eyes narrow slightly. Immediately afterward, she calmly raised her right hand, her fingers loosely clenched, and then made a light yet decisive flick of her sleeve to either side of her body. In an instant, frozen time and gravity seemed to explode with this subtle gesture. A low rumble echoed in the air, and dozens of objects that had been suspended in mid-air—a heavy wooden school chair, scattered textbooks, even the red soda can—transformed into a dense projection, carrying powerful air currents, and were precisely launched towards the enemies attacking from both sides. At the same time, an invisible circular psychic shockwave violently spread out from the girl. The brown-uniformed attackers and black-clad ninjas, who had been frozen in mid-air, were instantly struck by this immense force, their bodies jolted violently, and they were sent flying backward like kites with broken strings to either end of the corridor. As gravity instantly returned, the wooden chairs shattered upon impact, textbooks scattered into a flurry of pages, and with the dull thud of heavy objects hitting the ground, the attackers collapsed onto the corridor floor, incapacitated. Silence returned to the corridor, broken only by countless tattered papers and fine dust drifting slowly in the air. The aftershocks of the shockwave ruffled the girl's bangs and hair. She remained composed, not even glancing at her fallen opponent. The girl slowly lowered her right hand, raised her slender left, and gracefully and calmly tucked a strand of black hair behind her ear, revealing her delicate and serene profile. The camera froze on this moment, the white papers falling around her like snowflakes, highlighting her still figure in a white short-sleeved shirt and gray pleated skirt. Then, the image faded out.
+En una escena de acción telequinética, una estudiante de secundaria surcoreana con camisa blanca de manga corta y falda plisada gris permanece tranquila en medio de un pasillo. Está siendo atacada desde ambos lados; algunos atacantes, que visten chaquetas de uniforme escolar marrón, empuñan palos cortos, mientras que otros están vestidos como ninjas negros, creando un tenso enfrentamiento en el pasillo. A medida que los enemigos corren hacia ella, la chica desata un poderoso ataque telequinético. De repente, todo a su alrededor entra en un estado de ingravidez y el tiempo se congela. Docenas de objetos —libros de texto abiertos, cuadernos, una lata de refresco roja y una silla escolar de madera— se elevan del suelo, suspendidos perfectamente en el aire. Los atacantes, en sus movimientos de embestida, quedan congelados en el aire por una fuerza invisible. Páginas de papel, trozos de papel y polvo flotan y se arremolinan a su alrededor sin peso. La cámara hace un zoom lento hacia la chica, congelando perfectamente el caótico pasillo en el estado de quietud y suspensión inducido por la telequinesis. En la extrema quietud de la imagen congelada mientras la cámara se acerca lentamente, los ojos tranquilos de la chica se entrecierran ligeramente. Inmediatamente después, levanta con calma su mano derecha, con los dedos ligeramente cerrados, y luego hace un movimiento ligero pero decisivo con la manga hacia ambos lados de su cuerpo. En un instante, el tiempo congelado y la gravedad parecen explotar con este sutil gesto. Un estruendo grave resuena en el aire, y docenas de objetos que habían estado suspendidos en el aire —una pesada silla escolar de madera, libros de texto dispersos, incluso la lata de refresco roja— se transforman en una densa proyección, cargada de poderosas corrientes de aire, y son lanzados con precisión hacia los enemigos que atacaban desde ambos lados. Al mismo tiempo, una onda de choque psíquica circular invisible se extiende violentamente desde la chica. Los atacantes con uniforme marrón y los ninjas vestidos de negro, que habían quedado congelados en el aire, son golpeados instantáneamente por esta inmensa fuerza; sus cuerpos se sacuden violentamente y salen volando hacia atrás como cometas con cuerdas rotas hacia ambos extremos del pasillo. A medida que la gravedad regresa instantáneamente, las sillas de madera se hacen añicos al impactar, los libros de texto se dispersan en una ráfaga de páginas y, con el golpe sordo de objetos pesados cayendo al suelo, los atacantes se desploman en el pasillo, incapacitados. El silencio regresa al pasillo, interrumpido solo por innumerables papeles desgarrados y polvo fino que flota lentamente en el aire. Las réplicas de la onda de choque alborotan el flequillo y el cabello de la chica. Ella permanece serena, sin siquiera mirar a sus oponentes caídos. La chica baja lentamente su mano derecha, levanta su esbelta mano izquierda y, con gracia y calma, se coloca un mechón de cabello negro detrás de la oreja, revelando su perfil delicado y sereno. La cámara se congela en este momento, con los papeles blancos cayendo a su alrededor como copos de nieve, resaltando su figura inmóvil con camisa blanca de manga corta y falda plisada gris. Luego, la imagen se desvanece.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea0bf9f4c305c556727312433dd5b4a2/thumbnails/thumbnail.jpg" width="600" alt="Telekinetic School Girl Action Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea0bf9f4c305c556727312433dd5b4a2/thumbnails/thumbnail.jpg" width="600" alt="Escena de acción de colegiala con telequinesis">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5424)**
 
 **Autor:** [Calira](https://x.com/CaliraVal) | **Fuente:** [Link](https://x.com/CaliraVal/status/2060217352818708623) | **Publicado:** May 29, 2026
 
 ---
-### Egypt Cinematic Travel Vlog Video Prompt
+### Prompt para video de vlog de viajes cinematográfico en Egipto
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A multi-scene travel vlog prompt featuring a young woman exploring Cairo, the Nile, and the Pyramids with consistent character appearance.
+> Un prompt para un vlog de viajes de múltiples escenas que presenta a una mujer joven explorando El Cairo, el Nilo y las pirámides con una apariencia de personaje consistente.
 
 #### 📝 Prompt
 
 ```
-A beautiful young woman in her mid-20s with long wavy dark hair flowing in the wind, striking features, wearing stylish black round glasses, light beige ethnic embroidered top, natural glowing skin, cinematic travel vlog style, golden hour and warm lighting throughout.
+Una hermosa mujer joven de unos 25 años con cabello largo, oscuro y ondulado moviéndose con el viento, rasgos llamativos, usando elegantes gafas redondas negras, una blusa étnica bordada de color beige claro, piel radiante y natural, estilo de vlog de viajes cinematográfico, hora dorada e iluminación cálida en todo momento.
 
-0-2s: Close-up selfie-style shot, hair dramatically blowing across her face as she looks straight into camera with a soft confident smile, bustling old Cairo street background, slight handheld camera movement.
+0-2s: Plano estilo selfie en primer plano, el cabello sopla dramáticamente sobre su rostro mientras mira directamente a la cámara con una sonrisa suave y segura, fondo de una concurrida calle del viejo El Cairo, ligero movimiento de cámara en mano.
 
-2-4s: Smooth transition to side profile by the Nile river at sunset, hair flowing, she turns her head toward camera with a gentle smile, sailboat in background, warm golden light reflecting on water.
+2-4s: Transición suave a un perfil lateral junto al río Nilo al atardecer, cabello al viento, ella gira la cabeza hacia la cámara con una sonrisa amable, velero al fondo, luz dorada cálida reflejándose en el agua.
 
-4-6s: Cut to wide cinematic shot in front of the Great Pyramid of Giza, desert sand, she stands confidently looking at camera, wind gently moving her hair, epic scale.
+4-6s: Corte a un plano cinematográfico amplio frente a la Gran Pirámide de Guiza, arena del desierto, ella está de pie con confianza mirando a la cámara, el viento mueve suavemente su cabello, escala épica.
 
-6-7.5s: Quick cut inside vibrant Khan El Khalili market at dusk, she reaches up touching hanging ornate lanterns, magical warm lighting, slight smile.
+6-7.5s: Corte rápido dentro del vibrante mercado de Khan El Khalili al atardecer, ella extiende la mano para tocar linternas ornamentadas colgantes, iluminación cálida y mágica, sonrisa leve.
 
-7.5-9s: Fast-paced walking shot through crowded souk alley, she smiles brightly while looking around, people and colorful shops in background, dynamic handheld camera following her.
+7.5-9s: Plano de caminata a ritmo rápido a través de un callejón concurrido del zoco, ella sonríe alegremente mientras mira a su alrededor, gente y tiendas coloridas al fondo, cámara dinámica en mano siguiéndola.
 
-9-10.5s: Extreme close-up of her face, she looks directly into camera, hair strands across face, intense eye contact, subtle playful smile turning into a wide genuine laugh showing perfect teeth.
+9-10.5s: Primer plano extremo de su rostro, ella mira directamente a la cámara, mechones de cabello sobre el rostro, contacto visual intenso, sonrisa sutil y juguetona que se convierte en una risa genuina y amplia mostrando dientes perfectos.
 
-10.5-12s: Sitting on a traditional Nile boat, legs crossed, wind in hair, soft smile while looking at the water, golden sunset reflection.
+10.5-12s: Sentada en un barco tradicional del Nilo, piernas cruzadas, viento en el cabello, sonrisa suave mientras mira el agua, reflejo del atardecer dorado.
 
-12-13.5s: Inside a colorful spice market, she stands among sacks of spices, looking peaceful and content, soft natural light.
+12-13.5s: Dentro de un colorido mercado de especias, ella está de pie entre sacos de especias, luciendo tranquila y satisfecha, luz natural suave.
 
-13.5-15s: Final shot - elegant side profile by the Nile at sunset with dramatic golden light, then smooth cut to her sitting in a cozy café holding a glass of drink, looking at camera with a warm intimate smile.
+13.5-15s: Plano final - perfil lateral elegante junto al Nilo al atardecer con una luz dorada dramática, luego corte suave a ella sentada en una cafetería acogedora sosteniendo un vaso de bebida, mirando a la cámara con una sonrisa cálida e íntima.
 
-Camera work: Cinematic, smooth transitions, slight slow-motion on key emotional moments, rich color grading, warm cinematic tones, shallow depth of field, film grain.
+Trabajo de cámara: Cinematográfico, transiciones suaves, ligera cámara lenta en momentos emocionales clave, gradación de color rica, tonos cinematográficos cálidos, poca profundidad de campo, grano de película.
 
-Character dialogue:
+Diálogo del personaje:
 
-- 0-2s: "Heyy... come with me"
-- 4-6s: "This is unreal..."
-- 7.5-9s: (laughing) "I can't believe I'm here!"
-- 10.5-12s: "The most beautiful place..."
-- 13.5-15s: (soft, warm) "This moment... feels like magic."
+- 0-2s: "Heyy... ven conmigo"
+- 4-6s: "Esto es irreal..."
+- 7.5-9s: (riendo) "¡No puedo creer que esté aquí!"
+- 10.5-12s: "El lugar más hermoso..."
+- 13.5-15s: (suave, cálido) "Este momento... se siente como magia."
 
-High detail, photorealistic, 8K quality, emotional, dreamy travel aesthetic, perfect face consistency across all shots, matching the exact woman in the reference image
+Alto detalle, fotorrealista, calidad 8K, emocional, estética de viaje de ensueño, consistencia facial perfecta en todas las tomas, coincidiendo exactamente con la mujer de la imagen de referencia
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/921d51ef2c0f3dcb93b8b2d23feae39a/thumbnails/thumbnail.jpg" width="600" alt="Egypt Cinematic Travel Vlog Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/921d51ef2c0f3dcb93b8b2d23feae39a/thumbnails/thumbnail.jpg" width="600" alt="Prompt para video de vlog de viajes cinematográfico en Egipto">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5441)**
 
 **Autor:** [Heisenberg](https://x.com/rovvmut_) | **Fuente:** [Link](https://x.com/rovvmut_/status/2060211469401362497) | **Publicado:** May 29, 2026
 
 ---
-### Mecha Exoskeleton Assembly Sequence
+### Secuencia de ensamblaje del exoesqueleto mecha
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic sci-fi action prompt describing the high-speed mechanical assembly of an exoskeleton around a character.
+> Un prompt de acción cinematográfica de ciencia ficción que describe el ensamblaje mecánico de alta velocidad de un exoesqueleto alrededor de un personaje.
 
 #### 📝 Prompt
 
 ```
-A cinematic, hyper-realistic sci-fi action sequence. It begins with a close-up of a young East Asian man with long, wavy dark hair focusing intense energy, red lightning and plasma crackling between his hands. The camera cuts to dozens of sleek, futuristic metallic armor pieces flying at high speed through a dark, industrial warehouse, converging on him. Sparks fly as the high-tech, gunmetal-grey armor rapidly mechanically assembles around his body. The final shot reveals him fully suited in a powerful, glowing mecha exoskeleton with a fiery, burning plasma aura radiating from his helmet. He executes an aggressive, sweeping strike with a glowing orange laser blade, causing a massive explosion with smoke and debris in the background. High-end CGI, studio lighting, octane render, 8k resolution, intense pacing.
+Una secuencia de acción de ciencia ficción cinematográfica e hiperrealista. Comienza con un primer plano de un joven asiático oriental de cabello oscuro, largo y ondulado, concentrando una energía intensa, con rayos rojos y plasma crepitando entre sus manos. La cámara corta a docenas de piezas de armadura metálica elegantes y futuristas que vuelan a gran velocidad a través de un almacén industrial oscuro, convergiendo hacia él. Saltan chispas mientras la armadura de alta tecnología, de color gris metalizado, se ensambla mecánicamente de forma rápida alrededor de su cuerpo. La toma final lo revela completamente equipado con un poderoso exoesqueleto mecha brillante, con un aura de plasma ardiente irradiando desde su casco. Ejecuta un golpe agresivo y amplio con una hoja láser naranja brillante, provocando una explosión masiva con humo y escombros de fondo. CGI de alta gama, iluminación de estudio, renderizado Octane, resolución 8k, ritmo intenso.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce500e08df871f32ae6372cfd4a719c8/thumbnails/thumbnail.jpg" width="600" alt="Mecha Exoskeleton Assembly Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce500e08df871f32ae6372cfd4a719c8/thumbnails/thumbnail.jpg" width="600" alt="Secuencia de ensamblaje del exoesqueleto mecha">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5439)**
 
 **Autor:** [Zyrella](https://x.com/Zyrellix) | **Fuente:** [Link](https://x.com/Zyrellix/status/2060208363867414564) | **Publicado:** May 29, 2026
 
 ---
-### Luxury Skincare Pitch Deck Animation
+### Animación de presentación para cuidado de la piel de lujo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A workflow for animating a clinical luxury beauty storyboard with smooth transitions and editorial aesthetics.
+> Un flujo de trabajo para animar un guion gráfico de belleza clínica de lujo con transiciones fluidas y estética editorial.
 
 #### 📝 Prompt
 
 ```
-Create a high-end 4:3 luxury beauty tools pitch deck storyboard in 3x4 grid (12 frames), editorial layout, NuFace/Dr. Barbara Sturm style, glacier white + rose gold palette. Structured flow: science → tool → ritual → glow → confidence closure. Each frame split: top cinematic image (no text) + bottom storyboard notes. Clinical luxury minimal aesthetic, science meets beauty mood, precision self-care. A rose gold facial device is the emotional center throughout. Animate the provided 3x4 storyboard into a smooth cinematic video. Preserve exact shot order and continuity. Use slow device glide on skin, LED light pulse, serum absorption close-up, and mirror reflection reveal. Lighting transitions from cool clinical white light to warm vanity mirror rose glow. Beauty tools editorial aesthetic, surgical precision, empowered radiance mood. No new shots, no reordering, facial device remains emotional focus in all scenes.
+Crea un guion gráfico de presentación para herramientas de belleza de lujo en formato 4:3 con una cuadrícula de 3x4 (12 fotogramas), diseño editorial, estilo NuFace/Dr. Barbara Sturm, paleta de colores blanco glaciar y oro rosa. Flujo estructurado: ciencia → herramienta → ritual → luminosidad → cierre de confianza. Cada fotograma dividido: parte superior con imagen cinematográfica (sin texto) + parte inferior con notas del guion gráfico. Estética minimalista de lujo clínico, ambiente donde la ciencia se encuentra con la belleza, cuidado personal de precisión. Un dispositivo facial de oro rosa es el centro emocional en todo momento. Anima el guion gráfico de 3x4 proporcionado para convertirlo en un video cinematográfico fluido. Conserva el orden exacto de las tomas y la continuidad. Utiliza un deslizamiento lento del dispositivo sobre la piel, pulso de luz LED, primer plano de absorción de suero y revelación mediante reflejo en espejo. Las transiciones de iluminación van desde una luz blanca clínica fría hasta un cálido resplandor de oro rosa de tocador. Estética editorial de herramientas de belleza, precisión quirúrgica, ambiente de resplandor empoderado. No añadir nuevas tomas, no reordenar, el dispositivo facial permanece como el foco emocional en todas las escenas.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aad0a6d8939fdbc35b1d919951f8bc9f/thumbnails/thumbnail.jpg" width="600" alt="Luxury Skincare Pitch Deck Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aad0a6d8939fdbc35b1d919951f8bc9f/thumbnails/thumbnail.jpg" width="600" alt="Animación de presentación para cuidado de la piel de lujo">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5436)**
 
 **Autor:** [𝐌](https://x.com/Strength04_X) | **Fuente:** [Link](https://x.com/Strength04_X/status/2060200771912864078) | **Publicado:** May 29, 2026
 
 ---
-### Skateboard Big Air Sunset Highlight
+### Destacado de Skateboard Big Air al atardecer
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic 15-second skateboarding highlight featuring a single rider performing a 360 aerial rotation on a large outdoor ramp during a golden sunset, with dynamic tracking shots and high-impact sound design.
+> Un clip cinematográfico de 15 segundos de skateboarding que muestra a un solo rider realizando una rotación aérea de 360 grados en una gran rampa al aire libre durante un atardecer dorado, con tomas de seguimiento dinámicas y un diseño de sonido de alto impacto.
 
 #### 📝 Prompt
 
 ```
-15-second live-action big-air skateboarding highlight continuing at the same huge outdoor ramp during deep golden sunset. Only one skateboarder and only one skateboard exist in the entire video. Do not duplicate the rider. Do not add extra skateboarders in the background.
+Clip de 15 segundos de skateboarding big-air en acción real, continuando en la misma enorme rampa al aire libre durante un atardecer dorado intenso. Solo hay un skater y una sola tabla en todo el video. No dupliques al rider. No añadas skaters adicionales en el fondo.
 
-Start with a fast low side-rear tracking shot as the rider accelerates toward the largest ramp, not only from directly behind. Use one quick close-up of the wheels, feet, and board while the rider climbs the ramp with power and control. Briefly switch to a low side angle just before takeoff to show the ramp height and speed.
+Comienza con una toma de seguimiento rápida desde un ángulo bajo lateral-trasero mientras el rider acelera hacia la rampa más grande, no solo desde directamente atrás. Usa un primer plano rápido de las ruedas, los pies y la tabla mientras el rider sube por la rampa con potencia y control. Cambia brevemente a un ángulo lateral bajo justo antes del despegue para mostrar la altura de la rampa y la velocidad.
 
-The rider launches into the highest big air and performs one clean 360 aerial rotation near the peak of the jump. Keep the aerial action clear and readable. Use a brief stop-motion-style freeze effect only at the peak moment of the rotation, then continue the motion naturally. Do not make the whole aerial section slow motion. Do not create ghost trails, overlapping silhouettes, or multiple riders. The real rider remains one person, and the skateboard stays controlled under the rider’s feet.
+El rider se lanza al aire en un salto de gran altura y realiza una rotación aérea de 360 grados limpia cerca del punto máximo del salto. Mantén la acción aérea clara y legible. Usa un breve efecto de congelación al estilo stop-motion solo en el momento cumbre de la rotación, luego continúa el movimiento de forma natural. No pongas toda la sección aérea en cámara lenta. No crees estelas fantasma, siluetas superpuestas ni múltiples riders. El rider real sigue siendo una sola persona y la tabla permanece controlada bajo los pies del rider.
 
-After the peak rotation, return to normal motion for a clear descent and landing. Show the board aligning for touchdown, the wheels touching down, a short controlled slide, and a strong impact.
+Después de la rotación máxima, vuelve al movimiento normal para un descenso y aterrizaje claros. Muestra la tabla alineándose para el aterrizaje, las ruedas tocando el suelo, un breve deslizamiento controlado y un impacto fuerte.
 
-End with the rider gliding away into the sunset in a short cinematic silhouette from behind.
+Termina con el rider deslizándose hacia el atardecer en una breve silueta cinematográfica desde atrás.
 
-Strong sports highlight energy, dynamic but simple camera changes, low tracking shot, side-rear angle, brief side angle during takeoff and air, ground-level landing angle, clear takeoff and clear landing, dramatic height difference, readable body silhouette, realistic skateboard motion, no static sports introduction. No clear spoken commentary, no narration, no understandable dialogue. Sound effects only: fast rolling wheels, ramp rumble, wind rush, brief silence at the peak freeze, heavy landing impact, distant crowd reaction. No logo, no watermark, no readable text.
+Energía intensa de deporte, cambios de cámara dinámicos pero sencillos, toma de seguimiento baja, ángulo lateral-trasero, ángulo lateral breve durante el despegue y el aire, ángulo de aterrizaje a nivel del suelo, despegue y aterrizaje claros, diferencia de altura dramática, silueta corporal legible, movimiento de skateboard realista, sin introducción deportiva estática. Sin comentarios hablados claros, sin narración, sin diálogos comprensibles. Solo efectos de sonido: ruedas rodando rápido, estruendo de la rampa, ráfaga de viento, breve silencio en la congelación del punto máximo, fuerte impacto de aterrizaje, reacción distante de la multitud. Sin logotipos, sin marcas de agua, sin texto legible.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060197720900734976/img/ym9Yq6kjEOmCWR14.jpg" width="600" alt="Skateboard Big Air Sunset Highlight">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b77a19c659b07feab6726a72c2c8f75/thumbnails/thumbnail.jpg" width="600" alt="Destacado de Skateboard Big Air al atardecer">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5466)**
 
 **Autor:** [AIライフハック](https://x.com/ai_lifehack55) | **Fuente:** [Link](https://x.com/ai_lifehack55/status/2060198851953209598) | **Publicado:** May 29, 2026
 
 ---
-### Cybernetic Anaconda Pursuit in Dystopian Mumbai
+### Persecución de la anaconda cibernética en una Bombay distópica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-action cyberpunk video prompt featuring a motorcycle chase through a ruined Mumbai street, pursued by a giant mechanical anaconda.
+> Un prompt de video cyberpunk de alta intensidad que muestra una persecución en motocicleta por las calles de una Bombay en ruinas, acechada por una anaconda mecánica gigante.
 
 #### 📝 Prompt
 
 ```
-Fast-paced dystopian cyberpunk action in a ruined Indian megacity at night. Burnt cars, neon signs flickering in Hindi, sparks, smoke vents, broken flyovers, puddles reflecting pink and blue neon. Chaotic handheld cinematography, shaky tracking shots, aggressive speed ramps, dirty lens flares, practical lighting. Sound: roaring engines, metallic screeches, distorted radio chatter, distant explosions, hydraulic snake sounds.
+Acción cyberpunk distópica de ritmo rápido en una megaciudad india en ruinas durante la noche. Coches quemados, letreros de neón parpadeando en hindi, chispas, rejillas de ventilación con humo, pasos elevados destruidos, charcos que reflejan neón rosa y azul. Cinematografía caótica en mano, tomas de seguimiento inestables, aceleraciones agresivas, destellos de lente sucios, iluminación práctica. Sonido: motores rugientes, chirridos metálicos, interferencias de radio distorsionadas, explosiones lejanas, sonidos hidráulicos de serpiente.
 
 ⸻
 
-0–2s — HOOK
+0–2s — GANCHO
 
-A tattooed Indian cyberpunk woman with shaved punk hair tears through a dystopian street on a junkyard-built motorcycle made from welded scrap metal, exposed engine parts, and glowing wires.
+Una mujer india cyberpunk tatuada con el pelo rapado estilo punk atraviesa una calle distópica en una motocicleta de desguace hecha de chatarra soldada, piezas de motor expuestas y cables brillantes.
 
-Behind her—
+Detrás de ella—
 
-A gigantic half-real, half-mechanical anaconda smashes through burnt cars in aggressive pursuit.
+Una gigantesca anaconda mitad real, mitad mecánica, destroza coches quemados en una persecución agresiva.
 
-Metal jaws snapping.
+Mandíbulas metálicas chasqueando.
 
-Red mechanical eyes glowing.
-
-⸻
-
-2–4s — ESCALATION
-
-Low shaky side tracking shot.
-
-The snake violently crashes through parked vehicles while partially gliding over wreckage with mechanical body segments flexing unnaturally.
-
-The woman swerves hard between wrecked taxis and burning debris.
-
-Radio crackles in her ear.
-
-Male voice:
-
-“Get it in position!”
+Ojos mecánicos rojos brillando.
 
 ⸻
 
-4–7s — BUILD
+2–4s — ESCALADA
 
-She accelerates harder.
+Toma de seguimiento lateral baja e inestable.
 
-Rear tire skids through puddles.
+La serpiente atraviesa violentamente los vehículos estacionados mientras se desliza parcialmente sobre los escombros con segmentos corporales mecánicos flexionándose de forma antinatural.
 
-The snake lunges low behind her, smashing a car sideways into a wall.
+La mujer gira bruscamente entre taxis destrozados y escombros en llamas.
 
-She shouts into radio:
+La radio cruje en su oído.
 
-“I’m trying!”
+Voz masculina:
 
-Ahead—
-
-a broken flyover ramp comes into view through smoke.
+“¡Ponla en posición!”
 
 ⸻
 
-7–10s — COMMIT
+4–7s — DESARROLLO
 
-The woman locks onto the ramp and speeds directly toward it.
+Ella acelera con más fuerza.
 
-Above on a ruined rooftop—
+El neumático trasero derrapa por los charcos.
 
-A man with a bazooka takes aim.
+La serpiente se lanza a baja altura detrás de ella, estrellando un coche lateralmente contra una pared.
+
+Ella grita por la radio:
+
+“¡Lo intento!”
+
+Más adelante—
+
+una rampa de paso elevado rota aparece entre el humo.
+
+⸻
+
+7–10s — COMPROMISO
+
+La mujer fija su vista en la rampa y se dirige directamente hacia ella.
+
+Arriba, en una azotea en ruinas—
+
+Un hombre con un bazuca apunta.
 
 Radio:
 
-“Just a little closer…”
+“Solo un poco más cerca…”
 
-The snake rapidly closes distance behind her.
-
-⸻
-
-10–13s — BULLET TIME PAYOFF
-
-She hits the ramp and launches into the air.
-
-Bullet time engages.
-
-The cybernetic anaconda leaps upward after her, jaws opening inches from her bike.
-
-The man fires.
-
-Rocket streaks through frame in slow motion.
-
-Direct hit into the snake’s mechanical skull.
-
-Massive explosion of sparks, fire, metal fragments, and flesh.
+La serpiente reduce rápidamente la distancia detrás de ella.
 
 ⸻
 
-13–15s — FINAL BEAT
+10–13s — CLÍMAX EN CÁMARA LENTA (BULLET TIME)
 
-Time snaps back.
+Ella llega a la rampa y se lanza al aire.
 
-The woman lands hard, bike wobbling violently—
+Se activa el efecto de cámara lenta.
 
-she regains balance perfectly and keeps riding.
+La anaconda cibernética salta hacia arriba tras ella, con las mandíbulas abriéndose a centímetros de su moto.
 
-Behind her, the burning mechanical anaconda crashes through wrecked cars.
+El hombre dispara.
 
-She laughs into the radio:
+El cohete atraviesa el encuadre en cámara lenta.
 
-“Target down!”
+Impacto directo en el cráneo mecánico de la serpiente.
 
-The man cheers over comms.
+Explosión masiva de chispas, fuego, fragmentos de metal y carne.
 
-Cut.
+⸻
+
+13–15s — CIERRE FINAL
+
+El tiempo vuelve a la normalidad.
+
+La mujer aterriza con fuerza, la moto se tambalea violentamente—
+
+recupera el equilibrio perfectamente y sigue conduciendo.
+
+Detrás de ella, la anaconda mecánica en llamas choca contra los coches destrozados.
+
+Ella ríe por la radio:
+
+“¡Objetivo abatido!”
+
+El hombre celebra por la radio.
+
+Corte.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060184772211838977/img/HLmUfriw9HDj2KMB.jpg" width="600" alt="Cybernetic Anaconda Pursuit in Dystopian Mumbai">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93c1e654e674d35d0de679a8a8c3bcf0/thumbnails/thumbnail.jpg" width="600" alt="Persecución de la anaconda cibernética en una Bombay distópica">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5462)**
 
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2060184837856850203) | **Publicado:** May 29, 2026
 
 ---
-### Anime Characters in Photorealistic Shopping Mall
+### Personajes de anime en un centro comercial fotorrealista
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A detailed multi-shot cinematic prompt for Seedance 2.0 that blends 2D anime characters with a realistic 3D mall environment, focusing on consistency and smooth motion across five different shots.
+> Un prompt cinematográfico detallado de múltiples tomas para Seedance 2.0 que combina personajes de anime en 2D con un entorno de centro comercial en 3D realista, centrándose en la consistencia y el movimiento fluido a lo largo de cinco tomas diferentes.
 
 #### 📝 Prompt
 
 ```
-Use Image A and Image B as the two main characters in all shots.
+Utiliza la Imagen A y la Imagen B como los dos personajes principales en todas las tomas.
 
-Image A : preserve her exact anime illustration identity, hairstyle, face, outfit, proportions, and overall design.
+Imagen A: conserva su identidad exacta de ilustración de anime, peinado, rostro, atuendo, proporciones y diseño general.
 
-Image B : preserve her exact anime illustration identity, hairstyle, face, outfit, proportions, and overall design.
+Imagen B: conserva su identidad exacta de ilustración de anime, peinado, rostro, atuendo, proporciones y diseño general.
 
-Both characters must remain anime-style illustrations with crisp clean line art, cel-shaded flat colors, expressive anime eyes, and zero photorealism on the characters.
+Ambos personajes deben permanecer como ilustraciones de estilo anime con arte lineal nítido y limpio, colores planos con sombreado cel, ojos de anime expresivos y cero fotorrealismo en los personajes.
 
-All other elements — the shopping mall interior, storefronts, display windows, escalators, polished floors, shopping bags, crowd, lighting, and background architecture — are fully photorealistic.
+Todos los demás elementos (el interior del centro comercial, escaparates, vitrinas, escaleras mecánicas, suelos pulidos, bolsas de compras, multitud, iluminación y arquitectura de fondo) son completamente fotorrealistas.
 
-Setting: a busy modern shopping mall on a weekend afternoon. Stylish interior, bright natural and commercial lighting, large glass storefronts, digital signage, polished floors, open atrium, many shoppers walking around. The atmosphere is lively, fashionable, and cheerful.
+Escenario: un concurrido centro comercial moderno en una tarde de fin de semana. Interior elegante, iluminación natural y comercial brillante, grandes escaparates de cristal, señalización digital, suelos pulidos, atrio abierto, muchos compradores caminando. El ambiente es animado, moderno y alegre.
 
-15-second cinematic video, 24fps, smooth motion, clear emotional flow, character consistency across all shots.
+Video cinematográfico de 15 segundos, 24 fps, movimiento fluido, flujo emocional claro, consistencia de personajes en todas las tomas.
 
-Shot 1 [MALL ENTRANCE — ARRIVAL]
+Toma 1 [ENTRADA AL CENTRO COMERCIAL — LLEGADA]
 
-Image A and Image B walk side by side into a crowded modern shopping mall, smiling and chatting. Many shoppers pass around them. The camera tracks backward in front of them as they enter the bright open atrium. They look excited for a fun day of window shopping.
+La Imagen A y la Imagen B caminan una al lado de la otra hacia un concurrido centro comercial moderno, sonriendo y charlando. Muchos compradores pasan a su alrededor. La cámara sigue hacia atrás frente a ellas mientras entran al brillante atrio abierto. Se ven emocionadas por un divertido día de escaparates.
 
-Cut to Shot 2 [WINDOW SHOPPING — DISCOVERY]
+Corte a la Toma 2 [ESCAPARATES — DESCUBRIMIENTO]
 
-The two girls stop in front of a stylish fashion storefront with a large glass display window. They lean in slightly and admire the items inside. Image A points at something cute in the display. Image B reacts with a bright smile and curious eyes. Medium shot, then close-up on their happy faces and pointing gesture.
+Las dos chicas se detienen frente a un elegante escaparate de moda con una gran vitrina de cristal. Se inclinan ligeramente y admiran los artículos del interior. La Imagen A señala algo lindo en la vitrina. La Imagen B reacciona con una sonrisa brillante y ojos curiosos. Plano medio, luego primer plano de sus rostros felices y gesto de señalar.
 
-Cut to Shot 3 [MOVING THROUGH THE MALL]
+Toma 3 [CAMINANDO POR EL CENTRO COMERCIAL]
 
-Image A and Image B continue walking through the busy mall, passing elegant shop windows, cosmetics counters, and accessory displays. They laugh together and casually gesture while talking. Camera moves alongside them. Background crowd flows naturally around them. Their mood is relaxed, lively, and playful.
+La Imagen A y la Imagen B continúan caminando por el concurrido centro comercial, pasando por elegantes escaparates, mostradores de cosméticos y expositores de accesorios. Se ríen juntas y gesticulan casualmente mientras hablan. La cámara se mueve junto a ellas. La multitud de fondo fluye naturalmente a su alrededor. Su estado de ánimo es relajado, animado y juguetón.
 
-Cut to Shot 4 [EXCITEMENT AT A DISPLAY]
+Corte a la Toma 4 [EMOCIÓN ANTE UN EXPOSITOR]
 
-They stop at another display window with fashionable accessories and seasonal decor. Image B notices something first and gently pulls Image A’s sleeve to show it. Image A’s expression changes into delighted surprise. Close-up on their faces, then cut to a wider shot showing both of them framed by the bright storefront and the bustling crowd behind.
+Se detienen en otro escaparate con accesorios de moda y decoración de temporada. La Imagen B nota algo primero y tira suavemente de la manga de la Imagen A para mostrárselo. La expresión de la Imagen A cambia a una sorpresa encantada. Primer plano de sus rostros, luego corte a un plano más amplio que muestra a ambas enmarcadas por el brillante escaparate y la bulliciosa multitud detrás.
 
-Cut to Shot 5 [PURE WEEKEND JOY]
+Corte a la Toma 5 [ALEGRÍA PURA DE FIN DE SEMANA]
 
-Image A and Image B continue window shopping deeper into the mall, each carrying a few small shopping bags. They smile, laugh, and enjoy the lively weekend atmosphere. Wide cinematic shot of the modern shopping mall interior, the two girls walking happily together at the center of the frame, surrounded by the photorealistic crowd and glowing storefronts. End with a gentle crane out
+La Imagen A y la Imagen B continúan mirando escaparates más adentro del centro comercial, cada una cargando algunas bolsas de compras pequeñas. Sonríen, ríen y disfrutan del animado ambiente de fin de semana. Plano cinematográfico amplio del interior del centro comercial moderno, las dos chicas caminando felizmente juntas en el centro del encuadre, rodeadas por la multitud fotorrealista y los escaparates brillantes. Termina con un suave movimiento de grúa hacia afuera.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060180079305756672/img/-nsftlOfh54VS_bz.jpg" width="600" alt="Anime Characters in Photorealistic Shopping Mall">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef97ac3fc65eabddfac8e55fabbab5fd/thumbnails/thumbnail.jpg" width="600" alt="Personajes de anime en un centro comercial fotorrealista">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5467)**
 
 **Autor:** [Toshi@ニャルオAI](https://x.com/Toshi_nyaruo_AI) | **Fuente:** [Link](https://x.com/Toshi_nyaruo_AI/status/2060181284908073254) | **Publicado:** May 29, 2026
 
 ---
-### Rooftop Sunset Fashion Film Prompt
+### Prompt para fashion film de atardecer en azotea
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A luxurious and viral-style fashion film prompt featuring a model on a skyscraper rooftop during golden hour.
+> Un prompt para un fashion film lujoso y de estilo viral que presenta a una modelo en la azotea de un rascacielos durante la hora dorada.
 
 #### 📝 Prompt
 
 ```
-15-second ultra realistic cinematic rooftop fashion film during sunset.
+Fashion film cinematográfico ultra realista de 15 segundos en una azotea durante el atardecer.
 
-Scene 1 (0–4s): A stunning fashion model steps onto a luxury rooftop overlooking a glowing city skyline at golden hour. Soft wind moves her hair and long black outfit naturally, cinematic drone shot approaching slowly, warm orange sunlight reflecting on glass buildings, ultra aesthetic atmosphere.
+Escena 1 (0–4s): Una impresionante modelo de moda camina hacia una lujosa azotea con vistas al brillante horizonte de la ciudad durante la hora dorada. El viento suave mueve su cabello y su largo atuendo negro de forma natural; toma cinematográfica con dron acercándose lentamente, luz solar naranja cálida reflejándose en los edificios de cristal, atmósfera ultra estética.
 
-Scene 2 (4–8s): Slow-motion tracking shot as she confidently walks across the rooftop edge in a luxurious designer outfit with sunglasses and silver accessories. Cinematic lens flares, flowing fabric movement, rich old-money aesthetic, shallow depth of field, Vogue editorial vibe.
+Escena 2 (4–8s): Toma de seguimiento en cámara lenta mientras camina con confianza por el borde de la azotea con un lujoso atuendo de diseñador, gafas de sol y accesorios plateados. Destellos de lente cinematográficos, movimiento fluido de la tela, estética rica de "old money", profundidad de campo reducida, estilo editorial de Vogue.
 
-Scene 3 (8–12s): Dramatic side-profile close-up with sunset behind her, hair moving beautifully in wind, emotional “main character” energy, cinematic camera orbit movement, realistic skin texture, luxury perfume advertisement style.
+Escena 3 (8–12s): Primer plano dramático de perfil con el atardecer detrás de ella, el cabello moviéndose hermosamente con el viento, energía emocional de "protagonista", movimiento de cámara orbital cinematográfico, textura de piel realista, estilo de anuncio de perfume de lujo.
 
-Scene 4 (12–15s): Final powerful shot facing the city skyline while city lights begin glowing at blue hour. Camera slowly pulls back revealing the massive skyline and luxury rooftop ambiance. Text fades in: “Some people don’t follow trends… they become them.”
+Escena 4 (12–15s): Toma final impactante frente al horizonte de la ciudad mientras las luces urbanas comienzan a brillar durante la hora azul. La cámara se aleja lentamente revelando el enorme horizonte y el ambiente de la lujosa azotea. El texto aparece gradualmente: “Algunas personas no siguen las tendencias… se convierten en ellas.”
 
-Ultra realistic cinematic fashion storytelling, viral Twitter/TikTok aesthetic, luxury lifestyle energy, smooth camera motion, film grain, anamorphic lens flare, highly detailed, emotional cinematic mood, 4K masterpiece.
+Narrativa de moda cinematográfica ultra realista, estética viral para Twitter/TikTok, energía de estilo de vida de lujo, movimiento de cámara fluido, grano de película, destello de lente anamórfico, altamente detallado, ambiente cinematográfico emocional, obra maestra en 4K.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060180922276909056/pu/img/DTES8Zi37QOrQ2y_.jpg" width="600" alt="Rooftop Sunset Fashion Film Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/915d27f621dde0b577da6db1c94683cf/thumbnails/thumbnail.jpg" width="600" alt="Prompt para fashion film de atardecer en azotea">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5448)**
 
 **Autor:** [Zeeshi](https://x.com/AIwithZeeshi) | **Fuente:** [Link](https://x.com/AIwithZeeshi/status/2060181075779781084) | **Publicado:** May 29, 2026
 
 ---
-### Mushroom Port Town Anime Escape
+### Escape de anime en el pueblo portuario de los hongos
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A cinematic anime sequence showing a girl in a blue hood stealing a glowing mushroom and escaping through a high-speed chase across the bridges and walkways of a floating mushroom market town.
+> Una secuencia de anime cinematográfica que muestra a una chica con capucha azul robando un hongo brillante y escapando en una persecución a alta velocidad a través de los puentes y pasarelas de un mercado flotante de hongos.
 
 #### 📝 Prompt
 
 ```
-@Image 1 = Protagonist character. @Image 2 = Storyboard reference. Based on the attached storyboard image, create a 15-second horizontal 16:9 anime thrilling escape scene video. Theme: Thief Girl. Animate as a high-tempo, brisk scene following the panel order of the storyboard. Flow: Start with an overhead view of a mushroom port town market spread across the water. A girl in a blue hood hides at the edge of the pier or market and steals a rare purple-glowing mushroom. Impressively depict the moment of theft with hand close-ups, the girl's sparkling eyes, and the glow of the rare mushroom. Once the theft is discovered, the girl escapes quickly using wooden piers, waterside paths, docks, rope bridges, and floating platforms. As pursuers close in, show a high-speed escape where she runs across narrow bridges, nearly slips but recovers, jumps across canals, and brushes past boats and ropes. Include seagulls flying and textures of water splashes and damp wood. End with her running across a long bridge toward the light, leaving the port town behind. Style: High-quality anime film style, cinematic lighting, top-tier animation, high definition, vivid colors, transparent water, damp wood texture, openness of the port town, and an adventurous world filled with mushroom stalls and floating architecture. The girl should appear small and agile, mischievous yet serious, and as if she is truly escaping while enjoying the thrill. Editing: Use rhythmic high-speed cuts, close-ups, extreme close-ups, low angles, overhead shots, quick pans, and smooth match cuts. Mix an overhead market panorama, hand close-ups during theft, the girl's face close-up, following shots escaping from pursuers, low angles near the water surface, extreme close-ups of feet kicking the pier, wide shots of canal jumps, and dynamic diagonal compositions using rope movement or high vantage points. Create an energetic and stylish video, utilizing the precarious waterside and continuity of bridges unique to a floating port town. Important: Do not make it a slideshow of still images. Animate running and stealing naturally. Maintain the same atmosphere of the floating mushroom port town and high-quality anime style throughout. Do not include text, subtitles, logos, or watermarks. Perform the suspenseful thrill as a brisk scene. Consistently maintain the protagonist's face, blue hood, outfit, basket, and purple glowing mushroom throughout.
+@Image 1 = Personaje protagonista. @Image 2 = Referencia del guion gráfico. Basado en la imagen del guion gráfico adjunta, crea un video de anime de 15 segundos en formato horizontal 16:9 de una emocionante escena de escape. Tema: Chica ladrona. Anima como una escena de ritmo rápido y ágil siguiendo el orden de los paneles del guion gráfico. Flujo: Comienza con una vista aérea de un mercado en un pueblo portuario de hongos extendido sobre el agua. Una chica con capucha azul se esconde al borde del muelle o mercado y roba un raro hongo que brilla en color púrpura. Representa de forma impactante el momento del robo con primeros planos de las manos, los ojos brillantes de la chica y el resplandor del hongo raro. Una vez que se descubre el robo, la chica escapa rápidamente usando muelles de madera, senderos junto al agua, dársenas, puentes de cuerda y plataformas flotantes. A medida que los perseguidores se acercan, muestra una huida a alta velocidad donde corre por puentes estrechos, casi resbala pero se recupera, salta canales y pasa rozando botes y cuerdas. Incluye gaviotas volando y texturas de salpicaduras de agua y madera húmeda. Termina con ella corriendo por un puente largo hacia la luz, dejando atrás el pueblo portuario. Estilo: Estilo de película de anime de alta calidad, iluminación cinematográfica, animación de primer nivel, alta definición, colores vivos, agua transparente, textura de madera húmeda, la apertura del pueblo portuario y un mundo aventurero lleno de puestos de hongos y arquitectura flotante. La chica debe parecer pequeña y ágil, traviesa pero seria, y como si realmente estuviera escapando mientras disfruta de la emoción. Edición: Utiliza cortes rítmicos de alta velocidad, primeros planos, planos detalle, ángulos bajos, tomas aéreas, paneos rápidos y cortes de montaje fluidos. Mezcla una panorámica aérea del mercado, primeros planos de las manos durante el robo, primer plano del rostro de la chica, tomas de seguimiento durante la huida, ángulos bajos cerca de la superficie del agua, planos detalle de los pies golpeando el muelle, planos generales de saltos sobre canales y composiciones diagonales dinámicas usando el movimiento de las cuerdas o puntos de vista elevados. Crea un video enérgico y elegante, utilizando el precario entorno junto al agua y la continuidad de los puentes únicos de un pueblo portuario flotante. Importante: No lo hagas como una presentación de imágenes estáticas. Anima el acto de correr y robar de forma natural. Mantén la misma atmósfera del pueblo portuario de hongos y el estilo de anime de alta calidad en todo momento. No incluyas texto, subtítulos, logotipos ni marcas de agua. Ejecuta la emoción del suspenso como una escena ágil. Mantén la consistencia del rostro de la protagonista, su capucha azul, su atuendo, su cesta y el hongo brillante púrpura durante todo el video.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060178543808786432/img/dhAVzjA-P9Prag2Q.jpg" width="600" alt="Mushroom Port Town Anime Escape">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/282ac02aeb41e21701103daef3f76c1c/thumbnails/thumbnail.jpg" width="600" alt="Escape de anime en el pueblo portuario de los hongos">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5468)**
 
 **Autor:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **Fuente:** [Link](https://x.com/Ryuki_Yano/status/2060179315011277307) | **Publicado:** May 29, 2026
 
 ---
-### Medieval Knight Horseback POV
+### POV de caballero medieval a caballo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed first-person perspective prompt for a cinematic medieval sequence showing a knight riding through a village, emphasizing realistic human visual perspective and natural motion.
+> Un prompt detallado en primera persona para una secuencia cinematográfica medieval que muestra a un caballero cabalgando a través de una aldea, enfatizando una perspectiva visual humana realista y un movimiento natural.
 
 #### 📝 Prompt
 
 ```
-A first-person POV (horseback riding POV) sequence in a live-action medieval European-style film, showing a knight traveling on horseback.
-The camera is permanently fixed to the knight’s eye level, representing a realistic human visual perspective from atop a horse. There are no cuts, no switches to third-person, and no aerial or top-down viewpoints at any point.
-The horse follows the route indicated in the reference image. The journey begins at the location labeled “Start” and ends at the location labeled “Stop Here.” Movement follows a realistic walking pace of a horse, with natural body motion including subtle head, shoulder, and reins-induced camera sway.
-Along the way, the knight briefly greets villagers while passing them (simple nods or short hand waves). The village is a live-action medieval settlement with wooden buildings, stone-paved streets, and naturally active inhabitants.
-Upon reaching the final destination, the horse gradually slows down and stops. The knight then naturally dismounts the horse. The footage remains a single continuous shot until that moment.
+Una secuencia en primera persona (POV a caballo) en una película de acción real de estilo medieval europeo, que muestra a un caballero viajando a caballo.
+La cámara está fijada permanentemente a la altura de los ojos del caballero, representando una perspectiva visual humana realista desde lo alto de un caballo. No hay cortes, ni cambios a tercera persona, ni puntos de vista aéreos o cenitales en ningún momento.
+El caballo sigue la ruta indicada en la imagen de referencia. El viaje comienza en la ubicación etiquetada como “Start” y termina en la ubicación etiquetada como “Stop Here”. El movimiento sigue el paso natural de un caballo, con un movimiento corporal natural que incluye un ligero balanceo de la cámara inducido por la cabeza, los hombros y las riendas.
+A lo largo del camino, el caballero saluda brevemente a los aldeanos mientras pasa junto a ellos (asentimientos simples o breves saludos con la mano). La aldea es un asentamiento medieval de acción real con edificios de madera, calles empedradas y habitantes naturalmente activos.
+Al llegar al destino final, el caballo reduce la velocidad gradualmente y se detiene. Luego, el caballero desmonta del caballo de forma natural. El metraje permanece como una sola toma continua hasta ese momento.
 
-Visual Style (Photoreal Enhancement):
-Live-action cinematic film quality, photorealistic
-Natural light–based cinematic lighting
-Lens characteristics (shallow depth of field, slight lens breathing)
-Handheld-like but stabilized POV camera motion
-Realistic motion blur
-4K RAW film look
-Cinematic color grading (no excessive CGI appearance)
+Estilo visual (mejora fotorrealista):
+Calidad de película cinematográfica de acción real, fotorrealista
+Iluminación cinematográfica basada en luz natural
+Características de lente (poca profundidad de campo, ligera respiración de lente)
+Movimiento de cámara POV tipo cámara en mano pero estabilizada
+Desenfoque de movimiento realista
+Aspecto de película 4K RAW
+Graduación de color cinematográfica (sin apariencia excesiva de CGI)
 
-Negative Prompt (for maintaining realism):
-Anime, CGI, or game engine-style visuals
-Drone view, aerial view, or third-person perspective
-HUD, UI, subtitles, markers, text overlays
-Route lines, guide lines, or map visualizations
-Excessive slow motion or unnatural speed changes
-Unrealistic floating sensation or gravity-defying motion
-Cuts or viewpoint transitions
-Overly smooth CGI-style camera movement
-Unrealistic horse movement
+Prompt negativo (para mantener el realismo):
+Visuales estilo anime, CGI o motor de juego
+Vista de dron, vista aérea o perspectiva en tercera persona
+HUD, UI, subtítulos, marcadores, superposiciones de texto
+Líneas de ruta, líneas guía o visualizaciones de mapas
+Cámara lenta excesiva o cambios de velocidad antinaturales
+Sensación de flotación poco realista o movimiento que desafía la gravedad
+Cortes o transiciones de punto de vista
+Movimiento de cámara estilo CGI excesivamente suave
+Movimiento de caballo poco realista
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060172486021685248/img/IpxHu_sAVfJwkyrw.jpg" width="600" alt="Medieval Knight Horseback POV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e05205527441c64fa6a674cc6daaec6/thumbnails/thumbnail.jpg" width="600" alt="POV de caballero medieval a caballo">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5471)**
 
 **Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Fuente:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **Publicado:** May 29, 2026
 
 ---
-### Cyberpunk Mumbai Werewolf Pursuit
+### Persecución de hombre lobo cyberpunk en Mumbai
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic 15-second action sequence set in a dystopian Mumbai with a robotic werewolf chasing a cyberpunk woman on a motorcycle.
+> Una secuencia de acción cinematográfica de 15 segundos ambientada en una Mumbai distópica, con un hombre lobo robótico persiguiendo a una mujer cyberpunk en motocicleta.
 
 #### 📝 Prompt
 
 ```
-Fast-paced dystopian cyberpunk action in a ruined Indian megacity at night. Burnt cars, neon Hindi signs flickering, smoke vents, broken flyovers, puddles reflecting pink and blue neon. Chaotic shaky cinematography, aggressive handheld tracking, dirty lens flares, speed ramps, practical lighting. Sound: roaring engines, distorted radio chatter, hydraulic servos, metallic growls, distant explosions.
+Acción cyberpunk distópica y trepidante en una megaciudad india en ruinas durante la noche. Coches quemados, letreros de neón en hindi parpadeando, conductos de ventilación con humo, pasos elevados rotos, charcos que reflejan neones rosas y azules. Cinematografía caótica y movida, seguimiento agresivo en mano, destellos de lente sucios, aceleraciones (speed ramps), iluminación práctica. Sonido: motores rugiendo, radio distorsionada, servos hidráulicos, gruñidos metálicos, explosiones distantes.
 
 ⸻
 
-0–2s — HOOK
+0–2s — GANCHO
 
-A tattooed Indian cyberpunk woman with shaved punk hair races through a destroyed street on a junkyard-built motorcycle made from exposed engine parts, welded scrap, and glowing cables.
+Una mujer cyberpunk india tatuada con el pelo rapado al estilo punk corre por una calle destruida en una motocicleta construida en un desguace, hecha de piezas de motor expuestas, chatarra soldada y cables brillantes.
 
-Behind her—
+Detrás de ella—
 
-A gigantic half-real, half-robotic werewolf crashes through burnt cars at full speed.
+Un gigantesco hombre lobo mitad real, mitad robótico, atraviesa coches quemados a toda velocidad.
 
-Metal claws scraping asphalt.
+Garras de metal raspando el asfalto.
 
-Hydraulic limbs flexing.
+Extremidades hidráulicas flexionándose.
 
-One glowing red cybernetic eye.
-
-⸻
-
-2–4s — ESCALATION
-
-Low shaky side-tracking shot.
-
-The cyber-werewolf runs unnaturally fast, sometimes on all fours, sometimes launching itself over wrecked vehicles.
-
-Its exposed mechanical spine sparks while flesh and metal shift together violently.
-
-Radio crackles in her ear.
-
-Male voice:
-
-“Get it in position!”
+Un ojo cibernético rojo brillante.
 
 ⸻
 
-4–7s — BUILD
+2–4s — ESCALADA
 
-She drifts hard around a pile of overturned taxis.
+Plano de seguimiento lateral bajo y movido.
 
-The werewolf slams through one car completely, sending debris flying across the road.
+El ciber-hombre lobo corre de forma antinaturalmente rápida, a veces a cuatro patas, a veces lanzándose sobre vehículos destrozados.
 
-It gains ground fast.
+Su columna mecánica expuesta echa chispas mientras la carne y el metal se desplazan violentamente.
 
-The woman shouts into the radio:
+La radio cruje en su oído.
 
-“I’m trying!”
+Voz masculina:
 
-Ahead through smoke and neon haze—
-
-a broken flyover ramp appears.
+“¡Ponlo en posición!”
 
 ⸻
 
-7–10s — COMMIT
+4–7s — DESARROLLO
 
-She accelerates directly toward the ramp.
+Ella derrapa con fuerza alrededor de una pila de taxis volcados.
 
-Cut to rooftop—
+El hombre lobo atraviesa un coche por completo, enviando escombros volando por toda la carretera.
 
-A man with a bazooka steadies his aim through heat distortion.
+Gana terreno rápidamente.
+
+La mujer grita por la radio:
+
+“¡Lo estoy intentando!”
+
+Más adelante, a través del humo y la neblina de neón—
+
+aparece una rampa de paso elevado rota.
+
+⸻
+
+7–10s — COMPROMISO
+
+Ella acelera directamente hacia la rampa.
+
+Corte a la azotea—
+
+Un hombre con un bazuca estabiliza su puntería a través de la distorsión por calor.
 
 Radio:
 
-“Bring it closer…”
+“Acércalo más…”
 
-The cyber-werewolf launches itself forward in massive leaps, nearly reaching the bike.
-
-⸻
-
-10–13s — BULLET TIME PAYOFF
-
-The woman hits the ramp and flies into the air.
-
-Bullet time engages.
-
-The cybernetic werewolf leaps upward behind her, claws reaching inches from her back.
-
-The bazooka fires.
-
-Rocket streaks through frame in slow motion.
-
-Direct impact into the werewolf’s chest.
-
-Explosion of sparks, fire, metal fragments, fur, and smoke.
+El ciber-hombre lobo se lanza hacia adelante en saltos masivos, casi alcanzando la moto.
 
 ⸻
 
-13–15s — FINAL BEAT
+10–13s — CLÍMAX EN CÁMARA LENTA
 
-Time snaps back.
+La mujer golpea la rampa y vuela por los aires.
 
-The woman lands hard, bike wobbling violently—
+Se activa la cámara lenta (bullet time).
 
-she regains control and speeds forward.
+El hombre lobo cibernético salta hacia arriba detrás de ella, con las garras a centímetros de su espalda.
 
-Behind her, the burning cyber-werewolf crashes through wrecked cars and explodes into debris.
+El bazuca dispara.
 
-She laughs into the radio:
+El cohete atraviesa el encuadre en cámara lenta.
 
-“Got him.”
+Impacto directo en el pecho del hombre lobo.
 
-The man cheers over comms.
+Explosión de chispas, fuego, fragmentos de metal, pelaje y humo.
 
-Cut.
+⸻
+
+13–15s — CIERRE FINAL
+
+El tiempo vuelve a la normalidad.
+
+La mujer aterriza con fuerza, la moto se tambalea violentamente—
+
+recupera el control y acelera hacia adelante.
+
+Detrás de ella, el ciber-hombre lobo en llamas choca contra coches destrozados y explota en escombros.
+
+Ella se ríe por la radio:
+
+“Lo tengo.”
+
+El hombre celebra por la radio.
+
+Corte.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0fab2eea50a88534f5e208367d91f57/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Mumbai Werewolf Pursuit">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0fab2eea50a88534f5e208367d91f57/thumbnails/thumbnail.jpg" width="600" alt="Persecución de hombre lobo cyberpunk en Mumbai">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=5434)**
 
@@ -4805,6 +4805,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-30T07:03:06.161Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-30T10:19:05.668Z</sub>
 
 </div>
