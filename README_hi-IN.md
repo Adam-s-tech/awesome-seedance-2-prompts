@@ -68,7 +68,7 @@ ByteDance के Seedance 2.0 के लिए उच्च गुणवत्�
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **3474** |
+| 📝 कुल प्रॉम्पट्स | **3523** |
 | ⭐ विशेष प्रॉम्पट्स | **6** |
 | 🔄 अंतिम अपडेट | **2026-05-30** |
 
@@ -361,6 +361,3036 @@ Seedance 2.0 का उपयोग करके रात में सिन�
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### Mega Crocodile vs Carnivorous Flower Pit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A terrifying jungle creature feature prompt featuring a giant crocodile falling into a pit of predatory carnivorous plants.
+
+#### 📝 प्रॉम्पट
+
+```
+Nightmare creature island. Dense prehistoric jungle. Giant ferns, twisted roots, thick humidity, insects screaming in the background. Sunlight barely reaches the ground. Hyper-real creature-feature action. Chaotic handheld cinematography, aggressive speed ramps, crash zooms, whip pans, low-angle tracking shots. Sound: crocodile roars, breaking trees, snapping plant jaws, frantic breathing.
+
+⸻
+
+0–2s — HOOK
+
+Low-angle handheld tracking shot.
+
+A survivor is already sprinting through dense jungle.
+
+Branches whip across frame.
+
+Behind him—
+
+A gigantic mega crocodile explodes through the vegetation.
+
+Forty feet long.
+
+Ancient scars covering its body.
+
+Trees snap in half as it charges.
+
+Its jaws slam shut inches behind him.
+
+⸻
+
+2–5s — ESCALATION
+
+Side tracking shot.
+
+The survivor jumps over roots and fallen logs.
+
+The crocodile ignores obstacles completely.
+
+It bulldozes through everything.
+
+Entire bushes and small trees are launched into the air.
+
+The gap between them shrinks rapidly.
+
+The survivor looks ahead—
+
+A strange clearing.
+
+⸻
+
+5–8s — FALSE SAFETY
+
+Wide shot.
+
+The survivor bursts into a beautiful field of enormous flowers.
+
+Bright colors.
+
+Huge petals.
+
+Completely peaceful.
+
+He doesn’t stop.
+
+Runs straight through.
+
+The crocodile follows at full speed.
+
+Then—
+
+The ground beneath the crocodile cracks.
+
+⸻
+
+8–11s — REVEAL
+
+Crash zoom downward.
+
+The entire flower field collapses.
+
+Hidden beneath it—
+
+A gigantic biological pit.
+
+Hundreds of flower stalks erupt upward.
+
+But these aren’t flowers.
+
+Each bloom opens into a circular mouth lined with jagged teeth.
+
+The crocodile falls directly into the center.
+
+⸻
+
+11–13s — CHAOS
+
+The flower creatures attack immediately.
+
+Dozens latch onto the crocodile.
+
+The beast thrashes violently.
+
+Flower heads are ripped apart.
+
+Others immediately replace them.
+
+The entire pit becomes a feeding frenzy.
+
+Petals.
+
+Teeth.
+
+Mud.
+
+Blood-red pollen exploding everywhere.
+
+⸻
+
+13–15s — SHOCKING PAYOFF
+
+The ground shakes.
+
+A colossal flower rises from the center of the pit.
+
+Its bloom is larger than a truck.
+
+It wraps around the struggling crocodile.
+
+Then violently launches it into the air.
+
+The giant flower opens fully—
+
+Catches the airborne crocodile whole—
+
+And swallows it in a single motion.
+
+The survivor stares in disbelief.
+
+Then the giant flower slowly turns toward him.
+
+Its mouth begins opening again.
+
+Hard cut to black.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/944b873cdbe26e5c1e2536607831457b/thumbnails/thumbnail.jpg" width="600" alt="Mega Crocodile vs Carnivorous Flower Pit">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5437)**
+
+**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2060509418903716012) | **प्रकाशित:** May 29, 2026
+
+---
+### Parasite Lake and Mutated Crocodile Horror Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A terrifying creature-feature video prompt featuring a survivor fleeing a forty-foot crocodile that undergoes a horrific mutation caused by glowing parasites.
+
+#### 📝 प्रॉम्पट
+
+```
+Nightmare jungle island. Black water lake surrounded by twisted mangrove roots, giant ferns, strange glowing plants, thick fog hanging over the water. The island feels biologically wrong. Hyper-real creature-feature action. Chaotic handheld cinematography, aggressive speed ramps, crash zooms, rapid cut-tos. Sound: splashing water, crocodile roars, parasite screeches, frantic breathing. Multiple shots. Like a movie scene. 
+
+⸻
+
+0–2s — HOOK
+
+Handheld chase shot.
+
+A survivor is already sprinting along the muddy shoreline.
+
+Behind him—
+
+A gigantic crocodile bursts through shallow water.
+
+Forty feet long.
+
+Ancient scars.
+
+Massive jaws snapping shut inches behind him.
+
+Mud and water explode everywhere.
+
+⸻
+
+2–5s — ESCALATION
+
+The survivor reaches the lake edge.
+
+No options left.
+
+The crocodile lunges.
+
+At the last second—
+
+He dives into the water.
+
+Cut underwater.
+
+The crocodile crashes into the lake behind him.
+
+A massive wall of bubbles and mud fills the frame.
+
+⸻
+
+5–8s — FALSE SAFETY
+
+Underwater tracking shot.
+
+The survivor swims deeper.
+
+Looks behind.
+
+The crocodile is still searching.
+
+Then something changes.
+
+Small glowing worm-like creatures emerge from the darkness.
+
+Hundreds of them with large jagged teeth
+
+Moving unnaturally fast.
+
+⸻
+
+8–11s — REVEAL
+
+The parasites attach themselves to the crocodile.
+
+One.
+
+Ten.
+
+Fifty.
+
+Hundreds.
+
+The crocodile thrashes violently.
+
+Its body starts mutating almost immediately.
+
+Extra limbs push through its sides.
+
+Additional jaws emerge from its neck.
+
+New eyes open beneath its scales.
+
+The water turns chaotic.
+
+⸻
+
+11–13s — CHAOS
+
+The survivor surfaces and pulls himself onto shore.
+
+Gasping for air.
+
+Relieved.
+
+Then the lake erupts.
+
+The mutated crocodile explodes upward.
+
+Twice as large.
+
+Covered in glowing parasites.
+
+Multiple jaws opening independently.
+
+⸻
+
+13–15s — SHOCKING PAYOFF
+
+The creature roars.
+
+Then one of the extra jaws tears open.
+
+Inside—
+
+Another fully formed crocodile head begins pushing outward.
+
+Growing from inside the first.
+
+The survivor stares in disbelief.
+
+The second head opens its eyes.
+
+Hard cut to black.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060499124030713856/img/j_Hg9QsHetZjRXW6.jpg" width="600" alt="Parasite Lake and Mutated Crocodile Horror Sequence">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5454)**
+
+**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2060499189478642005) | **प्रकाशित:** May 29, 2026
+
+---
+### Sled Dog Mutation Body Horror Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A terrifying body horror scene inspired by 'The Thing', depicting a frightened sled dog undergoing a violent biological transformation in an Antarctic outpost.
+
+#### 📝 प्रॉम्पट
+
+```
+Remote Antarctic outpost at night. Snowstorm outside. Dim yellow lighting inside a kennel room. Metal cages. Frost-covered windows. High-tension body horror with escalating dread and explosive transformation. Slow unease that detonates into chaos. Sound: wind, dog breathing, distant generator hum.
+
+⸻
+
+0–2s — HOOK
+
+Wide shot.
+
+A frightened sled dog bursts into a research statio
+
+Snow covering its fur.
+
+Researchers quickly shut the door behind it.
+
+Outside, the blizzard rages.
+
+The dog looks terrified.
+
+⸻
+
+2–4s— UNEASE
+
+Close-up.
+
+The dog sits quietly.
+
+Panting.
+
+Researchers watch the dog bark sing a them
+
+One scientist smiles.
+
+“Poor thing.”
+
+Everything seems normal.
+
+Too normal.
+
+⸻
+
+4-6s — THE WRONGNESS
+
+The dog suddenly stops panting.
+
+Its chest expands.
+
+Then expands more.
+
+Then keeps expanding.
+
+Far beyond what should be possible.
+
+The room goes silent.
+
+Nobody understands what they’re seeing.
+
+⸻
+
+6-9s — REVEAL
+
+Crash zoom.
+
+The dog’s ribcage begins opening.
+
+Slowly.
+
+Like flower petals.
+
+Skin stretches.
+
+Bones separate.
+
+Inside—
+
+Dozens of blinking eyes.
+
+All looking in different directions.
+
+Watching everyone.
+
+⸻
+
+9-12s — CHAOS
+
+The dog stands.
+
+Or what used to be a dog.
+
+Tentacles emerge.
+
+Additional limbs unfold from its body.
+
+The kennel erupts into panic.
+
+Scientists back away.
+
+One drops a flamethrower.
+
+⸻
+
+12-15s — PAYOFF
+
+The creature lunges across the kennel.
+
+Cages explode apart.
+
+Metal bends.
+
+People scream.
+
+Bullet-time moment.
+
+Eyes opening everywhere.
+
+Tentacles extending.
+
+The flamethrower ignites.
+
+Fire fills frame.
+
+The creature screams.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060496113569071104/img/qmQEocDuIi_zj2oa.jpg" width="600" alt="Sled Dog Mutation Body Horror Sequence">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5459)**
+
+**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2060496176521359470) | **प्रकाशित:** May 29, 2026
+
+---
+### FPV Airship Flight through Grand Harbor
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A breathtaking first-person view animation of a woman piloting a small white airship through a majestic fantasy harbor city, featuring high-speed FPV drone-style camera work and cinematic lighting.
+
+#### 📝 प्रॉम्पट
+
+```
+An ultra-beautiful professional anime video in first-person perspective of a woman piloting a one-person white airship. Red lines and arrows must not appear in the final video. Set in the majestic harbor city from the reference image, based in white and gold, the camera flies faithfully at ultra-high speed along the route indicated by red arrows, like an FPV drone. The camera starts from the sea on the left side of the screen, racing low across the surface of the blue harbor. Navigating between yachts, piers, white ships, and harbor architecture, it crosses the coastal city at high speed from left to center. It then accelerates toward the giant cathedral in the center, approaching closely as if skimming over the buildings. Just before passing the cathedral front, the camera surges upward along the main tower. Rising sharply with the power of looking up at the spire from directly below, it transitions into a grand overhead view of the entire city, harbor, and distant mountains. After crossing the top of the tower, the camera banks heavily to the right and orbits. Keeping the cathedral tower in the center of the screen, it circles dynamically clockwise, showing the white palace-like streets, blue sea, bridges, port facilities, and distant mountains in a flowing manner. Afterward, the camera passes over the city on the right at high speed and gently descends along the trajectory of the red line. It glides low over canal roads, squares, piers, and buildings with gold decorations, flying through toward the large glass-roofed building and port-side street in the right foreground. The video is cinematic, ultra-high definition, with smooth camera work, a strong sense of speed, natural motion blur, realistic atmosphere, water reflections, sunlight, three-dimensional clouds, and emphasizes the scale of a grand fantasy harbor city. Do not display any red guide lines, arrows, hand-drawn marks, annotations, or text.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060428594497896449/img/s6hkHrX4qBXQrxyD.jpg" width="600" alt="FPV Airship Flight through Grand Harbor">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5470)**
+
+**लेखक:** [妖精アーヤさん](https://x.com/aiehon_aya) | **स्रोत:** [Link](https://x.com/aiehon_aya/status/2060481313145262213) | **प्रकाशित:** May 29, 2026
+
+---
+### 90s Disney Style Anubis Animation
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed multi-scene prompt for Seedance 2.0 creating a 90s Disney style animation where the god Anubis is defeated by tickling.
+
+#### 📝 प्रॉम्पट
+
+```
+Classic 90s Disney animation style. Scene 1 [0-3 seconds]: In front of a palace in the desert, the powerful jackal god Anubis is performing magic. He raises his arms slightly, lightning magic gathering in his clawed palms, and says in his majestic voice: 'Humans, you will pay for your arrogance!' Lightning flashes near him several times. In front of him, three humans (two men and one woman) look at him nervously, wanting to stop the evil Anubis but not knowing how. Scene 2 [4-6 seconds]: A close-up of Anubis's face. Anubis threatens with an evil smile: 'You are finished.' Then he lets out an evil laugh. He continues to laugh evilly, then closes his eyes, and the laughter turns into a ticklish laugh, indicating he is very ticklish and something is scratching him. Scene 3 [7-9 seconds]: The camera slowly pulls back to show the woman standing next to Anubis, gently moving a feather up and down under Anubis's armpit and repeating the action. Anubis closes his eyes, grins broadly, raises his arms to reveal his armpits, and giggles. Scene 4 [10-12 seconds]: The woman continues to move the feather up and down under Anubis's armpits, and Anubis continues to giggle. Meanwhile, the light magic gradually fades, leaving only the sun. Anubis laughs and laughs, unable to focus on feeling the magic. Anubis laughs so hard he falls to one knee, one arm raised high to reveal his armpit, letting the feather tickle him, while the other empty hand pounds the ground, laughing continuously. Scene 5 [13-14 seconds]: The woman continues to tickle Anubis's armpit with the feather, and Anubis continues to laugh heartily, shouting in a giggling voice: 'Stop torturing me! Don't do this!' then continues to giggle. The two men watch this scene, relieved that they stopped the evil Anubis. Anubis is muscular, with rings on his arms and neck. He is shirtless. His voice is deep and magnetic, yet full of power. His hands are claws. Audio in English.
+```
+
+<img src="https://pbs.twimg.com/media/HJhF1qkWEAMznW5.jpg" width="600" alt="90s Disney Style Anubis Animation">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5464)**
+
+**लेखक:** [migrok](https://x.com/migrok293703) | **स्रोत:** [Link](https://x.com/migrok293703/status/2060473171812511979) | **प्रकाशित:** May 29, 2026
+
+---
+### Brutalist Architecture Rotring Product Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sophisticated brutalist-themed commercial for a Rotring pencil, featuring architectural visualization, massive concrete structures, and realistic lighting.
+
+#### 📝 प्रॉम्पट
+
+```
+Use the attached image for the pencil reference.
+
+Style: Brutalist architecture, luxury product commercial, architectural visualization, ultra-realistic cinematography, raw concrete, exposed rebar, monumental scale, Porsche Design precision, Apple-level minimalism, cinematic lighting, volumetric dust, photoreal VFX.
+
+0:00–0:03
+
+Pure black. A single red line appears in darkness. The line glows softly. The camera follows it. As it moves forward, enormous concrete walls begin rising from the ground. Massive slabs. Raw geometry. Monolithic forms. The line is literally building architecture.
+
+SFX: Deep architectural bass, concrete resonance, heavy structural impacts, distant industrial ambience.
+
+VOICEOVER: "Every structure begins with a line."
+
+0:03–0:06
+
+The camera accelerates through a sprawling brutalist megacity. Towering concrete masses. Suspended walkways. Exposed steel reinforcement. Gigantic voids and shadows. The red line snakes through the city like an artery. Unnoticed by the viewer, the city's geometry subtly mirrors the proportions of a Rotring.
+
+MUSIC: Minimal industrial pulse, mechanical rhythm, slow cinematic build.
+
+VOICEOVER: "A line becomes a wall." "A wall becomes a city."
+
+0:06–0:10
+
+The camera rises thousands of feet above the metropolis. The full scale is revealed. A breathtaking brutalist world stretching to the horizon. Then the impossible happens. The entire city begins lifting from the ground. Buildings detach. Bridges separate. Concrete fragments float upward. The audience realizes the city was never a city. It was a product.
+
+SFX: Structural groans, concrete fractures, low-frequency shockwaves, massive whooshes.
+
+0:10–0:13
+
+Millions of concrete particles and rusted steel elements spiral inward. Everything converges. The megastructure collapses into a single object. Your brutalist Rotring emerges. Raw. Scarred. Unbreakable. Floating in white space.
+
+MUSIC: Full orchestral rise, massive cinematic hit.
+
+VOICEOVER: "Some tools create architecture." "This one became it."
+
+0:13–0:15
+
+Hero shot. The Rotring slowly rotates. Dust falls from the concrete surface. The red ring catches the light. Silence. A precise mechanical click.
+
+VOICEOVER: "Rotring." Pause. "Drawn from concrete."
+
+END FRAME
+
+ROTRING
+
+DRAWN FROM CONCRETE
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060457916994371585/img/pAhza1w9gkWEHbBQ.jpg" width="600" alt="Brutalist Architecture Rotring Product Commercial">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5455)**
+
+**लेखक:** [Ege](https://x.com/egeberkina) | **स्रोत:** [Link](https://x.com/egeberkina/status/2060458879369216202) | **प्रकाशित:** May 29, 2026
+
+---
+### Cliffside Highway Coastal Disaster Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic and high-energy video prompt depicting a coastal disaster where a motorcycle rider races along a collapsing cliffside highway amidst a violent storm.
+
+#### 📝 प्रॉम्पट
+
+```
+Hyperrealistic cinematic coastal disaster, ocean cliff highway, violent atmospheric storm surge, road erosion physics, continuous high-speed motion, ground-level chase perspective behind motorcycle rider (no visible hands emphasis), wind pressure, collapsing asphalt, hard cuts only, no fade, no dissolve, no morph transition
+
+Shot 1: Camera follows a motorcycle racing along a narrow cliffside road above violent ocean waves
+Cut to Shot 2: Cliff face begins collapsing sideways into the sea in massive chunks
+Cut to Shot 3: Road surface fractures directly under the motorcycle, forcing rapid lane shifts
+Cut to Shot 4: Ocean surge rises vertically against cliff, forming a moving wall of water
+Cut to Shot 5: FULL ACTION as entire highway segments detach and fall while motorcycle threads through collapsing gaps
+Cut to Shot 6: IMPOSSIBLE MOMENT: rider crosses a falling road slab rotating mid-air before landing back onto a narrowing strip
+Cut to Shot 7: Cliffline breaks continuously, shortening the path every second
+Cut to Shot 8: Wind and spray create near-whiteout as ocean overtakes lower cliff levels
+Cut to Shot 9: Final: road ends mid-collapse as ocean surge engulfs the frame
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/794f8c6e7e0ee90df6af1941f5c87e03/thumbnails/thumbnail.jpg" width="600" alt="Cliffside Highway Coastal Disaster Video Prompt">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5440)**
+
+**लेखक:** [Alexandra Aisling](https://x.com/AllaAisling) | **स्रोत:** [Link](https://x.com/AllaAisling/status/2060448088674935036) | **प्रकाशित:** May 29, 2026
+
+---
+### Mega Crocodile Swamp Spider Chase
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-tension creature-feature script featuring a swamp chase between a giant crocodile and camouflaged jungle spiders.
+
+#### 📝 प्रॉम्पट
+
+```
+Tropical nightmare island. In South East Asia   - Dense jungle, giant mangrove roots, thick fog hanging over dark swamp water. Everything feels prehistoric and hostile. Fast-paced creature-feature action. Aggressive handheld camera, rapid cut-tos, speed ramps, chaotic movement. Sound: splashing water, crocodile roars, spider chittering, breaking wood.
+
+⸻
+
+0–2s — HOOK
+
+Low angle tracking shot.
+
+A survivor is already sprinting through waist-deep swamp water.
+
+Behind him—
+
+A gigantic crocodile explodes from the water.
+
+At least 40 feet long.
+
+Ancient scars.
+
+Massive jaws snapping shut inches behind him.
+
+Water erupts everywhere.
+
+⸻
+
+2–5s — ESCALATION
+
+Handheld chase shot.
+
+The survivor reaches a giant fallen tree spanning the swamp and scrambles onto it.
+
+The crocodile follows below.
+
+Crashing through roots.
+
+Biting chunks from the log.
+
+The survivor almost loses balance.
+
+The crocodile launches upward.
+
+Misses by inches.
+
+⸻
+
+5–8s — FALSE RELIEF
+
+The survivor reaches the center of the log.
+
+Finally gains distance.
+
+Breathing hard.
+
+Then—
+
+The log moves.
+
+At first slightly.
+
+Then again.
+
+The survivor freezes.
+
+Looks down.
+
+⸻
+
+8–11s — REVEAL
+
+Crash zoom.
+
+The entire fallen tree is covered with giant camouflage spiders.
+
+Hundreds of them.
+
+Some the size of dogs.
+
+Others much larger.
+
+They begin emerging from cracks and bark.
+
+The survivor realizes he’s standing in a nest.
+
+⸻
+
+11–13s — CHAOS
+
+The spiders swarm.
+
+The survivor sprints.
+
+The crocodile charges onto the log after him.
+
+Spiders begin attacking both.
+
+Webs firing.
+
+Legs everywhere.
+
+The entire bridge becomes a three-way battle.
+
+⸻
+
+13–15s — PAYOFF
+
+Wide shot.
+
+A giant alpha spider drops from above onto the crocodile’s back.
+
+The crocodile rolls violently into the swamp.
+
+Spider and crocodile disappear into the water fighting.
+
+The survivor leaps off the end of the log and disappears into the jungle.
+
+Behind him—
+
+Water erupts as the monsters continue battling.
+
+Hard cut.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8f322adc101f65dfad710118c2310e6a/thumbnails/thumbnail.jpg" width="600" alt="Mega Crocodile Swamp Spider Chase">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5438)**
+
+**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2060440976561508389) | **प्रकाशित:** May 29, 2026
+
+---
+### Heavenly Rivalry Xianxia Action Film Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for a high-end martial arts confrontation between two legendary Chinese figures at an ancient mountain temple.
+
+#### 📝 प्रॉम्पट
+
+```
+Ultra-realistic cinematic AAA Xianxia action film inspired by high-end martial arts fantasy and Black Myth Wukong combat energy. Ancient stormy mountain temple ruins above the clouds at night, rain, fog, burning incense embers drifting through the air. Erlang Shen and Sun Wukong face each other in silence before battle.
+
+Erlang Shen [Image1] : divine Chinese god warrior, silver-black celestial armor, red waist cloth, third eye glowing faintly, wielding an enormous three-pointed double-edged spear.
+Sun Wukong [Image2] : legendary monkey king, dark golden fur details, battle-worn ornate armor, flaming phoenix-red cloth strips, holding the Ruyi Jingu Bang staff.
+
+Both characters use attached face references exactly.
+No cartoon style. Pure cinematic realism.
+
+The camera begins with extreme close-ups of wet armor, eyes, fingers gripping weapons, boots sliding across stone. Sudden explosive movement — Wukong [Image2] vanishes using cloud-step speed movement, appearing behind Erlang Shen [Image1]  instantly. Erlang blocks without looking using the spear shaft. Sparks explode. Shockwaves ripple through rain puddles.
+
+Rapid wuxia movement, superhuman agility, gravity-defying martial arts, realistic cloth physics, detailed rain simulation, cinematic debris.
+
+Chinese dialogue only:
+Sun Wukong [Image2] : “Yang Jian, you're still the same.”
+Erlang Shen [Image1] : “This time, I won't let you escape.”
+
+English subtitles burned-in.
+
+CAMERA:
+ARRI Alexa 65
+Lens: Atlas Orion Anamorphic 40mm and 65mm
+Fast handheld + drone-like orbital tracking + speed ramping
+
+LIGHTING:
+Cold moonlight mixed with warm fire embers
+
+COLOR GRADING:
+Dark teal, silver, gold highlights, high contrast cinematic grading, subtle film grain
+
+NO MUSIC.
+Only rain, wind, footsteps, weapon impacts, cloth movement, thunder, breathing.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060421670540918784/img/9y80epF-AYgsLLei.jpg" width="600" alt="Heavenly Rivalry Xianxia Action Film Prompt">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5443)**
+
+**लेखक:** [Paween Chantaraudorn](https://x.com/LumPaween64255) | **स्रोत:** [Link](https://x.com/LumPaween64255/status/2060421985608597798) | **प्रकाशित:** May 29, 2026
+
+---
+### The Thing Inspired Antarctic Horror Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-tension horror cinematic sequence set in an Antarctic research station, following survivors as they realize one of them has mutated with a disturbing physical reveal.
+
+#### 📝 प्रॉम्पट
+
+```
+Antarctic research station during a blizzard. Emergency backup power only. Red warning lights. Frost-covered walls. Metal doors sealed shut. Breath visible in the freezing air. High-tension paranoia horror with sudden explosive chaos. Aggressive push-ins, handheld camera, crash zooms, rapid cut-tos. Sound: distant wind, metal creaking, nervous breathing.
+
+⸻
+
+0–2s — HOOK
+
+Handheld shot.
+
+Four survivors burst into a small storage room.
+
+One slams the heavy steel door shut.
+
+Another locks it.
+
+Everyone breathing hard.
+
+Outside—
+
+Something slams against the door.
+
+Then silence.
+
+⸻
+
+2–5s — FALSE SAFETY
+
+Close-up cut-tos.
+
+One survivor checks the lock.
+
+Another collapses against the wall.
+
+A young woman starts crying.
+
+Everyone finally believes they’ve escaped.
+
+A man kneels beside her.
+
+“It’s okay. We’re safe.”
+
+⸻
+
+5–8s — THE DETAIL
+
+The crying woman slowly looks up.
+
+Something catches her eye.
+
+Crash zoom.
+
+The comforting man’s hand.
+
+Six fingers.
+
+Not five.
+
+Six.
+
+Nobody notices.
+
+Except her.
+
+⸻
+
+8–11s — REVEAL
+
+Her face changes instantly.
+
+Fear.
+
+Pure terror.
+
+She points.
+
+Everyone turns.
+
+The man looks confused.
+
+Then looks at his own hand.
+
+Six fingers.
+
+A beat of silence.
+
+Nobody moves.
+
+Nobody knows how long he’s been like that.
+
+⸻
+
+11–13s — BREAKDOWN
+
+The man slowly backs away.
+
+“Wait… I don’t know…”
+
+His fingers begin moving.
+
+Separating.
+
+Stretching.
+
+Additional joints forming.
+
+His hand starts opening like a flower.
+
+Everyone panics.
+
+Weapons come up.
+
+⸻
+
+13–15s — PAYOFF
+
+His arm violently splits open.
+
+Tendrils explode outward.
+
+The room erupts into chaos.
+
+People scream.
+
+Someone fires a flare.
+
+Red light fills the room.
+
+The transforming creature lunges toward camera. Cut.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060414372942589952/img/ufyEKo35EGdI8sfy.jpg" width="600" alt="The Thing Inspired Antarctic Horror Scene">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5452)**
+
+**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2060414433692946561) | **प्रकाशित:** May 29, 2026
+
+---
+### Antarctic Research Station Blood Test Horror
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A suspenseful horror prompt depicting survivors in an Antarctic station conducting a plasma test, leading to a violent monster revelation.
+
+#### 📝 प्रॉम्पट
+
+```
+Interior Antarctic research station. Emergency lighting only. Red warning lights. Metal walls. Breath visible from the cold. Everybody is exhausted, terrified, suspicious of one another. High-tension horror with sudden explosive action. Fast cuts, push-ins, handheld movement.
+
+⸻
+
+0–2s — HOOK
+
+Close-up.
+
+A wire is lowered into a plasma sample.
+
+Six survivors stand around a metal table.
+
+Nobody speaks.
+
+Everybody watches.
+
+A flamethrower waits nearby.
+
+One survivor even laughs nervously.
+
+The tension starts breaking.
+
+⸻
+
+2-4s — REVEAL
+
+The next  plasma sample suddenly jumps.
+
+Not much.
+
+Just a twitch.
+
+Everyone freezes.
+
+Then—
+
+The sample launches off the table.
+
+Screaming.
+
+Moving on its own.
+
+Pure panic.
+
+⸻
+
+4-7s — CHAOS
+
+Everyone immediately backs away.
+
+The owner of the plasma looks confused.
+
+Then his chest caves inward.
+
+His ribs begin moving.
+
+Cracking.
+
+Breaking.
+
+Rearranging.
+
+Crash zoom.
+
+His ribcage unfolds outward like giant spider legs.
+
+⸻
+
+7-10s — THE THING
+
+His body expands violently.
+
+Jaw splits.
+
+Neck stretches.
+
+Limbs bend backward.
+
+The creature erupts across the room.
+
+Tables flip.
+
+Equipment explodes.
+
+People are screaming.
+
+One survivor grabs the flamethrower.
+
+⸻
+
+10-13s — PAYOFF
+
+Bullet-time moment.
+
+The transformed creature launches toward the group.
+
+The flamethrower ignites.
+
+A wall of fire fills frame.
+
+The creature screams.
+
+Fire engulfs the room.
+
+The survivors dive for cover.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060409711829327872/img/3khcBcKfc9rL2Ggp.jpg" width="600" alt="Antarctic Research Station Blood Test Horror">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5458)**
+
+**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2060409772688777582) | **प्रकाशित:** May 29, 2026
+
+---
+### Wukong vs Erlang Shen Epic Fantasy Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-action AAA fantasy martial arts battle prompt featuring Sun Wukong and Erlang Shen in a flooded canyon with complex physics.
+
+#### 📝 प्रॉम्पट
+
+```
+Epic AAA fantasy martial arts battle in a giant flooded canyon beneath dark storm clouds. Ultra-realistic cinematic style. Water reflects lightning flashes as Erlang Shen [Image1]  and Sun Wukong [Image2]  unleash supernatural abilities.
+
+Erlang Shen [Image1] opens his celestial third eye fully for the first time — massive divine energy erupts outward in glowing golden-white waves. The clouds split open above him. Floating rocks rise into the air.
+
+Sun Wukong [Image2] slams the Ruyi Jingu Bang into the ground, creating a colossal shockwave that parts the flood water and launches giant stone fragments upward. He spins the staff at extreme speed, deflecting divine energy beams.
+
+The two collide mid-air with overwhelming force. Their weapons lock together while lightning flashes around them. Slow-motion facial close-ups show determination and rage.
+
+Hyper-realistic water physics, volumetric fog, cinematic lightning, dynamic environmental destruction, wuxia wire-action realism blended with grounded physics.
+
+Chinese dialogue only:
+Sun Wukong: “The Heavens cannot trap me.”
+Erlang Shen: “Then let me personally suppress you.”
+
+English subtitles burned-in.
+
+CAMERA:
+RED V-RAPTOR XL
+Lens: Leica Summilux-C
+
+CAMERA MOVEMENT:
+Aggressive crane dives, rotating aerial shots, ultra-fast tracking, dramatic slow-motion impact frames
+
+COLOR GRADING:
+Storm gray, celestial gold, deep black shadows, cinematic bloom highlights
+
+NO MUSIC.
+Only lightning, explosions, water impacts, roaring wind, weapon resonance.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/530a5f0a0c22a8b42b48b051da340045/thumbnails/thumbnail.jpg" width="600" alt="Wukong vs Erlang Shen Epic Fantasy Battle">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5444)**
+
+**लेखक:** [Paween Chantaraudorn](https://x.com/LumPaween64255) | **स्रोत:** [Link](https://x.com/LumPaween64255/status/2060402691818570140) | **प्रकाशित:** May 29, 2026
+
+---
+### Fluffy Cat CEO Corporate Boardroom Drama
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A humorous prestige-drama style video prompt featuring an orange tabby cat as a CEO swiping a laptop off a conference table and meowing at employees.
+
+#### 📝 प्रॉम्पट
+
+```
+Characters: CEO is a fluffy orange tabby cat wearing a fitted navy suit and tie, seated at the head of a long glass conference table. Human employees in business attire fill the seats around the table. Scene: Luxury corporate boardroom, floor-to-ceiling windows overlooking a city skyline, framed charts and graphs on a large display screen behind the cat. Style: Prestige drama film tone, dry deadpan comedy, warm amber-mahogany palette, shallow depth of field, subtle film grain. Lighting: Warm overhead pendant lights, soft golden rim light on the cat, cool blue daylight spilling from the city windows. Audio: Tense orchestral underscore with low brass swells, sharp SFX punctuation on each cat action, muffled office ambiance, AC hum. [0-3s] — Establishing Camera: Slow wide push-in from the back of the boardroom. Action: The orange cat in a suit stands at the head of the table, raising one paw and tapping a bar chart on the display screen behind him. Lighting: Warm amber overhead wash, screen glow backlighting the cat. SFX: Low orchestral swell, soft pointer tap on screen. [3-6s] — Employees React Camera: Fixed medium shot across the table, facing the employees. Hard cut from previous shot. Action: Six nervous employees begin clapping stiffly, eyes wide, smiles strained and hollow. Lighting: Even cool overhead office light, slight shadow under each face. SFX: Slow, uncertain applause, a throat-clear, shuffling papers. [6-10s] — Laptop Incident Camera: Low tabletop angle, fixed. Hold. Action: The cat slowly turns, locks eyes with an open laptop at the edge of the table, then swipes it cleanly off with one deliberate paw. Lighting: Warm side light on cat, deep shadow behind. SFX: Sharp laptop crash on floor, echoing in the silent room. Gasps from employees. [10-13s] — Dramatic Zoom Camera: Slow push-in to extreme close-up on the cat's face. Action: The cat's eyes narrow. Its mouth opens in a wide, silent, furious meow — jaw fully extended. Lighting: Single warm overhead spot, deep dramatic shadow framing both cheeks. SFX: Orchestral sting, dead silence — then a single low bass hit on the meow. [13-15s] — Title Card Beat Camera: Static wide shot, full boardroom. Hold. Action: The cat sits back down calmly, adjusting its tie. The employees stare frozen. Dialogue: "Quarterly profits are down." Lighting: Room dims slightly, cool blue from the windows takes over. SFX: Low cello note sustains. Silence. Avoid: Identity drift on the cat between shots, jitter, temporal flicker, chaotic composition
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060390717906878464/img/Ic3YA7Qzjgl0a_dc.jpg" width="600" alt="Fluffy Cat CEO Corporate Boardroom Drama">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5460)**
+
+**लेखक:** [Jasmine Ai](https://x.com/jasminekhan90_) | **स्रोत:** [Link](https://x.com/jasminekhan90_/status/2060390860559409594) | **प्रकाशित:** May 29, 2026
+
+---
+### 1980s Gritty Film Noir Mafia Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly complex cinematic prompt for generating a realistic 1980s mob-themed sequence with 35mm film grain and practical lighting.
+
+#### 📝 प्रॉम्पट
+
+```
+Style: 1980s 35mm film. Anamorphic grain. Practical lighting only. Real location street. No digital polish. Looks like it was actually shot on location in 1982.
+Camera: Mix of styles — slow tracking steadicam, tight close-ups, low angle wide, slow motion on key moments. Deep shadows. Film burn on cuts.
+Environment: Real wet cobblestone street at dusk. Old brick buildings. Dim tungsten storefronts. Smoke in the air. Parked vintage cars lining the street. Feels like lived-in 1980s New York or Chicago.
+Crowd: Real-looking 1980s dressed pedestrians. Naturally parting. Silent. Watching with deep respect. Faces weathered and real — no smooth AI skin.
+SCENE:
+Wide low angle slow-mo: Three figures emerge from shadow. Long black coats. Wet cobblestone reflecting their silhouettes. Crowd silently parts.
+Close-up slow-mo: @ img face — hat brim casting shadow over eyes. Cigar smoke curling past the lens. Expression unreadable.
+Wide tracking shot: The trio walks forward. Six bodyguards moving like a wall around them. Every face in the crowd watching.
+Close-up: His hand — cigar between fingers. Smoke trail. Slow motion.
+Low angle wide: Vintage black Cadillac DeVille waiting. Engine idling. Door opens.
+Close-up slow-mo: He takes one final drag. Exhales. Steps inside. Door shuts.
+Wide: Car pulls away into dark wet street. Crowd watches in silence.
+Lock phrases: 1980s 35mm grain, anamorphic flare, no AI rendering, no digital sharpness, practical location lighting, real human skin texture, photochemical film look, gritty realism, no color grading, raw film negative aesthetic
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8aaa36afa844d45d1651dd2f441f5a2/thumbnails/thumbnail.jpg" width="600" alt="1980s Gritty Film Noir Mafia Scene">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5432)**
+
+**लेखक:** [WasifAI](https://x.com/doctorwasif) | **स्रोत:** [Link](https://x.com/doctorwasif/status/2060382063317102961) | **प्रकाशित:** May 29, 2026
+
+---
+### The Hive Queen Escape Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive sci-fi horror video prompt for Seedance 2.0 featuring an astronaut fleeing a swarm in an alien hive.
+
+#### 📝 प्रॉम्पट
+
+```
+Nightmarish alien hive deep beneath the surface of a hostile planet. Organic tunnels, pulsing walls, glowing biological veins, hanging egg sacs, dripping acid. Everything feels alive. High-intensity survival horror. Fast cuts, handheld chaos, rapid camera movement. Sound: insect screeches, biological clicking, suit alarms, collapsing organic structures.
+
+⸻
+
+0–2s — HOOK
+
+Helmet POV.
+
+An astronaut is already sprinting through a living alien hive.
+
+Dozens of insectoid creatures chase him.
+
+Multiple legs.
+
+Bladed limbs.
+
+Glowing mouths.
+
+They swarm across walls, ceilings, and floors.
+
+Closing fast.
+
+⸻
+
+2–5s — ESCALATION
+
+Side tracking shot.
+
+The astronaut turns a corner and enters a gigantic chamber.
+
+At its center—
+
+The Hive Queen.
+
+Massive.
+
+Bloated.
+
+Attached to the chamber by thick biological tendrils.
+
+Thousands of glowing eggs surround her.
+
+The swarm continues closing in behind him.
+
+⸻
+
+5–8s — BUILD
+
+The astronaut reaches a rocky ledge overlooking the egg chamber.
+
+No escape route.
+
+Creatures approaching from every direction.
+
+He quickly pulls out a mining laser.
+
+The queen notices him.
+
+The entire chamber begins vibrating.
+
+⸻
+
+8–11s — THE PLAN
+
+Close-up.
+
+The astronaut aims directly at the largest glowing egg structure.
+
+He fires.
+
+The mining laser slices through the organic mass.
+
+A chain reaction begins.
+
+Cracks spread through the egg cluster.
+
+Biological fluid erupts everywhere.
+
+⸻
+
+11–13s — CHAOS
+
+The Hive Queen immediately attacks her own swarm.
+
+Protecting the eggs.
+
+Massive limbs crush dozens of creatures.
+
+The chamber collapses.
+
+Walls rupture.
+
+Eggs explode.
+
+Insects begin attacking each other.
+
+Complete chaos.
+
+⸻
+
+13–15s — PAYOFF
+
+An organic bridge breaks loose beneath the astronaut.
+
+He rides it like a collapsing surfboard toward an exit tunnel.
+
+Behind him—
+
+The Queen and swarm devour each other amidst the collapsing hive.
+
+The astronaut shoots out of the tunnel just as the entire chamber implodes.
+
+Darkness.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09ee6b2bfdfda318594b7473e7dfa590/thumbnails/thumbnail.jpg" width="600" alt="The Hive Queen Escape Video Prompt">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5426)**
+
+**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2060377183479382356) | **प्रकाशित:** May 29, 2026
+
+---
+### The Crystal Worm Ambush Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed, multi-stage storyboard prompt for Seedance 2.0 depicting an astronaut escaping a giant crystal worm on an alien planet.
+
+#### 📝 प्रॉम्पट
+
+```
+Ultra-hostile alien planet. Endless desert made entirely of gigantic glowing crystal formations. Violet skies, twin suns, electrical storms in the distance. Every crystal emits strange bioluminescent pulses. Survival horror action. Chaotic handheld camera, aggressive speed ramps, rapid cut-tos, dynamic camera angles. Sound: crystal resonance hums, astronaut breathing, deep underground rumbling.
+
+⸻
+
+0–2s — HOOK
+
+Wide aerial shot.
+
+An astronaut is already sprinting across a glowing crystal desert.
+
+Suddenly—
+
+The ground erupts behind him.
+
+A colossal alien crystal worm explodes upward.
+
+Hundreds of meters long.
+
+Its body covered in razor-sharp translucent crystal plates.
+
+⸻
+
+2–5s — ESCALATION
+
+Helmet POV.
+
+The worm crashes back underground.
+
+Crystal shards rain everywhere.
+
+The astronaut dodges flying debris while running.
+
+The desert ahead begins rippling.
+
+The worm is moving beneath him.
+
+Fast.
+
+Very fast.
+
+⸻
+
+5–8s — BUILD
+
+Low angle tracking shot.
+
+The astronaut spots a gigantic crystal spire ahead.
+
+He jumps onto its base and begins climbing.
+
+The worm erupts again.
+
+This time directly beside him.
+
+Its jaws snap shut inches from his body.
+
+The impact fractures the entire spire.
+
+⸻
+
+8–11s — CHAOS
+
+Wide shot.
+
+The crystal tower begins collapsing.
+
+The astronaut slides down the falling structure.
+
+Crystal fragments the size of vehicles tumble everywhere.
+
+The worm smashes through multiple crystal formations trying to intercept him.
+
+The entire landscape explodes into chaos.
+
+⸻
+
+11–13s — THE PLAN
+
+The astronaut lands hard.
+
+Rolls.
+
+Pulls a distress flare from his suit.
+
+The worm erupts directly ahead.
+
+Its mouth opens wide.
+
+Rows of crystalline teeth.
+
+Bullet time.
+
+The astronaut throws the flare.
+
+⸻
+
+13–15s — PAYOFF
+
+The flare disappears into the worm’s throat.
+
+A pulse travels through its transparent crystal body.
+
+The entire creature begins glowing.
+
+Brighter.
+
+Brighter.
+
+Then—
+
+A massive resonance explosion tears through its body from the inside.
+
+Crystal shards erupt across the desert.
+
+The astronaut shields himself.
+
+Silence.
+
+Only glowing fragments falling from the sky
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060363429693820928/img/Jo9oNYVszL6J0i5j.jpg" width="600" alt="The Crystal Worm Ambush Video Prompt">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5423)**
+
+**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2060363498744586530) | **प्रकाशित:** May 29, 2026
+
+---
+### Cinematic Anime Tennis Match Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a high-energy anime-style tennis match video set against a warm sunset, featuring cinematic lighting and soft lens flares.
+
+#### 📝 प्रॉम्पट
+
+```
+Create a cinematic anime tennis match video at sunset on an outdoor court with chain-link fence, warm golden light, soft lens flare, realistic court shadows, and energetic match atmosphere.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060362855858458624/img/zbdgrbVffxEhWQoV.jpg" width="600" alt="Cinematic Anime Tennis Match Video">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5463)**
+
+**लेखक:** [Abdul Șhakoor](https://x.com/abxxai) | **स्रोत:** [Link](https://x.com/abxxai/status/2060362950788121082) | **प्रकाशित:** May 29, 2026
+
+---
+### The Lava Beast Duel Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed action-horror storyboard prompt for Seedance 2.0 depicting a struggle between an astronaut and a lava beast in a volcanic environment.
+
+#### 📝 प्रॉम्पट
+
+```
+Nightmarish volcanic alien world. Rivers of lava cutting through black mountains. Ash storms. Exploding gas vents. Red lightning inside thick smoke clouds. Survival horror action. Fast-paced camera work, violent handheld energy, rapid cuts, speed ramps. Sound: volcanic eruptions, creature roars, jetpack bursts, collapsing rock.
+
+⸻
+
+0–2s — HOOK
+
+Wide shot.
+
+An astronaut is already running along a narrow volcanic ridge.
+
+Behind him—
+
+A gigantic lava-covered alien beast charges.
+
+Twelve feet tall.
+
+Molten cracks glowing across its body.
+
+Every footstep throws sparks and molten rock.
+
+⸻
+
+2–5s — ESCALATION
+
+Side tracking shot.
+
+The beast rapidly closes distance.
+
+The astronaut fires a plasma rifle over his shoulder.
+
+The shots hit.
+
+Nothing happens.
+
+The creature keeps coming.
+
+A gas vent erupts beside them.
+
+Fire blasts into the sky.
+
+⸻
+
+5–8s — BUILD
+
+The ridge narrows.
+
+Lava rivers on both sides.
+
+The astronaut slips.
+
+Recovers.
+
+The beast launches itself forward.
+
+Its claws barely miss his suit.
+
+Ash and molten debris fill the frame.
+
+⸻
+
+8–11s — CHAOS
+
+Overhead drone-style shot.
+
+The entire ridge begins collapsing beneath their combined weight.
+
+Massive chunks break away.
+
+The astronaut jumps across a widening gap.
+
+The beast follows.
+
+The jump cracks the remaining rock.
+
+Everything starts falling.
+
+⸻
+
+11–13s — PAYOFF BUILD
+
+The ridge gives way completely.
+
+Astronaut and beast plunge toward a raging lava river.
+
+Bullet time.
+
+The astronaut grabs a hanging volcanic rock formation.
+
+The beast falls below him.
+
+⸻
+
+13–15s — FINAL PAYOFF
+
+The creature crashes into the lava.
+
+Molten rock erupts everywhere.
+
+The astronaut looks down—
+
+Relieved.
+
+Then suddenly—
+
+The beast erupts back out of the lava completely engulfed in fire.
+
+Roaring.
+
+Launching itself toward him.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1bbc3d26077cca6baea2fb93e536684c/thumbnails/thumbnail.jpg" width="600" alt="The Lava Beast Duel Video Prompt">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5429)**
+
+**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2060360339628364155) | **प्रकाशित:** May 29, 2026
+
+---
+### Epic Mammoth Charge Survival Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A thrilling fantasy video prompt set on a frozen tundra where a hunter lures a giant white werewolf into the middle of a woolly mammoth stampede.
+
+#### 📝 प्रॉम्पट
+
+```
+Epic fantasy survival sequence set on a vast frozen tundra beneath storm-filled northern skies. Endless snowfields stretch to the horizon. Winds whip across the landscape. Visibility constantly shifts as snow blows through frame. High-action chase with huge scale and relentless momentum. Sound: pounding footsteps, mammoth calls, werewolf roars, cracking ice, screaming wind.
+
+⸻
+
+0–3s — HOOK
+
+A young hunter sprints across an open snowfield.
+
+Animal furs wrapped around his shoulders.
+
+A hunting spear gripped tightly in one hand.
+
+His breath freezes in the air.
+
+Behind him—
+
+A colossal white werewolf bursts over a ridge.
+
+Nearly nine feet tall.
+
+Massive muscles visible beneath thick frost-covered fur.
+
+Blue eyes glowing through blowing snow.
+
+The creature immediately locks onto him.
+
+It charges downhill.
+
+Fast.
+
+Much too fast.
+
+⸻
+
+3–6s — ESCALATION
+
+The hunter pushes himself harder.
+
+Snow explodes beneath every stride.
+
+The werewolf rapidly closes distance.
+
+Its powerful legs launch it through deep drifts effortlessly.
+
+Every leap covers huge ground.
+
+The hunter glances back.
+
+The beast is only seconds away.
+
+Its jaws snap.
+
+Its roar echoes across the tundra.
+
+⸻
+
+6–9s — BUILD
+
+Ahead—
+
+Movement.
+
+A gigantic migrating herd of woolly mammoths crosses the frozen plain.
+
+Dozens of them.
+
+Towering bodies.
+
+Massive curved tusks.
+
+The ground vibrates beneath their weight.
+
+The hunter changes direction and runs directly toward the herd.
+
+The werewolf follows without hesitation.
+
+⸻
+
+9–12s — THE PLAN
+
+The hunter reaches the mammoths.
+
+He darts between enormous legs and charging bodies.
+
+Snow and ice spray into the air.
+
+The werewolf enters the herd moments later.
+
+Now completely surrounded by mammoths.
+
+The hunter plants his feet.
+
+Turns.
+
+Throws his spear.
+
+Bullet time.
+
+The spear spins through the air.
+
+Strikes a mammoth’s flank.
+
+⸻
+
+12–15s — PAYOFF
+
+The injured mammoth bellows.
+
+The herd panics instantly.
+
+Dozens of mammoths turn simultaneously.
+
+Thousands of pounds of muscle and tusk begin charging directly toward the werewolf.
+
+The beast tries to stop.
+
+Too late.
+
+The stampede slams into it.
+
+Tusks.
+
+Snow.
+
+Fur.
+
+Ice.
+
+Chaos.
+
+The werewolf disappears beneath a wall of charging mammoths.
+
+The hunter watches from a rocky outcrop as the herd thunders past.
+
+Snow fills the air.
+
+The creature is gone.
+
+Only the sound of the stampede remains.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060354793890357249/img/1YwIi43ZPwLRgyHD.jpg" width="600" alt="Epic Mammoth Charge Survival Sequence">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5457)**
+
+**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2060354858277019768) | **प्रकाशित:** May 29, 2026
+
+---
+### Magma Demon Medieval Siege
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dark fantasy apocalypse prompt featuring a colossal magma demon destroying a medieval kingdom with dramatic cinematography and debris effects.
+
+#### 📝 प्रॉम्पट
+
+```
+A colossal demonic creature with obsidian skin cracked by flowing magma, gigantic horns piercing through smoke clouds, glowing eyes radiating pure rage
+Emerges from beneath the earth and rampages through a medieval kingdom, crushing castles with its bare hands while armies desperately attack from every direction
+Dark fantasy apocalypse with burning villages, collapsing cathedrals, lava fissures splitting the ground and dragons circling through ash-filled skies
+Begins with ground-level tracking as cracks spread violently through the city, sudden eruption sending debris flying toward the camera, whip pans following collapsing towers, aerial orbit around the demon roaring through flames, fire and molten rock flooding the frame, ending with the demon standing atop the destroyed kingdom while the last remaining castle collapses behind it into lava, camera slowly pulling back through smoke revealing complete annihilation across the horizon
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5b1966061ce67625b08a2f75a7bfefb/thumbnails/thumbnail.jpg" width="600" alt="Magma Demon Medieval Siege">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5431)**
+
+**लेखक:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **स्रोत:** [Link](https://x.com/CharaspowerAI/status/2060352986509955507) | **प्रकाशित:** May 29, 2026
+
+---
+### Sci-Fi Astronaut Monster Chase
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic sci-fi horror prompt featuring an astronaut fleeing a giant flying moth-dragon on an alien world with floating islands.
+
+#### 📝 प्रॉम्पट
+
+```
+Cinematic photorealistic sci-fi action horror sequence set on a surreal alien world with dark purple skies and endless floating islands covered in glowing blue crystals. An astronaut in a detailed white spacesuit with jetpack runs desperately across the rocky floating platforms, jumping between them while being chased by a massive terrifying winged creature resembling a giant moth-dragon hybrid with powerful wings and sharp features.
+The camera dynamically follows the high-speed chase with sweeping aerial shots, tracking the astronaut from behind and side angles. The astronaut leaps across chasms as glowing crystals pulse with bright blue light. A dramatic close-up shows the astronaut’s terrified face inside the helmet, eyes wide and mouth open in panic. The giant creature swoops aggressively, creating chaos. In the climax, the astronaut grabs onto a thick hanging vine on the edge of a crumbling floating island, looking back in fear as the monster approaches and debris flies everywhere.
+Moody volumetric fog, dramatic purple-blue lighting, intense motion, realistic physics, high detail textures, and epic scale. Fast-paced thrilling survival chase with strong cinematic tension.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ded2075a8afed31bf7ed63970d6c7f8/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi Astronaut Monster Chase">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5435)**
+
+**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2060346290907848960) | **प्रकाशित:** May 29, 2026
+
+---
+### Astronaut vs Giant Alien Spiders Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An intense, epic-scale sci-fi horror chase prompt for Seedance 2.0 involving giant spider-crab creatures and a transforming environment.
+
+#### 📝 प्रॉम्पट
+
+```
+Cinematic photorealistic sci-fi horror chase sequence set on a dark, foggy alien planet with rocky canyons and floating islands. An astronaut in a white and blue spacesuit runs desperately for his life through a narrow rocky path, looking back in terror. He is relentlessly chased by multiple giant menacing red spider-crab alien creatures with glowing orange eyes and sharp legs.
+The camera dynamically follows from behind and switches to high-angle shots revealing the terrifying scale. The path dramatically transforms into the inside of a massive ancient monster’s mouth lined with huge teeth and fleshy walls. The astronaut keeps running straight into the giant maw as the spider monsters close in. In the climax, the enormous creature awakens, its massive head rising with jaws opening wide. The astronaut is thrown into the air as the gigantic beast emerges powerfully from the mountain-like structure.
+Intense action, dramatic foggy atmosphere, realistic creature details, dynamic camera movement, high tension, and epic scale. Dark moody lighting with volumetric fog, fast-paced editing, and thrilling survival horror vibe. 13-second high-impact sequence.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed96a90c65a09bb3ff745c22c2d451c7/thumbnails/thumbnail.jpg" width="600" alt="Astronaut vs Giant Alien Spiders Video Prompt">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5425)**
+
+**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2060344965818139054) | **प्रकाशित:** May 29, 2026
+
+---
+### Cinematic Fire Dancer Performance in Abandoned Courtyard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A multi-scene video prompt generating a cinematic performance of a young fire dancer in an ancient stone courtyard, featuring dynamic camera movements and detailed fire visual effects.
+
+#### 📝 प्रॉम्पट
+
+```
+A dark, atmospheric outdoor setting at night in an abandoned open courtyard surrounded by ancient stone pillars. The air is still, and faint embers float in the wind. A powerful cinematic silence builds tension with low ambient sound and distant wind.
+
+The camera slowly pushes in on a young fire dancer standing in the center. She wears flowing, elegant performance attire with subtle reflective details that catch the faint glow of nearby embers. Her expression is calm, focused, and almost trance-like.
+
+At second 3–5, she begins to move slowly. Each hand gesture feels deliberate and controlled. As her fingers trace through the air, **small sparks ignite around her hands**, forming glowing orange trails.
+
+Suddenly, the music drops into a deep cinematic beat.
+
+She spins once — and a **ring of fire bursts outward** in perfect symmetry around her feet. The flames respond to her movement as if alive. Every motion she makes bends the fire: swirling, rising, and flowing like liquid light.
+
+The camera switches between:
+
+* Slow-motion close-ups of her hands controlling fire streams
+* Low-angle shots showing flames rising behind her like a crown
+* Wide cinematic orbit shots circling her as fire forms patterns in the air
+
+At second 10–13, she raises both hands upward — and the flames rise dramatically into the sky, forming a **giant spiraling fire vortex above her**.
+
+Final moment: she gently lowers her hands, and the fire collapses into glowing embers that float around her like fireflies. She stands still in the center, untouched, powerful, and calm.
+
+End with a cinematic freeze frame: her silhouette surrounded by drifting embers, warm orange glow against deep black night sky, ultra-dramatic fantasy realism.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060342500913508353/pu/img/D1Gx-ExoyVxXnN8w.jpg" width="600" alt="Cinematic Fire Dancer Performance in Abandoned Courtyard">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5451)**
+
+**लेखक:** [Ai Doctor](https://x.com/DoctorAmna11) | **स्रोत:** [Link](https://x.com/DoctorAmna11/status/2060342535822979429) | **प्रकाशित:** May 29, 2026
+
+---
+### Cartoon Chef Boy Hotel Kitchen Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A multi-frame video prompt telling a story of a cute cartoon chef preparing a gourmet dish in a grand hotel kitchen with warm cinematic lighting.
+
+#### 📝 प्रॉम्पट
+
+```
+Frame 1: Cute cartoon chef boy walking slowly into grand hotel kitchen, camera slowly zooming out, golden warm light glowing, cinematic entrance, no text, 4K
+
+Frame 2: Cartoon chef boy carefully picking fresh vegetables, hands moving slowly, ingredients glistening, warm golden light, cinematic close-up, no text, 4K
+
+Frame 3: Cartoon chef boy chopping vegetables slowly, knife moving with motion blur, steam rising gently, cinematic lighting, no text, 4K
+
+Frame 4: Cartoon chef boy tossing food in pan, dramatic flames rising slowly, sparks flying, fire lighting up face, cinematic slow motion, no text, 4K
+
+Frame 5: Golden sauce pouring slowly from ladle into pan, steam rising dramatically, warm cinematic light, extreme slow motion, no text, 4K
+
+Frame 6: Cartoon chef boy tasting food from spoon, eyes closing slowly with blissful expression, soft warm light on face, cinematic portrait, no text, 4K
+
+Frame 7: Cartoon chef boy carefully placing garnish on plate with tweezers, dramatic spotlight on dish, slow precise movement, cinematic close-up, no text, 4K
+
+Frame 8: Cartoon chef boy lifting silver dome slowly, dramatic steam rising, golden light flooding out, proud smile, cinematic reveal, no text, 4K
+
+Frame 9: Cartoon chef boy standing tall arms crossed, slow cinematic zoom out, full kitchen glowing behind him, hero moment, warm light, no text, 4K
+
+Frame 10: Extreme close-up of beautifully plated gourmet dish, slow cinematic push forward, garnish glistening, golden light, mouth-watering food shot, no text, 4K
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060268763824672768/img/q8pamDGZpX3h2N4-.jpg" width="600" alt="Cartoon Chef Boy Hotel Kitchen Sequence">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5461)**
+
+**लेखक:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **स्रोत:** [Link](https://x.com/itsshara_ai/status/2060341637356966097) | **प्रकाशित:** May 29, 2026
+
+---
+### Cinematic Luxury Lifestyle Speedboat Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A professional Hollywood-style commercial video prompt of a young woman driving a speedboat on the ocean during golden hour, with highly realistic water physics and drone tracking.
+
+#### 📝 प्रॉम्पट
+
+```
+A highly realistic cinematic luxury lifestyle scene filmed like a professional Hollywood commercial.
+
+Opening shot: captured with a stabilized drone camera during golden hour over a calm deep-blue ocean. A beautiful young woman in her mid-20s naturally drives a modern white speedboat at medium-fast speed. Her hair flows realistically in the wind, sunlight softly reflects on her skin, and the water movement looks physically accurate with natural splashes and detailed wake trails behind the boat.
+
+Camera transitions smoothly between professional cinematic angles:
+— wide aerial drone tracking shot
+— side profile tracking shot close to the water
+— realistic handheld close-up of her adjusting the steering wheel
+— slow-motion splash shots with authentic lighting reflections
+— cinematic close-up of her relaxed confident expression wearing elegant sunglasses
+
+The boat movement feels realistic with proper wave interaction and balanced motion physics. Natural wind simulation, true-to-life ocean textures, realistic shadows, premium color grading, subtle lens flare, shallow depth of field, documentary-style realism mixed with luxury commercial aesthetics.
+
+Final shot: drone slowly pulls away as the speedboat moves toward the glowing sunset horizon, creating a premium emotional ending.
+
+Style: ultra photorealistic, professionally filmed, cinematic lighting, realistic camera motion, authentic human movement, luxury travel commercial, 4K HDR, smooth transitions, no CGI look, no artificial facial distortions, natural body proportions, highly detailed water simulation...
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060336731191197697/pu/img/NKMrfBdObQe4CVBn.jpg" width="600" alt="Cinematic Luxury Lifestyle Speedboat Scene">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5456)**
+
+**लेखक:** [Ai Girllie](https://x.com/Inshrah_ali_) | **स्रोत:** [Link](https://x.com/Inshrah_ali_/status/2060336792646361109) | **प्रकाशित:** May 29, 2026
+
+---
+### Festive Mushroom City Anime Chase
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A high-energy anime escape sequence set in a vibrant festival mushroom city, featuring a thief girl dodging crowds and leaping across rooftops with cinematic lighting and dynamic angles.
+
+#### 📝 प्रॉम्पट
+
+```
+@Image 1 = Protagonist character. @Image 2 = Storyboard reference. Based on the attached storyboard image, create a 15-second horizontal 16:9 anime thrilling escape scene video. Theme: Thief Girl. Animate as a high-tempo, brisk scene following the panel order of the storyboard. Flow: Start with an overhead view of a festive giant mushroom city. A girl in a blue hood, blending into the heat and decorations of the crowd, steals a rare glowing mushroom from the center of the festival. Mix close-ups of hands and expressions during the theft, and show a thrilling smile as if she's enjoying herself immediately after succeeding. Afterward, escape briskly using the multi-level platforms of the festival venue, rooftops of stalls, decorated walkways, and spaces filled with ropes and cloth. Pursuers and the surrounding crowd are surprised and begin to chase her; the girl slips through people, leaps over them, slides, and escapes nimbly. End by escaping to a high platform or bridge and running through the festive lights. Style: High-quality anime film style, cinematic lighting, top-tier animation, high definition, vivid colors, a celebratory and gorgeous atmosphere, busy crowds, giant mushroom decorations, and an energetic world where confetti and fabric decorations dance. Make the girl embody both cuteness and agility, with an aura of combined fun and danger. Editing: Use rhythmic high-speed cuts, close-ups, extreme close-ups, low angles, overhead shots, quick pans, and smooth match cuts. Incorporate hand close-ups at the moment of theft, expression close-ups at the start of the run, following shots slipping through crowds, overhead shots jumping between platforms, extreme close-ups of feet upon landing, and dynamic diagonal compositions using rope or cloth for movement. Create an energetic and stylish video, making use of the height differences and congestion unique to a festival city for a thrilling escape. Important: Do not make it a slideshow of still images. Animate running and stealing naturally. Maintain the same festival mushroom city atmosphere and high-quality anime style throughout. Do not include text, subtitles, logos, or watermarks. Perform the suspenseful thrill as a brisk scene. Consistently maintain the protagonist's face, blue hood, outfit, basket, and the shape of the glowing mushroom throughout.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060315481106714624/img/LM-ANLruIV4cJR-i.jpg" width="600" alt="Festive Mushroom City Anime Chase">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5469)**
+
+**लेखक:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **स्रोत:** [Link](https://x.com/Ryuki_Yano/status/2060316111569096883) | **प्रकाशित:** May 29, 2026
+
+---
+### Arctic Titan Awakening Dark Fantasy Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A suspenseful dark fantasy sequence featuring a colossal ancient titan trapped beneath an iceberg in a snowstorm.
+
+#### 📝 प्रॉम्पट
+
+```
+15-second cinematic dark fantasy sequence inside a frozen arctic wasteland during a violent snowstorm.
+
+A colossal ancient titan sleeps trapped beneath a massive iceberg larger than mountains, barely visible under layers of translucent ice and deep frozen cracks. Only vague shapes of its gigantic face and body can be seen beneath the frozen surface.
+
+The camera slowly glides across the icy landscape with heavy wind, drifting snow particles, frozen fog, and deep blue-white moonlight reflecting through the glacier.
+
+As the camera pushes closer, subtle tremors begin beneath the ice. Tiny fractures spread slowly across the frozen surface. Deep muffled resonance echoes from below like an ancient heartbeat awakening after centuries.
+
+The titan’s enormous eye slowly opens beneath the translucent ice. A massive glowing iris appears under the glacier, illuminating the frozen depths with cold cyan light. Snow and frost slide from the surface as the eye moves for the first time.
+
+The surrounding iceberg creaks violently, frozen dust falling into deep cracks. The camera holds on the gigantic eye staring upward from beneath the ice while distant thunder rolls through the blizzard.
+
+Style: ultra cinematic dark fantasy, colossal scale, ancient god atmosphere, frozen textures, realistic snow simulation, volumetric fog, moody blue lighting, atmospheric depth, glacier translucency, slow suspense pacing, photorealistic ice details.
+
+Audio: ONLY cinematic sound effects, no music. Arctic wind, distant ice cracking, deep subsonic rumbles, frozen debris shifting, muffled titan breathing beneath the glacier, low resonance pulses.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060300157678141442/pu/img/HE3Xi-Gq2bf8JL7s.jpg" width="600" alt="Arctic Titan Awakening Dark Fantasy Prompt">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5449)**
+
+**लेखक:** [LudovicCreator](https://x.com/LudovicCreator) | **स्रोत:** [Link](https://x.com/LudovicCreator/status/2060300184177856898) | **प्रकाशित:** May 29, 2026
+
+---
+### Viking Werewolf Frozen Lake Hunt Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An epic Viking action sequence involving a survival chase on a frozen lake with realistic ice and snow physics.
+
+#### 📝 प्रॉम्पट
+
+```
+Epic Viking fantasy action set on a vast frozen lake beneath a stormy northern sky. Endless snowfields, distant mountains, harsh winds, blowing snow. High-speed chase with brutal survival energy. Sound: crunching ice, roaring wind, heavy breathing, cracking frozen surfaces, monstrous growls.
+
+0–3s — HOOK
+
+A Viking warrior carrying a flaming torch sprints across a frozen lake.
+
+His boots hammer across the ice.
+
+Behind him—
+
+A gigantic frost-covered werewolf bursts through drifting snow.
+
+White fur coated in ice crystals.
+
+Blue eyes glowing.
+
+Its massive paws crack the frozen surface beneath every step.
+
+⸻
+
+3–6s — ESCALATION
+
+The warrior pushes harder.
+
+The werewolf rapidly closes distance.
+
+Chunks of ice break apart behind them.
+
+The creature occasionally lunges forward, nearly catching him.
+
+Its claws leave deep fractures spreading across the lake.
+
+⸻
+
+6–9s — BUILD
+
+Ahead, a huge pressure crack cuts across the lake.
+
+The warrior spots it.
+
+He lowers his center of gravity and accelerates.
+
+The werewolf roars and commits fully to the chase.
+
+Snow and ice explode behind it.
+
+⸻
+
+9–12s — THE TRAP
+
+The warrior reaches the pressure crack and dives into a controlled slide.
+
+He skims across the narrow gap and reaches solid ice beyond.
+
+The werewolf charges after him.
+
+Bullet time.
+
+Its front paws hit the weakened section.
+
+Cracks spread outward in every direction.
+
+⸻
+
+12–15s — PAYOFF
+
+The entire frozen surface collapses beneath the werewolf.
+
+Massive sheets of ice explode upward.
+
+The beast drops into the freezing black water below.
+
+The warrior rolls onto the snowy shoreline and scrambles to safety.
+
+Behind him, enormous ice slabs crash back into the lake.
+
+Silence.
+
+The warrior stands, breathing heavily, torch still burning.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060280339659161600/img/7kWzOvorj8Y51UZZ.jpg" width="600" alt="Viking Werewolf Frozen Lake Hunt Prompt">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5450)**
+
+**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2060280405417406523) | **प्रकाशित:** May 29, 2026
+
+---
+### Medieval Werewolf Rooftop Chase
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An intense, multi-stage action prompt for a werewolf pursuit across European stone rooftops featuring speed ramps and bullet time.
+
+#### 📝 प्रॉम्पट
+
+```
+High-action medieval fantasy chase beneath a massive full moon. Ancient European city of stone towers, narrow streets, cathedral spires, smoking chimneys, fluttering banners. Silver moonlight reflects off wet rooftops from recent rain. Fast-paced, chaotic cinematography with aggressive tracking shots, speed ramps, handheld energy, and dramatic moonlit silhouettes. Sound: distant church bells, heavy breathing, tile cracking, werewolf roars, rushing wind.
+
+0–3s — HOOK
+
+A rogue thief in a dark leather cloak sprints across steep medieval rooftops.
+
+He leaps a gap between buildings.
+
+The instant he lands—
+
+A gigantic werewolf crashes onto the roof behind him.
+
+Eight feet tall.
+
+Jet-black fur.
+
+Yellow eyes glowing in the moonlight.
+
+The roof caves beneath its weight.
+
+Tiles explode everywhere.
+
+⸻
+
+3–6s — ESCALATION
+
+The thief races along the rooftops, vaulting chimneys and sliding over wet tiles.
+
+Behind him, the werewolf ignores every obstacle.
+
+It smashes through chimneys instead of avoiding them.
+
+Bricks and debris rain into the streets below.
+
+The creature gains ground rapidly.
+
+⸻
+
+6–9s — BUILD
+
+Ahead, the thief reaches a steep roof overlooking a massive cathedral square.
+
+He slides uncontrollably down slick tiles.
+
+The werewolf launches after him.
+
+The gap between them shrinks to almost nothing.
+
+The beast’s claws scrape sparks from the stone.
+
+⸻
+
+9–12s — THE ESCAPE
+
+At the edge of the roof hangs a giant ceremonial banner suspended above the square.
+
+The thief leaps and grabs it.
+
+The banner tears loose from its mountings.
+
+He swings across the moonlit square.
+
+The werewolf follows without hesitation.
+
+Bullet time.
+
+Both suspended over open air.
+
+⸻
+
+12–15s — PAYOFF
+
+The thief draws a knife and slices the banner rope.
+
+He swings clear.
+
+The werewolf loses its trajectory.
+
+It crashes directly through the cathedral’s enormous stained-glass rose window.
+
+Colored glass explodes outward.
+
+The beast disappears into darkness inside the cathedral.
+
+The thief lands on the opposite rooftop and turns back.
+
+A massive crash echoes from within the cathedral.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a564ede36c43d87a9745d971abf4772/thumbnails/thumbnail.jpg" width="600" alt="Medieval Werewolf Rooftop Chase">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5433)**
+
+**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2060280102924300676) | **प्रकाशित:** May 29, 2026
+
+---
+### Moonlit Werewolf Forest Chase Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A fast-paced dark fantasy action sequence featuring a warrior being chased by a colossal werewolf through a dense forest.
+
+#### 📝 प्रॉम्पट
+
+```
+Dark fantasy action sequence. Dense moonlit forest at night. Thick fog. Silver moonlight cutting through trees. Fast handheld tracking shots. Chaotic action. Sound: heavy breathing, snapping branches, pounding hooves, werewolf growls.
+
+0–3s — HOOK
+
+A young warrior sprints through dense forest carrying a spear.
+
+Branches whip past his face.
+
+Behind him—
+
+A colossal werewolf crashes through trees.
+
+Massive shoulders.
+
+Silver-gray fur.
+
+Glowing amber eyes.
+
+Every step sends dirt flying.
+
+The creature is gaining fast.
+
+3–6s — ESCALATION
+
+The warrior vaults fallen logs and dodges tree trunks.
+
+The werewolf tears straight through obstacles instead of avoiding them.
+
+Entire trees snap and fall.
+
+The forest explodes around them.
+
+The warrior glances back.
+
+The werewolf is only meters away.
+
+6–9s — BUILD
+
+The warrior bursts into a giant moonlit clearing.
+
+Ahead—
+
+A herd of enormous elk-like creatures stampedes across the field.
+
+Towering antlers.
+
+Dozens of them.
+
+The ground shakes beneath their charge.
+
+9–12s — CHAOS
+
+The warrior dives into the middle of the stampede.
+
+Bodies thunder past on both sides.
+
+The werewolf charges directly after him.
+
+Antlers slam into the beast.
+
+Hooves strike.
+
+Dirt and debris fill the air.
+
+The clearing becomes complete chaos.
+
+12–15s — PAYOFF
+
+The warrior reaches a cliff edge hidden beyond the clearing.
+
+He leaps.
+
+The werewolf bursts through the stampede behind him and jumps too.
+
+The warrior catches a tree growing from the cliff face.
+
+The werewolf misses.
+
+It sails past him and disappears into the darkness below.
+
+The warrior hangs from the tree, breathing hard.
+
+Cut.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060270217025191936/img/qJfzwxhrvV5A6LZO.jpg" width="600" alt="Moonlit Werewolf Forest Chase Prompt">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5446)**
+
+**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2060270283794374923) | **प्रकाशित:** May 29, 2026
+
+---
+### Purikura Booth Comedy Scene
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A high-tempo animated comedy scene inside a photo booth where three characters fight to be at the center of the frame for each shutter flash, featuring vibrant lighting and expressive reactions.
+
+#### 📝 प्रॉम्पट
+
+```
+Image 1 = Reference for 3 characters. Maintain face, hairstyle, clothing, and atmosphere consistently throughout. Image 2 = Reference for storyboard. Follow panel order, tempo, facial expression changes, competition for positions, and comedy direction. Based on attached Image 1 and Image 2, create a 15-second horizontal 16:9 purikura booth comedy scene video. Theme: A high-tempo, cute, and noisy comedy scene inside a purikura booth where three people fight for the center spot every time the shutter clicks.
+
+Scene Setting: Inside the purikura machine. The camera is a fixed lens view from the purikura machine; do not show shots from outside or include the camera body itself. The screen always shows the three people as seen on the purikura machine's capture display. The three characters should be exactly as in Image 1, maintaining the appeal of the relationship, looks, and expressions of the black-haired male on the left, the girl in the center, and the blonde male on the right. Basic concept: The three compete for the 'best position = center of the screen.' Just before the shutter clicks, someone suddenly moves forward, interrupts from the side, pushes others away, or sticks their face in to steal the center. Include comical and exaggerated reactions, cute poses, anxiety on the verge of making funny faces, jealousy, surprise, playing coy, and forceful interruptions, depicting it as a battle of the desire to 'look good' in a purikura way. Finally, all three should fit in the frame and end with a cute, friendly pose.
+
+Flow (15-second composition): 0.0s-2.0s: The three enter their first pose. The center girl poses cutely, while the two on the sides lean in saying they want to be in it too. It's peaceful but the center battle is already brewing. Expressions: the black-haired male looks like he's coolly aiming for it, the blonde male is exaggerated and high-tension, and the girl is a bit puzzled but posing cutely. 2.0s-4.0s: Just before the first shutter, the blonde male on the right vigorously sticks his face into the center. His face comes close to the front, almost pushing the others out. The girl is surprised, and the black-haired male glares at him unhappily. Emphasize the humor of someone suddenly coming forward. 4.0s-6.0s: Before the next shutter, the black-haired male on the left quickly moves forward and steals the center with a cool pose. The blonde male gives an overreaction ('What?!'), and the girl looks troubled between them. Create laughs through facial close-ups, clashing gazes, and subtle pushing. 6.0s-8.0s: The girl pushes the two back as if to say 'Wait a minute!' and reclaims the center for herself. She performs typical purikura poses like a cute wink or cupping her cheeks. The two on the sides are pushed to the background or edges and look frustrated. 8.0s-10.0s: Matching the shutter sound timing, all three scramble for the center at once. Faces get too close, shoulders bump, one pushes their face in, another enters from the side, making it a chaotic and dense comedy. This is the fastest tempo. Expressions are a mix of panic, stubbornness, surprise, laughter, and desperation. 10.0s-12.5s: They momentarily lose balance but adjust to try and fit within the frame. The pushing changes to an atmosphere of coming together on 'ready, set, go.' The girl moves to the center, the black-haired male to the left, and the blonde male to the right, converging into positions where all three faces are clearly visible. 12.5s-15.0s: The last shutter. All three strike their best poses simultaneously. The girl is cute, the black-haired male smiles coolly, and the blonde male smiles energetically and brightly. End with a final cut of a great purikura photo showing their friendship. Ensure the atmosphere changes from cute chaos to a friendly ending toward the finish.
+
+Style: Ultra-high quality, ultra-high definition, photorealistic live-action style video. However, the atmosphere should be the pop and cute world of purikura. Overall, use bright and soft high-key lighting, smooth skin texture, slightly pink, lavender, and light blue cute tones, sparkling effects, and a pop, lovely vibe with a youthful energy. A high-tempo visual that feels like the cute purikura culture from the Heisei to Reiwa eras. Direction: The camera is primarily a fixed lens view from the purikura machine. However, to make the final video look pleasing, slight digital punch-ins, subtle shakes, forward/backward movement for momentum, and facial zooming are allowed. Wide shots from the outside are prohibited. Compositions showing the camera body are prohibited. The humor should be created through the subjects' movements, faces entering/exiting, pushing, interruptions, and facial acting. Clearly show the flow of 'almost striking a pose' then collapsing because someone interrupts at each shutter timing. Editing: Emphasize rhythmic high-speed development, close-up cuts, extreme close-ups, momentum-filled forward/backward motion, and facial expression switching. Even if the actual camera position is fixed, create significant changes in the video by having subjects approach/distance themselves from the lens or interrupt from the sides. Be mindful of well-timed shutters, cute pauses, comical crowding, and a perfectly landing finale. Do not make it a slideshow of still images. Move the three naturally and richly as animation while maintaining their faces, hair, clothes, accessories, age, and atmosphere. Emotional Tone: Cute, comedy, chaotic, slightly romantic air, light jealousy, everyone desperate to look their best/coolest, and finally friendly. Important: Do not show the camera body in the frame. Unify shots from the lens perspective of the purikura machine. Maintain consistency in the faces, hairstyles, clothing, and character traits of the three from Image 1 throughout. Follow the tempo, competition for positions, and comedic nature of the storyboard in Image 2. No slideshows. No text, subtitles, logos, or watermarks. Act out the suspenseful excitement as a quick-moving scene. Ensure the three look good and come together cutely at the end.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060263346813927424/img/WZnHa8kzSRrLn5qD.jpg" width="600" alt="Purikura Booth Comedy Scene">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5465)**
+
+**लेखक:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **स्रोत:** [Link](https://x.com/Ryuki_Yano/status/2060263464069947742) | **प्रकाशित:** May 29, 2026
+
+---
+### Fantasy Dragon Bridge Escape Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An epic fantasy action scene featuring a huntress fleeing an armored werewolf across a collapsing bridge, ending with a dramatic leap onto a dragon's back.
+
+#### 📝 प्रॉम्पट
+
+```
+High fantasy action sequence. Massive stone bridge spanning a bottomless canyon under stormy skies. Wind howling. Lightning in the distance. Medieval fantasy world. Fast-paced, chaotic cinematography with aggressive camera movement and speed ramps. Sound: crashing stone, werewolf growls, chain rattles, dragon roars.
+
+0–3s — HOOK
+
+A female huntress with braided hair, leather armor, and a bow sprints across an ancient stone bridge.
+
+Behind her—
+
+A gigantic armored werewolf bursts through the bridge entrance.
+
+Seven feet tall.
+
+Black fur.
+
+Steel armor plates fused into its shoulders and forearms.
+
+It charges at terrifying speed.
+
+Stone cracks beneath every step.
+
+3–6s — ESCALATION
+
+The huntress races forward.
+
+The werewolf smashes through support pillars while gaining ground.
+
+Chunks of stone fall into the canyon.
+
+The bridge begins collapsing section by section behind them.
+
+The gap between them shrinks rapidly.
+
+6–9s — BUILD
+
+Ahead, the huntress spots a massive hanging chain descending into the canyon.
+
+The bridge is breaking apart.
+
+She sprints harder.
+
+The werewolf lunges and nearly grabs her cloak.
+
+A support tower collapses.
+
+The entire bridge starts giving way.
+
+9–12s — THE JUMP
+
+The huntress leaps.
+
+She catches the hanging chain and swings out over the canyon.
+
+The werewolf launches after her.
+
+Bullet time.
+
+Chain swinging.
+
+Stone exploding.
+
+The werewolf suspended mid-air.
+
+Its claws miss by inches.
+
+12–15s — PAYOFF
+
+A giant dragon erupts upward from beneath the canyon.
+
+The huntress releases the chain and lands on the dragon’s back.
+
+The dragon banks hard.
+
+The werewolf falls past them roaring.
+
+Disappearing into the fog below.
+
+The huntress raises her fist.
+
+Dragon roars.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060262038669238272/img/6El5e4cibXSL-e6T.jpg" width="600" alt="Fantasy Dragon Bridge Escape Sequence">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5453)**
+
+**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2060262106839363697) | **प्रकाशित:** May 29, 2026
+
+---
+### Blue Sports Shoe Product Commercial Shots
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A series of cinematic product shots for a sports shoe, including extreme slow-motion water splashes and dynamic movement.
+
+#### 📝 प्रॉम्पट
+
+```
+Frame 1:
+Slow dramatic zoom into white blue sports shoe laces, single light ray moving subtly, dust particles floating, cinematic 4K, no people
+Frame 2:
+White blue sports shoe hitting wet ground, water droplets exploding outward in extreme slow motion, blue neon light rippling, cinematic, no people
+Frame 3:
+White blue sports shoes moving forward in slow motion on dark road, motion blur, fog drifting slowly, cinematic 4K, no people
+Frame 4:
+White blue sports shoes running left to right, rain falling slowly, wet road reflection shimmering, cinematic, no people
+Frame 5:
+White blue shoe rotating slowly mid-air, smoke wisps drifting upward, black background, cinematic product shot, no people
+Frame 6:
+White blue sports shoe rising upward slowly, clouds moving, golden light expanding, cinematic, no people
+Frame 7:
+Slow cinematic push forward toward white blue shoe, city lights twinkling in background, sun rays expanding, no people
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060259713737220096/img/TZ2Nu2-dRXMsED6_.jpg" width="600" alt="Blue Sports Shoe Product Commercial Shots">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5447)**
+
+**लेखक:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **स्रोत:** [Link](https://x.com/itsshara_ai/status/2060260037617152132) | **प्रकाशित:** May 29, 2026
+
+---
+### Midnight Arrival Luxury Hotel Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic dark crime drama prompt featuring a luxury hotel arrival on a rainy night, with specific camera moves and atmospheric lighting.
+
+#### 📝 प्रॉम्पट
+
+```
+Grand luxury hotel entrance at night, wet cobblestone street, light rain, glowing city reflections in puddles.
+Style: Dark crime drama film tone, deep shadows, warm amber hotel facade lights against cold blue rain, film grain texture, slow controlled pacing.
+Lighting: Amber hotel awning light, cold blue rain scatter, wet reflective ground surface.
+Audio: Soft rain, distant city hum, low orchestral string swell, sharp footsteps on wet stone.
+
+[0–4s]
+Camera: Slow aerial pull-down, wide establishing shot.
+Action: A black luxury sedan glides to a stop in front of the hotel entrance. Rain falls steadily. Steam rises from the wet street.
+Lighting: Cool blue rain light, warm amber spill from hotel facade.
+
+[4–8s]
+Camera: Low-angle static shot, then slow push-in.
+Action: The rear car door swings open. A man in an elegant black suit, sunglasses and leather gloves steps out. Two bodyguards appear behind him holding umbrellas.
+Lighting: Harsh amber key light from the hotel, deep shadows framing the figure.
+
+[8–12s]
+Camera: Smooth lateral tracking shot following his stride.
+Action: The suited man walks steadily toward the hotel entrance. Bystanders and hotel staff step aside. Cigarette smoke drifts from his hand.
+Lighting: Rim light from hotel windows, soft fill from overhead awning lamps.
+
+[12–15s]
+Camera: Slow orbit around him, low angle rising.
+Action: He pauses at the entrance, adjusts his lapel, and glances back over his shoulder with a faint smirk. Text fades in: "Power doesn't ask for attention."
+Lighting: Warm single-source hotel lobby glow, city lights blurred behind him.
+
+Avoid: Identity drift, jitter, chaotic composition, temporal flicker, inconsistent features between shots.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060243098043621381/pu/img/YpKNddu6vxhObMsp.jpg" width="600" alt="Midnight Arrival Luxury Hotel Prompt">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5445)**
+
+**लेखक:** [Zeeshi](https://x.com/AIwithZeeshi) | **स्रोत:** [Link](https://x.com/AIwithZeeshi/status/2060243222199173467) | **प्रकाशित:** May 29, 2026
+
+---
+### Rocket Launch Explosion Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A photorealistic video prompt for Seedance 2.0 simulating a catastrophic rocket explosion during a night static fire test.
+
+#### 📝 प्रॉम्पट
+
+```
+Live telecast of a rocket launch with no commentary. Photorealistic recreation of a space rocket catastrophic explosion during a static fire test on the launch pad at nighttime.
+The massive orbital rocket stands vertically on the launch pad under dark night skies. Suddenly, a violent failure triggers an enormous explosion. A gigantic orange-red fireball erupts instantly from the base, rapidly expanding into a towering mushroom cloud of fire, thick black smoke, and flying debris. A powerful shockwave blasts outward, shaking the entire scene. The rocket structure violently disintegrates as intense flames completely consume it.
+Dynamic camera work captures the raw power with realistic fire physics, glowing embers, billowing smoke, and dramatic nighttime lighting. Epic scale, terrifying yet beautiful destruction, high-detail particles, 4K quality. 24-second intense explosion sequence.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/825d0ab09633b4d2f0851b771e099115/thumbnails/thumbnail.jpg" width="600" alt="Rocket Launch Explosion Video Prompt">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5428)**
+
+**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2060240094238593035) | **प्रकाशित:** May 29, 2026
+
+---
+### Cinematic Viral Waterslide Dream Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed POV prompt for a high-speed, surreal waterslide adventure that transitions from the sky into a realistic bedroom landing, designed for viral social media content.
+
+#### 📝 प्रॉम्पट
+
+```
+Cinematic viral AI dream sequence, photorealistic, intense fast-paced POV shot of a surreal extreme waterslide adventure.
+The video begins in first-person POV as the rider bursts out of the clouds at high speed on a giant, colorful, twisting waterslide built impossibly through the sky. Water splashes aggressively onto the lens with realistic spray and motion blur. The rider races down the massive slide with wild loops, sharp drops, spiraling turns, and near-vertical sections, zooming between towering skyscrapers and surreal city structures glowing with neon colors.
+As the descent continues, the ground and dense city buildings become clearly visible far below. At the end of the slide, the rider launches off halfway to the ground, suddenly flying through the air. Heavy breathing and panicked scared sounds fill the audio as the POV falls rapidly toward the ground. A house appears directly below, getting closer and closer. The rider crashes through the roof of the house and lands hard on a bed inside the bedroom. The final shot shows the person’s hands on the bed, breathing heavily in shock and relief as the video ends.
+Dynamic camera with extreme speed, intense motion blur, water spray, dizzying perspectives, and chaotic energy. Bright daytime lighting with vibrant colors, realistic water physics, and dream-like impossible architecture. Adrenaline-pumping, thrilling, surreal, and slightly terrifying vibe perfect for TikTok. Slinger continue shot
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/292c1e89047968555cd5f91766874fe3/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Viral Waterslide Dream Sequence">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5430)**
+
+**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2060235123015233858) | **प्रकाशित:** May 29, 2026
+
+---
+### Fast-Paced Japanese Commercial Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A rapid-fire, high-energy Japanese advertisement prompt for Seedance, featuring 5 different lifestyle scenes with neon accents and bold typography.
+
+#### 📝 प्रॉम्पट
+
+```
+Hyper-fast 15-second Japanese commercial. Rapid fire cuts every 2-3 seconds. High energy, loud, exciting.Cut 1 — (0 :00–0:03):Girl EXPLODES onto screen grabbing a cracker, laughing wildly. Crackers fly everywhere. She shouts: "I can't stop!" Bold yellow text SLAMS on screen.Cut 2 — (0: 03–0:06):SMASH CUT — red lipstick swipe in extreme close-up. She smirks into camera. Text flashes: "Captivating!" Neon lights strobe.Cut 3 — (0: 06–0:09):She SPINS in leather jacket, hair whipping, street lights blur behind her. Text hits: "I make my own way!"Cut 4 — (0: 09–0:11):Ice and coffee EXPLODE in slow-mo for one second. She winks. "Cheers!"Cut 5 — (0: 11–0:13):She JUMPS into frame, fist punch toward camera. "Jump!"Final (0 :13–0:15):Split screen of ALL 5 scenes at once. She says fast and bold: "To the me I like!" Logo SLAMS in. FUTURE YOU.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e17963709737439cd90c4f2efc69ac6d/thumbnails/thumbnail.jpg" width="600" alt="Fast-Paced Japanese Commercial Prompt">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5427)**
+
+**लेखक:** [Synthia](https://x.com/AIwithSynthia) | **स्रोत:** [Link](https://x.com/AIwithSynthia/status/2060220763731574935) | **प्रकाशित:** May 29, 2026
+
+---
+### Barista Cinematic Commercial Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A professional advertising prompt for Seedance 2.0 creating a realistic commercial of a barista at a modern coffee stall.
+
+#### 📝 प्रॉम्पट
+
+```
+Create a 15-second ultra-realistic cinematic commercial using the uploaded reference image as the exact character reference. Maintain the same face, hairstyle, skin tone, outfit, and body proportions in every shot with no character drift.
+
+A confident young male coffee seller works at a stylish outdoor coffee stall branded “YAPPER COFFEE” in a busy modern city street. He wears a black shirt, dark brown barista apron, black pants, and sneakers.
+
+0–3s: He walks toward a customer smiling while holding a takeaway cup.
+3–6s: He pours hot tea from a metal kettle in slow motion and hands over the cup.
+6–9s: The customer takes a sip and smiles with satisfaction.
+9–15s: The seller walks toward another customer while the camera smoothly follows him.
+
+Warm daylight, cinematic background blur, smooth tracking shots, shallow depth of field, realistic motion blur, natural expressions, premium advertising quality, ultra-realistic lighting, polished storytelling, no subtitles, no character changes, full natural realistic video.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/812d81b7d5eb5e9e7e839272ad88d02e/thumbnails/thumbnail.jpg" width="600" alt="Barista Cinematic Commercial Video Prompt">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5442)**
+
+**लेखक:** [Noor](https://x.com/noorlewisx) | **स्रोत:** [Link](https://x.com/noorlewisx/status/2060218418029379829) | **प्रकाशित:** May 29, 2026
+
+---
+### Telekinetic School Girl Action Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic action prompt featuring a Korean high school girl using powerful telekinetic abilities to freeze time and repel attackers in a school corridor.
+
+#### 📝 प्रॉम्पट
+
+```
+In a telekinetic action scene, a South Korean high school girl in a white short-sleeved shirt and gray pleated skirt stands calmly in the middle of a corridor. She is being attacked from both sides; some attackers, wearing brown school uniform jackets, wield short sticks, while others are dressed as black ninjas, creating a tense standoff in the corridor. As the enemies rush towards her, the girl unleashes a powerful telekinetic attack. Suddenly, everything around her enters a state of weightlessness and time freezes. Dozens of items—open textbooks, notebooks, a red soda can, and a wooden school chair—leave the ground, perfectly suspending themselves in mid-air. The attackers, in their lunging movements, are frozen in mid-air by an invisible force. Paper pages, scraps of paper, and dust float and swirl around her weightlessly. The camera slowly zooms in on the girl, perfectly freezing the chaotic corridor in the telekinetic-induced state of stillness and suspension. In the extreme stillness of the slowly zooming-in, frozen image, the girl's calm eyes narrow slightly. Immediately afterward, she calmly raised her right hand, her fingers loosely clenched, and then made a light yet decisive flick of her sleeve to either side of her body. In an instant, frozen time and gravity seemed to explode with this subtle gesture. A low rumble echoed in the air, and dozens of objects that had been suspended in mid-air—a heavy wooden school chair, scattered textbooks, even the red soda can—transformed into a dense projection, carrying powerful air currents, and were precisely launched towards the enemies attacking from both sides. At the same time, an invisible circular psychic shockwave violently spread out from the girl. The brown-uniformed attackers and black-clad ninjas, who had been frozen in mid-air, were instantly struck by this immense force, their bodies jolted violently, and they were sent flying backward like kites with broken strings to either end of the corridor. As gravity instantly returned, the wooden chairs shattered upon impact, textbooks scattered into a flurry of pages, and with the dull thud of heavy objects hitting the ground, the attackers collapsed onto the corridor floor, incapacitated. Silence returned to the corridor, broken only by countless tattered papers and fine dust drifting slowly in the air. The aftershocks of the shockwave ruffled the girl's bangs and hair. She remained composed, not even glancing at her fallen opponent. The girl slowly lowered her right hand, raised her slender left, and gracefully and calmly tucked a strand of black hair behind her ear, revealing her delicate and serene profile. The camera froze on this moment, the white papers falling around her like snowflakes, highlighting her still figure in a white short-sleeved shirt and gray pleated skirt. Then, the image faded out.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea0bf9f4c305c556727312433dd5b4a2/thumbnails/thumbnail.jpg" width="600" alt="Telekinetic School Girl Action Scene">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5424)**
+
+**लेखक:** [Calira](https://x.com/CaliraVal) | **स्रोत:** [Link](https://x.com/CaliraVal/status/2060217352818708623) | **प्रकाशित:** May 29, 2026
+
+---
+### Egypt Cinematic Travel Vlog Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A multi-scene travel vlog prompt featuring a young woman exploring Cairo, the Nile, and the Pyramids with consistent character appearance.
+
+#### 📝 प्रॉम्पट
+
+```
+A beautiful young woman in her mid-20s with long wavy dark hair flowing in the wind, striking features, wearing stylish black round glasses, light beige ethnic embroidered top, natural glowing skin, cinematic travel vlog style, golden hour and warm lighting throughout.
+
+0-2s: Close-up selfie-style shot, hair dramatically blowing across her face as she looks straight into camera with a soft confident smile, bustling old Cairo street background, slight handheld camera movement.
+
+2-4s: Smooth transition to side profile by the Nile river at sunset, hair flowing, she turns her head toward camera with a gentle smile, sailboat in background, warm golden light reflecting on water.
+
+4-6s: Cut to wide cinematic shot in front of the Great Pyramid of Giza, desert sand, she stands confidently looking at camera, wind gently moving her hair, epic scale.
+
+6-7.5s: Quick cut inside vibrant Khan El Khalili market at dusk, she reaches up touching hanging ornate lanterns, magical warm lighting, slight smile.
+
+7.5-9s: Fast-paced walking shot through crowded souk alley, she smiles brightly while looking around, people and colorful shops in background, dynamic handheld camera following her.
+
+9-10.5s: Extreme close-up of her face, she looks directly into camera, hair strands across face, intense eye contact, subtle playful smile turning into a wide genuine laugh showing perfect teeth.
+
+10.5-12s: Sitting on a traditional Nile boat, legs crossed, wind in hair, soft smile while looking at the water, golden sunset reflection.
+
+12-13.5s: Inside a colorful spice market, she stands among sacks of spices, looking peaceful and content, soft natural light.
+
+13.5-15s: Final shot - elegant side profile by the Nile at sunset with dramatic golden light, then smooth cut to her sitting in a cozy café holding a glass of drink, looking at camera with a warm intimate smile.
+
+Camera work: Cinematic, smooth transitions, slight slow-motion on key emotional moments, rich color grading, warm cinematic tones, shallow depth of field, film grain.
+
+Character dialogue:
+
+- 0-2s: "Heyy... come with me"
+- 4-6s: "This is unreal..."
+- 7.5-9s: (laughing) "I can't believe I'm here!"
+- 10.5-12s: "The most beautiful place..."
+- 13.5-15s: (soft, warm) "This moment... feels like magic."
+
+High detail, photorealistic, 8K quality, emotional, dreamy travel aesthetic, perfect face consistency across all shots, matching the exact woman in the reference image
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/921d51ef2c0f3dcb93b8b2d23feae39a/thumbnails/thumbnail.jpg" width="600" alt="Egypt Cinematic Travel Vlog Video Prompt">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5441)**
+
+**लेखक:** [Heisenberg](https://x.com/rovvmut_) | **स्रोत:** [Link](https://x.com/rovvmut_/status/2060211469401362497) | **प्रकाशित:** May 29, 2026
+
+---
+### Mecha Exoskeleton Assembly Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic sci-fi action prompt describing the high-speed mechanical assembly of an exoskeleton around a character.
+
+#### 📝 प्रॉम्पट
+
+```
+A cinematic, hyper-realistic sci-fi action sequence. It begins with a close-up of a young East Asian man with long, wavy dark hair focusing intense energy, red lightning and plasma crackling between his hands. The camera cuts to dozens of sleek, futuristic metallic armor pieces flying at high speed through a dark, industrial warehouse, converging on him. Sparks fly as the high-tech, gunmetal-grey armor rapidly mechanically assembles around his body. The final shot reveals him fully suited in a powerful, glowing mecha exoskeleton with a fiery, burning plasma aura radiating from his helmet. He executes an aggressive, sweeping strike with a glowing orange laser blade, causing a massive explosion with smoke and debris in the background. High-end CGI, studio lighting, octane render, 8k resolution, intense pacing.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce500e08df871f32ae6372cfd4a719c8/thumbnails/thumbnail.jpg" width="600" alt="Mecha Exoskeleton Assembly Sequence">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5439)**
+
+**लेखक:** [Zyrella](https://x.com/Zyrellix) | **स्रोत:** [Link](https://x.com/Zyrellix/status/2060208363867414564) | **प्रकाशित:** May 29, 2026
+
+---
+### Luxury Skincare Pitch Deck Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A workflow for animating a clinical luxury beauty storyboard with smooth transitions and editorial aesthetics.
+
+#### 📝 प्रॉम्पट
+
+```
+Create a high-end 4:3 luxury beauty tools pitch deck storyboard in 3x4 grid (12 frames), editorial layout, NuFace/Dr. Barbara Sturm style, glacier white + rose gold palette. Structured flow: science → tool → ritual → glow → confidence closure. Each frame split: top cinematic image (no text) + bottom storyboard notes. Clinical luxury minimal aesthetic, science meets beauty mood, precision self-care. A rose gold facial device is the emotional center throughout. Animate the provided 3x4 storyboard into a smooth cinematic video. Preserve exact shot order and continuity. Use slow device glide on skin, LED light pulse, serum absorption close-up, and mirror reflection reveal. Lighting transitions from cool clinical white light to warm vanity mirror rose glow. Beauty tools editorial aesthetic, surgical precision, empowered radiance mood. No new shots, no reordering, facial device remains emotional focus in all scenes.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aad0a6d8939fdbc35b1d919951f8bc9f/thumbnails/thumbnail.jpg" width="600" alt="Luxury Skincare Pitch Deck Animation">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5436)**
+
+**लेखक:** [𝐌](https://x.com/Strength04_X) | **स्रोत:** [Link](https://x.com/Strength04_X/status/2060200771912864078) | **प्रकाशित:** May 29, 2026
+
+---
+### Skateboard Big Air Sunset Highlight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic 15-second skateboarding highlight featuring a single rider performing a 360 aerial rotation on a large outdoor ramp during a golden sunset, with dynamic tracking shots and high-impact sound design.
+
+#### 📝 प्रॉम्पट
+
+```
+15-second live-action big-air skateboarding highlight continuing at the same huge outdoor ramp during deep golden sunset. Only one skateboarder and only one skateboard exist in the entire video. Do not duplicate the rider. Do not add extra skateboarders in the background.
+
+Start with a fast low side-rear tracking shot as the rider accelerates toward the largest ramp, not only from directly behind. Use one quick close-up of the wheels, feet, and board while the rider climbs the ramp with power and control. Briefly switch to a low side angle just before takeoff to show the ramp height and speed.
+
+The rider launches into the highest big air and performs one clean 360 aerial rotation near the peak of the jump. Keep the aerial action clear and readable. Use a brief stop-motion-style freeze effect only at the peak moment of the rotation, then continue the motion naturally. Do not make the whole aerial section slow motion. Do not create ghost trails, overlapping silhouettes, or multiple riders. The real rider remains one person, and the skateboard stays controlled under the rider’s feet.
+
+After the peak rotation, return to normal motion for a clear descent and landing. Show the board aligning for touchdown, the wheels touching down, a short controlled slide, and a strong impact.
+
+End with the rider gliding away into the sunset in a short cinematic silhouette from behind.
+
+Strong sports highlight energy, dynamic but simple camera changes, low tracking shot, side-rear angle, brief side angle during takeoff and air, ground-level landing angle, clear takeoff and clear landing, dramatic height difference, readable body silhouette, realistic skateboard motion, no static sports introduction. No clear spoken commentary, no narration, no understandable dialogue. Sound effects only: fast rolling wheels, ramp rumble, wind rush, brief silence at the peak freeze, heavy landing impact, distant crowd reaction. No logo, no watermark, no readable text.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060197720900734976/img/ym9Yq6kjEOmCWR14.jpg" width="600" alt="Skateboard Big Air Sunset Highlight">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5466)**
+
+**लेखक:** [AIライフハック](https://x.com/ai_lifehack55) | **स्रोत:** [Link](https://x.com/ai_lifehack55/status/2060198851953209598) | **प्रकाशित:** May 29, 2026
+
+---
+### Cybernetic Anaconda Pursuit in Dystopian Mumbai
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-action cyberpunk video prompt featuring a motorcycle chase through a ruined Mumbai street, pursued by a giant mechanical anaconda.
+
+#### 📝 प्रॉम्पट
+
+```
+Fast-paced dystopian cyberpunk action in a ruined Indian megacity at night. Burnt cars, neon signs flickering in Hindi, sparks, smoke vents, broken flyovers, puddles reflecting pink and blue neon. Chaotic handheld cinematography, shaky tracking shots, aggressive speed ramps, dirty lens flares, practical lighting. Sound: roaring engines, metallic screeches, distorted radio chatter, distant explosions, hydraulic snake sounds.
+
+⸻
+
+0–2s — HOOK
+
+A tattooed Indian cyberpunk woman with shaved punk hair tears through a dystopian street on a junkyard-built motorcycle made from welded scrap metal, exposed engine parts, and glowing wires.
+
+Behind her—
+
+A gigantic half-real, half-mechanical anaconda smashes through burnt cars in aggressive pursuit.
+
+Metal jaws snapping.
+
+Red mechanical eyes glowing.
+
+⸻
+
+2–4s — ESCALATION
+
+Low shaky side tracking shot.
+
+The snake violently crashes through parked vehicles while partially gliding over wreckage with mechanical body segments flexing unnaturally.
+
+The woman swerves hard between wrecked taxis and burning debris.
+
+Radio crackles in her ear.
+
+Male voice:
+
+“Get it in position!”
+
+⸻
+
+4–7s — BUILD
+
+She accelerates harder.
+
+Rear tire skids through puddles.
+
+The snake lunges low behind her, smashing a car sideways into a wall.
+
+She shouts into radio:
+
+“I’m trying!”
+
+Ahead—
+
+a broken flyover ramp comes into view through smoke.
+
+⸻
+
+7–10s — COMMIT
+
+The woman locks onto the ramp and speeds directly toward it.
+
+Above on a ruined rooftop—
+
+A man with a bazooka takes aim.
+
+Radio:
+
+“Just a little closer…”
+
+The snake rapidly closes distance behind her.
+
+⸻
+
+10–13s — BULLET TIME PAYOFF
+
+She hits the ramp and launches into the air.
+
+Bullet time engages.
+
+The cybernetic anaconda leaps upward after her, jaws opening inches from her bike.
+
+The man fires.
+
+Rocket streaks through frame in slow motion.
+
+Direct hit into the snake’s mechanical skull.
+
+Massive explosion of sparks, fire, metal fragments, and flesh.
+
+⸻
+
+13–15s — FINAL BEAT
+
+Time snaps back.
+
+The woman lands hard, bike wobbling violently—
+
+she regains balance perfectly and keeps riding.
+
+Behind her, the burning mechanical anaconda crashes through wrecked cars.
+
+She laughs into the radio:
+
+“Target down!”
+
+The man cheers over comms.
+
+Cut.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060184772211838977/img/HLmUfriw9HDj2KMB.jpg" width="600" alt="Cybernetic Anaconda Pursuit in Dystopian Mumbai">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5462)**
+
+**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2060184837856850203) | **प्रकाशित:** May 29, 2026
+
+---
+### Anime Characters in Photorealistic Shopping Mall
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed multi-shot cinematic prompt for Seedance 2.0 that blends 2D anime characters with a realistic 3D mall environment, focusing on consistency and smooth motion across five different shots.
+
+#### 📝 प्रॉम्पट
+
+```
+Use Image A and Image B as the two main characters in all shots.
+
+Image A : preserve her exact anime illustration identity, hairstyle, face, outfit, proportions, and overall design.
+
+Image B : preserve her exact anime illustration identity, hairstyle, face, outfit, proportions, and overall design.
+
+Both characters must remain anime-style illustrations with crisp clean line art, cel-shaded flat colors, expressive anime eyes, and zero photorealism on the characters.
+
+All other elements — the shopping mall interior, storefronts, display windows, escalators, polished floors, shopping bags, crowd, lighting, and background architecture — are fully photorealistic.
+
+Setting: a busy modern shopping mall on a weekend afternoon. Stylish interior, bright natural and commercial lighting, large glass storefronts, digital signage, polished floors, open atrium, many shoppers walking around. The atmosphere is lively, fashionable, and cheerful.
+
+15-second cinematic video, 24fps, smooth motion, clear emotional flow, character consistency across all shots.
+
+Shot 1 [MALL ENTRANCE — ARRIVAL]
+
+Image A and Image B walk side by side into a crowded modern shopping mall, smiling and chatting. Many shoppers pass around them. The camera tracks backward in front of them as they enter the bright open atrium. They look excited for a fun day of window shopping.
+
+Cut to Shot 2 [WINDOW SHOPPING — DISCOVERY]
+
+The two girls stop in front of a stylish fashion storefront with a large glass display window. They lean in slightly and admire the items inside. Image A points at something cute in the display. Image B reacts with a bright smile and curious eyes. Medium shot, then close-up on their happy faces and pointing gesture.
+
+Cut to Shot 3 [MOVING THROUGH THE MALL]
+
+Image A and Image B continue walking through the busy mall, passing elegant shop windows, cosmetics counters, and accessory displays. They laugh together and casually gesture while talking. Camera moves alongside them. Background crowd flows naturally around them. Their mood is relaxed, lively, and playful.
+
+Cut to Shot 4 [EXCITEMENT AT A DISPLAY]
+
+They stop at another display window with fashionable accessories and seasonal decor. Image B notices something first and gently pulls Image A’s sleeve to show it. Image A’s expression changes into delighted surprise. Close-up on their faces, then cut to a wider shot showing both of them framed by the bright storefront and the bustling crowd behind.
+
+Cut to Shot 5 [PURE WEEKEND JOY]
+
+Image A and Image B continue window shopping deeper into the mall, each carrying a few small shopping bags. They smile, laugh, and enjoy the lively weekend atmosphere. Wide cinematic shot of the modern shopping mall interior, the two girls walking happily together at the center of the frame, surrounded by the photorealistic crowd and glowing storefronts. End with a gentle crane out
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060180079305756672/img/-nsftlOfh54VS_bz.jpg" width="600" alt="Anime Characters in Photorealistic Shopping Mall">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5467)**
+
+**लेखक:** [Toshi@ニャルオAI](https://x.com/Toshi_nyaruo_AI) | **स्रोत:** [Link](https://x.com/Toshi_nyaruo_AI/status/2060181284908073254) | **प्रकाशित:** May 29, 2026
+
+---
+### Rooftop Sunset Fashion Film Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A luxurious and viral-style fashion film prompt featuring a model on a skyscraper rooftop during golden hour.
+
+#### 📝 प्रॉम्पट
+
+```
+15-second ultra realistic cinematic rooftop fashion film during sunset.
+
+Scene 1 (0–4s): A stunning fashion model steps onto a luxury rooftop overlooking a glowing city skyline at golden hour. Soft wind moves her hair and long black outfit naturally, cinematic drone shot approaching slowly, warm orange sunlight reflecting on glass buildings, ultra aesthetic atmosphere.
+
+Scene 2 (4–8s): Slow-motion tracking shot as she confidently walks across the rooftop edge in a luxurious designer outfit with sunglasses and silver accessories. Cinematic lens flares, flowing fabric movement, rich old-money aesthetic, shallow depth of field, Vogue editorial vibe.
+
+Scene 3 (8–12s): Dramatic side-profile close-up with sunset behind her, hair moving beautifully in wind, emotional “main character” energy, cinematic camera orbit movement, realistic skin texture, luxury perfume advertisement style.
+
+Scene 4 (12–15s): Final powerful shot facing the city skyline while city lights begin glowing at blue hour. Camera slowly pulls back revealing the massive skyline and luxury rooftop ambiance. Text fades in: “Some people don’t follow trends… they become them.”
+
+Ultra realistic cinematic fashion storytelling, viral Twitter/TikTok aesthetic, luxury lifestyle energy, smooth camera motion, film grain, anamorphic lens flare, highly detailed, emotional cinematic mood, 4K masterpiece.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060180922276909056/pu/img/DTES8Zi37QOrQ2y_.jpg" width="600" alt="Rooftop Sunset Fashion Film Prompt">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5448)**
+
+**लेखक:** [Zeeshi](https://x.com/AIwithZeeshi) | **स्रोत:** [Link](https://x.com/AIwithZeeshi/status/2060181075779781084) | **प्रकाशित:** May 29, 2026
+
+---
+### Mushroom Port Town Anime Escape
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A cinematic anime sequence showing a girl in a blue hood stealing a glowing mushroom and escaping through a high-speed chase across the bridges and walkways of a floating mushroom market town.
+
+#### 📝 प्रॉम्पट
+
+```
+@Image 1 = Protagonist character. @Image 2 = Storyboard reference. Based on the attached storyboard image, create a 15-second horizontal 16:9 anime thrilling escape scene video. Theme: Thief Girl. Animate as a high-tempo, brisk scene following the panel order of the storyboard. Flow: Start with an overhead view of a mushroom port town market spread across the water. A girl in a blue hood hides at the edge of the pier or market and steals a rare purple-glowing mushroom. Impressively depict the moment of theft with hand close-ups, the girl's sparkling eyes, and the glow of the rare mushroom. Once the theft is discovered, the girl escapes quickly using wooden piers, waterside paths, docks, rope bridges, and floating platforms. As pursuers close in, show a high-speed escape where she runs across narrow bridges, nearly slips but recovers, jumps across canals, and brushes past boats and ropes. Include seagulls flying and textures of water splashes and damp wood. End with her running across a long bridge toward the light, leaving the port town behind. Style: High-quality anime film style, cinematic lighting, top-tier animation, high definition, vivid colors, transparent water, damp wood texture, openness of the port town, and an adventurous world filled with mushroom stalls and floating architecture. The girl should appear small and agile, mischievous yet serious, and as if she is truly escaping while enjoying the thrill. Editing: Use rhythmic high-speed cuts, close-ups, extreme close-ups, low angles, overhead shots, quick pans, and smooth match cuts. Mix an overhead market panorama, hand close-ups during theft, the girl's face close-up, following shots escaping from pursuers, low angles near the water surface, extreme close-ups of feet kicking the pier, wide shots of canal jumps, and dynamic diagonal compositions using rope movement or high vantage points. Create an energetic and stylish video, utilizing the precarious waterside and continuity of bridges unique to a floating port town. Important: Do not make it a slideshow of still images. Animate running and stealing naturally. Maintain the same atmosphere of the floating mushroom port town and high-quality anime style throughout. Do not include text, subtitles, logos, or watermarks. Perform the suspenseful thrill as a brisk scene. Consistently maintain the protagonist's face, blue hood, outfit, basket, and purple glowing mushroom throughout.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060178543808786432/img/dhAVzjA-P9Prag2Q.jpg" width="600" alt="Mushroom Port Town Anime Escape">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5468)**
+
+**लेखक:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **स्रोत:** [Link](https://x.com/Ryuki_Yano/status/2060179315011277307) | **प्रकाशित:** May 29, 2026
+
+---
+### Medieval Knight Horseback POV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed first-person perspective prompt for a cinematic medieval sequence showing a knight riding through a village, emphasizing realistic human visual perspective and natural motion.
+
+#### 📝 प्रॉम्पट
+
+```
+A first-person POV (horseback riding POV) sequence in a live-action medieval European-style film, showing a knight traveling on horseback.
+The camera is permanently fixed to the knight’s eye level, representing a realistic human visual perspective from atop a horse. There are no cuts, no switches to third-person, and no aerial or top-down viewpoints at any point.
+The horse follows the route indicated in the reference image. The journey begins at the location labeled “Start” and ends at the location labeled “Stop Here.” Movement follows a realistic walking pace of a horse, with natural body motion including subtle head, shoulder, and reins-induced camera sway.
+Along the way, the knight briefly greets villagers while passing them (simple nods or short hand waves). The village is a live-action medieval settlement with wooden buildings, stone-paved streets, and naturally active inhabitants.
+Upon reaching the final destination, the horse gradually slows down and stops. The knight then naturally dismounts the horse. The footage remains a single continuous shot until that moment.
+
+Visual Style (Photoreal Enhancement):
+Live-action cinematic film quality, photorealistic
+Natural light–based cinematic lighting
+Lens characteristics (shallow depth of field, slight lens breathing)
+Handheld-like but stabilized POV camera motion
+Realistic motion blur
+4K RAW film look
+Cinematic color grading (no excessive CGI appearance)
+
+Negative Prompt (for maintaining realism):
+Anime, CGI, or game engine-style visuals
+Drone view, aerial view, or third-person perspective
+HUD, UI, subtitles, markers, text overlays
+Route lines, guide lines, or map visualizations
+Excessive slow motion or unnatural speed changes
+Unrealistic floating sensation or gravity-defying motion
+Cuts or viewpoint transitions
+Overly smooth CGI-style camera movement
+Unrealistic horse movement
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060172486021685248/img/IpxHu_sAVfJwkyrw.jpg" width="600" alt="Medieval Knight Horseback POV">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5471)**
+
+**लेखक:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **स्रोत:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **प्रकाशित:** May 29, 2026
+
+---
+### Cyberpunk Mumbai Werewolf Pursuit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic 15-second action sequence set in a dystopian Mumbai with a robotic werewolf chasing a cyberpunk woman on a motorcycle.
+
+#### 📝 प्रॉम्पट
+
+```
+Fast-paced dystopian cyberpunk action in a ruined Indian megacity at night. Burnt cars, neon Hindi signs flickering, smoke vents, broken flyovers, puddles reflecting pink and blue neon. Chaotic shaky cinematography, aggressive handheld tracking, dirty lens flares, speed ramps, practical lighting. Sound: roaring engines, distorted radio chatter, hydraulic servos, metallic growls, distant explosions.
+
+⸻
+
+0–2s — HOOK
+
+A tattooed Indian cyberpunk woman with shaved punk hair races through a destroyed street on a junkyard-built motorcycle made from exposed engine parts, welded scrap, and glowing cables.
+
+Behind her—
+
+A gigantic half-real, half-robotic werewolf crashes through burnt cars at full speed.
+
+Metal claws scraping asphalt.
+
+Hydraulic limbs flexing.
+
+One glowing red cybernetic eye.
+
+⸻
+
+2–4s — ESCALATION
+
+Low shaky side-tracking shot.
+
+The cyber-werewolf runs unnaturally fast, sometimes on all fours, sometimes launching itself over wrecked vehicles.
+
+Its exposed mechanical spine sparks while flesh and metal shift together violently.
+
+Radio crackles in her ear.
+
+Male voice:
+
+“Get it in position!”
+
+⸻
+
+4–7s — BUILD
+
+She drifts hard around a pile of overturned taxis.
+
+The werewolf slams through one car completely, sending debris flying across the road.
+
+It gains ground fast.
+
+The woman shouts into the radio:
+
+“I’m trying!”
+
+Ahead through smoke and neon haze—
+
+a broken flyover ramp appears.
+
+⸻
+
+7–10s — COMMIT
+
+She accelerates directly toward the ramp.
+
+Cut to rooftop—
+
+A man with a bazooka steadies his aim through heat distortion.
+
+Radio:
+
+“Bring it closer…”
+
+The cyber-werewolf launches itself forward in massive leaps, nearly reaching the bike.
+
+⸻
+
+10–13s — BULLET TIME PAYOFF
+
+The woman hits the ramp and flies into the air.
+
+Bullet time engages.
+
+The cybernetic werewolf leaps upward behind her, claws reaching inches from her back.
+
+The bazooka fires.
+
+Rocket streaks through frame in slow motion.
+
+Direct impact into the werewolf’s chest.
+
+Explosion of sparks, fire, metal fragments, fur, and smoke.
+
+⸻
+
+13–15s — FINAL BEAT
+
+Time snaps back.
+
+The woman lands hard, bike wobbling violently—
+
+she regains control and speeds forward.
+
+Behind her, the burning cyber-werewolf crashes through wrecked cars and explodes into debris.
+
+She laughs into the radio:
+
+“Got him.”
+
+The man cheers over comms.
+
+Cut.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0fab2eea50a88534f5e208367d91f57/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Mumbai Werewolf Pursuit">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5434)**
+
+**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2060168520772809096) | **प्रकाशित:** May 29, 2026
+
+---
 ### संवाद अभिनय प्रदर्शन परीक्षण
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1772,1277 +4802,6 @@ Image 1 = Rogue Viper पहचान संदर्भ — कॉन्से�
 **लेखक:** [TechieSA](https://x.com/TechieBySA) | **स्रोत:** [Link](https://x.com/TechieBySA/status/2059318136453619757) | **प्रकाशित:** May 26, 2026
 
 ---
-### Mona Lisa बनाम Venus फाइटिंग गेम स्टाइल
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Mortal Kombat से प्रेरित सौंदर्य, हेल्थ बार और पुनर्जागरणकालीन कैथेड्रल एरिना के साथ Mona Lisa और Venus को दर्शाने वाला एक फाइटिंग गेम स्टाइल प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-राउंड 1: Mona Lisa स्क्रीन के बाईं ओर है और Venus दाईं ओर है। एक होलोग्राफिक इंटरफ़ेस पीले हेल्थ बार, हरे हेल्थ बार, कैरेक्टर अवतार, नाम, 'राउंड 1' टेक्स्ट और एक स्पेशल मूव गेज प्रदर्शित करता है। बैकग्राउंड एक पुनर्जागरणकालीन कैथेड्रल और तूफानी तट का मिश्रण है। आर्ट स्टाइल Mortal Kombat से प्रेरित है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74cee49e64e00c748bd5858c22162fe4/thumbnails/thumbnail.jpg" width="600" alt="Mona Lisa बनाम Venus फाइटिंग गेम स्टाइल">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5302)**
-
-**लेखक:** [老白（每日干货分享✊）](https://x.com/laobaishare) | **स्रोत:** [Link](https://x.com/laobaishare/status/2059309213160214678) | **प्रकाशित:** May 26, 2026
-
----
-### Cyber-City Skateboard Dog Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक कूल कुत्ते के नियॉन साइबर-सिटी में स्केटिंग करने का हाई-एनर्जी कार्टून वीडियो प्रॉम्प्ट, जिसमें स्पीड रैम्प्स, चेज़ शॉट्स और वाइब्रेंट डिजिटल एलिमेंट्स शामिल हैं।
-
-#### 📝 प्रॉम्पट
-
-```
-सनग्लासेस और पीछे की तरफ कैप पहने एक सुपर कूल कार्टून कुत्ते का तेज़ और ऊर्जावान कार्टून एक्शन सीक्वेंस, जो एक चमकते हुए स्केटबोर्ड पर वाइब्रेंट नियॉन साइबर-सिटी की सड़कों पर दौड़ रहा है। चारों ओर चमकीले नियॉन साइन, उड़ते हुए ड्रोन, होलोग्राफिक बिलबोर्ड, भविष्यवादी इमारतें और रंगीन डिजिटल एलिमेंट्स हैं। तेज़ कैमरा मूवमेंट, क्विक कट्स, मोशन ब्लर, स्पीड रैम्प्स, व्हिप पैन्स, लो-एंगल चेज़ शॉट्स और डायनामिक ट्रैकिंग का उपयोग करें। 0-3 सेकंड: स्केटबोर्ड के ठीक सामने एक लो ट्रैकिंग शॉट से शुरुआत करें, कूल कुत्ता आगे की ओर झुका हुआ है, जीभ बाहर है और हवा उसके बालों में है, जैसे ही वह चमकती सड़क पर तेज़ गति से दौड़ता है, उसके सनग्लासेस पर नियॉन लाइटें चमक रही हैं। कैमरा उसके आगे पीछे की ओर दौड़ता है। 3-6 सेकंड: तैरते हुए होलोग्राफिक बाधाओं और डिजिटल बैरियर की ओर व्हिप पैन; कुत्ता उनके ऊपर से एक स्मूथ ऑली फ्लिप करता है, स्केटबोर्ड के पहियों से चिंगारियां निकल रही हैं। 6-9 सेकंड: क्रैश ज़ूम और साइड ट्रैकिंग, जैसे ही चमकती ड्रोन लाइटें और नियॉन पेट्स उसके साथ जुड़ते हैं, कुत्ते के पीछे एक मज़ेदार चेज़ परेड बनाते हैं। स्पीड रैम्प हवा में स्लो-मोशन ट्रिक्स दिखाता है और फिर वापस पूरी गति में आ जाता है। 9-12 सेकंड: तेज़ ओवरहेड ड्रोन-स्टाइल शॉट, जिसमें कुत्ता ऊंची नियॉन इमारतों के बीच तीखे मोड़ लेता है, उसके पीछे रंगीन लाइट ट्रेल्स बन रही हैं। 12-15 सेकंड: कुत्ते के बगल से क्लाइमेक्स POV, जिसमें नियॉन साइन, पंखुड़ियाँ और डिजिटल चिंगारियाँ तेज़ी से गुज़रती हैं; वह खुशी से भौंकता है, कार्टून स्पिन के साथ एक आखिरी बड़ी छलांग लगाकर लैंड करता है, और चिंगारियाँ चमकते हुए अक्षरों में 'COOL DOG' शब्द में बदल जाती हैं जबकि सब कुछ खुशी से झूम उठता है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa5cc8e2378e06e40c68a60f1af8013f/thumbnails/thumbnail.jpg" width="600" alt="Cyber-City Skateboard Dog Animation">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5292)**
-
-**लेखक:** [Mr Das](https://x.com/MrDasOnX) | **स्रोत:** [Link](https://x.com/MrDasOnX/status/2059303912830849505) | **प्रकाशित:** May 26, 2026
-
----
-### Ghibli स्टाइल में ड्रैगन बनाम बंदर की कुश्ती
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Studio Ghibli स्टाइल में एक मल्टी-सीन वीडियो जनरेशन प्रॉम्प्ट, जिसमें एक मस्कुलर ड्रैगन और एक चतुर बंदर के बीच मजाकिया कुश्ती दिखाई गई है, साथ ही संवाद और पात्रों की हरकतें भी शामिल हैं।
-
-#### 📝 प्रॉम्पट
-
-```
-Studio Ghibli एनीमेशन स्टाइल। दृश्य 1: एक कुश्ती रिंग में, एक मोटा लेकिन मस्कुलर ड्रैगन कुश्ती चैंपियन एक बंदर पहलवान से लड़ रहा है। अचानक, ड्रैगन बंदर की पूंछ पकड़ लेता है, उसे ऊपर उठाता है, बंदर की ओर अहंकार से मुस्कुराता है और कहता है, 'मैच खत्म हो गया है।' जिस हाथ से उसने बंदर को उठाया है, उसकी बगल (armpit) दिखाई दे रही है। दृश्य 2: बंदर चालाकी से मुस्कुराता है, ड्रैगन की बगल में गुदगुदी करने के लिए हाथ बढ़ाता है, उसकी उंगलियां ड्रैगन को चिढ़ाते हुए हिल रही हैं, जिससे ड्रैगन भ्रमित हो जाता है। दृश्य 3: बंदर दोनों हाथों से ड्रैगन की बगल में गुदगुदी करता है। ड्रैगन तुरंत अपनी आंखें बंद करके हंसने लगता है, अभी भी बंदर को पकड़े हुए है, लेकिन उसकी ताकत धीरे-धीरे कम हो रही है। दृश्य 4: बंदर दोनों हाथों से ड्रैगन की बगल में गुदगुदी करना जारी रखता है। ड्रैगन और जोर से हंसता है, अपने पैर पटकता है और अनैच्छिक रूप से अपने शरीर को हिलाता है जबकि बंदर गुदगुदी करता रहता है। दृश्य 5: ड्रैगन बेदम होने तक हंसता है, बंदर को छोड़ देता है, खुद को गले लगाता है और हंसता रहता है। बंदर जल्दी से ड्रैगन से दूर हो जाता है। दृश्य 6: ड्रैगन हंसना बंद कर देता है, गुस्से में बंदर से कहता है कि यह धोखाधड़ी है, और फिर गुस्से में बंदर पर हमला कर देता है। ड्रैगन की आवाज धीमी और भारी है। ड्रैगन की बगल में गुदगुदी की जा रही है। संवाद अंग्रेजी में हैं।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a2f7fc065a0b50cfff3542a09e89de7b/thumbnails/thumbnail.jpg" width="600" alt="Ghibli स्टाइल में ड्रैगन बनाम बंदर की कुश्ती">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5321)**
-
-**लेखक:** [migrok](https://x.com/migrok293703) | **स्रोत:** [Link](https://x.com/migrok293703/status/2059286644029628514) | **प्रकाशित:** May 26, 2026
-
----
-### फैंटेसी रिबन स्टॉर्म ट्रांसफॉर्मेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 के लिए एक तकनीकी एनीमेशन प्रॉम्प्ट, जिसे स्टोरीबोर्ड को शॉट-दर-शॉट एक स्पष्ट सिनेमाई फैंटेसी सीक्वेंस में बदलने के लिए डिज़ाइन किया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-स्टोरीबोर्ड संदर्भ के रूप में उपयोग करें। स्टोरीबोर्ड का शॉट-दर-शॉट पालन करें, पैनल क्रम, फ्रेमिंग प्रोग्रेशन, कैमरा रिदम, ट्रांसफॉर्मेशन फ्लो और एस्केलेशन को सुरक्षित रखें। अंतिम वीडियो में किसी भी स्टोरीबोर्ड आर्टिफैक्ट को रेंडर न करें। रंगीन रेंडर न करें
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e73a7faa942ab4a75454ecf462e9ba0/thumbnails/thumbnail.jpg" width="600" alt="फैंटेसी रिबन स्टॉर्म ट्रांसफॉर्मेशन">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5318)**
-
-**लेखक:** [PhotoGPT](https://x.com/itsphotogptai) | **स्रोत:** [Link](https://x.com/itsphotogptai/status/2059282849522712929) | **प्रकाशित:** May 26, 2026
-
----
-### स्टाइलिश ऑरेंज कैट की दैनिक दिनचर्या
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक मजाकिया और यथार्थवादी नैरेटिव प्रॉम्प्ट, जिसमें एक मानवीकृत ऑरेंज कैट को कैफे से लेकर सबवे और जिम तक की अपनी जीवन यात्रा तय करते हुए दिखाया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-स्टाइल: अल्ट्रा-रियलिस्टिक, सिनेमैटिक, सॉफ्ट लाइटिंग, शैलो डेप्थ ऑफ फील्ड, मजाकिया लहजा, स्मूथ ट्रांजिशन, 4K
-0–3 सेकंड:
-एक स्टाइलिश ऑरेंज कैट आधुनिक कैफे काउंटर पर दो पैरों पर खड़ी है।
-उसने छोटे चश्मे और हुडी पहनी हुई है।
-वह मशीन पर कार्ड टैप करती है और कॉफी ऑर्डर करती है।
-बरिस्ता उसे एक छोटी लट्टे कप थमाता है।
-(कैमरा: क्लोज-अप → हल्का पैन, आरामदायक सुबह का माहौल)
-3–6 सेकंड:
-कट टू: कैट भीड़भाड़ वाले सबवे में सफर कर रही है।
-हैंडल पकड़े हुए, थकी हुई और ऊबी हुई दिख रही है।
-अन्य इंसान फोन चला रहे हैं, उसे नजरअंदाज कर रहे हैं।
-(कैमरा: हैंडहेल्ड, यथार्थवाद के लिए हल्का शेक)
-6–10 सेकंड:
-फास्ट जिम मोंटाज:
-कैट छोटे डंबल उठा रही है
-ट्रेडमिल पर दौड़ रही है
-गंभीरता से सिट-अप्स कर रही है
-पसीने की बूंदें, गंभीर चेहरा
-(कट्स अपबीट म्यूजिक के साथ सिंक किए गए)
-10–15 सेकंड:
-देर रात, 2 बजे।
-कैट मंद नीली रोशनी में सोफे पर अकेली बैठी है, फोन को घूर रही है।
-स्क्रीन की रोशनी उसकी आंखों में झलक रही है।
-धीमा ज़ूम इन, जैसे वह उलझन और खोई हुई लग रही है।
-स्क्रीन पर टेक्स्ट: “मैं अपने जीवन के साथ क्या कर रही हूँ?”
-समाप्ति:
-कॉफी वाले सीन पर स्मूथली लूप करें ☕🐱
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1f6413dfc2202dab338135bd09ec738/thumbnails/thumbnail.jpg" width="600" alt="स्टाइलिश ऑरेंज कैट की दैनिक दिनचर्या">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5307)**
-
-**लेखक:** [ayzalnoor](https://x.com/ayzalnooor24521) | **स्रोत:** [Link](https://x.com/ayzalnooor24521/status/2059265904572285160) | **प्रकाशित:** May 26, 2026
-
----
-### एनर्जी ड्रिंक कमर्शियल स्टोरीबोर्ड वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक फास्ट-फूड रेस्तरां में थके हुए कर्मचारी से शुरू होने वाला एक निरंतर लाइव-एक्शन कमर्शियल प्रॉम्प्ट, जिसमें शॉट रेफरेंस के रूप में स्टोरीबोर्ड का उपयोग किया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-स्टोरीबोर्ड इमेज का उपयोग केवल शॉट रेफरेंस के रूप में करें। एक निरंतर लाइव-एक्शन कमर्शियल फिल्म बनाएं, न कि स्टोरीबोर्ड पेज।
-
-एक फास्ट-फूड रेस्तरां के अंदर से शुरुआत करें जहां एक थका हुआ युवा कर्मचारी काउंटर के पीछे काम कर रहा है। एक अन्य व्यक्ति उसे एक ब्लैक insMind देता है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30a91566a4b22188267e5d69f20da652/thumbnails/thumbnail.jpg" width="600" alt="एनर्जी ड्रिंक कमर्शियल स्टोरीबोर्ड वीडियो">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5303)**
-
-**लेखक:** [insMind](https://x.com/insmind_com) | **स्रोत:** [Link](https://x.com/insmind_com/status/2059258981689020809) | **प्रकाशित:** May 26, 2026
-
----
-### कूल कैट कार्टून एक्शन सीक्वेंस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 के लिए एक हाई-एनर्जी इमेज-टू-वीडियो प्रॉम्प्ट, जिसमें कार चेज़ में एक कार्टून बिल्ली है। इसमें विस्तृत कैमरा निर्देश और टाइमलाइन-आधारित एनिमेशन ब्रेकडाउन शामिल हैं।
-
-#### 📝 प्रॉम्पट
-
-```
-एक धूप वाले गाँव की सड़क पर गाड़ी चलाती कूल कैट का तेज़, ऊर्जावान कार्टून एक्शन सीक्वेंस। हर जगह चमकीला आसमान, ताड़ के पेड़, धान के खेत, फूल, जानवर और रंगीन गाँव के विवरण। तेज़ कैमरा मूवमेंट, क्विक कट्स, मोशन ब्लर, स्पीड रैंप, व्हिप पैन, लो-एंगल चेज़ शॉट्स, कार-माउंटेड POV और क्रैश ज़ूम का उपयोग करें। 0-2 सेकंड: गाँव की सड़क पर तेज़ गति से दौड़ती नीली कार के लो फ्रंट बम्पर शॉट से शुरुआत करें, बिल्ली के चश्मे पर सूरज की रोशनी चमक रही है। कैमरा कार के सामने पीछे की ओर भागता है। 2-4 सेकंड: मुर्गियों के मार्चिंग बैंड की तरह सड़क पार करने पर व्हिप पैन। बिल्ली मुस्कुराते हुए आसानी से गाड़ी मोड़ती है, एक हाथ स्टीयरिंग व्हील पर है। 4-6 सेकंड: ताड़ के पेड़ों पर नारियल गिराते बंदरों पर क्रैश ज़ूम। कैमरा स्लो मोशन में कार के बगल में उछलते नारियल का पीछा करता है, फिर वापस तेज़ एक्शन में आ जाता है। 6-8 सेकंड: साइड ट्रैकिंग शॉट, जिसमें एक बकरी घास की गाड़ी पर कूदती है और बिल्ली के बगल में दौड़ती है, जो बेतहाशा नाच रही है। 8-10 सेकंड: ड्रोन-स्टाइल ओवरहेड शॉट, जिसमें बत्तख, मुर्गियाँ, सूअर और बकरियाँ कार के पीछे एक अराजक परेड बनाती हैं। 10-13 सेकंड: कार के अंदर से तेज़ POV, जिसमें नारियल, फूलों की पंखुड़ियाँ और घास विंडशील्ड के पास से उड़ते हुए गुज़रते हैं। बिल्ली हँसती है और म्यूजिकल हॉर्न बजाती है। 13-15 सेकंड: क्लाइमेक्स: कार एक नरम घास के रैंप से टकराती है, जानवरों के ऊपर से धीरे से उछलती है, एक छोटा सा कार्टून बाउंस लेती है और नारियल लुढ़क कर "COOL CAT" शब्दों में बदल जाते हैं जबकि हर कोई चीयर कर रहा है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7c042316fe3acff7cc81d4ee16cf9915/thumbnails/thumbnail.jpg" width="600" alt="कूल कैट कार्टून एक्शन सीक्वेंस">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5299)**
-
-**लेखक:** [Umesh](https://x.com/umesh_ai) | **स्रोत:** [Link](https://x.com/umesh_ai/status/2059242557415321984) | **प्रकाशित:** May 26, 2026
-
----
-### हाथी और बिल्ली के बच्चे का नदी बचाव अभियान
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक हाथी द्वारा बिल्ली के बच्चे की मदद करने की कहानी के लिए एक पुरानी यादों वाला सरल प्रॉम्प्ट, जिसे विंटेज मैगज़ीन इलस्ट्रेशन की शैली में तैयार किया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक छोटा हाथी नदी पार करने में एक बिल्ली के बच्चे की मदद करता है, और अंततः वे सबसे अच्छे दोस्त बन जाते हैं। इसे पुरानी यादों, बोना और रोंगरोंग (Bona and Rongrong), और बोबो मैगज़ीन (Bobo Magazine) की शैली में तैयार करें।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/655db6f49694884c83ffb4263089b98c/thumbnails/thumbnail.jpg" width="600" alt="हाथी और बिल्ली के बच्चे का नदी बचाव अभियान">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5310)**
-
-**लेखक:** [9 Second Stories | AI](https://x.com/MugiwaraLu96337) | **स्रोत:** [Link](https://x.com/MugiwaraLu96337/status/2059238095489540574) | **प्रकाशित:** May 26, 2026
-
----
-### कोरियन सीफूड रामेन एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 के लिए एक हाई-एनर्जी कोरियन स्ट्रीट फूड एनीमेशन प्रॉम्प्ट, जिसमें विस्तृत रामेन टेक्सचर और आग पर आधारित इफेक्ट्स दिखाए गए हैं।
-
-#### 📝 प्रॉम्पट
-
-```
-संलग्न स्टोरीबोर्ड शीट का उपयोग करके, 15 सेकंड का एक एनिमेटेड कुकिंग वीडियो बनाएं।
-
-थीम:
-कोरियन फायर सीफूड रामेन
-
-स्टाइल:
-तेज-तर्रार एनीमे कुकिंग एनीमेशन,
-ऊर्जावान कोरियन स्ट्रीट किचन का माहौल,
-विस्तृत रामेन और सीफूड टेक्सचर,
-मजबूत
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bbdca31797da208726010393f48e9ec2/thumbnails/thumbnail.jpg" width="600" alt="कोरियन सीफूड रामेन एनीमेशन">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5314)**
-
-**लेखक:** [Kollab](https://x.com/Kollab_AI) | **स्रोत:** [Link](https://x.com/Kollab_AI/status/2059222833021235473) | **प्रकाशित:** May 26, 2026
-
----
-### इंटरडायमेंशनल लाइब्रेरियन सरियल फैंटेसी सीन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अनंत इंटरडायमेंशनल लाइब्रेरी में चांदी के बालों वाली लाइब्रेरियन के बारे में 13-फ्रेम वाले सिनेमैटिक सीक्वेंस के लिए एक विशाल सरियल फैंटेसी प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-एक युवा महिला जो एक ऐसी लाइब्रेरी की अंतिम लाइब्रेरियन है जो आयामों के बीच मौजूद है — जहाँ हर वह किताब जो कभी लिखी गई, देखी गई या भुला दी गई, अनंत चमकती अलमारियों में स्वतंत्र रूप से तैरती है जो दृश्य ब्रह्मांड से परे तक फैली हुई हैं। उसके लंबे चांदी जैसे सफेद बाल हैं जो गुरुत्वाकर्षण को धता बताते हुए ऊपर की ओर बहते हैं, उसने एक लंबा फटा हुआ गहरा कोट पहना है जो चमकते हस्तलिखित शब्दों से ढका है जो लगातार बदलते रहते हैं, और वह कांच के फर्श पर नंगे पैर है जिसके नीचे अनंत आकाशगंगाएं दिखाई देती हैं। उसकी आँखें हल्की सुनहरी चमकती हैं — उसने अब तक की हर कहानी पढ़ी है। 13 सरियल सिनेमैटिक पलों का फ्रेम ब्रेकडाउन: प्रवेश द्वार पर खड़ी है — संकुचित तारों से बने दो विशाल प्राचीन दरवाजे धीरे-धीरे खुल रहे हैं, गर्म सुनहरी रोशनी ठंडे शून्य में फैल रही है। अलमारियों के बीच हवा में तैर रही है — किताबें उसके चारों ओर ग्रहों की तरह घूम रही हैं, वह एक तक पहुँचती है और वह स्याही से बनी तितलियों में बदल जाती है। उसके हाथों का क्लोज़-अप — जैसे ही वह एक भूली हुई किताब की रीढ़ को छूती है, उसकी हर उंगलियों से चमकते अक्षरों की लकीरें निकलती हैं। एक किताब अपने आप खुल जाती है — पन्नों से पूरे परिदृश्य पानी की तरह बाहर निकलते हैं, फर्श को लघु जीवित दुनियाओं से भर देते हैं। उसे बिना शीर्षक वाली एक किताब मिलती है — उसे खोलती है तो पाती है कि यह बिल्कुल उसी पल को दर्शाती है जिसे वह पढ़ रही है, एक अनंत प्रतिबिंब। शब्दों के ढेर से बनी एक सीढ़ी जो शुद्ध प्रकाश के बादलों में ऊपर की ओर घूमती है — वह नंगे पैर चढ़ती है, कोट धुएं की तरह पीछे छूट रहा है। लाइब्रेरी का एक हिस्सा आग की चपेट में है — लेकिन आग संगीत से बनी है, दृश्य ध्वनि तरंगें हवा को उन रंगों में जला रही हैं जिनका अभी तक कोई नाम नहीं है। वह पालथी मारकर बैठी पढ़ रही है जबकि लाइब्रेरी के अंदर उसके ऊपर चुपचाप एक पूरा तूफान बन रहा है, बिजली चांदी के धागे से बनी है। कहीं से एक दरवाजा दिखाई देता है जिस पर एक ऐसी भाषा में लेबल लगा है जो अस्तित्व में ही नहीं है — वह इसे खोलती है और खुद का एक ऐसा संस्करण पाती है जो कभी नहीं लिखी गई कहानी से है। छत टूटकर खुलती है — आकाश में नहीं बल्कि शुद्ध यादों में, बचपन के पलों के टुकड़े तस्वीरों से बनी बर्फ की तरह बरस रहे हैं। वह एक मोमबत्ती पकड़े हुए है जो पीछे की ओर जलती है — लौ प्रकाश को बाहर धकेलने के बजाय अंधेरे को अंदर खींच रही है, उसका चेहरा विपरीत दिशा में प्रकाशित है। किताबें खुद को लिखना शुरू करती हैं — हजारों कलम अपने आप तैरते चर्मपत्र पर चल रहे हैं जबकि वह शांत आंसुओं के साथ देख रही है। अंतिम फ्रेम: वह अस्तित्व की आखिरी किताब बंद करती है — पूरी लाइब्रेरी अपनी सांस रोक लेती है, हर तैरता हुआ पन्ना हवा में जम जाता है, सुनहरी धूल हर जगह निलंबित है, वह पहली बार सीधे कैमरे में एक छोटी सी समझदार मुस्कान के साथ देखती है — जैसे कि उसने अभी-अभी आपकी कहानी पूरी की हो। शैली: डार्क सरियल फैंटेसी, सिनेमैटिक वाइड शॉट्स के साथ क्लोज़-अप का मिश्रण, असंभव वास्तुकला, बायोलुमिनेसेंट लाइटिंग, स्याही और तारों का रंग पैलेट — गहरा नीला, सोना, हाथीदांत, शून्य काला — फिल्म ग्रेन, एनामोर्फिक लेंस फ्लेयर, स्वप्निल असंभवता के साथ मिश्रित पेंटरली यथार्थवाद, कोई CGI लुक नहीं — हाथ से बना हुआ, प्राचीन और अनंत महसूस होता है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ceacb18e25caed90af0eba5b8268e5b7/thumbnails/thumbnail.jpg" width="600" alt="इंटरडायमेंशनल लाइब्रेरियन सरियल फैंटेसी सीन">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5312)**
-
-**लेखक:** [simply](https://x.com/kingofdairyque) | **स्रोत:** [Link](https://x.com/kingofdairyque/status/2059211279248810109) | **प्रकाशित:** May 26, 2026
-
----
-### स्टोरीबोर्ड मैपिंग के साथ Hina कैरेक्टर एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 के लिए एक संरचित वीडियो प्रॉम्प्ट, जो Hina कैरेक्टर को सुसंगत फ्रेमिंग के साथ एनिमेट करने के लिए कैरेक्टर शीट और स्टोरीबोर्ड सहित कई संदर्भ छवियों का उपयोग करता है।
-
-#### 📝 प्रॉम्पट
-
-```
-Ref @ Image1(HINA) @ Image2(OKA-SAN) @ Image3(HINA sheet) @ Image4(OKA-SAN sheet) @ Image5(Storyboard 1) — फ्रेमिंग का पालन करें।
-
-HINA LOCKED: 11 साल की लड़की, गोल चेहरा, बड़ी गहरी भूरी आँखें, काले ब्लंट-फ्रिंज बाल, पीले स्टार क्लिप, ओवरसाइज़्ड पीले-सफेद धारीदार
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c20a29670cb3dc8e99dfdb5d0d252484/thumbnails/thumbnail.jpg" width="600" alt="स्टोरीबोर्ड मैपिंग के साथ Hina कैरेक्टर एनीमेशन">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5323)**
-
-**लेखक:** [Fikkkfx](https://x.com/FikkkFX) | **स्रोत:** [Link](https://x.com/FikkkFX/status/2059196977045241967) | **प्रकाशित:** May 26, 2026
-
----
-### अकेलेपन से उम्मीद तक: एक सिनेमैटिक कहानी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक भावनात्मक नैरेटिव प्रॉम्प्ट जो मॉडल को अकेलेपन, पुरानी यादों और उम्मीद भरी सुबह के दृश्यों के माध्यम से निर्देशित करता है।
-
-#### 📝 प्रॉम्पट
-
-```
-15-सेकंड का भावनात्मक सिनेमैटिक स्टोरीटेलिंग वीडियो।
-दृश्य 1 (0-4 सेकंड): एक युवक रात में बारिश वाली खिड़की के पास एक धुंधले अपार्टमेंट में अकेला बैठा है, पुरानी तस्वीर पकड़े हुए भावुक दिख रहा है। हल्की नीली रोशनी, कांच पर गिरती बारिश, उसकी आंखों का सिनेमैटिक क्लोज-अप, धीरे-धीरे कैमरा पास आता है।
-दृश्य 2 (4-9 सेकंड): पुरानी यादें उभरती हैं — पार्क में सूर्यास्त के समय परिवार और दोस्तों के साथ हंसना, खुशी के स्लो-मोशन पल, सुनहरी धूप, भावुक मुस्कान, पुरानी यादों का माहौल।
-दृश्य 3 (9-15 सेकंड): वर्तमान समय में वापसी। आदमी बाहर निकलता है जैसे ही सूरज उगने लगता है। वह अपनी आंखें बंद करता है, गहरी सांस लेता है, और धीरे से मुस्कुराता है जबकि गर्म धूप उसके चेहरे पर पड़ती है, जो उम्मीद और ठीक होने का प्रतीक है।
-अल्ट्रा रियलिस्टिक सिनेमैटिक स्टोरीटेलिंग, भावनात्मक मूवी माहौल, यथार्थवादी अभिनय, सूक्ष्म चेहरे के भाव, हल्का हैंडहेल्ड कैमरा मूवमेंट, शैलो डेप्थ ऑफ फील्ड, फिल्म ग्रेन, नाटकीय लाइटिंग, हॉलीवुड इमोशनल ड्रामा स्टाइल, स्मूथ सीन ट्रांजिशन, 4K सिनेमैटिक क्वालिटी।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c58cfc82839c71c7d2044d26290cfbde/thumbnails/thumbnail.jpg" width="600" alt="अकेलेपन से उम्मीद तक: एक सिनेमैटिक कहानी">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5304)**
-
-**लेखक:** [Zeeshi](https://x.com/AIwithZeeshi) | **स्रोत:** [Link](https://x.com/AIwithZeeshi/status/2059192119135436922) | **प्रकाशित:** May 26, 2026
-
----
-### सिल्वर Lotus Evija अर्बन नाइट ड्रिफ्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> रात के समय एक व्यस्त शहर की सड़क पर सिल्वर Lotus Evija द्वारा किए जा रहे स्मूथ ड्रिफ्ट का 10-सेकंड का फोटो-रियलिस्टिक शॉट।
-
-#### 📝 प्रॉम्पट
-
-```
-रात के समय एक व्यस्त शहर की सड़क के किनारे खड़ी एक सिल्वर Lotus Evija। कारें और मोटरसाइकिलें पास से गुजर रही हैं और लोग स्वाभाविक रूप से कार को देखने के लिए अपना सिर घुमाते हैं। Lotus अचानक गति पकड़ती है और मुख्य सड़क पर एक स्मूथ रियलिस्टिक ड्रिफ्ट करती है। आसपास का ट्रैफिक धीमा हो जाता है और स्वाभाविक रूप से रास्ता दे देता है। गीली डामर सड़क पर रिफ्लेक्शन, टायर का हल्का धुआं, हैंडहेल्ड स्ट्रीट कैमरामैन का नजरिया, रियलिस्टिक सस्पेंशन मूवमेंट, नेचुरल मोशन ब्लर, सिनेमैटिक अर्बन लाइटिंग, अल्ट्रा रियलिस्टिक रियल-लाइफ फुटेज, कोई CGI लुक नहीं, निरंतर 10-सेकंड का शॉट, 4K
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e65b6d11b06cc5c74876bec85617e98/thumbnails/thumbnail.jpg" width="600" alt="सिल्वर Lotus Evija अर्बन नाइट ड्रिफ्ट">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5298)**
-
-**लेखक:** [AQ Baloch](https://x.com/iamaqbaloch) | **स्रोत:** [Link](https://x.com/iamaqbaloch/status/2059184009519747340) | **प्रकाशित:** May 26, 2026
-
----
-### पारंपरिक इंडोनेशियाई कुकिंग एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विशिष्ट स्टोरीबोर्ड अनुक्रम का पालन करते हुए, सोटो अयाम (Soto Ayam) का 15-सेकंड का हॉरिजॉन्टल एनिमेटेड कुकिंग वीडियो बनाने के लिए एक वीडियो जनरेशन प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-संलग्न स्टोरीबोर्ड छवियों के आधार पर, 15-सेकंड का हॉरिजॉन्टल 16:9 एनिमेटेड कुकिंग वीडियो बनाएं।
-
-थीम: सोटो अयाम (Soto Ayam)
-
-स्टोरीबोर्ड के प्रवाह का पालन करें:
-सामग्री → लहसुन, हल्दी और अजवाइन (celery) काटना →
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c1276de76c0415d16c795a43513ff694/thumbnails/thumbnail.jpg" width="600" alt="पारंपरिक इंडोनेशियाई कुकिंग एनिमेशन">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5319)**
-
-**लेखक:** [DΞV](https://x.com/junwatu) | **स्रोत:** [Link](https://x.com/junwatu/status/2059175686397743283) | **प्रकाशित:** May 26, 2026
-
----
-### फुटबॉल मैच डे सिनेमैटिक POV व्लॉग
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक हाई-एनर्जी सिनेमैटिक POV व्लॉग जो मैच के दिन के भावनात्मक सफर को कैद करता है, प्री-गेम तैयारी से लेकर अंतिम सीटी के जश्न तक।
-
-#### 📝 प्रॉम्पट
-
-```
-फुटबॉल व्लॉग: मैच डे की ऊर्जा
-एक सिनेमैटिक POV व्लॉग जो फुटबॉल के दिन के पूरे भावनात्मक सफर को दर्शाता है — तैयारी से लेकर अंतिम सीटी तक।
-
-0–3s: अलार्म बजता है। स्लो-मोशन क्लोज-अप: जूते कसे जा रहे हैं, जर्सी पहनी जा रही है, हाथ हल्के से कांप रहे हैं। गहरी सांस। मैच का दिन शुरू होता है।
-
-3–6s: स्टेडियम में आगमन। बस के दरवाजे खुलते हैं। फ्लैशिंग लाइट्स, भीड़ का शोर लहरों की तरह बढ़ रहा है। खिलाड़ी नाटकीय परछाइयों और स्टेडियम की चमक के बीच टनल से गुजरते हैं।
-
-6–9s: वार्म-अप की तीव्रता। रैपिड कट्स: बॉल टच, पास, स्प्रिंट ड्रिल्स, स्ट्रेचिंग, सीटों पर भरती भीड़। स्टेडियम की लाइटें एक सिनेमैटिक खुलासे की तरह एक-एक करके जल उठती हैं।
-
-9–12s: मैच का रोमांच। तेज़ गेमप्ले: टैकल, स्प्रिंट, स्लाइडिंग चुनौतियां, कीपर का स्लो-मोशन में बचाव, पसीना उड़ना, भीड़ का लगातार शोर।
-
-12–15s: अंतिम क्षण। गोल / सीटी। भावनाओं का जम जाना—घुटने जमीन पर, मुट्ठियां बंधी हुई। कैमरा वाइड एंगल पर जाता है और पूरे जश्न में डूबा हुआ स्टेडियम दिखाई देता है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/335f4d383c79b70e5aa73d5684d91433/thumbnails/thumbnail.jpg" width="600" alt="फुटबॉल मैच डे सिनेमैटिक POV व्लॉग">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5297)**
-
-**लेखक:** [Nawal](https://x.com/nawalsehar) | **स्रोत:** [Link](https://x.com/nawalsehar/status/2059168471620223118) | **प्रकाशित:** May 26, 2026
-
----
-### प्रॉम्प्ट:
-12 ग्रिड में से प्रत्येक में पात्रों को बनाएँ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 प्रॉम्पट
-
-```
-छवि में मौजूद 12 ग्रिड सेल में से प्रत्येक में पात्रों को एनिमेट करें। उन्हें अपने संबंधित सेल की सीमाओं से बाहर नहीं जाना चाहिए, और उनके चेहरे के भाव तथा गतिविधियाँ उचित रूप से मेल खानी चाहिए।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f2917bf953c737cdded1534f0087431/thumbnails/thumbnail.jpg" width="600" alt="प्रॉम्प्ट:
-12 ग्रिड में से प्रत्येक में पात्रों को बनाएँ">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5320)**
-
-**लेखक:** [GPTProto Official](https://x.com/gptproto) | **स्रोत:** [Link](https://x.com/gptproto/status/2059162075805683949) | **प्रकाशित:** May 26, 2026
-
----
-### अमेरिकन व्लॉग रोड ट्रिप कोलाज
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> कई अमेरिकी शहरी स्थानों पर एक अराजक और प्रामाणिक व्लॉग-शैली कोलाज बनाने के लिए एक विस्तृत प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-न्यूयॉर्क शहर और लॉस एंजिल्स की खोज कर रहे एक युवा अमेरिकी रोड ट्रिप व्लॉगर की 13 स्पष्ट (candid) क्षणों वाली एक छवि तैयार करें — लंबी लहरदार धूप से सुनहरे बालों वाली, झाइयों के साथ प्राकृतिक बिना-फ़िल्टर मेकअप, सहज अमेरिकी स्ट्रीटवियर पहने हुए — ओवरसाइज़्ड विंटेज बैंड टी-शर्ट, हाई-वेस्ट डेनिम शॉर्ट्स, थ्रिफ्टेड फलालैन शर्ट, क्रॉप किए हुए हुडी, चंकी व्हाइट स्नीकर्स, घिसे हुए लेदर बूट्स — मुक्त-उत्साही साहसी व्यक्तित्व, वास्तविक खामियों और प्राकृतिक अराजकता के साथ प्रामाणिक हैंडहेल्ड iPhone कोलाज सौंदर्य। फ्रेम विवरण: आधी रात को टाइम्स स्क्वायर सेल्फी — हवा से उलझे बाल, गीले फुटपाथ पर नियॉन प्रतिबिंब, ब्रुकलिन बोडेगा के पास से गुजरती धुंधली पीली कैब, हाथ में बेकन एग एंड चीज़ सैंडविच और एरिज़ोना आइस्ड टी, खाते हुए हंसी। अचानक NYC की गर्मियों की बारिश में फंसना — मचान के नीचे दौड़ना, भीगा हुआ हुडी, हल्का सा फैला हुआ मस्कारा, वास्तविक हंसी की प्रतिक्रिया। गोल्डन आवर में ब्रुकलिन में रूफटॉप पार्टी सेल्फी — पीछे चमकती मैनहट्टन स्काईलाइन, हाथ में सोलो कप, लापरवाह ऊर्जा। LA में थ्रिफ्ट स्टोर की candid फोटो — बाहों में विंटेज सामान, चारों ओर कपड़ों के अस्त-व्यस्त रैक। इन-एन-आउट बर्गर क्लोज़-अप — गंदी मेज, आधा खाया हुआ बर्गर, एनिमल-स्टाइल फ्राइज़, मुड़े हुए रैपर, प्रामाणिक फास्ट फूड की अराजकता। रेगिस्तानी सूर्यास्त के दौरान ग्रेहाउंड बस पर खिड़की का प्रतिबिंब शॉट — कैक्टस की छाया, चेहरे पर गर्म एम्बर रोशनी। वेनिस बीच पर रोलर स्केटिंग रिंक में गिरने और हंसने के बीच की प्रतिक्रिया — मोशन ब्लर, हर जगह रेट्रो नियॉन लाइट्स। हॉलीवुड हिल्स हाइकिंग ट्रेल की candid फोटो — दूर जंगल की आग की धुंध, थकी हुई लेकिन मुस्कुराती हुई, हाथ में पानी की बोतल। रात के 2 बजे न्यूयॉर्क शहर की रूफटॉप सेल्फी — नीचे अनंत तक चमकता शहर, हवा का धुंधलापन, बिखरे हुए बाल। एक धुंधले ब्रुकलिन डाइव बार के अंदर नाचते हुए शॉट — नियॉन बीयर के संकेत, भीड़ की ऊर्जा, हर जगह हलचल। देर रात का डिनर बूथ — कॉफी मग से उठती भाप जो लेंस को थोड़ा धुंधला कर रही है, आधे खाए हुए पैनकेक, थकी हुई खुश आँखें। अंतिम फ्रेम: गोल्डन आवर में सेंट्रल पार्क के एक शांत कोने में कबूतरों को खिलाते हुए, जब एक कबूतर अचानक उसके सिर पर बैठ जाता है और वह हंसने लगती है — कांपती हुई candid कैप्चर, गर्म सिनेमाई चमक, चारों ओर गिरे हुए पतझड़ के पत्ते, अस्त-व्यस्त प्रामाणिक खुशी, पूरी तरह से अनपेक्षित क्षण। शैली: यथार्थवादी अमेरिकी व्लॉग कोलाज, अपूर्ण स्मार्टफोन कैमरा अनुभव, शहरी नियॉन वातावरण, मोशन ब्लर, प्रामाणिक यात्रा कहानी, आकस्मिक हैंडहेल्ड फ्रेमिंग, यथार्थवादी त्वचा बनावट, प्राकृतिक परिवेश प्रकाश, सूक्ष्म दाने, गर्मियों की धुंध, candid जेन ज़ी सोशल मीडिया यथार्थवाद, कोई स्टूडियो पॉलिश नहीं, अराजक सुंदर रोड ट्रिप यादें, सिनेमाई शहरी ऊर्जा।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b05e385a31d715cccf311787ef01717/thumbnails/thumbnail.jpg" width="600" alt="अमेरिकन व्लॉग रोड ट्रिप कोलाज">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5306)**
-
-**लेखक:** [Anissa](https://x.com/SimplyAnnisa) | **स्रोत:** [Link](https://x.com/SimplyAnnisa/status/2059142293177749693) | **प्रकाशित:** May 26, 2026
-
----
-### सिनेमैटिक कार एंट्री और ड्राइव सीक्वेंस
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> एक व्यापक मल्टी-शॉट स्टोरीबोर्ड प्रॉम्प्ट जो एक कैरेक्टर के कार में बैठने, गियर बदलने और गाड़ी चलाकर दूर जाने का वर्णन करता है, जिसमें डायनामिक वीडियो जनरेशन के लिए विशिष्ट कैमरा एंगल और क्लोज-अप विवरण शामिल हैं।
-
-#### 📝 प्रॉम्पट
-
-```
-यह कैरेक्टर: 1) डोरनॉब पर हाथ का क्लोज-अप, 2) कार में बैठना, 3) ड्राइवर की सीट पर बैठने और स्टीयरिंग व्हील को पकड़ने का तिरछा नीचे से दृश्य, 4) मैनुअल शिफ्ट बदलते हाथ का क्लोज-अप, 5) एक्सीलरेटर दबाते पैर का क्लोज-अप, 6) उस क्षण का स्पीडोमीटर, 7) कार के मफलर का क्लोज-अप जिससे धुआं निकल रहा है, 8) सामने से कार का दृश्य। कार चलना शुरू होती है। खिड़की से यह दिखाई देता है कि वह अंदर है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/912981a8b236d18c453549d29f13ab6b/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक कार एंट्री और ड्राइव सीक्वेंस">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5322)**
-
-**लेखक:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc) | **स्रोत:** [Link](https://x.com/z933TfmXkaISSVc/status/2059142136222863567) | **प्रकाशित:** May 26, 2026
-
----
-### एपिक फैंटेसी एक्शन सिनेमा
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 के लिए एक एपिक फैंटेसी एक्शन प्रॉम्प्ट, जिसमें प्रोफेशनल लाइटिंग और मोशन के साथ फोटो-रियलिस्टिक ब्लॉकबस्टर स्टाइल का उपयोग किया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-15-सेकंड का एपिक सिनेमैटिक मल्टी-शॉट एक्शन वीडियो, फोटो-रियलिस्टिक ब्लॉकबस्टर फैंटेसी स्टाइल, ARRI Alexa 65 एस्थेटिक, प्रोफेशनल कलर ग्रेडिंग, फिल्म ग्रेन, बर्फ को चीरती हुई वॉल्यूमेट्रिक गॉड रेज़, जटिल विवरण, डेप्थ ऑफ फील्ड, स्मूथ हाई-फिडेलिटी मोशन,
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/40a05691afa27ecfb3b7cb0376b4ff17/thumbnails/thumbnail.jpg" width="600" alt="एपिक फैंटेसी एक्शन सिनेमा">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5316)**
-
-**लेखक:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | **स्रोत:** [Link](https://x.com/Diplomeme/status/2059139611348341108) | **प्रकाशित:** May 26, 2026
-
----
-### अलौकिक महिला झील रूपांतरण
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अत्यंत विस्तृत फैंटेसी वीडियो प्रॉम्प्ट, जो एक वीरान झील के किनारे एक महिला के अलौकिक रूपांतरण को दर्शाता है। इसमें पात्र, सेटिंग, कहानी और कैमरा निर्देश शामिल हैं।
-
-#### 📝 प्रॉम्पट
-
-```
-[character] युवा रहस्यमयी महिला, 22 वर्ष, हवा में लहराते लंबे काले बाल, सामान्य काली आँखें जो रूपांतरण के दौरान चमकती बैंगनी हो जाती हैं, तीखे चेहरे के नैन-नक्श, पीली त्वचा, एथलेटिक बनावट, फिटिंग वाले काले पहनावे के ऊपर पहनी हुई पुरानी गहरे भूरे रंग की जैकेट, घिसे हुए जूते, शांत लेकिन दृढ़ अभिव्यक्ति, यथार्थवादी चेहरे का विवरण, प्राकृतिक त्वचा की बनावट, आत्मविश्वास से भरी मुद्रा, हाथों पर हल्के निशान, शक्तिशाली अलौकिक आभा, फोटो-यथार्थवादी, अति विस्तृत, यथार्थवादी शारीरिक रचना, सिनेमाई यथार्थवाद, 4K, पूरे दृश्य में एक जैसा चेहरा।
-
-[place] काली ज्वालामुखी मिट्टी वाली वीरान झील का किनारा, शांत गहरी झील, घनी तैरती धुंध, पानी की सतह के नीचे प्राचीन चमकते प्रतीक, हवा में बिखरे हुए क्रिस्टल के टुकड़े, बंजर मृत पेड़, ठंडा भूरा आसमान, रहस्यमयी अलौकिक वातावरण, सिनेमाई लाइटिंग, फोटो-यथार्थवादी, अति विस्तृत, महाकाव्य फैंटेसी यथार्थवाद, 4K।
-
-[story] एक युवा महिला भूरे आसमान के नीचे एक शांत, गहरी झील के किनारे घुटनों के बल बैठी है। जैसे ही वह पानी को छूती है, रहस्यमयी बैंगनी रोशनी सतह पर फैल जाती है और झील के नीचे प्राचीन प्रतीक जागृत हो जाते हैं। उसके चारों ओर ऊर्जा बढ़ती है, जो उसके शरीर को बैंगनी शक्ति की चमकती धाराओं में लपेट लेती है। धीरे-धीरे क्रिस्टल जैसा कवच बनता है, जबकि हवा तेज हो जाती है और पानी उसके चारों ओर तैरने लगता है। अचानक धुंध से एक विशाल छायादार जीव निकलता है और हमला करता है। वह बचती है, अपनी नई शक्तियों का प्रदर्शन करती है और एक तेज़ करीबी लड़ाई में जीव को हरा देती है। जैसे ही दुश्मन काली धुंध में विलीन हो जाता है, वह शांत झील के ऊपर अकेली खड़ी होती है, धीरे-धीरे चमकती हुई, जबकि कैमरा धीरे-धीरे पीछे हटकर विशाल वीरान परिदृश्य की ओर जाता है।
-
-[camera] सिंगल निरंतर शॉट, पानी के नीचे से लो-एंगल शुरुआत, धीरे-धीरे आगे बढ़ना (push-in), पानी की सतह से सहज ऊपर उठना, रूपांतरण के दौरान डायनामिक ऑर्बिट, लड़ाई में तेज़ ट्रैकिंग, सिनेमाई क्लोज-अप, अंत में धीरे-धीरे पीछे हटना (pull-back), यथार्थवादी मोशन ब्लर, IMAX सिनेमाई शैली, कोई कट नहीं।
-
-[rules] पूरे दृश्य में एक जैसा चेहरा और पहनावा, सुसंगत पात्र पहचान, यथार्थवादी महिला शारीरिक रचना, सहज प्राकृतिक गति, निर्बाध रूपांतरण, सिनेमाई लाइटिंग, कोई अतिरिक्त अंग या उंगलियां नहीं, चेहरे में कोई विकृति नहीं, कोई झिलमिलाहट नहीं, कोई टेक्स्ट नहीं, कोई वॉटरमार्क नहीं, फोटो-यथार्थवादी, अति विस्तृत, 4K।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8896cb0a54519b54c8509de1e2ec2cc/thumbnails/thumbnail.jpg" width="600" alt="अलौकिक महिला झील रूपांतरण">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5291)**
-
-**लेखक:** [Noor](https://x.com/noorlewisx) | **स्रोत:** [Link](https://x.com/noorlewisx/status/2059137299473113364) | **प्रकाशित:** May 26, 2026
-
----
-### उदासीन बरसाती छत पर चरित्र अध्ययन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> आधी रात को बारिश में भीगती छत पर एक अकेली लड़की के चरित्र अध्ययन पर केंद्रित एक गहरा भावनात्मक और संरचित प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-[character]
-बारिश में खड़ी एक अकेली लड़की, जिसकी आँखों में आँसू हैं, भावनात्मक सिनेमाई माहौल, चेहरे का यथार्थवादी विवरण, गहरा मूड।
-संदर्भ छवि जैसा ही चेहरा
-
-[Place]
-तेज़ बारिश के दौरान एक अकेली छत, पृष्ठभूमि में नियॉन शहर की रोशनी, गहरा बादल छाए आसमान, सिनेमाई कोहरा, भावनात्मक माहौल, गीले फर्श पर प्रतिबिंब, नाटकीय मूवी लाइटिंग, आधी रात का अहसास।
-
-[Story]
-आधी रात को एक अकेली लड़की चुपचाप बारिश में भीगती छत पर खड़ी है, नियॉन शहर की रोशनी को देख रही है और किसी ऐसे व्यक्ति को याद कर रही है जिसे उसने खो दिया है। ठंडी हवा उसके गीले बालों को उड़ा रही है और उसकी आँखों से धीरे-धीरे आँसू गिर रहे हैं। वह अपने फोन पर पुराने संदेशों को देखती है और एक उदास मुस्कान देती है। काले आसमान में बादलों की गड़गड़ाहट गूंजती है और कैमरा धीरे-धीरे उसकी भावनात्मक आँखों पर ज़ूम करता है। अंतिम क्षणों में, वह चुपचाप बारिश में दूर चली जाती है, अतीत को पीछे छोड़ते हुए।
-
-[Camera]
-धीमी सिनेमाई कैमरा मूवमेंट, भावनात्मक चेहरे के क्लोज़-अप शॉट्स, लड़की के चारों ओर स्मूथ ऑर्बिट कैमरा, आँखों पर नाटकीय ज़ूम-इन, हैंडहेल्ड रेनी शॉट्स, सॉफ्ट फोकस बैकग्राउंड, सिनेमाई डेप्थ ऑफ फील्ड, स्लो मोशन हेयर मूवमेंट, रूफटॉप वाइड-एंगल शॉट्स, मूवी ट्रेलर स्टाइल कैमरा, अल्ट्रा रियलिस्टिक।
-
-[Rule]
-एक दिल टूटी हुई लड़की जो अपने दर्द को खामोशी के पीछे छिपाती है। उसने अपने जीवन में किसी बहुत महत्वपूर्ण व्यक्ति को खो दिया है और अब वह पुरानी यादों को संजोते हुए अकेली रातें बिताती है। अपने दुख के बावजूद, वह मजबूत, शांत और भावनात्मक रूप से शक्तिशाली है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2db642ceb657f04eab08a2020ac1d3fd/thumbnails/thumbnail.jpg" width="600" alt="उदासीन बरसाती छत पर चरित्र अध्ययन">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5308)**
-
-**लेखक:** [Zyrella](https://x.com/Zyrellix) | **स्रोत:** [Link](https://x.com/Zyrellix/status/2059137091695772059) | **प्रकाशित:** May 26, 2026
-
----
-### गोल्डन आवर सिनेमैटिक लाइफ सीक्वेंस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक मल्टी-शॉट सिनेमैटिक प्रॉम्प्ट जो हमेशा के लिए सूर्यास्त की रोशनी में नहाया हुआ एक स्वप्निल, स्लो-मोशन लाइफ सीक्वेंस तैयार करता है।
-
-#### 📝 प्रॉम्पट
-
-```
-POV: आपका जीवन हमेशा के लिए सॉफ्ट गोल्डन आवर में
-एक सिनेमैटिक एस्थेटिक लाइफ सीक्वेंस जहाँ समय अंतहीन गर्म सूर्यास्त की रोशनी में थमा हुआ महसूस होता है।
-
-0–3s: सुबह की शुरुआत होती है, लेकिन तेज धूप के बजाय, पूरा कमरा सॉफ्ट गोल्डन-आवर की चमक से भरा हुआ है। सूरज की रोशनी धीरे-धीरे पर्दों से छनकर अंदर आ रही है, गर्म हवा में धूल के कण धीरे-धीरे तैर रहे हैं और पात्र शांति से अपनी आँखें खोलता है।
-
-3–6s: रोजमर्रा के पल स्वप्निल स्लो मोशन में सामने आते हैं — कॉफी डालना, जूतों के फीते बांधना, शांत सड़कों पर चलना। सब कुछ लगातार सूर्यास्त के रंगों में नहाया हुआ है, जैसे कि दिन कभी बदलता ही नहीं।
-
-6–9s: सरल जीवन के दृश्यों का भावनात्मक मोंटाज — अजनबियों को देखकर मुस्कुराना, बालों में हवा का चलना, खिड़कियों और पानी पर सुनहरी रोशनी का प्रतिबिंब। समय ऐसा लगता है जैसे बीतने के बजाय धीरे-धीरे बह रहा हो।
-
-9–12s: शहर शांत सामंजस्य में चलता है — ट्रैफिक लाइटें गर्म चमक बिखेर रही हैं, लोग आराम से धीरे-धीरे चल रहे हैं, पेड़ अनंत सूर्यास्त के आसमान के नीचे झूम रहे हैं। कहीं भी कठोर छाया नहीं है, हर जगह केवल गर्म एम्बिएंट लाइट है।
-
-12–15s: अंतिम सिनेमैटिक शॉट। पात्र छत पर खड़ा होकर शहर को देख रहा है, जो पूरी तरह से अंतहीन गोल्डन आवर की रोशनी से घिरा हुआ है। आसमान कभी अंधेरा नहीं होता, और सब कुछ समय में जमी हुई एक स्थायी, शांतिपूर्ण याद जैसा महसूस होता है।
-
-स्टाइल: अल्ट्रा सिनेमैटिक रियलिज्म, सॉफ्ट गोल्डन-आवर एस्थेटिक, स्वप्निल वातावरण, जेंटल स्लो मोशन, शैलो डेप्थ ऑफ फील्ड, वार्म फिल्म ग्रेन, इमोशनल नॉस्टैल्जिक टोन, शांत एम्बिएंट मूड, फिल्म-ग्रेड कलर ग्रेडिंग।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba84c96a3ed372d25834e627753a12c9/thumbnails/thumbnail.jpg" width="600" alt="गोल्डन आवर सिनेमैटिक लाइफ सीक्वेंस">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5290)**
-
-**लेखक:** [Ali](https://x.com/aiwithaly) | **स्रोत:** [Link](https://x.com/aiwithaly/status/2059136858102305182) | **प्रकाशित:** May 26, 2026
-
----
-### हिमालयन FPV ड्रोन उड़ान
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> गोल्डन आवर के दौरान हिमालय के ऊपर एक तेज़-तर्रार, सिनेमैटिक FPV ड्रोन उड़ान, जिसमें बर्फ से ढकी चोटियाँ और नाटकीय रोशनी दिखाई गई है।
-
-#### 📝 प्रॉम्पट
-
-```
-गोल्डन आवर के दौरान हिमालय के राजसी पहाड़ी दृश्यों के बीच तेज़ सिनेमैटिक FPV ड्रोन उड़ान, हाइपर-रियलिस्टिक, लंबी नाटकीय परछाइयों के साथ गर्म धूप। ऊँची बर्फ से ढकी चोटियों और ऊबड़-खाबड़ पहाड़ियों के ऊपर से तेज़ उड़ान, गहरी हिमनद घाटियों और चट्टानी दर्रों के बीच से तीता गोता, ऊँचे दर्रों और बीहड़ चट्टानों पर फहराते प्रार्थना झंडों के बीच से गुज़रना, फ़िरोज़ा रंग की हिमनद झीलों और सीढ़ीदार पहाड़ी ढलानों के ऊपर से कम ऊँचाई पर उड़ान, धुंध और दूर की चोटियों के साथ हिमालय की अंतहीन नाटकीय पृष्ठभूमि, अल्ट्रा-स्मूथ स्टेबिलाइज़ेशन, बादलों को चीरती हुई वॉल्यूमेट्रिक गॉड रेज़, तीव्र सिनेमैटिक मोशन ब्लर, फिल्म-ग्रेड कलर ग्रेडिंग, 15-सेकंड का डायनामिक सीक्वेंस।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/36211b50935991e841736a4bcc235815/thumbnails/thumbnail.jpg" width="600" alt="हिमालयन FPV ड्रोन उड़ान">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5295)**
-
-**लेखक:** [Mr Das](https://x.com/MrDasOnX) | **स्रोत:** [Link](https://x.com/MrDasOnX/status/2059122426110443646) | **प्रकाशित:** May 26, 2026
-
----
-### गहरे समुद्र के मछुआरे पर वृत्तचित्र
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 के लिए एक सिनेमाई वृत्तचित्र वीडियो प्रॉम्प्ट, जिसमें उच्च-स्तरीय संपादकीय सौंदर्य के साथ एक मजबूत गहरे समुद्र के मछुआरे को दर्शाया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-सिनेमाई महासागर वृत्तचित्र फिल्म। विषय: 27 वर्षीय बेहद आकर्षक और एथलेटिक गहरे समुद्र का मछुआरा। मजबूत तीखे नैन-नक्श, शांत भेदती आँखें, छोटी साफ-सुथरी दाढ़ी, चौड़े एथलेटिक कंधे, प्राकृतिक रूप से धूप में तपी हुई सख्त त्वचा। भारी पीली वाटरप्रूफ पोशाक पहने हुए
-```
-
-<img src="https://cms-assets.youmind.com/media/1779866613303_mkbqy7_HJNvvwHb0AA9LKV.jpg" width="600" alt="गहरे समुद्र के मछुआरे पर वृत्तचित्र">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5315)**
-
-**लेखक:** [𝐌](https://x.com/Strength04_X) | **स्रोत:** [Link](https://x.com/Strength04_X/status/2059113269479268451) | **प्रकाशित:** May 26, 2026
-
----
-### सिनेमैटिक निरंतर साइड-स्क्रॉलिंग दैनिक जीवन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सहज 15-सेकंड का बिना कटा हुआ ट्रैकिंग शॉट, जो किसी व्यक्ति की दिनचर्या का अनुसरण करता है जबकि उनके चारों ओर का वातावरण बदलता रहता है।
-
-#### 📝 प्रॉम्पट
-
-```
-सिनेमैटिक निरंतर साइड-स्क्रॉलिंग अनुक्रम, 16:9, 15 सेकंड। एक बिना कटा हुआ शॉट — कैमरा बिना किसी कट के बाएं से दाएं सुचारू रूप से ट्रैक करता है, एक व्यक्ति का उनके पूरे दिन के दौरान अनुसरण करता है जबकि उनके चारों ओर का वातावरण सहजता से बदलता रहता है। शुरुआत एक अंधेरे बेडरूम में होती है, अलार्म बज रहा है, व्यक्ति चादर के नीचे हिल रहा है, नींद में है, उसे बंद करने के लिए हाथ बढ़ा रहा है। दाईं ओर बढ़ता है — एक बाथरूम, चेहरे पर पानी के छींटे मारना, ब्रश करना, एक पल के लिए आईने में खुद को देखना। दाईं ओर बढ़ता है — एक किचन, कॉफी बन रही है, टोस्ट पॉप हो रहा है, खड़े होकर जल्दी-जल्दी खाना, खिड़की से आती सुबह की रोशनी। दाईं ओर बढ़ता है — बाहर, शहर उनके चारों ओर जाग रहा है, सबवे की भीड़, हेडफोन लगे हैं, नजरें सामने हैं। दाईं ओर बढ़ता है — ऑफिस लॉबी, लिफ्ट के दरवाजे खुल रहे हैं, अपनी डेस्क की ओर भागना, कोट अभी भी पहना हुआ है, कंप्यूटर चालू हो रहा है। दाईं ओर बढ़ता है — काम का दिन, डेस्क पर झुके हुए, चारों तरफ कागज, फोन बज रहा है, कॉफी ठंडी हो रही है। दाईं ओर बढ़ता है — लंच ब्रेक, बाहर एक बेंच पर अकेले, हाथ में सैंडविच, पूरे दिन में शांति का पहला पल, सूरज की ओर आंखें थोड़ी देर के लिए बंद करना। दाईं ओर बढ़ता है — दिन का अंत, टाई ढीली करना, बैग उठाना, राहत की सांस लेना, वापस शहर में कदम रखना। दाईं ओर बढ़ता है — शाम को घर वापसी, वही सबवे लेकिन अब शांत, चेहरा अधिक थका हुआ, कांच के सहारे झुकना। दाईं ओर बढ़ता है — वापस घर, दरवाजे पर जूते उतारना, सोफे पर गिरना, खिड़की के बाहर शहर की रोशनी, व्यक्ति पूरे दिन में पहली बार स्थिर बैठा है, आंखें बंद होती हैं, कमरा धुंधला हो जाता है। साउंड डिज़ाइन हर चरण से मेल खाता है — अलार्म का शोर, बहता पानी, कॉफी मशीन की गड़गड़ाहट, सबवे की गड़गड़ाहट और भीड़ का शोर, ऑफिस की बातचीत और कीबोर्ड की क्लिकिंग, शहर का माहौल, शाम की शांति। फोटो-रियलिस्टिक, IMAX सिनेमैटिक क्वालिटी, अल्ट्रा शार्प, गहराई से मानवीय और संबंधित। संदर्भ छवि के समान चेहरा।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd4ce08b464f7e686abbdd3c13045536/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक निरंतर साइड-स्क्रॉलिंग दैनिक जीवन">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5296)**
-
-**लेखक:** [Calira](https://x.com/CaliraVal) | **स्रोत:** [Link](https://x.com/CaliraVal/status/2059110917510672684) | **प्रकाशित:** May 26, 2026
-
----
-### Renaissance Fighting Game Round 1
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> पुनर्जागरण (Renaissance) थीम वाले फाइटिंग गेम के लिए एक सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें एक अंधेरे कैथेड्रल एरिना में मोना लिसा और वीनस दिखाई दे रही हैं।
-
-#### 📝 प्रॉम्पट
-
-```
-राउंड 1: 
-ओपनिंग फ्रेम के रूप में image1 का उपयोग करें — बाईं ओर मोना लिसा, दाईं ओर वीनस। फुल HUD: बाईं ओर पीली हेल्थ बार, दाईं ओर हरी, पोर्ट्रेट्स, नाम, केंद्र में ROUND 1, नीचे SUPER बार। एरिना: एक अंधेरा पुनर्जागरण कैथेड्रल जो तूफानी समुद्र के साथ मिल रहा है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca347be5001bde8b3b85f5cf16cec802/thumbnails/thumbnail.jpg" width="600" alt="Renaissance Fighting Game Round 1">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5305)**
-
-**लेखक:** [Ivanna | AI Art & Prompts](https://x.com/ivanka_humeniuk) | **स्रोत:** [Link](https://x.com/ivanka_humeniuk/status/2059105268760244713) | **प्रकाशित:** May 26, 2026
-
----
-### ज्वालामुखी रेल राइडर एक्शन सीक्वेंस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> सक्रिय ज्वालामुखी क्षेत्र और लावा के विस्फोट के बीच औद्योगिक रेल पर दौड़ते हुए एक राइडर का तीव्र सिनेमाई दृश्य।
-
-#### 📝 प्रॉम्पट
-
-```
-अति-यथार्थवादी सिनेमाई दृश्य। एक राइडर सक्रिय ज्वालामुखी क्षेत्र के ऊपर लटकी हुई औद्योगिक रेल प्रणाली पर अत्यधिक गति से दौड़ रहा है। नीचे लावा फूट रहा है, हवा में आग और राख भरी हुई है। वातावरण अस्थिर है: रेल मुड़ रही हैं, हिस्से टूट रहे हैं, पिघला हुआ लावा ऊपर की ओर उछल रहा है, और हर जगह गर्मी के कारण दृश्य धुंधला (heat distortion) हो रहा है। एक्शन तुरंत शुरू होता है। राइडर रेल पर दौड़ता है, रेल के बीच छलांग लगाता है, और हिस्सों के ढहने के बावजूद गति बनाए रखता है। निरंतर सीमलेस कैमरा। शुरुआत लावा क्षेत्रों के ऊपर वाइड शॉट से होती है, फिर राइडर की ओर गोता लगाती है। रेल के साथ टाइट ट्रैकिंग में लॉक हो जाती है। साथ-साथ चलती है, टूटी हुई लाइनों को दिखाने के लिए ऊपर उठती है, चिंगारियों और मलबे के बीच रेल के नीचे से निकलती है। सीक्वेंस के बीच में, एक ज्वालामुखी विस्फोट रेल के एक बड़े हिस्से को नष्ट कर देता है। राइडर आग और राख के बीच से छलांग लगाता है, दूसरी रेल की ओर निशाना साधता है। कैमरा विस्फोट दिखाने के लिए वाइड होता है, फिर मलबे के बीच से राइडर के साथ नीचे आता है, हवा में घूमता है, और लैंडिंग पर वापस क्लोज परसूट में लॉक हो जाता है। अंत वाइड शॉट: आगे टूटी हुई रेल, नीचे लावा का तांडव।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95af5a9fe86aed05e03d9c942c9d034d/thumbnails/thumbnail.jpg" width="600" alt="ज्वालामुखी रेल राइडर एक्शन सीक्वेंस">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5293)**
-
-**लेखक:** [Alexandra Aisling](https://x.com/AllaAisling) | **स्रोत:** [Link](https://x.com/AllaAisling/status/2059099765460070817) | **प्रकाशित:** May 26, 2026
-
----
-### अंतरिक्ष यात्री कॉस्मिक हॉरर स्पेस सीन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक डरावना सिनेमाई प्रॉम्प्ट, जिसमें एक अंतरिक्ष यात्री को अंधेरे स्पेस मॉड्यूल के भीतर अलगाव और दुख का अनुभव करते हुए कॉस्मिक हॉरर तत्वों के साथ दिखाया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक क्षतिग्रस्त स्पेस सूट में एक अंतरिक्ष यात्री शून्य गुरुत्वाकर्षण में एक अंधेरे मॉड्यूल के अंदर तैर रहा है, केवल उनके हेलमेट की लाइट जल रही है। वे एक तैरते हुए रेडियो की ओर हाथ बढ़ाते हैं, बटन दबाते हैं, और एक बच्चे की आवाज़ सुनाई देती है। कैमरा धीरे-धीरे उनके चारों ओर घूमता है, जिससे पृष्ठभूमि में अपनी सीटों से बंधे मृत चालक दल के सदस्य दिखाई देते हैं। अलगाव, दुख, कॉस्मिक हॉरर — दम घोंटने वाला, अंतरंग, भयानक।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/db54522bc4801e934166dd31373d9908/thumbnails/thumbnail.jpg" width="600" alt="अंतरिक्ष यात्री कॉस्मिक हॉरर स्पेस सीन">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5313)**
-
-**लेखक:** [Andrew Handley](https://x.com/AndrewHand95) | **स्रोत:** [Link](https://x.com/AndrewHand95/status/2059090497428476358) | **प्रकाशित:** May 26, 2026
-
----
-### डार्क फैंटेसी सिनेमैटिक इंट्रो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अत्यधिक विस्तृत डार्क फैंटेसी सिनेमैटिक सीक्वेंस प्रॉम्प्ट, जिसमें एक गिरा हुआ योद्धा, दूषित जादू और युद्ध के मैदान का नाटकीय रूपांतरण शामिल है।
-
-#### 📝 प्रॉम्पट
-
-```
-डार्क फैंटेसी सिनेमैटिक इंट्रो सीक्वेंस, रात में तूफानी बादलों से ढका हुआ बर्बाद युद्ध का मैदान, हवा में तैरते हुए जलते अंगारे, टूटे हुए पत्थर के खंडहर, जमीन पर फैली राख और धुआं, दूर चमकती बिजली जो विशाल गॉथिक संरचनाओं को रोशन कर रही है, गहरे लाल और बैंगनी हाइलाइट्स के साथ ठंडा और फीका वातावरण
-
-काले दूषित कवच में विशाल गिरा हुआ योद्धा @[Image1], कटे-फटे हेलमेट के नीचे आंशिक रूप से छिपा हुआ जख्मी चेहरा, लंबे काले गीले बाल, फटा हुआ लाल केप, गहरे बैंगनी ऊर्जा के साथ चमकती विशाल दूषित तलवार, एक हाथ जो छाया के जादू से ग्रस्त है, डरावनी उपस्थिति, क्रूर और प्राचीन योद्धा सौंदर्य
-
-सीक्वेंस (कुल 10 सेकंड):
-
-0–2 सेकंड:
-
-वाइड सिनेमैटिक शॉट — वारेन बर्बाद युद्ध के मैदान की पहाड़ी पर स्थिर खड़ा है, तूफानी हवा में केप तेजी से लहरा रहा है, दस्ताने और तलवार से धीरे-धीरे बैंगनी भ्रष्टाचार रिस रहा है, बिजली की चमक उसके कवच के विवरण और आसपास के युद्ध के मैदान की तबाही को उजागर कर रही है
-
-2–4 सेकंड:
-
-धीमा क्लोज-अप पुश-इन — कैमरा क्षतिग्रस्त हेलमेट के नीचे उसके चेहरे की ओर बढ़ता है, चमकती आंखें धीरे-धीरे कैमरे की ओर उठती हैं, फ्रेम में राख तैर रही है, अभिव्यक्ति ठंडी और संयमित गुस्से से भरी हुई है
-
-4–6 सेकंड:
-
-अंधेरी शक्ति का जागना शुरू होता है — दूषित बैंगनी ऊर्जा उसके हाथ और तलवार पर तेजी से फैलती है, उसके नीचे की जमीन फट जाती है, चट्टानें और मलबे उसके शरीर के चारों ओर तैरने लगते हैं, धुआं असामान्य रूप से घूम रहा है
-
-6–8 सेकंड:
-
-वारेन धीरे-धीरे आगे बढ़ते हुए विशाल तलवार को जमीन पर घसीटता है, तलवार के पीछे से चिंगारियां और दूषित लपटें निकल रही हैं, भारी वजन और प्रभाव के कारण कैमरा सूक्ष्म रूप से हिल रहा है
-
-8–10 सेकंड:
-
-अंतिम शक्ति प्रदर्शन — वह तलवार को जमीन में जोर से मारता है, बैंगनी-काली ऊर्जा की एक विशाल लहर युद्ध के मैदान में फैल जाती है, केप तेजी से लहरा रहा है, मलबे और छाया ऊर्जा फ्रेम को घेर लेती है जबकि कैमरा तेजी से पीछे हटता है
-
-कैमरा:
-
-सिनेमैटिक एनामोर्फिक लेंस, नाटकीय धीमे पुश-इन्स, लो-एंगल हीरो फ्रेमिंग, शक्ति के क्षणों के दौरान सूक्ष्म हैंडहेल्ड कंपन, यथार्थवादी मोशन ब्लर, उच्च सिनेमैटिक कंट्रास्ट
-
-रेंडरिंग:
-
-अल्ट्रा रियलिस्टिक CGI, रे ट्रेसिंग, ग्लोबल इल्यूमिनेशन, अत्यधिक विस्तृत क्षतिग्रस्त कवच, यथार्थवादी कपड़े और बालों का सिमुलेशन, वॉल्यूमेट्रिक धुआं, अंगारे, भ्रष्टाचार कण प्रभाव, सिनेमैटिक तूफानी लाइटिंग
-
-मोशन:
-
-भारी और जमीन से जुड़ी गति, यथार्थवादी कवच का वजन, क्रूर शारीरिक उपस्थिति, डार्क मैजिक प्रभाव शक्तिशाली लेकिन विश्वसनीय, कोई अतिरंजित एनीमे मोशन नहीं
-
-शैली:
-
-AAA डार्क फैंटेसी ब्लॉकबस्टर फिल्म, भावनात्मक रूप से तीव्र, दमनकारी वातावरण, सिनेमैटिक पावर फैंटेसी, प्रीमियम विजुअल इफेक्ट्स क्वालिटी
-
-कोई संवाद नहीं, शुद्ध दृश्य कहानी, निर्बाध सिनेमैटिक निरंतरता, नाटकीय आर्केस्ट्रा ट्रेलर ऊर्जा
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7a204603713704a2b5a50e1d555576c9/thumbnails/thumbnail.jpg" width="600" alt="डार्क फैंटेसी सिनेमैटिक इंट्रो">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5252)**
-
-**लेखक:** [PixieVerse](https://x.com/itsPixieVerse) | **स्रोत:** [Link](https://x.com/itsPixieVerse/status/2059003680767238473) | **प्रकाशित:** May 25, 2026
-
----
-### अति-यथार्थवादी Orc बनाम Human UFC फाइट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 के लिए एक सिनेमैटिक और क्रूर MMA-शैली का कॉम्बैट प्रॉम्प्ट, जिसमें एक उच्च-ऊर्जा वाले एरिना सेटिंग में विस्तृत कोरियोग्राफी के साथ एक orc और human rogue शामिल हैं।
-
-#### 📝 प्रॉम्पट
-
-```
-Style: अति-यथार्थवादी UFC-शैली की फैंटेसी फाइट, क्रूर हैंड-टू-हैंड कॉम्बैट, सिनेमैटिक स्पोर्ट्स ब्रॉडकास्ट एनर्जी, यथार्थवादी मसल फिजिक्स, पसीना, प्रभाव प्रतिक्रियाएं, डायनामिक फुटवर्क, आक्रामक गति, कोई हथियार नहीं, ग्राउंडेड MMA कोरियोग्राफी, नाटकीय एरिना लाइटिंग, तीव्र भीड़ का माहौल, आधुनिक UFC प्रोडक्शन क्वालिटी।
-
-Camera:
-पूरे वीडियो के लिए सिंगल कंटीन्यूअस आइसोमेट्रिक UFC-शैली का गेमप्ले कैमरा शॉट। कोई कट नहीं। दोनों फाइटर्स को सेंटर में रखने के लिए केवल हल्का कैमरा ट्रैकिंग। फाइटिंग गेम्स और टेलीविज़न MMA इवेंट्स के समान वाइड-एंगल ईस्पोर्ट्स ब्रॉडकास्ट फ्रेमिंग।
-
-Audio:
-जोरदार ऊर्जावान फाइट कमेंटेटर जो लगातार प्रतिक्रिया दे रहा है:
-“OH HE’S HURT!”
-“WHAT A COUNTER!”
-“NYSSA IS TOO FAST!”
-“GROK IS WALKING HER DOWN!”
-भारी भीड़ का शोर, केज इम्पैक्ट्स, कदमों की आहट, घूंसे, बॉडी शॉट्स, आक्रामक सांसें। कमेंट्री के नीचे हाई-एनर्जी सिनेमैटिक परकशन साउंडट्रैक।
-
-Characters:
-Nyssa — बेहद सुंदर एथलेटिक human rogue महिला, फुर्तीली MMA-शैली की फाइटर, गहरे रंग के लट वाले बाल, कॉम्बैट मोबिलिटी के लिए अनुकूलित लेदर-एंड-क्लॉथ फैंटेसी आउटफिट, तेज बचाव वाली हरकतें, सटीक प्रहार।
-Grok — विशाल अति-मांसपेशीय orc बर्सेर्कर, हरी त्वचा, जबरदस्त शारीरिक शक्ति, डरावना रुख, क्रूर हैवीवेट प्रेशर फाइटर।
-
-Environment:
-विशाल अंडरग्राउंड फैंटेसी फाइट एरिना के अंदर प्रोफेशनल UFC ऑक्टागन। चमकदार ओवरहेड लाइट्स, धुंधला वातावरण, केज के चारों ओर चिल्लाती भीड़, यथार्थवादी फर्श टेक्सचर, पसीने का रिफ्लेक्शन, हवा में सिनेमैटिक पार्टिकल्स।
-
-[00:00-00:02]
-HOOK ओपनिंग। आइसोमेट्रिक कैमरा पहले से ही सक्रिय है क्योंकि Grok तुरंत ऑक्टागन के पार आक्रामक रूप से आगे बढ़ता है। कमेंटेटर चिल्लाता है:
-“THE ORC IS RUSHING IN IMMEDIATELY!”
-Nyssa अंतिम सेकंड में हमले से बाल-बाल बचती है।
-
-[00:02-00:05]
-नॉनस्टॉप मूवमेंट। Nyssa तेजी से Grok के चारों ओर घूमती है और तेज बॉडी किक और जैब मारती है जबकि Grok विनाशकारी हैवीवेट घूंसे चलाता है। हर हिट में यथार्थवादी प्रभाव प्रतिक्रियाएं और बॉडी फिजिक्स है। कोई खाली पल नहीं।
-
-[00:05-00:08]
-Grok स्पिन के बीच में Nyssa को पकड़ लेता है और उसे यथार्थवादी तरीके से केज के पार फेंक देता है। वह फेंस से टकराकर वापस आती है और तुरंत तेज MMA कॉम्बिनेशन के साथ पलटवार करती है। भीड़ जोर से चिल्लाती है।
-
-[00:08-00:11]
-अविश्वसनीय प्रेशर एक्सचेंज। Nyssa भारी हुक के नीचे से बचती है जबकि Grok लगातार आगे बढ़ता है। इम्पैक्ट से पसीना उड़ता है। फुटवर्क ग्राउंडेड और यथार्थवादी रहता है। कैमरा लगातार एक ही आइसोमेट्रिक एंगल से एक्शन को ट्रैक करता है।
-
-[00:11-00:13]
-Nyssa Grok के चेहरे पर फ्लाइंग नी मारती है। Grok पीछे लड़खड़ाता है लेकिन तुरंत एक क्रूर बॉडी स्लैम प्रयास के साथ जवाब देता है। कमेंटेटर भीड़ के शोर के ऊपर लगातार चिल्ला रहा है।
-
-[00:13-00:15]
-अंतिम क्लाइमेक्स। दोनों फाइटर्स थक चुके हैं लेकिन सेंटर केज में अभी भी नॉनस्टॉप हमला कर रहे हैं। Grok एक राक्षसी घूंसा मारता है जबकि Nyssa साथ ही स्पिनिंग एल्बो के साथ काउंटर करती है। टकराव से ठीक पहले फ्रीज जैसा नाटकीय इम्पैक्ट मोमेंट और भीड़ का शोर।
-
-Negative prompts:
-कोई हथियार नहीं, कोई जादुई शक्तियां नहीं, कोई स्लो मोशन नहीं, कोई कट नहीं, कोई अवास्तविक एनीमे मूवमेंट नहीं
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a5831ab4b19cabbcb5c03be7c0f46ca5/thumbnails/thumbnail.jpg" width="600" alt="अति-यथार्थवादी Orc बनाम Human UFC फाइट">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5253)**
-
-**लेखक:** [Keskin](https://x.com/craftian_keskin) | **स्रोत:** [Link](https://x.com/craftian_keskin/status/2058983493078528318) | **प्रकाशित:** May 25, 2026
-
----
-### जापानी ट्रॉपिकल फूड कमर्शियल
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> एक सिनेमैटिक फूड कमर्शियल के लिए 4-भाग वाली जटिल स्क्रिप्ट, जिसमें एक जापानी महिला ट्रॉपिकल बीच पर एक खास सॉस के साथ खाना बना रही है।
-
-#### 📝 प्रॉम्पट
-
-```
-हर 15 सेकंड के सिनेमैटिक AI वीडियो के लिए प्रॉम्प्ट। अल्ट्रा-रियलिस्टिक प्रीमियम फूड CM स्टाइल। सभी दृश्यों में एक ही जापानी महिला पात्र को बनाए रखें। गर्म सुनहरी धूप, ट्रॉपिकल बीच, फ़िरोज़ा समुद्र, शैलो डेप्थ ऑफ फील्ड, जीवंत रंग, सिनेमैटिक कैमरा वर्क। महिला स्वाभाविक जापानी भाषा में बात करते हुए खाना बनाने का आनंद ले रही है।
-
-भाग 1 — 0-15 सेकंड "ट्रॉपिकल तैयारी"
-20 के दशक की शुरुआत में एक सुंदर जापानी महिला, लंबे गहरे भूरे रंग के लहराते बाल, नेचुरल मेकअप, क्रीम फ्लोरल समर ड्रेस, ट्रॉपिकल बीच पर नंगे पैर चलते हुए मेज पर ताजी सामग्री सजा रही है। समुद्र की हवा में बाल स्वाभाविक रूप से लहरा रहे हैं। शुरुआत एक सिनेमैटिक ड्रोन शॉट से होती है, फिर सामग्री के क्लोज-अप। महिला मुस्कुराते हुए कैमरे के सामने "Flavorful Sweet Sauce Supreme Edition" का काला और सुनहरा पाउच दिखाती है।
-जापानी संवाद:
-"आज मैं अपनी खास सॉस के साथ बेहतरीन बीच BBQ बना रही हूँ!"
-गर्म सूर्यास्त, ताज़ा समुद्र, रिलैक्स्ड लग्जरी रिसॉर्ट जैसा अहसास।
-भाग 2 — 15-30 सेकंड "खास सॉस"
-अल्ट्रा-रियलिस्टिक कुकिंग सीन। महिला धीरे-धीरे एक कटोरे में कच्चे चिकन के ऊपर गाढ़ा, चमकदार स्वीट सोया सॉस डालती है। मैक्रो शॉट में सॉस को रोशनी को परावर्तित करते और खूबसूरती से बहते हुए दिखाया गया है। वह ब्रश से सावधानीपूर्वक स्क्यूअर्स पर सॉस लगाती है। लाल और हरी शिमला मिर्च, प्याज और चिकन जीवंत दिख रहे हैं।
-जापानी संवाद:
-"यह मीठी और तीखी सुगंध वास्तव में भूख बढ़ाने वाली है!"
-सिनेमैटिक क्लोज-अप, स्मूथ कैमरा मूवमेंट, भूख बढ़ाने वाले टेक्सचर।
-भाग 3 — 30-45 सेकंड "सिज़लिंग मोमेंट"
-बीच ग्रिल पर स्क्यूअर्स सिज़ल कर रहे हैं। आग की लपटों, धुएं, ग्लेज्ड सॉस और मीट के जूस का क्लोज-अप। महिला मुस्कुराती है और खाना बनाने का आनंद लेते हुए स्क्यूअर्स को पलटती है। सिनेमैटिक स्लो मोशन और आग का प्रतिबिंब।
-जापानी संवाद:
-"वाह! बेहतरीन चार! यह बहुत स्वादिष्ट लग रहा है!"
-गर्म सूर्यास्त ग्रिल पर प्रतिबिंबित हो रहा है, प्रीमियम फूड CM का माहौल।
-भाग 4 — 45-60 सेकंड "इतादाकिमासु"
-तैयार स्क्यूअर्स पकड़े हुए एक महिला बीच चेयर पर बैठी है, एक हाथ में सफेद कटोरा है। समुद्र को बैकग्राउंड में रखते हुए, वह मुस्कुराते हुए स्क्यूअर्स को अपने मुंह के पास लाती है और एक बाइट लेती है। खाने के पल में खुशी की प्रतिक्रिया। फाइनल प्रोडक्ट हीरो शॉट। लकड़ी के बोर्ड के बीच में "Flavorful Sweet Sauce Supreme Edition" का काला और सुनहरा पाउच रखा है, जिसके चारों ओर ताजे ग्रिल किए हुए स्क्यूअर्स और सब्जियां हैं।
-जापानी संवाद:
-"हम्म! सबसे बेहतरीन! यह सॉस वास्तव में बहुत स्वादिष्ट है!"
-अंत में, महिला कैमरे की ओर देखकर मुस्कुराती है। सिनेमैटिक लोगो-स्टाइल एंडिंग, गर्म ट्रॉपिकल सूर्यास्त, अल्ट्रा-हाई-एंड फूड एड स्टाइल, 8K रियलिज्म।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a91b84af67b24d92401eb5265af45d3/thumbnails/thumbnail.jpg" width="600" alt="जापानी ट्रॉपिकल फूड कमर्शियल">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5260)**
-
-**लेखक:** [Sharon Riley](https://x.com/Just_sharon7) | **स्रोत:** [Link](https://x.com/Just_sharon7/status/2058948614555386160) | **प्रकाशित:** May 25, 2026
-
----
-### स्टोरीबोर्ड से सिनेमैटिक ब्लूप्रिंट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक ऐसा प्रॉम्प्ट जो स्टोरीबोर्ड को 15-सेकंड के सिनेमैटिक शॉट के लिए सीधे ब्लूप्रिंट के रूप में उपयोग करता है, जिसमें बॉर्डर और लेबल जैसे UI तत्वों को शामिल नहीं किया जाता है।
-
-#### 📝 प्रॉम्पट
-
-```
-15-सेकंड के सिनेमैटिक शॉट के आधिकारिक ब्लूप्रिंट के रूप में @[storyboard ref] का उपयोग करें। स्टोरीबोर्ड शीट को रेंडर न करें: सभी पैनल बॉर्डर, हेडर, टेक्स्ट, लेबल, प्रोजेक्ट कार्ड और डायरेक्टर को हटा दें
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/641ce884fdaa26d1c7f1153e15ebb2f5/thumbnails/thumbnail.jpg" width="600" alt="स्टोरीबोर्ड से सिनेमैटिक ब्लूप्रिंट">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5276)**
-
-**लेखक:** [Kōda](https://x.com/aimikoda) | **स्रोत:** [Link](https://x.com/aimikoda/status/2058927365078544761) | **प्रकाशित:** May 25, 2026
-
----
-### पहाड़ी चट्टान से छलांग का एक्शन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक ऊँची पहाड़ी चट्टान से गहरे नीले पानी में छलांग लगाती महिला के हाई-एनर्जी सीक्वेंस को जनरेट करने के लिए एक सिनेमैटिक एक्शन प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-एक महिला ऊँची पहाड़ी चट्टान से नीचे गहरे नीले पानी में छलांग लगाती है, तीव्र गति, सिनेमैटिक एक्शन और हाई एनर्जी।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/831c1109abb74e4080baa237042d106a/thumbnails/thumbnail.jpg" width="600" alt="पहाड़ी चट्टान से छलांग का एक्शन">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5269)**
-
-**लेखक:** [𝕋𝕀ℝ𝔼𝔻 Oғ 𝗥𝗨𝗚𝗦](https://x.com/Tiredofrugss) | **स्रोत:** [Link](https://x.com/Tiredofrugss/status/2058925964722053351) | **प्रकाशित:** May 25, 2026
-
----
-### निंजा सम्मनिंग तकनीक एक्शन सीक्वेंस
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> एक सीक्वेंस-आधारित वीडियो प्रॉम्प्ट जो एक ऐसे चरित्र का वर्णन करता है जो कई कट्स के साथ सम्मनिंग जुत्सु (summoning jutsu) कर रहा है, जिसमें हैंड साइन और एक विशाल जीव का प्रकट होना शामिल है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक दृश्य जहाँ Image 1 की लड़की Image 2 की तरह एक सम्मनिंग तकनीक का उपयोग करती है।
-दृश्य 1: छाती से ऊपर का क्लोज-अप, जिसमें वह तेजी से हैंड साइन बनाती है।
-दृश्य 2: वह नीचे झुकती है और जमीन को छूती है। फुल बॉडी शॉट।
-दृश्य 3: ऊपर से लिया गया उसके हाथ का क्लोज-अप, जो जमीन पर है। उसके हाथ के केंद्र से जमीन पर एक कर्स सील (curse seal) फैलती है।
-दृश्य 4: एक सर्कल शॉट जो Image 1 की लड़की के प्रोफाइल क्लोज-अप से शुरू होता है और उसके सामने के लो-एंगल शॉट पर समाप्त होता है। एक शक्तिशाली दृश्य जहाँ उसके पीछे जमीन से एक विशाल दानव प्रकट होता है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57ba49fc051389dc95ad692fc12dd4c4/thumbnails/thumbnail.jpg" width="600" alt="निंजा सम्मनिंग तकनीक एक्शन सीक्वेंस">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5277)**
-
-**लेखक:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc) | **स्रोत:** [Link](https://x.com/z933TfmXkaISSVc/status/2058924343934267812) | **प्रकाशित:** May 25, 2026
-
----
-### विशाल एनाकोंडा का हाउस बोट पर खौफनाक हमला
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 के लिए एक भयानक हॉरर क्रिएचर सीक्वेंस, जिसमें अमेज़न नदी में तूफान के दौरान 60 फीट लंबा विशाल एनाकोंडा एक हाउस बोट पर हमला करके उसे पलट देता है।
-
-#### 📝 प्रॉम्पट
-
-```
-तूफानी अमेज़न नदी, भारी बारिश और घने काले बादलों के बीच हॉलीवुड स्टाइल का सिनेमैटिक हॉरर सीक्वेंस। 60 फीट से अधिक लंबा और गहरे हरे व काले रंग के पैटर्न वाला एक विशाल एनाकोंडा मटमैले भूरे पानी में आक्रामक रूप से तैर रहा है, जो एक बड़ी दो मंजिला हाउस बोट का पीछा करते हुए पानी में बड़ी लहरें पैदा कर रहा है। डेक पर मौजूद यात्री दहशत में हैं: सफेद शर्ट पहने एक महिला चिल्लाते हुए भाग रही है, सफेद बालों वाला एक बुजुर्ग व्यक्ति हाथ हिलाकर इशारा कर रहा है, टाई-डाई हुडी पहने एक युवा डर के मारे चीख रहा है, और काली शर्ट पहने एक मस्कुलर व्यक्ति चिल्लाते हुए इशारा कर रहा है। विशाल एनाकोंडा अचानक झपट्टा मारता है, नाव को अपनी कुंडली में जकड़ लेता है और उसे हिंसक रूप से पलट देता है, जिससे लोग उफनते पानी में गिर जाते हैं। डायनेमिक शॉट्स में पीछा करने का एरियल व्यू, भारी बारिश के बीच डेक पर मची अफरा-तफरी, एनाकोंडा के उठने और हमला करने के ड्रामेटिक लो-एंगल शॉट्स, और पानी की विशाल लहरों के साथ नाव पलटने का तीव्र एक्शन शामिल है। फोटो-रियलिस्टिक क्रिएचर डिटेल्स, यथार्थवादी वाटर फिजिक्स, सिनेमैटिक स्टॉर्म लाइटिंग, शेकी इंटेंस कैमरा वर्क और हाई-टेंशन सर्वाइवल हॉरर माहौल। 14 सेकंड का रोमांचक मॉन्स्टर अटैक सीक्वेंस। सिनेमैटिक हॉरर एक्सटेंशन सीक्वेंस (कुल 15 सेकंड) जो तूफानी जंगल की नदी में पलटी हुई हाउस बोट से आगे बढ़ता है: शॉट 1 (0-2s): हाउस बोट के पूरी तरह पलटने का हाई-एंगल और अंडरवाटर व्यू। कई यात्री उफनते मटमैले पानी में गिरकर चिल्ला रहे हैं। सतह के नीचे से उनके पैरों को छटपटाते हुए दिखाएं। शॉट 2 (2-4s): विशाल एनाकोंडा भूरी नदी के पानी में शक्तिशाली रूप से तैर रहा है, उसका लंबा शरीर पानी के नीचे स्मूथ और डरावनी गति से कुंडली बना रहा है, जिससे बुलबुले और लहरें पैदा हो रही हैं। शॉट 3 (4-7s): एनाकोंडा अचानक पीछे से हमला करता है, एक यात्री को पानी के नीचे खींच लेता है और उसे हिंसक रूप से पानी में पटक देता है। शॉट 4 (7-10s): रंगीन टाई-डाई हुडी पहने युवक मटमैले किनारे की ओर तेजी से तैरता है। बैकग्राउंड में, सफेद बालों वाला बुजुर्ग और सफेद शर्ट वाली महिला चिल्लाते हैं, "तैरकर निकलो! तैरकर निकलो!" शॉट 5 (10-15s): बुजुर्ग और महिला किनारे पर पहुँचते हैं, और हमले को देखकर डर के मारे पीछे मुड़ते हैं। वे घबराकर घने जंगल की ओर भागने लगते हैं। एनाकोंडा आक्रामक रूप से किनारे की ओर तैरता है, उसका सिर पानी से बाहर निकलता है और दृश्य समाप्त होता है। नदी के किनारे से जारी सिनेमैटिक हॉरर एक्सटेंशन सीक्वेंस: शॉट 1 (0-3s): सफेद शर्ट वाली महिला, टाई-डाई हुडी वाला युवक और सफेद बालों वाला बुजुर्ग तेजी से तैरकर किनारे पर पहुँचते हैं। वे जमीन पर चढ़ते हैं और पीछे मुड़कर देखते हैं कि विशाल एनाकोंडा किनारे की ओर आ रहा है। शॉट 2 (3-6s): घबराए हुए तीनों उत्तरजीवी घने जंगल में भागते हैं। एनाकोंडा किनारे पर पहुँचकर तेजी से रेंगते हुए पेड़ों के बीच उनका पीछा करता है। शॉट 3 (6-9s): पीछा करने के दौरान, बुजुर्ग व्यक्ति ठोकर खाकर गिर जाता है। एनाकोंडा तेजी से करीब आता है। वह चिल्लाता है, "जाओ! भागो!" और एक छोटी चट्टान की ओर इशारा करता है। शॉट 4 (9-12s): महिला और युवक एक संकरी चट्टान/गुफा में रेंगकर घुस जाते हैं। बुजुर्ग व्यक्ति उन्हें बचाने के लिए पीछे रुक जाता है। एनाकोंडा झपट्टा मारकर उसे पकड़ लेता है। शॉट 5 (12-15s): तंग गुफा के अंदर, दोनों उत्तरजीवी डर के मारे पीछे देखते हैं। एनाकोंडा अपना विशाल सिर छोटे छेद के खिलाफ दबाता है, जबड़े खोलकर अपनी जीभ अंदर डालता है, लेकिन जगह कम होने के कारण अंदर नहीं आ पाता। शॉट 6 (15-18s): महिला और युवक सुरक्षित गुफा के अंदर राहत की सांस लेते हैं, यह महसूस करते हुए कि वे बुजुर्ग के बलिदान के कारण बच गए। ड्रामेटिक बारिश, यथार्थवादी जंगल का माहौल, हाई-टेंशन सर्वाइवल हॉरर स्टाइल, फोटो-रियलिस्टिक डिटेल्स।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9cebd0c8b791af4346715e40284f6111/thumbnails/thumbnail.jpg" width="600" alt="विशाल एनाकोंडा का हाउस बोट पर खौफनाक हमला">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5256)**
-
-**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2058911132556153339) | **प्रकाशित:** May 25, 2026
-
----
-### स्लीपिंग फॉरेस्ट कोलोसस ट्रांसफॉर्मेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक परित्यक्त वन बस के काई से ढके विशाल प्राचीन कोलोसस में बदलने के 15-सेकंड के सिनेमाई वीडियो के लिए एक जटिल तकनीकी प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-[तकनीकी विनिर्देश]
-15-सेकंड, 16:9, 720p का सिनेमाई वीडियो जनरेट करें।
-ऑडियो की शुरुआत देर से पतझड़ वाले जंगल के इमर्सिव माहौल से होती है: सूखी पत्तियों की सरसराहट, दूर से आते कौवों की आवाज, नंगी शाखाओं के बीच से बहती धीमी हवा। शांति अचानक गहरी भूमिगत धातु की कराह, पत्थर के घिसने, जड़ों के टूटने, हाइड्रोलिक धमाकों और एक महाकाव्य डार्क फैंटेसी मॉन्स्टर-मूवी साउंडट्रैक से टूट जाती है।
-
-[दृश्य]
-वीडियो की शुरुआत मृत सुनहरी-भूरी पत्तियों से ढके एक शांत देर-पतझड़ वाले जंगल में होती है।
-फ्रेम के केंद्र में काई से ढकी एक परित्यक्त हरी बस खड़ी है, जो प्रकृति द्वारा आधी निगली जा चुकी है, जिसकी खिड़कियां टूटी हुई हैं, पेंट फीका पड़ गया है, और बेलें व जड़ें उसके शरीर के चारों ओर लिपटी हुई हैं।
-यह भूली-बिसरी, प्राचीन और हानिरहित दिखती है।
-
-[जागृत होने की क्रिया]
-एक धीमा 360-डिग्री ऑर्बिटल ड्रोन शॉट बस के चारों ओर घूमता है जैसे ही जंगल कांपने लगता है।
-इसके नीचे की जमीन फट जाती है। मोटी पेड़ की जड़ें जीवित केबलों की तरह खिंचती हैं।
-बस के धातु के पैनल अलग हो जाते हैं, यांत्रिक रूप से साफ-सुथरे तरीके से नहीं, बल्कि हिंसक रूप से—जैसे अंदर से कोई पुरानी और क्रोधित चीज जाग रही हो।
-
-विंडशील्ड दो चमकती हुई एम्बर आंखों में विभाजित हो जाती है।
-पहिए जड़ों से लिपटे विशाल लोहे के पैरों में बदल जाते हैं।
-साइड पैनल बाहर की ओर फैलकर बख्तरबंद पसलियों में बदल जाते हैं, जो काई, छाल, जंग और टेढ़ी-मेढ़ी धातु की प्लेटों से ढके होते हैं।
-जैसे ही बस जंगल की जमीन से ऊपर उठती है, हेडलाइट्स पिघली हुई आग की तरह जल उठती हैं, और यह एक विशाल प्राचीन वन कोलोसस में बदल जाती है जो आंशिक रूप से मशीन, आंशिक रूप से वृक्ष आत्मा और आंशिक रूप से भूला हुआ युद्ध का जानवर है।
-
-[पर्यावरणीय प्रभाव]
-जैसे ही कोलोसस सीधा खड़ा होता है, जमीन से एक जोरदार शॉकवेव निकलती है।
-मृत पत्तियां तूफान की तरह हवा में बिखर जाती हैं।
-पास के पेड़ हिंसक रूप से झुक जाते हैं, बल के कारण शाखाएं टूट जाती हैं।
-एक भयभीत ड्राइवर बस के दरवाजे से बाहर फेंका जाता है और आसमान में बहुत ऊपर उछल जाता है, जो धूल, पत्तियों और चिंगारियों के बादल के बीच असहाय होकर घूम रहा है।
-
-[सिनेमैटोग्राफी और लाइटिंग]
-देर दोपहर की सुनहरी धूप पतले वन कैनोपी से होकर गुजरती है, जो जीव की चमकती आंखों और जंग लगी कवच पर पड़ती है।
-कैमरा एक अत्यधिक लो-एंगल शॉट में नीचे जाता है, जिससे कोलोसस असंभव रूप से विशाल दिखाई देता है।
-धूल, पत्तियां, चिंगारियां और टूटी हुई जड़ें फ्रेम को भर देती हैं जैसे ही जीव अपना सिर उठाता है और एक गहरी, जमीन को हिला देने वाली दहाड़ छोड़ता है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2830cc7445e213f5e0d0804a50743d53/thumbnails/thumbnail.jpg" width="600" alt="स्लीपिंग फॉरेस्ट कोलोसस ट्रांसफॉर्मेशन">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5270)**
-
-**लेखक:** [BMX](https://x.com/bmx_ai13) | **स्रोत:** [Link](https://x.com/bmx_ai13/status/2058905927429099551) | **प्रकाशित:** May 25, 2026
-
----
-### साइबरपंक नियॉन मार्केट फाइट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> बारिश से भीगे सियोल के बाज़ार में साइबरपंक फाइट सीन के लिए एक विस्तृत सिनेमैटिक प्रॉम्प्ट, जिसमें चांदी जैसे सफेद बालों वाली और एनर्जी डैगर लिए एक स्टाइलिश कोरियाई लड़की है।
-
-#### 📝 प्रॉम्पट
-
-```
-चांदी जैसे सफेद बालों वाली और भविष्यवादी काले चमड़े के कॉम्बैट आउटफिट में एक स्टाइलिश कोरियाई लड़की रात के समय भीड़भाड़ वाले नियॉन साइबरपंक बाज़ार के बीच में अकेली खड़ी है। होलोग्राफिक कोरियाई संकेतों, स्टीम वेंट्स, फूड स्टॉल्स और चलती-फिरती भीड़ से भरी चमकती सड़कों पर भारी बारिश हो रही है। नकाबपोश दुश्मनों के समूह धीरे-धीरे उसे घेर रहे हैं, जबकि गीले फुटपाथ पर बैंगनी और नीले नियॉन रिफ्लेक्शन चमक रहे हैं।
-
-वह अचानक चमकते जुड़वां एनर्जी डैगर का उपयोग करते हुए एक गहन एक्रोबैटिक फाइट सीक्वेंस शुरू करती है। कैमरा तेज़ सिनेमैटिक ट्रैकिंग शॉट्स, नाटकीय स्लो मोशन, स्पिनिंग किक, वॉल फ्लिप और क्लोज कॉम्बैट मार्शल आर्ट्स के साथ एक्शन के बीच गतिशील रूप से चलता है। जैसे ही ब्लेड टकराते हैं, चिंगारियां निकलती हैं और नियॉन लाइटें उसके चेहरे पर टिमटिमाती हैं। हर हरकत के दौरान उसके चांदी जैसे बाल हवा में स्वाभाविक रूप से लहराते हैं।
-
-लड़ाई और अधिक अराजक हो जाती है क्योंकि दुश्मन हर दिशा से हमला करते हैं। वह घूंसे के नीचे से Slides करती है, मार्केट स्टॉल्स के ऊपर से कूदती है और हवा में स्टाइलिश स्पिनिंग अटैक करती है। महत्वपूर्ण क्षणों के दौरान बारिश की बूंदें स्लो मोशन में जम जाती हैं, जबकि सिनेमैटिक लाइटिंग हर हरकत को हाइलाइट करती है।
-
-अंतिम दृश्य में उसे चमकती नियॉन सड़क पर अकेले खड़े दिखाया गया है, जिसके चारों ओर पराजित दुश्मन हैं और उसके आसपास धीमी बारिश हो रही है। कैमरा धीरे-धीरे उसके गंभीर भावों की ओर बढ़ता है जबकि बैकग्राउंड में साइबरपंक शहर की लाइटें धड़क रही हैं।
-
-स्टाइल: अल्ट्रा-रियलिस्टिक सिनेमैटिक साइबरपंक, कोरियाई एक्शन मूवी एस्थेटिक्स, ब्लॉकबस्टर फाइट कोरियोग्राफी, डायनामिक कैमरा मूवमेंट, बारिश से भीगा नियॉन वातावरण, नाटकीय लाइटिंग, यथार्थवादी भौतिकी, स्मूथ मोशन ब्लर, उच्च-विवरण बनावट, सिनेमैटिक डेप्थ ऑफ फील्ड, एनीमे-प्रेरित यथार्थवाद, भविष्यवादी सियोल वातावरण, 4K मूवी क्वालिटी।
-
-नेगेटिव प्रॉम्प्ट: धुंधले दृश्य, खराब शारीरिक रचना, अतिरिक्त अंग, टूटी हुई उंगलियां, विकृत चेहरा, निम्न गुणवत्ता, कठोर हरकतें, अवास्तविक मुकाबला, डुप्लिकेट पात्र, टिमटिमाती लाइटें, कार्टून स्टाइल, खराब भौतिकी, विकृत वातावरण, ओवरसैचुरेटेड रंग।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3839946b6031aec9c7deea0bd07a922a/thumbnails/thumbnail.jpg" width="600" alt="साइबरपंक नियॉन मार्केट फाइट">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5268)**
-
-**लेखक:** [Ai Doctor](https://x.com/DoctorAmna11) | **स्रोत:** [Link](https://x.com/DoctorAmna11/status/2058900941584429197) | **प्रकाशित:** May 25, 2026
-
----
-### एनीमे वॉलीबॉल चैंपियनशिप स्टोरीबोर्ड
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> दो प्रतिद्वंद्वी कप्तानों के बीच एक एनीमे वॉलीबॉल मैच के लिए अत्यधिक वर्णनात्मक स्टोरीबोर्ड प्रॉम्प्ट, जिसमें डायनामिक कैमरा वर्क और एनर्जी ट्रेल्स पर जोर दिया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक विशाल भविष्यवादी इनडोर स्टेडियम में चैंपियनशिप फाइनल मैच के दौरान दो कुलीन महिला कप्तानों के बीच संघर्ष को दर्शाने वाला हाइपर-सिनेमैटिक एनीमे वॉलीबॉल स्टोरीबोर्ड, जो इलेक्ट्रिक नाइट लाइटिंग से जगमगा रहा है। काओरी (KAORI) — छोटे लाल बालों, काली-लाल परफॉर्मेंस जर्सी, एथलेटिक बनावट और धधकती लाल ऊर्जा की लकीरों वाली एक निडर पावर हिटर — का मुकाबला लायरा (LYRA) से होता है — जो बर्फीले नीले लट वाले बालों, चिकनी सफेद-नीली वर्दी और बहती सियान मोशन ट्रेल्स वाली एक शांत रणनीतिक प्रतिभा है।
-
-डायनामिक एनीमे कैमरा शॉट्स में विस्फोटक स्पाइक इम्पैक्ट, सिंक्रोनाइज़्ड ब्लॉक, गुरुत्वाकर्षण को धता बताने वाली डाइव, स्लो-मोशन सर्व, हवा में बचाव, आक्रामक नेट बैटल, घूमती हुई गेंद के प्रक्षेपवक्र, पसीने के कण, जूतों के घर्षण से निकली चिंगारियां, चमकते स्कोरबोर्ड का प्रतिबिंब, चिल्लाती भीड़ की रूपरेखा और तीव्र मोमेंटम स्विंग को कैद किया गया है। पेंटरली मोशन ब्लर और नाटकीय फ्रेम डिस्टॉर्शन एक प्रीमियम एनीमे ओपनिंग सीक्वेंस एस्थेटिक बनाते हैं जो गति और प्रभाव से भरा है।
-
-विजुअल स्टाइल Haikyuu x Arcane से प्रेरित है, जिसमें पेंटरली डिजिटल इलस्ट्रेशन, स्टाइलाइज्ड स्पीड लाइन्स, आक्रामक रिम लाइटिंग, सिनेमैटिक डेप्थ ऑफ फील्ड, नाटकीय परिप्रेक्ष्य बदलाव, हार्ड-एज ब्रश स्ट्रोक और जीवंत कंट्रास्ट-हैवी लाइटिंग का उपयोग किया गया है। कलर पैलेट में इलेक्ट्रिक ब्लू, क्रिमसन रेड, ब्लैक, सिल्वर, नियॉन सियान और स्टेडियम व्हाइट हाइलाइट्स का दबदबा है। फाइनल फ्रीज-फ्रेम कंपोजिशन में दोनों प्रतिद्वंद्वियों को नेट के ऊपर हवा में लटका हुआ दिखाया गया है, जिनके बीच चमकती वॉलीबॉल है और बोल्ड टाइपोग्राफी है: “ONLY ONE WILL RULE THE SKY।”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/897479803ed1917e64781cc5a307d292/thumbnails/thumbnail.jpg" width="600" alt="एनीमे वॉलीबॉल चैंपियनशिप स्टोरीबोर्ड">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5255)**
-
-**लेखक:** [Smiling Khan](https://x.com/AIwithkhan) | **स्रोत:** [Link](https://x.com/AIwithkhan/status/2058892633658040675) | **प्रकाशित:** May 25, 2026
-
----
-### कोरियाई स्पोर्ट्स ब्रॉडकास्ट शूटिंग
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> शूटिंग प्रतियोगिता की विशेषता वाले सिनेमैटिक कोरियाई-शैली के स्पोर्ट्स ब्रॉडकास्ट के लिए एक विस्तृत मल्टी-शॉट स्क्रिप्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-शॉट फ्रेमिंग / एंगल | कैमरा मूवमेंट | विजुअल्स | ऑडियो | अवधि
-1 | एक्सट्रीम क्लोज-अप / आई लेवल | स्थिर | गुलाबी पारदर्शी शूटिंग चश्मा पहने एक महिला शूटिंग एथलीट तीव्र फोकस के साथ एक काली एयर पिस्टल उठाती है। स्टेडियम की तेज इनडोर लाइटें उसकी आंखों में चमकती हैं। तेज इलेक्ट्रॉनिक ड्रम बीट शुरू होती है। बैकग्राउंड में भीड़ की फुसफुसाहट। | 1s
-2 | क्लोज-अप / आई लेवल | रिकॉइल मोशन | वह फायर करती है। पिस्टल हल्का सा पीछे की ओर झटका खाती है और स्क्रीन पर एक चमकता हुआ हरा डिजिटल टारगेट UI "9.3" फ्लैश करता है। तेज गनशॉट की आवाज। उत्साहित कोरियाई उद्घोषक की प्रतिक्रिया। | 1s
-3 | एक्सट्रीम क्लोज-अप / साइड एंगल | स्थिर | छोटे बालों और नीले शूटिंग चश्मे वाली एक अन्य एथलीट शांति से निशाना साधते हुए एक आंख बंद करती है। सॉफ्ट सिनेमैटिक लाइट उसके चेहरे के टेक्सचर को उभारती है। संगीत का तनाव बढ़ता है। एरिना शांत हो जाता है। | 1s
-4 | क्लोज-अप / आई लेवल | रिकॉइल मोशन | वह पूर्ण नियंत्रण के साथ फायर करती है। स्क्रीन पर विशाल चमकता हुआ टेक्स्ट उभरता है: "10.4"। तेज गनशॉट और उसके बाद भीड़ का जोरदार उत्साह। | 1s
-5 | मीडियम शॉट / साइड व्यू | फास्ट कट | पहली एथलीट सदमे में प्रतिक्रिया देती है, उसका मुंह खुला है, जबकि दूसरी एथलीट आत्मविश्वास से मुस्कुराती है और अपनी पिस्टल नीचे करती है। कमेंट्री उत्साह के साथ चिल्ला रही है। | 1s
-6 | क्लोज-अप / स्लो पुश-इन | पुश फॉरवर्ड | विजेता एथलीट कैमरे की ओर धीरे से मुस्कुराती है जबकि एरिना की लाइटें उसके पीछे सिनेमैटिक बोकेह (bokeh) में चमकती हैं। संगीत भावनात्मक सिंथ मेलोडी में बदल जाता है। | 1s
-7 | मीडियम वाइड शॉट | हैंडहेल्ड एनर्जी | साथी खिलाड़ी दौड़कर आते हैं और एथलीटों के चारों ओर खुशी मनाते और तालियां बजाते हैं। स्टेडियम का माहौल रोमांचक हो जाता है। जोरदार तालियां और उत्साहित भीड़ का शोर। | 2s
-8 | फाइनल क्लोज-अप | स्थिर | एथलीट का स्लो-मोशन हीरो शॉट, वह आत्मविश्वास के साथ अपना चश्मा ठीक करती है जबकि उसके चेहरे के बगल में स्कोर ग्राफिक्स चमक रहे हैं। संगीत अंतिम बीट पर पहुंचता है और धीरे-धीरे समाप्त हो जाता है। | 2s 
-
-ओवरऑल स्टाइल
-विजुअल स्टाइल
-कोरियाई स्पोर्ट्स ब्रॉडकास्ट एस्थेटिक
-हाई-की स्टेडियम लाइटिंग
-हाइपर रियलिस्टिक फेशियल टेक्सचर्स
-शैलो डेप्थ ऑफ फील्ड
-डायनेमिक ई-स्पोर्ट्स-स्टाइल UI ओवरले
-आइडल-एथलीट सिनेमैटिक एनर्जी
-क्लीन ब्रॉडकास्ट-स्टाइल फ्रेमिंग
-ऑडियो स्टाइल
-तेज गति वाला इलेक्ट्रॉनिक स्पोर्ट्स साउंडट्रैक
-रियलिस्टिक शूटिंग फोली (Foley)
-एनर्जेटिक कोरियाई कमेंट्री
-विस्फोटक दर्शकों की प्रतिक्रियाएं
-भावनात्मक जीत का फिनाले
-AI वीडियो कीवर्ड्स
-कोरियाई आइडल स्पोर्ट्स
-ISAC शूटिंग प्रतियोगिता
-महिला एथलीट सिनेमैटिक
-शूटिंग ग्लास एस्थेटिक
-हाइपर रियलिस्टिक स्पोर्ट्स ब्रॉडकास्ट
-कोरियाई एंटरटेनमेंट शो
-स्टेडियम सिनेमैटिक लाइटिंग
-स्लो मोशन गन रिकॉइल
-Sora स्टाइल AI स्पोर्ट्स एडिट
-कॉम्पिटिटिव टेंशन एस्थेटिक
-इंग्लिश डायलॉग / कमेंट्री
-Locked in.
-One shot.
-10.4. 🎯
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9feea5a09872321766484c9a236d96ec/thumbnails/thumbnail.jpg" width="600" alt="कोरियाई स्पोर्ट्स ब्रॉडकास्ट शूटिंग">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5265)**
-
-**लेखक:** [Ericool 🇲🇾](https://x.com/EricoolWong) | **स्रोत:** [Link](https://x.com/EricoolWong/status/2058884383600509419) | **प्रकाशित:** May 25, 2026
-
----
-### लक्जरी लेदर गुड्स एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> लेदर-थीम वाले स्टोरीबोर्ड को एक स्मूथ एडिटोरियल-स्टाइल सिनेमैटिक सीक्वेंस में बदलने के लिए एक वीडियो एनिमेशन प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-3x4 ग्रिड (12 फ्रेम्स) में एक हाई-एंड 4:3 लक्जरी लेदर गुड्स पिच डेक स्टोरीबोर्ड बनाएं, एडिटोरियल लेआउट, Hermès/Il Bisonte स्टाइल, कॉन्यैक टैन + डीप फॉरेस्ट ग्रीन पैलेट। संरचित प्रवाह: कच्ची खाल → कटाई → सिलाई → एजिंग → ओनरशिप क्लोजर। प्रत्येक फ्रेम विभाजित: ऊपर सिनेमैटिक इमेज (कोई टेक्स्ट नहीं) + नीचे स्टोरीबोर्ड नोट्स। फ्लोरेंटाइन कारीगर सौंदर्य, स्लो क्राफ्ट मूड, ईमानदार भौतिकता। हाथ से सिला हुआ लेदर बैग पूरी प्रक्रिया में भावनात्मक केंद्र है। प्रदान किए गए 3x4 स्टोरीबोर्ड को एक स्मूथ सिनेमैटिक वीडियो में एनिमेट करें। सटीक शॉट ऑर्डर और निरंतरता बनाए रखें। स्लो लेदर टेक्सचर मैक्रो, सैडल स्टिच पुल मोशन, ब्रास हार्डवेयर कैच और पैटिना रिवील क्लोज-अप का उपयोग करें। लाइटिंग कूल वर्कशॉप डेलाइट से वार्म टंगस्टन लेदर स्टूडियो ग्लो में बदलती है। लेदर गुड्स एडिटोरियल एस्थेटिक, जेनरेशनल क्राफ्ट, टैक्टाइल लक्जरी मूड। कोई नए शॉट्स नहीं, कोई रीऑर्डरिंग नहीं, हाथ से सिला हुआ बैग सभी दृश्यों में भावनात्मक केंद्र बना रहना चाहिए।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4246711932335913998d0057fd0e0d41/thumbnails/thumbnail.jpg" width="600" alt="लक्जरी लेदर गुड्स एनिमेशन">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5251)**
-
-**लेखक:** [𝐌](https://x.com/Strength04_X) | **स्रोत:** [Link](https://x.com/Strength04_X/status/2058854375104327801) | **प्रकाशित:** May 25, 2026
-
----
-### रियल-लाइफ से एनीमे कॉम्बैट ट्रांज़िशन
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> एक अत्यधिक संरचित वीडियो जनरेशन प्रॉम्प्ट जो लाइव-एक्शन फुटेज और स्टाइलिश एनीमे बैटल दृश्यों के बीच एक सहज और हाई-एनर्जी ट्रांज़िशन बनाने के लिए सात अलग-अलग भागों को विभाजित करता है।
-
-#### 📝 प्रॉम्पट
-
-```
-भाग 1: ओपनिंग इंट्रो - समय: 00:00 से 00:01 - मीडियम-क्लोज़ अप, फिक्स्ड शॉट - कैमरा: कोई विस्थापन नहीं, उच्च विस्फोटक शक्ति, बहुत तेज़ - एक्शन: वास्तविक महिला कैमरे की ओर मुख करके, आगे की ओर झपट्टा मारना फिर पीछे हटना, कूल एक्सप्रेशन - VFX: हार्ड कट ट्रांज़िशन - टोन: कोल्ड ग्रे। भाग 2: कैरेक्टर इंट्रो - समय: 00:01 से 00:02 - क्लोज़-अप, फास्ट पुश शॉट - कैमरा: एनीमे मेल लीड के चेहरे/मुट्ठी पर तेज़ पुश - एक्शन: तीखी नज़रें, मुट्ठी भींचना - VFX: लाइटनिंग पार्टिकल्स - टोन: डार्क और हाई-सैचुरेशन इलेक्ट्रिक लाइट। भाग 3: रियलिटी बनाम 2D - समय: 00:02 से 00:04 - मीडियम शॉट, फिक्स्ड/पुश ऑल्टरनेट - कैमरा: वास्तविक और एनीमे के बीच हाई-फ्रीक्वेंसी फ्लैश कट्स - एक्शन: हाथ के इशारे सिंक्रोनाइज़्ड - VFX: ओवरलैपिंग और फ्लैश-व्हाइट ट्रांज़िशन - टोन: कोल्ड ग्रे बनाम डार्क रेड। भाग 4: एक्शन फ्रीज़ और कास्टिंग - समय: 00:04 से 00:07 - मीडियम शॉट, फिक्स्ड/फॉलो - कैमरा: ऑल्टरनेटिंग स्पीड्स - एक्शन: हाथ क्रॉस करना और दबाना; एनीमे हथेली का विस्तार - VFX: ग्रीन एनर्जी इफेक्ट्स, स्मूथ ट्रांज़िशन - टोन: रहस्यमयी जादू। भाग 5: रैपिड स्विचिंग - समय: 00:07 से 00:09 - मीडियम-क्लोज़ अप, पुश-पुल - कैमरा: अत्यधिक तेज़ - एक्शन: स्टाफ के साथ लाल बालों वाला रूप से सफेद बालों वाले रूप में परिवर्तन - VFX: लाल/हरी रोशनी, टियरिंग ट्रांज़िशन - टोन: हाई-सैचुरेशन कंट्रास्ट। भाग 6: पावर बिल्ड-अप - समय: 00:09 से 00:13 - चेहरे और हाथों के क्लोज़-अप - कैमरा: विवरणों पर स्मूथ फोकस - एक्शन: वास्तविक महिला का माथे को छूना; एनीमे कैरेक्टर के हाथ जुड़ना - VFX: आंखों की चमक, बालों की फिजिक्स, स्पेस डिस्टॉर्शन - टोन: गहरे अंधेरे के साथ हाइलाइट्स। भाग 7: अल्टीमेट आउटबर्स्ट - समय: 00:13 से 00:15 - मीडियम से फुल वाइड शॉट, एक्सट्रीम पुल - कैमरा: शून्य (void) की ओर तेज़ पुल बैक - एक्शन: वास्तविक महिला का तैरते हुए एनीमे कैरेक्टर में बदलना - VFX: परफेक्ट फ्यूजन, भंवर बैकग्राउंड, किरणें, सबटाइटल - टोन: एपिक ब्लैक/व्हाइट/ग्रे।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6fbc9b348105d237e840861be53b0bf5/thumbnails/thumbnail.jpg" width="600" alt="रियल-लाइफ से एनीमे कॉम्बैट ट्रांज़िशन">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5275)**
-
-**लेखक:** [John](https://x.com/johnAGI168) | **स्रोत:** [Link](https://x.com/johnAGI168/status/2058837160480870652) | **प्रकाशित:** May 25, 2026
-
----
-### कैरेक्टर कंसिस्टेंसी के साथ POV स्ट्रीट फाइट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 के लिए एक हाई-एक्शन POV स्ट्रीट फाइट प्रॉम्प्ट, जो अपलोड किए गए रेफरेंस के आधार पर सख्त कैरेक्टर लॉकिंग और फेशियल कंसिस्टेंसी पर जोर देता है।
-
-#### 📝 प्रॉम्पट
-
-```
-POV स्ट्रीट फाइट
-9:16 | 12-15s | 60fps | 8K
-
-कैरेक्टर लॉक: अपलोड किए गए फेस रेफरेंस से सख्ती से मिलान करें — आंखों का सटीक आकार, भौहें, नाक, होंठ, जॉलाइन, स्टबल, हेयरस्टाइल। चेहरे में कोई बदलाव नहीं (Zero face drift)। पूरी गति के दौरान अपलोड किए गए आउटफिट और शारीरिक बनावट का सटीक मिलान करें।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c0c23d0eaf5429afd2e73251b404b2bc/thumbnails/thumbnail.jpg" width="600" alt="कैरेक्टर कंसिस्टेंसी के साथ POV स्ट्रीट फाइट">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5274)**
-
-**लेखक:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | **स्रोत:** [Link](https://x.com/Diplomeme/status/2058834415212785841) | **प्रकाशित:** May 25, 2026
-
----
-### स्टीमपंक एक्शन हीरो कॉम्बैट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक औद्योगिक फैक्ट्री सेटिंग में मैकेनिकल-आर्म वाले हीरो के साथ हाई-इम्पैक्ट, तेज़-तर्रार स्टीमपंक कॉम्बैट सीन के लिए एक बेहद विस्तृत प्रॉम्प्ट, जिसमें कैमरा और फिजिक्स के लिए विशिष्ट निर्देश दिए गए हैं।
-
-#### 📝 प्रॉम्पट
-
-```
-अल्ट्रा-रियलिस्टिक सिनेमैटिक स्टीमपंक एक्शन। तेज़-तर्रार, हाई-इम्पैक्ट कॉम्बैट, जिसमें विस्फोटक बर्स्ट मूवमेंट है।
-सभी मोशन में इंस्टेंट एक्सेलेरेशन (0 से अधिकतम गति तुरंत) और इम्पैक्ट पर हार्ड स्टॉप (कोई ईज़िंग इन/आउट नहीं) का उपयोग करें। प्रत्येक एक्शन 0.2–0.5 सेकंड के भीतर पूरा होना चाहिए।
-कोई स्लो मोशन नहीं, कोई फ्लोटी एनिमेशन नहीं, कोई स्मूथ सिनेमैटिक ड्रिफ्टिंग नहीं, कोई विस्तारित मोशन आर्क नहीं।
-कैमरा व्यवहार आक्रामक और रिएक्टिव है: व्हिप पैन, हल्के हैंडहेल्ड जिटर के साथ तेज़ ट्रैकिंग, और हर इम्पैक्ट पर माइक्रो कैमरा शेक। कैमरा कभी भी 1 सेकंड से अधिक स्थिर नहीं रहता है।
-इम्पैक्ट स्टाइल हिंसक और भारी है। दुश्मनों को धक्का नहीं दिया जाता, बल्कि हवा में उछाला जाता है। मेटल डिफॉर्मेशन (धातु का मुड़ना) स्पष्ट रूप से दिखाई देता है, साथ ही दिशात्मक स्पार्क बर्स्ट भी।
-विजुअल इफेक्ट्स में गति से प्रेरित नेचुरल मोशन ब्लर, पंजों से निकलने वाली हीट डिस्टॉर्शन, और मूवमेंट के साथ डायनामिक रूप से रिएक्ट करती भाप शामिल है।
-लाइटिंग हाई कंट्रास्ट, इंडस्ट्रियल और मजबूत ड्रामेटिक हाइलाइट्स वाली है।
-
-मुख्य पात्र: एक युवा वयस्क पुरुष, जिसने सफेद लंबी आस्तीन वाली शर्ट पहनी है जिसकी आस्तीन मुड़ी हुई है, भूरे रंग के सस्पेंडर्स और मैचिंग पैंट, रग्ड बूट्स, और एक सिंगल-लेंस स्टीमपंक मोनोकल। दोनों हाथ मैकेनिकल (सफेद और सुनहरे) हैं। उसका चेहरा विस्तृत स्किन टेक्सचर और दिखाई देने वाले पोर्स के साथ स्पष्ट फोकस में है।
-
-वातावरण: एक बड़ी इनडोर स्टीमपंक फैक्ट्री जिसमें विशाल पाइप, स्टीम वेंट्स, लटकती जंजीरें और धातु के प्लेटफॉर्म हैं। भाप लगातार निकल रही है। जंजीरें सूक्ष्म रूप से हिल रही हैं। मूवमेंट के दौरान गहराई पैदा करने के लिए फोरग्राउंड पाइप और जंजीरों का उपयोग किया गया है।
-
-दुश्मन: 4–6 भारी स्टीमपंक रोबोट। वे डिफ़ॉल्ट रूप से धीरे चलते हैं लेकिन हिट होने पर तुरंत प्रतिक्रिया करते हैं। उन्हें बल के साथ उछाला जाता है, जिससे उन पर स्पष्ट डेंट, डिफॉर्मेशन और चिंगारियां दिखाई देती हैं।
-
-हथियार (सख्त नियम): प्लाज्मा क्लॉ (पंजे) दोनों बंद मुट्ठियों से बाहर निकलते हैं। हाथ नहीं खुलते, कोई चार्ज-अप नहीं, कोई ट्रांसफॉर्मेशन नहीं। डिप्लॉयमेंट इंस्टेंट (0.2 सेकंड से कम) है, जिसमें एक शार्प मैकेनिकल स्नैप होता है। विजुअल स्टाइल: नारंगी चमक और हल्की हीट डिस्टॉर्शन के साथ हॉट व्हाइट कोर।
-
-सीन टाइमलाइन:
-0.0 – 2.0
-आक्रामक स्टीम बर्स्ट के साथ फैक्ट्री का वाइड शॉट। कैमरा नीचे की ओर झुकता है और तेजी से आगे बढ़ता है। पात्र एक जंजीर से नीचे झूलता है और 0.3 सेकंड के भीतर जोर से जमीन पर उतरता है, जिससे चिंगारियों का विस्फोट होता है। कैमरा इम्पैक्ट पर हल्के झटके के साथ नीचे की ओर ट्रैक करता है।
-2.0 – 4.0
-रोबोट तीन दिशाओं से करीब आते हैं। अस्थिर, रिएक्टिव मोशन के साथ हैंडहेल्ड मीडियम शॉट। पात्र तुरंत हमला करता है: एक विस्फोटक पंच (0.3 सेकंड) एक रोबोट को साइड में एक पाइप की ओर उछालता है, जिससे स्पष्ट डेंट और चिंगारियां निकलती हैं। एक तेज़ रोटेशनल किक (0.4 सेकंड से कम) दूसरे रोबोट को लटकती जंजीरों में दे मारती है। पात्र लगातार त्वरित कदमों और पिवट का उपयोग करके अपनी स्थिति बदलता रहता है, कभी भी स्थिर नहीं रहता।
-4.0 – 5.0 (मुख्य क्षण)
-कैमरा व्हिप पैन। 0.3 सेकंड से कम का माइक्रो पॉज। प्लाज्मा क्लॉ दोनों बंद मुट्ठियों से 0.2 सेकंड से कम समय में एक स्नैप के साथ तुरंत बाहर निकलते हैं, कोई चार्ज या देरी नहीं। कैमरा आक्रामक रूप से हाथों की ओर बढ़ता है, एंगल थोड़ा बदलता है, फिर तुरंत पीछे हट जाता है।
-5.0 – 8.0
-पात्र बड़े पाइपों के पास से बर्स्ट डैश (0.5 सेकंड से कम) करता है। साइड ट्रैकिंग।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33a0cccefad46a4093e4c181421ef27c/thumbnails/thumbnail.jpg" width="600" alt="स्टीमपंक एक्शन हीरो कॉम्बैट">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5267)**
-
-**लेखक:** [yopiwhs](https://x.com/Gwsubsa) | **स्रोत:** [Link](https://x.com/Gwsubsa/status/2058822064707137540) | **प्रकाशित:** May 25, 2026
-
----
-### विशाल मगरमच्छ का नदी में हमला
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> तूफान के दौरान एक धातु की नाव पर हमला करते हुए एक विशाल मगरमच्छ का उच्च-तनाव वाला हॉरर सीन प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-तेज बारिश और घने बादलों वाले तूफानी नदी का एक सिनेमाई एक्शन हॉरर दृश्य। 40 फीट से अधिक लंबा, गहरे रंग के कवच जैसे शल्कों, चमकती पीली आंखों और नुकीले दांतों वाले विशालकाय मगरमच्छ का धुंधले पानी से डरावना उदय।
-एनाकोंडा जैसा यह जीव नाटकीय रूप से ऊपर उठता है, उसका मुंह पूरी तरह खुला है, जो हमला करने से पहले पानी में बड़ी लहरें और छींटे पैदा करता है। वह गहरे रंग के रेन गियर पहने डरे हुए यात्रियों से भरी एक छोटी धातु की नाव की ओर आक्रामक रूप से झपटता है। एक आदमी हिंसक रूप से नाव से बाहर फेंका जाता है जबकि अन्य लोग चिल्लाते हुए घबराहट में इधर-उधर भागते हैं। क्लोज-अप में एक महिला को भीगे हुए काले बालों के साथ पूरी तरह से दहशत में चिल्लाते हुए दिखाया गया है।
-डायनेमिक कैमरा एंगल में पानी से लिए गए लो-एंगल शॉट्स शामिल हैं जो विशाल मगरमच्छ के सिर को फ्रेम पर हावी दिखाते हैं, डगमगाती नाव पर अराजक एक्शन, और मूसलाधार बारिश व अशांत पानी के बीच हमले के नाटकीय वाइड शॉट्स। घने जंगल की पृष्ठभूमि, यथार्थवादी जल भौतिकी, तीव्र छींटे, सिनेमाई तूफान की लाइटिंग, फोटो-यथार्थवादी विवरण, उच्च-तनाव वाली हॉलीवुड सर्वाइवल हॉरर शैली, 9 सेकंड का रोमांचक मॉन्स्टर अटैक सीक्वेंस।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1f2aafae261a2ec7e438a6d211d62930/thumbnails/thumbnail.jpg" width="600" alt="विशाल मगरमच्छ का नदी में हमला">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5257)**
-
-**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2058816800805290406) | **प्रकाशित:** May 25, 2026
-
----
-### विशाल मगरमच्छ का हाउसबोट पर हमला
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> अमेज़न नदी में तूफान के दौरान एक विशाल मगरमच्छ द्वारा लकड़ी की हाउसबोट पर हमला करने का एक भयावह दृश्य।
-
-#### 📝 प्रॉम्पट
-
-```
-तूफानी और बादलों से घिरे आसमान के नीचे, अमेज़न की अशांत और मटमैली नदी पर एक सिनेमाई एक्शन हॉरर दृश्य। 45 फीट से अधिक लंबा, मोटी कवच जैसी खाल और विशाल जबड़ों वाला एक बेहद यथार्थवादी विशाल खारे पानी का मगरमच्छ, लकड़ी की दो मंजिला हाउसबोट के बगल में पानी से हिंसक रूप से बाहर निकलता है। विशाल मगरमच्छ अपना मुंह खोले हुए नाव से टकराता है, जिससे बड़ी लहरें उठती हैं और नाव खतरनाक तरीके से डगमगाने लगती है।
-यात्री दहशत में हैं: लाल शर्ट पहने एक व्यक्ति पानी में गिर जाता है और उथल-पुथल भरे पानी में संघर्ष कर रहा है, जबकि ढके हुए डेक के अंदर मौजूद लोग — ग्रे शर्ट में गहरे बालों वाली एक महिला, चश्मा पहने एक आदमी और अन्य — डर के मारे चिल्ला रहे हैं और इधर-उधर भाग रहे हैं। विशाल मगरमच्छ लकड़ी के डेक पर चढ़ जाता है, उसका बड़ा सिर अपने खुले दांतों के साथ फ्रेम में हावी है। अंतिम क्षणों में, दृढ़ संकल्पित महिला नाव के नियंत्रण को संभालती है और उसे दूर ले जाने की कोशिश करती है।
-डायनेमिक कैमरा वर्क में हमले के नाटकीय वाइड शॉट्स, अंदर की अराजक प्रतिक्रियाएं, मगरमच्छ के सिर के क्लोज-अप और हाई-एनर्जी एक्शन शामिल हैं। भारी बारिश, घने जंगल की पृष्ठभूमि, यथार्थवादी जल भौतिकी, सिनेमाई तनाव, फोटो-यथार्थवादी विवरण, गहन हॉलीवुड सर्वाइवल हॉरर शैली, 12 सेकंड का रोमांचक मॉन्स्टर सीक्वेंस।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80ab8ef4428c2ffce8cdbb0488d60df0/thumbnails/thumbnail.jpg" width="600" alt="विशाल मगरमच्छ का हाउसबोट पर हमला">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5263)**
-
-**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2058816432310460820) | **प्रकाशित:** May 25, 2026
-
----
-### पोस्ट-अपोकैलिप्टिक डेजर्ट एक्शन सीक्वेंस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई डेजर्ट एक्शन सीक्वेंस जिसमें कैरेक्टर कंसिस्टेंसी और एक स्टाइलाइज्ड लो-पॉली, हैंड-पेंटेड कॉन्सेप्ट आर्ट एस्थेटिक का उपयोग किया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-Brax के साथ 15 सेकंड का एक सिनेमाई पोस्ट-अपोकैलिप्टिक डेजर्ट एक्शन सीक्वेंस बनाएं।
-
-उपयोग करें:
-कैरेक्टर रेफरेंस के लिए @BraxRef
-स्टोरीबोर्ड के लिए @braxstory2
-
-स्टाइल:
-स्टाइलाइज्ड लो-पॉली पेंटरली
-हैंड-पेंटेड 3D कॉन्सेप्ट आर्ट
-फैसेटेड पॉलीगोनल इलस्ट्रेशन
-मॉडर्न
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/034b2d1675fccb157d67006342b0a03f/thumbnails/thumbnail.jpg" width="600" alt="पोस्ट-अपोकैलिप्टिक डेजर्ट एक्शन सीक्वेंस">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5273)**
-
-**लेखक:** [MD](https://x.com/mdmadeit) | **स्रोत:** [Link](https://x.com/mdmadeit/status/2058805385969189273) | **प्रकाशित:** May 25, 2026
-
----
-### इंसान बनाम एनाकोंडा नाव की लड़ाई
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> तूफान के दौरान नाव पर एक मैचेटी (बड़ा चाकू) के साथ विशाल एनाकोंडा से लड़ते हुए एक व्यक्ति का महाकाव्य एक्शन हॉरर दृश्य।
-
-#### 📝 प्रॉम्पट
-
-```
-तेज बारिश और उफनते मटमैले पानी वाली तूफानी नदी पर एक सिनेमाई एक्शन हॉरर दृश्य। 40 फीट से अधिक लंबा, गहरे हरे-काले रंग के धब्बेदार शल्कों और विशाल जबड़ों वाला एक विशाल हाइपर-रियलिस्टिक एनाकोंडा, एक छोटी धातु की नाव के बगल में पानी से बाहर निकलता है, जिसका मुंह तेज दांतों के साथ पूरी तरह खुला है।
-बेज रंग की शर्ट पहने एक डरा हुआ व्यक्ति अपनी चौड़ी आंखों और घबराए हुए भावों के साथ क्लोज-अप में चिल्लाता है। डगमगाती नाव पर, काली टी-शर्ट पहने एक मस्कुलर व्यक्ति और पीले रेनकोट पहने लोगों सहित कई लोग अराजकता में संघर्ष कर रहे हैं। नायक गीले लकड़ी के डेक से एक बड़ा तेज मैचेटी उठाता है, उसे नाटकीय रूप से ऊपर उठाता है, और विशाल सांप पर आक्रामक रूप से हमला करता है।
-डायनामिक एक्शन में उसे विशाल एनाकोंडा को चाकू मारते और काटते हुए दिखाया गया है, जो नाव पर लिपट रहा है। तीव्र क्लोज-अप उसके दृढ़ चेहरे और शक्तिशाली प्रहारों, सांप की हिंसक छटपटाहट और पानी की भारी बौछारों को कैद करते हैं। लो-एंगल हीरोइक शॉट्स में आदमी को गर्व से खड़े, चाकू उठाए, मूसलाधार बारिश में राक्षस से लड़ते हुए दिखाया गया है।
-नाटकीय ओवरकास्ट लाइटिंग, घने जंगल की पृष्ठभूमि, यथार्थवादी जल भौतिकी, उच्च तनाव, फोटो-रियलिस्टिक विवरण, गहन हॉलीवुड सर्वाइवल एक्शन शैली, 11-सेकंड का रोमांचक फाइट सीक्वेंस।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8897fe6b68995c6660ced047b5295231/thumbnails/thumbnail.jpg" width="600" alt="इंसान बनाम एनाकोंडा नाव की लड़ाई">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5264)**
-
-**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2058800378033189146) | **प्रकाशित:** May 25, 2026
-
----
-### विशाल एनाकोंडा का हाउसबोट पर हमला
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> अमेज़न के तूफानी मौसम के दौरान एक विशाल एनाकोंडा द्वारा दो मंजिला हाउसबोट पर हमला करने का एक सिनेमैटिक एक्शन हॉरर प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-अमेज़न नदी के मटमैले पानी में भारी उष्णकटिबंधीय बारिश के बीच एक सिनेमैटिक एक्शन हॉरर दृश्य। एक बड़ी दो मंजिला लकड़ी की हाउसबोट उफनते पानी में आगे बढ़ रही है, तभी 50 फीट से अधिक लंबा, गहरे हरे और काले रंग के पैटर्न वाले स्केल्स वाला एक विशालकाय हाइपर-रियलिस्टिक एनाकोंडा तेजी से तैरते हुए आता है और जोरदार हमला कर देता है।
-
-गीले डेक पर, घबराए हुए यात्री दहशत में हैं: सफेद शर्ट पहने एक महिला चिल्लाते हुए भाग रही है, काले रंग की शर्ट पहने एक मस्कुलर आदमी इशारा करते हुए चिल्ला रहा है, रंगीन टाई-डाई हुडी पहने एक छोटी बच्ची डर के मारे चीख रही है, और सफेद बालों वाला एक बुजुर्ग व्यक्ति हताशा में हाथ हिला रहा है। विशाल एनाकोंडा पानी से बाहर निकलता है, अपने भारी शरीर को नाव के चारों ओर लपेटता है, पतवार (hull) से टकराता है और हिंसक रूप से जहाज को पलट देता है, जिससे वह नाटकीय रूप से झुककर बड़ी लहरों के बीच डूबने लगता है।
-
-डायनेमिक शॉट्स में नाव के बगल में सांप का एरियल व्यू, बारिश में भीगते डेक पर मची अफरा-तफरी, डरे हुए चेहरों के क्लोज-अप, और विशालकाय सांप द्वारा नाव को लपेटकर नष्ट करने के एपिक वाइड शॉट्स शामिल हैं।
-
-घने जंगल की पृष्ठभूमि, तूफानी बादलों वाली लाइटिंग, यथार्थवादी वॉटर फिजिक्स, इंटेंस हॉलीवुड ब्लॉकबस्टर स्टाइल, फोटो-रियलिस्टिक डिटेल्स, हाई-टेंशन सर्वाइवल हॉरर, 10-सेकंड की ड्रामेटिक एक्शन क्लिप।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d640f24c14c472030668826b8a9e0073/thumbnails/thumbnail.jpg" width="600" alt="विशाल एनाकोंडा का हाउसबोट पर हमला">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5258)**
-
-**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2058799113005920462) | **प्रकाशित:** May 25, 2026
-
----
-### विशाल मगरमच्छ का कयाक पर हमला
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ऑस्ट्रेलिया की एक धूप वाली नदी पर एक विशाल मगरमच्छ द्वारा कयाक को पलटने और एक युवा जोड़े पर हमला करने का एक भयावह दृश्य।
-
-#### 📝 प्रॉम्पट
-
-```
-हरे-भरे जंगल से घिरी ऑस्ट्रेलिया की एक धूप वाली नदी पर फिल्माया गया सिनेमैटिक एक्शन हॉरर दृश्य। एक सफेद इन्फ्लेटेबल कयाक में सवार एक युवा जोड़ा: आगे बैठी लंबी भूरे बालों वाली, सफेद टी-शर्ट और लाइफ वेस्ट पहने एक युवती डर के मारे चिल्ला रही है, जबकि पीछे बैठा गहरे रंग की टी-शर्ट और लाइफ वेस्ट पहने एक गठीले शरीर वाला युवक सदमे में है और घबराहट में पैडल चला रहा है।
-
-40 फीट से अधिक लंबा, गहरे रंग के कवच जैसे शल्कों वाला एक विशाल, अति-यथार्थवादी खारे पानी का मगरमच्छ अचानक कयाक के ठीक सामने गंदले पानी से बाहर निकलता है। विशाल मगरमच्छ अपने जबड़े पूरी तरह खोलकर आक्रामक रूप से झपटता है, जिससे उसके बड़े नुकीले दांत और अंदर का गुलाबी हिस्सा दिखाई देता है, और पानी की भारी बौछारें उठती हैं। मगरमच्छ कयाक से टकराता है, उसे हिंसक रूप से पलट देता है और युवक को पानी में उछाल देता है।
-
-डायनामिक सीक्वेंस में युवक को हवा में उछलते और पानी में गिरते हुए दिखाया गया है, जहाँ वह गंदले हरे पानी में बुलबुलों के बीच संघर्ष कर रहा है। तेज़-तर्रार कैमरा एंगल्स में चिल्लाते चेहरों के क्लोज-अप, विशाल मगरमच्छ के ऊपर उठने के नाटकीय लो-एंगल शॉट्स, कयाक के अगले हिस्से से POV, और युवक के सतह पर आने के लिए संघर्ष करते हुए अराजक अंडरवाटर शॉट्स शामिल हैं।
-
-तेज दिन का उजाला, यथार्थवादी जल गतिशीलता, तीव्र छींटे, फोटो-यथार्थवादी विवरण, उच्च तनाव वाली हॉलीवुड सर्वाइवल हॉरर शैली, 10-सेकंड की रोमांचक एक्शन क्लिप।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b484b9da20ba116c6334013da7061a04/thumbnails/thumbnail.jpg" width="600" alt="विशाल मगरमच्छ का कयाक पर हमला">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5266)**
-
-**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2058798719475306845) | **प्रकाशित:** May 25, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
@@ -3104,6 +4863,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-05-30T03:52:42.404Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-05-30T07:03:05.157Z</sub>
 
 </div>

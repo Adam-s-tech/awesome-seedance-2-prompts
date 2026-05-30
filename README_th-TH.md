@@ -68,7 +68,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **3474** |
+| 📝 พรอมต์ทั้งหมด | **3523** |
 | ⭐ พรอมต์แนะนำ | **6** |
 | 🔄 อัปเดตล่าสุด | **2026-05-30** |
 
@@ -367,6 +367,3036 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### Mega Crocodile vs Carnivorous Flower Pit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A terrifying jungle creature feature prompt featuring a giant crocodile falling into a pit of predatory carnivorous plants.
+
+#### 📝 พรอมต์
+
+```
+Nightmare creature island. Dense prehistoric jungle. Giant ferns, twisted roots, thick humidity, insects screaming in the background. Sunlight barely reaches the ground. Hyper-real creature-feature action. Chaotic handheld cinematography, aggressive speed ramps, crash zooms, whip pans, low-angle tracking shots. Sound: crocodile roars, breaking trees, snapping plant jaws, frantic breathing.
+
+⸻
+
+0–2s — HOOK
+
+Low-angle handheld tracking shot.
+
+A survivor is already sprinting through dense jungle.
+
+Branches whip across frame.
+
+Behind him—
+
+A gigantic mega crocodile explodes through the vegetation.
+
+Forty feet long.
+
+Ancient scars covering its body.
+
+Trees snap in half as it charges.
+
+Its jaws slam shut inches behind him.
+
+⸻
+
+2–5s — ESCALATION
+
+Side tracking shot.
+
+The survivor jumps over roots and fallen logs.
+
+The crocodile ignores obstacles completely.
+
+It bulldozes through everything.
+
+Entire bushes and small trees are launched into the air.
+
+The gap between them shrinks rapidly.
+
+The survivor looks ahead—
+
+A strange clearing.
+
+⸻
+
+5–8s — FALSE SAFETY
+
+Wide shot.
+
+The survivor bursts into a beautiful field of enormous flowers.
+
+Bright colors.
+
+Huge petals.
+
+Completely peaceful.
+
+He doesn’t stop.
+
+Runs straight through.
+
+The crocodile follows at full speed.
+
+Then—
+
+The ground beneath the crocodile cracks.
+
+⸻
+
+8–11s — REVEAL
+
+Crash zoom downward.
+
+The entire flower field collapses.
+
+Hidden beneath it—
+
+A gigantic biological pit.
+
+Hundreds of flower stalks erupt upward.
+
+But these aren’t flowers.
+
+Each bloom opens into a circular mouth lined with jagged teeth.
+
+The crocodile falls directly into the center.
+
+⸻
+
+11–13s — CHAOS
+
+The flower creatures attack immediately.
+
+Dozens latch onto the crocodile.
+
+The beast thrashes violently.
+
+Flower heads are ripped apart.
+
+Others immediately replace them.
+
+The entire pit becomes a feeding frenzy.
+
+Petals.
+
+Teeth.
+
+Mud.
+
+Blood-red pollen exploding everywhere.
+
+⸻
+
+13–15s — SHOCKING PAYOFF
+
+The ground shakes.
+
+A colossal flower rises from the center of the pit.
+
+Its bloom is larger than a truck.
+
+It wraps around the struggling crocodile.
+
+Then violently launches it into the air.
+
+The giant flower opens fully—
+
+Catches the airborne crocodile whole—
+
+And swallows it in a single motion.
+
+The survivor stares in disbelief.
+
+Then the giant flower slowly turns toward him.
+
+Its mouth begins opening again.
+
+Hard cut to black.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/944b873cdbe26e5c1e2536607831457b/thumbnails/thumbnail.jpg" width="600" alt="Mega Crocodile vs Carnivorous Flower Pit">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5437)**
+
+**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2060509418903716012) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Parasite Lake and Mutated Crocodile Horror Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A terrifying creature-feature video prompt featuring a survivor fleeing a forty-foot crocodile that undergoes a horrific mutation caused by glowing parasites.
+
+#### 📝 พรอมต์
+
+```
+Nightmare jungle island. Black water lake surrounded by twisted mangrove roots, giant ferns, strange glowing plants, thick fog hanging over the water. The island feels biologically wrong. Hyper-real creature-feature action. Chaotic handheld cinematography, aggressive speed ramps, crash zooms, rapid cut-tos. Sound: splashing water, crocodile roars, parasite screeches, frantic breathing. Multiple shots. Like a movie scene. 
+
+⸻
+
+0–2s — HOOK
+
+Handheld chase shot.
+
+A survivor is already sprinting along the muddy shoreline.
+
+Behind him—
+
+A gigantic crocodile bursts through shallow water.
+
+Forty feet long.
+
+Ancient scars.
+
+Massive jaws snapping shut inches behind him.
+
+Mud and water explode everywhere.
+
+⸻
+
+2–5s — ESCALATION
+
+The survivor reaches the lake edge.
+
+No options left.
+
+The crocodile lunges.
+
+At the last second—
+
+He dives into the water.
+
+Cut underwater.
+
+The crocodile crashes into the lake behind him.
+
+A massive wall of bubbles and mud fills the frame.
+
+⸻
+
+5–8s — FALSE SAFETY
+
+Underwater tracking shot.
+
+The survivor swims deeper.
+
+Looks behind.
+
+The crocodile is still searching.
+
+Then something changes.
+
+Small glowing worm-like creatures emerge from the darkness.
+
+Hundreds of them with large jagged teeth
+
+Moving unnaturally fast.
+
+⸻
+
+8–11s — REVEAL
+
+The parasites attach themselves to the crocodile.
+
+One.
+
+Ten.
+
+Fifty.
+
+Hundreds.
+
+The crocodile thrashes violently.
+
+Its body starts mutating almost immediately.
+
+Extra limbs push through its sides.
+
+Additional jaws emerge from its neck.
+
+New eyes open beneath its scales.
+
+The water turns chaotic.
+
+⸻
+
+11–13s — CHAOS
+
+The survivor surfaces and pulls himself onto shore.
+
+Gasping for air.
+
+Relieved.
+
+Then the lake erupts.
+
+The mutated crocodile explodes upward.
+
+Twice as large.
+
+Covered in glowing parasites.
+
+Multiple jaws opening independently.
+
+⸻
+
+13–15s — SHOCKING PAYOFF
+
+The creature roars.
+
+Then one of the extra jaws tears open.
+
+Inside—
+
+Another fully formed crocodile head begins pushing outward.
+
+Growing from inside the first.
+
+The survivor stares in disbelief.
+
+The second head opens its eyes.
+
+Hard cut to black.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060499124030713856/img/j_Hg9QsHetZjRXW6.jpg" width="600" alt="Parasite Lake and Mutated Crocodile Horror Sequence">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5454)**
+
+**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2060499189478642005) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Sled Dog Mutation Body Horror Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A terrifying body horror scene inspired by 'The Thing', depicting a frightened sled dog undergoing a violent biological transformation in an Antarctic outpost.
+
+#### 📝 พรอมต์
+
+```
+Remote Antarctic outpost at night. Snowstorm outside. Dim yellow lighting inside a kennel room. Metal cages. Frost-covered windows. High-tension body horror with escalating dread and explosive transformation. Slow unease that detonates into chaos. Sound: wind, dog breathing, distant generator hum.
+
+⸻
+
+0–2s — HOOK
+
+Wide shot.
+
+A frightened sled dog bursts into a research statio
+
+Snow covering its fur.
+
+Researchers quickly shut the door behind it.
+
+Outside, the blizzard rages.
+
+The dog looks terrified.
+
+⸻
+
+2–4s— UNEASE
+
+Close-up.
+
+The dog sits quietly.
+
+Panting.
+
+Researchers watch the dog bark sing a them
+
+One scientist smiles.
+
+“Poor thing.”
+
+Everything seems normal.
+
+Too normal.
+
+⸻
+
+4-6s — THE WRONGNESS
+
+The dog suddenly stops panting.
+
+Its chest expands.
+
+Then expands more.
+
+Then keeps expanding.
+
+Far beyond what should be possible.
+
+The room goes silent.
+
+Nobody understands what they’re seeing.
+
+⸻
+
+6-9s — REVEAL
+
+Crash zoom.
+
+The dog’s ribcage begins opening.
+
+Slowly.
+
+Like flower petals.
+
+Skin stretches.
+
+Bones separate.
+
+Inside—
+
+Dozens of blinking eyes.
+
+All looking in different directions.
+
+Watching everyone.
+
+⸻
+
+9-12s — CHAOS
+
+The dog stands.
+
+Or what used to be a dog.
+
+Tentacles emerge.
+
+Additional limbs unfold from its body.
+
+The kennel erupts into panic.
+
+Scientists back away.
+
+One drops a flamethrower.
+
+⸻
+
+12-15s — PAYOFF
+
+The creature lunges across the kennel.
+
+Cages explode apart.
+
+Metal bends.
+
+People scream.
+
+Bullet-time moment.
+
+Eyes opening everywhere.
+
+Tentacles extending.
+
+The flamethrower ignites.
+
+Fire fills frame.
+
+The creature screams.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060496113569071104/img/qmQEocDuIi_zj2oa.jpg" width="600" alt="Sled Dog Mutation Body Horror Sequence">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5459)**
+
+**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2060496176521359470) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### FPV Airship Flight through Grand Harbor
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A breathtaking first-person view animation of a woman piloting a small white airship through a majestic fantasy harbor city, featuring high-speed FPV drone-style camera work and cinematic lighting.
+
+#### 📝 พรอมต์
+
+```
+An ultra-beautiful professional anime video in first-person perspective of a woman piloting a one-person white airship. Red lines and arrows must not appear in the final video. Set in the majestic harbor city from the reference image, based in white and gold, the camera flies faithfully at ultra-high speed along the route indicated by red arrows, like an FPV drone. The camera starts from the sea on the left side of the screen, racing low across the surface of the blue harbor. Navigating between yachts, piers, white ships, and harbor architecture, it crosses the coastal city at high speed from left to center. It then accelerates toward the giant cathedral in the center, approaching closely as if skimming over the buildings. Just before passing the cathedral front, the camera surges upward along the main tower. Rising sharply with the power of looking up at the spire from directly below, it transitions into a grand overhead view of the entire city, harbor, and distant mountains. After crossing the top of the tower, the camera banks heavily to the right and orbits. Keeping the cathedral tower in the center of the screen, it circles dynamically clockwise, showing the white palace-like streets, blue sea, bridges, port facilities, and distant mountains in a flowing manner. Afterward, the camera passes over the city on the right at high speed and gently descends along the trajectory of the red line. It glides low over canal roads, squares, piers, and buildings with gold decorations, flying through toward the large glass-roofed building and port-side street in the right foreground. The video is cinematic, ultra-high definition, with smooth camera work, a strong sense of speed, natural motion blur, realistic atmosphere, water reflections, sunlight, three-dimensional clouds, and emphasizes the scale of a grand fantasy harbor city. Do not display any red guide lines, arrows, hand-drawn marks, annotations, or text.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060428594497896449/img/s6hkHrX4qBXQrxyD.jpg" width="600" alt="FPV Airship Flight through Grand Harbor">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5470)**
+
+**ผู้เขียน:** [妖精アーヤさん](https://x.com/aiehon_aya) | **แหล่งที่มา:** [Link](https://x.com/aiehon_aya/status/2060481313145262213) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### 90s Disney Style Anubis Animation
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed multi-scene prompt for Seedance 2.0 creating a 90s Disney style animation where the god Anubis is defeated by tickling.
+
+#### 📝 พรอมต์
+
+```
+Classic 90s Disney animation style. Scene 1 [0-3 seconds]: In front of a palace in the desert, the powerful jackal god Anubis is performing magic. He raises his arms slightly, lightning magic gathering in his clawed palms, and says in his majestic voice: 'Humans, you will pay for your arrogance!' Lightning flashes near him several times. In front of him, three humans (two men and one woman) look at him nervously, wanting to stop the evil Anubis but not knowing how. Scene 2 [4-6 seconds]: A close-up of Anubis's face. Anubis threatens with an evil smile: 'You are finished.' Then he lets out an evil laugh. He continues to laugh evilly, then closes his eyes, and the laughter turns into a ticklish laugh, indicating he is very ticklish and something is scratching him. Scene 3 [7-9 seconds]: The camera slowly pulls back to show the woman standing next to Anubis, gently moving a feather up and down under Anubis's armpit and repeating the action. Anubis closes his eyes, grins broadly, raises his arms to reveal his armpits, and giggles. Scene 4 [10-12 seconds]: The woman continues to move the feather up and down under Anubis's armpits, and Anubis continues to giggle. Meanwhile, the light magic gradually fades, leaving only the sun. Anubis laughs and laughs, unable to focus on feeling the magic. Anubis laughs so hard he falls to one knee, one arm raised high to reveal his armpit, letting the feather tickle him, while the other empty hand pounds the ground, laughing continuously. Scene 5 [13-14 seconds]: The woman continues to tickle Anubis's armpit with the feather, and Anubis continues to laugh heartily, shouting in a giggling voice: 'Stop torturing me! Don't do this!' then continues to giggle. The two men watch this scene, relieved that they stopped the evil Anubis. Anubis is muscular, with rings on his arms and neck. He is shirtless. His voice is deep and magnetic, yet full of power. His hands are claws. Audio in English.
+```
+
+<img src="https://pbs.twimg.com/media/HJhF1qkWEAMznW5.jpg" width="600" alt="90s Disney Style Anubis Animation">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5464)**
+
+**ผู้เขียน:** [migrok](https://x.com/migrok293703) | **แหล่งที่มา:** [Link](https://x.com/migrok293703/status/2060473171812511979) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Brutalist Architecture Rotring Product Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sophisticated brutalist-themed commercial for a Rotring pencil, featuring architectural visualization, massive concrete structures, and realistic lighting.
+
+#### 📝 พรอมต์
+
+```
+Use the attached image for the pencil reference.
+
+Style: Brutalist architecture, luxury product commercial, architectural visualization, ultra-realistic cinematography, raw concrete, exposed rebar, monumental scale, Porsche Design precision, Apple-level minimalism, cinematic lighting, volumetric dust, photoreal VFX.
+
+0:00–0:03
+
+Pure black. A single red line appears in darkness. The line glows softly. The camera follows it. As it moves forward, enormous concrete walls begin rising from the ground. Massive slabs. Raw geometry. Monolithic forms. The line is literally building architecture.
+
+SFX: Deep architectural bass, concrete resonance, heavy structural impacts, distant industrial ambience.
+
+VOICEOVER: "Every structure begins with a line."
+
+0:03–0:06
+
+The camera accelerates through a sprawling brutalist megacity. Towering concrete masses. Suspended walkways. Exposed steel reinforcement. Gigantic voids and shadows. The red line snakes through the city like an artery. Unnoticed by the viewer, the city's geometry subtly mirrors the proportions of a Rotring.
+
+MUSIC: Minimal industrial pulse, mechanical rhythm, slow cinematic build.
+
+VOICEOVER: "A line becomes a wall." "A wall becomes a city."
+
+0:06–0:10
+
+The camera rises thousands of feet above the metropolis. The full scale is revealed. A breathtaking brutalist world stretching to the horizon. Then the impossible happens. The entire city begins lifting from the ground. Buildings detach. Bridges separate. Concrete fragments float upward. The audience realizes the city was never a city. It was a product.
+
+SFX: Structural groans, concrete fractures, low-frequency shockwaves, massive whooshes.
+
+0:10–0:13
+
+Millions of concrete particles and rusted steel elements spiral inward. Everything converges. The megastructure collapses into a single object. Your brutalist Rotring emerges. Raw. Scarred. Unbreakable. Floating in white space.
+
+MUSIC: Full orchestral rise, massive cinematic hit.
+
+VOICEOVER: "Some tools create architecture." "This one became it."
+
+0:13–0:15
+
+Hero shot. The Rotring slowly rotates. Dust falls from the concrete surface. The red ring catches the light. Silence. A precise mechanical click.
+
+VOICEOVER: "Rotring." Pause. "Drawn from concrete."
+
+END FRAME
+
+ROTRING
+
+DRAWN FROM CONCRETE
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060457916994371585/img/pAhza1w9gkWEHbBQ.jpg" width="600" alt="Brutalist Architecture Rotring Product Commercial">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5455)**
+
+**ผู้เขียน:** [Ege](https://x.com/egeberkina) | **แหล่งที่มา:** [Link](https://x.com/egeberkina/status/2060458879369216202) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Cliffside Highway Coastal Disaster Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic and high-energy video prompt depicting a coastal disaster where a motorcycle rider races along a collapsing cliffside highway amidst a violent storm.
+
+#### 📝 พรอมต์
+
+```
+Hyperrealistic cinematic coastal disaster, ocean cliff highway, violent atmospheric storm surge, road erosion physics, continuous high-speed motion, ground-level chase perspective behind motorcycle rider (no visible hands emphasis), wind pressure, collapsing asphalt, hard cuts only, no fade, no dissolve, no morph transition
+
+Shot 1: Camera follows a motorcycle racing along a narrow cliffside road above violent ocean waves
+Cut to Shot 2: Cliff face begins collapsing sideways into the sea in massive chunks
+Cut to Shot 3: Road surface fractures directly under the motorcycle, forcing rapid lane shifts
+Cut to Shot 4: Ocean surge rises vertically against cliff, forming a moving wall of water
+Cut to Shot 5: FULL ACTION as entire highway segments detach and fall while motorcycle threads through collapsing gaps
+Cut to Shot 6: IMPOSSIBLE MOMENT: rider crosses a falling road slab rotating mid-air before landing back onto a narrowing strip
+Cut to Shot 7: Cliffline breaks continuously, shortening the path every second
+Cut to Shot 8: Wind and spray create near-whiteout as ocean overtakes lower cliff levels
+Cut to Shot 9: Final: road ends mid-collapse as ocean surge engulfs the frame
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/794f8c6e7e0ee90df6af1941f5c87e03/thumbnails/thumbnail.jpg" width="600" alt="Cliffside Highway Coastal Disaster Video Prompt">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5440)**
+
+**ผู้เขียน:** [Alexandra Aisling](https://x.com/AllaAisling) | **แหล่งที่มา:** [Link](https://x.com/AllaAisling/status/2060448088674935036) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Mega Crocodile Swamp Spider Chase
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-tension creature-feature script featuring a swamp chase between a giant crocodile and camouflaged jungle spiders.
+
+#### 📝 พรอมต์
+
+```
+Tropical nightmare island. In South East Asia   - Dense jungle, giant mangrove roots, thick fog hanging over dark swamp water. Everything feels prehistoric and hostile. Fast-paced creature-feature action. Aggressive handheld camera, rapid cut-tos, speed ramps, chaotic movement. Sound: splashing water, crocodile roars, spider chittering, breaking wood.
+
+⸻
+
+0–2s — HOOK
+
+Low angle tracking shot.
+
+A survivor is already sprinting through waist-deep swamp water.
+
+Behind him—
+
+A gigantic crocodile explodes from the water.
+
+At least 40 feet long.
+
+Ancient scars.
+
+Massive jaws snapping shut inches behind him.
+
+Water erupts everywhere.
+
+⸻
+
+2–5s — ESCALATION
+
+Handheld chase shot.
+
+The survivor reaches a giant fallen tree spanning the swamp and scrambles onto it.
+
+The crocodile follows below.
+
+Crashing through roots.
+
+Biting chunks from the log.
+
+The survivor almost loses balance.
+
+The crocodile launches upward.
+
+Misses by inches.
+
+⸻
+
+5–8s — FALSE RELIEF
+
+The survivor reaches the center of the log.
+
+Finally gains distance.
+
+Breathing hard.
+
+Then—
+
+The log moves.
+
+At first slightly.
+
+Then again.
+
+The survivor freezes.
+
+Looks down.
+
+⸻
+
+8–11s — REVEAL
+
+Crash zoom.
+
+The entire fallen tree is covered with giant camouflage spiders.
+
+Hundreds of them.
+
+Some the size of dogs.
+
+Others much larger.
+
+They begin emerging from cracks and bark.
+
+The survivor realizes he’s standing in a nest.
+
+⸻
+
+11–13s — CHAOS
+
+The spiders swarm.
+
+The survivor sprints.
+
+The crocodile charges onto the log after him.
+
+Spiders begin attacking both.
+
+Webs firing.
+
+Legs everywhere.
+
+The entire bridge becomes a three-way battle.
+
+⸻
+
+13–15s — PAYOFF
+
+Wide shot.
+
+A giant alpha spider drops from above onto the crocodile’s back.
+
+The crocodile rolls violently into the swamp.
+
+Spider and crocodile disappear into the water fighting.
+
+The survivor leaps off the end of the log and disappears into the jungle.
+
+Behind him—
+
+Water erupts as the monsters continue battling.
+
+Hard cut.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8f322adc101f65dfad710118c2310e6a/thumbnails/thumbnail.jpg" width="600" alt="Mega Crocodile Swamp Spider Chase">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5438)**
+
+**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2060440976561508389) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Heavenly Rivalry Xianxia Action Film Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for a high-end martial arts confrontation between two legendary Chinese figures at an ancient mountain temple.
+
+#### 📝 พรอมต์
+
+```
+Ultra-realistic cinematic AAA Xianxia action film inspired by high-end martial arts fantasy and Black Myth Wukong combat energy. Ancient stormy mountain temple ruins above the clouds at night, rain, fog, burning incense embers drifting through the air. Erlang Shen and Sun Wukong face each other in silence before battle.
+
+Erlang Shen [Image1] : divine Chinese god warrior, silver-black celestial armor, red waist cloth, third eye glowing faintly, wielding an enormous three-pointed double-edged spear.
+Sun Wukong [Image2] : legendary monkey king, dark golden fur details, battle-worn ornate armor, flaming phoenix-red cloth strips, holding the Ruyi Jingu Bang staff.
+
+Both characters use attached face references exactly.
+No cartoon style. Pure cinematic realism.
+
+The camera begins with extreme close-ups of wet armor, eyes, fingers gripping weapons, boots sliding across stone. Sudden explosive movement — Wukong [Image2] vanishes using cloud-step speed movement, appearing behind Erlang Shen [Image1]  instantly. Erlang blocks without looking using the spear shaft. Sparks explode. Shockwaves ripple through rain puddles.
+
+Rapid wuxia movement, superhuman agility, gravity-defying martial arts, realistic cloth physics, detailed rain simulation, cinematic debris.
+
+Chinese dialogue only:
+Sun Wukong [Image2] : “Yang Jian, you're still the same.”
+Erlang Shen [Image1] : “This time, I won't let you escape.”
+
+English subtitles burned-in.
+
+CAMERA:
+ARRI Alexa 65
+Lens: Atlas Orion Anamorphic 40mm and 65mm
+Fast handheld + drone-like orbital tracking + speed ramping
+
+LIGHTING:
+Cold moonlight mixed with warm fire embers
+
+COLOR GRADING:
+Dark teal, silver, gold highlights, high contrast cinematic grading, subtle film grain
+
+NO MUSIC.
+Only rain, wind, footsteps, weapon impacts, cloth movement, thunder, breathing.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060421670540918784/img/9y80epF-AYgsLLei.jpg" width="600" alt="Heavenly Rivalry Xianxia Action Film Prompt">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5443)**
+
+**ผู้เขียน:** [Paween Chantaraudorn](https://x.com/LumPaween64255) | **แหล่งที่มา:** [Link](https://x.com/LumPaween64255/status/2060421985608597798) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### The Thing Inspired Antarctic Horror Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-tension horror cinematic sequence set in an Antarctic research station, following survivors as they realize one of them has mutated with a disturbing physical reveal.
+
+#### 📝 พรอมต์
+
+```
+Antarctic research station during a blizzard. Emergency backup power only. Red warning lights. Frost-covered walls. Metal doors sealed shut. Breath visible in the freezing air. High-tension paranoia horror with sudden explosive chaos. Aggressive push-ins, handheld camera, crash zooms, rapid cut-tos. Sound: distant wind, metal creaking, nervous breathing.
+
+⸻
+
+0–2s — HOOK
+
+Handheld shot.
+
+Four survivors burst into a small storage room.
+
+One slams the heavy steel door shut.
+
+Another locks it.
+
+Everyone breathing hard.
+
+Outside—
+
+Something slams against the door.
+
+Then silence.
+
+⸻
+
+2–5s — FALSE SAFETY
+
+Close-up cut-tos.
+
+One survivor checks the lock.
+
+Another collapses against the wall.
+
+A young woman starts crying.
+
+Everyone finally believes they’ve escaped.
+
+A man kneels beside her.
+
+“It’s okay. We’re safe.”
+
+⸻
+
+5–8s — THE DETAIL
+
+The crying woman slowly looks up.
+
+Something catches her eye.
+
+Crash zoom.
+
+The comforting man’s hand.
+
+Six fingers.
+
+Not five.
+
+Six.
+
+Nobody notices.
+
+Except her.
+
+⸻
+
+8–11s — REVEAL
+
+Her face changes instantly.
+
+Fear.
+
+Pure terror.
+
+She points.
+
+Everyone turns.
+
+The man looks confused.
+
+Then looks at his own hand.
+
+Six fingers.
+
+A beat of silence.
+
+Nobody moves.
+
+Nobody knows how long he’s been like that.
+
+⸻
+
+11–13s — BREAKDOWN
+
+The man slowly backs away.
+
+“Wait… I don’t know…”
+
+His fingers begin moving.
+
+Separating.
+
+Stretching.
+
+Additional joints forming.
+
+His hand starts opening like a flower.
+
+Everyone panics.
+
+Weapons come up.
+
+⸻
+
+13–15s — PAYOFF
+
+His arm violently splits open.
+
+Tendrils explode outward.
+
+The room erupts into chaos.
+
+People scream.
+
+Someone fires a flare.
+
+Red light fills the room.
+
+The transforming creature lunges toward camera. Cut.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060414372942589952/img/ufyEKo35EGdI8sfy.jpg" width="600" alt="The Thing Inspired Antarctic Horror Scene">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5452)**
+
+**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2060414433692946561) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Antarctic Research Station Blood Test Horror
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A suspenseful horror prompt depicting survivors in an Antarctic station conducting a plasma test, leading to a violent monster revelation.
+
+#### 📝 พรอมต์
+
+```
+Interior Antarctic research station. Emergency lighting only. Red warning lights. Metal walls. Breath visible from the cold. Everybody is exhausted, terrified, suspicious of one another. High-tension horror with sudden explosive action. Fast cuts, push-ins, handheld movement.
+
+⸻
+
+0–2s — HOOK
+
+Close-up.
+
+A wire is lowered into a plasma sample.
+
+Six survivors stand around a metal table.
+
+Nobody speaks.
+
+Everybody watches.
+
+A flamethrower waits nearby.
+
+One survivor even laughs nervously.
+
+The tension starts breaking.
+
+⸻
+
+2-4s — REVEAL
+
+The next  plasma sample suddenly jumps.
+
+Not much.
+
+Just a twitch.
+
+Everyone freezes.
+
+Then—
+
+The sample launches off the table.
+
+Screaming.
+
+Moving on its own.
+
+Pure panic.
+
+⸻
+
+4-7s — CHAOS
+
+Everyone immediately backs away.
+
+The owner of the plasma looks confused.
+
+Then his chest caves inward.
+
+His ribs begin moving.
+
+Cracking.
+
+Breaking.
+
+Rearranging.
+
+Crash zoom.
+
+His ribcage unfolds outward like giant spider legs.
+
+⸻
+
+7-10s — THE THING
+
+His body expands violently.
+
+Jaw splits.
+
+Neck stretches.
+
+Limbs bend backward.
+
+The creature erupts across the room.
+
+Tables flip.
+
+Equipment explodes.
+
+People are screaming.
+
+One survivor grabs the flamethrower.
+
+⸻
+
+10-13s — PAYOFF
+
+Bullet-time moment.
+
+The transformed creature launches toward the group.
+
+The flamethrower ignites.
+
+A wall of fire fills frame.
+
+The creature screams.
+
+Fire engulfs the room.
+
+The survivors dive for cover.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060409711829327872/img/3khcBcKfc9rL2Ggp.jpg" width="600" alt="Antarctic Research Station Blood Test Horror">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5458)**
+
+**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2060409772688777582) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Wukong vs Erlang Shen Epic Fantasy Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-action AAA fantasy martial arts battle prompt featuring Sun Wukong and Erlang Shen in a flooded canyon with complex physics.
+
+#### 📝 พรอมต์
+
+```
+Epic AAA fantasy martial arts battle in a giant flooded canyon beneath dark storm clouds. Ultra-realistic cinematic style. Water reflects lightning flashes as Erlang Shen [Image1]  and Sun Wukong [Image2]  unleash supernatural abilities.
+
+Erlang Shen [Image1] opens his celestial third eye fully for the first time — massive divine energy erupts outward in glowing golden-white waves. The clouds split open above him. Floating rocks rise into the air.
+
+Sun Wukong [Image2] slams the Ruyi Jingu Bang into the ground, creating a colossal shockwave that parts the flood water and launches giant stone fragments upward. He spins the staff at extreme speed, deflecting divine energy beams.
+
+The two collide mid-air with overwhelming force. Their weapons lock together while lightning flashes around them. Slow-motion facial close-ups show determination and rage.
+
+Hyper-realistic water physics, volumetric fog, cinematic lightning, dynamic environmental destruction, wuxia wire-action realism blended with grounded physics.
+
+Chinese dialogue only:
+Sun Wukong: “The Heavens cannot trap me.”
+Erlang Shen: “Then let me personally suppress you.”
+
+English subtitles burned-in.
+
+CAMERA:
+RED V-RAPTOR XL
+Lens: Leica Summilux-C
+
+CAMERA MOVEMENT:
+Aggressive crane dives, rotating aerial shots, ultra-fast tracking, dramatic slow-motion impact frames
+
+COLOR GRADING:
+Storm gray, celestial gold, deep black shadows, cinematic bloom highlights
+
+NO MUSIC.
+Only lightning, explosions, water impacts, roaring wind, weapon resonance.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/530a5f0a0c22a8b42b48b051da340045/thumbnails/thumbnail.jpg" width="600" alt="Wukong vs Erlang Shen Epic Fantasy Battle">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5444)**
+
+**ผู้เขียน:** [Paween Chantaraudorn](https://x.com/LumPaween64255) | **แหล่งที่มา:** [Link](https://x.com/LumPaween64255/status/2060402691818570140) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Fluffy Cat CEO Corporate Boardroom Drama
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A humorous prestige-drama style video prompt featuring an orange tabby cat as a CEO swiping a laptop off a conference table and meowing at employees.
+
+#### 📝 พรอมต์
+
+```
+Characters: CEO is a fluffy orange tabby cat wearing a fitted navy suit and tie, seated at the head of a long glass conference table. Human employees in business attire fill the seats around the table. Scene: Luxury corporate boardroom, floor-to-ceiling windows overlooking a city skyline, framed charts and graphs on a large display screen behind the cat. Style: Prestige drama film tone, dry deadpan comedy, warm amber-mahogany palette, shallow depth of field, subtle film grain. Lighting: Warm overhead pendant lights, soft golden rim light on the cat, cool blue daylight spilling from the city windows. Audio: Tense orchestral underscore with low brass swells, sharp SFX punctuation on each cat action, muffled office ambiance, AC hum. [0-3s] — Establishing Camera: Slow wide push-in from the back of the boardroom. Action: The orange cat in a suit stands at the head of the table, raising one paw and tapping a bar chart on the display screen behind him. Lighting: Warm amber overhead wash, screen glow backlighting the cat. SFX: Low orchestral swell, soft pointer tap on screen. [3-6s] — Employees React Camera: Fixed medium shot across the table, facing the employees. Hard cut from previous shot. Action: Six nervous employees begin clapping stiffly, eyes wide, smiles strained and hollow. Lighting: Even cool overhead office light, slight shadow under each face. SFX: Slow, uncertain applause, a throat-clear, shuffling papers. [6-10s] — Laptop Incident Camera: Low tabletop angle, fixed. Hold. Action: The cat slowly turns, locks eyes with an open laptop at the edge of the table, then swipes it cleanly off with one deliberate paw. Lighting: Warm side light on cat, deep shadow behind. SFX: Sharp laptop crash on floor, echoing in the silent room. Gasps from employees. [10-13s] — Dramatic Zoom Camera: Slow push-in to extreme close-up on the cat's face. Action: The cat's eyes narrow. Its mouth opens in a wide, silent, furious meow — jaw fully extended. Lighting: Single warm overhead spot, deep dramatic shadow framing both cheeks. SFX: Orchestral sting, dead silence — then a single low bass hit on the meow. [13-15s] — Title Card Beat Camera: Static wide shot, full boardroom. Hold. Action: The cat sits back down calmly, adjusting its tie. The employees stare frozen. Dialogue: "Quarterly profits are down." Lighting: Room dims slightly, cool blue from the windows takes over. SFX: Low cello note sustains. Silence. Avoid: Identity drift on the cat between shots, jitter, temporal flicker, chaotic composition
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060390717906878464/img/Ic3YA7Qzjgl0a_dc.jpg" width="600" alt="Fluffy Cat CEO Corporate Boardroom Drama">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5460)**
+
+**ผู้เขียน:** [Jasmine Ai](https://x.com/jasminekhan90_) | **แหล่งที่มา:** [Link](https://x.com/jasminekhan90_/status/2060390860559409594) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### 1980s Gritty Film Noir Mafia Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly complex cinematic prompt for generating a realistic 1980s mob-themed sequence with 35mm film grain and practical lighting.
+
+#### 📝 พรอมต์
+
+```
+Style: 1980s 35mm film. Anamorphic grain. Practical lighting only. Real location street. No digital polish. Looks like it was actually shot on location in 1982.
+Camera: Mix of styles — slow tracking steadicam, tight close-ups, low angle wide, slow motion on key moments. Deep shadows. Film burn on cuts.
+Environment: Real wet cobblestone street at dusk. Old brick buildings. Dim tungsten storefronts. Smoke in the air. Parked vintage cars lining the street. Feels like lived-in 1980s New York or Chicago.
+Crowd: Real-looking 1980s dressed pedestrians. Naturally parting. Silent. Watching with deep respect. Faces weathered and real — no smooth AI skin.
+SCENE:
+Wide low angle slow-mo: Three figures emerge from shadow. Long black coats. Wet cobblestone reflecting their silhouettes. Crowd silently parts.
+Close-up slow-mo: @ img face — hat brim casting shadow over eyes. Cigar smoke curling past the lens. Expression unreadable.
+Wide tracking shot: The trio walks forward. Six bodyguards moving like a wall around them. Every face in the crowd watching.
+Close-up: His hand — cigar between fingers. Smoke trail. Slow motion.
+Low angle wide: Vintage black Cadillac DeVille waiting. Engine idling. Door opens.
+Close-up slow-mo: He takes one final drag. Exhales. Steps inside. Door shuts.
+Wide: Car pulls away into dark wet street. Crowd watches in silence.
+Lock phrases: 1980s 35mm grain, anamorphic flare, no AI rendering, no digital sharpness, practical location lighting, real human skin texture, photochemical film look, gritty realism, no color grading, raw film negative aesthetic
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8aaa36afa844d45d1651dd2f441f5a2/thumbnails/thumbnail.jpg" width="600" alt="1980s Gritty Film Noir Mafia Scene">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5432)**
+
+**ผู้เขียน:** [WasifAI](https://x.com/doctorwasif) | **แหล่งที่มา:** [Link](https://x.com/doctorwasif/status/2060382063317102961) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### The Hive Queen Escape Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive sci-fi horror video prompt for Seedance 2.0 featuring an astronaut fleeing a swarm in an alien hive.
+
+#### 📝 พรอมต์
+
+```
+Nightmarish alien hive deep beneath the surface of a hostile planet. Organic tunnels, pulsing walls, glowing biological veins, hanging egg sacs, dripping acid. Everything feels alive. High-intensity survival horror. Fast cuts, handheld chaos, rapid camera movement. Sound: insect screeches, biological clicking, suit alarms, collapsing organic structures.
+
+⸻
+
+0–2s — HOOK
+
+Helmet POV.
+
+An astronaut is already sprinting through a living alien hive.
+
+Dozens of insectoid creatures chase him.
+
+Multiple legs.
+
+Bladed limbs.
+
+Glowing mouths.
+
+They swarm across walls, ceilings, and floors.
+
+Closing fast.
+
+⸻
+
+2–5s — ESCALATION
+
+Side tracking shot.
+
+The astronaut turns a corner and enters a gigantic chamber.
+
+At its center—
+
+The Hive Queen.
+
+Massive.
+
+Bloated.
+
+Attached to the chamber by thick biological tendrils.
+
+Thousands of glowing eggs surround her.
+
+The swarm continues closing in behind him.
+
+⸻
+
+5–8s — BUILD
+
+The astronaut reaches a rocky ledge overlooking the egg chamber.
+
+No escape route.
+
+Creatures approaching from every direction.
+
+He quickly pulls out a mining laser.
+
+The queen notices him.
+
+The entire chamber begins vibrating.
+
+⸻
+
+8–11s — THE PLAN
+
+Close-up.
+
+The astronaut aims directly at the largest glowing egg structure.
+
+He fires.
+
+The mining laser slices through the organic mass.
+
+A chain reaction begins.
+
+Cracks spread through the egg cluster.
+
+Biological fluid erupts everywhere.
+
+⸻
+
+11–13s — CHAOS
+
+The Hive Queen immediately attacks her own swarm.
+
+Protecting the eggs.
+
+Massive limbs crush dozens of creatures.
+
+The chamber collapses.
+
+Walls rupture.
+
+Eggs explode.
+
+Insects begin attacking each other.
+
+Complete chaos.
+
+⸻
+
+13–15s — PAYOFF
+
+An organic bridge breaks loose beneath the astronaut.
+
+He rides it like a collapsing surfboard toward an exit tunnel.
+
+Behind him—
+
+The Queen and swarm devour each other amidst the collapsing hive.
+
+The astronaut shoots out of the tunnel just as the entire chamber implodes.
+
+Darkness.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09ee6b2bfdfda318594b7473e7dfa590/thumbnails/thumbnail.jpg" width="600" alt="The Hive Queen Escape Video Prompt">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5426)**
+
+**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2060377183479382356) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### The Crystal Worm Ambush Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed, multi-stage storyboard prompt for Seedance 2.0 depicting an astronaut escaping a giant crystal worm on an alien planet.
+
+#### 📝 พรอมต์
+
+```
+Ultra-hostile alien planet. Endless desert made entirely of gigantic glowing crystal formations. Violet skies, twin suns, electrical storms in the distance. Every crystal emits strange bioluminescent pulses. Survival horror action. Chaotic handheld camera, aggressive speed ramps, rapid cut-tos, dynamic camera angles. Sound: crystal resonance hums, astronaut breathing, deep underground rumbling.
+
+⸻
+
+0–2s — HOOK
+
+Wide aerial shot.
+
+An astronaut is already sprinting across a glowing crystal desert.
+
+Suddenly—
+
+The ground erupts behind him.
+
+A colossal alien crystal worm explodes upward.
+
+Hundreds of meters long.
+
+Its body covered in razor-sharp translucent crystal plates.
+
+⸻
+
+2–5s — ESCALATION
+
+Helmet POV.
+
+The worm crashes back underground.
+
+Crystal shards rain everywhere.
+
+The astronaut dodges flying debris while running.
+
+The desert ahead begins rippling.
+
+The worm is moving beneath him.
+
+Fast.
+
+Very fast.
+
+⸻
+
+5–8s — BUILD
+
+Low angle tracking shot.
+
+The astronaut spots a gigantic crystal spire ahead.
+
+He jumps onto its base and begins climbing.
+
+The worm erupts again.
+
+This time directly beside him.
+
+Its jaws snap shut inches from his body.
+
+The impact fractures the entire spire.
+
+⸻
+
+8–11s — CHAOS
+
+Wide shot.
+
+The crystal tower begins collapsing.
+
+The astronaut slides down the falling structure.
+
+Crystal fragments the size of vehicles tumble everywhere.
+
+The worm smashes through multiple crystal formations trying to intercept him.
+
+The entire landscape explodes into chaos.
+
+⸻
+
+11–13s — THE PLAN
+
+The astronaut lands hard.
+
+Rolls.
+
+Pulls a distress flare from his suit.
+
+The worm erupts directly ahead.
+
+Its mouth opens wide.
+
+Rows of crystalline teeth.
+
+Bullet time.
+
+The astronaut throws the flare.
+
+⸻
+
+13–15s — PAYOFF
+
+The flare disappears into the worm’s throat.
+
+A pulse travels through its transparent crystal body.
+
+The entire creature begins glowing.
+
+Brighter.
+
+Brighter.
+
+Then—
+
+A massive resonance explosion tears through its body from the inside.
+
+Crystal shards erupt across the desert.
+
+The astronaut shields himself.
+
+Silence.
+
+Only glowing fragments falling from the sky
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060363429693820928/img/Jo9oNYVszL6J0i5j.jpg" width="600" alt="The Crystal Worm Ambush Video Prompt">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5423)**
+
+**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2060363498744586530) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Cinematic Anime Tennis Match Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a high-energy anime-style tennis match video set against a warm sunset, featuring cinematic lighting and soft lens flares.
+
+#### 📝 พรอมต์
+
+```
+Create a cinematic anime tennis match video at sunset on an outdoor court with chain-link fence, warm golden light, soft lens flare, realistic court shadows, and energetic match atmosphere.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060362855858458624/img/zbdgrbVffxEhWQoV.jpg" width="600" alt="Cinematic Anime Tennis Match Video">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5463)**
+
+**ผู้เขียน:** [Abdul Șhakoor](https://x.com/abxxai) | **แหล่งที่มา:** [Link](https://x.com/abxxai/status/2060362950788121082) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### The Lava Beast Duel Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed action-horror storyboard prompt for Seedance 2.0 depicting a struggle between an astronaut and a lava beast in a volcanic environment.
+
+#### 📝 พรอมต์
+
+```
+Nightmarish volcanic alien world. Rivers of lava cutting through black mountains. Ash storms. Exploding gas vents. Red lightning inside thick smoke clouds. Survival horror action. Fast-paced camera work, violent handheld energy, rapid cuts, speed ramps. Sound: volcanic eruptions, creature roars, jetpack bursts, collapsing rock.
+
+⸻
+
+0–2s — HOOK
+
+Wide shot.
+
+An astronaut is already running along a narrow volcanic ridge.
+
+Behind him—
+
+A gigantic lava-covered alien beast charges.
+
+Twelve feet tall.
+
+Molten cracks glowing across its body.
+
+Every footstep throws sparks and molten rock.
+
+⸻
+
+2–5s — ESCALATION
+
+Side tracking shot.
+
+The beast rapidly closes distance.
+
+The astronaut fires a plasma rifle over his shoulder.
+
+The shots hit.
+
+Nothing happens.
+
+The creature keeps coming.
+
+A gas vent erupts beside them.
+
+Fire blasts into the sky.
+
+⸻
+
+5–8s — BUILD
+
+The ridge narrows.
+
+Lava rivers on both sides.
+
+The astronaut slips.
+
+Recovers.
+
+The beast launches itself forward.
+
+Its claws barely miss his suit.
+
+Ash and molten debris fill the frame.
+
+⸻
+
+8–11s — CHAOS
+
+Overhead drone-style shot.
+
+The entire ridge begins collapsing beneath their combined weight.
+
+Massive chunks break away.
+
+The astronaut jumps across a widening gap.
+
+The beast follows.
+
+The jump cracks the remaining rock.
+
+Everything starts falling.
+
+⸻
+
+11–13s — PAYOFF BUILD
+
+The ridge gives way completely.
+
+Astronaut and beast plunge toward a raging lava river.
+
+Bullet time.
+
+The astronaut grabs a hanging volcanic rock formation.
+
+The beast falls below him.
+
+⸻
+
+13–15s — FINAL PAYOFF
+
+The creature crashes into the lava.
+
+Molten rock erupts everywhere.
+
+The astronaut looks down—
+
+Relieved.
+
+Then suddenly—
+
+The beast erupts back out of the lava completely engulfed in fire.
+
+Roaring.
+
+Launching itself toward him.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1bbc3d26077cca6baea2fb93e536684c/thumbnails/thumbnail.jpg" width="600" alt="The Lava Beast Duel Video Prompt">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5429)**
+
+**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2060360339628364155) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Epic Mammoth Charge Survival Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A thrilling fantasy video prompt set on a frozen tundra where a hunter lures a giant white werewolf into the middle of a woolly mammoth stampede.
+
+#### 📝 พรอมต์
+
+```
+Epic fantasy survival sequence set on a vast frozen tundra beneath storm-filled northern skies. Endless snowfields stretch to the horizon. Winds whip across the landscape. Visibility constantly shifts as snow blows through frame. High-action chase with huge scale and relentless momentum. Sound: pounding footsteps, mammoth calls, werewolf roars, cracking ice, screaming wind.
+
+⸻
+
+0–3s — HOOK
+
+A young hunter sprints across an open snowfield.
+
+Animal furs wrapped around his shoulders.
+
+A hunting spear gripped tightly in one hand.
+
+His breath freezes in the air.
+
+Behind him—
+
+A colossal white werewolf bursts over a ridge.
+
+Nearly nine feet tall.
+
+Massive muscles visible beneath thick frost-covered fur.
+
+Blue eyes glowing through blowing snow.
+
+The creature immediately locks onto him.
+
+It charges downhill.
+
+Fast.
+
+Much too fast.
+
+⸻
+
+3–6s — ESCALATION
+
+The hunter pushes himself harder.
+
+Snow explodes beneath every stride.
+
+The werewolf rapidly closes distance.
+
+Its powerful legs launch it through deep drifts effortlessly.
+
+Every leap covers huge ground.
+
+The hunter glances back.
+
+The beast is only seconds away.
+
+Its jaws snap.
+
+Its roar echoes across the tundra.
+
+⸻
+
+6–9s — BUILD
+
+Ahead—
+
+Movement.
+
+A gigantic migrating herd of woolly mammoths crosses the frozen plain.
+
+Dozens of them.
+
+Towering bodies.
+
+Massive curved tusks.
+
+The ground vibrates beneath their weight.
+
+The hunter changes direction and runs directly toward the herd.
+
+The werewolf follows without hesitation.
+
+⸻
+
+9–12s — THE PLAN
+
+The hunter reaches the mammoths.
+
+He darts between enormous legs and charging bodies.
+
+Snow and ice spray into the air.
+
+The werewolf enters the herd moments later.
+
+Now completely surrounded by mammoths.
+
+The hunter plants his feet.
+
+Turns.
+
+Throws his spear.
+
+Bullet time.
+
+The spear spins through the air.
+
+Strikes a mammoth’s flank.
+
+⸻
+
+12–15s — PAYOFF
+
+The injured mammoth bellows.
+
+The herd panics instantly.
+
+Dozens of mammoths turn simultaneously.
+
+Thousands of pounds of muscle and tusk begin charging directly toward the werewolf.
+
+The beast tries to stop.
+
+Too late.
+
+The stampede slams into it.
+
+Tusks.
+
+Snow.
+
+Fur.
+
+Ice.
+
+Chaos.
+
+The werewolf disappears beneath a wall of charging mammoths.
+
+The hunter watches from a rocky outcrop as the herd thunders past.
+
+Snow fills the air.
+
+The creature is gone.
+
+Only the sound of the stampede remains.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060354793890357249/img/1YwIi43ZPwLRgyHD.jpg" width="600" alt="Epic Mammoth Charge Survival Sequence">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5457)**
+
+**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2060354858277019768) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Magma Demon Medieval Siege
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dark fantasy apocalypse prompt featuring a colossal magma demon destroying a medieval kingdom with dramatic cinematography and debris effects.
+
+#### 📝 พรอมต์
+
+```
+A colossal demonic creature with obsidian skin cracked by flowing magma, gigantic horns piercing through smoke clouds, glowing eyes radiating pure rage
+Emerges from beneath the earth and rampages through a medieval kingdom, crushing castles with its bare hands while armies desperately attack from every direction
+Dark fantasy apocalypse with burning villages, collapsing cathedrals, lava fissures splitting the ground and dragons circling through ash-filled skies
+Begins with ground-level tracking as cracks spread violently through the city, sudden eruption sending debris flying toward the camera, whip pans following collapsing towers, aerial orbit around the demon roaring through flames, fire and molten rock flooding the frame, ending with the demon standing atop the destroyed kingdom while the last remaining castle collapses behind it into lava, camera slowly pulling back through smoke revealing complete annihilation across the horizon
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5b1966061ce67625b08a2f75a7bfefb/thumbnails/thumbnail.jpg" width="600" alt="Magma Demon Medieval Siege">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5431)**
+
+**ผู้เขียน:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **แหล่งที่มา:** [Link](https://x.com/CharaspowerAI/status/2060352986509955507) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Sci-Fi Astronaut Monster Chase
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic sci-fi horror prompt featuring an astronaut fleeing a giant flying moth-dragon on an alien world with floating islands.
+
+#### 📝 พรอมต์
+
+```
+Cinematic photorealistic sci-fi action horror sequence set on a surreal alien world with dark purple skies and endless floating islands covered in glowing blue crystals. An astronaut in a detailed white spacesuit with jetpack runs desperately across the rocky floating platforms, jumping between them while being chased by a massive terrifying winged creature resembling a giant moth-dragon hybrid with powerful wings and sharp features.
+The camera dynamically follows the high-speed chase with sweeping aerial shots, tracking the astronaut from behind and side angles. The astronaut leaps across chasms as glowing crystals pulse with bright blue light. A dramatic close-up shows the astronaut’s terrified face inside the helmet, eyes wide and mouth open in panic. The giant creature swoops aggressively, creating chaos. In the climax, the astronaut grabs onto a thick hanging vine on the edge of a crumbling floating island, looking back in fear as the monster approaches and debris flies everywhere.
+Moody volumetric fog, dramatic purple-blue lighting, intense motion, realistic physics, high detail textures, and epic scale. Fast-paced thrilling survival chase with strong cinematic tension.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ded2075a8afed31bf7ed63970d6c7f8/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi Astronaut Monster Chase">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5435)**
+
+**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2060346290907848960) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Astronaut vs Giant Alien Spiders Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An intense, epic-scale sci-fi horror chase prompt for Seedance 2.0 involving giant spider-crab creatures and a transforming environment.
+
+#### 📝 พรอมต์
+
+```
+Cinematic photorealistic sci-fi horror chase sequence set on a dark, foggy alien planet with rocky canyons and floating islands. An astronaut in a white and blue spacesuit runs desperately for his life through a narrow rocky path, looking back in terror. He is relentlessly chased by multiple giant menacing red spider-crab alien creatures with glowing orange eyes and sharp legs.
+The camera dynamically follows from behind and switches to high-angle shots revealing the terrifying scale. The path dramatically transforms into the inside of a massive ancient monster’s mouth lined with huge teeth and fleshy walls. The astronaut keeps running straight into the giant maw as the spider monsters close in. In the climax, the enormous creature awakens, its massive head rising with jaws opening wide. The astronaut is thrown into the air as the gigantic beast emerges powerfully from the mountain-like structure.
+Intense action, dramatic foggy atmosphere, realistic creature details, dynamic camera movement, high tension, and epic scale. Dark moody lighting with volumetric fog, fast-paced editing, and thrilling survival horror vibe. 13-second high-impact sequence.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed96a90c65a09bb3ff745c22c2d451c7/thumbnails/thumbnail.jpg" width="600" alt="Astronaut vs Giant Alien Spiders Video Prompt">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5425)**
+
+**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2060344965818139054) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Cinematic Fire Dancer Performance in Abandoned Courtyard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A multi-scene video prompt generating a cinematic performance of a young fire dancer in an ancient stone courtyard, featuring dynamic camera movements and detailed fire visual effects.
+
+#### 📝 พรอมต์
+
+```
+A dark, atmospheric outdoor setting at night in an abandoned open courtyard surrounded by ancient stone pillars. The air is still, and faint embers float in the wind. A powerful cinematic silence builds tension with low ambient sound and distant wind.
+
+The camera slowly pushes in on a young fire dancer standing in the center. She wears flowing, elegant performance attire with subtle reflective details that catch the faint glow of nearby embers. Her expression is calm, focused, and almost trance-like.
+
+At second 3–5, she begins to move slowly. Each hand gesture feels deliberate and controlled. As her fingers trace through the air, **small sparks ignite around her hands**, forming glowing orange trails.
+
+Suddenly, the music drops into a deep cinematic beat.
+
+She spins once — and a **ring of fire bursts outward** in perfect symmetry around her feet. The flames respond to her movement as if alive. Every motion she makes bends the fire: swirling, rising, and flowing like liquid light.
+
+The camera switches between:
+
+* Slow-motion close-ups of her hands controlling fire streams
+* Low-angle shots showing flames rising behind her like a crown
+* Wide cinematic orbit shots circling her as fire forms patterns in the air
+
+At second 10–13, she raises both hands upward — and the flames rise dramatically into the sky, forming a **giant spiraling fire vortex above her**.
+
+Final moment: she gently lowers her hands, and the fire collapses into glowing embers that float around her like fireflies. She stands still in the center, untouched, powerful, and calm.
+
+End with a cinematic freeze frame: her silhouette surrounded by drifting embers, warm orange glow against deep black night sky, ultra-dramatic fantasy realism.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060342500913508353/pu/img/D1Gx-ExoyVxXnN8w.jpg" width="600" alt="Cinematic Fire Dancer Performance in Abandoned Courtyard">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5451)**
+
+**ผู้เขียน:** [Ai Doctor](https://x.com/DoctorAmna11) | **แหล่งที่มา:** [Link](https://x.com/DoctorAmna11/status/2060342535822979429) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Cartoon Chef Boy Hotel Kitchen Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A multi-frame video prompt telling a story of a cute cartoon chef preparing a gourmet dish in a grand hotel kitchen with warm cinematic lighting.
+
+#### 📝 พรอมต์
+
+```
+Frame 1: Cute cartoon chef boy walking slowly into grand hotel kitchen, camera slowly zooming out, golden warm light glowing, cinematic entrance, no text, 4K
+
+Frame 2: Cartoon chef boy carefully picking fresh vegetables, hands moving slowly, ingredients glistening, warm golden light, cinematic close-up, no text, 4K
+
+Frame 3: Cartoon chef boy chopping vegetables slowly, knife moving with motion blur, steam rising gently, cinematic lighting, no text, 4K
+
+Frame 4: Cartoon chef boy tossing food in pan, dramatic flames rising slowly, sparks flying, fire lighting up face, cinematic slow motion, no text, 4K
+
+Frame 5: Golden sauce pouring slowly from ladle into pan, steam rising dramatically, warm cinematic light, extreme slow motion, no text, 4K
+
+Frame 6: Cartoon chef boy tasting food from spoon, eyes closing slowly with blissful expression, soft warm light on face, cinematic portrait, no text, 4K
+
+Frame 7: Cartoon chef boy carefully placing garnish on plate with tweezers, dramatic spotlight on dish, slow precise movement, cinematic close-up, no text, 4K
+
+Frame 8: Cartoon chef boy lifting silver dome slowly, dramatic steam rising, golden light flooding out, proud smile, cinematic reveal, no text, 4K
+
+Frame 9: Cartoon chef boy standing tall arms crossed, slow cinematic zoom out, full kitchen glowing behind him, hero moment, warm light, no text, 4K
+
+Frame 10: Extreme close-up of beautifully plated gourmet dish, slow cinematic push forward, garnish glistening, golden light, mouth-watering food shot, no text, 4K
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060268763824672768/img/q8pamDGZpX3h2N4-.jpg" width="600" alt="Cartoon Chef Boy Hotel Kitchen Sequence">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5461)**
+
+**ผู้เขียน:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **แหล่งที่มา:** [Link](https://x.com/itsshara_ai/status/2060341637356966097) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Cinematic Luxury Lifestyle Speedboat Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A professional Hollywood-style commercial video prompt of a young woman driving a speedboat on the ocean during golden hour, with highly realistic water physics and drone tracking.
+
+#### 📝 พรอมต์
+
+```
+A highly realistic cinematic luxury lifestyle scene filmed like a professional Hollywood commercial.
+
+Opening shot: captured with a stabilized drone camera during golden hour over a calm deep-blue ocean. A beautiful young woman in her mid-20s naturally drives a modern white speedboat at medium-fast speed. Her hair flows realistically in the wind, sunlight softly reflects on her skin, and the water movement looks physically accurate with natural splashes and detailed wake trails behind the boat.
+
+Camera transitions smoothly between professional cinematic angles:
+— wide aerial drone tracking shot
+— side profile tracking shot close to the water
+— realistic handheld close-up of her adjusting the steering wheel
+— slow-motion splash shots with authentic lighting reflections
+— cinematic close-up of her relaxed confident expression wearing elegant sunglasses
+
+The boat movement feels realistic with proper wave interaction and balanced motion physics. Natural wind simulation, true-to-life ocean textures, realistic shadows, premium color grading, subtle lens flare, shallow depth of field, documentary-style realism mixed with luxury commercial aesthetics.
+
+Final shot: drone slowly pulls away as the speedboat moves toward the glowing sunset horizon, creating a premium emotional ending.
+
+Style: ultra photorealistic, professionally filmed, cinematic lighting, realistic camera motion, authentic human movement, luxury travel commercial, 4K HDR, smooth transitions, no CGI look, no artificial facial distortions, natural body proportions, highly detailed water simulation...
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060336731191197697/pu/img/NKMrfBdObQe4CVBn.jpg" width="600" alt="Cinematic Luxury Lifestyle Speedboat Scene">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5456)**
+
+**ผู้เขียน:** [Ai Girllie](https://x.com/Inshrah_ali_) | **แหล่งที่มา:** [Link](https://x.com/Inshrah_ali_/status/2060336792646361109) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Festive Mushroom City Anime Chase
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A high-energy anime escape sequence set in a vibrant festival mushroom city, featuring a thief girl dodging crowds and leaping across rooftops with cinematic lighting and dynamic angles.
+
+#### 📝 พรอมต์
+
+```
+@Image 1 = Protagonist character. @Image 2 = Storyboard reference. Based on the attached storyboard image, create a 15-second horizontal 16:9 anime thrilling escape scene video. Theme: Thief Girl. Animate as a high-tempo, brisk scene following the panel order of the storyboard. Flow: Start with an overhead view of a festive giant mushroom city. A girl in a blue hood, blending into the heat and decorations of the crowd, steals a rare glowing mushroom from the center of the festival. Mix close-ups of hands and expressions during the theft, and show a thrilling smile as if she's enjoying herself immediately after succeeding. Afterward, escape briskly using the multi-level platforms of the festival venue, rooftops of stalls, decorated walkways, and spaces filled with ropes and cloth. Pursuers and the surrounding crowd are surprised and begin to chase her; the girl slips through people, leaps over them, slides, and escapes nimbly. End by escaping to a high platform or bridge and running through the festive lights. Style: High-quality anime film style, cinematic lighting, top-tier animation, high definition, vivid colors, a celebratory and gorgeous atmosphere, busy crowds, giant mushroom decorations, and an energetic world where confetti and fabric decorations dance. Make the girl embody both cuteness and agility, with an aura of combined fun and danger. Editing: Use rhythmic high-speed cuts, close-ups, extreme close-ups, low angles, overhead shots, quick pans, and smooth match cuts. Incorporate hand close-ups at the moment of theft, expression close-ups at the start of the run, following shots slipping through crowds, overhead shots jumping between platforms, extreme close-ups of feet upon landing, and dynamic diagonal compositions using rope or cloth for movement. Create an energetic and stylish video, making use of the height differences and congestion unique to a festival city for a thrilling escape. Important: Do not make it a slideshow of still images. Animate running and stealing naturally. Maintain the same festival mushroom city atmosphere and high-quality anime style throughout. Do not include text, subtitles, logos, or watermarks. Perform the suspenseful thrill as a brisk scene. Consistently maintain the protagonist's face, blue hood, outfit, basket, and the shape of the glowing mushroom throughout.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060315481106714624/img/LM-ANLruIV4cJR-i.jpg" width="600" alt="Festive Mushroom City Anime Chase">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5469)**
+
+**ผู้เขียน:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **แหล่งที่มา:** [Link](https://x.com/Ryuki_Yano/status/2060316111569096883) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Arctic Titan Awakening Dark Fantasy Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A suspenseful dark fantasy sequence featuring a colossal ancient titan trapped beneath an iceberg in a snowstorm.
+
+#### 📝 พรอมต์
+
+```
+15-second cinematic dark fantasy sequence inside a frozen arctic wasteland during a violent snowstorm.
+
+A colossal ancient titan sleeps trapped beneath a massive iceberg larger than mountains, barely visible under layers of translucent ice and deep frozen cracks. Only vague shapes of its gigantic face and body can be seen beneath the frozen surface.
+
+The camera slowly glides across the icy landscape with heavy wind, drifting snow particles, frozen fog, and deep blue-white moonlight reflecting through the glacier.
+
+As the camera pushes closer, subtle tremors begin beneath the ice. Tiny fractures spread slowly across the frozen surface. Deep muffled resonance echoes from below like an ancient heartbeat awakening after centuries.
+
+The titan’s enormous eye slowly opens beneath the translucent ice. A massive glowing iris appears under the glacier, illuminating the frozen depths with cold cyan light. Snow and frost slide from the surface as the eye moves for the first time.
+
+The surrounding iceberg creaks violently, frozen dust falling into deep cracks. The camera holds on the gigantic eye staring upward from beneath the ice while distant thunder rolls through the blizzard.
+
+Style: ultra cinematic dark fantasy, colossal scale, ancient god atmosphere, frozen textures, realistic snow simulation, volumetric fog, moody blue lighting, atmospheric depth, glacier translucency, slow suspense pacing, photorealistic ice details.
+
+Audio: ONLY cinematic sound effects, no music. Arctic wind, distant ice cracking, deep subsonic rumbles, frozen debris shifting, muffled titan breathing beneath the glacier, low resonance pulses.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060300157678141442/pu/img/HE3Xi-Gq2bf8JL7s.jpg" width="600" alt="Arctic Titan Awakening Dark Fantasy Prompt">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5449)**
+
+**ผู้เขียน:** [LudovicCreator](https://x.com/LudovicCreator) | **แหล่งที่มา:** [Link](https://x.com/LudovicCreator/status/2060300184177856898) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Viking Werewolf Frozen Lake Hunt Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An epic Viking action sequence involving a survival chase on a frozen lake with realistic ice and snow physics.
+
+#### 📝 พรอมต์
+
+```
+Epic Viking fantasy action set on a vast frozen lake beneath a stormy northern sky. Endless snowfields, distant mountains, harsh winds, blowing snow. High-speed chase with brutal survival energy. Sound: crunching ice, roaring wind, heavy breathing, cracking frozen surfaces, monstrous growls.
+
+0–3s — HOOK
+
+A Viking warrior carrying a flaming torch sprints across a frozen lake.
+
+His boots hammer across the ice.
+
+Behind him—
+
+A gigantic frost-covered werewolf bursts through drifting snow.
+
+White fur coated in ice crystals.
+
+Blue eyes glowing.
+
+Its massive paws crack the frozen surface beneath every step.
+
+⸻
+
+3–6s — ESCALATION
+
+The warrior pushes harder.
+
+The werewolf rapidly closes distance.
+
+Chunks of ice break apart behind them.
+
+The creature occasionally lunges forward, nearly catching him.
+
+Its claws leave deep fractures spreading across the lake.
+
+⸻
+
+6–9s — BUILD
+
+Ahead, a huge pressure crack cuts across the lake.
+
+The warrior spots it.
+
+He lowers his center of gravity and accelerates.
+
+The werewolf roars and commits fully to the chase.
+
+Snow and ice explode behind it.
+
+⸻
+
+9–12s — THE TRAP
+
+The warrior reaches the pressure crack and dives into a controlled slide.
+
+He skims across the narrow gap and reaches solid ice beyond.
+
+The werewolf charges after him.
+
+Bullet time.
+
+Its front paws hit the weakened section.
+
+Cracks spread outward in every direction.
+
+⸻
+
+12–15s — PAYOFF
+
+The entire frozen surface collapses beneath the werewolf.
+
+Massive sheets of ice explode upward.
+
+The beast drops into the freezing black water below.
+
+The warrior rolls onto the snowy shoreline and scrambles to safety.
+
+Behind him, enormous ice slabs crash back into the lake.
+
+Silence.
+
+The warrior stands, breathing heavily, torch still burning.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060280339659161600/img/7kWzOvorj8Y51UZZ.jpg" width="600" alt="Viking Werewolf Frozen Lake Hunt Prompt">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5450)**
+
+**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2060280405417406523) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Medieval Werewolf Rooftop Chase
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An intense, multi-stage action prompt for a werewolf pursuit across European stone rooftops featuring speed ramps and bullet time.
+
+#### 📝 พรอมต์
+
+```
+High-action medieval fantasy chase beneath a massive full moon. Ancient European city of stone towers, narrow streets, cathedral spires, smoking chimneys, fluttering banners. Silver moonlight reflects off wet rooftops from recent rain. Fast-paced, chaotic cinematography with aggressive tracking shots, speed ramps, handheld energy, and dramatic moonlit silhouettes. Sound: distant church bells, heavy breathing, tile cracking, werewolf roars, rushing wind.
+
+0–3s — HOOK
+
+A rogue thief in a dark leather cloak sprints across steep medieval rooftops.
+
+He leaps a gap between buildings.
+
+The instant he lands—
+
+A gigantic werewolf crashes onto the roof behind him.
+
+Eight feet tall.
+
+Jet-black fur.
+
+Yellow eyes glowing in the moonlight.
+
+The roof caves beneath its weight.
+
+Tiles explode everywhere.
+
+⸻
+
+3–6s — ESCALATION
+
+The thief races along the rooftops, vaulting chimneys and sliding over wet tiles.
+
+Behind him, the werewolf ignores every obstacle.
+
+It smashes through chimneys instead of avoiding them.
+
+Bricks and debris rain into the streets below.
+
+The creature gains ground rapidly.
+
+⸻
+
+6–9s — BUILD
+
+Ahead, the thief reaches a steep roof overlooking a massive cathedral square.
+
+He slides uncontrollably down slick tiles.
+
+The werewolf launches after him.
+
+The gap between them shrinks to almost nothing.
+
+The beast’s claws scrape sparks from the stone.
+
+⸻
+
+9–12s — THE ESCAPE
+
+At the edge of the roof hangs a giant ceremonial banner suspended above the square.
+
+The thief leaps and grabs it.
+
+The banner tears loose from its mountings.
+
+He swings across the moonlit square.
+
+The werewolf follows without hesitation.
+
+Bullet time.
+
+Both suspended over open air.
+
+⸻
+
+12–15s — PAYOFF
+
+The thief draws a knife and slices the banner rope.
+
+He swings clear.
+
+The werewolf loses its trajectory.
+
+It crashes directly through the cathedral’s enormous stained-glass rose window.
+
+Colored glass explodes outward.
+
+The beast disappears into darkness inside the cathedral.
+
+The thief lands on the opposite rooftop and turns back.
+
+A massive crash echoes from within the cathedral.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a564ede36c43d87a9745d971abf4772/thumbnails/thumbnail.jpg" width="600" alt="Medieval Werewolf Rooftop Chase">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5433)**
+
+**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2060280102924300676) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Moonlit Werewolf Forest Chase Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A fast-paced dark fantasy action sequence featuring a warrior being chased by a colossal werewolf through a dense forest.
+
+#### 📝 พรอมต์
+
+```
+Dark fantasy action sequence. Dense moonlit forest at night. Thick fog. Silver moonlight cutting through trees. Fast handheld tracking shots. Chaotic action. Sound: heavy breathing, snapping branches, pounding hooves, werewolf growls.
+
+0–3s — HOOK
+
+A young warrior sprints through dense forest carrying a spear.
+
+Branches whip past his face.
+
+Behind him—
+
+A colossal werewolf crashes through trees.
+
+Massive shoulders.
+
+Silver-gray fur.
+
+Glowing amber eyes.
+
+Every step sends dirt flying.
+
+The creature is gaining fast.
+
+3–6s — ESCALATION
+
+The warrior vaults fallen logs and dodges tree trunks.
+
+The werewolf tears straight through obstacles instead of avoiding them.
+
+Entire trees snap and fall.
+
+The forest explodes around them.
+
+The warrior glances back.
+
+The werewolf is only meters away.
+
+6–9s — BUILD
+
+The warrior bursts into a giant moonlit clearing.
+
+Ahead—
+
+A herd of enormous elk-like creatures stampedes across the field.
+
+Towering antlers.
+
+Dozens of them.
+
+The ground shakes beneath their charge.
+
+9–12s — CHAOS
+
+The warrior dives into the middle of the stampede.
+
+Bodies thunder past on both sides.
+
+The werewolf charges directly after him.
+
+Antlers slam into the beast.
+
+Hooves strike.
+
+Dirt and debris fill the air.
+
+The clearing becomes complete chaos.
+
+12–15s — PAYOFF
+
+The warrior reaches a cliff edge hidden beyond the clearing.
+
+He leaps.
+
+The werewolf bursts through the stampede behind him and jumps too.
+
+The warrior catches a tree growing from the cliff face.
+
+The werewolf misses.
+
+It sails past him and disappears into the darkness below.
+
+The warrior hangs from the tree, breathing hard.
+
+Cut.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060270217025191936/img/qJfzwxhrvV5A6LZO.jpg" width="600" alt="Moonlit Werewolf Forest Chase Prompt">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5446)**
+
+**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2060270283794374923) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Purikura Booth Comedy Scene
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A high-tempo animated comedy scene inside a photo booth where three characters fight to be at the center of the frame for each shutter flash, featuring vibrant lighting and expressive reactions.
+
+#### 📝 พรอมต์
+
+```
+Image 1 = Reference for 3 characters. Maintain face, hairstyle, clothing, and atmosphere consistently throughout. Image 2 = Reference for storyboard. Follow panel order, tempo, facial expression changes, competition for positions, and comedy direction. Based on attached Image 1 and Image 2, create a 15-second horizontal 16:9 purikura booth comedy scene video. Theme: A high-tempo, cute, and noisy comedy scene inside a purikura booth where three people fight for the center spot every time the shutter clicks.
+
+Scene Setting: Inside the purikura machine. The camera is a fixed lens view from the purikura machine; do not show shots from outside or include the camera body itself. The screen always shows the three people as seen on the purikura machine's capture display. The three characters should be exactly as in Image 1, maintaining the appeal of the relationship, looks, and expressions of the black-haired male on the left, the girl in the center, and the blonde male on the right. Basic concept: The three compete for the 'best position = center of the screen.' Just before the shutter clicks, someone suddenly moves forward, interrupts from the side, pushes others away, or sticks their face in to steal the center. Include comical and exaggerated reactions, cute poses, anxiety on the verge of making funny faces, jealousy, surprise, playing coy, and forceful interruptions, depicting it as a battle of the desire to 'look good' in a purikura way. Finally, all three should fit in the frame and end with a cute, friendly pose.
+
+Flow (15-second composition): 0.0s-2.0s: The three enter their first pose. The center girl poses cutely, while the two on the sides lean in saying they want to be in it too. It's peaceful but the center battle is already brewing. Expressions: the black-haired male looks like he's coolly aiming for it, the blonde male is exaggerated and high-tension, and the girl is a bit puzzled but posing cutely. 2.0s-4.0s: Just before the first shutter, the blonde male on the right vigorously sticks his face into the center. His face comes close to the front, almost pushing the others out. The girl is surprised, and the black-haired male glares at him unhappily. Emphasize the humor of someone suddenly coming forward. 4.0s-6.0s: Before the next shutter, the black-haired male on the left quickly moves forward and steals the center with a cool pose. The blonde male gives an overreaction ('What?!'), and the girl looks troubled between them. Create laughs through facial close-ups, clashing gazes, and subtle pushing. 6.0s-8.0s: The girl pushes the two back as if to say 'Wait a minute!' and reclaims the center for herself. She performs typical purikura poses like a cute wink or cupping her cheeks. The two on the sides are pushed to the background or edges and look frustrated. 8.0s-10.0s: Matching the shutter sound timing, all three scramble for the center at once. Faces get too close, shoulders bump, one pushes their face in, another enters from the side, making it a chaotic and dense comedy. This is the fastest tempo. Expressions are a mix of panic, stubbornness, surprise, laughter, and desperation. 10.0s-12.5s: They momentarily lose balance but adjust to try and fit within the frame. The pushing changes to an atmosphere of coming together on 'ready, set, go.' The girl moves to the center, the black-haired male to the left, and the blonde male to the right, converging into positions where all three faces are clearly visible. 12.5s-15.0s: The last shutter. All three strike their best poses simultaneously. The girl is cute, the black-haired male smiles coolly, and the blonde male smiles energetically and brightly. End with a final cut of a great purikura photo showing their friendship. Ensure the atmosphere changes from cute chaos to a friendly ending toward the finish.
+
+Style: Ultra-high quality, ultra-high definition, photorealistic live-action style video. However, the atmosphere should be the pop and cute world of purikura. Overall, use bright and soft high-key lighting, smooth skin texture, slightly pink, lavender, and light blue cute tones, sparkling effects, and a pop, lovely vibe with a youthful energy. A high-tempo visual that feels like the cute purikura culture from the Heisei to Reiwa eras. Direction: The camera is primarily a fixed lens view from the purikura machine. However, to make the final video look pleasing, slight digital punch-ins, subtle shakes, forward/backward movement for momentum, and facial zooming are allowed. Wide shots from the outside are prohibited. Compositions showing the camera body are prohibited. The humor should be created through the subjects' movements, faces entering/exiting, pushing, interruptions, and facial acting. Clearly show the flow of 'almost striking a pose' then collapsing because someone interrupts at each shutter timing. Editing: Emphasize rhythmic high-speed development, close-up cuts, extreme close-ups, momentum-filled forward/backward motion, and facial expression switching. Even if the actual camera position is fixed, create significant changes in the video by having subjects approach/distance themselves from the lens or interrupt from the sides. Be mindful of well-timed shutters, cute pauses, comical crowding, and a perfectly landing finale. Do not make it a slideshow of still images. Move the three naturally and richly as animation while maintaining their faces, hair, clothes, accessories, age, and atmosphere. Emotional Tone: Cute, comedy, chaotic, slightly romantic air, light jealousy, everyone desperate to look their best/coolest, and finally friendly. Important: Do not show the camera body in the frame. Unify shots from the lens perspective of the purikura machine. Maintain consistency in the faces, hairstyles, clothing, and character traits of the three from Image 1 throughout. Follow the tempo, competition for positions, and comedic nature of the storyboard in Image 2. No slideshows. No text, subtitles, logos, or watermarks. Act out the suspenseful excitement as a quick-moving scene. Ensure the three look good and come together cutely at the end.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060263346813927424/img/WZnHa8kzSRrLn5qD.jpg" width="600" alt="Purikura Booth Comedy Scene">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5465)**
+
+**ผู้เขียน:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **แหล่งที่มา:** [Link](https://x.com/Ryuki_Yano/status/2060263464069947742) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Fantasy Dragon Bridge Escape Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An epic fantasy action scene featuring a huntress fleeing an armored werewolf across a collapsing bridge, ending with a dramatic leap onto a dragon's back.
+
+#### 📝 พรอมต์
+
+```
+High fantasy action sequence. Massive stone bridge spanning a bottomless canyon under stormy skies. Wind howling. Lightning in the distance. Medieval fantasy world. Fast-paced, chaotic cinematography with aggressive camera movement and speed ramps. Sound: crashing stone, werewolf growls, chain rattles, dragon roars.
+
+0–3s — HOOK
+
+A female huntress with braided hair, leather armor, and a bow sprints across an ancient stone bridge.
+
+Behind her—
+
+A gigantic armored werewolf bursts through the bridge entrance.
+
+Seven feet tall.
+
+Black fur.
+
+Steel armor plates fused into its shoulders and forearms.
+
+It charges at terrifying speed.
+
+Stone cracks beneath every step.
+
+3–6s — ESCALATION
+
+The huntress races forward.
+
+The werewolf smashes through support pillars while gaining ground.
+
+Chunks of stone fall into the canyon.
+
+The bridge begins collapsing section by section behind them.
+
+The gap between them shrinks rapidly.
+
+6–9s — BUILD
+
+Ahead, the huntress spots a massive hanging chain descending into the canyon.
+
+The bridge is breaking apart.
+
+She sprints harder.
+
+The werewolf lunges and nearly grabs her cloak.
+
+A support tower collapses.
+
+The entire bridge starts giving way.
+
+9–12s — THE JUMP
+
+The huntress leaps.
+
+She catches the hanging chain and swings out over the canyon.
+
+The werewolf launches after her.
+
+Bullet time.
+
+Chain swinging.
+
+Stone exploding.
+
+The werewolf suspended mid-air.
+
+Its claws miss by inches.
+
+12–15s — PAYOFF
+
+A giant dragon erupts upward from beneath the canyon.
+
+The huntress releases the chain and lands on the dragon’s back.
+
+The dragon banks hard.
+
+The werewolf falls past them roaring.
+
+Disappearing into the fog below.
+
+The huntress raises her fist.
+
+Dragon roars.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060262038669238272/img/6El5e4cibXSL-e6T.jpg" width="600" alt="Fantasy Dragon Bridge Escape Sequence">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5453)**
+
+**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2060262106839363697) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Blue Sports Shoe Product Commercial Shots
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A series of cinematic product shots for a sports shoe, including extreme slow-motion water splashes and dynamic movement.
+
+#### 📝 พรอมต์
+
+```
+Frame 1:
+Slow dramatic zoom into white blue sports shoe laces, single light ray moving subtly, dust particles floating, cinematic 4K, no people
+Frame 2:
+White blue sports shoe hitting wet ground, water droplets exploding outward in extreme slow motion, blue neon light rippling, cinematic, no people
+Frame 3:
+White blue sports shoes moving forward in slow motion on dark road, motion blur, fog drifting slowly, cinematic 4K, no people
+Frame 4:
+White blue sports shoes running left to right, rain falling slowly, wet road reflection shimmering, cinematic, no people
+Frame 5:
+White blue shoe rotating slowly mid-air, smoke wisps drifting upward, black background, cinematic product shot, no people
+Frame 6:
+White blue sports shoe rising upward slowly, clouds moving, golden light expanding, cinematic, no people
+Frame 7:
+Slow cinematic push forward toward white blue shoe, city lights twinkling in background, sun rays expanding, no people
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060259713737220096/img/TZ2Nu2-dRXMsED6_.jpg" width="600" alt="Blue Sports Shoe Product Commercial Shots">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5447)**
+
+**ผู้เขียน:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **แหล่งที่มา:** [Link](https://x.com/itsshara_ai/status/2060260037617152132) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Midnight Arrival Luxury Hotel Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic dark crime drama prompt featuring a luxury hotel arrival on a rainy night, with specific camera moves and atmospheric lighting.
+
+#### 📝 พรอมต์
+
+```
+Grand luxury hotel entrance at night, wet cobblestone street, light rain, glowing city reflections in puddles.
+Style: Dark crime drama film tone, deep shadows, warm amber hotel facade lights against cold blue rain, film grain texture, slow controlled pacing.
+Lighting: Amber hotel awning light, cold blue rain scatter, wet reflective ground surface.
+Audio: Soft rain, distant city hum, low orchestral string swell, sharp footsteps on wet stone.
+
+[0–4s]
+Camera: Slow aerial pull-down, wide establishing shot.
+Action: A black luxury sedan glides to a stop in front of the hotel entrance. Rain falls steadily. Steam rises from the wet street.
+Lighting: Cool blue rain light, warm amber spill from hotel facade.
+
+[4–8s]
+Camera: Low-angle static shot, then slow push-in.
+Action: The rear car door swings open. A man in an elegant black suit, sunglasses and leather gloves steps out. Two bodyguards appear behind him holding umbrellas.
+Lighting: Harsh amber key light from the hotel, deep shadows framing the figure.
+
+[8–12s]
+Camera: Smooth lateral tracking shot following his stride.
+Action: The suited man walks steadily toward the hotel entrance. Bystanders and hotel staff step aside. Cigarette smoke drifts from his hand.
+Lighting: Rim light from hotel windows, soft fill from overhead awning lamps.
+
+[12–15s]
+Camera: Slow orbit around him, low angle rising.
+Action: He pauses at the entrance, adjusts his lapel, and glances back over his shoulder with a faint smirk. Text fades in: "Power doesn't ask for attention."
+Lighting: Warm single-source hotel lobby glow, city lights blurred behind him.
+
+Avoid: Identity drift, jitter, chaotic composition, temporal flicker, inconsistent features between shots.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060243098043621381/pu/img/YpKNddu6vxhObMsp.jpg" width="600" alt="Midnight Arrival Luxury Hotel Prompt">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5445)**
+
+**ผู้เขียน:** [Zeeshi](https://x.com/AIwithZeeshi) | **แหล่งที่มา:** [Link](https://x.com/AIwithZeeshi/status/2060243222199173467) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Rocket Launch Explosion Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A photorealistic video prompt for Seedance 2.0 simulating a catastrophic rocket explosion during a night static fire test.
+
+#### 📝 พรอมต์
+
+```
+Live telecast of a rocket launch with no commentary. Photorealistic recreation of a space rocket catastrophic explosion during a static fire test on the launch pad at nighttime.
+The massive orbital rocket stands vertically on the launch pad under dark night skies. Suddenly, a violent failure triggers an enormous explosion. A gigantic orange-red fireball erupts instantly from the base, rapidly expanding into a towering mushroom cloud of fire, thick black smoke, and flying debris. A powerful shockwave blasts outward, shaking the entire scene. The rocket structure violently disintegrates as intense flames completely consume it.
+Dynamic camera work captures the raw power with realistic fire physics, glowing embers, billowing smoke, and dramatic nighttime lighting. Epic scale, terrifying yet beautiful destruction, high-detail particles, 4K quality. 24-second intense explosion sequence.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/825d0ab09633b4d2f0851b771e099115/thumbnails/thumbnail.jpg" width="600" alt="Rocket Launch Explosion Video Prompt">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5428)**
+
+**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2060240094238593035) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Cinematic Viral Waterslide Dream Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed POV prompt for a high-speed, surreal waterslide adventure that transitions from the sky into a realistic bedroom landing, designed for viral social media content.
+
+#### 📝 พรอมต์
+
+```
+Cinematic viral AI dream sequence, photorealistic, intense fast-paced POV shot of a surreal extreme waterslide adventure.
+The video begins in first-person POV as the rider bursts out of the clouds at high speed on a giant, colorful, twisting waterslide built impossibly through the sky. Water splashes aggressively onto the lens with realistic spray and motion blur. The rider races down the massive slide with wild loops, sharp drops, spiraling turns, and near-vertical sections, zooming between towering skyscrapers and surreal city structures glowing with neon colors.
+As the descent continues, the ground and dense city buildings become clearly visible far below. At the end of the slide, the rider launches off halfway to the ground, suddenly flying through the air. Heavy breathing and panicked scared sounds fill the audio as the POV falls rapidly toward the ground. A house appears directly below, getting closer and closer. The rider crashes through the roof of the house and lands hard on a bed inside the bedroom. The final shot shows the person’s hands on the bed, breathing heavily in shock and relief as the video ends.
+Dynamic camera with extreme speed, intense motion blur, water spray, dizzying perspectives, and chaotic energy. Bright daytime lighting with vibrant colors, realistic water physics, and dream-like impossible architecture. Adrenaline-pumping, thrilling, surreal, and slightly terrifying vibe perfect for TikTok. Slinger continue shot
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/292c1e89047968555cd5f91766874fe3/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Viral Waterslide Dream Sequence">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5430)**
+
+**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2060235123015233858) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Fast-Paced Japanese Commercial Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A rapid-fire, high-energy Japanese advertisement prompt for Seedance, featuring 5 different lifestyle scenes with neon accents and bold typography.
+
+#### 📝 พรอมต์
+
+```
+Hyper-fast 15-second Japanese commercial. Rapid fire cuts every 2-3 seconds. High energy, loud, exciting.Cut 1 — (0 :00–0:03):Girl EXPLODES onto screen grabbing a cracker, laughing wildly. Crackers fly everywhere. She shouts: "I can't stop!" Bold yellow text SLAMS on screen.Cut 2 — (0: 03–0:06):SMASH CUT — red lipstick swipe in extreme close-up. She smirks into camera. Text flashes: "Captivating!" Neon lights strobe.Cut 3 — (0: 06–0:09):She SPINS in leather jacket, hair whipping, street lights blur behind her. Text hits: "I make my own way!"Cut 4 — (0: 09–0:11):Ice and coffee EXPLODE in slow-mo for one second. She winks. "Cheers!"Cut 5 — (0: 11–0:13):She JUMPS into frame, fist punch toward camera. "Jump!"Final (0 :13–0:15):Split screen of ALL 5 scenes at once. She says fast and bold: "To the me I like!" Logo SLAMS in. FUTURE YOU.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e17963709737439cd90c4f2efc69ac6d/thumbnails/thumbnail.jpg" width="600" alt="Fast-Paced Japanese Commercial Prompt">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5427)**
+
+**ผู้เขียน:** [Synthia](https://x.com/AIwithSynthia) | **แหล่งที่มา:** [Link](https://x.com/AIwithSynthia/status/2060220763731574935) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Barista Cinematic Commercial Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A professional advertising prompt for Seedance 2.0 creating a realistic commercial of a barista at a modern coffee stall.
+
+#### 📝 พรอมต์
+
+```
+Create a 15-second ultra-realistic cinematic commercial using the uploaded reference image as the exact character reference. Maintain the same face, hairstyle, skin tone, outfit, and body proportions in every shot with no character drift.
+
+A confident young male coffee seller works at a stylish outdoor coffee stall branded “YAPPER COFFEE” in a busy modern city street. He wears a black shirt, dark brown barista apron, black pants, and sneakers.
+
+0–3s: He walks toward a customer smiling while holding a takeaway cup.
+3–6s: He pours hot tea from a metal kettle in slow motion and hands over the cup.
+6–9s: The customer takes a sip and smiles with satisfaction.
+9–15s: The seller walks toward another customer while the camera smoothly follows him.
+
+Warm daylight, cinematic background blur, smooth tracking shots, shallow depth of field, realistic motion blur, natural expressions, premium advertising quality, ultra-realistic lighting, polished storytelling, no subtitles, no character changes, full natural realistic video.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/812d81b7d5eb5e9e7e839272ad88d02e/thumbnails/thumbnail.jpg" width="600" alt="Barista Cinematic Commercial Video Prompt">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5442)**
+
+**ผู้เขียน:** [Noor](https://x.com/noorlewisx) | **แหล่งที่มา:** [Link](https://x.com/noorlewisx/status/2060218418029379829) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Telekinetic School Girl Action Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic action prompt featuring a Korean high school girl using powerful telekinetic abilities to freeze time and repel attackers in a school corridor.
+
+#### 📝 พรอมต์
+
+```
+In a telekinetic action scene, a South Korean high school girl in a white short-sleeved shirt and gray pleated skirt stands calmly in the middle of a corridor. She is being attacked from both sides; some attackers, wearing brown school uniform jackets, wield short sticks, while others are dressed as black ninjas, creating a tense standoff in the corridor. As the enemies rush towards her, the girl unleashes a powerful telekinetic attack. Suddenly, everything around her enters a state of weightlessness and time freezes. Dozens of items—open textbooks, notebooks, a red soda can, and a wooden school chair—leave the ground, perfectly suspending themselves in mid-air. The attackers, in their lunging movements, are frozen in mid-air by an invisible force. Paper pages, scraps of paper, and dust float and swirl around her weightlessly. The camera slowly zooms in on the girl, perfectly freezing the chaotic corridor in the telekinetic-induced state of stillness and suspension. In the extreme stillness of the slowly zooming-in, frozen image, the girl's calm eyes narrow slightly. Immediately afterward, she calmly raised her right hand, her fingers loosely clenched, and then made a light yet decisive flick of her sleeve to either side of her body. In an instant, frozen time and gravity seemed to explode with this subtle gesture. A low rumble echoed in the air, and dozens of objects that had been suspended in mid-air—a heavy wooden school chair, scattered textbooks, even the red soda can—transformed into a dense projection, carrying powerful air currents, and were precisely launched towards the enemies attacking from both sides. At the same time, an invisible circular psychic shockwave violently spread out from the girl. The brown-uniformed attackers and black-clad ninjas, who had been frozen in mid-air, were instantly struck by this immense force, their bodies jolted violently, and they were sent flying backward like kites with broken strings to either end of the corridor. As gravity instantly returned, the wooden chairs shattered upon impact, textbooks scattered into a flurry of pages, and with the dull thud of heavy objects hitting the ground, the attackers collapsed onto the corridor floor, incapacitated. Silence returned to the corridor, broken only by countless tattered papers and fine dust drifting slowly in the air. The aftershocks of the shockwave ruffled the girl's bangs and hair. She remained composed, not even glancing at her fallen opponent. The girl slowly lowered her right hand, raised her slender left, and gracefully and calmly tucked a strand of black hair behind her ear, revealing her delicate and serene profile. The camera froze on this moment, the white papers falling around her like snowflakes, highlighting her still figure in a white short-sleeved shirt and gray pleated skirt. Then, the image faded out.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea0bf9f4c305c556727312433dd5b4a2/thumbnails/thumbnail.jpg" width="600" alt="Telekinetic School Girl Action Scene">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5424)**
+
+**ผู้เขียน:** [Calira](https://x.com/CaliraVal) | **แหล่งที่มา:** [Link](https://x.com/CaliraVal/status/2060217352818708623) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Egypt Cinematic Travel Vlog Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A multi-scene travel vlog prompt featuring a young woman exploring Cairo, the Nile, and the Pyramids with consistent character appearance.
+
+#### 📝 พรอมต์
+
+```
+A beautiful young woman in her mid-20s with long wavy dark hair flowing in the wind, striking features, wearing stylish black round glasses, light beige ethnic embroidered top, natural glowing skin, cinematic travel vlog style, golden hour and warm lighting throughout.
+
+0-2s: Close-up selfie-style shot, hair dramatically blowing across her face as she looks straight into camera with a soft confident smile, bustling old Cairo street background, slight handheld camera movement.
+
+2-4s: Smooth transition to side profile by the Nile river at sunset, hair flowing, she turns her head toward camera with a gentle smile, sailboat in background, warm golden light reflecting on water.
+
+4-6s: Cut to wide cinematic shot in front of the Great Pyramid of Giza, desert sand, she stands confidently looking at camera, wind gently moving her hair, epic scale.
+
+6-7.5s: Quick cut inside vibrant Khan El Khalili market at dusk, she reaches up touching hanging ornate lanterns, magical warm lighting, slight smile.
+
+7.5-9s: Fast-paced walking shot through crowded souk alley, she smiles brightly while looking around, people and colorful shops in background, dynamic handheld camera following her.
+
+9-10.5s: Extreme close-up of her face, she looks directly into camera, hair strands across face, intense eye contact, subtle playful smile turning into a wide genuine laugh showing perfect teeth.
+
+10.5-12s: Sitting on a traditional Nile boat, legs crossed, wind in hair, soft smile while looking at the water, golden sunset reflection.
+
+12-13.5s: Inside a colorful spice market, she stands among sacks of spices, looking peaceful and content, soft natural light.
+
+13.5-15s: Final shot - elegant side profile by the Nile at sunset with dramatic golden light, then smooth cut to her sitting in a cozy café holding a glass of drink, looking at camera with a warm intimate smile.
+
+Camera work: Cinematic, smooth transitions, slight slow-motion on key emotional moments, rich color grading, warm cinematic tones, shallow depth of field, film grain.
+
+Character dialogue:
+
+- 0-2s: "Heyy... come with me"
+- 4-6s: "This is unreal..."
+- 7.5-9s: (laughing) "I can't believe I'm here!"
+- 10.5-12s: "The most beautiful place..."
+- 13.5-15s: (soft, warm) "This moment... feels like magic."
+
+High detail, photorealistic, 8K quality, emotional, dreamy travel aesthetic, perfect face consistency across all shots, matching the exact woman in the reference image
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/921d51ef2c0f3dcb93b8b2d23feae39a/thumbnails/thumbnail.jpg" width="600" alt="Egypt Cinematic Travel Vlog Video Prompt">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5441)**
+
+**ผู้เขียน:** [Heisenberg](https://x.com/rovvmut_) | **แหล่งที่มา:** [Link](https://x.com/rovvmut_/status/2060211469401362497) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Mecha Exoskeleton Assembly Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic sci-fi action prompt describing the high-speed mechanical assembly of an exoskeleton around a character.
+
+#### 📝 พรอมต์
+
+```
+A cinematic, hyper-realistic sci-fi action sequence. It begins with a close-up of a young East Asian man with long, wavy dark hair focusing intense energy, red lightning and plasma crackling between his hands. The camera cuts to dozens of sleek, futuristic metallic armor pieces flying at high speed through a dark, industrial warehouse, converging on him. Sparks fly as the high-tech, gunmetal-grey armor rapidly mechanically assembles around his body. The final shot reveals him fully suited in a powerful, glowing mecha exoskeleton with a fiery, burning plasma aura radiating from his helmet. He executes an aggressive, sweeping strike with a glowing orange laser blade, causing a massive explosion with smoke and debris in the background. High-end CGI, studio lighting, octane render, 8k resolution, intense pacing.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce500e08df871f32ae6372cfd4a719c8/thumbnails/thumbnail.jpg" width="600" alt="Mecha Exoskeleton Assembly Sequence">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5439)**
+
+**ผู้เขียน:** [Zyrella](https://x.com/Zyrellix) | **แหล่งที่มา:** [Link](https://x.com/Zyrellix/status/2060208363867414564) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Luxury Skincare Pitch Deck Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A workflow for animating a clinical luxury beauty storyboard with smooth transitions and editorial aesthetics.
+
+#### 📝 พรอมต์
+
+```
+Create a high-end 4:3 luxury beauty tools pitch deck storyboard in 3x4 grid (12 frames), editorial layout, NuFace/Dr. Barbara Sturm style, glacier white + rose gold palette. Structured flow: science → tool → ritual → glow → confidence closure. Each frame split: top cinematic image (no text) + bottom storyboard notes. Clinical luxury minimal aesthetic, science meets beauty mood, precision self-care. A rose gold facial device is the emotional center throughout. Animate the provided 3x4 storyboard into a smooth cinematic video. Preserve exact shot order and continuity. Use slow device glide on skin, LED light pulse, serum absorption close-up, and mirror reflection reveal. Lighting transitions from cool clinical white light to warm vanity mirror rose glow. Beauty tools editorial aesthetic, surgical precision, empowered radiance mood. No new shots, no reordering, facial device remains emotional focus in all scenes.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aad0a6d8939fdbc35b1d919951f8bc9f/thumbnails/thumbnail.jpg" width="600" alt="Luxury Skincare Pitch Deck Animation">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5436)**
+
+**ผู้เขียน:** [𝐌](https://x.com/Strength04_X) | **แหล่งที่มา:** [Link](https://x.com/Strength04_X/status/2060200771912864078) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Skateboard Big Air Sunset Highlight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic 15-second skateboarding highlight featuring a single rider performing a 360 aerial rotation on a large outdoor ramp during a golden sunset, with dynamic tracking shots and high-impact sound design.
+
+#### 📝 พรอมต์
+
+```
+15-second live-action big-air skateboarding highlight continuing at the same huge outdoor ramp during deep golden sunset. Only one skateboarder and only one skateboard exist in the entire video. Do not duplicate the rider. Do not add extra skateboarders in the background.
+
+Start with a fast low side-rear tracking shot as the rider accelerates toward the largest ramp, not only from directly behind. Use one quick close-up of the wheels, feet, and board while the rider climbs the ramp with power and control. Briefly switch to a low side angle just before takeoff to show the ramp height and speed.
+
+The rider launches into the highest big air and performs one clean 360 aerial rotation near the peak of the jump. Keep the aerial action clear and readable. Use a brief stop-motion-style freeze effect only at the peak moment of the rotation, then continue the motion naturally. Do not make the whole aerial section slow motion. Do not create ghost trails, overlapping silhouettes, or multiple riders. The real rider remains one person, and the skateboard stays controlled under the rider’s feet.
+
+After the peak rotation, return to normal motion for a clear descent and landing. Show the board aligning for touchdown, the wheels touching down, a short controlled slide, and a strong impact.
+
+End with the rider gliding away into the sunset in a short cinematic silhouette from behind.
+
+Strong sports highlight energy, dynamic but simple camera changes, low tracking shot, side-rear angle, brief side angle during takeoff and air, ground-level landing angle, clear takeoff and clear landing, dramatic height difference, readable body silhouette, realistic skateboard motion, no static sports introduction. No clear spoken commentary, no narration, no understandable dialogue. Sound effects only: fast rolling wheels, ramp rumble, wind rush, brief silence at the peak freeze, heavy landing impact, distant crowd reaction. No logo, no watermark, no readable text.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060197720900734976/img/ym9Yq6kjEOmCWR14.jpg" width="600" alt="Skateboard Big Air Sunset Highlight">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5466)**
+
+**ผู้เขียน:** [AIライフハック](https://x.com/ai_lifehack55) | **แหล่งที่มา:** [Link](https://x.com/ai_lifehack55/status/2060198851953209598) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Cybernetic Anaconda Pursuit in Dystopian Mumbai
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-action cyberpunk video prompt featuring a motorcycle chase through a ruined Mumbai street, pursued by a giant mechanical anaconda.
+
+#### 📝 พรอมต์
+
+```
+Fast-paced dystopian cyberpunk action in a ruined Indian megacity at night. Burnt cars, neon signs flickering in Hindi, sparks, smoke vents, broken flyovers, puddles reflecting pink and blue neon. Chaotic handheld cinematography, shaky tracking shots, aggressive speed ramps, dirty lens flares, practical lighting. Sound: roaring engines, metallic screeches, distorted radio chatter, distant explosions, hydraulic snake sounds.
+
+⸻
+
+0–2s — HOOK
+
+A tattooed Indian cyberpunk woman with shaved punk hair tears through a dystopian street on a junkyard-built motorcycle made from welded scrap metal, exposed engine parts, and glowing wires.
+
+Behind her—
+
+A gigantic half-real, half-mechanical anaconda smashes through burnt cars in aggressive pursuit.
+
+Metal jaws snapping.
+
+Red mechanical eyes glowing.
+
+⸻
+
+2–4s — ESCALATION
+
+Low shaky side tracking shot.
+
+The snake violently crashes through parked vehicles while partially gliding over wreckage with mechanical body segments flexing unnaturally.
+
+The woman swerves hard between wrecked taxis and burning debris.
+
+Radio crackles in her ear.
+
+Male voice:
+
+“Get it in position!”
+
+⸻
+
+4–7s — BUILD
+
+She accelerates harder.
+
+Rear tire skids through puddles.
+
+The snake lunges low behind her, smashing a car sideways into a wall.
+
+She shouts into radio:
+
+“I’m trying!”
+
+Ahead—
+
+a broken flyover ramp comes into view through smoke.
+
+⸻
+
+7–10s — COMMIT
+
+The woman locks onto the ramp and speeds directly toward it.
+
+Above on a ruined rooftop—
+
+A man with a bazooka takes aim.
+
+Radio:
+
+“Just a little closer…”
+
+The snake rapidly closes distance behind her.
+
+⸻
+
+10–13s — BULLET TIME PAYOFF
+
+She hits the ramp and launches into the air.
+
+Bullet time engages.
+
+The cybernetic anaconda leaps upward after her, jaws opening inches from her bike.
+
+The man fires.
+
+Rocket streaks through frame in slow motion.
+
+Direct hit into the snake’s mechanical skull.
+
+Massive explosion of sparks, fire, metal fragments, and flesh.
+
+⸻
+
+13–15s — FINAL BEAT
+
+Time snaps back.
+
+The woman lands hard, bike wobbling violently—
+
+she regains balance perfectly and keeps riding.
+
+Behind her, the burning mechanical anaconda crashes through wrecked cars.
+
+She laughs into the radio:
+
+“Target down!”
+
+The man cheers over comms.
+
+Cut.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060184772211838977/img/HLmUfriw9HDj2KMB.jpg" width="600" alt="Cybernetic Anaconda Pursuit in Dystopian Mumbai">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5462)**
+
+**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2060184837856850203) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Anime Characters in Photorealistic Shopping Mall
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed multi-shot cinematic prompt for Seedance 2.0 that blends 2D anime characters with a realistic 3D mall environment, focusing on consistency and smooth motion across five different shots.
+
+#### 📝 พรอมต์
+
+```
+Use Image A and Image B as the two main characters in all shots.
+
+Image A : preserve her exact anime illustration identity, hairstyle, face, outfit, proportions, and overall design.
+
+Image B : preserve her exact anime illustration identity, hairstyle, face, outfit, proportions, and overall design.
+
+Both characters must remain anime-style illustrations with crisp clean line art, cel-shaded flat colors, expressive anime eyes, and zero photorealism on the characters.
+
+All other elements — the shopping mall interior, storefronts, display windows, escalators, polished floors, shopping bags, crowd, lighting, and background architecture — are fully photorealistic.
+
+Setting: a busy modern shopping mall on a weekend afternoon. Stylish interior, bright natural and commercial lighting, large glass storefronts, digital signage, polished floors, open atrium, many shoppers walking around. The atmosphere is lively, fashionable, and cheerful.
+
+15-second cinematic video, 24fps, smooth motion, clear emotional flow, character consistency across all shots.
+
+Shot 1 [MALL ENTRANCE — ARRIVAL]
+
+Image A and Image B walk side by side into a crowded modern shopping mall, smiling and chatting. Many shoppers pass around them. The camera tracks backward in front of them as they enter the bright open atrium. They look excited for a fun day of window shopping.
+
+Cut to Shot 2 [WINDOW SHOPPING — DISCOVERY]
+
+The two girls stop in front of a stylish fashion storefront with a large glass display window. They lean in slightly and admire the items inside. Image A points at something cute in the display. Image B reacts with a bright smile and curious eyes. Medium shot, then close-up on their happy faces and pointing gesture.
+
+Cut to Shot 3 [MOVING THROUGH THE MALL]
+
+Image A and Image B continue walking through the busy mall, passing elegant shop windows, cosmetics counters, and accessory displays. They laugh together and casually gesture while talking. Camera moves alongside them. Background crowd flows naturally around them. Their mood is relaxed, lively, and playful.
+
+Cut to Shot 4 [EXCITEMENT AT A DISPLAY]
+
+They stop at another display window with fashionable accessories and seasonal decor. Image B notices something first and gently pulls Image A’s sleeve to show it. Image A’s expression changes into delighted surprise. Close-up on their faces, then cut to a wider shot showing both of them framed by the bright storefront and the bustling crowd behind.
+
+Cut to Shot 5 [PURE WEEKEND JOY]
+
+Image A and Image B continue window shopping deeper into the mall, each carrying a few small shopping bags. They smile, laugh, and enjoy the lively weekend atmosphere. Wide cinematic shot of the modern shopping mall interior, the two girls walking happily together at the center of the frame, surrounded by the photorealistic crowd and glowing storefronts. End with a gentle crane out
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060180079305756672/img/-nsftlOfh54VS_bz.jpg" width="600" alt="Anime Characters in Photorealistic Shopping Mall">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5467)**
+
+**ผู้เขียน:** [Toshi@ニャルオAI](https://x.com/Toshi_nyaruo_AI) | **แหล่งที่มา:** [Link](https://x.com/Toshi_nyaruo_AI/status/2060181284908073254) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Rooftop Sunset Fashion Film Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A luxurious and viral-style fashion film prompt featuring a model on a skyscraper rooftop during golden hour.
+
+#### 📝 พรอมต์
+
+```
+15-second ultra realistic cinematic rooftop fashion film during sunset.
+
+Scene 1 (0–4s): A stunning fashion model steps onto a luxury rooftop overlooking a glowing city skyline at golden hour. Soft wind moves her hair and long black outfit naturally, cinematic drone shot approaching slowly, warm orange sunlight reflecting on glass buildings, ultra aesthetic atmosphere.
+
+Scene 2 (4–8s): Slow-motion tracking shot as she confidently walks across the rooftop edge in a luxurious designer outfit with sunglasses and silver accessories. Cinematic lens flares, flowing fabric movement, rich old-money aesthetic, shallow depth of field, Vogue editorial vibe.
+
+Scene 3 (8–12s): Dramatic side-profile close-up with sunset behind her, hair moving beautifully in wind, emotional “main character” energy, cinematic camera orbit movement, realistic skin texture, luxury perfume advertisement style.
+
+Scene 4 (12–15s): Final powerful shot facing the city skyline while city lights begin glowing at blue hour. Camera slowly pulls back revealing the massive skyline and luxury rooftop ambiance. Text fades in: “Some people don’t follow trends… they become them.”
+
+Ultra realistic cinematic fashion storytelling, viral Twitter/TikTok aesthetic, luxury lifestyle energy, smooth camera motion, film grain, anamorphic lens flare, highly detailed, emotional cinematic mood, 4K masterpiece.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2060180922276909056/pu/img/DTES8Zi37QOrQ2y_.jpg" width="600" alt="Rooftop Sunset Fashion Film Prompt">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5448)**
+
+**ผู้เขียน:** [Zeeshi](https://x.com/AIwithZeeshi) | **แหล่งที่มา:** [Link](https://x.com/AIwithZeeshi/status/2060181075779781084) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Mushroom Port Town Anime Escape
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A cinematic anime sequence showing a girl in a blue hood stealing a glowing mushroom and escaping through a high-speed chase across the bridges and walkways of a floating mushroom market town.
+
+#### 📝 พรอมต์
+
+```
+@Image 1 = Protagonist character. @Image 2 = Storyboard reference. Based on the attached storyboard image, create a 15-second horizontal 16:9 anime thrilling escape scene video. Theme: Thief Girl. Animate as a high-tempo, brisk scene following the panel order of the storyboard. Flow: Start with an overhead view of a mushroom port town market spread across the water. A girl in a blue hood hides at the edge of the pier or market and steals a rare purple-glowing mushroom. Impressively depict the moment of theft with hand close-ups, the girl's sparkling eyes, and the glow of the rare mushroom. Once the theft is discovered, the girl escapes quickly using wooden piers, waterside paths, docks, rope bridges, and floating platforms. As pursuers close in, show a high-speed escape where she runs across narrow bridges, nearly slips but recovers, jumps across canals, and brushes past boats and ropes. Include seagulls flying and textures of water splashes and damp wood. End with her running across a long bridge toward the light, leaving the port town behind. Style: High-quality anime film style, cinematic lighting, top-tier animation, high definition, vivid colors, transparent water, damp wood texture, openness of the port town, and an adventurous world filled with mushroom stalls and floating architecture. The girl should appear small and agile, mischievous yet serious, and as if she is truly escaping while enjoying the thrill. Editing: Use rhythmic high-speed cuts, close-ups, extreme close-ups, low angles, overhead shots, quick pans, and smooth match cuts. Mix an overhead market panorama, hand close-ups during theft, the girl's face close-up, following shots escaping from pursuers, low angles near the water surface, extreme close-ups of feet kicking the pier, wide shots of canal jumps, and dynamic diagonal compositions using rope movement or high vantage points. Create an energetic and stylish video, utilizing the precarious waterside and continuity of bridges unique to a floating port town. Important: Do not make it a slideshow of still images. Animate running and stealing naturally. Maintain the same atmosphere of the floating mushroom port town and high-quality anime style throughout. Do not include text, subtitles, logos, or watermarks. Perform the suspenseful thrill as a brisk scene. Consistently maintain the protagonist's face, blue hood, outfit, basket, and purple glowing mushroom throughout.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060178543808786432/img/dhAVzjA-P9Prag2Q.jpg" width="600" alt="Mushroom Port Town Anime Escape">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5468)**
+
+**ผู้เขียน:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **แหล่งที่มา:** [Link](https://x.com/Ryuki_Yano/status/2060179315011277307) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Medieval Knight Horseback POV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed first-person perspective prompt for a cinematic medieval sequence showing a knight riding through a village, emphasizing realistic human visual perspective and natural motion.
+
+#### 📝 พรอมต์
+
+```
+A first-person POV (horseback riding POV) sequence in a live-action medieval European-style film, showing a knight traveling on horseback.
+The camera is permanently fixed to the knight’s eye level, representing a realistic human visual perspective from atop a horse. There are no cuts, no switches to third-person, and no aerial or top-down viewpoints at any point.
+The horse follows the route indicated in the reference image. The journey begins at the location labeled “Start” and ends at the location labeled “Stop Here.” Movement follows a realistic walking pace of a horse, with natural body motion including subtle head, shoulder, and reins-induced camera sway.
+Along the way, the knight briefly greets villagers while passing them (simple nods or short hand waves). The village is a live-action medieval settlement with wooden buildings, stone-paved streets, and naturally active inhabitants.
+Upon reaching the final destination, the horse gradually slows down and stops. The knight then naturally dismounts the horse. The footage remains a single continuous shot until that moment.
+
+Visual Style (Photoreal Enhancement):
+Live-action cinematic film quality, photorealistic
+Natural light–based cinematic lighting
+Lens characteristics (shallow depth of field, slight lens breathing)
+Handheld-like but stabilized POV camera motion
+Realistic motion blur
+4K RAW film look
+Cinematic color grading (no excessive CGI appearance)
+
+Negative Prompt (for maintaining realism):
+Anime, CGI, or game engine-style visuals
+Drone view, aerial view, or third-person perspective
+HUD, UI, subtitles, markers, text overlays
+Route lines, guide lines, or map visualizations
+Excessive slow motion or unnatural speed changes
+Unrealistic floating sensation or gravity-defying motion
+Cuts or viewpoint transitions
+Overly smooth CGI-style camera movement
+Unrealistic horse movement
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060172486021685248/img/IpxHu_sAVfJwkyrw.jpg" width="600" alt="Medieval Knight Horseback POV">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5471)**
+
+**ผู้เขียน:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **แหล่งที่มา:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Cyberpunk Mumbai Werewolf Pursuit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic 15-second action sequence set in a dystopian Mumbai with a robotic werewolf chasing a cyberpunk woman on a motorcycle.
+
+#### 📝 พรอมต์
+
+```
+Fast-paced dystopian cyberpunk action in a ruined Indian megacity at night. Burnt cars, neon Hindi signs flickering, smoke vents, broken flyovers, puddles reflecting pink and blue neon. Chaotic shaky cinematography, aggressive handheld tracking, dirty lens flares, speed ramps, practical lighting. Sound: roaring engines, distorted radio chatter, hydraulic servos, metallic growls, distant explosions.
+
+⸻
+
+0–2s — HOOK
+
+A tattooed Indian cyberpunk woman with shaved punk hair races through a destroyed street on a junkyard-built motorcycle made from exposed engine parts, welded scrap, and glowing cables.
+
+Behind her—
+
+A gigantic half-real, half-robotic werewolf crashes through burnt cars at full speed.
+
+Metal claws scraping asphalt.
+
+Hydraulic limbs flexing.
+
+One glowing red cybernetic eye.
+
+⸻
+
+2–4s — ESCALATION
+
+Low shaky side-tracking shot.
+
+The cyber-werewolf runs unnaturally fast, sometimes on all fours, sometimes launching itself over wrecked vehicles.
+
+Its exposed mechanical spine sparks while flesh and metal shift together violently.
+
+Radio crackles in her ear.
+
+Male voice:
+
+“Get it in position!”
+
+⸻
+
+4–7s — BUILD
+
+She drifts hard around a pile of overturned taxis.
+
+The werewolf slams through one car completely, sending debris flying across the road.
+
+It gains ground fast.
+
+The woman shouts into the radio:
+
+“I’m trying!”
+
+Ahead through smoke and neon haze—
+
+a broken flyover ramp appears.
+
+⸻
+
+7–10s — COMMIT
+
+She accelerates directly toward the ramp.
+
+Cut to rooftop—
+
+A man with a bazooka steadies his aim through heat distortion.
+
+Radio:
+
+“Bring it closer…”
+
+The cyber-werewolf launches itself forward in massive leaps, nearly reaching the bike.
+
+⸻
+
+10–13s — BULLET TIME PAYOFF
+
+The woman hits the ramp and flies into the air.
+
+Bullet time engages.
+
+The cybernetic werewolf leaps upward behind her, claws reaching inches from her back.
+
+The bazooka fires.
+
+Rocket streaks through frame in slow motion.
+
+Direct impact into the werewolf’s chest.
+
+Explosion of sparks, fire, metal fragments, fur, and smoke.
+
+⸻
+
+13–15s — FINAL BEAT
+
+Time snaps back.
+
+The woman lands hard, bike wobbling violently—
+
+she regains control and speeds forward.
+
+Behind her, the burning cyber-werewolf crashes through wrecked cars and explodes into debris.
+
+She laughs into the radio:
+
+“Got him.”
+
+The man cheers over comms.
+
+Cut.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0fab2eea50a88534f5e208367d91f57/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Mumbai Werewolf Pursuit">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5434)**
+
+**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2060168520772809096) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
 ### แบบทดสอบการแสดงบทสนทนา
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1721,1284 +4751,6 @@ Seedance 2.0 | R2V | ช็อตต่อเนื่องหนึ่งช�
 **ผู้เขียน:** [TechieSA](https://x.com/TechieBySA) | **แหล่งที่มา:** [Link](https://x.com/TechieBySA/status/2059318136453619757) | **เผยแพร่เมื่อ:** May 26, 2026
 
 ---
-### Mona Lisa ปะทะ Venus ในสไตล์เกมต่อสู้
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พรอมต์สไตล์เกมต่อสู้ที่นำ Mona Lisa และ Venus มาประชันกันในรูปแบบที่ได้รับแรงบันดาลใจจาก Mortal Kombat พร้อมแถบพลังชีวิตและฉากหลังเป็นมหาวิหารยุคเรอเนซองส์
-
-#### 📝 พรอมต์
-
-```
-Round 1: Mona Lisa อยู่ทางด้านซ้ายของหน้าจอ และ Venus อยู่ทางด้านขวา อินเทอร์เฟซแบบโฮโลแกรมแสดงแถบพลังชีวิตสีเหลืองและสีเขียว อวตารตัวละคร ชื่อตัวละคร ข้อความ 'Round 1' และเกจท่าไม้ตาย ฉากหลังเป็นการผสมผสานระหว่างมหาวิหารยุคเรอเนซองส์กับชายฝั่งที่มีพายุเข้า โดยมีสไตล์ศิลปะที่ได้รับแรงบันดาลใจมาจาก Mortal Kombat
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74cee49e64e00c748bd5858c22162fe4/thumbnails/thumbnail.jpg" width="600" alt="Mona Lisa ปะทะ Venus ในสไตล์เกมต่อสู้">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5302)**
-
-**ผู้เขียน:** [老白（每日干货分享✊）](https://x.com/laobaishare) | **แหล่งที่มา:** [Link](https://x.com/laobaishare/status/2059309213160214678) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### แอนิเมชันสุนัขสเก็ตบอร์ดในเมืองไซเบอร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอการ์ตูนพลังงานสูงของสุนัขสุดเท่ที่กำลังเล่นสเก็ตบอร์ดผ่านเมืองไซเบอร์นีออน พร้อมด้วยเทคนิคการเร่งความเร็ว มุมกล้องแบบไล่ล่า และองค์ประกอบดิจิทัลที่สดใส
-
-#### 📝 พรอมต์
-
-```
-ฉากแอ็กชันการ์ตูนที่รวดเร็วและเต็มไปด้วยพลังของสุนัขการ์ตูนสุดเท่ที่สวมแว่นกันแดดและหมวกแก๊ปหันหลัง กำลังซิ่งผ่านถนนในเมืองไซเบอร์นีออนที่สดใสบนสเก็ตบอร์ดเรืองแสง เต็มไปด้วยป้ายนีออนสว่างไสว โดรนที่บินไปมา ป้ายโฆษณาโฮโลแกรม ตึกแห่งอนาคต และองค์ประกอบดิจิทัลหลากสีสัน ใช้การเคลื่อนไหวของกล้องที่รวดเร็ว การตัดต่อฉับไว โมชันเบลอ การเร่งความเร็ว (speed ramps) การแพนกล้องแบบวิปแพน (whip pans) มุมกล้องไล่ล่าระดับต่ำ และการติดตามแบบไดนามิก 0-3 วินาที: เริ่มต้นด้วยมุมกล้องติดตามระดับต่ำที่อยู่ด้านหน้าสเก็ตบอร์ด สุนัขสุดเท่โน้มตัวไปข้างหน้าพร้อมแลบลิ้นและขนที่ปลิวไสวตามลม แสงนีออนสะท้อนบนแว่นกันแดดขณะที่เขากำลังซิ่งไปตามถนนที่เรืองแสง กล้องเคลื่อนที่ถอยหลังนำหน้าเขาไป 3-6 วินาที: วิปแพนไปยังสิ่งกีดขวางโฮโลแกรมและแนวกั้นดิจิทัล สุนัขกระโดดออลลี่ (ollie flip) ข้ามสิ่งกีดขวางอย่างนุ่มนวล พร้อมประกายไฟที่พุ่งออกมาจากล้อสเก็ตบอร์ด 6-9 วินาที: แครชซูม (crash zoom) และการติดตามด้านข้างขณะที่แสงจากโดรนและสัตว์เลี้ยงนีออนมาร่วมทางกับเขา ก่อตัวเป็นขบวนไล่ล่าที่สนุกสนานตามหลังสุนัข มีการเร่งความเร็วเพื่อแสดงท่าทางกลางอากาศแบบสโลว์โมชันแล้วกลับสู่ความเร็วเต็มที่อีกครั้ง 9-12 วินาที: มุมกล้องแบบโดรนจากด้านบนที่รวดเร็วขณะที่สุนัขหักเลี้ยวอย่างคมกริบระหว่างตึกนีออนสูงตระหง่าน พร้อมเส้นแสงหลากสีที่ทิ้งตัวเป็นทางยาวอยู่ด้านหลัง 12-15 วินาที: จุดไคลแมกซ์ในมุมมองบุคคลที่หนึ่ง (POV) จากข้างตัวสุนัขขณะที่ป้ายนีออน กลีบดอกไม้ และประกายไฟดิจิทัลพุ่งผ่านไป เขาเห่าอย่างมีความสุข กระโดดครั้งสุดท้ายพร้อมหมุนตัวแบบการ์ตูนแล้วลงจอด ก่อนที่ประกายไฟจะระเบิดออกมาเป็นคำว่า 'COOL DOG' ด้วยตัวอักษรเรืองแสงสว่างไสวท่ามกลางเสียงเชียร์ของทุกสรรพสิ่ง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa5cc8e2378e06e40c68a60f1af8013f/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันสุนัขสเก็ตบอร์ดในเมืองไซเบอร์">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5292)**
-
-**ผู้เขียน:** [Mr Das](https://x.com/MrDasOnX) | **แหล่งที่มา:** [Link](https://x.com/MrDasOnX/status/2059303912830849505) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### การแข่งขันมวยปล้ำระหว่างมังกรกับลิงในสไตล์ Ghibli
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พรอมต์สำหรับการสร้างวิดีโอหลายฉากในสไตล์ Studio Ghibli นำเสนอการแข่งขันมวยปล้ำสุดฮาระหว่างมังกรกล้ามโตกับลิงแสนฉลาด พร้อมบทสนทนาและการแสดงท่าทางของตัวละคร
-
-#### 📝 พรอมต์
-
-```
-สไตล์แอนิเมชันแบบ Studio Ghibli ฉากที่ 1: บนเวทีมวยปล้ำ แชมป์มวยปล้ำมังกรที่ดูอ้วนแต่มีกล้ามกำลังต่อสู้กับนักมวยปล้ำลิง ทันใดนั้น มังกรก็คว้าหางของลิงแล้วยกตัวขึ้น ยิ้มเยาะเย้ยใส่ลิงแล้วพูดว่า 'การแข่งขันจบลงแล้ว' เผยให้เห็นรักแร้ของแขนข้างที่ใช้ยกตัวลิงขึ้นมา ฉากที่ 2: ลิงยิ้มอย่างมีเลศนัย เอื้อมมือไปจั๊กจี้ที่รักแร้ของมังกร นิ้วมือของมันขยับไปมาและแกล้งมังกร ทำให้มังกรเกิดอาการงุนงง ฉากที่ 3: ลิงใช้มือทั้งสองข้างจั๊กจี้รักแร้ของมังกร มังกรหัวเราะออกมาทันทีโดยหลับตาลง แม้จะยังคงจับตัวลิงไว้แต่เรี่ยวแรงก็ค่อยๆ อ่อนลง ฉากที่ 4: ลิงยังคงใช้มือทั้งสองข้างจั๊กจี้รักแร้ของมังกรต่อไป มังกรหัวเราะหนักขึ้น กระทืบเท้าและขยับร่างกายไปมาโดยไม่ตั้งใจในขณะที่ลิงยังคงจั๊กจี้ไม่หยุด ฉากที่ 5: มังกรหัวเราะจนหอบ ปล่อยตัวลิง กอดตัวเองและยังคงหัวเราะคิกคัก ลิงรีบขยับตัวออกห่างจากมังกร ฉากที่ 6: มังกรหยุดหัวเราะ พูดกับลิงอย่างโกรธเคืองว่าขี้โกง จากนั้นจึงพุ่งเข้าโจมตีลิงด้วยความโมโห เสียงของมังกรมีลักษณะต่ำและแหบพร่า รักแร้ของมังกรกำลังถูกจั๊กจี้ บทสนทนาเป็นภาษาอังกฤษ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a2f7fc065a0b50cfff3542a09e89de7b/thumbnails/thumbnail.jpg" width="600" alt="การแข่งขันมวยปล้ำระหว่างมังกรกับลิงในสไตล์ Ghibli">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5321)**
-
-**ผู้เขียน:** [migrok](https://x.com/migrok293703) | **แหล่งที่มา:** [Link](https://x.com/migrok293703/status/2059286644029628514) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### การเปลี่ยนผ่านของพายุริบบิ้นแฟนตาซี
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แอนิเมชันเชิงเทคนิคสำหรับ Seedance 2.0 ที่ออกแบบมาเพื่อแปลงสตอรีบอร์ดให้เป็นลำดับภาพแฟนตาซีระดับภาพยนตร์ที่คมชัดแบบช็อตต่อช็อต
-
-#### 📝 พรอมต์
-
-```
-ใช้เป็นข้อมูลอ้างอิงสำหรับสตอรีบอร์ด โดยให้ปฏิบัติตามสตอรีบอร์ดแบบช็อตต่อช็อต รักษาลำดับของช่องภาพ การจัดเฟรม จังหวะของกล้อง รวมถึงการไหลเวียนและการทวีความรุนแรงของการเปลี่ยนผ่าน ห้ามเรนเดอร์องค์ประกอบใดๆ ของสตอรีบอร์ดลงในวิดีโอฉบับสมบูรณ์ และห้ามเรนเดอร์สี
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e73a7faa942ab4a75454ecf462e9ba0/thumbnails/thumbnail.jpg" width="600" alt="การเปลี่ยนผ่านของพายุริบบิ้นแฟนตาซี">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5318)**
-
-**ผู้เขียน:** [PhotoGPT](https://x.com/itsphotogptai) | **แหล่งที่มา:** [Link](https://x.com/itsphotogptai/status/2059282849522712929) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### กิจวัตรประจำวันของแมวส้มสุดเท่
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เล่าเรื่องแนวตลกสมจริงที่นำเสนอแมวส้มในร่างมนุษย์กับการใช้ชีวิตตั้งแต่ร้านกาแฟไปจนถึงรถไฟฟ้าและยิม
-
-#### 📝 พรอมต์
-
-```
-สไตล์: สมจริงขั้นสุด, ภาพยนตร์, แสงนุ่มนวล, ระยะชัดตื้น, โทนตลก, การเปลี่ยนฉากที่ลื่นไหล, 4K
-0–3 วินาที:
-แมวส้มสุดเท่ยืนสองขาอยู่ที่เคาน์เตอร์คาเฟ่ทันสมัย
-สวมแว่นตาจิ๋วและเสื้อฮู้ด
-มันแตะบัตรที่เครื่องชำระเงินและสั่งกาแฟ
-บาริสต้ายื่นถ้วยลาเต้ขนาดเล็กให้
-(กล้อง: โคลสอัพ → แพนเล็กน้อย, บรรยากาศยามเช้าที่อบอุ่น)
-3–6 วินาที:
-ตัดภาพไปที่แมวขณะเดินทางในรถไฟฟ้าที่แออัด
-จับห่วงโหนรถไฟฟ้า ทำหน้าเหนื่อยและเบื่อหน่าย
-มนุษย์คนอื่นกำลังไถโทรศัพท์โดยไม่สนใจมัน
-(กล้อง: ถือด้วยมือ, สั่นเล็กน้อยเพื่อความสมจริง)
-6–10 วินาที:
-ตัดภาพเร็วๆ ในยิม:
-แมวยกตุ้มน้ำหนักขนาดจิ๋ว
-วิ่งบนลู่วิ่ง
-ซิทอัพอย่างจริงจัง
-มีหยดเหงื่อ สีหน้าจริงจัง
-(ตัดภาพให้เข้ากับจังหวะเพลงสนุกสนาน)
-10–15 วินาที:
-ดึกดื่นตอนตี 2
-แมวนั่งอยู่บนโซฟาเพียงลำพังในแสงสีฟ้าสลัว จ้องมองโทรศัพท์
-แสงจากหน้าจอสะท้อนในดวงตา
-ซูมเข้าช้าๆ ขณะที่มันทำหน้าสับสนและหลงทาง
-ข้อความบนหน้าจอ: “ฉันกำลังทำอะไรกับชีวิตอยู่เนี่ย?”
-ตอนจบ:
-วนลูปกลับไปที่ฉากร้านกาแฟอย่างลื่นไหล ☕🐱
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1f6413dfc2202dab338135bd09ec738/thumbnails/thumbnail.jpg" width="600" alt="กิจวัตรประจำวันของแมวส้มสุดเท่">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5307)**
-
-**ผู้เขียน:** [ayzalnoor](https://x.com/ayzalnooor24521) | **แหล่งที่มา:** [Link](https://x.com/ayzalnooor24521/status/2059265904572285160) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### วิดีโอสตอรี่บอร์ดโฆษณาเครื่องดื่มชูกำลัง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับวิดีโอโฆษณาแบบไลฟ์แอ็กชันต่อเนื่อง โดยเริ่มจากพนักงานที่เหนื่อยล้าในร้านอาหารฟาสต์ฟู้ด และใช้สตอรี่บอร์ดเป็นข้อมูลอ้างอิงสำหรับมุมกล้อง
-
-#### 📝 พรอมต์
-
-```
-ใช้ภาพสตอรี่บอร์ดเป็นเพียงข้อมูลอ้างอิงสำหรับมุมกล้องเท่านั้น ให้สร้างเป็นภาพยนตร์โฆษณาแบบไลฟ์แอ็กชันต่อเนื่อง ไม่ใช่หน้าสตอรี่บอร์ด
-
-เริ่มต้นภายในร้านอาหารฟาสต์ฟู้ดที่พนักงานหนุ่มผู้เหนื่อยล้ากำลังทำงานอยู่หลังเคาน์เตอร์ จากนั้นมีอีกคนยื่นเครื่องดื่มสีดำให้เขาด้วย YouMind
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30a91566a4b22188267e5d69f20da652/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอสตอรี่บอร์ดโฆษณาเครื่องดื่มชูกำลัง">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5303)**
-
-**ผู้เขียน:** [insMind](https://x.com/insmind_com) | **แหล่งที่มา:** [Link](https://x.com/insmind_com/status/2059258981689020809) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### ฉากแอ็กชันการ์ตูนแมวสุดเท่
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แปลงภาพเป็นวิดีโอ (image-to-video) พลังงานสูงสำหรับ Seedance 2.0 ที่นำเสนอการ์ตูนแมวในฉากไล่ล่าด้วยรถยนต์ พร้อมรายละเอียดทิศทางการเคลื่อนที่ของกล้องและการแบ่งช่วงเวลาของแอนิเมชัน
-
-#### 📝 พรอมต์
-
-```
-ฉากแอ็กชันการ์ตูนที่รวดเร็วและเต็มไปด้วยพลังของแมวสุดเท่ที่กำลังขับรถผ่านถนนในหมู่บ้านที่เต็มไปด้วยแสงแดด ท้องฟ้าสดใส ต้นปาล์ม นาข้าว ดอกไม้ สัตว์ต่างๆ และรายละเอียดของหมู่บ้านที่มีสีสันสดใส ใช้การเคลื่อนที่ของกล้องที่รวดเร็ว การตัดสลับที่ฉับไว โมชันเบลอ (motion blur) การเร่งความเร็ว (speed ramps) การแพนกล้องแบบวิปแพน (whip pans) มุมกล้องไล่ล่าระดับต่ำ มุมมองจากตัวรถ (POV) และการซูมเข้าแบบฉับพลัน (crash zooms) 0-2 วินาที: เริ่มต้นด้วยมุมกล้องระดับกันชนหน้าของรถสีฟ้าที่กำลังแล่นด้วยความเร็วไปตามถนนในหมู่บ้าน แสงแดดสะท้อนบนแว่นตาของแมว กล้องถอยหลังอย่างรวดเร็วไปข้างหน้ารถ 2-4 วินาที: วิปแพนไปที่ฝูงไก่ที่กำลังข้ามถนนเหมือนวงโยธวาทิต แมวหักเลี้ยวอย่างนุ่มนวลพร้อมรอยยิ้ม มือข้างหนึ่งจับพวงมาลัย 4-6 วินาที: แครชซูมไปที่ลิงบนต้นปาล์มที่กำลังทิ้งลูกมะพร้าว กล้องติดตามลูกมะพร้าวที่กระดอนอยู่ข้างรถในแบบสโลว์โมชัน จากนั้นเร่งความเร็วกลับเข้าสู่ฉากแอ็กชันที่รวดเร็ว 6-8 วินาที: มุมกล้องติดตามด้านข้างขณะที่แพะกระโดดขึ้นไปบนรถเข็นฟางและวิ่งแข่งไปข้างๆ แมวพร้อมเต้นอย่างสนุกสนาน 8-10 วินาที: มุมกล้องจากโดรนเหนือศีรษะขณะที่เป็ด ไก่ หมู และแพะรวมตัวกันเป็นขบวนพาเหรดที่วุ่นวายตามหลังรถ 10-13 วินาที: มุมมอง POV ที่รวดเร็วจากภายในรถขณะที่ลูกมะพร้าว กลีบดอกไม้ และฟางปลิวผ่านกระจกหน้ารถ แมวหัวเราะและบีบแตรที่มีเสียงดนตรี 13-15 วินาที: จุดไคลแมกซ์ รถพุ่งชนทางลาดฟางนุ่มๆ ลอยตัวข้ามฝูงสัตว์อย่างนุ่มนวล กระดอนแบบการ์ตูนเล็กน้อยเมื่อลงสู่พื้น และลูกมะพร้าวกลิ้งไปรวมกันเป็นคำว่า “COOL CAT” ท่ามกลางเสียงเชียร์ของทุกคน
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7c042316fe3acff7cc81d4ee16cf9915/thumbnails/thumbnail.jpg" width="600" alt="ฉากแอ็กชันการ์ตูนแมวสุดเท่">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5299)**
-
-**ผู้เขียน:** [Umesh](https://x.com/umesh_ai) | **แหล่งที่มา:** [Link](https://x.com/umesh_ai/status/2059242557415321984) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### ภารกิจช่วยลูกแมวข้ามแม่น้ำของช้างน้อย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เรียบง่ายที่ชวนให้คิดถึงเรื่องราวของช้างที่ช่วยเหลือลูกแมว โดยใช้สไตล์ภาพประกอบจากนิตยสารวินเทจ
-
-#### 📝 พรอมต์
-
-```
-ช้างน้อยตัวหนึ่งช่วยลูกแมวข้ามแม่น้ำ จนในที่สุดพวกมันก็กลายเป็นเพื่อนซี้กัน สร้างสรรค์ขึ้นจากความทรงจำในวันวาน สไตล์ Bona และ Rongrong จากนิตยสาร Bobo
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/655db6f49694884c83ffb4263089b98c/thumbnails/thumbnail.jpg" width="600" alt="ภารกิจช่วยลูกแมวข้ามแม่น้ำของช้างน้อย">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5310)**
-
-**ผู้เขียน:** [9 Second Stories | AI](https://x.com/MugiwaraLu96337) | **แหล่งที่มา:** [Link](https://x.com/MugiwaraLu96337/status/2059238095489540574) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### แอนิเมชันราเมงซีฟู้ดเกาหลี
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แอนิเมชันสตรีทฟู้ดเกาหลีสุดเร้าใจสำหรับ Seedance 2.0 ที่แสดงรายละเอียดพื้นผิวของราเมงและเอฟเฟกต์เปลวไฟอย่างสมจริง
-
-#### 📝 พรอมต์
-
-```
-ใช้สตอรีบอร์ดที่แนบมาเพื่อสร้างวิดีโอแอนิเมชันการทำอาหารความยาว 15 วินาที
-
-ธีม:
-ราเมงซีฟู้ดเกาหลีรสเผ็ดร้อน
-
-สไตล์:
-แอนิเมชันการทำอาหารสไตล์อนิเมะที่ดำเนินเรื่องรวดเร็ว,
-บรรยากาศครัวสตรีทฟู้ดเกาหลีที่เต็มไปด้วยพลัง,
-รายละเอียดพื้นผิวของราเมงและอาหารทะเลที่คมชัด,
-ความเข้มข้น
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bbdca31797da208726010393f48e9ec2/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันราเมงซีฟู้ดเกาหลี">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5314)**
-
-**ผู้เขียน:** [Kollab](https://x.com/Kollab_AI) | **แหล่งที่มา:** [Link](https://x.com/Kollab_AI/status/2059222833021235473) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### ฉากแฟนตาซีเหนือจริงของบรรณารักษ์ข้ามมิติ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แฟนตาซีเหนือจริงขนาดใหญ่สำหรับลำดับภาพยนตร์ 13 เฟรม เกี่ยวกับบรรณารักษ์ผมสีเงินในห้องสมุดไร้ขอบเขตระหว่างมิติ
-
-#### 📝 พรอมต์
-
-```
-หญิงสาวผู้เป็นบรรณารักษ์คนสุดท้ายของห้องสมุดที่ตั้งอยู่ระหว่างมิติ ซึ่งหนังสือทุกเล่มที่เคยถูกเขียนขึ้น ถูกฝันถึง หรือถูกลืมเลือน ลอยอยู่อย่างอิสระบนชั้นวางเรืองแสงที่ทอดยาวออกไปเกินกว่าจักรวาลที่มองเห็นได้ เธอมีผมสีเงินขาวสลวยที่ลอยขึ้นด้านบนท้าทายแรงโน้มถ่วง สวมเสื้อโค้ทตัวยาวสีเข้มที่ขาดวิ่นและเต็มไปด้วยตัวอักษรเขียนด้วยลายมือที่เรืองแสงและเปลี่ยนแปลงอยู่ตลอดเวลา เธอเดินเท้าเปล่าบนพื้นกระจกที่เผยให้เห็นดาราจักรนับไม่ถ้วนอยู่เบื้องล่าง ดวงตาของเธอเปล่งประกายสีทองอ่อนๆ เธอได้อ่านทุกเรื่องราวที่เคยถูกเล่าขานมาแล้ว รายละเอียด 13 เฟรมในจินตนาการเหนือจริง: ยืนอยู่ที่ทางเข้า — ประตูโบราณขนาดมหึมาสองบานที่ทำจากแสงดาวอัดแน่นค่อยๆ เปิดออก แสงสีทองอบอุ่นสาดส่องออกไปสู่ความว่างเปล่าอันหนาวเหน็บ ลอยตัวอยู่กลางอากาศระหว่างชั้นวาง — หนังสือโคจรรอบตัวเธอราวกับดาวเคราะห์ เธอเอื้อมมือไปหยิบเล่มหนึ่งแล้วมันก็สลายกลายเป็นผีเสื้อที่ทำจากหมึก ภาพระยะใกล้ของมือเธอ — ปลายนิ้วแต่ละนิ้วทิ้งร่องรอยของตัวอักษรเรืองแสงขณะที่เธอลูบไปตามสันของหนังสือที่ถูกลืม หนังสือเล่มหนึ่งเปิดออกเอง — ทิวทัศน์ทั้งหมดไหลทะลักออกมาจากหน้ากระดาษราวกับสายน้ำ ท่วมพื้นด้วยโลกใบจิ๋วที่มีชีวิต เธอค้นพบหนังสือที่ไม่มีชื่อเรื่อง — เปิดออกพบว่ามันสะท้อนช่วงเวลาที่เธออ่านอยู่อย่างแม่นยำ เป็นการสะท้อนที่ไม่มีที่สิ้นสุด บันไดที่ทำจากคำศัพท์เรียงซ้อนกันเป็นเกลียวขึ้นไปสู่กลุ่มเมฆแห่งแสงบริสุทธิ์ — เธอปีนขึ้นไปโดยเท้าเปล่า เสื้อโค้ทลากยาวตามหลังราวกับควัน ส่วนหนึ่งของห้องสมุดกำลังถูกไฟไหม้ — แต่ไฟนั้นทำจากดนตรี คลื่นเสียงที่มองเห็นได้กำลังเผาไหม้อากาศด้วยสีสันที่ยังไม่มีใครเคยตั้งชื่อ เธอขัดสมาธิอ่านหนังสือในขณะที่พายุฝนฟ้าคะนองก่อตัวขึ้นอย่างเงียบๆ เหนือศีรษะของเธอภายในห้องสมุด สายฟ้าทำจากด้ายสีเงิน ประตูบานหนึ่งปรากฏขึ้นจากความว่างเปล่าพร้อมป้ายชื่อในภาษาที่ไม่มีอยู่จริง — เธอเปิดมันออกและพบกับตัวเธอเองจากเรื่องราวที่ไม่เคยถูกเขียนขึ้น เพดานแตกออก — ไม่ใช่สู่ท้องฟ้าแต่สู่ความทรงจำอันบริสุทธิ์ เศษเสี้ยวของช่วงเวลาในวัยเด็กโปรยปรายลงมาราวกับหิมะที่ทำจากภาพถ่าย เธอถือเทียนที่เผาไหม้ย้อนกลับ — เปลวไฟดึงความมืดเข้าหาตัวแทนที่จะผลักแสงออกไป ใบหน้าของเธอสว่างไสวในทางกลับกัน หนังสือเริ่มเขียนตัวเอง — ปากกาขนนกหลายพันเล่มเคลื่อนไหวด้วยตัวเองบนกระดาษหนังที่ลอยอยู่ ขณะที่เธอมองดูด้วยน้ำตาที่เงียบงัน เฟรมสุดท้าย: เธอปิดหนังสือเล่มสุดท้ายที่มีอยู่ — ห้องสมุดทั้งแห่งกลั้นหายใจ ทุกหน้ากระดาษที่ลอยอยู่หยุดนิ่งกลางอากาศ ฝุ่นสีทองแขวนลอยอยู่ทุกหนทุกแห่ง เธอมองตรงมาที่กล้องเป็นครั้งแรกพร้อมรอยยิ้มเล็กๆ ที่ดูเหมือนรู้ทัน — ราวกับว่าเธอเพิ่งอ่านเรื่องราวของคุณจบ สไตล์: แฟนตาซีเหนือจริงโทนดาร์ก, ภาพยนตร์มุมกว้างผสมผสานกับภาพระยะใกล้ที่ใกล้ชิด, สถาปัตยกรรมที่เป็นไปไม่ได้, แสงเรืองแสงจากสิ่งมีชีวิต, จานสีหมึกและแสงดาว — สีน้ำเงินเข้ม, ทอง, งาช้าง, ดำสนิท — เกรนฟิล์ม, แสงแฟลร์แบบอนามอร์ฟิก, ความสมจริงแบบภาพวาดผสมผสานกับความฝันที่เป็นไปไม่ได้, ไม่มีลักษณะของ CGI — ให้ความรู้สึกเหมือนทำด้วยมือ มีความโบราณและไร้ขอบเขตในเวลาเดียวกัน
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ceacb18e25caed90af0eba5b8268e5b7/thumbnails/thumbnail.jpg" width="600" alt="ฉากแฟนตาซีเหนือจริงของบรรณารักษ์ข้ามมิติ">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5312)**
-
-**ผู้เขียน:** [simply](https://x.com/kingofdairyque) | **แหล่งที่มา:** [Link](https://x.com/kingofdairyque/status/2059211279248810109) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### การทำแอนิเมชันตัวละคร Hina ด้วยการแมปสตอรีบอร์ด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแบบมีโครงสร้างสำหรับ Seedance 2.0 ที่ใช้รูปภาพอ้างอิงหลายภาพ รวมถึงแผ่นตัวละคร (character sheets) และสตอรีบอร์ด เพื่อทำแอนิเมชันตัวละคร Hina โดยยังคงการจัดเฟรมที่สม่ำเสมอ
-
-#### 📝 พรอมต์
-
-```
-Ref @ Image1(HINA) @ Image2(OKA-SAN) @ Image3(HINA sheet) @ Image4(OKA-SAN sheet) @ Image5(Storyboard 1) — ปฏิบัติตามการจัดเฟรม
-
-HINA LOCKED: เด็กหญิงอายุ 11 ปี, ใบหน้ากลม, ดวงตาสีน้ำตาลเข้มขนาดใหญ่, ผมหน้าม้าตรงสีดำ, กิ๊บติดผมรูปดาวสีเหลือง, เสื้อลายทางสีเหลืองขาวตัวใหญ่
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c20a29670cb3dc8e99dfdb5d0d252484/thumbnails/thumbnail.jpg" width="600" alt="การทำแอนิเมชันตัวละคร Hina ด้วยการแมปสตอรีบอร์ด">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5323)**
-
-**ผู้เขียน:** [Fikkkfx](https://x.com/FikkkFX) | **แหล่งที่มา:** [Link](https://x.com/FikkkFX/status/2059196977045241967) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### จากความเหงาสู่ความหวัง: เรื่องราวในรูปแบบภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เล่าเรื่องราวที่เต็มไปด้วยอารมณ์ความรู้สึก ซึ่งจะนำทางโมเดลผ่านฉากความโดดเดี่ยว ภาพย้อนอดีตที่ชวนให้คิดถึง และแสงอาทิตย์ยามเช้าที่เปี่ยมไปด้วยความหวัง
-
-#### 📝 พรอมต์
-
-```
-วิดีโอเล่าเรื่องราวในรูปแบบภาพยนตร์ที่เต็มไปด้วยอารมณ์ความรู้สึก ความยาว 15 วินาที
-ฉากที่ 1 (0–4 วินาที): ชายหนุ่มนั่งอยู่เพียงลำพังข้างหน้าต่างในคืนที่ฝนตกภายในอพาร์ตเมนต์ที่มืดสลัว เขามีสีหน้าเศร้าสร้อยขณะถือรูปถ่ายเก่าๆ แสงสีฟ้าอ่อนๆ ฝนที่ไหลผ่านกระจก ภาพโคลสอัปที่ดวงตาของเขาในสไตล์ภาพยนตร์ กล้องค่อยๆ เคลื่อนเข้าไปใกล้
-ฉากที่ 2 (4–9 วินาที): ภาพความทรงจำอันอบอุ่นปรากฏขึ้น เป็นภาพการหัวเราะร่วมกับครอบครัวและเพื่อนๆ ในสวนสาธารณะช่วงพระอาทิตย์ตกดิน ช่วงเวลาแห่งความสุขในรูปแบบสโลว์โมชั่น แสงสีทอง รอยยิ้มที่เปี่ยมไปด้วยอารมณ์ บรรยากาศที่ชวนให้คิดถึงวันวาน
-ฉากที่ 3 (9–15 วินาที): กลับมาสู่ปัจจุบัน ชายหนุ่มเดินออกมาข้างนอกในจังหวะที่พระอาทิตย์กำลังขึ้น เขาหลับตาลง สูดหายใจเข้าลึกๆ และยิ้มออกมาอย่างแผ่วเบาขณะที่แสงแดดอุ่นๆ กระทบใบหน้า ซึ่งเป็นสัญลักษณ์ของความหวังและการเยียวยา
-การเล่าเรื่องในรูปแบบภาพยนตร์ที่สมจริงเป็นพิเศษ บรรยากาศภาพยนตร์ที่เต็มไปด้วยอารมณ์ การแสดงที่สมจริง การแสดงออกทางสีหน้าที่ละเอียดอ่อน การเคลื่อนไหวของกล้องแบบถือด้วยมือที่นุ่มนวล ระยะชัดลึกที่ตื้น เกรนฟิล์ม แสงที่ดูมีมิติ สไตล์ดราม่าอารมณ์แบบฮอลลีวูด การเปลี่ยนผ่านฉากที่ราบรื่น คุณภาพระดับภาพยนตร์ 4K
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c58cfc82839c71c7d2044d26290cfbde/thumbnails/thumbnail.jpg" width="600" alt="จากความเหงาสู่ความหวัง: เรื่องราวในรูปแบบภาพยนตร์">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5304)**
-
-**ผู้เขียน:** [Zeeshi](https://x.com/AIwithZeeshi) | **แหล่งที่มา:** [Link](https://x.com/AIwithZeeshi/status/2059192119135436922) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### Lotus Evija สีเงิน ดริฟต์ยามค่ำคืนในเมือง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอสมจริงความยาว 10 วินาทีของรถ Lotus Evija สีเงินที่กำลังดริฟต์อย่างนุ่มนวลบนถนนในเมืองที่พลุกพล่านยามค่ำคืน
-
-#### 📝 พรอมต์
-
-```
-รถ Lotus Evija สีเงินจอดอยู่ข้างถนนในเมืองที่พลุกพล่านยามค่ำคืน มีรถยนต์และรถจักรยานยนต์ขับผ่านไปมาในขณะที่ผู้คนหันมามองรถคันนี้อย่างเป็นธรรมชาติ ทันใดนั้น Lotus ก็เร่งความเร็วและดริฟต์อย่างนุ่มนวลและสมจริงเข้าสู่ถนนสายหลัก การจราจรโดยรอบชะลอตัวและหลบทางให้อย่างเป็นธรรมชาติ มีแสงสะท้อนบนพื้นยางมะตอยเปียก ควันยางจางๆ มุมกล้องแบบถือถ่ายบนถนน การเคลื่อนไหวของช่วงล่างที่สมจริง โมชั่นเบลอที่เป็นธรรมชาติ แสงไฟในเมืองแบบภาพยนตร์ ฟุตเทจสมจริงระดับสูง ไม่ดูเหมือน CGI ถ่ายต่อเนื่อง 10 วินาที ความละเอียด 4K
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e65b6d11b06cc5c74876bec85617e98/thumbnails/thumbnail.jpg" width="600" alt="Lotus Evija สีเงิน ดริฟต์ยามค่ำคืนในเมือง">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5298)**
-
-**ผู้เขียน:** [AQ Baloch](https://x.com/iamaqbaloch) | **แหล่งที่มา:** [Link](https://x.com/iamaqbaloch/status/2059184009519747340) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### แอนิเมชันการทำอาหารอินโดนีเซียแบบดั้งเดิม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอแอนิเมชันการทำอาหารแนวนอนความยาว 15 วินาทีของเมนู Soto Ayam โดยอ้างอิงตามลำดับสตอรีบอร์ดที่กำหนด
-
-#### 📝 พรอมต์
-
-```
-สร้างวิดีโอแอนิเมชันการทำอาหารแนวนอนอัตราส่วน 16:9 ความยาว 15 วินาที โดยอ้างอิงจากภาพสตอรีบอร์ดที่แนบมา
-
-ธีม: Soto Ayam
-
-ปฏิบัติตามลำดับสตอรีบอร์ดดังนี้:
-วัตถุดิบ → การหั่นกระเทียม ขมิ้น และขึ้นฉ่าย →
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c1276de76c0415d16c795a43513ff694/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันการทำอาหารอินโดนีเซียแบบดั้งเดิม">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5319)**
-
-**ผู้เขียน:** [DΞV](https://x.com/junwatu) | **แหล่งที่มา:** [Link](https://x.com/junwatu/status/2059175686397743283) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### Vlog POV บรรยากาศวันแข่งขันฟุตบอลแบบภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Vlog มุมมองบุคคลที่หนึ่ง (POV) สไตล์ภาพยนตร์สุดเร้าใจ ที่ถ่ายทอดอารมณ์ความรู้สึกตลอดวันแข่งขัน ตั้งแต่การเตรียมตัวก่อนเริ่มเกมไปจนถึงการเฉลิมฉลองหลังสิ้นเสียงนกหวีดสุดท้าย
-
-#### 📝 พรอมต์
-
-```
-Football Vlog: พลังแห่งวันแข่งขัน
-Vlog มุมมองบุคคลที่หนึ่ง (POV) สไตล์ภาพยนตร์ที่ถ่ายทอดเส้นทางอารมณ์ตลอดวันแข่งขันฟุตบอล ตั้งแต่การเตรียมตัวไปจนถึงเสียงนกหวีดสุดท้าย
-
-0–3 วินาที: เสียงนาฬิกาปลุกดังขึ้น ภาพสโลว์โมชันระยะใกล้: การผูกเชือกรองเท้าสตั๊ด สวมเสื้อแข่ง มือที่สั่นเล็กน้อย ลมหายใจที่ลึกขึ้น วันแข่งขันเริ่มต้นขึ้นแล้ว
-
-3–6 วินาที: ถึงสนามแข่งขัน ประตูรถบัสเปิดออก แสงแฟลชวูบวาบ เสียงเชียร์จากฝูงชนดังขึ้นเป็นระลอก นักเตะเดินผ่านอุโมงค์ภายใต้เงาที่ดูน่าเกรงขามและแสงไฟจากสนาม
-
-6–9 วินาที: ความเข้มข้นของการวอร์มอัพ ตัดภาพสลับไปมาอย่างรวดเร็ว: การสัมผัสบอล การส่งบอล การวิ่งสปรินต์ การยืดเหยียดกล้ามเนื้อ และฝูงชนที่ค่อย ๆ เข้ามาเต็มที่นั่ง ไฟสนามค่อย ๆ สว่างขึ้นทีละดวงราวกับการเปิดตัวในภาพยนตร์
-
-9–12 วินาที: ความโกลาหลในสนาม เกมการแข่งขันที่รวดเร็ว: การเข้าปะทะ การวิ่งสปรินต์ การสไลด์บอล การเซฟของประตูในจังหวะสโลว์โมชัน หยาดเหงื่อที่กระเซ็น และเสียงเชียร์จากฝูงชนที่ไม่หยุดนิ่ง
-
-12–15 วินาที: ช่วงเวลาตัดสิน ทำประตู / เสียงนกหวีดจบเกม หยุดภาพอารมณ์ความรู้สึก—คุกเข่าลง กำหมัดแน่น กล้องซูมออกให้เห็นภาพสนามที่กำลังเฉลิมฉลองกันอย่างสุดเหวี่ยง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/335f4d383c79b70e5aa73d5684d91433/thumbnails/thumbnail.jpg" width="600" alt="Vlog POV บรรยากาศวันแข่งขันฟุตบอลแบบภาพยนตร์">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5297)**
-
-**ผู้เขียน:** [Nawal](https://x.com/nawalsehar) | **แหล่งที่มา:** [Link](https://x.com/nawalsehar/status/2059168471620223118) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### คำสั่ง : 
-ทำให้ตัวละครในแต่ละช่องของตาราง 12 ช่อง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-#### 📝 พรอมต์
-
-```
-ทำให้ตัวละครในแต่ละช่องของตาราง 12 ช่องในรูปภาพเคลื่อนไหว โดยตัวละครจะต้องไม่เคลื่อนที่ออกนอกขอบเขตของช่องนั้น ๆ และการแสดงออกทางสีหน้า รวมถึงท่าทางจะต้องสอดคล้องและเหมาะสม
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f2917bf953c737cdded1534f0087431/thumbnails/thumbnail.jpg" width="600" alt="คำสั่ง : 
-ทำให้ตัวละครในแต่ละช่องของตาราง 12 ช่อง">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5320)**
-
-**ผู้เขียน:** [GPTProto Official](https://x.com/gptproto) | **แหล่งที่มา:** [Link](https://x.com/gptproto/status/2059162075805683949) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### คอลลาจวล็อกทริปโรดทริปสไตล์อเมริกัน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์รายละเอียดสูงสำหรับสร้างภาพคอลลาจสไตล์วล็อกที่ดูสมจริงและมีความวุ่นวายจากการเดินทางท่องเที่ยวตามสถานที่ต่าง ๆ ในเมืองของอเมริกา
-
-#### 📝 พรอมต์
-
-```
-สร้างภาพของบล็อกเกอร์สาวชาวอเมริกันที่กำลังออกทริปโรดทริปสำรวจเมืองนิวยอร์กและลอสแอนเจลิส ผ่านช่วงเวลาที่เป็นธรรมชาติรวม 13 ภาพ — เธอมีผมลอนยาวสีบลอนด์อ่อนดูสวยเป็นธรรมชาติ แต่งหน้าแบบโนฟิลเตอร์เผยให้เห็นกระบนใบหน้า สวมใส่เสื้อผ้าสไตล์สตรีทแวร์อเมริกันที่ดูสบาย ๆ เช่น เสื้อยืดวงดนตรีวินเทจตัวโคร่ง กางเกงยีนส์ขาสั้นเอวสูง เสื้อเชิ้ตผ้าแฟลนเนลมือสอง เสื้อฮู้ดครอป รองเท้าผ้าใบสีขาวทรงหนา และรองเท้าบูทหนังที่ผ่านการใช้งานมาแล้ว — มีบุคลิกที่รักอิสระและชอบผจญภัย ภาพถ่ายมีสไตล์แบบคอลลาจจาก iPhone ที่ดูสมจริง มีความไม่สมบูรณ์แบบและดูวุ่นวายตามธรรมชาติ รายละเอียดของแต่ละเฟรม: เซลฟี่ที่ไทม์สแควร์ตอนเที่ยงคืน — ผมยุ่งจากลมแรง แสงนีออนสะท้อนบนพื้นถนนที่เปียกชื้น รถแท็กซี่สีเหลืองที่วิ่งผ่านแบบเบลอ ๆ ภาพแคนดิดที่ร้านของชำในบรูคลินขณะถือแซนด์วิชเบคอนไข่และชีสกับชาเย็น Arizona หัวเราะขณะกำลังกัดแซนด์วิช ติดอยู่ท่ามกลางพายุฝนฤดูร้อนในนิวยอร์ก — วิ่งหลบใต้โครงนั่งร้าน เสื้อฮู้ดเปียกโชก มาสคาร่าเลอะเล็กน้อย แสดงท่าทางหัวเราะอย่างจริงใจ เซลฟี่งานปาร์ตี้บนดาดฟ้าในบรูคลินช่วงโกลเด้นอาวร์ — มีเส้นขอบฟ้าของแมนฮัตตันส่องสว่างอยู่ด้านหลัง ถือแก้วพลาสติกในมือ ดูไร้กังวล ภาพแคนดิดที่ร้านขายของมือสองใน LA — อ้อมแขนเต็มไปด้วยของวินเทจที่เลือกมา ราวแขวนเสื้อผ้าที่ดูวุ่นวายอยู่รอบตัวเธอ ภาพโคลสอัพที่ร้าน In-N-Out Burger — โต๊ะที่ดูรก เบอร์เกอร์ที่กินไปครึ่งหนึ่ง เฟรนช์ฟรายส์แบบ Animal Style กระดาษห่อที่ขยำทิ้ง ความวุ่นวายแบบร้านฟาสต์ฟู้ดที่สมจริง ภาพสะท้อนหน้าต่างบนรถบัส Greyhound ระหว่างพระอาทิตย์ตกดินในทะเลทราย — เงาของต้นกระบองเพชร แสงสีส้มอบอุ่นตกกระทบบนใบหน้าของเธอ ปฏิกิริยาขณะล้มกลางลานสเก็ตที่ Venice Beach พร้อมเสียงหัวเราะ — ภาพเบลอจากการเคลื่อนไหว แสงนีออนย้อนยุคอยู่ทั่วทุกที่ ภาพแคนดิดบนเส้นทางเดินป่าที่ Hollywood Hills — เห็นหมอกควันจากไฟป่าอยู่ไกล ๆ ดูเหนื่อยล้าแต่ยังยิ้มได้ ถือขวดน้ำในมือ เซลฟี่บนดาดฟ้าในนิวยอร์กตอนตี 2 — ผังเมืองที่ส่องสว่างไม่สิ้นสุดอยู่เบื้องล่าง ภาพเบลอจากลม ผมกระจัดกระจาย ภาพเต้นรำแบบเบลอ ๆ ภายในบาร์ลับที่มืดสลัวในบรูคลิน — ป้ายเบียร์นีออน พลังงานจากฝูงชน ความเคลื่อนไหวอยู่ทุกที่ บูธในร้านอาหารช่วงดึก — ไอระเหยจากแก้วกาแฟทำให้เลนส์มัวเล็กน้อย แพนเค้กที่กินไปครึ่งหนึ่ง แววตาที่เหนื่อยล้าแต่มีความสุข เฟรมสุดท้าย: กำลังให้อาหารนกพิราบในมุมเงียบ ๆ ของ Central Park ช่วงโกลเด้นอาวร์ พร้อมเสียงหัวเราะหลังจากนกตัวหนึ่งบินมาเกาะบนหัวเธอโดยไม่คาดคิด — ภาพแคนดิดที่สั่นไหว แสงสีทองแบบภาพยนตร์ ใบไม้ร่วงอยู่รอบตัว ความสุขที่ดูจริงใจและยุ่งเหยิง เป็นช่วงเวลาที่ไม่ได้จัดฉากเลย สไตล์: คอลลาจวล็อกอเมริกันที่สมจริง ให้ความรู้สึกเหมือนถ่ายด้วยกล้องสมาร์ทโฟน บรรยากาศเมืองยามค่ำคืนที่มีแสงนีออน ภาพเบลอจากการเคลื่อนไหว การเล่าเรื่องการเดินทางที่สมจริง การจัดเฟรมแบบถือกล้องด้วยมือ พื้นผิวผิวหนังที่สมจริง แสงธรรมชาติ มีเกรนเล็กน้อย หมอกฤดูร้อน ความสมจริงแบบ Gen Z บนโซเชียลมีเดีย ไม่มีการแต่งภาพแบบสตูดิโอ ความทรงจำจากการโรดทริปที่วุ่นวายแต่สวยงาม พลังงานของเมืองสไตล์ภาพยนตร์
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b05e385a31d715cccf311787ef01717/thumbnails/thumbnail.jpg" width="600" alt="คอลลาจวล็อกทริปโรดทริปสไตล์อเมริกัน">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5306)**
-
-**ผู้เขียน:** [Anissa](https://x.com/SimplyAnnisa) | **แหล่งที่มา:** [Link](https://x.com/SimplyAnnisa/status/2059142293177749693) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### ลำดับภาพการขึ้นรถและขับรถสไตล์ภาพยนตร์
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> ชุดคำสั่งสตอรีบอร์ดแบบหลายช็อตที่ครอบคลุม ซึ่งอธิบายถึงตัวละครที่กำลังขึ้นรถ เปลี่ยนเกียร์ และขับออกไป โดยเน้นมุมกล้องที่เฉพาะเจาะจงและรายละเอียดแบบโคลสอัพเพื่อการสร้างวิดีโอที่มีความไดนามิก
-
-#### 📝 พรอมต์
-
-```
-ตัวละครนี้: 1) ภาพโคลสอัพมือที่จับลูกบิดประตู 2) กำลังก้าวขึ้นรถ 3) มุมมองจากด้านล่างเฉียงขึ้นไปขณะนั่งบนเบาะคนขับและจับพวงมาลัย 4) ภาพโคลสอัพมือที่กำลังเปลี่ยนเกียร์ธรรมดา 5) ภาพโคลสอัพเท้าที่กำลังเหยียบคันเร่ง 6) มาตรวัดความเร็วในขณะนั้น 7) ภาพโคลสอัพท่อไอเสียรถยนต์ที่มีควันพุ่งออกมา 8) มุมมองหน้ารถ รถเริ่มเคลื่อนตัว โดยสามารถมองเห็นผ่านหน้าต่างได้ว่าเธออยู่ภายในรถ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/912981a8b236d18c453549d29f13ab6b/thumbnails/thumbnail.jpg" width="600" alt="ลำดับภาพการขึ้นรถและขับรถสไตล์ภาพยนตร์">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5322)**
-
-**ผู้เขียน:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc) | **แหล่งที่มา:** [Link](https://x.com/z933TfmXkaISSVc/status/2059142136222863567) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### ภาพยนตร์แอ็กชันแฟนตาซีสุดอลังการ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับวิดีโอแอ็กชันแฟนตาซีสุดอลังการบน Seedance 2.0 โดยใช้สไตล์ภาพยนตร์ฟอร์มยักษ์ที่สมจริง พร้อมการจัดแสงและการเคลื่อนไหวระดับมืออาชีพ
-
-#### 📝 พรอมต์
-
-```
-วิดีโอแอ็กชันแฟนตาซีระดับภาพยนตร์ความยาว 15 วินาทีแบบหลายช็อต สไตล์ภาพยนตร์ฟอร์มยักษ์ที่สมจริงดั่งภาพถ่าย ให้ความรู้สึกแบบ ARRI Alexa 65 การปรับสีระดับมืออาชีพ มีเกรนฟิล์ม แสงลอดผ่านหิมะอย่างมีมิติ รายละเอียดคมชัด ระยะชัดลึก และการเคลื่อนไหวที่ลื่นไหลความละเอียดสูง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/40a05691afa27ecfb3b7cb0376b4ff17/thumbnails/thumbnail.jpg" width="600" alt="ภาพยนตร์แอ็กชันแฟนตาซีสุดอลังการ">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5316)**
-
-**ผู้เขียน:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | **แหล่งที่มา:** [Link](https://x.com/Diplomeme/status/2059139611348341108) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### การเปลี่ยนร่างเหนือธรรมชาติของหญิงสาวริมทะเลสาบ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแฟนตาซีที่มีรายละเอียดสูง บรรยายถึงการเปลี่ยนร่างเหนือธรรมชาติของหญิงสาวริมทะเลสาบอันเงียบเหงา ครอบคลุมทั้งตัวละคร ฉาก เรื่องราว และคำแนะนำด้านมุมกล้อง
-
-#### 📝 พรอมต์
-
-```
-[character]หญิงสาวลึกลับ อายุ 22 ปี ผมสีดำยาวสลวยพริ้วไหวตามสายลม ดวงตาสีเข้มปกติที่เปลี่ยนเป็นสีม่วงเรืองแสงระหว่างการเปลี่ยนร่าง โครงหน้าคมชัด ผิวซีด รูปร่างสมส่วน สวมแจ็กเก็ตสีเทาเข้มทับชุดสีดำรัดรูป รองเท้าบูทลุยโคลน สีหน้าสงบนิ่งแต่เด็ดเดี่ยว รายละเอียดใบหน้าสมจริง ผิวพรรณดูเป็นธรรมชาติ ท่าทางมั่นใจ มีรอยแผลเป็นจางๆ ที่มือ ออร่าพลังเหนือธรรมชาติที่ทรงพลัง สมจริงระดับภาพถ่าย รายละเอียดสูงมาก กายวิภาคสมจริง ความสมจริงแบบภาพยนตร์ 4K และใบหน้าคงเดิมตลอดทั้งฉาก
-
-[place]พื้นที่รกร้างริมทะเลสาบที่มีดินภูเขาไฟสีดำ ทะเลสาบที่นิ่งสงบและมืดมิด หมอกหนาลอยฟุ้ง สัญลักษณ์โบราณเรืองแสงอยู่ใต้ผิวน้ำ เศษคริสตัลกระจัดกระจายลอยอยู่ในอากาศ ต้นไม้แห้งเหี่ยวตายซาก ท้องฟ้าสีเทาหม่น บรรยากาศเหนือธรรมชาติที่ดูลึกลับ แสงแบบภาพยนตร์ สมจริงระดับภาพถ่าย รายละเอียดสูงมาก ความสมจริงแบบแฟนตาซีมหากาพย์ 4K
-
-[story]หญิงสาวคุกเข่าข้างทะเลสาบที่เงียบสงัดใต้ท้องฟ้าสีเทา เมื่อเธอสัมผัสน้ำ แสงสีม่วงลึกลับก็แผ่กระจายไปทั่วผิวน้ำและสัญลักษณ์โบราณก็ตื่นขึ้นใต้ทะเลสาบ พลังงานก่อตัวรอบตัวเธอ ห่อหุ้มร่างกายด้วยกระแสพลังสีม่วงที่เรืองแสง เกราะรูปร่างคล้ายคริสตัลค่อยๆ ก่อตัวขึ้นในขณะที่ลมพัดแรงขึ้นและน้ำเริ่มลอยตัวรอบๆ ตัวเธอ ทันใดนั้นสิ่งมีชีวิตเงายักษ์ก็ปรากฏตัวออกมาจากหมอกและเข้าโจมตี เธอหลบหลีก ปลดปล่อยพลังใหม่ และเอาชนะสิ่งมีชีวิตนั้นในการต่อสู้ระยะประชิดที่รวดเร็ว เมื่อศัตรูสลายกลายเป็นหมอกสีดำ เธอยืนอยู่เพียงลำพังเหนือทะเลสาบที่สงบนิ่ง ร่างกายเรืองแสงอ่อนๆ ในขณะที่กล้องค่อยๆ ถอยห่างออกไปสู่ภูมิทัศน์อันกว้างใหญ่และอ้างว้าง
-
-[camera]ช็อตต่อเนื่องยาวช็อตเดียว เริ่มต้นจากมุมต่ำใต้น้ำ ค่อยๆ ดันกล้องเข้าไป ลอยขึ้นจากผิวน้ำอย่างนุ่มนวล โคจรแบบไดนามิกระหว่างการเปลี่ยนร่าง ติดตามการเคลื่อนไหวอย่างรวดเร็วในการต่อสู้ ภาพระยะใกล้แบบภาพยนตร์ ค่อยๆ ถอยกล้องออกในตอนท้าย มีโมชั่นเบลอที่สมจริง สไตล์ภาพยนตร์ IMAX ไม่มีการตัดต่อ
-
-[rules]ใบหน้าและชุดเหมือนเดิมตลอดทั้งฉาก ตัวละครมีเอกลักษณ์คงที่ กายวิภาคของผู้หญิงสมจริง การเคลื่อนไหวที่นุ่มนวลและเป็นธรรมชาติ การเปลี่ยนร่างที่ไร้รอยต่อ แสงแบบภาพยนตร์ ไม่มีแขนหรือนิ้วเกิน ไม่มีใบหน้าบิดเบี้ยว ไม่มีการสั่นไหว ไม่มีข้อความ ไม่มีลายน้ำ สมจริงระดับภาพถ่าย รายละเอียดสูงมาก 4K
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8896cb0a54519b54c8509de1e2ec2cc/thumbnails/thumbnail.jpg" width="600" alt="การเปลี่ยนร่างเหนือธรรมชาติของหญิงสาวริมทะเลสาบ">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5291)**
-
-**ผู้เขียน:** [Noor](https://x.com/noorlewisx) | **แหล่งที่มา:** [Link](https://x.com/noorlewisx/status/2059137299473113364) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### การศึกษาตัวละครท่ามกลางบรรยากาศฝนตกบนดาดฟ้าที่แสนเศร้า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ที่มีโครงสร้างชัดเจนและเปี่ยมไปด้วยอารมณ์ เน้นการศึกษาตัวละครเด็กสาวผู้โดดเดี่ยวบนดาดฟ้าท่ามกลางสายฝนในยามเที่ยงคืน
-
-#### 📝 พรอมต์
-
-```
-[character]
-เด็กสาวผู้โดดเดี่ยวยืนอยู่ท่ามกลางสายฝนพร้อมน้ำตาที่คลอเบ้า บรรยากาศแบบภาพยนตร์ที่เต็มไปด้วยอารมณ์ รายละเอียดใบหน้าสมจริง โทนภาพมืดหม่น
-ใบหน้าเดียวกับภาพอ้างอิง
-
-[Place]
-ดาดฟ้าที่เงียบเหงาในช่วงฝนตกหนัก มีแสงไฟนีออนจากตัวเมืองเป็นฉากหลัง ท้องฟ้ามืดครึ้ม หมอกจางๆ แบบภาพยนตร์ บรรยากาศที่บีบคั้นอารมณ์ แสงสะท้อนบนพื้นเปียกชื้น แสงไฟแบบภาพยนตร์ดราม่า บรรยากาศยามเที่ยงคืน
-
-[Story]
-เด็กสาวผู้โดดเดี่ยวยืนนิ่งอยู่บนดาดฟ้าท่ามกลางสายฝนในยามเที่ยงคืน เธอมองดูแสงไฟนีออนของเมืองขณะหวนนึกถึงใครบางคนที่เธอสูญเสียไป สายลมหนาวพัดผ่านเส้นผมที่เปียกชื้นของเธอในขณะที่น้ำตาค่อยๆ ไหลรินจากดวงตา เธอจ้องมองข้อความเก่าๆ ในโทรศัพท์แล้วยิ้มออกมาอย่างเศร้าๆ เสียงฟ้าร้องดังก้องไปทั่วท้องฟ้ามืดมิด กล้องค่อยๆ ซูมเข้าไปที่ดวงตาที่เต็มไปด้วยความรู้สึกของเธอ ในช่วงสุดท้ายเธอเดินจากไปอย่างเงียบเชียบท่ามกลางสายฝน ทิ้งอดีตไว้เบื้องหลัง
-
-[Camera]
-การเคลื่อนกล้องแบบภาพยนตร์ที่เชื่องช้า ภาพโคลสอัพใบหน้าที่เต็มไปด้วยอารมณ์ การเคลื่อนกล้องแบบหมุนรอบตัวเด็กสาวอย่างนุ่มนวล การซูมเข้าที่ดวงตาอย่างมีชั้นเชิง ภาพถ่ายท่ามกลางสายฝนแบบถือกล้องด้วยมือ ฉากหลังแบบซอฟต์โฟกัส ระยะชัดลึกแบบภาพยนตร์ การเคลื่อนไหวของเส้นผมแบบสโลว์โมชั่น ภาพมุมกว้างบนดาดฟ้า การถ่ายทำสไตล์ตัวอย่างภาพยนตร์ ความสมจริงระดับสูง
-
-[Rule]
-เด็กสาวผู้หัวใจสลายที่ซ่อนความเจ็บปวดไว้ภายใต้ความเงียบ เธอสูญเสียคนสำคัญที่สุดในชีวิตไปและใช้เวลาในค่ำคืนอันโดดเดี่ยวเพื่อจดจำความทรงจำเก่าๆ แม้จะมีความเศร้า แต่เธอก็เป็นคนที่เข้มแข็ง สงบนิ่ง และมีพลังทางอารมณ์ที่ลึกซึ้ง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2db642ceb657f04eab08a2020ac1d3fd/thumbnails/thumbnail.jpg" width="600" alt="การศึกษาตัวละครท่ามกลางบรรยากาศฝนตกบนดาดฟ้าที่แสนเศร้า">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5308)**
-
-**ผู้เขียน:** [Zyrella](https://x.com/Zyrellix) | **แหล่งที่มา:** [Link](https://x.com/Zyrellix/status/2059137091695772059) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### ลำดับภาพชีวิตสไตล์ภาพยนตร์ในช่วงเวลา Golden Hour
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอสไตล์ภาพยนตร์แบบหลายช็อต ที่ถ่ายทอดลำดับภาพชีวิตในฝันแบบสโลว์โมชัน ท่ามกลางแสงอาทิตย์อัสดงที่ไม่มีวันสิ้นสุด
-
-#### 📝 พรอมต์
-
-```
-POV: ชีวิตของคุณในห้วงเวลา Golden Hour อันแสนอบอุ่นตลอดกาล
-ลำดับภาพชีวิตสไตล์ภาพยนตร์ที่ให้ความรู้สึกเหมือนเวลาหยุดนิ่งอยู่ท่ามกลางแสงอาทิตย์อัสดงที่อบอุ่นไม่รู้จบ
-
-0–3 วินาที: เริ่มต้นเช้าวันใหม่ แต่แทนที่จะเป็นแสงแดดจ้า ทั้งห้องกลับเต็มไปด้วยแสงสีทองนวลตา แสงอาทิตย์สาดส่องผ่านผ้าม่านอย่างแผ่วเบา ละอองฝุ่นลอยละล่องอย่างช้าๆ ในอากาศที่อบอุ่น ขณะที่ตัวละครลืมตาขึ้นอย่างสงบ
-
-3–6 วินาที: ช่วงเวลาในชีวิตประจำวันดำเนินไปในแบบสโลว์โมชันที่ดูเหมือนฝัน ไม่ว่าจะเป็นการชงกาแฟ การผูกเชือกรองเท้า หรือการเดินไปตามถนนที่เงียบสงบ ทุกอย่างอาบไล้ไปด้วยโทนสีของพระอาทิตย์ตกดินตลอดเวลา ราวกับว่าช่วงเวลานี้ไม่มีวันเปลี่ยนแปลง
-
-6–9 วินาที: การตัดสลับภาพเหตุการณ์ชีวิตที่เรียบง่ายแต่เปี่ยมด้วยอารมณ์ ทั้งรอยยิ้มให้กับคนแปลกหน้า สายลมที่พัดผ่านเส้นผม และแสงสีทองที่สะท้อนบนหน้าต่างและผืนน้ำ ให้ความรู้สึกเหมือนเวลาที่ค่อยๆ ไหลผ่านไปอย่างนุ่มนวลแทนที่จะผ่านไปอย่างรวดเร็ว
-
-9–12 วินาที: เมืองที่เคลื่อนไหวอย่างสอดประสานกันอย่างสงบ ไฟจราจรเปล่งแสงสีอุ่น ผู้คนเดินอย่างเชื่องช้าด้วยสีหน้าที่ผ่อนคลาย ต้นไม้ไหวเอนภายใต้ท้องฟ้าช่วงพระอาทิตย์ตกดินที่ไม่มีวันมืดมิด ไม่มีเงาที่แข็งกระด้าง มีเพียงแสงบรรยากาศอันอบอุ่นปกคลุมไปทั่วทุกที่
-
-12–15 วินาที: ช็อตสุดท้ายของภาพยนตร์ ตัวละครยืนอยู่บนดาดฟ้ามองลงมายังตัวเมือง ท่ามกลางแสงสีทองที่ไม่มีวันสิ้นสุด ท้องฟ้าไม่เคยเปลี่ยนเป็นมืดมิด และทุกอย่างให้ความรู้สึกเหมือนเป็นความทรงจำที่สงบสุขและถูกแช่แข็งไว้ในกาลเวลาตลอดไป
-
-สไตล์: ความสมจริงระดับภาพยนตร์, สุนทรียภาพแบบ Golden Hour ที่นุ่มนวล, บรรยากาศชวนฝัน, สโลว์โมชันที่นุ่มนวล, ระยะชัดลึกตื้น, เกรนฟิล์มโทนอุ่น, อารมณ์ชวนถวิลหา, บรรยากาศที่เงียบสงบ, การปรับสีระดับภาพยนตร์
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba84c96a3ed372d25834e627753a12c9/thumbnails/thumbnail.jpg" width="600" alt="ลำดับภาพชีวิตสไตล์ภาพยนตร์ในช่วงเวลา Golden Hour">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5290)**
-
-**ผู้เขียน:** [Ali](https://x.com/aiwithaly) | **แหล่งที่มา:** [Link](https://x.com/aiwithaly/status/2059136858102305182) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### การบินโดรน FPV เหนือเทือกเขาหิมาลัย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> การบินโดรน FPV แบบภาพยนตร์ที่รวดเร็วและน่าตื่นตาตื่นใจผ่านเทือกเขาหิมาลัยในช่วงเวลาโกลเด้นอาวร์ พร้อมทิวทัศน์ยอดเขาที่ปกคลุมด้วยหิมะและแสงเงาที่ดูมีมิติ
-
-#### 📝 พรอมต์
-
-```
-การบินโดรน FPV แบบภาพยนตร์ที่รวดเร็วผ่านทิวทัศน์อันยิ่งใหญ่ของเทือกเขาหิมาลัยในช่วงเวลาโกลเด้นอาวร์ ให้ความสมจริงระดับสูง แสงแดดอุ่นพร้อมเงาทอดยาวที่ดูมีมิติ พุ่งทะยานอย่างรวดเร็วเหนือยอดเขาที่ปกคลุมด้วยหิมะและสันเขาที่ขรุขระ ดิ่งลงอย่างรวดเร็วผ่านหุบเขาน้ำแข็งลึกและช่องเขาหิน สานผ่านธงมนตราที่โบกสะบัดบนช่องเขาและหน้าผาสูงชัน บินเลียดต่ำเหนือทะเลสาบน้ำแข็งสีเทอร์ควอยซ์และไหล่เขาที่เป็นขั้นบันได ฉากหลังเป็นเทือกเขาหิมาลัยที่ทอดยาวสุดลูกหูลูกตาพร้อมสายหมอกและยอดเขาที่อยู่ไกลออกไป ระบบกันสั่นที่นุ่มนวลเป็นพิเศษ ลำแสงอาทิตย์ที่ส่องผ่านก้อนเมฆ ความเบลอจากการเคลื่อนไหวแบบภาพยนตร์ที่เข้มข้น การปรับสีระดับภาพยนตร์ ลำดับภาพแบบไดนามิกความยาว 15 วินาที
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/36211b50935991e841736a4bcc235815/thumbnails/thumbnail.jpg" width="600" alt="การบินโดรน FPV เหนือเทือกเขาหิมาลัย">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5295)**
-
-**ผู้เขียน:** [Mr Das](https://x.com/MrDasOnX) | **แหล่งที่มา:** [Link](https://x.com/MrDasOnX/status/2059122426110443646) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### สารคดีชาวประมงน้ำลึก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอสารคดีเชิงภาพยนตร์สำหรับ Seedance 2.0 ที่ถ่ายทอดภาพชาวประมงน้ำลึกมาดเข้มด้วยสุนทรียภาพระดับไฮเอนด์
-
-#### 📝 พรอมต์
-
-```
-ภาพยนตร์สารคดีเกี่ยวกับมหาสมุทรในรูปแบบ Cinematic หัวข้อ: ชาวประมงน้ำลึกรูปร่างกำยำ หน้าตาหล่อเหลามาก วัย 27 ปี โครงหน้าคมชัด ดวงตาสงบนิ่งและเฉียบคม มีเคราสั้นดูสะอาดตา ไหล่กว้างแบบนักกีฬา ผิวสีแทนตามธรรมชาติแบบคนทำงานกลางแจ้ง สวมชุดกันฝนสีเหลืองหนา
-```
-
-<img src="https://cms-assets.youmind.com/media/1779866613303_mkbqy7_HJNvvwHb0AA9LKV.jpg" width="600" alt="สารคดีชาวประมงน้ำลึก">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5315)**
-
-**ผู้เขียน:** [𝐌](https://x.com/Strength04_X) | **แหล่งที่มา:** [Link](https://x.com/Strength04_X/status/2059113269479268451) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### ชีวิตประจำวันแบบเลื่อนภาพต่อเนื่องในสไตล์ภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ช็อตติดตามผลงานแบบต่อเนื่องไร้รอยต่อความยาว 15 วินาที ที่ติดตามบุคคลหนึ่งผ่านกิจวัตรประจำวันของพวกเขาในขณะที่สภาพแวดล้อมเปลี่ยนแปลงไปรอบตัว
-
-#### 📝 พรอมต์
-
-```
-ลำดับภาพแบบเลื่อนต่อเนื่องในสไตล์ภาพยนตร์ อัตราส่วน 16:9 ความยาว 15 วินาที ถ่ายทำแบบช็อตเดียวต่อเนื่องโดยไม่มีการตัดต่อ กล้องจะแพนจากซ้ายไปขวาอย่างนุ่มนวล ติดตามบุคคลคนเดียวตลอดทั้งวันในขณะที่สภาพแวดล้อมเปลี่ยนไปอย่างแนบเนียน เริ่มต้นในห้องนอนที่มืดมิด เสียงนาฬิกาปลุกดังขึ้น บุคคลนั้นขยับตัวใต้ผ้าห่มด้วยความงัวเงียและเอื้อมมือไปปิดเสียง เลื่อนไปทางขวา — ห้องน้ำ กำลังล้างหน้า แปรงฟัน และจ้องมองตัวเองในกระจกครู่หนึ่ง เลื่อนไปทางขวา — ห้องครัว กาแฟกำลังชง ขนมปังปิ้งเด้งออกมา รีบทานอาหารขณะยืน โดยมีแสงยามเช้าส่องผ่านหน้าต่าง เลื่อนไปทางขวา — ด้านนอก เมืองที่กำลังตื่นตัว ผู้คนเบียดเสียดในรถไฟใต้ดิน สวมหูฟัง สายตามุ่งมั่นไปข้างหน้า เลื่อนไปทางขวา — ล็อบบี้ออฟฟิศ ประตูลิฟต์เปิดออก รีบเดินไปที่โต๊ะทำงานโดยยังสวมเสื้อโค้ทอยู่ คอมพิวเตอร์กำลังเริ่มระบบ เลื่อนไปทางขวา — ช่วงกลางวันของการทำงาน ก้มหน้าก้มตาอยู่ที่โต๊ะทำงาน เอกสารวางระเกะระกะ โทรศัพท์ดัง กาแฟเริ่มเย็นชืด เลื่อนไปทางขวา — พักเที่ยง นั่งอยู่บนม้านั่งด้านนอกเพียงลำพัง ถือแซนด์วิชในมือ เป็นช่วงเวลาแห่งความสงบครั้งแรกของวัน หลับตาลงชั่วครู่รับแสงแดด เลื่อนไปทางขวา — สิ้นสุดวันทำงาน คลายเนคไท หยิบกระเป๋า ถอนหายใจ แล้วก้าวเดินกลับออกไปในเมือง เลื่อนไปทางขวา — การเดินทางกลับบ้านยามเย็น รถไฟใต้ดินขบวนเดิมแต่เงียบลง ใบหน้าที่ดูเหนื่อยล้าขึ้น พิงศีรษะกับกระจก เลื่อนไปทางขวา — กลับถึงบ้าน ถอดรองเท้าที่หน้าประตู ทิ้งตัวลงบนโซฟา แสงไฟจากเมืองส่องผ่านหน้าต่าง บุคคลนั้นนั่งนิ่งเป็นครั้งแรกของวัน หลับตาลง ห้องค่อยๆ มืดลง การออกแบบเสียงสอดคล้องกับทุกช่วงเวลา ทั้งเสียงนาฬิกาปลุก เสียงน้ำไหล เสียงเครื่องชงกาแฟ เสียงรถไฟใต้ดินและเสียงผู้คน เสียงพูดคุยในออฟฟิศและเสียงพิมพ์คีย์บอร์ด บรรยากาศของเมือง และความเงียบในยามค่ำคืน สมจริงระดับภาพถ่าย คุณภาพระดับ IMAX คมชัดสูง ดูเป็นธรรมชาติและเข้าถึงอารมณ์ ใบหน้าเดียวกับภาพอ้างอิง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd4ce08b464f7e686abbdd3c13045536/thumbnails/thumbnail.jpg" width="600" alt="ชีวิตประจำวันแบบเลื่อนภาพต่อเนื่องในสไตล์ภาพยนตร์">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5296)**
-
-**ผู้เขียน:** [Calira](https://x.com/CaliraVal) | **แหล่งที่มา:** [Link](https://x.com/CaliraVal/status/2059110917510672684) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### Renaissance Fighting Game Round 1
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์สำหรับเกมต่อสู้ธีมเรอเนซองส์ ที่มีตัวละคร Mona Lisa และ Venus ในฉากสังเวียนมหาวิหารอันมืดมิด
-
-#### 📝 พรอมต์
-
-```
-Round 1: 
-ใช้ image1 เป็นเฟรมเปิด — MONA LISA อยู่ทางซ้าย, VENUS อยู่ทางขวา HUD เต็มรูปแบบ: แถบพลังชีวิตสีเหลืองทางซ้าย สีเขียวทางขวา, รูปภาพตัวละคร, ชื่อ, ข้อความ ROUND 1 ตรงกลาง, แถบ SUPER ด้านล่าง ฉาก: มหาวิหารยุคเรอเนซองส์อันมืดมิดที่ผสานเข้ากับมหาสมุทรที่มีพายุโหมกระหน่ำ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca347be5001bde8b3b85f5cf16cec802/thumbnails/thumbnail.jpg" width="600" alt="Renaissance Fighting Game Round 1">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5305)**
-
-**ผู้เขียน:** [Ivanna | AI Art & Prompts](https://x.com/ivanka_humeniuk) | **แหล่งที่มา:** [Link](https://x.com/ivanka_humeniuk/status/2059105268760244713) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### ฉากแอ็กชันนักขี่บนรางรถไฟท่ามกลางภูเขาไฟ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ฉากภาพยนตร์สุดระทึกของนักขี่ที่กำลังไถลไปตามรางเหล็กอุตสาหกรรมเหนือทุ่งภูเขาไฟที่กำลังปะทุ พร้อมลาวาและเศษซากที่กระจัดกระจาย
-
-#### 📝 พรอมต์
-
-```
-ฉากภาพยนตร์สมจริงระดับไฮเปอร์เรียลลิสติก นักขี่กำลังไถลด้วยความเร็วสูงไปตามระบบรางเหล็กอุตสาหกรรมที่แขวนอยู่เหนือทุ่งภูเขาไฟที่กำลังปะทุ ลาวาพุ่งขึ้นมาจากด้านล่าง เปลวไฟและเถ้าถ่านฟุ้งกระจายไปทั่วอากาศ สภาพแวดล้อมมีความไม่มั่นคง รางเหล็กบิดเบี้ยว บางส่วนแตกหัก แรงระเบิดของลาวาพุ่งขึ้นมาพร้อมกับความร้อนที่บิดเบือนทัศนวิสัย แอ็กชันเกิดขึ้นอย่างต่อเนื่อง นักขี่ไถลและกระโดดข้ามระหว่างรางโดยยังคงรักษาความเร็วไว้ได้ในขณะที่โครงสร้างกำลังพังทลาย กล้องเคลื่อนที่แบบไร้รอยต่อ เริ่มจากมุมกว้างเหนือทุ่งลาวาแล้วพุ่งเข้าหานักขี่ ล็อกมุมกล้องแบบติดตามระยะใกล้ไปตามราง เคลื่อนที่ตีคู่ไปข้างๆ แล้วยกสูงขึ้นเพื่อเผยให้เห็นรางที่แตกหัก ก่อนจะลดระดับลงใต้รางผ่านประกายไฟและเศษซาก ในช่วงกลางฉาก แรงระเบิดจากภูเขาไฟทำลายรางส่วนสำคัญ นักขี่พุ่งทะลุผ่านเปลวไฟและเถ้าถ่านเพื่อไปยังรางถัดไป กล้องถอยออกเป็นมุมกว้างเพื่อเผยให้เห็นการปะทุ แล้วพุ่งตามนักขี่ผ่านเศษซาก หมุนตัวกลางอากาศ และกลับมาล็อกมุมกล้องติดตามระยะใกล้เมื่อลงสู่พื้น จบด้วยมุมกว้างที่เผยให้เห็นรางที่แตกหักอยู่เบื้องหน้าท่ามกลางความโกลาหลของลาวา
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95af5a9fe86aed05e03d9c942c9d034d/thumbnails/thumbnail.jpg" width="600" alt="ฉากแอ็กชันนักขี่บนรางรถไฟท่ามกลางภูเขาไฟ">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5293)**
-
-**ผู้เขียน:** [Alexandra Aisling](https://x.com/AllaAisling) | **แหล่งที่มา:** [Link](https://x.com/AllaAisling/status/2059099765460070817) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### ฉากสยองขวัญอวกาศแนวคอสมิกกับนักบินอวกาศ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวภาพยนตร์สุดสยองขวัญสำหรับนักบินอวกาศที่กำลังเผชิญกับความโดดเดี่ยวและความโศกเศร้าภายในโมดูลอวกาศอันมืดมิด พร้อมองค์ประกอบความสยองขวัญแนวคอสมิก
-
-#### 📝 พรอมต์
-
-```
-นักบินอวกาศในชุดอวกาศที่เสียหายลอยอยู่ในสภาวะไร้น้ำหนักภายในโมดูลอันมืดมิด มีเพียงแสงจากหมวกนิรภัยที่ส่องสว่าง พวกเขาเอื้อมมือไปหยิบทวิทยุที่ลอยอยู่แล้วกดปุ่ม จากนั้นเสียงของเด็กคนหนึ่งก็ดังแทรกเข้ามา กล้องค่อย ๆ เคลื่อนที่วนรอบตัวพวกเขา เผยให้เห็นลูกเรือที่เสียชีวิตถูกรัดไว้กับที่นั่งในฉากหลัง ความโดดเดี่ยว ความโศกเศร้า และความสยองขวัญแนวคอสมิก — ให้ความรู้สึกอึดอัด ใกล้ชิด และน่าสะพรึงกลัว
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/db54522bc4801e934166dd31373d9908/thumbnails/thumbnail.jpg" width="600" alt="ฉากสยองขวัญอวกาศแนวคอสมิกกับนักบินอวกาศ">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5313)**
-
-**ผู้เขียน:** [Andrew Handley](https://x.com/AndrewHand95) | **แหล่งที่มา:** [Link](https://x.com/AndrewHand95/status/2059090497428476358) | **เผยแพร่เมื่อ:** May 26, 2026
-
----
-### อินโทรภาพยนตร์แนว Dark Fantasy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างฉากภาพยนตร์แนว Dark Fantasy ที่มีความละเอียดสูง นำเสนออัศวินผู้ตกต่ำ เวทมนตร์ที่ถูกกัดกิน และการเปลี่ยนผ่านของฉากในสนามรบที่เต็มไปด้วยความดราม่า
-
-#### 📝 พรอมต์
-
-```
-ฉากอินโทรภาพยนตร์แนว Dark Fantasy, สนามรบที่พังทลายท่ามกลางพายุในยามค่ำคืน, สะเก็ดไฟที่กำลังลุกไหม้ลอยละล่องในอากาศ, ซากปรักหักพังของหิน, เถ้าถ่านและควันปกคลุมพื้นดิน, สายฟ้าในระยะไกลส่องสว่างกระทบโครงสร้างสถาปัตยกรรมแบบโกธิคขนาดใหญ่, บรรยากาศที่เย็นเยียบและลดทอนสีสันด้วยไฮไลต์สีแดงเข้มและสีม่วง
-
-อัศวินผู้ตกต่ำขนาดมหึมาในชุดเกราะสีดำที่ถูกกัดกิน @[Image1] , ใบหน้าที่มีรอยแผลเป็นถูกซ่อนอยู่บางส่วนภายใต้หมวกเกราะที่ขรุขระ, ผมยาวสีเข้มเปียกชื้น, ผ้าคลุมสีแดงฉานที่ขาดวิ่น, ดาบใหญ่ที่ถูกกัดกินซึ่งเรืองแสงด้วยพลังงานสีม่วงเข้ม, แขนข้างหนึ่งถูกกลืนกินด้วยเวทมนตร์แห่งเงา, รูปลักษณ์ที่น่าเกรงขาม, สุนทรียศาสตร์ของนักรบที่โหดเหี้ยมและเก่าแก่
-
-ลำดับฉาก (รวม 10 วินาที):
-
-0–2 วินาที:
-
-ช็อตภาพยนตร์มุมกว้าง — Varen ยืนนิ่งอยู่บนเนินเขาสนามรบที่พังทลาย, ผ้าคลุมสะบัดอย่างรุนแรงตามแรงลมพายุ, พลังงานสีม่วงที่ถูกกัดกินค่อยๆ รั่วไหลออกมาจากถุงมือและดาบ, สายฟ้าแลบเผยให้เห็นรายละเอียดของชุดเกราะและความเสียหายของสนามรบโดยรอบ
-
-2–4 วินาที:
-
-กล้องซูมเข้าช้าๆ — กล้องเคลื่อนไปที่ใบหน้าของเขาภายใต้หมวกเกราะที่เสียหาย, ดวงตาที่เรืองแสงค่อยๆ เงยขึ้นมองกล้อง, เถ้าถ่านลอยผ่านเฟรมภาพ, สีหน้าเย็นชาและเต็มไปด้วยความโกรธแค้นที่ถูกเก็บกดไว้
-
-4–6 วินาที:
-
-พลังมืดเริ่มตื่นขึ้น — พลังงานสีม่วงที่ถูกกัดกินแผ่ขยายอย่างรุนแรงไปทั่วแขนและดาบของเขา, พื้นดินใต้เท้าแตกร้าว, หินและเศษซากลอยขึ้นรอบตัวเขา, ควันหมุนวนอย่างผิดธรรมชาติ
-
-6–8 วินาที:
-
-Varen ลากดาบใหญ่ไปกับพื้นขณะเดินไปข้างหน้าอย่างช้าๆ, ประกายไฟและเปลวไฟที่ถูกกัดกินปะทุขึ้นหลังคมดาบ, กล้องสั่นไหวเล็กน้อยจากน้ำหนักและแรงกระแทกอันมหาศาล
-
-8–10 วินาที:
-
-การแสดงพลังครั้งสุดท้าย — เขากระแทกดาบลงสู่พื้นดิน, คลื่นพลังงานสีม่วงดำขนาดมหึมาระเบิดออกไปทั่วสนามรบ, ผ้าคลุมสะบัดอย่างรุนแรง, เศษซากและพลังงานแห่งเงากลืนกินเฟรมภาพขณะที่กล้องถอยหลังอย่างรวดเร็ว
-
-กล้อง:
-
-เลนส์ภาพยนตร์แบบ Anamorphic, การซูมเข้าแบบดราม่าช้าๆ, การจัดเฟรมแบบฮีโร่ในมุมต่ำ, การสั่นไหวแบบถือกล้องด้วยมือเล็กน้อยในช่วงที่แสดงพลัง, โมชั่นเบลอที่สมจริง, คอนทราสต์แบบภาพยนตร์ระดับสูง
-
-การเรนเดอร์:
-
-CGI ที่สมจริงเป็นพิเศษ, Ray tracing, Global illumination, ชุดเกราะที่เสียหายพร้อมรายละเอียดสูง, การจำลองผ้าและเส้นผมที่สมจริง, ควันแบบ Volumetric, สะเก็ดไฟ, เอฟเฟกต์อนุภาคการกัดกิน, แสงพายุแบบภาพยนตร์
-
-การเคลื่อนไหว:
-
-การเคลื่อนไหวที่หนักแน่นและติดดิน, น้ำหนักของชุดเกราะที่สมจริง, พลังทางกายภาพที่โหดเหี้ยม, เอฟเฟกต์เวทมนตร์มืดที่ทรงพลังแต่ดูน่าเชื่อถือ, ไม่มีการเคลื่อนไหวแบบอนิเมะที่เกินจริง
-
-สไตล์:
-
-ภาพยนตร์ฟอร์มยักษ์แนว Dark Fantasy ระดับ AAA, อารมณ์เข้มข้น, บรรยากาศที่กดดัน, พลังแฟนตาซีแบบภาพยนตร์, คุณภาพเอฟเฟกต์ภาพระดับพรีเมียม
-
-ไม่มีบทพูด, การเล่าเรื่องด้วยภาพล้วนๆ, ความต่อเนื่องของภาพยนตร์ที่ไร้รอยต่อ, พลังงานแบบตัวอย่างภาพยนตร์ออร์เคสตราที่ดราม่า
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7a204603713704a2b5a50e1d555576c9/thumbnails/thumbnail.jpg" width="600" alt="อินโทรภาพยนตร์แนว Dark Fantasy">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5252)**
-
-**ผู้เขียน:** [PixieVerse](https://x.com/itsPixieVerse) | **แหล่งที่มา:** [Link](https://x.com/itsPixieVerse/status/2059003680767238473) | **เผยแพร่เมื่อ:** May 25, 2026
-
----
-### การต่อสู้ UFC สุดสมจริงระหว่างออร์คกับมนุษย์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการสร้างวิดีโอแนว MMA ที่ดุดันและสมจริงระดับภาพยนตร์สำหรับ Seedance 2.0 โดยนำเสนอการต่อสู้ระหว่างออร์คและมนุษย์โร้กในสังเวียนที่เต็มไปด้วยพลัง พร้อมการออกแบบท่าทางที่ละเอียด
-
-#### 📝 พรอมต์
-
-```
-สไตล์: การต่อสู้แฟนตาซีสไตล์ UFC ที่สมจริงสุด ๆ, การต่อสู้ด้วยมือเปล่าที่ดุดัน, พลังงานแบบการถ่ายทอดสดกีฬาในโรงภาพยนตร์, ฟิสิกส์ของกล้ามเนื้อที่สมจริง, เหงื่อ, ปฏิกิริยาเมื่อถูกกระแทก, การเคลื่อนไหวเท้าที่คล่องแคล่ว, จังหวะการต่อสู้ที่รวดเร็วและดุดัน, ไม่มีอาวุธ, ท่าทางการต่อสู้แบบ MMA ที่สมจริงบนพื้น, แสงไฟในสังเวียนที่ดูดราม่า, บรรยากาศผู้ชมที่เข้มข้น, คุณภาพการผลิตระดับ UFC ยุคใหม่
-
-กล้อง:
-ใช้มุมกล้องแบบไอโซเมตริก (Isometric) สไตล์เกม UFC ต่อเนื่องตลอดทั้งวิดีโอ ไม่มีการตัดต่อ มีเพียงการแพนกล้องตามเล็กน้อยเพื่อให้ตัวละครทั้งสองอยู่ตรงกลางเฟรมเสมอ เป็นการจัดเฟรมแบบมุมกว้างเหมือนการถ่ายทอดสดอีสปอร์ตที่คล้ายกับเกมต่อสู้และการแข่งขัน MMA ทางโทรทัศน์
-
-เสียง:
-เสียงผู้บรรยายการต่อสู้ที่ตื่นเต้นเร้าใจคอยพากย์อยู่ตลอดเวลา:
-“โอ้ เขาโดนเข้าแล้ว!”
-“เป็นการสวนกลับที่ยอดเยี่ยม!”
-“Nyssa เร็วเกินไปแล้ว!”
-“Grok กำลังไล่ต้อนเธอ!”
-เสียงเชียร์จากฝูงชนที่ดังสนั่น, เสียงกระแทกกับกรง, เสียงฝีเท้า, เสียงหมัด, เสียงชกเข้าลำตัว, เสียงหอบหายใจอย่างดุดัน มีดนตรีประกอบแนวเพอร์คัสชันที่ให้พลังงานสูงอยู่เบื้องหลังเสียงบรรยาย
-
-ตัวละคร:
-Nyssa — หญิงสาวมนุษย์โร้กที่มีรูปร่างสวยงามและแข็งแรง, นักสู้สไตล์ MMA ที่คล่องแคล่ว, ผมเปียสีเข้ม, ชุดแฟนตาซีผ้าผสมหนังที่ปรับให้เหมาะกับการเคลื่อนไหวในการต่อสู้, การเคลื่อนไหวหลบหลีกที่รวดเร็ว, การโจมตีที่แม่นยำ
-Grok — ออร์คเบอร์เซิร์กเกอร์ร่างยักษ์ที่มีกล้ามเนื้อแน่นสุด ๆ, ผิวสีเขียว, พลังกายมหาศาล, ท่ายืนที่ดูน่าเกรงขาม, นักสู้สายกดดันรุ่นเฮฟวี่เวทที่ดุดัน
-
-สภาพแวดล้อม:
-สังเวียน UFC ระดับมืออาชีพภายในสนามต่อสู้แฟนตาซีใต้ดินขนาดใหญ่ แสงไฟสว่างจ้าจากด้านบน, บรรยากาศที่เต็มไปด้วยควัน, ฝูงชนที่ส่งเสียงกรีดร้องล้อมรอบกรง, พื้นผิวสังเวียนที่สมจริง, รอยเหงื่อที่สะท้อนแสง, ละอองฝุ่นในอากาศที่ดูเหมือนภาพยนตร์
-
-[00:00-00:02]
-เปิดฉากด้วยความตื่นเต้น กล้องไอโซเมตริกเริ่มทำงานทันทีที่ Grok พุ่งตัวเข้าหาอย่างดุดันข้ามสังเวียน ผู้บรรยายตะโกนว่า:
-“ออร์คพุ่งเข้ามาทันที!”
-Nyssa หลบการโจมตีได้อย่างหวุดหวิดในวินาทีสุดท้าย
-
-[00:02-00:05]
-การเคลื่อนไหวที่ไม่หยุดนิ่ง Nyssa วนรอบ Grok อย่างรวดเร็วพร้อมเตะเข้าลำตัวและแย็บหมัด ในขณะที่ Grok เหวี่ยงหมัดหนัก ๆ เข้าใส่ ทุกการปะทะมีปฏิกิริยาตอบสนองและฟิสิกส์ของร่างกายที่สมจริง ไม่มีจังหวะหยุดนิ่ง
-
-[00:05-00:08]
-Grok คว้าตัว Nyssa กลางจังหวะหมุนตัวและเหวี่ยงเธอไปกระแทกกับกรงอย่างสมจริง เธอเด้งออกจากกรงและสวนกลับทันทีด้วยคอมโบ MMA ที่รวดเร็ว ฝูงชนส่งเสียงเฮลั่น
-
-[00:08-00:11]
-การแลกหมัดด้วยแรงกดดันมหาศาล Nyssa ก้มหลบหมัดฮุคขนาดใหญ่ในขณะที่ Grok เดินหน้าบดขยี้อย่างไม่ลดละ เหงื่อกระเด็นจากการปะทะ การเคลื่อนไหวเท้ายังคงหนักแน่นและสมจริง กล้องติดตามการกระทำจากมุมไอโซเมตริกเดิมอย่างต่อเนื่อง
-
-[00:11-00:13]
-Nyssa กระโดดเข่าลอยเข้าหน้า Grok ทำให้ Grok เซถอยหลังแต่ก็สวนกลับด้วยการพยายามทุ่มตัวอย่างดุดัน ผู้บรรยายตะโกนแข่งกับเสียงเชียร์ของฝูงชนตลอดเวลา
-
-[00:13-00:15]
-จุดไคลแมกซ์สุดท้าย นักสู้ทั้งสองเหนื่อยล้าแต่ยังคงโจมตีไม่หยุดที่กลางสังเวียน Grok เหวี่ยงหมัดยักษ์ในขณะที่ Nyssa สวนกลับด้วยศอกหมุน เกิดจังหวะหยุดนิ่งที่ดูดราม่าก่อนที่หมัดและศอกจะปะทะกัน ท่ามกลางเสียงเฮของฝูงชนที่ระเบิดออกมา
-
-Negative prompts:
-ไม่มีอาวุธ, ไม่มีพลังเวทมนตร์, ไม่มีการสโลว์โมชั่น, ไม่มีการตัดต่อ, ไม่มีการเคลื่อนไหวแบบอนิเมะที่ไม่สมจริง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a5831ab4b19cabbcb5c03be7c0f46ca5/thumbnails/thumbnail.jpg" width="600" alt="การต่อสู้ UFC สุดสมจริงระหว่างออร์คกับมนุษย์">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5253)**
-
-**ผู้เขียน:** [Keskin](https://x.com/craftian_keskin) | **แหล่งที่มา:** [Link](https://x.com/craftian_keskin/status/2058983493078528318) | **เผยแพร่เมื่อ:** May 25, 2026
-
----
-### โฆษณาอาหารสไตล์ทรอปิคอลญี่ปุ่น
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> บทโฆษณาอาหารเชิงภาพยนตร์ 4 ส่วนที่ซับซ้อน นำเสนอหญิงสาวชาวญี่ปุ่นที่กำลังทำอาหารด้วยซอสสูตรพิเศษบนชายหาดเขตร้อน
-
-#### 📝 พรอมต์
-
-```
-พรอมต์สำหรับวิดีโอ AI เชิงภาพยนตร์ทุก ๆ 15 วินาที สไตล์โฆษณาอาหารระดับพรีเมียมที่สมจริงเป็นพิเศษ รักษาตัวละครหญิงชาวญี่ปุ่นคนเดิมไว้ในทุกฉาก แสงแดดสีทองยามเย็น ชายหาดเขตร้อน ทะเลสีเทอร์ควอยซ์ ระยะชัดลึกตื้น สีสันสดใส และการถ่ายทำแบบภาพยนตร์ หญิงสาวเพลิดเพลินกับการทำอาหารพร้อมพูดภาษาญี่ปุ่นอย่างเป็นธรรมชาติ
-
-ส่วนที่ 1 — 0-15 วินาที "การเตรียมการในบรรยากาศเขตร้อน"
-หญิงสาวชาวญี่ปุ่นวัย 20 ต้น ๆ ผมยาวสีน้ำตาลเข้มเป็นลอน แต่งหน้าลุคธรรมชาติ สวมชุดเดรสลายดอกไม้สีครีม เดินเท้าเปล่าบนชายหาดเขตร้อนขณะจัดเตรียมวัตถุดิบสดใหม่บนโต๊ะ ผมพลิ้วไหวตามสายลมทะเลอย่างเป็นธรรมชาติ เริ่มต้นด้วยการถ่ายทำด้วยโดรนแบบภาพยนตร์ ตามด้วยภาพโคลสอัพของวัตถุดิบ หญิงสาวโชว์ซองซอส "Flavorful Sweet Sauce Supreme Edition" สีดำทองให้กล้องดูพร้อมรอยยิ้ม
-บทสนทนาภาษาญี่ปุ่น:
-"วันนี้ฉันจะทำบาร์บีคิวริมหาดสุดพิเศษด้วยซอสสูตรเด็ดของฉันค่ะ!"
-แสงอาทิตย์อัสดงที่อบอุ่น ทะเลที่สดชื่น ให้ความรู้สึกหรูหราและผ่อนคลายแบบรีสอร์ต
-
-ส่วนที่ 2 — 15-30 วินาที "ซอสสูตรพิเศษ"
-ฉากการทำอาหารที่สมจริงเป็นพิเศษ หญิงสาวค่อย ๆ เทซอสถั่วเหลืองรสหวานที่ข้นและเงางามลงบนเนื้อไก่ดิบในชาม ภาพมาโครแสดงให้เห็นซอสที่สะท้อนแสงและไหลอย่างสวยงาม เธอทาซอสลงบนไม้เสียบอย่างพิถีพิถันด้วยแปรง พริกหยวกแดงและเขียว หอมหัวใหญ่ และเนื้อไก่ดูสดใส
-บทสนทนาภาษาญี่ปุ่น:
-"กลิ่นหอมหวานเผ็ดร้อนนี้ชวนหิวจริง ๆ เลยค่ะ!"
-ภาพโคลสอัพสไตล์ภาพยนตร์ การเคลื่อนกล้องที่นุ่มนวล และพื้นผิวอาหารที่กระตุ้นความอยากอาหาร
-
-ส่วนที่ 3 — 30-45 วินาที "ช่วงเวลาแห่งความฉ่ำวาว"
-ไม้เสียบย่างส่งเสียงฉ่าบนเตาย่างริมหาด ภาพโคลสอัพของเปลวไฟ ควัน ซอสที่เคลือบเงา และน้ำจากเนื้อ หญิงสาวอมยิ้มและพลิกไม้เสียบขณะเพลิดเพลินกับการทำอาหาร ภาพสโลว์โมชั่นสไตล์ภาพยนตร์และแสงสะท้อนจากเปลวไฟ
-บทสนทนาภาษาญี่ปุ่น:
-"ว้าว! ย่างได้ที่กำลังดีเลย! ดูน่าทานมากค่ะ!"
-แสงอาทิตย์อัสดงที่อบอุ่นสะท้อนบนเตาย่าง บรรยากาศโฆษณาอาหารระดับพรีเมียม
-
-ส่วนที่ 4 — 45-60 วินาที "อิตาดาคิมัส"
-หญิงสาวถือไม้เสียบที่ย่างเสร็จแล้วนั่งบนเก้าอี้ชายหาดโดยมีชามสีขาวในมือ ฉากหลังเป็นทะเล เธอหยิบไม้เสียบขึ้นมาจ่อที่ปากพร้อมรอยยิ้มแล้วกัดหนึ่งคำ ปฏิกิริยาแห่งความสุขในวินาทีที่ได้ลิ้มรส ภาพปิดท้ายโชว์สินค้าหลัก ซองซอส "Flavorful Sweet Sauce Supreme Edition" สีดำทองวางอยู่ตรงกลางบนเขียงไม้ ล้อมรอบด้วยไม้เสียบย่างและผักสดใหม่
-บทสนทนาภาษาญี่ปุ่น:
-"อื้ม! สุดยอดไปเลย! ซอสนี้อร่อยจริง ๆ ค่ะ!"
-สุดท้ายหญิงสาวยิ้มให้กล้อง ปิดท้ายด้วยโลโก้สไตล์ภาพยนตร์ แสงอาทิตย์อัสดงเขตร้อนที่อบอุ่น สไตล์โฆษณาอาหารระดับไฮเอนด์ ความสมจริงระดับ 8K
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a91b84af67b24d92401eb5265af45d3/thumbnails/thumbnail.jpg" width="600" alt="โฆษณาอาหารสไตล์ทรอปิคอลญี่ปุ่น">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5260)**
-
-**ผู้เขียน:** [Sharon Riley](https://x.com/Just_sharon7) | **แหล่งที่มา:** [Link](https://x.com/Just_sharon7/status/2058948614555386160) | **เผยแพร่เมื่อ:** May 25, 2026
-
----
-### จากสตอรี่บอร์ดสู่พิมพ์เขียวภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ที่ใช้สตอรี่บอร์ดเป็นพิมพ์เขียวโดยตรงสำหรับการถ่ายทำภาพยนตร์ความยาว 15 วินาที โดยไม่รวมองค์ประกอบ UI เช่น ขอบและป้ายกำกับ
-
-#### 📝 พรอมต์
-
-```
-ใช้ @[storyboard ref] เป็นพิมพ์เขียวหลักสำหรับการถ่ายทำภาพยนตร์ความยาว 15 วินาที ห้ามเรนเดอร์ตัวแผ่นสตอรี่บอร์ดออกมา: ให้ตัดขอบช่องภาพ หัวข้อ ข้อความ ป้ายกำกับ การ์ดโปรเจกต์ และผู้กำกับออกทั้งหมด
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/641ce884fdaa26d1c7f1153e15ebb2f5/thumbnails/thumbnail.jpg" width="600" alt="จากสตอรี่บอร์ดสู่พิมพ์เขียวภาพยนตร์">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5276)**
-
-**ผู้เขียน:** [Kōda](https://x.com/aimikoda) | **แหล่งที่มา:** [Link](https://x.com/aimikoda/status/2058927365078544761) | **เผยแพร่เมื่อ:** May 25, 2026
-
----
-### ฉากกระโดดหน้าผาสูงชัน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวแอ็กชันแบบภาพยนตร์ สำหรับสร้างลำดับภาพที่เต็มไปด้วยพลังของหญิงสาวที่กำลังกระโดดจากหน้าผาสูงชันลงสู่ผืนน้ำสีคราม
-
-#### 📝 พรอมต์
-
-```
-หญิงสาวกระโดดจากหน้าผาสูงชันลงสู่ผืนน้ำสีครามเบื้องล่าง การเคลื่อนไหวที่รุนแรง ฉากแอ็กชันแบบภาพยนตร์ที่เต็มไปด้วยพลัง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/831c1109abb74e4080baa237042d106a/thumbnails/thumbnail.jpg" width="600" alt="ฉากกระโดดหน้าผาสูงชัน">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5269)**
-
-**ผู้เขียน:** [𝕋𝕀ℝ𝔼𝔻 Oғ 𝗥𝗨𝗚𝗦](https://x.com/Tiredofrugss) | **แหล่งที่มา:** [Link](https://x.com/Tiredofrugss/status/2058925964722053351) | **เผยแพร่เมื่อ:** May 25, 2026
-
----
-### ลำดับท่าทางวิชาอัญเชิญนินจา
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> วิดีโอพรอมต์แบบลำดับเหตุการณ์ที่อธิบายตัวละครกำลังร่ายวิชาอัญเชิญด้วยการตัดสลับฉากหลายมุม รวมถึงการประสานอินและการปรากฏตัวของสัตว์อสูรขนาดใหญ่
-
-#### 📝 พรอมต์
-
-```
-ฉากที่เด็กสาวจากภาพที่ 1 ใช้วิชาอัญเชิญเหมือนในภาพที่ 2
-ฉากที่ 1: ภาพระยะใกล้ตั้งแต่หน้าอกขึ้นไป ขณะที่เธอกำลังประสานอินอย่างรวดเร็ว
-ฉากที่ 2: เธอหมอบลงและแตะที่พื้น เป็นภาพเต็มตัว
-ฉากที่ 3: ภาพระยะใกล้ของมือเธอที่วางอยู่บนพื้นจากมุมมองด้านบน มีอักขระอาคมแผ่ขยายไปทั่วพื้นโดยมีมือของเธอเป็นศูนย์กลาง
-ฉากที่ 4: ภาพหมุนรอบตัวโดยเริ่มจากภาพระยะใกล้ด้านข้างของเด็กสาวจากภาพที่ 1 และจบลงด้วยภาพมุมต่ำจากด้านหน้าของเธอ เป็นฉากทรงพลังที่มีปีศาจขนาดใหญ่ปรากฏตัวขึ้นจากพื้นดินด้านหลังของเธอ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57ba49fc051389dc95ad692fc12dd4c4/thumbnails/thumbnail.jpg" width="600" alt="ลำดับท่าทางวิชาอัญเชิญนินจา">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5277)**
-
-**ผู้เขียน:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc) | **แหล่งที่มา:** [Link](https://x.com/z933TfmXkaISSVc/status/2058924343934267812) | **เผยแพร่เมื่อ:** May 25, 2026
-
----
-### หนังสยองขวัญฉากงูยักษ์อนาคอนด้าถล่มเรือบ้าน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ฉากสัตว์ประหลาดสุดสยองขวัญสำหรับ Seedance 2.0 ที่มีงูอนาคอนด้ายักษ์ขนาด 60 ฟุต บุกโจมตีและคว่ำเรือบ้านในแม่น้ำอเมซอนท่ามกลางพายุ
-
-#### 📝 พรอมต์
-
-```
-ฉากหนังสยองขวัญแนวสัตว์ประหลาดสไตล์ฮอลลีวูดบนแม่น้ำอเมซอนท่ามกลางพายุฝนตกหนักและท้องฟ้ามืดครึ้ม งูอนาคอนด้ายักษ์ขนาดใหญ่กว่า 60 ฟุต ที่มีเกล็ดลวดลายสีเขียวเข้มและดำ ว่ายน้ำอย่างดุร้ายผ่านน้ำสีน้ำตาลขุ่น สร้างคลื่นขนาดใหญ่ขณะไล่ล่าเรือบ้านสองชั้นลำใหญ่ บนดาดฟ้าเรือ ผู้โดยสารต่างตื่นตระหนก: หญิงสาวในเสื้อเชิ้ตสีขาววิ่งกรีดร้อง ชายชราผมขาวทำท่าทางอย่างบ้าคลั่ง คนหนุ่มสาวในเสื้อฮู้ดมัดย้อมกรีดร้องด้วยความกลัว และชายกล้ามโตในเสื้อสีดำชี้มือและตะโกน งูอนาคอนด้าขนาดยักษ์พุ่งเข้าจู่โจมกะทันหัน ขดตัวรัดเรืออย่างทรงพลังและคว่ำเรือลงอย่างรุนแรง ทำให้ผู้คนกระเด็นตกน้ำที่กำลังปั่นป่วน ภาพมีความไดนามิกทั้งมุมสูงที่เห็นการไล่ล่า ความโกลาหลบนดาดฟ้าท่ามกลางฝนตกหนัก ภาพมุมต่ำที่น่าทึ่งของงูอนาคอนด้าที่โผล่ขึ้นมาจู่โจม และฉากเรือคว่ำที่เข้มข้นพร้อมละอองน้ำและคลื่นขนาดใหญ่ รายละเอียดสัตว์ประหลาดสมจริง ฟิสิกส์ของน้ำที่สมจริง แสงพายุแบบภาพยนตร์ งานกล้องที่สั่นไหวและเข้มข้น บรรยากาศสยองขวัญเอาชีวิตรอดที่ตึงเครียด ฉากโจมตีของสัตว์ประหลาดสุดระทึกขวัญความยาว 14 วินาที ฉากขยายความสยองขวัญ (รวม 15 วินาที) ต่อเนื่องจากฉากเรือคว่ำในแม่น้ำกลางป่าท่ามกลางพายุฝน: ช็อตที่ 1 (0-2 วินาที): มุมสูงและใต้น้ำขณะเรือบ้านคว่ำลง ผู้โดยสารหลายคนตกลงไปในน้ำขุ่นที่ปั่นป่วน เห็นขาและเท้าของพวกเขาเตะตะเกียกตะกายอย่างสิ้นหวังจากใต้ผิวน้ำขณะดิ้นรนท่ามกลางคลื่นและละอองน้ำ ช็อตที่ 2 (2-4 วินาที): งูอนาคอนด้ายักษ์ว่ายน้ำอย่างทรงพลังผ่านน้ำในแม่น้ำสีน้ำตาล ร่างกายที่มีลวดลายยาวของมันขดตัวและเลื้อยอยู่ใต้น้ำด้วยการเคลื่อนไหวที่นุ่มนวลและน่ากลัว สร้างฟองอากาศและกระแสน้ำ ช็อตที่ 3 (4-7 วินาที): งูอนาคอนด้ายักษ์จู่โจมจากด้านหลังอย่างกะทันหัน คว้าตัวผู้โดยสารที่กำลังดิ้นรนใต้น้ำและลากลงไปอย่างรุนแรงพร้อมละอองน้ำและการสะบัดตัว ช็อตที่ 4 (7-10 วินาที): ชายหนุ่มในเสื้อฮู้ดมัดย้อมสีสันสดใสว่ายน้ำอย่างบ้าคลั่งไปยังฝั่งที่เป็นโคลน ในพื้นหลัง ชายชราผมขาวและหญิงสาวในเสื้อเชิ้ตสีขาวตะโกนอย่างสิ้นหวังว่า "ว่ายไป! ว่ายไป!" ช็อตที่ 5 (10-15 วินาที): ชายชราและหญิงสาวในเสื้อเชิ้ตสีขาวถึงฝั่ง หันกลับมามองด้วยความสยดสยองขณะเห็นการโจมตี ด้วยความตกใจและหวาดกลัว พวกเขาเริ่มวิ่งเข้าไปในป่าทึบ งูอนาคอนด้ายักษ์ว่ายน้ำอย่างดุร้ายมุ่งหน้าสู่ฝั่ง หัวของมันโผล่พ้นน้ำขณะฉากจบลง ฉากขยายความสยองขวัญต่อเนื่องจากริมฝั่งแม่น้ำท่ามกลางฝนตกหนัก: ช็อตที่ 1 (0-3 วินาที): หญิงสาวในเสื้อเชิ้ตสีขาว ชายหนุ่มในเสื้อฮู้ดมัดย้อม และชายชราผมขาวว่ายน้ำอย่างบ้าคลั่งไปยังฝั่งที่เป็นโคลน ลุยผ่านน้ำตื้น พวกเขาปีนขึ้นบนบก หันกลับมามองด้วยความหวาดกลัวขณะงูอนาคอนด้ายักษ์ว่ายน้ำอย่างดุร้ายมุ่งหน้าสู่ฝั่ง หัวของมันโผล่พ้นน้ำ ช็อตที่ 2 (3-6 วินาที): ผู้รอดชีวิตทั้งสามคนวิ่งหนีอย่างตื่นตระหนกเข้าไปในป่าทึบ งูอนาคอนด้ายักษ์ถึงฝั่ง เลื้อยขึ้นมาอย่างทรงพลัง และเริ่มไล่ล่าพวกเขาผ่านต้นไม้ด้วยการเคลื่อนไหวที่รวดเร็วและรุนแรง ช็อตที่ 3 (6-9 วินาที): ระหว่างการไล่ล่า ชายชราสะดุดล้ม งูอนาคอนด้าเข้ามาใกล้ขึ้นอย่างรวดเร็ว เขาตะโกนอย่างสิ้นหวังว่า "ไป! วิ่งไป!" พร้อมชี้ไปที่โขดหินเล็กๆ ช็อตที่ 4 (9-12 วินาที): หญิงสาวในเสื้อเชิ้ตสีขาวและชายหนุ่มในเสื้อฮู้ดมัดย้อมคลานผ่านช่องหิน/ถ้ำแคบๆ อย่างรวดเร็ว ชายชราอยู่ข้างหลังเพื่อถ่วงเวลา งูอนาคอนด้ายักษ์พุ่งเข้าใส่และจับตัวเขาไว้ ช็อตที่ 5 (12-15 วินาที): ภายในถ้ำที่คับแคบ ผู้รอดชีวิตทั้งสองหันกลับมามองด้วยความสยดสยอง งูอนาคอนด้าพยายามดันหัวขนาดใหญ่ของมันเข้าไปในช่องแคบๆ อ้าปากกว้าง แลบลิ้นยาวๆ เข้าไปข้างใน พยายามจะคว้าตัวพวกเขาแต่ไม่สามารถเข้ามาได้เนื่องจากช่องว่างที่เล็กมาก ช็อตที่ 6 (15-18 วินาที): หญิงสาวในเสื้อสีขาวและชายหนุ่มในเสื้อฮู้ดสีสันสดใสหายใจอย่างโล่งอกภายในซอกหินที่ปลอดภัย ตระหนักว่าพวกเขารอดชีวิตมาได้เพราะการเสียสละของชายชรา ฝนตกอย่างน่าทึ่ง บรรยากาศป่าที่สมจริง สไตล์สยองขวัญเอาชีวิตรอดที่ตึงเครียด รายละเอียดที่สมจริงดั่งภาพถ่าย
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9cebd0c8b791af4346715e40284f6111/thumbnails/thumbnail.jpg" width="600" alt="หนังสยองขวัญฉากงูยักษ์อนาคอนด้าถล่มเรือบ้าน">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5256)**
-
-**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2058911132556153339) | **เผยแพร่เมื่อ:** May 25, 2026
-
----
-### การเปลี่ยนร่างของยักษ์ใหญ่แห่งป่าหลับใหล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เชิงเทคนิคที่ซับซ้อนสำหรับวิดีโอภาพยนตร์ความยาว 15 วินาที ที่แสดงภาพรถบัสร้างในป่ากำลังเปลี่ยนร่างเป็นยักษ์ใหญ่โบราณที่ปกคลุมด้วยมอส
-
-#### 📝 พรอมต์
-
-```
-[ข้อมูลจำเพาะทางเทคนิค]
-สร้างวิดีโอภาพยนตร์ความยาว 15 วินาที อัตราส่วน 16:9 ความละเอียด 720p
-เสียงเริ่มต้นด้วยบรรยากาศป่าช่วงปลายฤดูใบไม้ร่วงที่สมจริง: เสียงใบไม้แห้งกรอบแกรบ เสียงอีกาในระยะไกล และเสียงลมพัดผ่านกิ่งไม้ที่ไร้ใบ ความเงียบสงบถูกทำลายลงอย่างกะทันหันด้วยเสียงโลหะครวญครางจากใต้ดิน เสียงหินบดกัน เสียงรากไม้หัก เสียงไฮดรอลิกทำงาน และดนตรีประกอบแนวแฟนตาซีมืดหม่นสไตล์ภาพยนตร์สัตว์ประหลาด
-
-[ฉาก]
-วิดีโอเปิดขึ้นในป่าอันเงียบสงบช่วงปลายฤดูใบไม้ร่วงที่เต็มไปด้วยใบไม้สีน้ำตาลทองที่ร่วงหล่น
-ใจกลางเฟรมมีรถบัสสีเขียวเก่าแก่ที่ปกคลุมด้วยมอสตั้งอยู่ ถูกธรรมชาติกลืนกินไปครึ่งหนึ่ง หน้าต่างแตก สีซีดจาง และมีเถาวัลย์กับรากไม้พันรอบตัวรถ
-มันดูถูกลืมเลือน เก่าแก่ และดูไม่มีพิษมีภัย
-
-[การตื่นขึ้น]
-กล้องโดรนบินวนรอบรถบัส 360 องศาอย่างช้าๆ ในขณะที่ป่าเริ่มสั่นสะเทือน
-พื้นดินใต้รถบัสแตกออก รากไม้หนาๆ ดึงตัวออกเหมือนสายเคเบิลที่มีชีวิต
-แผ่นโลหะของรถบัสแยกออกจากกัน ไม่ใช่การแยกแบบกลไกที่สะอาดตา แต่เป็นการแยกอย่างรุนแรง เหมือนบางสิ่งที่เก่าแก่และโกรธเกรี้ยวกำลังตื่นขึ้นจากภายใน
-
-กระจกหน้ารถแตกออกกลายเป็นดวงตาสีอำพันที่ส่องแสง
-ล้อรถกางออกกลายเป็นขาเหล็กขนาดมหึมาที่พันด้วยรากไม้
-แผงด้านข้างขยายออกเป็นซี่โครงหุ้มเกราะที่ปกคลุมด้วยมอส เปลือกไม้ สนิม และแผ่นโลหะที่ขรุขระ
-ไฟหน้ารถสว่างวาบเหมือนไฟหลอมละลายในขณะที่รถบัสลุกขึ้นจากพื้นป่า เปลี่ยนร่างเป็นยักษ์ใหญ่แห่งป่าโบราณที่เป็นส่วนผสมระหว่างเครื่องจักร วิญญาณต้นไม้ และสัตว์สงครามที่ถูกลืม
-
-[ผลกระทบต่อสิ่งแวดล้อม]
-เมื่อยักษ์ใหญ่ยืนขึ้น คลื่นกระแทกอันรุนแรงก็ระเบิดออกมาจากพื้นดิน
-ใบไม้แห้งฟุ้งกระจายไปในอากาศเหมือนพายุ
-ต้นไม้ใกล้เคียงโค้งงออย่างรุนแรง กิ่งไม้หักสะบั้นภายใต้แรงปะทะ
-คนขับที่หวาดกลัวถูกเหวี่ยงออกจากประตูรถบัสและลอยขึ้นไปบนท้องฟ้า หมุนเคว้งท่ามกลางกลุ่มฝุ่น ใบไม้ และประกายไฟ
-
-[การถ่ายทำและแสง]
-แสงแดดสีทองยามบ่ายแก่ๆ ส่องผ่านเรือนยอดไม้บางๆ ลงมา กระทบกับดวงตาที่ส่องแสงและเกราะที่เป็นสนิมของสิ่งมีชีวิต
-กล้องลดระดับลงเป็นมุมต่ำสุด (Extreme low-angle) ทำให้ยักษ์ใหญ่ดูใหญ่โตมหาศาลอย่างเหลือเชื่อ
-ฝุ่น ใบไม้ ประกายไฟ และรากไม้ที่แตกหักเต็มไปทั่วเฟรมในขณะที่สิ่งมีชีวิตนั้นเงยหน้าขึ้นและคำรามออกมาด้วยเสียงที่สั่นสะเทือนไปถึงพื้นดิน
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2830cc7445e213f5e0d0804a50743d53/thumbnails/thumbnail.jpg" width="600" alt="การเปลี่ยนร่างของยักษ์ใหญ่แห่งป่าหลับใหล">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5270)**
-
-**ผู้เขียน:** [BMX](https://x.com/bmx_ai13) | **แหล่งที่มา:** [Link](https://x.com/bmx_ai13/status/2058905927429099551) | **เผยแพร่เมื่อ:** May 25, 2026
-
----
-### ฉากต่อสู้ในตลาดนีออนสไตล์ไซเบอร์พังค์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ภาพยนตร์แบบละเอียดสำหรับฉากต่อสู้สไตล์ไซเบอร์พังค์ในตลาดโซลท่ามกลางสายฝน นำเสนอสาวเกาหลีสุดเท่ผมสีขาวเงินพร้อมมีดพลังงาน
-
-#### 📝 พรอมต์
-
-```
-สาวเกาหลีสุดเท่ผมสีขาวเงินในชุดต่อสู้หนังสีดำสุดล้ำยืนอยู่เพียงลำพังท่ามกลางตลาดนีออนไซเบอร์พังค์ที่เนืองแน่นไปด้วยผู้คนในยามค่ำคืน สายฝนโปรยปรายลงมาอย่างหนักบนถนนที่ส่องสว่างไปด้วยป้ายโฮโลแกรมภาษาเกาหลี ช่องระบายไอน้ำ แผงขายอาหาร และฝูงชนที่เดินขวักไขว่ กลุ่มศัตรูที่สวมหน้ากากค่อย ๆ ล้อมรอบตัวเธอ ในขณะที่แสงสะท้อนสีม่วงและสีน้ำเงินจากป้ายนีออนส่องประกายบนพื้นถนนที่เปียกชื้น
-
-ทันใดนั้น เธอพุ่งเข้าสู่ฉากต่อสู้อันดุเดือดด้วยท่วงท่ากายกรรมโดยใช้มีดคู่พลังงานที่ส่องแสง กล้องเคลื่อนที่อย่างมีพลังไปตามเหตุการณ์ด้วยการติดตามแบบภาพยนตร์ที่รวดเร็ว การสโลว์โมชั่นที่เร้าอารมณ์ ลูกเตะหมุนตัว การตีลังกาบนกำแพง และศิลปะการต่อสู้ระยะประชิด ประกายไฟกระเด็นออกมาเมื่อใบมีดปะทะกันในขณะที่แสงนีออนกะพริบบนใบหน้าของเธอ ผมสีเงินของเธอพริ้วไหวอย่างเป็นธรรมชาติในอากาศทุกครั้งที่เคลื่อนไหว
-
-การต่อสู้ทวีความโกลาหลยิ่งขึ้นเมื่อศัตรูโจมตีจากทุกทิศทาง เธอ Slides หลบหมัด กระโดดข้ามแผงขายของในตลาด และแสดงท่าโจมตีหมุนตัวกลางอากาศอย่างมีสไตล์ หยดน้ำฝนหยุดนิ่งในจังหวะสโลว์โมชั่นในช่วงเวลาสำคัญ ในขณะที่แสงสีแบบภาพยนตร์ช่วยขับเน้นทุกการเคลื่อนไหว
-
-ฉากสุดท้ายเผยให้เห็นเธอยืนอยู่เพียงลำพังบนถนนที่ส่องสว่างด้วยแสงนีออน ท่ามกลางศัตรูที่พ่ายแพ้โดยมีสายฝนโปรยปรายลงมาเบา ๆ รอบตัวเธอ กล้องค่อย ๆ ซูมเข้าไปที่สีหน้าอันมุ่งมั่นของเธอในขณะที่แสงไฟของเมืองไซเบอร์พังค์เต้นระริกอยู่เบื้องหลัง
-
-สไตล์: ไซเบอร์พังค์แบบภาพยนตร์สมจริงขั้นสูง, สุนทรียศาสตร์ภาพยนตร์แอ็กชันเกาหลี, การออกแบบฉากต่อสู้ระดับบล็อกบัสเตอร์, การเคลื่อนไหวของกล้องแบบไดนามิก, สภาพแวดล้อมนีออนท่ามกลางสายฝน, แสงสีที่เร้าอารมณ์, ฟิสิกส์ที่สมจริง, โมชันเบลอที่นุ่มนวล, พื้นผิวรายละเอียดสูง, ระยะชัดลึกแบบภาพยนตร์, ความสมจริงที่ได้รับแรงบันดาลใจจากอนิเมะ, บรรยากาศโซลแห่งอนาคต, คุณภาพระดับภาพยนตร์ 4K
-
-Negative prompt: ภาพเบลอ, กายวิภาคผิดเพี้ยน, อวัยวะเกิน, นิ้วหัก, ใบหน้าบิดเบี้ยว, คุณภาพต่ำ, การเคลื่อนไหวแข็งทื่อ, การต่อสู้ที่ไม่สมจริง, ตัวละครซ้ำซ้อน, แสงกะพริบ, สไตล์การ์ตูน, ฟิสิกส์แย่, สภาพแวดล้อมบิดเบี้ยว, สีสดเกินจริง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3839946b6031aec9c7deea0bd07a922a/thumbnails/thumbnail.jpg" width="600" alt="ฉากต่อสู้ในตลาดนีออนสไตล์ไซเบอร์พังค์">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5268)**
-
-**ผู้เขียน:** [Ai Doctor](https://x.com/DoctorAmna11) | **แหล่งที่มา:** [Link](https://x.com/DoctorAmna11/status/2058900941584429197) | **เผยแพร่เมื่อ:** May 25, 2026
-
----
-### สตอรีบอร์ดการแข่งขันวอลเลย์บอลอนิเมะ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สตอรีบอร์ดแบบละเอียดสำหรับการแข่งขันวอลเลย์บอลอนิเมะระหว่างกัปตันทีมคู่ปรับ โดยเน้นการใช้มุมกล้องแบบไดนามิกและเอฟเฟกต์เส้นพลังงาน
-
-#### 📝 พรอมต์
-
-```
-สตอรีบอร์ดวอลเลย์บอลอนิเมะสไตล์ภาพยนตร์ระดับไฮเอนด์ นำเสนอการปะทะกันของกัปตันทีมหญิงระดับแนวหน้าสองคนในรอบชิงชนะเลิศ ภายในสนามกีฬาในร่มสุดล้ำสมัยที่อาบไปด้วยแสงไฟยามค่ำคืนอันน่าตื่นตา KAORI — มือตบจอมพลังผู้ไม่เกรงกลัวใคร มีผมสั้นสีแดงเพลิง สวมชุดแข่งสีดำแดง รูปร่างนักกีฬา และมีเส้นพลังงานสีแดงลุกโชน — ปะทะกับ LYRA — อัจฉริยะด้านกลยุทธ์ผู้เยือกเย็น มีผมเปียสีฟ้าไอซ์บลู สวมชุดแข่งสีขาวฟ้าโฉบเฉี่ยว และมีเส้นสายการเคลื่อนไหวสีฟ้าไซแอนพริ้วไหว
-
-มุมกล้องอนิเมะแบบไดนามิกจับภาพจังหวะการตบลูกอันดุเดือด การบล็อกที่พร้อมเพรียง การพุ่งรับลูกที่ท้าทายแรงโน้มถ่วง การเสิร์ฟแบบสโลว์โมชัน การเซฟลูกกลางอากาศ การต่อสู้ที่ตาข่ายอย่างดุดัน วิถีลูกบอลที่หมุนคว้าง ละอองเหงื่อ ประกายไฟจากการเสียดสีของรองเท้า แสงสะท้อนจากสกอร์บอร์ดที่ส่องสว่าง เงาของฝูงชนที่กำลังส่งเสียงเชียร์ และจังหวะเกมที่พลิกผันอย่างเข้มข้น การเบลอภาพแบบภาพวาดและการบิดเบือนเฟรมภาพอย่างมีชั้นเชิงสร้างสุนทรียภาพแบบฉากเปิดอนิเมะระดับพรีเมียมที่เต็มไปด้วยความเร็วและแรงปะทะ
-
-สไตล์ภาพได้รับแรงบันดาลใจจาก Haikyuu x Arcane ด้วยงานภาพวาดดิจิทัลอาร์ต เส้นความเร็วที่มีสไตล์ แสงริมไลท์ที่คมชัด ระยะชัดลึกแบบภาพยนตร์ การเปลี่ยนมุมมองที่น่าตื่นเต้น ฝีแปรงที่หนักแน่น และการจัดแสงที่มีคอนทราสต์สูงและสดใส พาเลตต์สีเน้นไปที่สีฟ้าไฟฟ้า สีแดงคริมสัน สีดำ สีเงิน สีเขียวไซแอนนีออน และไฮไลต์สีขาวของสนามกีฬา องค์ประกอบภาพสุดท้ายเป็นจังหวะหยุดนิ่งที่ทั้งสองคู่ปรับลอยตัวอยู่กลางอากาศเหนือตาข่าย โดยมีลูกวอลเลย์บอลเรืองแสงอยู่ตรงกลาง พร้อมตัวอักษรหนาที่ระบุว่า: “ONLY ONE WILL RULE THE SKY.”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/897479803ed1917e64781cc5a307d292/thumbnails/thumbnail.jpg" width="600" alt="สตอรีบอร์ดการแข่งขันวอลเลย์บอลอนิเมะ">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5255)**
-
-**ผู้เขียน:** [Smiling Khan](https://x.com/AIwithkhan) | **แหล่งที่มา:** [Link](https://x.com/AIwithkhan/status/2058892633658040675) | **เผยแพร่เมื่อ:** May 25, 2026
-
----
-### การถ่ายทำรายการกีฬาเกาหลี
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> บทสคริปต์แบบละเอียดสำหรับการถ่ายทำรายการกีฬาในสไตล์เกาหลีที่เน้นความสวยงามระดับภาพยนตร์ โดยเป็นการแข่งขันยิงปืน
-
-#### 📝 พรอมต์
-
-```
-การจัดเฟรม / มุมกล้อง | การเคลื่อนไหวของกล้อง | ภาพที่ปรากฏ | เสียง | ระยะเวลา
-1 | Extreme Close-up / ระดับสายตา | นิ่ง | นักกีฬายิงปืนหญิงสวมแว่นยิงปืนสีชมพูโปร่งใส ยกปืนอัดลมสีดำขึ้นด้วยความมุ่งมั่น แสงไฟจากสนามกีฬาในร่มสะท้อนในดวงตาของเธอ | เสียงกลองอิเล็กทรอนิกส์จังหวะเร็วเริ่มขึ้น เสียงฝูงชนพึมพำในพื้นหลัง | 1 วินาที
-2 | Close-up / ระดับสายตา | แรงสะท้อนถอยหลัง | เธอยิงปืน ปืนดีดตัวกลับเล็กน้อยขณะที่ UI เป้าดิจิทัลสีเขียวเรืองแสงแสดงตัวเลข “9.3” บนหน้าจอ | เสียงปืนดังชัดเจน ผู้บรรยายชาวเกาหลีตอบสนองด้วยความตื่นเต้น | 1 วินาที
-3 | Extreme Close-up / มุมข้าง | นิ่ง | นักกีฬาอีกคนผมสั้นสวมแว่นยิงปืนสีฟ้าหลับตาข้างหนึ่งขณะเล็งอย่างใจเย็น แสงแบบภาพยนตร์นุ่มนวลเน้นพื้นผิวใบหน้าของเธอ | ดนตรีมีความตึงเครียดมากขึ้น สนามกีฬาเงียบลง | 1 วินาที
-4 | Close-up / ระดับสายตา | แรงสะท้อนถอยหลัง | เธอยิงด้วยการควบคุมที่สมบูรณ์แบบ ตัวอักษรเรืองแสงขนาดใหญ่ปรากฏขึ้นบนหน้าจอ: “10.4” | เสียงปืนดังสนั่นตามด้วยเสียงเชียร์จากฝูงชนอย่างถล่มทลาย | 1 วินาที
-5 | Medium Shot / มุมข้าง | ตัดภาพเร็ว | นักกีฬาคนแรกแสดงอาการตกใจ ปากอ้ากว้าง ในขณะที่นักกีฬาคนที่สองยิ้มอย่างมั่นใจและลดปืนลง | เสียงผู้บรรยายตะโกนอย่างตื่นเต้น | 1 วินาที
-6 | Close-up / ซูมเข้าช้าๆ | เคลื่อนที่ไปข้างหน้า | นักกีฬาผู้ชนะยิ้มอย่างอ่อนโยนไปที่กล้อง โดยมีแสงไฟในสนามระยิบระยับอยู่ด้านหลังในแบบโบเก้ภาพยนตร์ | ดนตรีเปลี่ยนเป็นทำนองซินธ์ที่เต็มไปด้วยอารมณ์ | 1 วินาที
-7 | Medium Wide Shot | พลังแบบถือกล้อง | เพื่อนร่วมทีมวิ่งเข้ามาเชียร์และปรบมือรอบตัวนักกีฬา บรรยากาศในสนามเต็มไปด้วยพลัง | เสียงปรบมือดังสนั่นและเสียงบรรยากาศฝูงชนที่ตื่นเต้น | 2 วินาที
-8 | Final Close-up | นิ่ง | ภาพสโลว์โมชั่นของนักกีฬาที่กำลังปรับแว่นตาอย่างมั่นใจ ขณะที่กราฟิกคะแนนเรืองแสงอยู่ข้างใบหน้าของเธอ | ดนตรีเข้าสู่จังหวะสุดท้ายและค่อยๆ จางหายไป | 2 วินาที
-
-สไตล์โดยรวม
-สไตล์ภาพ
-ความสวยงามของการถ่ายทอดสดกีฬาเกาหลี
-แสงไฟในสนามแบบ High-key
-พื้นผิวใบหน้าที่สมจริงเป็นพิเศษ
-ระยะชัดลึกที่ตื้น
-การซ้อนทับของ UI สไตล์อีสปอร์ตแบบไดนามิก
-พลังงานแบบภาพยนตร์สไตล์ไอดอลนักกีฬา
-การจัดเฟรมแบบรายการถ่ายทอดสดที่สะอาดตา
-สไตล์เสียง
-เพลงประกอบอิเล็กทรอนิกส์จังหวะเร็วสำหรับกีฬา
-เสียง Foley ของการยิงปืนที่สมจริง
-เสียงผู้บรรยายภาษาเกาหลีที่เต็มไปด้วยพลัง
-เสียงตอบรับจากผู้ชมที่เร้าใจ
-ตอนจบแห่งชัยชนะที่เต็มไปด้วยอารมณ์
-คำค้นหาสำหรับ AI Video
-ไอดอลกีฬาเกาหลี
-การแข่งขันยิงปืน ISAC
-นักกีฬาหญิงสไตล์ภาพยนตร์
-ความสวยงามของแว่นยิงปืน
-การถ่ายทอดสดกีฬาที่สมจริงเป็นพิเศษ
-รายการบันเทิงเกาหลี
-แสงไฟในสนามแบบภาพยนตร์
-แรงสะท้อนปืนแบบสโลว์โมชั่น
-การตัดต่อกีฬาด้วย AI สไตล์ Sora
-ความสวยงามของความตึงเครียดในการแข่งขัน
-บทพูด / ผู้บรรยายภาษาอังกฤษ
-Locked in.
-One shot.
-10.4. 🎯
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9feea5a09872321766484c9a236d96ec/thumbnails/thumbnail.jpg" width="600" alt="การถ่ายทำรายการกีฬาเกาหลี">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5265)**
-
-**ผู้เขียน:** [Ericool 🇲🇾](https://x.com/EricoolWong) | **แหล่งที่มา:** [Link](https://x.com/EricoolWong/status/2058884383600509419) | **เผยแพร่เมื่อ:** May 25, 2026
-
----
-### แอนิเมชันสำหรับสินค้าเครื่องหนังระดับลักชูรี
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับทำวิดีโอแอนิเมชันเพื่อเปลี่ยนสตอรีบอร์ดธีมเครื่องหนังให้เป็นลำดับภาพสไตล์ภาพยนตร์เชิงบรรณาธิการที่ลื่นไหล
-
-#### 📝 พรอมต์
-
-```
-สร้างสตอรีบอร์ดสำหรับนำเสนอสินค้าเครื่องหนังระดับลักชูรีในอัตราส่วน 4:3 แบบตาราง 3x4 (12 เฟรม) จัดวางเลย์เอาต์แบบนิตยสาร สไตล์ Hermès/Il Bisonte ใช้โทนสีน้ำตาลแทน (Cognac tan) และสีเขียวเข้ม (Deep forest green) โครงสร้างการเล่าเรื่อง: หนังดิบ → การตัดเย็บ → การเย็บ → การบ่มหนัง → การเป็นเจ้าของ โดยแต่ละเฟรมแบ่งเป็น: ด้านบนเป็นภาพยนตร์ (ไม่มีข้อความ) + ด้านล่างเป็นโน้ตสตอรีบอร์ด เน้นความสวยงามแบบช่างฝีมือฟลอเรนซ์ อารมณ์งานฝีมือที่ค่อยเป็นค่อยไป และความสมจริงของวัสดุ โดยมีกระเป๋าหนังเย็บมือเป็นจุดศูนย์กลางทางอารมณ์ตลอดทั้งเรื่อง นำสตอรีบอร์ด 3x4 ที่ให้มาทำเป็นวิดีโอแอนิเมชันที่ลื่นไหล รักษาลำดับภาพและความต่อเนื่องให้คงเดิม ใช้ภาพมาโครพื้นผิวหนังแบบช้าๆ การเคลื่อนไหวของการดึงด้ายเย็บหนัง การจับแสงที่อุปกรณ์ทองเหลือง และการซูมให้เห็นร่องรอยของหนัง (Patina) เปลี่ยนแสงจากแสงธรรมชาติในเวิร์กชอปที่ดูเย็นตาไปสู่แสงทังสเตนที่อบอุ่นในสตูดิโอเครื่องหนัง เน้นความสวยงามแบบนิตยสารเครื่องหนัง งานฝีมือที่สืบทอดต่อกันมา และความหรูหราที่สัมผัสได้ ห้ามเพิ่มช็อตใหม่ ห้ามสลับลำดับภาพ และกระเป๋าหนังเย็บมือต้องเป็นจุดสนใจหลักในทุกฉาก
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4246711932335913998d0057fd0e0d41/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันสำหรับสินค้าเครื่องหนังระดับลักชูรี">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5251)**
-
-**ผู้เขียน:** [𝐌](https://x.com/Strength04_X) | **แหล่งที่มา:** [Link](https://x.com/Strength04_X/status/2058854375104327801) | **เผยแพร่เมื่อ:** May 25, 2026
-
----
-### การเปลี่ยนผ่านจากภาพคนจริงสู่ฉากต่อสู้สไตล์อนิเมะ
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พรอมต์สำหรับการสร้างวิดีโอที่มีโครงสร้างชัดเจน โดยแบ่งออกเป็น 7 ส่วน เพื่อสร้างการเปลี่ยนผ่านที่ลื่นไหลและเต็มไปด้วยพลังระหว่างฟุตเทจคนจริงกับฉากต่อสู้สไตล์อนิเมะ
-
-#### 📝 พรอมต์
-
-```
-ส่วนที่ 1: เปิดตัว - เวลา: 00:00 ถึง 00:01 - ภาพระยะใกล้ปานกลาง (Medium-close up), กล้องนิ่ง - กล้อง: ไม่มีการเคลื่อนที่, พลังทำลายล้างสูง, รวดเร็วมาก - การกระทำ: หญิงสาวคนจริงหันหน้าเข้าหากล้อง, เอื้อมมือไปข้างหน้าแล้วดึงกลับ, สีหน้าเย็นชา - เอฟเฟกต์ (VFX): ตัดฉับ (Hard cut) - โทน: สีเทาเย็น. ส่วนที่ 2: แนะนำตัวละคร - เวลา: 00:01 ถึง 00:02 - ภาพระยะใกล้ (Close-up), กล้องซูมเข้าเร็ว - กล้อง: ซูมเข้าอย่างรวดเร็วไปที่ใบหน้า/กำปั้นของตัวเอกชายในอนิเมะ - การกระทำ: สายตาคมกริบ, กำหมัดแน่น - เอฟเฟกต์ (VFX): อนุภาคสายฟ้า - โทน: มืดสลับกับแสงไฟฟ้าที่มีความอิ่มตัวของสีสูง. ส่วนที่ 3: ความจริงปะทะ 2D - เวลา: 00:02 ถึง 00:04 - ภาพระยะปานกลาง (Medium shot), กล้องนิ่งสลับซูมเข้า - กล้อง: ตัดภาพสลับไปมาระหว่างคนจริงกับอนิเมะด้วยความถี่สูง - การกระทำ: ท่าทางมือที่สอดประสานกัน - เอฟเฟกต์ (VFX): การเปลี่ยนผ่านแบบซ้อนทับและแฟลชสีขาว - โทน: สีเทาเย็นปะทะสีแดงเข้ม. ส่วนที่ 4: หยุดภาพและร่ายเวท - เวลา: 00:04 ถึง 00:07 - ภาพระยะปานกลาง (Medium shot), กล้องนิ่งสลับติดตาม - กล้อง: ความเร็วสลับไปมา - การกระทำ: มือไขว้กันและกดลง; ฝ่ามือตัวละครอนิเมะยื่นออกไป - เอฟเฟกต์ (VFX): เอฟเฟกต์พลังงานสีเขียว, การเปลี่ยนผ่านที่ลื่นไหล - โทน: เวทมนตร์ลึกลับ. ส่วนที่ 5: การสลับภาพอย่างรวดเร็ว - เวลา: 00:07 ถึง 00:09 - ภาพระยะใกล้ปานกลาง (Medium-close up), ซูมเข้า-ออก - กล้อง: เร็วมาก - การกระทำ: ร่างผมแดงถือไม้เท้าเปลี่ยนเป็นร่างผมขาว - เอฟเฟกต์ (VFX): แสงสีแดง/เขียว, การเปลี่ยนผ่านแบบฉีกกระชาก - โทน: ความต่างของสีที่มีความอิ่มตัวสูง. ส่วนที่ 6: การสะสมพลัง - เวลา: 00:09 ถึง 00:13 - ภาพระยะใกล้ใบหน้าและมือ - กล้อง: โฟกัสรายละเอียดอย่างนุ่มนวล - การกระทำ: หญิงสาวคนจริงแตะหน้าผาก; ตัวละครอนิเมะประสานมือ - เอฟเฟกต์ (VFX): ไฮไลต์ที่ดวงตา, ฟิสิกส์ของเส้นผม, การบิดเบือนของมิติ - โทน: มืดลึกพร้อมไฮไลต์. ส่วนที่ 7: ระเบิดพลังขั้นสุด - เวลา: 00:13 ถึง 00:15 - ภาพระยะปานกลางถึงภาพกว้างเต็มตัว (Full wide shot), ซูมออกสุด - กล้อง: ซูมออกอย่างรวดเร็วสู่ความว่างเปล่า - การกระทำ: หญิงสาวคนจริงเปลี่ยนผ่านเป็นตัวละครอนิเมะที่ลอยอยู่ - เอฟเฟกต์ (VFX): การผสมผสานที่สมบูรณ์แบบ, พื้นหลังเป็นวังวน, แสงรัศมี, คำบรรยาย - โทน: มหากาพย์สีดำ/ขาว/เทา.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6fbc9b348105d237e840861be53b0bf5/thumbnails/thumbnail.jpg" width="600" alt="การเปลี่ยนผ่านจากภาพคนจริงสู่ฉากต่อสู้สไตล์อนิเมะ">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5275)**
-
-**ผู้เขียน:** [John](https://x.com/johnAGI168) | **แหล่งที่มา:** [Link](https://x.com/johnAGI168/status/2058837160480870652) | **เผยแพร่เมื่อ:** May 25, 2026
-
----
-### POV การต่อสู้บนท้องถนนพร้อมความคงที่ของตัวละคร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์การต่อสู้บนท้องถนนในมุมมองบุคคลที่หนึ่ง (POV) ที่เต็มไปด้วยความตื่นเต้นสำหรับ Seedance 2.0 ซึ่งเน้นการล็อกตัวละครอย่างเคร่งครัดและความสม่ำเสมอของใบหน้าโดยอ้างอิงจากภาพที่อัปโหลด
-
-#### 📝 พรอมต์
-
-```
-POV การต่อสู้บนท้องถนน
-9:16 | 12-15 วินาที | 60fps | 8K
-
-การล็อกตัวละคร: จับคู่ใบหน้าตามภาพอ้างอิงที่อัปโหลดอย่างเคร่งครัด ทั้งรูปทรงดวงตา คิ้ว จมูก ริมฝีปาก โครงกราม ไรหนวด และทรงผม ต้องไม่มีใบหน้าผิดเพี้ยน และต้องคงรายละเอียดของชุดและรูปร่างตามภาพที่อัปโหลดให้ตรงกันตลอดการเคลื่อนไหว
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c0c23d0eaf5429afd2e73251b404b2bc/thumbnails/thumbnail.jpg" width="600" alt="POV การต่อสู้บนท้องถนนพร้อมความคงที่ของตัวละคร">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5274)**
-
-**ผู้เขียน:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | **แหล่งที่มา:** [Link](https://x.com/Diplomeme/status/2058834415212785841) | **เผยแพร่เมื่อ:** May 25, 2026
-
----
-### ฉากต่อสู้ของฮีโร่แนวสตีมพังค์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ที่มีรายละเอียดสูงสำหรับฉากต่อสู้แนวสตีมพังค์ที่รวดเร็วและดุดัน นำเสนอฮีโร่แขนกลในโรงงานอุตสาหกรรม พร้อมคำสั่งเฉพาะสำหรับกล้องและฟิสิกส์
-
-#### 📝 พรอมต์
-
-```
-ฉากแอ็กชันสตีมพังค์แบบสมจริงระดับภาพยนตร์ การต่อสู้ที่รวดเร็วและรุนแรงพร้อมการเคลื่อนที่แบบระเบิดพลัง
-การเคลื่อนไหวทั้งหมดใช้การเร่งความเร็วแบบทันที (จาก 0 ถึงความเร็วสูงสุดในทันที) และหยุดกะทันหันเมื่อปะทะ (ไม่มีการผ่อนความเร็วเข้าหรือออก) แต่ละท่าทางต้องเสร็จสิ้นภายใน 0.2–0.5 วินาที
-ห้ามใช้สโลว์โมชัน ห้ามมีแอนิเมชันที่ดูเบาหวิว ห้ามมีการเคลื่อนไหวแบบสมูทหรือลอยตัว และห้ามมีส่วนโค้งของการเคลื่อนไหวที่ยาวเกินไป
-การเคลื่อนไหวของกล้องต้องดุดันและตอบสนองไว: ใช้การแพนกล้องแบบสะบัด (whip pan), การติดตามวัตถุที่รวดเร็วพร้อมอาการสั่นแบบถือกล้องด้วยมือ (handheld jitter) และการสั่นของกล้องเล็กน้อยในทุกจังหวะการปะทะ กล้องต้องไม่หยุดนิ่งนานเกิน 1 วินาที
-สไตล์การปะทะต้องรุนแรงและหนักหน่วง ศัตรูต้องถูกกระแทกจนกระเด็น ไม่ใช่แค่ผลัก การบิดเบี้ยวของโลหะต้องเห็นได้ชัดเจนพร้อมประกายไฟที่พุ่งออกมาตามทิศทางแรงปะทะ
-เอฟเฟกต์ภาพรวมถึงโมชันเบลอตามธรรมชาติที่เกิดจากความเร็ว การบิดเบือนของอากาศจากความร้อนที่กรงเล็บ และไอน้ำที่ตอบสนองต่อการเคลื่อนไหวอย่างเป็นธรรมชาติ
-การจัดแสงมีความคอนทราสต์สูงแบบโรงงานอุตสาหกรรม พร้อมไฮไลต์ที่ดูดราม่าชัดเจน
-
-ตัวละครหลัก: ชายหนุ่มสวมเสื้อเชิ้ตแขนยาวสีขาวพับแขนเสื้อ สายเอี๊ยมสีน้ำตาลและกางเกงเข้าชุด รองเท้าบูทลุยๆ และสวมแว่นตาข้างเดียว (monocle) แนวสตีมพังค์ แขนทั้งสองข้างเป็นแขนกล (สีขาวและทอง) ใบหน้าชัดเจนและโฟกัสคมชัดพร้อมรายละเอียดพื้นผิวผิวหนังและรูขุมขนที่มองเห็นได้
-
-สภาพแวดล้อม: โรงงานสตีมพังค์ในร่มขนาดใหญ่ที่มีท่อขนาดมหึมา ช่องระบายไอน้ำ โซ่ที่ห้อยลงมา และแท่นโลหะ มีไอน้ำพุ่งออกมาตลอดเวลา โซ่ขยับไหวเล็กน้อย ท่อและโซ่ในฉากหน้าถูกนำมาใช้เพื่อสร้างมิติความลึกระหว่างการเคลื่อนไหว
-
-ศัตรู: หุ่นยนต์สตีมพังค์ขนาดใหญ่ 4–6 ตัว โดยปกติจะเคลื่อนที่ช้าแต่จะตอบสนองทันทีเมื่อถูกโจมตี พวกมันจะถูกกระแทกจนกระเด็นพร้อมรอยบุบ การบิดเบี้ยว และประกายไฟที่มองเห็นได้ชัดเจน
-
-อาวุธ (กฎเหล็ก): กรงเล็บพลาสมาพุ่งออกมาจากกำปั้นที่กำแน่นทั้งสองข้าง ห้ามมีการแบมือ ห้ามมีการชาร์จพลัง และห้ามมีการแปลงร่าง การกางกรงเล็บต้องเกิดขึ้นทันที (ภายในเวลาไม่ถึง 0.2 วินาที) พร้อมเสียงกลไกที่ดังชัดเจน สไตล์ภาพ: แกนกลางสีขาวร้อนแรงพร้อมแสงเรืองรองสีส้มและการบิดเบือนของอากาศจากความร้อนเล็กน้อย
-
-ลำดับเวลาของฉาก:
-0.0 – 2.0
-ภาพมุมกว้างของโรงงานพร้อมไอน้ำที่พุ่งออกมาอย่างรุนแรง กล้องก้มลงและซูมเข้าอย่างรวดเร็ว ตัวละครโหนตัวลงมาจากโซ่และลงพื้นอย่างหนักหน่วงภายใน 0.3 วินาที ทำให้เกิดประกายไฟกระจายตัวออก กล้องติดตามลงมาพร้อมอาการสั่นเล็กน้อยเมื่อปะทะ
-2.0 – 4.0
-หุ่นยนต์รุมเข้ามาจากสามทิศทาง ใช้ภาพมุมปานกลางแบบถือกล้องด้วยมือที่มีการเคลื่อนไหวไม่นิ่งและตอบสนองไว ตัวละครโจมตีทันที: หมัดระเบิดพลัง (0.3 วินาที) กระแทกหุ่นยนต์กระเด็นไปด้านข้างชนเข้ากับท่อจนเกิดรอยบุบและประกายไฟ การเตะหมุนตัวที่รวดเร็ว (ไม่ถึง 0.4 วินาที) กระแทกหุ่นยนต์อีกตัวเข้ากับโซ่ที่ห้อยอยู่ ตัวละครเปลี่ยนตำแหน่งอย่างต่อเนื่องด้วยการก้าวและหมุนตัวอย่างรวดเร็ว ไม่มีการหยุดนิ่ง
-4.0 – 5.0 (ช่วงเวลาสำคัญ)
-กล้องแพนแบบสะบัด (whip pan) หยุดนิ่งเล็กน้อยไม่ถึง 0.3 วินาที กรงเล็บพลาสมาพุ่งออกมาจากกำปั้นทั้งสองข้างทันทีพร้อมเสียงดังฉับภายในไม่ถึง 0.2 วินาที โดยไม่มีการชาร์จหรือหน่วงเวลา กล้องซูมเข้าหากำปั้นอย่างดุดัน เปลี่ยนมุมเล็กน้อย แล้วถอยกลับออกมาทันที
-5.0 – 8.0
-ตัวละครพุ่งตัวด้วยความเร็วสูง (burst dash) (ภายใน 0.5 วินาที) ผ่านท่อขนาดใหญ่ ติดตามกล้องจากด้านข้าง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33a0cccefad46a4093e4c181421ef27c/thumbnails/thumbnail.jpg" width="600" alt="ฉากต่อสู้ของฮีโร่แนวสตีมพังค์">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5267)**
-
-**ผู้เขียน:** [yopiwhs](https://x.com/Gwsubsa) | **แหล่งที่มา:** [Link](https://x.com/Gwsubsa/status/2058822064707137540) | **เผยแพร่เมื่อ:** May 25, 2026
-
----
-### จระเข้ยักษ์บุกโจมตีกลางแม่น้ำ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ฉากสยองขวัญสุดระทึกขวัญที่จระเข้ขนาดมหึมาเข้าโจมตีเรือเหล็กท่ามกลางพายุ
-
-#### 📝 พรอมต์
-
-```
-ฉากแอ็กชันสยองขวัญระดับภาพยนตร์บนแม่น้ำท่ามกลางพายุและฝนที่ตกหนักภายใต้ท้องฟ้ามืดครึ้ม จระเข้ยักษ์สมจริงขนาดมหึมาความยาวกว่า 40 ฟุต พร้อมเกล็ดสีเข้ม ดวงตาสีเหลืองเรืองแสง และขากรรไกรขนาดใหญ่ที่เต็มไปด้วยฟันแหลมคม โผล่ขึ้นมาจากน้ำที่ขุ่นมัวอย่างน่าสะพรึงกลัว
-
-สัตว์ร้ายที่มีลักษณะคล้ายงูอนาคอนด้าพุ่งตัวขึ้นมาอย่างดุดัน อ้าปากกว้างสร้างคลื่นน้ำขนาดใหญ่ก่อนจะพุ่งเข้าใส่เรือเหล็กขนาดเล็กที่มีผู้โดยสารสวมชุดกันฝนสีเข้มกำลังหวาดกลัวอย่างสุดขีด ชายคนหนึ่งถูกเหวี่ยงตกจากเรืออย่างรุนแรงในขณะที่คนอื่นๆ ต่างกรีดร้องและหนีตายด้วยความตื่นตระหนก ภาพโคลสอัปเผยให้เห็นหญิงสาวผมเปียกโชกที่กำลังกรีดร้องด้วยความหวาดกลัวถึงขีดสุด
-
-มุมกล้องแบบไดนามิกประกอบด้วยมุมต่ำจากผิวน้ำที่เผยให้เห็นหัวของจระเข้ยักษ์ครอบคลุมเต็มเฟรม ฉากแอ็กชันที่โกลาหลบนเรือที่โคลงเคลง และภาพมุมกว้างที่น่าตื่นตาตื่นใจของการโจมตีท่ามกลางสายฝนและกระแสน้ำที่เชี่ยวกราก ฉากหลังเป็นป่าทึบ ฟิสิกส์ของน้ำที่สมจริง การกระเซ็นของน้ำที่รุนแรง แสงในฉากพายุแบบภาพยนตร์ รายละเอียดที่สมจริงดั่งภาพถ่าย สไตล์สยองขวัญเอาชีวิตรอดระดับฮอลลีวูดที่เต็มไปด้วยความตึงเครียด เป็นลำดับภาพการโจมตีของสัตว์ประหลาดที่น่าตื่นเต้นความยาว 9 วินาที
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1f2aafae261a2ec7e438a6d211d62930/thumbnails/thumbnail.jpg" width="600" alt="จระเข้ยักษ์บุกโจมตีกลางแม่น้ำ">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5257)**
-
-**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2058816800805290406) | **เผยแพร่เมื่อ:** May 25, 2026
-
----
-### เหตุการณ์จระเข้ยักษ์บุกโจมตีเรือบ้าน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ฉากระทึกขวัญเมื่อจระเข้ยักษ์บุกโจมตีเรือบ้านไม้กลางแม่น้ำอเมซอนท่ามกลางพายุ
-
-#### 📝 พรอมต์
-
-```
-ฉากแอ็กชันสยองขวัญระดับภาพยนตร์บนแม่น้ำอเมซอนที่ขุ่นคลั่กและเชี่ยวกรากภายใต้ท้องฟ้ามืดครึ้มจากพายุ จระเข้น้ำเค็มยักษ์สมจริงขนาดมหึมา ยาวกว่า 45 ฟุต พร้อมเกล็ดหนาและขากรรไกรขนาดใหญ่ พุ่งขึ้นจากน้ำอย่างรุนแรงข้างเรือบ้านไม้สองชั้น จระเข้ยักษ์กระแทกเข้ากับตัวเรือพร้อมอ้าปากกว้าง สร้างคลื่นและแรงกระแทกมหาศาลจนเรือโคลงเคลงอย่างน่าหวาดเสียว
-
-ผู้โดยสารต่างตื่นตระหนกด้วยความหวาดกลัว ชายในเสื้อสีแดงถูกเหวี่ยงตกน้ำและพยายามดิ้นรนอย่างสุดชีวิตในกระแสน้ำที่ปั่นป่วน ขณะที่กลุ่มคนที่อยู่ภายในดาดฟ้าเรือที่มีหลังคาคลุม ซึ่งประกอบด้วยหญิงผมเข้มในเสื้อสีเทา ชายสวมแว่น และคนอื่นๆ ต่างกรีดร้องและวิ่งหนีด้วยความกลัว จระเข้ตัวมหึมาปีนขึ้นมาบนดาดฟ้าไม้ หัวขนาดใหญ่ของมันปรากฏเด่นชัดเต็มเฟรมพร้อมแยกเขี้ยว ในช่วงเสี้ยววินาทีสุดท้าย หญิงสาวผู้มุ่งมั่นคว้าคันบังคับเรือเพื่อพยายามหักหลบ
-
-การถ่ายทำเน้นความไดนามิกด้วยภาพมุมกว้างที่น่าตื่นตาตื่นใจของเหตุการณ์โจมตี ปฏิกิริยาที่โกลาหลภายในเรือ ภาพโคลสอัพที่เข้มข้นของหัวจระเข้ และฉากแอ็กชันที่เต็มไปด้วยพลัง ฝนที่ตกหนัก ฉากหลังเป็นป่าทึบ ฟิสิกส์ของน้ำที่สมจริง ความตึงเครียดแบบภาพยนตร์ รายละเอียดที่สมจริงดั่งภาพถ่าย สไตล์สยองขวัญเอาชีวิตรอดแบบฮอลลีวูด นี่คือฉากสัตว์ประหลาดสุดระทึกความยาว 12 วินาที
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80ab8ef4428c2ffce8cdbb0488d60df0/thumbnails/thumbnail.jpg" width="600" alt="เหตุการณ์จระเข้ยักษ์บุกโจมตีเรือบ้าน">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5263)**
-
-**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2058816432310460820) | **เผยแพร่เมื่อ:** May 25, 2026
-
----
-### ฉากแอ็กชันในทะเลทรายยุคหลังวันสิ้นโลก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ฉากแอ็กชันในทะเลทรายสุดอลังการที่คงความต่อเนื่องของตัวละคร พร้อมสไตล์ภาพแบบ low-poly และงานศิลปะแนวคอนเซปต์อาร์ตที่วาดด้วยมือ
-
-#### 📝 พรอมต์
-
-```
-สร้างฉากแอ็กชันในทะเลทรายยุคหลังวันสิ้นโลกความยาว 15 วินาทีที่มี Brax เป็นตัวละครหลัก
-
-ใช้:
-@BraxRef เป็นข้อมูลอ้างอิงตัวละคร
-@braxstory2 เป็นสตอรีบอร์ด
-
-สไตล์:
-stylized low-poly painterly
-hand-painted 3D concept art
-faceted polygonal illustration
-modern
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/034b2d1675fccb157d67006342b0a03f/thumbnails/thumbnail.jpg" width="600" alt="ฉากแอ็กชันในทะเลทรายยุคหลังวันสิ้นโลก">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5273)**
-
-**ผู้เขียน:** [MD](https://x.com/mdmadeit) | **แหล่งที่มา:** [Link](https://x.com/mdmadeit/status/2058805385969189273) | **เผยแพร่เมื่อ:** May 25, 2026
-
----
-### ฉากต่อสู้ระหว่างคนกับงูอนาคอนด้าบนเรือ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ฉากแอ็กชันสยองขวัญสุดระทึกของชายคนหนึ่งที่ใช้มีดมาเชเต้ต่อสู้กับงูอนาคอนด้ายักษ์บนเรือท่ามกลางพายุ
-
-#### 📝 พรอมต์
-
-```
-ฉากแอ็กชันสยองขวัญสไตล์ภาพยนตร์บนแม่น้ำท่ามกลางพายุฝนที่ตกหนักและน้ำโคลนที่เชี่ยวกราก งูอนาคอนด้ายักษ์สมจริงขนาดมหึมา ยาวกว่า 40 ฟุต มีเกล็ดสีเขียวเข้มสลับดำและขากรรไกรขนาดใหญ่ พุ่งขึ้นมาจากน้ำข้างเรือเหล็กลำเล็ก ปากอ้ากว้างเผยให้เห็นฟันแหลมคม
-ชายผู้หวาดกลัวในเสื้อสีเบจกรีดร้องด้วยใบหน้าที่ตื่นตระหนกและดวงตาเบิกกว้าง บนเรือที่โคลงเคลง ผู้คนหลายคนรวมถึงชายกล้ามโตในเสื้อยืดสีดำและคนที่สวมเสื้อกันฝนสีเหลืองต่างดิ้นรนด้วยความโกลาหล พระเอกคว้ามีดมาเชเต้คมกริบจากดาดฟ้าเรือที่เปียกชื้น ชูขึ้นอย่างดุดันและเข้าจู่โจมงูยักษ์อย่างบ้าคลั่ง
-ฉากแอ็กชันที่ดุเดือดแสดงให้เห็นการแทงและฟันงูอนาคอนด้าขนาดมหึมาขณะที่มันเลื้อยขึ้นมาบนเรือ ภาพระยะใกล้ที่เข้มข้นเผยให้เห็นใบหน้าที่มุ่งมั่นและการโจมตีที่ทรงพลัง งูสะบัดตัวอย่างรุนแรงพร้อมกับน้ำที่กระเซ็นสาดกระจาย ภาพมุมต่ำที่ดูเป็นวีรบุรุษเผยให้เห็นชายคนดังกล่าวยืนหยัดอย่างกล้าหาญ ชูมีดขึ้นต่อสู้กับสัตว์ประหลาดท่ามกลางสายฝนที่ตกลงมาอย่างหนัก
-แสงสลัวแบบดรามาติก ฉากหลังเป็นป่าทึบ ฟิสิกส์ของน้ำที่สมจริง ความตึงเครียดสูง รายละเอียดที่สมจริงราวกับภาพถ่าย สไตล์แอ็กชันเอาชีวิตรอดแบบฮอลลีวูด ลำดับการต่อสู้สุดระทึกยาว 11 วินาที
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8897fe6b68995c6660ced047b5295231/thumbnails/thumbnail.jpg" width="600" alt="ฉากต่อสู้ระหว่างคนกับงูอนาคอนด้าบนเรือ">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5264)**
-
-**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2058800378033189146) | **เผยแพร่เมื่อ:** May 25, 2026
-
----
-### เหตุการณ์งูอนาคอนด้ายักษ์บุกโจมตีเรือบ้าน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวสยองขวัญแอ็กชันสุดระทึกที่ถ่ายทอดเหตุการณ์งูอนาคอนดาขนาดมหึมาบุกโจมตีเรือบ้านสองชั้นท่ามกลางพายุฝนในป่าแอมะซอน
-
-#### 📝 พรอมต์
-
-```
-ฉากแอ็กชันสยองขวัญสไตล์ภาพยนตร์ท่ามกลางพายุฝนเขตร้อนที่ตกหนักบนแม่น้ำแอมะซอนอันมืดมิด เรือบ้านไม้สองชั้นลำหนึ่งกำลังแล่นฝ่ากระแสน้ำเชี่ยว ขณะที่งูอนาคอนดาขนาดมหึมาสมจริงเกินบรรยาย ซึ่งมีความยาวกว่า 50 ฟุต พร้อมลวดลายเกล็ดสีเขียวเข้มและดำ ว่ายน้ำขนานไปกับเรือด้วยพลังมหาศาลก่อนจะเปิดฉากโจมตีอย่างรุนแรง
-
-บนดาดฟ้าเรือที่เปียกปอน ผู้โดยสารต่างแตกตื่นด้วยความหวาดกลัว: หญิงสาวในเสื้อเชิ้ตสีขาววิ่งกรีดร้อง ชายหนุ่มกล้ามโตในเสื้อสีดำชี้มือและตะโกน เด็กหญิงในเสื้อฮู้ดมัดย้อมสีสันสดใสกรีดร้องด้วยความกลัว และชายสูงวัยผมสีขาวกำลังทำท่าทางอย่างสิ้นหวัง งูอนาคอนดาตัวยักษ์โผล่พ้นน้ำขึ้นมา ขดลำตัวอันใหญ่โตมหาศาลรอบตัวเรือ กระแทกเข้ากับตัวเรือ และพลิกคว่ำเรืออย่างรุนแรง ทำให้เรือเอียงและจมลงท่ามกลางคลื่นน้ำที่สาดกระจาย
-
-มุมกล้องแบบไดนามิกประกอบด้วยภาพมุมสูงของงูที่อยู่ข้างเรือ ความโกลาหลบนดาดฟ้าท่ามกลางสายฝนที่ตกลงมา ภาพระยะใกล้ของใบหน้าที่เต็มไปด้วยความหวาดกลัว และภาพมุมกว้างสุดอลังการของงูยักษ์ที่กำลังรัดและทำลายเรือบ้าน
-
-ฉากหลังเป็นป่าทึบ แสงสว่างแบบพายุครึ้ม ฟิสิกส์ของน้ำที่สมจริง สไตล์ภาพยนตร์บล็อกบัสเตอร์ฮอลลีวูดที่เข้มข้น รายละเอียดที่สมจริงดั่งภาพถ่าย และความสยองขวัญเอาชีวิตรอดที่ตึงเครียด คลิปแอ็กชันดราม่าความยาว 10 วินาที
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d640f24c14c472030668826b8a9e0073/thumbnails/thumbnail.jpg" width="600" alt="เหตุการณ์งูอนาคอนด้ายักษ์บุกโจมตีเรือบ้าน">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5258)**
-
-**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2058799113005920462) | **เผยแพร่เมื่อ:** May 25, 2026
-
----
-### จระเข้ยักษ์โจมตีเรือคายัค
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> เหตุการณ์สุดระทึกขวัญเมื่อจระเข้ยักษ์พลิกคว่ำเรือคายัคและจู่โจมคู่รักหนุ่มสาวในแม่น้ำที่แดดจ้าของออสเตรเลีย
-
-#### 📝 พรอมต์
-
-```
-ฉากแอ็กชันสยองขวัญระดับภาพยนตร์บนแม่น้ำในออสเตรเลียที่แดดส่องถึง ท่ามกลางป่าเขียวขจี คู่รักหนุ่มสาวกำลังพายเรือคายัคแบบเป่าลมสีขาว: หญิงสาวผมยาวสีน้ำตาลในเสื้อยืดสีขาวและเสื้อชูชีพกำลังกรีดร้องด้วยความตื่นตระหนกอยู่ที่ด้านหน้า ในขณะที่ชายหนุ่มรูปร่างกำยำในเสื้อยืดสีเข้มและเสื้อชูชีพกำลังพายเรืออย่างสุดชีวิตด้วยสีหน้าตกใจอยู่ด้านหลัง
-
-จระเข้น้ำเค็มยักษ์สมจริงขนาดมหึมา ยาวกว่า 40 ฟุต พร้อมเกล็ดสีเข้มแข็งแกร่ง พุ่งขึ้นมาจากน้ำที่ขุ่นมัวตรงหน้าเรือคายัคอย่างกะทันหัน จระเข้ตัวยักษ์พุ่งเข้าจู่โจมอย่างดุร้ายโดยอ้าปากกว้าง เผยให้เห็นฟันแหลมคมขนาดใหญ่และภายในปากสีชมพู ทำให้เกิดน้ำกระเซ็นเป็นวงกว้าง จระเข้พุ่งเข้าชนเรือคายัคจนพลิกคว่ำอย่างรุนแรงและเหวี่ยงชายหนุ่มตกจากเรือ
-
-ลำดับภาพแบบไดนามิกแสดงให้เห็นชายหนุ่มถูกเหวี่ยงขึ้นไปในอากาศและตกลงไปใต้น้ำ เขากำลังดิ้นรนและตะเกียกตะกายอยู่ในน้ำสีเขียวขุ่นพร้อมฟองอากาศที่ลอยขึ้นมา มุมกล้องที่รวดเร็วประกอบด้วยภาพระยะใกล้ของใบหน้าที่กำลังกรีดร้อง มุมกล้องต่ำที่ดูน่าเกรงขามของจระเข้ยักษ์ที่กำลังพุ่งขึ้นมา มุมมองจากหัวเรือคายัค และภาพใต้น้ำที่วุ่นวายของชายหนุ่มที่กำลังพยายามว่ายขึ้นสู่ผิวน้ำ
-
-แสงแดดจ้า พลวัตของน้ำที่สมจริง น้ำกระเซ็นอย่างรุนแรง รายละเอียดที่สมจริงดุจภาพถ่าย สไตล์สยองขวัญเอาชีวิตรอดแบบฮอลลีวูดที่เต็มไปด้วยความตึงเครียด คลิปแอ็กชันสุดระทึกความยาว 10 วินาที
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b484b9da20ba116c6334013da7061a04/thumbnails/thumbnail.jpg" width="600" alt="จระเข้ยักษ์โจมตีเรือคายัค">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=5266)**
-
-**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2058798719475306845) | **เผยแพร่เมื่อ:** May 25, 2026
-
----
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
@@ -3060,6 +4812,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-05-30T03:52:37.713Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-05-30T07:02:58.378Z</sub>
 
 </div>
