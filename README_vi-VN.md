@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **3615** |
+| 📝 Tổng số prompt | **3634** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-06-03** |
 
@@ -361,9 +361,456 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
-### Nhân vật anime trong MV thế giới thực
+### MV biểu diễn concert của thần tượng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video phức tạp cho màn trình diễn của thần tượng anime, sử dụng bối cảnh và ánh sáng concert chân thực trong khi vẫn duy trì sự nhất quán của nhân vật anime.
+
+#### 📝 Prompt
+
+```
+Sử dụng @image1 làm tài liệu tham khảo cho địa điểm concert trực tiếp, sân khấu, đường băng, khán giả, ánh sáng và môi trường biểu diễn quy mô lớn.
+
+Chỉ sử dụng @image2 làm tài liệu tham khảo nhận diện cho Nhân vật A.
+
+Sử dụng @image2 để đảm bảo sự nhất quán về khuôn mặt, kiểu tóc, trang phục, phụ kiện, màu sắc, hình dáng và biểu cảm của Nhân vật A.
+
+Chỉ Nhân vật A là theo phong cách anime.
+
+Môi trường, sân khấu, đường băng, khán giả, màn hình LED, nhạc cụ, đạo cụ, ánh sáng, phản chiếu và quang học máy quay phải là người thật đóng (photorealistic live-action).
+
+Không chuyển đổi địa điểm hoặc nền sang phong cách anime.
+
+Chỉ có duy nhất một nhân vật anime chính: Nhân vật A.
+
+Khán giả, nhạc công, nhân viên và các nhân vật ở xa phía sân khấu được phép xuất hiện, nhưng họ phải là các diễn viên phụ người thật và không bao giờ được trở thành tiêu điểm chính.
+
+Không thêm nhân vật anime nào khác.
+
+Không có bản sao.
+
+Không có nền anime.
+
+Không có lớp phủ văn bản.
+
+Không có logo.
+
+Tạo một cảnh quay biểu diễn concert đa góc máy diễn ra ngay sau khi bài hát bắt đầu.
+
+Nhân vật A đang hát và kết hợp hát với các cử chỉ fan-service dễ thương của thần tượng trong khi di chuyển trên sân khấu về phía cầu thang ở rìa xa bên phải sân khấu từ góc nhìn của khán giả/máy quay.
+
+Nhân vật A hát tích cực vào micro với khẩu hình miệng rõ ràng.
+
+Cô ấy mỉm cười rạng rỡ, giữ vững sự hiện diện trên sân khấu và kết hợp màn trình diễn giọng hát với các cử chỉ fan-service tinh nghịch.
+
+Cô ấy vẫy tay ngọt ngào, chỉ tay tinh nghịch về phía khán giả hoặc máy quay, giao tiếp bằng mắt trong chốc lát và nháy mắt dễ thương trong khi vẫn tiếp tục hát.
+
+Cơ thể cô ấy di chuyển nhịp nhàng theo điệu nhạc với những bước chân nhẹ nhàng.
+
+Cô ấy dần dần di chuyển từ khu vực biểu diễn trung tâm về phía cầu thang bên phải sân khấu.
+
+Tóc, váy, áo hoodie và phụ kiện của cô ấy chuyển động tự nhiên theo từng bước nhảy.
+
+Duy trì bầu không khí concert chân thực từ @image1.
+
+Giữ cho ánh sáng concert màu xanh-trắng, ánh sáng LED và cảm giác lễ hội trực tiếp quy mô lớn nhất quán trong suốt cảnh quay.
+
+0-2 giây:
+
+Bắt đầu với cú máy trung hoặc trung-rộng trên sân khấu.
+
+Nhân vật A đang hát tươi vui ở trung tâm sân khấu.
+
+Cô ấy bắt đầu bước về phía bên phải sân khấu trong khi thực hiện một cử chỉ fan-service nhỏ hướng ra ngoài bằng bàn tay tự do.
+
+2-4 giây:
+
+Cắt sang cú máy rộng hơn một chút ở góc ba phần tư phía trước.
+
+Nhân vật A tiếp tục hát và đi bộ chéo về phía cầu thang ở rìa xa bên phải sân khấu từ góc nhìn của khán giả/máy quay.
+
+Cô ấy vẫy tay ngọt ngào về phía khán giả và giữ nụ cười thần tượng vui vẻ.
+
+4-6 giây:
+
+Cắt sang cú máy trung theo sát chuyển động của cô ấy.
+
+Nhân vật A tiếp tục hát rõ ràng trong khi di chuyển xa hơn về phía bên phải sân khấu.
+
+Cô ấy chỉ tay tinh nghịch về phía khán giả hoặc máy quay, sau đó nháy mắt dễ thương nhanh chóng mà không làm gián đoạn mạch biểu diễn.
+
+6-8 giây:
+
+Cắt sang cú máy rộng hơn hướng về phía bên phải sân khấu.
+
+Cầu thang ở rìa bên phải trở nên rõ ràng hơn.
+
+Nhân vật A tiếp tục hát và bước nhẹ nhàng về phía đó, sử dụng cử chỉ giới thiệu hoặc một động tác nhỏ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061956526408110080/img/Q70mQGaZZlInplyj.jpg" width="600" alt="MV biểu diễn concert của thần tượng">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5625)**
+
+**Tác giả:** [Toshi@ニャルオAI](https://x.com/Toshi_nyaruo_AI) | **Nguồn:** [Link](https://x.com/Toshi_nyaruo_AI/status/2061956751684177992) | **Đã xuất bản:** Jun 2, 2026
+
+---
+### Cú máy tracking địa hình hành tinh lạ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lời nhắc (prompt) cho cú máy tracking tốc độ cao ghi lại cảnh xe buggy quân sự drift trên một hành tinh lạ với ánh sáng điện ảnh khoa học viễn tưởng.
+
+#### 📝 Prompt
+
+```
+Cú máy tracking tốc độ cao sát mặt đất, bám theo một chiếc xe buggy quân sự hầm hố khi nó drift đầy mạnh mẽ trên địa hình đá gồ ghề của hành tinh lạ. Một sinh vật trinh sát ngoài hành tinh cơ khí sinh học khổng lồ đang bám sát phía sau, đập tan các cấu trúc địa chất. Những cột bụi tung lên không trung, tia lửa bắn ra từ lớp giáp của chiếc xe. Ánh sáng điện ảnh, cảm giác về tốc độ và va chạm cận kề đầy kịch tính, nhiếp ảnh khoa học viễn tưởng chân thực như ảnh chụp.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061916705236914177/img/0uNBSxkwhor00sRA.jpg" width="600" alt="Cú máy tracking địa hình hành tinh lạ">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5620)**
+
+**Tác giả:** [DeCat](https://x.com/DeCat2025) | **Nguồn:** [Link](https://x.com/DeCat2025/status/2061916964470313111) | **Đã xuất bản:** Jun 2, 2026
+
+---
+### Hoạt ảnh theo phong cách bảng phân cảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hướng dẫn tạo hoạt ảnh kết hợp giữa nhân vật chân thực và nhân vật vẽ tay dựa trên bảng phân cảnh.
+
+#### 📝 Prompt
+
+```
+Tạo hoạt ảnh cho bảng phân cảnh với sự kết hợp giữa các nhân vật chân thực và nhân vật vẽ tay minh họa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061915136781119488/img/mMJtwXh0X2pvqV73.jpg" width="600" alt="Hoạt ảnh theo phong cách bảng phân cảnh">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5612)**
+
+**Tác giả:** [ARLO🟡 🔜ANNECY](https://x.com/byarlooo) | **Nguồn:** [Link](https://x.com/byarlooo/status/2061915943215751424) | **Đã xuất bản:** Jun 2, 2026
+
+---
+### Góc nhìn điện ảnh từ bên trong máy sấy của Walter White
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) chi tiết, mang tính điện ảnh với góc nhìn POV từ bên trong lồng máy sấy, mô tả một nhân vật đang với lấy tiền theo phong cách phim tội phạm kịch tính.
+
+#### 📝 Prompt
+
+```
+Một video ngắn 15 giây đầy kịch tính theo định dạng vuông hoặc dọc dành cho Reels/Shorts. Toàn bộ cảnh quay được thực hiện từ góc nhìn POV tĩnh đặt bên trong lồng máy sấy, nhìn ra ngoài qua cửa tròn đang mở. Lồng kim loại đục lỗ hiện rõ ở tiền cảnh, tạo nên một khung hình khép kín đầy ngột ngạt. Lúc bắt đầu, tầm nhìn bị che khuất một phần bởi lá xanh, mảnh vụn và những tờ đô la Mỹ bay lất phất. Qua ô cửa tròn, Walter White xuất hiện với tư thế cúi người, đeo kính, mặc áo phông trắng, biểu cảm căng thẳng, mệt mỏi nhưng đầy toan tính. Anh vội vã đưa cả hai tay vào máy sấy và vơ lấy tiền từ đáy lồng. [0:00–0:02] Góc nhìn POV tĩnh từ bên trong máy sấy. Walter cúi người vào và nhanh chóng đưa cả hai tay, khẩn trương lấy tiền từ đáy lồng. Lá cây và những tờ đô la che khuất một phần tầm nhìn, vài tờ bay sát vào ống kính. [0:02–0:05] Anh điên cuồng vơ lấy từng nắm tiền. Những tờ tiền bay tán loạn bên trong lồng máy. Gương mặt anh tập trung, căng thẳng và có chút tuyệt vọng. Các chuyển động nhanh, lặp đi lặp lại và đầy hoảng loạn. [0:05–0:08] Nhấn mạnh vào hành động của đôi bàn tay. Một tay nắm lấy xấp tiền dày trong khi tay kia gạt bớt tiền và mảnh vụn để tìm kiếm sâu hơn. Anh vẫn dán mắt vào đống tiền. Có thể nghe rõ tiếng thở dốc. [0:08–0:11] Walter cúi người vào sâu hơn nữa, gần như chui hẳn vào trong máy sấy. Anh vơ thêm một nắm tiền lớn. Một vài tờ tiền ướt và bẩn dính vào tay và cẳng tay anh. Biểu cảm của anh trở nên cứng rắn với sự quyết tâm và giận dữ được kìm nén. [0:11–0:13] Anh hơi lùi lại và nhìn trực diện vào máy sấy, thẳng về phía ống kính. Trên tay anh là những tờ đô la nhàu nát, hơi ướt và bẩn. Gương mặt anh vừa thể hiện sự nhẹ nhõm, mệt mỏi, vừa toát lên vẻ toan tính lạnh lùng. [0:13–0:15] Anh tiếp tục nhìn chằm chằm vào máy sấy trong khi vẫn cầm tiền. Cánh cửa tròn nặng nề của máy sấy từ từ đóng lại từ một bên, dần dần che khuất khung hình cho đến khi gương mặt anh và xấp tiền gần như bị che kín hoàn toàn. Chuyển sang màn hình đen. Chất lượng siêu điện ảnh, chân thực như ảnh chụp, phong cách phim tội phạm gai góc, kịch tính lấy cảm hứng từ Breaking Bad, độ sâu trường ảnh nông, ánh sáng phòng giặt ủi thực tế khắc nghiệt, bụi bẩn tinh tế, kết cấu kim loại, chuyển động giấy bay sống động, chuyển động tay chân thực mạnh mẽ, máy quay tĩnh với bố cục khép kín đầy kịch tính. Không lời thoại. Chỉ có thiết kế âm thanh: tiếng máy sấy rì rầm, tiếng tiền sột soạt, tiếng tay cọ xát vào kim loại, tiếng thở nặng nề, tiếng bản lề kêu khẽ, tiếng cửa đóng sầm vào cuối video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061897417554051072/img/eV2M6vQsSN3ZqVEo.jpg" width="600" alt="Góc nhìn điện ảnh từ bên trong máy sấy của Walter White">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5619)**
+
+**Tác giả:** [BMX](https://x.com/bmx_ai13) | **Nguồn:** [Link](https://x.com/bmx_ai13/status/2061897594759172599) | **Đã xuất bản:** Jun 2, 2026
+
+---
+### Chuỗi hoạt hình hiệu sách phép thuật vô tận
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo hoạt hình điện ảnh mô tả một hiệu sách vô tận với những cầu thang lơ lửng và các thế giới thu nhỏ bước ra từ những trang sách, tập trung vào bầu không khí kỳ ảo đầy phép thuật.
+
+#### 📝 Prompt
+
+```
+Chuỗi hoạt hình anime kỳ ảo đậm chất điện ảnh dài 15 giây bên trong một hiệu sách phép thuật vô tận vào ban đêm. Camera tiến vào một hiệu sách rộng lớn được chiếu sáng bởi ánh đèn lồng ấm áp. Những kệ sách bất tận trải dài lên cao quá tầm mắt, kết nối với nhau bằng các cầu thang lơ lửng, những cây cầu treo và thang di động trôi nổi trong không trung. Hàng ngàn cuốn sách tỏa sáng dịu nhẹ trên kệ. Những hạt bụi lấp lánh như những ngôi sao nhỏ. Bầu không khí mang lại cảm giác yên bình, huyền bí và vượt thời gian. Một thủ thư trẻ chậm rãi bước đi giữa các lối đi, trên tay cầm một cuốn sách đang phát sáng. Khi họ đi ngang qua, những cuốn sách tự động mở ra và giải phóng các mảnh vỡ nhỏ từ thế giới của chúng vào không trung. Một cuốn sách giải phóng những cánh hoa anh đào bay lượn dọc hành lang. Một cuốn khác mở ra khung cảnh đại dương bão tố nơi những con sóng thu nhỏ tràn ra từ các trang sách. Một cuốn khác lại hé lộ những hòn đảo trôi nổi giữa các tầng mây. Camera theo chân người thủ thư khi họ leo lên một cầu thang lơ lửng hướng về phía một cuốn sách cổ khổng lồ đặt trên bệ đỡ ở trung tâm hiệu sách. Khi cuốn sách khổng lồ mở ra, toàn bộ các thế giới hiện ra từ những trang sách: núi non, rừng cây, thành phố, đại dương và các vì sao mở rộng vào không trung như những cảnh quan ba chiều sống động. Những cuốn sách bắt đầu trôi nổi quanh phòng trong khi các trang sách phát sáng xoay chậm rãi như những hành tinh. Ánh sáng vàng ấm áp tràn ngập hiệu sách khi vô số câu chuyện cùng lúc sống dậy. Khoảnh khắc điện ảnh cuối cùng: camera lùi lại để lộ quy mô thực sự của hiệu sách, một vũ trụ kệ sách vô tận trải dài vượt ra ngoài đường chân trời trong khi hàng ngàn thế giới sống động tỏa sáng giữa chúng. Phong cách: chất lượng phim anime cao cấp, bầu không khí kỳ ảo phép thuật, kiến trúc không tưởng, ánh sáng vàng ấm áp, các hạt lơ lửng, vẻ đẹp như mơ, hậu cảnh chi tiết cao, chuyển động camera điện ảnh, kể chuyện giàu cảm xúc, quy mô ngoạn mục, không chữ, không lớp phủ. Âm thanh: nhạc nền anime dàn nhạc giàu cảm xúc, tiếng piano nhẹ nhàng, tiếng đàn dây êm dịu, âm thanh lật trang sách, không gian phép thuật, các hạt lơ lửng, bầu không khí thư viện ấm áp, sự tiến triển âm nhạc đầy kỳ diệu tinh tế.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061870527161987072/pu/img/8LX_odhMFDrOtXiV.jpg" width="600" alt="Chuỗi hoạt hình hiệu sách phép thuật vô tận">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5623)**
+
+**Tác giả:** [LudovicCreator](https://x.com/LudovicCreator) | **Nguồn:** [Link](https://x.com/LudovicCreator/status/2061870582266814799) | **Đã xuất bản:** Jun 2, 2026
+
+---
+### Cuộc rượt đuổi hài hước trên ván trượt tí hon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) tạo video hài hước dài 15 giây quay liên tục, mô tả một người đàn ông tí hon đang trượt ván trong phòng chơi của một em bé khổng lồ.
+
+#### 📝 Prompt
+
+```
+Tạo một video hài hước đậm chất điện ảnh dài 15 giây bên trong phòng ngủ/phòng chơi của một em bé khổng lồ. MỘT cú máy liên tục, KHÔNG cắt cảnh. Một người đàn ông trưởng thành thực thụ với kích thước tí hon đang đi trên chiếc ván trượt nhỏ xíu vừa "đánh cắp" một mẩu bánh quy sô-cô-la khổng lồ từ khu vực ăn nhẹ của em bé và đang phóng đi. Anh ta là người thật với kích thước tí hon, không phải đồ chơi, búp bê, hoạt hình hay trẻ em. Căn phòng trông vô cùng rộng lớn từ góc nhìn của anh ta. Máy quay giữ ở vị trí cực thấp ngang tầm ván trượt, bám sát phía sau anh ta trong một cảnh quay không gián đoạn. Máy quay tăng tốc, lắc lư, nghiêng và phản ứng tự nhiên với mọi tình huống suýt va chạm trong khi vẫn giữ nguyên lộ trình trên sàn nhà. Em bé khổng lồ phát hiện mất bánh quy nên tỏ ra phấn khích, cười đùa và bò theo anh ta—không hề giận dữ mà chỉ tò mò một cách tinh nghịch. Cuộc rượt đuổi diễn ra như một chuỗi phản ứng liên hoàn: Người trượt ván tí hon lao qua các khối chữ cái khổng lồ trong khi vẫn ôm mẩu bánh quy quá khổ. Em bé vô tình đụng vào chồng khối xốp mềm, làm một khối rơi xuống đường đi. Anh ta thực hiện cú trượt ván powerslide điệu nghệ ngay bên dưới khối xốp đó. Cùng lúc đó, em bé đẩy một chiếc xe tải đồ chơi khổng lồ trên sàn. Những quả bóng nhựa đầy màu sắc trên xe đổ tràn ra khắp nơi. Anh ta lách qua những quả bóng đang nảy. Một quả bóng lăn trúng chú gấu bông, khiến chú gấu từ từ đổ xuống chắn ngang đường như một cái cây khổng lồ đầy lông. Anh ta cúi người và trượt ván lọt qua dưới cánh tay chú gấu chỉ trong gang tấc. Em bé cười khúc khích và vươn tay về phía trước, cố gắng chộp lấy mẩu bánh quy chứ không phải người lái. Một bàn tay khổng lồ đáp xuống phía trước. Người trượt ván nhanh chóng tung mẩu bánh quy lên không trung. Em bé bị phân tâm và dõi theo mẩu bánh đang bay. Trong khi mắt em bé dõi theo chiếc bánh, người trượt ván lách qua khe hở nhỏ giữa những ngón tay khổng lồ và những chiếc bút sáp màu vương vãi. Máy quay theo chân anh ta vào một lối đi giống như đường hầm dưới gầm giường. Kết thúc hài hước: Ngay trước khi thoát thân, người trượt ván quay lại nhìn đầy tự hào—thì một mẩu bánh quy nhỏ xíu rơi trúng đầu anh ta. Anh ta nhún vai, nhặt lấy nó và tiếp tục trượt vào bóng tối trong khi tiếng cười của em bé vang lên ở phía sau. Âm thanh: Nhạc phiêu lưu điện ảnh vui nhộn, nhịp điệu hài hước nhanh, các đoạn nhạc dàn dây nhẹ nhàng, tiếng bộ gõ đồ chơi, các điểm nhấn hài hước khi suýt va chạm. Âm thanh bánh xe ván trượt trên sàn gỗ, tiếng bóng lăn, tiếng đồ chơi va đập, tiếng cười của em bé, tiếng gấu bông đổ, tiếng bánh quy giòn tan, tiếng bàn tay khổng lồ đập xuống và hiệu ứng âm thanh kiểu hoạt hình cường điệu trong khi vẫn giữ hình ảnh chân thực hoàn toàn. Phong cách: Chân thực 8K, ánh sáng điện ảnh, bầu không khí phòng ngủ ấm cúng, độ sâu trường ảnh nông, hiệu ứng nhòe chuyển động tự nhiên, kết cấu chi tiết, hài hước phù hợp với gia đình, tỷ lệ kích thước thực tế, sự hài hước đẳng cấp Pixar kết hợp với tính chân thực của người đóng.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061830008566665216/pu/img/yMkQ-V6gl8Vs5GbZ.jpg" width="600" alt="Cuộc rượt đuổi hài hước trên ván trượt tí hon">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5622)**
+
+**Tác giả:** [Future AI 🧩](https://x.com/FutureVibesAi) | **Nguồn:** [Link](https://x.com/FutureVibesAi/status/2061830088484946224) | **Đã xuất bản:** Jun 2, 2026
+
+---
+### Kịch bản Đạo diễn Khám phá Nhà kho
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh theo phong cách đạo diễn kỹ thuật dành cho Seedance 2.0, mô tả chi tiết về quang học máy quay, hình học ánh sáng và thời gian hành động của nhân vật.
+
+#### 📝 Prompt
+
+```
+CẢNH: Khám phá Nhà kho
+
+HÌNH HỌC
+- Người phụ nữ bước vào khung hình từ mép trái, cách máy quay 10 feet (khoảng 3 mét)
+- Nhà kho lùi sâu vào hậu cảnh (hơn 20 feet / 6 mét)
+- Các cửa sổ cao (phía bên phải và trên cùng khung hình) làm không gian tràn ngập ánh sáng
+
+QUANG HỌC
+- Cú máy tĩnh góc rộng, tương đương ống kính 35mm
+- Giữ 2 giây
+- Sau đó: đẩy máy chậm dần trong 6 giây đến tiêu cự 85mm
+- Khung hình cuối: khuôn mặt người phụ nữ lấp đầy nửa trên
+
+CHIẾU SÁNG
+- Ánh sáng mặt trời từ bên phải khung hình, góc cao 45 độ
+- Lưới bóng đổ sắc nét từ các thanh cửa sổ hắt xuống sàn
+- Độ tương phản mạnh (5:1) — chùm sáng rực rỡ, bóng tối sâu ở các góc
+- Màu ấm (5200K)
+- Ánh sáng thể tích hiển thị trong không khí (các hạt bụi bắt lấy chùm sáng)
+
+HÀNH ĐỘNG & THỜI GIAN
+- 0-2 giây: Cô ấy đi từ trái sang giữa khung hình, tốc độ ổn định
+- 2-5 giây: Cô ấy dừng lại, cúi đầu
+- 5-7 giây: Đầu từ từ ngẩng lên, khuôn mặt bước vào chùm sáng
+- 7-8 giây: Cô ấy dừng lại, nheo mắt (khoảnh khắc khám phá)
+
+KẾT NỐI
+- Chuyển động của cô ấy giao với hình học ánh sáng tại thời điểm dừng lại
+- Cú đẩy máy hoàn tất khi khuôn mặt tiến vào vùng sáng nhất
+- Cuối khung hình: cô ấy được ánh sáng làm nổi bật, không bị che khuất
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061812917016690688/pu/img/n0-E4RYrQH0i3Pxy.jpg" width="600" alt="Kịch bản Đạo diễn Khám phá Nhà kho">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5614)**
+
+**Tác giả:** [NΞXUS](https://x.com/NEXUS_TO_NOVA) | **Nguồn:** [Link](https://x.com/NEXUS_TO_NOVA/status/2061812964814991741) | **Đã xuất bản:** Jun 2, 2026
+
+---
+### Bài thuyết trình chơi chữ trên bảng lật của phụ nữ Nhật Bản
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh sáng tạo cho Seedance 2.0 giúp tạo video một phụ nữ Nhật Bản thực hiện bài kiểm tra chuyển đổi từ ngữ bằng bảng lật theo phong cách chương trình tạp kỹ.
+
+#### 📝 Prompt
+
+```
+Một phụ nữ Nhật Bản. Nhìn về phía máy quay, cô ấy trả lời bằng tiếng Nhật, chuyển đổi chữ 'i' trong 'ippai' thành 'o'. Cô ấy viết các ký tự hiragana lên một chiếc bảng lật cầm tay và giải thích trong khi hiển thị các ký tự đó, đồng thời xoay bảng như trong một chương trình tạp kỹ hài hước. Cô ấy giải thích ký tự nào mình đã chuyển đổi. Một phòng họp nhỏ không có cửa sổ. Cô ấy ngồi tại một chiếc bàn và ghế nhỏ, giải thích trước máy quay. Không có nhạc nền.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061787734088544256/img/BdYyuHZO8nyuxJ9P.jpg" width="600" alt="Bài thuyết trình chơi chữ trên bảng lật của phụ nữ Nhật Bản">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5624)**
+
+**Tác giả:** [h64g](https://x.com/h64g_) | **Nguồn:** [Link](https://x.com/h64g_/status/2061788236213895455) | **Đã xuất bản:** Jun 2, 2026
+
+---
+### Chuỗi hành trình Trứng Rồng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một kịch bản phân cảnh 9 khung hình toàn diện cho bộ phim hoạt hình 3D phong cách Pixar về một cậu bé và chú rồng con.
+
+#### 📝 Prompt
+
+```
+Phiêu lưu giả tưởng hoạt hình 3D cách điệu, chất lượng Pixar, nhà thám hiểm trẻ tuổi dũng cảm đáng yêu với đôi mắt to biểu cảm, ba lô nhỏ, trang phục đầy màu sắc, thung lũng núi ma thuật, hoa phát sáng, bướm bay lơ lửng, ánh sáng điện ảnh, phù hợp cho gia đình, siêu chi tiết, màu sắc rực rỡ, tâm trạng sử thi nhưng đáng yêu, chuyển động camera linh hoạt, hoạt hình 3D chất lượng cao. Cảnh 1: Cảnh quay điện ảnh toàn cảnh một nhà thám hiểm trẻ tuổi đáng yêu đang khám phá thung lũng núi đầy sương mù với những bông hoa phát sáng, tàn tích cổ xưa, bướm bay lơ lửng, bầu không khí ma thuật. Chuyển sang Cảnh 2: Người hùng phát hiện ra một quả trứng rồng khổng lồ đang phát sáng ẩn giấu giữa những tàn tích đá cổ, các vết nứt ma thuật màu cam tỏa sáng rực rỡ. Chuyển sang Cảnh 3: Cận cảnh quả trứng nứt ra và một chú rồng con đáng yêu xuất hiện, chớp đôi mắt to tròn, trông sợ hãi và bối rối. Chuyển sang Cảnh 4: Một nhóm yêu tinh tinh quái lao ra từ sau những tảng đá và bụi rậm, cố gắng đánh cắp quả trứng rồng. Chuyển sang Cảnh 5: Chuỗi hành động khi người hùng chộp lấy chú rồng con và chạy qua những con đường núi quanh co trong khi lũ yêu tinh đuổi theo phía sau. Chuyển sang Cảnh 6: Thủ lĩnh yêu tinh xuất hiện, tung ra những quả cầu lửa ma thuật màu tím, hành động giả tưởng kịch tính. Chuyển sang Cảnh 7: Chú rồng con bất ngờ phát hiện ra khả năng phun lửa của mình và thổi bay lũ yêu tinh, tạo ra những tia lửa và khói vô hại. Chuyển sang Cảnh 8: Một người mẹ rồng khổng lồ hùng vĩ hạ xuống từ những đám mây, đôi cánh dang rộng khắp bầu trời, ánh nắng vàng chiếu sáng thung lũng. Chuyển sang Cảnh 9: Cảnh quay anh hùng cuối cùng lúc hoàng hôn, nhà thám hiểm vẫy tay chào tạm biệt trong khi chú rồng con bay bên cạnh mẹ phía trên những ngọn núi, bầu trời vàng điện ảnh, cái kết đầy cảm xúc, bầu không khí giả tưởng sử thi.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061770820758970369/pu/img/ktPEXxjCto-_pkYm.jpg" width="600" alt="Chuỗi hành trình Trứng Rồng">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5618)**
+
+**Tác giả:** [Ai Doctor](https://x.com/DoctorAmna11) | **Nguồn:** [Link](https://x.com/DoctorAmna11/status/2061770874202571072) | **Đã xuất bản:** Jun 2, 2026
+
+---
+### Kiệt tác Studio AI tương lai
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mô tả khung tranh kỹ thuật số trong một studio tương lai, nơi các bản phác thảo dần tiến hóa thành kiệt tác nhờ các mô hình mạng thần kinh.
+
+#### 📝 Prompt
+
+```
+Một khung tranh kỹ thuật số trống trôi lơ lửng trong một studio tương lai. Những luồng dữ liệu rực rỡ và các mô hình mạng thần kinh lan tỏa trong không trung, biến đổi thành những nét cọ sống động. Tác phẩm nghệ thuật nhanh chóng tiến hóa từ những bản phác thảo đơn giản thành một kiệt tác ngoạn mục. Các dải màu ba chiều xoáy chuyển, những hạt bụi ánh sáng lấp lánh, và máy quay di chuyển mượt mà quanh khung tranh khi AI tạo ra các chi tiết phức tạp trong thời gian thực. Hình ảnh siêu thực, ánh sáng đậm chất điện ảnh, chuyển động máy quay linh hoạt, bầu không khí tương lai, chuyển đổi màu sắc ấn tượng, chất lượng 4K.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061768264175554560/pu/img/Rs88kCJt0EYfGf0V.jpg" width="600" alt="Kiệt tác Studio AI tương lai">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5608)**
+
+**Tác giả:** [ORHAN](https://x.com/OrhanGhazi65942) | **Nguồn:** [Link](https://x.com/OrhanGhazi65942/status/2061768325173260596) | **Đã xuất bản:** Jun 2, 2026
+
+---
+### Quảng cáo đồ uống phong cách sống Fanta
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt quảng cáo đa cảnh toàn diện cho chiến dịch đồ uống đầy năng động, bao gồm chi tiết nhân vật và các phân cảnh câu chuyện.
+
+#### 📝 Prompt
+
+```
+Nhân vật chính: Người phụ nữ phương Tây 25 tuổi, chân thực như ảnh chụp tên Sharon, tóc vàng ngang vai uốn sóng biển, mắt xanh lục, tàn nhang, mặc áo bóng rổ Fanta màu cam rực rỡ, quần short jean trắng, giày thể thao trắng, khuyên tai vòng vàng và vòng tay tình bạn màu cam. Trình tự câu chuyện: 1. Cận cảnh lon Fanta lạnh giá trên nền trời mùa hè xanh biếc. 2. Sharon mở lon Fanta và uống. Những bọt soda cam lấp lánh dưới ánh mặt trời. 3. Cô tự tin bước đi trên những con phố trung tâm đầy màu sắc. 4. Cô nhảy múa qua một khu chợ đêm sôi động được chiếu sáng bởi đèn lồng màu cam và ánh đèn neon rực rỡ. 5. Cô gặp bạn bè tại một quầy đồ ăn ngoài trời thời thượng. 6. Mọi người cười đùa và chia sẻ đồ ăn với những lon Fanta được đặt tự nhiên trên bàn. 7. Sharon nhảy múa tự do tại một quảng trường đầy nắng với loa di động. 8. Bạn bè cùng chạy về phía đài phun nước thành phố. 9. Phân cảnh cao trào: nước bắn tung tóe, tiếng cười, các giọt nước chuyển động chậm, Yuna giơ lon Fanta về phía máy quay. Đối thoại: Bạn: "Sharon!" Sharon: "Hãy làm cho ngày hôm nay trở nên khó quên nào!" Cảnh cuối: Sharon cười: "Đó mới là niềm vui Fanta!" Phong cách: Quảng cáo chân thực như ảnh chụp, chất lượng chiến dịch đồ uống cao cấp, bảng màu cam sáng và cam chanh, năng lượng mùa hè, chuyển động máy quay linh hoạt, độ sâu trường ảnh nông, hiệu ứng vật lý nước chân thực, kể chuyện phong cách sống sôi động, không khí vui tươi. Không có lớp phủ văn bản. Không có phụ đề. Chất lượng quảng cáo thương hiệu cao cấp.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061753268540477440/img/c6oytPdhTmNLSbjw.jpg" width="600" alt="Quảng cáo đồ uống phong cách sống Fanta">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5621)**
+
+**Tác giả:** [Sharon Riley](https://x.com/Just_sharon7) | **Nguồn:** [Link](https://x.com/Just_sharon7/status/2061754278419771420) | **Đã xuất bản:** Jun 2, 2026
+
+---
+### Chuỗi hình ảnh Anime về Chuyến tàu Ký ức
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) anime chi tiết cho phân cảnh dài 15 giây về một cô gái bước lên chuyến tàu bí ẩn, nơi các ô cửa sổ hiển thị những ký ức đã qua.
+
+#### 📝 Prompt
+
+```
+Phân cảnh anime giả tưởng dài 15 giây với chất lượng điện ảnh đỉnh cao vào lúc hoàng hôn. Một nhà ga yên tĩnh nằm trơ trọi giữa biển mây vô tận dưới ánh hoàng hôn tím cam. Sân ga trông như bị bỏ hoang, chỉ được chiếu sáng bởi những chiếc đèn lồng cũ đung đưa nhẹ trong gió. Một cô gái trẻ mặc đồng phục học sinh đứng một mình, tay cầm chiếc vali nhỏ. Cô nhìn dọc theo đường ray trống trải đang dần biến mất ở phía chân trời. Từ xa, một chuyến tàu bí ẩn chậm rãi hiện ra từ làn sương mù rực rỡ. Các ô cửa sổ của tàu tỏa ra ánh sáng vàng ấm áp. Con tàu lướt đi lặng lẽ trên những đám mây như thể đang bay giữa bầu trời. Khi tàu đến ga, cô gái bước lên. Máy quay theo chân cô đi dọc hành lang tàu, nơi mỗi ô cửa sổ không phải là phong cảnh mà là một ký ức khác nhau. Một ô cửa sổ cho thấy cô khi còn nhỏ đang chạy trên những cánh đồng mùa hè. Một ô khác hé lộ một ngày đông đầy tuyết. Một ô khác nữa cho thấy một người bạn cũ đã quên đang vẫy tay chào tạm biệt. Những ký ức chuyển động như những thước phim sống động bên ngoài lớp kính. Những hạt bụi sáng nhẹ nhàng trôi trong toa tàu trong khi ánh hoàng hôn tràn ngập không gian. Bầu không khí mang cảm giác hoài niệm, mơ màng và đầy cảm xúc. Cô gái dừng lại bên cạnh ô cửa sổ đang chiếu hình ảnh phiên bản trẻ hơn của chính mình đang mỉm cười. Cô nhẹ nhàng đặt tay lên mặt kính. Khoảnh khắc điện ảnh cuối cùng: con tàu rời ga và bay vào bầu trời giữa những đám mây, trong khi hàng trăm ký ức rực rỡ bay lơ lửng xung quanh như những chiếc đèn lồng trong đêm. Phong cách: chất lượng phim anime cao cấp, bầu không khí giả tưởng đầy cảm xúc, màu sắc bầu trời tuyệt đẹp, kỹ thuật quay phim mơ màng, lối kể chuyện hoài niệm, ánh sáng dịu nhẹ, các hạt bụi lơ lửng, hậu cảnh chi tiết cao, chủ nghĩa hiện thực huyền ảo, không văn bản, không lớp phủ. Âm thanh: nhạc nền anime giao hưởng đầy cảm xúc, tiếng piano nhẹ nhàng, tiếng đàn dây ấm áp, âm thanh tàu hỏa từ xa, tiếng gió thổi qua những đám mây, thiết kế âm thanh huyền ảo tinh tế.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061749753910562816/pu/img/NIUeFtcHEqptiXuu.jpg" width="600" alt="Chuỗi hình ảnh Anime về Chuyến tàu Ký ức">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5609)**
+
+**Tác giả:** [LudovicCreator](https://x.com/LudovicCreator) | **Nguồn:** [Link](https://x.com/LudovicCreator/status/2061749780661911703) | **Đã xuất bản:** Jun 2, 2026
+
+---
+### Chuyển động biểu cảm khuôn mặt hoạt hình
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh để tạo ra các chuyển động khuôn mặt theo phong cách hoạt hình cường điệu, chuyển đổi từ nụ cười sang biểu cảm nghiêm túc với các hiệu ứng hình ảnh kiểu anime.
+
+#### 📝 Prompt
+
+```
+Chuyển động theo phong cách hoạt hình cường điệu. Cận cảnh khuôn mặt. Chuyển đổi tức thì từ nụ cười sang biểu cảm nghiêm túc. Đồng tử liếc sang một bên để khám phá điều gì đó. Phồng má vì ghen tị. Thay vì các ký hiệu giận dữ, các vệt đỏ tròn và hơi nước hình trái tim lần lượt xuất hiện.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061722169584099328/img/r-s6-4UqyEamBq47.jpg" width="600" alt="Chuyển động biểu cảm khuôn mặt hoạt hình">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5626)**
+
+**Tác giả:** [妖精アーヤさん](https://x.com/aiehon_aya) | **Nguồn:** [Link](https://x.com/aiehon_aya/status/2061749666757181855) | **Đã xuất bản:** Jun 2, 2026
+
+---
+### Quảng cáo thực phẩm buổi sáng phong cách điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một quảng cáo bữa sáng phong cách Hollywood sang trọng với hình ảnh thức ăn bay bổng, làn khói tỏa và tiêu đề 'MORNING' khổng lồ làm từ thủy tinh vàng.
+
+#### 📝 Prompt
+
+```
+Một tiêu đề “MORNING” khổng lồ đầy thanh lịch được làm từ thủy tinh vàng rực rỡ và đá cẩm thạch trắng bóng loáng đặt ngay trung tâm của bàn ăn sáng siêu sang trọng, các chữ cái phản chiếu ánh sáng bình minh ấm áp trong khi làn khói cà phê tươi mới tỏa ra tự nhiên xung quanh kiểu chữ. Những chiếc bánh pancake nhỏ giọt siro, bánh sừng bò vỡ vụn thành những mảnh vụn bay bổng, dâu tây và các loại quả mọng lăn trên mặt bàn, nước cam bắn tung tóe ở chế độ quay chậm bên cạnh những chữ cái phát sáng, bơ tan chảy chân thực trên lát bánh mì nướng ấm nóng trong khi ánh nắng tràn ngập toàn bộ khung cảnh. Căn bếp penthouse hiện đại sang trọng vào lúc bình minh với những cửa sổ toàn cảnh lớn, những tia nắng vàng buổi sáng chiếu rọi các bề mặt đá cẩm thạch, bóng đổ mềm mại, làn khói điện ảnh và kết cấu thực phẩm siêu thực tạo nên bầu không khí quảng cáo bữa sáng Hollywood cao cấp. Bắt đầu bằng một cảnh quay cận cảnh điện ảnh mượt mà vào làn khói cà phê bốc lên bên cạnh những chữ cái “MORNING” rực rỡ, camera trượt thanh lịch qua bàn ăn sáng để lộ kết cấu thực phẩm và hình ảnh phản chiếu chi tiết, các chuyển động xoay chậm quanh siro đang nhỏ giọt trên bánh pancake bên cạnh kiểu chữ, các cảnh quay macro của vụn bánh sừng bò và trái cây bắn tung tóe tương tác với các chữ cái, độ sâu trường ảnh điện ảnh mềm mại, mô phỏng chất lỏng chân thực và ánh sáng mặt trời thể tích ấm áp lấp đầy khung hình, các đoạn tăng tốc tinh tế làm nổi bật các hạt bay và chuyển động của làn khói, kết thúc bằng một cảnh quay rộng điện ảnh hé lộ toàn bộ thiết lập bữa sáng sang trọng bên dưới tiêu đề “MORNING” rạng rỡ trong khi ánh nắng vàng tràn ngập căn phòng và làn khói bốc lên yên bình xung quanh kiểu chữ thanh lịch giống như cảnh mở đầu của một quảng cáo bữa sáng Hollywood cao cấp.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061727016102043648/pu/img/88BAgR5aQ_ehCuM_.jpg" width="600" alt="Quảng cáo thực phẩm buổi sáng phong cách điện ảnh">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5610)**
+
+**Tác giả:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Nguồn:** [Link](https://x.com/CharaspowerAI/status/2061727041142108397) | **Đã xuất bản:** Jun 2, 2026
+
+---
+### Kiểm soát cường độ biểu cảm Anime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một bộ câu lệnh (prompt) được kiểm soát để thử nghiệm biểu cảm nhân vật và cường độ phản ứng trong các thể loại anime khác nhau.
+
+#### 📝 Prompt
+
+```
+[0:00-0:03] Cảnh quay toàn cảnh một người đàn ông vạm vỡ khoanh tay, nhướng mày và nói: "?!” [Cắt: 0:03-0:06] Cảnh quay trung cảnh người đàn ông nói: "?!!" [Cắt: 0:06-0:09] Cảnh quay cận cảnh người đàn ông nói: "?!!!" [Cắt: 0:09-0:12] Cảnh quay cực cận (ECU) vào miệng người đàn ông, sau đó lia máy lên biểu cảm kinh ngạc của anh ta khi nói: "?!!!!" 1. Đây là một bộ anime hài hước với các phản ứng được cường điệu hóa. Hãy nhấn mạnh vào các đoạn cắt đột ngột và các biểu cảm khuôn mặt vui nhộn. 2. Đây là một bộ anime lãng mạn với những phản ứng đau lòng. Hãy nhấn mạnh vào các đoạn cắt đột ngột và các biểu cảm khuôn mặt lãng mạn. 3. Đây là một bộ anime chính kịch nghiêm túc với phản ứng dữ dội. Hãy nhấn mạnh vào các đoạn cắt đột ngột và các biểu cảm khuôn mặt vô cùng mãnh liệt. 4. Đây là một bộ anime kinh dị với các phản ứng đầy hồi hộp. Hãy nhấn mạnh vào các đoạn cắt đột ngột và các biểu cảm khuôn mặt kinh hoàng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061675713644974080/img/CvGifjclaweK8xpy.jpg" width="600" alt="Kiểm soát cường độ biểu cảm Anime">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5615)**
+
+**Tác giả:** [Jason W - AI](https://x.com/PocketScreenAI) | **Nguồn:** [Link](https://x.com/PocketScreenAI/status/2061679830714970140) | **Đã xuất bản:** Jun 2, 2026
+
+---
+### Tàu cướp biển trong bão dữ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh siêu thực về con tàu cướp biển giữa cơn bão lớn với những quái vật biển khổng lồ và những tia chớp rạch ngang trời.
+
+#### 📝 Prompt
+
+```
+Đại dương bão tố siêu thực vào ban đêm, con tàu cướp biển bằng gỗ đang vượt lên những con sóng dữ dội. Thủy thủ đoàn bắn đại bác mù quáng vào bóng tối. Những xúc tu khổng lồ trồi lên quanh thân tàu, nghiền nát cột buồm và xé toạc cánh buồm. Máy quay lia mạnh trên boong tàu ướt sũng qua những tia chớp lóe sáng. Khung hình cuối: thuyền trưởng cười lớn với thanh kiếm giơ cao khi những đôi mắt khổng lồ xuất hiện từ dưới biển sâu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061644620237348864/img/EjlPQye9orwQ1_v6.jpg" width="600" alt="Tàu cướp biển trong bão dữ">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5617)**
+
+**Tác giả:** [Alexandra Aisling](https://x.com/AllaAisling) | **Nguồn:** [Link](https://x.com/AllaAisling/status/2061658564679393659) | **Đã xuất bản:** Jun 2, 2026
+
+---
+### Video quảng cáo thời trang thể thao siêu thực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh chi tiết cho quảng cáo đồ thể thao cao cấp, với các chuyển động máy quay chuyên nghiệp, kết cấu chân thực và kiến trúc đô thị.
+
+#### 📝 Prompt
+
+```
+Video quảng cáo thời trang siêu thực về một cô gái trẻ xinh đẹp mặc áo khoác thể thao màu trắng với các đường kẻ sọc đen và quần đen, đứng dựa vào bức tường bê tông hiện đại dưới ánh nắng ban mai ấm áp. Quảng cáo phong cách sống điện ảnh, chiến dịch đồ thể thao cao cấp. Video bắt đầu bằng cảnh quay cận cảnh logo thêu và kết cấu vải, ánh nắng tạo nên những bóng đổ nhẹ nhàng trên áo. Chuyển động máy quay mượt mà cho thấy người mẫu đang tự tin dựa vào tường, nhìn về phía xa với vẻ mặt bình tĩnh, thanh lịch. Sau đó, cô bước lên những bậc thang bê tông hiện đại theo hiệu ứng chuyển động chậm (slow motion), mái tóc chuyển động tự nhiên, tư thế tự tin, nền là kiến trúc đô thị sạch sẽ. Các cảnh quay cận cảnh chi tiết bàn tay cô chạm vào các đường kẻ sọc trên tay áo, làm nổi bật chất lượng vải và sự tinh xảo. Ánh sáng tự nhiên dịu nhẹ, độ sâu trường ảnh nông, hiệu ứng bokeh mượt mà, thẩm mỹ thời trang sang trọng, các cảnh quay gimbal mượt mà, kỹ thuật quay phim quảng cáo cao cấp, kết cấu da chân thực, gió nhẹ, 4K HDR, quảng cáo đồ thể thao cao cấp, siêu chi tiết, chỉnh màu điện ảnh, chiến dịch thời trang chuyên nghiệp, phong cách Instagram Reel, 24fps.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061653939653890048/pu/img/7eZfZ1YLKpZ0Pj5E.jpg" width="600" alt="Video quảng cáo thời trang thể thao siêu thực">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5613)**
+
+**Tác giả:** [Calira](https://x.com/CaliraVal) | **Nguồn:** [Link](https://x.com/CaliraVal/status/2061653976635130259) | **Đã xuất bản:** Jun 2, 2026
+
+---
+### Biến đổi sản phẩm thành bánh kem ăn được
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Chuyển đổi sản phẩm được tải lên thành một chiếc bánh kem ăn được siêu thực với kết cấu mousse lì và phần nhân bánh bông lan.
+
+#### 📝 Prompt
+
+```
+Phiên bản bánh kem ăn được siêu thực của sản phẩm được tải lên, giữ nguyên hình dạng, tỷ lệ và đường nét gốc, sản phẩm còn nguyên vẹn và không bị cắt, bề mặt được chuyển đổi thành kết cấu mousse lì mềm mại, chi tiết bánh bông lan tự nhiên, không có lớp hoàn thiện bóng loáng, lớp phủ nhung mịn tinh tế, góc nhìn thẳng từ phía trước, góc máy ngang tầm mắt, máy ảnh đặt trực tiếp phía trước sản phẩm, bố cục đối xứng ở trung tâm, ánh sáng ban ngày tự nhiên dịu nhẹ từ cửa sổ gần đó, đổ bóng chân thực, đặt trên bàn gỗ hoặc bàn đá cẩm thạch màu be, nền vải lanh trung tính mềm mại, ánh sáng tự nhiên tươi sáng, không bị cháy sáng, độ sâu trường ảnh nông, nhiếp ảnh ống kính macro, phong cách trình bày món tráng miệng cao cấp nhưng tự nhiên, bàn tay cầm một chiếc thìa đơn giản đặt gần bề mặt nhưng không cắt, siêu thực, chi tiết cao 8k, hình ảnh cuối cùng ở tỷ lệ 3:4. Chuyển đổi sản phẩm được tải lên thành một chiếc bánh kem ăn được siêu thực, giữ nguyên hình dạng và góc nhìn phía trước. Kết cấu mousse lì mềm mại, không bóng. Bối cảnh ánh sáng ban ngày tự nhiên. Một chiếc thìa nhẹ nhàng cắt một cạnh, bề mặt vỡ ra một cách mềm mại, bên trong lộ ra các lớp bánh bông lan và kem. Chuyển động chậm mượt mà, ống kính macro, siêu thực.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780472630787_ej6uuy_HJxviY6boAArKG2.jpg" width="600" alt="Biến đổi sản phẩm thành bánh kem ăn được">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5611)**
+
+**Tác giả:** [Avelyrah](https://x.com/AvelyrahnAI) | **Nguồn:** [Link](https://x.com/AvelyrahnAI/status/2061645406828978248) | **Đã xuất bản:** Jun 2, 2026
+
+---
+### Nhân vật anime trong MV thế giới thực
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
 
 > Một câu lệnh chuyên dụng cho Seedance 2.0 giúp kết hợp các nhân vật theo phong cách anime vào bối cảnh đường phố mua sắm chân thực như phim điện ảnh cho video âm nhạc.
 
@@ -378,6 +825,25 @@ Chỉ sử dụng {{Image 1}} làm tham chiếu nhận diện cho Nhân vật A.
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5589)**
 
 **Tác giả:** [Toshi@ニャルオAI](https://x.com/Toshi_nyaruo_AI) | **Nguồn:** [Link](https://x.com/Toshi_nyaruo_AI/status/2061640598818558248) | **Đã xuất bản:** Jun 2, 2026
+
+---
+### Cú máy động phong cách Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video động cho cảnh nhân vật cyberpunk trên những con phố neon với góc máy từ trên cao.
+
+#### 📝 Prompt
+
+```
+một video với góc máy cực ngầu và sống động trên những con phố neon, kết thúc bằng góc nhìn từ trên cao khi cô ấy nhìn vào camera với biểu cảm cực chất
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061622099354226688/img/xmKuwEbo9Qgg-kVI.jpg" width="600" alt="Cú máy động phong cách Cyberpunk">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5616)**
+
+**Tác giả:** [Noname Oasis](https://x.com/nonameoasis) | **Nguồn:** [Link](https://x.com/nonameoasis/status/2061622198889267260) | **Đã xuất bản:** Jun 2, 2026
 
 ---
 ### Xe tẩu thoát trong con hẻm tối đầy gai góc
@@ -3302,956 +3768,6 @@ Cài đặt cho tất cả các khung: Image to Video, Thời lượng 2 giây, 
 **Tác giả:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **Nguồn:** [Link](https://x.com/itsshara_ai/status/2060634928124166655) | **Đã xuất bản:** May 30, 2026
 
 ---
-### Hoạt ảnh nhân vật thương hiệu dễ thương
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh để tạo hoạt ảnh cho nhiều nhân vật đang làm việc, sau đó cùng nhau xuất hiện để chào mừng thương hiệu.
-
-#### 📝 Prompt
-
-```
-Tạo hoạt ảnh cho tất cả các nhân vật đang thực hiện công việc riêng của họ, và ở phần cuối, họ cùng nhau xuất hiện và nói: Xin chào, chúng tôi là phiên bản dễ thương của Your Brand Name...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a4c8d2af9e69dd4784deb8e7dbc3710/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh nhân vật thương hiệu dễ thương">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5498)**
-
-**Tác giả:** [Future AI 🧩](https://x.com/FutureVibesAi) | **Nguồn:** [Link](https://x.com/FutureVibesAi/status/2060633848723939590) | **Đã xuất bản:** May 30, 2026
-
----
-### Chuỗi cảnh chiến đấu phong cách anime trong ngõ hẻm đô thị
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) chi tiết theo phong cách anime điện ảnh cho chuỗi cảnh chiến đấu dài 15 giây, bao gồm các chuyển động camera linh hoạt và lớp phủ giao diện người dùng (UI) giống như trong trò chơi.
-
-#### 📝 Prompt
-
-```
-chuỗi cảnh chiến đấu trong ngõ hẻm đô thị theo phong cách anime điện ảnh, thời lượng 15 giây, nhân vật nam phụ yếu thế đang bị áp đảo trong một cuộc ẩu đả trên phố, bối cảnh tối với ánh đèn neon và hình ảnh phản chiếu trên mặt đất ướt, cận chiến nhịp độ nhanh với chuyển động camera linh hoạt và hiệu ứng nhòe chuyển động (motion blur) từ 0–3 giây: nhân vật lộ rõ vẻ yếu thế, bị đối thủ mạnh hơn đẩy và đánh, các góc quay cận cảnh hỗn loạn, cuộc vật lộn chân thực và sát mặt đất từ 3–6 giây: hiệu ứng lỗi hình ảnh (glitch) bất ngờ xuất hiện trong tầm nhìn của nhân vật, giao diện hệ thống ảnh ảo (holographic) tinh tế bắt đầu hiện ra với các đoạn văn bản UI rời rạc như “ANALYZING OPPONENT” (ĐANG PHÂN TÍCH ĐỐI THỦ) và “PATTERN DETECTED” (ĐÃ PHÁT HIỆN MÔ THỨC), cảm giác thời gian chậm lại đôi chút từ 6–10 giây: nhân vật bắt đầu thích nghi giữa trận đấu, khả năng né đòn được cải thiện và phản đòn một phần, UI cập nhật với “DODGE WINDOW: 0.4s” (CỬA SỔ NÉ ĐÒN: 0.4 giây) và “COUNTER POSSIBILITY DETECTED” (ĐÃ PHÁT HIỆN KHẢ NĂNG PHẢN ĐÒN), camera trở nên chặt chẽ và có kiểm soát hơn từ 10–13 giây: khoảnh khắc đột phá, nhân vật thực hiện đòn phản công dứt khoát, chuyển động chiến đấu mượt mà, đối thủ bị đánh trúng và đẩy lùi, UI nhấp nháy “SKILL LEARNED: BASIC COMBAT” (ĐÃ HỌC KỸ NĂNG: CHIẾN ĐẤU CƠ BẢN) từ 13–15 giây: đối thủ khựng lại vì sốc, biểu cảm nhân vật trở nên bình tĩnh và tập trung, UI hệ thống tinh tế hiển thị “LEVEL UP IN PROGRESS” (ĐANG LÊN CẤP), cái kết kịch tính đầy lôi cuốn, chất lượng sản xuất anime, độ chi tiết cao, ánh sáng điện ảnh, lớp phủ hệ thống trò chơi tương lai tinh tế, sự chuyển biến đầy cảm xúc từ một chiến binh yếu thế sang người thích nghi nhanh, cái kết tạo hiệu ứng lan truyền mạnh mẽ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d0e00484c85a3ef915d2c053d478b9cd/thumbnails/thumbnail.jpg" width="600" alt="Chuỗi cảnh chiến đấu phong cách anime trong ngõ hẻm đô thị">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5482)**
-
-**Tác giả:** [yusra.](https://x.com/chatgptpaglu) | **Nguồn:** [Link](https://x.com/chatgptpaglu/status/2060631713953337575) | **Đã xuất bản:** May 30, 2026
-
----
-### Tiết lộ Time Traveler 2050
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt khoa học viễn tưởng đậm chất điện ảnh, mô tả quá trình chuyển cảnh từ một con hẻm tối tăm năm 2025 đến một siêu đô thị tương lai hùng vĩ vào năm 2050.
-
-#### 📝 Prompt
-
-```
-Một phân cảnh khoa học viễn tưởng siêu thực dài 15 giây đậm chất điện ảnh. Video mở đầu vào năm 2025 với cận cảnh một người du hành thời gian đang bối rối, đứng trong một con hẻm tối, mặc chiếc áo khoác sờn cũ và cầm trên tay một thiết bị du hành thời gian bị hỏng đang phát sáng. Thiết bị đột ngột kích hoạt, phát ra một luồng năng lượng màu trắng xanh rực rỡ.
-
-Môi trường xung quanh biến dạng khi thực tại uốn cong và sụp đổ thành ánh sáng. Một quá trình chuyển cảnh đầy kịch tính diễn ra khi anh ta bị kéo mạnh qua một lỗ sâu với những hạt neon xoáy, các mảnh vỡ trôi nổi và những dòng thời gian phân mảnh.
-
-Chuyển cảnh sang sự tĩnh lặng và sau đó là một màn tiết lộ ngoạn mục: người du hành hạ cánh xuống năm 2050. Một siêu đô thị tương lai khổng lồ trải dài vô tận lên bầu trời với những tòa nhà chọc trời thẳng đứng rực rỡ, phương tiện bay, quảng cáo ba chiều và các cầu giao thông lơ lửng giữa các tòa tháp. Bầu không khí trong lành, hơi sương mù với những ánh phản chiếu neon rực rỡ ở khắp mọi nơi.
-
-Máy quay từ từ hướng lên trên từ mặt đường khi người du hành nhìn xung quanh trong sự kinh ngạc. Những người với các bộ phận cơ thể điều khiển học tiên tiến đi ngang qua anh, các thiết bị bay không người lái quét trên không trung và các biển hiệu ba chiều nhấp nháy bằng những ngôn ngữ lạ.
-
-Cảnh cuối: toàn cảnh đường chân trời điện ảnh của thành phố tương lai với ánh hoàng hôn hòa quyện vào màn đêm neon, mặt trăng ba chiều khổng lồ trên bầu trời và người du hành thời gian đứng một mình đầy ngưỡng mộ.
-
-Phong cách: siêu thực, ánh sáng điện ảnh, độ chi tiết cao, 4K, bầu không khí kịch tính, độ sâu trường ảnh nông, chuyển động máy quay cầm tay đậm chất điện ảnh, tông màu khoa học viễn tưởng đầy cảm xúc.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5e6abcad9ca9543c4667d4456be83a7/thumbnails/thumbnail.jpg" width="600" alt="Tiết lộ Time Traveler 2050">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5480)**
-
-**Tác giả:** [Zeeshi](https://x.com/AIwithZeeshi) | **Nguồn:** [Link](https://x.com/AIwithZeeshi/status/2060626641571721611) | **Đã xuất bản:** May 30, 2026
-
----
-### Triệu hồi chiến đấu phong cách anime sống động
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một phân cảnh triệu hồi phong cách anime đầy kịch tính, nơi nhân vật kích hoạt vòng tròn ma thuật, tạo ra các làn sóng xung kích và sự xuất hiện của một linh hồn khổng lồ.
-
-#### 📝 Prompt
-
-```
-Tham khảo {{Image 1}} cho nhân vật chính. {{Image 2}} là tham khảo cho tư thế triệu hồi bùng nổ, linh hồn khổng lồ phía sau nhân vật, khói, mảnh vụn, vòng tròn ma thuật và các đường nét tác động kiểu manga.
-
-Một cảnh triệu hồi chiến đấu phong cách anime sống động. Cô gái với những đường kẻ sọc xanh đập mạnh lòng bàn tay xuống một vòng tròn nghi lễ màu đen khổng lồ. Ngay tại thời điểm tiếp xúc, một làn sóng xung kích dữ dội bùng phát ra ngoài, làm nứt mặt đất và hất tung mực, bụi, các mảnh cuộn giấy và đá đen lên không trung. Biểu cảm của cô ấy lạnh lùng và không sợ hãi. Đôi mắt xanh của cô khẽ phát sáng. Một linh hồn hộ vệ được triệu hồi khổng lồ hình thành phía sau cô từ khói và những dải ruy băng, sừng sững trên khung cảnh như một thực thể khế ước cổ xưa. Camera nhanh chóng zoom từ vòng tròn ma thuật vào khuôn mặt cô, sau đó kéo lùi lại để lộ ra vị hộ vệ to lớn. Các đường tốc độ mạnh mẽ, khói cuộn xoáy, những tia chớp xanh trắng đầy kịch tính, phân cảnh mở đầu anime tràn đầy năng lượng, quy mô hoành tráng, 5 giây.
-
-Không tạo văn bản có thể đọc được hoặc chữ tiếng Nhật. Giữ nguyên thiết kế nhân vật của imageB. Không che khuất khuôn mặt hoặc đôi mắt của cô ấy.
-
-Negative Prompt (Từ khóa phủ định)
-
-cô gái khác, trang phục khác, sai màu tóc, ngọn lửa đỏ, phép thuật lửa, văn bản có thể đọc được, chữ cái tiếng Nhật, chú thích, logo, hình mờ, biến dạng khuôn mặt, bàn tay xấu, thừa ngón tay, giải phẫu kém, cảnh hỗn loạn không thể đọc được
-```
-
-<img src="https://cms-assets.youmind.com/media/1780211912044_i7ue6n_HJjEoQybkAAHbBq.jpg" width="600" alt="Triệu hồi chiến đấu phong cách anime sống động">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5505)**
-
-**Tác giả:** [Toshi@ニャルオAI](https://x.com/Toshi_nyaruo_AI) | **Nguồn:** [Link](https://x.com/Toshi_nyaruo_AI/status/2060613518961893660) | **Đã xuất bản:** May 30, 2026
-
----
-### Vlog Công chúa Pháp thập niên 1880
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt dòng thời gian dài cho vlog lịch sử theo chân một nàng công chúa Pháp vào năm 1880, bao gồm thói quen buổi sáng và cuộc sống trong cung điện.
-
-#### 📝 Prompt
-
-```
-TIÊU ĐỀ: “Vlog buổi sáng của Công chúa — Pháp, 1880” Phong cách: Vlog công chúa lịch sử siêu thực, thẩm mỹ hoàng gia Pháp đậm chất điện ảnh, chân thực với góc máy cầm tay sống động, không khí sang trọng quý phái --- 🕒 PROMPT DÒNG THỜI GIAN 15 GIÂY ⏱️ 0–4 giây | MỞ ĐẦU VLOG BUỔI SÁNG Hình ảnh: Bên trong cung điện hoàng gia Pháp sang trọng năm 1880 lấy cảm hứng từ Versailles. Ánh nắng vàng ấm áp tràn qua những khung cửa sổ cung điện khổng lồ. Đồ trang trí bằng vàng, nội thất cổ điển, nến, sàn đá cẩm thạch, rèm lụa lay động nhẹ nhàng. Một nàng công chúa trẻ đẹp đến nao lòng với mái tóc vàng gợn sóng dài tự mình cầm máy quay theo phong cách vlog khi đang đi về phía chiếc gương hoàng gia khổng lồ. Nàng đội vương miện kim cương tinh xảo, trang sức hoàng gia lấp lánh, khuyên tai ngọc trai và mặc chiếc váy hoàng gia màu hồng pastel thanh lịch với các chi tiết lụa và ren sang trọng. Lời thoại (mỉm cười ấm áp vào máy quay): “Chào buổi sáng… hãy cùng chuẩn bị đồ với mình trong vai một nàng công chúa ở Pháp nhé.” Máy quay: chuyển động vlog cầm tay chân thực, độ rung điện ảnh nhẹ nhàng Biểu cảm: nụ cười nữ tính dịu dàng, giao tiếp bằng mắt tinh nghịch --- ⏱️ 4–8 giây | CHUẨN BỊ ĐỒ Hình ảnh: Các hầu gái hoàng gia cẩn thận chuẩn bị cho nàng trong khi nàng vẫn tiếp tục quay vlog một cách tự nhiên. Một hầu gái nhẹ nhàng chải mái tóc vàng gợn sóng dài, một người khác chỉnh lại chiếc váy corset thanh lịch, người còn lại đeo trang sức kim cương quanh cổ và cổ tay nàng. Công chúa ngắm nhìn mình trong gương và cười khúc khích. Lời thoại: “Những chiếc váy này thực sự mất cả đời để mặc…” Chi tiết nền: đèn chùm pha lê khổng lồ, gương vàng, người hầu đi lại tự nhiên, không khí hoàng gia chân thực Máy quay: cận cảnh điện ảnh về vương miện, trang sức lấp lánh, váy lụa thướt tha, chi tiết trang điểm --- ⏱️ 8–12 giây | DẠO BƯỚC TRONG VƯỜN HOÀNG GIA Hình ảnh: Công chúa đi dạo qua những khu vườn hoàng gia rộng lớn trong khi hướng máy quay về phía mình. Những đóa hồng xinh đẹp, đài phun nước khổng lồ, tượng trắng, chim công, lối đi hoàng gia, người hầu và lính canh di chuyển tự nhiên ở phía sau. Gió khẽ lay động mái tóc vàng và chiếc váy của nàng. Nàng hái trái cây tươi từ chiếc giỏ vườn thanh lịch. Lời thoại: “Mình đi dạo ở đây mỗi sáng…” “Và những loại trái cây này luôn tươi ngon.” Máy quay: chuyển động vlog điện ảnh mượt mà, chiều sâu ngoại cảnh tự nhiên --- 12–15 giây | GIỚI THIỆU HOÀNG TỬ + KẾT THÚC Hình ảnh: Một vị hoàng tử trẻ điển trai cưỡi ngựa từ xa trở về sau chuyến đi săn, mặc trang phục hoàng gia tối màu sang trọng với găng tay da và đôi ủng cưỡi ngựa thanh lịch. Các lính canh hoàng gia đi theo phía sau. Công chúa hào hứng quay máy quay về phía anh. Lời thoại (mỉm cười tự hào): “Và đó là anh trai William của mình!” “Chào khán giả xinh đẹp của em đi, William.” Hoàng tử mỉm cười quyến rũ vào máy quay. William: “Rất vui được gặp mọi người.” Công chúa cười nhẹ. Lời thoại cuối: “Mình sẽ cho các bạn xem chợ hoàng gia trong vlog tới.” Cảnh cuối: cú máy lùi xa điện ảnh cho thấy cung điện Pháp khổng lồ rực rỡ dưới ánh nắng vàng --- 🎥 THẺ PHONG CÁCH Vlog công chúa lịch sử siêu thực, sự chân thực của hoàng gia Pháp 1880, thẩm mỹ công chúa tóc vàng, trang sức vương miện thanh lịch, cảm giác máy quay cầm tay điện ảnh
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9b61b9c2529204f81275503a5d6138e/thumbnails/thumbnail.jpg" width="600" alt="Vlog Công chúa Pháp thập niên 1880">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5494)**
-
-**Tác giả:** [Kelly Jones](https://x.com/kellyyjjones) | **Nguồn:** [Link](https://x.com/kellyyjjones/status/2060601909342589082) | **Đã xuất bản:** May 30, 2026
-
----
-### Mô phỏng cánh bướm Morpho
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh mô phỏng vật lý chính xác về chuyển động cánh của bướm Morpho trên một bông hoa nhiệt đới.
-
-#### 📝 Prompt
-
-```
-một con bướm Morpho đang đậu trên một bông hoa nhiệt đới mở và khép cánh trong một mô phỏng vật lý chính xác về chuyển động cánh được điều khiển bởi cơ bắp
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bdfed2ee225224f440bf3dd35225211f/thumbnails/thumbnail.jpg" width="600" alt="Mô phỏng cánh bướm Morpho">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5486)**
-
-**Tác giả:** [CinePrompts](https://x.com/ijaz4837) | **Nguồn:** [Link](https://x.com/ijaz4837/status/2060596605997252807) | **Đã xuất bản:** May 30, 2026
-
----
-### Điều hướng trên đường phố thị trấn Anime
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh mô tả lộ trình góc nhìn thứ nhất đi qua một thị trấn, ngang qua quán cà phê, cửa hàng phép thuật và cửa hàng vũ khí, tập trung vào các thao tác rẽ và di chuyển.
-
-#### 📝 Prompt
-
-```
-Rời khỏi quán cà phê và rẽ phải, tăng dần tốc độ, đi theo con đường uốn lượn nhẹ nhàng rồi rẽ trái. Sau khi đi ngang qua phía trước cửa hàng phép thuật, hãy rẽ phải tại góc đường, rẽ phải hai lần dọc theo con đường ở ngõ cụt, và bạn sẽ xuất hiện ngay cạnh cửa hàng vũ khí.
-```
-
-<img src="https://cms-assets.youmind.com/media/1780211912187_aagszb_HJikKPSa4AE8Xa1.jpg" width="600" alt="Điều hướng trên đường phố thị trấn Anime">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5506)**
-
-**Tác giả:** [mic](https://x.com/333mic999) | **Nguồn:** [Link](https://x.com/333mic999/status/2060579477386830130) | **Đã xuất bản:** May 30, 2026
-
----
-### Sự trỗi dậy của Titan tại Hẻm núi Núi lửa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một phân cảnh hành động điện ảnh dài 15 giây với sự góp mặt của một đấu sĩ và một nữ chiến binh cầm thương đang chiến đấu trên những sợi xích khổng lồ khi một titan khổng lồ thức tỉnh trong hẻm núi núi lửa.
-
-#### 📝 Prompt
-
-```
-Phân cảnh hành động điện ảnh dài 15 giây trên những sợi xích của một titan khổng lồ bị chôn vùi đang trỗi dậy từ hẻm núi núi lửa, những dòng dung nham phun trào lên cao, mây tro bụi bao trùm đường chân trời. 
-0.0–3.0s: Máy quay lướt qua làn khói núi lửa khi một đấu sĩ mặc giáp lửa Slides xuống sợi xích gỉ sét khổng lồ lơ lửng trên dòng dung nham. Ở phía xa, đôi mắt của titan từ từ mở ra. 
-3.0–6.0s: Một nữ chiến binh cầm thương lao từ vách đá đang sụp đổ xuống sợi xích. Máy quay lia xuống phía dưới cho thấy dòng dung nham ở sâu bên dưới. 
-6.0–9.0s: Vũ khí va chạm, những tia lửa nóng chảy bắn ra ngoài trong khi chuyển động của titan làm những sợi xích rung lắc dữ dội khắp hẻm núi. 
-9.0–12.0s: Cảnh chạy nước rút giữa trận chiến dọc theo những sợi xích đang đung đưa khi mảnh vụn núi lửa rơi xuống và những bàn tay đá khổng lồ trồi lên từ lòng đất. 
-12.0–15.0s: Cảnh quay góc rộng từ xa cho thấy titan đang trỗi dậy từ hẻm núi trong khi cuộc đấu vẫn tiếp diễn trên những sợi xích đang chuyển động.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e45d0162b32bf4af1fb5930c8a4f7602/thumbnails/thumbnail.jpg" width="600" alt="Sự trỗi dậy của Titan tại Hẻm núi Núi lửa">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5490)**
-
-**Tác giả:** [Alexandra Aisling](https://x.com/AllaAisling) | **Nguồn:** [Link](https://x.com/AllaAisling/status/2060570646267023519) | **Đã xuất bản:** May 30, 2026
-
----
-### Khoảnh khắc đoàn tụ đầy cảm xúc tại sân bay
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt điện ảnh đầy cảm xúc cho video dài 15 giây mô tả cặp đôi yêu xa đoàn tụ tại sân bay lúc hoàng hôn, chú trọng vào biểu cảm khuôn mặt chân thực và hiệu ứng vật lý.
-
-#### 📝 Prompt
-
-```
-Cuộc đoàn tụ đầy cảm xúc mang phong cách điện ảnh của cặp đôi yêu xa tại sân bay lúc hoàng hôn, được thiết kế hoàn hảo cho video viral dài 15 giây.
-
-0–3s: Một cô gái cô đơn chờ đợi gần cửa đến sân bay, hồi hộp và xúc động, ánh nắng vàng dịu nhẹ xuyên qua những ô cửa sổ lớn, không khí điện ảnh, camera từ từ tiến lại gần.
-
-3–6s: Người yêu của cô xuất hiện từ đám đông với chiếc túi du lịch, ánh mắt chạm nhau đầy kịch tính, các góc quay cận cảnh giàu cảm xúc, biểu cảm khuôn mặt chân thực, đám đông phía sau bị làm mờ chuyển động.
-
-6–10s: Cả hai bắt đầu chạy về phía nhau trong hiệu ứng quay chậm đầy kịch tính, chuyển động camera cầm tay đậm chất điện ảnh, âm hưởng nhạc piano đầy cảm xúc, hiệu ứng vật lý chân thực và trang phục bay bổng.
-
-10–13s: Họ ôm chặt lấy nhau với đôi mắt đẫm lệ, ánh sáng ngược hoàng hôn ấm áp, hiệu ứng lóe sáng ống kính (lens flare), kết cấu da siêu thực, khoảnh khắc điện ảnh đầy cảm xúc.
-
-13–15s: Camera từ từ xoay quanh họ trong khi đám đông mờ dần, kết thúc bằng cảnh chạm trán và nụ cười hạnh phúc, mang cảm giác như phim lãng mạn Hollywood, hình ảnh kiệt tác, ánh sáng thể tích (volumetric lighting), siêu thực, chất lượng Seedance 2.0, khung hình dọc 9:16.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1268e0aeefb12996975481eace7d12b1/thumbnails/thumbnail.jpg" width="600" alt="Khoảnh khắc đoàn tụ đầy cảm xúc tại sân bay">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5496)**
-
-**Tác giả:** [Zeeshi](https://x.com/AIwithZeeshi) | **Nguồn:** [Link](https://x.com/AIwithZeeshi/status/2060559023078842586) | **Đã xuất bản:** May 30, 2026
-
----
-### Phim giật gân khoa học viễn tưởng với đồng hồ đếm ngược căng thẳng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một chuỗi cảnh khoa học viễn tưởng tâm lý, nơi một người đàn ông phát hiện ra chiếc đồng hồ đếm ngược kỹ thuật số màu đỏ rực xuất hiện dưới da mình trong một căn hộ mờ tối.
-
-#### 📝 Prompt
-
-```
-Người đàn ông ở một mình trong phòng tắm căn hộ mờ tối vào ban đêm. Ánh đèn huỳnh quang lạnh lẽo chập chờn phía trên. Một chiếc đồng hồ đếm ngược kỹ thuật số màu đỏ rực xuất hiện dưới lớp da gần thái dương, có thể nhìn thấy qua những tĩnh mạch mờ như một thiết bị cấy ghép thần kinh ba chiều. Bộ đếm thời gian bắt đầu từ 00:10. Cận cảnh đôi mắt đầy kinh hãi. Tiếng thở dốc. Mồ hôi vã ra ngay lập tức. Anh chạm vào vùng đang phát sáng trong sự bối rối và hoảng loạn. 00:09 Đồng hồ đếm ngược nhấp nháy sáng hơn. Anh hất nước lên mặt một cách dữ dội. Hình ảnh phản chiếu trong gương méo mó một cách tinh tế. Anh cố gắng cào vào những con số đang phát sáng bằng những ngón tay run rẩy. Hơi thở trở nên không ổn định. Ánh sáng nhịp nhàng như nhịp tim lan tỏa khắp hộp sọ. Máy quay rung nhẹ. Đèn phòng tắm chập chờn dữ dội hơn. Anh điên cuồng lục lọi các ngăn kéo để tìm thứ gì đó ngăn chặn nó. Cận cảnh mồ hôi nhỏ giọt xuống bồn rửa. Anh ấn đầu vào gương, cố gắng nghiền nát đồng hồ đếm ngược bằng thị giác. Ánh sáng đỏ rò rỉ qua da. 00:05 Tiếng ồn trong phòng bắt đầu rung lên một cách bất thường. Cảm giác âm thanh bị biến dạng. Đôi tay anh run rẩy dữ dội. Anh lấy một chiếc khăn, đầy tuyệt vọng. Đồng hồ đếm ngược vẫn phát sáng xuyên qua lớp vải. Đèn huỳnh quang nổ tung vào bóng tối. Chỉ còn chiếc đồng hồ đếm ngược màu đỏ chiếu sáng khuôn mặt anh. Hoảng loạn tột độ. Hơi thở gấp gáp. Máy quay cầm tay đặt rất gần anh. Sự im lặng tuyệt đối. Đồng hồ đếm ngược đóng băng. Ánh sáng đỏ từ từ mờ dần. Điện trở lại một cách nhẹ nhàng. Anh nhìn chằm chằm vào chính mình trong gương, run rẩy, không thể tin rằng mình đã sống sót. Phim giật gân khoa học viễn tưởng tâm lý đậm chất điện ảnh, diễn xuất chân thực, hình ảnh thực tế, căng thẳng tột độ, mồ hôi, hoảng loạn, độ sâu trường ảnh nông, chi tiết da chân thực, biến dạng môi trường tinh tế, ánh sáng kịch tính.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51cce83e20ac6951820e68a9cd217f7d/thumbnails/thumbnail.jpg" width="600" alt="Phim giật gân khoa học viễn tưởng với đồng hồ đếm ngược căng thẳng">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5501)**
-
-**Tác giả:** [DeCat](https://x.com/DeCat2025) | **Nguồn:** [Link](https://x.com/DeCat2025/status/2060542994873196852) | **Đã xuất bản:** May 30, 2026
-
----
-### Video quay bằng iPhone cầm tay chân thực trong khoang máy bay
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một câu lệnh (prompt) chi tiết để tạo video chân thực theo phong cách cầm tay bằng iPhone, ghi lại cảnh hành khách trong khoang máy bay với các chuyển động tự nhiên và những khiếm khuyết đặc trưng của camera.
-
-#### 📝 Prompt
-
-```
-Được trình bày theo phong cách thước phim quay bằng iPhone cầm tay thô, chưa qua chỉnh sửa. Tất cả cài đặt camera đều ở chế độ tự động, không qua hậu kỳ chỉnh màu hay thêm hiệu ứng. Hình ảnh có độ rung lắc tự nhiên của tay cầm và hơi thở của người quay. Chế độ lấy nét tự động đôi khi tìm kiếm, bị trễ hoặc mất nét trong chốc lát, trong khi cân bằng trắng tự động chuyển đổi tự nhiên giữa ánh sáng mặt trời từ cửa sổ và ánh sáng trong khoang máy bay. Tổng thể hình ảnh phẳng, giữ nguyên các hiện tượng lóe sáng (lens flare), quang sai màu, hơi cháy sáng và nhòe do chuyển động. Chỉ sử dụng âm thanh môi trường tự nhiên trực tiếp từ camera, bao gồm tiếng ù trầm của động cơ máy bay, tiếng cọ xát nhẹ của ghế ngồi và tiếng trò chuyện nhỏ từ các hành khách khác. Quay từ góc nhìn thứ nhất cầm tay với chuyển động camera phản ứng linh hoạt. Một phụ nữ trẻ người châu Á vóc dáng cân đối đang ngồi ở ghế cạnh cửa sổ hạng phổ thông, mặc váy và đi tất quá gối màu nude có chấm bi đen. Cô ấy ngồi vắt chéo chân. Trên bàn ăn của cô có một ly cà phê đá, một chiếc điện thoại và một vài bao bì đồ ăn nhẹ. Ở giây thứ 0, camera hướng về phía chân cô từ góc nhìn thứ nhất. Ở giây thứ 1, camera di chuyển lên trên để thấy cô đặt điện thoại xuống và lấy một món ăn nhẹ từ bàn hoặc túi xách màu xanh lá cây, bắt đầu ăn một cách tự nhiên. Ở giây thứ 2, trong khi đang ăn, cô bất ngờ nhận ra camera đang hướng về phía mình, khựng lại một chút và ngước nhìn lên. Ở giây thứ 3, cô giao tiếp bằng mắt với camera và hỏi với vẻ ngạc nhiên và thân thiện: "Bạn có muốn ăn chút không?". Giọng cô rõ ràng nhưng không quá lớn. Ở giây thứ 4, camera góc nhìn thứ nhất rung nhẹ để thể hiện sự từ chối; cô gật đầu nhẹ và mỉm cười. Ở giây thứ 5, cô chuyển ánh nhìn trở lại phía chân và đồ ăn, tiếp tục ăn một cách tự nhiên với vẻ mặt bình thản. Ở giây thứ 6, cô nhìn xuống chân và đồ ăn, thỉnh thoảng điều chỉnh tư thế vắt chéo chân một cách thoải mái, chân thực. Ở giây thứ 7, cô tiếp tục ăn, thỉnh thoảng nhìn xuống chân, trông tập trung nhưng vẫn thư thái, với camera góc nhìn thứ nhất theo sát. Ở giây thứ 8, cô cất túi đồ ăn nhẹ, ánh mắt vẫn hướng về phía chân. Ở giây thứ 9, cô điều chỉnh nhẹ tư thế ngồi, kéo một chân về phía sau một chút với vẻ mặt bình thản trong khi camera vẫn tiếp tục ghi hình. Thước phim mang lại kết cấu video cầm tay bằng iPhone chân thực, chưa qua chỉnh sửa với những khiếm khuyết tự nhiên ở cấp độ phim tài liệu và không có hiệu ứng hậu kỳ. Tất cả các hành vi của camera đều phù hợp với đặc điểm vật lý của việc quay phim cầm tay trong khoang hạng phổ thông của máy bay, bao gồm cả sự thay đổi ánh sáng tự nhiên và độ rung lắc nhẹ.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7c645868baa8ad9561f936809905574/thumbnails/thumbnail.jpg" width="600" alt="Video quay bằng iPhone cầm tay chân thực trong khoang máy bay">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5503)**
-
-**Tác giả:** [John](https://x.com/john87445528) | **Nguồn:** [Link](https://x.com/john87445528/status/2060530376448123287) | **Đã xuất bản:** May 30, 2026
-
----
-### Siêu cá sấu đối đầu Hố hoa ăn thịt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý (prompt) về sinh vật rừng rậm kinh dị, mô tả cảnh một con cá sấu khổng lồ rơi xuống hố đầy những loài thực vật ăn thịt.
-
-#### 📝 Prompt
-
-```
-Hòn đảo sinh vật ác mộng. Rừng rậm tiền sử rậm rạp. Những cây dương xỉ khổng lồ, rễ cây xoắn xuýt, độ ẩm cao, tiếng côn trùng gào thét trong nền. Ánh sáng mặt trời khó lòng chạm tới mặt đất. Hành động phim quái vật siêu thực. Kỹ thuật quay phim cầm tay hỗn loạn, tăng tốc độ đột ngột, zoom cận cảnh, lia máy nhanh, góc quay thấp bám đuổi. Âm thanh: tiếng cá sấu gầm, tiếng cây cối gãy đổ, tiếng hàm cây cối đớp mồi, tiếng thở gấp gáp.
-
-⸻
-
-0–2 giây — MỞ ĐẦU (HOOK)
-
-Góc quay thấp cầm tay bám đuổi.
-
-Một người sống sót đang chạy thục mạng xuyên qua khu rừng rậm rạp.
-
-Cành cây quất vào khung hình.
-
-Phía sau anh ta—
-
-Một con siêu cá sấu khổng lồ lao ra từ bụi rậm.
-
-Dài hơn 12 mét.
-
-Những vết sẹo cổ xưa bao phủ khắp cơ thể.
-
-Cây cối gãy đôi khi nó lao tới.
-
-Bộ hàm của nó đập mạnh chỉ cách anh ta vài centimet.
-
-⸻
-
-2–5 giây — LEO THANG
-
-Góc quay ngang bám đuổi.
-
-Người sống sót nhảy qua rễ cây và những khúc gỗ đổ.
-
-Con cá sấu hoàn toàn phớt lờ mọi chướng ngại vật.
-
-Nó ủi bay mọi thứ trên đường đi.
-
-Toàn bộ bụi rậm và cây nhỏ bị hất tung lên không trung.
-
-Khoảng cách giữa họ thu hẹp nhanh chóng.
-
-Người sống sót nhìn về phía trước—
-
-Một khoảng trống kỳ lạ.
-
-⸻
-
-5–8 giây — AN TOÀN GIẢ TẠO
-
-Góc quay rộng.
-
-Người sống sót lao vào một cánh đồng hoa khổng lồ tuyệt đẹp.
-
-Màu sắc rực rỡ.
-
-Những cánh hoa to lớn.
-
-Hoàn toàn yên bình.
-
-Anh ta không dừng lại.
-
-Chạy thẳng xuyên qua.
-
-Con cá sấu đuổi theo với tốc độ tối đa.
-
-Sau đó—
-
-Mặt đất dưới chân con cá sấu nứt toác.
-
-⸻
-
-8–11 giây — TIẾT LỘ
-
-Zoom cận cảnh xuống dưới.
-
-Toàn bộ cánh đồng hoa sụp đổ.
-
-Ẩn giấu bên dưới—
-
-Một cái hố sinh học khổng lồ.
-
-Hàng trăm thân hoa vươn lên.
-
-Nhưng đây không phải là hoa.
-
-Mỗi bông hoa mở ra thành một cái miệng tròn với những chiếc răng lởm chởm.
-
-Con cá sấu rơi thẳng vào trung tâm.
-
-⸻
-
-11–13 giây — HỖN LOẠN
-
-Những sinh vật hoa tấn công ngay lập tức.
-
-Hàng chục bông hoa bám chặt lấy con cá sấu.
-
-Con quái vật vùng vẫy dữ dội.
-
-Những bông hoa bị xé toạc.
-
-Những bông khác ngay lập tức thay thế vị trí.
-
-Toàn bộ cái hố trở thành một bữa tiệc săn mồi điên cuồng.
-
-Cánh hoa.
-
-Răng.
-
-Bùn đất.
-
-Phấn hoa đỏ như máu bắn tung tóe khắp nơi.
-
-⸻
-
-13–15 giây — CÚ SỐC CUỐI CÙNG
-
-Mặt đất rung chuyển.
-
-Một bông hoa khổng lồ trồi lên từ trung tâm cái hố.
-
-Bông hoa của nó còn lớn hơn cả một chiếc xe tải.
-
-Nó quấn lấy con cá sấu đang giãy giụa.
-
-Sau đó hất văng nó lên không trung một cách bạo lực.
-
-Bông hoa khổng lồ mở to hết cỡ—
-
-Đớp trọn con cá sấu đang bay trên không—
-
-Và nuốt chửng nó chỉ trong một cú đớp.
-
-Người sống sót đứng sững sờ trong sự hoài nghi.
-
-Sau đó, bông hoa khổng lồ từ từ quay về phía anh ta.
-
-Cái miệng của nó bắt đầu mở ra lần nữa.
-
-Cắt cảnh đột ngột sang màu đen.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/944b873cdbe26e5c1e2536607831457b/thumbnails/thumbnail.jpg" width="600" alt="Siêu cá sấu đối đầu Hố hoa ăn thịt">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5437)**
-
-**Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060509418903716012) | **Đã xuất bản:** May 29, 2026
-
----
-### Hồ Ký Sinh và Phân cảnh Kinh dị Cá sấu Đột biến
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video thể loại sinh vật kinh dị, mô tả cảnh một người sống sót đang chạy trốn khỏi con cá sấu dài 12 mét bị đột biến khủng khiếp do các ký sinh trùng phát sáng.
-
-#### 📝 Prompt
-
-```
-Hòn đảo rừng rậm ác mộng. Hồ nước đen bao quanh bởi những rễ cây đước xoắn xuýt, dương xỉ khổng lồ, các loài thực vật phát sáng kỳ lạ, sương mù dày đặc bao phủ mặt nước. Hòn đảo mang lại cảm giác sai lệch về mặt sinh học. Hành động thể loại sinh vật siêu thực. Quay phim cầm tay hỗn loạn, tăng tốc độ mạnh, zoom cận cảnh đột ngột, cắt cảnh nhanh. Âm thanh: tiếng nước bắn, tiếng cá sấu gầm, tiếng ký sinh trùng rít, tiếng thở dồn dập. Nhiều góc quay. Giống như một cảnh trong phim.
-
-⸻
-
-0–2 giây — MỞ ĐẦU (HOOK)
-
-Góc quay cầm tay cảnh truy đuổi.
-
-Một người sống sót đang chạy nước rút dọc theo bờ bùn.
-
-Phía sau anh ta—
-
-Một con cá sấu khổng lồ lao lên từ vùng nước nông.
-
-Dài 12 mét.
-
-Những vết sẹo cổ xưa.
-
-Bộ hàm khổng lồ đớp mạnh chỉ cách anh ta vài inch.
-
-Bùn và nước bắn tung tóe khắp nơi.
-
-⸻
-
-2–5 giây — LEO THANG
-
-Người sống sót chạy đến mép hồ.
-
-Không còn lựa chọn nào khác.
-
-Con cá sấu lao tới.
-
-Vào giây cuối cùng—
-
-Anh ta lao xuống nước.
-
-Cắt cảnh dưới nước.
-
-Con cá sấu lao vào hồ ngay phía sau anh ta.
-
-Một bức tường bong bóng và bùn khổng lồ lấp đầy khung hình.
-
-⸻
-
-5–8 giây — AN TOÀN GIẢ TẠO
-
-Góc quay theo dõi dưới nước.
-
-Người sống sót bơi sâu hơn.
-
-Nhìn lại phía sau.
-
-Con cá sấu vẫn đang tìm kiếm.
-
-Sau đó, có điều gì đó thay đổi.
-
-Những sinh vật nhỏ giống như giun phát sáng xuất hiện từ bóng tối.
-
-Hàng trăm con với những chiếc răng sắc nhọn.
-
-Di chuyển nhanh một cách bất thường.
-
-⸻
-
-8–11 giây — TIẾT LỘ
-
-Các ký sinh trùng bám vào con cá sấu.
-
-Một con.
-
-Mười con.
-
-Năm mươi con.
-
-Hàng trăm con.
-
-Con cá sấu quẫy đạp dữ dội.
-
-Cơ thể nó bắt đầu đột biến gần như ngay lập tức.
-
-Các chi phụ mọc ra từ hai bên sườn.
-
-Thêm những bộ hàm xuất hiện từ cổ.
-
-Những con mắt mới mở ra dưới lớp vảy.
-
-Mặt nước trở nên hỗn loạn.
-
-⸻
-
-11–13 giây — HỖN LOẠN
-
-Người sống sót trồi lên mặt nước và kéo mình lên bờ.
-
-Thở hổn hển.
-
-Nhẹ nhõm.
-
-Sau đó, mặt hồ bùng nổ.
-
-Con cá sấu đột biến lao vọt lên.
-
-Kích thước lớn gấp đôi.
-
-Bao phủ bởi các ký sinh trùng phát sáng.
-
-Nhiều bộ hàm mở ra độc lập.
-
-⸻
-
-13–15 giây — CÚ SỐC CUỐI CÙNG
-
-Sinh vật gầm lên.
-
-Sau đó, một trong những bộ hàm phụ xé toạc ra.
-
-Bên trong—
-
-Một cái đầu cá sấu khác đã hình thành đầy đủ bắt đầu đẩy ra ngoài.
-
-Mọc lên từ bên trong con đầu tiên.
-
-Người sống sót nhìn trong sự hoảng loạn tột độ.
-
-Cái đầu thứ hai mở mắt.
-
-Cắt đột ngột sang màu đen.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/deb9f35702d4d63089ec47f0c10e1c9d/thumbnails/thumbnail.jpg" width="600" alt="Hồ Ký Sinh và Phân cảnh Kinh dị Cá sấu Đột biến">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5454)**
-
-**Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060499189478642005) | **Đã xuất bản:** May 29, 2026
-
----
-### Phân cảnh kinh dị biến đổi cơ thể của chó kéo xe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một phân cảnh kinh dị về biến đổi cơ thể đầy ám ảnh lấy cảm hứng từ 'The Thing', mô tả một chú chó kéo xe đang hoảng sợ trải qua quá trình biến đổi sinh học bạo liệt tại một trạm tiền tiêu ở Nam Cực.
-
-#### 📝 Prompt
-
-```
-Trạm tiền tiêu hẻo lánh tại Nam Cực vào ban đêm. Bão tuyết bên ngoài. Ánh đèn vàng mờ ảo bên trong khu vực chuồng chó. Những chiếc lồng kim loại. Cửa sổ phủ đầy sương giá. Phân cảnh kinh dị với sự căng thẳng tột độ, nỗi sợ hãi leo thang và màn biến đổi bùng nổ. Sự bất an chậm rãi bùng phát thành hỗn loạn. Âm thanh: tiếng gió rít, tiếng chó thở, tiếng máy phát điện rì rầm từ xa.
-
-⸻
-
-0–2 giây — MỞ ĐẦU
-
-Cảnh quay toàn.
-
-Một chú chó kéo xe hoảng loạn lao vào trạm nghiên cứu.
-
-Tuyết phủ kín bộ lông.
-
-Các nhà nghiên cứu nhanh chóng đóng cửa lại phía sau nó.
-
-Bên ngoài, trận bão tuyết đang gào thét.
-
-Chú chó trông đầy sợ hãi.
-
-⸻
-
-2–4 giây — BẤT AN
-
-Cảnh quay cận.
-
-Chú chó ngồi im lặng.
-
-Thở hổn hển.
-
-Các nhà nghiên cứu quan sát chú chó.
-
-Một nhà khoa học mỉm cười.
-
-“Tội nghiệp quá.”
-
-Mọi thứ có vẻ bình thường.
-
-Quá đỗi bình thường.
-
-⸻
-
-4-6 giây — ĐIỀM BÁO
-
-Chú chó đột ngột ngừng thở hổn hển.
-
-Lồng ngực nó phồng lên.
-
-Rồi lại phồng lên nữa.
-
-Tiếp tục phồng to hơn.
-
-Vượt xa mức bình thường.
-
-Căn phòng trở nên im phăng phắc.
-
-Không ai hiểu nổi những gì họ đang chứng kiến.
-
-⸻
-
-6-9 giây — TIẾT LỘ
-
-Cú zoom nhanh vào chủ thể.
-
-Lồng ngực của chú chó bắt đầu mở ra.
-
-Chậm rãi.
-
-Như những cánh hoa.
-
-Da thịt căng ra.
-
-Xương cốt tách rời.
-
-Bên trong—
-
-Hàng chục con mắt đang chớp nháy.
-
-Tất cả nhìn về các hướng khác nhau.
-
-Đang quan sát tất cả mọi người.
-
-⸻
-
-9-12 giây — HỖN LOẠN
-
-Chú chó đứng dậy.
-
-Hoặc thứ gì đó từng là một chú chó.
-
-Những xúc tu trồi ra.
-
-Các chi phụ bung ra từ cơ thể nó.
-
-Khu vực chuồng chó rơi vào cảnh hỗn loạn.
-
-Các nhà khoa học lùi lại.
-
-Một người đánh rơi súng phun lửa.
-
-⸻
-
-12-15 giây — CAO TRÀO
-
-Sinh vật lao qua khu vực chuồng chó.
-
-Những chiếc lồng vỡ vụn.
-
-Kim loại uốn cong.
-
-Mọi người la hét.
-
-Khoảnh khắc quay chậm (bullet-time).
-
-Đôi mắt mở ra ở khắp mọi nơi.
-
-Những xúc tu vươn dài.
-
-Súng phun lửa khai hỏa.
-
-Lửa bao trùm khung hình.
-
-Sinh vật gào thét.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ad6c423b58c95f8a50b5d60b8eac30a/thumbnails/thumbnail.jpg" width="600" alt="Phân cảnh kinh dị biến đổi cơ thể của chó kéo xe">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5459)**
-
-**Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060496176521359470) | **Đã xuất bản:** May 29, 2026
-
----
-### Chuyến bay FPV bằng khí cầu qua Grand Harbor
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một đoạn phim hoạt hình góc nhìn thứ nhất đầy ngoạn mục về một người phụ nữ lái chiếc khí cầu nhỏ màu trắng xuyên qua một thành phố cảng giả tưởng hùng vĩ, với kỹ thuật quay phim kiểu drone FPV tốc độ cao và ánh sáng đậm chất điện ảnh.
-
-#### 📝 Prompt
-
-```
-Một video anime chuyên nghiệp cực đẹp ở góc nhìn thứ nhất về một người phụ nữ đang lái chiếc khí cầu màu trắng dành cho một người. Các đường kẻ và mũi tên màu đỏ tuyệt đối không được xuất hiện trong video cuối cùng. Lấy bối cảnh thành phố cảng hùng vĩ từ hình ảnh tham chiếu, với tông màu trắng và vàng chủ đạo, camera bay chân thực ở tốc độ cực cao dọc theo lộ trình được chỉ định bởi các mũi tên màu đỏ, giống như một chiếc drone FPV. Camera bắt đầu từ mặt biển ở phía bên trái màn hình, lướt nhanh sát mặt nước của bến cảng xanh biếc. Điều hướng giữa các du thuyền, cầu tàu, tàu trắng và kiến trúc cảng, camera băng qua thành phố ven biển ở tốc độ cao từ trái sang trung tâm. Sau đó, nó tăng tốc về phía nhà thờ lớn ở trung tâm, tiếp cận sát sao như thể đang lướt trên các tòa nhà. Ngay trước khi vượt qua mặt tiền nhà thờ, camera vút lên cao dọc theo tòa tháp chính. Vươn lên mạnh mẽ với cảm giác nhìn lên đỉnh tháp từ ngay bên dưới, cảnh quay chuyển sang góc nhìn toàn cảnh từ trên cao bao quát toàn bộ thành phố, bến cảng và những ngọn núi xa xôi. Sau khi vượt qua đỉnh tháp, camera nghiêng mạnh sang phải và bay vòng quanh. Giữ tòa tháp nhà thờ ở trung tâm màn hình, camera xoay vòng theo chiều kim đồng hồ một cách năng động, hiển thị các con phố giống như cung điện màu trắng, biển xanh, cầu, cơ sở hạ tầng cảng và những ngọn núi xa xôi một cách mượt mà. Sau đó, camera bay qua thành phố ở phía bên phải với tốc độ cao và hạ thấp dần theo quỹ đạo của đường kẻ màu đỏ. Nó lướt thấp trên các con đường kênh đào, quảng trường, cầu tàu và các tòa nhà với những chi tiết trang trí bằng vàng, bay xuyên qua hướng tới tòa nhà mái kính lớn và con phố ven cảng ở phía trước bên phải. Video mang phong cách điện ảnh, độ phân giải cực cao, với kỹ thuật quay phim mượt mà, cảm giác tốc độ mạnh mẽ, hiệu ứng nhòe chuyển động tự nhiên, bầu không khí chân thực, hình ảnh phản chiếu trên mặt nước, ánh sáng mặt trời, những đám mây ba chiều và làm nổi bật quy mô của một thành phố cảng giả tưởng hùng vĩ. Không hiển thị bất kỳ đường hướng dẫn màu đỏ, mũi tên, dấu vẽ tay, chú thích hoặc văn bản nào.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/23d9eee940d8436f9b391e76700ed202/thumbnails/thumbnail.jpg" width="600" alt="Chuyến bay FPV bằng khí cầu qua Grand Harbor">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5470)**
-
-**Tác giả:** [妖精アーヤさん](https://x.com/aiehon_aya) | **Nguồn:** [Link](https://x.com/aiehon_aya/status/2060481313145262213) | **Đã xuất bản:** May 29, 2026
-
----
-### Hoạt hình Anubis phong cách Disney thập niên 90
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một câu lệnh (prompt) chi tiết gồm nhiều cảnh dành cho Seedance 2.0, tạo ra hoạt hình phong cách Disney thập niên 90, trong đó vị thần Anubis bị đánh bại bằng cách cù lét.
-
-#### 📝 Prompt
-
-```
-Phong cách hoạt hình Disney cổ điển thập niên 90. Cảnh 1 [0-3 giây]: Trước một cung điện trên sa mạc, vị thần chó rừng quyền năng Anubis đang thi triển phép thuật. Ông giơ nhẹ đôi tay, ma thuật sấm sét tụ lại trong lòng bàn tay đầy móng vuốt và cất giọng uy nghiêm: 'Con người, các ngươi sẽ phải trả giá cho sự kiêu ngạo của mình!' Sét lóe lên gần ông vài lần. Trước mặt ông, ba con người (hai nam, một nữ) nhìn ông đầy lo lắng, muốn ngăn chặn Anubis độc ác nhưng không biết làm cách nào. Cảnh 2 [4-6 giây]: Cận cảnh khuôn mặt của Anubis. Anubis đe dọa với nụ cười nham hiểm: 'Các ngươi xong đời rồi.' Sau đó, ông bật cười đầy ác ý. Ông tiếp tục cười lớn, rồi nhắm mắt lại, tiếng cười chuyển thành tiếng cười nhột, cho thấy ông rất sợ nhột và có thứ gì đó đang làm ông ngứa ngáy. Cảnh 3 [7-9 giây]: Máy quay từ từ lùi lại để lộ người phụ nữ đang đứng cạnh Anubis, nhẹ nhàng di chuyển một chiếc lông vũ lên xuống dưới nách Anubis và lặp lại hành động đó. Anubis nhắm mắt, cười toe toét, giơ tay lên để lộ nách và khúc khích cười. Cảnh 4 [10-12 giây]: Người phụ nữ tiếp tục di chuyển chiếc lông vũ lên xuống dưới nách Anubis, và Anubis tiếp tục khúc khích cười. Trong khi đó, ma thuật ánh sáng dần tan biến, chỉ còn lại ánh mặt trời. Anubis cười ngặt nghẽo, không thể tập trung vào việc thi triển phép thuật. Anubis cười lớn đến mức quỵ một đầu gối xuống, một tay giơ cao để lộ nách cho chiếc lông vũ cù lét, trong khi tay kia đập xuống đất, cười không ngừng nghỉ. Cảnh 5 [13-14 giây]: Người phụ nữ tiếp tục cù vào nách Anubis bằng chiếc lông vũ, và Anubis tiếp tục cười sảng khoái, hét lên bằng giọng cười khúc khích: 'Dừng tra tấn ta lại! Đừng làm thế này!' rồi tiếp tục cười ngặt nghẽo. Hai người đàn ông chứng kiến cảnh tượng này, nhẹ nhõm vì đã ngăn chặn được Anubis độc ác. Anubis có cơ bắp cuồn cuộn, đeo vòng trên cánh tay và cổ. Ông để ngực trần. Giọng nói của ông trầm ấm, đầy uy quyền. Đôi bàn tay ông là những móng vuốt. Âm thanh bằng tiếng Anh.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/568a61242d6b4b234c8717ebc3a00f23/thumbnails/thumbnail.jpg" width="600" alt="Hoạt hình Anubis phong cách Disney thập niên 90">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5464)**
-
-**Tác giả:** [migrok](https://x.com/migrok293703) | **Nguồn:** [Link](https://x.com/migrok293703/status/2060473171812511979) | **Đã xuất bản:** May 29, 2026
-
----
-### Quảng cáo sản phẩm Rotring theo phong cách kiến trúc Brutalist
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video quảng cáo tinh tế theo chủ đề kiến trúc Brutalist cho bút chì Rotring, kết hợp hình ảnh trực quan kiến trúc, các cấu trúc bê tông đồ sộ và hiệu ứng ánh sáng chân thực.
-
-#### 📝 Prompt
-
-```
-Sử dụng hình ảnh đính kèm làm tài liệu tham khảo cho bút chì.
-
-Phong cách: Kiến trúc Brutalist, quảng cáo sản phẩm cao cấp, hình ảnh trực quan kiến trúc, kỹ thuật quay phim siêu thực, bê tông thô, cốt thép lộ thiên, quy mô hoành tráng, độ chính xác kiểu Porsche Design, chủ nghĩa tối giản đẳng cấp Apple, ánh sáng điện ảnh, bụi thể tích, hiệu ứng hình ảnh (VFX) chân thực.
-
-0:00–0:03
-
-Đen thuần khiết. Một đường kẻ đỏ duy nhất xuất hiện trong bóng tối. Đường kẻ phát sáng nhẹ nhàng. Máy quay dõi theo nó. Khi đường kẻ di chuyển về phía trước, những bức tường bê tông khổng lồ bắt đầu trồi lên từ mặt đất. Những phiến đá đồ sộ. Hình khối thô sơ. Những hình thái nguyên khối. Đường kẻ đó thực sự đang xây dựng nên kiến trúc.
-
-SFX: Âm trầm kiến trúc sâu lắng, tiếng vang của bê tông, những tác động cấu trúc mạnh mẽ, âm thanh công nghiệp từ xa.
-
-LỜI BÌNH: "Mọi cấu trúc đều bắt đầu từ một đường kẻ."
-
-0:03–0:06
-
-Máy quay tăng tốc xuyên qua một siêu đô thị Brutalist rộng lớn. Những khối bê tông cao chót vót. Những lối đi treo lơ lửng. Cốt thép lộ thiên. Những khoảng trống và bóng tối khổng lồ. Đường kẻ đỏ uốn lượn qua thành phố như một mạch máu. Người xem không nhận ra rằng hình học của thành phố phản chiếu một cách tinh tế các tỷ lệ của một chiếc bút Rotring.
-
-ÂM NHẠC: Nhịp điệu công nghiệp tối giản, nhịp điệu cơ khí, sự phát triển điện ảnh chậm rãi.
-
-LỜI BÌNH: "Một đường kẻ trở thành một bức tường." "Một bức tường trở thành một thành phố."
-
-0:06–0:10
-
-Máy quay bay lên hàng ngàn feet phía trên đô thị. Quy mô đầy đủ được hé lộ. Một thế giới Brutalist ngoạn mục trải dài đến tận chân trời. Sau đó, điều không tưởng xảy ra. Toàn bộ thành phố bắt đầu nhấc bổng khỏi mặt đất. Các tòa nhà tách rời. Những cây cầu tách biệt. Các mảnh bê tông bay ngược lên trên. Khán giả nhận ra thành phố chưa bao giờ là một thành phố. Đó là một sản phẩm.
-
-SFX: Tiếng rên rỉ của cấu trúc, tiếng bê tông nứt vỡ, sóng xung kích tần số thấp, những tiếng rít lớn.
-
-0:10–0:13
-
-Hàng triệu hạt bê tông và các yếu tố thép gỉ xoáy vào trong. Mọi thứ hội tụ. Siêu cấu trúc sụp đổ thành một vật thể duy nhất. Chiếc Rotring Brutalist của bạn xuất hiện. Thô ráp. Trầy xước. Không thể phá vỡ. Lơ lửng trong không gian trắng.
-
-ÂM NHẠC: Nhạc giao hưởng dâng trào, cú nhấn điện ảnh mạnh mẽ.
-
-LỜI BÌNH: "Một số công cụ tạo ra kiến trúc." "Công cụ này đã trở thành chính nó."
-
-0:13–0:15
-
-Cảnh quay chính. Chiếc Rotring xoay chậm. Bụi rơi xuống từ bề mặt bê tông. Vòng đỏ bắt sáng. Im lặng. Một tiếng click cơ khí chính xác.
-
-LỜI BÌNH: "Rotring." Tạm dừng. "Được vẽ từ bê tông."
-
-KHUNG HÌNH KẾT THÚC
-
-ROTRING
-
-ĐƯỢC VẼ TỪ BÊ TÔNG
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9ca8b9eaa01d49314f78334a29e93e4e/thumbnails/thumbnail.jpg" width="600" alt="Quảng cáo sản phẩm Rotring theo phong cách kiến trúc Brutalist">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5455)**
-
-**Tác giả:** [Ege](https://x.com/egeberkina) | **Nguồn:** [Link](https://x.com/egeberkina/status/2060458879369216202) | **Đã xuất bản:** May 29, 2026
-
----
-### Prompt video thảm họa ven biển trên đường cao tốc vách đá
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt video đậm chất điện ảnh và đầy kịch tính, mô tả cảnh thảm họa ven biển nơi một tay lái mô tô đang lao nhanh dọc theo con đường cao tốc trên vách đá đang sụp đổ giữa cơn bão dữ dội.
-
-#### 📝 Prompt
-
-```
-Thảm họa ven biển điện ảnh siêu thực, đường cao tốc trên vách đá sát đại dương, bão lớn dữ dội, vật lý xói mòn mặt đường, chuyển động tốc độ cao liên tục, góc nhìn đuổi theo ngang tầm mặt đất phía sau tay lái mô tô (nhấn mạnh không thấy tay người lái), áp suất gió, nhựa đường sụp đổ, chỉ sử dụng cắt cảnh cứng (hard cuts), không làm mờ, không hòa tan, không chuyển cảnh biến hình
-
-Cảnh 1: Máy quay theo sau một chiếc mô tô đang lao nhanh dọc theo con đường vách đá hẹp phía trên những con sóng đại dương dữ dội
-Cắt sang Cảnh 2: Vách đá bắt đầu sụp đổ sang một bên xuống biển thành từng khối lớn
-Cắt sang Cảnh 3: Mặt đường nứt vỡ ngay dưới bánh xe mô tô, buộc người lái phải chuyển làn nhanh chóng
-Cắt sang Cảnh 4: Sóng biển dâng cao theo chiều dọc vách đá, tạo thành một bức tường nước di động
-Cắt sang Cảnh 5: HÀNH ĐỘNG TỐI ĐA khi toàn bộ các đoạn đường cao tốc tách rời và rơi xuống trong khi mô tô luồn lách qua các khe hở đang sụp đổ
-Cắt sang Cảnh 6: KHOẢNH KHẮC KHÔNG TƯỞNG: người lái băng qua một phiến đường đang rơi và xoay giữa không trung trước khi tiếp đất trở lại một dải đường đang hẹp dần
-Cắt sang Cảnh 7: Đường vách đá vỡ liên tục, khiến con đường ngắn lại mỗi giây
-Cảnh 8: Gió và bọt nước tạo ra tầm nhìn gần như trắng xóa khi đại dương tràn qua các tầng vách đá thấp hơn
-Cảnh 9: Kết thúc: con đường kết thúc giữa chừng khi đang sụp đổ và sóng biển bao trùm toàn bộ khung hình
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/794f8c6e7e0ee90df6af1941f5c87e03/thumbnails/thumbnail.jpg" width="600" alt="Prompt video thảm họa ven biển trên đường cao tốc vách đá">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5440)**
-
-**Tác giả:** [Alexandra Aisling](https://x.com/AllaAisling) | **Nguồn:** [Link](https://x.com/AllaAisling/status/2060448088674935036) | **Đã xuất bản:** May 29, 2026
-
----
-### Cuộc rượt đuổi của Cá sấu khổng lồ và Nhện đầm lầy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một kịch bản phim kinh dị sinh vật đầy kịch tính về cuộc rượt đuổi trong đầm lầy giữa một con cá sấu khổng lồ và những con nhện rừng ngụy trang.
-
-#### 📝 Prompt
-
-```
-Hòn đảo ác mộng nhiệt đới. Tại Đông Nam Á - Rừng rậm dày đặc, rễ cây đước khổng lồ, sương mù bao phủ mặt nước đầm lầy đen ngòm. Mọi thứ đều mang cảm giác tiền sử và đầy hiểm nguy. Hành động kịch tính nhịp độ nhanh. Camera cầm tay rung lắc, cắt cảnh liên tục, hiệu ứng tăng tốc, chuyển động hỗn loạn. Âm thanh: tiếng nước bắn tung tóe, tiếng cá sấu gầm, tiếng nhện rít, tiếng gỗ gãy.
-
-⸻
-
-0–2s — MỞ ĐẦU
-
-Góc quay thấp theo sát nhân vật.
-
-Một người sống sót đang chạy nước rút qua vùng đầm lầy ngập ngang eo.
-
-Phía sau anh ta—
-
-Một con cá sấu khổng lồ lao lên từ mặt nước.
-
-Dài ít nhất 40 feet (khoảng 12 mét).
-
-Những vết sẹo cổ xưa.
-
-Bộ hàm khổng lồ đớp mạnh chỉ cách anh ta vài inch.
-
-Nước bắn tung tóe khắp nơi.
-
-⸻
-
-2–5s — CAO TRÀO
-
-Cảnh quay rượt đuổi bằng camera cầm tay.
-
-Người sống sót chạy đến một thân cây lớn đổ ngang đầm lầy và leo lên đó.
-
-Con cá sấu đuổi theo bên dưới.
-
-Đâm sầm qua các rễ cây.
-
-Cắn nát từng mảng gỗ.
-
-Người sống sót suýt mất thăng bằng.
-
-Con cá sấu phóng người lên trên.
-
-Trượt mục tiêu trong gang tấc.
-
-⸻
-
-5–8s — SỰ AN TOÀN GIẢ TẠO
-
-Người sống sót chạy đến giữa thân cây.
-
-Cuối cùng cũng tạo được khoảng cách.
-
-Thở hổn hển.
-
-Sau đó—
-
-Thân cây chuyển động.
-
-Ban đầu chỉ hơi rung nhẹ.
-
-Rồi lại rung tiếp.
-
-Người sống sót đứng sững lại.
-
-Nhìn xuống dưới.
-
-⸻
-
-8–11s — TIẾT LỘ
-
-Zoom cận cảnh đột ngột.
-
-Toàn bộ thân cây đổ bị bao phủ bởi những con nhện ngụy trang khổng lồ.
-
-Hàng trăm con.
-
-Một số con to bằng con chó.
-
-Những con khác còn lớn hơn nhiều.
-
-Chúng bắt đầu chui ra từ các khe nứt và vỏ cây.
-
-Người sống sót nhận ra mình đang đứng trong một cái tổ.
-
-⸻
-
-11–13s — HỖN LOẠN
-
-Đàn nhện tràn ra.
-
-Người sống sót chạy nước rút.
-
-Con cá sấu lao lên thân cây đuổi theo anh ta.
-
-Nhện bắt đầu tấn công cả hai.
-
-Tơ nhện bắn ra.
-
-Chân nhện khắp nơi.
-
-Toàn bộ thân cây trở thành chiến trường ba bên.
-
-⸻
-
-13–15s — KẾT THÚC
-
-Cảnh quay toàn cảnh.
-
-Một con nhện chúa khổng lồ từ trên cao rơi xuống lưng con cá sấu.
-
-Con cá sấu quẫy đạp dữ dội xuống đầm lầy.
-
-Nhện và cá sấu biến mất dưới làn nước trong khi vẫn đang chiến đấu.
-
-Người sống sót nhảy khỏi đầu thân cây và biến mất vào rừng rậm.
-
-Phía sau anh ta—
-
-Nước bắn tung tóe khi lũ quái vật vẫn tiếp tục giao chiến.
-
-Cắt cảnh dứt khoát.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8f322adc101f65dfad710118c2310e6a/thumbnails/thumbnail.jpg" width="600" alt="Cuộc rượt đuổi của Cá sấu khổng lồ và Nhện đầm lầy">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5438)**
-
-**Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2060440976561508389) | **Đã xuất bản:** May 29, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -4313,6 +3829,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-03T04:22:19.435Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-03T13:01:56.310Z</sub>
 
 </div>
