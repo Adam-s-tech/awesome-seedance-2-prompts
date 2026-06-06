@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **3687** |
+| 📝 Total de prompts | **3689** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-06-06** |
 
@@ -361,6 +361,136 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Japanese School Martial Arts Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An extensive multi-shot cinematic prompt for a one-take martial arts sequence in a Japanese classroom, featuring complex choreography and character consistency.
+
+#### 📝 Prompt
+
+```
+Use the uploaded reference image as the only character reference. The reference image contains the school girl, the three male troublemakers, and the male hero. Preserve the exact facial features, hairstyles, identities, clothing, proportions, and appearance of every character shown in the reference image. Do not replace, redesign, or alter any character.
+
+Create an ultra-realistic Japanese high school classroom scene during warm afternoon golden hour. The classroom contains wooden desks, chairs, school bags, books, notebooks, posters, a chalkboard, fluorescent ceiling lights, curtains, sliding windows, and realistic school details. Warm sunlight streams through the windows, creating natural shadows and visible dust particles.
+
+0s–3s
+
+The school girl sits alone at her desk studying. The three male students surround her desk, teasing her and making her uncomfortable. The camera slowly pushes toward her worried expression. Warm sunlight fills the classroom.
+
+3s–5s
+
+The male hero notices the situation and walks toward them. He calmly tells the boys to stop bothering her. The boys laugh at him. One suddenly kicks him. The camera whips dramatically with the impact.
+
+5s–12s
+
+An intense one-take martial arts sequence begins. The hero fights all three boys at once using realistic choreography. He dodges attacks between desks, vaults over tables, slides across tabletops, blocks strikes with school bags, redirects attackers into desks, and lands powerful combinations. Chairs move, papers fly, desks slide, and curtains react naturally. The camera constantly follows, circles, ducks, and moves through the classroom while staying close to the action.
+
+12s–15s
+
+Epic cinematic slow-motion finale. The hero lands a decisive final strike. The three attackers are knocked backward in dramatic slow motion. Papers float through golden sunlight. The camera circles around the hero standing protectively in front of the girl while the defeated boys fall behind him. Powerful cinematic ending.
+
+Style: ultra-realistic live action, Japanese school drama, high-budget action film, realistic body physics, authentic martial arts choreography, natural lighting, grounded textures, immersive handheld cinematography, movie-quality visuals, one-take camera feel, 8K detail.
+
+Negative prompts: different faces, changed identities, face swap, extra characters, cartoon, anime style, CGI look, Unreal Engine look, glossy AI finish, distorted anatomy, duplicated limbs, weak choreography, poor continuity, plastic skin, unrealistic physics, oversaturated colors, excessive VFX, blurry faces, low detail.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062951307535929344/img/PbpfOaflu1Gt8Wst.jpg" width="600" alt="Japanese School Martial Arts Sequence">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=5716)**
+
+**Autor:** [auqib](https://x.com/auqibhabib) | **Fuente:** [Link](https://x.com/auqibhabib/status/2062951836882231393) | **Publicado:** Jun 5, 2026
+
+---
+### Security Camera Found Footage Horror
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A found-footage horror prompt depicting a woman being pulled into a television set, designed for a fixed-angle home security camera look.
+
+#### 📝 Prompt
+
+```
+Evening, Southeast Asian living room. Fixed high-angle home security camera mounted in a corner near the ceiling. Timestamp visible: 19:45. Simple living room, television against the wall, sofa nearby. Post-sunset darkness outside windows. Interior lights on.
+
+Fixed home security camera footage. Slight compression artifacts. Wide-angle view. No camera movement.
+
+Subject / Action
+
+A woman is cleaning the television screen with a cloth.
+
+The room is quiet.
+
+Suddenly the TV flickers.
+
+Small glitches.
+
+Static.
+
+The woman notices but continues cleaning.
+
+The television abruptly powers on by itself.
+
+Full-screen static.
+
+The woman steps back.
+
+A pale distorted face suddenly appears on the television screen.
+
+Unnaturally still.
+
+Watching.
+
+The woman freezes.
+
+Confused.
+
+She slowly leans down to grab the remote control from the TV cabinet.
+
+As she reaches forward—
+
+A hand suddenly bursts out of the television screen and grabs her wrist.
+
+The woman screams.
+
+More hands emerge.
+
+They violently pull her toward the screen.
+
+She struggles desperately.
+
+The television surface behaves like liquid.
+
+The woman is dragged headfirst into the TV.
+
+Within seconds she completely disappears inside.
+
+The television immediately switches off.
+
+Black screen.
+
+The room is empty.
+
+Silence.
+
+Nothing moves.
+
+Audio
+
+Television static, electronic distortion, sudden struggle, brief scream, then complete silence.
+
+Style
+
+Ultra-realistic security camera footage, found-footage horror, realistic physics, clear visibility, high tension, strong visual payoff, no animation.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062872904568844288/img/nQo3wQcne1Q_NnM4.jpg" width="600" alt="Security Camera Found Footage Horror">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=5717)**
+
+**Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2062872971447087521) | **Publicado:** Jun 5, 2026
+
+---
 ### Conversación callejera japonesa al estilo slice-of-life
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3351,53 +3481,6 @@ Texto en pantalla: 🤖 "Domina los prompts de IA" Eslogan: "Prompt más intelig
 **Autor:** [ORHAN](https://x.com/OrhanGhazi65942) | **Fuente:** [Link](https://x.com/OrhanGhazi65942/status/2061286506116038956) | **Publicado:** Jun 1, 2026
 
 ---
-### Escenas cinemáticas de un Netrunner cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una secuencia de prompts cinemáticos altamente detallados para una narrativa de un 'Netrunner' cyberpunk, que incluye tomas de acción desde el ingreso a un escondite hasta la trascendencia digital.
-
-#### 📝 Prompt
-
-```
-Netrunner irrumpiendo lentamente en un escondite mientras drones sobrevuelan afuera de la ventana bajo la lluvia, la cámara se aleja, brillo magenta y cian, destellos de disparos abajo, entrada cinemática, profundidad de campo reducida
-Netrunner conectando un cable en el puerto del cuello con manos temblorosas, luces de interfaz destellando, una cuenta regresiva parpadeando, primer plano cinemático
-Primer plano extremo de ojos inundándose con código de desplazamiento violento, vasos sanguíneos brillando, el sistema contraatacando, lente macro
-La ciudad de datos formándose lentamente mientras construcciones de ICE negro pululan hacia el avatar como depredadores, contraluz dramático, cámara lenta extrema
-Netrunner corriendo a través de torres de datos colapsando mientras los firewalls estallan en muros de luz de fuego, ligero desenfoque de movimiento, cámara lenta cinemática
-Netrunner frenando en seco frente a la bóveda mientras un programa guardián se cierne sobre él, miedo y determinación en el rostro, retrato cinemático
-Dedos golpeando la cerradura mientras se hace añicos y el guardián se lanza, partículas explotando, foco dramático, primer plano cinemático
-La bóveda abriéndose lentamente con una detonación, luz de datos estallando hacia afuera, la construcción desintegrándose en la oleada, revelación cinemática, luz volumétrica
-Netrunner erguido mientras toda la fortaleza digital colapsa a su alrededor, zoom cinemático lento hacia atrás, momento de héroe, aspecto anamórfico
-Primer plano extremo del ojo volviendo a la realidad mientras el cable se arranca, chispas volando, código desvaneciéndose del iris, acercamiento cinemático lento, detalle de neón, macro.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/628b13c1fe2622867dbb6f2a7ea26122/thumbnails/thumbnail.jpg" width="600" alt="Escenas cinemáticas de un Netrunner cyberpunk">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=5520)**
-
-**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fuente:** [Link](https://x.com/AllaAisling/status/2061234772429742217) | **Publicado:** May 31, 2026
-
----
-### Efecto de impacto de balón de fútbol en pantalla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt diseñado para replicar el movimiento de un video de referencia, mostrando a un jugador de fútbol pateando un balón hacia la cámara y rompiendo la pantalla.
-
-#### 📝 Prompt
-
-```
-Replica el efecto de movimiento de un video de referencia y crea un video con un efecto similar donde se juega con un balón de fútbol que termina en un disparo potente hacia la cámara; la cámara siente el impacto y la pantalla se rompe.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/454c9bc11dd3e568859cdd2642ce054f/thumbnails/thumbnail.jpg" width="600" alt="Efecto de impacto de balón de fútbol en pantalla">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=5514)**
-
-**Autor:** [AIwithYazdan](https://x.com/AIwithYazdan) | **Fuente:** [Link](https://x.com/AIwithYazdan/status/2061186108617351534) | **Publicado:** May 31, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -3459,6 +3542,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-06T03:45:17.693Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-06T07:09:42.999Z</sub>
 
 </div>

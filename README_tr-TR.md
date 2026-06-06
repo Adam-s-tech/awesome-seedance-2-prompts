@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **3687** |
+| 📝 Toplam İstem | **3693** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-06-06** |
 
@@ -361,6 +361,296 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Katana Warrior Shot-by-Shot Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A multi-shot technical prompt for an action sequence involving a silver-haired warrior with a glowing blue katana in a high-contrast black and white world.
+
+#### 📝 İstem
+
+```
+Subject locked to silver-haired warrior, intense blue eyes, scarred face, red high-collar military jacket, wielding a katana that crackles with electric-blue lightning. World rendered in high-contrast black-and-white (misty forest, shallow water floor) — ONLY the blade and its lightning stay vivid electric-blue.
+SECTION 1 — SHOT-BY-SHOT EFFECTS TIMELINE
+SHOT 1 (00:00–00:02) — Ritual Master / 24mm wide
+
+EFFECT: long-exposure light trail + slow orbit
+Warrior plants feet, sweeps the blue blade in a wide horizontal arc; the lightning leaves a continuous glowing ribbon orbiting the body
+24mm wide, slow clockwise orbit around subject, low angle
+Normal speed → exits on ribbon completing the loop
+
+SHOT 2 (00:02–00:04) — Saber Ignite / 50mm profile
+
+EFFECT: bloom flash + double light-circle
+Blade snaps vertical; two concentric blue rings of light spin around the warrior's profile
+50mm push-in, slight Dutch tilt
+Exits on white bloom flash
+
+SHOT 3 (00:04–00:06) — First Weave / Wrist Snap
+
+EFFECT: motion-blur whip + speed ramp (decel)
+Macro insert of wrist flicking the hilt; blade streaks a figure-eight blue trail, decelerating into clarity
+low-24mm whip, then 85mm macro on the hilt isolation
+Whip-pan smear connects the two
+
+SHOT 4 (00:06–00:08) — Butterfly Spin / overhead
+
+EFFECT: SIGNATURE — orbital light-ribbon halo
+Overhead 24mm; warrior spins, the blue blade carves a full butterfly/atom-orbit halo of crossing light rings around the body — the hero visual
+Camera slow descent, top-down
+Holds, then drops to water level
+
+SHOT 5 (00:08–00:10) — Water Trail / 50mm reflection
+
+EFFECT: reflection mirror + slow-motion (~30%)
+Blade tip skims the shallow water; blue light reflects and ripples, doubling the trail
+50mm low, skimming water surface
+Slow-mo emphasizes spray
+
+SHOT 6 (00:10–00:11) — Breath Hold / 85mm portrait
+
+EFFECT: rack focus + stillness
+Tight portrait, eyes lower, blue glow lighting the face from below; everything quiet
+85mm, shallow DOF
+Clean hold — contrast beat
+
+SHOT 7 (00:11–00:13) — Shore Resolve / Airborne Descent
+
+EFFECT: speed ramp (accel) + water burst
+Warrior leaps, lands blade-down into water; massive blue-lit spray erupts upward in a column
+low-24mm, fast push, slight shake on impact
+Burst fills frame
+
+SHOT 8 (00:13–00:15) — Lake Current / crane wide
+
+EFFECT: digital zoom-out + concentric ripple rings
+Crane pulls up and back; glowing blue ripple rings expand outward across the black water around the lone figure
+24mm crane wide, ascending
+Energy resolves into stillness — final frame
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063028254093545472/img/voLglxULhC2q3cCQ.jpg" width="600" alt="Katana Warrior Shot-by-Shot Sequence">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5721)**
+
+**Yazar:** [MO](https://x.com/MO_IAI) | **Kaynak:** [Link](https://x.com/MO_IAI/status/2063028861399454199) | **Yayınlandı:** Jun 5, 2026
+
+---
+### Elevator CCTV Glitch Horror
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A security camera time-lapse prompt for an elevator scene where identical copies of a person gradually appear, ending in a chilling look at the camera.
+
+#### 📝 İstem
+
+```
+8-second fixed security camera footage inside an elevator, ceiling corner angle, monochrome CCTV look, timestamp overlay. Time-lapse effect showing repeated use over time.
+People enter and exit in fast jumps across different timestamps.
+One specific person appears multiple times across different time points, always entering the elevator in the same way.
+As the sequence progresses, more copies of the same person begin appearing in different positions within the elevator at the same time.
+Final moment: the elevator is filled with identical copies, all turning their heads toward the camera simultaneously.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063017344377708544/img/xlUCFGbhA33qBYiK.jpg" width="600" alt="Elevator CCTV Glitch Horror">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5719)**
+
+**Yazar:** [Squeak Al-Gaib 🐭](https://x.com/SqueakAlGaib) | **Kaynak:** [Link](https://x.com/SqueakAlGaib/status/2063017731507859944) | **Yayınlandı:** Jun 5, 2026
+
+---
+### Japanese School Martial Arts Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An extensive multi-shot cinematic prompt for a one-take martial arts sequence in a Japanese classroom, featuring complex choreography and character consistency.
+
+#### 📝 İstem
+
+```
+Use the uploaded reference image as the only character reference. The reference image contains the school girl, the three male troublemakers, and the male hero. Preserve the exact facial features, hairstyles, identities, clothing, proportions, and appearance of every character shown in the reference image. Do not replace, redesign, or alter any character.
+
+Create an ultra-realistic Japanese high school classroom scene during warm afternoon golden hour. The classroom contains wooden desks, chairs, school bags, books, notebooks, posters, a chalkboard, fluorescent ceiling lights, curtains, sliding windows, and realistic school details. Warm sunlight streams through the windows, creating natural shadows and visible dust particles.
+
+0s–3s
+
+The school girl sits alone at her desk studying. The three male students surround her desk, teasing her and making her uncomfortable. The camera slowly pushes toward her worried expression. Warm sunlight fills the classroom.
+
+3s–5s
+
+The male hero notices the situation and walks toward them. He calmly tells the boys to stop bothering her. The boys laugh at him. One suddenly kicks him. The camera whips dramatically with the impact.
+
+5s–12s
+
+An intense one-take martial arts sequence begins. The hero fights all three boys at once using realistic choreography. He dodges attacks between desks, vaults over tables, slides across tabletops, blocks strikes with school bags, redirects attackers into desks, and lands powerful combinations. Chairs move, papers fly, desks slide, and curtains react naturally. The camera constantly follows, circles, ducks, and moves through the classroom while staying close to the action.
+
+12s–15s
+
+Epic cinematic slow-motion finale. The hero lands a decisive final strike. The three attackers are knocked backward in dramatic slow motion. Papers float through golden sunlight. The camera circles around the hero standing protectively in front of the girl while the defeated boys fall behind him. Powerful cinematic ending.
+
+Style: ultra-realistic live action, Japanese school drama, high-budget action film, realistic body physics, authentic martial arts choreography, natural lighting, grounded textures, immersive handheld cinematography, movie-quality visuals, one-take camera feel, 8K detail.
+
+Negative prompts: different faces, changed identities, face swap, extra characters, cartoon, anime style, CGI look, Unreal Engine look, glossy AI finish, distorted anatomy, duplicated limbs, weak choreography, poor continuity, plastic skin, unrealistic physics, oversaturated colors, excessive VFX, blurry faces, low detail.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062951307535929344/img/PbpfOaflu1Gt8Wst.jpg" width="600" alt="Japanese School Martial Arts Sequence">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5716)**
+
+**Yazar:** [auqib](https://x.com/auqibhabib) | **Kaynak:** [Link](https://x.com/auqibhabib/status/2062951836882231393) | **Yayınlandı:** Jun 5, 2026
+
+---
+### Security Camera Found Footage Horror
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A found-footage horror prompt depicting a woman being pulled into a television set, designed for a fixed-angle home security camera look.
+
+#### 📝 İstem
+
+```
+Evening, Southeast Asian living room. Fixed high-angle home security camera mounted in a corner near the ceiling. Timestamp visible: 19:45. Simple living room, television against the wall, sofa nearby. Post-sunset darkness outside windows. Interior lights on.
+
+Fixed home security camera footage. Slight compression artifacts. Wide-angle view. No camera movement.
+
+Subject / Action
+
+A woman is cleaning the television screen with a cloth.
+
+The room is quiet.
+
+Suddenly the TV flickers.
+
+Small glitches.
+
+Static.
+
+The woman notices but continues cleaning.
+
+The television abruptly powers on by itself.
+
+Full-screen static.
+
+The woman steps back.
+
+A pale distorted face suddenly appears on the television screen.
+
+Unnaturally still.
+
+Watching.
+
+The woman freezes.
+
+Confused.
+
+She slowly leans down to grab the remote control from the TV cabinet.
+
+As she reaches forward—
+
+A hand suddenly bursts out of the television screen and grabs her wrist.
+
+The woman screams.
+
+More hands emerge.
+
+They violently pull her toward the screen.
+
+She struggles desperately.
+
+The television surface behaves like liquid.
+
+The woman is dragged headfirst into the TV.
+
+Within seconds she completely disappears inside.
+
+The television immediately switches off.
+
+Black screen.
+
+The room is empty.
+
+Silence.
+
+Nothing moves.
+
+Audio
+
+Television static, electronic distortion, sudden struggle, brief scream, then complete silence.
+
+Style
+
+Ultra-realistic security camera footage, found-footage horror, realistic physics, clear visibility, high tension, strong visual payoff, no animation.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062872904568844288/img/nQo3wQcne1Q_NnM4.jpg" width="600" alt="Security Camera Found Footage Horror">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5717)**
+
+**Yazar:** [Rahul Nanda](https://x.com/rahulnanda86) | **Kaynak:** [Link](https://x.com/rahulnanda86/status/2062872971447087521) | **Yayınlandı:** Jun 5, 2026
+
+---
+### Dark Fantasy Cathedral Action Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-octane dark fantasy video prompt featuring a female warrior channeling supernatural fire energy within a gothic cathedral setting.
+
+#### 📝 İstem
+
+```
+Epic dark-fantasy action cinematic featuring a powerful female warrior inside a massive gothic cathedral. The heroine wears a stylish red leather jacket, black tactical pants, and combat boots, lying confidently on a polished marble floor as the camera slowly pushes in. Towering stone pillars, dramatic architecture, glowing chandeliers, and mysterious armored creatures surround the scene. The atmosphere is tense, cinematic, and highly detailed.
+Suddenly, magical energy ignites around her. Flames erupt across the cathedral floor, sparks fly through the air, and glowing power radiates from her body. The camera cuts to dramatic close-ups of her gloved hand channeling supernatural energy. Fire swirls around her fingertips as she rises with unstoppable confidence. The creatures retreat into the shadows while the cathedral fills with orange firelight and cinematic smoke.
+High-end fantasy movie trailer aesthetic, ultra-realistic visual effects, dynamic lighting, volumetric fog, slow-motion action, detailed leather textures, realistic fire simulation, dramatic camera movement, blockbuster cinematography, dark fantasy atmosphere, powerful female protagonist, gothic architecture, HDR, 4K, cinematic color grading, Unreal Engine 5 quality, epic fantasy action sequence.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2062857286096404480/pu/img/o36lPEUCekpJHVkj.jpg" width="600" alt="Dark Fantasy Cathedral Action Scene">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5718)**
+
+**Yazar:** [Calira](https://x.com/CaliraVal) | **Kaynak:** [Link](https://x.com/CaliraVal/status/2062857352597143668) | **Yayınlandı:** Jun 5, 2026
+
+---
+### Cherry Blossom Anime Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic anime-style prompt for a 15-second transformation sequence where a woman dissolves into glowing cherry blossoms at sunset.
+
+#### 📝 İstem
+
+```
+15-second ultra-cinematic anime fantasy transformation sequence beneath an enormous cherry blossom tree during golden sunset.
+
+A young woman stands alone beneath the ancient tree as thousands of cherry blossoms drift through warm evening light. The air is calm and filled with glowing pollen particles.
+
+The camera slowly circles around her while soft wind moves her hair and clothing. Pink petals begin gathering around her feet and spiraling upward in delicate currents.
+
+A faint rosy glow appears beneath her skin. Tiny blossom patterns spread across her arms and neck like living floral veins. The transformation is beautiful and peaceful rather than painful.
+
+The camera moves closer as petals begin replacing parts of her body. Fingers dissolve into floating blossoms. Strands of hair transform into streams of petals carried by the wind.
+
+The transformation accelerates. Cherry blossom branches briefly emerge around her silhouette while glowing pollen fills the air. Every movement leaves trails of petals behind her.
+
+The surrounding environment responds to her awakening. Trees bloom instantly, flowers open across the landscape, and warm golden light intensifies through the drifting blossoms.
+
+The woman rises slightly above the ground as her body becomes increasingly ethereal. Her dress flows into living petals while translucent floral energy surrounds her.
+
+At the climax, her entire form dissolves into a magnificent vortex of thousands of glowing cherry blossoms spiraling toward the sky.
+
+Final cinematic moment: the petals gather again above the tree and briefly form the silhouette of a radiant blossom spirit before dispersing across the sunset horizon.
+
+Style: ultra cinematic anime fantasy, emotional transformation, cherry blossom magic, warm sunset lighting, floating petals, dreamlike atmosphere, soft wind simulation, magical realism, highly detailed anime film quality, no text, no overlays.
+
+Audio: emotional anime orchestral soundtrack, soft piano, gentle strings, wind through blossoms, drifting petals, magical chimes, warm atmospheric ambience.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2062836895038550017/pu/img/YLuSnn1Ld2IOlvGE.jpg" width="600" alt="Cherry Blossom Anime Transformation">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5720)**
+
+**Yazar:** [LudovicCreator](https://x.com/LudovicCreator) | **Kaynak:** [Link](https://x.com/LudovicCreator/status/2062836919877177509) | **Yayınlandı:** Jun 5, 2026
+
+---
 ### Japon Tarzı Günlük Yaşam Sokak Sohbeti
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3251,154 +3541,6 @@ Ek Meta Veriler: Ter parçacıkları, hareket bulanıklığı, 12 saniye.
 **Yazar:** [AIライフハック](https://x.com/ai_lifehack55) | **Kaynak:** [Link](https://x.com/ai_lifehack55/status/2061305348825485506) | **Yayınlandı:** Jun 1, 2026
 
 ---
-### Astronot Marslı Topuklu Ayakkabı Reklamı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir astronotun çöl bir gezegende bulduğu lüks kırmızı topuklu ayakkabılar için düşük yerçekimli dans sahneleri içeren yaratıcı bir reklam metni.
-
-#### 📝 İstem
-
-```
-Yalnız bir kadın astronot, güzel pembe bir gökyüzünün altında uçsuz bucaksız kırmızı bir çölde yürüyor. Çorak manzarayı keşfederken, kumların arasına yarı gömülü sıra dışı bir şey fark ediyor. Diz çöküyor ve güneş ışığında hafifçe parlayan bir çift çarpıcı, parlak kırmızı topuklu ayakkabıyı dikkatlice ortaya çıkarıyor. Gözleri heyecanla parladığında yüzüne yakın çekim yapılıyor. Gülümsüyor ve 'Hazinemi buldum' diyor. Üzerinde ince bir kırmızı toz tabakası olan zarif kırmızı topuklu ayakkabıların sinematik ürün çekimi. Ayakkabıları giyiyor ve duruşu anında kendinden emin ve zarif bir hal alıyor. Çevre, ışıltılı bir enerji ve havada süzülen parçacıklarla dönüşüme uğruyor. Bir sonraki sahnede, arkasında parıldayan izler bırakarak düşük yerçekimli yabancı manzarada zahmetsizce süzülüyor, dönüyor ve dans ediyor. Kırmızı topuklu ayakkabıları giyerken uzay benzeri ortamlarda süzüldüğü geniş sinematik çekimler. Premium lüks moda reklamı, fotogerçekçi, üst düzey ayakkabı reklamı, dramatik aydınlatma, zarif kamera hareketleri, ilham verici atmosfer, ultra detaylı, sinematik hikaye anlatımı.
-Yıldızların arasında zarifçe süzülürken, kamera yavaşça kırmızı topuklu ayakkabılara odaklanıyor. Kozmik arka plana karşı parlıyorlar ve ilgi odağı haline geliyorlar. Ekran karararak kararıyor. Marka logosu şu sloganla beliriyor: 'Hazineni Bul.' Premium lüks ayakkabı reklamı, akılda kalıcı reklam finali, sinematik ürün odaklı çekim
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/205dae23829e7522c6963436ea95dd82/thumbnails/thumbnail.jpg" width="600" alt="Astronot Marslı Topuklu Ayakkabı Reklamı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5571)**
-
-**Yazar:** [yusra.](https://x.com/chatgptpaglu) | **Kaynak:** [Link](https://x.com/chatgptpaglu/status/2061304433598939573) | **Yayınlandı:** Jun 1, 2026
-
----
-### Formula Drift Yarış Pilotu Filmi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 için profesyonel bir Formula Drift yarışçısı sekansı oluşturmaya yönelik, ayrıntılı karakter ve kıyafet tanımları içeren sinematik bir video istemi.
-
-#### 📝 İstem
-
-```
-Sinematik kısa film. Konu: 26 yaşında, son derece yakışıklı, atletik, profesyonel bir Formula Drift yarış pilotu. Keskin hatlı yüz hatları, odaklanmış keskin bakışlar, kısa ve şekilli saçlar, fit ve güçlü bir vücut yapısı. Üzerinde birinci sınıf, vücuda oturan siyah ve kırmızı bir yarış tulumu, yarış
-```
-
-<img src="https://cms-assets.youmind.com/media/1780386310019_3d6kxz_HJssXvCasAA65My.jpg" width="600" alt="Formula Drift Yarış Pilotu Filmi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5588)**
-
-**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2061291966831456669) | **Yayınlandı:** Jun 1, 2026
-
----
-### Sıvı Metal Canavar Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Fırtınalı bir kumsalda sıvı metal bir canavara dönüşen bir adamı konu alan sinematik ve kesintisiz bir çekim istemi.
-
-#### 📝 İstem
-
-```
-Yoğun bulutlu gökyüzü altında fırtınalı bir kumsalda tek ve kesintisiz sinematik çekim; hızlı hareket eden karanlık bulutlar, havada kumları ve gevşek kumaşları savuran sert okyanus rüzgarı, dramatik soğuk mavi-gri renk tonlaması, gerçekçi profesyonel film görünümü. Kamera, rüzgarda titreyen terk edilmiş şemsiyeler ve etrafa saçılmış renkli plaj oyuncaklarıyla dolu ıslak kumsal üzerinde düşük açılı bir takip çekimiyle başlar. Küçük bir sıvı alüminyum damlası, doğal olmayan bir hareketle aniden kumların üzerinde hızla kayar; yüksek yansıtıcılığa sahip krom yüzeyi, hiçbir iz bırakmadan oyuncakların arasından sessizce süzülür.
-Kamera, kıyıya yakın bir plaj sandalyesinde tek başına oturan rahat bir adama doğru hızlanan metalik damlanın yanında kesintisiz bir hareketle ilerler. Arka planda dalgalar şiddetle kıyıya vururken rüzgar gürültüyle esmektedir. Damla, canlı bir cıva gibi anında adamın eline tırmanır. Yansıtıcı gümüş madde hızla cildine yayılırken aşırı yakın çekim. Adam aniden şok içinde sarsılır, ağır ağır nefes alarak panik içinde ayağa kalkmaya çalışır ve çaresizce maddeyi üzerinden atmaya uğraşır. Korku ve kaosu vurgulamak için el kamerası hareketi hafifçe yoğunlaşır.
-Sıvı metal, gerçekçi ve organik bir hareketle her iki koluna, göğsüne, boynuna ve yüzüne yayılmaya devam ederek tüm vücudunu saran kusursuz bir gümüş kabuk oluşturur. Hareketleri yavaşlar ve çaresizleşir; sonunda rüzgarlı kumsalın ortasında metalik bir heykel gibi tamamen donup kalır. Arka plandaki insanlar onu fark etmeye başlar, şaşkın ve korku içindedirler. Kamera, rüzgar kumu şiddetle savururken ve uzaktan gök gürültüsü duyulurken, hareketsiz gümüş figürün etrafında yavaşça döner.
-Aniden, gümüş kabuğun üzerinde içeriden sızan hafif mor ışıkla birlikte ince parlayan çatlaklar belirir. Çatlaklar hızla ve giderek artan bir sesle yayılırken kamera yavaşça yaklaşır. Şiddetli bir patlamayla gümüş kabuk, havada ağır çekimde uçuşan metalik parçalara ayrılarak parçalanır ve yoğun mor bir aura ile duman benzeri enerji yayan korkunç, canavarca bir yaratığı ortaya çıkarır. Canavar, vücudunun etrafında mor enerji dalgaları yayılırken doğrudan kameraya doğru devasa bir kükreme bırakır. Yakındaki plajdakiler çığlık atarak dehşet içinde kaçışır; rüzgar şemsiyeleri ve plaj eşyalarını savururken bazıları kumlara düşer. Kamera, karanlık ve fırtınalı okyanus fonunda tek başına duran kükreyen canavara odaklanarak titrek bir şekilde geri çekilir; sinematik atmosfer, hiper gerçekçi görsel efektler, dramatik aydınlatma, yoğun gerilim ve sürükleyici film kalitesi.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b879124c191be45e8233b99a1783b1fc/thumbnails/thumbnail.jpg" width="600" alt="Sıvı Metal Canavar Dönüşümü">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5575)**
-
-**Yazar:** [Yunan Helmy A](https://x.com/unxinstudio) | **Kaynak:** [Link](https://x.com/unxinstudio/status/2061288893069271311) | **Yayınlandı:** Jun 1, 2026
-
----
-### Yapay Zeka İstemi (Prompt) Eğitimi Reklamı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yapay zeka istemlerinde uzmanlaşma konulu, çeşitli çalışma ortamları ve fütüristik arayüzler içeren eğitici bir reklam için çok sahneli storyboard.
-
-#### 📝 İstem
-
-```
-Sahne 1 (0–3 sn)
-Görsel İstemi:
-Bir masada oturan, dizüstü bilgisayarda bir yapay zeka sohbet robotunu kullanırken hayal kırıklığına uğramış genç bir kişi, ekranda genel ve tatmin edici olmayan sonuçlar, modern oda, gerçekçi fotoğrafçılık, sinematik aydınlatma, profesyonel reklam, 4K.
-Ekran Metni: ❌ "Yapay zekadan istediğiniz sonuçları alamıyor musunuz?"
-Sahne 2 (3–6 sn)
-Görsel İstemi:
-Dizüstü bilgisayarda ayrıntılı bir yapay zeka istemi yazan ellerin yakın çekimi, parlayan fütüristik arayüz, ekranın etrafında uçuşan dijital metinler, modern çalışma alanı, sinematik, ultra gerçekçi, 4K.
-Ekran Metni: 💡 "Sorun yapay zeka değil..." Alt satır: "Sorun, istem (prompt)."
-Sahne 3 (6–9 sn)
-Görsel İstemi:
-Yapay zekanın etkileyici içerikler, yaratıcı tasarımlar, pazarlama materyalleri oluşturması ve bilgisayar ekranından holografik görseller olarak çıkan fikirler, fütüristik teknoloji teması, yüksek detay, 4K.
-Ekran Metni: ✅ Daha İyi İçerik
-✅ Daha İyi Fikirler
-✅ Daha İyi Sonuçlar
-Sahne 4 (9–12 sn)
-Görsel İstemi:
-Yapay zeka ile verimli bir şekilde çalışan özgüvenli profesyonel, yüzen dijital ekranlarda görüntülenen çok sayıda başarılı proje, üretkenlik ve inovasyon teması, sinematik reklam fotoğrafçılığı, 4K.
-Ekran Metni: 🚀 "Harika bir istem her şeyi değiştirebilir."
-Sahne 5 (12–15 sn)
-Görsel İstemi:
-Parlayan dijital parçacıklardan oluşan fütüristik yapay zeka asistanı, mavi neon aydınlatma, güçlü teknoloji arka planı, premium reklam stili, ultra gerçekçi, sinematik, 4K.
-Ekran Metni: 🤖 "Yapay Zeka İstemi Uzmanı Olun" Slogan: "Daha Akıllı İstemler Yazın. Daha Hızlı Üretin."
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/316b341210cdabbd216f5ffcbf4442da/thumbnails/thumbnail.jpg" width="600" alt="Yapay Zeka İstemi (Prompt) Eğitimi Reklamı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5581)**
-
-**Yazar:** [ORHAN](https://x.com/OrhanGhazi65942) | **Kaynak:** [Link](https://x.com/OrhanGhazi65942/status/2061286506116038956) | **Yayınlandı:** Jun 1, 2026
-
----
-### Cyberpunk Netrunner Sinematik Sahneleri
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir sığınağa sızmaktan dijital transandansa kadar uzanan aksiyon dolu sahneleri içeren, cyberpunk temalı 'Netrunner' anlatısı için hazırlanmış son derece detaylı sinematik istemler dizisi.
-
-#### 📝 İstem
-
-```
-Netrunner'ın yağmurla kaplı pencerenin dışında dronlar uçuşurken bir sığınağa yavaşça girişi, kamera uzaklaşıyor, macenta ve camgöbeği parıltı, aşağıda patlayan silah sesleri, sinematik giriş, sığ alan derinliği
-Netrunner'ın titreyen ellerle boyun portuna kabloyu takması, arayüz ışıklarının parlaması, yanıp sönen bir geri sayım, sinematik yakın çekim
-Şiddetle akan kodlarla dolan gözlerin aşırı yakın çekimi, parlayan damarlar, sistemin karşı saldırısı, makro lens
-Veri şehrinin yavaşça oluşumu, siyah ICE yapılarının avcılar gibi avatara doğru üşüşmesi, dramatik arkadan aydınlatma, aşırı ağır çekim
-Netrunner'ın çöken veri kuleleri arasında, güvenlik duvarlarının ateş ışığı duvarları halinde patladığı sırada koşması, hafif hareket bulanıklığı, sinematik ağır çekim
-Netrunner'ın kasanın önünde durmak için kayması, tepesinde beliren koruyucu program, yüzünde korku ve kararlılık, sinematik portre
-Kilit parçalanırken parmakların hızla içeri dalması ve koruyucunun atılması, patlayan parçacıklar, dramatik spot ışığı, sinematik yakın çekim
-Kasanın yavaşça patlayarak açılması, veri ışığının dışarı saçılması, yapının dalga içinde dağılması, sinematik ortaya çıkış, hacimsel ışık
-Dijital kale etrafında çökerken Netrunner'ın dimdik duruşu, yavaş sinematik uzaklaşma, kahramanlık anı, anamorfik görünüm
-Kablo çekildiğinde gözün gerçekliğe dönmesinin aşırı yakın çekimi, uçuşan kıvılcımlar, iristen silinen kodlar, yavaş sinematik ileri itiş, neon detay, makro.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/628b13c1fe2622867dbb6f2a7ea26122/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Netrunner Sinematik Sahneleri">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5520)**
-
-**Yazar:** [Alexandra Aisling](https://x.com/AllaAisling) | **Kaynak:** [Link](https://x.com/AllaAisling/status/2061234772429742217) | **Yayınlandı:** May 31, 2026
-
----
-### Futbol Hareketi Ekran Kırılma Efekti
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir futbolcunun topa vurup kameraya doğru gönderdiği ve ekranı çatlattığı, referans videodaki hareketi kopyalamak için tasarlanmış bir komut.
-
-#### 📝 İstem
-
-```
-Referans videodaki hareket efektini kopyalayın ve futbol topuyla oynarken güçlü bir şutla kameraya doğru biten, kameranın etkilendiği ve ekranın çatladığı benzer bir hareket efektine sahip bir video oluşturun.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/454c9bc11dd3e568859cdd2642ce054f/thumbnails/thumbnail.jpg" width="600" alt="Futbol Hareketi Ekran Kırılma Efekti">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5514)**
-
-**Yazar:** [AIwithYazdan](https://x.com/AIwithYazdan) | **Kaynak:** [Link](https://x.com/AIwithYazdan/status/2061186108617351534) | **Yayınlandı:** May 31, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3460,6 +3602,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-06T03:45:26.373Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-06T07:09:52.007Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ ByteDance के Seedance 2.0 के लिए उच्च गुणवत्�
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **3687** |
+| 📝 कुल प्रॉम्पट्स | **3689** |
 | ⭐ विशेष प्रॉम्पट्स | **6** |
 | 🔄 अंतिम अपडेट | **2026-06-06** |
 
@@ -361,6 +361,136 @@ Seedance 2.0 का उपयोग करके रात में सिन�
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### Japanese School Martial Arts Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An extensive multi-shot cinematic prompt for a one-take martial arts sequence in a Japanese classroom, featuring complex choreography and character consistency.
+
+#### 📝 प्रॉम्पट
+
+```
+Use the uploaded reference image as the only character reference. The reference image contains the school girl, the three male troublemakers, and the male hero. Preserve the exact facial features, hairstyles, identities, clothing, proportions, and appearance of every character shown in the reference image. Do not replace, redesign, or alter any character.
+
+Create an ultra-realistic Japanese high school classroom scene during warm afternoon golden hour. The classroom contains wooden desks, chairs, school bags, books, notebooks, posters, a chalkboard, fluorescent ceiling lights, curtains, sliding windows, and realistic school details. Warm sunlight streams through the windows, creating natural shadows and visible dust particles.
+
+0s–3s
+
+The school girl sits alone at her desk studying. The three male students surround her desk, teasing her and making her uncomfortable. The camera slowly pushes toward her worried expression. Warm sunlight fills the classroom.
+
+3s–5s
+
+The male hero notices the situation and walks toward them. He calmly tells the boys to stop bothering her. The boys laugh at him. One suddenly kicks him. The camera whips dramatically with the impact.
+
+5s–12s
+
+An intense one-take martial arts sequence begins. The hero fights all three boys at once using realistic choreography. He dodges attacks between desks, vaults over tables, slides across tabletops, blocks strikes with school bags, redirects attackers into desks, and lands powerful combinations. Chairs move, papers fly, desks slide, and curtains react naturally. The camera constantly follows, circles, ducks, and moves through the classroom while staying close to the action.
+
+12s–15s
+
+Epic cinematic slow-motion finale. The hero lands a decisive final strike. The three attackers are knocked backward in dramatic slow motion. Papers float through golden sunlight. The camera circles around the hero standing protectively in front of the girl while the defeated boys fall behind him. Powerful cinematic ending.
+
+Style: ultra-realistic live action, Japanese school drama, high-budget action film, realistic body physics, authentic martial arts choreography, natural lighting, grounded textures, immersive handheld cinematography, movie-quality visuals, one-take camera feel, 8K detail.
+
+Negative prompts: different faces, changed identities, face swap, extra characters, cartoon, anime style, CGI look, Unreal Engine look, glossy AI finish, distorted anatomy, duplicated limbs, weak choreography, poor continuity, plastic skin, unrealistic physics, oversaturated colors, excessive VFX, blurry faces, low detail.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062951307535929344/img/PbpfOaflu1Gt8Wst.jpg" width="600" alt="Japanese School Martial Arts Sequence">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5716)**
+
+**लेखक:** [auqib](https://x.com/auqibhabib) | **स्रोत:** [Link](https://x.com/auqibhabib/status/2062951836882231393) | **प्रकाशित:** Jun 5, 2026
+
+---
+### Security Camera Found Footage Horror
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A found-footage horror prompt depicting a woman being pulled into a television set, designed for a fixed-angle home security camera look.
+
+#### 📝 प्रॉम्पट
+
+```
+Evening, Southeast Asian living room. Fixed high-angle home security camera mounted in a corner near the ceiling. Timestamp visible: 19:45. Simple living room, television against the wall, sofa nearby. Post-sunset darkness outside windows. Interior lights on.
+
+Fixed home security camera footage. Slight compression artifacts. Wide-angle view. No camera movement.
+
+Subject / Action
+
+A woman is cleaning the television screen with a cloth.
+
+The room is quiet.
+
+Suddenly the TV flickers.
+
+Small glitches.
+
+Static.
+
+The woman notices but continues cleaning.
+
+The television abruptly powers on by itself.
+
+Full-screen static.
+
+The woman steps back.
+
+A pale distorted face suddenly appears on the television screen.
+
+Unnaturally still.
+
+Watching.
+
+The woman freezes.
+
+Confused.
+
+She slowly leans down to grab the remote control from the TV cabinet.
+
+As she reaches forward—
+
+A hand suddenly bursts out of the television screen and grabs her wrist.
+
+The woman screams.
+
+More hands emerge.
+
+They violently pull her toward the screen.
+
+She struggles desperately.
+
+The television surface behaves like liquid.
+
+The woman is dragged headfirst into the TV.
+
+Within seconds she completely disappears inside.
+
+The television immediately switches off.
+
+Black screen.
+
+The room is empty.
+
+Silence.
+
+Nothing moves.
+
+Audio
+
+Television static, electronic distortion, sudden struggle, brief scream, then complete silence.
+
+Style
+
+Ultra-realistic security camera footage, found-footage horror, realistic physics, clear visibility, high tension, strong visual payoff, no animation.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062872904568844288/img/nQo3wQcne1Q_NnM4.jpg" width="600" alt="Security Camera Found Footage Horror">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5717)**
+
+**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2062872971447087521) | **प्रकाशित:** Jun 5, 2026
+
+---
 ### जापानी स्लाइस-ऑफ-लाइफ स्ट्रीट कन्वर्सेशन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3352,53 +3482,6 @@ AI के साथ कुशलतापूर्वक काम करता 
 **लेखक:** [ORHAN](https://x.com/OrhanGhazi65942) | **स्रोत:** [Link](https://x.com/OrhanGhazi65942/status/2061286506116038956) | **प्रकाशित:** Jun 1, 2026
 
 ---
-### साइबरपंक नेट-रनर सिनेमैटिक दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> साइबरपंक 'नेट-रनर' नैरेटिव के लिए अत्यधिक विस्तृत सिनेमैटिक प्रॉम्प्ट्स की एक श्रृंखला, जिसमें हाइडआउट में घुसने से लेकर डिजिटल ट्रांसेंडेंस तक के एक्शन शॉट्स शामिल हैं।
-
-#### 📝 प्रॉम्पट
-
-```
-नेट-रनर धीरे-धीरे एक हाइडआउट में घुस रहा है, बाहर बारिश से भीगी खिड़की पर ड्रोन मंडरा रहे हैं, कैमरा ज़ूम आउट हो रहा है, मैजेंटा और सियान चमक, नीचे गोलियों की चमक, सिनेमैटिक प्रवेश, उथला डेप्थ ऑफ फील्ड
-नेट-रनर कांपते हाथों से गर्दन के पोर्ट में केबल लगा रहा है, इंटरफ़ेस की लाइटें चमक रही हैं, एक काउंटडाउन ब्लिंक कर रहा है, सिनेमैटिक क्लोज़-अप
-आंखों का एक्सट्रीम क्लोज़-अप जिसमें तेज़ी से स्क्रॉल होता कोड भर रहा है, नसें चमक रही हैं, सिस्टम पलटवार कर रहा है, मैक्रो लेंस
-डेटा-सिटी धीरे-धीरे बन रही है जैसे ब्लैक ICE कंस्ट्रक्ट्स शिकारियों की तरह अवतार की ओर बढ़ रहे हैं, नाटकीय बैकलाइट, एक्सट्रीम स्लो मोशन
-नेट-रनर ढहते डेटा टावरों के बीच दौड़ रहा है जबकि फायरवॉल आग की लपटों की दीवारों के रूप में फूट रहे हैं, हल्का मोशन ब्लर, सिनेमैटिक स्लो मोशन
-नेट-रनर वॉल्ट के सामने रुकता है जबकि एक गार्जियन प्रोग्राम सिर के ऊपर मंडरा रहा है, चेहरे पर डर और दृढ़ संकल्प, सिनेमैटिक पोर्ट्रेट
-उंगलियां लॉक को तोड़ती हैं और जैसे ही वह बिखरता है, गार्जियन हमला करता है, कण बिखर रहे हैं, नाटकीय स्पॉटलाइट, सिनेमैटिक क्लोज़-अप
-वॉल्ट धीरे-धीरे धमाके के साथ खुलता है, डेटा-लाइट बाहर की ओर फैलती है, सर्ज में कंस्ट्रक्ट बिखर रहा है, सिनेमैटिक रिवील, वॉल्यूमेट्रिक लाइट
-नेट-रनर गर्व से खड़ा है जबकि पूरा डिजिटल किला उसके चारों ओर ढह रहा है, धीमा सिनेमैटिक ज़ूम आउट, हीरो मोमेंट, एनामोर्फिक लुक
-केबल के बाहर निकलते ही आंख का वास्तविकता में वापस आना, चिंगारियां उड़ रही हैं, आइरिस से कोड जलकर खत्म हो रहा है, धीमा सिनेमैटिक पुश फॉरवर्ड, नियॉन डिटेल, मैक्रो।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/628b13c1fe2622867dbb6f2a7ea26122/thumbnails/thumbnail.jpg" width="600" alt="साइबरपंक नेट-रनर सिनेमैटिक दृश्य">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5520)**
-
-**लेखक:** [Alexandra Aisling](https://x.com/AllaAisling) | **स्रोत:** [Link](https://x.com/AllaAisling/status/2061234772429742217) | **प्रकाशित:** May 31, 2026
-
----
-### सॉकर मोशन स्क्रीन शैटर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक प्रॉम्प्ट जिसे रेफरेंस वीडियो से मोशन को रेप्लिकेट करने के लिए डिज़ाइन किया गया है, जिसमें एक सॉकर खिलाड़ी को गेंद को कैमरे की ओर किक करते हुए और स्क्रीन को तोड़ते हुए दिखाया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-रेफरेंस वीडियो से मोशन इफ़ेक्ट को रेप्लिकेट करें और एक ऐसा वीडियो बनाएं जिसमें समान मोशन इफ़ेक्ट हो, जहाँ सॉकर बॉल के साथ खेलते हुए अंत में कैमरे पर एक शक्तिशाली शॉट लगे, जिससे कैमरे को इफ़ेक्ट महसूस हो और स्क्रीन टूट जाए।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/454c9bc11dd3e568859cdd2642ce054f/thumbnails/thumbnail.jpg" width="600" alt="सॉकर मोशन स्क्रीन शैटर">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=5514)**
-
-**लेखक:** [AIwithYazdan](https://x.com/AIwithYazdan) | **स्रोत:** [Link](https://x.com/AIwithYazdan/status/2061186108617351534) | **प्रकाशित:** May 31, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
@@ -3460,6 +3543,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-06T03:45:14.172Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-06T07:09:40.437Z</sub>
 
 </div>
