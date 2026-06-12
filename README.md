@@ -381,7 +381,7 @@ Act 2: Continuing the authentic iPhone vlog style under night stadium lighting. 
 Act 3: The fan turns out to be a street football master. She starts an incredible solo run, dribbling past four Congo defenders with technical skills like step-overs and spins. In the climax, she performs a powerful bicycle kick that scores into the top corner. She celebrates by hugging a famous Portugal football star as the crowd erupts. All acts maintain the raw, documentary iPhone vlog texture without post-processing or special effects.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065245984045576193/img/ScfVoSV2QhG6D2Z1.jpg" width="600" alt="World Cup Journey Vlog Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e4e223e6c83698a00da83cfbf32748d/thumbnails/thumbnail.jpg" width="600" alt="World Cup Journey Vlog Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5954)**
 
@@ -407,7 +407,7 @@ Style: High-quality animation, cinematic lighting, dynamic camera, low angles, s
 Negative: No text, logos, UI, deformation, flickering, unnatural warps, horror, dark atmosphere, or size changes.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065033629777219584/img/y1BBNIZ9uYcCSuor.jpg" width="600" alt="Miniature Skateboard Kitchen Adventure">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a02dd33b7ccf02e5d3f7109d5386fe6/thumbnails/thumbnail.jpg" width="600" alt="Miniature Skateboard Kitchen Adventure">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5959)**
 
@@ -426,7 +426,7 @@ Negative: No text, logos, UI, deformation, flickering, unnatural warps, horror, 
 Shot 1: Opening 0-2 seconds, elegant European blonde woman with low ponytail hairstyle, wearing camel colored cashmere coat over cream thick knit turtleneck, strolling through historic European cobblestone street with exquisite stone archways and vintage balcony iron railings, golden hour warm sunlight casting soft shadows, she stops and reaches for something with one hand. Shot 2: 2-4 seconds product showcase, close-up of her elegant hand holding sleek matte silver wireless earbuds case, transparent lid revealing pure white earbuds inside, soft natural lighting highlighting premium metallic texture, she opens lid with delicate finger movement, background blurred European architecture, outdoor café terrace atmosphere. Shot 3: 4-6 seconds wearing, transition to her side profile then front view, placing white wireless earbuds into ears, confident cool expression, subtle smile, large focused eyes, camera smoothly pushes in, earbuds perfectly integrated with cream turtleneck and overall minimalist aesthetic. Shot 4: 6-9 seconds lifestyle, she continues strolling European street wearing earbuds, camera tracks alongside capturing fashion and technology fusion, alternating close-ups earbuds detail confident gaze fingers touching ear blonde hair catching warm sunlight. Shot 5: 9-11 seconds detail shots, product core montage, ultra close-up of earbuds being placed in ears, matte silver case lid satisfying click sound, earbuds indicator light glowing, shallow depth of field European architecture bokeh background, premium material close-ups emphasizing sleek design. Shot 6: 11-13 seconds mood, cinematic wide shot, she stands in European plaza, golden light creating dramatic rim lighting, she briefly closes eyes immersed in music, hair catching breeze, camera slowly pushes in creating emotional impact. Shot 7: 13-15 seconds ending, final elegant wide shot, she stands with confident posture, white earbuds clearly visible in both ears, holding matte silver earbuds case, European architecture framing, warm golden light teal orange cinematic color grading, subtle confident smile, seamless smooth transitions throughout, film grain texture.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065171629211066368/img/48gyozZk4FbMW-Ta.jpg" width="600" alt="Luxury Wireless Earbuds Product Showcase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1ec6f1292c1bcbfb9f147e2b7a405d74/thumbnails/thumbnail.jpg" width="600" alt="Luxury Wireless Earbuds Product Showcase">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5937)**
 
@@ -445,7 +445,7 @@ Shot 1: Opening 0-2 seconds, elegant European blonde woman with low ponytail hai
 A cinematic video starting with a slow 360-degree panning shot around the miniature stadium inside the tire, capturing the movement of the tiny players and the roaring crowd. The camera then smoothly zooms into the field, transitioning from a wide view to a low-angle, close-up macro shot tracking the intense match between the Argentina and Portugal players on the grass. The crowd jumps in excitement with visible, synchronized movement, waving flags in slow motion. High-fidelity stadium sounds: roaring crowd cheers, drums, whistles, and the faint, realistic sounds of a soccer ball being kicked, all echoing slightly within the tire structure. Cinematic lighting with dynamic shadows shifting across the pitch as the camera moves, adding deep texture and a dramatic, hyper-realistic effect. High frame rate with smooth motion blur for a professional video look.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065138936519827456/img/Y0lsNqnsndDxTg1M.jpg" width="600" alt="Miniature World Cup Tire Stadium">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6499c56e92d03d058fd7c591391accf1/thumbnails/thumbnail.jpg" width="600" alt="Miniature World Cup Tire Stadium">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5950)**
 
@@ -464,7 +464,7 @@ A cinematic video starting with a slow 360-degree panning shot around the miniat
 FPV shot: Diving through a tornado made entirely of autumn leaves. The camera enters a towering vortex of swirling leaves. Golden and crimson particles accelerate around the lens until they naturally align into "WILD" before being scattered by the storm. Organic motion, cinematic beauty.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065096720355127296/pu/img/J8d1mQGiQ4PjwQc0.jpg" width="600" alt="Autumn Leaves Vortex Text VFX">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d31b26cbd1ed91546f4cfc7cc95cedf7/thumbnails/thumbnail.jpg" width="600" alt="Autumn Leaves Vortex Text VFX">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5938)**
 
@@ -579,7 +579,7 @@ No studio lighting.
 No rushed pacing.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065091227402514432/pu/img/KmekL-nT1MpHK_Ll.jpg" width="600" alt="Realistic Omegle Chat Interaction">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/38e8bcea4395c5ba3a242a9d97fcd143/thumbnails/thumbnail.jpg" width="600" alt="Realistic Omegle Chat Interaction">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5932)**
 
@@ -598,7 +598,7 @@ No rushed pacing.
 POV handheld shot from someone in the audience filming with a phone camera from the third row, frame slightly unsteady, raised above other people’s heads. A large outdoor Japanese theater stage during daytime, recreating a feudal Japanese village gate
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065078297008979969/img/g-ugqls75sm-yXx_.jpg" width="600" alt="Japanese Feudal Village Theater POV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da98aad382c7ada2b9274265630c3e2d/thumbnails/thumbnail.jpg" width="600" alt="Japanese Feudal Village Theater POV">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5945)**
 
@@ -617,7 +617,7 @@ POV handheld shot from someone in the audience filming with a phone camera from 
 A luxury watch emerges from darkness. Extreme macro shot of ticking gears and moving hands. Golden sparks and floating particles surround the watch. The camera circles the timepiece while dramatic light streaks reflect across the sapphire crystal. Slow-motion water splash freezes in midair around the watch. Mechanical components assemble themselves automatically. Cinematic black-and-gold environment, premium commercial lighting, ultra-realistic reflections, luxury lifestyle advertisement, powerful orchestral atmosphere, smooth camera motion, product hero shot, brand reveal, Hollywood-level commercial, 8K photorealism.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065078706276864000/img/-K9mrAcsDm1SW72r.jpg" width="600" alt="Luxury Watch Commercial Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a5760b4e6c1671f3c7b730573664ff0c/thumbnails/thumbnail.jpg" width="600" alt="Luxury Watch Commercial Animation">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5935)**
 
@@ -647,7 +647,7 @@ Scene: High-speed rail carriage window seat, cool white clear tones, low saturat
 No special effect transitions throughout the film, seamless lens transitions, low-key and soothing camera movements, natural and smooth dynamics, realistic physical hair movement, 4K ultra-clear, avoiding mechanical AI feel, the image has the relaxed texture of live-action filming.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065071563121311745/img/cYCcpZGmYjV3eBPq.jpg" width="600" alt="High-Speed Rail Journey Cinematic Documentary">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01f93576fe0bb3c4ff0c1dfdae3e8993/thumbnails/thumbnail.jpg" width="600" alt="High-Speed Rail Journey Cinematic Documentary">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5952)**
 
@@ -666,7 +666,7 @@ No special effect transitions throughout the film, seamless lens transitions, lo
 Create a 15-second video in Seedance 2.0. Character "WAGAHAI (orthographic views)" is flying around happily holding a sign board with the "Flova ai logo". Then, the character approaches the camera happily, bringing their face and the sign board close to the lens, smiling joyfully. Finally, the handwritten text "WAGAHAI meets Flovia.ai" appears on the screen. Bright and pop image, cheerful background music, no subtitles.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065067302207492096/img/RQjfBB4Dqaye5aLj.jpg" width="600" alt="Animated Character with Logo Board">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b2571be177a0b1f7faeb6b419ee6a63/thumbnails/thumbnail.jpg" width="600" alt="Animated Character with Logo Board">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5955)**
 
@@ -690,7 +690,7 @@ Scene 4: The marble texture seamlessly dissolves and peels away across her face 
 Scene 5: The real woman turns to look directly at the camera with a confident gaze, holding the foundation bottle. Photorealistic, soft cinematic lighting, smooth transitions, high-end beauty commercial aesthetic.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065058665653235712/pu/img/jjAWZEkQ1zmtSAjy.jpg" width="600" alt="Luxury Foundation Reveal Commercial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f267e2980a9677d378f95b5788007fe7/thumbnails/thumbnail.jpg" width="600" alt="Luxury Foundation Reveal Commercial">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5943)**
 
@@ -721,7 +721,7 @@ Final moment: the spy stands on the shaking maintenance platform, breathing hard
 Style: hyper-realistic, cinematic, intense vertical action, realistic physics, rain, glass reflections, sparks, smoke, dramatic lighting, fast but readable camera movement, high detail, no text, no logos, no slow motion, no cartoon style, no extra main characters. Keep proportions. Keep style and features. Aspect ratio 16:9.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064828582044594176/img/h9kGiXzxCIhyZav6.jpg" width="600" alt="Cinematic Falling Elevator Action Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96be6bd2cff486275193b1e49e635394/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Falling Elevator Action Sequence">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5934)**
 
@@ -740,7 +740,7 @@ Style: hyper-realistic, cinematic, intense vertical action, realistic physics, r
 Frame 1 - THE MEETING (1.5s): 28mm anamorphic lens f/2.8, fast aggressive dolly push-in at ground level, hero boy blue aura and evil clone red aura slowly expanding toward each other, purple energy crackling where auras meet, stormy cartoon sky above with lightning,
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065021597178814464/img/XkuDDBebIfdYRIoq.jpg" width="600" alt="Cartoon Fight Scene Animation Frame">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cffeed0bd1d382247e744d73140dbeb/thumbnails/thumbnail.jpg" width="600" alt="Cartoon Fight Scene Animation Frame">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5951)**
 
@@ -778,7 +778,7 @@ Heavy bass + classical atmosphere. Movement of ripples and particles is strongly
 No character change. No turning the woman into a sculpture. Don't change the setting. No text, logos, or crowds. Not comical. No chaotic destruction. No excessive blur.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065020898713927680/img/OkVfd2M-TmrmkeMh.jpg" width="600" alt="Marble Gallery Dance Awakening">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88ec0c4e71d971e50dc87c0ba7561d75/thumbnails/thumbnail.jpg" width="600" alt="Marble Gallery Dance Awakening">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5958)**
 
@@ -816,7 +816,7 @@ Create an 8-second video based on the attached image where a smartphone social g
 Animate the provided 3x4 storyboard into a smooth cinematic video. Preserve exact shot order and continuity. Use slow fiber unravel into earth, moss spore bloom, rain on raw fabric, and seedling
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065010781075431424/pu/img/fKxCzQ2yTu5_zfvS.jpg" width="600" alt="Cinematic Storyboard Nature Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0e6c2553ca7b7108275bc954a0d455f/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Storyboard Nature Animation">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5946)**
 
@@ -861,7 +861,7 @@ Audio: epic nature-inspired cinematic music, mountain wind, feather movement, re
 Made in @runwayml
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065011189948571648/pu/img/cNDGILwLjhZfgCVp.jpg" width="600" alt="Mountaineer Eagle Transformation Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a098b23043c96943655faa6018e45673/thumbnails/thumbnail.jpg" width="600" alt="Mountaineer Eagle Transformation Sequence">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5941)**
 
@@ -880,7 +880,7 @@ Made in @runwayml
 Use the attached 'Tanghulu Master' storyboard poster as a precise visual reference to generate a 12-second 16:9 Chinese animated food advertisement. Do not generate a moving poster; instead, convert the 8 storyboard frames into continuous video shots. Strictly follow the 1-8 sequence, with each shot lasting approximately 1.5 seconds.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065007169389670400/img/VOh9XjcruEtpUgWO.jpg" width="600" alt="Seedance 2.0 Tanghulu Animated Food Ad">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/536aa592dc24e6b5619b8ffc78e0d038/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Tanghulu Animated Food Ad">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5953)**
 
@@ -911,7 +911,7 @@ Pixar-quality 3D ASMR comedy aboard a lantern-lit pirate ship galley. A burly pi
 9–10s: Pirate serves the meal and slides a tiny plate of sauce and bread to the parrot. The parrot does a happy bounce and eats beside him. Warm lantern glow, ship gently swaying, soft accordion note fading out.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065003071718002688/pu/img/qPNoNbKanm8QAw7l.jpg" width="600" alt="Pirate Chef and Parrot ASMR Comedy">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78eff3fa52a8608879a4323a3bd64c12/thumbnails/thumbnail.jpg" width="600" alt="Pirate Chef and Parrot ASMR Comedy">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5940)**
 
@@ -948,7 +948,7 @@ Editing: Rhythmic fast cuts, zooms, low angles, and motion blur to emphasize ene
 Important: No static slideshows; ensure everything (camera, environment, effects) is moving. Ink/paint must have physical properties (bouncing, dripping). No text, logos, or UI.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064989452888612864/img/JH84ddvcfD6yuk9H.jpg" width="600" alt="Tokyo Urban Ink Splash Montage">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2a8d1bfb3952a02365230c010583b412/thumbnails/thumbnail.jpg" width="600" alt="Tokyo Urban Ink Splash Montage">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5957)**
 
@@ -989,7 +989,7 @@ Sound design is perfectly synchronized with every environment: alarm clock ringi
 Ultra-realistic visuals, IMAX cinema-quality imagery, razor-sharp detail, emotionally immersive storytelling, natural lighting, cinematic depth of field, highly expressive and feminine presence, relatable and human. The character's face must match the reference image exactly, maintaining consistent facial features and identity throughout the entire shot.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064975836491710464/pu/img/hE9TggDsNLESqX4s.jpg" width="600" alt="Day in the Life Continuous Tracking Shot">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed40dc82ab894fe1157df2edffeeb459/thumbnails/thumbnail.jpg" width="600" alt="Day in the Life Continuous Tracking Shot">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5936)**
 
@@ -1020,7 +1020,7 @@ The camera follows the ball soaring through clouds before descending into a pack
 For the final moment, players from different countries gather together and lift the World Cup trophy as confetti fills the air. The camera pulls back to reveal millions of fans worldwide celebrating simultaneously. Epic, emotional, inspiring, realistic crowd reactions, seamless transitions, cinematic lighting, global unity through football, no text, no watermark, no subtitles.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064971235998806016/pu/img/jyTkefKodSf-vsG6.jpg" width="600" alt="Global Football World Cup Journey">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f6539c58e05a803366b2ebaf610536/thumbnails/thumbnail.jpg" width="600" alt="Global Football World Cup Journey">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5947)**
 
@@ -1039,7 +1039,7 @@ For the final moment, players from different countries gather together and lift 
 Cyberpunk Neon Samurai Duel (High-energy action viral style)15-second ultra-cinematic cyberpunk VFX duel, anamorphic lens flares, 8K hyper-realistic, neon-noir rainy Shinjuku alley at night, torrential rain with realistic splashes and reflections on wet asphalt, pink/teal volumetric lighting, high-speed shutter with motion blur, realistic physics mixed with stylized slow-mo impacts, sparks and energy shockwaves, no text/logos, samurai maintains perfect face, glowing neural links, and katana consistency throughout, no deformation or extra limbs. 0–2s: Extreme low-angle tracking shot, cyber-samurai with glowing blue neural links strides powerfully through pouring rain, katana humming with electric energy. 2–4s: Wide whip-pan as holographic guards materialize, samurai launches into fluid sword flurry, blade collisions exploding bright sparks. 4–6s: Medium 120fps tracking shot, low sweeping kick sends one guard flying, camera follows the leg arc with realistic rain spray. 6–8s: Bullet-time 360° orbit, samurai deflects digital bullet rain with vibrating katana, creating expanding blue energy rings in slow motion. 8–10s: Vertical slow-mo jump spin, powerful downward strike cracks asphalt, concrete shards and rain droplets exploding upward in perfect spheres. 10–12s: Close-up whip-pan on samurai’s reflective visor, neon lights flickering as he spins to face the final guard. 12–14s: Extreme close-up on narrowed eyes, katana sheathes with sharp metallic click and electric discharge, background neon bokeh blur. 14–15s: Quick wide pull-back, samurai stands victorious amid settling rain and debris in a dramatic hero silhouette freeze.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064965007339597824/img/Kg6afbkHuCUZZ6tB.jpg" width="600" alt="Cyberpunk Neon Samurai Duel">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a8cc2f775e8dba2bc856d6a52bcac6e/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Neon Samurai Duel">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5890)**
 
@@ -1068,7 +1068,7 @@ Boss slowly pulls a small black remote from his jacket, raises it. Employee noti
 Slow dolly-out. Employee stands motionless, cigarette burning, staring at the blank wall, then slowly looks at the boss. Boss quietly straightens his tie and jacket, expression unchanged. Hold on the silent two-shot for 2 seconds. Deadpan dark comedy, realistic lighting transitions, ultra-photorealistic cinematic grading.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064950579357741056/pu/img/e2KZ-RpNt8nOj86J.jpg" width="600" alt="Office Boardroom Tension with Twist">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09347e01a64bf47507557d6323fb01b2/thumbnails/thumbnail.jpg" width="600" alt="Office Boardroom Tension with Twist">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5939)**
 
@@ -1098,7 +1098,7 @@ Negative Prompt:
 blurry, dark scene, horror, realistic humans, low quality, text errors, distorted faces, extra limbs, ugly anatomy, dull colors, low saturation, bad composition, watermark, logo, cropped characters, horror expressions, gloomy atmosphere, rushed pacing, motion artifacts.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064950143951208448/pu/img/4hOZcR3OW8_SDG-f.jpg" width="600" alt="Fantasy Kingdom Comedy Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8931cc2dfdf9b6de55e8d058a009c1c1/thumbnails/thumbnail.jpg" width="600" alt="Fantasy Kingdom Comedy Animation">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5949)**
 
@@ -1165,7 +1165,7 @@ Negative prompt (reduces common AI artifacts)
 cartoon, anime, low resolution, blurry, low-poly, duplicate wings, extra limbs, malformed anatomy, text, logo, watermark, jitter, flicker, overexposed highlights, muddy shadows, inconsistent moon shape, distorted city perspective, excessive motion blur
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064944099686256640/img/Z-ty51fESVfF_DxU.jpg" width="600" alt="Ethereal Lunar Moth Transformation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/41c8e13b1c6afa6c879b73f7526c7ea5/thumbnails/thumbnail.jpg" width="600" alt="Ethereal Lunar Moth Transformation">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5942)**
 
@@ -1198,7 +1198,7 @@ Text on screen:
 Pixar-style 3D animation, emotional storytelling, cinematic camera movement, expressive character animation, cozy interiors, vibrant stadium atmosphere, global football excitement, warm lighting, inspirational mood, ultra-detailed visuals, movie-quality rendering, 16:9 YouTube format.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064929740981686272/pu/img/ECV-h136KN6ouhbS.jpg" width="600" alt="Pixar-Style Football Passion Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2606dd477ea73bedc9bfbca6f85f355a/thumbnails/thumbnail.jpg" width="600" alt="Pixar-Style Football Passion Animation">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5930)**
 
@@ -1243,7 +1243,7 @@ Text appears:
 "THE FINAL RIDE..."
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064840058172264448/pu/img/FX9mTHLkH0TH7IYp.jpg" width="600" alt="Extreme Amusement Park Adventure">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e3ced5dd355ffaac286078b617ca8c96/thumbnails/thumbnail.jpg" width="600" alt="Extreme Amusement Park Adventure">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5933)**
 
@@ -1268,7 +1268,7 @@ She enters a crowded World Cup fan zone and walks toward a massive stadium, carr
 The stadium lights ignite behind her. The crowd erupts with excitement.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064916586058969088/pu/img/re69dRtTZxagpTjg.jpg" width="600" alt="Cinematic Sports Documentary Journey">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/361f3c0d3072002ca5d5b03c388f2248/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Sports Documentary Journey">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5931)**
 
@@ -1315,7 +1315,7 @@ Scene 10 (36-40s)
 Nighttime amusement park finale, sparkling lights everywhere, the girl smiling while looking over the illuminated park, magical atmosphere, cinematic ending shot, high detail, realistic vlog style.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064652946722201600/pu/img/kOA7vh9NKOP3pr5K.jpg" width="600" alt="Cinematic Girl Lifestyle Vlog">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3cb8311fc3ef30fed41a1c82f50f8104/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Girl Lifestyle Vlog">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5944)**
 
@@ -1342,7 +1342,7 @@ The crystal and her skin radiate a warm, enchanting pink glow that makes the ent
 Dreamy cinematic atmosphere, soft bokeh, gentle lens flares, sparkling dust floating in the air, warm pastel tones, highly detailed skin texture, emotional and mesmerizing self-love moment. Ultra-realistic, smooth natural motion, 16:9, 15 seconds.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064866020766949376/img/a5fgWtf9qGl3h4P0.jpg" width="600" alt="Magical Skincare Morning Ritual">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4706b01e54af6dd08676622c9c14d17/thumbnails/thumbnail.jpg" width="600" alt="Magical Skincare Morning Ritual">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5948)**
 
@@ -1361,7 +1361,7 @@ Dreamy cinematic atmosphere, soft bokeh, gentle lens flares, sparkling dust floa
 Classic 90s Disney animation style. Scene 1: In a high-tech dungeon, a powerful tiger lies on its back on a table, secured by a belt around its belly. The tiger looks around angrily and asks, "Where is this?" Scene 2: Two robotic arms with white gloves emerge from the floor next to the table and approach the tiger. The tiger looks at them with confusion and unease. Scene 3: The gloved hands begin to tickle the tiger's belly gently. The tiger immediately grins, giggles, and squirm, saying in its characteristic laugh, "Oh, stop it, I'm ticklish!" The hands continue tickling. Scene 4: The hands keep tickling; the tiger giggles and squirms, lowering its paws to protect its belly. Scene 5: One glove grabs the tiger's wrist and lifts it above its head. The tiger is confused while giggling. The other glove tickles its exposed armpit. This makes the tiger laugh hysterically as it tries to lower its paw. Scene 6: The gloved hand continues tickling the armpit, and the tiger laughs. English voiceover. Only two robotic arms appear throughout.
 ```
 
-<img src="https://pbs.twimg.com/media/HKfSei8XkAEyBu9.jpg" width="600" alt="Classic 90s Disney Style Tiger Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/94c94ee05ae84ce61f31be250842344a/thumbnails/thumbnail.jpg" width="600" alt="Classic 90s Disney Style Tiger Animation">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5905)**
 
@@ -1380,7 +1380,7 @@ Classic 90s Disney animation style. Scene 1: In a high-tech dungeon, a powerful 
 The camera plunges toward a planet-sized industrial machine actively splitting an entire world apart. Vast continents drift away from each other as glowing energy fractures spread across the surface. Two high-speed craft navigate through moving tectonic slabs the size of countries while molten light pours upward into space. Entire mountain ranges drift past the lens. The craft thread through impossible gaps between separating landmasses and giant industrial mechanisms attached to the planet's crust. The signature moment comes from inside a transparent control sphere suspended over the planetary fracture. The final reveal pulls above the destruction zone to show the world opening like a flower beneath them.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064838296304312320/img/8cijVAigbXT2hEAD.jpg" width="600" alt="Fractured Planet Industrial Destruction">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68907d51a4990fff962c7c1cbedaaac1/thumbnails/thumbnail.jpg" width="600" alt="Fractured Planet Industrial Destruction">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5902)**
 
@@ -1399,7 +1399,7 @@ The camera plunges toward a planet-sized industrial machine actively splitting a
 {{Image 1}} = Storyboard reference. Based on the attached storyboard image {{Image 1}}, create a high-quality 15-second horizontal 16:9 video. Theme: 'Kyoto where Sumi-e (ink wash painting) and live-action mix.'
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064836489591304192/img/DgRfC_fPdvL-Hchc.jpg" width="600" alt="Kyoto Sumi-e and Live Action Fusion">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f8507fd69cebc4dfa68b95490653efa/thumbnails/thumbnail.jpg" width="600" alt="Kyoto Sumi-e and Live Action Fusion">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5913)**
 
@@ -1430,7 +1430,7 @@ Final moment: he leaps from the vertical building into open air, throws the glow
 Style: hyper-realistic, cinematic, fast-paced, dramatic lighting, neon blue and orange reflections, realistic motion blur, intense camera movement, high detail, no text, no logos, no slow motion, no cartoon style, no extra characters. Keep proportions. Keep style and features. Aspect ratio 16:9.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064819125793304576/img/ofw-8DdEIfow6gLN.jpg" width="600" alt="The Gravity Heist Sci-Fi Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5677e3829d8641c7a0cff7953d2ee957/thumbnails/thumbnail.jpg" width="600" alt="The Gravity Heist Sci-Fi Sequence">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5889)**
 
@@ -1449,7 +1449,7 @@ Style: hyper-realistic, cinematic, fast-paced, dramatic lighting, neon blue and 
 POV audience perspective handheld mobile phone recording, slight camera shake, phone held high above the crowd's heads. Silhouettes of dense audience hair in the foreground, many holding up phones and small cameras to record. A live superhero duel performance in a Japanese outdoor theater at night. The stage is designed in late Showa era Tokyo night street style: neon signs, phone booths, metal stairs. Two adult female actresses perform a Hollywood-style superhero battle. Left character uses red-gold fire energy; right character uses blue-purple telekinetic powers. Detailed timeline from 0s to 15s includes energy explosions, high-speed rushes, physical combat, ultimate skill clashes, and Chinese dialogue. Technical specs: vertical smartphone handheld shooting, fixed POV, one-shot continuous footage, digital noise, night outdoor lighting. Audio: crowd cheering, energy blasts, mechanical sounds, Chinese dialogue, and climax applause.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064802112504987648/img/HhKBovNCti5waMdz.jpg" width="600" alt="Anime Superhero Live Action Stage Battle">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a7c34d9e78decbdc6c59dd4a9d97de2/thumbnails/thumbnail.jpg" width="600" alt="Anime Superhero Live Action Stage Battle">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5907)**
 
@@ -1544,7 +1544,7 @@ Rock music continues.
 End with the feeling that the adventure is only beginning.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064776803713994752/img/mYDny7hVU9sVHyqn.jpg" width="600" alt="Energetic India Travel Vlog Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3042826eb2cb6b179d165e3bbc5224b4/thumbnails/thumbnail.jpg" width="600" alt="Energetic India Travel Vlog Sequence">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5886)**
 
@@ -1636,7 +1636,7 @@ Prompt:
 "Luxury perfume bottle on black obsidian pedestal, golden particles swirling elegantly, dark premium background, cinema
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064781667626328064/pu/img/zAR1MH2pp-t9uM4n.jpg" width="600" alt="Premium Luxury Perfume Ad Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c57194fd3a65c3f85479b1098fc6658/thumbnails/thumbnail.jpg" width="600" alt="Premium Luxury Perfume Ad Sequence">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5895)**
 
@@ -1663,7 +1663,7 @@ A cinematic 15-second parkour chase sequence at golden hour in a dense modern ci
 Realistic human movement, powerful momentum, believable parkour technique, fast but clear action, natural impact on landing, cinematic camera motion, slight handheld energy during close tracking shots, warm golden-hour lighting, dramatic lens flare, high detail, realistic urban scale, intense adventurous atmosphere, smooth continuity between angles, no slow motion, no text, no logos, no duplicated person, no distorted limbs. Keep proportions, keep style and features consistent.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064779456019910656/img/YOc4PceF__5_kmP6.jpg" width="600" alt="Golden Hour Rooftop Parkour Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43d50dbc92db2d419c5b2b1f2890df82/thumbnails/thumbnail.jpg" width="600" alt="Golden Hour Rooftop Parkour Chase">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5899)**
 
@@ -1684,7 +1684,7 @@ Speeds through a collapsing desert convoy while enemy war trucks and flamethrowe
 Starts with ultra-low wheel tracking beside the bike, speed ramp during impossible jumps, whip pans toward exploding trucks, FPV chase through fire and collapsing wreckage, sparks and sand hitting the lens constantly, dramatic orange sunset lighting cutting through the storm, ending with the biker riding alone out of the exploding sandstorm while dozens of burning convoy vehicles collapse behind him, camera slowly rising into a giant aerial shot revealing a highway transformed into a graveyard of fire
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064735590579392512/pu/img/8gnzT4uHUxdegQJi.jpg" width="600" alt="Mad Max Cybernetic Biker Action Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b0044569898ef5d97418a5882fc5eae5/thumbnails/thumbnail.jpg" width="600" alt="Mad Max Cybernetic Biker Action Sequence">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5887)**
 
@@ -1730,7 +1730,7 @@ grain and subtle compression artifacts, authentic live TV aesthetic,
 telephoto lens compression on crowd shot, cinematic, 4K.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064725766269796352/pu/img/V0rHEF032Iiwm_y5.jpg" width="600" alt="Lionel Messi MLS Broadcast Goal and Celebration">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b44a77aabcc7873cab95a2492edf893d/thumbnails/thumbnail.jpg" width="600" alt="Lionel Messi MLS Broadcast Goal and Celebration">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5892)**
 
@@ -1751,7 +1751,7 @@ telephoto lens compression on crowd shot, cinematic, 4K.
 [10–15s]: The Drift and Whip-Pan The camera executes a low, dust-spraying powerslide beneath the crest of a massive dirt jump just as a neon-wrapped rally car launches directly overhead, its roaring exhaust flames scorching the air. Using the bright orange flash of the exhaust backfire as a transition, the camera executes a vicious, motion-blurred whip-pan 180 degrees to the right—snapping perfectly onto a pit crew chief in a sponsor-heavy fire suit, capturing the exact frame she throws a checkered flag down and points a gloved finger directly at the lens.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064722838784024576/img/cdXs0du3wFKPIwN5.jpg" width="600" alt="Desert Canyon FPV Rally Race">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2a9f7f3565c7a5ecd6bba66d87fd8521/thumbnails/thumbnail.jpg" width="600" alt="Desert Canyon FPV Rally Race">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5898)**
 
@@ -1770,7 +1770,7 @@ telephoto lens compression on crowd shot, cinematic, 4K.
 Infinite palace containing doors leading to alternate realities, each room displaying a different version of the same world, camera continuously passes through portals without cuts, seamless transitions between universes.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064721414872092672/img/P5fap7o4nvfvjNqm.jpg" width="600" alt="Infinite Palace Multiverse Portals">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c90e5bd6955098f9181ddf3bdf104e76/thumbnails/thumbnail.jpg" width="600" alt="Infinite Palace Multiverse Portals">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5897)**
 
@@ -1852,7 +1852,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 Do not use the same effect consecutively; express as a high-information, energetic video where the screen composition constantly changes throughout the 15 seconds.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064719067811045376/pu/img/6C6rYW-fBO2ujMMR.jpg" width="600" alt="High-Tempo 9-Image Glitch Edit">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9374071c3c1d939341e9ce25d8a846b8/thumbnails/thumbnail.jpg" width="600" alt="High-Tempo 9-Image Glitch Edit">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5911)**
 
@@ -1871,7 +1871,7 @@ Do not use the same effect consecutively; express as a high-information, energet
 A cinematic, high-contrast action video in a stark minimalist white gallery space. A character wearing a traditional black samurai kimono, long flowing white hair, and a white Oni demon mask wields a massive, oversized Japanese calligraphy brush. The character dynamically spins and slashes the brush, leaving thick, fluid, three-dimensional black sumi-e ink strokes suspended in mid-air. The ink magically materializes into a ferocious, hyper-realistic tiger and twin massive Chinese dragons that swirl majestically around the character. Photorealistic 3D CGI, Unreal Engine 5 realism, ultra-sharp details, Unreal Engine 5 render, dramatic contrast between deep black ink and the brilliant white background. Slow-motion sweeps, dynamic tracking shots following the brush strokes, fluid particle simulation, studio lighting, 8K resolution.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064710188654059520/pu/img/pJIkjoVTw_YYOSR0.jpg" width="600" alt="Samurai Oni Mask Ink Art">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/519c122acd5bbadc7b6227a4180200f1/thumbnails/thumbnail.jpg" width="600" alt="Samurai Oni Mask Ink Art">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5903)**
 
@@ -1890,7 +1890,7 @@ A cinematic, high-contrast action video in a stark minimalist white gallery spac
 Use the attached THE CINNAMON ROLL BAKER storyboard as exact visual reference. Create a 12-second 16:9 Pixar 3D animated sequence following all 8 shots exactly. Same young woman, cream apron, cozy bright home kitchen, warm golden morning light throughout.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064706243650867200/img/CpFbln2K1ollFdCc.jpg" width="600" alt="Pixar Style Cinnamon Roll Baker">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b24ddaa8ae7a8b9e003a84203175b15/thumbnails/thumbnail.jpg" width="600" alt="Pixar Style Cinnamon Roll Baker">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5904)**
 
@@ -1919,7 +1919,7 @@ The camera stays behind him but gradually cranes upward, rising higher until it 
 STYLE: cinematic, bright glamorous natural lighting, vibrant color grade, lens flare from sunlight, realistic motion blur, shallow depth of field, blockbuster red-carpet film quality.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064701553706213376/img/QgSbTIGxEULxwURl.jpg" width="600" alt="Red Carpet Cinematic Hero Reveal">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbb7541bf7d58e7f2350a779444278f4/thumbnails/thumbnail.jpg" width="600" alt="Red Carpet Cinematic Hero Reveal">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5900)**
 
@@ -1946,7 +1946,7 @@ Cinematic drone shots reveal the entire garden as she flows effortlessly through
 End with a stunning hero shot of the woman holding a beautiful yoga pose in the center of the garden, bathed in warm sunrise light. The camera slowly pulls back to reveal the serene landscape, creating a feeling of harmony, mindfulness, wellness, and connection with nature. Ultra-realistic, cinematic photography, premium wellness brand commercial, shallow depth of field, soft natural colors, peaceful mood, smooth gimbal movements, photorealistic, 16:9 aspect ratio.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064680024788406272/pu/img/gI8K17-KDdtUVgKm.jpg" width="600" alt="Serene Morning Yoga Flow">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fdfa1fb43bc96440e231358aa679648a/thumbnails/thumbnail.jpg" width="600" alt="Serene Morning Yoga Flow">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5901)**
 
@@ -1965,7 +1965,7 @@ End with a stunning hero shot of the woman holding a beautiful yoga pose in the 
 First-person mobile phone flashlight perspective. At night, push open an old apartment door; the camera enters a messy, damp, and dim bedroom. There is a cluttered bed, and the floor is scattered with clothes, broken cardboard boxes, empty water bottles, and moldy takeout containers. An obviously adult woman is crouching in the corner, wearing hf_20260602_030359_fe9adf4d-7a5d-4c92-9517-3e9d2f2e0da1 and Image_20260608230651_1029_183(1), appearing trapped for a long time. The overall texture is that of a realistic horror short film, with a slight handheld camera shake, clear breathing sounds, and no music. Shot 1 (0-3s) - THE HOOK: The first-person pushes the door open slowly, the hinge making a piercing sound. The flashlight sweeps across the messy floor, the cluttered bed, and water stains on the wall, finally stopping in the corner of the room. The adult woman in the corner looks up, her expression turning from fear to pleasant surprise. Shot 2 (3-6s): She is very happy to see someone enter, stands up immediately, and jogs towards the camera. She has a rescued-like smile on her face, hands slightly raised as if asking for help and expressing gratitude. The first-person takes half a step back, the camera shakes slightly, and heavy breathing can be heard. Shot 3 (6-9s): The first-person thinks the rescue is successful; the camera lowers slightly as if preparing to help her leave. The woman gets closer, her smile still bright, but the room light suddenly flickers, and a low dragging sound comes from under the bed. She stops very close to the camera and whispers: 'You're finally here.' Shot 4 (9-12s) - REVERSAL: Her voice suddenly becomes cold and raspy, her expression freezes, and her smile becomes unnatural. She slowly tilts her head, her eyes reflecting an abnormal dark light in the flashlight, then says in a completely different low, raspy voice: 'I wasn't waiting for a rescue... but a replacement.' Shot 5 (12-15s) - PAYOFF: The flashlight begins to flicker wildly. In each flash, her face becomes more like a female demon: pale, distorted, hair fluttering without wind, but no bloody scenes appear. At the final flash, she instantly sticks to the camera, opens her dark eyes, the screen suddenly loses focus and cuts to black, leaving only the sound of the door slamming shut. Style: First-person handheld mobile video, real horror short video texture, low light, hard flashlight light, digital noise, slight motion blur, damp room atmosphere, oppressive breathing, hinge sounds, distant low-frequency city noise, flickering lights, electrical noise. No music, no subtitles, no watermarks, no extra characters, no gore or violence, the female is clearly an adult character.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064674036542504960/img/d5ruA3s0IHft_FeV.jpg" width="600" alt="First-person POV Horror Short Film">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/261ae7afaebb2bc3d06c17769cdb9479/thumbnails/thumbnail.jpg" width="600" alt="First-person POV Horror Short Film">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5908)**
 
@@ -2029,7 +2029,7 @@ No shape distortion, unnatural proliferation, or the feeling that effects are ju
 Create a 15-second video where invisible fairies living alongside movement naturally coexist within the real station space.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064672408293068800/img/P2N1ocGjWxYZ0kIc.jpg" width="600" alt="City Doodles and Urban Fairies Montage">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f85938371f2b825b479201afe0aa1615/thumbnails/thumbnail.jpg" width="600" alt="City Doodles and Urban Fairies Montage">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5909)**
 
@@ -2048,7 +2048,7 @@ Create a 15-second video where invisible fairies living alongside movement natur
 15秒のアニメーション・サッカーアクション短編。夜のスタジアム、投光照明、歓声。回転するサッカーボールがすべてのショットの中心的なオブジェクトであり、最初から最後まで常に画面に表示されていなければならない。ライバルは2人：ライバルA = 長い野性的な黒髪、黒いユニフォーム。ライバルB = 短い黒髪、背番号7のネイビーのユニフォーム。全身のアクションショットのみ、ピッチを示すワイドおよびミディアムアングル。0～4秒：キックオフ。両プレイヤーが同時にボールを蹴る。ボールは両者のブーツの間で激しく回転し、衝撃波が両プレイヤーを後ろに吹き飛ばす。ボールは中央に留まり、芝生の上で回転し続ける。4～9秒：ライバルBが立ち直り、回転するボールを高速でドリブルする。低い位置からのワイドなトラッキングショット：彼の足、ボール、芝生が常にフレーム内に収まっている。9～12秒：ライバルAが背後からスライディング。ライバルBは同じボールを空中に跳ね上げてタックルをかわす。ボールははっきりと見える状態で弧を描いて上昇する。12～15秒：ライバルBが跳躍し、空中のボールを稲妻を帯びたミッドエア・ボレーで蹴る。ボールは青い電気を纏ってゴールに向かって一直線に飛ぶ。最終フレーム：ボールがネットを揺らす。継続性ルール：ビデオ全体を通して唯一のボールが存在し、カット間で消えることはない。ネガティブ：キャラクターのクローズアップ、きらめきやグリッター効果、静止ポーズ、会話シーン、ボールのないシーンはなし。[夜のスタジアム。投光照明が輝く。サッカーボールはセンターサークルにあり、芝生の上でゆっくりと回転している。群衆の轟音が響き渡る。][ライバルA（長い野性的な黒髪、黒いユニフォーム）が足を踏み込む。ライバルB（短い黒髪、背番号7のネイビーのユニフォーム）が反対の足を踏み込む。両者が同時にボールを打つ。ボールは衝突する足の間で激しく回転し、衝撃波が外側に広がる。両プレイヤーは後方に飛ばされる。ボールは中央に留まり、まだ芝生の上で回転している。][ライバルBが立ち上がる。低角度のワイドトラッキングショット。彼の足、回転するボール、そして芝生が1つのフレームに固定されている。彼はフルスプリントで前進し、高速でピッチを駆け抜ける際にボールが足元で転がり回転する。][ライバルAが背後からスライディングタックルを開始し、スパイクが芝生を引き裂く。ライバルBはつま先でボールを受け、そのままの動作で上に跳ね上げる。ボールはスライディングする足を越えて高くはっきりと弧を描く。][ライバルBが跳躍。ボールは空中に浮いている。彼の右脚がしなり、青い電気を帯びたボレーシュートを放つ。ボールは電光の尾を引いてゴールに向かってロケットのように飛ぶ。ボールが当たるとネットが後方に弾け、群衆が沸き立つ。]
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064626904083333120/img/pbe5CQyKhDh_MI9N.jpg" width="600" alt="Super-Dimensional AI Soccer Action">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/334a7d1251bf0d49a7a6b1a4da21ddb2/thumbnails/thumbnail.jpg" width="600" alt="Super-Dimensional AI Soccer Action">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5912)**
 
@@ -2067,7 +2067,7 @@ Create a 15-second video where invisible fairies living alongside movement natur
 A fast-paced sci-fi video sequence on a high school running track under a dark, overcast sky. A blonde woman in a navy and white tracksuit walks confidently forward as students flee. A robotic spider on her wrist rapidly expands into full-body nanotech armor—featuring white, purple, and gold plating, mechanical wings, and a glowing purple helmet. A massive rock monster charges out, and she casually destroys it with a powerful purple energy blast, creating a massive explosion of smoke and debris. The camera zooms into a close-up as her helmet retracts, revealing her smiling as she blows a glowing purple kiss to the camera. Cinematic lighting, photorealistic VFX, 8k.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064608014934695936/pu/img/_Gi3k8G3kwVwYdpr.jpg" width="600" alt="Nanotech Superhero Armor Transformation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29c55b68fdc4d6622f51729bf1bf2506/thumbnails/thumbnail.jpg" width="600" alt="Nanotech Superhero Armor Transformation">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5884)**
 
@@ -2129,7 +2129,7 @@ The boy happily enjoys his replacement ice cream. Nearby, a friendly stray puppy
 Final cinematic sequence: the ice cream truck drives away down the glowing suburban street, the boy and puppy walking side by side through golden sunlight. Wide aerial pullback revealing a peaceful neighborhood, long sunset shadows, warm emotional atmosphere, wholesome family-friendly ending, cinematic depth of field, realistic animation physics, expressive facial acting, emotional orchestral music, Pixar-inspired storytelling, theme of kindness turning disappointment into happiness.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064562625665732608/pu/img/DdV-PxKwtHvgNfob.jpg" width="600" alt="Pixar Style Ice Cream Rescue">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7bf2f26f2d4b54e248e13efa6338d2e9/thumbnails/thumbnail.jpg" width="600" alt="Pixar Style Ice Cream Rescue">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5896)**
 
@@ -2148,7 +2148,7 @@ Final cinematic sequence: the ice cream truck drives away down the glowing subur
 A Japanese samurai swings a sword. The right frame of the picture breaks. Moving beyond the frame, the samurai walks out to the right, emitting black smoke. no text, no cut change, no character change.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064555806897651712/img/CPd0kemWyoR7hXkr.jpg" width="600" alt="Samurai Frame Breaking Action Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a8b4432a1ac8b67474486cc10306a0ee/thumbnails/thumbnail.jpg" width="600" alt="Samurai Frame Breaking Action Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5879)**
 
@@ -2178,7 +2178,7 @@ Maya (Thailand) sits elegantly with her Himalayan cat and says: "And this is Nal
 After the final introduction, the camera pulls back into a wide shot showing all eight women and their cats together. The cats naturally interact, play, stretch, and walk around while the women smile and laugh. Warm sunset lighting, cinematic depth of field, smooth camera transitions, luxury interior, realistic cat behavior, natural facial expressions, high-end commercial quality, Pixar-inspired realism, elegant and wholesome atmosphere, 16:9.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064553707937914881/pu/img/O9sXuG-7OQX7u0d-.jpg" width="600" alt="Cinematic Penthouse Cat Introduction Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3bc6f5681307bc936c9ddfece06c300a/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Penthouse Cat Introduction Scene">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5888)**
 
@@ -2238,7 +2238,7 @@ Editing: Use a beautiful cut sequence with rhythm, wide shots, super close-ups, 
 Generate a 10-second vertical 9:16 video in a realistic leaked phone footage style. The scene is a large fishing boat deck at night, with the dark sea on the right and white boat structures, railings, work lights, and crew members on the left and far end. The deck is wet and reflective with seawater, metal hatches, ropes, and boat hooks. Bright white boat lights illuminate the deck, while the distant sea is almost pitch black. The footage has low-def mobile compression, handheld shakiness, motion blur, and night noise. The content features large tuna jumping onto the deck to escape a giant shark. The atmosphere is realistic, chaotic, and absurd with a touch of dark humor. Timeline: 0-2s: First tuna jumps from the dark sea onto the deck; 2-4s: More tuna jump on board as crew retreats in shock; 4-6s: Camera follows the jumping fish while shadows lurk in the water; 6-8s: A giant shark lunges out of the water near the railing, mouth wide open with rows of teeth; 8-10s: The shark's mouth fills the foreground as it roars before the footage ends in chaos. Camera: Handheld, one-shot, no cuts. Audio: Sea wind, mechanical hum, waves, fish flopping, crew screaming, splashing water. Visual focus: Dark night sea, white deck, tuna jumping, panicked crew, and the shark's final approach. Negative prompts: No shark on deck, no animation style, no daylight, no blood, no text or watermarks.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064539020684636160/img/xFjkDwnsRCjava9W.jpg" width="600" alt="Shark Chasing Tuna on Fishing Boat">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56f6020b68cd8f1c356aacc475f20b1d/thumbnails/thumbnail.jpg" width="600" alt="Shark Chasing Tuna on Fishing Boat">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5906)**
 
@@ -2267,7 +2267,7 @@ Shot 4 (9–13s) — BULLET TIME PAYOFF: The shark smashes THROUGH the cargo shi
 Shot 5 (13–15s): Time snaps back. The blast wave overtakes the speedboat, nearly swamping it as flaming wreckage rains across the swells. The crew rises from the deck, drenched, staring at the burning ship carcass settling behind them. The commander keys his radio, grinning: "Good tag." Periscope drops below the surface.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064519788349759488/img/S6tI90xo3RJ_AnW2.jpg" width="600" alt="Torpedo vs Megalodon Ocean Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b89efdf4c83c6a9bc112e8817c6b9a77/thumbnails/thumbnail.jpg" width="600" alt="Torpedo vs Megalodon Ocean Chase">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5894)**
 
@@ -2294,7 +2294,7 @@ Then, a huge, chubby orange cat bursts into the frame from the right. The orange
 Immediately after, the orange cat raises its fist and throws a powerful punch toward the camera. The screen shakes violently from the impact. Digital noise, glitches, and signal interference sounds as if the footage is corrupted. With intense electronic noise, the screen goes completely black. Cinematic, humorous, unpredictable otherworldly adventure, dynamic camerawork, movie-grade animation quality, rich environmental details, vivid colors, and an overwhelming sense of speed.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064518682429227008/img/9Nw1RHEr3stdTXTc.jpg" width="600" alt="Anime Style Underwater to Beach Transition">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fb926a1c98c1b6b14c68900c9b1c9a64/thumbnails/thumbnail.jpg" width="600" alt="Anime Style Underwater to Beach Transition">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5855)**
 
@@ -2323,7 +2323,7 @@ Shot 4 (9–13s) — BULLET TIME PAYOFF: The crocodile lunges through after it. 
 Shot 5 (13–15s): Time snaps back. The shockwave flattens the water. The speedboat skids out into the open river below, the driver looking back at the burning gate, fist raised. Above, the gunner lowers the smoking launcher and keys his radio: "Gate's closed." Cut.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064518373866921984/img/76d7h_L28i3ny1ik.jpg" width="600" alt="Mega Crocodile vs Dam Military Operation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f53b7ecfff20c0e74c93fd7d71c03c20/thumbnails/thumbnail.jpg" width="600" alt="Mega Crocodile vs Dam Military Operation">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5893)**
 
@@ -2352,7 +2352,7 @@ Shot 4 (9–13s) — BULLET TIME PAYOFF: The humvee rolls off the ramp. Bullet t
 Shot 5 (13–15s): Time snaps back. The cargo plane lifts off at the runway's last meter, climbing steeply over the burning, tumbling carcass below. The soldier hangs onto the mangled ramp, wind howling, laughing like a madman. The wreck burns down the runway behind them. Cut.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064509655779524608/img/yAWpQwQe7giB4U73.jpg" width="600" alt="T-Rex vs Military Cargo Plane Action Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e00fa725e9bc3b6ec1c4402fde70e0ba/thumbnails/thumbnail.jpg" width="600" alt="T-Rex vs Military Cargo Plane Action Scene">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5891)**
 
@@ -2380,7 +2380,7 @@ Traveler standing tall on the far side as the portal violently seals behind them
 Extreme close-up of the portal imploding into a single point, sparks dying, slow cinematic push forward, glittering detail, dramatic light.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064503266147225600/img/25apufxKXTqRk_A2.jpg" width="600" alt="Sci-Fi Time Traveler Cinematic Video Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04d729ea94e009bab7891119e8c41f89/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi Time Traveler Cinematic Video Sequence">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5883)**
 
@@ -2401,7 +2401,7 @@ Handheld mobile phone footage at night on a fishing boat deck in the open ocean.
 Viral social media style, realistic night lighting, wet reflective surfaces, high tension and excitement, documentary-style handheld footage
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064501280555630592/img/QRhIfOK8JW1cIV9U.jpg" width="600" alt="Viral Shark Attack Fishing Boat">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd5d0af83b43c60de4672d1912820d3f/thumbnails/thumbnail.jpg" width="600" alt="Viral Shark Attack Fishing Boat">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5882)**
 
@@ -2420,7 +2420,7 @@ Viral social media style, realistic night lighting, wet reflective surfaces, hig
 Realistic fixed-camera short video comedy, two scenes, all characters are adults, fully clothed. Props are all plastic cartoon toys or safe comedy props. Overall absurd reversal comedy, not real violence, not bloody, not ambiguous, not suggestive. [00:00-00:07] Shot 1 - Fixed camera inside the car: Interior of a car at night, camera fixed on the center console, completely static: no zooming, no shaking, no panning. In the frame, a scruffy adult man (hf_20260506_032645_e6665446-0056-40fc-b99f-8d85619f8789) in a dirty white tank top is driving, with an adult woman in the passenger seat. Suddenly someone cuts in, the man brakes hard, lunges forward, and hits the steering wheel in anger. He pulls out an exaggerated cheap plastic cartoon knife, opens the door angrily. The woman urges: 'Don't go! I told you it's dangerous!' He ignores her, muttering: 'I just want to ask him a couple of questions!' and leaves the frame. The door slams, the woman stays, looking collapsed and helpless. [00:07-00:15] Shot 2 - Fixed camera reversal: Cut to a normal bedroom, medium shot, completely static. The scruffy man is lying on the bed, face in the pillow, looking pained as if reality educated him. The woman sits behind him (ref hf_20260609_173858_0a2ea93a-89fc-4376-a250-0d2e8ea60474 (1)), looking angry yet helpless. [00:07-00:09] The woman slaps the man's hip/lower back through his clothes with an exaggerated 'smack' sound, saying: 'See, I told you, don't go, it's too dangerous!' [00:09-00:12] She pulls out the plastic knife from a hidden pocket (ref hf_20260609_173858_0a2ea93a-89fc-4376-a250-0d2e8ea60474 (1)) then a badminton racket. The man winces with a funny regretful face, background sound of baby crying. [00:12-00:15] She keeps pulling out a long string of colored cloth strips, like a failed magic trick. The man buries his face, woman looks at the camera with a 'told you so' look. Sound: Brakes, tire friction, steering wheel slap, door sounds, muttering, anxious advice. Second scene has 'smack' sound, plastic toy friction, racket sound, cloth rustling, mattress creak, baby crying. No music, no real screams. Style: Realistic low-budget comedy. First scene cold night light, second scene warm bedroom light. Natural but exaggerated movements, cheap plastic props, absurd reversal pace. Avoid: Real knives, real harm, blood, abuse, nudity, sexual hints, minors, extra characters, subtitles, watermarks, camera movement, shaking, distortion.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064488445188161536/img/8fK_pcpBLVFxb_uY.jpg" width="600" alt="Road Rage Absurdist Comedy Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57e48bde914c887eab018f56d21be52a/thumbnails/thumbnail.jpg" width="600" alt="Road Rage Absurdist Comedy Scene">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5872)**
 
@@ -2442,7 +2442,7 @@ The visual effects kick in (The Metamorphosis): As the transformation begins, he
 The final form reveals a suit composed of a fusion of black biological tissue and alien alloys, looking "living" and "growing" with pulsating textures. Faintly glowing red vascular lines or intricate circuitry trace the contours of the suit, culminating in deep, menacing red glowing eyes on the faceplate or helmet.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064470275828461568/img/o76eJqGz8VO-jUMW.jpg" width="600" alt="Alien Biological Suit Metamorphosis">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/92210fd629f7e921a5fda7c0898e4854/thumbnails/thumbnail.jpg" width="600" alt="Alien Biological Suit Metamorphosis">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5862)**
 
@@ -2461,7 +2461,7 @@ The final form reveals a suit composed of a fusion of black biological tissue an
 Realistic handheld phone footage of a large brown octopus attacking a scuba diver on the side of a white boat in the open ocean. A diver in a blue wetsuit with yellow oxygen tank lies on the boat deck while a massive octopus jumps at him and clings to the hull, its thick tentacles wrapped around the diver’s legs and body. The octopus powerfully pulls the diver toward the water, causing splashing and struggle. The diver resists but gets dragged off the edge. Dynamic camera follows the action with slight handheld shake, realistic ocean waves, natural daylight, and detailed textures on the octopus skin, wetsuit, and boat. Photorealistic, high detail, dramatic tension, documentary-style
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064463653957771264/img/b6gJ9TdMNyQWhN7G.jpg" width="600" alt="Octopus Attack Scuba Diver">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52cd00b23f9e31b12dc74351d9275b14/thumbnails/thumbnail.jpg" width="600" alt="Octopus Attack Scuba Diver">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5857)**
 
@@ -2490,7 +2490,7 @@ Shot 4 — It heaves its full weight seaward; the main pylon groans, folds — a
 Shot 5 — The wreckage drags the shrieking leviathan under, one fluke hammering the surface before the cables haul it down; the woman hangs from the bus doorway on a severed stay, swinging above the boil. The bridge it attacked is what drowned it. Slow aerial pull-back: the broken Sea Link, the sinking glow, the city lights indifferent behind the rain.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064441765424484352/img/4ZcUIDcsDE4d7tsN.jpg" width="600" alt="Kaiju Attack on Mumbai Sea Link">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e50e6c37c0362db861f7af31cc29136/thumbnails/thumbnail.jpg" width="600" alt="Kaiju Attack on Mumbai Sea Link">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5847)**
 
@@ -2515,7 +2515,7 @@ She gives him one brief, playful kiss — a quick, tender moment. Immediately af
 Captured like raw practical footage from a medieval fantasy movie — authentic 1960s film stock look with rich warm tones, natural imperfections, slight lens flares from torchlight, organic camera shake. The entire sequence unfolds in real time with theatrical blocking and timing reminiscent of classic adventure cinema.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064434136178429952/img/bNXiITp2rdIQYrJ5.jpg" width="600" alt="1960s Retro Cinematic Kiss Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0eceff23648d169ecef628a4db21c3e6/thumbnails/thumbnail.jpg" width="600" alt="1960s Retro Cinematic Kiss Scene">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5863)**
 
@@ -2554,7 +2554,7 @@ Style: ultra realistic transformation VFX, grounded anatomy, photoreal wolf beha
 Audio: realistic forest ambience, rain, heavy breathing, muscle shifting sounds, fur movement, distant thunder, animal growls, atmospheric wilderness sound design.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064407231076990976/pu/img/SamsbISGJUgYwQqy.jpg" width="600" alt="Cinematic Werewolf Transformation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/759545b95ebc2295541d80107204f076/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Werewolf Transformation">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5851)**
 
@@ -2581,7 +2581,7 @@ Palace Seoul, Marina Bay Sands Singapore, Santorini Greece, Petra Jordan, Neusch
 Each location features a unique stylish outfit matching the local vibe and a fun expressive pose such as waving, peace sign, namaste, finger heart, laughing, pointing at landmarks, thumbs-up, surprised reactions, dancing, or playful.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064401449648537600/pu/img/kXEzIMuRh23JzXL-.jpg" width="600" alt="Cinematic World Travel Hyper-lapse">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/064210ab16759252370df899ce7a54b8/thumbnails/thumbnail.jpg" width="600" alt="Cinematic World Travel Hyper-lapse">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5848)**
 
@@ -2602,7 +2602,7 @@ Each location features a unique stylish outfit matching the local vibe and a fun
 Generate a cinematic 15-second celestial fantasy character showcase sequence using the provided storyboard reference image Image 2 . Maintain strict consistency of Astrielle Image 1 throughout all shots —
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064395176693612544/img/-EnOAGotXI46jPF7.jpg" width="600" alt="Celestial Fantasy Character Showcase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb34c19da033640689a751c7e1da5276/thumbnails/thumbnail.jpg" width="600" alt="Celestial Fantasy Character Showcase">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5868)**
 
@@ -2621,7 +2621,7 @@ Generate a cinematic 15-second celestial fantasy character showcase sequence usi
 Cinematic Netflix documentary, 16-second sequence, 16:9, ultra-photorealistic 8K, ARRI Alexa Mini LF, anamorphic lenses, subtle lens flares, organic film grain. Premium fitness documentary color grade with warm golden highlights, deep shadows, realistic skin
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064387760027480065/img/vM9atcAy0dW-ZXrg.jpg" width="600" alt="Premium Fitness Documentary Style">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d42414e60e71a0edc2a74d3ed571f97f/thumbnails/thumbnail.jpg" width="600" alt="Premium Fitness Documentary Style">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5867)**
 
@@ -2650,7 +2650,7 @@ One worker casually reaches sideways to continue painting while standing on the 
 Authentic viral phone footage, documentary realism, believable human behavior, accidental discovery, “how is this even possible?” energy, no cinematic camera moves, no safety harnesses visible, meme-worthy but completely realistic.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064384954637889541/img/2L2YV8XScB7RqS2d.jpg" width="600" alt="Viral Construction Stools Footage">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a60ee6b38bbac25d2bba5d0decec7325/thumbnails/thumbnail.jpg" width="600" alt="Viral Construction Stools Footage">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5854)**
 
@@ -2669,7 +2669,7 @@ Authentic viral phone footage, documentary realism, believable human behavior, a
 Cinematic 8k video. An epic fantasy scene. A powerful sorceress with piercing, glowing neon-blue eyes, long dark hair blowing in the wind, and black leather armor adorned with glowing runes and sharp ice crystals on her shoulders. She stands in a rocky, bleak mountain pass. An army of dark knights charges toward her. She raises a glowing magical wand, channeling massive freezing energy. A powerful blast wave of frost and ice erupts from her position, rapidly expanding outward in a perfect circle, instantly freezing the charging army into detailed ice statues. Dramatic overhead drone shot showing the massive circular frost shockwave. Slow-motion, intense cinematic music atmosphere, high-end CGI, dark and gritty color grading, photorealistic, professional bokeh, intricate details
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064382926301835267/pu/img/cI3Ao2bwt9kwcA5g.jpg" width="600" alt="Sorceress Frost Shockwave">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0824c1c35a3cf3b1b95b22503a723017/thumbnails/thumbnail.jpg" width="600" alt="Sorceress Frost Shockwave">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5860)**
 
@@ -2692,7 +2692,7 @@ Ancient temple high in the mountains during bright daylight with waterfalls, sha
 Begins with dramatic wide shot above the mountains, rapid crash zoom into combat, whip pans following impossible acrobatics and spinning staff attacks, orbit shots around giant shockwave impacts, Epic anime-style impact frames and dynamic perspective distortion, debris and sunlight flooding the frame, the monk vaulting between collapsing pillars and running across airborne boulders while trading devastating blows with multiple colossal guardians, each strike generating expanding energy rings and cracking the mountain itself, ending with the monk ascending high above the battlefield in a burst of golden light before bringing his staff down in a godlike final strike that sends a colossal shockwave across the entire temple complex, vaporizing the remaining stone guardians instantly, shattering mountainsides and freezing the world in a moment of silence, dust clouds clearing to reveal the monk standing alone at the center of a massive crater while the shattered remains of every guardian collapse around him, sunlight breaking through the clouds as the camera slowly pulls back to reveal his absolute victory and the temple restored to calm beneath the mountains
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064373202889891840/pu/img/YqT7vAv-sQeIFfCG.jpg" width="600" alt="Anime Monk Temple Battle">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dcf1d449c9685675010538dcfd8dcf54/thumbnails/thumbnail.jpg" width="600" alt="Anime Monk Temple Battle">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5861)**
 
@@ -2711,7 +2711,7 @@ Begins with dramatic wide shot above the mountains, rapid crash zoom into combat
 Reggie steps off a vaporetto or onto a canal-side, adjusts monocle, delivers a “Welcome to Venice” line.  Slow push-in as he marvels at canals, calling it “London if someone forgot the roads.”  Spots a gondola and insists he needs “the cinematic entrance.”  Wide shot: he clambers into gondola, nearly tipping it, tries to stay dignified.  Cut to him seated, posing for camera, doing dramatic “influencer hand gestures.”  Gondolier starts singing; Reggie reacts with faux sophistication, then genuine awe.  Pigeons swoop overhead; quick cut of Reggie ducking, then pretending it was planned.  Passing under a bridge, he tries to deliver a serious history fact and clearly gets it wrong.  POV shot looking up at old buildings; Reggie calls it “the world’s fanciest water maze.”  Gondola brushes another gondola; brief awkward overlap, Reggie throws in a cheeky compliment or British sarcasm.  Jump cut to Reggie at a small floating café/bar, balancing espresso on the edge.  Extreme close-up: Reggie sips espresso, eyes widen at the strength, yet he pretends it’s “absolutely delightful.”  Quick montage: mini bites of cicchetti, approving nods, then one dramatic overreaction to a strong flavour.  Sunset shot on a small bridge; Reggie leans on the railing, bowler slightly askew.  Final line to camera, something like “Ten out of ten, but still no idea where the roads went,” with a jaunty waddle away.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064361525255553025/img/bnzRUmPZzJ98dmj5.jpg" width="600" alt="Reggie in Venice Canal Tour">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c13a64ad75212bff0e9364b400a302b3/thumbnails/thumbnail.jpg" width="600" alt="Reggie in Venice Canal Tour">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5871)**
 
@@ -2754,7 +2754,7 @@ Lighting: Warm window light, soft and clean.
 Avoid: Jitter, identity drift, staged ad feel, overexposed window.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064349984083062784/pu/img/VFl_zBrq4FcA14-D.jpg" width="600" alt="Morning Vlog Desk Setup">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bac09eab3dbd7985644b190355d89ec1/thumbnails/thumbnail.jpg" width="600" alt="Morning Vlog Desk Setup">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5858)**
 
@@ -2773,7 +2773,7 @@ Avoid: Jitter, identity drift, staged ad feel, overexposed window.
 Use the attached THE CRÊPE MAKER storyboard as exact visual reference. Create a 12-second 16:9 Pixar 3D animated sequence following all 8 shots exactly. Same stereotypical French man — black beret, navy and white striped shirt, white apron, charming
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064342509732438016/img/ZbwTFaE_JLtILS-m.jpg" width="600" alt="Pixar Style French Crepe Maker Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e83993ab4819d2f323abac532de20e8/thumbnails/thumbnail.jpg" width="600" alt="Pixar Style French Crepe Maker Animation">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5869)**
 
@@ -2811,7 +2811,7 @@ Cut 8: Sitting on a bench at sunset. Ribbon trails and hand-drawn lines gently e
 Overall, a world where real Tokyo scenery, chibi characters, and effects are strongly fused. The effects are not overly sci-fi but refreshing, light, and slightly poetic. The volume and movement of the effects are significantly increased to be dense in each cut, reacting firmly to the character's movements and emotions. The camera moves consistently in each cut.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064332980152410112/img/s17A-rTGlGTOSGRE.jpg" width="600" alt="Anime Chibi Fusion in Tokyo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/878923f1c6eba6e817ccbe6fb134cd76/thumbnails/thumbnail.jpg" width="600" alt="Anime Chibi Fusion in Tokyo">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5876)**
 
@@ -2836,7 +2836,7 @@ Dynamic camera movement, seamless transitions, slow-motion highlights, expressiv
 End with a dramatic hero shot of the headphones rotating against a cinematic city backdrop, subtle audio-wave visual effects, premium reflections, luxury product-commercial styling, shallow depth of field, high-end brand campaign look, flawless commercial cinematography, 16:9 aspect ratio, photorealistic, visually stunning.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064322270760439808/pu/img/Ia_j31f1QkRWAEFQ.jpg" width="600" alt="Urban Street Dance Commercial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f5a1828bea9f6c0787835c324e96e6e/thumbnails/thumbnail.jpg" width="600" alt="Urban Street Dance Commercial">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5853)**
 
@@ -2861,7 +2861,7 @@ The action intensifies as competitors launch from giant ramps built on volcanic 
 For the finale, the lead skater approaches a gigantic active volcano. A colossal eruption creates a natural lava-powered launch ramp. The skater performs an impossible multi-rotation aerial trick high above the crater before descending directly into the volcano. The finish line glows deep inside the crater. The athlete lands perfectly on a narrow platform at the volcano's center as lava erupts around them. Epic cinematic ending, intense energy, realistic physics, stunning volcanic visuals, ultra-detailed environment, no text, no watermark, no subtitles, movie-quality action.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064286260253118464/pu/img/4xKr73p7-moMCw5p.jpg" width="600" alt="Volcanic Island Skateboard Championship">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24be2398f7685082fdd4284581e52ca4/thumbnails/thumbnail.jpg" width="600" alt="Volcanic Island Skateboard Championship">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5870)**
 
@@ -2880,7 +2880,7 @@ For the finale, the lead skater approaches a gigantic active volcano. A colossal
 Japanese full-color anime film, cinematic high-quality video. No BGM/dialogue/text. Focus on slow, quiet movements. Butler character: Tall, slender, black hair, silver glasses, three-piece suit, white gloves. Scene: Dimly lit kitchen with soft sunlight. Cut 1: Stove igniting blue flame. Cut 2: Tightening necktie. Cut 3: Putting on white gloves. Cut 4: Scooping dry tea leaves. Cut 5: Adjusting glasses. Cut 6: Pot of deep orange tea steaming. Cut 7: Adding sugar. Cut 8: Adjusting pocket square. Cut 9: Adding condensed milk into tea. Cut 10: Pouring tea through a strainer into a pitcher. Cut 11: Brushing hair back. Cut 12: Placing a round ice ball in a glass. Cut 13: (Slow-mo) Pouring tea over ice. Cut 14: (Slow-mo) Adding milk to create two layers. Cut 15: Butler offering the finished glass.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064286114324836352/img/wPAIidH_NB9h73k2.jpg" width="600" alt="Butler Making Thai Tea Anime Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b995f15ba0534b09a437a9f9938e560/thumbnails/thumbnail.jpg" width="600" alt="Butler Making Thai Tea Anime Sequence">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5916)**
 
@@ -2899,7 +2899,7 @@ Japanese full-color anime film, cinematic high-quality video. No BGM/dialogue/te
 Modern 3D Chinese animation style. Scene 1: In an Egyptian palace, the shot starts inside the throne room. We see the majestic jackal god Anubis standing upright, arms in a T-pose. Standing beside him is a young human king, saying with a serious expression: "My dear Anubis, you must not be distracted." Anubis replies firmly and seriously: "As you wish, master." Scene 2: The human king smiles slyly and reaches toward Anubis's armpit, gently and smoothly tickling him with his fingers. Anubis's expression quickly turns bright; he tries hard to ignore the ticklish sensation, but he is far too ticklish. Scene 3: The human king continues to tickle Anubis's armpits. Anubis closes his eyes and grins broadly, letting out muffled giggles. The human king says "goochie goochie goo" while tickling. Scene 4: The human king continues to tickle. Anubis soon begins to laugh loudly, his arms moving away from the T-pose, but his armpits remain exposed. Scene 5: The human king continues tickling; Anubis laughs heartily and then wraps his arms around himself to protect his armpits, finally stopping the tickling. Scene 6: Anubis crosses his arms, lets out a few residual chuckles, and then his expression becomes serious again. He puts his hands on his hips, looking slightly annoyed at his master, saying: "Master, we agreed no tickling." The human king shrugs innocently and chirps playfully: "Oops." Anubis is muscular with rings on his arms and neck. His voice is deep and magnetic. The language is English.
 ```
 
-<img src="https://pbs.twimg.com/media/HKXSRh0aMAAEVfl.jpg" width="600" alt="Egyptian God Anubis Animation Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e7a13a32ae05ed7b865f15ed70161cee/thumbnails/thumbnail.jpg" width="600" alt="Egyptian God Anubis Animation Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5873)**
 
@@ -2944,7 +2944,7 @@ Final moment: the projector beam turns toward the camera , completely engulfing 
 Experimental cinema surrealism, analog projection aesthetics, dreamlike transitions, practical light interaction, 4K.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064286381673795584/pu/img/smrMtvwgK0qEqf-3.jpg" width="600" alt="Surreal Abandoned Movie Theater">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/461c3c843ba3b07316188e80e0e3ce4f/thumbnails/thumbnail.jpg" width="600" alt="Surreal Abandoned Movie Theater">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5859)**
 
@@ -2989,7 +2989,7 @@ Editing:
 Use rhythmic fast cuts, close-ups, low angles, top-down shots, quick pans, and smooth match cuts. Ensure the transformation is a continuous motion, not a slideshow. The character should move naturally through rotation, floating, and landing.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064277120331952128/img/fnVjNeGCzkrnK0h4.jpg" width="600" alt="Anime to Photorealistic Transformation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80693d68a6ef847235e631bbd6ab278/thumbnails/thumbnail.jpg" width="600" alt="Anime to Photorealistic Transformation">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5878)**
 
@@ -3008,7 +3008,7 @@ Use rhythmic fast cuts, close-ups, low angles, top-down shots, quick pans, and s
 Frame 1: 28mm wide lens fast aggressive push-in at ground level, energetic cartoon chef in white uniform and tall hat dramatically spinning around toward camera, chef pointing finger guns at cooking table with confident swagger, table sliding into perfect position
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064255734150545408/img/qFy8amAWL0rPsfsE.jpg" width="600" alt="Cinematic Animated Pizza Chef Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/943f37d89a186a3304910b2bda5ebfd1/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Animated Pizza Chef Sequence">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5866)**
 
@@ -3053,7 +3053,7 @@ Scene 7 (27-35s): Climax — he smiles with champion energy, raising arms in cel
 Ultra realistic cinematic style, film grain, anamorphic flares, sharp 4K, vertical 9:16. Triumphant, luxurious, empowering mood. Bold red velvet color grading, vibrant greens & golds.  packaging 100% accurate from reference image. Natural lip sync, snappy energetic cuts. No text overlays.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064245757142827008/img/wqVaQgMBBDzmLwVu.jpg" width="600" alt="World Cup 2026 Fan Experience">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1111e05bf2887771dfad2de13e8281b0/thumbnails/thumbnail.jpg" width="600" alt="World Cup 2026 Fan Experience">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5865)**
 
@@ -3072,7 +3072,7 @@ Ultra realistic cinematic style, film grain, anamorphic flares, sharp 4K, vertic
 CRITICAL INSTRUCTION: Do NOT display, reference, or reproduce any storyboard image, panel layout, reference photo, or sketch in the video output. All scenes must be original anime-style animation generated from the text descriptions only. Ignore any visual reference frame entirely. Please turn the storyboard sequence into a fast-paced cooking video following the order of the scenes. ## Style: High-quality Japanese anime film style, cinematic lighting, ultra-detailed food animation, shallow depth of field, soft natural summer lighting, macro close-up shots, slow cinematic camera movement, refreshing and bright summer atmosphere, gourmet cooking animation style with strong emphasis on texture and moisture. ## Editing: Use fast-paced, rhythm-driven cutting as the foundation, ensuring the cooking process is intuitively easy to understand. Apply match cuts (matching shape, motion, composition, and texture) to transition smoothly between scenes. The overall video should feel like an energetic and stylish anime film, with a strong focus on sizzle, freshness, and visual appeal. ### Scene 1 — Pounding and preparing the pork loin Close-up of anime-style hands gripping a wooden meat mallet, firmly pounding a thick pink pork loin cutlet on a wooden cutting board. The meat flattens slightly with each strike, fibers visibly loosening. Salt and pepper are sprinkled evenly across the surface. Subtle vibration ripples through the meat on impact. Hyperrealistic anime style, sharp kitchen lighting, cinematic shallow depth of field. ### Scene 2 — Coating with breadcrumbs Anime-style hands methodically coating a raw pork cutlet: first pressing it into a tray of white flour, then dipping it into beaten egg wash with golden drips falling back, finally pressing it firmly into a tray of coarse white panko breadcrumbs. Each layer adheres visibly. Hyperrealistic anime style, overhead dramatic lighting, close-up food detail. ### Scene 3 — Frying A panko-coated pork cutlet submerged in shimmering golden oil in a deep frying pan. Vigorous bubbles erupt around the edges, gradually settling as the crust turns deep amber and crispy. Light refracts through the hot oil surface. Steam rises gently. Hyperrealistic anime style, warm golden lighting, cinematic. ### Scene 4 — Slicing the fried cutlet A perfectly fried golden-brown tonkatsu rests on a wooden cutting board. Anime-style hands guide a large sharp knife, slicing the cutlet into even uniform strips. The crispy crust cracks cleanly with each cut, revealing tender white meat inside. Subtle steam escapes the cuts. Hyperrealistic anime style, dramatic top-angle kitchen lighting. ### Scene 5 — Simmering dashi and onions Inside a wide shallow pan on a gas stove, thinly sliced onion rings simmer slowly in dashi broth. The onions gradually soften and turn translucent, gently swaying in the amber liquid. Bubbles rise steadily from the bottom. Chopsticks occasionally stir the onions. Warm steam drifts upward. Hyperrealistic anime style, warm stovetop glow, cinematic close-up. ### Scene 6 — Placing the cutlet on the dashi Anime-style hands use chopsticks to carefully lay sliced tonkatsu strips side by side over the gently simmering onion and dashi broth in a shallow pan. The cutlet sizzles softly as it contacts the liquid. Golden breadcrumbs begin to absorb the broth slightly at the edges. Hyperrealistic anime style, warm amber kitchen lighting, close-up cinematic framing. ### Scene 7 — Pouring the beaten egg A slow, steady pour of beaten golden egg from a small bowl, spiraling gently over the simmering tonkatsu and onions in the pan. The egg cascades in a thin stream, spreading naturally across the surface, beginning to turn opaque at the edges where it meets heat. Hyperrealistic anime style, warm stovetop light, macro cinematic detail. ### Scene 8 — Egg slowly setting Inside the shallow pan over low heat, the poured egg slowly coagulates across the surface of the tonkatsu and onions. The edges firm into a soft golden custard while the center remains slightly runny and trembling. Gentle steam rises. No stirring — the egg sets naturally through residual heat. Hyperrealistic anime style, soft warm glow, intimate close-up framing. ### Scene 9 — Serving rice in a bowl A pristine white ceramic donburi bowl placed on a stainless steel counter. A rice paddle scoops a generous mound of steaming Japanese short-grain rice, placing it carefully into the bowl. The rice grains glisten slightly, tightly packed yet fluffy. Light steam rises from the surface. Hyperrealistic anime style, clean soft kitchen lighting, close-up cinematic. ### Scene 10 — Placing the cutlet and egg on the rice Anime-style hands use chopsticks to carefully slide the softly set egg-and-tonkatsu mixture from the pan directly onto the mound of white rice in the donburi bowl. The egg settles over the rice in a gentle wave. Broth seeps slightly into the rice at the edges. Steam rises from both layers. Hyperrealistic anime style, warm overhead lighting, close-up cinematic detail. ### Scene 11 — Egg glaze naturally settling The finished katsudon bowl rests still on the counter. The soft golden egg glaze slowly settles and spreads naturally over the tonkatsu strips and rice, pooling gently at the sides. The surface is lightly trembling, semi-set, glossy with broth. No hands visible — pure still life in motion. Hyperrealistic anime style, warm diffused lighting, slow cinematic push-in. ### Scene 12 — Presenting the finished katsudon A beautifully finished katsudon is presented in a traditional blue-and-white ceramic donburi bowl on a wooden surface. Golden soft egg drapes over crispy tonkatsu strips atop glossy white rice. A small sprig of green mitsuba garnish is placed delicately on top. Wisps of steam rise gracefully. Camera slowly orbits the bowl in a cinematic arc. Hyperrealistic anime style, warm dramatic food photography lighting, cinematic. ## Audio: Upbeat Japanese city pop melody (80s-inspired, bright and breezy) layered with light Koto plucking and chime-like percussion, evoking a cheerful summer lunch atmosphere. Tempo around 110–120 BPM to match the energetic cooking pace. Crisp, satisfying ASMR cooking sound effects throughout: - Sharp, rhythmic knife chopping on a wooden board - Rapid bubbling and rolling boil of noodle water - Crisp clinking of ice cubes dropping into a glass bowl - Rushing water as noodles are rinsed under cold running water - Soft ceramic clink as the finished bowl is set on the counter - Final sound: a single light wind-chime tone as the completed Hiyashi Chuka is revealed, evoking a refreshing summer breeze ## AVOID: - Do NOT show storyboard panels, panel borders, panel numbers, arrows, camera notes, action notes, captions, subtitles, UI overlays, or any annotations in the final video. - Do NOT replicate or display any reference image or sketch passed as input. - Do NOT show any source material, wireframe, or illustration used as reference.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064240589177344000/img/06Kh6I2UE8HfVRgA.jpg" width="600" alt="Anime Style Tonkatsu Cooking Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d285c79ccbbf4913b61d846e072bb31/thumbnails/thumbnail.jpg" width="600" alt="Anime Style Tonkatsu Cooking Sequence">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5877)**
 
@@ -3106,7 +3106,7 @@ Negative Prompt:
 no kissing, no bold or inappropriate actions, no exaggerated expressions, no blur, no distortion, no extra limbs, no low quality
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064227920818622464/pu/img/dnjJkjDBCo-NdEKq.jpg" width="600" alt="Romantic Cafe Dinner Date">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57b7e86b6080477b150a4d094adccf81/thumbnails/thumbnail.jpg" width="600" alt="Romantic Cafe Dinner Date">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5852)**
 
@@ -3125,7 +3125,7 @@ no kissing, no bold or inappropriate actions, no exaggerated expressions, no blu
 @ Img use attached photo as the main character, preserve identity. Vertical 9:16 smartphone UGC style, handheld. Night in São Paulo. Character jumps from a 25-floor rooftop helipad, freefalls into an elastic stunt pad, and bounces back up to the roof. Realistic physics and motion blur. Ends with friends celebrating. Authentic viral thrill-seeking energy.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064221349246390272/pu/img/oGDrg4-iD68FvMiQ.jpg" width="600" alt="Extreme Rooftop Jump Viral Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6ead3f5036903116eb24dc156a1ed6cb/thumbnails/thumbnail.jpg" width="600" alt="Extreme Rooftop Jump Viral Video">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5856)**
 
@@ -3199,7 +3199,7 @@ Title: Urban Square Giant Vision Assembly
    Do not place subjects from the reference image outside the screen. No horizontal ultra-wide screens. No logos, watermarks, or text labels. Avoid dark, dull colors or low contrast.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064180565163843584/img/FoSS66gO-zJRe8-H.jpg" width="600" alt="Urban Square Giant Vision Assembly">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a2579a2aaa9446bab579789775b9aa6a/thumbnails/thumbnail.jpg" width="600" alt="Urban Square Giant Vision Assembly">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5827)**
 
@@ -3218,7 +3218,7 @@ Title: Urban Square Giant Vision Assembly
 A cinematic 15-second tracking shot inside a grand gothic cathedral hall. A beautiful young witch from Beauxbatons Academy stands at the center, wearing an elegant powder-blue tailored coat, matching wide-brimmed pointed hat, and silk necktie. Dark masked figures in flowing black cloaks surround her in a threatening circle. The camera smoothly orbits around her as she performs a graceful balletic spin, unleashing a powerful vortex of glowing ethereal blue magic. Hundreds of luminous white butterflies emerge from the magical energy, swirling around her and pushing the dark figures backward. Crystal chandeliers shimmer overhead, arched windows cast moody blue and gold light, and magical particles fill the air. The camera transitions from a dramatic wide-angle view to an intimate close-up as a glowing white butterfly gently lands on her fingertips. Intense motion, dramatic low-angle perspectives, volumetric lighting, photorealistic fantasy film aesthetic, ultra-detailed textures, shallow depth of field, anamorphic cinematic composition, PBR materials, subsurface scattering, hyper-realistic, 8K, 24fps.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064179490889359360/pu/img/tF1wj_83WMzpMbla.jpg" width="600" alt="Beauxbatons Witch Magic Vortex Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21b63242ca006ba6455990fb14d1155d/thumbnails/thumbnail.jpg" width="600" alt="Beauxbatons Witch Magic Vortex Animation">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5849)**
 
@@ -3245,7 +3245,7 @@ Each location features a unique stylish outfit matching the local vibe and a fun
 Negative prompt: identity change, different ethnicity, younger or older face, blurry face, distorted hands, extra fingers, bad anatomy, low resolution, uncanny smile, missing watch, watch on right wrist, invisible landmarks, duplicate locations, outfit mixing, plastic skin, random people replacing the character.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064177287868874752/pu/img/_kteyHUBau-hwTH2.jpg" width="600" alt="Global Travel Vlogger Hyper-lapse">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a30e2183bacf6015f7a654782ce4601/thumbnails/thumbnail.jpg" width="600" alt="Global Travel Vlogger Hyper-lapse">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5864)**
 
@@ -3264,7 +3264,7 @@ Negative prompt: identity change, different ethnicity, younger or older face, bl
 Realistic unprocessed iPhone handheld video footage style, all camera settings automatic, no post-color grading or effects. Features real handheld micro-shaking and the operator's (male) breathing, with natural lens dipping or tilting due to subway train movement before quickly correcting. Autofocus occasionally searches, lags, or briefly loses focus, especially during body or hand movements. Auto white balance shifts naturally between cool and warm tones with cabin fluorescent lights and tunnel lighting. Overall flat image, preserving real lens flare, slight edge chromatic aberration, and motion blur flaws. Simulates CCD sensor effects with slight vertical smear, color bleed, grain noise, and purple/green fringes on high-contrast edges. Only uses in-camera natural ambient sound: low subway rumble, wheel-rail friction, passenger whispers, and clothing rustle; microphone may slightly distort during acceleration or large movements. First-person POV from a seated male's perspective (starting from a low-angle upward gaze), camera movement following the male's instinctive reactions. Extremely crowded cabin with no empty seats, background filled with passengers and blurred crowds for realism. Occasionally visible male leg, knee, or hand edge for position context. 15-second timeline: (Sequence: normal distance → female flirtatiously approaches chest but never touches → male endures then yields + surprised expression → female takes seat and laughs, removes mask → male tries to touch shoulder, female uses sanitizer): 0s: Camera from low seated POV tilts up toward a young Asian female wearing a white mask, holding a strap, looking at the male. No empty seats. Normal distance. Male notices, female's eyes crinkle playfully, she slowly approaches the camera in a flirtatious rhythm (chest gets close but maintains safety distance). Autofocus locks on her upper body; slight overexposure, CCD grain and color bleed visible. 1-4s: Female continues slow approach, chest distance within 20cm but never touches. Male endures (micro-shaking reflects stiffness, low gaze causes brief lens dip). Autofocus searches then pulls back; CCD vertical smear visible. Clothing rustle and male's suppressed breathing/heartbeat audible. Train swaying tilts the frame. 5-7s: Male yields: POV rises and shakes (standing up hurriedly), moves right to pull away. Female smoothly sits in his vacated seat (seen from side-back POV). Overcrowded environment makes the seat-taking impactful. White balance drifts slightly; frame underexposes then compensates. 8-10s: Reversal detail: Male turns back awkwardly (POV); female smiles brilliantly under the mask. Male reaches out to touch her shoulder asking 'Why did you take my seat?'. Female laughs, leans back, eyes playful, takes out a white spray sanitizer and sprays his hand twice (spray sound and mist visible). Autofocus lag during hand movement. 11-13s: Female smiles more clearly, shakes head playfully. Flirtatious reversal. Around 12s, she slowly removes the mask, revealing a delicate face and full smile. Male turns back a second time (natural turn). Lens shaking and breathing continue. Light flare and CCD fringes. Girl's bell-like laughter audible over track rumble. 14-15s: Smile fades slightly to a playful smirk. Male looks at his cleaned hand. Camera dips then rises (weight shift). Slight framing imperfections. Consistent raw handheld video texture. All camera behaviors mimic iPhone physical characteristics, perfectly recreating the low-angle POV interaction.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064140494301446144/img/CqAWvShyAcyBIuQK.jpg" width="600" alt="Subway POV Interaction Prank Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37e7d2f1e4252c37acb84e83bf605420/thumbnails/thumbnail.jpg" width="600" alt="Subway POV Interaction Prank Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5874)**
 
@@ -3298,7 +3298,7 @@ Realistic unprocessed iPhone handheld video footage style, all camera settings a
 }
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064047776715948032/img/_GjONmRlb_itOuN0.jpg" width="600" alt="Rainforest Travel Vlog Script">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b9d9e4d037d3248fbd1543e1d5bd8adc/thumbnails/thumbnail.jpg" width="600" alt="Rainforest Travel Vlog Script">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5825)**
 
@@ -3317,7 +3317,7 @@ Realistic unprocessed iPhone handheld video footage style, all camera settings a
 top-down glass of black coffee, a hand pours milk in, the milk blooms and swirls through the coffee
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064052894194671616/img/-lINHr1zuS4zyS3w.jpg" width="600" alt="Coffee and Milk Swirl Macro Shot">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d193bb680075e25184c7772764472e17/thumbnails/thumbnail.jpg" width="600" alt="Coffee and Milk Swirl Macro Shot">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5815)**
 
@@ -3336,7 +3336,7 @@ top-down glass of black coffee, a hand pours milk in, the milk blooms and swirls
 Use the attached THE CHURRO MAKER storyboard as exact visual reference. Create a 12-second 16:9 Pixar 3D animated sequence following all 8 shots exactly. Same young Spanish vendor, white t-shirt, red apron, bright outdoor churro cart, sunny cobblestone
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064031934842331136/img/AmC_k6EYT7L7ZUqC.jpg" width="600" alt="Pixar Style Churro Maker Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/829d66aec69f376fadddce3209613317/thumbnails/thumbnail.jpg" width="600" alt="Pixar Style Churro Maker Animation">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5831)**
 
@@ -3404,6 +3404,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-12T08:46:31.947Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-12T15:18:36.673Z</sub>
 
 </div>

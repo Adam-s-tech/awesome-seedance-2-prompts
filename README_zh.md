@@ -377,7 +377,7 @@
 第三幕：这位球迷原来是一位街头足球高手。她开启了一段精彩的个人秀，通过踩单车和转身等技术“技能”，盘带过掉了四名刚果队后卫。在最高潮处，她完成了一记强力的倒钩射门，皮球直挂死角。她与一位著名的葡萄牙足球明星拥抱庆祝，现场观众瞬间沸腾。所有幕次均保持原始的纪录片式 iPhone Vlog 质感，不进行后期处理或添加特效。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065245984045576193/img/ScfVoSV2QhG6D2Z1.jpg" width="600" alt="世界杯之旅 Vlog 提示词">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e4e223e6c83698a00da83cfbf32748d/thumbnails/thumbnail.jpg" width="600" alt="世界杯之旅 Vlog 提示词">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5954)**
 
@@ -403,7 +403,7 @@
 负面提示词：无文字、无 Logo、无 UI、无变形、无闪烁、无不自然的扭曲、无恐怖元素、无阴暗氛围、无尺寸变化。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065033629777219584/img/y1BBNIZ9uYcCSuor.jpg" width="600" alt="迷你滑板厨房大冒险">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a02dd33b7ccf02e5d3f7109d5386fe6/thumbnails/thumbnail.jpg" width="600" alt="迷你滑板厨房大冒险">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5959)**
 
@@ -422,7 +422,7 @@
 镜头 1：开场 0-2 秒，一位优雅的欧洲金发女性，扎着低马尾，身穿驼色羊绒大衣，内搭米色粗棒针高领毛衣，漫步在拥有精致石拱门和复古铁艺阳台的历史感欧洲鹅卵石街道上，黄金时刻的暖阳投下柔和的阴影，她停下脚步，单手去拿某样东西。镜头 2：2-4 秒产品展示，特写她优雅的手拿着时尚的哑光银色无线耳机盒，透明盖子露出内部纯白色的耳机，柔和的自然光突显出高级的金属质感，她用纤细的手指打开盖子，背景是虚化的欧洲建筑，呈现出户外咖啡馆露台的氛围。镜头 3：4-6 秒佩戴，转场至她的侧脸再到正面，将白色无线耳机戴入耳中，表情自信从容，带着淡淡的微笑，双眸明亮专注，镜头平滑推进，耳机与米色高领毛衣及整体极简美学完美融合。镜头 4：6-9 秒生活方式，她继续在欧洲街道漫步，佩戴着耳机，镜头跟随拍摄，捕捉时尚与科技的融合，交替展示耳机细节、自信的目光以及手指触碰耳边金发捕捉暖阳的画面。镜头 5：9-11 秒细节镜头，产品核心剪辑，超近距离拍摄耳机放入耳中的过程，哑光银色耳机盒盖清脆的闭合声，耳机指示灯亮起，浅景深效果呈现欧洲建筑背景虚化，高级材质特写强调其流畅设计。镜头 6：11-13 秒氛围，电影感广角镜头，她站在欧洲广场上，金色的光线营造出戏剧性的轮廓光，她短暂闭上双眼沉浸在音乐中，发丝随风飘动，镜头缓慢推进，营造出情感共鸣。镜头 7：13-15 秒结尾，最终优雅的广角镜头，她站姿自信，双耳清晰可见佩戴着白色耳机，手持哑光银色耳机盒，欧洲建筑作为框架，采用青橙色调的电影级色彩分级，暖金色光线，带着自信的浅笑，全程平滑顺畅的转场，带有胶片颗粒质感。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065171629211066368/img/48gyozZk4FbMW-Ta.jpg" width="600" alt="奢华无线耳机产品展示">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1ec6f1292c1bcbfb9f147e2b7a405d74/thumbnails/thumbnail.jpg" width="600" alt="奢华无线耳机产品展示">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5937)**
 
@@ -441,7 +441,7 @@
 一段电影感视频，以围绕轮胎内微缩球场的 360 度缓慢平移镜头开场，捕捉微缩球员的动作和欢呼的观众。随后镜头平滑地推向球场，从广角过渡到低角度的微距特写，追踪阿根廷队和葡萄牙队球员在草地上的激烈对抗。观众兴奋地跳跃，动作同步且清晰可见，慢动作挥舞着旗帜。高保真球场音效：观众的欢呼声、鼓声、哨声，以及足球被踢动时细微而真实的声响，在轮胎结构内产生轻微回声。电影级灯光配合动态阴影随镜头移动在球场上变换，增加了深邃的质感和超写实的戏剧效果。高帧率配合平滑的动态模糊，呈现出专业的视频质感。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065138936519827456/img/Y0lsNqnsndDxTg1M.jpg" width="600" alt="轮胎里的微缩世界杯球场">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6499c56e92d03d058fd7c591391accf1/thumbnails/thumbnail.jpg" width="600" alt="轮胎里的微缩世界杯球场">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5950)**
 
@@ -460,7 +460,7 @@
 FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由旋转落叶形成的参天漩涡。金红色颗粒在镜头周围加速飞舞，最终自然地排列成“WILD”字样，随后被风暴吹散。动感自然，极具电影美感。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065096720355127296/pu/img/J8d1mQGiQ4PjwQc0.jpg" width="600" alt="秋叶漩涡文字视觉特效">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d31b26cbd1ed91546f4cfc7cc95cedf7/thumbnails/thumbnail.jpg" width="600" alt="秋叶漩涡文字视觉特效">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5938)**
 
@@ -575,7 +575,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 无仓促的节奏。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065091227402514432/pu/img/KmekL-nT1MpHK_Ll.jpg" width="600" alt="逼真的 Omegle 聊天互动">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/38e8bcea4395c5ba3a242a9d97fcd143/thumbnails/thumbnail.jpg" width="600" alt="逼真的 Omegle 聊天互动">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5932)**
 
@@ -594,7 +594,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 从观众席第三排用手机拍摄的第一人称手持镜头，画面略有晃动，镜头高举过前方人群。白天的一个大型户外日本剧场舞台，还原了日本封建时代的村庄大门
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065078297008979969/img/g-ugqls75sm-yXx_.jpg" width="600" alt="日本封建时代村庄剧场第一人称视角">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da98aad382c7ada2b9274265630c3e2d/thumbnails/thumbnail.jpg" width="600" alt="日本封建时代村庄剧场第一人称视角">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5945)**
 
@@ -613,7 +613,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 一只奢华腕表从黑暗中浮现。极具张力的微距镜头捕捉齿轮转动与指针走时的细节。金色火花与漂浮粒子环绕在腕表周围。摄像机围绕腕表旋转，戏剧性的光束在蓝宝石水晶镜面上反射。慢动作水花在腕表周围凝固于半空。机械组件自动组装。电影级黑金配色环境，高级商业灯光，超写实反射，奢华生活方式广告，震撼的管弦乐氛围，平滑的运镜，产品主视觉镜头，品牌展示，好莱坞级商业大片，8K 极致写实。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065078706276864000/img/-K9mrAcsDm1SW72r.jpg" width="600" alt="奢华腕表商业动画">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a5760b4e6c1671f3c7b730573664ff0c/thumbnails/thumbnail.jpg" width="600" alt="奢华腕表商业动画">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5935)**
 
@@ -643,7 +643,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 全片无特效转场，镜头衔接丝滑，运镜低调舒缓，动态自然流畅，发丝物理运动逼真，4K 超清，规避机械 AI 感，画面具备实拍的松弛质感。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065071563121311745/img/cYCcpZGmYjV3eBPq.jpg" width="600" alt="高铁旅途电影感纪录片">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01f93576fe0bb3c4ff0c1dfdae3e8993/thumbnails/thumbnail.jpg" width="600" alt="高铁旅途电影感纪录片">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5952)**
 
@@ -662,7 +662,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 在 Seedance 2.0 中创建一个 15 秒的视频。角色“WAGAHAI (orthographic views)”快乐地飞来飞去，手中拿着一个带有“Flova ai logo”的标牌项目。随后，角色愉快地靠近镜头，将脸部和标牌项目贴近镜头，开心地微笑。最后，屏幕上出现手写文字“WAGAHAI meets Flovia.ai”。画面明亮且具有流行感，配有欢快的背景音乐，无字幕。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065067302207492096/img/RQjfBB4Dqaye5aLj.jpg" width="600" alt="带有 Logo 项目的动画角色">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b2571be177a0b1f7faeb6b419ee6a63/thumbnails/thumbnail.jpg" width="600" alt="带有 Logo 项目的动画角色">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5955)**
 
@@ -686,7 +686,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 场景 5：这位真实女性转过头，自信地直视镜头，手中拿着粉底液瓶。照片级真实感，柔和的电影级布光，平滑的转场，高端美妆广告美学。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065058665653235712/pu/img/jjAWZEkQ1zmtSAjy.jpg" width="600" alt="奢华粉底液广告创意">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f267e2980a9677d378f95b5788007fe7/thumbnails/thumbnail.jpg" width="600" alt="奢华粉底液广告创意">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5943)**
 
@@ -717,7 +717,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 风格：超写实、电影感、激烈的垂直动作、真实的物理效果、雨水、玻璃倒影、火花、烟雾、戏剧性光影、快速但清晰的镜头运动、高细节、无文字、无 Logo、无慢动作、非卡通风格、无额外主要角色。保持比例。保持风格和特征。宽高比 16:9。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064828582044594176/img/h9kGiXzxCIhyZav6.jpg" width="600" alt="电影级电梯坠落动作场面">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96be6bd2cff486275193b1e49e635394/thumbnails/thumbnail.jpg" width="600" alt="电影级电梯坠落动作场面">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5934)**
 
@@ -736,7 +736,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 第 1 帧 - 对峙 (1.5 秒)：28mm 变形镜头 f/2.8，地面视角快速激进的推拉镜头，英雄男孩的蓝色光环与邪恶克隆人的红色光环缓慢向彼此扩张，光环交汇处紫色能量闪烁，上方是带有闪电的卡通暴风雨天空，
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065021597178814464/img/XkuDDBebIfdYRIoq.jpg" width="600" alt="卡通战斗场景动画帧">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cffeed0bd1d382247e744d73140dbeb/thumbnails/thumbnail.jpg" width="600" alt="卡通战斗场景动画帧">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5951)**
 
@@ -774,7 +774,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 禁止改变角色。禁止将女性变成雕塑。禁止更改场景。禁止出现文字、Logo 或人群。禁止滑稽。禁止混乱的破坏。禁止过度模糊。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065020898713927680/img/OkVfd2M-TmrmkeMh.jpg" width="600" alt="大理石画廊：舞动觉醒">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88ec0c4e71d971e50dc87c0ba7561d75/thumbnails/thumbnail.jpg" width="600" alt="大理石画廊：舞动觉醒">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5958)**
 
@@ -812,7 +812,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 将提供的 3x4 故事板制作成流畅的电影级视频。保持准确的镜头顺序和连贯性。使用纤维缓慢解开融入大地、苔藓孢子绽放、雨水落在原始织物上以及幼苗生长等效果。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065010781075431424/pu/img/fKxCzQ2yTu5_zfvS.jpg" width="600" alt="电影级故事板自然动画">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0e6c2553ca7b7108275bc954a0d455f/thumbnails/thumbnail.jpg" width="600" alt="电影级故事板自然动画">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5946)**
 
@@ -857,7 +857,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 由 @runwayml 制作
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065011189948571648/pu/img/cNDGILwLjhZfgCVp.jpg" width="600" alt="登山者化身为金雕的变身序列">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a098b23043c96943655faa6018e45673/thumbnails/thumbnail.jpg" width="600" alt="登山者化身为金雕的变身序列">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5941)**
 
@@ -876,7 +876,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 请使用随附的“Tanghulu Master” storyboard 海报作为精准的视觉参考，生成一段 12 秒、16:9 的中国风动画美食广告。请勿生成动态海报，而是将 8 帧 storyboard 转换为连续的视频镜头。请严格遵循 1-8 的顺序，每个镜头时长约为 1.5 秒。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065007169389670400/img/VOh9XjcruEtpUgWO.jpg" width="600" alt="Seedance 2.0 糖葫芦动画美食广告">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/536aa592dc24e6b5619b8ffc78e0d038/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 糖葫芦动画美食广告">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5953)**
 
@@ -907,7 +907,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 9–10 秒：海盗端上餐点，并向鹦鹉滑去一小碟酱汁和面包。鹦鹉开心地蹦跳着，在海盗身边享用美食。温暖的灯笼光影，船身轻轻摇晃，柔和的手风琴声渐弱。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065003071718002688/pu/img/qPNoNbKanm8QAw7l.jpg" width="600" alt="海盗厨师与鹦鹉的 ASMR 喜剧">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78eff3fa52a8608879a4323a3bd64c12/thumbnails/thumbnail.jpg" width="600" alt="海盗厨师与鹦鹉的 ASMR 喜剧">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5940)**
 
@@ -944,7 +944,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 重要提示：禁止静态 Slides 展示；确保所有元素（摄像机、环境、特效）都在运动。墨水/油漆必须具备物理属性（反弹、滴落）。画面中不得出现文字、Logo 或 UI。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064989452888612864/img/JH84ddvcfD6yuk9H.jpg" width="600" alt="东京城市墨迹飞溅蒙太奇">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2a8d1bfb3952a02365230c010583b412/thumbnails/thumbnail.jpg" width="600" alt="东京城市墨迹飞溅蒙太奇">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5957)**
 
@@ -985,7 +985,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 超写实视觉效果，IMAX 电影级画质，细节锐利，情感沉浸式叙事，自然光效，电影级景深，极具表现力的女性形象，真实且具人文关怀。角色的面部必须与参考图像完全一致，确保在整个镜头中保持面部特征和身份的连贯性。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064975836491710464/pu/img/hE9TggDsNLESqX4s.jpg" width="600" alt="“一日生活”连续长镜头">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed40dc82ab894fe1157df2edffeeb459/thumbnails/thumbnail.jpg" width="600" alt="“一日生活”连续长镜头">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5936)**
 
@@ -1016,7 +1016,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 在最后时刻，来自不同国家的球员聚集在一起，共同举起世界杯奖杯，彩带洒满天空。镜头拉远，展现出全球数百万球迷同时庆祝的画面。史诗感、情感充沛、鼓舞人心、真实的观众反应、无缝转场、电影级灯光、通过足球实现全球团结，无文字，无水印，无字幕。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064971235998806016/pu/img/jyTkefKodSf-vsG6.jpg" width="600" alt="全球足球世界杯之旅">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f6539c58e05a803366b2ebaf610536/thumbnails/thumbnail.jpg" width="600" alt="全球足球世界杯之旅">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5947)**
 
@@ -1035,7 +1035,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 赛博朋克霓虹武士对决（高能动作病毒式风格）15 秒超电影感赛博朋克视觉特效对决，变形镜头光晕，8K 超写实，霓虹黑色电影风格的雨夜新宿小巷，倾盆大雨伴随逼真的水花和湿沥青路面的倒影，粉色/青色体积光，高快门速度配合动态模糊，逼真的物理效果与风格化的慢动作冲击相结合，火花与能量冲击波，无文字/标志，武士面部、发光的神经链接和武士刀在整个过程中保持一致，无变形或多余肢体。0–2 秒：极低角度追踪镜头，带有发光蓝色神经链接的赛博武士在倾盆大雨中大步前行，武士刀发出嗡嗡的电流声。2–4 秒：全景快速摇镜头，全息守卫显现，武士发起流畅的剑术连击，刀刃碰撞迸发出明亮的火花。4–6 秒：中景 120fps 追踪镜头，低位横扫踢将一名守卫踢飞，镜头跟随腿部弧线捕捉逼真的雨滴飞溅。6–8 秒：子弹时间 360° 环绕，武士用震动的武士刀格挡数字子弹雨，在慢动作中产生扩散的蓝色能量环。8–10 秒：垂直慢动作跳跃旋转，强力的下劈击碎沥青路面，混凝土碎片和雨滴呈完美球状向上炸开。10–12 秒：武士反光面罩的特写快速摇镜头，霓虹灯闪烁，他转身面对最后的守卫。12–14 秒：眯起双眼的极近特写，武士刀伴随着清脆的金属撞击声和电流释放入鞘，背景霓虹光斑虚化。14–15 秒：快速拉远全景，武士在沉降的雨水和碎片中以戏剧性的英雄剪影定格，取得胜利。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064965007339597824/img/Kg6afbkHuCUZZ6tB.jpg" width="600" alt="赛博朋克霓虹武士对决">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a8cc2f775e8dba2bc856d6a52bcac6e/thumbnails/thumbnail.jpg" width="600" alt="赛博朋克霓虹武士对决">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5890)**
 
@@ -1064,7 +1064,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 镜头缓慢拉远。员工一动不动地站着，香烟燃烧着，盯着空白的墙壁，随后缓慢看向老板。老板安静地整理领带和西装，表情毫无变化。定格在两人沉默的镜头中 2 秒。冷幽默风格，逼真的光影转换，超写实电影级调色。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064950579357741056/pu/img/e2KZ-RpNt8nOj86J.jpg" width="600" alt="办公室会议室的冲突与反转">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09347e01a64bf47507557d6323fb01b2/thumbnails/thumbnail.jpg" width="600" alt="办公室会议室的冲突与反转">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5939)**
 
@@ -1094,7 +1094,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 模糊，阴暗场景，恐怖，写实人类，低质量，文字错误，扭曲的面孔，多余的肢体，丑陋的解剖结构，暗淡的色彩，低饱和度，构图糟糕，水印，标志，角色被裁剪，恐怖表情，阴郁氛围，节奏仓促，运动伪影。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064950143951208448/pu/img/4hOZcR3OW8_SDG-f.jpg" width="600" alt="奇幻王国喜剧动画">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8931cc2dfdf9b6de55e8d058a009c1c1/thumbnails/thumbnail.jpg" width="600" alt="奇幻王国喜剧动画">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5949)**
 
@@ -1161,7 +1161,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 卡通，动漫，低分辨率，模糊，低多边形，翅膀重复，多余肢体，解剖结构畸形，文字，Logo，水印，抖动，闪烁，高光过曝，阴影浑浊，月球形状不一致，城市透视失真，过度运动模糊
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064944099686256640/img/Z-ty51fESVfF_DxU.jpg" width="600" alt="空灵月蛾变身">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/41c8e13b1c6afa6c879b73f7526c7ea5/thumbnails/thumbnail.jpg" width="600" alt="空灵月蛾变身">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5942)**
 
@@ -1194,7 +1194,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 皮克斯风格 3D 动画，情感叙事，电影级运镜，富有表现力的人物动画，温馨的室内环境，充满活力的体育场氛围，全球足球狂热，温暖的灯光，励志氛围，超精细视觉效果，电影级渲染，16:9 YouTube 格式。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064929740981686272/pu/img/ECV-h136KN6ouhbS.jpg" width="600" alt="皮克斯风格足球热情动画">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2606dd477ea73bedc9bfbca6f85f355a/thumbnails/thumbnail.jpg" width="600" alt="皮克斯风格足球热情动画">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5930)**
 
@@ -1239,7 +1239,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 “最终之旅……”
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064840058172264448/pu/img/FX9mTHLkH0TH7IYp.jpg" width="600" alt="极限游乐园大冒险">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e3ced5dd355ffaac286078b617ca8c96/thumbnails/thumbnail.jpg" width="600" alt="极限游乐园大冒险">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5933)**
 
@@ -1264,7 +1264,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 身后的体育场灯光亮起。人群爆发出阵阵欢呼。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064916586058969088/pu/img/re69dRtTZxagpTjg.jpg" width="600" alt="电影级体育纪录片之旅">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/361f3c0d3072002ca5d5b03c388f2248/thumbnails/thumbnail.jpg" width="600" alt="电影级体育纪录片之旅">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5931)**
 
@@ -1311,7 +1311,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 夜晚游乐园的压轴戏，到处都是闪烁的灯光，女孩微笑着俯瞰灯火通明的游乐园，梦幻般的氛围，电影感结尾镜头，高细节，写实 Vlog 风格。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064652946722201600/pu/img/kOA7vh9NKOP3pr5K.jpg" width="600" alt="电影感女孩生活 Vlog">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3cb8311fc3ef30fed41a1c82f50f8104/thumbnails/thumbnail.jpg" width="600" alt="电影感女孩生活 Vlog">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5944)**
 
@@ -1338,7 +1338,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 梦幻般的电影氛围，柔和的焦外成像，轻柔的镜头光晕，空气中漂浮的闪烁尘埃，温暖的柔和色调，高度细腻的皮肤纹理，充满情感且令人着迷的自爱时刻。超写实，流畅的自然动作，16:9，15 秒。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064866020766949376/img/a5fgWtf9qGl3h4P0.jpg" width="600" alt="神奇护肤晨间仪式">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4706b01e54af6dd08676622c9c14d17/thumbnails/thumbnail.jpg" width="600" alt="神奇护肤晨间仪式">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5948)**
 
@@ -1357,7 +1357,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 经典 90 年代迪士尼动画风格。场景 1：在一个高科技地牢中，一只强壮的老虎仰卧在桌子上，腹部被皮带固定住。老虎愤怒地环顾四周，问道：“这是哪里？”场景 2：两只戴着白手套的机械臂从桌子旁的地板中伸出，向老虎靠近。老虎困惑且不安地看着它们。场景 3：戴手套的手开始轻轻挠老虎的肚子。老虎立刻咧嘴大笑，咯咯笑着扭动身体，用它特有的笑声说道：“噢，别这样，我很怕痒！”手继续挠着。场景 4：手继续挠痒；老虎咯咯笑着扭动，放下爪子试图保护肚子。场景 5：一只手套抓住老虎的手腕并将其举过头顶。老虎在咯咯笑的同时感到困惑。另一只手套挠着它暴露的腋下。这让老虎歇斯底里地大笑，并试图放下爪子。场景 6：戴手套的手继续挠腋下，老虎大笑。英语配音。全程仅出现两只机械臂。
 ```
 
-<img src="https://pbs.twimg.com/media/HKfSei8XkAEyBu9.jpg" width="600" alt="经典 90 年代迪士尼风格老虎动画">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/94c94ee05ae84ce61f31be250842344a/thumbnails/thumbnail.jpg" width="600" alt="经典 90 年代迪士尼风格老虎动画">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5905)**
 
@@ -1376,7 +1376,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 镜头冲向一台星球大小的工业机器，它正在将整个世界撕裂。广阔的大陆彼此分离，发光的能量裂纹在表面蔓延。两艘高速飞船在国家大小的移动构造板块间穿行，熔岩般的光芒向上喷涌至太空。整座山脉从镜头前漂过。飞船穿梭在分离的陆地与附着在行星地壳上的巨型工业装置之间，在不可思议的缝隙中灵活穿行。标志性的一幕发生在悬浮于行星裂缝之上的透明控制球体内。最终，镜头拉升至毁灭区域上方，展现出整个世界如花朵般在它们下方绽放的景象。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064838296304312320/img/8cijVAigbXT2hEAD.jpg" width="600" alt="破碎星球：工业毁灭">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68907d51a4990fff962c7c1cbedaaac1/thumbnails/thumbnail.jpg" width="600" alt="破碎星球：工业毁灭">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5902)**
 
@@ -1395,7 +1395,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 {{Image 1}} = 分镜参考。基于所附的分镜图像 {{Image 1}}，创作一段高质量的 15 秒横向 16:9 视频。主题：“水墨画与真人实拍交织的京都”。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064836489591304192/img/DgRfC_fPdvL-Hchc.jpg" width="600" alt="京都水墨画与真人实拍的融合">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f8507fd69cebc4dfa68b95490653efa/thumbnails/thumbnail.jpg" width="600" alt="京都水墨画与真人实拍的融合">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5913)**
 
@@ -1426,7 +1426,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 风格：超写实，电影感，快节奏，戏剧性光影，霓虹蓝与橙色倒影，逼真的动态模糊，强烈的镜头运动，高细节，无文字，无 Logo，无慢动作，非卡通风格，无额外角色。保持比例。保持风格与特征。宽高比 16:9。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064819125793304576/img/ofw-8DdEIfow6gLN.jpg" width="600" alt="《重力劫案》科幻序列">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5677e3829d8641c7a0cff7953d2ee957/thumbnails/thumbnail.jpg" width="600" alt="《重力劫案》科幻序列">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5889)**
 
@@ -1445,7 +1445,7 @@ FPV 镜头：穿梭于由秋叶组成的龙卷风中。摄像机进入一个由�
 POV 观众视角，手机手持拍摄，轻微的镜头抖动，手机高举过人群头顶。前景是密集的观众剪影，许多人举着手机和小型相机进行拍摄。日本户外剧场夜晚的超级英雄现场对决表演。舞台设计为昭和时代末期的东京夜间街道风格：霓虹灯招牌、电话亭、金属楼梯。两名成年女性演员进行好莱坞风格的超级英雄战斗。左侧角色使用红金色火焰能量；右侧角色使用蓝紫色念力。0 秒到 15 秒的详细时间轴包括能量爆炸、高速冲刺、肉搏战、终极技能碰撞以及中文对话。技术规格：竖屏手机手持拍摄，固定 POV，一镜到底，数字噪点，夜间户外照明。音频：人群欢呼声、能量冲击声、机械声、中文对话以及高潮时的掌声。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064802112504987648/img/HhKBovNCti5waMdz.jpg" width="600" alt="动漫超级英雄真人舞台对决">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a7c34d9e78decbdc6c59dd4a9d97de2/thumbnails/thumbnail.jpg" width="600" alt="动漫超级英雄真人舞台对决">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5907)**
 
@@ -1540,7 +1540,7 @@ POV 观众视角，手机手持拍摄，轻微的镜头抖动，手机高举过�
 以冒险才刚刚开始的感觉结束。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064776803713994752/img/mYDny7hVU9sVHyqn.jpg" width="600" alt="充满活力的印度旅行 Vlog 序列">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3042826eb2cb6b179d165e3bbc5224b4/thumbnails/thumbnail.jpg" width="600" alt="充满活力的印度旅行 Vlog 序列">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5886)**
 
@@ -1632,7 +1632,7 @@ POV 观众视角，手机手持拍摄，轻微的镜头抖动，手机高举过�
 “黑色黑曜石底座上的奢华香水瓶，金色微粒优雅旋转，深色高端背景，电影感”
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064781667626328064/pu/img/zAR1MH2pp-t9uM4n.jpg" width="600" alt="高端奢华香水广告脚本序列">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c57194fd3a65c3f85479b1098fc6658/thumbnails/thumbnail.jpg" width="600" alt="高端奢华香水广告脚本序列">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5895)**
 
@@ -1659,7 +1659,7 @@ POV 观众视角，手机手持拍摄，轻微的镜头抖动，手机高举过�
 逼真的人体运动，强大的动能，可信的跑酷技巧，动作快速清晰，落地冲击感自然，电影级摄像机运动，近距离跟拍时带有轻微的手持感，温暖的黄金时刻光影，戏剧性的镜头光晕，高细节，逼真的城市比例，紧张的冒险氛围，镜头间衔接流畅，无慢动作，无文字，无 Logo，无重复人物，无肢体扭曲。保持比例，保持风格与特征的一致性。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064779456019910656/img/YOc4PceF__5_kmP6.jpg" width="600" alt="黄金时刻屋顶跑酷追逐">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43d50dbc92db2d419c5b2b1f2890df82/thumbnails/thumbnail.jpg" width="600" alt="黄金时刻屋顶跑酷追逐">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5899)**
 
@@ -1680,7 +1680,7 @@ POV 观众视角，手机手持拍摄，轻微的镜头抖动，手机高举过�
 镜头以机车旁超低位的轮迹追踪开始，在完成不可能的跳跃时进行变速处理，快速摇镜头转向爆炸的卡车，通过火焰和崩塌的残骸进行 FPV 追逐，火花和沙子不断撞击镜头，戏剧性的橙色夕阳穿透风暴，结尾处机车手独自骑行冲出爆炸的沙尘暴，身后数十辆燃烧的车队残骸纷纷倒塌，镜头缓慢升起至宏大的航拍视角，展现出一条化为火海坟场的公路。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064735590579392512/pu/img/8gnzT4uHUxdegQJi.jpg" width="600" alt="《疯狂的麦克斯》风格赛博朋克机车动作序列">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b0044569898ef5d97418a5882fc5eae5/thumbnails/thumbnail.jpg" width="600" alt="《疯狂的麦克斯》风格赛博朋克机车动作序列">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5887)**
 
@@ -1705,7 +1705,7 @@ POV 观众视角，手机手持拍摄，轻微的镜头抖动，手机高举过�
 全程采用明亮的 MLS 体育场泛光灯，郁郁葱葱的绿色球场，座无虚席的体育场。左下角显示比分牌 —— MIA 5 CLB 1，时间 87:23。带有转播颗粒感和细微的压缩伪影，呈现真实的直播电视美学，观众镜头采用长焦镜头压缩效果，电影质感，4K 分辨率。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064725766269796352/pu/img/V0rHEF032Iiwm_y5.jpg" width="600" alt="Lionel Messi MLS 转播进球与庆祝画面">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b44a77aabcc7873cab95a2492edf893d/thumbnails/thumbnail.jpg" width="600" alt="Lionel Messi MLS 转播进球与庆祝画面">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5892)**
 
@@ -1726,7 +1726,7 @@ POV 观众视角，手机手持拍摄，轻微的镜头抖动，手机高举过�
 [10–15 秒]：漂移与甩尾转场。镜头在巨大的土坡顶部下方执行了一次低空扬尘动力漂移，此时一辆涂装霓虹色的拉力赛车正从头顶上方飞跃而过，其轰鸣的排气火焰灼烧着空气。利用排气回火产生的亮橙色闪光作为转场，镜头执行了一个剧烈的、带有动态模糊的 180 度向右甩尾——精准捕捉到一名身着赞助商标识赛车服的维修区主管，画面定格在她挥下格子旗并用戴着手套的手指直指镜头的那一瞬间。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064722838784024576/img/cdXs0du3wFKPIwN5.jpg" width="600" alt="沙漠峡谷 FPV 拉力赛">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2a9f7f3565c7a5ecd6bba66d87fd8521/thumbnails/thumbnail.jpg" width="600" alt="沙漠峡谷 FPV 拉力赛">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5898)**
 
@@ -1745,7 +1745,7 @@ POV 观众视角，手机手持拍摄，轻微的镜头抖动，手机高举过�
 无限宫殿内设有通往不同现实的门户，每个房间都展示了同一世界的不同版本，摄像机在不进行剪辑的情况下持续穿过传送门，实现宇宙间的无缝切换。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064721414872092672/img/P5fap7o4nvfvjNqm.jpg" width="600" alt="Infinite Palace Multiverse Portals">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c90e5bd6955098f9181ddf3bdf104e76/thumbnails/thumbnail.jpg" width="600" alt="Infinite Palace Multiverse Portals">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5897)**
 
@@ -1827,7 +1827,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 请勿连续使用相同的效果；呈现为一个高信息量、充满活力的视频，确保屏幕构图在 15 秒内不断变化。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064719067811045376/pu/img/6C6rYW-fBO2ujMMR.jpg" width="600" alt="高节奏 9 图故障风剪辑">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9374071c3c1d939341e9ce25d8a846b8/thumbnails/thumbnail.jpg" width="600" alt="高节奏 9 图故障风剪辑">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5911)**
 
@@ -1846,7 +1846,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 一段极具电影感、高对比度的动作视频，场景设定在极简主义的纯白画廊空间中。一位身着传统黑色武士和服、留着飘逸白发并佩戴白色鬼面具的角色，挥舞着一支巨大的日式书法毛笔。该角色动态地旋转并挥动毛笔，留下一道道悬浮在半空中的浓郁、流畅且具有三维质感的黑色水墨笔触。墨水神奇地幻化为一只凶猛、超写实的老虎和两条巨大的中国龙，在角色周围雄伟地盘旋。照片级 3D CGI，Unreal Engine 5 真实感，超清晰细节，Unreal Engine 5 渲染，深邃的黑色墨迹与明亮的白色背景形成强烈对比。慢动作扫视，跟随笔触的动态追踪镜头，流畅的粒子模拟，影棚灯光，8K 分辨率。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064710188654059520/pu/img/pJIkjoVTw_YYOSR0.jpg" width="600" alt="武士鬼面水墨艺术">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/519c122acd5bbadc7b6227a4180200f1/thumbnails/thumbnail.jpg" width="600" alt="武士鬼面水墨艺术">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5903)**
 
@@ -1865,7 +1865,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 请使用随附的 THE CINNAMON ROLL BAKER 分镜作为精确的视觉参考。制作一段 12 秒、16:9 的皮克斯 3D 动画序列，并严格遵循所有 8 个镜头。保持同一位年轻女性、奶油色围裙、温馨明亮的家庭厨房，以及贯穿始终的温暖金色晨光。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064706243650867200/img/CpFbln2K1ollFdCc.jpg" width="600" alt="皮克斯风格肉桂卷烘焙师">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b24ddaa8ae7a8b9e003a84203175b15/thumbnails/thumbnail.jpg" width="600" alt="皮克斯风格肉桂卷烘焙师">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5904)**
 
@@ -1894,7 +1894,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 风格：电影感，明亮奢华的自然光，鲜艳的调色，阳光下的镜头光晕，逼真的动态模糊，浅景深，大片级红毯电影画质。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064701553706213376/img/QgSbTIGxEULxwURl.jpg" width="600" alt="红毯电影级主角登场">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbb7541bf7d58e7f2350a779444278f4/thumbnails/thumbnail.jpg" width="600" alt="红毯电影级主角登场">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5900)**
 
@@ -1921,7 +1921,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 结尾处是一个令人惊艳的主镜头：这位女性在花园中央保持着优美的瑜伽体式，沐浴在温暖的晨光中。镜头缓慢拉远，展现出宁静的景观，营造出一种和谐、正念、健康以及与自然连接的感觉。超写实、电影级摄影、高端健康品牌广告、浅景深、柔和的自然色彩、平静的氛围、平滑的稳定器运镜、照片级真实感、16:9 画幅。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064680024788406272/pu/img/gI8K17-KDdtUVgKm.jpg" width="600" alt="宁静晨间瑜伽流">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fdfa1fb43bc96440e231358aa679648a/thumbnails/thumbnail.jpg" width="600" alt="宁静晨间瑜伽流">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5901)**
 
@@ -1940,7 +1940,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 第一人称手机手电筒视角。夜晚，推开一扇老旧公寓的门，镜头进入一间杂乱、潮湿且昏暗的卧室。一个女人蜷缩在角落里，看起来被困住了。具有写实感的恐怖短片质感，伴随轻微的手持晃动和清晰的呼吸声。镜头 1 (0-3秒)：门吱呀一声打开，灯光扫过房间，发现了神情惊愕的女人；镜头 2 (3-6秒)：她带着如释重负的微笑向镜头跑来；镜头 3 (6-9秒)：灯光闪烁，她停下脚步，用令人毛骨悚然的声音说道“你终于来了”；镜头 4 (9-12秒)：她的表情凝固，双眼反射出异常的光芒，说道“我等的不是救援……而是替身”；镜头 5 (12-15秒)：手电筒剧烈闪烁，她的脸扭曲成鬼魅般的模样，以跳跃式惊吓（jump scare）和关门声结束。风格：第一人称手机录制、数字噪点、运动模糊、压抑氛围、无背景音乐、无血腥。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064674036542504960/img/d5ruA3s0IHft_FeV.jpg" width="600" alt="第一人称恐怖遭遇">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/261ae7afaebb2bc3d06c17769cdb9479/thumbnails/thumbnail.jpg" width="600" alt="第一人称恐怖遭遇">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5908)**
 
@@ -2004,7 +2004,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 创作一段 15 秒的视频，让隐形的精灵与运动共存，自然地融入真实的车站空间。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064672408293068800/img/P2N1ocGjWxYZ0kIc.jpg" width="600" alt="城市涂鸦与都市精灵蒙太奇">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f85938371f2b825b479201afe0aa1615/thumbnails/thumbnail.jpg" width="600" alt="城市涂鸦与都市精灵蒙太奇">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5909)**
 
@@ -2023,7 +2023,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 15 秒动画足球动作短片。夜间体育场，泛光灯照明，欢呼声。旋转的足球是所有镜头中的核心对象，必须从始至终保持在画面中。两名竞争对手：对手 A = 长发狂野，身穿黑色球衣；对手 B = 短发，身穿 7 号海军蓝球衣。仅限全身动作镜头，采用展示球场的广角和中景镜头。0-4 秒：开球。两名球员同时踢球。足球在两人球鞋之间剧烈旋转，冲击波将两名球员向后震开。足球停留在中央，继续在草地上旋转。4-9 秒：对手 B 重新站稳，高速盘带旋转的足球。低角度广角追踪镜头：他的双脚、足球和草地始终保持在画面内。9-12 秒：对手 A 从后方滑铲。对手 B 将同一颗球挑向空中以躲避铲球。足球清晰可见，划出一道弧线升起。12-15 秒：对手 B 跳起，在空中完成一记带有闪电特效的凌空抽射。足球缠绕着蓝色电流，径直飞向球门。最后一帧：足球击中球网。连续性规则：整段视频中仅存在一颗足球，且在镜头切换间不会消失。负面提示：禁止角色特写、闪光或闪粉效果、静态姿势、对话场景、无球场景。[夜间体育场。泛光灯闪耀。足球位于中圈，在草地上缓慢旋转。人群的欢呼声震耳欲聋。][对手 A（长发狂野，黑色球衣）踏入场地。对手 B（短发，7 号海军蓝球衣）从另一侧踏入。两人同时击球。足球在碰撞的双脚间剧烈旋转，冲击波向外扩散。两名球员被震向后方。足球停留在中央，仍在草地上旋转。][对手 B 站起。低角度广角追踪镜头。他的双脚、旋转的足球和草地被固定在同一个画面中。他全速冲刺，足球在他脚下滚动旋转，飞速穿过球场。][对手 A 从后方发起滑铲，鞋钉撕裂草皮。对手 B 用脚尖接球，顺势将其挑起。足球越过滑铲的双脚，划出一道清晰的高弧线。][对手 B 跳跃。足球悬浮在空中。他的右腿发力，踢出一记带有蓝色电流的凌空抽射。足球拖着闪电尾迹如火箭般飞向球门。足球击中球网，球网向后弹开，人群沸腾。]
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064626904083333120/img/pbe5CQyKhDh_MI9N.jpg" width="600" alt="超维度 AI 足球动作大片">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/334a7d1251bf0d49a7a6b1a4da21ddb2/thumbnails/thumbnail.jpg" width="600" alt="超维度 AI 足球动作大片">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5912)**
 
@@ -2042,7 +2042,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 一段快节奏的科幻视频序列，背景是阴云密布下的高中塑胶跑道。一名身穿海军蓝配白色运动服的金发女子自信地向前走去，周围的学生纷纷逃离。她手腕上的机械蜘蛛迅速扩张，化作全身纳米科技盔甲——盔甲采用白、紫、金三色涂层，配有机械翅膀和发光的紫色头盔。一只巨大的岩石怪兽冲了出来，她随手一记强力的紫色能量波将其摧毁，引发了巨大的烟雾和碎片爆炸。镜头推进至特写，她的头盔收回，露出她微笑的面容，并对着镜头送出一个发光的紫色飞吻。电影级灯光，照片级真实视觉特效，8k 分辨率。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064608014934695936/pu/img/_Gi3k8G3kwVwYdpr.jpg" width="600" alt="纳米科技超级英雄盔甲变身">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29c55b68fdc4d6622f51729bf1bf2506/thumbnails/thumbnail.jpg" width="600" alt="纳米科技超级英雄盔甲变身">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5884)**
 
@@ -2104,7 +2104,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 最终电影序列：冰淇淋车驶向发光的郊区街道尽头，小男孩和小狗在金色的阳光下并肩同行。广角航拍镜头展现出宁静的社区，长长的日落阴影，温暖的情感氛围，治愈的家庭向结局，电影级景深，逼真的动画物理效果，生动的面部表演，感人的管弦乐配乐，皮克斯式叙事，传递出“善意将失望化为幸福”的主题。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064562625665732608/pu/img/DdV-PxKwtHvgNfob.jpg" width="600" alt="皮克斯风格：冰淇淋救援">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7bf2f26f2d4b54e248e13efa6338d2e9/thumbnails/thumbnail.jpg" width="600" alt="皮克斯风格：冰淇淋救援">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5896)**
 
@@ -2123,7 +2123,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 一位日本武士挥动长剑，相框右侧随之破碎。武士从框中走出，周身散发着黑色烟雾。一位日本武士挥动长剑。相框右侧破碎。武士从框内向右走出，同时散发着黑色烟雾。无文字，无镜头切换，无角色变化。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064555806897651712/img/CPd0kemWyoR7hXkr.jpg" width="600" alt="武士击碎相框">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a8b4432a1ac8b67474486cc10306a0ee/thumbnails/thumbnail.jpg" width="600" alt="武士击碎相框">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5879)**
 
@@ -2153,7 +2153,7 @@ Maya（泰国）优雅地坐着，怀抱她的喜马拉雅猫说：“最后这�
 在最后一次介绍后，摄像机拉回至广角镜头，展示所有八位女性和她们的猫在一起的画面。猫咪们自然地互动、玩耍、伸懒腰和走动，女性们则在微笑和欢笑。温暖的日落光影，电影级景深，平滑的运镜转换，豪华室内装潢，真实的猫咪行为，自然的表情，高端商业品质，皮克斯风格的写实感，优雅而温馨的氛围，16:9。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064553707937914881/pu/img/O9sXuG-7OQX7u0d-.jpg" width="600" alt="电影感顶层公寓猫咪介绍场景">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3bc6f5681307bc936c9ddfece06c300a/thumbnails/thumbnail.jpg" width="600" alt="电影感顶层公寓猫咪介绍场景">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5888)**
 
@@ -2212,7 +2212,7 @@ Maya（泰国）优雅地坐着，怀抱她的喜马拉雅猫说：“最后这�
 生成一段 10 秒的 9:16 竖屏视频，采用写实的手机偷拍风格。场景设定在夜晚的一艘大型渔船甲板上，右侧是漆黑的海面，左侧和远端是白色的船体结构、栏杆、工作灯和船员。甲板湿漉漉的，反射着海水，散落着金属舱口、绳索和船钩。明亮的白色船灯照亮了甲板，而远处的海洋几乎一片漆黑。画面具有低画质手机压缩感、手持晃动感、运动模糊和夜间噪点。内容表现大型金枪鱼为了逃避巨型鲨鱼而跳上甲板。氛围写实、混乱且荒诞，带有一丝黑色幽默。时间轴：0-2 秒：第一条金枪鱼从漆黑的海面跳上甲板；2-4 秒：更多金枪鱼跳上项目，船员们惊慌后退；4-6 秒：镜头跟随跳动的鱼，水中有阴影潜伏；6-8 秒：一条巨型鲨鱼从栏杆附近的水中猛冲而出，张开大嘴，露出成排的牙齿；8-10 秒：鲨鱼的大嘴占据前景并发出咆哮，随后画面在混乱中结束。镜头：手持，一镜到底，无剪辑。音频：海风声、机械嗡嗡声、海浪声、鱼拍打声、船员尖叫声、水花四溅声。视觉焦点：漆黑的夜海、白色甲板、跳动的金枪鱼、惊慌的船员以及鲨鱼最后的逼近。负面提示词：甲板上没有鲨鱼、无动画风格、无日光、无血腥、无文字或水印。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064539020684636160/img/xFjkDwnsRCjava9W.jpg" width="600" alt="鲨鱼在渔船上追逐金枪鱼">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56f6020b68cd8f1c356aacc475f20b1d/thumbnails/thumbnail.jpg" width="600" alt="鲨鱼在渔船上追逐金枪鱼">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5906)**
 
@@ -2241,7 +2241,7 @@ Maya（泰国）优雅地坐着，怀抱她的喜马拉雅猫说：“最后这�
 镜头 5 (13–15 秒)：时间恢复正常。冲击波席卷快艇，几乎将其掀翻，燃烧的残骸如雨点般落在海浪上。船员们从甲板上爬起，浑身湿透，凝视着身后正在下沉的燃烧船体。指挥官按住无线电，咧嘴一笑：“干得漂亮。”潜望镜沉入水面之下。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064519788349759488/img/S6tI90xo3RJ_AnW2.jpg" width="600" alt="鱼雷与巨齿鲨的海上追逐">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b89efdf4c83c6a9bc112e8817c6b9a77/thumbnails/thumbnail.jpg" width="600" alt="鱼雷与巨齿鲨的海上追逐">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5894)**
 
@@ -2268,7 +2268,7 @@ Maya（泰国）优雅地坐着，怀抱她的喜马拉雅猫说：“最后这�
 紧接着，橘猫举起拳头向镜头猛力挥出一拳。屏幕因冲击而剧烈晃动。数字噪点、故障和信号干扰声，仿佛视频损坏了一般。伴随着强烈的电子噪音，屏幕彻底黑屏。电影感、幽默、不可预测的异世界冒险、动态运镜、电影级动画质量、丰富的环境细节、鲜艳的色彩以及强烈的速度感。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064518682429227008/img/9Nw1RHEr3stdTXTc.jpg" width="600" alt="动漫风格：海底城市转场">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fb926a1c98c1b6b14c68900c9b1c9a64/thumbnails/thumbnail.jpg" width="600" alt="动漫风格：海底城市转场">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5855)**
 
@@ -2297,7 +2297,7 @@ Maya（泰国）优雅地坐着，怀抱她的喜马拉雅猫说：“最后这�
 镜头 5 (13–15秒)：时间恢复正常。冲击波压平了水面。快艇滑入下方开阔的河流，驾驶员回头看着燃烧的闸门，举起拳头。上方，炮手放下冒烟的发射器，按住无线电：“闸门已关闭。” 切断。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064518373866921984/img/76d7h_L28i3ny1ik.jpg" width="600" alt="巨鳄大战大坝军事行动">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f53b7ecfff20c0e74c93fd7d71c03c20/thumbnails/thumbnail.jpg" width="600" alt="巨鳄大战大坝军事行动">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5893)**
 
@@ -2326,7 +2326,7 @@ Maya（泰国）优雅地坐着，怀抱她的喜马拉雅猫说：“最后这�
 镜头 5 (13–15 秒)：时间恢复正常。货机在跑道的最后一米处起飞，在下方燃烧翻滚的残骸上方陡峭爬升。士兵抓着损毁的坡道，狂风呼啸，像疯子一样大笑。残骸在他们身后的跑道上燃烧。切断。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064509655779524608/img/yAWpQwQe7giB4U73.jpg" width="600" alt="霸王龙与军用运输机的动作场面">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e00fa725e9bc3b6ec1c4402fde70e0ba/thumbnails/thumbnail.jpg" width="600" alt="霸王龙与军用运输机的动作场面">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5891)**
 
@@ -2354,7 +2354,7 @@ Maya（泰国）优雅地坐着，怀抱她的喜马拉雅猫说：“最后这�
 传送门向中心坍缩的极限特写，火花熄灭，缓慢的电影级推镜头，闪烁的细节，戏剧性光影。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064503266147225600/img/25apufxKXTqRk_A2.jpg" width="600" alt="科幻时空旅行者电影级视频序列">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04d729ea94e009bab7891119e8c41f89/thumbnails/thumbnail.jpg" width="600" alt="科幻时空旅行者电影级视频序列">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5883)**
 
@@ -2375,7 +2375,7 @@ Maya（泰国）优雅地坐着，怀抱她的喜马拉雅猫说：“最后这�
 病毒式社交媒体风格，真实的夜间灯光，潮湿的反光表面，高张力和刺激感，纪录片式手持摄影
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064501280555630592/img/QRhIfOK8JW1cIV9U.jpg" width="600" alt="病毒式鲨鱼袭击渔船视频">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd5d0af83b43c60de4672d1912820d3f/thumbnails/thumbnail.jpg" width="600" alt="病毒式鲨鱼袭击渔船视频">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5882)**
 
@@ -2394,7 +2394,7 @@ Maya（泰国）优雅地坐着，怀抱她的喜马拉雅猫说：“最后这�
 写实固定机位短视频喜剧，双场景，所有角色均为成年人，衣着完整。道具均为塑料卡通玩具或安全喜剧道具。整体为荒诞反转喜剧，无真实暴力，无血腥，无歧义，无暗示。[00:00-00:07] 镜头 1 - 车内固定机位：夜间车内，摄像机固定在中控台，完全静态：无变焦、无抖动、无平移。画面中，一名衣着邋遢的成年男子 (hf_20260506_032645_e6665446-0056-40fc-b99f-8d85619f8789) 身穿脏兮兮的白色背心正在开车，副驾驶坐着一名成年女子。突然有人强行加塞，男子猛踩刹车，身体前倾，愤怒地拍打方向盘。他掏出一把夸张的廉价塑料卡通刀，愤怒地打开车门。女子劝阻道：“别去！我告诉过你这很危险！”他无视她，嘟囔着：“我只是想问他几个问题！”随后离开画面。车门砰地关上，女子留在车内，看起来崩溃且无助。[00:07-00:15] 镜头 2 - 固定机位反转：切换至普通卧室，中景，完全静态。邋遢男子趴在床上，脸埋在枕头里，表情痛苦，仿佛现实给他上了一课。女子坐在他身后 (ref hf_20260609_173858_0a2ea93a-89fc-4376-a250-0d2e8ea60474 (1))，看起来既生气又无奈。[00:07-00:09] 女子隔着衣服拍打男子的臀部/后腰，伴随夸张的“啪”声，说道：“看吧，我告诉过你，别去，太危险了！”[00:09-00:12] 她从隐藏口袋里掏出那把塑料刀 (ref hf_20260609_173858_0a2ea93a-89fc-4376-a250-0d2e8ea60474 (1))，接着又掏出一把羽毛球拍。男子露出滑稽的后悔表情，背景音为婴儿啼哭。[00:12-00:15] 她不断掏出一长串彩色布条，像是一个失败的魔术表演。男子埋头，女子对着镜头露出“我早就说过吧”的表情。音效：刹车声、轮胎摩擦声、拍打方向盘声、车门声、嘟囔声、焦虑的劝告声。第二个场景有“啪”的拍打声、塑料玩具摩擦声、球拍声、布料摩擦声、床垫吱呀声、婴儿啼哭声。无音乐，无真实尖叫。风格：写实低成本喜剧。第一个场景为冷色调夜光，第二个场景为暖色调卧室光。动作自然但夸张，使用廉价塑料道具，节奏荒诞反转。避免：真实刀具、真实伤害、血腥、虐待、裸露、性暗示、未成年人、额外角色、字幕、水印、摄像机运动、抖动、畸变。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064488445188161536/img/8fK_pcpBLVFxb_uY.jpg" width="600" alt="路怒症荒诞喜剧场景">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57e48bde914c887eab018f56d21be52a/thumbnails/thumbnail.jpg" width="600" alt="路怒症荒诞喜剧场景">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5872)**
 
@@ -2419,7 +2419,7 @@ Maya（泰国）优雅地坐着，怀抱她的喜马拉雅猫说：“最后这�
 最终形态展现出一套由黑色生物组织与外星合金融合而成的战甲，看起来充满“生命力”且在不断“生长”，并带有脉动质感。微弱发光的红色血管纹路或复杂的电路轮廓勾勒出战甲的线条，最终汇聚在面罩或头盔上，形成深邃且极具威慑力的红色发光双眼。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064470275828461568/img/o76eJqGz8VO-jUMW.jpg" width="600" alt="外星生物战甲蜕变">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/92210fd629f7e921a5fda7c0898e4854/thumbnails/thumbnail.jpg" width="600" alt="外星生物战甲蜕变">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5862)**
 
@@ -2438,7 +2438,7 @@ Maya（泰国）优雅地坐着，怀抱她的喜马拉雅猫说：“最后这�
 写实的手持手机拍摄画面，一只巨大的棕色章鱼在开阔海域的一艘白色船只侧面袭击一名水肺潜水员。一名身穿蓝色潜水服、背着黄色氧气瓶的潜水员躺在船甲板上，一只巨大的章鱼扑向他并紧贴船体，粗壮的触手缠绕在潜水员的腿部和身体上。章鱼强有力地将潜水员拉向水中，引发水花四溅和激烈挣扎。潜水员试图反抗但最终被拖下船沿。动态镜头跟随动作，带有轻微的手持抖动，呈现真实的海洋波浪、自然日光，以及章鱼皮肤、潜水服和船体的细节纹理。照片级真实感，高细节，戏剧性张力，纪录片风格。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064463653957771264/img/b6gJ9TdMNyQWhN7G.jpg" width="600" alt="章鱼袭击潜水员">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52cd00b23f9e31b12dc74351d9275b14/thumbnails/thumbnail.jpg" width="600" alt="章鱼袭击潜水员">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5857)**
 
@@ -2467,7 +2467,7 @@ Maya（泰国）优雅地坐着，怀抱她的喜马拉雅猫说：“最后这�
 镜头 5 — 残骸将尖叫的利维坦拖入水底，一只尾鳍在沉没前猛击水面，随后缆绳将其彻底拽入深渊；那名女性悬挂在公交车门口的一根断裂缆绳上，在翻腾的海水上方摇晃。它袭击的桥梁最终成为了它的葬身之地。缓慢的航拍拉远：破碎的跨海大桥，沉没的微光，以及雨幕后冷漠的城市灯火。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064441765424484352/img/4ZcUIDcsDE4d7tsN.jpg" width="600" alt="怪兽袭击孟买跨海大桥">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e50e6c37c0362db861f7af31cc29136/thumbnails/thumbnail.jpg" width="600" alt="怪兽袭击孟买跨海大桥">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5847)**
 
@@ -2492,7 +2492,7 @@ Maya（泰国）优雅地坐着，怀抱她的喜马拉雅猫说：“最后这�
 画面如同中世纪奇幻电影的原始实拍素材——呈现 1960 年代胶片的质感，色调温暖浓郁，带有自然的瑕疵、火炬产生的轻微镜头光晕以及有机的镜头抖动。整个序列实时展开，戏剧化的调度和节奏让人联想到经典的冒险电影。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064434136178429952/img/bNXiITp2rdIQYrJ5.jpg" width="600" alt="1960 年代复古电影感吻戏">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0eceff23648d169ecef628a4db21c3e6/thumbnails/thumbnail.jpg" width="600" alt="1960 年代复古电影感吻戏">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5863)**
 
@@ -2531,7 +2531,7 @@ Maya（泰国）优雅地坐着，怀抱她的喜马拉雅猫说：“最后这�
 音频：写实的森林环境音，雨声，沉重的呼吸声，肌肉位移声，毛发摩擦声，远处的雷声，动物低吼声，氛围感十足的荒野音效设计。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064407231076990976/pu/img/SamsbISGJUgYwQqy.jpg" width="600" alt="电影级狼人变身">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/759545b95ebc2295541d80107204f076/thumbnails/thumbnail.jpg" width="600" alt="电影级狼人变身">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5851)**
 
@@ -2556,7 +2556,7 @@ Maya（泰国）优雅地坐着，怀抱她的喜马拉雅猫说：“最后这�
 每个地点均需搭配符合当地氛围的独特时尚服装，并做出有趣的表情动作，例如挥手、比耶、合十礼、比心、大笑、指向地标、竖大拇指、惊讶反应、跳舞或俏皮动作。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064401449648537600/pu/img/kXEzIMuRh23JzXL-.jpg" width="600" alt="环球旅行超延时自拍">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/064210ab16759252370df899ce7a54b8/thumbnails/thumbnail.jpg" width="600" alt="环球旅行超延时自拍">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5848)**
 
@@ -2577,7 +2577,7 @@ Maya（泰国）优雅地坐着，怀抱她的喜马拉雅猫说：“最后这�
 使用提供的故事板参考图 Image 2 ，生成一段 15 秒的电影级天界奇幻角色展示视频。在所有镜头中，请确保 Astrielle Image 1 的形象保持严格一致 ——
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064395176693612544/img/-EnOAGotXI46jPF7.jpg" width="600" alt="天界奇幻角色展示">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb34c19da033640689a751c7e1da5276/thumbnails/thumbnail.jpg" width="600" alt="天界奇幻角色展示">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5868)**
 
@@ -2596,7 +2596,7 @@ Maya（泰国）优雅地坐着，怀抱她的喜马拉雅猫说：“最后这�
 电影级 Netflix 纪录片，16 秒序列，16:9，超写实 8K，ARRI Alexa Mini LF，变形镜头，细腻的镜头光晕，有机胶片颗粒感。高端健身纪录片调色，带有温暖的金色高光、深邃的阴影和逼真的皮肤质感
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064387760027480065/img/vM9atcAy0dW-ZXrg.jpg" width="600" alt="高端健身纪录片风格">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d42414e60e71a0edc2a74d3ed571f97f/thumbnails/thumbnail.jpg" width="600" alt="高端健身纪录片风格">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5867)**
 
@@ -2625,7 +2625,7 @@ Maya（泰国）优雅地坐着，怀抱她的喜马拉雅猫说：“最后这�
 真实的爆火手机视频，纪录片式的写实感，可信的人类行为，偶然的发现，“这怎么可能？”的氛围，没有电影级的运镜，没有可见的安全绳，具有病毒式传播潜力且完全真实。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064384954637889541/img/2L2YV8XScB7RqS2d.jpg" width="600" alt="爆火的建筑工凳视频素材">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a60ee6b38bbac25d2bba5d0decec7325/thumbnails/thumbnail.jpg" width="600" alt="爆火的建筑工凳视频素材">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5854)**
 
@@ -2644,7 +2644,7 @@ Maya（泰国）优雅地坐着，怀抱她的喜马拉雅猫说：“最后这�
 电影级 8k 视频。史诗级奇幻场景。一位强大的女巫，双眼闪烁着刺眼的霓虹蓝光，长长的黑发在风中飘动，身穿黑色皮甲，盔甲上装饰着发光的符文，肩部带有锋利的冰晶。她站在荒凉的岩石山口。一支黑暗骑士军队正向她冲锋。她举起发光的魔法杖，汇聚巨大的冰冻能量。一股强大的冰霜冲击波从她所在的位置爆发，迅速向外呈完美圆形扩散，瞬间将冲锋的军队冻结成细节逼真的冰雕。戏剧性的高空无人机镜头，展示了巨大的圆形冰霜冲击波。慢动作，紧张的电影音乐氛围，高端 CGI，深沉而粗粝的调色，照片级真实感，专业虚化效果，细节丰富。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064382926301835267/pu/img/cI3Ao2bwt9kwcA5g.jpg" width="600" alt="女巫冰霜冲击波">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0824c1c35a3cf3b1b95b22503a723017/thumbnails/thumbnail.jpg" width="600" alt="女巫冰霜冲击波">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5860)**
 
@@ -2667,7 +2667,7 @@ Maya（泰国）优雅地坐着，怀抱她的喜马拉雅猫说：“最后这�
 以山峦上空的戏剧性广角镜头开场，快速推镜头切入战斗，通过快速平移捕捉不可思议的杂技动作和旋转的法杖攻击，围绕巨大的冲击波进行环绕拍摄。采用史诗级动漫风格的冲击帧和动态透视畸变，废墟与阳光充斥画面。武僧在崩塌的柱子间跳跃，在空中飞行的巨石上奔跑，同时与多个巨大的守卫进行毁灭性的交锋，每一次打击都产生扩散的能量环并震裂山体。结尾处，武僧在金光爆发中升至战场高空，随后挥下法杖发动神级终极一击，产生横扫整个寺庙建筑群的巨大冲击波，瞬间将剩余的石像守卫汽化，震碎山坡，世界在瞬间陷入寂静。尘埃散去，露出武僧独自站在巨大陨石坑中央的身影，周围是所有守卫破碎的残骸。阳光穿透云层，镜头缓慢拉远，展现出他的绝对胜利，以及山下寺庙恢复平静的景象。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064373202889891840/pu/img/YqT7vAv-sQeIFfCG.jpg" width="600" alt="动漫风格：寺庙武僧之战">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dcf1d449c9685675010538dcfd8dcf54/thumbnails/thumbnail.jpg" width="600" alt="动漫风格：寺庙武僧之战">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5861)**
 
@@ -2686,7 +2686,7 @@ Maya（泰国）优雅地坐着，怀抱她的喜马拉雅猫说：“最后这�
 Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下单片眼镜，说出一句“欢迎来到威尼斯”。镜头缓慢推进，他惊叹于运河，称其为“如果有人忘了修路时的伦敦”。他发现了贡多拉，坚持要进行一次“电影级的登场”。广角镜头：他爬进贡多拉，差点翻船，却试图保持庄重。切换镜头，他坐好并对着镜头摆姿势，做出戏剧性的“网红手势”。贡多拉船夫开始唱歌；Reggie 先是做出虚假的世故反应，随后流露出真诚的敬畏。鸽子从头顶掠过；快速剪辑 Reggie 躲避的画面，随后假装这一切都在计划之中。经过一座桥下时，他试图讲述一个严肃的历史事实，但显然说错了。第一人称视角仰望古老建筑；Reggie 称其为“世界上最华丽的水上迷宫”。贡多拉擦过另一艘贡多拉；短暂的尴尬重叠，Reggie 顺口抛出一句俏皮的赞美或英式讽刺。跳接至 Reggie 在一家小型水上咖啡馆/酒吧，将浓缩咖啡平衡地放在边缘。特写镜头：Reggie 抿了一口浓缩咖啡，因其浓郁而瞪大双眼，却假装它“绝对令人愉悦”。快速蒙太奇：品尝小份 cicchetti（威尼斯小吃），点头表示认可，随后对一种强烈的口味做出戏剧性的夸张反应。小桥上的日落镜头；Reggie 靠在栏杆上，圆顶礼帽微微歪斜。对着镜头的最后一句台词，类似于“满分十分，但我还是不知道路去哪了”，随后迈着轻快的步伐走开。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064361525255553025/img/bnzRUmPZzJ98dmj5.jpg" width="600" alt="Reggie 的威尼斯运河之旅">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c13a64ad75212bff0e9364b400a302b3/thumbnails/thumbnail.jpg" width="600" alt="Reggie 的威尼斯运河之旅">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5871)**
 
@@ -2729,7 +2729,7 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
 避免：画面抖动、身份特征偏移、刻意的广告感、窗户过曝。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064349984083062784/pu/img/VFl_zBrq4FcA14-D.jpg" width="600" alt="清晨 Vlog 桌面布置">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bac09eab3dbd7985644b190355d89ec1/thumbnails/thumbnail.jpg" width="600" alt="清晨 Vlog 桌面布置">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5858)**
 
@@ -2748,7 +2748,7 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
 请使用随附的 THE CRÊPE MAKER 项目作为精确的视觉参考。制作一个 12 秒、16:9 的皮克斯 3D 动画序列，严格遵循全部 8 个镜头。保持同样的典型法国男人形象——戴着黑色贝雷帽，身穿蓝白条纹衬衫，系着白色围裙，充满魅力。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064342509732438016/img/ZbwTFaE_JLtILS-m.jpg" width="600" alt="皮克斯风格法式可丽饼制作动画">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e83993ab4819d2f323abac532de20e8/thumbnails/thumbnail.jpg" width="600" alt="皮克斯风格法式可丽饼制作动画">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5869)**
 
@@ -2786,7 +2786,7 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
 总体而言，这是一个真实的东京风景、Q 版角色与特效深度融合的世界。特效并不追求过度的科幻感，而是清新、轻盈且略带诗意。每个镜头中特效的数量和运动感都显著增加，使其显得丰富饱满，并与角色的动作和情绪紧密呼应。每个镜头中的摄像机运动保持连贯。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064332980152410112/img/s17A-rTGlGTOSGRE.jpg" width="600" alt="东京动漫 Q 版角色融合">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/878923f1c6eba6e817ccbe6fb134cd76/thumbnails/thumbnail.jpg" width="600" alt="东京动漫 Q 版角色融合">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5876)**
 
@@ -2811,7 +2811,7 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
 结尾处呈现一个震撼的耳机主视觉镜头，耳机在电影般的城市背景下旋转，带有微妙的声波视觉特效，高级的反射效果，奢华的产品广告风格，浅景深，高端品牌宣传片质感，完美的商业电影摄影，16:9 画幅，照片级真实感，视觉效果惊艳。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064322270760439808/pu/img/Ia_j31f1QkRWAEFQ.jpg" width="600" alt="耳机生活方式广告">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f5a1828bea9f6c0787835c324e96e6e/thumbnails/thumbnail.jpg" width="600" alt="耳机生活方式广告">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5853)**
 
@@ -2836,7 +2836,7 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
 在终极环节，领跑选手冲向一座巨大的活火山。一次剧烈的喷发形成了一个天然的熔岩动力起跳台。选手在火山口上方的高空完成了一个不可思议的多周旋转空中特技，随后直接冲向火山内部。终点线在火山口深处闪烁着光芒。当熔岩在周围喷发时，选手完美地降落在火山中心的一个狭窄平台上。史诗般的电影结局，强烈的能量感，逼真的物理效果，震撼的火山视觉效果，超精细的环境细节，无文字，无水印，无字幕，电影级动作大片。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064286260253118464/pu/img/4xKr73p7-moMCw5p.jpg" width="600" alt="火山岛滑板锦标赛">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24be2398f7685082fdd4284581e52ca4/thumbnails/thumbnail.jpg" width="600" alt="火山岛滑板锦标赛">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5870)**
 
@@ -2855,7 +2855,7 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
 日本全彩动漫电影，电影级高质量视频。无背景音乐/对话/文字。聚焦于缓慢、安静的动作。管家角色：高挑、纤瘦、黑发、银色眼镜、三件套西装、白手套。场景：昏暗的厨房，伴有柔和的阳光。镜头 1：炉灶点燃蓝色火焰。镜头 2：系紧领带。镜头 3：戴上白手套。镜头 4：舀取干茶叶。镜头 5：调整眼镜。镜头 6：一壶深橙色的茶正在冒热气。镜头 7：加入糖。镜头 8：调整口袋方巾。镜头 9：在茶中加入炼乳。镜头 10：通过滤网将茶倒入壶中。镜头 11：向后梳理头发。镜头 12：在玻璃杯中放入一个圆形冰球。镜头 13：（慢动作）将茶倒入冰块上。镜头 14：（慢动作）加入牛奶形成分层效果。镜头 15：管家呈上制作完成的茶饮。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064286114324836352/img/wPAIidH_NB9h73k2.jpg" width="600" alt="管家制作泰式奶茶动漫序列">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b995f15ba0534b09a437a9f9938e560/thumbnails/thumbnail.jpg" width="600" alt="管家制作泰式奶茶动漫序列">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5916)**
 
@@ -2874,7 +2874,7 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
 现代 3D 中国动画风格。场景 1：在埃及宫殿内，镜头从王座厅内部开始。我们看到威严的胡狼神阿努比斯直立站着，双臂呈 T 字姿势。站在他旁边的是一位年轻的人类国王，表情严肃地说道：“我亲爱的阿努比斯，你一定不能分心。”阿努比斯坚定而严肃地回答：“如您所愿，主人。”场景 2：人类国王狡黠一笑，伸手向阿努比斯的腋下，用手指轻轻地、顺滑地挠他痒痒。阿努比斯的表情瞬间变得明朗；他努力想要忽略这种痒感，但他实在太怕痒了。场景 3：人类国王继续挠阿努比斯的腋下。阿努比斯闭上眼睛，咧嘴大笑，发出闷闷的咯咯声。人类国王在挠痒时说着“咕叽咕叽”。场景 4：人类国王继续挠痒。阿努比斯很快开始大声笑起来，他的双臂离开了 T 字姿势，但腋下依然暴露在外。场景 5：人类国王继续挠痒；阿努比斯开怀大笑，随后双臂环抱住自己以保护腋下，终于停止了被挠痒。场景 6：阿努比斯交叉双臂，发出几声余笑，随后表情再次变得严肃。他双手叉腰，看起来对他的主人略显恼火，说道：“主人，我们说好了不挠痒的。”人类国王无辜地耸耸肩，俏皮地应道：“哎呀。”阿努比斯肌肉发达，手臂和脖子上戴着圆环。他的声音深沉且富有磁性。语言为英语。
 ```
 
-<img src="https://pbs.twimg.com/media/HKXSRh0aMAAEVfl.jpg" width="600" alt="埃及神阿努比斯动画提示词">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e7a13a32ae05ed7b865f15ed70161cee/thumbnails/thumbnail.jpg" width="600" alt="埃及神阿努比斯动画提示词">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5873)**
 
@@ -2919,7 +2919,7 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
 实验电影超现实主义，模拟投影美学，梦幻般的转场，实景光影互动，4K。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064286381673795584/pu/img/smrMtvwgK0qEqf-3.jpg" width="600" alt="超现实废弃电影院">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/461c3c843ba3b07316188e80e0e3ce4f/thumbnails/thumbnail.jpg" width="600" alt="超现实废弃电影院">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5859)**
 
@@ -2964,7 +2964,7 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
 运用有节奏的快速剪辑、特写、低角度拍摄、俯拍、快速平移和流畅的匹配剪辑。确保变身过程是连续的动作，而非幻灯片播放。角色应通过旋转、悬浮和落地自然地进行动作。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064277120331952128/img/fnVjNeGCzkrnK0h4.jpg" width="600" alt="从动漫到写实风格的华丽变身">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80693d68a6ef847235e631bbd6ab278/thumbnails/thumbnail.jpg" width="600" alt="从动漫到写实风格的华丽变身">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5878)**
 
@@ -2983,7 +2983,7 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
 第 1 帧：28mm 广角镜头，地面视角快速且极具张力的推近，身穿白色制服、头戴高帽的活力卡通厨师戏剧性地转向镜头，厨师自信地对着料理台比出手指枪动作，料理台滑入完美位置
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064255734150545408/img/qFy8amAWL0rPsfsE.jpg" width="600" alt="电影级披萨厨师动画序列">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/943f37d89a186a3304910b2bda5ebfd1/thumbnails/thumbnail.jpg" width="600" alt="电影级披萨厨师动画序列">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5866)**
 
@@ -3028,7 +3028,7 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
 超写实电影风格，胶片颗粒感，变形镜头光晕，清晰 4K，竖屏 9:16。胜利、奢华、赋能的氛围。大胆的红丝绒色调，鲜艳的绿色与金色。包装与参考图 100% 一致。自然的口型同步，节奏轻快且充满活力的剪辑。无文字覆盖。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064245757142827008/img/wqVaQgMBBDzmLwVu.jpg" width="600" alt="2026 年世界杯球迷体验">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1111e05bf2887771dfad2de13e8281b0/thumbnails/thumbnail.jpg" width="600" alt="2026 年世界杯球迷体验">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5865)**
 
@@ -3047,7 +3047,7 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
 关键指令：在视频输出中，请勿显示、引用或重现任何分镜图像、面板布局、参考照片或草图。所有场景必须是仅根据文字描述生成的原创动画风格画面。请完全忽略任何视觉参考帧。请将分镜序列转化为节奏明快的烹饪视频，并严格遵循场景顺序。 ## 风格：高质量日式动画电影风格，电影级光影，超细腻食物动画，浅景深，柔和的夏季自然光，微距特写镜头，缓慢的电影级运镜，清新明亮的夏季氛围，强调质感与水分的美食动画风格。 ## 剪辑：以节奏感强的快节奏剪辑为基础，确保烹饪过程直观易懂。运用匹配剪辑（匹配形状、动作、构图和质感）实现场景间的平滑过渡。整体视频应呈现出充满活力且时尚的动画电影质感，重点突出滋滋作响的声音、新鲜感和视觉吸引力。 ### 场景 1 — 敲打并准备猪里脊 特写镜头：动画风格的手握着木制肉锤，在木制项目上用力敲打一块厚实的粉色猪里脊肉。随着每一次敲击，肉块略微变平，纤维清晰可见地松动。盐和胡椒均匀地撒在表面。撞击时，肉块产生细微的震动涟漪。超写实动画风格，明亮的厨房光线，电影级浅景深。 ### 场景 2 — 裹上面包糠 动画风格的手有条不紊地处理生猪排：先将其按入白面粉盘中，接着浸入蛋液（金色的蛋液滴落），最后用力按入粗颗粒白面包糠盘中。每一层都清晰可见地附着在肉上。超写实动画风格，头顶戏剧性光影，食物细节特写。 ### 场景 3 — 油炸 裹好面包糠的猪排浸入深炸锅中闪烁的金黄色热油里。边缘冒出剧烈的气泡，随着外壳变成深琥珀色并变得酥脆，气泡逐渐平息。光线穿过热油表面发生折射。蒸汽轻轻升起。超写实动画风格，温暖的金色光影，电影感。 ### 场景 4 — 切炸猪排 一块炸得金黄酥脆的炸猪排放在木制项目上。动画风格的手引导一把锋利的大刀，将猪排切成均匀的条状。酥脆的外壳在每一刀下清脆断裂，露出内部鲜嫩的白肉。切口处散发出细微的蒸汽。超写实动画风格，戏剧性的厨房顶光。 ### 场景 5 — 炖煮出汁和洋葱 在燃气灶上的宽浅锅内，切成薄片的洋葱圈在出汁中缓慢炖煮。洋葱逐渐变软并呈半透明状，在琥珀色的液体中轻轻摇曳。气泡从底部稳定升起。筷子偶尔翻动洋葱。温暖的蒸汽向上飘散。超写实动画风格，温暖的炉灶光泽，电影级特写。 ### 场景 6 — 将猪排放入出汁中 动画风格的手用筷子小心地将切好的炸猪排条并排放在浅锅中轻轻炖煮的洋葱和出汁上。猪排接触到液体时发出轻微的滋滋声。金色的面包糠边缘开始微微吸收汤汁。超写实动画风格，温暖的琥珀色厨房光影，电影级特写构图。 ### 场景 7 — 倒入蛋液 从小碗中缓慢、平稳地倒入金黄色的蛋液，呈螺旋状覆盖在锅中炖煮的猪排和洋葱上。蛋液呈细流状倾泻而下，自然地在表面扩散，并在接触热源的边缘开始凝固。超写实动画风格，温暖的炉灶光影，微距电影级细节。 ### 场景 8 — 鸡蛋缓慢凝固 在低火下的浅锅内，倒入的蛋液在猪排和洋葱表面缓慢凝固。边缘凝结成柔软的金黄色蛋羹，而中心保持微流质且微微颤动。柔和的蒸汽升起。无需搅拌——鸡蛋通过余热自然凝固。超写实动画风格，柔和的暖光，亲密的特写构图。 ### 场景 9 — 碗中盛饭 一个洁白的陶瓷丼碗放在不锈钢台面上。饭勺盛起一大团冒着热气的日本短粒米饭，小心地放入碗中。米粒微微闪光，紧实而蓬松。表面升起淡淡的蒸汽。超写实动画风格，干净柔和的厨房光影，电影级特写。 ### 场景 10 — 将猪排和鸡蛋放入米饭上 动画风格的手用筷子小心地将锅中半凝固的鸡蛋猪排混合物滑入丼碗的白米饭上。鸡蛋如柔波般覆盖在米饭上。汤汁在边缘微微渗入米饭。两层食材上都升起蒸汽。超写实动画风格，温暖的顶光，电影级特写细节。 ### 场景 11 — 蛋汁自然沉降 完成的炸猪排盖饭静置在台面上。柔软的金黄色蛋汁缓慢沉降，自然地铺在猪排条和米饭上，在边缘轻轻汇聚。表面微微颤动，半凝固状态，带有汤汁的光泽。画面中没有手——纯粹的动态静物。超写实动画风格，温暖的漫射光，缓慢的电影级推镜头。 ### 场景 12 — 展示成品炸猪排盖饭 一份制作精美的炸猪排盖饭盛在传统的蓝白陶瓷丼碗中，放置在木质表面上。金黄柔软的鸡蛋覆盖在酥脆的猪排条上，下方是光泽诱人的白米饭。顶部精致地放上一小枝绿色的三叶草装饰。蒸汽优雅地升起。摄像机以电影级的弧线缓慢环绕碗盘。超写实动画风格，温暖的戏剧性食物摄影光影，电影感。 ## 音频：欢快的日式城市流行乐（80年代风格，明快轻盈），叠加轻柔的古筝拨弦和铃铛般的打击乐，营造出愉悦的夏季午餐氛围。节奏约为 110–120 BPM，以匹配充满活力的烹饪节奏。全程贯穿清脆、令人满足的 ASMR 烹饪音效： - 在木制项目上锋利、有节奏的切菜声 - 面条水快速沸腾和翻滚的声音 - 冰块掉入玻璃碗中的清脆碰撞声 - 面条在冷水下冲洗时的流水声 - 成品碗放在台面上时柔和的陶瓷碰撞声 - 最终音效：当成品冷面呈现时，一声轻盈的风铃声，唤起清爽的夏日微风 ## 避免： - 在最终视频中，请勿显示分镜面板、面板边框、面板编号、箭头、摄像机备注、动作备注、说明文字、字幕、UI 覆盖层或任何注释。 - 请勿复制或展示作为输入提供的任何参考图像或草图。 - 请勿显示任何用作参考的源材料、线框图或插图。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064240589177344000/img/06Kh6I2UE8HfVRgA.jpg" width="600" alt="日式动画风格炸猪排烹饪序列">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d285c79ccbbf4913b61d846e072bb31/thumbnails/thumbnail.jpg" width="600" alt="日式动画风格炸猪排烹饪序列">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5877)**
 
@@ -3081,7 +3081,7 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
 无接吻，无大胆或不当行为，无夸张表情，无模糊，无畸变，无多余肢体，无低质量
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064227920818622464/pu/img/dnjJkjDBCo-NdEKq.jpg" width="600" alt="浪漫咖啡馆晚餐约会">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57b7e86b6080477b150a4d094adccf81/thumbnails/thumbnail.jpg" width="600" alt="浪漫咖啡馆晚餐约会">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5852)**
 
@@ -3100,7 +3100,7 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
 使用附图作为主角，在整个过程中保持面部特征和身份一致。垂直 9:16 的原始手机 UGC 视频，手持拍摄，无防抖，圣保罗夜景，背景是密集的摩天大楼，数百扇亮灯的公寓窗户，闪烁的红色塔灯，深藏青色的夜空。25 层高的楼顶停机坪，橄榄绿色地面，带有白色 H 和黄色圆圈。主角站在边缘附近，3 到 4 名男性朋友在旁边欢呼并用手机拍摄。他突然从楼顶跳下进入快速自由落体，镜头从上方追踪，建筑立面飞速掠过，街道迅速逼近。俯视视角显示街道上有一个巨大的长方形弹性特技垫，周围环绕着明亮的蓝色和彩虹色 LED 灯；他径直坠向中心。剧烈撞击：弹性表面大幅向下凹陷，LED 灯闪烁，镜头晃动，随后将他猛烈地弹回空中。追踪镜头跟随他沿着建筑向上飞升，掠过一层层亮灯的窗户，面部清晰可见，表情兴奋，双臂张开，衣服和头发在风中飘动。他达到楼顶高度，在夜空背景下短暂形成剪影，随后降落在停机坪上。朋友们冲向他庆祝、跳跃、欢呼，并用手机拍摄，最后以充满真实兴奋和笑声的混乱拥抱结束。风格：真实的病毒式极限挑战 UGC，写实物理效果，低光传感器噪点，每个镜头都有手持晃动，自然的运动模糊，危险的自发能量，无调色，无滤镜，无电影感，无 VFX，无慢动作，无 AI 面孔，无不真实的物理效果。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064221349246390272/pu/img/oGDrg4-iD68FvMiQ.jpg" width="600" alt="夜间楼顶特技 UGC">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6ead3f5036903116eb24dc156a1ed6cb/thumbnails/thumbnail.jpg" width="600" alt="夜间楼顶特技 UGC">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5856)**
 
@@ -3174,7 +3174,7 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
    请勿将参考图像中的角色或主体作为实体放置在屏幕外。仅将参考图像用作巨型视觉屏幕的显示视频。不要将角色作为主要焦点。不要过于清晰地展示观众。不要从零开始构建整个城市。不要使屏幕过宽。不要显示文字、徽标、水印、标签、字幕、品牌标志、真实活动名称或真实公司名称。不要包含背景音乐、歌曲、现场评论或旁白。避免画面过暗、色彩暗淡、对比度低、LED 显示混乱、参考图像失真或带有白色背景的单调显示。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064180565163843584/img/FoSS66gO-zJRe8-H.jpg" width="600" alt="城市广场巨型 LED 屏幕组装">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a2579a2aaa9446bab579789775b9aa6a/thumbnails/thumbnail.jpg" width="600" alt="城市广场巨型 LED 屏幕组装">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5827)**
 
@@ -3193,7 +3193,7 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
 一段 15 秒的电影级追踪镜头，场景位于宏伟的哥特式大教堂内。一名来自布斯巴顿魔法学校的年轻女巫站在中央，身着优雅的粉蓝色定制外套，搭配同色宽檐尖顶帽和丝绸领带。戴着面具的黑衣人身披黑色斗篷，在周围形成了一个充满威胁的包围圈。当她优雅地旋转起舞时，镜头平滑地环绕着她，释放出一股强大的空灵蓝色魔法漩涡。成百上千只发光的白色蝴蝶从魔法能量中涌出，在她周围盘旋，将黑衣人逼退。头顶的水晶吊灯闪烁着光芒，拱形窗户投射出忧郁的蓝金色光影，空气中弥漫着魔法粒子。镜头从戏剧性的广角视角平滑过渡到亲密的特写镜头，一只发光的白色蝴蝶轻轻落在她的指尖。强烈的动态感、戏剧性的低角度透视、体积光、写实奇幻电影美学、超精细纹理、浅景深、变形电影构图、PBR 材质、次表面散射、超写实、8K 分辨率、24fps。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064179490889359360/pu/img/tF1wj_83WMzpMbla.jpg" width="600" alt="布斯巴顿女巫魔法漩涡">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21b63242ca006ba6455990fb14d1155d/thumbnails/thumbnail.jpg" width="600" alt="布斯巴顿女巫魔法漩涡">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5849)**
 
@@ -3220,7 +3220,7 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
 负面提示词：身份改变、种族不同、面部年龄不符、面部模糊、手部畸形、多余手指、人体结构错误、低分辨率、诡异的笑容、手表缺失、手表佩戴在右手、地标不可见、地点重复、服装混搭、塑料感皮肤、随机路人取代主角。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064177287868874752/pu/img/_kteyHUBau-hwTH2.jpg" width="600" alt="全球旅行博主延时摄影">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a30e2183bacf6015f7a654782ce4601/thumbnails/thumbnail.jpg" width="600" alt="全球旅行博主延时摄影">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5864)**
 
@@ -3239,7 +3239,7 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
 真实、未经处理的 iPhone 手持视频拍摄风格，所有相机设置均为自动，无后期调色或特效。包含真实的手持微抖动和拍摄者（男性）的呼吸声，镜头会因地铁运行而自然下沉或倾斜，随后迅速修正。自动对焦偶尔会搜索、滞后或短暂失焦，特别是在身体或手部移动时。自动白平衡在车厢荧光灯和隧道灯光之间自然切换冷暖色调。整体画面平淡，保留了真实的镜头光晕、轻微的边缘色差和运动模糊瑕疵。模拟 CCD 传感器效果，带有轻微的垂直拖影、色彩溢出、颗粒噪点以及高对比度边缘的紫/绿边。仅使用相机内置的自然环境音：低沉的地铁轰鸣声、轮轨摩擦声、乘客低语声和衣物摩擦声；麦克风在加速或大幅度移动时可能会出现轻微失真。第一人称 POV，采用坐姿男性视角（从低角度仰视开始），镜头运动跟随男性的本能反应。车厢极其拥挤，没有空位，背景充满乘客和模糊的人群以增加真实感。偶尔可见男性腿部、膝盖或手部边缘以提供位置参考。15 秒时间轴：（序列：正常距离 → 女性调情靠近胸部但未触碰 → 男性忍耐后让座 + 惊讶表情 → 女性坐下并大笑，摘下口罩 → 男性试图触碰肩膀，女性使用消毒喷雾）：0 秒：镜头从低位坐姿 POV 向上倾斜，看向一名戴着白色口罩、抓着扶手的年轻亚裔女性，她正看着男性。没有空位。正常距离。男性注意到，女性眼睛俏皮地眯起，以调情的节奏缓慢靠近镜头（胸部靠近但保持安全距离）。自动对焦锁定在她的上半身；轻微过曝，可见 CCD 颗粒和色彩溢出。1-4 秒：女性继续缓慢靠近，胸部距离在 20 厘米以内但未触碰。男性忍耐（微抖动反映出僵硬，低视线导致镜头短暂下沉）。自动对焦搜索后拉回；可见 CCD 垂直拖影。可听到衣物摩擦声和男性压抑的呼吸/心跳声。列车晃动导致画面倾斜。5-7 秒：男性让座：POV 上升并晃动（匆忙起身），向右移动以避开。女性顺势坐在他空出的座位上（从侧后方 POV 观察）。过度拥挤的环境使让座动作更具冲击力。白平衡轻微漂移；画面欠曝后自动补偿。8-10 秒：反转细节：男性尴尬地回头（POV）；女性在口罩下灿烂微笑。男性伸手试图触碰她的肩膀，询问“你为什么要抢我的座位？”。女性大笑，向后靠，眼神俏皮，拿出一瓶白色喷雾消毒剂，在他的手上喷了两次（可见喷雾声和雾气）。手部移动时自动对焦滞后。11-13 秒：女性笑得更明显，俏皮地摇头。调情反转。约 12 秒时，她缓慢摘下口罩，露出精致的面容和灿烂的笑容。男性第二次回头（自然转头）。镜头晃动和呼吸声持续。可见光晕和 CCD 边缘色差。女孩如铃般的笑声盖过了轨道轰鸣声。14-15 秒：笑容略微收敛，变为俏皮的坏笑。男性看着自己被清洁过的手。镜头下沉后上升（重心转移）。轻微的构图瑕疵。保持一致的原始手持视频质感。所有相机行为均模拟 iPhone 的物理特性，完美再现低角度 POV 互动。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064140494301446144/img/CqAWvShyAcyBIuQK.jpg" width="600" alt="地铁 POV 互动恶作剧提示词">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37e7d2f1e4252c37acb84e83bf605420/thumbnails/thumbnail.jpg" width="600" alt="地铁 POV 互动恶作剧提示词">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5874)**
 
@@ -3273,7 +3273,7 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
 }
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064047776715948032/img/_GjONmRlb_itOuN0.jpg" width="600" alt="雨林旅行 Vlog 脚本">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b9d9e4d037d3248fbd1543e1d5bd8adc/thumbnails/thumbnail.jpg" width="600" alt="雨林旅行 Vlog 脚本">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5825)**
 
@@ -3292,7 +3292,7 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
 从上方俯视一杯黑咖啡，一只手正在倒入牛奶，牛奶在咖啡中绽放并形成漩涡
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064052894194671616/img/-lINHr1zuS4zyS3w.jpg" width="600" alt="咖啡与牛奶融合的微距摄影">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d193bb680075e25184c7772764472e17/thumbnails/thumbnail.jpg" width="600" alt="咖啡与牛奶融合的微距摄影">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5815)**
 
@@ -3311,7 +3311,7 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
 请使用随附的 THE CHURRO MAKER 项目作为精确的视觉参考。制作一段 12 秒、16:9 的皮克斯风格 3D 动画序列，严格遵循全部 8 个镜头。保持同样的年轻西班牙小贩形象，身穿白色 T 恤、红色围裙，推着明亮的户外吉事果推车，背景为阳光明媚的鹅卵石街道。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064031934842331136/img/AmC_k6EYT7L7ZUqC.jpg" width="600" alt="皮克斯风格吉事果制作动画">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/829d66aec69f376fadddce3209613317/thumbnails/thumbnail.jpg" width="600" alt="皮克斯风格吉事果制作动画">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5831)**
 
@@ -3379,6 +3379,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-12T08:46:33.175Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-12T15:18:38.005Z</sub>
 
 </div>

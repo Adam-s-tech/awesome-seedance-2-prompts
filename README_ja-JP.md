@@ -377,7 +377,7 @@ Seedance 2.0 を使用して、夜のシネマティックなストリートレ�
 第 3 幕：そのファンは実はストリートサッカーの達人だった。彼女は驚異的なソロランを開始し、ステップオーバーやスピンといったテクニカルなスキルでコンゴ代表のディフェンダー 4 人をドリブルで抜き去る。クライマックスでは、力強いバイシクルキックを放ち、ゴール上隅に突き刺す。彼女はポルトガルの有名サッカー選手と抱き合って喜びを分かち合い、観客は熱狂の渦に包まれる。すべての幕において、ポストプロダクションや特殊効果を一切加えず、iPhone Vlog 特有の生のドキュメンタリー質感を維持。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065245984045576193/img/ScfVoSV2QhG6D2Z1.jpg" width="600" alt="ワールドカップの旅 Vlog プロンプト">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e4e223e6c83698a00da83cfbf32748d/thumbnails/thumbnail.jpg" width="600" alt="ワールドカップの旅 Vlog プロンプト">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5954)**
 
@@ -403,7 +403,7 @@ Seedance 2.0 を使用して、夜のシネマティックなストリートレ�
 ネガティブプロンプト：テキスト、ロゴ、UI、変形、ちらつき、不自然な歪み、ホラー要素、暗い雰囲気、サイズの変動は禁止。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065033629777219584/img/y1BBNIZ9uYcCSuor.jpg" width="600" alt="ミニチュアスケートボード・キッチン大冒険">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a02dd33b7ccf02e5d3f7109d5386fe6/thumbnails/thumbnail.jpg" width="600" alt="ミニチュアスケートボード・キッチン大冒険">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5959)**
 
@@ -422,7 +422,7 @@ Seedance 2.0 を使用して、夜のシネマティックなストリートレ�
 ショット 1：オープニング（0～2秒）、ポニーテールにしたエレガントなヨーロッパ系のブロンド女性。キャメルカラーのカシミヤコートにクリーム色の厚手ニットタートルネックを合わせ、精巧な石造りのアーチやヴィンテージのバルコニーがある歴史的な石畳の通りを歩く。ゴールデンアワーの温かい日差しが柔らかな影を落とし、彼女が立ち止まり、片手を伸ばす。ショット 2：製品紹介（2～4秒）、洗練されたマットシルバーのワイヤレスイヤホンケースを持つ彼女の優雅な手のクローズアップ。透明な蓋から中の純白のイヤホンが見え、柔らかな自然光が高級感のある金属の質感を際立たせる。彼女が繊細な指の動きで蓋を開けると、背景にはヨーロッパ風の建築物と屋外カフェテラスの雰囲気がぼかして映し出される。ショット 3：装着（4～6秒）、横顔から正面への切り替え。白いワイヤレスイヤホンを耳に装着し、自信に満ちたクールな表情で微笑む。大きく焦点の合った瞳。カメラがスムーズに寄り、クリーム色のタートルネックとミニマルな美学にイヤホンが完璧に調和する。ショット 4：ライフスタイル（6～9秒）、イヤホンを装着したままヨーロッパの通りを歩き続ける彼女。カメラが並走し、ファッションとテクノロジーの融合を捉える。イヤホンのディテール、自信に満ちた眼差し、耳に触れる指先、温かい日差しを浴びるブロンドヘアのクローズアップを交互に映す。ショット 5：ディテールショット（9～11秒）、製品コアのモンタージュ。耳に装着されるイヤホンの超クローズアップ、マットシルバーのケースの蓋が閉まる心地よいクリック音、イヤホンのインジケーターライトの点灯。浅い被写界深度でヨーロッパの建築物を背景にぼかし、高級素材の質感を強調した洗練されたデザイン。ショット 6：ムード（11～13秒）、シネマティックなワイドショット。ヨーロッパの広場に立つ彼女。ゴールデンアワーの光がドラマチックなリムライトを作り出し、音楽に浸って目を閉じる彼女の髪が風に揺れる。カメラがゆっくりと寄り、感情的なインパクトを与える。ショット 7：エンディング（13～15秒）、最後のエレガントなワイドショット。自信に満ちた姿勢で立ち、両耳に白いイヤホンを装着し、マットシルバーのケースを持つ彼女。ヨーロッパの建築物がフレームを構成し、温かみのあるゴールデンアワーの光とティール＆オレンジのシネマティックなカラーグレーディング。控えめで自信に満ちた微笑み。全体を通してシームレスでスムーズなトランジション、フィルムグレインの質感。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065171629211066368/img/48gyozZk4FbMW-Ta.jpg" width="600" alt="高級ワイヤレスイヤホン製品紹介">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1ec6f1292c1bcbfb9f147e2b7a405d74/thumbnails/thumbnail.jpg" width="600" alt="高級ワイヤレスイヤホン製品紹介">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5937)**
 
@@ -441,7 +441,7 @@ Seedance 2.0 を使用して、夜のシネマティックなストリートレ�
 タイヤ内部のミニチュア・スタジアムをゆっくりと 360 度回転しながら捉えるシネマティックな映像。小さな選手たちの動きや熱狂する観客の様子を映し出します。その後、カメラはスムーズにフィールドへとズームインし、広角の全体像から、芝生の上で激しい試合を繰り広げるアルゼンチンとポルトガルの選手を追うローアングルのクローズアップ・マクロショットへと切り替わります。観客は興奮して飛び跳ね、旗をスローモーションで振る様子が同期した動きでリアルに表現されています。スタジアムの臨場感あふれるサウンド：観客の歓声、ドラム、ホイッスル、そしてサッカーボールを蹴るかすかなリアルな音が、タイヤという構造物の中でわずかに反響します。カメラの動きに合わせてピッチ上に動的な影が変化するシネマティックなライティングが、深い質感とドラマチックで超リアルな効果を生み出します。高フレームレートによる滑らかなモーションブラーが、プロフェッショナルな映像美を実現します。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065138936519827456/img/Y0lsNqnsndDxTg1M.jpg" width="600" alt="ミニチュア・ワールドカップ タイヤ・スタジアム">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6499c56e92d03d058fd7c591391accf1/thumbnails/thumbnail.jpg" width="600" alt="ミニチュア・ワールドカップ タイヤ・スタジアム">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5950)**
 
@@ -460,7 +460,7 @@ Seedance 2.0 を使用して、夜のシネマティックなストリートレ�
 FPV ショット：紅葉だけで作られた竜巻の中をダイブ。カメラは渦巻く葉の巨大なトルネードへと突入します。黄金色や深紅の粒子がレンズの周りで加速し、自然な形で「WILD」という文字を形成した後、嵐によって散らばっていきます。オーガニックな動きとシネマティックな美しさを追求した映像です。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065096720355127296/pu/img/J8d1mQGiQ4PjwQc0.jpg" width="600" alt="紅葉の渦巻きテキスト VFX">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d31b26cbd1ed91546f4cfc7cc95cedf7/thumbnails/thumbnail.jpg" width="600" alt="紅葉の渦巻きテキスト VFX">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5938)**
 
@@ -575,7 +575,7 @@ VFX なし。
 急ぎ足のテンポなし。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065091227402514432/pu/img/KmekL-nT1MpHK_Ll.jpg" width="600" alt="リアルな Omegle チャットのインタラクション">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/38e8bcea4395c5ba3a242a9d97fcd143/thumbnails/thumbnail.jpg" width="600" alt="リアルな Omegle チャットのインタラクション">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5932)**
 
@@ -594,7 +594,7 @@ VFX なし。
 観客席の 3 列目からスマートフォンで撮影しているような POV ハンディショット。フレームはわずかに揺れており、他の観客の頭越しに撮影されている。昼間の屋外にある日本の大きな劇場ステージで、封建時代の日本の村の門を再現している
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065078297008979969/img/g-ugqls75sm-yXx_.jpg" width="600" alt="日本の封建時代の村の劇場での POV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da98aad382c7ada2b9274265630c3e2d/thumbnails/thumbnail.jpg" width="600" alt="日本の封建時代の村の劇場での POV">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5945)**
 
@@ -613,7 +613,7 @@ VFX なし。
 暗闇から浮かび上がる高級腕時計。時を刻む歯車と針の動きを捉えた極端なマクロショット。時計の周囲を舞う黄金の火花と浮遊する粒子。サファイアクリスタルにドラマチックな光の筋が反射する中、時計の周りを旋回するカメラワーク。時計の周囲で空中に静止するスローモーションの水しぶき。自動的に組み上がる機械部品。シネマティックな黒と金の空間、プレミアムなコマーシャルライティング、超リアルな反射、高級ライフスタイル広告、壮大なオーケストラ調の雰囲気、滑らかなカメラモーション、製品のヒーローショット、ブランドの登場、ハリウッドレベルのコマーシャル、8K フォトリアリズム。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065078706276864000/img/-K9mrAcsDm1SW72r.jpg" width="600" alt="高級腕時計のコマーシャルアニメーション">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a5760b4e6c1671f3c7b730573664ff0c/thumbnails/thumbnail.jpg" width="600" alt="高級腕時計のコマーシャルアニメーション">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5935)**
 
@@ -644,7 +644,7 @@ VFX なし。
 全編を通して特殊効果によるトランジションはなし、シームレスなレンズ切り替え、控えめで心地よいカメラワーク、自然で滑らかなダイナミクス、リアルな髪の物理挙動、4K 超高精細。AI 特有の機械的な質感を避け、実写撮影のようなリラックスした質感を実現。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065071563121311745/img/cYCcpZGmYjV3eBPq.jpg" width="600" alt="高速鉄道の旅：シネマティック・ドキュメンタリー">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01f93576fe0bb3c4ff0c1dfdae3e8993/thumbnails/thumbnail.jpg" width="600" alt="高速鉄道の旅：シネマティック・ドキュメンタリー">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5952)**
 
@@ -663,7 +663,7 @@ VFX なし。
 Seedance 2.0 で 15 秒の動画を作成してください。キャラクター「WAGAHAI (orthographic views)」が、「Flova ai logo」が描かれた看板を持って楽しそうに飛び回っています。その後、キャラクターがカメラに近づき、顔と看板をレンズに近づけて満面の笑みを浮かべます。最後に、手書き風のテキスト「WAGAHAI meets Flovia.ai」が画面に表示されます。明るくポップな映像で、陽気な背景音楽を流し、字幕はなしでお願いします。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065067302207492096/img/RQjfBB4Dqaye5aLj.jpg" width="600" alt="ロゴボードを持つアニメーションキャラクター">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b2571be177a0b1f7faeb6b419ee6a63/thumbnails/thumbnail.jpg" width="600" alt="ロゴボードを持つアニメーションキャラクター">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5955)**
 
@@ -687,7 +687,7 @@ Seedance 2.0 で 15 秒の動画を作成してください。キャラクター
 シーン 5：実在の女性がファンデーションボトルを手に持ち、自信に満ちた眼差しでカメラを真っ直ぐに見つめる。フォトリアルで柔らかなシネマティックライティング、スムーズなトランジション、ハイエンドな美容コマーシャルの美学。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065058665653235712/pu/img/jjAWZEkQ1zmtSAjy.jpg" width="600" alt="ラグジュアリーファンデーションのコマーシャル映像">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f267e2980a9677d378f95b5788007fe7/thumbnails/thumbnail.jpg" width="600" alt="ラグジュアリーファンデーションのコマーシャル映像">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5943)**
 
@@ -718,7 +718,7 @@ Seedance 2.0 で 15 秒の動画を作成してください。キャラクター
 スタイル：超リアル、映画的、激しい垂直アクション、リアルな物理演算、雨、ガラスの反射、火花、煙、ドラマチックなライティング、速いながらも視認性の高いカメラワーク、高精細、テキストなし、ロゴなし、スローモーションなし、カートゥーン調なし、メインキャラクターの追加なし。比率を維持すること。スタイルと特徴を維持すること。アスペクト比 16:9。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064828582044594176/img/h9kGiXzxCIhyZav6.jpg" width="600" alt="映画のようなエレベーター落下アクションシーン">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96be6bd2cff486275193b1e49e635394/thumbnails/thumbnail.jpg" width="600" alt="映画のようなエレベーター落下アクションシーン">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5934)**
 
@@ -737,7 +737,7 @@ Seedance 2.0 で 15 秒の動画を作成してください。キャラクター
 フレーム 1 - 対峙 (1.5秒): 28mm アナモルフィックレンズ f/2.8、地面すれすれからの高速でアグレッシブなドリーイン。ヒーローの少年の青いオーラと邪悪なクローンの赤いオーラが互いに向かってゆっくりと広がり、オーラがぶつかる場所で紫色のエネルギーが弾ける。上空には雷鳴が轟く嵐のカートゥーン調の空。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065021597178814464/img/XkuDDBebIfdYRIoq.jpg" width="600" alt="カートゥーン調の戦闘シーンのアニメーションフレーム">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cffeed0bd1d382247e744d73140dbeb/thumbnails/thumbnail.jpg" width="600" alt="カートゥーン調の戦闘シーンのアニメーションフレーム">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5951)**
 
@@ -775,7 +775,7 @@ Seedance 2.0 で 15 秒の動画を作成してください。キャラクター
 キャラクターの変更禁止。女性を彫刻に変えないこと。設定を変更しないこと。テキスト、ロゴ、群衆は禁止。コミカルな表現は不可。混沌とした破壊描写は不可。過度なぼかしは禁止。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065020898713927680/img/OkVfd2M-TmrmkeMh.jpg" width="600" alt="大理石ギャラリーでのダンス・覚醒">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88ec0c4e71d971e50dc87c0ba7561d75/thumbnails/thumbnail.jpg" width="600" alt="大理石ギャラリーでのダンス・覚醒">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5958)**
 
@@ -813,7 +813,7 @@ Seedance 2.0 で 15 秒の動画を作成してください。キャラクター
 提供された 3x4 のストーリーボードを、滑らかなシネマティックビデオにアニメーション化してください。ショットの順序と連続性を正確に維持すること。繊維がほどけて土に還る様子、苔の胞子の開花、未加工の布地に降る雨、そして苗木を使用してください。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065010781075431424/pu/img/fKxCzQ2yTu5_zfvS.jpg" width="600" alt="シネマティックな自然のストーリーボードアニメーション">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0e6c2553ca7b7108275bc954a0d455f/thumbnails/thumbnail.jpg" width="600" alt="シネマティックな自然のストーリーボードアニメーション">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5946)**
 
@@ -858,7 +858,7 @@ Seedance 2.0 で 15 秒の動画を作成してください。キャラクター
 Made in @runwayml
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065011189948571648/pu/img/cNDGILwLjhZfgCVp.jpg" width="600" alt="登山家からイヌワシへの変身シークエンス">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a098b23043c96943655faa6018e45673/thumbnails/thumbnail.jpg" width="600" alt="登山家からイヌワシへの変身シークエンス">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5941)**
 
@@ -877,7 +877,7 @@ Made in @runwayml
 添付の「Tanghulu Master」ストーリーボードポスターを正確な視覚的リファレンスとして使用し、12 秒間の 16:9 中国風アニメーション食品広告を生成してください。動くポスターを生成するのではなく、8 枚のストーリーボードのフレームを連続した動画ショットに変換してください。1 から 8 までの順序を厳守し、各ショットを約 1.5 秒間としてください。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065007169389670400/img/VOh9XjcruEtpUgWO.jpg" width="600" alt="Seedance 2.0 タンフル（糖葫蘆）アニメーション食品広告">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/536aa592dc24e6b5619b8ffc78e0d038/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 タンフル（糖葫蘆）アニメーション食品広告">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5953)**
 
@@ -908,7 +908,7 @@ Made in @runwayml
 9～10 秒：海賊が料理を盛り付け、オウムにソースとパンを乗せた小さな皿を Slides させる。嬉しそうに飛び跳ね、海賊の横で食事をするオウム。温かいランタンの光、穏やかに揺れる船、フェードアウトしていくアコーディオンの優しい音色。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065003071718002688/pu/img/qPNoNbKanm8QAw7l.jpg" width="600" alt="海賊シェフとオウムの ASMR コメディ">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78eff3fa52a8608879a4323a3bd64c12/thumbnails/thumbnail.jpg" width="600" alt="海賊シェフとオウムの ASMR コメディ">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5940)**
 
@@ -945,7 +945,7 @@ Made in @runwayml
 重要：静止画のスライドショーは禁止です。カメラ、環境、エフェクトのすべてが動いていることを確認してください。インクやペイントには、跳ね返りや滴りといった物理的な特性を持たせてください。テキスト、ロゴ、UI は含めないでください。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064989452888612864/img/JH84ddvcfD6yuk9H.jpg" width="600" alt="東京アーバン・インクスプラッシュ・モンタージュ">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2a8d1bfb3952a02365230c010583b412/thumbnails/thumbnail.jpg" width="600" alt="東京アーバン・インクスプラッシュ・モンタージュ">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5957)**
 
@@ -986,7 +986,7 @@ Made in @runwayml
 超リアルな映像、IMAX シネマ品質の映像美、非常にシャープなディテール、感情に訴えかける没入型のストーリーテリング、自然なライティング、映画のような被写界深度、非常に表情豊かで女性らしい存在感、共感を呼ぶ人間味。キャラクターの顔は参照画像と完全に一致させ、ショット全体を通して一貫した顔立ちとアイデンティティを維持してください。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064975836491710464/pu/img/hE9TggDsNLESqX4s.jpg" width="600" alt="ある一日の連続トラッキングショット">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed40dc82ab894fe1157df2edffeeb459/thumbnails/thumbnail.jpg" width="600" alt="ある一日の連続トラッキングショット">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5936)**
 
@@ -1017,7 +1017,7 @@ Made in @runwayml
 最後の瞬間、世界各国の選手たちが集まり、紙吹雪が舞う中でワールドカップのトロフィーを掲げます。カメラが引いていくと、世界中で同時に歓喜する何百万人ものファンの姿が映し出されます。壮大で感動的、インスピレーションあふれる映像。リアルな観客の反応、シームレスなトランジション、シネマティックなライティング、サッカーを通じた世界の一体感。テキストなし、ウォーターマークなし、字幕なし。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064971235998806016/pu/img/jyTkefKodSf-vsG6.jpg" width="600" alt="サッカーワールドカップ：世界を巡る旅">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f6539c58e05a803366b2ebaf610536/thumbnails/thumbnail.jpg" width="600" alt="サッカーワールドカップ：世界を巡る旅">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5947)**
 
@@ -1036,7 +1036,7 @@ Made in @runwayml
 サイバーパンク・ネオン・サムライの決闘（ハイエナジーなバイラルアクションスタイル）15 秒間の超映画的サイバーパンク VFX 決闘、アナモルフィックレンズフレア、8K ハイパーリアリスティック、夜のネオンノワールな新宿の路地、リアルな水しぶきと濡れたアスファルトへの反射を伴う豪雨、ピンクとティールのボリュメトリックライティング、モーションブラーを効かせた高速シャッター、リアルな物理演算と様式化されたスローモーションの衝撃の融合、火花とエネルギーの衝撃波、テキストやロゴなし、サムライの顔、光るニューラルリンク、カタナの一貫性を維持、変形や余分な手足はなし。0～2 秒：極端なローアングルのトラッキングショット、光る青いニューラルリンクを持つサイバーサムライが豪雨の中を力強く歩み、カタナが電気エネルギーで唸りを上げる。2～4 秒：ホログラフィックのガードが出現するワイドなウィップパン、サムライが流れるような剣の連撃を繰り出し、刃がぶつかり合って明るい火花が散る。4～6 秒：120 fps のミディアムトラッキングショット、低い掃き足でガードを一人吹き飛ばし、カメラがリアルな雨の飛沫とともに脚の軌道を追う。6～8 秒：バレットタイムの 360 度オービット、サムライが振動するカタナでデジタルな弾丸の雨を弾き、スローモーションで広がる青いエネルギーの輪を作り出す。8～10 秒：垂直方向のスローモーションジャンプスピン、強力な振り下ろしがアスファルトを割り、コンクリートの破片と雨粒が完璧な球体となって上方に爆発する。10～12 秒：サムライの反射するバイザーへのクローズアップウィップパン、最後のガードに向き直る際にネオンライトが明滅する。12～14 秒：細められた目への極端なクローズアップ、鋭い金属音と放電とともにカタナが鞘に収まり、背景のネオンがボケる。14～15 秒：素早いワイドな引きのショット、雨と瓦礫が落ち着く中、ドラマチックなヒーローのシルエットでサムライが勝利のポーズで静止する。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064965007339597824/img/Kg6afbkHuCUZZ6tB.jpg" width="600" alt="サイバーパンク・ネオン・サムライの決闘">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a8cc2f775e8dba2bc856d6a52bcac6e/thumbnails/thumbnail.jpg" width="600" alt="サイバーパンク・ネオン・サムライの決闘">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5890)**
 
@@ -1065,7 +1065,7 @@ Made in @runwayml
 ゆっくりとしたドリーアウト。従業員は動かずに立ち尽くし、タバコを燃やしながら空白の壁を見つめ、ゆっくりと上司に視線を向ける。上司は静かにネクタイとジャケットを整え、表情は変わらない。沈黙の 2 ショットで 2 秒間静止。デッドパンなブラックコメディ、リアルな照明の切り替え、超フォトリアルなシネマティック・グレーディング。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064950579357741056/pu/img/e2KZ-RpNt8nOj86J.jpg" width="600" alt="オフィス会議室の緊迫感と予期せぬ展開">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09347e01a64bf47507557d6323fb01b2/thumbnails/thumbnail.jpg" width="600" alt="オフィス会議室の緊迫感と予期せぬ展開">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5939)**
 
@@ -1095,7 +1095,7 @@ Made in @runwayml
 ぼやけ、暗いシーン、ホラー、リアルな人間、低品質、テキストの誤り、歪んだ顔、余分な手足、醜い解剖学的構造、くすんだ色、彩度の低さ、悪い構図、透かし、ロゴ、切り取られたキャラクター、恐怖の表情、陰鬱な雰囲気、急ぎ足のテンポ、モーションアーティファクト。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064950143951208448/pu/img/4hOZcR3OW8_SDG-f.jpg" width="600" alt="ファンタジー王国のコメディアニメーション">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8931cc2dfdf9b6de55e8d058a009c1c1/thumbnails/thumbnail.jpg" width="600" alt="ファンタジー王国のコメディアニメーション">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5949)**
 
@@ -1162,7 +1162,7 @@ Made in @runwayml
 漫画、アニメ、低解像度、ぼやけ、ローポリゴン、重複した羽、余分な手足、奇形、テキスト、ロゴ、ウォーターマーク、ジッター、フリッカー、露出過多のハイライト、濁った影、不自然な月の形状、歪んだ街の遠近感、過度なモーションブラー
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064944099686256640/img/Z-ty51fESVfF_DxU.jpg" width="600" alt="幻想的なルナモスの変身">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/41c8e13b1c6afa6c879b73f7526c7ea5/thumbnails/thumbnail.jpg" width="600" alt="幻想的なルナモスの変身">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5942)**
 
@@ -1195,7 +1195,7 @@ Made in @runwayml
 ピクサー風 3D アニメーション、感動的なストーリーテリング、シネマティックなカメラワーク、表情豊かなキャラクターアニメーション、居心地の良いインテリア、活気あふれるスタジアムの雰囲気、世界的なサッカーの熱狂、温かみのある照明、感動的なムード、超高精細なビジュアル、映画品質のレンダリング、16:9 YouTube フォーマット。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064929740981686272/pu/img/ECV-h136KN6ouhbS.jpg" width="600" alt="ピクサー風のサッカーへの情熱を描いたアニメーション">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2606dd477ea73bedc9bfbca6f85f355a/thumbnails/thumbnail.jpg" width="600" alt="ピクサー風のサッカーへの情熱を描いたアニメーション">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5930)**
 
@@ -1240,7 +1240,7 @@ Made in @runwayml
 「THE FINAL RIDE...」
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064840058172264448/pu/img/FX9mTHLkH0TH7IYp.jpg" width="600" alt="究極の遊園地アドベンチャー">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e3ced5dd355ffaac286078b617ca8c96/thumbnails/thumbnail.jpg" width="600" alt="究極の遊園地アドベンチャー">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5933)**
 
@@ -1271,7 +1271,7 @@ Made in @runwayml
 彼女の背後でスタジアムの照明が点灯する。観客が熱狂に包まれる。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064916586058969088/pu/img/re69dRtTZxagpTjg.jpg" width="600" alt="シネマティックなスポーツドキュメンタリーの旅">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/361f3c0d3072002ca5d5b03c388f2248/thumbnails/thumbnail.jpg" width="600" alt="シネマティックなスポーツドキュメンタリーの旅">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5931)**
 
@@ -1318,7 +1318,7 @@ Made in @runwayml
 夜の遊園地でのフィナーレ。いたるところで輝くイルミネーション。ライトアップされた園内を見渡しながら微笑む女性。魔法のような雰囲気、シネマティックなエンディングショット、高精細、リアルな Vlog スタイル。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064652946722201600/pu/img/kOA7vh9NKOP3pr5K.jpg" width="600" alt="シネマティックな女子のライフスタイルVlog">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3cb8311fc3ef30fed41a1c82f50f8104/thumbnails/thumbnail.jpg" width="600" alt="シネマティックな女子のライフスタイルVlog">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5944)**
 
@@ -1345,7 +1345,7 @@ Made in @runwayml
 夢のようなシネマティックな雰囲気、柔らかなボケ味、優しいレンズフレア、空中に舞うきらめく塵、温かみのあるパステルカラー、非常に詳細な肌の質感、感情的で魅惑的なセルフラブの瞬間。超リアル、滑らかで自然な動き、16:9、15秒。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064866020766949376/img/a5fgWtf9qGl3h4P0.jpg" width="600" alt="魔法のようなスキンケアの朝の儀式">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4706b01e54af6dd08676622c9c14d17/thumbnails/thumbnail.jpg" width="600" alt="魔法のようなスキンケアの朝の儀式">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5948)**
 
@@ -1364,7 +1364,7 @@ Made in @runwayml
 90 年代のクラシックなディズニーアニメーションスタイル。シーン 1：ハイテクなダンジョン内。力強いトラがテーブルの上で仰向けになり、腹部のベルトで固定されている。トラは怒った様子で周囲を見回し、「ここはどこだ？」と尋ねる。シーン 2：テーブルの横の床から、白い手袋をした 2 本のロボットアームが現れ、トラに近づく。トラは困惑と不安の混じった表情でそれらを見つめる。シーン 3：手袋をした手がトラの腹部を優しくくすぐり始める。トラはすぐにニヤリと笑い、クスクスと笑いながら身をよじり、特徴的な笑い声で「やめてくれ、くすぐったいんだ！」と言う。手はくすぐり続ける。シーン 4：手がくすぐり続け、トラはクスクスと笑いながら身をよじり、前足で腹部をガードしようとする。シーン 5：片方の手袋がトラの手首を掴み、頭上に持ち上げる。トラは困惑しながらも笑い転げる。もう片方の手袋が、露出した脇の下をくすぐる。これにより、トラは前足を下げようとしながらヒステリックに笑い出す。シーン 6：手袋をした手が脇の下をくすぐり続け、トラは笑い続ける。英語のボイスオーバー。全編を通してロボットアームは 2 本のみ登場。
 ```
 
-<img src="https://pbs.twimg.com/media/HKfSei8XkAEyBu9.jpg" width="600" alt="90 年代ディズニー風のトラのアニメーション">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/94c94ee05ae84ce61f31be250842344a/thumbnails/thumbnail.jpg" width="600" alt="90 年代ディズニー風のトラのアニメーション">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5905)**
 
@@ -1383,7 +1383,7 @@ Made in @runwayml
 カメラは、惑星規模の巨大な産業機械が世界を真っ二つに引き裂こうとしている現場へと急降下する。地表には光り輝くエネルギーの亀裂が広がり、広大な大陸が互いに離れて漂流していく。2 機の高速艇が、国ほどの大きさがある移動する地殻プレートの間を縫うように進み、溶岩のような光が宇宙空間へと噴き出している。山脈全体がレンズの横を通り過ぎていく。宇宙船は、分離する陸地と惑星の地殻に取り付けられた巨大な産業メカニズムの間の、通り抜け不可能な隙間を通り抜ける。ハイライトとなる瞬間は、惑星の亀裂の上に吊り下げられた透明な制御球体の内部で訪れる。最後は破壊ゾーンの上空へとカメラが引き、彼らの眼下で世界がまるで花が開くように真っ二つに割れていく様子が映し出される。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064838296304312320/img/8cijVAigbXT2hEAD.jpg" width="600" alt="Fractured Planet Industrial Destruction">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68907d51a4990fff962c7c1cbedaaac1/thumbnails/thumbnail.jpg" width="600" alt="Fractured Planet Industrial Destruction">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5902)**
 
@@ -1402,7 +1402,7 @@ Made in @runwayml
 {{Image 1}} = 絵コンテの参照画像。添付の絵コンテ {{Image 1}} に基づき、高品質な 15 秒間の横型 16:9 動画を作成してください。テーマ：「墨絵と実写が混ざり合う京都」
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064836489591304192/img/DgRfC_fPdvL-Hchc.jpg" width="600" alt="京都の墨絵と実写の融合">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f8507fd69cebc4dfa68b95490653efa/thumbnails/thumbnail.jpg" width="600" alt="京都の墨絵と実写の融合">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5913)**
 
@@ -1433,7 +1433,7 @@ Made in @runwayml
 スタイル：超リアル、シネマティック、ハイペース、ドラマチックなライティング、ネオンブルーとオレンジの反射、リアルなモーションブラー、激しいカメラワーク、高精細。テキストなし、ロゴなし、スローモーションなし、カートゥーンスタイルなし、余計なキャラクターなし。プロポーションを維持。スタイルと特徴を維持。アスペクト比 16:9。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064819125793304576/img/ofw-8DdEIfow6gLN.jpg" width="600" alt="SF アクション「グラビティ・ハイスト」シークエンス">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5677e3829d8641c7a0cff7953d2ee957/thumbnails/thumbnail.jpg" width="600" alt="SF アクション「グラビティ・ハイスト」シークエンス">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5889)**
 
@@ -1452,7 +1452,7 @@ Made in @runwayml
 観客視点の POV 、スマートフォンによる手持ち撮影、わずかな手ブレ、群衆の頭上高くに掲げられたスマホ。前景には観客のシルエットが密集し、多くの人がスマホや小型カメラを掲げて撮影している。日本の夜の野外劇場で行われるスーパーヒーローのライブバトル。ステージは昭和後期の東京の夜の街並みを再現しており、ネオンサイン、電話ボックス、金属製の階段が配置されている。2 人の成人女性俳優がハリウッドスタイルのスーパーヒーローバトルを繰り広げる。左のキャラクターは赤と金の炎のエネルギーを、右のキャラクターは青と紫の念動力を使用。0 秒から 15 秒までの詳細なタイムラインには、エネルギー爆発、高速突進、肉弾戦、必殺技の激突、そして中国語のセリフが含まれる。技術仕様：縦型スマートフォンの手持ち撮影、固定 POV 、ワンカットの連続映像、デジタルノイズ、夜間の屋外照明。オーディオ：観客の歓声、エネルギー爆発音、機械音、中国語のセリフ、そしてクライマックスの拍手。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064802112504987648/img/HhKBovNCti5waMdz.jpg" width="600" alt="アニメ・スーパーヒーローの実写ステージバトル">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a7c34d9e78decbdc6c59dd4a9d97de2/thumbnails/thumbnail.jpg" width="600" alt="アニメ・スーパーヒーローの実写ステージバトル">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5907)**
 
@@ -1547,7 +1547,7 @@ Made in @runwayml
 冒険はまだ始まったばかりだという感覚で終了。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064776803713994752/img/mYDny7hVU9sVHyqn.jpg" width="600" alt="エネルギッシュなインド旅行 VLOG シーケンス">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3042826eb2cb6b179d165e3bbc5224b4/thumbnails/thumbnail.jpg" width="600" alt="エネルギッシュなインド旅行 VLOG シーケンス">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5886)**
 
@@ -1639,7 +1639,7 @@ Made in @runwayml
 "Luxury perfume bottle on black obsidian pedestal, golden particles swirling elegantly, dark premium background, cinema"
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064781667626328064/pu/img/zAR1MH2pp-t9uM4n.jpg" width="600" alt="プレミアム高級香水広告のシーケンス">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c57194fd3a65c3f85479b1098fc6658/thumbnails/thumbnail.jpg" width="600" alt="プレミアム高級香水広告のシーケンス">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5895)**
 
@@ -1666,7 +1666,7 @@ Made in @runwayml
 リアルな人体の動き、力強い勢い、説得力のあるパルクール技術、速くも明確なアクション、着地時の自然な衝撃、映画のようなカメラワーク、近接トラッキングショットにおけるわずかな手持ちカメラの臨場感、暖かいゴールデンアワーの照明、ドラマチックなレンズフレア、高精細、リアルな都市のスケール、強烈な冒険の雰囲気。アングル間のスムーズな連続性。スローモーションなし、テキストなし、ロゴなし、人物の重複なし、四肢の歪みなし。プロポーション、スタイル、特徴を維持すること。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064779456019910656/img/YOc4PceF__5_kmP6.jpg" width="600" alt="ゴールデンアワーの屋上パルクールチェイス">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43d50dbc92db2d419c5b2b1f2890df82/thumbnails/thumbnail.jpg" width="600" alt="ゴールデンアワーの屋上パルクールチェイス">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5899)**
 
@@ -1687,7 +1687,7 @@ Made in @runwayml
 バイクの横からの超ローアングル・トラッキングショットで始まり、不可能なジャンプでのスピードランプ、爆発するトラックへのウィップパン、炎と崩壊する残骸の中を抜ける FPV チェイス、レンズに絶えず当たる火花と砂。嵐を切り裂くドラマチックなオレンジ色の夕日のライティング。最後は、背後で数十台の燃える車列が崩壊する中、爆発する砂嵐からバイカーが一人で走り去り、カメラがゆっくりと上昇してハイウェイが炎の墓場と化した様子を映し出す壮大な空撮で締めくくる。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064735590579392512/pu/img/8gnzT4uHUxdegQJi.jpg" width="600" alt="マッドマックス風 サイバネティック・バイカーのアクションシーン">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b0044569898ef5d97418a5882fc5eae5/thumbnails/thumbnail.jpg" width="600" alt="マッドマックス風 サイバネティック・バイカーのアクションシーン">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5887)**
 
@@ -1712,7 +1712,7 @@ Made in @runwayml
 全体を通して明るい MLS スタジアムの照明、青々とした芝生、満員のスタジアム。左下にスコア表示 — MIA 5 CLB 1、時計は 87:23。放送特有の粒子感とわずかな圧縮ノイズ、本物のライブテレビの質感、観客ショットには望遠レンズによる圧縮効果、シネマティック、4K。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064725766269796352/pu/img/V0rHEF032Iiwm_y5.jpg" width="600" alt="リオネル・メッシの MLS 放送用ゴールシーンと歓喜の瞬間">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b44a77aabcc7873cab95a2492edf893d/thumbnails/thumbnail.jpg" width="600" alt="リオネル・メッシの MLS 放送用ゴールシーンと歓喜の瞬間">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5892)**
 
@@ -1733,7 +1733,7 @@ Made in @runwayml
 [10～15秒]：ドリフトとウィップパン。巨大なジャンプ台の頂点の下で、カメラが砂煙を上げながらパワースライドを決める。その直上をネオンカラーのラリーカーが飛び越し、轟音を立てる排気炎が空気を焦がす。排気バックファイアの鮮やかなオレンジ色の閃光をトランジションとして利用し、カメラは右へ 180 度、激しいモーションブラーを伴うウィップパンを実行。スポンサーロゴが並ぶ防火服を着たピットクルーチーフを完璧に捉え、彼女がチェッカーフラッグを振り下ろし、手袋をした指でレンズを直接指さす瞬間を収める。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064722838784024576/img/cdXs0du3wFKPIwN5.jpg" width="600" alt="砂漠の峡谷 FPV ラリーレース">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2a9f7f3565c7a5ecd6bba66d87fd8521/thumbnails/thumbnail.jpg" width="600" alt="砂漠の峡谷 FPV ラリーレース">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5898)**
 
@@ -1752,7 +1752,7 @@ Made in @runwayml
 異なる現実へとつながる扉が並ぶ無限の宮殿。各部屋には同じ世界の異なるバージョンが映し出され、カメラはカットなしでポータルを通り抜け続けます。宇宙間をシームレスに遷移する映像体験です。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064721414872092672/img/P5fap7o4nvfvjNqm.jpg" width="600" alt="Infinite Palace Multiverse Portals">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c90e5bd6955098f9181ddf3bdf104e76/thumbnails/thumbnail.jpg" width="600" alt="Infinite Palace Multiverse Portals">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5897)**
 
@@ -1834,7 +1834,7 @@ image1 から image9 を様々なサイズの長方形にランダム配置。
 同じエフェクトを連続して使用せず、15 秒間を通して画面構成が絶えず変化する、情報量の多いエネルギッシュな映像に仕上げてください。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064719067811045376/pu/img/6C6rYW-fBO2ujMMR.jpg" width="600" alt="ハイテンポな 9 枚画像グリッチ編集">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9374071c3c1d939341e9ce25d8a846b8/thumbnails/thumbnail.jpg" width="600" alt="ハイテンポな 9 枚画像グリッチ編集">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5911)**
 
@@ -1853,7 +1853,7 @@ image1 から image9 を様々なサイズの長方形にランダム配置。
 ミニマルな白いギャラリー空間を舞台にした、映画のような高コントラストのアクション動画。伝統的な黒い侍の着物を纏い、長く流れるような白髪と白い鬼の面をつけたキャラクターが、巨大な書道用の筆を振るう。キャラクターがダイナミックに回転し筆を振り抜くと、太く流動的な立体感のある墨絵の線が空中に浮かび上がる。墨は魔法のように実体化し、獰猛で超リアルな虎や、キャラクターの周囲を雄大に舞う2頭の巨大な龍へと姿を変える。フォトリアルな 3D CGI、Unreal Engine 5 によるリアリズム、極めてシャープなディテール、Unreal Engine 5 レンダリング、深い黒の墨と鮮やかな白の背景によるドラマチックなコントラスト。スローモーションのスイープ、筆の動きを追うダイナミックなトラッキングショット、流体パーティクルシミュレーション、スタジオ照明、8K 解像度。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064710188654059520/pu/img/pJIkjoVTw_YYOSR0.jpg" width="600" alt="侍の鬼面と墨絵アート">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/519c122acd5bbadc7b6227a4180200f1/thumbnails/thumbnail.jpg" width="600" alt="侍の鬼面と墨絵アート">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5903)**
 
@@ -1872,7 +1872,7 @@ image1 から image9 を様々なサイズの長方形にランダム配置。
 添付の「THE CINNAMON ROLL BAKER」の絵コンテを正確な視覚的リファレンスとして使用してください。全 8 ショットを忠実に再現した、12 秒間・16:9 のピクサー 3D アニメーションシーケンスを作成してください。同一の若い女性、クリーム色のエプロン、居心地の良い明るいホームキッチン、そして全体を通して温かみのある黄金色の朝の光を表現してください。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064706243650867200/img/CpFbln2K1ollFdCc.jpg" width="600" alt="ピクサー風のシナモンロール職人">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b24ddaa8ae7a8b9e003a84203175b15/thumbnails/thumbnail.jpg" width="600" alt="ピクサー風のシナモンロール職人">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5904)**
 
@@ -1901,7 +1901,7 @@ image1 から image9 を様々なサイズの長方形にランダム配置。
 スタイル：シネマティック、明るく華やかな自然光、鮮やかなカラーグレーディング、日光によるレンズフレア、リアルなモーションブラー、浅い被写界深度、大作映画のようなレッドカーペットのクオリティ。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064701553706213376/img/QgSbTIGxEULxwURl.jpg" width="600" alt="レッドカーペットでのシネマティックなヒーロー登場">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbb7541bf7d58e7f2350a779444278f4/thumbnails/thumbnail.jpg" width="600" alt="レッドカーペットでのシネマティックなヒーロー登場">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5900)**
 
@@ -1928,7 +1928,7 @@ image1 から image9 を様々なサイズの長方形にランダム配置。
 最後は、朝日の温かな光を浴びながら、庭の中心で美しいヨガのポーズをとる女性の印象的なショットで締めくくります。カメラがゆっくりと引き、穏やかな風景を映し出すことで、調和、マインドフルネス、ウェルネス、そして自然とのつながりを感じさせます。超リアルなシネマティック・フォトグラフィー、プレミアムなウェルネスブランドのコマーシャル、浅い被写界深度、柔らかな自然色、平和なムード、滑らかなジンバルワーク、フォトリアル、16:9 アスペクト比。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064680024788406272/pu/img/gI8K17-KDdtUVgKm.jpg" width="600" alt="穏やかな朝のヨガフロー">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fdfa1fb43bc96440e231358aa679648a/thumbnails/thumbnail.jpg" width="600" alt="穏やかな朝のヨガフロー">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5901)**
 
@@ -1947,7 +1947,7 @@ image1 から image9 を様々なサイズの長方形にランダム配置。
 一人称視点のスマートフォンによる手持ち懐中電灯の映像。夜、古いアパートのドアを押し開けると、カメラは散らかった湿気のある薄暗い寝室に入る。隅にうずくまる女性がおり、何かに囚われている様子。手持ちカメラのわずかな揺れと荒い息遣いが聞こえる、リアルなホラー短編映画の質感。ショット 1 (0-3秒): ドアが軋んで開き、光が部屋を照らし、驚いた様子の女性を見つける。ショット 2 (3-6秒): 彼女が安堵の笑みを浮かべてカメラに向かって走ってくる。ショット 3 (6-9秒): 照明が点滅し、彼女が立ち止まって「やっと来たのね」と冷たい声で言う。ショット 4 (9-12秒): 彼女の表情が凍りつき、目が異常な光を反射して「私は救助を待っていたんじゃない……代わりを待っていたのよ」と言う。ショット 5 (12-15秒): 懐中電灯が激しく点滅し、彼女の顔が幽霊のような姿へと歪み、ジャンプスケアと共にドアが閉まって終了。スタイル: 一人称視点のモバイル録画、デジタルノイズ、モーションブラー、圧迫感のある雰囲気、音楽なし、流血表現なし。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064674036542504960/img/d5ruA3s0IHft_FeV.jpg" width="600" alt="一人称視点のホラー体験">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/261ae7afaebb2bc3d06c17769cdb9479/thumbnails/thumbnail.jpg" width="600" alt="一人称視点のホラー体験">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5908)**
 
@@ -2011,7 +2011,7 @@ image1 から image9 を様々なサイズの長方形にランダム配置。
 移動に伴う目に見えない妖精たちが、現実の駅空間に自然に共存している 15 秒間の動画を作成してください。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064672408293068800/img/P2N1ocGjWxYZ0kIc.jpg" width="600" alt="都市の落書きと都会の妖精のモンタージュ">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f85938371f2b825b479201afe0aa1615/thumbnails/thumbnail.jpg" width="600" alt="都市の落書きと都会の妖精のモンタージュ">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5909)**
 
@@ -2030,7 +2030,7 @@ image1 から image9 を様々なサイズの長方形にランダム配置。
 15 秒のアニメーション・サッカーアクション短編。夜のスタジアム、投光照明、歓声。回転するサッカーボールがすべてのショットの中心的なオブジェクトであり、最初から最後まで常に画面に表示されていなければならない。ライバルは 2 人：ライバル A = 長い野性的な黒髪、黒いユニフォーム。ライバル B = 短い黒髪、背番号 7 のネイビーのユニフォーム。全身のアクションショットのみ、ピッチを示すワイドおよびミディアムアングル。0～4 秒：キックオフ。両プレイヤーが同時にボールを蹴る。ボールは両者のブーツの間で激しく回転し、衝撃波が両プレイヤーを後ろに吹き飛ばす。ボールは中央に留まり、芝生の上で回転し続ける。4～9 秒：ライバル B が立ち直り、回転するボールを高速でドリブルする。低い位置からのワイドなトラッキングショット：彼の足、ボール、芝生が常にフレーム内に収まっている。9～12 秒：ライバル A が背後からスライディング。ライバル B は同じボールを空中に跳ね上げてタックルをかわす。ボールははっきりと見える状態で弧を描いて上昇する。12～15 秒：ライバル B が跳躍し、空中のボールを稲妻を帯びたミッドエア・ボレーで蹴る。ボールは青い電気を纏ってゴールに向かって一直線に飛ぶ。最終フレーム：ボールがネットを揺らす。継続性ルール：ビデオ全体を通して唯一のボールが存在し、カット間で消えることはない。ネガティブ：キャラクターのクローズアップ、きらめきやグリッター効果、静止ポーズ、会話シーン、ボールのないシーンはなし。[夜のスタジアム。投光照明が輝く。サッカーボールはセンターサークルにあり、芝生の上でゆっくりと回転している。群衆の轟音が響き渡る。][ライバル A（長い野性的な黒髪、黒いユニフォーム）が足を踏み込む。ライバル B（短い黒髪、背番号 7 のネイビーのユニフォーム）が反対の足を踏み込む。両者が同時にボールを打つ。ボールは衝突する足の間で激しく回転し、衝撃波が外側に広がる。両プレイヤーは後方に飛ばされる。ボールは中央に留まり、まだ芝生の上で回転している。][ライバル B が立ち上がる。低角度のワイドトラッキングショット。彼の足、回転するボール、そして芝生が 1 つのフレームに固定されている。彼はフルスプリントで前進し、高速でピッチを駆け抜ける際にボールが足元で転がり回転する。][ライバル A が背後からスライディングタックルを開始し、スパイクが芝生を引き裂く。ライバル B はつま先でボールを受け、そのままの動作で上に跳ね上げる。ボールはスライディングする足を越えて高くはっきりと弧を描く。][ライバル B が跳躍。ボールは空中に浮いている。彼の右脚がしなり、青い電気を帯びたボレーシュートを放つ。ボールは電光の尾を引いてゴールに向かってロケットのように飛ぶ。ボールが当たるとネットが後方に弾け、群衆が沸き立つ。]
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064626904083333120/img/pbe5CQyKhDh_MI9N.jpg" width="600" alt="超次元 AI サッカーアクション">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/334a7d1251bf0d49a7a6b1a4da21ddb2/thumbnails/thumbnail.jpg" width="600" alt="超次元 AI サッカーアクション">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5912)**
 
@@ -2049,7 +2049,7 @@ image1 から image9 を様々なサイズの長方形にランダム配置。
 曇り空の下、高校の陸上トラックで繰り広げられるハイテンポな SF ビデオシーケンス。紺と白のトラックスーツを着た金髪の女性が、逃げ惑う生徒たちを背に自信に満ちた足取りで歩いてくる。彼女の手首にいたロボットスパイダーが急速に展開し、白、紫、金の装甲板、メカニカルな翼、そして紫に光るヘルメットを備えた全身ナノテク・アーマーへと変化する。巨大な岩の怪物が突進してくるが、彼女は強力な紫色のエネルギーブラストでそれを軽々と粉砕し、煙と破片が舞う大爆発を引き起こす。カメラがクローズアップにズームインすると、ヘルメットが格納され、彼女が微笑みながらカメラに向かって紫に輝く投げキッスをする。シネマティックなライティング、フォトリアルな VFX、8k。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064608014934695936/pu/img/_Gi3k8G3kwVwYdpr.jpg" width="600" alt="ナノテク・スーパーヒーロー・アーマーへの変身">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29c55b68fdc4d6622f51729bf1bf2506/thumbnails/thumbnail.jpg" width="600" alt="ナノテク・スーパーヒーロー・アーマーへの変身">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5884)**
 
@@ -2111,7 +2111,7 @@ image1 から image9 を様々なサイズの長方形にランダム配置。
 最後のシネマティック・シークエンス：夕日に輝く郊外の通りをアイスクリームトラックが走り去り、少年と子犬がゴールデンアワーの光の中を並んで歩いていきます。空撮によるワイドショットで平和な住宅街が映し出され、長い夕日の影、温かい感情的な雰囲気、家族向けの心温まる結末、映画的な被写界深度、リアルなアニメーション物理演算、表情豊かな演技、感動的なオーケストラ音楽、ピクサーにインスパイアされたストーリーテリング、失望を幸せに変える優しさをテーマにしています。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064562625665732608/pu/img/DdV-PxKwtHvgNfob.jpg" width="600" alt="ピクサー風：アイスクリーム救出作戦">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7bf2f26f2d4b54e248e13efa6338d2e9/thumbnails/thumbnail.jpg" width="600" alt="ピクサー風：アイスクリーム救出作戦">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5896)**
 
@@ -2130,7 +2130,7 @@ image1 から image9 を様々なサイズの長方形にランダム配置。
 日本の侍が刀を振り下ろし、額縁の右側が破壊される。侍は黒い煙を出しながら外へ歩み出る。日本の侍が刀を振り下ろす。額縁の右側のフレームが壊れる。フレームの向こう側から、侍が黒い煙を出しながら右方向へ歩み出る。テキストなし、カット変更なし、キャラクター変更なし。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064555806897651712/img/CPd0kemWyoR7hXkr.jpg" width="600" alt="額縁を突き破る侍">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a8b4432a1ac8b67474486cc10306a0ee/thumbnails/thumbnail.jpg" width="600" alt="額縁を突き破る侍">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5879)**
 
@@ -2160,7 +2160,7 @@ Maya (タイ) がヒマラヤンと共に優雅に座り、言う：「そして
 最後の紹介が終わると、カメラは引きの画になり、8 人の女性と猫全員が映し出されます。猫たちは自然に触れ合い、遊んだり、伸びをしたり、歩き回ったりし、女性たちは微笑み笑い合います。温かみのある夕暮れのライティング、シネマティックな被写界深度、滑らかなカメラトランジション、高級感のあるインテリア、リアルな猫の挙動、自然な表情、ハイエンドなコマーシャル品質、Pixar 風のリアリズム、優雅で心温まる雰囲気、16:9。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064553707937914881/pu/img/O9sXuG-7OQX7u0d-.jpg" width="600" alt="シネマティックなペントハウスでの猫紹介シーン">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3bc6f5681307bc936c9ddfece06c300a/thumbnails/thumbnail.jpg" width="600" alt="シネマティックなペントハウスでの猫紹介シーン">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5888)**
 
@@ -2219,7 +2219,7 @@ Maya (タイ) がヒマラヤンと共に優雅に座り、言う：「そして
 リアルなスマホ流出映像風の 10 秒間の縦型 9:16 動画を生成してください。舞台は夜の大型漁船のデッキで、右側には暗い海、左側と奥には白い船の構造物、手すり、作業灯、乗組員が配置されています。デッキは海水で濡れて反射しており、金属製のハッチ、ロープ、ボートフックが見えます。明るい白色の船灯がデッキを照らしていますが、遠くの海はほぼ真っ暗です。映像には低画質のモバイル圧縮、手持ちカメラの揺れ、モーションブラー、夜間のノイズが含まれます。内容は、巨大なサメから逃れるために大型のマグロがデッキに飛び込んでくる様子です。雰囲気はリアルで混沌としており、ブラックユーモアの要素も含まれます。タイムライン：0～2秒：最初のマグロが暗い海からデッキに飛び込む。2～4秒：さらに多くのマグロが飛び込み、乗組員が驚いて後ずさりする。4～6秒：カメラが飛び跳ねる魚を追い、水中に潜む影が映る。6～8秒：巨大なサメが手すりの近くで水面から飛び出し、大きく口を開けて鋭い歯を見せる。8～10秒：サメの口が画面いっぱいに広がり、咆哮を上げたところで混沌のうちに映像が終わる。カメラ：手持ち、ワンショット、カットなし。オーディオ：海風、機械の唸り音、波の音、魚が跳ねる音、乗組員の叫び声、水しぶきの音。視覚的焦点：暗い夜の海、白いデッキ、飛び跳ねるマグロ、パニックに陥る乗組員、そしてサメの最後の接近。ネガティブプロンプト：デッキ上のサメなし、アニメーションスタイルなし、昼光なし、血なし、テキストやウォーターマークなし。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064539020684636160/img/xFjkDwnsRCjava9W.jpg" width="600" alt="漁船に飛び込むマグロを追うサメ">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56f6020b68cd8f1c356aacc475f20b1d/thumbnails/thumbnail.jpg" width="600" alt="漁船に飛び込むマグロを追うサメ">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5906)**
 
@@ -2248,7 +2248,7 @@ Maya (タイ) がヒマラヤンと共に優雅に座り、言う：「そして
 ショット 5 (13–15秒)：時間が通常に戻る。爆風が高速艇を追い越し、燃える残骸がうねりの上に降り注ぐ。乗組員が甲板から立ち上がり、ずぶ濡れのまま背後で沈みゆく燃える船の残骸を見つめる。指揮官がニヤリと笑い、無線を入れる：「見事な命中だ」。潜望鏡が水面下に沈んでいく。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064519788349759488/img/S6tI90xo3RJ_AnW2.jpg" width="600" alt="魚雷 vs メガロドン：大海原の追跡劇">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b89efdf4c83c6a9bc112e8817c6b9a77/thumbnails/thumbnail.jpg" width="600" alt="魚雷 vs メガロドン：大海原の追跡劇">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5894)**
 
@@ -2275,7 +2275,7 @@ Maya (タイ) がヒマラヤンと共に優雅に座り、言う：「そして
 直後、オレンジ色の猫は拳を突き上げ、カメラに向かって強烈なパンチを繰り出す。衝撃で画面が激しく揺れる。デジタルノイズやグリッチ、信号干渉の音が鳴り響き、まるで映像が破損したかのようになる。激しい電子音とともに、画面は完全にブラックアウトする。シネマティックでユーモラス、予測不能な異世界アドベンチャー。ダイナミックなカメラワーク、映画レベルのアニメーション品質、豊かな環境描写、鮮やかな色彩、そして圧倒的なスピード感が特徴。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064518682429227008/img/9Nw1RHEr3stdTXTc.jpg" width="600" alt="アニメ調・水中都市のトランジション">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fb926a1c98c1b6b14c68900c9b1c9a64/thumbnails/thumbnail.jpg" width="600" alt="アニメ調・水中都市のトランジション">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5855)**
 
@@ -2304,7 +2304,7 @@ Maya (タイ) がヒマラヤンと共に優雅に座り、言う：「そして
 ショット 5 (13–15秒)：時間が通常に戻る。衝撃波が水面を平らにならす。スピードボートが下の開けた川へと滑り出し、操縦士が燃え盛るゲートを振り返り、拳を突き上げる。上空では、射手が煙を上げるランチャーを下ろし、無線を入れる。「ゲート、閉鎖完了」。カット。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064518373866921984/img/76d7h_L28i3ny1ik.jpg" width="600" alt="巨大ワニ vs ダム軍事作戦">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f53b7ecfff20c0e74c93fd7d71c03c20/thumbnails/thumbnail.jpg" width="600" alt="巨大ワニ vs ダム軍事作戦">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5893)**
 
@@ -2333,7 +2333,7 @@ T-Rex 級の巨大なトカゲが、明るく過酷な日差しの下、離陸�
 ショット 5 (13–15秒)：時間が通常に戻る。貨物輸送機が滑走路の最後の 1 メートルで離陸し、燃えながら転がる死骸の上を急上昇していく。兵士は損壊したランプにしがみつき、風が唸る中で狂ったように笑っている。背後の滑走路では残骸が燃え続けている。カット。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064509655779524608/img/yAWpQwQe7giB4U73.jpg" width="600" alt="T-Rex 対 軍用輸送機のアクションシーン">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e00fa725e9bc3b6ec1c4402fde70e0ba/thumbnails/thumbnail.jpg" width="600" alt="T-Rex 対 軍用輸送機のアクションシーン">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5891)**
 
@@ -2361,7 +2361,7 @@ T-Rex 級の巨大なトカゲが、明るく過酷な日差しの下、離陸�
 一点に収束して消滅するポータルの極端なクローズアップ。火花が消え、ゆっくりとシネマティックに前進するカメラ。きらめくディテール、ドラマチックな光。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064503266147225600/img/25apufxKXTqRk_A2.jpg" width="600" alt="SF タイムトラベラーのシネマティックなビデオシーケンス">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04d729ea94e009bab7891119e8c41f89/thumbnails/thumbnail.jpg" width="600" alt="SF タイムトラベラーのシネマティックなビデオシーケンス">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5883)**
 
@@ -2382,7 +2382,7 @@ T-Rex 級の巨大なトカゲが、明るく過酷な日差しの下、離陸�
 バイラルなソーシャルメディアスタイル、リアルな夜のライティング、濡れて反射する表面、高い緊張感と興奮、ドキュメンタリー風の手持ち映像
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064501280555630592/img/QRhIfOK8JW1cIV9U.jpg" width="600" alt="バイラル動画：漁船を襲うサメ">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd5d0af83b43c60de4672d1912820d3f/thumbnails/thumbnail.jpg" width="600" alt="バイラル動画：漁船を襲うサメ">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5882)**
 
@@ -2401,7 +2401,7 @@ T-Rex 級の巨大なトカゲが、明るく過酷な日差しの下、離陸�
 リアルな固定カメラのショート動画コメディ、2 シーン構成、登場人物はすべて成人で、完全に服を着用。小道具はすべてプラスチック製の漫画のようなおもちゃ、または安全なコメディ用小道具を使用。全体的に不条理な逆転コメディであり、実際の暴力、流血、曖昧な表現、性的な示唆は一切なし。[00:00-00:07] ショット 1 - 車内固定カメラ：夜の車内、センターコンソールに固定されたカメラ、完全に静止（ズーム、揺れ、パンはなし）。フレーム内には、汚れた白いタンクトップを着た無精髭の成人男性（hf_20260506_032645_e6665446-0056-40fc-b99f-8d85619f8789）が運転しており、助手席には成人女性が座っている。突然誰かが割り込み、男性は急ブレーキをかけ、前方に突っ込み、怒ってハンドルを叩く。彼は大げさな安っぽいプラスチック製の漫画のようなナイフを取り出し、怒ってドアを開ける。女性は「行かないで！危ないって言ったでしょ！」と必死に止める。彼はそれを無視して「ちょっと質問したいだけだ！」とつぶやき、フレームアウトする。ドアが閉まる音がし、女性は力なく座り込んでいる。[00:07-00:15] ショット 2 - 固定カメラの反転：通常の寝室へ切り替え、ミディアムショット、完全に静止。無精髭の男性がベッドに横たわり、現実に打ちのめされたかのように枕に顔を埋めて苦悶の表情を浮かべている。その後ろに女性（ref hf_20260609_173858_0a2ea93a-89fc-4376-a250-0d2e8ea60474 (1)）が座り、怒りつつも呆れた様子で見ている。[00:07-00:09] 女性は服の上から男性の腰や背中を大げさな「バシッ」という音を立てて叩き、「ほら、言ったでしょ、行くなと言ったのに、危なすぎるわ！」と言う。[00:09-00:12] 彼女は隠しポケットからプラスチック製のナイフ（ref hf_20260609_173858_0a2ea93a-89fc-4376-a250-0d2e8ea60474 (1)）を取り出し、続いてバドミントンのラケットを取り出す。男性は滑稽な後悔の表情で顔をしかめ、背景には赤ちゃんの泣き声が聞こえる。[00:12-00:15] 彼女は失敗した手品のように、長いカラフルな布の帯を次々と引き出し続ける。男性は顔を埋め、女性は「それ見たことか」という表情でカメラを見つめる。サウンド：ブレーキ音、タイヤの摩擦音、ハンドルを叩く音、ドアの開閉音、つぶやき、不安げな忠告。第 2 シーンには「バシッ」という音、プラスチック玩具の摩擦音、ラケットの音、布が擦れる音、マットレスのきしみ音、赤ちゃんの泣き声。音楽なし、悲鳴なし。スタイル：リアルな低予算コメディ。第 1 シーンは冷たい夜の光、第 2 シーンは暖かい寝室の光。自然だが大げさな動き、安っぽいプラスチックの小道具、不条理な逆転のテンポ。避けるべき要素：本物のナイフ、実際の危害、流血、虐待、ヌード、性的示唆、未成年者、追加のキャラクター、字幕、ウォーターマーク、カメラの動き、揺れ、歪み。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064488445188161536/img/8fK_pcpBLVFxb_uY.jpg" width="600" alt="あおり運転を題材にした不条理コメディシーン">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57e48bde914c887eab018f56d21be52a/thumbnails/thumbnail.jpg" width="600" alt="あおり運転を題材にした不条理コメディシーン">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5872)**
 
@@ -2423,7 +2423,7 @@ T-Rex 級の巨大なトカゲが、明るく過酷な日差しの下、離陸�
 最終形態は、黒い生体組織とエイリアン合金が融合したスーツで、脈動する質感を持つ「生きている」かのような外観。スーツの輪郭に沿って、かすかに光る赤い血管のようなラインや複雑な回路が走り、フェイスプレートやヘルメットの深淵で不気味に赤く光る目へと繋がっている。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064470275828461568/img/o76eJqGz8VO-jUMW.jpg" width="600" alt="エイリアン・バイオスーツへの変身">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/92210fd629f7e921a5fda7c0898e4854/thumbnails/thumbnail.jpg" width="600" alt="エイリアン・バイオスーツへの変身">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5862)**
 
@@ -2442,7 +2442,7 @@ T-Rex 級の巨大なトカゲが、明るく過酷な日差しの下、離陸�
 外洋に浮かぶ白いボートの側面で、巨大な茶色のタコがスキューバダイバーを襲う様子を捉えた、スマホによるリアルな手持ち映像。青いウェットスーツに黄色の酸素ボンベを背負ったダイバーがボートのデッキに横たわっており、そこへ巨大なタコが飛びかかって船体に張り付く。タコの太い触手がダイバーの足や体に巻き付き、力強く海の方へと引きずり込もうとするため、水しぶきが上がり激しい抵抗が繰り広げられる。ダイバーは抗うものの、ボートの端から引きずり落とされてしまう。手持ちカメラ特有のわずかな揺れを伴うダイナミックな映像で、リアルな波の動き、自然光、そしてタコの皮膚やウェットスーツ、ボートの細部まで緻密に描写。フォトリアル、高精細、ドラマチックな緊張感、ドキュメンタリースタイル。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064463653957771264/img/b6gJ9TdMNyQWhN7G.jpg" width="600" alt="タコがスキューバダイバーを襲う様子">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52cd00b23f9e31b12dc74351d9275b14/thumbnails/thumbnail.jpg" width="600" alt="タコがスキューバダイバーを襲う様子">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5857)**
 
@@ -2471,7 +2471,7 @@ T-Rex 級の巨大なトカゲが、明るく過酷な日差しの下、離陸�
 ショット 5 — 残骸が悲鳴を上げるレヴィアタンを深海へと引きずり込む。ケーブルが怪物を引きずり込む直前、巨大な尾びれが海面を叩く。女性は切れたケーブルにぶら下がり、渦巻く海の上で揺れている。怪物を襲った橋が、皮肉にも怪物を溺れさせる。ゆっくりと引いていく空撮映像：破壊された Sea Link、沈みゆく光、そして雨の向こう側で無関心に輝く街の灯り。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064441765424484352/img/4ZcUIDcsDE4d7tsN.jpg" width="600" alt="ムンバイ・シーリンクを襲う怪獣">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e50e6c37c0362db861f7af31cc29136/thumbnails/thumbnail.jpg" width="600" alt="ムンバイ・シーリンクを襲う怪獣">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5847)**
 
@@ -2496,7 +2496,7 @@ T-Rex 級の巨大なトカゲが、明るく過酷な日差しの下、離陸�
 中世ファンタジー映画の生のフィルム素材のように撮影された、1960 年代の本格的なフィルムストックの質感。豊かな暖色系の色調、自然な不完全さ、松明によるわずかなレンズフレア、有機的なカメラの揺れが特徴です。全編を通して、古典的な冒険映画を彷彿とさせる演劇的な演出とタイミングで展開されます。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064434136178429952/img/bNXiITp2rdIQYrJ5.jpg" width="600" alt="1960 年代レトロな映画風のキスシーン">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0eceff23648d169ecef628a4db21c3e6/thumbnails/thumbnail.jpg" width="600" alt="1960 年代レトロな映画風のキスシーン">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5863)**
 
@@ -2535,7 +2535,7 @@ T-Rex 級の巨大なトカゲが、明るく過酷な日差しの下、離陸�
 オーディオ：リアルな森の環境音、雨音、荒い呼吸音、筋肉が動く音、毛皮が擦れる音、遠くの雷鳴、動物の唸り声、雰囲気のある荒野のサウンドデザイン。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064407231076990976/pu/img/SamsbISGJUgYwQqy.jpg" width="600" alt="シネマティックな狼男への変身">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/759545b95ebc2295541d80107204f076/thumbnails/thumbnail.jpg" width="600" alt="シネマティックな狼男への変身">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5851)**
 
@@ -2560,7 +2560,7 @@ T-Rex 級の巨大なトカゲが、明るく過酷な日差しの下、離陸�
 各ロケーションでは、現地の雰囲気に合わせたスタイリッシュな衣装を着用し、手を振る、ピースサイン、ナマステ、指ハート、笑う、ランドマークを指差す、サムズアップ、驚いた表情、ダンス、遊び心のあるポーズなど、楽しげで表情豊かなアクションを行ってください。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064401449648537600/pu/img/kXEzIMuRh23JzXL-.jpg" width="600" alt="世界旅行ハイパーラプス・セルフィー">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/064210ab16759252370df899ce7a54b8/thumbnails/thumbnail.jpg" width="600" alt="世界旅行ハイパーラプス・セルフィー">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5848)**
 
@@ -2581,7 +2581,7 @@ T-Rex 級の巨大なトカゲが、明るく過酷な日差しの下、離陸�
 提供されたストーリーボードの参照画像（Image 2）を使用し、15 秒間のシネマティックな天界ファンタジーキャラクター紹介映像を生成してください。すべてのショットにおいて、Astielle（Image 1）の厳密な一貫性を維持すること。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064395176693612544/img/-EnOAGotXI46jPF7.jpg" width="600" alt="Celestial Fantasy Character Showcase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb34c19da033640689a751c7e1da5276/thumbnails/thumbnail.jpg" width="600" alt="Celestial Fantasy Character Showcase">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5868)**
 
@@ -2600,7 +2600,7 @@ T-Rex 級の巨大なトカゲが、明るく過酷な日差しの下、離陸�
 シネマティックな Netflix ドキュメンタリー、16 秒のシーケンス、16:9、超写実的な 8K、ARRI Alexa Mini LF、アナモフィックレンズ、繊細なレンズフレア、有機的なフィルムグレイン。温かみのあるゴールデンハイライトと深いシャドウ、リアルな肌の質感を備えたプレミアムフィットネスドキュメンタリーのカラーグレーディング
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064387760027480065/img/vM9atcAy0dW-ZXrg.jpg" width="600" alt="プレミアムフィットネスドキュメンタリースタイル">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d42414e60e71a0edc2a74d3ed571f97f/thumbnails/thumbnail.jpg" width="600" alt="プレミアムフィットネスドキュメンタリースタイル">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5867)**
 
@@ -2629,7 +2629,7 @@ T-Rex 級の巨大なトカゲが、明るく過酷な日差しの下、離陸�
 本物のバイラルスマホ映像、ドキュメンタリーのようなリアリズム、信憑性のある人間の行動、偶然の発見、「どうやってこんなことが可能なのか？」という驚き、映画のようなカメラワークは一切なし、安全ハーネスは見当たらず、ミームになり得るほど衝撃的でありながら完全にリアルな映像。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064384954637889541/img/2L2YV8XScB7RqS2d.jpg" width="600" alt="バイラル動画：建設現場の椅子">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a60ee6b38bbac25d2bba5d0decec7325/thumbnails/thumbnail.jpg" width="600" alt="バイラル動画：建設現場の椅子">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5854)**
 
@@ -2648,7 +2648,7 @@ T-Rex 級の巨大なトカゲが、明るく過酷な日差しの下、離陸�
 シネマティック 8k ビデオ。壮大なファンタジーシーン。鋭く光るネオンブルーの瞳、風になびく長い黒髪、ルーン文字と肩の鋭い氷の結晶で装飾された黒いレザーアーマーを纏った強力なソーサレス。彼女は荒涼とした岩山の峠に立っている。暗黒騎士の軍勢が彼女に向かって突撃してくる。彼女が光り輝く魔法の杖を掲げ、巨大な凍結エネルギーを集中させる。彼女を中心に冷気と氷の強力な衝撃波が噴出し、完璧な円を描いて急速に拡大し、突撃する軍勢を瞬時に精巧な氷像へと変えていく。巨大な円形のフロスト・ショックウェーブを捉えたドラマチックな俯瞰ドローンショット。スローモーション、緊迫したシネマティックな音楽の雰囲気、ハイエンドな CGI、ダークで重厚なカラーグレーディング、フォトリアル、プロフェッショナルなボケ味、精緻なディテール。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064382926301835267/pu/img/cI3Ao2bwt9kwcA5g.jpg" width="600" alt="ソーサレスのフロスト・ショックウェーブ">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0824c1c35a3cf3b1b95b22503a723017/thumbnails/thumbnail.jpg" width="600" alt="ソーサレスのフロスト・ショックウェーブ">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5860)**
 
@@ -2671,7 +2671,7 @@ T-Rex 級の巨大なトカゲが、明るく過酷な日差しの下、離陸�
 山々を見下ろすドラマチックなワイドショットから始まり、戦闘シーンへ急激なクラッシュズーム。不可能とも思えるアクロバティックな動きや、杖を回転させる攻撃を追うウィップパン、巨大な衝撃波のインパクトを捉えるオービットショット。エピックなアニメ調のインパクトフレームとダイナミックな遠近法の歪み。瓦礫と日光がフレームに溢れ、僧侶は崩れる柱の間を飛び回り、宙に浮く岩の上を走りながら、複数の巨大な守護者と激しい攻防を繰り広げる。一撃ごとに広がるエネルギーの輪が山そのものをひび割れさせ、最後は僧侶が黄金の光を放ちながら戦場の上空へと舞い上がり、神のごとき最後の一撃を杖で叩きつける。その衝撃波が寺院全体を駆け抜け、残りの石の守護者たちを一瞬で蒸発させ、山肌を砕き、世界を静寂に包み込む。土煙が晴れると、巨大なクレーターの中心に一人佇む僧侶の姿と、周囲に崩れ落ちた守護者たちの残骸が露わになる。雲間から差し込む日光の中、カメラがゆっくりと引き、彼の圧倒的な勝利と、山の下で静寂を取り戻した寺院の姿を映し出す。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064373202889891840/pu/img/YqT7vAv-sQeIFfCG.jpg" width="600" alt="アニメ風僧侶の寺院バトル">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dcf1d449c9685675010538dcfd8dcf54/thumbnails/thumbnail.jpg" width="600" alt="アニメ風僧侶の寺院バトル">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5861)**
 
@@ -2690,7 +2690,7 @@ T-Rex 級の巨大なトカゲが、明るく過酷な日差しの下、離陸�
 Reggie が水上バス（ヴァポレット）から運河沿いの道に降り立ち、モノクルを調整して「ベネチアへようこそ」と一言。運河を眺めて驚く様子をスローでズームイン。「道路を忘れたロンドンみたいだ」と評する。ゴンドラを見つけると、「映画のような登場」が必要だと主張。ワイドショット：ゴンドラに乗り込もうとして転覆しかけるが、必死に威厳を保とうとする。カメラに向かってポーズを決め、ドラマチックな「インフルエンサー風のハンドジェスチャー」を披露。ゴンドラ漕ぎが歌い始めると、Reggie は気取った態度を見せるが、やがて本心から感銘を受ける。鳩が頭上をかすめると、慌てて身をかがめるが、すぐに「わざとやった」ような素振りを見せる。橋の下を通過する際、真面目な歴史の豆知識を披露しようとするが、明らかに間違っている。古い建物を仰ぎ見る POV ショット：Reggie は「世界で一番豪華な水の迷路」と呼ぶ。別のゴンドラと接触し、気まずい雰囲気になるが、Reggie は生意気な褒め言葉やイギリス流の皮肉で切り抜ける。ジャンプカットで、小さな水上カフェ／バーにいる Reggie へ。エスプレッソを縁に置こうとバランスを取る。エクストリーム・クローズアップ：エスプレッソを一口飲み、その強さに目を丸くするが、「最高に美味しい」と強がる。クイックモンタージュ：チケッティ（小皿料理）をつまみ、満足げに頷くが、強い味に一度だけ大げさなリアクションを見せる。小さな橋での夕景ショット：Reggie が手すりに寄りかかり、山高帽が少し傾いている。カメラに向かって「10 点満点だが、道路がどこへ行ったのかは依然として謎だ」といった最後のセリフを残し、軽快に歩き去る。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064361525255553025/img/bnzRUmPZzJ98dmj5.jpg" width="600" alt="Reggie のベネチア運河ツアー">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c13a64ad75212bff0e9364b400a302b3/thumbnails/thumbnail.jpg" width="600" alt="Reggie のベネチア運河ツアー">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5871)**
 
@@ -2733,7 +2733,7 @@ Reggie が水上バス（ヴァポレット）から運河沿いの道に降り�
 回避すべき要素：手ブレ、人物の不一致、広告のような演出過多、窓の白飛び。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064349984083062784/pu/img/VFl_zBrq4FcA14-D.jpg" width="600" alt="モーニング Vlog デスクセットアップ">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bac09eab3dbd7985644b190355d89ec1/thumbnails/thumbnail.jpg" width="600" alt="モーニング Vlog デスクセットアップ">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5858)**
 
@@ -2752,7 +2752,7 @@ Reggie が水上バス（ヴァポレット）から運河沿いの道に降り�
 添付の「THE CRÊPE MAKER」の絵コンテを正確な視覚的リファレンスとして使用してください。全 8 ショットを忠実に再現した、16:9 の 12 秒間のピクサー風 3D アニメーションを作成してください。キャラクターはステレオタイプなフランス人男性で、黒いベレー帽、紺と白のボーダーシャツ、白いエプロンを着用し、魅力的な雰囲気で描いてください。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064342509732438016/img/ZbwTFaE_JLtILS-m.jpg" width="600" alt="ピクサー風フレンチクレープメーカーのアニメーション">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e83993ab4819d2f323abac532de20e8/thumbnails/thumbnail.jpg" width="600" alt="ピクサー風フレンチクレープメーカーのアニメーション">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5869)**
 
@@ -2790,7 +2790,7 @@ Reggie が水上バス（ヴァポレット）から運河沿いの道に降り�
 全体として、現実の東京の風景、ちびキャラクター、エフェクトが強力に融合した世界観です。エフェクトは過度な SF 調ではなく、爽やかで軽やか、そして少し詩的な雰囲気を目指します。エフェクトの量と動きは大幅に増やして各カットで密度を高め、キャラクターの動きや感情にしっかりと反応させます。各カットを通じてカメラは一貫して動かし続けます。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064332980152410112/img/s17A-rTGlGTOSGRE.jpg" width="600" alt="東京を舞台にしたアニメちびキャラの融合">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/878923f1c6eba6e817ccbe6fb134cd76/thumbnails/thumbnail.jpg" width="600" alt="東京を舞台にしたアニメちびキャラの融合">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5876)**
 
@@ -2815,7 +2815,7 @@ Reggie が水上バス（ヴァポレット）から運河沿いの道に降り�
 最後は、シネマティックな街の背景をバックに回転するヘッドフォンのドラマチックなヒーローショットで締めくくる。繊細なオーディオウェーブの視覚効果、高級感のある反射、ラグジュアリーな製品コマーシャルのスタイル、浅い被写界深度、ハイエンドなブランドキャンペーンのルック、完璧なコマーシャル撮影技術、16:9 のアスペクト比、フォトリアル、視覚的に素晴らしい映像。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064322270760439808/pu/img/Ia_j31f1QkRWAEFQ.jpg" width="600" alt="ヘッドフォンのライフスタイル向けコマーシャル">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f5a1828bea9f6c0787835c324e96e6e/thumbnails/thumbnail.jpg" width="600" alt="ヘッドフォンのライフスタイル向けコマーシャル">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5853)**
 
@@ -2840,7 +2840,7 @@ Reggie が水上バス（ヴァポレット）から運河沿いの道に降り�
 フィナーレでは、先頭のスケーターが巨大な活火山に接近します。大規模な噴火により、溶岩の力で自然の打ち上げランプが形成されます。スケーターは火口の上空高くで不可能な多回転の空中トリックを決め、そのまま火口へと降下していきます。ゴールラインは火口の奥深くで輝いています。選手は、周囲で溶岩が噴き出す中、火口中心部の狭いプラットフォームに見事に着地します。壮大な映画のような結末、強烈なエネルギー、リアルな物理演算、圧倒的な火山のビジュアル、超高精細な環境。テキストなし、ウォーターマークなし、字幕なし、映画品質のアクション。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064286260253118464/pu/img/4xKr73p7-moMCw5p.jpg" width="600" alt="火山島スケートボード選手権">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24be2398f7685082fdd4284581e52ca4/thumbnails/thumbnail.jpg" width="600" alt="火山島スケートボード選手権">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5870)**
 
@@ -2859,7 +2859,7 @@ Reggie が水上バス（ヴァポレット）から運河沿いの道に降り�
 日本のアニメ映画風、フルカラー、シネマティックで高品質な動画。BGM、セリフ、テキストなし。ゆっくりとした静かな動作に焦点を当てる。執事キャラクター：長身で細身、黒髪、銀縁メガネ、スリーピーススーツ、白手袋。シーン：薄暗いキッチンに差し込む柔らかな陽光。カット 1：コンロの青い炎が点火する。カット 2：ネクタイを締める。カット 3：白手袋をはめる。カット 4：乾燥した茶葉をすくう。カット 5：メガネの位置を直す。カット 6：深みのあるオレンジ色の紅茶が入ったポットから湯気が立つ。カット 7：砂糖を加える。カット 8：ポケットチーフを整える。カット 9：紅茶に練乳を加える。カット 10：ストレーナーを通してピッチャーに紅茶を注ぐ。カット 11：髪をかき上げる。カット 12：グラスに丸い氷を入れる。カット 13：（スローモーション）氷の上に紅茶を注ぐ。カット 14：（スローモーション）ミルクを加えて二層にする。カット 15：完成したグラスを差し出す執事。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064286114324836352/img/wPAIidH_NB9h73k2.jpg" width="600" alt="タイティーを作る執事のアニメーションシーケンス">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b995f15ba0534b09a437a9f9938e560/thumbnails/thumbnail.jpg" width="600" alt="タイティーを作る執事のアニメーションシーケンス">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5916)**
 
@@ -2878,7 +2878,7 @@ Reggie が水上バス（ヴァポレット）から運河沿いの道に降り�
 モダンな 3D 中国アニメーションスタイル。シーン 1：エジプトの宮殿、玉座の間から始まるショット。威厳のあるジャッカルの神アヌビスが直立し、腕を T ポーズにしている。その横に若い人間の王が立ち、真剣な表情で「親愛なるアヌビスよ、気を散らしてはならぬ」と言う。アヌビスは毅然とした真剣な態度で「仰せのままに、マスター」と答える。シーン 2：人間の王がいたずらっぽく微笑み、アヌビスの脇の下に手を伸ばし、指で優しく滑らかにくすぐる。アヌビスの表情が瞬時に明るくなり、くすぐったさを必死に我慢しようとするが、あまりのくすぐったさに耐えられない。シーン 3：人間の王がアヌビスの脇の下をくすぐり続ける。アヌビスは目を閉じ、満面の笑みを浮かべて声を殺して笑う。人間の王はくすぐりながら「こちょこちょ」と言う。シーン 4：人間の王がくすぐり続ける。アヌビスはすぐに大声で笑い出し、腕が T ポーズから外れるが、脇の下はさらされたままになる。シーン 5：人間の王がくすぐり続け、アヌビスは心から笑いながら、脇の下を守るように腕を自分に巻き付け、ようやくくすぐりが止まる。シーン 6：アヌビスは腕を組み、名残惜しそうに何度か笑った後、再び真剣な表情に戻る。腰に手を当て、少し不機嫌そうにマスターを見つめて「マスター、くすぐりは無しという約束でしたよね」と言う。人間の王は無邪気に肩をすくめ、おどけて「おっと」とつぶやく。アヌビスは筋肉質で、腕と首にリングを身につけている。声は低く魅力的。言語は英語。
 ```
 
-<img src="https://pbs.twimg.com/media/HKXSRh0aMAAEVfl.jpg" width="600" alt="エジプトの神アヌビスのアニメーションプロンプト">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e7a13a32ae05ed7b865f15ed70161cee/thumbnails/thumbnail.jpg" width="600" alt="エジプトの神アヌビスのアニメーションプロンプト">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5873)**
 
@@ -2923,7 +2923,7 @@ Reggie が水上バス（ヴァポレット）から運河沿いの道に降り�
 実験的シネマ・シュルレアリスム、アナログ投影の美学、夢のようなトランジション、実写的な光の相互作用、4K。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064286381673795584/pu/img/smrMtvwgK0qEqf-3.jpg" width="600" alt="シュールな廃映画館">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/461c3c843ba3b07316188e80e0e3ce4f/thumbnails/thumbnail.jpg" width="600" alt="シュールな廃映画館">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5859)**
 
@@ -2968,7 +2968,7 @@ Reggie が水上バス（ヴァポレット）から運河沿いの道に降り�
 リズミカルな高速カット、クローズアップ、ローアングル、トップダウンショット、クイックパン、スムーズなマッチカットを使用してください。スライドショーではなく、連続した動きとして変身を描写してください。キャラクターは回転、浮遊、着地を通じて自然に動くようにしてください。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064277120331952128/img/fnVjNeGCzkrnK0h4.jpg" width="600" alt="アニメからフォトリアルへの変身">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80693d68a6ef847235e631bbd6ab278/thumbnails/thumbnail.jpg" width="600" alt="アニメからフォトリアルへの変身">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5878)**
 
@@ -2987,7 +2987,7 @@ Reggie が水上バス（ヴァポレット）から運河沿いの道に降り�
 フレーム 1: 28mm 広角レンズによる、地面からの高速でアグレッシブなプッシュイン。白い制服と高い帽子を身につけたエネルギッシュなカートゥーン風シェフが、カメラに向かってドラマチックに回転する。シェフは自信たっぷりに調理台へ向かってフィンガーガンを向け、テーブルが完璧な位置へとスライドしてくる
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064255734150545408/img/qFy8amAWL0rPsfsE.jpg" width="600" alt="映画のようなピザ職人のアニメーションシーケンス">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/943f37d89a186a3304910b2bda5ebfd1/thumbnails/thumbnail.jpg" width="600" alt="映画のようなピザ職人のアニメーションシーケンス">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5866)**
 
@@ -3032,7 +3032,7 @@ Reggie が水上バス（ヴァポレット）から運河沿いの道に降り�
 超リアルなシネマティックスタイル、フィルムグレイン、アナモルフィックフレア、鮮明な 4K、縦型 9:16。勝利に満ちた、豪華で力強いムード。大胆なベルベットレッドのカラーグレーディング、鮮やかなグリーンとゴールド。パッケージは参照画像から 100% 正確に再現。自然なリップシンク、キレのあるエネルギッシュなカット。テキストオーバーレイなし。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064245757142827008/img/wqVaQgMBBDzmLwVu.jpg" width="600" alt="2026 年ワールドカップのファン体験">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1111e05bf2887771dfad2de13e8281b0/thumbnails/thumbnail.jpg" width="600" alt="2026 年ワールドカップのファン体験">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5865)**
 
@@ -3051,7 +3051,7 @@ Reggie が水上バス（ヴァポレット）から運河沿いの道に降り�
 重要指示：動画出力において、絵コンテ画像、パネルレイアウト、参考写真、スケッチなどを表示、参照、または再現しないでください。すべてのシーンは、テキスト記述のみから生成されたオリジナルのアニメーションである必要があります。視覚的な参照フレームは完全に無視してください。絵コンテのシークエンスを、シーンの順序に従ったテンポの良い料理動画に変換してください。 ## スタイル：高品質な日本のアニメ映画スタイル、シネマティックな照明、超詳細な料理アニメーション、浅い被写界深度、夏の柔らかい自然光、マクロクローズアップショット、緩やかなシネマティックなカメラワーク、爽やかで明るい夏の雰囲気、質感と瑞々しさを強調したグルメアニメーションスタイル。 ## 編集：テンポの良いリズム重視のカット編集を基本とし、調理工程が直感的に理解しやすいようにしてください。シーン間の切り替えには、形状、動き、構図、質感を合わせるマッチカットを使用し、スムーズに繋いでください。動画全体を通して、シズル感、新鮮さ、視覚的な魅力を重視し、エネルギッシュでスタイリッシュなアニメ映画のような仕上がりにしてください。 ### シーン 1 — 豚ロース肉の下準備 アニメ調の手が木製の肉叩きを握り、まな板の上の厚いピンク色の豚ロース肉を力強く叩くクローズアップ。叩くたびに肉がわずかに平らになり、繊維がほぐれていく様子が目に見える。表面に塩と胡椒が均一に振りかけられる。衝撃で肉に微かな波紋が広がる。ハイパーリアルなアニメスタイル、鮮明なキッチン照明、シネマティックな浅い被写界深度。 ### シーン 2 — パン粉付け アニメ調の手が豚肉に衣を付ける様子：小麦粉のトレイに押し付け、溶き卵にくぐらせ（黄金色の滴が落ちる）、最後に粗い白パン粉のトレイにしっかりと押し付ける。各層が目に見えて密着していく。ハイパーリアルなアニメスタイル、頭上からのドラマチックな照明、料理のクローズアップ。 ### シーン 3 — 揚げ調理 パン粉を付けた豚肉が、揚げ鍋の中のきらめく黄金色の油に沈む。縁から勢いよく泡が立ち上り、衣が深い琥珀色に変わりカリッとするにつれて泡が落ち着いていく。熱い油の表面で光が屈折する。湯気が穏やかに立ち上る。ハイパーリアルなアニメスタイル、温かみのある黄金色の照明、シネマティック。 ### シーン 4 — とんかつのカット 完璧に揚がった黄金色のかつがまな板の上に置かれる。アニメ調の手が大きな鋭い包丁を操り、均一な幅に切り分ける。切るたびにカリッとした衣が心地よい音を立てて割れ、中の柔らかな白い肉が現れる。切り口から微かな湯気が立ち上る。ハイパーリアルなアニメスタイル、ドラマチックな俯瞰のキッチン照明。 ### シーン 5 — 出汁と玉ねぎの煮込み ガスコンロ上の浅い鍋の中で、薄切りにした玉ねぎがだし汁でゆっくりと煮込まれる。玉ねぎは徐々に柔らかく半透明になり、琥珀色の液体の中で優しく揺れる。鍋底から泡が絶え間なく昇る。箸で時折玉ねぎをかき混ぜる。温かい湯気が上方に漂う。ハイパーリアルなアニメスタイル、コンロの温かい光、シネマティックなクローズアップ。 ### シーン 6 — 出汁にカツを乗せる アニメ調の手が箸を使い、切ったとんかつを浅い鍋の中の煮込まれた玉ねぎと出汁の上に丁寧に並べる。カツが液体に触れるとジュワッと音がする。黄金色のパン粉が縁から少しずつ出汁を吸い込む。ハイパーリアルなアニメスタイル、温かみのある琥珀色のキッチン照明、シネマティックなクローズアップ。 ### シーン 7 — 溶き卵を回し入れる 小さなボウルから黄金色の溶き卵を、鍋の中のとんかつと玉ねぎの上にゆっくりと円を描くように回し入れる。卵が細い筋となって流れ落ち、表面に自然に広がり、熱に触れた縁から不透明に変わり始める。ハイパーリアルなアニメスタイル、コンロの温かい光、マクロなシネマティックディテール。 ### シーン 8 — 卵が固まる様子 弱火にかけた浅い鍋の中で、流し入れた卵がとんかつと玉ねぎの表面でゆっくりと凝固していく。縁は柔らかい黄金色のカスタード状に固まり、中心部は少し半熟で揺れている。穏やかな湯気が立ち上る。かき混ぜず、余熱で自然に卵を固める。ハイパーリアルなアニメスタイル、柔らかく温かい光、親密なクローズアップ。 ### シーン 9 — ご飯を丼に盛る ステンレスのカウンターに置かれた清潔な白い陶器の丼。しゃもじで湯気の立つ日本米をたっぷりとすくい、丁寧に丼に入れる。米粒がわずかに光り、ふっくらと盛られている。表面から軽い湯気が立ち上る。ハイパーリアルなアニメスタイル、清潔で柔らかいキッチン照明、シネマティックなクローズアップ。 ### シーン 10 — ご飯の上にカツと卵を乗せる アニメ調の手が箸を使い、鍋の中で柔らかく固まった卵ととんかつを、丼のご飯の上に滑らせるように乗せる。卵が穏やかな波のようにご飯の上を覆う。出汁が縁からご飯に少し染み込む。両方の層から湯気が立ち上る。ハイパーリアルなアニメスタイル、温かい頭上照明、シネマティックなクローズアップ。 ### シーン 11 — 卵のとじが馴染む様子 完成したカツ丼がカウンターに置かれる。柔らかい黄金色の卵のとじが、とんかつとご飯の上でゆっくりと馴染み、縁に優しく溜まる。表面はわずかに揺れ、半熟で出汁の艶がある。手は映らず、静物画が動いているような映像。ハイパーリアルなアニメスタイル、温かい拡散光、ゆっくりとしたシネマティックなズームイン。 ### シーン 12 — カツ丼の完成 伝統的な青と白の陶器の丼に入った、美しく完成したカツ丼が木製のテーブルに置かれる。黄金色の柔らかい卵が、艶やかな白米の上に乗ったカリッとしたとんかつを覆う。仕上げに三つ葉の小さな葉を繊細に添える。湯気が優雅に立ち上る。カメラが丼の周りをシネマティックな弧を描いてゆっくりと回る。ハイパーリアルなアニメスタイル、温かくドラマチックな料理写真の照明、シネマティック。 ## オーディオ：80年代風の明るく軽快な日本のシティポップ。琴の音色とチャイムのようなパーカッションを重ね、陽気な夏のランチの雰囲気を演出。テンポはエネルギッシュな調理ペースに合わせて110〜120 BPM。料理のASMR効果音を鮮明に： - まな板の上で鋭くリズムを刻む包丁の音 - 麺を茹でるお湯の激しい沸騰音 - ガラスボウルに氷が落ちる涼しげな音 - 冷水で麺を締める水の音 - 完成した丼をカウンターに置く陶器の軽い音 - 最後の音：冷やし中華が完成した瞬間の、爽やかな夏の風を感じさせる風鈴の音色 ## 禁止事項： - 動画内に絵コンテのパネル、枠線、番号、矢印、カメラメモ、アクションメモ、キャプション、字幕、UIオーバーレイ、注釈などを表示しないでください。 - 入力として渡された参照画像やスケッチを複製・表示しないでください。 - 参考資料として使用したソース素材、ワイヤーフレーム、イラストなどを表示しないでください。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064240589177344000/img/06Kh6I2UE8HfVRgA.jpg" width="600" alt="アニメ調とんかつ調理シークエンス">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d285c79ccbbf4913b61d846e072bb31/thumbnails/thumbnail.jpg" width="600" alt="アニメ調とんかつ調理シークエンス">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5877)**
 
@@ -3085,7 +3085,7 @@ Reggie が水上バス（ヴァポレット）から運河沿いの道に降り�
 キスなし、大胆または不適切な行動なし、誇張された表情なし、ぼやけなし、歪みなし、余分な手足なし、低品質
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064227920818622464/pu/img/dnjJkjDBCo-NdEKq.jpg" width="600" alt="ロマンチックなカフェでのディナーデート">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57b7e86b6080477b150a4d094adccf81/thumbnails/thumbnail.jpg" width="600" alt="ロマンチックなカフェでのディナーデート">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5852)**
 
@@ -3104,7 +3104,7 @@ Reggie が水上バス（ヴァポレット）から運河沿いの道に降り�
 添付の写真をメインキャラクターとして使用し、顔とアイデンティティを完全に維持すること。垂直 9:16 の未加工スマートフォン UGC 映像、手持ち撮影、スタビライザーなし。ブラジルのサンパウロの夜、何百もの明かりが灯るアパートの窓が並ぶ高層ビル群、点滅する赤いタワーライト、深い紺色の夜空。25 階建ての屋上ヘリパッド、オリーブグリーンの表面、白い「H」と黄色の円。メインキャラクターが端に立ち、3 ～ 4 人の男性の友人が歓声を上げながらスマートフォンで撮影している。彼が突然屋上から飛び降り、高速で自由落下を開始。カメラは上空から追跡し、ビルのファサードがぼやけ、通りが急速に近づく。真下を見下ろす俯瞰映像では、通りに設置された巨大な長方形の弾性スタントパッドが、明るい青と虹色の LED ライトに囲まれているのが見える。彼はその中心に向かって真っ直ぐ落下する。激しい衝撃：弾性面が劇的に沈み込み、LED が発光し、カメラが揺れ、彼を爆発的な勢いで上空へと跳ね返す。追跡ショットは、ライトが灯る窓の階層を横目に、彼が上昇していく様子を捉える。顔ははっきりと見え、高揚した表情で腕を広げ、服と髪が風になびいている。彼は屋上の高さまで到達し、夜空を背景に一瞬シルエットとなってから、ヘリパッドに着地する。友人たちが彼のもとに駆け寄り、飛び跳ねて叫び、スマートフォンで撮影しながら、本物の興奮と笑いに満ちたカオスなグループハグで締めくくる。スタイル：本物のバイラルなスリル追求型 UGC、リアルな物理演算、低照度センサーのノイズ、全編手持ちの揺れ、自然なモーションブラー、危険で自発的なエネルギー、カラーグレーディングなし、フィルターなし、シネマティックな演出なし、VFX なし、スローモーションなし、AI 生成の顔なし、非現実的な物理挙動なし。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064221349246390272/pu/img/oGDrg4-iD68FvMiQ.jpg" width="600" alt="夜の屋上スタント UGC">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6ead3f5036903116eb24dc156a1ed6cb/thumbnails/thumbnail.jpg" width="600" alt="夜の屋上スタント UGC">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5856)**
 
@@ -3178,7 +3178,7 @@ K-pop ソロダンスの振り付けシートを模した、色鉛筆スケッ�
    リファレンス画像のキャラクターや被写体を、スクリーンの外に物理的な実体として配置しないでください。リファレンス画像は巨大ビジョンの表示映像としてのみ使用してください。キャラクターをメインにしないでください。観客を鮮明に映さないでください。街全体をゼロから建設しないでください。スクリーンを横長にしすぎないでください。テキスト、ロゴ、透かし、ラベル、字幕、ブランドロゴ、実際のイベント名、実際の会社名を表示しないでください。BGM、歌、実況、ナレーションを含めないでください。暗すぎる画像、くすんだ色、低コントラスト、乱れた LED 表示、歪んだリファレンス画像、白い背景のままの単調なディスプレイは避けてください。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064180565163843584/img/FoSS66gO-zJRe8-H.jpg" width="600" alt="都市広場の巨大 LED ビジョン組み立て">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a2579a2aaa9446bab579789775b9aa6a/thumbnails/thumbnail.jpg" width="600" alt="都市広場の巨大 LED ビジョン組み立て">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5827)**
 
@@ -3197,7 +3197,7 @@ K-pop ソロダンスの振り付けシートを模した、色鉛筆スケッ�
 壮大なゴシック様式の聖堂内を捉えた 15 秒間のシネマティックなトラッキングショット。ボーバトン魔法魔術学校の美しい若き魔女が中央に立ち、エレガントなパウダーブルーのテーラードコートと、お揃いのつばの広いとんがり帽子、シルクのネクタイを身にまとっている。黒いマントを纏った仮面の人物たちが、彼女を威圧的に取り囲んでいる。カメラが彼女の周りを滑らかに旋回すると、彼女は優雅なバレエのような回転を披露し、輝く青い魔法の強力な渦を解き放つ。魔法のエネルギーから何百もの光り輝く白い蝶が現れ、彼女の周りを渦巻きながら、黒い影の人物たちを押し戻していく。頭上ではクリスタルのシャンデリアが煌めき、アーチ型の窓からはムードのある青と金の光が差し込み、魔法の粒子が空中に満ちている。カメラはドラマチックな広角ビューから、光る白い蝶が彼女の指先にそっと舞い降りる親密なクローズアップへと切り替わる。激しい動き、ドラマチックなローアングル視点、ボリュームライティング、フォトリアルなファンタジー映画の美学、超高精細なテクスチャ、浅い被写界深度、アナモルフィックなシネマティック構図、PBR マテリアル、サブサーフェス・スキャタリング、ハイパーリアリスティック、8K、24fps。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064179490889359360/pu/img/tF1wj_83WMzpMbla.jpg" width="600" alt="ボーバトン魔法魔術学校の魔法の渦">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21b63242ca006ba6455990fb14d1155d/thumbnails/thumbnail.jpg" width="600" alt="ボーバトン魔法魔術学校の魔法の渦">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5849)**
 
@@ -3224,7 +3224,7 @@ K-pop ソロダンスの振り付けシートを模した、色鉛筆スケッ�
 ネガティブプロンプト：同一性の変化、異なる民族、年齢の不一致、ぼやけた顔、歪んだ手、指の過剰、不自然な解剖学的構造、低解像度、不気味な笑顔、時計の欠落、右腕の時計、見えない名所、場所の重複、服装の混ざり合い、プラスチックのような肌、キャラクターが他人に入れ替わること。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064177287868874752/pu/img/_kteyHUBau-hwTH2.jpg" width="600" alt="グローバル旅行ブロガーのハイパーラプス">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a30e2183bacf6015f7a654782ce4601/thumbnails/thumbnail.jpg" width="600" alt="グローバル旅行ブロガーのハイパーラプス">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5864)**
 
@@ -3243,7 +3243,7 @@ K-pop ソロダンスの振り付けシートを模した、色鉛筆スケッ�
 iPhone で撮影した未加工の手持ち動画スタイル。カメラ設定はすべてオート、ポストプロダクションでのカラーグレーディングやエフェクトは一切なし。手持ち撮影特有の微細な揺れや、撮影者（男性）の呼吸音を再現。地下鉄の走行による自然なレンズの傾きや揺れ、その後の素早い補正も含む。オートフォーカスは、特に体や手の動きに合わせて、時折迷ったり遅延したり、一瞬ピントが外れたりする。オートホワイトバランスは、車内の蛍光灯とトンネル内の照明の間で自然に変化する。全体的にフラットな映像で、レンズフレア、わずかなエッジの色収差、モーションブラーなどの欠陥をそのまま残す。CCD センサー特有の現象として、わずかな縦スミア、色滲み、ノイズ、高コントラストなエッジ部分のパープル/グリーンフリンジをシミュレート。音声はカメラ内蔵マイクによる環境音のみ：地下鉄の低い走行音、車輪とレールの摩擦音、乗客の囁き声、衣擦れの音。加速時や大きな動きの際にはマイクがわずかに歪む。座っている男性の視点からのファーストパーソン POV（ローアングルから見上げる構図で開始）。カメラの動きは男性の本能的な反応に追従する。空席のない非常に混雑した車内。背景には乗客やぼやけた人混みを配置し、リアリティを追求。位置関係を示すために、男性の脚、膝、または手の一部が時折フレームインする。15 秒のタイムライン：（シーケンス：通常の距離 → 女性が胸元まで誘惑するように近づくが触れない → 男性が耐えた後に席を譲る + 驚いた表情 → 女性が着席して笑い、マスクを外す → 男性が肩に触れようとし、女性が除菌スプレーを使う）：0秒：座った状態のローアングル POV から、白いマスクをして吊革を持ち、男性を見つめる若いアジア人女性を見上げる。空席なし。通常の距離。男性が気づくと、女性は目を細めて遊び心を見せ、誘惑するようにゆっくりとカメラに近づく（胸元が近づくが、安全な距離を保つ）。オートフォーカスが彼女の上半身にロックオン。わずかな露出オーバー、CCD ノイズと色滲みが見える。1～4秒：女性がゆっくりと接近を続け、胸元まで 20 cm 以内に迫るが、決して触れない。男性は耐える（微細な揺れが硬直を表現し、視線が下がることでレンズがわずかに下を向く）。オートフォーカスが迷い、その後引き戻される。CCD の縦スミアが発生。衣擦れの音と、男性の抑えられた呼吸音や心拍音が聞こえる。電車の揺れでフレームが傾く。5～7秒：男性が席を譲る：POV が上昇して揺れ（慌てて立ち上がる）、右に移動して避ける。女性が空いた席にスムーズに座る（サイドバックの POV から見る）。混雑した環境のため、着席のインパクトが強調される。ホワイトバランスがわずかにずれ、露出不足から補正される。8～10秒：逆転のディテール：男性がぎこちなく振り返る（POV）。女性はマスクの下で輝くような笑顔を見せる。男性が「なぜ席を取ったの？」と尋ねながら彼女の肩に触れようと手を伸ばす。女性は笑いながら後ろに寄りかかり、遊び心のある目で白い除菌スプレーを取り出し、男性の手に 2 回吹きかける（スプレーの音とミストが見える）。手の動きに合わせてオートフォーカスが遅延する。11～13秒：女性がよりはっきりと微笑み、遊び心たっぷりに首を振る。誘惑的な逆転劇。12秒付近で、彼女がゆっくりとマスクを外し、整った顔立ちと満面の笑みを見せる。男性が二度目の振り返りを行う（自然な動作）。レンズの揺れと呼吸音は続く。光のフレアと CCD のフリンジ。走行音に混じって、女性の鈴を転がすような笑い声が聞こえる。14～15秒：笑顔がわずかに薄れ、遊び心のあるニヤリとした表情に。男性が除菌された自分の手を見る。カメラが下がり、その後上がる（重心の移動）。わずかなフレーミングの不完全さ。一貫した未加工の手持ち動画の質感。すべてのカメラの挙動は iPhone の物理的特性を模倣しており、ローアングルでの POV インタラクションを完璧に再現している。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064140494301446144/img/CqAWvShyAcyBIuQK.jpg" width="600" alt="地下鉄での POV インタラクション・ドッキリ用プロンプト">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37e7d2f1e4252c37acb84e83bf605420/thumbnails/thumbnail.jpg" width="600" alt="地下鉄での POV インタラクション・ドッキリ用プロンプト">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5874)**
 
@@ -3277,7 +3277,7 @@ iPhone で撮影した未加工の手持ち動画スタイル。カメラ設定�
 }
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064047776715948032/img/_GjONmRlb_itOuN0.jpg" width="600" alt="熱帯雨林トラベル Vlog スクリプト">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b9d9e4d037d3248fbd1543e1d5bd8adc/thumbnails/thumbnail.jpg" width="600" alt="熱帯雨林トラベル Vlog スクリプト">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5825)**
 
@@ -3296,7 +3296,7 @@ iPhone で撮影した未加工の手持ち動画スタイル。カメラ設定�
 真上から見たブラックコーヒーのグラス、手でミルクを注ぐ、ミルクがコーヒーの中で花のように広がり渦を巻く
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064052894194671616/img/-lINHr1zuS4zyS3w.jpg" width="600" alt="コーヒーとミルクが混ざり合うマクロ撮影">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d193bb680075e25184c7772764472e17/thumbnails/thumbnail.jpg" width="600" alt="コーヒーとミルクが混ざり合うマクロ撮影">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5815)**
 
@@ -3315,7 +3315,7 @@ iPhone で撮影した未加工の手持ち動画スタイル。カメラ設定�
 添付の絵コンテ「THE CHURRO MAKER」を正確な視覚的リファレンスとして使用してください。全 8 ショットに忠実に従い、12 秒間の 16:9 ピクサー風 3D アニメーションシーケンスを作成してください。同じスペイン人の若い売り子、白い T シャツ、赤いエプロン、明るい屋外のチュロス屋台、晴れた石畳の通りを再現してください。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064031934842331136/img/AmC_k6EYT7L7ZUqC.jpg" width="600" alt="ピクサー風チュロスメーカーのアニメーション">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/829d66aec69f376fadddce3209613317/thumbnails/thumbnail.jpg" width="600" alt="ピクサー風チュロスメーカーのアニメーション">
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5831)**
 
@@ -3383,6 +3383,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-12T08:46:35.443Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-12T15:18:40.665Z</sub>
 
 </div>

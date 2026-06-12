@@ -377,7 +377,7 @@ Ato 2: Continuando o estilo autêntico de vlog de iPhone sob a iluminação notu
 Ato 3: A torcedora revela ser uma mestre do futebol de rua. Ela inicia uma incrível arrancada solo, driblando quatro defensores do Congo com habilidades técnicas como pedaladas e giros. No clímax, ela executa um potente chute de bicicleta que entra no ângulo superior. Ela comemora abraçando uma famosa estrela do futebol de Portugal enquanto a multidão explode. Todos os atos mantêm a textura crua e documental de vlog de iPhone, sem pós-processamento ou efeitos especiais.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065245984045576193/img/ScfVoSV2QhG6D2Z1.jpg" width="600" alt="Prompt para Vlog de Jornada na Copa do Mundo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e4e223e6c83698a00da83cfbf32748d/thumbnails/thumbnail.jpg" width="600" alt="Prompt para Vlog de Jornada na Copa do Mundo">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5954)**
 
@@ -403,7 +403,7 @@ Estilo: Animação de alta qualidade, iluminação cinematográfica, câmera din
 Negativo: Sem texto, logotipos, interface de usuário (UI), deformação, cintilação, distorções não naturais, terror, atmosfera sombria ou mudanças de tamanho.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065033629777219584/img/y1BBNIZ9uYcCSuor.jpg" width="600" alt="Aventura na Cozinha com Skate em Miniatura">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a02dd33b7ccf02e5d3f7109d5386fe6/thumbnails/thumbnail.jpg" width="600" alt="Aventura na Cozinha com Skate em Miniatura">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5959)**
 
@@ -422,7 +422,7 @@ Negativo: Sem texto, logotipos, interface de usuário (UI), deformação, cintil
 Tomada 1: Abertura 0-2 segundos, elegante mulher europeia loira com rabo de cavalo baixo, vestindo casaco de cashmere cor de camelo sobre gola alta de tricô grosso creme, caminhando por uma rua de paralelepípedos histórica europeia com arcos de pedra requintados e grades de ferro de varandas vintage, luz solar quente da hora dourada projetando sombras suaves, ela para e alcança algo com uma das mãos. Tomada 2: 2-4 segundos vitrine do produto, close-up de sua mão elegante segurando um estojo de fones de ouvido sem fio prateado fosco e elegante, tampa transparente revelando fones de ouvido brancos puros dentro, iluminação natural suave destacando a textura metálica premium, ela abre a tampa com um movimento delicado dos dedos, arquitetura europeia desfocada ao fundo, atmosfera de terraço de café ao ar livre. Tomada 3: 4-6 segundos vestindo, transição para seu perfil lateral e depois vista frontal, colocando os fones de ouvido sem fio brancos nos ouvidos, expressão confiante e descolada, sorriso sutil, olhos grandes e focados, a câmera se aproxima suavemente, fones de ouvido perfeitamente integrados com a gola alta creme e a estética minimalista geral. Tomada 4: 6-9 segundos estilo de vida, ela continua caminhando pela rua europeia usando os fones de ouvido, a câmera acompanha capturando a fusão de moda e tecnologia, alternando close-ups dos detalhes dos fones de ouvido, olhar confiante, dedos tocando a orelha, cabelo loiro capturando a luz solar quente. Tomada 5: 9-11 segundos tomadas de detalhes, montagem do núcleo do produto, ultra close-up dos fones de ouvido sendo colocados nos ouvidos, som de clique satisfatório da tampa do estojo prateado fosco, luz indicadora dos fones de ouvido brilhando, profundidade de campo rasa com fundo de bokeh da arquitetura europeia, close-ups de materiais premium enfatizando o design elegante. Tomada 6: 11-13 segundos clima, tomada cinematográfica ampla, ela está em uma praça europeia, luz dourada criando uma iluminação de contorno dramática, ela fecha os olhos brevemente imersa na música, cabelo capturando a brisa, a câmera se aproxima lentamente criando impacto emocional. Tomada 7: 13-15 segundos final, tomada ampla final elegante, ela está com postura confiante, fones de ouvido brancos claramente visíveis em ambos os ouvidos, segurando o estojo de fones de ouvido prateado fosco, enquadramento da arquitetura europeia, gradação de cores cinematográfica em tons de azul-petróleo e laranja com luz dourada quente, sorriso sutil e confiante, transições suaves e contínuas, textura de granulação de filme.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065171629211066368/img/48gyozZk4FbMW-Ta.jpg" width="600" alt="Vitrine de Produto: Fones de Ouvido Sem Fio de Luxo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1ec6f1292c1bcbfb9f147e2b7a405d74/thumbnails/thumbnail.jpg" width="600" alt="Vitrine de Produto: Fones de Ouvido Sem Fio de Luxo">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5937)**
 
@@ -441,7 +441,7 @@ Tomada 1: Abertura 0-2 segundos, elegante mulher europeia loira com rabo de cava
 Um vídeo cinematográfico começando com um movimento de câmera lento de 360 graus ao redor do estádio em miniatura dentro do pneu, capturando o movimento dos jogadores minúsculos e da torcida vibrante. A câmera então dá um zoom suave em direção ao campo, transitando de uma visão ampla para um close-up macro em ângulo baixo, acompanhando a partida intensa entre os jogadores da Argentina e de Portugal na grama. A torcida pula de emoção com movimentos visíveis e sincronizados, agitando bandeiras em câmera lenta. Sons de estádio de alta fidelidade: gritos da torcida, tambores, apitos e os sons realistas e suaves de uma bola de futebol sendo chutada, tudo ecoando levemente dentro da estrutura do pneu. Iluminação cinematográfica com sombras dinâmicas que se deslocam pelo campo conforme a câmera se move, adicionando textura profunda e um efeito hiper-realista e dramático. Alta taxa de quadros com desfoque de movimento suave para um visual de vídeo profissional.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065138936519827456/img/Y0lsNqnsndDxTg1M.jpg" width="600" alt="Estádio de Futebol em Miniatura dentro de um Pneu">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6499c56e92d03d058fd7c591391accf1/thumbnails/thumbnail.jpg" width="600" alt="Estádio de Futebol em Miniatura dentro de um Pneu">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5950)**
 
@@ -460,7 +460,7 @@ Um vídeo cinematográfico começando com um movimento de câmera lento de 360 g
 Tomada em FPV: Mergulhando através de um tornado feito inteiramente de folhas de outono. A câmera entra em um vórtice imponente de folhas giratórias. Partículas douradas e carmesim aceleram ao redor da lente até se alinharem naturalmente em "WILD" antes de serem dispersas pela tempestade. Movimento orgânico, beleza cinematográfica.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065096720355127296/pu/img/J8d1mQGiQ4PjwQc0.jpg" width="600" alt="Efeito Visual de Vórtice de Folhas de Outono">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d31b26cbd1ed91546f4cfc7cc95cedf7/thumbnails/thumbnail.jpg" width="600" alt="Efeito Visual de Vórtice de Folhas de Outono">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5938)**
 
@@ -575,7 +575,7 @@ Sem iluminação de estúdio.
 Sem ritmo apressado.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065091227402514432/pu/img/KmekL-nT1MpHK_Ll.jpg" width="600" alt="Interação de chat realista estilo Omegle">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/38e8bcea4395c5ba3a242a9d97fcd143/thumbnails/thumbnail.jpg" width="600" alt="Interação de chat realista estilo Omegle">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5932)**
 
@@ -594,7 +594,7 @@ Sem ritmo apressado.
 Tomada em POV feita com câmera na mão, como se alguém na plateia estivesse filmando com um celular a partir da terceira fileira, com o enquadramento levemente instável e elevado acima da cabeça das outras pessoas. Um grande palco de teatro japonês ao ar livre durante o dia, recriando o portão de uma vila feudal japonesa
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065078297008979969/img/g-ugqls75sm-yXx_.jpg" width="600" alt="POV de Teatro em Vila Feudal Japonesa">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da98aad382c7ada2b9274265630c3e2d/thumbnails/thumbnail.jpg" width="600" alt="POV de Teatro em Vila Feudal Japonesa">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5945)**
 
@@ -613,7 +613,7 @@ Tomada em POV feita com câmera na mão, como se alguém na plateia estivesse fi
 Um relógio de luxo emerge da escuridão. Close macro extremo de engrenagens tiquetaqueando e ponteiros em movimento. Faíscas douradas e partículas flutuantes cercam o relógio. A câmera circula o acessório enquanto feixes de luz dramáticos refletem no cristal de safira. Um respingo de água em câmera lenta congela no ar ao redor do relógio. Componentes mecânicos se montam automaticamente. Ambiente cinematográfico em preto e dourado, iluminação comercial premium, reflexos ultrarrealistas, anúncio de estilo de vida de luxo, atmosfera orquestral poderosa, movimento de câmera suave, foto de destaque do produto, revelação da marca, comercial de nível de Hollywood, fotorrealismo em 8K.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065078706276864000/img/-K9mrAcsDm1SW72r.jpg" width="600" alt="Animação Comercial de Relógio de Luxo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a5760b4e6c1671f3c7b730573664ff0c/thumbnails/thumbnail.jpg" width="600" alt="Animação Comercial de Relógio de Luxo">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5935)**
 
@@ -643,7 +643,7 @@ Cena: Assento na janela de um trem de alta velocidade, tons brancos frios e clar
 Sem transições de efeitos especiais durante todo o filme, transições de lente contínuas, movimentos de câmera discretos e suaves, dinâmica natural e fluida, movimento físico realista do cabelo, 4K ultra nítido, evitando a sensação mecânica de IA, a imagem possui a textura relaxada de uma filmagem real.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065071563121311745/img/cYCcpZGmYjV3eBPq.jpg" width="600" alt="Documentário Cinematográfico de Viagem em Trem de Alta Velocidade">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01f93576fe0bb3c4ff0c1dfdae3e8993/thumbnails/thumbnail.jpg" width="600" alt="Documentário Cinematográfico de Viagem em Trem de Alta Velocidade">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5952)**
 
@@ -662,7 +662,7 @@ Sem transições de efeitos especiais durante todo o filme, transições de lent
 Crie um vídeo de 15 segundos no Seedance 2.0. O personagem "WAGAHAI (orthographic views)" voa alegremente segurando uma placa com o "Flova ai logo". Em seguida, o personagem se aproxima da câmera alegremente, trazendo seu rosto e a placa para perto da lente, sorrindo com alegria. Por fim, o texto manuscrito "WAGAHAI meets Flovia.ai" aparece na tela. Imagem brilhante e pop, música de fundo alegre, sem legendas.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065067302207492096/img/RQjfBB4Dqaye5aLj.jpg" width="600" alt="Personagem animado com placa de logotipo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b2571be177a0b1f7faeb6b419ee6a63/thumbnails/thumbnail.jpg" width="600" alt="Personagem animado com placa de logotipo">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5955)**
 
@@ -686,7 +686,7 @@ Cena 4: A textura de mármore se dissolve e descasca perfeitamente pelo rosto e 
 Cena 5: A mulher real se vira para olhar diretamente para a câmera com um olhar confiante, segurando o frasco de base. Fotorrealista, iluminação cinematográfica suave, transições fluidas, estética de comercial de beleza de alto padrão.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065058665653235712/pu/img/jjAWZEkQ1zmtSAjy.jpg" width="600" alt="Comercial de Revelação de Base de Luxo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f267e2980a9677d378f95b5788007fe7/thumbnails/thumbnail.jpg" width="600" alt="Comercial de Revelação de Base de Luxo">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5943)**
 
@@ -717,7 +717,7 @@ Momento final: o espião permanece na plataforma de manutenção trêmula, respi
 Estilo: hiper-realista, cinematográfico, ação vertical intensa, física realista, chuva, reflexos em vidro, faíscas, fumaça, iluminação dramática, movimento de câmera rápido mas legível, alto nível de detalhe, sem texto, sem logotipos, sem câmera lenta, sem estilo de desenho animado, sem personagens principais extras. Mantenha as proporções. Mantenha o estilo e as características. Proporção 16:9.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064828582044594176/img/h9kGiXzxCIhyZav6.jpg" width="600" alt="Sequência de Ação Cinematográfica de Elevador em Queda">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96be6bd2cff486275193b1e49e635394/thumbnails/thumbnail.jpg" width="600" alt="Sequência de Ação Cinematográfica de Elevador em Queda">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5934)**
 
@@ -736,7 +736,7 @@ Estilo: hiper-realista, cinematográfico, ação vertical intensa, física reali
 Frame 1 - O ENCONTRO (1,5s): lente anamórfica de 28mm f/2.8, dolly push-in rápido e agressivo ao nível do solo, aura azul do garoto herói e aura vermelha do clone maligno expandindo-se lentamente uma em direção à outra, energia roxa crepitando onde as auras se encontram, céu de desenho animado tempestuoso acima com relâmpagos,
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065021597178814464/img/XkuDDBebIfdYRIoq.jpg" width="600" alt="Frame de Animação de Cena de Luta em Desenho Animado">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cffeed0bd1d382247e744d73140dbeb/thumbnails/thumbnail.jpg" width="600" alt="Frame de Animação de Cena de Luta em Desenho Animado">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5951)**
 
@@ -774,7 +774,7 @@ Graves intensos + atmosfera clássica. O movimento das ondulações e partícula
 Sem mudança de personagem. Não transformar a mulher em escultura. Não alterar o cenário. Sem texto, logotipos ou multidões. Nada cômico. Sem destruição caótica. Sem desfoque excessivo.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065020898713927680/img/OkVfd2M-TmrmkeMh.jpg" width="600" alt="Despertar da Dança na Galeria de Mármore">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88ec0c4e71d971e50dc87c0ba7561d75/thumbnails/thumbnail.jpg" width="600" alt="Despertar da Dança na Galeria de Mármore">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5958)**
 
@@ -812,7 +812,7 @@ Crie um vídeo de 8 segundos baseado na imagem anexada, onde a tela inicial de g
 Anime o storyboard 3x4 fornecido transformando-o em um vídeo cinematográfico fluido. Preserve a ordem exata das cenas e a continuidade. Utilize o desenrolar lento de fibras na terra, o desabrochar de esporos de musgo, chuva sobre tecido cru e uma muda de planta.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065010781075431424/pu/img/fKxCzQ2yTu5_zfvS.jpg" width="600" alt="Animação Cinematográfica de Storyboard com Temática Natural">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0e6c2553ca7b7108275bc954a0d455f/thumbnails/thumbnail.jpg" width="600" alt="Animação Cinematográfica de Storyboard com Temática Natural">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5946)**
 
@@ -857,7 +857,7 @@ Estilo: transformação de criatura ultra-realista, anatomia fotorrealista de á
 Feito em @runwayml
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065011189948571648/pu/img/cNDGILwLjhZfgCVp.jpg" width="600" alt="Sequência de Transformação de Alpinista em Águia">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a098b23043c96943655faa6018e45673/thumbnails/thumbnail.jpg" width="600" alt="Sequência de Transformação de Alpinista em Águia">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5941)**
 
@@ -876,7 +876,7 @@ Feito em @runwayml
 Use o pôster do storyboard 'Tanghulu Master' em anexo como referência visual precisa para gerar um anúncio de comida animado chinês de 12 segundos no formato 16:9. Não gere um pôster em movimento; em vez disso, converta os 8 quadros do storyboard em cenas de vídeo contínuas. Siga rigorosamente a sequência de 1 a 8, com cada cena durando aproximadamente 1,5 segundos.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065007169389670400/img/VOh9XjcruEtpUgWO.jpg" width="600" alt="Anúncio de Comida Animada Tanghulu Seedance 2.0">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/536aa592dc24e6b5619b8ffc78e0d038/thumbnails/thumbnail.jpg" width="600" alt="Anúncio de Comida Animada Tanghulu Seedance 2.0">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5953)**
 
@@ -907,7 +907,7 @@ Comédia ASMR em 3D com qualidade Pixar a bordo da cozinha de um navio pirata il
 9–10s: O pirata serve a refeição e desliza um pequeno prato com molho e pão para o papagaio. O papagaio dá um pulo de alegria e come ao lado dele. Brilho quente de lanterna, navio balançando suavemente, nota suave de acordeão desaparecendo.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065003071718002688/pu/img/qPNoNbKanm8QAw7l.jpg" width="600" alt="Comédia ASMR: O Pirata Chef e o Papagaio">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78eff3fa52a8608879a4323a3bd64c12/thumbnails/thumbnail.jpg" width="600" alt="Comédia ASMR: O Pirata Chef e o Papagaio">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5940)**
 
@@ -944,7 +944,7 @@ Edição: Cortes rápidos e rítmicos, zooms, ângulos baixos e desfoque de movi
 Importante: Nada de apresentações de slides estáticas; garanta que tudo (câmera, ambiente, efeitos) esteja em movimento. A tinta deve ter propriedades físicas (quicar, escorrer). Sem texto, logotipos ou interface de usuário.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064989452888612864/img/JH84ddvcfD6yuk9H.jpg" width="600" alt="Montagem de Tinta Urbana em Tóquio">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2a8d1bfb3952a02365230c010583b412/thumbnails/thumbnail.jpg" width="600" alt="Montagem de Tinta Urbana em Tóquio">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5957)**
 
@@ -985,7 +985,7 @@ O design de som é perfeitamente sincronizado com cada ambiente: despertador toc
 Visuais ultrarrealistas, qualidade de imagem de cinema IMAX, detalhes nítidos, narrativa emocionalmente imersiva, iluminação natural, profundidade de campo cinematográfica, presença altamente expressiva e feminina, identificável e humana. O rosto da personagem deve corresponder exatamente à imagem de referência, mantendo características faciais e identidade consistentes durante toda a filmagem.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064975836491710464/pu/img/hE9TggDsNLESqX4s.jpg" width="600" alt="Plano-sequência de um dia na vida">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed40dc82ab894fe1157df2edffeeb459/thumbnails/thumbnail.jpg" width="600" alt="Plano-sequência de um dia na vida">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5936)**
 
@@ -1016,7 +1016,7 @@ A câmera segue a bola subindo pelas nuvens antes de descer em um estádio lotad
 Para o momento final, jogadores de diferentes países se reúnem e levantam o troféu da Copa do Mundo enquanto confetes preenchem o ar. A câmera se afasta para revelar milhões de torcedores em todo o mundo celebrando simultaneamente. Épico, emocional, inspirador, reações realistas da multidão, transições perfeitas, iluminação cinematográfica, unidade global através do futebol, sem texto, sem marca d'água, sem legendas.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064971235998806016/pu/img/jyTkefKodSf-vsG6.jpg" width="600" alt="Jornada Global da Copa do Mundo de Futebol">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f6539c58e05a803366b2ebaf610536/thumbnails/thumbnail.jpg" width="600" alt="Jornada Global da Copa do Mundo de Futebol">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5947)**
 
@@ -1035,7 +1035,7 @@ Para o momento final, jogadores de diferentes países se reúnem e levantam o tr
 Duelo de Samurai Neon Cyberpunk (Estilo de ação viral de alta energia) Duelo cyberpunk ultracinematográfico de 15 segundos com efeitos visuais, reflexos de lente anamórfica, 8K hiper-realista, beco de Shinjuku à noite em estilo neon-noir chuvoso, chuva torrencial com respingos realistas e reflexos no asfalto molhado, iluminação volumétrica rosa/azul-petróleo, obturador de alta velocidade com desfoque de movimento, física realista misturada com impactos estilizados em câmera lenta, faíscas e ondas de choque de energia, sem texto/logotipos, samurai mantém rosto perfeito, links neurais brilhantes e consistência da katana durante todo o vídeo, sem deformações ou membros extras. 0–2s: Tomada de rastreamento em ângulo extremamente baixo, cyber-samurai com links neurais azuis brilhantes caminha poderosamente sob chuva forte, katana zumbindo com energia elétrica. 2–4s: Panorâmica rápida (whip-pan) enquanto guardas holográficos se materializam, samurai inicia uma sequência fluida de golpes de espada, colisões de lâminas explodindo faíscas brilhantes. 4–6s: Tomada de rastreamento média a 120fps, chute baixo e amplo envia um guarda pelos ares, a câmera segue o arco da perna com spray de chuva realista. 6–8s: Órbita de 360° em bullet-time, samurai desvia de uma chuva de balas digitais com a katana vibrante, criando anéis de energia azul em expansão em câmera lenta. 8–10s: Giro vertical com salto em câmera lenta, golpe descendente poderoso racha o asfalto, fragmentos de concreto e gotas de chuva explodindo para cima em esferas perfeitas. 10–12s: Close-up com panorâmica rápida no visor reflexivo do samurai, luzes neon piscando enquanto ele gira para enfrentar o último guarda. 12–14s: Close-up extremo nos olhos semicerrados, katana embainhada com um clique metálico nítido e descarga elétrica, desfoque bokeh de neon ao fundo. 14–15s: Afastamento rápido da câmera, samurai permanece vitorioso em meio à chuva e aos detritos, em uma pose heroica congelada e dramática.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064965007339597824/img/Kg6afbkHuCUZZ6tB.jpg" width="600" alt="Duelo de Samurai Neon Cyberpunk">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a8cc2f775e8dba2bc856d6a52bcac6e/thumbnails/thumbnail.jpg" width="600" alt="Duelo de Samurai Neon Cyberpunk">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5890)**
 
@@ -1064,7 +1064,7 @@ O chefe retira lentamente um pequeno controle remoto preto de seu paletó e o le
 Dolly-out lento. O funcionário permanece imóvel, com o cigarro queimando, olhando para a parede vazia, então olha lentamente para o chefe. O chefe ajeita silenciosamente sua gravata e paletó, com a expressão inalterada. Sustenta o plano de dois (two-shot) em silêncio por 2 segundos. Comédia sombria e inexpressiva, transições de iluminação realistas, gradação cinematográfica ultrarrealista.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064950579357741056/pu/img/e2KZ-RpNt8nOj86J.jpg" width="600" alt="Tensão em sala de reuniões com uma reviravolta">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09347e01a64bf47507557d6323fb01b2/thumbnails/thumbnail.jpg" width="600" alt="Tensão em sala de reuniões com uma reviravolta">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5939)**
 
@@ -1094,7 +1094,7 @@ Prompt Negativo:
 borrado, cena escura, terror, humanos realistas, baixa qualidade, erros de texto, rostos distorcidos, membros extras, anatomia feia, cores opacas, baixa saturação, composição ruim, marca d'água, logotipo, personagens cortados, expressões de horror, atmosfera sombria, ritmo apressado, artefatos de movimento.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064950143951208448/pu/img/4hOZcR3OW8_SDG-f.jpg" width="600" alt="Animação de Comédia em um Reino de Fantasia">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8931cc2dfdf9b6de55e8d058a009c1c1/thumbnails/thumbnail.jpg" width="600" alt="Animação de Comédia em um Reino de Fantasia">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5949)**
 
@@ -1161,7 +1161,7 @@ Prompt negativo (reduz artefatos comuns de IA)
 desenho animado, anime, baixa resolução, embaçado, low-poly, asas duplicadas, membros extras, anatomia malformada, texto, logotipo, marca d'água, instabilidade, cintilação, realces superexpostos, sombras turvas, formato da lua inconsistente, perspectiva da cidade distorcida, desfoque de movimento excessivo
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064944099686256640/img/Z-ty51fESVfF_DxU.jpg" width="600" alt="Transformação Etérea da Mariposa Lunar">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/41c8e13b1c6afa6c879b73f7526c7ea5/thumbnails/thumbnail.jpg" width="600" alt="Transformação Etérea da Mariposa Lunar">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5942)**
 
@@ -1194,7 +1194,7 @@ Texto na tela:
 Animação 3D estilo Pixar, narrativa emocional, movimento de câmera cinematográfico, animação de personagem expressiva, interiores aconchegantes, atmosfera vibrante de estádio, empolgação global pelo futebol, iluminação quente, clima inspirador, visuais ultra detalhados, renderização com qualidade de cinema, formato 16:9 para YouTube.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064929740981686272/pu/img/ECV-h136KN6ouhbS.jpg" width="600" alt="Animação com paixão pelo futebol no estilo Pixar">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2606dd477ea73bedc9bfbca6f85f355a/thumbnails/thumbnail.jpg" width="600" alt="Animação com paixão pelo futebol no estilo Pixar">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5930)**
 
@@ -1239,7 +1239,7 @@ O texto aparece:
 "A ÚLTIMA VOLTA..."
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064840058172264448/pu/img/FX9mTHLkH0TH7IYp.jpg" width="600" alt="Aventura Extrema no Parque de Diversões">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e3ced5dd355ffaac286078b617ca8c96/thumbnails/thumbnail.jpg" width="600" alt="Aventura Extrema no Parque de Diversões">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5933)**
 
@@ -1264,7 +1264,7 @@ Ela entra em uma fan zone lotada da Copa do Mundo e caminha em direção a um es
 As luzes do estádio se acendem atrás dela. A multidão explode de emoção.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064916586058969088/pu/img/re69dRtTZxagpTjg.jpg" width="600" alt="Jornada Documental Esportiva Cinematográfica">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/361f3c0d3072002ca5d5b03c388f2248/thumbnails/thumbnail.jpg" width="600" alt="Jornada Documental Esportiva Cinematográfica">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5931)**
 
@@ -1311,7 +1311,7 @@ Cena 10 (36-40s)
 Final no parque de diversões à noite, luzes cintilantes por toda parte, a garota sorrindo enquanto observa o parque iluminado, atmosfera mágica, plano final cinematográfico, alto detalhamento, estilo de vlog realista.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064652946722201600/pu/img/kOA7vh9NKOP3pr5K.jpg" width="600" alt="Vlog de Estilo de Vida Cinematográfico de uma Garota">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3cb8311fc3ef30fed41a1c82f50f8104/thumbnails/thumbnail.jpg" width="600" alt="Vlog de Estilo de Vida Cinematográfico de uma Garota">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5944)**
 
@@ -1338,7 +1338,7 @@ O cristal e sua pele irradiam um brilho rosa quente e encantador que faz com que
 Atmosfera cinematográfica sonhadora, bokeh suave, reflexos de lente delicados, poeira brilhante flutuando no ar, tons pastéis quentes, textura de pele altamente detalhada, momento de amor-próprio emocional e fascinante. Ultra-realista, movimento natural suave, 16:9, 15 segundos.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064866020766949376/img/a5fgWtf9qGl3h4P0.jpg" width="600" alt="Ritual Matinal Mágico de Skincare">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4706b01e54af6dd08676622c9c14d17/thumbnails/thumbnail.jpg" width="600" alt="Ritual Matinal Mágico de Skincare">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5948)**
 
@@ -1357,7 +1357,7 @@ Atmosfera cinematográfica sonhadora, bokeh suave, reflexos de lente delicados, 
 Estilo de animação clássico da Disney dos anos 90. Cena 1: Em uma masmorra de alta tecnologia, um tigre poderoso está deitado de costas em uma mesa, preso por um cinto ao redor da barriga. O tigre olha ao redor com raiva e pergunta: "Onde é este lugar?". Cena 2: Dois braços robóticos com luvas brancas emergem do chão ao lado da mesa e se aproximam do tigre. O tigre olha para eles com confusão e inquietação. Cena 3: As mãos enluvadas começam a fazer cócegas suavemente na barriga do tigre. O tigre imediatamente sorri, dá risadinhas e se contorce, dizendo com sua risada característica: "Ah, pare com isso, eu tenho cócegas!". As mãos continuam fazendo cócegas. Cena 4: As mãos continuam fazendo cócegas; o tigre ri e se contorce, baixando as patas para proteger a barriga. Cena 5: Uma luva agarra o pulso do tigre e o levanta acima de sua cabeça. O tigre fica confuso enquanto ri. A outra luva faz cócegas em sua axila exposta. Isso faz o tigre rir histericamente enquanto tenta baixar a pata. Cena 6: A mão enluvada continua fazendo cócegas na axila e o tigre ri. Narração em inglês. Apenas dois braços robóticos aparecem durante toda a cena.
 ```
 
-<img src="https://pbs.twimg.com/media/HKfSei8XkAEyBu9.jpg" width="600" alt="Animação de tigre no estilo clássico da Disney dos anos 90">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/94c94ee05ae84ce61f31be250842344a/thumbnails/thumbnail.jpg" width="600" alt="Animação de tigre no estilo clássico da Disney dos anos 90">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5905)**
 
@@ -1376,7 +1376,7 @@ Estilo de animação clássico da Disney dos anos 90. Cena 1: Em uma masmorra de
 A câmera mergulha em direção a uma máquina industrial do tamanho de um planeta que está ativamente dividindo um mundo inteiro. Vastos continentes se afastam uns dos outros enquanto fraturas de energia brilhante se espalham pela superfície. Duas naves de alta velocidade navegam por placas tectônicas móveis do tamanho de países, enquanto luz derretida jorra para o espaço. Cadeias de montanhas inteiras passam pela lente. As naves passam por fendas impossíveis entre massas de terra que se separam e mecanismos industriais gigantes presos à crosta do planeta. O momento crucial ocorre dentro de uma esfera de controle transparente suspensa sobre a fratura planetária. A revelação final se afasta da zona de destruição para mostrar o mundo se abrindo como uma flor abaixo delas.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064838296304312320/img/8cijVAigbXT2hEAD.jpg" width="600" alt="Destruição Industrial em Planeta Fraturado">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68907d51a4990fff962c7c1cbedaaac1/thumbnails/thumbnail.jpg" width="600" alt="Destruição Industrial em Planeta Fraturado">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5902)**
 
@@ -1395,7 +1395,7 @@ A câmera mergulha em direção a uma máquina industrial do tamanho de um plane
 {{Image 1}} = Referência de storyboard. Com base na imagem de storyboard em anexo {{Image 1}}, crie um vídeo horizontal de alta qualidade com 15 segundos e proporção 16:9. Tema: 'Quioto onde o Sumi-e (pintura a nanquim) e o live-action se misturam.'
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064836489591304192/img/DgRfC_fPdvL-Hchc.jpg" width="600" alt="Fusão de Sumi-e de Quioto e Live-Action">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f8507fd69cebc4dfa68b95490653efa/thumbnails/thumbnail.jpg" width="600" alt="Fusão de Sumi-e de Quioto e Live-Action">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5913)**
 
@@ -1426,7 +1426,7 @@ Momento final: ele salta do edifício vertical para o ar aberto, joga o núcleo 
 Estilo: hiper-realista, cinematográfico, ritmo acelerado, iluminação dramática, reflexos neon azul e laranja, desfoque de movimento realista, movimento de câmera intenso, alto detalhe, sem texto, sem logotipos, sem câmera lenta, sem estilo de desenho animado, sem personagens extras. Mantenha as proporções. Mantenha o estilo e as características. Proporção 16:9.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064819125793304576/img/ofw-8DdEIfow6gLN.jpg" width="600" alt="Sequência de Ficção Científica: O Roubo da Gravidade">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5677e3829d8641c7a0cff7953d2ee957/thumbnails/thumbnail.jpg" width="600" alt="Sequência de Ficção Científica: O Roubo da Gravidade">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5889)**
 
@@ -1445,7 +1445,7 @@ Estilo: hiper-realista, cinematográfico, ritmo acelerado, iluminação dramáti
 Perspectiva de POV da plateia, gravação feita com celular na mão, leve tremor na câmera, telefone segurado bem acima das cabeças da multidão. Silhuetas das cabeças da plateia densa em primeiro plano, muitos segurando telefones e pequenas câmeras para gravar. Um duelo de super-heroínas ao vivo em um teatro ao ar livre no Japão à noite. O palco foi projetado no estilo de rua noturna de Tóquio do final da era Showa: letreiros de neon, cabines telefônicas, escadas de metal. Duas atrizes adultas realizam uma batalha de super-heroínas ao estilo de Hollywood. A personagem da esquerda usa energia de fogo vermelho-dourada; a personagem da direita usa poderes telecinéticos azul-púrpura. A linha do tempo detalhada de 0s a 15s inclui explosões de energia, investidas em alta velocidade, combate físico, confrontos de habilidades supremas e diálogos em chinês. Especificações técnicas: filmagem vertical com smartphone, POV fixo, plano-sequência contínuo, ruído digital, iluminação noturna externa. Áudio: aplausos da multidão, explosões de energia, sons mecânicos, diálogos em chinês e aplausos no clímax.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064802112504987648/img/HhKBovNCti5waMdz.jpg" width="600" alt="Batalha de Super-heroínas de Anime em Live-Action">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a7c34d9e78decbdc6c59dd4a9d97de2/thumbnails/thumbnail.jpg" width="600" alt="Batalha de Super-heroínas de Anime em Live-Action">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5907)**
 
@@ -1540,7 +1540,7 @@ A música rock continua.
 Termina com a sensação de que a aventura está apenas começando.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064776803713994752/img/mYDny7hVU9sVHyqn.jpg" width="600" alt="Sequência de Vlog de Viagem Energética pela Índia">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3042826eb2cb6b179d165e3bbc5224b4/thumbnails/thumbnail.jpg" width="600" alt="Sequência de Vlog de Viagem Energética pela Índia">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5886)**
 
@@ -1632,7 +1632,7 @@ Prompt:
 "Frasco de perfume de luxo em pedestal de obsidiana preta, partículas douradas girando elegantemente, fundo premium escuro, cinema"
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064781667626328064/pu/img/zAR1MH2pp-t9uM4n.jpg" width="600" alt="Sequência de Anúncio de Perfume de Luxo Premium">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c57194fd3a65c3f85479b1098fc6658/thumbnails/thumbnail.jpg" width="600" alt="Sequência de Anúncio de Perfume de Luxo Premium">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5895)**
 
@@ -1659,7 +1659,7 @@ Uma sequência cinematográfica de perseguição de parkour de 15 segundos duran
 Movimento humano realista, impulso poderoso, técnica de parkour verossímil, ação rápida mas clara, impacto natural na aterrissagem, movimento de câmera cinematográfico, leve energia de câmera na mão durante planos de acompanhamento próximos, iluminação quente de golden hour, reflexo de lente dramático, alto detalhamento, escala urbana realista, atmosfera intensa e aventureira, continuidade suave entre os ângulos, sem câmera lenta, sem texto, sem logotipos, sem pessoas duplicadas, sem membros distorcidos. Mantenha as proporções, mantenha o estilo e as características consistentes.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064779456019910656/img/YOc4PceF__5_kmP6.jpg" width="600" alt="Perseguição de Parkour no Rooftop durante a Golden Hour">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43d50dbc92db2d419c5b2b1f2890df82/thumbnails/thumbnail.jpg" width="600" alt="Perseguição de Parkour no Rooftop durante a Golden Hour">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5899)**
 
@@ -1680,7 +1680,7 @@ Corre através de um comboio em colapso no deserto enquanto caminhões de guerra
 Começa com um rastreamento de roda ultra-baixo ao lado da moto, aceleração durante saltos impossíveis, movimentos rápidos de câmera (whip pans) em direção a caminhões explodindo, perseguição FPV através do fogo e destroços em colapso, faíscas e areia atingindo a lente constantemente, iluminação dramática de pôr do sol alaranjado cortando a tempestade, terminando com o motociclista saindo sozinho da tempestade de areia em explosão enquanto dezenas de veículos do comboio em chamas colapsam atrás dele, a câmera sobe lentamente para uma tomada aérea gigante revelando uma rodovia transformada em um cemitério de fogo
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064735590579392512/pu/img/8gnzT4uHUxdegQJi.jpg" width="600" alt="Sequência de Ação de Motociclista Cibernético estilo Mad Max">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b0044569898ef5d97418a5882fc5eae5/thumbnails/thumbnail.jpg" width="600" alt="Sequência de Ação de Motociclista Cibernético estilo Mad Max">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5887)**
 
@@ -1705,7 +1705,7 @@ CENA 2 — REAÇÃO DA TORCIDA: A câmera de transmissão corta imediatamente pa
 Refletores brilhantes do estádio da MLS por toda parte, gramado verde exuberante, estádio lotado. Placar no canto inferior esquerdo — MIA 5 CLB 1, relógio 87:23. Granulação de transmissão e sutis artefatos de compressão, estética autêntica de TV ao vivo, compressão de lente teleobjetiva na tomada da torcida, cinematográfico, 4K.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064725766269796352/pu/img/V0rHEF032Iiwm_y5.jpg" width="600" alt="Gol e comemoração de Lionel Messi na transmissão da MLS">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b44a77aabcc7873cab95a2492edf893d/thumbnails/thumbnail.jpg" width="600" alt="Gol e comemoração de Lionel Messi na transmissão da MLS">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5892)**
 
@@ -1726,7 +1726,7 @@ Refletores brilhantes do estádio da MLS por toda parte, gramado verde exuberant
 [10–15s]: O Drift e o Whip-Pan A câmera executa um powerslide baixo, levantando poeira sob o topo de um salto de terra, exatamente quando um carro de rally neon salta sobre ela, com as chamas do escapamento queimando o ar. Usando o flash laranja do escapamento como transição, a câmera executa um whip-pan violento de 180 graus para a direita, focando perfeitamente em uma chefe de equipe vestindo um traje antichama repleto de patrocinadores, capturando o momento exato em que ela abaixa uma bandeira quadriculada e aponta o dedo enluvado diretamente para a lente.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064722838784024576/img/cdXs0du3wFKPIwN5.jpg" width="600" alt="Corrida de Rally FPV no Desfiladeiro">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2a9f7f3565c7a5ecd6bba66d87fd8521/thumbnails/thumbnail.jpg" width="600" alt="Corrida de Rally FPV no Desfiladeiro">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5898)**
 
@@ -1745,7 +1745,7 @@ Refletores brilhantes do estádio da MLS por toda parte, gramado verde exuberant
 Palácio infinito contendo portas que levam a realidades alternativas, cada sala exibindo uma versão diferente do mesmo mundo, a câmera passa continuamente pelos portais sem cortes, transições perfeitas entre universos.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064721414872092672/img/P5fap7o4nvfvjNqm.jpg" width="600" alt="Portais do Multiverso no Palácio Infinito">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c90e5bd6955098f9181ddf3bdf104e76/thumbnails/thumbnail.jpg" width="600" alt="Portais do Multiverso no Palácio Infinito">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5897)**
 
@@ -1826,7 +1826,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 Não use o mesmo efeito consecutivamente; expresse como um vídeo energético e de alta informação, onde a composição da tela muda constantemente ao longo dos 15 segundos.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064719067811045376/pu/img/6C6rYW-fBO2ujMMR.jpg" width="600" alt="Edição Glitch de 9 Imagens em Ritmo Acelerado">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9374071c3c1d939341e9ce25d8a846b8/thumbnails/thumbnail.jpg" width="600" alt="Edição Glitch de 9 Imagens em Ritmo Acelerado">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5911)**
 
@@ -1845,7 +1845,7 @@ Não use o mesmo efeito consecutivamente; expresse como um vídeo energético e 
 Um vídeo de ação cinematográfico de alto contraste em uma galeria minimalista de fundo branco. Um personagem vestindo um quimono samurai preto tradicional, cabelos brancos longos e fluidos e uma máscara de demônio Oni branca empunha um pincel de caligrafia japonesa enorme. O personagem gira e corta o ar dinamicamente com o pincel, deixando traços espessos e fluidos de tinta sumi-e preta tridimensional suspensos no ar. A tinta se materializa magicamente em um tigre feroz e hiper-realista e dois dragões chineses massivos que giram majestosamente ao redor do personagem. CGI 3D fotorrealista, realismo Unreal Engine 5, detalhes ultra nítidos, renderização Unreal Engine 5, contraste dramático entre a tinta preta profunda e o fundo branco brilhante. Movimentos em câmera lenta, planos de acompanhamento dinâmicos seguindo as pinceladas, simulação de partículas fluidas, iluminação de estúdio, resolução 8K.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064710188654059520/pu/img/pJIkjoVTw_YYOSR0.jpg" width="600" alt="Arte em Tinta de Máscara Samurai Oni">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/519c122acd5bbadc7b6227a4180200f1/thumbnails/thumbnail.jpg" width="600" alt="Arte em Tinta de Máscara Samurai Oni">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5903)**
 
@@ -1864,7 +1864,7 @@ Um vídeo de ação cinematográfico de alto contraste em uma galeria minimalist
 Use o storyboard THE CINNAMON ROLL BAKER em anexo como referência visual exata. Crie uma sequência animada em 3D estilo Pixar de 12 segundos e formato 16:9, seguindo exatamente todos os 8 planos. A mesma jovem, avental creme, cozinha doméstica aconchegante e iluminada, com luz dourada quente de manhã por toda a cena.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064706243650867200/img/CpFbln2K1ollFdCc.jpg" width="600" alt="Padeiro de Rolinhos de Canela Estilo Pixar">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b24ddaa8ae7a8b9e003a84203175b15/thumbnails/thumbnail.jpg" width="600" alt="Padeiro de Rolinhos de Canela Estilo Pixar">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5904)**
 
@@ -1893,7 +1893,7 @@ A câmera permanece atrás dele, mas sobe gradualmente, elevando-se até olhar d
 ESTILO: cinematográfico, iluminação natural brilhante e glamorosa, gradação de cores vibrante, reflexo de lente (lens flare) da luz solar, desfoque de movimento realista, profundidade de campo rasa, qualidade de filme blockbuster de tapete vermelho.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064701553706213376/img/QgSbTIGxEULxwURl.jpg" width="600" alt="Revelação Cinematográfica de Herói no Tapete Vermelho">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbb7541bf7d58e7f2350a779444278f4/thumbnails/thumbnail.jpg" width="600" alt="Revelação Cinematográfica de Herói no Tapete Vermelho">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5900)**
 
@@ -1920,7 +1920,7 @@ Planos cinematográficos de drone revelam todo o jardim enquanto ela flui sem es
 Finalize com um plano heroico impressionante da mulher mantendo uma bela pose de yoga no centro do jardim, banhada pela luz quente do nascer do sol. A câmera se afasta lentamente para revelar a paisagem serena, criando uma sensação de harmonia, atenção plena, bem-estar e conexão com a natureza. Ultra-realista, fotografia cinematográfica, comercial de marca de bem-estar premium, profundidade de campo rasa, cores naturais suaves, clima pacífico, movimentos de gimbal suaves, fotorrealista, proporção 16:9.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064680024788406272/pu/img/gI8K17-KDdtUVgKm.jpg" width="600" alt="Fluxo de Yoga Matinal Sereno">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fdfa1fb43bc96440e231358aa679648a/thumbnails/thumbnail.jpg" width="600" alt="Fluxo de Yoga Matinal Sereno">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5901)**
 
@@ -1939,7 +1939,7 @@ Finalize com um plano heroico impressionante da mulher mantendo uma bela pose de
 Perspectiva de lanterna de celular em primeira pessoa. À noite, ao empurrar a porta de um apartamento antigo, a câmera entra em um quarto bagunçado, úmido e mal iluminado. Uma mulher está agachada no canto, parecendo presa. Textura de curta-metragem de terror realista com leve tremor de câmera na mão e respiração audível. Tomada 1 (0-3s): A porta range ao abrir, a luz varre o quarto e encontra a mulher, que parece surpresa; Tomada 2 (3-6s): Ela corre em direção à câmera com um sorriso de alívio; Tomada 3 (6-9s): As luzes piscam, ela para e diz 'Você finalmente chegou' com uma voz arrepiante; Tomada 4 (9-12s): Sua expressão congela, seus olhos refletem uma luz anormal, dizendo 'Não estou esperando por um resgate... mas por um substituto'; Tomada 5 (12-15s): A lanterna pisca violentamente enquanto seu rosto se distorce em uma figura fantasmagórica, terminando com um susto repentino e a porta batendo. Estilo: Gravação de celular em primeira pessoa, ruído digital, desfoque de movimento, atmosfera opressiva, sem música, sem sangue.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064674036542504960/img/d5ruA3s0IHft_FeV.jpg" width="600" alt="Encontro de Terror em Primeira Pessoa">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/261ae7afaebb2bc3d06c17769cdb9479/thumbnails/thumbnail.jpg" width="600" alt="Encontro de Terror em Primeira Pessoa">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5908)**
 
@@ -2003,7 +2003,7 @@ Sem distorção de forma, proliferação não natural ou a sensação de que os 
 Crie um vídeo de 15 segundos onde fadas invisíveis vivendo ao lado do movimento coexistam naturalmente dentro do espaço real da estação.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064672408293068800/img/P2N1ocGjWxYZ0kIc.jpg" width="600" alt="Montagem de Rabiscos Urbanos e Fadas da Cidade">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f85938371f2b825b479201afe0aa1615/thumbnails/thumbnail.jpg" width="600" alt="Montagem de Rabiscos Urbanos e Fadas da Cidade">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5909)**
 
@@ -2022,7 +2022,7 @@ Crie um vídeo de 15 segundos onde fadas invisíveis vivendo ao lado do moviment
 Curta de animação de futebol de 15 segundos. Estádio à noite, holofotes, torcida. Uma bola de futebol giratória é o objeto central de todos os planos e deve estar visível na tela do início ao fim. Dois rivais: Rival A = cabelos pretos longos e selvagens, uniforme preto. Rival B = cabelos pretos curtos, uniforme azul-marinho com o número 7. Apenas planos de ação de corpo inteiro, ângulos amplos e médios mostrando o campo. 0-4 segundos: Pontapé inicial. Ambos os jogadores chutam a bola simultaneamente. A bola gira violentamente entre as chuteiras de ambos, e uma onda de choque joga os dois jogadores para trás. A bola permanece no centro, continuando a girar sobre a grama. 4-9 segundos: O Rival B se recupera e dribla a bola giratória em alta velocidade. Plano de acompanhamento amplo e baixo: seus pés, a bola e a grama estão sempre no enquadramento. 9-12 segundos: O Rival A faz um carrinho por trás. O Rival B desvia do carrinho levantando a mesma bola para o ar. A bola sobe em um arco claramente visível. 12-15 segundos: O Rival B salta e chuta a bola no ar com um voleio carregado de relâmpagos. A bola voa em linha reta em direção ao gol envolta em eletricidade azul. Quadro final: a bola balança a rede. Regra de continuidade: existe apenas uma bola durante todo o vídeo, que não desaparece entre os cortes. Negativo: closes nos personagens, efeitos de brilho ou glitter, poses estáticas, cenas de diálogo, cenas sem a bola. [Estádio à noite. Holofotes brilham. A bola de futebol está no círculo central, girando lentamente sobre a grama. O rugido da multidão ecoa.][Rival A (cabelos pretos longos e selvagens, uniforme preto) pisa no campo. Rival B (cabelos pretos curtos, uniforme azul-marinho com o número 7) pisa com o pé oposto. Ambos atingem a bola simultaneamente. A bola gira violentamente entre os pés em colisão e uma onda de choque se expande. Ambos os jogadores são jogados para trás. A bola permanece no centro, ainda girando sobre a grama.][Rival B se levanta. Plano de acompanhamento amplo em ângulo baixo. Seus pés, a bola giratória e a grama estão fixos em um único enquadramento. Ele avança em disparada, com a bola rolando e girando sob seus pés enquanto ele corre pelo campo em alta velocidade.][Rival A inicia um carrinho por trás, com as travas rasgando a grama. Rival B recebe a bola com a ponta do pé e, no mesmo movimento, a levanta. A bola descreve um arco alto e claro sobre o carrinho.][Rival B salta. A bola está suspensa no ar. Sua perna direita se flexiona e ele desfere um voleio carregado de eletricidade azul. A bola voa como um foguete em direção ao gol, deixando um rastro de relâmpago. Ao atingir a bola, a rede balança para trás e a multidão vai ao delírio.]
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064626904083333120/img/pbe5CQyKhDh_MI9N.jpg" width="600" alt="Ação de Futebol com IA Superdimensional">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/334a7d1251bf0d49a7a6b1a4da21ddb2/thumbnails/thumbnail.jpg" width="600" alt="Ação de Futebol com IA Superdimensional">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5912)**
 
@@ -2041,7 +2041,7 @@ Curta de animação de futebol de 15 segundos. Estádio à noite, holofotes, tor
 Uma sequência de vídeo de ficção científica em ritmo acelerado em uma pista de atletismo de ensino médio sob um céu escuro e nublado. Uma mulher loira vestindo um agasalho azul-marinho e branco caminha com confiança enquanto os estudantes fogem. Uma aranha robótica em seu pulso se expande rapidamente em uma armadura nanotecnológica de corpo inteiro — apresentando placas brancas, roxas e douradas, asas mecânicas e um capacete roxo brilhante. Um enorme monstro de pedra avança, e ela o destrói casualmente com uma poderosa rajada de energia roxa, criando uma enorme explosão de fumaça e detritos. A câmera dá um zoom em um close-up enquanto seu capacete se retrai, revelando-a sorrindo enquanto manda um beijo roxo brilhante para a câmera. Iluminação cinematográfica, efeitos visuais fotorrealistas, 8k.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064608014934695936/pu/img/_Gi3k8G3kwVwYdpr.jpg" width="600" alt="Transformação em Super-herói com Nanotecnologia">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29c55b68fdc4d6622f51729bf1bf2506/thumbnails/thumbnail.jpg" width="600" alt="Transformação em Super-herói com Nanotecnologia">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5884)**
 
@@ -2103,7 +2103,7 @@ O menino aproveita feliz seu novo sorvete. Perto dali, um cachorrinho de rua ami
 Sequência cinematográfica final: o caminhão de sorvete vai embora pela rua suburbana iluminada, o menino e o cachorrinho caminham lado a lado sob a luz dourada do sol. Plano aéreo amplo revelando um bairro tranquilo, longas sombras do pôr do sol, atmosfera emocional calorosa, final saudável para toda a família, profundidade de campo cinematográfica, física de animação realista, atuação facial expressiva, música orquestral emocionante, narrativa inspirada na Pixar, tema de bondade transformando decepção em felicidade.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064562625665732608/pu/img/DdV-PxKwtHvgNfob.jpg" width="600" alt="Resgate do Sorvete no Estilo Pixar">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7bf2f26f2d4b54e248e13efa6338d2e9/thumbnails/thumbnail.jpg" width="600" alt="Resgate do Sorvete no Estilo Pixar">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5896)**
 
@@ -2122,7 +2122,7 @@ Sequência cinematográfica final: o caminhão de sorvete vai embora pela rua su
 Um samurai japonês balança uma espada e o lado direito da moldura do quadro quebra. O samurai sai de dentro enquanto emite fumaça preta. Um samurai japonês balança uma espada. A moldura direita do quadro quebra. Além da moldura, o samurai sai para a direita enquanto emite fumaça preta. sem texto, sem mudança de corte, sem mudança de personagem.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064555806897651712/img/CPd0kemWyoR7hXkr.jpg" width="600" alt="Samurai quebrando moldura de quadro">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a8b4432a1ac8b67474486cc10306a0ee/thumbnails/thumbnail.jpg" width="600" alt="Samurai quebrando moldura de quadro">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5879)**
 
@@ -2152,7 +2152,7 @@ Maya (Tailândia) senta-se elegantemente com seu gato Himalaio e diz: "E esta é
 Após a apresentação final, a câmera se afasta para uma tomada ampla mostrando todas as oito mulheres e seus gatos juntos. Os gatos interagem naturalmente, brincam, se espreguiçam e caminham enquanto as mulheres sorriem e riem. Iluminação quente de pôr do sol, profundidade de campo cinematográfica, transições de câmera suaves, interior de luxo, comportamento realista dos gatos, expressões faciais naturais, qualidade comercial de alto nível, realismo inspirado na Pixar, atmosfera elegante e acolhedora, 16:9.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064553707937914881/pu/img/O9sXuG-7OQX7u0d-.jpg" width="600" alt="Cena Cinematográfica de Apresentação de Gatos em Cobertura de Luxo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3bc6f5681307bc936c9ddfece06c300a/thumbnails/thumbnail.jpg" width="600" alt="Cena Cinematográfica de Apresentação de Gatos em Cobertura de Luxo">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5888)**
 
@@ -2212,7 +2212,7 @@ Edição: Use uma bela sequência de cortes com ritmo, planos amplos, super clos
 Gere um vídeo vertical 9:16 de 10 segundos no estilo de filmagem realista de celular vazada. A cena é o convés de um grande barco de pesca à noite, com o mar escuro à direita e estruturas brancas do barco, corrimãos, luzes de trabalho e membros da tripulação à esquerda e ao fundo. O convés está molhado e reflexivo com água do mar, escotilhas de metal, cordas e ganchos de barco. Luzes brancas brilhantes do barco iluminam o convés, enquanto o mar distante está quase na escuridão total. A filmagem apresenta compressão de celular de baixa definição, trepidação de câmera na mão, desfoque de movimento e ruído noturno. O conteúdo mostra grandes atuns saltando no convés para escapar de um tubarão gigante. A atmosfera é realista, caótica e absurda, com um toque de humor ácido. Linha do tempo: 0-2s: O primeiro atum salta do mar escuro para o convés; 2-4s: Mais atuns saltam a bordo enquanto a tripulação recua em choque; 4-6s: A câmera segue os peixes saltando enquanto sombras espreitam na água; 6-8s: Um tubarão gigante salta da água perto do corrimão, com a boca aberta e fileiras de dentes; 8-10s: A boca do tubarão preenche o primeiro plano enquanto ele ruge antes que a filmagem termine em caos. Câmera: Na mão, plano-sequência, sem cortes. Áudio: Vento do mar, zumbido mecânico, ondas, peixes se debatendo, tripulação gritando, água espirrando. Foco visual: Mar noturno escuro, convés branco, atuns saltando, tripulação em pânico e a aproximação final do tubarão. Prompts negativos: Sem tubarão no convés, sem estilo de animação, sem luz do dia, sem sangue, sem texto ou marcas d'água.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064539020684636160/img/xFjkDwnsRCjava9W.jpg" width="600" alt="Tubarão perseguindo atum em barco de pesca">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56f6020b68cd8f1c356aacc475f20b1d/thumbnails/thumbnail.jpg" width="600" alt="Tubarão perseguindo atum em barco de pesca">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5906)**
 
@@ -2241,7 +2241,7 @@ Tomada 4 (9–13s) — O CLÍMAX EM CÂMERA LENTA: O tubarão atravessa o casco 
 Tomada 5 (13–15s): O tempo volta ao normal. A onda de choque ultrapassa a lancha, quase inundando-a enquanto destroços em chamas chovem sobre as ondas. A tripulação levanta-se do convés, encharcada, olhando para a carcaça do navio em chamas que afunda atrás deles. O comandante aciona seu rádio, sorrindo: "Bom alvo." O periscópio desce abaixo da superfície.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064519788349759488/img/S6tI90xo3RJ_AnW2.jpg" width="600" alt="Perseguição Oceânica: Torpedo vs Megalodon">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b89efdf4c83c6a9bc112e8817c6b9a77/thumbnails/thumbnail.jpg" width="600" alt="Perseguição Oceânica: Torpedo vs Megalodon">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5894)**
 
@@ -2268,7 +2268,7 @@ Então, um gato laranja gigante e gordinho entra no quadro pelo lado direito. O 
 Imediatamente depois, o gato laranja levanta o punho e desfere um soco poderoso em direção à câmera. A tela treme violentamente com o impacto. Ruído digital, falhas e sons de interferência de sinal como se o vídeo estivesse corrompido. Com um intenso ruído eletrônico, a tela fica completamente preta. Aventura cinematográfica, bem-humorada e imprevisível, movimento de câmera dinâmico, qualidade de animação de nível de filme, detalhes ambientais ricos, cores vivas e uma sensação avassaladora de velocidade.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064518682429227008/img/9Nw1RHEr3stdTXTc.jpg" width="600" alt="Transição de Cidade Subaquática em Estilo Anime">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fb926a1c98c1b6b14c68900c9b1c9a64/thumbnails/thumbnail.jpg" width="600" alt="Transição de Cidade Subaquática em Estilo Anime">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5855)**
 
@@ -2297,7 +2297,7 @@ Tomada 4 (9–13s) — O CLÍMAX EM CÂMERA LENTA: O crocodilo avança logo atr�
 Tomada 5 (13–15s): O tempo volta ao normal. A onda de choque nivela a água. A lancha desliza para o rio aberto abaixo, o piloto olhando para trás, para o portão em chamas, com o punho erguido. Acima, o artilheiro abaixa o lançador fumegante e aciona o rádio: "Portão fechado." Corte.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064518373866921984/img/76d7h_L28i3ny1ik.jpg" width="600" alt="Mega Crocodilo vs. Operação Militar na Barragem">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f53b7ecfff20c0e74c93fd7d71c03c20/thumbnails/thumbnail.jpg" width="600" alt="Mega Crocodilo vs. Operação Militar na Barragem">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5893)**
 
@@ -2326,7 +2326,7 @@ Plano 4 (9–13s) — DESFECHO EM BULLET TIME: O Humvee rola para fora da rampa.
 Plano 5 (13–15s): O tempo volta ao normal. O avião de carga decola no último metro da pista, subindo íngreme sobre a carcaça em chamas que tomba abaixo. O soldado se segura na rampa retorcida, o vento uivando, rindo como um louco. Os destroços queimam na pista atrás deles. Corta.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064509655779524608/img/yAWpQwQe7giB4U73.jpg" width="600" alt="Cena de ação: T-Rex vs. Avião de Carga Militar">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e00fa725e9bc3b6ec1c4402fde70e0ba/thumbnails/thumbnail.jpg" width="600" alt="Cena de ação: T-Rex vs. Avião de Carga Militar">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5891)**
 
@@ -2354,7 +2354,7 @@ Viajante de pé do outro lado enquanto o portal se fecha violentamente atrás de
 Close-up extremo do portal implodindo em um único ponto, faíscas morrendo, avanço cinematográfico lento, detalhes brilhantes, luz dramática.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064503266147225600/img/25apufxKXTqRk_A2.jpg" width="600" alt="Sequência de Vídeo Cinematográfica de Viajante do Tempo Sci-Fi">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04d729ea94e009bab7891119e8c41f89/thumbnails/thumbnail.jpg" width="600" alt="Sequência de Vídeo Cinematográfica de Viajante do Tempo Sci-Fi">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5883)**
 
@@ -2375,7 +2375,7 @@ Filmagem de celular na mão, à noite, no convés de um barco de pesca em alto-m
 Estilo de rede social viral, iluminação noturna realista, superfícies molhadas e reflexivas, alta tensão e emoção, filmagem na mão estilo documentário
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064501280555630592/img/QRhIfOK8JW1cIV9U.jpg" width="600" alt="Barco de pesca com ataque de tubarão viral">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd5d0af83b43c60de4672d1912820d3f/thumbnails/thumbnail.jpg" width="600" alt="Barco de pesca com ataque de tubarão viral">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5882)**
 
@@ -2394,7 +2394,7 @@ Estilo de rede social viral, iluminação noturna realista, superfícies molhada
 Curta-metragem de comédia realista com câmera fixa, duas cenas, todos os personagens são adultos e totalmente vestidos. Os adereços são todos brinquedos de plástico ou itens cômicos seguros. Comédia de reversão absurda, sem violência real, sem sangue, sem ambiguidade, sem conteúdo sugestivo. [00:00-00:07] Tomada 1 - Câmera fixa dentro do carro: Interior de um carro à noite, câmera fixa no console central, completamente estática: sem zoom, sem trepidação, sem movimento panorâmico. No quadro, um homem adulto desleixado (hf_20260506_032645_e6665446-0056-40fc-b99f-8d85619f8789) vestindo uma regata branca suja está dirigindo, com uma mulher adulta no banco do passageiro. De repente, alguém corta a frente, o homem freia bruscamente, projeta-se para frente e bate no volante com raiva. Ele saca uma faca de brinquedo de plástico exagerada e barata, abre a porta furiosamente. A mulher insiste: 'Não vá! Eu te avisei que é perigoso!' Ele a ignora, resmungando: 'Eu só quero fazer algumas perguntas a ele!' e sai do quadro. A porta bate, a mulher permanece, parecendo desolada e impotente. [00:07-00:15] Tomada 2 - Câmera fixa invertida: Corte para um quarto normal, plano médio, completamente estático. O homem desleixado está deitado na cama, com o rosto no travesseiro, parecendo sofrido como se a realidade tivesse lhe dado uma lição. A mulher senta-se atrás dele (ref hf_20260609_173858_0a2ea93a-89fc-4376-a250-0d2e8ea60474 (1)), parecendo irritada, porém impotente. [00:07-00:09] A mulher dá um tapa no quadril/parte inferior das costas do homem por cima da roupa com um som exagerado de 'smack', dizendo: 'Viu, eu te avisei, não vá, é perigoso demais!' [00:09-00:12] Ela tira a faca de plástico de um bolso escondido (ref hf_20260609_173858_0a2ea93a-89fc-4376-a250-0d2e8ea60474 (1)) e depois uma raquete de badminton. O homem faz uma careta de arrependimento engraçada, som de fundo de bebê chorando. [00:12-00:15] Ela continua puxando uma longa tira de tecido colorido, como um truque de mágica que deu errado. O homem esconde o rosto, a mulher olha para a câmera com um olhar de 'eu te avisei'. Som: Freios, atrito de pneus, batida no volante, sons de porta, resmungos, conselhos ansiosos. A segunda cena tem som de 'smack', atrito de brinquedo de plástico, som de raquete, farfalhar de tecido, rangido de colchão, choro de bebê. Sem música, sem gritos reais. Estilo: Comédia realista de baixo orçamento. Primeira cena com luz fria noturna, segunda cena com luz quente de quarto. Movimentos naturais, porém exagerados, adereços de plástico baratos, ritmo de reversão absurda. Evitar: Facas reais, danos reais, sangue, abuso, nudez, insinuações sexuais, menores de idade, personagens extras, legendas, marcas d'água, movimento de câmera, trepidação, distorção.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064488445188161536/img/8fK_pcpBLVFxb_uY.jpg" width="600" alt="Cena de comédia absurda sobre fúria no trânsito">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57e48bde914c887eab018f56d21be52a/thumbnails/thumbnail.jpg" width="600" alt="Cena de comédia absurda sobre fúria no trânsito">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5872)**
 
@@ -2416,7 +2416,7 @@ Os efeitos visuais entram em ação (A Metamorfose): À medida que a transforma�
 A forma final revela um traje composto por uma fusão de tecido biológico negro e ligas alienígenas, parecendo "vivo" e "em crescimento", com texturas pulsantes. Linhas vasculares vermelhas levemente brilhantes ou circuitos intrincados traçam os contornos do traje, culminando em olhos vermelhos profundos e ameaçadores brilhando na placa facial ou no capacete.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064470275828461568/img/o76eJqGz8VO-jUMW.jpg" width="600" alt="Metamorfose de Traje Biológico Alienígena">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/92210fd629f7e921a5fda7c0898e4854/thumbnails/thumbnail.jpg" width="600" alt="Metamorfose de Traje Biológico Alienígena">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5862)**
 
@@ -2435,7 +2435,7 @@ A forma final revela um traje composto por uma fusão de tecido biológico negro
 Filmagem realista feita com celular de um grande polvo marrom atacando um mergulhador na lateral de um barco branco em alto-mar. Um mergulhador com roupa de neoprene azul e cilindro de oxigênio amarelo está deitado no convés do barco enquanto um polvo enorme salta sobre ele e se agarra ao casco, com seus tentáculos grossos enrolados nas pernas e no corpo do mergulhador. O polvo puxa o mergulhador com força em direção à água, causando respingos e luta. O mergulhador resiste, mas é arrastado para fora da borda. Câmera dinâmica acompanha a ação com leve tremor de mão, ondas oceânicas realistas, luz natural do dia e texturas detalhadas na pele do polvo, na roupa de neoprene e no barco. Fotorrealista, alto detalhe, tensão dramática, estilo documentário.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064463653957771264/img/b6gJ9TdMNyQWhN7G.jpg" width="600" alt="Polvo ataca mergulhador">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52cd00b23f9e31b12dc74351d9275b14/thumbnails/thumbnail.jpg" width="600" alt="Polvo ataca mergulhador">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5857)**
 
@@ -2464,7 +2464,7 @@ Tomada 4 — A criatura projeta todo o seu peso em direção ao mar; o pilone pr
 Tomada 5 — Os destroços arrastam o leviatã que grita para o fundo, uma nadadeira caudal golpeia a superfície antes que os cabos o puxem para baixo; a mulher se segura na porta do ônibus por um cabo rompido, balançando sobre a água fervilhante. A ponte que ele atacou foi o que o afundou. Afastamento aéreo lento: a Sea Link destruída, o brilho submerso, as luzes da cidade indiferentes atrás da chuva.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064441765424484352/img/4ZcUIDcsDE4d7tsN.jpg" width="600" alt="Ataque de Kaiju na Bandra-Worli Sea Link">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e50e6c37c0362db861f7af31cc29136/thumbnails/thumbnail.jpg" width="600" alt="Ataque de Kaiju na Bandra-Worli Sea Link">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5847)**
 
@@ -2489,7 +2489,7 @@ Ela lhe dá um beijo breve e brincalhão — um momento rápido e terno. Imediat
 Capturado como filmagem prática bruta de um filme de fantasia medieval — visual autêntico de película dos anos 60 com tons quentes e ricos, imperfeições naturais, leves reflexos de lente das tochas, vibração orgânica da câmera. Toda a sequência se desenrola em tempo real com encenação e timing teatrais que remetem ao cinema de aventura clássico.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064434136178429952/img/bNXiITp2rdIQYrJ5.jpg" width="600" alt="Cena de Beijo Cinematográfico Retrô dos Anos 60">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0eceff23648d169ecef628a4db21c3e6/thumbnails/thumbnail.jpg" width="600" alt="Cena de Beijo Cinematográfico Retrô dos Anos 60">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5863)**
 
@@ -2528,7 +2528,7 @@ Estilo: transformação VFX ultra-realista, anatomia fundamentada, comportamento
 Áudio: ambiente de floresta realista, chuva, respiração pesada, sons de deslocamento muscular, movimento de pelos, trovões distantes, rosnados animais, design de som atmosférico de natureza selvagem.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064407231076990976/pu/img/SamsbISGJUgYwQqy.jpg" width="600" alt="Transformação Cinematográfica de Lobisomem">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/759545b95ebc2295541d80107204f076/thumbnails/thumbnail.jpg" width="600" alt="Transformação Cinematográfica de Lobisomem">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5851)**
 
@@ -2553,7 +2553,7 @@ Locais: Torre Eiffel em Paris, Shibuya em Tóquio, Times Square em Nova York, Co
 Cada local apresenta um traje elegante e único que combina com a vibe local e uma pose expressiva e divertida, como acenar, sinal de paz, namastê, coração com os dedos, rindo, apontando para os marcos, polegar para cima, reações de surpresa, dançando ou de forma descontraída.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064401449648537600/pu/img/kXEzIMuRh23JzXL-.jpg" width="600" alt="Selfie em Hyper-lapse de Viagem pelo Mundo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/064210ab16759252370df899ce7a54b8/thumbnails/thumbnail.jpg" width="600" alt="Selfie em Hyper-lapse de Viagem pelo Mundo">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5848)**
 
@@ -2574,7 +2574,7 @@ Cada local apresenta um traje elegante e único que combina com a vibe local e u
 Gere uma sequência cinematográfica de 15 segundos de apresentação de personagem de fantasia celestial usando a imagem de referência do storyboard fornecida Imagem 2 . Mantenha a consistência rigorosa de Astrielle Imagem 1 em todas as cenas —
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064395176693612544/img/-EnOAGotXI46jPF7.jpg" width="600" alt="Apresentação de Personagem de Fantasia Celestial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb34c19da033640689a751c7e1da5276/thumbnails/thumbnail.jpg" width="600" alt="Apresentação de Personagem de Fantasia Celestial">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5868)**
 
@@ -2593,7 +2593,7 @@ Gere uma sequência cinematográfica de 15 segundos de apresentação de persona
 Documentário cinematográfico estilo Netflix, sequência de 16 segundos, 16:9, ultra-fotorrealista 8K, ARRI Alexa Mini LF, lentes anamórficas, reflexos de lente sutis, granulação de filme orgânica. Tratamento de cor de documentário de fitness premium com tons dourados quentes, sombras profundas, pele realista
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064387760027480065/img/vM9atcAy0dW-ZXrg.jpg" width="600" alt="Estilo Documentário de Fitness Premium">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d42414e60e71a0edc2a74d3ed571f97f/thumbnails/thumbnail.jpg" width="600" alt="Estilo Documentário de Fitness Premium">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5867)**
 
@@ -2622,7 +2622,7 @@ Um trabalhador alcança casualmente o lado para continuar pintando enquanto est�
 Imagens autênticas de celular viral, realismo documental, comportamento humano crível, descoberta acidental, energia de "como isso é possível?", sem movimentos de câmera cinematográficos, sem cintos de segurança visíveis, digno de meme, mas completamente realista.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064384954637889541/img/2L2YV8XScB7RqS2d.jpg" width="600" alt="Imagens virais de construção">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a60ee6b38bbac25d2bba5d0decec7325/thumbnails/thumbnail.jpg" width="600" alt="Imagens virais de construção">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5854)**
 
@@ -2641,7 +2641,7 @@ Imagens autênticas de celular viral, realismo documental, comportamento humano 
 Vídeo cinematográfico em 8k. Uma cena de fantasia épica. Uma feiticeira poderosa com olhos azul-neon brilhantes e penetrantes, longos cabelos escuros soprando ao vento e armadura de couro preto adornada com runas brilhantes e cristais de gelo afiados nos ombros. Ela está em uma passagem de montanha rochosa e sombria. Um exército de cavaleiros das trevas avança em sua direção. Ela levanta uma varinha mágica brilhante, canalizando uma enorme energia congelante. Uma poderosa onda de choque de geada e gelo irrompe de sua posição, expandindo-se rapidamente em um círculo perfeito, congelando instantaneamente o exército que avança em estátuas de gelo detalhadas. Tomada aérea dramática de drone mostrando a enorme onda de choque circular de gelo. Câmera lenta, atmosfera de música cinematográfica intensa, CGI de alta qualidade, gradação de cores escura e realista, fotorrealista, bokeh profissional, detalhes intrincados.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064382926301835267/pu/img/cI3Ao2bwt9kwcA5g.jpg" width="600" alt="Onda de Choque de Gelo da Feiticeira">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0824c1c35a3cf3b1b95b22503a723017/thumbnails/thumbnail.jpg" width="600" alt="Onda de Choque de Gelo da Feiticeira">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5860)**
 
@@ -2664,7 +2664,7 @@ Templo antigo no alto das montanhas durante o dia claro com cachoeiras, estátua
 Começa com uma tomada ampla dramática acima das montanhas, zoom rápido para o combate, movimentos de câmera acompanhando acrobacias impossíveis e ataques giratórios com o cajado, tomadas orbitais ao redor de impactos de ondas de choque gigantes, quadros de impacto épicos em estilo anime e distorção de perspectiva dinâmica, detritos e luz solar inundando o quadro, o monge saltando entre pilares em colapso e correndo sobre rochas suspensas enquanto troca golpes devastadores com múltiplos guardiões colossais, cada golpe gerando anéis de energia em expansão e rachando a própria montanha, terminando com o monge ascendendo alto acima do campo de batalha em uma explosão de luz dourada antes de descer seu cajado em um golpe final divino que envia uma onda de choque colossal por todo o complexo do templo, vaporizando os guardiões de pedra restantes instantaneamente, despedaçando encostas de montanhas e congelando o mundo em um momento de silêncio, nuvens de poeira se dissipando para revelar o monge sozinho no centro de uma cratera massiva enquanto os restos despedaçados de cada guardião colapsam ao seu redor, a luz do sol rompendo as nuvens enquanto a câmera se afasta lentamente para revelar sua vitória absoluta e o templo restaurado à calma sob as montanhas
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064373202889891840/pu/img/YqT7vAv-sQeIFfCG.jpg" width="600" alt="Batalha no Templo do Monge Anime">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dcf1d449c9685675010538dcfd8dcf54/thumbnails/thumbnail.jpg" width="600" alt="Batalha no Templo do Monge Anime">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5861)**
 
@@ -2683,7 +2683,7 @@ Começa com uma tomada ampla dramática acima das montanhas, zoom rápido para o
 Reggie desembarca de um vaporetto ou chega à beira de um canal, ajusta o monóculo e profere uma frase de "Bem-vindo a Veneza". Zoom lento enquanto ele se maravilha com os canais, descrevendo-os como "Londres, se alguém tivesse esquecido as estradas". Ele avista uma gôndola e insiste que precisa de "uma entrada cinematográfica". Plano aberto: ele sobe na gôndola, quase a virando, e tenta manter a dignidade. Corte para ele sentado, posando para a câmera e fazendo "gestos dramáticos de influenciador". O gondoleiro começa a cantar; Reggie reage com uma sofisticação fingida, seguida de um deslumbramento genuíno. Pombos voam sobre sua cabeça; corte rápido de Reggie se abaixando e depois fingindo que foi planejado. Ao passar sob uma ponte, ele tenta citar um fato histórico sério, mas claramente se engana. Plano em POV olhando para os prédios antigos; Reggie chama o local de "o labirinto aquático mais chique do mundo". A gôndola esbarra em outra; um breve momento de desconforto, e Reggie solta um elogio atrevido ou um sarcasmo britânico. Corte seco para Reggie em um pequeno café/bar flutuante, equilibrando um expresso na borda. Close extremo: Reggie toma um gole do expresso, seus olhos se arregalam com a intensidade, mas ele finge que está "absolutamente delicioso". Montagem rápida: pequenas mordidas de cicchetti, acenos de aprovação e, em seguida, uma reação exagerada e dramática a um sabor forte. Plano do pôr do sol em uma pequena ponte; Reggie se apoia no parapeito, com o chapéu coco levemente torto. Frase final para a câmera, algo como "Dez de dez, mas ainda não faço ideia de para onde foram as estradas", seguida de uma caminhada saltitante para longe.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064361525255553025/img/bnzRUmPZzJ98dmj5.jpg" width="600" alt="Reggie no Passeio pelos Canais de Veneza">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c13a64ad75212bff0e9364b400a302b3/thumbnails/thumbnail.jpg" width="600" alt="Reggie no Passeio pelos Canais de Veneza">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5871)**
 
@@ -2726,7 +2726,7 @@ Iluminação: Luz quente da janela, suave e limpa.
 Evitar: Tremidos, mudança de identidade, sensação de anúncio encenado, janela superexposta.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064349984083062784/pu/img/VFl_zBrq4FcA14-D.jpg" width="600" alt="Vlog Matinal: Setup de Mesa">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bac09eab3dbd7985644b190355d89ec1/thumbnails/thumbnail.jpg" width="600" alt="Vlog Matinal: Setup de Mesa">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5858)**
 
@@ -2745,7 +2745,7 @@ Evitar: Tremidos, mudança de identidade, sensação de anúncio encenado, janel
 Use o storyboard THE CRÊPE MAKER em anexo como referência visual exata. Crie uma sequência de animação 3D da Pixar de 12 segundos em 16:9 seguindo exatamente todas as 8 cenas. O mesmo homem francês estereotipado — boina preta, camisa listrada azul-marinho e branca, avental branco, charmoso
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064342509732438016/img/ZbwTFaE_JLtILS-m.jpg" width="600" alt="Animação de um fazedor de crepes francês no estilo Pixar">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e83993ab4819d2f323abac532de20e8/thumbnails/thumbnail.jpg" width="600" alt="Animação de um fazedor de crepes francês no estilo Pixar">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5869)**
 
@@ -2783,7 +2783,7 @@ Corte 8: Sentada em um banco ao pôr do sol. Trilhas de fitas e linhas desenhada
 No geral, um mundo onde o cenário real de Tóquio, personagens chibi e efeitos estão fortemente fundidos. Os efeitos não são excessivamente de ficção científica, mas refrescantes, leves e levemente poéticos. O volume e o movimento dos efeitos são significativamente aumentados para serem densos em cada corte, reagindo firmemente aos movimentos e emoções do personagem. A câmera se move consistentemente em cada corte.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064332980152410112/img/s17A-rTGlGTOSGRE.jpg" width="600" alt="Fusão de Anime Chibi em Tóquio">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/878923f1c6eba6e817ccbe6fb134cd76/thumbnails/thumbnail.jpg" width="600" alt="Fusão de Anime Chibi em Tóquio">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5876)**
 
@@ -2808,7 +2808,7 @@ Movimentos de câmera dinâmicos, transições perfeitas, destaques em câmera l
 Finalize com um plano heroico dramático dos fones de ouvido girando contra um cenário urbano cinematográfico, efeitos visuais sutis de ondas sonoras, reflexos premium, estilo de comercial de produto de luxo, profundidade de campo rasa, visual de campanha de marca de alto padrão, cinematografia comercial impecável, proporção 16:9, fotorrealista, visualmente deslumbrante.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064322270760439808/pu/img/Ia_j31f1QkRWAEFQ.jpg" width="600" alt="Comercial de Estilo de Vida para Fones de Ouvido">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f5a1828bea9f6c0787835c324e96e6e/thumbnails/thumbnail.jpg" width="600" alt="Comercial de Estilo de Vida para Fones de Ouvido">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5853)**
 
@@ -2833,7 +2833,7 @@ A ação se intensifica à medida que os competidores saltam de rampas gigantes 
 Para o final, o skatista líder se aproxima de um vulcânico ativo gigantesco. Uma erupção colossal cria uma rampa de lançamento natural impulsionada pela lava. O skatista realiza uma manobra aérea impossível com múltiplas rotações bem acima da cratera antes de descer diretamente para dentro do vulcão. A linha de chegada brilha profundamente no interior da cratera. O atleta aterrissa perfeitamente em uma plataforma estreita no centro do vulcão enquanto a lava entra em erupção ao seu redor. Final cinematográfico épico, energia intensa, física realista, visuais vulcânicos impressionantes, ambiente ultra detalhado, sem texto, sem marca d'água, sem legendas, ação com qualidade de filme.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064286260253118464/pu/img/4xKr73p7-moMCw5p.jpg" width="600" alt="Campeonato de Skate na Ilha Vulcânica">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24be2398f7685082fdd4284581e52ca4/thumbnails/thumbnail.jpg" width="600" alt="Campeonato de Skate na Ilha Vulcânica">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5870)**
 
@@ -2852,7 +2852,7 @@ Para o final, o skatista líder se aproxima de um vulcânico ativo gigantesco. U
 Filme de anime japonês em cores, vídeo cinematográfico de alta qualidade. Sem música de fundo/diálogo/texto. Foco em movimentos lentos e silenciosos. Personagem mordomo: Alto, esguio, cabelo preto, óculos prateados, terno de três peças, luvas brancas. Cena: Cozinha com iluminação suave e luz do sol tênue. Corte 1: Fogão acendendo chama azul. Corte 2: Ajustando a gravata. Corte 3: Colocando luvas brancas. Corte 4: Colhendo folhas de chá secas. Corte 5: Ajustando os óculos. Corte 6: Bule de chá laranja intenso soltando vapor. Corte 7: Adicionando açúcar. Corte 8: Ajustando o lenço de bolso. Corte 9: Adicionando leite condensado ao chá. Corte 10: Coando o chá em uma jarra. Corte 11: Penteando o cabelo para trás. Corte 12: Colocando uma esfera de gelo em um copo. Corte 13: (Câmera lenta) Despejando o chá sobre o gelo. Corte 14: (Câmera lenta) Adicionando leite para criar duas camadas. Corte 15: Mordomo oferecendo o copo finalizado.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064286114324836352/img/wPAIidH_NB9h73k2.jpg" width="600" alt="Sequência de anime: Mordomo preparando chá tailandês">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b995f15ba0534b09a437a9f9938e560/thumbnails/thumbnail.jpg" width="600" alt="Sequência de anime: Mordomo preparando chá tailandês">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5916)**
 
@@ -2871,7 +2871,7 @@ Filme de anime japonês em cores, vídeo cinematográfico de alta qualidade. Sem
 Estilo de animação 3D chinesa moderna. Cena 1: Em um palácio egípcio, a cena começa dentro da sala do trono. Vemos o majestoso deus chacal Anúbis em pé, com os braços em posição de T. Ao lado dele está um jovem rei humano, dizendo com uma expressão séria: "Meu caro Anúbis, você não deve se distrair." Anúbis responde firme e seriamente: "Como desejar, mestre." Cena 2: O rei humano sorri maliciosamente e estende a mão em direção à axila de Anúbis, fazendo cócegas nele de forma suave e delicada. A expressão de Anúbis muda rapidamente para algo radiante; ele tenta ao máximo ignorar a sensação de cócegas, mas é muito sensível. Cena 3: O rei humano continua a fazer cócegas nas axilas de Anúbis. Anúbis fecha os olhos e abre um sorriso largo, soltando risadinhas abafadas. O rei humano diz "coceguinhas" enquanto faz as cócegas. Cena 4: O rei humano continua as cócegas. Anúbis logo começa a rir alto, seus braços saem da posição de T, mas suas axilas permanecem expostas. Cena 5: O rei humano continua fazendo cócegas; Anúbis ri com vontade e então cruza os braços sobre o corpo para proteger as axilas, finalmente interrompendo as cócegas. Cena 6: Anúbis cruza os braços, solta algumas risadas residuais e então sua expressão torna-se séria novamente. Ele coloca as mãos na cintura, parecendo levemente irritado com seu mestre, dizendo: "Mestre, combinamos que não haveria cócegas." O rei humano dá de ombros inocentemente e responde de forma brincalhona: "Ops." Anúbis é musculoso, com anéis nos braços e no pescoço. Sua voz é profunda e magnética. O idioma é inglês.
 ```
 
-<img src="https://pbs.twimg.com/media/HKXSRh0aMAAEVfl.jpg" width="600" alt="Prompt de animação do deus egípcio Anúbis">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e7a13a32ae05ed7b865f15ed70161cee/thumbnails/thumbnail.jpg" width="600" alt="Prompt de animação do deus egípcio Anúbis">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5873)**
 
@@ -2916,7 +2916,7 @@ Momento final: o feixe do projetor vira em direção à câmera, engolindo compl
 Surrealismo cinematográfico experimental, estética de projeção analógica, transições oníricas, interação de luz prática, 4K.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064286381673795584/pu/img/smrMtvwgK0qEqf-3.jpg" width="600" alt="Cinema Abandonado Surreal">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/461c3c843ba3b07316188e80e0e3ce4f/thumbnails/thumbnail.jpg" width="600" alt="Cinema Abandonado Surreal">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5859)**
 
@@ -2961,7 +2961,7 @@ Edição:
 Use cortes rápidos rítmicos, closes, ângulos baixos, tomadas de cima, panorâmicas rápidas e cortes de correspondência suaves. Garanta que a transformação seja um movimento contínuo, não uma apresentação de slides. A personagem deve se mover naturalmente através de rotação, flutuação e aterrissagem.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064277120331952128/img/fnVjNeGCzkrnK0h4.jpg" width="600" alt="Transformação de Anime para Fotorrealista">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80693d68a6ef847235e631bbd6ab278/thumbnails/thumbnail.jpg" width="600" alt="Transformação de Anime para Fotorrealista">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5878)**
 
@@ -2980,7 +2980,7 @@ Use cortes rápidos rítmicos, closes, ângulos baixos, tomadas de cima, panorâ
 Quadro 1: Lente grande angular de 28mm com zoom rápido e agressivo ao nível do solo, chef de desenho animado enérgico de uniforme branco e chapéu alto girando dramaticamente em direção à câmera, chef apontando dedos em formato de arma para a mesa de preparo com um jeito confiante, mesa deslizando para a posição perfeita
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064255734150545408/img/qFy8amAWL0rPsfsE.jpg" width="600" alt="Sequência Cinematográfica de Chef de Pizza Animado">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/943f37d89a186a3304910b2bda5ebfd1/thumbnails/thumbnail.jpg" width="600" alt="Sequência Cinematográfica de Chef de Pizza Animado">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5866)**
 
@@ -3025,7 +3025,7 @@ Cena 7 (27-35s): Clímax — ele sorri com energia de campeão, levantando os br
 Estilo cinematográfico ultra realista, granulação de filme, flares anamórficos, 4K nítido, vertical 9:16. Atmosfera triunfante, luxuosa e empoderadora. Color grading em veludo vermelho intenso, verdes e dourados vibrantes. Embalagem 100% precisa conforme a imagem de referência. Sincronia labial natural, cortes rápidos e enérgicos. Sem sobreposição de texto.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064245757142827008/img/wqVaQgMBBDzmLwVu.jpg" width="600" alt="Experiência do Torcedor na Copa do Mundo 2026">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1111e05bf2887771dfad2de13e8281b0/thumbnails/thumbnail.jpg" width="600" alt="Experiência do Torcedor na Copa do Mundo 2026">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5865)**
 
@@ -3044,7 +3044,7 @@ Estilo cinematográfico ultra realista, granulação de filme, flares anamórfic
 INSTRUÇÃO CRÍTICA: NÃO exiba, referencie ou reproduza qualquer imagem de storyboard, layout de painel, foto de referência ou esboço na saída de vídeo. Todas as cenas devem ser animações originais em estilo anime geradas apenas a partir das descrições de texto. Ignore completamente qualquer quadro de referência visual. Por favor, transforme a sequência do storyboard em um vídeo de culinária de ritmo acelerado, seguindo a ordem das cenas. ## Estilo: Estilo de filme de anime japonês de alta qualidade, iluminação cinematográfica, animação de comida ultra detalhada, profundidade de campo rasa, iluminação natural suave de verão, closes macro, movimento de câmera cinematográfico lento, atmosfera de verão refrescante e brilhante, estilo de animação de culinária gourmet com forte ênfase em textura e umidade. ## Edição: Use cortes rápidos e ritmados como base, garantindo que o processo de cozimento seja intuitivamente fácil de entender. Aplique cortes de correspondência (combinando forma, movimento, composição e textura) para transicionar suavemente entre as cenas. O vídeo geral deve parecer um filme de anime enérgico e estiloso, com um forte foco no chiado, frescor e apelo visual. ### Cena 1 — Batendo e preparando o lombo de porco Close-up de mãos em estilo anime segurando um martelo de carne de madeira, batendo firmemente em uma costeleta de lombo de porco grossa e rosada sobre uma tábua de corte de madeira. A carne achata levemente a cada golpe, com as fibras visivelmente se soltando. Sal e pimenta são polvilhados uniformemente sobre a superfície. Uma vibração sutil percorre a carne com o impacto. Estilo anime hiper-realista, iluminação de cozinha nítida, profundidade de campo cinematográfica rasa. ### Cena 2 — Empanando com farinha de rosca Mãos em estilo anime empanando metodicamente uma costeleta de porco crua: primeiro pressionando-a em uma bandeja de farinha de trigo, depois mergulhando-a em ovos batidos com gotas douradas caindo, e finalmente pressionando-a firmemente em uma bandeja de farinha de rosca panko branca e grossa. Cada camada adere visivelmente. Estilo anime hiper-realista, iluminação dramática vinda de cima, detalhe de comida em close-up. ### Cena 3 — Fritando Uma costeleta de porco empanada submersa em óleo dourado cintilante em uma frigideira funda. Bolhas vigorosas surgem nas bordas, diminuindo gradualmente à medida que a crosta se torna âmbar profundo e crocante. A luz refrata através da superfície do óleo quente. O vapor sobe suavemente. Estilo anime hiper-realista, iluminação dourada quente, cinematográfico. ### Cena 4 — Fatiando a costeleta frita Um tonkatsu dourado perfeitamente frito repousa sobre uma tábua de corte de madeira. Mãos em estilo anime guiam uma faca grande e afiada, fatiando a costeleta em tiras uniformes. A crosta crocante quebra de forma limpa a cada corte, revelando a carne branca e macia por dentro. Um vapor sutil escapa dos cortes. Estilo anime hiper-realista, iluminação dramática de cozinha em ângulo superior. ### Cena 5 — Cozinhando dashi e cebolas Dentro de uma panela larga e rasa no fogão a gás, rodelas finas de cebola cozinham lentamente no caldo dashi. As cebolas amolecem gradualmente e tornam-se translúcidas, balançando suavemente no líquido âmbar. Bolhas sobem constantemente do fundo. Hashis mexem as cebolas ocasionalmente. Vapor quente sobe. Estilo anime hiper-realista, brilho quente do fogão, close-up cinematográfico. ### Cena 6 — Colocando a costeleta sobre o dashi Mãos em estilo anime usam hashis para colocar cuidadosamente as tiras de tonkatsu fatiadas lado a lado sobre a cebola e o caldo dashi que cozinham suavemente na panela rasa. A costeleta chia suavemente ao entrar em contato com o líquido. A farinha de rosca dourada começa a absorver o caldo levemente nas bordas. Estilo anime hiper-realista, iluminação de cozinha âmbar quente, enquadramento cinematográfico em close-up. ### Cena 7 — Despejando o ovo batido Um despejo lento e constante de ovo dourado batido de uma tigela pequena, espiralando suavemente sobre o tonkatsu e as cebolas que cozinham na panela. O ovo cai em um fio fino, espalhando-se naturalmente pela superfície, começando a ficar opaco nas bordas onde encontra o calor. Estilo anime hiper-realista, luz quente do fogão, detalhe macro cinematográfico. ### Cena 8 — Ovo cozinhando lentamente Dentro da panela rasa em fogo baixo, o ovo despejado coagula lentamente sobre a superfície do tonkatsu e das cebolas. As bordas firmam em um creme dourado macio enquanto o centro permanece levemente líquido e trêmulo. Vapor suave sobe. Sem mexer — o ovo endurece naturalmente através do calor residual. Estilo anime hiper-realista, brilho quente suave, enquadramento íntimo em close-up. ### Cena 9 — Servindo arroz em uma tigela Uma tigela donburi de cerâmica branca imaculada colocada em uma bancada de aço inoxidável. Uma espátula de arroz coloca uma porção generosa de arroz japonês de grão curto fumegante, posicionando-o cuidadosamente na tigela. Os grãos de arroz brilham levemente, compactos, porém fofos. Vapor leve sobe da superfície. Estilo anime hiper-realista, iluminação de cozinha limpa e suave, close-up cinematográfico. ### Cena 10 — Colocando a costeleta e o ovo sobre o arroz Mãos em estilo anime usam hashis para deslizar cuidadosamente a mistura de ovo e tonkatsu da panela diretamente sobre o monte de arroz branco na tigela donburi. O ovo se acomoda sobre o arroz em uma onda suave. O caldo penetra levemente no arroz nas bordas. Vapor sobe de ambas as camadas. Estilo anime hiper-realista, iluminação quente vinda de cima, detalhe cinematográfico em close-up. ### Cena 11 — Glacê de ovo assentando naturalmente A tigela de katsudon finalizada repousa sobre a bancada. O glacê de ovo dourado macio assenta lentamente e se espalha naturalmente sobre as tiras de tonkatsu e o arroz, acumulando-se suavemente nas laterais. A superfície treme levemente, semi-cozida, brilhante com o caldo. Nenhuma mão visível — pura natureza morta em movimento. Estilo anime hiper-realista, iluminação quente difusa, movimento lento de câmera (push-in) cinematográfico. ### Cena 12 — Apresentando o katsudon finalizado Um katsudon lindamente finalizado é apresentado em uma tigela donburi tradicional de cerâmica azul e branca sobre uma superfície de madeira. O ovo dourado macio cobre as tiras de tonkatsu crocantes sobre o arroz branco brilhante. Um pequeno ramo de mitsuba verde é colocado delicadamente por cima. Fios de vapor sobem graciosamente. A câmera orbita lentamente a tigela em um arco cinematográfico. Estilo anime hiper-realista, iluminação dramática de fotografia de comida quente, cinematográfico. ## Áudio: Melodia de city pop japonês animada (inspirada nos anos 80, brilhante e alegre) com camadas de dedilhado leve de Koto e percussão estilo sino, evocando uma atmosfera alegre de almoço de verão. Ritmo em torno de 110–120 BPM para combinar com o ritmo enérgico da culinária. Efeitos sonoros de culinária ASMR nítidos e satisfatórios por toda parte: - Corte de faca nítido e rítmico em uma tábua de madeira - Borbulhar rápido e fervura intensa da água do macarrão - Tilintar nítido de cubos de gelo caindo em uma tigela de vidro - Água corrente enquanto o macarrão é enxaguado sob água fria - Tilintar suave de cerâmica quando a tigela finalizada é colocada na bancada - Som final: um único tom leve de sino de vento quando o Hiyashi Chuka concluído é revelado, evocando uma brisa refrescante de verão. ## EVITE: - NÃO mostre painéis de storyboard, bordas de painel, números de painel, setas, notas de câmera, notas de ação, legendas, legendas ocultas, sobreposições de interface ou quaisquer anotações no vídeo final. - NÃO replique ou exiba qualquer imagem de referência ou esboço fornecido como entrada. - NÃO mostre nenhum material de origem, wireframe ou ilustração usada como referência.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064240589177344000/img/06Kh6I2UE8HfVRgA.jpg" width="600" alt="Sequência de Preparo de Tonkatsu em Estilo Anime">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d285c79ccbbf4913b61d846e072bb31/thumbnails/thumbnail.jpg" width="600" alt="Sequência de Preparo de Tonkatsu em Estilo Anime">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5877)**
 
@@ -3078,7 +3078,7 @@ Prompt Negativo:
 sem beijos, sem ações ousadas ou inapropriadas, sem expressões exageradas, sem borrões, sem distorção, sem membros extras, sem baixa qualidade
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064227920818622464/pu/img/dnjJkjDBCo-NdEKq.jpg" width="600" alt="Jantar Romântico em um Café">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57b7e86b6080477b150a4d094adccf81/thumbnails/thumbnail.jpg" width="600" alt="Jantar Romântico em um Café">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5852)**
 
@@ -3097,7 +3097,7 @@ sem beijos, sem ações ousadas ou inapropriadas, sem expressões exageradas, se
 use a foto em anexo como personagem principal, preserve o rosto e a identidade exatos durante todo o vídeo. Filmagem UGC vertical 9:16 em formato raw de smartphone, câmera na mão, sem estabilização, noite em São Paulo, Brasil, horizonte denso de arranha-céus com centenas de janelas de apartamentos iluminadas, luzes vermelhas de torre piscando, céu azul-marinho profundo. Heliponto no telhado a 25 andares de altura com superfície verde-oliva, um H branco e um círculo amarelo. O personagem principal está perto da borda enquanto 3 a 4 amigos homens torcem e filmam com celulares. Ele salta repentinamente do telhado e entra em queda livre rápida, a câmera acompanha de cima enquanto as fachadas dos prédios passam rapidamente e a rua se aproxima. A vista aérea olhando diretamente para baixo revela um enorme colchão de dublê elástico retangular na rua, cercado por luzes LED azuis brilhantes e arco-íris; ele cai diretamente em direção ao centro. Impacto massivo: a superfície elástica estica dramaticamente para baixo, os LEDs brilham, a câmera treme e, em seguida, lança-o explosivamente de volta para cima. A tomada de acompanhamento segue-o voando ao lado do prédio, passando por andar após andar de janelas iluminadas, rosto visível, expressão de euforia, braços abertos, roupas e cabelos chicoteando ao vento. Ele atinge a altura do telhado e faz uma silhueta breve contra o céu noturno antes de pousar de volta no heliponto. Os amigos correm em direção a ele celebrando, pulando, gritando, filmando com celulares, terminando em um abraço coletivo caótico cheio de entusiasmo e risadas genuínas. Estilo: UGC autêntico de busca por adrenalina viral, física realista, granulação de sensor de baixa luminosidade, trepidação de câmera na mão em todas as tomadas, desfoque de movimento natural, energia espontânea perigosa, sem correção de cor, sem filtros, sem visual cinematográfico, sem VFX, sem câmera lenta, sem rostos de IA, sem física irrealista.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064221349246390272/pu/img/oGDrg4-iD68FvMiQ.jpg" width="600" alt="UGC de Acrobacia Noturna no Telhado">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6ead3f5036903116eb24dc156a1ed6cb/thumbnails/thumbnail.jpg" width="600" alt="UGC de Acrobacia Noturna no Telhado">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5856)**
 
@@ -3171,7 +3171,7 @@ Título: Montagem de Painel de LED Gigante em Praça Urbana
    Não coloque personagens ou assuntos da imagem de referência como entidades físicas fora da tela. Use a imagem de referência apenas como o vídeo de exibição para o painel gigante. Não faça dos personagens o foco principal. Não mostre os espectadores com muita clareza. Não construa a cidade inteira do zero. Não faça a tela muito larga. Não mostre texto, logotipos, marcas d'água, etiquetas, legendas, logotipos de marcas, nomes de eventos reais ou nomes de empresas reais. Não inclua música de fundo, canções, comentários ao vivo ou narração. Evite imagens muito escuras, cores opacas, baixo contraste, telas de LED confusas, imagens de referência distorcidas ou exibições monótonas com fundo branco.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064180565163843584/img/FoSS66gO-zJRe8-H.jpg" width="600" alt="Montagem de Painel de LED Gigante em Praça Urbana">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a2579a2aaa9446bab579789775b9aa6a/thumbnails/thumbnail.jpg" width="600" alt="Montagem de Painel de LED Gigante em Praça Urbana">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5827)**
 
@@ -3190,7 +3190,7 @@ Título: Montagem de Painel de LED Gigante em Praça Urbana
 Uma tomada cinematográfica de 15 segundos dentro de um grande salão de catedral gótica. Uma bela jovem bruxa da Academia de Beauxbatons está no centro, vestindo um elegante casaco azul-claro sob medida, chapéu pontudo de abas largas combinando e gravata de seda. Figuras mascaradas sombrias em capas pretas esvoaçantes a cercam em um círculo ameaçador. A câmera orbita suavemente ao redor dela enquanto ela realiza um giro gracioso de balé, liberando um poderoso vórtice de magia azul etérea brilhante. Centenas de borboletas brancas luminosas emergem da energia mágica, girando ao redor dela e empurrando as figuras sombrias para trás. Lustres de cristal brilham acima, janelas em arco projetam uma luz azul e dourada melancólica, e partículas mágicas preenchem o ar. A câmera transita de uma visão dramática de grande angular para um close-up íntimo enquanto uma borboleta branca brilhante pousa suavemente na ponta dos seus dedos. Movimento intenso, perspectivas dramáticas de ângulo baixo, iluminação volumétrica, estética de filme de fantasia fotorrealista, texturas ultra detalhadas, profundidade de campo rasa, composição cinematográfica anamórfica, materiais PBR, espalhamento subsuperficial, hiper-realista, 8K, 24fps.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064179490889359360/pu/img/tF1wj_83WMzpMbla.jpg" width="600" alt="Vórtice de Magia da Bruxa de Beauxbatons">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21b63242ca006ba6455990fb14d1155d/thumbnails/thumbnail.jpg" width="600" alt="Vórtice de Magia da Bruxa de Beauxbatons">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5849)**
 
@@ -3217,7 +3217,7 @@ Cada local apresenta um traje estiloso único que combina com a vibe local e uma
 Prompt negativo: mudança de identidade, etnia diferente, rosto mais jovem ou mais velho, rosto borrado, mãos distorcidas, dedos extras, anatomia ruim, baixa resolução, sorriso estranho, relógio faltando, relógio no pulso direito, pontos turísticos invisíveis, locais duplicados, mistura de roupas, pele de plástico, pessoas aleatórias substituindo a personagem.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064177287868874752/pu/img/_kteyHUBau-hwTH2.jpg" width="600" alt="Hyper-lapse de Vlogger de Viagem Global">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a30e2183bacf6015f7a654782ce4601/thumbnails/thumbnail.jpg" width="600" alt="Hyper-lapse de Vlogger de Viagem Global">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5864)**
 
@@ -3236,7 +3236,7 @@ Prompt negativo: mudança de identidade, etnia diferente, rosto mais jovem ou ma
 Estilo de filmagem realista de iPhone, sem processamento, com configurações de câmera automáticas, sem correção de cor ou efeitos de pós-produção. Apresenta micro-tremores reais de mão e a respiração do operador (masculino), com inclinações naturais da lente devido ao movimento do metrô antes de se corrigir rapidamente. O foco automático ocasionalmente busca, atrasa ou perde o foco brevemente, especialmente durante movimentos do corpo ou das mãos. O balanço de branco automático alterna naturalmente entre tons frios e quentes com as luzes fluorescentes da cabine e a iluminação do túnel. Imagem geral plana, preservando reflexos reais da lente, leve aberração cromática nas bordas e falhas de desfoque de movimento. Simula efeitos de sensor CCD com leve borrão vertical, sangramento de cor, ruído de granulação e franjas roxas/verdes em bordas de alto contraste. Usa apenas som ambiente natural da câmera: ruído baixo do metrô, atrito roda-trilho, sussurros de passageiros e farfalhar de roupas; o microfone pode distorcer levemente durante acelerações ou movimentos bruscos. POV em primeira pessoa da perspectiva de um homem sentado (começando de um ângulo baixo olhando para cima), com o movimento da câmera seguindo as reações instintivas do homem. Cabine extremamente lotada, sem assentos vazios, fundo preenchido com passageiros e multidões desfocadas para realismo. Perna, joelho ou borda da mão do homem visíveis ocasionalmente para contexto de posição. Linha do tempo de 15 segundos: (Sequência: distância normal → mulher se aproxima de forma sedutora do peito, mas nunca toca → homem resiste e depois cede + expressão de surpresa → mulher senta e ri, remove a máscara → homem tenta tocar o ombro, mulher usa desinfetante): 0s: Câmera de um POV baixo sentado inclina-se para cima em direção a uma jovem asiática usando máscara branca, segurando um suporte, olhando para o homem. Sem assentos vazios. Distância normal. O homem percebe, os olhos da mulher se enrugam de forma divertida, ela se aproxima lentamente da câmera em um ritmo sedutor (o peito chega perto, mas mantém distância de segurança). O foco automático trava na parte superior do corpo dela; leve superexposição, granulação CCD e sangramento de cor visíveis. 1-4s: A mulher continua a aproximação lenta, distância do peito dentro de 20cm, mas nunca toca. O homem resiste (micro-tremores refletem rigidez, olhar baixo causa leve inclinação da lente). O foco automático busca e depois recua; borrão vertical CCD visível. Farfalhar de roupas e respiração/batimentos cardíacos contidos do homem audíveis. O balanço do trem inclina o quadro. 5-7s: O homem cede: o POV sobe e treme (levantando-se apressadamente), move-se para a direita para se afastar. A mulher senta-se suavemente no assento vago (visto de um POV lateral-traseiro). O ambiente superlotado torna o ato de sentar impactante. O balanço de branco oscila levemente; o quadro subexpõe e depois compensa. 8-10s: Detalhe de reversão: O homem vira-se desajeitadamente (POV); a mulher sorri brilhantemente sob a máscara. O homem estende a mão para tocar o ombro dela perguntando 'Por que você pegou meu assento?'. A mulher ri, inclina-se para trás, olhos divertidos, pega um spray desinfetante branco e borrifa a mão dele duas vezes (som de spray e névoa visíveis). Atraso no foco automático durante o movimento da mão. 11-13s: A mulher sorri mais claramente, balança a cabeça de forma divertida. Reversão sedutora. Por volta dos 12s, ela remove lentamente a máscara, revelando um rosto delicado e um sorriso completo. O homem vira-se pela segunda vez (giro natural). O tremor da lente e a respiração continuam. Reflexo de luz e franjas CCD. A risada cristalina da garota audível sobre o ruído dos trilhos. 14-15s: O sorriso desaparece levemente para um sorriso malicioso. O homem olha para a mão limpa. A câmera abaixa e depois sobe (mudança de peso). Leves imperfeições de enquadramento. Textura de vídeo bruto de mão consistente. Todos os comportamentos da câmera imitam as características físicas do iPhone, recriando perfeitamente a interação POV de ângulo baixo.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064140494301446144/img/CqAWvShyAcyBIuQK.jpg" width="600" alt="Prompt para pegadinha de interação POV no metrô">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37e7d2f1e4252c37acb84e83bf605420/thumbnails/thumbnail.jpg" width="600" alt="Prompt para pegadinha de interação POV no metrô">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5874)**
 
@@ -3270,7 +3270,7 @@ Estilo de filmagem realista de iPhone, sem processamento, com configurações de
 }
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064047776715948032/img/_GjONmRlb_itOuN0.jpg" width="600" alt="Roteiro de Vlog de Viagem na Floresta Tropical">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b9d9e4d037d3248fbd1543e1d5bd8adc/thumbnails/thumbnail.jpg" width="600" alt="Roteiro de Vlog de Viagem na Floresta Tropical">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5825)**
 
@@ -3289,7 +3289,7 @@ Estilo de filmagem realista de iPhone, sem processamento, com configurações de
 copo de café preto visto de cima, uma mão despeja leite, o leite floresce e gira através do café
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064052894194671616/img/-lINHr1zuS4zyS3w.jpg" width="600" alt="Foto macro de café com redemoinho de leite">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d193bb680075e25184c7772764472e17/thumbnails/thumbnail.jpg" width="600" alt="Foto macro de café com redemoinho de leite">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5815)**
 
@@ -3308,7 +3308,7 @@ copo de café preto visto de cima, uma mão despeja leite, o leite floresce e gi
 Use o storyboard THE CHURRO MAKER em anexo como referência visual exata. Crie uma sequência de animação 3D estilo Pixar de 12 segundos em 16:9, seguindo exatamente todas as 8 cenas. O mesmo jovem vendedor espanhol, camiseta branca, avental vermelho, carrinho de churros brilhante ao ar livre, paralelepípedos ensolarados
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064031934842331136/img/AmC_k6EYT7L7ZUqC.jpg" width="600" alt="Animação de um Vendedor de Churros no Estilo Pixar">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/829d66aec69f376fadddce3209613317/thumbnails/thumbnail.jpg" width="600" alt="Animação de um Vendedor de Churros no Estilo Pixar">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=5831)**
 
@@ -3376,6 +3376,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-12T08:46:49.779Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-12T15:18:56.259Z</sub>
 
 </div>

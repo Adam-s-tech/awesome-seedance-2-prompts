@@ -377,7 +377,7 @@ Seedance 2.0을 사용하여 야간 스트리트 레이싱 시퀀스를 생성�
 3막: 알고 보니 이 팬은 길거리 축구의 고수였습니다. 그녀는 스텝오버와 스핀 같은 기술을 선보이며 콩고 수비수 4명을 제치는 놀라운 단독 드리블을 시작합니다. 클라이맥스에서 그녀는 강력한 바이시클 킥으로 골대 상단 구석에 골을 성공시킵니다. 관중들이 열광하는 가운데, 그녀는 유명 포르투갈 축구 스타를 껴안으며 세리머니를 합니다. 모든 막은 후반 작업이나 특수 효과 없이 날것 그대로의 다큐멘터리 아이폰 브이로그 질감을 유지합니다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065245984045576193/img/ScfVoSV2QhG6D2Z1.jpg" width="600" alt="월드컵 여정 브이로그 프롬프트">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e4e223e6c83698a00da83cfbf32748d/thumbnails/thumbnail.jpg" width="600" alt="월드컵 여정 브이로그 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5954)**
 
@@ -403,7 +403,7 @@ Seedance 2.0을 사용하여 야간 스트리트 레이싱 시퀀스를 생성�
 부정 프롬프트: 텍스트, 로고, UI, 변형, 깜빡임, 부자연스러운 왜곡, 공포, 어두운 분위기, 크기 변화 금지.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065033629777219584/img/y1BBNIZ9uYcCSuor.jpg" width="600" alt="미니어처 스케이트보드 주방 모험">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a02dd33b7ccf02e5d3f7109d5386fe6/thumbnails/thumbnail.jpg" width="600" alt="미니어처 스케이트보드 주방 모험">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5959)**
 
@@ -422,7 +422,7 @@ Seedance 2.0을 사용하여 야간 스트리트 레이싱 시퀀스를 생성�
 샷 1: 오프닝 0~2초, 낮은 포니테일 헤어스타일의 우아한 유럽인 금발 여성이 크림색 두꺼운 니트 터틀넥 위에 카멜색 캐시미어 코트를 입고, 정교한 석조 아치와 빈티지한 발코니 철제 난간이 있는 유서 깊은 유럽의 자갈길을 거닙니다. 골든 아워의 따스한 햇살이 부드러운 그림자를 드리우고, 그녀는 한 손을 뻗어 무언가를 잡으려 멈춰 섭니다. 샷 2: 2~4초 제품 쇼케이스, 매끄러운 무광 실버 무선 이어버드 케이스를 든 그녀의 우아한 손을 클로즈업합니다. 투명한 뚜껑 너머로 순백색의 이어버드가 보이고, 부드러운 자연광이 프리미엄 메탈 질감을 강조합니다. 그녀가 섬세한 손가락 움직임으로 뚜껑을 열며, 배경에는 흐릿한 유럽풍 건축물과 야외 카페 테라스 분위기가 연출됩니다. 샷 3: 4~6초 착용, 옆모습에서 정면으로 전환되며 흰색 무선 이어버드를 귀에 꽂습니다. 자신감 있고 쿨한 표정, 은은한 미소, 크고 집중된 눈빛이 돋보이며, 카메라가 부드럽게 줌인합니다. 이어버드는 크림색 터틀넥 및 전체적인 미니멀리즘 미학과 완벽하게 어우러집니다. 샷 4: 6~9초 라이프스타일, 그녀가 이어버드를 착용한 채 유럽 거리를 계속 거닙니다. 카메라가 옆에서 따라가며 패션과 기술의 융합을 포착하고, 이어버드의 디테일, 자신감 넘치는 눈빛, 귀를 만지는 손가락, 따스한 햇살을 받는 금발 머리를 번갈아 클로즈업합니다. 샷 5: 9~11초 디테일 샷, 제품 핵심 몽타주. 이어버드를 귀에 꽂는 모습, 무광 실버 케이스 뚜껑이 닫히는 경쾌한 클릭 소리, 이어버드 표시등이 켜지는 모습 등을 초근접 촬영합니다. 얕은 피사계 심도로 유럽 건축물을 보케 배경으로 처리하고, 프리미엄 소재의 질감을 클로즈업하여 세련된 디자인을 강조합니다. 샷 6: 11~13초 무드, 영화 같은 와이드 샷. 유럽 광장에 서 있는 그녀의 모습 위로 황금빛 조명이 드라마틱한 림 라이트를 형성합니다. 그녀가 음악에 몰입해 잠시 눈을 감고, 바람에 머리카락이 흩날리며, 카메라가 천천히 줌인하여 감동적인 분위기를 자아냅니다. 샷 7: 13~15초 엔딩, 마지막 우아한 와이드 샷. 자신감 있는 자세로 서 있는 그녀의 양쪽 귀에 흰색 이어버드가 선명하게 보입니다. 무광 실버 이어버드 케이스를 들고 유럽 건축물을 배경으로 서 있으며, 따스한 황금빛과 틸 앤 오렌지 색감의 영화적 보정이 적용됩니다. 은은하고 자신감 있는 미소와 함께 전체적으로 매끄러운 전환과 필름 그레인 질감이 돋보입니다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065171629211066368/img/48gyozZk4FbMW-Ta.jpg" width="600" alt="럭셔리 무선 이어버드 제품 쇼케이스">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1ec6f1292c1bcbfb9f147e2b7a405d74/thumbnails/thumbnail.jpg" width="600" alt="럭셔리 무선 이어버드 제품 쇼케이스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5937)**
 
@@ -441,7 +441,7 @@ Seedance 2.0을 사용하여 야간 스트리트 레이싱 시퀀스를 생성�
 타이어 내부의 미니어처 경기장을 360도로 천천히 회전하며 보여주는 시네마틱 영상으로 시작하여, 작은 선수들의 움직임과 열광하는 관중의 모습을 담아냅니다. 이후 카메라가 경기장으로 부드럽게 줌인하며, 와이드 뷰에서 로우 앵글의 클로즈업 매크로 샷으로 전환되어 잔디 위에서 펼쳐지는 아르헨티나와 포르투갈 선수들의 치열한 경기를 추적합니다. 관중들은 동기화된 움직임으로 흥분하며 환호하고, 슬로우 모션으로 깃발을 흔듭니다. 타이어 구조물 안에서 살짝 울려 퍼지는 관중의 함성, 드럼 소리, 호루라기 소리, 그리고 축구공을 차는 희미하고 사실적인 소리 등 고음질의 경기장 사운드가 포함됩니다. 카메라 이동에 따라 경기장에 역동적인 그림자가 드리우는 시네마틱 조명은 깊이 있는 질감과 극적이고 초현실적인 효과를 더합니다. 높은 프레임 레이트와 부드러운 모션 블러를 적용하여 전문적인 영상미를 구현합니다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065138936519827456/img/Y0lsNqnsndDxTg1M.jpg" width="600" alt="미니어처 월드컵 타이어 경기장">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6499c56e92d03d058fd7c591391accf1/thumbnails/thumbnail.jpg" width="600" alt="미니어처 월드컵 타이어 경기장">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5950)**
 
@@ -460,7 +460,7 @@ Seedance 2.0을 사용하여 야간 스트리트 레이싱 시퀀스를 생성�
 FPV 샷: 온통 가을 낙엽으로 이루어진 토네이도를 통과하는 다이빙 장면입니다. 카메라는 휘몰아치는 낙엽의 거대한 소용돌이 속으로 진입합니다. 황금빛과 진홍빛 입자들이 렌즈 주변에서 가속하다가 자연스럽게 "WILD"라는 글자로 정렬된 뒤, 폭풍에 의해 흩어집니다. 유기적인 움직임과 영화적인 아름다움을 담았습니다.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065096720355127296/pu/img/J8d1mQGiQ4PjwQc0.jpg" width="600" alt="가을 낙엽 소용돌이 텍스트 VFX">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d31b26cbd1ed91546f4cfc7cc95cedf7/thumbnails/thumbnail.jpg" width="600" alt="가을 낙엽 소용돌이 텍스트 VFX">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5938)**
 
@@ -575,7 +575,7 @@ VFX 없음.
 급한 속도감 없음.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065091227402514432/pu/img/KmekL-nT1MpHK_Ll.jpg" width="600" alt="현실적인 Omegle 채팅 상호작용">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/38e8bcea4395c5ba3a242a9d97fcd143/thumbnails/thumbnail.jpg" width="600" alt="현실적인 Omegle 채팅 상호작용">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5932)**
 
@@ -594,7 +594,7 @@ VFX 없음.
 3열 관객석에서 휴대폰으로 촬영하는 듯한 핸드헬드 POV 샷, 앞사람들 머리 위로 살짝 흔들리는 구도. 낮 시간의 대형 야외 일본 극장 무대, 봉건 시대 일본 마을 문을 재현함
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065078297008979969/img/g-ugqls75sm-yXx_.jpg" width="600" alt="일본 봉건 시대 마을 극장 POV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da98aad382c7ada2b9274265630c3e2d/thumbnails/thumbnail.jpg" width="600" alt="일본 봉건 시대 마을 극장 POV">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5945)**
 
@@ -613,7 +613,7 @@ VFX 없음.
 어둠 속에서 나타나는 럭셔리 시계. 돌아가는 톱니바퀴와 움직이는 시곗바늘을 담은 극단적인 매크로 샷. 시계 주변을 감싸는 황금빛 불꽃과 떠다니는 입자들. 카메라가 시계 주위를 회전하며 사파이어 크리스털 위로 드라마틱한 빛줄기가 반사됩니다. 슬로우 모션으로 공중에 멈춘 물방울이 시계 주변을 감쌉니다. 기계 부품들이 자동으로 조립됩니다. 영화 같은 블랙 앤 골드 배경, 프리미엄 광고 조명, 초현실적인 반사 효과, 럭셔리 라이프스타일 광고, 웅장한 오케스트라 분위기, 부드러운 카메라 무빙, 제품 히어로 샷, 브랜드 공개, 할리우드급 광고, 8K 포토리얼리즘.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065078706276864000/img/-K9mrAcsDm1SW72r.jpg" width="600" alt="럭셔리 시계 광고 애니메이션">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a5760b4e6c1671f3c7b730573664ff0c/thumbnails/thumbnail.jpg" width="600" alt="럭셔리 시계 광고 애니메이션">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5935)**
 
@@ -644,7 +644,7 @@ VFX 없음.
 영상 전반에 걸쳐 특수 효과 전환 없음, 매끄러운 렌즈 전환, 절제되고 차분한 카메라 무빙, 자연스럽고 부드러운 역동성, 사실적인 머리카락 물리 효과, 4K 초고화질, 기계적인 AI 느낌 배제, 실사 촬영과 같은 편안한 질감 구현.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065071563121311745/img/cYCcpZGmYjV3eBPq.jpg" width="600" alt="고속열차 여행 시네마틱 다큐멘터리">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01f93576fe0bb3c4ff0c1dfdae3e8993/thumbnails/thumbnail.jpg" width="600" alt="고속열차 여행 시네마틱 다큐멘터리">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5952)**
 
@@ -663,7 +663,7 @@ VFX 없음.
 Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthographic views)" 캐릭터가 "Flova ai logo"가 그려진 표지판을 들고 즐겁게 날아다닙니다. 이후 캐릭터가 카메라를 향해 밝게 다가와 얼굴과 표지판을 렌즈 가까이 들이대며 환하게 웃습니다. 마지막으로 화면에 손글씨로 "WAGAHAI meets Flovia.ai"라는 문구가 나타납니다. 밝고 팝한 이미지, 경쾌한 배경 음악, 자막 없음.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065067302207492096/img/RQjfBB4Dqaye5aLj.jpg" width="600" alt="로고 보드를 들고 있는 애니메이션 캐릭터">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b2571be177a0b1f7faeb6b419ee6a63/thumbnails/thumbnail.jpg" width="600" alt="로고 보드를 들고 있는 애니메이션 캐릭터">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5955)**
 
@@ -687,7 +687,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 장면 5: 실제 여성이 파운데이션 병을 든 채 자신감 있는 눈빛으로 카메라를 정면으로 응시합니다. 사실적인 사진 품질, 부드러운 영화적 조명, 매끄러운 전환, 하이엔드 뷰티 광고 미학.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065058665653235712/pu/img/jjAWZEkQ1zmtSAjy.jpg" width="600" alt="럭셔리 파운데이션 광고 영상">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f267e2980a9677d378f95b5788007fe7/thumbnails/thumbnail.jpg" width="600" alt="럭셔리 파운데이션 광고 영상">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5943)**
 
@@ -718,7 +718,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 스타일: 초현실적, 영화적, 강렬한 수직 액션, 사실적인 물리 효과, 비, 유리 반사, 불꽃, 연기, 드라마틱한 조명, 빠르지만 가독성 있는 카메라 움직임, 높은 디테일, 텍스트 없음, 로고 없음, 슬로우 모션 없음, 만화 스타일 없음, 추가 주요 캐릭터 없음. 비율 유지. 스타일 및 특징 유지. 화면 비율 16:9.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064828582044594176/img/h9kGiXzxCIhyZav6.jpg" width="600" alt="영화 같은 추락하는 엘리베이터 액션 시퀀스">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96be6bd2cff486275193b1e49e635394/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 추락하는 엘리베이터 액션 시퀀스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5934)**
 
@@ -737,7 +737,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 프레임 1 - 대치 (1.5초): 28mm 아나모픽 렌즈 f/2.8, 지면에서 빠르게 다가가는 공격적인 돌리 푸시인, 영웅 소년의 푸른 오라와 악당 클론의 붉은 오라가 서로를 향해 천천히 확장됨, 오라가 만나는 지점에 보라색 에너지 파직거림, 위쪽에는 번개가 치는 폭풍우 치는 카툰 하늘,
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065021597178814464/img/XkuDDBebIfdYRIoq.jpg" width="600" alt="카툰 전투 장면 애니메이션 프레임">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cffeed0bd1d382247e744d73140dbeb/thumbnails/thumbnail.jpg" width="600" alt="카툰 전투 장면 애니메이션 프레임">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5951)**
 
@@ -775,7 +775,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 캐릭터 변경 금지. 여성을 조각상으로 변하게 하지 말 것. 배경 변경 금지. 텍스트, 로고, 군중 포함 금지. 코믹한 연출 금지. 혼란스러운 파괴 장면 금지. 과도한 블러 효과 금지.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065020898713927680/img/OkVfd2M-TmrmkeMh.jpg" width="600" alt="대리석 갤러리의 댄스 각성">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88ec0c4e71d971e50dc87c0ba7561d75/thumbnails/thumbnail.jpg" width="600" alt="대리석 갤러리의 댄스 각성">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5958)**
 
@@ -813,7 +813,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 제공된 3x4 스토리보드를 부드러운 영화 같은 영상으로 애니메이션화하세요. 정확한 샷 순서와 연속성을 유지해야 합니다. 섬유가 흙으로 서서히 풀리는 모습, 이끼 포자가 피어나는 모습, 생지 위로 내리는 비, 그리고 새싹이 돋아나는 장면을 활용하세요.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065010781075431424/pu/img/fKxCzQ2yTu5_zfvS.jpg" width="600" alt="영화 같은 자연 애니메이션 스토리보드">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0e6c2553ca7b7108275bc954a0d455f/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 자연 애니메이션 스토리보드">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5946)**
 
@@ -858,7 +858,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 제작: @runwayml
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065011189948571648/pu/img/cNDGILwLjhZfgCVp.jpg" width="600" alt="등산가의 독수리 변신 시퀀스">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a098b23043c96943655faa6018e45673/thumbnails/thumbnail.jpg" width="600" alt="등산가의 독수리 변신 시퀀스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5941)**
 
@@ -877,7 +877,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 첨부된 'Tanghulu Master' 스토리보드 포스터를 정밀한 시각적 참조 자료로 활용하여 12초 분량의 16:9 비율 중국식 애니메이션 음식 광고를 생성하세요. 움직이는 포스터를 생성하지 말고, 8개의 스토리보드 프레임을 연속적인 영상 샷으로 변환하세요. 1번부터 8번까지의 순서를 엄격히 준수하며, 각 샷은 약 1.5초 동안 지속되어야 합니다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2065007169389670400/img/VOh9XjcruEtpUgWO.jpg" width="600" alt="Seedance 2.0 탕후루 애니메이션 음식 광고">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/536aa592dc24e6b5619b8ffc78e0d038/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 탕후루 애니메이션 음식 광고">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5953)**
 
@@ -908,7 +908,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 9~10초: 해적이 요리를 완성하고 작은 접시에 담긴 소스와 빵을 앵무새 쪽으로 Slides 합니다. 앵무새가 기뻐서 방방 뛰며 해적 옆에서 식사를 합니다. 따뜻한 등불 빛, 부드럽게 흔들리는 배, 서서히 사라지는 아코디언 선율.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065003071718002688/pu/img/qPNoNbKanm8QAw7l.jpg" width="600" alt="해적 요리사와 앵무새의 ASMR 코미디">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78eff3fa52a8608879a4323a3bd64c12/thumbnails/thumbnail.jpg" width="600" alt="해적 요리사와 앵무새의 ASMR 코미디">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5940)**
 
@@ -945,7 +945,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 중요: 정적인 슬라이드쇼는 금지하며, 카메라, 환경, 효과 등 모든 요소가 움직여야 합니다. 잉크/페인트는 튀거나 흐르는 등 물리적 속성을 가져야 합니다. 텍스트, 로고, UI는 포함하지 마세요.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064989452888612864/img/JH84ddvcfD6yuk9H.jpg" width="600" alt="도쿄 어반 잉크 스플래시 몽타주">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2a8d1bfb3952a02365230c010583b412/thumbnails/thumbnail.jpg" width="600" alt="도쿄 어반 잉크 스플래시 몽타주">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5957)**
 
@@ -986,7 +986,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 초현실적인 비주얼, IMAX 영화 품질의 이미지, 매우 선명한 디테일, 감정적으로 몰입감 있는 스토리텔링, 자연스러운 조명, 시네마틱 심도, 매우 표현력이 풍부하고 여성스러운 분위기, 공감 가고 인간적인 느낌. 캐릭터의 얼굴은 참조 이미지와 정확히 일치해야 하며, 전체 영상 내내 일관된 이목구비와 정체성을 유지해야 합니다.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064975836491710464/pu/img/hE9TggDsNLESqX4s.jpg" width="600" alt="일상의 하루를 담은 연속 트래킹 샷">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed40dc82ab894fe1157df2edffeeb459/thumbnails/thumbnail.jpg" width="600" alt="일상의 하루를 담은 연속 트래킹 샷">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5936)**
 
@@ -1017,7 +1017,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 마지막 순간, 각국 선수들이 함께 모여 월드컵 트로피를 들어 올리고 경기장에는 꽃가루가 흩날립니다. 카메라가 멀어지며 전 세계 수백만 명의 팬들이 동시에 축제를 즐기는 모습이 드러납니다. 웅장하고 감동적이며 영감을 주는 영상, 사실적인 관중 반응, 매끄러운 전환, 시네마틱 조명, 축구를 통한 세계 화합, 텍스트 없음, 워터마크 없음, 자막 없음.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064971235998806016/pu/img/jyTkefKodSf-vsG6.jpg" width="600" alt="글로벌 월드컵 축구 여정">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f6539c58e05a803366b2ebaf610536/thumbnails/thumbnail.jpg" width="600" alt="글로벌 월드컵 축구 여정">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5947)**
 
@@ -1036,7 +1036,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 사이버펑크 네온 사무라이 결투 (고에너지 액션 바이럴 스타일) 15초 초고화질 시네마틱 사이버펑크 VFX 결투, 아나모픽 렌즈 플레어, 8K 초현실적 화질, 밤의 신주쿠 골목을 배경으로 한 네온 누아르, 젖은 아스팔트에 반사되는 빗방울과 사실적인 폭우, 핑크/틸 색상의 볼류메트릭 조명, 모션 블러가 적용된 고속 셔터, 사실적인 물리 효과와 스타일리시한 슬로우 모션 타격감의 조화, 스파크와 에너지 충격파, 텍스트/로고 없음, 사무라이의 얼굴, 빛나는 신경 링크, 카타나의 일관성 유지, 변형이나 불필요한 신체 부위 없음. 0~2초: 극단적인 로우 앵글 트래킹 샷, 빛나는 푸른 신경 링크를 가진 사이버 사무라이가 쏟아지는 빗속을 당당하게 걸으며 전기 에너지를 내뿜는 카타나를 휘두름. 2~4초: 홀로그램 경비병들이 나타나며 와이드 휩팬, 사무라이가 유려한 검술을 펼치며 칼이 부딪힐 때마다 밝은 스파크가 튐. 4~6초: 120fps 미디엄 트래킹 샷, 낮은 휩쓸기 발차기로 경비병을 날려버리고, 카메라가 사실적인 빗방울을 튀기며 다리 궤적을 따라감. 6~8초: 불릿 타임 360도 궤도 샷, 사무라이가 진동하는 카타나로 디지털 총알비를 막아내며 슬로우 모션으로 확장되는 푸른 에너지 고리를 생성함. 8~10초: 수직 슬로우 모션 점프 회전, 강력한 내려찍기로 아스팔트가 갈라지고 콘크리트 파편과 빗방울이 완벽한 구체 형태로 튀어 오름. 10~12초: 사무라이의 반사되는 바이저를 비추는 클로즈업 휩팬, 마지막 경비병을 향해 몸을 돌릴 때 네온 불빛이 깜빡임. 12~14초: 가늘게 뜬 눈을 비추는 극단적 클로즈업, 날카로운 금속음과 전기 방전과 함께 카타나가 칼집에 들어가고 배경은 네온 보케로 흐려짐. 14~15초: 빠른 와이드 풀백, 가라앉는 빗줄기와 잔해 속에서 승리한 사무라이가 영웅적인 실루엣으로 멈춰 서며 마무리.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064965007339597824/img/Kg6afbkHuCUZZ6tB.jpg" width="600" alt="사이버펑크 네온 사무라이 결투">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a8cc2f775e8dba2bc856d6a52bcac6e/thumbnails/thumbnail.jpg" width="600" alt="사이버펑크 네온 사무라이 결투">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5890)**
 
@@ -1065,7 +1065,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 천천히 돌리 아웃. 직원은 담배를 든 채 멍하니 서서 빈 벽을 응시하다가 천천히 상사를 바라본다. 상사는 조용히 넥타이와 재킷을 매만지며 표정 변화가 없다. 침묵 속의 투 샷을 2초간 유지. 냉소적인 블랙 코미디, 사실적인 조명 전환, 초고화질 시네마틱 그레이딩.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064950579357741056/pu/img/e2KZ-RpNt8nOj86J.jpg" width="600" alt="반전이 있는 사무실 회의실의 긴장감">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09347e01a64bf47507557d6323fb01b2/thumbnails/thumbnail.jpg" width="600" alt="반전이 있는 사무실 회의실의 긴장감">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5939)**
 
@@ -1095,7 +1095,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 흐릿함, 어두운 장면, 공포, 실사 인간, 저품질, 텍스트 오류, 일그러진 얼굴, 추가된 팔다리, 기괴한 신체 구조, 칙칙한 색감, 낮은 채도, 나쁜 구도, 워터마크, 로고, 잘린 캐릭터, 공포스러운 표정, 우울한 분위기, 급한 전개, 모션 아티팩트.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064950143951208448/pu/img/4hOZcR3OW8_SDG-f.jpg" width="600" alt="판타지 왕국 코미디 애니메이션">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8931cc2dfdf9b6de55e8d058a009c1c1/thumbnails/thumbnail.jpg" width="600" alt="판타지 왕국 코미디 애니메이션">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5949)**
 
@@ -1162,7 +1162,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 만화, 애니메이션, 저해상도, 흐릿함, 로우 폴리곤, 중복된 날개, 추가된 팔다리, 기형적인 해부학적 구조, 텍스트, 로고, 워터마크, 지터, 깜빡임, 과다 노출된 하이라이트, 탁한 그림자, 일관성 없는 달 모양, 왜곡된 도시 원근감, 과도한 모션 블러
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064944099686256640/img/Z-ty51fESVfF_DxU.jpg" width="600" alt="신비로운 달나방의 변신">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/41c8e13b1c6afa6c879b73f7526c7ea5/thumbnails/thumbnail.jpg" width="600" alt="신비로운 달나방의 변신">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5942)**
 
@@ -1195,7 +1195,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 픽사 스타일 3D 애니메이션, 감동적인 스토리텔링, 영화적 카메라 무빙, 풍부한 캐릭터 표현, 아늑한 실내 분위기, 생동감 넘치는 경기장 분위기, 전 세계적인 축구 열기, 따뜻한 조명, 영감을 주는 분위기, 초정밀 비주얼, 영화 퀄리티 렌더링, 16:9 유튜브 포맷.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064929740981686272/pu/img/ECV-h136KN6ouhbS.jpg" width="600" alt="픽사 스타일의 축구 열정 애니메이션">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2606dd477ea73bedc9bfbca6f85f355a/thumbnails/thumbnail.jpg" width="600" alt="픽사 스타일의 축구 열정 애니메이션">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5930)**
 
@@ -1240,7 +1240,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 "마지막 라이드..."
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064840058172264448/pu/img/FX9mTHLkH0TH7IYp.jpg" width="600" alt="익스트림 놀이공원 어드벤처">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e3ced5dd355ffaac286078b617ca8c96/thumbnails/thumbnail.jpg" width="600" alt="익스트림 놀이공원 어드벤처">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5933)**
 
@@ -1265,7 +1265,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 그녀의 뒤로 경기장 조명이 환하게 켜집니다. 관중들이 열광하며 환호합니다.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064916586058969088/pu/img/re69dRtTZxagpTjg.jpg" width="600" alt="영화 같은 스포츠 다큐멘터리 여정">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/361f3c0d3072002ca5d5b03c388f2248/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 스포츠 다큐멘터리 여정">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5931)**
 
@@ -1312,7 +1312,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 밤의 놀이공원 피날레. 곳곳에서 반짝이는 조명, 조명으로 가득 찬 공원을 바라보며 미소 짓는 모습. 마법 같은 분위기, 시네마틱 엔딩 샷, 높은 디테일, 사실적인 브이로그 스타일.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064652946722201600/pu/img/kOA7vh9NKOP3pr5K.jpg" width="600" alt="시네마틱 감성 브이로그">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3cb8311fc3ef30fed41a1c82f50f8104/thumbnails/thumbnail.jpg" width="600" alt="시네마틱 감성 브이로그">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5944)**
 
@@ -1339,7 +1339,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 몽환적인 시네마틱 분위기, 부드러운 보케 효과, 은은한 렌즈 플레어, 공중에 떠다니는 반짝이는 먼지, 따뜻한 파스텔 톤, 매우 디테일한 피부 질감, 감성적이고 매혹적인 자기 사랑의 순간. 초고화질, 부드럽고 자연스러운 움직임, 16:9 비율, 15초.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064866020766949376/img/a5fgWtf9qGl3h4P0.jpg" width="600" alt="마법 같은 스킨케어 모닝 리추얼">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4706b01e54af6dd08676622c9c14d17/thumbnails/thumbnail.jpg" width="600" alt="마법 같은 스킨케어 모닝 리추얼">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5948)**
 
@@ -1358,7 +1358,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 90년대 클래식 디즈니 애니메이션 스타일. 장면 1: 하이테크 던전 안, 강력한 호랑이 한 마리가 테이블 위에 등을 대고 누워 있으며 배에는 벨트가 채워져 있습니다. 호랑이는 화가 난 표정으로 주위를 둘러보며 "여기가 어디지?"라고 묻습니다. 장면 2: 흰 장갑을 낀 두 개의 로봇 팔이 테이블 옆 바닥에서 솟아올라 호랑이에게 다가갑니다. 호랑이는 당황하고 불안한 기색으로 그것들을 바라봅니다. 장면 3: 장갑 낀 손이 호랑이의 배를 부드럽게 간지럽히기 시작합니다. 호랑이는 즉시 활짝 웃으며 낄낄거리고 몸을 뒤척이며 특유의 웃음소리로 "아, 그만해! 나 간지럼 잘 탄단 말이야!"라고 말합니다. 손은 계속해서 간지럽힙니다. 장면 4: 손이 계속 간지럽히자 호랑이는 낄낄거리며 몸을 뒤척이고, 앞발을 내려 배를 보호하려고 합니다. 장면 5: 한쪽 장갑 낀 손이 호랑이의 손목을 잡아 머리 위로 들어 올립니다. 호랑이는 낄낄거리면서도 당황해합니다. 다른 쪽 장갑 낀 손은 호랑이의 드러난 겨드랑이를 간지럽힙니다. 이 때문에 호랑이는 앞발을 내리려 애쓰며 자지러지게 웃습니다. 장면 6: 장갑 낀 손이 계속해서 겨드랑이를 간지럽히고 호랑이는 웃음을 터뜨립니다. 영어 보이스오버. 전체적으로 로봇 팔은 두 개만 등장합니다.
 ```
 
-<img src="https://pbs.twimg.com/media/HKfSei8XkAEyBu9.jpg" width="600" alt="90년대 클래식 디즈니 스타일의 호랑이 애니메이션">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/94c94ee05ae84ce61f31be250842344a/thumbnails/thumbnail.jpg" width="600" alt="90년대 클래식 디즈니 스타일의 호랑이 애니메이션">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5905)**
 
@@ -1377,7 +1377,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 카메라가 행성 크기의 산업 기계가 행성 전체를 분리하고 있는 현장으로 돌진합니다. 거대한 대륙들이 서로 멀어지고, 빛나는 에너지 균열이 표면을 가로질러 퍼져 나갑니다. 두 대의 고속 우주선이 국가 크기의 움직이는 지각판 사이를 항해하고, 용암 같은 빛이 우주를 향해 솟구칩니다. 거대한 산맥들이 렌즈를 지나 표류합니다. 우주선들은 분리되는 지표면과 행성 지각에 부착된 거대한 산업 장치 사이의 좁은 틈을 아슬아슬하게 통과합니다. 하이라이트는 행성 균열 위에 떠 있는 투명한 제어 구체 내부에서 펼쳐집니다. 마지막 장면은 파괴 구역 위로 줌아웃하며, 마치 꽃이 피어나듯 행성이 갈라지는 모습을 보여줍니다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064838296304312320/img/8cijVAigbXT2hEAD.jpg" width="600" alt="균열된 행성과 산업적 파괴">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68907d51a4990fff962c7c1cbedaaac1/thumbnails/thumbnail.jpg" width="600" alt="균열된 행성과 산업적 파괴">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5902)**
 
@@ -1396,7 +1396,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 {{Image 1}} = 스토리보드 참조. 첨부된 스토리보드 이미지 {{Image 1}}를 바탕으로 15초 분량의 고화질 16:9 가로형 영상을 제작하세요. 주제: '수묵화와 실사가 어우러진 교토'
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064836489591304192/img/DgRfC_fPdvL-Hchc.jpg" width="600" alt="교토 수묵화와 실사 영상의 조화">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f8507fd69cebc4dfa68b95490653efa/thumbnails/thumbnail.jpg" width="600" alt="교토 수묵화와 실사 영상의 조화">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5913)**
 
@@ -1427,7 +1427,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 스타일: 초현실적, 영화적, 빠른 속도감, 극적인 조명, 네온 블루와 오렌지색 반사, 사실적인 모션 블러, 강렬한 카메라 움직임, 높은 디테일, 텍스트 없음, 로고 없음, 슬로우 모션 없음, 만화 스타일 없음, 추가 캐릭터 없음. 비율 유지. 스타일 및 특징 유지. 화면 비율 16:9.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064819125793304576/img/ofw-8DdEIfow6gLN.jpg" width="600" alt="The Gravity Heist SF 시퀀스">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5677e3829d8641c7a0cff7953d2ee957/thumbnails/thumbnail.jpg" width="600" alt="The Gravity Heist SF 시퀀스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5889)**
 
@@ -1446,7 +1446,7 @@ Seedance 2.0에서 15초 분량의 영상을 제작하세요. "WAGAHAI (orthogra
 POV 관객 시점의 핸드헬드 휴대폰 촬영, 약간의 카메라 흔들림, 군중 머리 위로 높이 든 휴대폰. 전경에는 관객들의 실루엣이 빽빽하게 보이며, 많은 사람이 휴대폰과 소형 카메라를 들어 촬영 중임. 일본 야외 극장에서 펼쳐지는 밤의 슈퍼히어로 결투 공연. 무대는 쇼와 시대 후기 도쿄의 밤거리 스타일로 디자인됨: 네온사인, 공중전화 부스, 철제 계단. 두 명의 성인 여성 배우가 할리우드 스타일의 슈퍼히어로 전투를 펼침. 왼쪽 캐릭터는 적금색 불 에너지, 오른쪽 캐릭터는 청보라색 염동력을 사용함. 0초부터 15초까지의 상세 타임라인에는 에너지 폭발, 고속 돌진, 육탄전, 필살기 충돌 및 중국어 대사가 포함됨. 기술 사양: 수직 스마트폰 핸드헬드 촬영, 고정 POV, 원샷 연속 영상, 디지털 노이즈, 야간 실외 조명. 오디오: 관객의 환호성, 에너지 폭발음, 기계음, 중국어 대사 및 클라이맥스의 박수 소리.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064802112504987648/img/HhKBovNCti5waMdz.jpg" width="600" alt="애니메이션 슈퍼히어로 실사 무대 전투">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a7c34d9e78decbdc6c59dd4a9d97de2/thumbnails/thumbnail.jpg" width="600" alt="애니메이션 슈퍼히어로 실사 무대 전투">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5907)**
 
@@ -1541,7 +1541,7 @@ POV 관객 시점의 핸드헬드 휴대폰 촬영, 약간의 카메라 흔들�
 모험은 이제 시작이라는 느낌으로 마무리.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064776803713994752/img/mYDny7hVU9sVHyqn.jpg" width="600" alt="에너지 넘치는 인도 여행 브이로그 시퀀스">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3042826eb2cb6b179d165e3bbc5224b4/thumbnails/thumbnail.jpg" width="600" alt="에너지 넘치는 인도 여행 브이로그 시퀀스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5886)**
 
@@ -1633,7 +1633,7 @@ POV 관객 시점의 핸드헬드 휴대폰 촬영, 약간의 카메라 흔들�
 "검은 흑요석 받침대 위의 럭셔리 향수병, 우아하게 소용돌이치는 황금 입자, 어두운 프리미엄 배경, 시네마틱"
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064781667626328064/pu/img/zAR1MH2pp-t9uM4n.jpg" width="600" alt="프리미엄 럭셔리 향수 광고 시퀀스">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c57194fd3a65c3f85479b1098fc6658/thumbnails/thumbnail.jpg" width="600" alt="프리미엄 럭셔리 향수 광고 시퀀스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5895)**
 
@@ -1660,7 +1660,7 @@ POV 관객 시점의 핸드헬드 휴대폰 촬영, 약간의 카메라 흔들�
 사실적인 인간의 움직임, 강력한 추진력, 설득력 있는 파쿠르 기술, 빠르면서도 명확한 액션, 착지 시의 자연스러운 충격, 영화적인 카메라 워킹, 근접 트래킹 샷에서의 약간의 핸드헬드 느낌, 따뜻한 골든 아워 조명, 드라마틱한 렌즈 플레어, 높은 디테일, 사실적인 도시 규모, 강렬하고 모험적인 분위기, 앵글 간의 매끄러운 연결성. 슬로우 모션 없음, 텍스트 없음, 로고 없음, 인물 복제 없음, 사지 왜곡 없음. 비율과 스타일, 특징을 일관되게 유지하십시오.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064779456019910656/img/YOc4PceF__5_kmP6.jpg" width="600" alt="골든 아워 루프탑 파쿠르 추격전">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43d50dbc92db2d419c5b2b1f2890df82/thumbnails/thumbnail.jpg" width="600" alt="골든 아워 루프탑 파쿠르 추격전">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5899)**
 
@@ -1681,7 +1681,7 @@ POV 관객 시점의 핸드헬드 휴대폰 촬영, 약간의 카메라 흔들�
 바이크 옆면을 따라가는 초저각 트래킹 샷으로 시작하여, 불가능한 점프 구간에서의 속도감 있는 연출, 폭발하는 트럭을 향한 휩 팬, 불길과 무너지는 잔해 사이를 누비는 FPV 추격 샷, 렌즈에 끊임없이 튀는 불꽃과 모래, 폭풍을 뚫고 들어오는 드라마틱한 오렌지빛 석양 조명, 마지막에는 수십 대의 불타는 호송 차량이 뒤에서 무너지는 가운데 폭발하는 모래폭풍 밖으로 홀로 빠져나가는 바이커의 모습, 카메라가 천천히 상승하며 불타는 무덤으로 변해버린 고속도로를 비추는 거대한 항공 샷으로 마무리
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064735590579392512/pu/img/8gnzT4uHUxdegQJi.jpg" width="600" alt="매드 맥스 사이버네틱 바이커 액션 시퀀스">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b0044569898ef5d97418a5882fc5eae5/thumbnails/thumbnail.jpg" width="600" alt="매드 맥스 사이버네틱 바이커 액션 시퀀스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5887)**
 
@@ -1706,7 +1706,7 @@ POV 관객 시점의 핸드헬드 휴대폰 촬영, 약간의 카메라 흔들�
 전체적으로 밝은 MLS 경기장 조명, 푸른 잔디, 꽉 찬 관중석. 좌측 하단 스코어보드 — MIA 5 CLB 1, 시간 87:23. 중계 화면 특유의 노이즈와 미세한 압축 아티팩트, 실제 라이브 TV의 미학, 관중 샷의 망원 렌즈 압축 효과, 영화적 4K 영상.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064725766269796352/pu/img/V0rHEF032Iiwm_y5.jpg" width="600" alt="리오넬 메시 MLS 중계 골 및 세리머니">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b44a77aabcc7873cab95a2492edf893d/thumbnails/thumbnail.jpg" width="600" alt="리오넬 메시 MLS 중계 골 및 세리머니">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5892)**
 
@@ -1727,7 +1727,7 @@ POV 관객 시점의 핸드헬드 휴대폰 촬영, 약간의 카메라 흔들�
 [10~15초]: 드리프트와 휩팬 (Whip-Pan) 카메라는 거대한 점프대 정상 아래에서 먼지를 일으키며 파워 슬라이드를 수행합니다. 이때 네온 컬러로 래핑된 랠리 카가 머리 위로 솟구치며 배기구에서 뿜어져 나오는 화염이 공기를 뜨겁게 달굽니다. 배기구에서 터져 나오는 밝은 오렌지빛 섬광을 전환점으로 삼아, 카메라는 180도 오른쪽으로 강렬한 모션 블러 휩팬을 실행합니다. 이어서 스폰서 로고가 가득한 방화복을 입은 피트 크루 치프에게 정확히 초점을 맞추고, 그녀가 체크무늬 깃발을 내리며 장갑 낀 손가락으로 렌즈를 직접 가리키는 순간을 포착합니다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064722838784024576/img/cdXs0du3wFKPIwN5.jpg" width="600" alt="데저트 캐년 FPV 랠리 레이스">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2a9f7f3565c7a5ecd6bba66d87fd8521/thumbnails/thumbnail.jpg" width="600" alt="데저트 캐년 FPV 랠리 레이스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5898)**
 
@@ -1746,7 +1746,7 @@ POV 관객 시점의 핸드헬드 휴대폰 촬영, 약간의 카메라 흔들�
 대체 현실로 이어지는 문들이 있는 무한한 궁전, 각 방은 동일한 세계의 다른 버전을 보여주며, 카메라는 컷 없이 포털을 계속해서 통과하고 우주 간의 매끄러운 전환이 이루어집니다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064721414872092672/img/P5fap7o4nvfvjNqm.jpg" width="600" alt="Infinite Palace Multiverse Portals">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c90e5bd6955098f9181ddf3bdf104e76/thumbnails/thumbnail.jpg" width="600" alt="Infinite Palace Multiverse Portals">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5897)**
 
@@ -1828,7 +1828,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 동일한 효과를 연속해서 사용하지 마십시오. 15초 동안 화면 구성이 끊임없이 변화하는 고밀도의 에너제틱한 영상으로 표현하십시오.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064719067811045376/pu/img/6C6rYW-fBO2ujMMR.jpg" width="600" alt="고템포 9-이미지 글리치 편집">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9374071c3c1d939341e9ce25d8a846b8/thumbnails/thumbnail.jpg" width="600" alt="고템포 9-이미지 글리치 편집">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5911)**
 
@@ -1847,7 +1847,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 미니멀한 화이트 갤러리를 배경으로 펼쳐지는 영화 같은 고대비 액션 영상입니다. 전통적인 검은색 사무라이 기모노를 입고 길게 흐르는 백발에 흰색 오니(도깨비) 가면을 쓴 캐릭터가 거대하고 큼직한 일본식 서예 붓을 휘두릅니다. 캐릭터가 역동적으로 회전하며 붓을 휘두를 때마다 굵고 유려한 3차원 수묵화 획이 공중에 떠오릅니다. 잉크는 마법처럼 사납고 초현실적인 호랑이와 캐릭터 주변을 웅장하게 휘감는 거대한 쌍룡으로 형상화됩니다. 포토리얼리스틱 3D CGI, Unreal Engine 5의 사실감, 초정밀 디테일, Unreal Engine 5 렌더링, 짙은 검은색 잉크와 눈부신 흰색 배경의 극적인 대비가 돋보입니다. 슬로우 모션 스윕, 붓놀림을 따라가는 역동적인 트래킹 샷, 유체 입자 시뮬레이션, 스튜디오 조명, 8K 해상도.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064710188654059520/pu/img/pJIkjoVTw_YYOSR0.jpg" width="600" alt="사무라이 오니 가면 수묵화">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/519c122acd5bbadc7b6227a4180200f1/thumbnails/thumbnail.jpg" width="600" alt="사무라이 오니 가면 수묵화">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5903)**
 
@@ -1866,7 +1866,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 첨부된 THE CINNAMON ROLL BAKER 스토리보드를 시각적 참조 자료로 사용하여 정확하게 제작해 주세요. 8개의 샷을 모두 충실히 따라 16:9 비율의 12초 분량 픽사 3D 애니메이션 시퀀스를 생성하세요. 동일한 젊은 여성, 크림색 앞치마, 아늑하고 밝은 가정집 주방, 그리고 전체적으로 따뜻한 황금빛 아침 햇살을 유지해 주세요.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064706243650867200/img/CpFbln2K1ollFdCc.jpg" width="600" alt="픽사 스타일 시나몬 롤 제빵사">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b24ddaa8ae7a8b9e003a84203175b15/thumbnails/thumbnail.jpg" width="600" alt="픽사 스타일 시나몬 롤 제빵사">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5904)**
 
@@ -1895,7 +1895,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 스타일: 시네마틱, 밝고 화려한 자연광, 생생한 컬러 그레이딩, 햇빛으로 인한 렌즈 플레어, 사실적인 모션 블러, 얕은 피사계 심도, 블록버스터 레드 카펫 영화 퀄리티.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064701553706213376/img/QgSbTIGxEULxwURl.jpg" width="600" alt="레드 카펫 시네마틱 히어로 등장">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbb7541bf7d58e7f2350a779444278f4/thumbnails/thumbnail.jpg" width="600" alt="레드 카펫 시네마틱 히어로 등장">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5900)**
 
@@ -1922,7 +1922,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 따스한 일출 빛을 받으며 정원 중앙에서 아름다운 요가 자세를 취하고 있는 여성의 멋진 히어로 샷으로 마무리됩니다. 카메라는 천천히 뒤로 물러나며 평온한 풍경을 보여주고, 조화와 마음 챙김, 웰니스, 그리고 자연과의 연결이라는 느낌을 선사합니다. 초현실적인 영화적 촬영, 프리미엄 웰니스 브랜드 광고, 얕은 피사계 심도, 부드러운 자연 색감, 평화로운 분위기, 부드러운 짐벌 움직임, 사실적인 사진, 16:9 화면 비율.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064680024788406272/pu/img/gI8K17-KDdtUVgKm.jpg" width="600" alt="평온한 아침 요가 플로우">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fdfa1fb43bc96440e231358aa679648a/thumbnails/thumbnail.jpg" width="600" alt="평온한 아침 요가 플로우">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5901)**
 
@@ -1941,7 +1941,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 1인칭 휴대폰 손전등 시점. 밤, 낡은 아파트 문을 열고 들어가자 지저분하고 습하며 어두운 침실이 나타난다. 한 여성이 구석에 웅크린 채 갇혀 있는 모습이다. 약간의 핸드헬드 흔들림과 거친 숨소리가 포함된 사실적인 공포 단편 영화 질감. 샷 1 (0-3초): 문이 삐걱거리며 열리고, 불빛이 방 안을 훑다가 놀란 표정의 여성을 비춘다. 샷 2 (3-6초): 여성이 안도하는 미소를 지으며 카메라를 향해 달려온다. 샷 3 (6-9초): 조명이 깜빡이고, 그녀가 멈춰 서서 오싹한 목소리로 '드디어 왔구나'라고 말한다. 샷 4 (9-12초): 그녀의 표정이 굳어지고 눈동자에 비정상적인 빛이 반사되며 '나는 구조를 기다린 게 아니라... 대체자를 기다린 거야'라고 말한다. 샷 5 (12-15초): 손전등이 거칠게 깜빡이는 가운데 그녀의 얼굴이 귀신 형상으로 일그러지고, 점프 스케어와 함께 문이 쾅 닫히며 끝난다. 스타일: 1인칭 모바일 촬영, 디지털 노이즈, 모션 블러, 압도적인 분위기, 음악 없음, 유혈 없음.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064674036542504960/img/d5ruA3s0IHft_FeV.jpg" width="600" alt="1인칭 공포 체험">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/261ae7afaebb2bc3d06c17769cdb9479/thumbnails/thumbnail.jpg" width="600" alt="1인칭 공포 체험">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5908)**
 
@@ -2005,7 +2005,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 움직임과 함께 살아 숨 쉬는 보이지 않는 요정들이 실제 역 공간 속에 자연스럽게 공존하는 15초 영상을 만드세요.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064672408293068800/img/P2N1ocGjWxYZ0kIc.jpg" width="600" alt="도시 낙서와 어반 페어리 몽타주">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f85938371f2b825b479201afe0aa1615/thumbnails/thumbnail.jpg" width="600" alt="도시 낙서와 어반 페어리 몽타주">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5909)**
 
@@ -2024,7 +2024,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 15초 분량의 애니메이션 축구 액션 단편. 야간 경기장, 투광 조명, 환호성. 회전하는 축구공이 모든 샷의 중심 객체이며, 처음부터 끝까지 화면에 계속 표시되어야 함. 라이벌 2명: 라이벌 A = 길고 거친 검은 머리, 검은색 유니폼. 라이벌 B = 짧은 검은 머리, 등번호 7번의 네이비색 유니폼. 전신 액션 샷만 사용하며, 경기장을 보여주는 와이드 및 미디엄 앵글로 구성. 0~4초: 킥오프. 두 선수가 동시에 공을 찬다. 공은 두 선수의 축구화 사이에서 격렬하게 회전하며, 충격파가 두 선수를 뒤로 밀어낸다. 공은 중앙에 머물며 잔디 위에서 계속 회전한다. 4~9초: 라이벌 B가 자세를 바로잡고 회전하는 공을 고속으로 드리블한다. 낮은 위치에서의 와이드 트래킹 샷: 그의 발, 공, 잔디가 항상 프레임 안에 들어와야 한다. 9~12초: 라이벌 A가 뒤에서 슬라이딩 태클을 한다. 라이벌 B는 같은 공을 공중으로 띄워 태클을 피한다. 공은 선명하게 보이는 상태로 호를 그리며 상승한다. 12~15초: 라이벌 B가 도약하여 공중의 공을 번개를 동반한 미드 에어 발리슛으로 찬다. 공은 푸른 전기를 휘감고 골대를 향해 직선으로 날아간다. 마지막 프레임: 공이 그물을 흔든다. 연속성 규칙: 영상 전체에 걸쳐 단 하나의 공만 존재하며, 컷 사이에서 사라지지 않음. 네거티브: 캐릭터 클로즈업, 반짝임이나 글리터 효과, 정지 포즈, 대화 장면, 공이 없는 장면은 금지. [야간 경기장. 투광 조명이 빛난다. 축구공이 센터 서클에 있으며 잔디 위에서 천천히 회전한다. 관중의 함성이 울려 퍼진다.][라이벌 A(길고 거친 검은 머리, 검은색 유니폼)가 발을 내딛는다. 라이벌 B(짧은 검은 머리, 등번호 7번의 네이비색 유니폼)가 반대쪽 발을 내딛는다. 두 사람이 동시에 공을 찬다. 공은 충돌하는 발 사이에서 격렬하게 회전하며 충격파가 밖으로 퍼진다. 두 선수 모두 뒤로 튕겨 나간다. 공은 중앙에 머물며 여전히 잔디 위에서 회전하고 있다.][라이벌 B가 일어선다. 낮은 각도의 와이드 트래킹 샷. 그의 발, 회전하는 공, 그리고 잔디가 하나의 프레임에 고정된다. 그는 전력 질주하며 고속으로 경기장을 가로지르고, 공은 발밑에서 구르며 회전한다.][라이벌 A가 뒤에서 슬라이딩 태클을 시작하고, 스파이크가 잔디를 파헤친다. 라이벌 B는 발끝으로 공을 받아 그대로 위로 띄운다. 공은 슬라이딩하는 발을 넘어 높고 선명하게 호를 그린다.][라이벌 B가 도약한다. 공은 공중에 떠 있다. 그의 오른쪽 다리가 휘어지며 푸른 전기를 띤 발리슛을 날린다. 공은 번개 꼬리를 끌며 골대를 향해 로켓처럼 날아간다. 공이 닿자 그물이 뒤로 튕기고 관중이 열광한다.]
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064626904083333120/img/pbe5CQyKhDh_MI9N.jpg" width="600" alt="초차원 AI 축구 액션">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/334a7d1251bf0d49a7a6b1a4da21ddb2/thumbnails/thumbnail.jpg" width="600" alt="초차원 AI 축구 액션">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5912)**
 
@@ -2043,7 +2043,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 어둡고 흐린 하늘 아래 고등학교 육상 트랙에서 펼쳐지는 속도감 넘치는 SF 영상 시퀀스. 네이비와 화이트 색상의 트레이닝복을 입은 금발 여성이 학생들이 대피하는 가운데 자신감 있게 걸어 나옵니다. 그녀의 손목에 있던 로봇 거미가 빠르게 확장되어 화이트, 퍼플, 골드 색상의 도금과 기계식 날개, 빛나는 퍼플 헬멧을 갖춘 전신 나노테크 아머로 변합니다. 거대한 바위 괴물이 돌진해 오자, 그녀는 강력한 퍼플 에너지 블래스트로 가볍게 괴물을 파괴하며 연기와 파편이 흩날리는 거대한 폭발을 일으킵니다. 카메라가 클로즈업으로 줌인되면서 헬멧이 뒤로 접히고, 그녀가 미소를 지으며 카메라를 향해 빛나는 퍼플 키스를 날립니다. 영화 같은 조명, 실사 같은 VFX, 8k.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064608014934695936/pu/img/_Gi3k8G3kwVwYdpr.jpg" width="600" alt="나노테크 슈퍼히어로 아머 변신">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29c55b68fdc4d6622f51729bf1bf2506/thumbnails/thumbnail.jpg" width="600" alt="나노테크 슈퍼히어로 아머 변신">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5884)**
 
@@ -2105,7 +2105,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 마지막 영화적 시퀀스: 아이스크림 트럭이 노을 지는 교외 도로를 따라 멀어지고, 소년과 강아지가 황금빛 햇살 속을 나란히 걸어갑니다. 평화로운 동네를 보여주는 와이드 항공 샷, 길게 늘어진 노을의 그림자, 따뜻한 감성적 분위기, 온 가족이 즐길 수 있는 훈훈한 결말, 영화적 심도, 사실적인 애니메이션 물리 효과, 풍부한 표정 연기, 감동적인 오케스트라 음악, 픽사 스타일의 스토리텔링, 실망을 행복으로 바꾸는 친절함이라는 주제.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064562625665732608/pu/img/DdV-PxKwtHvgNfob.jpg" width="600" alt="픽사 스타일의 아이스크림 구출 작전">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7bf2f26f2d4b54e248e13efa6338d2e9/thumbnails/thumbnail.jpg" width="600" alt="픽사 스타일의 아이스크림 구출 작전">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5896)**
 
@@ -2124,7 +2124,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 일본 사무라이가 검을 휘두르자 액자의 오른쪽이 부서집니다. 사무라이가 검은 연기를 내뿜으며 액자 밖으로 걸어 나옵니다. 일본 사무라이가 검을 휘두릅니다. 액자의 오른쪽 프레임이 부서집니다. 액자 너머에서 사무라이가 검은 연기를 내뿜으며 오른쪽으로 걸어 나옵니다. 텍스트 없음, 컷 전환 없음, 캐릭터 변화 없음.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064555806897651712/img/CPd0kemWyoR7hXkr.jpg" width="600" alt="액자를 부수는 사무라이">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a8b4432a1ac8b67474486cc10306a0ee/thumbnails/thumbnail.jpg" width="600" alt="액자를 부수는 사무라이">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5879)**
 
@@ -2154,7 +2154,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 마지막 소개가 끝나면 카메라는 풀 샷으로 빠지며 여덟 명의 여성과 고양이들이 모두 함께 있는 모습을 보여줍니다. 여성들이 미소 짓고 웃는 동안 고양이들은 자연스럽게 상호작용하고, 놀고, 기지개를 켜고, 주변을 돌아다닙니다. 따뜻한 노을 조명, 영화 같은 피사계 심도, 부드러운 카메라 전환, 고급스러운 인테리어, 사실적인 고양이 행동, 자연스러운 표정, 하이엔드 상업 광고 퀄리티, 픽사(Pixar) 스타일의 사실감, 우아하고 따뜻한 분위기, 16:9 비율.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064553707937914881/pu/img/O9sXuG-7OQX7u0d-.jpg" width="600" alt="영화 같은 펜트하우스 고양이 소개 장면">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3bc6f5681307bc936c9ddfece06c300a/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 펜트하우스 고양이 소개 장면">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5888)**
 
@@ -2213,7 +2213,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 사실적인 유출된 휴대폰 영상 스타일의 10초 분량 9:16 세로형 영상을 생성하세요. 배경은 밤의 대형 낚싯배 갑판이며, 오른쪽에는 어두운 바다가, 왼쪽과 먼 쪽 끝에는 흰색 선박 구조물, 난간, 작업등, 그리고 선원들이 보입니다. 갑판은 바닷물로 젖어 반사되고 있으며, 금속 해치, 밧줄, 갈고리 등이 놓여 있습니다. 밝은 흰색 작업등이 갑판을 비추고 있으며, 멀리 보이는 바다는 거의 칠흑같이 어둡습니다. 영상은 저화질 모바일 압축 느낌, 핸드헬드 카메라의 흔들림, 모션 블러, 그리고 야간 노이즈가 포함되어야 합니다. 거대한 상어를 피해 갑판 위로 뛰어오르는 커다란 참치들이 영상의 핵심입니다. 분위기는 사실적이고 혼란스러우며, 약간의 블랙 코미디가 가미된 느낌입니다. 타임라인: 0~2초: 첫 번째 참치가 어두운 바다에서 갑판 위로 뛰어오름; 2~4초: 더 많은 참치가 갑판으로 뛰어오르고 선원들이 놀라 뒷걸음질 침; 4~6초: 카메라가 뛰어오르는 물고기를 따라가고 물속에서는 그림자가 어른거림; 6~8초: 거대한 상어가 난간 근처 물 밖으로 돌진하며 입을 크게 벌려 날카로운 이빨을 드러냄; 8~10초: 상어의 입이 화면 앞쪽을 가득 채우며 포효하고, 혼란 속에서 영상이 종료됨. 카메라: 핸드헬드, 원샷, 컷 없음. 오디오: 바닷바람 소리, 기계 돌아가는 소리, 파도 소리, 물고기 퍼덕이는 소리, 선원들의 비명, 물 튀기는 소리. 시각적 초점: 어두운 밤바다, 흰색 갑판, 뛰어오르는 참치, 당황한 선원들, 그리고 상어의 마지막 접근. 부정 프롬프트: 갑판 위의 상어 없음(제외), 애니메이션 스타일 금지, 낮 시간 금지, 피 금지, 텍스트나 워터마크 금지.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064539020684636160/img/xFjkDwnsRCjava9W.jpg" width="600" alt="낚싯배 위 참치를 쫓는 상어">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56f6020b68cd8f1c356aacc475f20b1d/thumbnails/thumbnail.jpg" width="600" alt="낚싯배 위 참치를 쫓는 상어">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5906)**
 
@@ -2242,7 +2242,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 샷 5 (13–15초): 시간이 다시 정상으로 돌아옵니다. 폭발 충격파가 고속정을 덮치고, 불타는 잔해가 파도 위로 쏟아집니다. 흠뻑 젖은 채 갑판에서 일어난 승무원들이 뒤에서 가라앉는 불타는 선체를 바라봅니다. 지휘관이 웃으며 무전기를 켭니다. "깔끔한 명중이군." 잠망경이 수면 아래로 내려갑니다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064519788349759488/img/S6tI90xo3RJ_AnW2.jpg" width="600" alt="어뢰 vs 메갈로돈 해양 추격전">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b89efdf4c83c6a9bc112e8817c6b9a77/thumbnails/thumbnail.jpg" width="600" alt="어뢰 vs 메갈로돈 해양 추격전">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5894)**
 
@@ -2269,7 +2269,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 곧이어 오렌지색 고양이가 주먹을 들어 카메라를 향해 강력한 펀치를 날립니다. 충격으로 화면이 격렬하게 흔들립니다. 영상이 손상된 것처럼 디지털 노이즈, 글리치, 신호 간섭 소리가 들립니다. 강렬한 전자음과 함께 화면이 완전히 암전됩니다. 영화적이고 유머러스하며 예측 불가능한 이세계 모험, 역동적인 카메라 워킹, 영화 수준의 애니메이션 퀄리티, 풍부한 환경 디테일, 선명한 색감, 압도적인 속도감이 느껴집니다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064518682429227008/img/9Nw1RHEr3stdTXTc.jpg" width="600" alt="애니메이션 수중 도시 전환">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fb926a1c98c1b6b14c68900c9b1c9a64/thumbnails/thumbnail.jpg" width="600" alt="애니메이션 수중 도시 전환">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5855)**
 
@@ -2298,7 +2298,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 샷 5 (13–15초): 다시 정상 속도로 돌아옵니다. 충격파가 물결을 잠재웁니다. 쾌속정이 아래쪽 강으로 미끄러지듯 빠져나가고, 운전자는 불타는 수문을 돌아보며 주먹을 치켜듭니다. 위쪽에서는 사수가 연기가 나는 발사기를 내리며 무전기에 말합니다. "수문 닫혔다." 컷.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064518373866921984/img/76d7h_L28i3ny1ik.jpg" width="600" alt="메가 악어 vs 댐 군사 작전">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f53b7ecfff20c0e74c93fd7d71c03c20/thumbnails/thumbnail.jpg" width="600" alt="메가 악어 vs 댐 군사 작전">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5893)**
 
@@ -2327,7 +2327,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 샷 5 (13–15초): 다시 정상 속도로 전환. 화물기가 활주로 마지막 1미터 지점에서 이륙하여, 아래에서 불타며 구르는 사체 위로 가파르게 상승합니다. 병사는 망가진 램프에 매달려 거센 바람을 맞으며 미친 듯이 웃습니다. 뒤편 활주로에서는 잔해가 불타고 있습니다. 컷.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064509655779524608/img/yAWpQwQe7giB4U73.jpg" width="600" alt="티라노사우루스 vs 군용 수송기 액션 장면">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e00fa725e9bc3b6ec1c4402fde70e0ba/thumbnails/thumbnail.jpg" width="600" alt="티라노사우루스 vs 군용 수송기 액션 장면">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5891)**
 
@@ -2355,7 +2355,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 단일 지점으로 내파하는 포털의 익스트림 클로즈업, 꺼져가는 불꽃, 느린 시네마틱 푸시 인, 반짝이는 디테일, 드라마틱한 조명.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064503266147225600/img/25apufxKXTqRk_A2.jpg" width="600" alt="SF 시간 여행자 시네마틱 영상 시퀀스">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04d729ea94e009bab7891119e8c41f89/thumbnails/thumbnail.jpg" width="600" alt="SF 시간 여행자 시네마틱 영상 시퀀스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5883)**
 
@@ -2376,7 +2376,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 바이럴 소셜 미디어 스타일, 사실적인 야간 조명, 젖어서 반사되는 표면, 높은 긴장감과 박진감, 다큐멘터리 스타일의 핸드헬드 영상
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064501280555630592/img/QRhIfOK8JW1cIV9U.jpg" width="600" alt="바이럴 상어 습격 낚싯배 영상">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd5d0af83b43c60de4672d1912820d3f/thumbnails/thumbnail.jpg" width="600" alt="바이럴 상어 습격 낚싯배 영상">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5882)**
 
@@ -2395,7 +2395,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 현실적인 고정 카메라 단편 코미디 영상, 2개 장면, 모든 등장인물은 성인이며 완전히 옷을 입고 있음. 소품은 모두 플라스틱 만화 장난감이나 안전한 코미디 소품임. 전반적으로 부조리한 반전 코미디이며, 실제 폭력, 유혈, 모호함, 선정적인 내용은 없음. [00:00-00:07] 샷 1 - 차 내부 고정 카메라: 밤 시간대 차량 내부, 센터 콘솔에 고정된 카메라, 완전히 정적인 상태: 줌, 흔들림, 팬 없음. 화면 속에는 지저분한 흰색 민소매 셔츠를 입은 덥수룩한 성인 남성(hf_20260506_032645_e6665446-0056-40fc-b99f-8d85619f8789)이 운전 중이고, 조수석에는 성인 여성이 앉아 있음. 갑자기 누군가 끼어들자 남성이 급브레이크를 밟고 앞으로 쏠리며 화가 난 듯 핸들을 침. 그는 과장된 싸구려 플라스틱 만화 칼을 꺼내 들고 화를 내며 문을 열고 나감. 여성이 '가지 마! 위험하다고 했잖아!'라고 만류하지만, 남성은 '그냥 몇 가지 물어볼 게 있어서 그래!'라고 중얼거리며 화면 밖으로 나감. 문이 닫히고, 여성은 무너져 내린 듯 무력한 모습으로 남아 있음. [00:07-00:15] 샷 2 - 고정 카메라 반전: 평범한 침실로 전환, 미디엄 샷, 완전히 정적인 상태. 덥수룩한 남성이 침대에 엎드려 얼굴을 베개에 파묻고 현실의 쓴맛을 본 듯 고통스러워함. 그 뒤에 앉은 여성(ref hf_20260609_173858_0a2ea93a-89fc-4376-a250-0d2e8ea60474 (1))은 화가 난 듯하면서도 무력해 보임. [00:07-00:09] 여성이 옷 위로 남성의 엉덩이/허리 부분을 과장된 '찰싹' 소리와 함께 때리며 말함: '거봐, 내가 가지 말라고 했잖아, 너무 위험하다고!' [00:09-00:12] 그녀가 숨겨진 주머니에서 플라스틱 칼(ref hf_20260609_173858_0a2ea93a-89fc-4376-a250-0d2e8ea60474 (1))을 꺼낸 뒤 배드민턴 라켓을 꺼냄. 남성은 재미있고 후회 섞인 표정으로 움찔하며, 배경에는 아기 울음소리가 들림. [00:12-00:15] 그녀는 실패한 마술처럼 긴 색깔 천 조각들을 계속해서 꺼냄. 남성은 얼굴을 파묻고, 여성은 카메라를 향해 '거봐 내 말이 맞지'라는 표정을 지음. 사운드: 브레이크, 타이어 마찰음, 핸들 치는 소리, 문 닫는 소리, 중얼거림, 불안한 조언. 두 번째 장면에는 '찰싹' 소리, 플라스틱 장난감 마찰음, 라켓 소리, 천 스치는 소리, 매트리스 삐걱거리는 소리, 아기 울음소리가 포함됨. 음악 없음, 실제 비명 없음. 스타일: 현실적인 저예산 코미디. 첫 번째 장면은 차가운 밤 조명, 두 번째 장면은 따뜻한 침실 조명. 자연스럽지만 과장된 움직임, 싸구려 플라스틱 소품, 부조리한 반전 속도. 금지 사항: 실제 칼, 실제 위해, 혈흔, 학대, 노출, 성적 암시, 미성년자, 엑스트라 캐릭터, 자막, 워터마크, 카메라 움직임, 흔들림, 왜곡.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064488445188161536/img/8fK_pcpBLVFxb_uY.jpg" width="600" alt="도로 위 분노를 다룬 부조리 코미디 장면">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57e48bde914c887eab018f56d21be52a/thumbnails/thumbnail.jpg" width="600" alt="도로 위 분노를 다룬 부조리 코미디 장면">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5872)**
 
@@ -2417,7 +2417,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 최종 형태는 검은 생체 조직과 외계 합금이 융합된 슈트로, 맥동하는 질감을 통해 '살아있고' '성장하는' 듯한 모습을 보여줍니다. 희미하게 빛나는 붉은 혈관 라인이나 복잡한 회로가 슈트의 윤곽을 따라 흐르며, 페이스플레이트나 헬멧 위에서 위협적으로 빛나는 붉은 눈으로 완성됩니다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064470275828461568/img/o76eJqGz8VO-jUMW.jpg" width="600" alt="외계 생체 슈트 변신">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/92210fd629f7e921a5fda7c0898e4854/thumbnails/thumbnail.jpg" width="600" alt="외계 생체 슈트 변신">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5862)**
 
@@ -2436,7 +2436,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 망망대해 위 하얀 보트 측면에서 대형 갈색 문어가 스쿠버 다이버를 공격하는 사실적인 핸드헬드 휴대폰 영상. 파란색 잠수복을 입고 노란색 산소통을 멘 다이버가 보트 갑판 위에 누워 있고, 거대한 문어가 그에게 달려들어 선체에 달라붙는다. 문어의 두꺼운 촉수가 다이버의 다리와 몸을 휘감는다. 문어는 다이버를 물속으로 강력하게 끌어당기며 물보라와 몸싸움이 일어난다. 다이버는 저항하지만 결국 가장자리 밖으로 끌려 나간다. 약간의 핸드헬드 흔들림이 포함된 역동적인 카메라 워킹, 사실적인 파도, 자연광, 그리고 문어 피부와 잠수복, 보트의 디테일한 질감이 돋보인다. 사실적인 사진 품질, 높은 디테일, 극적인 긴장감, 다큐멘터리 스타일.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064463653957771264/img/b6gJ9TdMNyQWhN7G.jpg" width="600" alt="문어의 스쿠버 다이버 공격">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52cd00b23f9e31b12dc74351d9275b14/thumbnails/thumbnail.jpg" width="600" alt="문어의 스쿠버 다이버 공격">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5857)**
 
@@ -2465,7 +2465,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 샷 5 — 잔해들이 비명을 지르는 괴수를 바닷속으로 끌고 들어간다. 괴수의 꼬리지느러미가 수면을 강타한 뒤 케이블과 함께 심해로 사라진다. 여성은 끊어진 케이블에 매달려 버스 문틈에서 소용돌이치는 바다 위를 위태롭게 흔들린다. 괴수를 공격한 것은 다름 아닌 괴수가 습격했던 바로 그 교량이었다. 천천히 멀어지는 항공 샷: 파괴된 해상 교량, 가라앉는 불빛, 그리고 빗줄기 너머로 무심하게 빛나는 도시의 야경.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064441765424484352/img/4ZcUIDcsDE4d7tsN.jpg" width="600" alt="뭄바이 해상 교량을 습격한 괴수">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e50e6c37c0362db861f7af31cc29136/thumbnails/thumbnail.jpg" width="600" alt="뭄바이 해상 교량을 습격한 괴수">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5847)**
 
@@ -2490,7 +2490,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 중세 판타지 영화의 날것 그대로의 실사 영상처럼 촬영되었습니다. 풍부한 따뜻한 색감, 자연스러운 불완전함, 횃불로 인한 미세한 렌즈 플레어, 유기적인 카메라 흔들림이 돋보이는 1960년대 정통 필름 스톡 느낌입니다. 전체 시퀀스는 고전 모험 영화를 연상시키는 연극적 동선과 타이밍으로 실시간으로 전개됩니다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064434136178429952/img/bNXiITp2rdIQYrJ5.jpg" width="600" alt="1960년대 레트로 영화풍 키스 장면">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0eceff23648d169ecef628a4db21c3e6/thumbnails/thumbnail.jpg" width="600" alt="1960년대 레트로 영화풍 키스 장면">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5863)**
 
@@ -2529,7 +2529,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 오디오: 사실적인 숲의 환경음, 빗소리, 거친 숨소리, 근육이 움직이는 소리, 털이 스치는 소리, 멀리서 들리는 천둥소리, 동물의 으르렁거리는 소리, 분위기 있는 야생 사운드 디자인.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064407231076990976/pu/img/SamsbISGJUgYwQqy.jpg" width="600" alt="영화 같은 늑대 인간 변신">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/759545b95ebc2295541d80107204f076/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 늑대 인간 변신">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5851)**
 
@@ -2554,7 +2554,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 각 장소마다 현지 분위기에 어울리는 세련된 의상을 착용하고, 손 흔들기, 브이(V) 사인, 나마스테, 손가락 하트, 웃음, 랜드마크 가리키기, 엄지척, 놀란 표정, 춤추기 또는 장난스러운 포즈 등 재미있고 표현력이 풍부한 동작을 취하세요.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064401449648537600/pu/img/kXEzIMuRh23JzXL-.jpg" width="600" alt="세계 여행 하이퍼랩스 셀카">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/064210ab16759252370df899ce7a54b8/thumbnails/thumbnail.jpg" width="600" alt="세계 여행 하이퍼랩스 셀카">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5848)**
 
@@ -2575,7 +2575,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 제공된 스토리보드 레퍼런스 이미지 Image 2 를 사용하여 15초 분량의 시네마틱 천상 판타지 캐릭터 쇼케이스 영상을 생성하세요. 모든 샷에서 Astrielle Image 1 의 일관성을 엄격하게 유지하세요 —
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064395176693612544/img/-EnOAGotXI46jPF7.jpg" width="600" alt="천상의 판타지 캐릭터 쇼케이스">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb34c19da033640689a751c7e1da5276/thumbnails/thumbnail.jpg" width="600" alt="천상의 판타지 캐릭터 쇼케이스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5868)**
 
@@ -2594,7 +2594,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 시네마틱 넷플릭스 다큐멘터리, 16초 시퀀스, 16:9, 초고화질 8K, ARRI Alexa Mini LF, 아나모픽 렌즈, 은은한 렌즈 플레어, 유기적인 필름 그레인. 따뜻한 골든 하이라이트와 깊은 그림자, 사실적인 피부 질감이 돋보이는 프리미엄 피트니스 다큐멘터리 색감
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064387760027480065/img/vM9atcAy0dW-ZXrg.jpg" width="600" alt="프리미엄 피트니스 다큐멘터리 스타일">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d42414e60e71a0edc2a74d3ed571f97f/thumbnails/thumbnail.jpg" width="600" alt="프리미엄 피트니스 다큐멘터리 스타일">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5867)**
 
@@ -2623,7 +2623,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 진짜 바이럴 폰 영상, 다큐멘터리적 사실주의, 믿기 힘든 인간의 행동, 우연한 발견, "어떻게 이게 가능하지?"라는 반응을 유도하는 에너지, 영화적인 카메라 무빙 없음, 안전벨트 보이지 않음, 밈(meme)이 될 법하지만 완전히 현실적인 영상.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064384954637889541/img/2L2YV8XScB7RqS2d.jpg" width="600" alt="바이럴 건설 현장 스툴 영상">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a60ee6b38bbac25d2bba5d0decec7325/thumbnails/thumbnail.jpg" width="600" alt="바이럴 건설 현장 스툴 영상">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5854)**
 
@@ -2642,7 +2642,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 시네마틱 8k 영상. 웅장한 판타지 장면. 강렬하게 빛나는 네온 블루 눈동자, 바람에 휘날리는 긴 흑발, 빛나는 룬 문자와 어깨의 날카로운 얼음 결정으로 장식된 검은 가죽 갑옷을 입은 강력한 소서리스. 그녀는 황량한 바위산 길에 서 있습니다. 어둠의 기사 군단이 그녀를 향해 돌진합니다. 그녀가 빛나는 마법 지팡이를 들어 올리며 거대한 냉기 에너지를 집중시킵니다. 그녀의 위치에서 서리와 얼음의 강력한 폭발파가 뿜어져 나와 완벽한 원형으로 빠르게 퍼져나가며, 돌진하던 군대를 순식간에 정교한 얼음 조각상으로 얼려버립니다. 거대한 원형 냉기 쇼크웨이브를 보여주는 드라마틱한 상공 드론 샷. 슬로우 모션, 강렬한 시네마틱 음악 분위기, 하이엔드 CGI, 어둡고 거친 색감 보정, 사실적인 사진 느낌, 전문적인 보케 효과, 정교한 디테일
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064382926301835267/pu/img/cI3Ao2bwt9kwcA5g.jpg" width="600" alt="소서리스 프로스트 쇼크웨이브">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0824c1c35a3cf3b1b95b22503a723017/thumbnails/thumbnail.jpg" width="600" alt="소서리스 프로스트 쇼크웨이브">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5860)**
 
@@ -2665,7 +2665,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 산 위에서 내려다보는 드라마틱한 와이드 샷으로 시작하여 전투 장면으로 빠르게 줌인, 불가능에 가까운 곡예와 회전하는 지팡이 공격을 따라가는 휩 팬(whip pan), 거대한 충격파 주변을 도는 궤도 샷, 에픽 애니메이션 스타일의 임팩트 프레임과 역동적인 원근 왜곡, 프레임을 가득 채우는 잔해와 햇살, 무너지는 기둥 사이를 뛰어넘고 공중에 떠 있는 바위 위를 달리며 여러 거대 수호자와 치명적인 일격을 주고받는 수도승, 타격마다 팽창하는 에너지 링이 생성되며 산 자체가 갈라짐, 마지막에 수도승이 황금빛 폭발과 함께 전장 위로 높이 솟구친 뒤 지팡이를 내리꽂는 신과 같은 최후의 일격으로 사찰 전체에 거대한 충격파를 보내 남은 석상 수호자들을 즉시 증발시키고 산비탈을 산산조각 내며 세상을 정적 속에 잠기게 함, 먼지 구름이 걷히고 거대한 분화구 중앙에 홀로 서 있는 수도승과 그 주변으로 무너져 내린 수호자들의 잔해, 구름 사이로 햇살이 비치며 카메라가 천천히 뒤로 물러나 그의 완벽한 승리와 산 아래 평온을 되찾은 사찰의 모습을 보여주며 마무리
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064373202889891840/pu/img/YqT7vAv-sQeIFfCG.jpg" width="600" alt="애니메이션 스타일의 사찰 전투">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dcf1d449c9685675010538dcfd8dcf54/thumbnails/thumbnail.jpg" width="600" alt="애니메이션 스타일의 사찰 전투">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5861)**
 
@@ -2684,7 +2684,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 레지가 바포레토에서 내려 운하 옆에 발을 딛고, 단안경을 고쳐 쓰며 “베니스에 오신 것을 환영합니다”라는 대사를 날린다. 카메라가 천천히 다가가자 그는 운하를 보며 감탄하며 이곳을 “도로를 잊어버린 런던”이라고 부른다. 곤돌라를 발견한 그는 “영화 같은 등장”이 필요하다며 고집을 부린다. 와이드 샷: 그가 곤돌라에 올라타다 거의 뒤집힐 뻔하지만, 애써 품위를 유지하려 한다. 화면 전환: 그가 자리에 앉아 카메라를 향해 포즈를 취하며 과장된 “인플루언서 손동작”을 선보인다. 곤돌라 사공이 노래를 시작하자 레지는 가식적인 세련미를 보이다가 이내 진심으로 감탄한다. 비둘기 떼가 머리 위로 날아들자 레지가 황급히 고개를 숙였다가, 마치 계획했던 일인 양 태연하게 행동한다. 다리 밑을 지나며 그는 진지하게 역사적 사실을 설명하려 하지만 명백히 틀린 정보를 말한다. 오래된 건물들을 올려다보는 POV 샷: 레지는 이곳을 “세상에서 가장 화려한 물의 미로”라고 부른다. 곤돌라가 다른 곤돌라와 살짝 부딪히자 잠시 어색한 상황이 연출되고, 레지는 장난스러운 칭찬이나 영국식 냉소를 던진다. 점프 컷으로 레지가 작은 수상 카페/바에 앉아 가장자리에 에스프레소를 아슬아슬하게 올려두고 있다. 익스트림 클로즈업: 레지가 에스프레소를 한 모금 마시고는 그 강렬함에 눈이 커지지만, “정말 훌륭하군”이라며 태연한 척한다. 빠른 몽타주: 치케티(cicchetti)를 조금씩 맛보며 고개를 끄덕이다가, 강한 맛에 과장된 반응을 보인다. 작은 다리 위에서 맞이하는 일몰 샷: 레지가 볼러 햇을 살짝 비스듬히 쓴 채 난간에 기댄다. 카메라를 향한 마지막 대사, “10점 만점에 10점, 하지만 여전히 도로가 어디로 갔는지는 모르겠군”이라는 말을 남기고 경쾌하게 걸어 나간다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064361525255553025/img/bnzRUmPZzJ98dmj5.jpg" width="600" alt="베니스 운하를 여행하는 레지(Reggie)">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c13a64ad75212bff0e9364b400a302b3/thumbnails/thumbnail.jpg" width="600" alt="베니스 운하를 여행하는 레지(Reggie)">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5871)**
 
@@ -2727,7 +2727,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 주의사항: 화면 떨림, 인물 외형 변화, 광고 같은 작위적인 느낌, 과도하게 노출된 창가 빛은 피할 것.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064349984083062784/pu/img/VFl_zBrq4FcA14-D.jpg" width="600" alt="아침 브이로그 데스크 셋업">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bac09eab3dbd7985644b190355d89ec1/thumbnails/thumbnail.jpg" width="600" alt="아침 브이로그 데스크 셋업">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5858)**
 
@@ -2746,7 +2746,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 첨부된 THE CRÊPE MAKER 스토리보드를 정확한 시각적 레퍼런스로 사용하세요. 8개의 컷을 모두 그대로 따르는 12초 분량의 16:9 픽사 3D 애니메이션 시퀀스를 제작하세요. 전형적인 프랑스 남성의 모습(검은색 베레모, 네이비와 화이트 스트라이프 셔츠, 흰색 앞치마)을 유지하며 매력적으로 표현해 주세요.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064342509732438016/img/ZbwTFaE_JLtILS-m.jpg" width="600" alt="픽사 스타일의 프랑스 크레페 메이커 애니메이션">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e83993ab4819d2f323abac532de20e8/thumbnails/thumbnail.jpg" width="600" alt="픽사 스타일의 프랑스 크레페 메이커 애니메이션">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5869)**
 
@@ -2784,7 +2784,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 전반적으로 실제 도쿄의 풍경과 치비 캐릭터, 그리고 효과가 강력하게 융합된 세계입니다. 효과는 지나치게 SF적이지 않으면서도 산뜻하고 가벼우며 약간은 시적인 느낌을 줍니다. 각 컷마다 효과의 양과 움직임을 대폭 늘려 밀도를 높이고, 캐릭터의 움직임과 감정에 확실하게 반응하도록 합니다. 모든 컷에서 카메라는 일관되게 움직입니다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064332980152410112/img/s17A-rTGlGTOSGRE.jpg" width="600" alt="도쿄를 배경으로 한 애니메이션 치비 퓨전">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/878923f1c6eba6e817ccbe6fb134cd76/thumbnails/thumbnail.jpg" width="600" alt="도쿄를 배경으로 한 애니메이션 치비 퓨전">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5876)**
 
@@ -2809,7 +2809,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 마지막은 영화 같은 도시 배경을 뒤로하고 회전하는 헤드폰의 드라마틱한 히어로 샷으로 마무리됩니다. 은은한 오디오 파형 시각 효과, 고급스러운 반사, 럭셔리 제품 광고 스타일링, 얕은 피사계 심도, 하이엔드 브랜드 캠페인 룩, 완벽한 상업 영화 촬영 기법, 16:9 화면 비율, 사실적인 사진 느낌, 시각적으로 압도적인 영상미.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064322270760439808/pu/img/Ia_j31f1QkRWAEFQ.jpg" width="600" alt="헤드폰 라이프스타일 광고">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f5a1828bea9f6c0787835c324e96e6e/thumbnails/thumbnail.jpg" width="600" alt="헤드폰 라이프스타일 광고">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5853)**
 
@@ -2834,7 +2834,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 피날레를 향해 선두 스케이트보더가 거대한 활화산으로 접근합니다. 거대한 폭발이 자연적인 용암 추진 발사대를 만들어냅니다. 스케이트보더는 분화구 위 높은 곳에서 불가능한 다회전 공중 묘기를 선보인 뒤 화산 속으로 직접 하강합니다. 결승선은 분화구 깊은 곳에서 빛나고 있습니다. 선수는 용암이 사방에서 분출되는 가운데 화산 중심부의 좁은 플랫폼에 완벽하게 착지합니다. 웅장한 시네마틱 엔딩, 강렬한 에너지, 사실적인 물리 효과, 놀라운 화산 비주얼, 초고해상도 환경, 텍스트 없음, 워터마크 없음, 자막 없음, 영화 수준의 액션.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064286260253118464/pu/img/4xKr73p7-moMCw5p.jpg" width="600" alt="화산섬 스케이트보드 챔피언십">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24be2398f7685082fdd4284581e52ca4/thumbnails/thumbnail.jpg" width="600" alt="화산섬 스케이트보드 챔피언십">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5870)**
 
@@ -2853,7 +2853,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 일본 풀컬러 애니메이션 영화, 시네마틱 고화질 영상. 배경음악/대사/텍스트 없음. 느리고 정적인 움직임에 집중. 집사 캐릭터: 키가 크고 날씬하며, 검은 머리에 은색 안경을 쓰고 쓰리피스 수트와 흰 장갑을 착용. 장면: 부드러운 햇살이 비치는 어두운 주방. 컷 1: 가스레인지에 파란 불꽃이 점화됨. 컷 2: 넥타이를 조임. 컷 3: 흰 장갑을 착용함. 컷 4: 마른 찻잎을 떠냄. 컷 5: 안경을 고쳐 씀. 컷 6: 짙은 오렌지색 차가 담긴 냄비에서 김이 모락모락 남. 컷 7: 설탕을 넣음. 컷 8: 포켓 스퀘어를 정리함. 컷 9: 차에 연유를 넣음. 컷 10: 거름망을 통해 피처에 차를 따름. 컷 11: 머리카락을 뒤로 넘김. 컷 12: 유리잔에 둥근 얼음 볼을 넣음. 컷 13: (슬로우 모션) 얼음 위로 차를 따름. 컷 14: (슬로우 모션) 우유를 추가하여 두 층을 만듦. 컷 15: 집사가 완성된 잔을 내밈.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064286114324836352/img/wPAIidH_NB9h73k2.jpg" width="600" alt="집사가 태국 차를 만드는 애니메이션 시퀀스">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b995f15ba0534b09a437a9f9938e560/thumbnails/thumbnail.jpg" width="600" alt="집사가 태국 차를 만드는 애니메이션 시퀀스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5916)**
 
@@ -2872,7 +2872,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 현대적인 3D 중국 애니메이션 스타일. 장면 1: 이집트 궁전, 왕좌 내부에서 시작되는 샷. 위엄 있는 자칼 신 아누비스가 똑바로 서서 팔을 T자 모양으로 벌리고 있습니다. 그 옆에 서 있는 젊은 인간 왕이 진지한 표정으로 말합니다. "나의 사랑하는 아누비스, 딴짓하면 안 된다." 아누비스가 단호하고 진지하게 대답합니다. "분부대로 하겠습니다, 주인님." 장면 2: 인간 왕이 교활하게 미소 지으며 아누비스의 겨드랑이 쪽으로 손을 뻗어 부드럽고 능숙하게 간지럼을 태웁니다. 아누비스의 표정이 순식간에 밝아집니다. 그는 간지러움을 참으려 애쓰지만, 너무나 간지러움을 많이 탑니다. 장면 3: 인간 왕이 계속해서 아누비스의 겨드랑이를 간지럽힙니다. 아누비스는 눈을 감고 활짝 웃으며 억눌린 웃음소리를 냅니다. 인간 왕은 간지럼을 태우며 "까꿍"이라고 말합니다. 장면 4: 인간 왕이 계속해서 간지럼을 태웁니다. 아누비스는 곧 크게 웃기 시작하며 팔이 T자 자세에서 벗어나지만, 겨드랑이는 여전히 노출된 상태입니다. 장면 5: 인간 왕이 계속 간지럼을 태우자 아누비스는 크게 웃음을 터뜨리더니 겨드랑이를 보호하기 위해 팔로 자신의 몸을 감싸고, 마침내 간지럼이 멈춥니다. 장면 6: 아누비스가 팔짱을 끼고 잔웃음을 몇 번 흘린 뒤 다시 진지한 표정이 됩니다. 그는 허리에 손을 얹고 주인에게 약간 짜증 난 듯한 표정으로 말합니다. "주인님, 간지럽히지 않기로 약속했잖습니까." 인간 왕은 순진한 척 어깨를 으쓱하며 장난스럽게 대답합니다. "어라." 아누비스는 근육질 체형이며 팔과 목에 장신구를 착용하고 있습니다. 그의 목소리는 낮고 매력적입니다. 언어는 영어입니다.
 ```
 
-<img src="https://pbs.twimg.com/media/HKXSRh0aMAAEVfl.jpg" width="600" alt="이집트 신 아누비스 애니메이션 프롬프트">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e7a13a32ae05ed7b865f15ed70161cee/thumbnails/thumbnail.jpg" width="600" alt="이집트 신 아누비스 애니메이션 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5873)**
 
@@ -2917,7 +2917,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 실험적 영화 초현실주의, 아날로그 영사 미학, 꿈같은 전환, 실사 조명 효과, 4K.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064286381673795584/pu/img/smrMtvwgK0qEqf-3.jpg" width="600" alt="초현실적인 폐영화관">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/461c3c843ba3b07316188e80e0e3ce4f/thumbnails/thumbnail.jpg" width="600" alt="초현실적인 폐영화관">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5859)**
 
@@ -2962,7 +2962,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 리드미컬한 빠른 컷, 클로즈업, 로우 앵글, 탑다운 샷, 빠른 팬(pan), 부드러운 매치 컷을 사용하세요. 변신 과정이 슬라이드쇼가 아닌 연속적인 움직임으로 보이도록 하세요. 캐릭터는 회전, 부유, 착지 등을 통해 자연스럽게 움직여야 합니다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064277120331952128/img/fnVjNeGCzkrnK0h4.jpg" width="600" alt="애니메이션에서 실사로의 변신">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80693d68a6ef847235e631bbd6ab278/thumbnails/thumbnail.jpg" width="600" alt="애니메이션에서 실사로의 변신">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5878)**
 
@@ -2981,7 +2981,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 프레임 1: 28mm 광각 렌즈로 지면에서 빠르게 다가가는 강렬한 푸시인, 흰색 유니폼과 높은 모자를 쓴 활기찬 만화 셰프가 카메라를 향해 극적으로 회전하며, 자신감 넘치는 모습으로 조리대를 향해 손가락 총을 겨누고, 조리대가 완벽한 위치로 미끄러져 들어옴
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064255734150545408/img/qFy8amAWL0rPsfsE.jpg" width="600" alt="영화 같은 피자 셰프 애니메이션 시퀀스">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/943f37d89a186a3304910b2bda5ebfd1/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 피자 셰프 애니메이션 시퀀스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5866)**
 
@@ -3026,7 +3026,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 초현실적인 시네마틱 스타일, 필름 그레인, 아나모픽 플레어, 선명한 4K, 세로형 9:16 비율. 승리감 넘치고 고급스러우며 힘 있는 분위기. 강렬한 레드 벨벳 색감 보정, 생동감 있는 녹색과 금색. 패키지는 참조 이미지와 100% 일치. 자연스러운 립싱크, 빠르고 에너제틱한 컷 전환. 텍스트 오버레이 없음.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064245757142827008/img/wqVaQgMBBDzmLwVu.jpg" width="600" alt="2026 월드컵 팬 경험">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1111e05bf2887771dfad2de13e8281b0/thumbnails/thumbnail.jpg" width="600" alt="2026 월드컵 팬 경험">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5865)**
 
@@ -3045,7 +3045,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 중요 지침: 영상 출력물에 스토리보드 이미지, 패널 레이아웃, 참조 사진 또는 스케치를 표시, 참조 또는 재현하지 마십시오. 모든 장면은 텍스트 설명만을 바탕으로 생성된 오리지널 애니메이션 스타일이어야 합니다. 시각적 참조 프레임은 완전히 무시하십시오. 스토리보드 시퀀스를 장면 순서에 따라 빠르게 진행되는 요리 영상으로 변환해 주십시오. ## 스타일: 고품질 일본 애니메이션 영화 스타일, 영화 같은 조명, 초정밀 음식 애니메이션, 얕은 피사계 심도, 부드럽고 자연스러운 여름 햇살, 매크로 클로즈업 샷, 느리고 영화적인 카메라 움직임, 상쾌하고 밝은 여름 분위기, 질감과 촉촉함을 강조한 미식 요리 애니메이션 스타일. ## 편집: 빠르고 리듬감 있는 컷 편집을 기본으로 하여 요리 과정을 직관적으로 이해하기 쉽게 만드십시오. 장면 간의 부드러운 전환을 위해 매치 컷(모양, 동작, 구도, 질감 일치)을 적용하십시오. 전체적인 영상은 활기차고 스타일리시한 애니메이션 영화처럼 느껴져야 하며, 지글거리는 소리, 신선함, 시각적 매력에 강한 초점을 맞추십시오. ### 장면 1 — 돼지고기 등심 두드리기 및 준비 나무 고기 망치를 쥔 애니메이션 스타일의 손이 도마 위에서 두툼한 분홍색 돼지고기 등심을 힘차게 두드리는 클로즈업. 타격할 때마다 고기가 약간 평평해지며 섬유질이 눈에 띄게 느슨해집니다. 소금과 후추가 표면에 고르게 뿌려집니다. 타격 시 고기에 미세한 진동이 퍼집니다. 초현실적인 애니메이션 스타일, 선명한 주방 조명, 영화 같은 얕은 피사계 심도. ### 장면 2 — 빵가루 입히기 애니메이션 스타일의 손이 생돈카츠에 체계적으로 튀김옷을 입히는 과정: 밀가루 트레이에 꾹 누르고, 황금빛 방울이 떨어지는 달걀물에 담근 뒤, 마지막으로 거친 흰색 빵가루 트레이에 단단히 누릅니다. 각 층이 눈에 띄게 밀착됩니다. 초현실적인 애니메이션 스타일, 머리 위에서 비추는 드라마틱한 조명, 음식 디테일 클로즈업. ### 장면 3 — 튀기기 깊은 프라이팬 속 반짝이는 황금빛 기름에 잠긴 빵가루 입힌 돈카츠. 가장자리에서 격렬한 거품이 일다가 껍질이 짙은 호박색으로 변하며 바삭해짐에 따라 점차 가라앉습니다. 뜨거운 기름 표면을 통해 빛이 굴절됩니다. 김이 부드럽게 피어오릅니다. 초현실적인 애니메이션 스타일, 따뜻한 황금빛 조명, 영화적 연출. ### 장면 4 — 튀긴 돈카츠 썰기 완벽하게 튀겨진 황금빛 돈카츠가 도마 위에 놓여 있습니다. 애니메이션 스타일의 손이 크고 날카로운 칼을 사용하여 돈카츠를 균일한 두께로 썹니다. 칼질할 때마다 바삭한 껍질이 깔끔하게 갈라지며 안쪽의 부드러운 흰 살코기가 드러납니다. 단면에서 미세한 김이 빠져나옵니다. 초현실적인 애니메이션 스타일, 드라마틱한 탑 앵글 주방 조명. ### 장면 5 — 다시 육수와 양파 졸이기 가스레인지 위 넓고 얕은 팬 안에서 얇게 썬 양파가 다시 육수와 함께 천천히 졸여집니다. 양파는 점차 부드러워지고 투명해지며 호박색 액체 속에서 부드럽게 흔들립니다. 바닥에서 거품이 꾸준히 올라옵니다. 젓가락으로 가끔 양파를 저어줍니다. 따뜻한 김이 위로 피어오릅니다. 초현실적인 애니메이션 스타일, 따뜻한 스토브 조명, 영화적 클로즈업. ### 장면 6 — 다시 육수에 돈카츠 올리기 애니메이션 스타일의 손이 젓가락을 사용하여 썰어둔 돈카츠 조각들을 얕은 팬 속에서 부드럽게 끓고 있는 양파와 다시 육수 위에 조심스럽게 나란히 놓습니다. 돈카츠가 액체에 닿으며 부드럽게 지글거립니다. 황금빛 빵가루가 가장자리부터 육수를 살짝 흡수하기 시작합니다. 초현실적인 애니메이션 스타일, 따뜻한 호박색 주방 조명, 클로즈업 영화적 구도. ### 장면 7 — 달걀물 붓기 작은 그릇에 담긴 황금빛 달걀물을 팬 속의 돈카츠와 양파 위로 나선형을 그리며 천천히 일정하게 붓습니다. 달걀물이 얇은 줄기를 이루며 표면 전체로 자연스럽게 퍼지고, 열이 닿는 가장자리부터 불투명해지기 시작합니다. 초현실적인 애니메이션 스타일, 따뜻한 스토브 조명, 매크로 영화적 디테일. ### 장면 8 — 달걀이 천천히 익기 약한 불 위의 얕은 팬 안에서, 부어 넣은 달걀이 돈카츠와 양파 표면 전체에 걸쳐 천천히 응고됩니다. 가장자리는 부드러운 황금빛 커스터드 형태로 굳고, 중앙은 약간 덜 익어 떨리는 상태를 유지합니다. 부드러운 김이 피어오릅니다. 젓지 마십시오. 잔열을 통해 달걀이 자연스럽게 익습니다. 초현실적인 애니메이션 스타일, 부드럽고 따뜻한 빛, 친밀한 클로즈업 구도. ### 장면 9 — 그릇에 밥 담기 스테인리스 카운터 위에 놓인 깨끗한 흰색 도자기 돈부리 그릇. 밥 주걱으로 김이 모락모락 나는 일본식 단립종 쌀밥을 듬뿍 떠서 그릇에 조심스럽게 담습니다. 쌀알이 약간 윤기가 나며 촘촘하면서도 폭신하게 담깁니다. 표면에서 가벼운 김이 피어오릅니다. 초현실적인 애니메이션 스타일, 깨끗하고 부드러운 주방 조명, 클로즈업 영화적 연출. ### 장면 10 — 밥 위에 돈카츠와 달걀 올리기 애니메이션 스타일의 손이 젓가락을 사용하여 팬에서 부드럽게 익은 달걀과 돈카츠 혼합물을 돈부리 그릇 속 밥 위로 조심스럽게 미끄러뜨리듯 올립니다. 달걀이 부드러운 물결을 이루며 밥 위를 덮습니다. 육수가 가장자리에서 밥으로 살짝 스며듭니다. 두 층 모두에서 김이 피어오릅니다. 초현실적인 애니메이션 스타일, 따뜻한 오버헤드 조명, 클로즈업 영화적 디테일. ### 장면 11 — 달걀 소스가 자연스럽게 자리 잡기 완성된 가츠동 그릇이 카운터 위에 가만히 놓여 있습니다. 부드러운 황금빛 달걀 소스가 돈카츠 조각과 밥 위로 천천히 자리 잡으며 자연스럽게 퍼지고, 가장자리에 부드럽게 고입니다. 표면은 살짝 떨리며 반쯤 익은 상태로 육수 때문에 윤기가 흐릅니다. 손은 보이지 않으며, 움직임이 있는 정물화 같은 느낌입니다. 초현실적인 애니메이션 스타일, 따뜻한 확산 조명, 느린 영화적 푸시인. ### 장면 12 — 완성된 가츠동 제시 나무 표면 위에 놓인 전통적인 청백색 도자기 돈부리 그릇에 아름답게 완성된 가츠동이 담겨 있습니다. 윤기 나는 흰 쌀밥 위에 바삭한 돈카츠 조각과 황금빛 부드러운 달걀이 덮여 있습니다. 작은 미쓰바(참나물) 잎 하나가 정교하게 위에 올려져 있습니다. 김이 우아하게 피어오릅니다. 카메라가 영화적인 아크를 그리며 그릇 주위를 천천히 돕니다. 초현실적인 애니메이션 스타일, 따뜻하고 드라마틱한 음식 사진 조명, 영화적 연출. ## 오디오: 밝고 경쾌한 여름 점심 분위기를 자아내는, 가벼운 고토(일본 전통 악기) 연주와 차임벨 같은 타악기가 곁들여진 업비트 일본 시티팝 멜로디(80년대풍). 활기찬 요리 속도에 맞춰 110~120 BPM 정도의 템포. 전반적으로 만족스러운 ASMR 요리 효과음: - 도마 위에서 들리는 날카롭고 리듬감 있는 칼질 소리 - 면 삶는 물이 빠르게 끓어오르는 소리 - 유리 볼에 얼음 조각이 떨어지는 경쾌한 소리 - 차가운 흐르는 물에 면을 헹굴 때 나는 물소리 - 완성된 그릇을 카운터에 놓을 때 나는 부드러운 도자기 부딪히는 소리 - 마지막 소리: 완성된 히야시 츄카가 공개될 때 나는 가벼운 풍경 소리 한 번, 상쾌한 여름 바람을 연상시킴 ## 피해야 할 사항: - 최종 영상에 스토리보드 패널, 패널 테두리, 패널 번호, 화살표, 카메라 노트, 액션 노트, 캡션, 자막, UI 오버레이 또는 어떠한 주석도 표시하지 마십시오. - 입력으로 전달된 참조 이미지나 스케치를 복제하거나 표시하지 마십시오. - 참조용으로 사용된 소스 자료, 와이어프레임 또는 일러스트레이션을 표시하지 마십시오.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064240589177344000/img/06Kh6I2UE8HfVRgA.jpg" width="600" alt="애니메이션 스타일 돈카츠 조리 과정">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d285c79ccbbf4913b61d846e072bb31/thumbnails/thumbnail.jpg" width="600" alt="애니메이션 스타일 돈카츠 조리 과정">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5877)**
 
@@ -3079,7 +3079,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 키스 금지, 대담하거나 부적절한 행동 금지, 과장된 표정 금지, 흐림 현상 없음, 왜곡 없음, 추가 팔다리 없음, 저화질 금지
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064227920818622464/pu/img/dnjJkjDBCo-NdEKq.jpg" width="600" alt="로맨틱한 카페 저녁 데이트">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57b7e86b6080477b150a4d094adccf81/thumbnails/thumbnail.jpg" width="600" alt="로맨틱한 카페 저녁 데이트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5852)**
 
@@ -3098,7 +3098,7 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 첨부된 사진을 주인공으로 사용하고, 영상 전체에서 얼굴과 정체성을 정확하게 유지할 것. 9:16 비율의 세로형 스마트폰 원본 UGC 영상, 핸드헬드 촬영, 손떨림 보정 없음, 브라질 상파울루의 야간 배경, 수백 개의 불 켜진 아파트 창문이 밀집된 고층 빌딩 숲, 깜빡이는 붉은색 타워 조명, 짙은 남색 밤하늘. 25층 높이의 올리브 그린색 옥상 헬리패드, 흰색 H 표시와 노란색 원형 표시. 주인공이 가장자리에 서 있고 3~4명의 남성 친구들이 환호하며 휴대폰으로 촬영 중. 주인공이 갑자기 옥상에서 뛰어내려 빠른 자유 낙하를 시작함. 카메라가 위에서 아래로 추적하며 건물 외벽이 흐릿하게 지나가고 거리가 빠르게 가까워짐. 위에서 내려다본 항공 뷰에는 거리 위에 밝은 파란색과 무지개색 LED 조명으로 둘러싸인 거대한 직사각형 탄성 스턴트 패드가 보이며, 주인공이 그 중심을 향해 정확히 낙하함. 거대한 충격: 탄성 표면이 아래로 극적으로 늘어나고 LED가 번쩍이며 카메라가 흔들린 뒤, 주인공을 폭발적으로 다시 위로 튕겨 올림. 추적 샷은 주인공이 건물 옆을 따라 솟구쳐 오르는 모습을 담음. 불 켜진 창문들이 층층이 지나가고, 주인공의 얼굴, 들뜬 표정, 양팔을 벌린 모습, 바람에 휘날리는 옷과 머리카락이 보임. 주인공이 옥상 높이까지 도달하여 밤하늘을 배경으로 잠시 실루엣을 드러낸 뒤 헬리패드에 다시 착지함. 친구들이 그에게 달려와 축하하며 점프하고 소리를 지르며 휴대폰으로 촬영함. 진정한 흥분과 웃음이 가득한 혼란스러운 단체 포옹으로 마무리. 스타일: 실제 바이럴 스릴 추구 UGC, 사실적인 물리 효과, 저조도 센서 노이즈, 모든 샷에 포함된 핸드헬드 흔들림, 자연스러운 모션 블러, 위험하고 즉흥적인 에너지, 색 보정 없음, 필터 없음, 영화 같은 느낌 없음, VFX 없음, 슬로우 모션 없음, AI 얼굴 없음, 비현실적인 물리 효과 없음.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064221349246390272/pu/img/oGDrg4-iD68FvMiQ.jpg" width="600" alt="야간 옥상 스턴트 UGC">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6ead3f5036903116eb24dc156a1ed6cb/thumbnails/thumbnail.jpg" width="600" alt="야간 옥상 스턴트 UGC">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5856)**
 
@@ -3172,7 +3172,7 @@ K-pop 솔로 댄스를 위한 색연필 스케치 스타일의 안무 시트 인
    참조 이미지의 캐릭터나 피사체를 스크린 외부의 물리적 실체로 배치하지 마십시오. 참조 이미지는 거대한 비전의 디스플레이 영상으로만 사용하십시오. 캐릭터를 주요 초점으로 만들지 마십시오. 관람객을 너무 선명하게 보여주지 마십시오. 도시 전체를 처음부터 건설하지 마십시오. 스크린을 너무 넓게 만들지 마십시오. 텍스트, 로고, 워터마크, 라벨, 자막, 브랜드 로고, 실제 이벤트 이름, 실제 회사 이름을 보여주지 마십시오. BGM, 노래, 라이브 해설, 내레이션을 포함하지 마십시오. 너무 어둡거나 칙칙한 색상, 낮은 대비, 지저분한 LED 디스플레이, 왜곡된 참조 이미지, 흰색 배경의 단조로운 디스플레이는 피하십시오.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064180565163843584/img/FoSS66gO-zJRe8-H.jpg" width="600" alt="도심 광장 대형 LED 비전 조립">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a2579a2aaa9446bab579789775b9aa6a/thumbnails/thumbnail.jpg" width="600" alt="도심 광장 대형 LED 비전 조립">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5827)**
 
@@ -3191,7 +3191,7 @@ K-pop 솔로 댄스를 위한 색연필 스케치 스타일의 안무 시트 인
 웅장한 고딕 양식의 대성당 내부를 비추는 15초 분량의 시네마틱 트래킹 샷입니다. 보바통 아카데미 출신의 아름다운 젊은 마녀가 중앙에 서 있으며, 우아한 파우더 블루 색상의 맞춤 코트와 그에 어울리는 챙이 넓은 뾰족한 모자, 실크 넥타이를 착용하고 있습니다. 검은 망토를 두른 가면 쓴 인물들이 위협적인 원을 그리며 그녀를 에워쌉니다. 그녀가 우아하게 발레 동작처럼 회전하며 강력하고 신비로운 푸른 마법의 소용돌이를 일으키자 카메라가 부드럽게 그녀 주위를 돕니다. 마법 에너지에서 수백 마리의 빛나는 흰 나비가 쏟아져 나와 그녀 주위를 소용돌이치며 검은 인물들을 뒤로 밀어냅니다. 머리 위로는 수정 샹들리에가 반짝이고, 아치형 창문은 분위기 있는 푸른색과 금색 빛을 드리우며, 공기 중에는 마법 입자가 가득합니다. 카메라는 극적인 광각 뷰에서 클로즈업으로 전환되며, 빛나는 흰 나비 한 마리가 그녀의 손끝에 살포시 내려앉습니다. 강렬한 움직임, 극적인 로우 앵글, 볼류메트릭 라이팅, 포토리얼리스틱 판타지 영화 미학, 초정밀 텍스처, 얕은 피사계 심도, 아나모픽 시네마틱 구도, PBR 재질, 서브서피스 스캐터링, 하이퍼 리얼리스틱, 8K, 24fps.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064179490889359360/pu/img/tF1wj_83WMzpMbla.jpg" width="600" alt="보바통 마녀의 마법 소용돌이">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21b63242ca006ba6455990fb14d1155d/thumbnails/thumbnail.jpg" width="600" alt="보바통 마녀의 마법 소용돌이">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5849)**
 
@@ -3218,7 +3218,7 @@ K-pop 솔로 댄스를 위한 색연필 스케치 스타일의 안무 시트 인
 부정 프롬프트: 인물 변화, 다른 인종, 더 젊거나 늙은 얼굴, 흐릿한 얼굴, 일그러진 손, 손가락 개수 오류, 잘못된 신체 구조, 낮은 해상도, 부자연스러운 미소, 시계 누락, 오른손에 착용한 시계, 보이지 않는 랜드마크, 중복된 장소, 의상 섞임, 플라스틱 같은 피부, 캐릭터를 대체하는 무작위 인물.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2064177287868874752/pu/img/_kteyHUBau-hwTH2.jpg" width="600" alt="글로벌 여행 브이로거 하이퍼랩스">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a30e2183bacf6015f7a654782ce4601/thumbnails/thumbnail.jpg" width="600" alt="글로벌 여행 브이로거 하이퍼랩스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5864)**
 
@@ -3237,7 +3237,7 @@ K-pop 솔로 댄스를 위한 색연필 스케치 스타일의 안무 시트 인
 보정되지 않은 iPhone 핸드헬드 영상 스타일, 모든 카메라 설정은 자동이며 후반 색 보정이나 효과는 없음. 실제 핸드헬드 특유의 미세한 떨림과 촬영자(남성)의 숨소리가 포함되며, 지하철 운행으로 인해 렌즈가 자연스럽게 흔들리거나 기울어졌다가 빠르게 복구됨. 자동 초점은 특히 신체나 손의 움직임 중에 가끔 초점을 찾지 못하거나 지연되거나 잠시 흐려짐. 자동 화이트 밸런스는 객차 내 형광등과 터널 조명 사이에서 자연스럽게 차가운 톤과 따뜻한 톤으로 전환됨. 전반적으로 평면적인 이미지로, 실제 렌즈 플레어, 약간의 가장자리 색수차, 모션 블러 결함을 그대로 유지함. 약간의 수직 스미어, 색 번짐, 그레인 노이즈, 고대비 가장자리의 보라색/녹색 프린징 등 CCD 센서 효과를 시뮬레이션함. 카메라에 내장된 자연스러운 주변 소음만 사용: 낮은 지하철 소음, 바퀴와 레일의 마찰음, 승객들의 속삭임, 옷 스치는 소리; 가속하거나 크게 움직일 때 마이크가 약간 왜곡될 수 있음. 앉아 있는 남성의 시점에서 본 1인칭 POV(낮은 각도에서 위를 올려다보는 시선으로 시작), 남성의 본능적인 반응을 따라가는 카메라 움직임. 빈자리 없이 매우 붐비는 객차, 사실감을 위해 배경은 승객들과 흐릿한 군중으로 가득 참. 위치 파악을 위해 남성의 다리, 무릎 또는 손의 가장자리가 가끔 보임. 15초 타임라인: (시퀀스: 일반 거리 → 여성이 가슴 쪽으로 유혹하듯 다가오지만 절대 닿지 않음 → 남성이 참다가 자리를 양보함 + 놀란 표정 → 여성이 자리에 앉아 웃으며 마스크를 벗음 → 남성이 어깨를 만지려 하자 여성이 손 소독제를 사용함): 0초: 앉아 있는 낮은 POV에서 스트랩을 잡고 남성을 바라보는 흰색 마스크를 쓴 젊은 아시아 여성 쪽으로 카메라가 위를 향함. 빈자리 없음. 일반적인 거리. 남성이 알아차리고, 여성은 장난스럽게 눈을 찡긋하며 유혹적인 리듬으로 카메라에 천천히 다가옴(가슴이 가까워지지만 안전 거리는 유지). 자동 초점이 여성의 상체에 고정됨; 약간의 과다 노출, CCD 그레인 및 색 번짐이 보임. 1~4초: 여성이 천천히 다가오기를 지속하며 가슴 거리는 20cm 이내지만 절대 닿지 않음. 남성은 참음(미세한 떨림이 긴장감을 반영하며, 낮은 시선으로 인해 렌즈가 잠시 아래로 향함). 자동 초점이 탐색하다가 뒤로 물러남; CCD 수직 스미어 보임. 옷 스치는 소리와 남성의 억눌린 숨소리/심장 박동 소리가 들림. 열차의 흔들림으로 프레임이 기울어짐. 5~7초: 남성이 양보함: POV가 올라가고 흔들리며(급하게 일어남), 오른쪽으로 움직여 비켜남. 여성이 남성이 비운 자리에 자연스럽게 앉음(측면 후방 POV에서 보임). 만원 객차 환경이라 자리를 차지하는 모습이 인상적임. 화이트 밸런스가 약간 변하며, 프레임이 노출 부족 상태가 되었다가 보정됨. 8~10초: 반전 디테일: 남성이 어색하게 뒤를 돌아봄(POV); 여성은 마스크 아래로 환하게 웃음. 남성이 '왜 내 자리를 뺏어요?'라고 물으며 그녀의 어깨를 만지려 손을 뻗음. 여성은 웃으며 뒤로 기대고, 장난스러운 눈빛으로 흰색 스프레이 소독제를 꺼내 그의 손에 두 번 뿌림(스프레이 소리와 미스트가 보임). 손을 움직이는 동안 자동 초점 지연 발생. 11~13초: 여성이 더 명확하게 웃으며 장난스럽게 고개를 저음. 유혹적인 반전. 12초경, 그녀가 천천히 마스크를 벗으며 섬세한 얼굴과 환한 미소를 드러냄. 남성이 두 번째로 뒤를 돌아봄(자연스러운 회전). 렌즈 흔들림과 숨소리가 지속됨. 빛 번짐과 CCD 프린징. 열차 소음 위로 소녀의 방울 같은 웃음소리가 들림. 14~15초: 미소가 약간 옅어지며 장난스러운 미소로 바뀜. 남성이 소독된 자신의 손을 내려다봄. 카메라가 아래로 향했다가 다시 올라옴(무게 중심 이동). 약간의 프레임 불완전함. 일관된 날것의 핸드헬드 영상 질감. 모든 카메라 동작은 iPhone의 물리적 특성을 모방하여 낮은 각도의 POV 상호작용을 완벽하게 재현함.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064140494301446144/img/CqAWvShyAcyBIuQK.jpg" width="600" alt="지하철 POV 상호작용 장난 프롬프트">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37e7d2f1e4252c37acb84e83bf605420/thumbnails/thumbnail.jpg" width="600" alt="지하철 POV 상호작용 장난 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5874)**
 
@@ -3271,7 +3271,7 @@ K-pop 솔로 댄스를 위한 색연필 스케치 스타일의 안무 시트 인
 }
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064047776715948032/img/_GjONmRlb_itOuN0.jpg" width="600" alt="열대우림 여행 브이로그 스크립트">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b9d9e4d037d3248fbd1543e1d5bd8adc/thumbnails/thumbnail.jpg" width="600" alt="열대우림 여행 브이로그 스크립트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5825)**
 
@@ -3290,7 +3290,7 @@ K-pop 솔로 댄스를 위한 색연필 스케치 스타일의 안무 시트 인
 위에서 내려다본 블랙 커피 잔, 손으로 우유를 붓고 있으며, 우유가 커피 속으로 퍼지며 소용돌이치는 모습
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064052894194671616/img/-lINHr1zuS4zyS3w.jpg" width="600" alt="커피와 우유가 섞이는 매크로 샷">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d193bb680075e25184c7772764472e17/thumbnails/thumbnail.jpg" width="600" alt="커피와 우유가 섞이는 매크로 샷">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5815)**
 
@@ -3309,7 +3309,7 @@ K-pop 솔로 댄스를 위한 색연필 스케치 스타일의 안무 시트 인
 첨부된 THE CHURRO MAKER 스토리보드를 정확한 시각적 참조 자료로 사용하세요. 8개의 샷을 모두 그대로 따라 12초 분량의 16:9 픽사 3D 애니메이션 시퀀스를 제작하세요. 동일한 젊은 스페인 상인, 흰색 티셔츠, 빨간색 앞치마, 밝은 야외 츄러스 카트, 햇살 가득한 자갈길을 포함해야 합니다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064031934842331136/img/AmC_k6EYT7L7ZUqC.jpg" width="600" alt="픽사 스타일 츄러스 메이커 애니메이션">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/829d66aec69f376fadddce3209613317/thumbnails/thumbnail.jpg" width="600" alt="픽사 스타일 츄러스 메이커 애니메이션">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5831)**
 
@@ -3377,6 +3377,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-12T08:46:36.885Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-12T15:18:42.110Z</sub>
 
 </div>
