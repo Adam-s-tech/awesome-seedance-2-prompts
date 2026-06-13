@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **3895** |
+| 📝 Gesamtanzahl Prompts | **3894** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-06-13** |
 
@@ -427,25 +427,6 @@ Eine hyperrealistische Sequenz, die zeigt, wie ein fotorealistischer Formel-1-Re
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=5987)**
 
 **Autor:** [Iqra Saifi](https://x.com/IqraSaifiii) | **Quelle:** [Link](https://x.com/IqraSaifiii/status/2065495184696328509) | **Veröffentlicht:** Jun 12, 2026
-
----
-### Schneller Wechsel des Modestils
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein rasanter Fashion-Prompt, der ein Model zeigt, das in 10 Sekunden durch 20 verschiedene Stile wechselt, unter Verwendung von Hard Cuts.
-
-#### 📝 Prompt
-
-```
-Ein Model wechselt mit einem Fingerschnippen das Outfit – 20 Stile in 10 Sekunden, Hard Cuts
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b94d36e9746a758e052fd8937e717b5/thumbnails/thumbnail.jpg" width="600" alt="Schneller Wechsel des Modestils">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=5989)**
-
-**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Quelle:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **Veröffentlicht:** Jun 12, 2026
 
 ---
 ### Anime-Kopfgeldjäger-Kampfsequenz
@@ -3310,6 +3291,25 @@ Frame 1: 28-mm-Weitwinkelobjektiv, schneller und aggressiver Zoom auf Bodenhöhe
 **Autor:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **Quelle:** [Link](https://x.com/itsshara_ai/status/2064256013344338058) | **Veröffentlicht:** Jun 9, 2026
 
 ---
+### Cinematic Beverage Commercial Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine detaillierte Strategie zur Erstellung eines 15-sekündigen, cineastischen Werbespots für Erfrischungsgetränke, inklusive Anweisungen zur Keyframe-Verarbeitung, Objektspezifität und dynamischen Kamerabewegungen.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie die 9 bereitgestellten Referenzbilder als zeitlich geordnete 16:9-Realvideo-Keyframes, nicht als Storyboard-Blatt. Jedes Referenzbild repräsentiert die beabsichtigte Vollbildkomposition für den jeweiligen Moment. Zeigen Sie keine Panel-Rahmen, Panel-Nummern, Bildunterschriften, Rasterlayouts oder Benutzeroberflächen. Nahaufnahme eines hohen, klaren Cola-Glases / Longdrink-Glases, gefüllt mit dunkler, sprudelnder cola-artiger Limonade und Eis. Das Glas muss schlank und höher als ein Whiskey-Tumbler sein. Das Glas darf kein aufgedrucktes Logo oder Text enthalten. Nur die Dose darf das BAD SIP-Logo tragen. Jeder Abschnitt muss eine eigene Bewegungssprache aufweisen. Variieren Sie zwischen explosiven Makro-Aufprall-Effekten, sanftem Blasenaufstieg, seitlichem Gleiten, Produkt-Zoom, Shelf-Grab-Tracking, Glas-Orbit, Handheld-Food-Push, Fokusverlagerung, nahezu statischer Hero-Anordnung und einem abschließenden, subtilen Energieimpuls.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781076641066_kpdh8o_HKWtqnubEAA0cVg.jpg" width="600" alt="Cinematic Beverage Commercial Video Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=5875)**
+
+**Autor:** [フッキー / 世界観ビジネス × AI自動化](https://x.com/fukky_v) | **Quelle:** [Link](https://x.com/fukky_v/status/2064247814369276055) | **Veröffentlicht:** Jun 9, 2026
+
+---
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -3371,6 +3371,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-13T08:07:43.000Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-13T10:47:53.635Z</sub>
 
 </div>

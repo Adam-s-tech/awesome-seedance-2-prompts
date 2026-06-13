@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **3895** |
+| 📝 Total des prompts | **3894** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-06-13** |
 
@@ -427,25 +427,6 @@ Une séquence hyper-réaliste montrant une voiture de Formule 1 photoréaliste �
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=5987)**
 
 **Auteur:** [Iqra Saifi](https://x.com/IqraSaifiii) | **Source:** [Link](https://x.com/IqraSaifiii/status/2065495184696328509) | **Publié:** Jun 12, 2026
-
----
-### Changement de style mode ultra-rapide
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt mode haute vitesse montrant un mannequin changeant de style 20 fois en 10 secondes grâce à des coupes franches.
-
-#### 📝 Prompt
-
-```
-Un mannequin change de tenue en un claquement de doigts — 20 styles en 10 secondes, coupes franches
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b94d36e9746a758e052fd8937e717b5/thumbnails/thumbnail.jpg" width="600" alt="Changement de style mode ultra-rapide">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=5989)**
-
-**Auteur:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **Publié:** Jun 12, 2026
 
 ---
 ### Séquence de combat d'un chasseur de primes façon anime
@@ -3311,6 +3292,25 @@ Cadre 1 : Zoom avant rapide et agressif au grand angle 28 mm au niveau du sol, c
 **Auteur:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **Source:** [Link](https://x.com/itsshara_ai/status/2064256013344338058) | **Publié:** Jun 9, 2026
 
 ---
+### Prompt pour une publicité cinématographique de boisson
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une stratégie détaillée pour créer une publicité cinématographique de soda de 15 secondes, incluant la gestion des images clés, la spécificité des objets et des instructions de mouvement de caméra dynamique.
+
+#### 📝 Prompt
+
+```
+Utilisez les 9 images de référence fournies comme images clés vidéo 16:9 ordonnées chronologiquement, et non comme une planche de storyboard. Chaque image de référence représente la composition plein écran souhaitée pour ce moment précis. N'affichez pas de bordures de panneaux, de numéros de panneaux, de légendes, de grille de mise en page ou d'interface utilisateur. Gros plan sur un grand verre à soda transparent / verre highball rempli de soda pétillant foncé type cola et de glaçons. Le verre doit être fin et plus haut qu'un verre à whisky. Le verre ne doit comporter aucun logo ni texte imprimé. Seule la canette peut porter le logo BAD SIP. Chaque section doit présenter un langage de mouvement distinct. Variez entre un impact macro explosif, une dérive fluide de bulles, un glissement latéral, un zoom avant sur le produit, un suivi de saisie en rayon, une orbite autour du verre, un mouvement de caméra à l'épaule, une mise au point sélective, une disposition héroïque quasi statique et une impulsion d'énergie subtile finale.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781076641066_kpdh8o_HKWtqnubEAA0cVg.jpg" width="600" alt="Prompt pour une publicité cinématographique de boisson">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=5875)**
+
+**Auteur:** [フッキー / 世界観ビジネス × AI自動化](https://x.com/fukky_v) | **Source:** [Link](https://x.com/fukky_v/status/2064247814369276055) | **Publié:** Jun 9, 2026
+
+---
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -3372,6 +3372,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-13T08:07:43.910Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-13T10:47:54.790Z</sub>
 
 </div>

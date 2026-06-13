@@ -68,7 +68,7 @@
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **3895** |
+| 📝 提示詞總數 | **3894** |
 | ⭐ 精選提示詞 | **6** |
 | 🔄 最後更新 | **2026-06-13** |
 
@@ -427,25 +427,6 @@
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5987)**
 
 **作者:** [Iqra Saifi](https://x.com/IqraSaifiii) | **來源:** [Link](https://x.com/IqraSaifiii/status/2065495184696328509) | **發布時間:** Jun 12, 2026
-
----
-### 快速時尚風格切換
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個高節奏的時尚提示詞，展示模特兒在 10 秒內透過硬切（hard cuts）變換 20 種不同風格。
-
-#### 📝 提示詞
-
-```
-時尚模特兒彈指間變換穿搭 —— 10 秒內呈現 20 種風格，採用硬切手法
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b94d36e9746a758e052fd8937e717b5/thumbnails/thumbnail.jpg" width="600" alt="快速時尚風格切換">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5989)**
-
-**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **發布時間:** Jun 12, 2026
 
 ---
 ### 動漫賞金獵人戰鬥場景
@@ -3315,6 +3296,25 @@ Reggie 從水上巴士（vaporetto）走下或來到運河邊，調整了一下�
 **作者:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **來源:** [Link](https://x.com/itsshara_ai/status/2064256013344338058) | **發布時間:** Jun 9, 2026
 
 ---
+### 電影級飲料廣告影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份用於製作 15 秒電影級汽水廣告的詳細策略，包含關鍵影格處理、物件細節指定以及動態運鏡指令。
+
+#### 📝 提示詞
+
+```
+請將提供的 9 張參考圖片視為按時間順序排列的 16:9 真實影片關鍵影格，而非分鏡腳本。每張參考圖片皆代表該時刻的全螢幕構圖。請勿顯示面板邊框、面板編號、標題、網格佈局或 UI。畫面為高透明可樂杯 / 高球杯的特寫，杯中裝滿深色氣泡可樂與冰塊。杯子必須纖細且比威士忌岩石杯更高。杯身不得印有任何標誌或文字。僅有罐裝產品可印有 BAD SIP 標誌。每個片段都必須具備獨特的運鏡語言。請交替運用爆發性微距衝擊、流暢氣泡漂浮、橫向滑動、產品推近、貨架抓取追蹤、環繞杯身運鏡、手持食物推入、焦點變換、近乎靜態的主體排列，以及最後細微的能量脈動。
+```
+
+<img src="https://cms-assets.youmind.com/media/1781076641066_kpdh8o_HKWtqnubEAA0cVg.jpg" width="600" alt="電影級飲料廣告影片提示詞">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=5875)**
+
+**作者:** [フッキー / 世界観ビジネス × AI自動化](https://x.com/fukky_v) | **來源:** [Link](https://x.com/fukky_v/status/2064247814369276055) | **發布時間:** Jun 9, 2026
+
+---
 ---
 
 ## 📚 更多提示詞
@@ -3376,6 +3376,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-13T08:07:35.548Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-13T10:47:43.545Z</sub>
 
 </div>

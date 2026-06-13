@@ -68,7 +68,7 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **3895** |
+| 📝 プロンプト総数 | **3894** |
 | ⭐ おすすめプロンプト | **6** |
 | 🔄 最終更新 | **2026-06-13** |
 
@@ -427,25 +427,6 @@ Seedance 2.0 を使用して、夜のシネマティックなストリートレ�
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5987)**
 
 **作者:** [Iqra Saifi](https://x.com/IqraSaifiii) | **ソース:** [Link](https://x.com/IqraSaifiii/status/2065495184696328509) | **公開日:** Jun 12, 2026
-
----
-### 瞬時に切り替わるファッションスタイル
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ハードカットを用いて、10 秒間で 20 種類のスタイルを次々と披露するモデルの高速ファッションプロンプトです。
-
-#### 📝 プロンプト
-
-```
-指パッチンで衣装が切り替わるファッションモデル — 10 秒間で 20 スタイルをハードカットで表現
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b94d36e9746a758e052fd8937e717b5/thumbnails/thumbnail.jpg" width="600" alt="瞬時に切り替わるファッションスタイル">
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5989)**
-
-**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **ソース:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **公開日:** Jun 12, 2026
 
 ---
 ### アニメ風賞金稼ぎの戦闘シーン
@@ -3318,6 +3299,25 @@ Reggie が水上バス（ヴァポレット）から運河沿いの道に降り�
 **作者:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **ソース:** [Link](https://x.com/itsshara_ai/status/2064256013344338058) | **公開日:** Jun 9, 2026
 
 ---
+### シネマティックな飲料コマーシャル動画用プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 15 秒間のシネマティックな炭酸飲料コマーシャルを作成するための詳細な戦略。キーフレームの扱い、被写体の具体性、ダイナミックなカメラワークの指示を含みます。
+
+#### 📝 プロンプト
+
+```
+提供された 9 枚の参照画像は、ストーリーボードのシートとしてではなく、時系列に沿った 16:9 の実写動画用キーフレームとして使用してください。各参照画像は、その瞬間のフルスクリーンでの構図を意図しています。パネルの境界線、パネル番号、キャプション、グリッドレイアウト、UI は表示しないでください。ダークな炭酸飲料と氷が入った、背の高い透明なコーラグラス／ハイボールタンブラーのクローズアップ。グラスはウィスキー用のロックグラスよりも細長く、背の高いものにしてください。グラスにはロゴや文字を一切印刷しないでください。BAD SIP のロゴは缶にのみ表示します。各セクションには明確な動きの言語を持たせてください。爆発的なマクロインパクト、滑らかな泡の漂い、横方向へのスライド、製品へのプッシュイン、棚からの取り出しを追うトラッキング、グラスの周回、手持ちでのフードプッシュ、ラックフォーカス、ほぼ静止したヒーロー配置、そして最後に繊細なエネルギーの鼓動を変化させてください。
+```
+
+<img src="https://cms-assets.youmind.com/media/1781076641066_kpdh8o_HKWtqnubEAA0cVg.jpg" width="600" alt="シネマティックな飲料コマーシャル動画用プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=5875)**
+
+**作者:** [フッキー / 世界観ビジネス × AI自動化](https://x.com/fukky_v) | **ソース:** [Link](https://x.com/fukky_v/status/2064247814369276055) | **公開日:** Jun 9, 2026
+
+---
 ---
 
 ## 📚 その他のプロンプト
@@ -3379,6 +3379,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-13T08:07:36.512Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-13T10:47:44.727Z</sub>
 
 </div>

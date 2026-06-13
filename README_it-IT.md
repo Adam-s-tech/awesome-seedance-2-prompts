@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **3895** |
+| 📝 Totale prompt | **3894** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-06-13** |
 
@@ -427,25 +427,6 @@ Una sequenza iper-realistica che mostra un'auto di Formula 1 fotorealistica emer
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=5987)**
 
 **Autore:** [Iqra Saifi](https://x.com/IqraSaifiii) | **Fonte:** [Link](https://x.com/IqraSaifiii/status/2065495184696328509) | **Pubblicato:** Jun 12, 2026
-
----
-### Cambio rapido di stile moda
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di moda ad alta velocità che mostra una modella che cambia 20 stili diversi in 10 secondi utilizzando tagli netti.
-
-#### 📝 Prompt
-
-```
-Una modella cambia outfit in uno schiocco di dita: 20 stili in 10 secondi, con tagli netti
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b94d36e9746a758e052fd8937e717b5/thumbnails/thumbnail.jpg" width="600" alt="Cambio rapido di stile moda">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=5989)**
-
-**Autore:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fonte:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **Pubblicato:** Jun 12, 2026
 
 ---
 ### Sequenza di combattimento anime con cacciatore di taglie
@@ -3331,6 +3312,25 @@ Fotogramma 1: obiettivo grandangolare da 28 mm con zoom in rapido e aggressivo a
 **Autore:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **Fonte:** [Link](https://x.com/itsshara_ai/status/2064256013344338058) | **Pubblicato:** Jun 9, 2026
 
 ---
+### Prompt per video pubblicitario cinematografico di una bevanda
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una strategia dettagliata per creare uno spot pubblicitario cinematografico di 15 secondi per una bibita, che include la gestione dei keyframe, la specificità degli oggetti e istruzioni per movimenti di camera dinamici.
+
+#### 📝 Prompt
+
+```
+Utilizza le 9 immagini di riferimento fornite come keyframe video reali in formato 16:9 ordinati cronologicamente, non come uno storyboard. Ogni immagine di riferimento rappresenta la composizione a schermo intero desiderata per quel momento. Non mostrare bordi dei pannelli, numeri di pannello, didascalie, layout a griglia o interfaccia utente. Primo piano di un bicchiere alto e trasparente da bibita / tumbler alto riempito di una bevanda scura gassata tipo cola e ghiaccio. Il bicchiere deve essere sottile e più alto di un bicchiere da whisky. Il bicchiere non deve avere loghi o scritte stampate sopra. Solo la lattina può riportare il logo BAD SIP. Ogni sezione deve avere un linguaggio di movimento distinto. Alterna tra impatto macro esplosivo, deriva fluida delle bollicine, scorrimento laterale, zoom in sul prodotto, tracciamento dell'afferrata dallo scaffale, orbita attorno al bicchiere, ripresa a mano del cibo, messa a fuoco selettiva (rack focus), disposizione hero quasi statica e un sottile impulso energetico finale.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781076641066_kpdh8o_HKWtqnubEAA0cVg.jpg" width="600" alt="Prompt per video pubblicitario cinematografico di una bevanda">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=5875)**
+
+**Autore:** [フッキー / 世界観ビジネス × AI自動化](https://x.com/fukky_v) | **Fonte:** [Link](https://x.com/fukky_v/status/2064247814369276055) | **Pubblicato:** Jun 9, 2026
+
+---
 ---
 
 ## 📚 Altri prompt disponibili
@@ -3392,6 +3392,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-13T08:07:44.754Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-13T10:47:56.091Z</sub>
 
 </div>

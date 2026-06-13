@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **3895** |
+| 📝 Toplam İstem | **3894** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-06-13** |
 
@@ -427,25 +427,6 @@ Dağınık bir mimar masası üzerindeki detaylı bir kurşun kalem çiziminden 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5987)**
 
 **Yazar:** [Iqra Saifi](https://x.com/IqraSaifiii) | **Kaynak:** [Link](https://x.com/IqraSaifiii/status/2065495184696328509) | **Yayınlandı:** Jun 12, 2026
-
----
-### Hızlı Moda Stili Değişimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir modelin 10 saniye içinde 20 farklı stili sert kesişmelerle sergilediği yüksek hızlı bir moda istemi.
-
-#### 📝 İstem
-
-```
-Bir moda modeli parmak şıklatmasıyla kıyafet değiştiriyor — 10 saniyede 20 stil, sert kesişmeler
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b94d36e9746a758e052fd8937e717b5/thumbnails/thumbnail.jpg" width="600" alt="Hızlı Moda Stili Değişimi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5989)**
-
-**Yazar:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Kaynak:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **Yayınlandı:** Jun 12, 2026
 
 ---
 ### Anime Ödül Avcısı Dövüş Sekansı
@@ -3308,6 +3289,25 @@ Kare 1: 28mm geniş açılı lens ile zemin seviyesinden hızlı ve agresif yak�
 **Yazar:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **Kaynak:** [Link](https://x.com/itsshara_ai/status/2064256013344338058) | **Yayınlandı:** Jun 9, 2026
 
 ---
+### Sinematik İçecek Reklamı Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Keyframe yönetimi, nesne belirginliği ve dinamik kamera hareketi talimatlarını içeren 15 saniyelik sinematik bir gazlı içecek reklamı oluşturmaya yönelik detaylı bir strateji.
+
+#### 📝 İstem
+
+```
+Sağlanan 9 referans görselini bir storyboard sayfası olarak değil, zamana göre sıralanmış 16:9 gerçek video keyframe'leri olarak kullanın. Her referans görseli, o an için hedeflenen tam ekran kompozisyonu temsil eder. Panel kenarlıklarını, panel numaralarını, altyazıları, ızgara düzenini veya kullanıcı arayüzünü göstermeyin. Koyu renkli, gazlı, kola benzeri bir içecek ve buzla dolu uzun, şeffaf bir kola bardağının / highball bardağının yakın çekimi. Bardak ince olmalı ve viski bardağından daha uzun olmalıdır. Bardağın üzerinde herhangi bir logo veya yazı bulunmamalıdır. Sadece kutunun üzerinde BAD SIP logosu yer alabilir. Her bölüm kendine özgü bir hareket diline sahip olmalıdır. Patlayıcı makro etki, yumuşak kabarcık süzülüşü, yanal kaydırma, ürüne odaklanma (push-in), raf çekimi takibi, bardak etrafında yörünge hareketi, elde tutulan yiyecek itişi, netlik kaydırma (rack focus), neredeyse sabit kahraman yerleşimi ve son olarak hafif enerji titreşimi arasında geçiş yapın.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781076641066_kpdh8o_HKWtqnubEAA0cVg.jpg" width="600" alt="Sinematik İçecek Reklamı Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5875)**
+
+**Yazar:** [フッキー / 世界観ビジネス × AI自動化](https://x.com/fukky_v) | **Kaynak:** [Link](https://x.com/fukky_v/status/2064247814369276055) | **Yayınlandı:** Jun 9, 2026
+
+---
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3369,6 +3369,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-13T08:07:47.437Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-13T10:47:59.809Z</sub>
 
 </div>

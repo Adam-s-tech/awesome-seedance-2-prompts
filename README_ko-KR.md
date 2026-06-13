@@ -68,7 +68,7 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **3895** |
+| 📝 총 프롬프트 수 | **3894** |
 | ⭐ 추천 프롬프트 | **6** |
 | 🔄 마지막 업데이트 | **2026-06-13** |
 
@@ -427,25 +427,6 @@ Seedance 2.0을 사용하여 야간 스트리트 레이싱 시퀀스를 생성�
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5987)**
 
 **작성자:** [Iqra Saifi](https://x.com/IqraSaifiii) | **출처:** [Link](https://x.com/IqraSaifiii/status/2065495184696328509) | **게시일:** Jun 12, 2026
-
----
-### 빠른 패션 스타일 전환
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 하드 컷을 사용하여 10초 만에 20가지 스타일을 선보이는 모델의 고속 패션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-손가락을 튕길 때마다 바뀌는 패션 모델의 의상 — 10초 동안 20가지 스타일을 보여주는 하드 컷 영상
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b94d36e9746a758e052fd8937e717b5/thumbnails/thumbnail.jpg" width="600" alt="빠른 패션 스타일 전환">
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5989)**
-
-**작성자:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **출처:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **게시일:** Jun 12, 2026
 
 ---
 ### 애니메이션 현상금 사냥꾼 전투 시퀀스
@@ -3312,6 +3293,25 @@ Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn,
 **작성자:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **출처:** [Link](https://x.com/itsshara_ai/status/2064256013344338058) | **게시일:** Jun 9, 2026
 
 ---
+### 영화 같은 음료 광고 영상 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 키프레임 처리, 객체 구체성, 역동적인 카메라 움직임 지침을 포함한 15초 분량의 영화 같은 탄산음료 광고 제작을 위한 상세 전략입니다.
+
+#### 📝 프롬프트
+
+```
+제공된 9개의 참조 이미지를 스토리보드 시트가 아닌, 시간순으로 정렬된 16:9 비율의 실제 영상 키프레임으로 사용하세요. 각 참조 이미지는 해당 순간의 의도된 전체 화면 구성을 나타냅니다. 패널 테두리, 패널 번호, 캡션, 그리드 레이아웃 또는 UI를 표시하지 마세요. 어두운 탄산음료와 얼음이 가득 담긴 길고 투명한 콜라 잔 / 하이볼 텀블러의 클로즈업 샷입니다. 잔은 위스키 락 글라스보다 가늘고 길어야 합니다. 잔에는 로고나 텍스트가 인쇄되어 있지 않아야 합니다. 오직 캔에만 BAD SIP 로고가 있어야 합니다. 모든 섹션은 뚜렷한 움직임 언어를 가져야 합니다. 폭발적인 매크로 임팩트, 부드러운 거품의 흐름, 측면 슬라이드, 제품 푸시인, 선반 잡기 트래킹, 잔 궤도 회전, 핸드헬드 음식 푸시, 랙 포커스, 거의 정적인 히어로 배치, 그리고 마지막의 미묘한 에너지 펄스 사이를 다양하게 활용하세요.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781076641066_kpdh8o_HKWtqnubEAA0cVg.jpg" width="600" alt="영화 같은 음료 광고 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=5875)**
+
+**작성자:** [フッキー / 世界観ビジネス × AI自動化](https://x.com/fukky_v) | **출처:** [Link](https://x.com/fukky_v/status/2064247814369276055) | **게시일:** Jun 9, 2026
+
+---
 ---
 
 ## 📚 더 많은 프롬프트
@@ -3373,6 +3373,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-13T08:07:37.510Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-13T10:47:46.003Z</sub>
 
 </div>

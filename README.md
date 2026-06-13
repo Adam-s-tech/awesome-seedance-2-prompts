@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3895** |
+| 📝 Total Prompts | **3894** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-06-13** |
 
@@ -431,25 +431,6 @@ A hyper-realistic sequence showing a photorealistic Formula 1 car emerging from 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5987)**
 
 **Author:** [Iqra Saifi](https://x.com/IqraSaifiii) | **Source:** [Link](https://x.com/IqraSaifiii/status/2065495184696328509) | **Published:** Jun 12, 2026
-
----
-### Rapid Fashion Style Switch
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-speed fashion prompt showing a model switching through 20 different styles in 10 seconds using hard cuts.
-
-#### 📝 Prompt
-
-```
-A fashion model switches attires with a snap of a finger — 20 styles in 10 seconds, hard cuts
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b94d36e9746a758e052fd8937e717b5/thumbnails/thumbnail.jpg" width="600" alt="Rapid Fashion Style Switch">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5989)**
-
-**Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **Published:** Jun 12, 2026
 
 ---
 ### Anime Bounty Hunter Fight Sequence
@@ -3335,6 +3316,25 @@ Frame 1: 28mm wide lens fast aggressive push-in at ground level, energetic carto
 **Author:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **Source:** [Link](https://x.com/itsshara_ai/status/2064256013344338058) | **Published:** Jun 9, 2026
 
 ---
+### Cinematic Beverage Commercial Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed strategy for creating a 15-second cinematic soda commercial including keyframe handling, object specificity, and dynamic camera motion instructions.
+
+#### 📝 Prompt
+
+```
+Use the supplied 9 reference images as time-ordered 16:9 real video keyframes, not as a storyboard sheet. Each reference image represents the intended full-screen composition for that moment. Do not show panel borders, panel numbers, captions, grid layout, or UI. Close-up of a tall clear cola glass / highball tumbler filled with dark fizzy cola-like soda and ice. The glass must be slim and taller than a whiskey rocks glass. The glass must have no logo or text printed on it. Only the can may carry the BAD SIP logo. Every section must have a distinct motion language. Vary between explosive macro impact, smooth bubble drift, lateral slide, product push-in, shelf grab tracking, glass orbit, handheld food push, rack focus, near-static hero arrangement, and final subtle energy pulse.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781076641066_kpdh8o_HKWtqnubEAA0cVg.jpg" width="600" alt="Cinematic Beverage Commercial Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=5875)**
+
+**Author:** [フッキー / 世界観ビジネス × AI自動化](https://x.com/fukky_v) | **Source:** [Link](https://x.com/fukky_v/status/2064247814369276055) | **Published:** Jun 9, 2026
+
+---
 ---
 
 ## 📚 More Prompts Available
@@ -3396,6 +3396,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-13T08:07:33.872Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-13T10:47:41.331Z</sub>
 
 </div>

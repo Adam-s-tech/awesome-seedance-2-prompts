@@ -68,7 +68,7 @@
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **3895** |
+| 📝 提示词总数 | **3894** |
 | ⭐ 精选提示词 | **6** |
 | 🔄 最后更新 | **2026-06-13** |
 
@@ -427,25 +427,6 @@
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5987)**
 
 **作者:** [Iqra Saifi](https://x.com/IqraSaifiii) | **来源:** [Link](https://x.com/IqraSaifiii/status/2065495184696328509) | **发布时间:** Jun 12, 2026
-
----
-### 快速时尚风格切换
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高速时尚提示词，展示模特在 10 秒内通过硬切（hard cuts）切换 20 种不同风格。
-
-#### 📝 提示词
-
-```
-时尚模特弹指间切换装束 —— 10 秒内呈现 20 种风格，采用硬切手法
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b94d36e9746a758e052fd8937e717b5/thumbnails/thumbnail.jpg" width="600" alt="快速时尚风格切换">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5989)**
-
-**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **来源:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **发布时间:** Jun 12, 2026
 
 ---
 ### 动漫赏金猎人战斗序列
@@ -3314,6 +3295,25 @@ Reggie 从水上巴士（vaporetto）走下或来到运河边，调整了一下�
 **作者:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **来源:** [Link](https://x.com/itsshara_ai/status/2064256013344338058) | **发布时间:** Jun 9, 2026
 
 ---
+### 电影级饮料商业广告视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份用于制作 15 秒电影级汽水商业广告的详细策略，包含关键帧处理、物体细节要求以及动态摄像机运动指令。
+
+#### 📝 提示词
+
+```
+请将提供的 9 张参考图作为按时间顺序排列的 16:9 真实视频关键帧使用，而非作为分镜脚本图。每张参考图代表该时刻预期的全屏构图。请勿展示面板边框、面板编号、标题、网格布局或 UI。特写镜头：一个装满深色碳酸可乐类饮料和冰块的高身透明可乐杯 / 高球杯。杯子必须是细长型，且比威士忌平底杯更高。杯身上不得印有任何标志或文字。仅罐体可带有 BAD SIP 标志。每个部分必须具备独特的运动语言。在以下效果间切换：爆发式微距冲击、平滑气泡漂移、横向滑动、产品推进、货架抓取追踪、杯体环绕、手持食物推进、焦点变换、近乎静态的主体陈列以及最后的微妙能量脉冲。
+```
+
+<img src="https://cms-assets.youmind.com/media/1781076641066_kpdh8o_HKWtqnubEAA0cVg.jpg" width="600" alt="电影级饮料商业广告视频提示词">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5875)**
+
+**作者:** [フッキー / 世界観ビジネス × AI自動化](https://x.com/fukky_v) | **来源:** [Link](https://x.com/fukky_v/status/2064247814369276055) | **发布时间:** Jun 9, 2026
+
+---
 ---
 
 ## 📚 更多提示词
@@ -3375,6 +3375,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-13T08:07:34.643Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-13T10:47:42.527Z</sub>
 
 </div>

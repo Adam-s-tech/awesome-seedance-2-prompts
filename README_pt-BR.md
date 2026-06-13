@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **3895** |
+| 📝 Total de prompts | **3894** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-06-13** |
 
@@ -427,25 +427,6 @@ Uma sequência hiper-realista mostrando um carro de Fórmula 1 fotorrealista eme
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=5987)**
 
 **Autor:** [Iqra Saifi](https://x.com/IqraSaifiii) | **Fonte:** [Link](https://x.com/IqraSaifiii/status/2065495184696328509) | **Publicado:** Jun 12, 2026
-
----
-### Troca Rápida de Estilo de Moda
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de moda de alta velocidade mostrando uma modelo alternando entre 20 estilos diferentes em 10 segundos usando cortes secos.
-
-#### 📝 Prompt
-
-```
-Uma modelo de moda troca de roupa num estalar de dedos — 20 estilos em 10 segundos, com cortes secos
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b94d36e9746a758e052fd8937e717b5/thumbnails/thumbnail.jpg" width="600" alt="Troca Rápida de Estilo de Moda">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=5989)**
-
-**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fonte:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **Publicado:** Jun 12, 2026
 
 ---
 ### Sequência de Luta de Caçador de Recompensas em Anime
@@ -3311,6 +3292,25 @@ Quadro 1: Lente grande angular de 28mm com zoom rápido e agressivo ao nível do
 **Autor:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **Fonte:** [Link](https://x.com/itsshara_ai/status/2064256013344338058) | **Publicado:** Jun 9, 2026
 
 ---
+### Prompt para Vídeo Comercial Cinematográfico de Bebidas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma estratégia detalhada para criar um comercial de refrigerante cinematográfico de 15 segundos, incluindo manipulação de keyframes, especificidade de objetos e instruções de movimento dinâmico de câmera.
+
+#### 📝 Prompt
+
+```
+Use as 9 imagens de referência fornecidas como keyframes de vídeo real em 16:9 ordenadas por tempo, não como uma folha de storyboard. Cada imagem de referência representa a composição pretendida em tela cheia para aquele momento. Não mostre bordas de painel, números de painel, legendas, layout de grade ou interface de usuário (UI). Close-up de um copo alto e transparente de refrigerante, tipo highball, cheio de refrigerante escuro e gaseificado com gelo. O copo deve ser fino e mais alto que um copo de uísque. O copo não deve ter nenhum logotipo ou texto impresso. Apenas a lata pode conter o logotipo BAD SIP. Cada seção deve ter uma linguagem de movimento distinta. Varie entre impacto macro explosivo, fluxo suave de bolhas, deslizamento lateral, aproximação do produto (push-in), rastreamento de prateleira, órbita ao redor do copo, movimento manual de aproximação de comida, foco seletivo (rack focus), arranjo estático do produto e um pulso de energia sutil no final.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781076641066_kpdh8o_HKWtqnubEAA0cVg.jpg" width="600" alt="Prompt para Vídeo Comercial Cinematográfico de Bebidas">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=5875)**
+
+**Autor:** [フッキー / 世界観ビジネス × AI自動化](https://x.com/fukky_v) | **Fonte:** [Link](https://x.com/fukky_v/status/2064247814369276055) | **Publicado:** Jun 9, 2026
+
+---
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -3372,6 +3372,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-13T08:07:45.681Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-13T10:47:57.282Z</sub>
 
 </div>

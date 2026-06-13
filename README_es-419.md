@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **3895** |
+| 📝 Total de prompts | **3894** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-06-13** |
 
@@ -427,25 +427,6 @@ Una secuencia hiperrealista que muestra un auto de Fórmula 1 fotorrealista emer
 **[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=5987)**
 
 **Autor:** [Iqra Saifi](https://x.com/IqraSaifiii) | **Fuente:** [Link](https://x.com/IqraSaifiii/status/2065495184696328509) | **Publicado:** Jun 12, 2026
-
----
-### Cambio rápido de estilo de moda
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de moda de alta velocidad que muestra a una modelo cambiando entre 20 estilos diferentes en 10 segundos mediante cortes directos.
-
-#### 📝 Prompt
-
-```
-Una modelo de moda cambia de atuendo al chasquido de un dedo: 20 estilos en 10 segundos, con cortes directos
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b94d36e9746a758e052fd8937e717b5/thumbnails/thumbnail.jpg" width="600" alt="Cambio rápido de estilo de moda">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=5989)**
-
-**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fuente:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **Publicado:** Jun 12, 2026
 
 ---
 ### Secuencia de pelea de anime de un cazarrecompensas
@@ -3308,6 +3289,25 @@ Cuadro 1: Lente gran angular de 28 mm con un acercamiento rápido y agresivo a n
 **Autor:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **Fuente:** [Link](https://x.com/itsshara_ai/status/2064256013344338058) | **Publicado:** Jun 9, 2026
 
 ---
+### Prompt para video comercial cinematográfico de bebidas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una estrategia detallada para crear un comercial de refrescos cinematográfico de 15 segundos, incluyendo el manejo de fotogramas clave, especificidad de objetos e instrucciones de movimiento dinámico de cámara.
+
+#### 📝 Prompt
+
+```
+Utiliza las 9 imágenes de referencia proporcionadas como fotogramas clave de video real en formato 16:9 ordenados cronológicamente, no como una hoja de guion gráfico. Cada imagen de referencia representa la composición de pantalla completa prevista para ese momento. No muestres bordes de panel, números de panel, subtítulos, diseño de cuadrícula ni interfaz de usuario. Primer plano de un vaso alto y transparente tipo highball lleno de refresco oscuro con gas y hielo. El vaso debe ser delgado y más alto que un vaso de whisky. El vaso no debe tener ningún logotipo ni texto impreso. Solo la lata puede llevar el logotipo de BAD SIP. Cada sección debe tener un lenguaje de movimiento distintivo. Varía entre impacto macro explosivo, deriva suave de burbujas, deslizamiento lateral, acercamiento al producto, seguimiento de agarre en estante, órbita alrededor del vaso, toma manual de comida, enfoque selectivo, disposición estática del producto principal y un pulso de energía sutil al final.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781076641066_kpdh8o_HKWtqnubEAA0cVg.jpg" width="600" alt="Prompt para video comercial cinematográfico de bebidas">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=5875)**
+
+**Autor:** [フッキー / 世界観ビジネス × AI自動化](https://x.com/fukky_v) | **Fuente:** [Link](https://x.com/fukky_v/status/2064247814369276055) | **Publicado:** Jun 9, 2026
+
+---
 ---
 
 ## 📚 Más prompts disponibles
@@ -3369,6 +3369,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-13T08:07:42.148Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-13T10:47:52.406Z</sub>
 
 </div>

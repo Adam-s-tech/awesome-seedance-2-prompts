@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **3895** |
+| 📝 Tổng số prompt | **3894** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-06-13** |
 
@@ -427,25 +427,6 @@ Một chuỗi hình ảnh siêu thực mô tả chiếc xe đua Công thức 1 h
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5987)**
 
 **Tác giả:** [Iqra Saifi](https://x.com/IqraSaifiii) | **Nguồn:** [Link](https://x.com/IqraSaifiii/status/2065495184696328509) | **Đã xuất bản:** Jun 12, 2026
-
----
-### Chuyển đổi phong cách thời trang siêu tốc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt thời trang tốc độ cao cho thấy người mẫu thay đổi qua 20 phong cách khác nhau trong 10 giây bằng kỹ thuật cắt cảnh nhanh.
-
-#### 📝 Prompt
-
-```
-Người mẫu thời trang thay đổi trang phục chỉ trong một cái búng tay — 20 phong cách trong 10 giây, cắt cảnh nhanh
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b94d36e9746a758e052fd8937e717b5/thumbnails/thumbnail.jpg" width="600" alt="Chuyển đổi phong cách thời trang siêu tốc">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5989)**
-
-**Tác giả:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Nguồn:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **Đã xuất bản:** Jun 12, 2026
 
 ---
 ### Chuỗi hành động thợ săn tiền thưởng phong cách Anime
@@ -3311,6 +3292,25 @@ Khung hình 1: Ống kính góc rộng 28mm với cú đẩy máy nhanh và mạ
 **Tác giả:** [Shara | AI Video Creator](https://x.com/itsshara_ai) | **Nguồn:** [Link](https://x.com/itsshara_ai/status/2064256013344338058) | **Đã xuất bản:** Jun 9, 2026
 
 ---
+### Prompt Video Quảng cáo Đồ uống Điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Chiến lược chi tiết để tạo video quảng cáo nước ngọt mang phong cách điện ảnh dài 15 giây, bao gồm cách xử lý keyframe, độ cụ thể của đối tượng và hướng dẫn chuyển động camera linh hoạt.
+
+#### 📝 Prompt
+
+```
+Sử dụng 9 hình ảnh tham chiếu được cung cấp làm các keyframe video thực tế theo tỷ lệ 16:9 và theo trình tự thời gian, không phải dưới dạng bảng phân cảnh. Mỗi hình ảnh tham chiếu đại diện cho bố cục toàn màn hình mong muốn cho khoảnh khắc đó. Không hiển thị đường viền bảng, số bảng, chú thích, bố cục lưới hoặc giao diện người dùng. Cận cảnh một chiếc ly cao đựng cola trong suốt / ly highball chứa đầy nước ngọt có ga sẫm màu và đá. Ly phải thon và cao hơn ly uống rượu whiskey. Ly không được có logo hoặc văn bản in trên đó. Chỉ lon nước mới được phép mang logo BAD SIP. Mỗi phân đoạn phải có ngôn ngữ chuyển động riêng biệt. Thay đổi linh hoạt giữa các hiệu ứng: tác động macro bùng nổ, bọt khí trôi nhẹ nhàng, trượt ngang, đẩy sản phẩm vào khung hình, theo dõi hành động lấy sản phẩm trên kệ, xoay quanh ly, cầm tay đẩy đồ ăn, lấy nét chuyển đổi (rack focus), sắp xếp sản phẩm tĩnh, và nhịp đập năng lượng tinh tế ở cuối.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781076641066_kpdh8o_HKWtqnubEAA0cVg.jpg" width="600" alt="Prompt Video Quảng cáo Đồ uống Điện ảnh">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=5875)**
+
+**Tác giả:** [フッキー / 世界観ビジネス × AI自動化](https://x.com/fukky_v) | **Nguồn:** [Link](https://x.com/fukky_v/status/2064247814369276055) | **Đã xuất bản:** Jun 9, 2026
+
+---
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -3372,6 +3372,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-13T08:07:39.372Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-13T10:47:48.588Z</sub>
 
 </div>
