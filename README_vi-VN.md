@@ -380,275 +380,275 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 **Tác giả:** [あぁく](https://x.com/kik0ai1jikake) | **Nguồn:** [Link](https://x.com/kik0ai1jikake/status/2065972896510705775) | **Đã xuất bản:** Jun 14, 2026
 
 ---
-### 80s Retro OVA Egyptian God Animation
+### Hoạt hình OVA phong cách retro thập niên 80 về các vị thần Ai Cập
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A vintage 80s OVA style animation prompt featuring Egyptian gods Anubis and Sobek in a comedic strength competition within a royal palace.
+> Một gợi ý tạo hoạt hình theo phong cách OVA cổ điển thập niên 80, khắc họa các vị thần Ai Cập Anubis và Sobek trong một cuộc thi sức mạnh đầy hài hước tại cung điện hoàng gia.
 
 #### 📝 Prompt
 
 ```
-Fine hand-drawn animation, 80s retro OVA style. Scene 1: Inside an Egyptian royal palace, the powerful jackal god Anubis and the powerful crocodile god Sobek stand side by side, together lifting a giant boulder. Their expressions are tense as they focus intensely on keeping the rock above their heads. A human pharaoh slowly walks before them, hands behind his back, observing who can hold the boulder longer. The Pharaoh says, "Only one of you can accompany me on my next mission—only the strongest." Anubis and Sobek are one meter apart, with the pharaoh standing in front. Scene 2: Sobek suddenly has a spark of inspiration, a cunning smile appearing on his face. He tilts his head slightly toward Anubis with a sly grin, his tail tip reaching toward Anubis's armpit. Anubis remains looking forward, ignoring everything around him, focused only on holding up the boulder. Scene 3: A close-up shows Sobek's tail tip gently and smoothly brushing against Anubis's armpit. Anubis's suppressed laughter is heard in the background, indicating he is very ticklish. Scene 4: A close-up shows Anubis's upper body as Sobek's tail tip continues to tickle his armpit. Anubis has his eyes closed, grinning and letting out suppressed laughter while trying his best to keep the boulder up. Scene 5: Sobek's tail continues to tickle Anubis's armpit; Anubis closes his eyes and laughs out loud. The tickling continues, Anubis bursts into laughter, drops the boulder behind him, and hugs himself as the sensation stops. Anubis falls to the ground, still clutching his stomach from laughter. Sobek still holds the boulder above his head, looking on with satisfaction. Scene 6: The Pharaoh nods to Sobek and says, "It seems you are the one." Anubis is still lying on the ground giggling. Both Sobek and Anubis are muscular and wear armbands. Anubis also wears a neck collar. Their voices are deep and powerful. Audio is in English.
+Hoạt hình vẽ tay tinh xảo, phong cách OVA retro thập niên 80. Cảnh 1: Bên trong cung điện hoàng gia Ai Cập, vị thần đầu chó rừng đầy quyền năng Anubis và vị thần cá sấu dũng mãnh Sobek đứng cạnh nhau, cùng nâng một tảng đá khổng lồ. Biểu cảm của họ đầy căng thẳng khi tập trung cao độ để giữ tảng đá trên đầu. Một vị Pharaoh bước đi chậm rãi phía trước họ, hai tay chắp sau lưng, quan sát xem ai có thể giữ tảng đá lâu hơn. Pharaoh nói: "Chỉ một trong hai người các ngươi có thể đồng hành cùng ta trong nhiệm vụ tiếp theo—chỉ kẻ mạnh nhất mà thôi." Anubis và Sobek đứng cách nhau một mét, với vị Pharaoh đứng phía trước. Cảnh 2: Sobek bất chợt nảy ra ý tưởng, một nụ cười tinh quái xuất hiện trên gương mặt. Hắn nghiêng đầu nhẹ về phía Anubis với vẻ mặt láu lỉnh, đuôi của hắn vươn tới nách của Anubis. Anubis vẫn nhìn thẳng về phía trước, phớt lờ mọi thứ xung quanh, chỉ tập trung vào việc giữ tảng đá. Cảnh 3: Cận cảnh đuôi của Sobek nhẹ nhàng và uyển chuyển chạm vào nách của Anubis. Tiếng cười nén lại của Anubis vang lên trong nền, cho thấy vị thần này rất nhột. Cảnh 4: Cận cảnh phần thân trên của Anubis khi đuôi của Sobek tiếp tục cù vào nách hắn. Anubis nhắm nghiền mắt, cười toe toét và cố nén tiếng cười trong khi vẫn cố gắng hết sức giữ tảng đá. Cảnh 5: Đuôi của Sobek tiếp tục cù vào nách Anubis; Anubis nhắm mắt và cười lớn. Việc cù lét vẫn tiếp diễn, Anubis bật cười thành tiếng, đánh rơi tảng đá ra phía sau và ôm lấy cơ thể mình khi cảm giác nhột dừng lại. Anubis ngã xuống đất, vẫn ôm bụng cười ngặt nghẽo. Sobek vẫn giữ tảng đá trên đầu, nhìn với vẻ đầy thỏa mãn. Cảnh 6: Pharaoh gật đầu với Sobek và nói: "Có vẻ như ngươi chính là người đó." Anubis vẫn nằm dưới đất cười khúc khích. Cả Sobek và Anubis đều có cơ bắp cuồn cuộn và đeo băng tay. Anubis còn đeo thêm vòng cổ. Giọng nói của họ trầm và đầy uy lực. Âm thanh bằng tiếng Anh.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3fee9d08beb5cb3ab2ef3224d54bbcc/thumbnails/thumbnail.jpg" width="600" alt="80s Retro OVA Egyptian God Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3fee9d08beb5cb3ab2ef3224d54bbcc/thumbnails/thumbnail.jpg" width="600" alt="Hoạt hình OVA phong cách retro thập niên 80 về các vị thần Ai Cập">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6011)**
 
 **Tác giả:** [migrok](https://x.com/migrok293703) | **Nguồn:** [Link](https://x.com/migrok293703/status/2065932892753326503) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Senior Trot Dance Storyboard Video
+### Video bảng phân cảnh điệu nhảy Trot của người cao tuổi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video generation prompt for Seedance 2.0 that uses a 16-panel storyboard and character sheet to create a consistent 15-second animation of a cheerful senior woman dancing.
+> Một câu lệnh tạo video chi tiết cho Seedance 2.0, sử dụng bảng phân cảnh 16 khung hình và bảng nhân vật để tạo ra video hoạt họa dài 15 giây nhất quán về một người phụ nữ cao tuổi vui vẻ đang nhảy múa.
 
 #### 📝 Prompt
 
 ```
-Generate a cheerful 15-second senior trot dance video based on the 16-panel storyboard and the character sheet. Keep the same joyful 70-year-old Korean grandmother, with the same short softly curled gray hair, warm smile, natural wrinkles, body proportions, outfit, shoes, and accessories throughout the whole video. She wears a loose beige linen midi dress with abstract black, navy, olive green, and small red brush-print patterns, short sleeves, relaxed A-line silhouette, long pendant necklace, simple bracelet, light socks and comfortable brown flat shoes. Scene: minimal bright indoor studio, warm beige wall, clean floor, soft natural light, small plant on a white side table in the background. Follow the storyboard in order and keep the choreography dynamic but senior-friendly: power opening, walk-in step, side sway, upward point, low trot bounce, half-turn shoulder pose, big arm sweep, gentle spin, small front kick, lean-back wave, tiny jump accent, low bounce pose, confident fist pose, big open celebration, high-leg accent, ending finger-heart pose. The motion should feel cheerful, rhythmic, easy trot dance, 4/4 rhythm, around 105 BPM, bright grandmother energy — not random shaking, not repeated posing, not acrobatic, not too fast.
+Tạo một video dài 15 giây về điệu nhảy Trot vui vẻ của người cao tuổi dựa trên bảng phân cảnh 16 khung hình và bảng nhân vật. Giữ nguyên hình ảnh người bà 70 tuổi người Hàn Quốc vui vẻ, với mái tóc ngắn uốn xoăn nhẹ màu xám, nụ cười ấm áp, các nếp nhăn tự nhiên, tỷ lệ cơ thể, trang phục, giày và phụ kiện nhất quán trong suốt toàn bộ video. Bà mặc một chiếc váy midi vải lanh màu be dáng suông với họa tiết in cọ trừu tượng màu đen, xanh navy, xanh ô liu và các điểm nhấn màu đỏ nhỏ, tay ngắn, dáng chữ A thoải mái, đeo vòng cổ mặt dây chuyền dài, vòng tay đơn giản, tất sáng màu và giày bệt màu nâu thoải mái. Bối cảnh: studio trong nhà tối giản, sáng sủa, tường màu be ấm áp, sàn nhà sạch sẽ, ánh sáng tự nhiên dịu nhẹ, một chậu cây nhỏ trên bàn phụ màu trắng ở phía sau. Thực hiện theo thứ tự bảng phân cảnh và giữ cho vũ đạo năng động nhưng phù hợp với người cao tuổi: mở màn mạnh mẽ, bước đi vào, lắc lư sang hai bên, chỉ tay lên trên, nhún nhảy Trot thấp, tạo dáng vai xoay nửa vòng, vung tay rộng, xoay người nhẹ nhàng, đá chân nhỏ về phía trước, nghiêng người vẫy tay, điểm nhấn nhảy nhỏ, tạo dáng nhún thấp, tạo dáng nắm đấm tự tin, ăn mừng mở rộng, điểm nhấn chân cao, kết thúc bằng tư thế bắn tim. Chuyển động cần mang lại cảm giác vui vẻ, nhịp nhàng, điệu nhảy Trot dễ dàng, nhịp 4/4, khoảng 105 BPM, năng lượng tươi sáng của người bà — không rung lắc ngẫu nhiên, không lặp lại tư thế, không nhào lộn, không quá nhanh.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781422607822_dzasc7_HKuobjVa0AAgZnn.jpg" width="600" alt="Senior Trot Dance Storyboard Video">
+<img src="https://cms-assets.youmind.com/media/1781422607822_dzasc7_HKuobjVa0AAgZnn.jpg" width="600" alt="Video bảng phân cảnh điệu nhảy Trot của người cao tuổi">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6025)**
 
 **Tác giả:** [노드 팔라딘 | Node Paladin](https://x.com/NodePaladin) | **Nguồn:** [Link](https://x.com/NodePaladin/status/2065930257023259121) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Alien Ice Canyon Escape
+### Cuộc tẩu thoát khỏi hẻm núi băng ngoài hành tinh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A shot-by-shot action prompt for a high-speed traversal through a collapsing alien ice canyon, focusing on survival and cinematic tension.
+> Một prompt hành động chi tiết từng cảnh cho hành trình di chuyển tốc độ cao qua một hẻm núi băng ngoài hành tinh đang sụp đổ, tập trung vào sự sinh tồn và kịch tính đậm chất điện ảnh.
 
 #### 📝 Prompt
 
 ```
-Alien ice canyon: a high-speed traversal turns into survival as the environment begins collapsing around the path.  
-Wide aerial: narrow canyon, ship flying fast between towering ice walls. 
-First crack: subtle fracture spreading along one side. 
-Break: massive ice slab detaches, crashing into the path ahead. 
-Aggressive dive: pilot drops lower, skimming the ground to avoid falling debris. 
-Chain collapse: both sides start breaking, canyon narrowing in real time. 
-Close call: ice spikes crashing inches behind the ship. 
-Blind turn: path curves sharply, visibility blocked by falling snow and debris. 
-Near-impact: ship clips ice, destabilizing trajectory.
-Recovery: rapid correction, barely regaining control. 
-Final escape: ship bursts out as canyon seals behind it.  
-Fast, grounded, extremely readable danger.
+Hẻm núi băng ngoài hành tinh: một hành trình di chuyển tốc độ cao biến thành cuộc chiến sinh tồn khi môi trường xung quanh bắt đầu sụp đổ. 
+Toàn cảnh từ trên không: hẻm núi hẹp, con tàu bay nhanh giữa những bức tường băng cao chót vót. 
+Vết nứt đầu tiên: vết nứt nhỏ lan dần dọc theo một bên vách. 
+Đổ sụp: một tảng băng khổng lồ tách ra, rơi chắn ngang đường đi phía trước. 
+Lao xuống quyết liệt: phi công hạ thấp độ cao, lướt sát mặt đất để tránh các mảnh vỡ đang rơi. 
+Sụp đổ dây chuyền: cả hai bên vách bắt đầu vỡ vụn, hẻm núi thu hẹp lại trong thời gian thực. 
+Thoát chết trong gang tấc: những mũi băng rơi xuống chỉ cách con tàu vài inch. 
+Khúc cua khuất tầm nhìn: con đường uốn cong đột ngột, tầm nhìn bị chặn bởi tuyết và mảnh vỡ rơi xuống. 
+Suýt va chạm: con tàu quệt vào băng, quỹ đạo bay mất ổn định. 
+Phục hồi: điều chỉnh nhanh chóng, suýt soát lấy lại quyền kiểm soát. 
+Cuộc tẩu thoát cuối cùng: con tàu lao ra ngoài khi hẻm núi đóng sập lại phía sau. 
+Nhanh, chân thực, cảm giác nguy hiểm cực kỳ rõ nét.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e91a276c19c4ef85e9ae0dcdfc76a95e/thumbnails/thumbnail.jpg" width="600" alt="Alien Ice Canyon Escape">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e91a276c19c4ef85e9ae0dcdfc76a95e/thumbnails/thumbnail.jpg" width="600" alt="Cuộc tẩu thoát khỏi hẻm núi băng ngoài hành tinh">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6015)**
 
 **Tác giả:** [Alexandra Aisling](https://x.com/AllaAisling) | **Nguồn:** [Link](https://x.com/AllaAisling/status/2065929257482596375) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Stop-Motion Character Turntable Showcase
+### Trình diễn xoay vòng nhân vật theo phong cách Stop-Motion
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed 5-second video prompt for a professional 360-degree character turnaround in a handcrafted stop-motion aesthetic with seamless looping.
+> Một câu lệnh video 5 giây cực kỳ chi tiết để tạo video xoay vòng nhân vật 360 độ chuyên nghiệp với phong cách stop-motion thủ công và vòng lặp liền mạch.
 
 #### 📝 Prompt
 
 ```
-REFERENCE ASSET:
-Character reference image = uploaded character sheet
+TÀI SẢN THAM CHIẾU:
+Hình ảnh tham chiếu nhân vật = bảng nhân vật đã tải lên
 
-STYLE:
-Premium handcrafted stop-motion-inspired feature film aesthetic. Tactile miniature realism. Detailed fabric, skin, hair and clothing textures. Animation strictly on 2's (movement updates every 2 frames). Strong pose-to-pose animation. Deliberate handcrafted motion cadence. Professional character turnaround presentation. Clean studio showcase.
+PHONG CÁCH:
+Thẩm mỹ phim điện ảnh cao cấp lấy cảm hứng từ stop-motion thủ công. Độ chân thực của mô hình thu nhỏ. Kết cấu vải, da, tóc và quần áo chi tiết. Hoạt ảnh nghiêm ngặt ở tốc độ 2's (chuyển động cập nhật mỗi 2 khung hình). Hoạt ảnh pose-to-pose (tư thế sang tư thế) rõ ràng. Nhịp điệu chuyển động thủ công có chủ đích. Trình diễn xoay vòng nhân vật chuyên nghiệp. Phông nền studio sạch sẽ.
 
-DURATION:
-5 seconds
+THỜI LƯỢNG:
+5 giây
 
-FORMAT:
-Portrait video.
+ĐỊNH DẠNG:
+Video dọc.
 
-Single character only.
+Chỉ một nhân vật duy nhất.
 
-Pure white seamless background.
+Nền trắng tinh khiết liền mạch.
 
-No shadows beyond a subtle studio grounding shadow beneath the feet.
+Không có bóng đổ ngoại trừ bóng đổ nhẹ của studio dưới chân.
 
-No props.
+Không có đạo cụ.
 
-No environment.
+Không có môi trường xung quanh.
 
-No text.
+Không có văn bản.
 
-No camera movement.
+Không có chuyển động máy quay.
 
-LOOPING:
-Perfect seamless loop.
+VÒNG LẶP:
+Vòng lặp liền mạch hoàn hảo.
 
-The final frame must match the first frame exactly.
+Khung hình cuối cùng phải khớp chính xác với khung hình đầu tiên.
 
-The rotation completes one full 360-degree turn and returns precisely to the starting pose.
+Quá trình xoay hoàn thành một vòng 360 độ đầy đủ và trở về chính xác tư thế bắt đầu.
 
-CAMERA:
-Static camera.
+MÁY QUAY:
+Máy quay tĩnh.
 
-Full body framing.
+Khung hình toàn thân.
 
-Character centred in frame.
+Nhân vật nằm ở trung tâm khung hình.
 
-50mm lens.
+Ống kính 50mm.
 
-Orthographic-style presentation feel.
+Cảm giác trình diễn theo phong cách trực giao (orthographic).
 
-Professional character showcase.
+Trình diễn nhân vật chuyên nghiệp.
 
-COMPOSITION:
-The character fills most of the frame vertically.
+BỐ CỤC:
+Nhân vật chiếm phần lớn khung hình theo chiều dọc.
 
-Entire body visible throughout.
+Toàn bộ cơ thể hiển thị trong suốt quá trình.
 
-Feet remain visible at all times.
+Bàn chân luôn hiển thị.
 
-Character remains perfectly centred.
+Nhân vật luôn nằm ở vị trí trung tâm hoàn hảo.
 
-White studio background remains completely clean and uncluttered.
+Nền studio màu trắng luôn sạch sẽ và không bị rối.
 
-ACTION:
+HÀNH ĐỘNG:
 00:00 - 00:05
 
-The character performs one complete slow 360-degree turntable rotation.
+Nhân vật thực hiện một vòng xoay 360 độ chậm hoàn chỉnh.
 
-Rotation speed is constant and smooth.
+Tốc độ xoay ổn định và mượt mà.
 
-The character rotates clockwise.
+Nhân vật xoay theo chiều kim đồng hồ.
 
-The rotation completes exactly one full revolution over the duration of the shot.
+Quá trình xoay hoàn thành chính xác một vòng trong thời lượng của cảnh quay.
 
-The character remains standing naturally throughout.
+Nhân vật giữ tư thế đứng tự nhiên trong suốt quá trình.
 
-Subtle idle animation only:
+Chỉ có hoạt ảnh chờ (idle) tinh tế:
 
-Natural blinking.
+Chớp mắt tự nhiên.
 
-Tiny eye movements.
+Chuyển động mắt nhỏ.
 
-Very slight breathing.
+Hơi thở rất nhẹ.
 
-Subtle chest movement.
+Chuyển động ngực tinh tế.
 
-Tiny finger adjustments.
+Điều chỉnh ngón tay nhỏ.
 
-Small shifts in hand tension.
+Thay đổi nhỏ trong độ căng của bàn tay.
 
-Very subtle weight shifts.
+Thay đổi trọng tâm rất nhẹ.
 
-Occasional tiny eyebrow movement.
+Chuyển động lông mày nhỏ không thường xuyên.
 
-Slight natural head settling.
+Đầu hơi ổn định tự nhiên.
 
-No exaggerated acting.
+Không diễn xuất cường điệu.
 
-No walking.
+Không đi bộ.
 
-No posing changes.
+Không thay đổi tư thế.
 
-No large gestures.
+Không có cử chỉ lớn.
 
-The character should feel alive while remaining suitable for a professional character turnaround.
+Nhân vật phải tạo cảm giác sống động trong khi vẫn phù hợp cho việc xoay vòng nhân vật chuyên nghiệp.
 
-HAIR:
-Hair maintains volume and shape throughout rotation.
+TÓC:
+Tóc duy trì độ phồng và hình dáng trong suốt quá trình xoay.
 
-Very subtle movement only.
+Chỉ có chuyển động rất tinh tế.
 
-No dramatic wind effects.
+Không có hiệu ứng gió mạnh.
 
-CLOTHING:
-Clothing remains consistent and accurate to the reference.
+QUẦN ÁO:
+Quần áo nhất quán và chính xác theo tham chiếu.
 
-Subtle fabric settling.
+Độ rủ của vải tự nhiên.
 
-No excessive secondary motion.
+Không có chuyển động phụ quá mức.
 
-LIGHTING:
-Clean professional studio lighting.
+ÁNH SÁNG:
+Ánh sáng studio chuyên nghiệp, sạch sẽ.
 
-Soft three-point lighting setup.
+Thiết lập ánh sáng ba điểm mềm mại.
 
-Even illumination.
+Chiếu sáng đồng đều.
 
-No harsh shadows.
+Không có bóng đổ gắt.
 
-Clear visibility from every angle.
+Khả năng hiển thị rõ ràng từ mọi góc độ.
 
-Consistent lighting throughout the rotation.
+Ánh sáng nhất quán trong suốt quá trình xoay.
 
-ANIMATION:
-Animation strictly on 2's.
+HOẠT ẢNH:
+Hoạt ảnh nghiêm ngặt ở tốc độ 2's.
 
-Premium handcrafted stop-motion-inspired motion.
+Chuyển động lấy cảm hứng từ stop-motion thủ công cao cấp.
 
-Strong readable silhouettes.
+Hình bóng rõ ràng, dễ nhận biết.
 
-Professional character presentation quality.
+Chất lượng trình diễn nhân vật chuyên nghiệp.
 
-FINAL FRAME:
-Character has completed exactly one full 360-degree rotation.
+KHUNG HÌNH CUỐI:
+Nhân vật đã hoàn thành chính xác một vòng xoay 360 độ.
 
-Returns perfectly to the original front-facing posit
+Trở về hoàn hảo với tư thế hướng về phía trước ban đầu.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae0d52fbbd328df3941dc3b274327075/thumbnails/thumbnail.jpg" width="600" alt="Stop-Motion Character Turntable Showcase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae0d52fbbd328df3941dc3b274327075/thumbnails/thumbnail.jpg" width="600" alt="Trình diễn xoay vòng nhân vật theo phong cách Stop-Motion">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6003)**
 
 **Tác giả:** [Soul Motion labs](https://x.com/Soulmotionlabs) | **Nguồn:** [Link](https://x.com/Soulmotionlabs/status/2065896420658528468) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Volcano Temple Escape Action
+### Hành động thoát khỏi Đền thờ Núi lửa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intense 15-second cinematic action sequence inside a collapsing volcanic temple with lava rivers and crumbling bridges.
+> Một phân cảnh hành động điện ảnh kịch tính kéo dài 15 giây bên trong ngôi đền núi lửa đang sụp đổ với những dòng sông dung nham và những cây cầu đổ nát.
 
 #### 📝 Prompt
 
 ```
-Hyper-realistic cinematic action sequence, 15 seconds, aspect ratio 16:9. 
+Phân cảnh hành động điện ảnh siêu thực, 15 giây, tỷ lệ khung hình 16:9. 
 
-Inside an ancient temple built deep within an active volcano, glowing lava lights the stone corridors with fiery orange and red reflections. The temple is filled with massive carved pillars, narrow bridges, falling embers, smoke, heat shimmer, and collapsing stone sections. A lone explorer in rugged adventure gear carries a glowing artifact and races through the temple as the environment becomes unstable.  
+Bên trong một ngôi đền cổ nằm sâu trong ngọn núi lửa đang hoạt động, dung nham rực sáng chiếu rọi các hành lang đá bằng những phản chiếu màu cam và đỏ rực lửa. Ngôi đền chứa đầy những cột đá chạm khắc khổng lồ, những cây cầu hẹp, tàn lửa rơi, khói, hiệu ứng mờ do nhiệt và các phần đá đang sụp đổ. Một nhà thám hiểm đơn độc trong trang phục phiêu lưu bụi bặm mang theo một cổ vật phát sáng và chạy đua qua ngôi đền khi môi trường trở nên mất ổn định. 
 
-Camera angle 1: wide cinematic opening shot, the explorer runs through a vast volcanic temple chamber with towering stone statues and rivers of lava below. The glowing artifact lights his hands and chest while the ground shakes and cracks begin spreading across the floor.  
+Góc máy 1: cú máy mở đầu điện ảnh góc rộng, nhà thám hiểm chạy qua một gian đền núi lửa rộng lớn với những bức tượng đá cao chót vót và những dòng sông dung nham bên dưới. Cổ vật phát sáng chiếu sáng đôi bàn tay và ngực anh ta trong khi mặt đất rung chuyển và các vết nứt bắt đầu lan rộng trên sàn nhà. 
 
-Camera angle 2: dynamic tracking shot, the explorer sprints across a narrow stone bridge suspended above lava, while pieces of the bridge crumble behind him. Sparks, ash, and heat waves fill the air, and molten light reflects across the ancient carved walls.  
+Góc máy 2: cú máy theo dõi năng động, nhà thám hiểm chạy nước rút qua một cây cầu đá hẹp treo lơ lửng trên dung nham, trong khi các mảnh cầu đổ nát phía sau anh ta. Tia lửa, tro bụi và sóng nhiệt lấp đầy không khí, và ánh sáng nóng chảy phản chiếu trên những bức tường chạm khắc cổ xưa. 
 
-Camera angle 3: dramatic side shot, giant stone guardian figures begin to move in the background as the explorer races through a collapsing corridor. He ducks under falling debris, leaps over a broken section of floor, and keeps moving toward the exit.  Final action beat: the explorer reaches the temple opening just as lava surges through the chamber behind him. 
-He jumps across one final collapsing gap and lands near the exit while firelight and smoke burst outward from the temple interior.  Final moment: the explorer emerges onto a rocky ledge outside the volcano, holding the glowing artifact, while smoke, embers, and fiery light pour from the temple entrance behind him. 
+Góc máy 3: cú máy ngang kịch tính, các bức tượng hộ vệ bằng đá khổng lồ bắt đầu chuyển động ở phía sau khi nhà thám hiểm chạy qua hành lang đang sụp đổ. Anh ta cúi người tránh các mảnh vỡ rơi xuống, nhảy qua một phần sàn bị vỡ và tiếp tục di chuyển về phía lối ra. Nhịp hành động cuối cùng: nhà thám hiểm đến cửa đền ngay khi dung nham tràn qua gian phòng phía sau anh ta. 
+Anh ta nhảy qua khe hở cuối cùng đang sụp đổ và tiếp đất gần lối ra trong khi ánh lửa và khói bùng phát ra từ bên trong ngôi đền. Khoảnh khắc cuối cùng: nhà thám hiểm xuất hiện trên một mỏm đá bên ngoài núi lửa, tay cầm cổ vật phát sáng, trong khi khói, tàn lửa và ánh sáng rực lửa tuôn ra từ lối vào đền thờ phía sau anh ta. 
 
-Style: hyper-realistic, cinematic, intense and fast-paced, ancient temple atmosphere, volcanic lighting, lava glow, smoke, embers, collapsing stone, dramatic scale, strong sense of danger and motion, fast but readable camera movement, high detail, no text, no logos, no cartoon style, no slow motion.
+Phong cách: siêu thực, điện ảnh, kịch tính và nhịp độ nhanh, không khí đền thờ cổ, ánh sáng núi lửa, dung nham rực sáng, khói, tàn lửa, đá sụp đổ, quy mô hoành tráng, cảm giác nguy hiểm và chuyển động mạnh mẽ, chuyển động máy quay nhanh nhưng dễ theo dõi, độ chi tiết cao, không văn bản, không logo, không phong cách hoạt hình, không quay chậm.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5766468e1477526a7849c8c747ac929/thumbnails/thumbnail.jpg" width="600" alt="Volcano Temple Escape Action">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5766468e1477526a7849c8c747ac929/thumbnails/thumbnail.jpg" width="600" alt="Hành động thoát khỏi Đền thờ Núi lửa">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6008)**
 
 **Tác giả:** [DeCat](https://x.com/DeCat2025) | **Nguồn:** [Link](https://x.com/DeCat2025/status/2065878253022196061) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Alien Street Duel POV
+### Góc nhìn thứ nhất: Trận đấu đường phố của người ngoài hành tinh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A first-person smartphone-style cinematic prompt capturing a street theater martial arts duel between two alien warlords with cosmic energy blasts.
+> Một câu lệnh tạo video điện ảnh theo phong cách điện thoại thông minh ở góc nhìn thứ nhất, ghi lại cảnh đấu võ thuật đường phố giữa hai lãnh chúa ngoài hành tinh với các luồng năng lượng vũ trụ.
 
 #### 📝 Prompt
 
 ```
-An ultra-cinematic, first-person smartphone video from within a crowd, capturing an intense outdoor street theater martial arts duel between two highly detailed alien warlords. The bulky alien lands a swift strike on the agile alien. Infuriated, the agile alien counters with a devastating, supersonic punch to the bulky alien's abdomen—shown in slow-motion with a visible kinetic shockwave that cracks the stage. The bulky alien recoils but recovers, channeling crackling blue and purple cosmic plasma energy from its clawed hands. With an earth-shaking roar, it unleashes a massive blast of supernatural energy forward. The surrounding crowd gasps, screams, and explodes into thunderous applause at the climax. Shaky handheld camera POV, extreme camera shakes on impact, cinematic sound design with bass drops and loud crowd reactions.
+Một video điện ảnh siêu thực, quay ở góc nhìn thứ nhất bằng điện thoại thông minh từ giữa đám đông, ghi lại cảnh đấu võ thuật đường phố kịch tính giữa hai lãnh chúa ngoài hành tinh được thiết kế vô cùng chi tiết. Lãnh chúa to lớn tung một cú đánh nhanh vào lãnh chúa linh hoạt. Trong cơn giận dữ, lãnh chúa linh hoạt phản đòn bằng một cú đấm siêu thanh đầy uy lực vào bụng đối thủ—được quay chậm với hiệu ứng sóng xung kích động học có thể nhìn thấy rõ làm nứt cả sân khấu. Lãnh chúa to lớn lùi lại nhưng nhanh chóng lấy lại thế cân bằng, tập trung năng lượng plasma vũ trụ màu xanh lam và tím từ đôi bàn tay đầy móng vuốt. Với một tiếng gầm rung chuyển mặt đất, nó tung ra một luồng năng lượng siêu nhiên khổng lồ về phía trước. Đám đông xung quanh kinh ngạc, la hét và vỡ òa trong những tràng pháo tay như sấm ở cao trào. Góc nhìn camera cầm tay rung lắc, camera rung mạnh khi va chạm, thiết kế âm thanh điện ảnh với tiếng bass trầm và phản ứng ồn ào của đám đông.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78df2ac0c31527ecabd48d25b1688c59/thumbnails/thumbnail.jpg" width="600" alt="Alien Street Duel POV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78df2ac0c31527ecabd48d25b1688c59/thumbnails/thumbnail.jpg" width="600" alt="Góc nhìn thứ nhất: Trận đấu đường phố của người ngoài hành tinh">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6016)**
 
@@ -702,464 +702,464 @@ Phong cách: biến hình dưới nước siêu thực, giải phẫu cá voi s�
 **Tác giả:** [LudovicCreator](https://x.com/LudovicCreator) | **Nguồn:** [Link](https://x.com/LudovicCreator/status/2065856750817837411) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Cinematic Storyboard Animation
+### Hoạt ảnh Storyboard Điện ảnh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Animates a storyboard grid into a smooth cinematic sequence featuring slow movement and atmospheric lighting effects.
+> Chuyển đổi lưới storyboard thành một chuỗi video điện ảnh mượt mà với các hiệu ứng chuyển động chậm và ánh sáng đầy tính nghệ thuật.
 
 #### 📝 Prompt
 
 ```
-Animate the provided 3x4 storyboard into a smooth cinematic video. Preserve exact shot order and continuity. Use slow breath chest rise, tear catch macro, window rain light diffuse, and open palm
+Chuyển đổi storyboard 3x4 được cung cấp thành một video điện ảnh mượt mà. Giữ nguyên thứ tự cảnh quay và tính liên tục. Sử dụng các hiệu ứng: lồng ngực phập phồng chậm rãi, cận cảnh giọt nước mắt, ánh sáng mưa khuếch tán qua cửa sổ và bàn tay mở.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781422595221_9uarvo_HKtIa3NbQAEAK5v.jpg" width="600" alt="Cinematic Storyboard Animation">
+<img src="https://cms-assets.youmind.com/media/1781422595221_9uarvo_HKtIa3NbQAEAK5v.jpg" width="600" alt="Hoạt ảnh Storyboard Điện ảnh">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6019)**
 
 **Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2065824987496456495) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Cyberpunk Anime Kunoichi Rooftop Battle
+### Trận chiến trên sân thượng của Kunoichi trong anime Cyberpunk
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dynamic 3D anime action sequence featuring a cyberpunk kunoichi with glowing violet eyes engaging in high-speed rooftop combat against mercenaries.
+> Một phân cảnh hành động anime 3D năng động với nhân vật kunoichi phong cách cyberpunk có đôi mắt phát sáng màu tím, đang tham gia vào cuộc chiến tốc độ cao trên sân thượng chống lại các lính đánh thuê.
 
 #### 📝 Prompt
 
 ```
-A cyberpunk 3D anime kunoichi with violet glowing eyes, black tactical kimono mixed with futuristic armor, long scarf trailing behind her, twin plasma daggers leaving purple energy trails
-Crouches on a rooftop in broad daylight haze, surrounded by armed mercenaries aiming rifles, camera starts in close-up on her eyes then slowly pulls back to reveal the trap; 
-She launches upward, wall-runs across billboards, teleports through smoke bursts, slices bullets mid-air, flips over enemies and strikes from blind spots, camera follows with FPV-style rooftop chase, violent whip pans, speed ramps and orbit shots around mid-air kills, purple sparks and glass shards suspended in slow motion; 
-She appears behind the final commander, daggers crossed, then every mercenary collapses simultaneously across the rooftop, camera circles her silhouette as burning drones fall behind into the city
+Một kunoichi anime 3D phong cách cyberpunk với đôi mắt phát sáng màu tím, mặc kimono chiến thuật màu đen kết hợp với giáp tương lai, chiếc khăn dài bay phía sau, đôi dao plasma để lại những vệt năng lượng màu tím
+Đang ngồi trên sân thượng trong làn sương mù giữa ban ngày, xung quanh là những lính đánh thuê có vũ trang đang chĩa súng trường, máy quay bắt đầu bằng cận cảnh đôi mắt cô rồi từ từ lùi lại để lộ ra cái bẫy; 
+Cô lao vút lên không trung, chạy trên các bảng quảng cáo, dịch chuyển tức thời qua những làn khói, chém đứt đạn giữa không trung, nhào lộn qua kẻ thù và tấn công từ các điểm mù, máy quay theo sát với phong cách rượt đuổi FPV trên sân thượng, những cú lia máy mạnh mẽ, hiệu ứng tăng tốc và các góc quay xoay quanh những pha kết liễu trên không, tia lửa tím và mảnh kính lơ lửng trong hiệu ứng quay chậm; 
+Cô xuất hiện phía sau chỉ huy cuối cùng, hai con dao bắt chéo, sau đó mọi lính đánh thuê đồng loạt gục ngã trên sân thượng, máy quay xoay quanh bóng dáng cô khi những chiếc drone đang cháy rơi xuống phía sau thành phố
 
-Futuristic Tokyo skyline, daylight neon haze, broken holograms, rain puddles, purple VFX trails, stylish assassin choreography. Epic anime, anime render
+Đường chân trời Tokyo tương lai, làn sương neon ban ngày, các hình ảnh hologram vỡ vụn, vũng nước mưa, vệt hiệu ứng hình ảnh màu tím, vũ đạo sát thủ đầy phong cách. Anime sử thi, kết xuất anime
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ded5bf92996b33aad140e97e76d061ae/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Anime Kunoichi Rooftop Battle">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ded5bf92996b33aad140e97e76d061ae/thumbnails/thumbnail.jpg" width="600" alt="Trận chiến trên sân thượng của Kunoichi trong anime Cyberpunk">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6002)**
 
 **Tác giả:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Nguồn:** [Link](https://x.com/CharaspowerAI/status/2065811465102065875) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Tropical Beach Drone Shot
+### Cảnh quay flycam bãi biển nhiệt đới
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic drone push-in shot of a tropical paradise beach with turquoise water, wooden boats, and dramatic limestone cliffs.
+> Cảnh quay flycam điện ảnh tiến dần vào một bãi biển thiên đường nhiệt đới với làn nước màu ngọc lam, những chiếc thuyền gỗ và các vách đá vôi hùng vĩ.
 
 #### 📝 Prompt
 
 ```
-Ultra-realistic cinematic travel scene of a tropical paradise beach with crystal-clear turquoise water and soft golden sand. A traditional wooden long-tail boat gently floats near the shore, subtly rocking with natural wave motion. Massive limestone cliffs covered in lush green vegetation rise dramatically from the sea in the background. The sky is vibrant blue with long, wispy clouds slowly drifting across.
+Cảnh quay du lịch điện ảnh siêu thực về một bãi biển thiên đường nhiệt đới với làn nước màu ngọc lam trong vắt và bãi cát vàng mịn. Một chiếc thuyền đuôi dài bằng gỗ truyền thống đang nhẹ nhàng trôi gần bờ, đung đưa tinh tế theo chuyển động tự nhiên của sóng. Những vách đá vôi khổng lồ phủ đầy cây xanh tươi tốt nhô lên đầy ấn tượng từ phía biển xa. Bầu trời xanh rực rỡ với những đám mây mỏng, dài trôi chậm rãi.
 
-Camera starts with a slow drone push-in shot from above water level, slightly angled, moving toward the boat. Water surface shows realistic refraction, sunlight caustics dancing on the sandy seabed. Small ripples move naturally toward the shore, creating soft foam.
+Máy quay bắt đầu bằng cú đẩy flycam chậm từ trên mặt nước, hơi nghiêng, tiến về phía con thuyền. Mặt nước cho thấy sự khúc xạ chân thực, ánh sáng mặt trời nhảy múa trên đáy biển đầy cát. Những gợn sóng nhỏ di chuyển tự nhiên vào bờ, tạo nên lớp bọt mềm mại.
 
-Add ambient motion details:
+Thêm các chi tiết chuyển động xung quanh:
 
-Gentle water movement with reflections and light shimmer
-Slight boat sway with rope tension reacting to waves
-Leaves on cliffs subtly moving in the breeze
-Light wind creating soft movement in water texture
-Occasional distant birds flying across sky
+Chuyển động nước nhẹ nhàng với các phản chiếu và ánh sáng lung linh
+Thuyền lắc lư nhẹ với độ căng của dây thừng phản ứng theo sóng
+Lá cây trên vách đá chuyển động tinh tế trong gió
+Gió nhẹ tạo ra chuyển động mềm mại trong kết cấu mặt nước
+Thỉnh thoảng có chim bay ngang qua bầu trời xa xa
 
-Lighting is bright natural daylight, cinematic HDR, with soft highlights and realistic shadows. Colors are vibrant but natural, not oversaturated.
+Ánh sáng là ánh sáng ban ngày tự nhiên rực rỡ, HDR điện ảnh, với các điểm nhấn mềm mại và bóng đổ chân thực. Màu sắc sống động nhưng tự nhiên, không bị bão hòa quá mức.
 
-Include depth and realism:
+Bao gồm chiều sâu và tính chân thực:
 
-Atmospheric haze around distant cliffs
-Water transparency with visible sand beneath
-Natural lens behavior (slight bloom, subtle motion blur)
+Lớp sương mù khí quyển xung quanh các vách đá xa xa
+Độ trong suốt của nước với lớp cát có thể nhìn thấy bên dưới
+Hiệu ứng ống kính tự nhiên (hơi nhòe sáng, mờ chuyển động tinh tế)
 
-Camera settings:
+Cài đặt máy quay:
 
-4K ultra-realistic
-24fps cinematic motion
-shallow depth of field (focus on boat, background slightly softened)
-smooth stabilized drone movement
+4K siêu thực
+Chuyển động điện ảnh 24fps
+Độ sâu trường ảnh nông (lấy nét vào thuyền, hậu cảnh hơi làm mềm)
+Chuyển động flycam ổn định, mượt mà
 
-Mood: peaceful, immersive, tropical luxury, calming yet visually stunning
+Cảm xúc: yên bình, đắm chìm, sang trọng kiểu nhiệt đới, thư thái nhưng đầy ấn tượng về mặt thị giác
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8860cbc7bfbd3a7291a4089e1fefe5cc/thumbnails/thumbnail.jpg" width="600" alt="Tropical Beach Drone Shot">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8860cbc7bfbd3a7291a4089e1fefe5cc/thumbnails/thumbnail.jpg" width="600" alt="Cảnh quay flycam bãi biển nhiệt đới">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6006)**
 
 **Tác giả:** [Shahid Wani](https://x.com/meng_dagg695) | **Nguồn:** [Link](https://x.com/meng_dagg695/status/2065807711330328903) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### 80s OVA Skate Run Storyboard
+### Storyboard cho video phong cách OVA thập niên 80
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An energetic 1980s Japanese OVA cel anime style prompt featuring a character's stylish skateboard run through a woodworking factory.
+> Một prompt theo phong cách anime OVA Nhật Bản thập niên 1980 đầy năng lượng, mô tả một nhân vật đang trượt ván đầy phong cách trong một xưởng mộc.
 
 #### 📝 Prompt
 
 ```
-16:9, 15-second 1980s OVA cel anime video, fast-paced stylish editing, no dialogue, no subtitles, energetic 80s synth rock / funk music, skateboard wheels, deck pops and warehouse echo only.
+Video anime OVA thập niên 1980, tỷ lệ 16:9, thời lượng 15 giây, biên tập nhanh và phong cách, không lời thoại, không phụ đề, nhạc synth rock / funk thập niên 80 sôi động, chỉ có âm thanh bánh xe trượt ván, tiếng ván đập và tiếng vang trong nhà kho.
 
-Use the attached character sheet as reference for Yuna Rabbet: blonde hair in two low messy buns, green bandana tied on top, bright blue eyes, tanned skin, fitted blue T-shirt, khaki frayed denim shorts, white sneakers, athletic and lively body language, confident cheerful expression. Keep her face, hair, outfit and proportions consistent throughout the whole video. Show her beauty through confidence, energy and movement, not through sexualized camera angles.
+Sử dụng bảng nhân vật đính kèm làm tham chiếu cho Yuna Rabbet: tóc vàng búi hai bên thấp, buộc khăn bandana màu xanh lá cây trên đầu, đôi mắt xanh sáng, làn da rám nắng, áo phông xanh vừa vặn, quần short jean kaki sờn, giày sneaker trắng, ngôn ngữ cơ thể năng động và hoạt bát, biểu cảm tự tin vui vẻ. Giữ cho khuôn mặt, mái tóc, trang phục và tỷ lệ cơ thể của nhân vật nhất quán trong suốt video. Thể hiện vẻ đẹp của cô ấy thông qua sự tự tin, năng lượng và chuyển động, không sử dụng các góc máy gợi dục.
 
-Scene: a large woodworking factory with three connected areas: joinery workshop, CNC machine shop with enclosed idle CNC routers and dust extraction pipes, and warehouse aisles with timber racks, pallets, plywood sheets, toolboxes and workbenches. Warm sunset beams shine through high windows, sawdust floating in the light, polished concrete floor, hand-painted industrial background.
+Bối cảnh: một xưởng mộc lớn với ba khu vực kết nối: xưởng mộc, xưởng máy CNC với các máy CNC đang nghỉ và ống hút bụi, và các lối đi trong nhà kho với giá gỗ, pallet, ván ép, hộp dụng cụ và bàn làm việc. Những tia nắng hoàng hôn ấm áp chiếu qua các cửa sổ cao, bụi gỗ bay lơ lửng trong ánh sáng, sàn bê tông được đánh bóng, nền công nghiệp vẽ tay.
 
 Storyboard:
-0.0–1.2s, wide establishing shot of the woodworking factory, warm sunlight, sawdust in the air, Yuna skates into frame from the distance.
-1.2–2.2s, extreme close-up of skateboard wheels rolling over polished concrete, her white sneaker pushes hard and accelerates.
-2.2–3.2s, camera tilts up to Yuna’s face, she looks over her shoulder with a confident cheerful smile, green bandana fluttering.
-3.2–4.4s, side tracking shot, Yuna performs a clean ollie over a low stack of timber pieces and lands smoothly.
-4.4–5.7s, low 3/4 front angle beside the enclosed CNC machine shop, Yuna performs a fast kickflip, brief slow motion as the board flips under her feet.
-5.7–6.9s, front dolly shot moving backward through a warehouse aisle, Yuna performs a long manual between tall shelves and pallets.
-6.9–8.0s, top-down dynamic shot, she carves tightly around a joinery workbench, weaving between timber offcuts with precise control.
-8.0–9.3s, wide shot then quick close-up, Yuna pops onto a low metal safety rail and performs a clean boardslide, then lands.
-9.3–10.5s, low angle shot beside leaning plywood sheets, she shifts into a short nose manual, balanced and stylish.
-10.5–12.0s, dynamic tracking shot, Yuna rides briefly up a safe angled plywood wall, then drops back onto the concrete floor.
-12.0–13.5s, open factory floor, she performs a clean 360 shove-it, catches the board perfectly and lands with strong style.
-13.5–15.0s, final low angle hero shot, Yuna stops the skateboard with one foot, turns to camera and smiles confidently. Behind her are the workshop, CNC area and warehouse shelves glowing in sunset light. Final energetic music beat.
-Visual style: 1980s Japanese OVA cel animation, bold ink outlines, hand-drawn character animation, detailed hand-painted backgrounds, warm cel highlights, dy
+0.0–1.2 giây, cảnh toàn thiết lập xưởng mộc, ánh nắng ấm áp, bụi gỗ trong không khí, Yuna trượt ván vào khung hình từ phía xa.
+1.2–2.2 giây, cận cảnh bánh xe trượt ván lăn trên sàn bê tông bóng, giày sneaker trắng của cô đẩy mạnh và tăng tốc.
+2.2–3.2 giây, máy quay lia lên khuôn mặt Yuna, cô nhìn qua vai với nụ cười tự tin vui vẻ, khăn bandana xanh lá bay phấp phới.
+3.2–4.4 giây, cảnh quay theo từ bên cạnh, Yuna thực hiện cú ollie gọn gàng qua một chồng gỗ thấp và tiếp đất mượt mà.
+4.4–5.7 giây, góc thấp 3/4 phía trước bên cạnh xưởng máy CNC, Yuna thực hiện cú kickflip nhanh, hiệu ứng quay chậm ngắn khi ván lật dưới chân cô.
+5.7–6.9 giây, cảnh dolly phía trước di chuyển lùi qua lối đi trong nhà kho, Yuna thực hiện cú manual dài giữa các kệ cao và pallet.
+6.9–8.0 giây, cảnh quay từ trên xuống đầy năng động, cô lướt ván ôm cua sát quanh bàn làm việc, lách qua các mảnh gỗ vụn với sự kiểm soát chính xác.
+8.0–9.3 giây, cảnh toàn sau đó là cận cảnh nhanh, Yuna nhảy lên thanh chắn an toàn kim loại thấp và thực hiện cú boardslide gọn gàng, sau đó tiếp đất.
+9.3–10.5 giây, góc máy thấp bên cạnh các tấm ván ép dựa vào tường, cô chuyển sang tư thế nose manual ngắn, cân bằng và đầy phong cách.
+10.5–12.0 giây, cảnh quay theo năng động, Yuna trượt lên một đoạn ván ép nghiêng an toàn, sau đó thả mình xuống sàn bê tông.
+12.0–13.5 giây, khu vực xưởng trống, cô thực hiện cú 360 shove-it gọn gàng, bắt ván hoàn hảo và tiếp đất đầy phong cách.
+13.5–15.0 giây, cảnh quay anh hùng góc thấp cuối cùng, Yuna dừng ván bằng một chân, quay lại nhìn vào máy quay và mỉm cười tự tin. Phía sau cô là xưởng mộc, khu vực CNC và các kệ hàng trong nhà kho rực sáng trong ánh hoàng hôn. Nhịp nhạc cuối cùng đầy năng lượng.
+Phong cách hình ảnh: Hoạt hình cel OVA Nhật Bản thập niên 1980, đường nét mực đậm, hoạt họa nhân vật vẽ tay, hậu cảnh vẽ tay chi tiết, điểm nhấn cel ấm áp, dy
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781422587366_ezrsuu_HKsrmAgawAAXcUM.jpg" width="600" alt="80s OVA Skate Run Storyboard">
+<img src="https://cms-assets.youmind.com/media/1781422587366_ezrsuu_HKsrmAgawAAXcUM.jpg" width="600" alt="Storyboard cho video phong cách OVA thập niên 80">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6014)**
 
 **Tác giả:** [Benny's Project](https://x.com/bennysproject) | **Nguồn:** [Link](https://x.com/bennysproject/status/2065793904986018020) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Satirical World Cup Construction Prompt
+### Prompt châm biếm về việc xây dựng tại World Cup
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A humorous and surreal prompt for a FIFA World Cup broadcast parody where the Qatari team builds a literal brick wall during a match against Switzerland.
+> Một prompt hài hước và siêu thực cho bản tin parody về FIFA World Cup, nơi đội tuyển Qatar xây một bức tường gạch theo nghĩa đen trong trận đấu với Thụy Sĩ.
 
 #### 📝 Prompt
 
 ```
-A hyper-realistic live FIFA World Cup 2026 night match broadcast, Group C: Qatar vs Switzerland. In an absurd satirical comedy scene, the entire Qatari national team in maroon kits with white accents are frantically building a massive red brick wall directly in front of their goal to block Switzerland’s attack.
+Một buổi phát sóng trực tiếp trận đấu đêm FIFA World Cup 2026 siêu thực, Bảng C: Qatar đấu với Thụy Sĩ. Trong một cảnh hài kịch châm biếm phi lý, toàn bộ đội tuyển quốc gia Qatar trong trang phục màu hạt dẻ với các điểm nhấn màu trắng đang hối hả xây một bức tường gạch đỏ khổng lồ ngay trước khung thành để chặn đợt tấn công của Thụy Sĩ.
 
-Close-up shots: Qatari players #2, #15, #25 urgently laying red bricks, spreading gray mortar with trowels, intense focused expressions, sweat visible under stadium floodlights. Wide dramatic shots: multiple Qatari players (#10, #7, #6, #4, #8) on ladders and scaffolding rapidly stacking bricks across the entire goal mouth like an emergency construction crew mid-match. Bricks scatter across the grass, wheelbarrows of mortar rush in.
+Cận cảnh: Các cầu thủ Qatar số 2, số 15, số 25 đang khẩn trương đặt những viên gạch đỏ, trát vữa xám bằng bay, biểu cảm tập trung cao độ, mồ hôi lộ rõ dưới ánh đèn sân vận động. Cảnh quay toàn cảnh đầy kịch tính: nhiều cầu thủ Qatar (số 10, số 7, số 6, số 4, số 8) trên thang và giàn giáo đang nhanh chóng xếp gạch ngang qua toàn bộ khung thành như một đội xây dựng khẩn cấp giữa trận đấu. Gạch vương vãi trên mặt cỏ, xe cút kít chở vữa lao vào.
 
-Foreground reaction: shocked Swiss players in white and red kits (Xhaka #10, #7) stand frozen, arms slightly raised in disbelief. Female stadium staff and women fans in Swiss jerseys react with laughter and stunned expressions, filming the scene on phones under bright lights. The referee stands confused, whistle lowered.
+Phản ứng ở tiền cảnh: các cầu thủ Thụy Sĩ trong trang phục trắng đỏ (Xhaka số 10, số 7) đứng sững sờ, tay hơi giơ lên trong sự hoài nghi. Các nhân viên nữ tại sân vận động và các cổ động viên nữ mặc áo đấu Thụy Sĩ phản ứng bằng tiếng cười và vẻ mặt kinh ngạc, quay phim cảnh tượng này bằng điện thoại dưới ánh đèn rực rỡ. Trọng tài đứng bối rối, hạ còi xuống.
 
-Broadcast style: authentic FOX Sports FIFA presentation, scoreboard overlay shows QAT 0–0 SUI, clock 37:12, “LIVE” indicator, sponsor graphics, shaky commentator cam cuts.
+Phong cách phát sóng: trình bày chuẩn FIFA của FOX Sports, lớp phủ bảng tỷ số hiển thị QAT 0–0 SUI, đồng hồ 37:12, chỉ báo “LIVE”, đồ họa nhà tài trợ, các góc máy quay bình luận viên rung lắc.
 
-Commentary (live broadcast audio):
-Commentator 1 (shocked): “I… I cannot believe what we are seeing—are they building a WALL?”
-Commentator 2 (laughing in disbelief): “This is not defensive structure, this is full construction mode inside the box!”
-Sideline reporter (urgent): “The Swiss attack has completely stopped… they’re just watching this happen!”
+Bình luận (âm thanh phát sóng trực tiếp):
+Bình luận viên 1 (kinh ngạc): “Tôi… tôi không thể tin vào những gì mình đang thấy—họ đang xây một BỨC TƯỜNG sao?”
+Bình luận viên 2 (cười trong sự hoài nghi): “Đây không phải là cấu trúc phòng ngự, đây là chế độ xây dựng toàn diện ngay trong vòng cấm!”
+Phóng viên bên lề (khẩn cấp): “Đợt tấn công của Thụy Sĩ đã hoàn toàn dừng lại… họ chỉ đang đứng nhìn điều này xảy ra!”
 
-Crowd audio: mixed gasps, laughter, and chants turning into confused cheering.
+Âm thanh đám đông: tiếng ồ lên, tiếng cười và những tiếng hô vang chuyển dần sang sự cổ vũ đầy khó hiểu.
 
-Cinematic sports cinematography: dramatic night lighting, strong highlights on brick textures and sweat, motion blur on fast building action, dynamic cuts between tight close-ups (hands, trowels, mortar) and wide stadium shots through the goal net. Ultra-detailed jerseys, dust particles in air, realistic pitch wear.
+Điện ảnh thể thao: ánh sáng ban đêm kịch tính, các điểm nhấn mạnh vào kết cấu gạch và mồ hôi, hiệu ứng nhòe chuyển động khi xây dựng nhanh, các cú cắt cảnh năng động giữa cận cảnh (tay, bay, vữa) và toàn cảnh sân vận động qua lưới khung thành. Áo đấu chi tiết cực cao, bụi trong không khí, độ mòn của mặt sân chân thực.
 
-Humorous surreal tone, meme-like absurdity, yet fully photorealistic elite broadcast quality. Satirical exaggeration of ultra-defensive “park the bus” tactics turned into literal construction.
+Giọng điệu hài hước siêu thực, sự phi lý kiểu meme nhưng chất lượng phát sóng đỉnh cao chân thực đến từng chi tiết. Sự phóng đại châm biếm về chiến thuật phòng ngự “dựng xe buýt” được biến thành việc xây dựng theo nghĩa đen.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/199bbb8246e736a743e44afe2b4b2eb3/thumbnails/thumbnail.jpg" width="600" alt="Satirical World Cup Construction Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/199bbb8246e736a743e44afe2b4b2eb3/thumbnails/thumbnail.jpg" width="600" alt="Prompt châm biếm về việc xây dựng tại World Cup">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6012)**
 
 **Tác giả:** [Sharon Riley](https://x.com/Just_sharon7) | **Nguồn:** [Link](https://x.com/Just_sharon7/status/2065781008658735467) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Demon Slayer Style Anime Storyboard
+### Storyboard Anime theo phong cách Demon Slayer
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed storyboard prompt for an anime short film, featuring consistent character designs and dynamic camera movements inspired by Demon Slayer.
+> Một prompt storyboard chi tiết cho phim ngắn anime, với thiết kế nhân vật nhất quán và các chuyển động camera linh hoạt lấy cảm hứng từ Demon Slayer.
 
 #### 📝 Prompt
 
 ```
-Create a cinematic anime short film in a unified Demon Slayer / Jujutsu Kaisen inspired art style — apply this exact same visual style consistently to ALL characters and scenes without exception.
-Character Design (maintain throughout ALL scenes):
-Hero: Young male swordsman, late teens, athletic build, dark hair, determined eyes, traditional Japanese warrior outfit, katana at waist
-Child: Small baby girl, 2–3 years old, round face, big innocent eyes, simple village dress, same anime art style as the hero — no style deviation
-Story Structure:
-Opening — Close-up on hero's face receiving urgent message. Camera: low angle looking up at hero. Dramatic lighting.
-Journey — Hero running through dense forest and rocky mountains. Camera: dynamic tracking shot from side, then bird's eye view. Motion blur on feet.
-Village in Crisis — Wide establishing shot of burning village. Cut to medium shot of terrified villagers. Camera slowly pushes in.
-Monster threatening child — Monster looms over baby girl. Camera: monster POV looking down at child, then child POV looking up at monster. High contrast lighting.
-Hero Arrival — Hero leaps into frame from above. Slow motion sword strike. Camera: 360-degree rotating shot around hero.
-Battle Sequence — Intense fight, multiple camera angles: close-up on clashing sword, wide shot of full battle, low angle hero power move. Fluid motion, no flickering.
-Resolution — Monster defeated. Hero kneels down to baby girl's level. Soft warm lighting. Camera: gentle zoom out showing hero and child together, villagers in background.
-Ending — Hero sheathes sword, walks away. Camera: back shot of hero walking into sunset, villagers watching.
-Visual Rules (strict):
-One unified anime art style across ALL shots — hero and baby girl must look like they belong in the same animation
-Camera angle must change every scene — no repeated angles
-No slideshow transitions — use cinematic cuts and motion
-Warm golden lighting for resolution, cool blue for battle
-Pippit watermark visible in final composition
-Style: Epic fantasy anime, Demon Slayer quality, emotional storytelling, professional cinematic pacing
+Tạo một bộ phim ngắn anime điện ảnh với phong cách nghệ thuật thống nhất lấy cảm hứng từ Demon Slayer / Jujutsu Kaisen — áp dụng chính xác phong cách hình ảnh này một cách nhất quán cho TẤT CẢ nhân vật và cảnh quay mà không có ngoại lệ.
+Thiết kế nhân vật (duy trì xuyên suốt TẤT CẢ các cảnh):
+Anh hùng: Kiếm sĩ nam trẻ tuổi, cuối tuổi thiếu niên, vóc dáng thể thao, tóc tối màu, ánh mắt kiên định, trang phục chiến binh Nhật Bản truyền thống, đeo katana bên hông.
+Trẻ nhỏ: Bé gái nhỏ, 2–3 tuổi, khuôn mặt tròn, đôi mắt to ngây thơ, váy làng quê đơn giản, cùng phong cách nghệ thuật anime với anh hùng — không có sự sai lệch về phong cách.
+Cấu trúc câu chuyện:
+Mở đầu — Cận cảnh khuôn mặt anh hùng khi nhận tin khẩn cấp. Camera: góc thấp nhìn lên anh hùng. Ánh sáng kịch tính.
+Hành trình — Anh hùng chạy qua khu rừng rậm và những ngọn núi đá. Camera: cú máy tracking linh hoạt từ bên cạnh, sau đó là góc nhìn từ trên cao (bird's eye view). Hiệu ứng nhòe chuyển động (motion blur) ở bàn chân.
+Ngôi làng gặp nạn — Cú máy toàn cảnh (establishing shot) ngôi làng đang bốc cháy. Cắt sang cảnh trung (medium shot) những dân làng đang hoảng sợ. Camera từ từ tiến lại gần.
+Quái vật đe dọa đứa trẻ — Quái vật lù lù xuất hiện phía trên bé gái. Camera: góc nhìn POV của quái vật nhìn xuống đứa trẻ, sau đó là góc nhìn POV của đứa trẻ nhìn lên quái vật. Ánh sáng có độ tương phản cao.
+Anh hùng xuất hiện — Anh hùng nhảy vào khung hình từ phía trên. Cú chém kiếm chuyển động chậm (slow motion). Camera: cú máy xoay 360 độ quanh anh hùng.
+Chuỗi chiến đấu — Trận chiến dữ dội, nhiều góc máy: cận cảnh kiếm va chạm, toàn cảnh trận chiến, góc thấp khi anh hùng tung chiêu. Chuyển động mượt mà, không bị nhấp nháy.
+Giải quyết — Quái vật bị đánh bại. Anh hùng quỳ xuống ngang tầm với bé gái. Ánh sáng ấm áp, dịu nhẹ. Camera: zoom out nhẹ nhàng cho thấy anh hùng và đứa trẻ bên nhau, dân làng ở phía sau.
+Kết thúc — Anh hùng tra kiếm vào vỏ, bước đi. Camera: quay từ phía sau lưng anh hùng bước vào hoàng hôn, dân làng đang dõi theo.
+Quy tắc hình ảnh (nghiêm ngặt):
+Một phong cách nghệ thuật anime thống nhất xuyên suốt TẤT CẢ các cảnh quay — anh hùng và bé gái phải trông như thuộc cùng một bộ phim hoạt hình.
+Góc máy phải thay đổi trong mỗi cảnh — không lặp lại góc máy.
+Không sử dụng hiệu ứng chuyển cảnh kiểu slideshow — sử dụng các cú cắt điện ảnh và chuyển động.
+Ánh sáng vàng ấm cho phần giải quyết, xanh dương lạnh cho phần chiến đấu.
+Hình mờ Pippit hiển thị rõ trong bố cục cuối cùng.
+Phong cách: Anime kỳ ảo sử thi, chất lượng Demon Slayer, kể chuyện giàu cảm xúc, nhịp độ điện ảnh chuyên nghiệp.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43d52b1504c59c089958168eaad5aa13/thumbnails/thumbnail.jpg" width="600" alt="Demon Slayer Style Anime Storyboard">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43d52b1504c59c089958168eaad5aa13/thumbnails/thumbnail.jpg" width="600" alt="Storyboard Anime theo phong cách Demon Slayer">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6009)**
 
 **Tác giả:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) | **Nguồn:** [Link](https://x.com/saniaspeaks_/status/2065769980067770430) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Korean school revenge drama cinematic prompt
+### Prompt điện ảnh cho phim học đường Hàn Quốc về chủ đề báo thù
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed multi-shot prompt for a realistic Korean school drama scene featuring cinematic lighting, handheld camera movements, and intense character interactions.
+> Một prompt chi tiết đa cảnh quay cho phân cảnh phim học đường Hàn Quốc chân thực, với ánh sáng điện ảnh, chuyển động máy quay cầm tay và sự tương tác kịch tính giữa các nhân vật.
 
 #### 📝 Prompt
 
 ```
-[Style] Korean school anti-bullying revenge short film (Korean School Revenge Drama), authentic live-action cinematic texture, cold white corridor lighting, cool tones (Teal & Cold Grade), handheld photography, shallow depth of field (Shallow DOF), 9:16 vertical screen, English dialogue. All characters are played by adult actors as high school students, movements are cinematically styled, no gore or harmful outcomes.
-[Duration] 15 seconds
-[Scene] Modern Korean-style high school corridor, lockers on one side, classroom doors, cold white ceiling lights, floor tile reflections
-[Characters] Bully (tall male, school uniform jacket open, arrogant expression), Bullied (thin male, neat uniform, holding textbooks), Avenger (male in neat uniform, calm expression, determined eyes)
+[Phong cách] Phim ngắn học đường Hàn Quốc về chủ đề báo thù và chống bắt nạt (Korean School Revenge Drama), kết cấu điện ảnh live-action chân thực, ánh sáng hành lang trắng lạnh, tông màu lạnh (Teal & Cold Grade), quay phim cầm tay, độ sâu trường ảnh nông (Shallow DOF), màn hình dọc 9:16, thoại tiếng Anh. Tất cả nhân vật đều do diễn viên trưởng thành đóng vai học sinh trung học, các chuyển động được cách điệu theo phong cách điện ảnh, không có cảnh máu me hay kết quả gây hại.
+[Thời lượng] 15 giây
+[Bối cảnh] Hành lang trường trung học phong cách Hàn Quốc hiện đại, một bên là tủ đồ cá nhân, cửa lớp học, đèn trần trắng lạnh, sàn gạch phản chiếu ánh sáng
+[Nhân vật] Kẻ bắt nạt (nam cao, áo khoác đồng phục mở cúc, biểu cảm ngạo mạn), Nạn nhân (nam gầy, đồng phục chỉnh tề, ôm sách giáo khoa), Người báo thù (nam, đồng phục chỉnh tề, biểu cảm bình tĩnh, ánh mắt kiên định)
 
-[00:00-00:04] Scene 1: Corridor bullying setup (35mm Handheld Push-in)
-This segment involves only pushing and verbal threats, no other physical conflict.
-Medium shot slowly pushing in: The bully corners the victim against the lockers, pushes his shoulder with one hand, textbooks scatter on the floor, the victim lowers his head in endurance, avoiding eye contact.
-Slight handheld shake, accompanied by the metallic sound of lockers banging.
-[Dialogue/Lip Sync Guide] Bully (English, condescendingly mocking): "Nobody is coming to save you."
+[00:00-00:04] Cảnh 1: Thiết lập cảnh bắt nạt tại hành lang (Quay cầm tay 35mm, đẩy máy vào)
+Phân đoạn này chỉ bao gồm hành động xô đẩy và đe dọa bằng lời nói, không có xung đột vật lý nào khác.
+Cảnh trung quay đẩy chậm vào: Kẻ bắt nạt dồn nạn nhân vào tủ đồ, dùng một tay đẩy vai nạn nhân, sách giáo khoa rơi vãi trên sàn, nạn nhân cúi đầu chịu đựng, tránh giao tiếp bằng mắt.
+Có độ rung nhẹ của máy quay cầm tay, kèm theo âm thanh kim loại của tủ đồ va đập.
+[Hướng dẫn thoại/Khớp môi] Kẻ bắt nạt (tiếng Anh, chế giễu đầy khinh miệt): "Nobody is coming to save you."
 
-[00:04-00:08] Scene 2: The first slap (Whip Pan + Low Angle)
-A hand suddenly enters from the side of the frame, a loud slap hits the bully's cheek, quick whip pan following the hand's trajectory, sharp sound with corridor echo.
-Low angle: The bully spins half a turn, stumbles to the ground, holding his face as he crawls up, eyes red, looking up off-camera.
-[Dialogue/Lip Sync Guide] Bully (English, gritting teeth): "Who the hell did that?"
+[00:04-00:08] Cảnh 2: Cái tát đầu tiên (Quay lia nhanh + Góc thấp)
+Một bàn tay bất ngờ xuất hiện từ phía khung hình, một cái tát mạnh giáng vào má kẻ bắt nạt, máy quay lia nhanh theo quỹ đạo bàn tay, âm thanh sắc bén vang vọng trong hành lang.
+Góc thấp: Kẻ bắt nạt xoay nửa vòng, loạng choạng ngã xuống đất, ôm mặt bò dậy, mắt đỏ ngầu, nhìn lên phía ngoài khung hình.
+[Hướng dẫn thoại/Khớp môi] Kẻ bắt nạt (tiếng Anh, nghiến răng): "Who the hell did that?"
 
-[00:08-00:11] Scene 3: Confrontation reveal (Counter Shot)
-Reverse shot: The avenger stands in the cold corridor light, looking down at the bully, tone calm.
-[Dialogue/Lip Sync Guide] Avenger (English, low and calm): "Someone here to teach you a lesson."
-The bully roars, leaping up from the ground and punching at the avenger.
+[00:08-00:11] Cảnh 3: Tiết lộ màn đối đầu (Góc quay đối diện)
+Cảnh quay ngược: Người báo thù đứng trong ánh sáng hành lang lạnh lẽo, nhìn xuống kẻ bắt nạt, tông giọng bình tĩnh.
+[Hướng dẫn thoại/Khớp môi] Người báo thù (tiếng Anh, trầm và bình tĩnh): "Someone here to teach you a lesson."
+Kẻ bắt nạt gầm lên, lao từ dưới đất dậy và đấm vào người báo thù.
 
-[00:11-00:15] Scene 4: Chain slaps + overhead ending (Rapid Cuts → Top-down → Smash Cut)
-The avenger dodges the punch and grabs the bully's collar. Rapid cuts: Consecutive slaps to the bully's face, the bully's head whipping left and right, hair flying.
-Last 2 seconds camera angle change: Camera moves directly above the two for a vertical top-down overhead shot, showing the bully slumped on the floor, face up, avenger holding his collar.
-The avenger's other hand rises high toward the camera (back of hand toward lens), pauses for a split second, then the hand slams down, moving away from the camera toward the bully's face below—smash cut to black and mute the instant the slap is about to touch the face.
-The slap is aimed at the bully on the ground throughout, never toward the camera.
+[00:11-00:15] Cảnh 4: Chuỗi tát liên hoàn + kết thúc từ trên cao (Cắt cảnh nhanh → Góc từ trên xuống → Cắt đột ngột)
+Người báo thù né cú đấm và túm lấy cổ áo kẻ bắt nạt. Cắt cảnh nhanh: Những cái tát liên tiếp vào mặt kẻ bắt nạt, đầu kẻ bắt nạt vung vẩy sang trái và phải, tóc bay.
+2 giây cuối thay đổi góc máy: Máy quay di chuyển trực tiếp lên phía trên hai người cho một cú máy dọc từ trên xuống (top-down), cho thấy kẻ bắt nạt gục trên sàn, mặt hướng lên, người báo thù nắm chặt cổ áo.
+Tay còn lại của người báo thù giơ cao về phía máy quay (mu bàn tay hướng về ống kính), dừng lại trong tích tắc, sau đó bàn tay giáng xuống, di chuyển ra xa máy quay về phía mặt kẻ bắt nạt bên dưới—cắt đột ngột sang màn hình đen và tắt tiếng ngay khi cái tát sắp chạm vào mặt.
+Cái tát luôn nhắm vào kẻ bắt nạt trên mặt đất, không bao giờ hướng về phía máy quay.
 
-[Sound Design] Corridor ambient sound, sharp slaps with echo, intense wind-breaking sound on the last slap followed by instant silence and black. No BGM or only low string music in the background.
+[Thiết kế âm thanh] Âm thanh môi trường hành lang, tiếng tát sắc bén kèm tiếng vang, âm thanh xé gió dữ dội ở cái tát cuối cùng, theo sau là sự im lặng tức thì và màn hình đen. Không có nhạc nền hoặc chỉ có nhạc dây trầm ở phía sau.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0cf6430579f1557aa53b1cd3c46cddf8/thumbnails/thumbnail.jpg" width="600" alt="Korean school revenge drama cinematic prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0cf6430579f1557aa53b1cd3c46cddf8/thumbnails/thumbnail.jpg" width="600" alt="Prompt điện ảnh cho phim học đường Hàn Quốc về chủ đề báo thù">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6020)**
 
 **Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2065769074676638168) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Dragon International Airport
+### Sân bay Quốc tế Rồng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic fantasy cinematic showing a sky terminal built from crystal where dragons land and take off at sunset.
+> Một thước phim điện ảnh giả tưởng hoành tráng mô tả nhà ga trên không được xây dựng từ pha lê, nơi những chú rồng hạ cánh và cất cánh lúc hoàng hôn.
 
 #### 📝 Prompt
 
 ```
-The world's first dragon airport floats high above the clouds, a breathtaking sky terminal built from glowing crystal towers, golden bridges, and colossal landing platforms suspended in the heavens. The video opens with a cinematic aerial shot of majestic dragons arriving from distant kingdoms. A massive emerald dragon glides through the clouds while an ice dragon descends from snowy mountains and a fiery crimson dragon emerges from a glowing volcanic horizon.
+Sân bay dành cho rồng đầu tiên trên thế giới lơ lửng trên những tầng mây, một nhà ga trên không ngoạn mục được xây dựng từ những tòa tháp pha lê rực rỡ, những cây cầu vàng và các bệ hạ cánh khổng lồ treo lơ lửng giữa thiên đường. Video mở đầu bằng cảnh quay từ trên không đầy chất điện ảnh về những chú rồng hùng vĩ đang bay đến từ các vương quốc xa xôi. Một chú rồng lục bảo khổng lồ lướt qua những đám mây, trong khi một chú rồng băng hạ xuống từ những ngọn núi tuyết và một chú rồng đỏ rực lửa xuất hiện từ đường chân trời núi lửa rực sáng.
 
-The camera races through the bustling airport as dragons of every size land gracefully on enormous floating runways. Dragon riders guide their creatures toward elegant sky gates while magical cargo is loaded onto giant transport dragons. Clouds drift between the terminals as sunlight reflects from shimmering crystal structures.
+Máy quay lướt nhanh qua sân bay nhộn nhịp khi những chú rồng đủ kích cỡ hạ cánh duyên dáng trên các đường băng nổi khổng lồ. Những người cưỡi rồng dẫn dắt sinh vật của họ về phía các cổng trời thanh lịch trong khi hàng hóa ma thuật được chất lên những chú rồng vận tải khổng lồ. Những đám mây trôi giữa các nhà ga khi ánh nắng phản chiếu từ các cấu trúc pha lê lấp lánh.
 
-The action intensifies as several dragons launch from the airport in synchronized takeoffs. The camera follows them soaring between floating towers and glowing sky bridges, wings creating powerful gusts through the clouds. For the grand finale, a gigantic golden dragon departs from the main terminal and flies into a spectacular orange-and-purple sunset above an endless sea of clouds. The camera pulls back to reveal the entire dragon airport glowing magnificently in the sky, ultra-realistic, cinematic masterpiece, breathtaking scale, highly detailed dragons, fantasy realism, epic ending.
+Nhịp độ trở nên dồn dập khi nhiều chú rồng cùng cất cánh đồng loạt từ sân bay. Máy quay theo chân chúng bay lượn giữa các tòa tháp nổi và những cây cầu trên không rực sáng, đôi cánh tạo nên những luồng gió mạnh xuyên qua các tầng mây. Ở đoạn kết hoành tráng, một chú rồng vàng khổng lồ rời khỏi nhà ga chính và bay vào ánh hoàng hôn màu cam tím ngoạn mục phía trên biển mây vô tận. Máy quay lùi lại để lộ toàn cảnh sân bay rồng rực rỡ giữa bầu trời, siêu thực, kiệt tác điện ảnh, quy mô choáng ngợp, rồng chi tiết cao, hiện thực giả tưởng, cái kết sử thi.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07fe201d74d376851a6719c1360c988b/thumbnails/thumbnail.jpg" width="600" alt="Dragon International Airport">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07fe201d74d376851a6719c1360c988b/thumbnails/thumbnail.jpg" width="600" alt="Sân bay Quốc tế Rồng">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6007)**
 
 **Tác giả:** [Ai Doctor](https://x.com/DoctorAmna11) | **Nguồn:** [Link](https://x.com/DoctorAmna11/status/2065767722890465781) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Nike Denim Edition Commercial
+### Quảng cáo Nike Denim Edition
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 15-second premium product commercial prompt for the Nike Air Force 1 Low Denim Edition, featuring macro texture details and a studio reveal.
+> Một prompt quảng cáo sản phẩm cao cấp dài 15 giây cho Nike Air Force 1 Low Denim Edition, tập trung vào các chi tiết kết cấu macro và cảnh quay studio.
 
 #### 📝 Prompt
 
 ```
-### Seedance 2.0 — 15 Second Premium Product Commercial
+### Seedance 2.0 — Quảng cáo sản phẩm cao cấp dài 15 giây
 
 **Nike Air Force 1 Low Denim Edition**
-**Aspect Ratio:** 9:16 Vertical
-**Duration:** 15 Seconds
-**Style:** Luxury sneaker campaign, cinematic fashion commercial, ultra-realistic product showcase, premium sportswear advertising, high-end social media launch film.
+**Tỷ lệ khung hình:** 9:16 Dọc
+**Thời lượng:** 15 giây
+**Phong cách:** Chiến dịch giày sneaker sang trọng, quảng cáo thời trang điện ảnh, trình diễn sản phẩm siêu thực, quảng cáo đồ thể thao cao cấp, phim ra mắt trên mạng xã hội đẳng cấp.
 
-Treat each storyboard panel as a separate full-screen cinematic shot. Read left-to-right, top-to-bottom. Do not animate the storyboard itself. Every panel becomes an individual shot with realistic motion and camera behavior.
+Hãy coi mỗi bảng phân cảnh là một cảnh quay điện ảnh toàn màn hình riêng biệt. Đọc từ trái sang phải, từ trên xuống dưới. Không làm chuyển động chính bảng phân cảnh. Mỗi bảng sẽ trở thành một cảnh quay riêng lẻ với chuyển động và góc máy chân thực.
 
-**Product Fidelity**
-Maintain the exact Nike Air Force 1 Low Denim Edition design throughout all scenes. Preserve denim texture, stitching, swoosh shape, sole proportions, lace structure, outsole pattern, blue-and-white color palette, premium materials, branding details, and realistic lighting interaction.
+**Độ trung thực của sản phẩm**
+Duy trì chính xác thiết kế của Nike Air Force 1 Low Denim Edition trong tất cả các cảnh. Bảo toàn kết cấu denim, đường khâu, hình dáng logo swoosh, tỷ lệ đế giày, cấu trúc dây giày, hoa văn đế ngoài, bảng màu xanh-trắng, chất liệu cao cấp, chi tiết thương hiệu và sự tương tác ánh sáng chân thực.
 
 ---
 
-### SHOT 01 (0.0–1.0s)
+### CẢNH 01 (0,0–1,0 giây)
 
-Premium packaging reveal. Hands slide open a matte black Nike box on a studio table. Soft daylight reflections. Slow push-in camera movement.
+Tiết lộ bao bì cao cấp. Đôi tay trượt mở chiếc hộp Nike màu đen nhám trên bàn studio. Ánh sáng ban ngày phản chiếu nhẹ nhàng. Chuyển động máy quay đẩy chậm vào trong.
 
-### SHOT 02 (1.0–2.0s)
+### CẢNH 02 (1,0–2,0 giây)
 
-Unboxing close-up. Lid lifts. Denim Air Force 1 appears inside tissue wrapping. Cinematic focus pull revealing materials and craftsmanship.
+Cận cảnh mở hộp. Nắp hộp được nhấc lên. Đôi Air Force 1 Denim xuất hiện bên trong lớp giấy gói. Lấy nét điện ảnh làm nổi bật chất liệu và tay nghề thủ công.
 
-### SHOT 03 (2.0–3.0s)
+### CẢNH 03 (2,0–3,0 giây)
 
-Floating hero product shot. Sneaker suspended in a clean studio environment. Slow orbital camera movement emphasizing silhouette and proportions.
+Cảnh quay sản phẩm chính lơ lửng. Đôi giày treo lơ lửng trong không gian studio sạch sẽ. Chuyển động máy quay quỹ đạo chậm làm nổi bật hình dáng và tỷ lệ.
 
-### SHOT 04 (3.0–3.8s)
+### CẢNH 04 (3,0–3,8 giây)
 
-Macro denim detail. Extreme close-up of swoosh stitching and woven fabric texture. Light glides across material surface.
+Chi tiết denim macro. Cận cảnh cực đại các đường khâu swoosh và kết cấu vải dệt. Ánh sáng lướt nhẹ trên bề mặt chất liệu.
 
-### SHOT 05 (3.8–4.6s)
+### CẢNH 05 (3,8–4,6 giây)
 
-Toe-box macro. Crisp perforation details. Shallow depth of field. Premium luxury-product aesthetic.
+Macro phần mũi giày. Các chi tiết lỗ thoáng khí sắc nét. Độ sâu trường ảnh nông. Thẩm mỹ sản phẩm sang trọng cao cấp.
 
-### SHOT 06 (4.6–5.4s)
+### CẢNH 06 (4,6–5,4 giây)
 
-Heel branding close-up. "Nike Air" logo illuminated by soft rim light. Slow cinematic tilt upward.
+Cận cảnh thương hiệu ở gót giày. Logo "Nike Air" được chiếu sáng bởi ánh sáng viền dịu nhẹ. Máy quay nghiêng chậm lên trên.
 
-SHOT 07 (5.4–6.2s)
+CẢNH 07 (5,4–6,2 giây)
 
-Lifestyle angle. Model standing naturally in the sneakers. Camera circles subtly around the shoes. Urban atmosphere.
+Góc quay phong cách sống. Người mẫu đứng tự nhiên với đôi giày. Máy quay xoay nhẹ xung quanh đôi giày. Không khí đô thị.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96234ae0f89cce7267f8444e625ada09/thumbnails/thumbnail.jpg" width="600" alt="Nike Denim Edition Commercial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96234ae0f89cce7267f8444e625ada09/thumbnails/thumbnail.jpg" width="600" alt="Quảng cáo Nike Denim Edition">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6017)**
 
 **Tác giả:** [Al-Shamus](https://x.com/im_shahid7) | **Nguồn:** [Link](https://x.com/im_shahid7/status/2065756170766413942) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Coastal Downhill Skateboarding Chase
+### Cuộc rượt đuổi trượt ván đổ đèo ven biển
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-speed 15-second cinematic chase video of a woman skateboarding down a steep coastal hill towards a turquoise ocean, featuring realistic physics and a handheld camera feel.
+> Một video điện ảnh 15 giây tốc độ cao ghi lại cảnh một phụ nữ trượt ván đổ dốc xuống con đồi ven biển hướng về phía đại dương xanh ngọc, với hiệu ứng vật lý chân thực và cảm giác quay bằng tay.
 
 #### 📝 Prompt
 
 ```
-Create a 15-second realistic cinematic video of a woman skateboarding fast down a steep coastal hill road toward the ocean. Open with a dynamic rear chase angle from slightly above and behind her capturing the dramatic downhill slope and expansive ocean view ahead. The environment is a bright, sunny seaside town with narrow roads, stone walls, utility poles, small houses, rooftops, side streets, and lush green hills leading down to a vivid turquoise-blue coastline with large waves and towering white clouds.
-The woman has long black hair, soft natural facial features, warm light-medium skin, and a slim youthful build. Dress her in a stylish casual coastal outfit: an oversized blue shirt, denim pants, white sneakers, and a small slingbag. Her hair and clothing move naturally in the wind as she rides.
-She is skateboarding continuously and quickly downhill, carving gently and smoothly with believable balance and natural physics. The motion should feel exciting, free, and grounded in reality.
-Add a small number of cars on the road to make the scene feel alive - only a few, not heavy traffic. Include perhaps one car driving farther ahead in her lane, one parked vehicle near the roadside, and one occasional passing or oncoming car at a safe distance. The vehicles should feel natural and integrated into the town, adding realism and motion without becoming the focus. The road should still feel mostly open so the skateboarder remains the clear subject.
-Use realistic lighting, natural motion blur, subtle camera shake, and an immersive handheld/chase-camera feel. Keep the entire scene fully photorealistic, not animated or illustrated.
-For most of the video, keep the camera behind her as she rides fast downhill with the ocean stretching out in front of her. In the final few seconds, the camera glides from behind to the side and then arcs around to the front, revealing her face clearly while she is still riding. She looks calm, focused, and slightly smiling, enjoying the ride. End on the face reveal while she continues moving downhill.
-Audio: no background music. Ambient sound only - skateboard wheels rolling on pavement, wind, distant ocean, and light neighborhood traffic sounds.
+Tạo một video điện ảnh chân thực dài 15 giây về một người phụ nữ đang trượt ván nhanh xuống con đường đồi ven biển dốc hướng ra đại dương. Mở đầu bằng góc quay đuổi theo năng động từ phía sau và hơi cao hơn cô ấy, ghi lại độ dốc ấn tượng của con đồi và tầm nhìn bao quát ra đại dương phía trước. Bối cảnh là một thị trấn ven biển tươi sáng, đầy nắng với những con đường hẹp, tường đá, cột điện, những ngôi nhà nhỏ, mái nhà, các con hẻm và những ngọn đồi xanh mướt dẫn xuống đường bờ biển màu xanh ngọc lam sống động với những con sóng lớn và những đám mây trắng cao vút.
+Người phụ nữ có mái tóc đen dài, đường nét khuôn mặt tự nhiên, nhẹ nhàng, làn da sáng màu ấm áp và vóc dáng trẻ trung, mảnh mai. Hãy cho cô ấy mặc một bộ trang phục ven biển phong cách và giản dị: áo sơ mi xanh dáng rộng, quần jeans, giày thể thao trắng và một chiếc túi đeo chéo nhỏ. Tóc và quần áo của cô ấy chuyển động tự nhiên trong gió khi cô ấy lướt đi.
+Cô ấy trượt ván liên tục và nhanh chóng xuống dốc, thực hiện các cú lượn nhẹ nhàng và mượt mà với sự cân bằng đáng tin cậy và hiệu ứng vật lý tự nhiên. Chuyển động cần mang lại cảm giác phấn khích, tự do và chân thực.
+Thêm một vài chiếc xe hơi trên đường để khung cảnh trở nên sống động - chỉ một vài chiếc, không phải giao thông đông đúc. Có thể bao gồm một chiếc xe đang chạy xa phía trước trên làn đường của cô ấy, một chiếc xe đỗ gần lề đường và một chiếc xe thỉnh thoảng đi ngang qua hoặc đi ngược chiều ở khoảng cách an toàn. Các phương tiện cần trông tự nhiên và hòa hợp với thị trấn, tăng thêm tính chân thực và chuyển động mà không trở thành tâm điểm. Con đường vẫn nên tạo cảm giác thông thoáng để người trượt ván vẫn là chủ thể chính.
+Sử dụng ánh sáng chân thực, hiệu ứng nhòe chuyển động tự nhiên, độ rung máy tinh tế và cảm giác quay phim cầm tay/đuổi theo đầy lôi cuốn. Giữ cho toàn bộ khung cảnh hoàn toàn chân thực như ảnh chụp, không phải hoạt hình hay minh họa.
+Trong phần lớn video, hãy giữ máy quay phía sau cô ấy khi cô ấy trượt nhanh xuống dốc với đại dương trải dài phía trước. Trong vài giây cuối, máy quay lướt từ phía sau sang bên cạnh rồi vòng ra phía trước, để lộ rõ khuôn mặt của cô ấy trong khi cô ấy vẫn đang trượt. Cô ấy trông bình tĩnh, tập trung và hơi mỉm cười, tận hưởng chuyến đi. Kết thúc bằng cảnh quay cận mặt khi cô ấy vẫn đang tiếp tục di chuyển xuống dốc.
+Âm thanh: không có nhạc nền. Chỉ có âm thanh môi trường - tiếng bánh xe trượt ván lăn trên mặt đường, tiếng gió, tiếng đại dương xa xăm và tiếng giao thông nhẹ nhàng trong khu dân cư.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781422567613_t5dgsy_HKsB38nbwAAygmJ.jpg" width="600" alt="Coastal Downhill Skateboarding Chase">
+<img src="https://cms-assets.youmind.com/media/1781422567613_t5dgsy_HKsB38nbwAAygmJ.jpg" width="600" alt="Cuộc rượt đuổi trượt ván đổ đèo ven biển">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6004)**
 
 **Tác giả:** [Noor](https://x.com/noorlewisx) | **Nguồn:** [Link](https://x.com/noorlewisx/status/2065746957499605274) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Vertical Character Dance MV
+### MV nhảy dọc với nhân vật
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A comprehensive video generation prompt for creating dynamic 15-second vertical dance music videos starring a specific reference character.
+> Một câu lệnh (prompt) tạo video toàn diện để tạo các video âm nhạc nhảy dọc năng động dài 15 giây với nhân vật tham chiếu cụ thể.
 
 #### 📝 Prompt
 
 ```
-Generate a 15-second vertical dance music video using the person or character from @Image 1. Ensure the character expresses the music with their entire body and dances dynamically. 
+Tạo một video âm nhạc nhảy dọc dài 15 giây sử dụng người hoặc nhân vật từ @Image 1. Đảm bảo nhân vật thể hiện âm nhạc bằng toàn bộ cơ thể và nhảy một cách năng động.
 
 format: vertical_9x16
 fps: 24
 total_duration: 15s
 style:
-High-quality dance MV
-Cinematic
+MV nhảy chất lượng cao
+Điện ảnh
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7e19336a9114b1739466952d6eda6149/thumbnails/thumbnail.jpg" width="600" alt="Vertical Character Dance MV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7e19336a9114b1739466952d6eda6149/thumbnails/thumbnail.jpg" width="600" alt="MV nhảy dọc với nhân vật">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6024)**
 
 **Tác giả:** [Zeto](https://x.com/ZetoGroovin) | **Nguồn:** [Link](https://x.com/ZetoGroovin/status/2065738828221231578) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Magical Forest Discovery Storyboard
+### Storyboard Khám phá Khu rừng Kỳ ảo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fantasy storytelling prompt that tracks a character's discovery of a glowing alien egg in a magical forest, featuring consistent character identity across scenes.
+> Một gợi ý kể chuyện giả tưởng theo chân hành trình khám phá quả trứng ngoài hành tinh phát sáng trong khu rừng kỳ ảo của một nhân vật, đảm bảo tính nhất quán của nhân vật xuyên suốt các cảnh quay.
 
 #### 📝 Prompt
 
 ```
-Main Character Consistency
-Young adventurous woman, same appearance throughout all shots, realistic face, long dark hair, casual outdoor explorer outfit, expressive eyes, cinematic lighting, ultra-realistic style, detailed skin texture, natural movements, consistent character identity in every scene.
+Tính nhất quán của Nhân vật chính
+Người phụ nữ trẻ ưa phiêu lưu, ngoại hình đồng nhất trong tất cả các cảnh quay, khuôn mặt chân thực, tóc dài sẫm màu, trang phục thám hiểm ngoài trời thường ngày, đôi mắt biểu cảm, ánh sáng điện ảnh, phong cách siêu thực, kết cấu da chi tiết, chuyển động tự nhiên, nhân vật nhất quán trong mọi cảnh quay.
 
 ---
 
-### Scene 1 (0–3 sec) — Discovery
+### Cảnh 1 (0–3 giây) — Khám phá
 
-**Prompt:**
-A magical forest at sunrise filled with tall ancient trees, glowing plants, floating particles, and soft golden light filtering through the leaves. A young adventurous woman walks carefully through the forest, looking around with curiosity. Suddenly she notices a mysterious glowing egg resting among moss-covered roots. The egg emits a soft blue and purple light, illuminating the surrounding plants. The camera slowly pushes toward the egg as the girl kneels beside it with a surprised expression. Ultra-realistic cinematic fantasy movie, shallow depth of field, volumetric lighting, highly detailed environment, 4K.
-
----
-
-### Scene 2 (3–7 sec) — The Egg Hatches
-
-**Prompt:**
-Close-up of the mysterious glowing egg in the forest. Small cracks begin spreading across its luminous shell while magical energy pulses from within. The young woman watches in amazement, her eyes reflecting the glowing light. Tiny glowing particles float into the air as the cracks rapidly expand. Bright colorful light escapes through the openings. Cinematic camera orbit around the egg, dramatic fantasy atmosphere, ultra-realistic textures, movie-quality visual effects, detailed lighting, 4K.
+**Gợi ý:**
+Một khu rừng kỳ ảo lúc bình minh với những cây cổ thụ cao lớn, thực vật phát sáng, các hạt bụi lơ lửng và ánh sáng vàng dịu nhẹ xuyên qua tán lá. Một người phụ nữ trẻ ưa phiêu lưu đang cẩn thận bước đi trong rừng, tò mò nhìn xung quanh. Đột nhiên, cô phát hiện một quả trứng phát sáng bí ẩn nằm giữa những rễ cây phủ đầy rêu. Quả trứng tỏa ra ánh sáng xanh dương và tím dịu nhẹ, làm bừng sáng các loài thực vật xung quanh. Máy quay từ từ tiến về phía quả trứng khi cô gái quỳ xuống bên cạnh với vẻ mặt ngạc nhiên. Phim giả tưởng điện ảnh siêu thực, độ sâu trường ảnh nông, ánh sáng thể tích, môi trường chi tiết cao, 4K.
 
 ---
 
-### Scene 3 (7–10 sec) — First Contact
+### Cảnh 2 (3–7 giây) — Quả trứng nở
 
-**Prompt:**
-The egg finally opens, revealing an adorable baby alien creature with large glowing eyes, tiny ears, and soft bioluminescent skin. The creature slowly climbs out of the shell and looks directly at the young woman. It tilts its head curiously and gives a warm smile. The girl smiles back with wonder and excitement. Magical forest lights shimmer around them as the camera slowly pulls back to reveal the beautiful fantasy environment. Heartwarming cinematic ending, ultra-realistic creature design, emotional movie scene, volumetric lighting, 4K masterpiece.
+**Gợi ý:**
+Cận cảnh quả trứng phát sáng bí ẩn trong rừng. Những vết nứt nhỏ bắt đầu lan rộng trên lớp vỏ phát quang trong khi năng lượng kỳ ảo rung động từ bên trong. Người phụ nữ trẻ kinh ngạc dõi theo, đôi mắt cô phản chiếu ánh sáng rực rỡ. Những hạt sáng nhỏ li ti bay vào không trung khi các vết nứt nhanh chóng mở rộng. Ánh sáng rực rỡ đầy màu sắc thoát ra từ các khe hở. Máy quay điện ảnh xoay quanh quả trứng, bầu không khí giả tưởng kịch tính, kết cấu siêu thực, hiệu ứng hình ảnh chất lượng điện ảnh, ánh sáng chi tiết, 4K.
 
-**Style Tags:**
-Ultra-realistic, cinematic fantasy adventure, Hollywood movie quality, volumetric lighting, magical forest, emotional storytelling, highly detailed, realistic physics, depth of field, masterpiece, 4K, epic fantasy atmosphere.
+---
+
+### Cảnh 3 (7–10 giây) — Lần đầu tiếp xúc
+
+**Gợi ý:**
+Quả trứng cuối cùng cũng mở ra, để lộ một sinh vật ngoài hành tinh bé nhỏ đáng yêu với đôi mắt to phát sáng, đôi tai nhỏ xíu và làn da phát quang sinh học mềm mại. Sinh vật từ từ bò ra khỏi vỏ và nhìn thẳng vào người phụ nữ trẻ. Nó nghiêng đầu đầy tò mò và nở một nụ cười ấm áp. Cô gái mỉm cười đáp lại với vẻ ngạc nhiên và phấn khích. Những ánh sáng kỳ ảo trong rừng lung linh xung quanh họ khi máy quay từ từ lùi lại để lộ khung cảnh giả tưởng tuyệt đẹp. Kết thúc điện ảnh đầy cảm động, thiết kế sinh vật siêu thực, cảnh phim giàu cảm xúc, ánh sáng thể tích, kiệt tác 4K.
+
+**Thẻ phong cách:**
+Siêu thực, phiêu lưu giả tưởng điện ảnh, chất lượng phim Hollywood, ánh sáng thể tích, khu rừng kỳ ảo, kể chuyện giàu cảm xúc, chi tiết cao, vật lý chân thực, độ sâu trường ảnh, kiệt tác, 4K, bầu không khí giả tưởng sử thi.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df1276c70fff66948d33c141ce2c2bcb/thumbnails/thumbnail.jpg" width="600" alt="Magical Forest Discovery Storyboard">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df1276c70fff66948d33c141ce2c2bcb/thumbnails/thumbnail.jpg" width="600" alt="Storyboard Khám phá Khu rừng Kỳ ảo">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6010)**
 
 **Tác giả:** [Jasmine Ai](https://x.com/jasminekhan90_) | **Nguồn:** [Link](https://x.com/jasminekhan90_/status/2065718254128255249) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Soccer Knuckleball Free Kick Simulation
+### Mô phỏng cú sút phạt Knuckleball trong bóng đá
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex video prompt for a soccer goal scene, using diagrammatic reference images to control ball trajectory and physical movement.
+> Một video prompt phức tạp cho cảnh ghi bàn trong bóng đá, sử dụng các hình ảnh tham chiếu dạng sơ đồ để kiểm soát quỹ đạo bóng và chuyển động vật lý.
 
 #### 📝 Prompt
 
 ```
-Use @image1 side-view trajectory diagram) and @image2 (top-down trajectory diagram) as the exact reference for the ball's flight path. The red line in @Image1 defines the ball's vertical arc — rising sharply after the kick, peaking around the halfway line, then dipping down hard into the left goal (knuckleball dip). The red line in @Image2 defines the ball's horizontal route — traveling diagonally from the kick spot near the halfway line straight toward the goal in the lower-left, curving only slightly at the very end into the corner. The ball is kicked from the point labeled "kick" and ends inside the goal labeled "goal". Shot count: 4 | Duration: 10s | Aspect ratio: 16:9 CONTEXT: Fictional FIFA World Cup match, Japan vs Denmark. Packed stadium under bright daylight, green striped pitch. A Japanese national team player — blonde hair, left-footed (southpaw), blue Japan home kit — takes a long-range direct free kick. The ball is struck with no spin (knuckleball), so it flies fast and straight, then suddenly dips and dives into the top corner of the Denmark goal. STYLE: cinematic sports broadcast realism, 4K ultra-high resolution, natural daylight, sharp detail, realistic grass and stadium crowd, smooth slow-motion accents, stable footage, no jitter, no distortion, no deformation, photorealistic players. [0s – 2.5s] SHOT 1 — THE STRIKE. Low-angle medium shot behind the blonde left-footed Japanese player. He plants his right foot and swings his left foot through the ball with a clean, flat no-spin contact. Camera: slow push-in. Crowd noise swells. [2.5s – 5s] SHOT 2 — RISING FLIGHT (side view). Side-on tracking shot following the ball as it rises and climbs over the halfway line, exactly matching the upward arc of the red line in @Image1. The ball wobbles slightly with no rotation. Camera: smooth lateral tracking with the ball. [5s – 7.5s] SHOT 3 — THE DIP (overhead transition). High overhead angle showing the ball cutting diagonally across the pitch toward the lower-left goal, matching the route of the red line in @Image2, then dipping downward. Camera: high aerial following the ball's path. [7.5s – 10s] SHOT 4 — THE GOAL. Behind-the-goal shot. The ball dives into the top corner of the Denmark net, rippling the netting. The goalkeeper dives too late. Camera: slow pull-out as the crowd erupts. Slow-motion on the net ripple. Audio: live stadium ambience, rising crowd roar, sharp ball-strike sound, explosive goal celebration. Avoid: jitter, distortion, blur, deformation, extra players blocking the ball, wrong-footed kick (must be LEFT foot), spinning/curling ball (must be knuckleball, no spin). NO SUBTITLES. NO TEXT ON SCREEN. NO CAPTIONS. NO WATERMARKS.
+Sử dụng @image1 (sơ đồ quỹ đạo góc nhìn ngang) và @image2 (sơ đồ quỹ đạo nhìn từ trên xuống) làm tham chiếu chính xác cho đường bay của bóng. Đường màu đỏ trong @Image1 xác định vòng cung dọc của bóng — bay vọt lên mạnh mẽ sau cú sút, đạt đỉnh ở khoảng giữa sân, sau đó lao xuống mạnh vào góc trái khung thành (cú sút knuckleball). Đường màu đỏ trong @Image2 xác định lộ trình ngang của bóng — di chuyển chéo từ điểm sút gần vạch giữa sân thẳng về phía khung thành ở góc dưới bên trái, chỉ hơi cong nhẹ ở đoạn cuối vào góc lưới. Bóng được sút từ điểm đánh dấu "kick" và kết thúc bên trong khung thành đánh dấu "goal". Số lượng cảnh: 4 | Thời lượng: 10 giây | Tỷ lệ khung hình: 16:9 BỐI CẢNH: Trận đấu FIFA World Cup giả định, Nhật Bản đấu với Đan Mạch. Sân vận động chật kín khán giả dưới ánh sáng ban ngày rực rỡ, mặt sân cỏ sọc xanh. Một cầu thủ đội tuyển quốc gia Nhật Bản — tóc vàng, thuận chân trái, mặc áo đấu sân nhà màu xanh của Nhật Bản — thực hiện cú sút phạt trực tiếp từ khoảng cách xa. Bóng được sút không xoáy (knuckleball), nên bay nhanh và thẳng, sau đó bất ngờ lao xuống và găm vào góc cao khung thành Đan Mạch. PHONG CÁCH: chân thực như truyền hình thể thao điện ảnh, độ phân giải siêu cao 4K, ánh sáng ban ngày tự nhiên, chi tiết sắc nét, cỏ và khán giả sân vận động chân thực, hiệu ứng quay chậm mượt mà, cảnh quay ổn định, không rung lắc, không biến dạng, không méo hình, cầu thủ chân thực như ảnh chụp. [0s – 2.5s] CẢNH 1 — CÚ SÚT. Cảnh quay trung bình góc thấp phía sau cầu thủ Nhật Bản tóc vàng thuận chân trái. Anh trụ chân phải và vung chân trái vào bóng với cú tiếp xúc sạch, phẳng, không xoáy. Máy quay: chậm rãi tiến lại gần. Tiếng ồn khán giả tăng dần. [2.5s – 5s] CẢNH 2 — ĐƯỜNG BAY VỌT LÊN (góc nhìn ngang). Cảnh quay theo dõi từ bên cạnh theo đường bóng bay lên và vượt qua vạch giữa sân, khớp chính xác với vòng cung hướng lên của đường màu đỏ trong @Image1. Bóng hơi chao đảo nhẹ mà không xoay. Máy quay: theo dõi ngang mượt mà theo bóng. [5s – 7.5s] CẢNH 3 — CÚ LAO XUỐNG (chuyển cảnh từ trên cao). Góc nhìn từ trên cao cho thấy bóng cắt chéo sân về phía khung thành góc dưới bên trái, khớp với lộ trình của đường màu đỏ trong @Image2, sau đó lao xuống. Máy quay: từ trên cao theo sát đường bay của bóng. [7.5s – 10s] CẢNH 4 — BÀN THẮNG. Cảnh quay từ phía sau khung thành. Bóng lao vào góc cao lưới Đan Mạch, làm rung lưới. Thủ môn đổ người quá muộn. Máy quay: chậm rãi lùi ra xa khi khán giả vỡ òa. Quay chậm cảnh lưới rung. Âm thanh: không khí sân vận động trực tiếp, tiếng hò reo của đám đông tăng dần, tiếng sút bóng sắc nét, tiếng ăn mừng bàn thắng bùng nổ. Tránh: rung lắc, biến dạng, mờ, méo hình, cầu thủ thừa che khuất bóng, sút sai chân (phải là chân TRÁI), bóng xoáy/cong (phải là knuckleball, không xoáy). KHÔNG PHỤ ĐỀ. KHÔNG CHỮ TRÊN MÀN HÌNH. KHÔNG CHÚ THÍCH. KHÔNG HÌNH MỜ.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c06f3e1a6ce756953879f90f6785eb79/thumbnails/thumbnail.jpg" width="600" alt="Soccer Knuckleball Free Kick Simulation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c06f3e1a6ce756953879f90f6785eb79/thumbnails/thumbnail.jpg" width="600" alt="Mô phỏng cú sút phạt Knuckleball trong bóng đá">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6023)**
 
 **Tác giả:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Nguồn:** [Link](https://x.com/tanabe_fragm/status/2065695931455136060) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Fizz Pop CGI Drink Commercial
+### Quảng cáo đồ uống CGI Fizz Pop
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Pixar-style 3D animated commercial for a fruit drink set in a sunlit morning kitchen.
+> Một video quảng cáo hoạt hình 3D phong cách Pixar về một loại đồ uống trái cây, lấy bối cảnh trong căn bếp ngập tràn ánh nắng buổi sáng.
 
 #### 📝 Prompt
 
 ```
-15-second Pixar CGI animation commercial for FIZZ POP fizzy fruit drink. Use hero frame as strict visual anchor for characters, product, setting, lighting, and color.
+Video quảng cáo hoạt hình CGI phong cách Pixar dài 15 giây cho đồ uống trái cây có ga FIZZ POP. Sử dụng khung hình chính làm điểm tham chiếu hình ảnh nghiêm ngặt cho nhân vật, sản phẩm, bối cảnh, ánh sáng và màu sắc.
 
-STYLE: Full Pixar feature-film CGI quality. Warm sunny kitchen. Golden morning
+PHONG CÁCH: Chất lượng CGI phim điện ảnh Pixar. Căn bếp ấm áp, đầy nắng. Buổi sáng vàng óng
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/de3bf8cd861f72447762147dfb1c9f3d/thumbnails/thumbnail.jpg" width="600" alt="Fizz Pop CGI Drink Commercial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/de3bf8cd861f72447762147dfb1c9f3d/thumbnails/thumbnail.jpg" width="600" alt="Quảng cáo đồ uống CGI Fizz Pop">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6018)**
 
@@ -1197,123 +1197,123 @@ CẢNH 5 (0:12–0:15, HERO CU kéo lùi, 85mm): Chai và ly đặt trên cỏ, 
 **Tác giả:** [Harboris](https://x.com/harboriis) | **Nguồn:** [Link](https://x.com/harboriis/status/2065665730809565678) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Robot World Cup broadcast video prompt
+### Lời nhắc video phát sóng World Cup Robot
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A high-quality sports broadcast prompt for generating a sci-fi football match where silver metallic robots play for the Chinese team against humans in the 2030 World Cup.
+> Một lời nhắc phát sóng thể thao chất lượng cao để tạo ra trận bóng đá khoa học viễn tưởng, nơi các robot kim loại bạc thi đấu cho đội tuyển Trung Quốc đối đầu với con người tại World Cup 2030.
 
 #### 📝 Prompt
 
 ```
-[Style] World Cup TV live broadcast texture (Live Sports Broadcast), authentic broadcast camera positions, slight signal scan lines, realistic sci-fi elements (Photorealistic Robots), 8K ultra-high definition.
-[Duration] 15 seconds
-[First Frame] Use the uploaded image as the first frame: a long-haired woman in a red vest in the stands cheering with surrounding fans waving red flags, including a live scoreboard.
-[Scene] 2030 World Cup Final venue, a massive stadium filled to capacity, green football pitch. The Chinese team consists entirely of silver-white metallic humanoid robot players (hydraulic structures at joints, red team crest on chest), the US team consists of ordinary human players in white jerseys.
+[Phong cách] Kết cấu phát sóng trực tiếp World Cup (Live Sports Broadcast), vị trí đặt máy quay phát sóng chân thực, hiệu ứng nhiễu sóng nhẹ, các yếu tố khoa học viễn tưởng thực tế (Photorealistic Robots), độ phân giải siêu cao 8K.
+[Thời lượng] 15 giây
+[Khung hình đầu tiên] Sử dụng hình ảnh đã tải lên làm khung hình đầu tiên: một phụ nữ tóc dài mặc áo vest đỏ trên khán đài đang cổ vũ cùng những người hâm mộ xung quanh vẫy cờ đỏ, bao gồm cả bảng tỷ số trực tiếp.
+[Bối cảnh] Sân vận động chung kết World Cup 2030, sân vận động khổng lồ chật kín khán giả, sân cỏ xanh. Đội tuyển Trung Quốc bao gồm toàn bộ các cầu thủ robot hình người bằng kim loại màu bạc trắng (cấu trúc thủy lực tại các khớp, huy hiệu đội màu đỏ trên ngực), đội tuyển Mỹ bao gồm các cầu thủ con người bình thường mặc áo đấu màu trắng.
 
-[00:00-00:03] Scene 1: Stands opening
-Continuation of the first frame: The woman in the red vest and fans behind her wave red flags and cheer, the stands are a sea of red, the crowd is restless, slight flickering of live scan lines. Ambient live sound: overwhelming cheers and drums.
+[00:00-00:03] Cảnh 1: Khán đài mở đầu
+Tiếp nối khung hình đầu tiên: Người phụ nữ mặc áo vest đỏ và những người hâm mộ phía sau vẫy cờ đỏ và reo hò, khán đài là một biển đỏ, đám đông náo nhiệt, hiệu ứng nhiễu sóng trực tiếp nhẹ. Âm thanh trực tiếp: tiếng reo hò và tiếng trống vang dội.
 
-[00:03-00:10] Scene 2: Robot passing + bicycle kick (Broadcast Wide → Slow-mo)
-Switch to a standard broadcast angle overlooking the pitch: three Chinese robot players pass quickly on the ground near the penalty area, one-touch passing back and forth, sharp sound of metallic feet hitting the ball, human US players missing their tackles.
-A winger robot suddenly lofts a pass to the center of the box, the center robot leaps into the air, its entire metallic body rotating backward in the air for a bicycle kick (Bicycle Kick, switched to Super Slow-mo)—the ball rockets into the top corner, the net bulging violently.
-The scoreboard in the top left corner changes to CHN 2 - 0 USA.
-Live commentator roars excitedly (English): "Unbelievable! A bicycle kick! 2-0 China!"
+[00:03-00:10] Cảnh 2: Robot chuyền bóng + cú móc bóng (Góc quay rộng → Quay chậm)
+Chuyển sang góc quay phát sóng tiêu chuẩn nhìn xuống sân: ba cầu thủ robot Trung Quốc chuyền bóng nhanh trên mặt đất gần khu vực cấm địa, chuyền bóng một chạm qua lại, âm thanh sắc nét của bàn chân kim loại chạm vào bóng, các cầu thủ con người của Mỹ không kịp cản phá.
+Một robot chạy cánh bất ngờ chuyền bóng bổng vào trung tâm vòng cấm, robot trung tâm nhảy lên không trung, toàn bộ cơ thể kim loại xoay ngược trên không để thực hiện cú móc bóng (Bicycle Kick, chuyển sang chế độ siêu chậm Super Slow-mo)—quả bóng lao thẳng vào góc cao khung thành, lưới rung lên dữ dội.
+Bảng tỷ số ở góc trên bên trái thay đổi thành CHN 2 - 0 USA.
+Bình luận viên trực tiếp gào thét đầy phấn khích (tiếng Anh): "Unbelievable! A bicycle kick! 2-0 China!"
 
-[00:10-00:15] Scene 3: Match cut back to stands cheering
-Cut back to the same camera position as the first frame: the woman in the red vest jumps up from her seat, raising both fists in celebration, long hair flying, a brilliant smile, surrounding fans collectively standing up in excitement, red flags waving frantically, people hugging each other.
-The sound of the crowd reaches its peak, the camera tilts up slightly and freezes on the moment she jumps up to cheer.
+[00:10-00:15] Cảnh 3: Cắt cảnh quay lại khán đài cổ vũ
+Cắt trở lại vị trí máy quay giống như khung hình đầu tiên: người phụ nữ mặc áo vest đỏ bật dậy khỏi ghế, giơ cả hai nắm đấm ăn mừng, tóc dài bay trong gió, nụ cười rạng rỡ, những người hâm mộ xung quanh đồng loạt đứng dậy đầy phấn khích, cờ đỏ vẫy liên hồi, mọi người ôm chầm lấy nhau.
+Âm thanh của đám đông đạt đến đỉnh điểm, máy quay hơi hướng lên trên và dừng lại ở khoảnh khắc cô ấy bật dậy ăn mừng.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61024539a3067ba7e008c38158960f3d/thumbnails/thumbnail.jpg" width="600" alt="Robot World Cup broadcast video prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61024539a3067ba7e008c38158960f3d/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc video phát sóng World Cup Robot">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6021)**
 
 **Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2065653004158529841) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Cargo Plane Action Sequence
+### Phân cảnh hành động trên máy bay vận tải
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-altitude action scene featuring secret agents battling on the wing of a military cargo plane at sunset.
+> Một phân cảnh hành động trên cao với các đặc vụ đang chiến đấu trên cánh của một chiếc máy bay vận tải quân sự vào lúc hoàng hôn.
 
 #### 📝 Prompt
 
 ```
-Hyper-realistic cinematic action sequence, 15 seconds, aspect ratio 16:9. 
+Phân cảnh hành động điện ảnh siêu thực, 15 giây, tỷ lệ khung hình 16:9. 
 
-A large military cargo plane is flying high above the clouds at sunset. The rear cargo ramp is open, violent wind tears through the aircraft, and two fighters are battling on the wing of the plane. One is a skilled secret agent in a dark tactical suit, the other is a dangerous enemy operative in black combat gear. The metal wing vibrates, engines roar, clouds rush past below, and loose cargo inside the aircraft is being pulled toward the open ramp.  
+Một chiếc máy bay vận tải quân sự lớn đang bay cao trên những tầng mây vào lúc hoàng hôn. Cửa khoang hàng phía sau mở rộng, gió rít dữ dội xuyên qua máy bay, và hai chiến binh đang giao chiến trên cánh máy bay. Một người là đặc vụ lành nghề trong bộ đồ tác chiến tối màu, người kia là một đặc vụ đối phương nguy hiểm trong trang phục chiến đấu đen. Cánh kim loại rung chuyển, động cơ gầm rú, mây bay vút qua bên dưới, và hàng hóa rời bên trong máy bay đang bị hút về phía cửa khoang đang mở. 
 
-Camera angle 1: wide exterior shot, the cargo plane cuts through the sky above the clouds, the rear ramp is open, and the two fighters struggle on the wing near the engine while wind rips at their clothing.  
+Góc máy 1: cảnh quay toàn cảnh từ bên ngoài, chiếc máy bay vận tải xé toạc bầu trời phía trên những tầng mây, cửa khoang phía sau mở ra, và hai chiến binh đang vật lộn trên cánh máy bay gần động cơ trong khi gió giật mạnh làm quần áo họ bay phấp phới. 
 
-Camera angle 2: close dynamic shot on the wing, the secret agent and enemy operative exchange fast punches and kicks while trying to keep balance on the vibrating metal surface. Their hands grip the edge of the wing, boots slide, and the wind is powerful and dangerous.  
+Góc máy 2: cảnh quay cận cảnh đầy năng động trên cánh máy bay, đặc vụ và đối phương tung ra những cú đấm và đá nhanh như chớp trong khi cố gắng giữ thăng bằng trên bề mặt kim loại đang rung lắc. Tay họ bám chặt vào mép cánh, giày trượt trên bề mặt, và sức gió vô cùng mạnh mẽ và nguy hiểm. 
 
-Camera angle 3: dramatic side shot, the enemy almost throws the agent off the wing. The agent slips, hangs from the edge with one hand, then pulls himself back up and counterattacks. Inside the plane, cargo crates break loose and slide toward the open rear ramp.  
+Góc máy 3: cảnh quay ngang đầy kịch tính, đối phương suýt đẩy đặc vụ rơi khỏi cánh máy bay. Đặc vụ trượt chân, treo mình trên mép cánh bằng một tay, sau đó kéo người lên và phản công. Bên trong máy bay, các thùng hàng bị bung ra và trượt về phía cửa khoang đang mở. 
 
-Final action beat: the agent defeats the enemy with one hard strike, then sprints across the wing and leaps through the open rear cargo ramp back into the aircraft just as the enemy loses balance and falls away into the clouds.  Final moment: inside the cargo plane, the agent lands hard and rolls across the metal floor as loose cargo slides past, the open ramp behind him framing the sky. 
+Nhịp hành động cuối: đặc vụ hạ gục đối phương bằng một cú đánh mạnh, sau đó chạy nước rút trên cánh và nhảy qua cửa khoang vận tải phía sau để trở lại máy bay ngay khi đối phương mất thăng bằng và rơi xuống những tầng mây. Khoảnh khắc cuối: bên trong máy bay vận tải, đặc vụ tiếp đất mạnh và lăn trên sàn kim loại khi hàng hóa rời trượt qua, cửa khoang mở phía sau tạo khung hình cho bầu trời. 
 
-Style: hyper-realistic, cinematic, intense action, realistic wind force, dramatic sky, strong sense of altitude and danger, fast but readable camera movement, detailed aircraft surface, rushing clouds, no text, no logos, no cartoon style, no slow motion, no extra main characters. Keep proportions. Keep style and features. Aspect ratio
+Phong cách: siêu thực, điện ảnh, hành động cường độ cao, lực gió chân thực, bầu trời kịch tính, cảm giác về độ cao và sự nguy hiểm mạnh mẽ, chuyển động máy quay nhanh nhưng dễ theo dõi, bề mặt máy bay chi tiết, mây bay vút qua, không văn bản, không logo, không phong cách hoạt hình, không quay chậm, không thêm nhân vật chính. Giữ nguyên tỷ lệ. Giữ nguyên phong cách và các đặc điểm. Tỷ lệ khung hình
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f482c77eabae517f4410c92d32014582/thumbnails/thumbnail.jpg" width="600" alt="Cargo Plane Action Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f482c77eabae517f4410c92d32014582/thumbnails/thumbnail.jpg" width="600" alt="Phân cảnh hành động trên máy bay vận tải">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6005)**
 
 **Tác giả:** [DeCat](https://x.com/DeCat2025) | **Nguồn:** [Link](https://x.com/DeCat2025/status/2065650279165341917) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Sentient Road Signs Urban Animation
+### Hoạt hình đô thị: Biển báo giao thông có tri giác
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A highly detailed cinematic prompt for an urban scene where pictograms on road signs and signals come to life and move playfully in a photorealistic environment.
+> Một prompt điện ảnh chi tiết về cảnh quan đô thị, nơi các biểu tượng trên biển báo và đèn tín hiệu giao thông trở nên sống động và di chuyển đầy tinh nghịch trong một môi trường chân thực.
 
 #### 📝 Prompt
 
 ```
-Image 1 = Storyboard reference. Based on the attached storyboard image {{Image 1}}, create a high-quality 15-second, 16:9 landscape photorealistic video. Theme: 'A world where symbols inside road signs and signals in a real city play freely when no one is looking.' Basic Concept: The stage is a highly realistic urban intersection and road space. The overall look is a beautiful, cinematic, atmospheric photorealistic film scene. However, the surreal element is that only the 'symbols, people, numbers, arrows, bicycle marks, etc.' drawn inside the signs, traffic lights, and road markings move freely, happily, and dynamically as if they were alive. The key is not to add flashy VFX around them. The focus of interest is the movement of the markings within the signs themselves. Minimize traces of light, particles, auras, or magical effects; if necessary, limit them to subtle afterimages or blurs. Priority is given to making what the symbols inside are doing immediately clear. Rules for Worldview/Presentation: Sign bodies, traffic light bodies, cityscapes, roads, utility poles, buildings, and people exist realistically. Primarily, the designs, pictograms, numbers, arrows, and symbols inside the signs and signals move. They should basically move within the sign's frame, but in some cuts, they can slightly protrude, almost jump out, lean out, or play by returning inside the frame. Movements are comical and cute but not too childish. Maintain an exquisite reality where one might think 'this could really be happening.' Do not rely on effects. Interest should come from the 'acting of the symbols themselves'—running, dancing, jumping, multiplying, lining up, yielding, rushing, being puzzled, looking back, stretching, shrinking, turning. Feature many signs, signals, and guide displays in the urban space, and show different movements happening in various parts of the screen to give the feeling that the entire city is secretly alive. Video Flow: Based on the storyboard panel order, follow this flow: 0-2s: A beautiful establishing shot of a city intersection or road. Could be evening/magic hour or a clear morning/afternoon. A person is walking away or looking at the intersection. It looks like an ordinary street at first, but upon closer look, the green pedestrian figure in the signal is not walking normally but stepping happily. An introduction to make the audience think, 'Wait, did it just move?' 2-5s: Quick close-ups of signals and signs. The green signal figure walks -> runs -> jumps lightly -> more companions appear and move in line. Red signal figure stands tall -> hands on hips -> dances -> waves arms. Countdown numbers don't just decrease but shake, jump, and lean forward as if in a hurry. Arrow signs deform their tips or lines to show the direction of travel. Each movement must be large and clearly visible at a glance. 5-8s: Increase the variety of signs and show the bustle of the whole city. In a wide pedestrian signal, multiple figures march, overtake, and form ranks. Bicycle marks move as if pedaling. Round signs for 'No Entry' or 'Road Closed' have their white bands or internal symbols showing a grumpy face or shifting slightly. Signs for construction, caution, or school zones feature people or silhouettes looking panicked, running, or having a short conversation. Arrows on electronic boards flow continuously, connecting like waves. Emphasize the density here—'many signs are present, with different movements happening everywhere.' 8-12s: Section with more dynamic movement. The green signal figure runs to the edge of the sign frame, leans slightly out, then returns. The red figure dances while signaling 'Wait, wait!' Arrow marks compete for direction, then spin and line up. Countdown displays shrink or bounce according to the remaining seconds. Signs in the distance, overhead boards, etc., all move simultaneously. This part raises tension through 'acting and editing' rather than effects. 12-15s: Final wide shot showing many signs throughout the city alive at once. Mid-to-wide angle of the intersection. Numerous signals, arrow signs, guide boards, caution signs, and bicycle signs exist in the frame, with their symbols moving freely. However, the city atmosphere itself is beautiful, cinematic, and leaves a quiet resonance. Finally, pedestrians walk away without noticing, leaving an impression of a small celebration continuing only within the signs. Style: Ultra-high quality photorealistic cinematic; beautiful live-action film style; atmospheric use of natural light; cinematic lens feel; texture of real urban space; detailed reproduction of city signs, signals, and guide boards. Cute but not too childish, maintaining cinematic quality. Camera: Start with a wide intro shot, followed by close-ups of signs, mid-range shots, and deep cityscapes. Use light dolly, pan, tilt, forward movement, and lateral movement to avoid a static slideshow. Zoom in enough to see the movements inside the signs. Ideally, the final shot should be a slightly high or wide-angle view of the urban space with many signs. Editing: Tempo is brisk within 15 seconds, but ensure movements are clear. Maintain length for each cut to convey 'what is playing and how.' Rhythmic but maintains high-quality film montage style, not excessive flashy MV editing. Movement Direction (Most Important): Symbols, people, numbers, and arrows inside signs should act freely as follows: walking, running, skipping, jumping, lining up, increasing, decreasing, dancing, waving, panicking, getting angry, standing proudly, overtaking, protruding slightly from the frame and returning, responding to symbols in other signs, splitting into multiple bodies within the same sign, numbers bouncing/leaning/hurrying/shrinking/stretching, arrows undulating/curving/asserting direction, bicycle marks pedaling, caution sign figures running/stopping/looking back. All movements should be unified by showing the 'symbols inside are alive,' not the 'sign itself talking.' Color/Light: Can be morning, day, evening, or night, but prioritize beautiful natural light or cinematic urban lighting. Elegant contrast and realistic colors. Green/red signals and blue/yellow/red signs should be vivid but avoid looking too CG-like. Prohibited: No flashy VFX; do not hide behind magical light, particles, explosions, or excessive glow. Signs as a whole are not allowed to be personified or walk around. No large-scale floating signs or city-wide fantasy transformations. No simple slideshows. No text, subtitles, logos, or watermarks. Do not lean too far into children's animation; maintain live-action film-level beauty.
+Hình ảnh 1 = Tài liệu tham khảo phân cảnh (storyboard). Dựa trên hình ảnh phân cảnh {{Image 1}} được đính kèm, hãy tạo một video chân thực, chất lượng cao, thời lượng 15 giây, khung hình ngang 16:9. Chủ đề: 'Một thế giới nơi các biểu tượng bên trong biển báo và đèn tín hiệu ở một thành phố thực tế tự do vui đùa khi không có ai nhìn thấy.' Khái niệm cơ bản: Bối cảnh là một không gian đường phố và giao lộ đô thị cực kỳ chân thực. Tổng thể mang vẻ đẹp của một thước phim điện ảnh, giàu cảm xúc và chân thực. Tuy nhiên, yếu tố siêu thực nằm ở chỗ chỉ có các 'biểu tượng, con người, con số, mũi tên, ký hiệu xe đạp, v.v.' được vẽ bên trong các biển báo, đèn giao thông và vạch kẻ đường là di chuyển tự do, vui vẻ và năng động như thể chúng đang sống. Chìa khóa là không thêm các hiệu ứng VFX hào nhoáng xung quanh chúng. Trọng tâm là chuyển động của các ký hiệu ngay bên trong biển báo. Hạn chế tối đa các vệt sáng, hạt bụi, hào quang hoặc hiệu ứng phép thuật; nếu cần, chỉ giới hạn ở các dư ảnh hoặc độ mờ tinh tế. Ưu tiên hàng đầu là làm cho hành động của các biểu tượng bên trong trở nên rõ ràng ngay lập tức. Quy tắc về Thế giới quan/Thể hiện: Thân biển báo, thân đèn giao thông, cảnh quan thành phố, đường xá, cột điện, tòa nhà và con người đều tồn tại một cách chân thực. Về cơ bản, các thiết kế, biểu tượng, con số, mũi tên và ký hiệu bên trong biển báo và đèn tín hiệu sẽ di chuyển. Chúng nên di chuyển trong khung hình của biển báo, nhưng ở một số cảnh quay, chúng có thể hơi nhô ra, gần như nhảy ra ngoài, nghiêng người ra hoặc vui đùa rồi quay trở lại bên trong khung hình. Chuyển động mang tính hài hước và dễ thương nhưng không quá trẻ con. Duy trì một sự chân thực tinh tế khiến người xem có thể nghĩ rằng 'điều này thực sự có thể đang xảy ra'. Không dựa vào các hiệu ứng. Sự thú vị phải đến từ 'diễn xuất của chính các biểu tượng'—chạy, nhảy múa, nhảy nhót, nhân bản, xếp hàng, nhường đường, vội vã, bối rối, ngoái nhìn, vươn vai, co lại, xoay người. Hãy đưa vào nhiều biển báo, đèn tín hiệu và bảng hướng dẫn trong không gian đô thị, đồng thời thể hiện các chuyển động khác nhau diễn ra ở nhiều phần khác nhau của màn hình để tạo cảm giác rằng cả thành phố đang bí mật sống động. Luồng video: Dựa trên thứ tự phân cảnh, hãy tuân theo luồng này: 0-2 giây: Cảnh quay toàn cảnh đẹp mắt về một giao lộ hoặc con đường trong thành phố. Có thể là buổi chiều tà/giờ vàng hoặc một buổi sáng/chiều trong trẻo. Một người đang đi bộ hoặc nhìn vào giao lộ. Thoạt nhìn, đó là một con phố bình thường, nhưng khi nhìn kỹ hơn, hình người màu xanh trên đèn tín hiệu dành cho người đi bộ không đi bộ bình thường mà đang bước đi đầy vui vẻ. Một phần giới thiệu để khán giả nghĩ rằng, 'Khoan đã, nó vừa di chuyển phải không?'. 2-5 giây: Cận cảnh nhanh các đèn tín hiệu và biển báo. Hình người trên đèn xanh đi bộ -> chạy -> nhảy nhẹ -> nhiều bạn đồng hành xuất hiện và di chuyển theo hàng. Hình người trên đèn đỏ đứng thẳng -> chống nạnh -> nhảy múa -> vẫy tay. Các con số đếm ngược không chỉ giảm dần mà còn rung lắc, nhảy nhót và nghiêng người về phía trước như đang vội vã. Các biển báo mũi tên biến dạng đầu hoặc đường nét để chỉ hướng di chuyển. Mỗi chuyển động phải lớn và dễ dàng nhìn thấy trong nháy mắt. 5-8 giây: Tăng sự đa dạng của các biển báo và thể hiện sự nhộn nhịp của cả thành phố. Trên đèn tín hiệu dành cho người đi bộ rộng, nhiều hình người cùng diễu hành, vượt lên và xếp hàng. Các ký hiệu xe đạp di chuyển như đang đạp xe. Các biển báo tròn 'Cấm vào' hoặc 'Đường cấm' có các dải trắng hoặc biểu tượng bên trong thể hiện khuôn mặt cáu kỉnh hoặc dịch chuyển nhẹ. Các biển báo công trường, cảnh báo hoặc khu vực trường học có hình người hoặc bóng người trông hoảng loạn, đang chạy hoặc đang trò chuyện ngắn. Các mũi tên trên bảng điện tử chảy liên tục, kết nối như những con sóng. Nhấn mạnh mật độ ở đây—'có rất nhiều biển báo, với các chuyển động khác nhau diễn ra ở khắp mọi nơi.' 8-12 giây: Phần có chuyển động năng động hơn. Hình người trên đèn xanh chạy đến mép khung hình biển báo, nghiêng người ra một chút rồi quay lại. Hình người trên đèn đỏ nhảy múa trong khi ra hiệu 'Đợi đã, đợi đã!'. Các ký hiệu mũi tên tranh giành hướng đi, sau đó xoay tròn và xếp hàng. Các bảng đếm ngược co lại hoặc nảy lên theo số giây còn lại. Các biển báo ở xa, bảng treo trên cao, v.v., tất cả đều di chuyển đồng thời. Phần này nâng cao sự kịch tính thông qua 'diễn xuất và biên tập' thay vì hiệu ứng. 12-15 giây: Cảnh quay toàn cảnh cuối cùng cho thấy nhiều biển báo khắp thành phố cùng sống động một lúc. Góc quay từ trung bình đến rộng về giao lộ. Vô số đèn tín hiệu, biển báo mũi tên, bảng hướng dẫn, biển báo cảnh báo và biển báo xe đạp xuất hiện trong khung hình, với các biểu tượng của chúng di chuyển tự do. Tuy nhiên, bầu không khí thành phố vẫn đẹp, đậm chất điện ảnh và để lại dư âm tĩnh lặng. Cuối cùng, người đi bộ bước đi mà không hề hay biết, để lại ấn tượng về một lễ hội nhỏ chỉ tiếp diễn bên trong các biển báo. Phong cách: Điện ảnh chân thực chất lượng cực cao; phong cách phim người đóng đẹp mắt; sử dụng ánh sáng tự nhiên đầy cảm xúc; cảm giác ống kính điện ảnh; kết cấu không gian đô thị thực tế; tái tạo chi tiết các biển báo thành phố, đèn tín hiệu và bảng hướng dẫn. Dễ thương nhưng không quá trẻ con, duy trì chất lượng điện ảnh. Máy quay: Bắt đầu bằng cảnh quay toàn cảnh, theo sau là cận cảnh các biển báo, cảnh quay trung bình và cảnh quan thành phố sâu. Sử dụng các kỹ thuật dolly, pan, tilt, chuyển động tiến và ngang để tránh cảm giác như một trình chiếu tĩnh. Zoom đủ gần để thấy các chuyển động bên trong biển báo. Lý tưởng nhất, cảnh quay cuối cùng nên là góc nhìn từ trên cao hoặc góc rộng của không gian đô thị với nhiều biển báo. Biên tập: Nhịp độ nhanh trong vòng 15 giây, nhưng đảm bảo các chuyển động rõ ràng. Duy trì độ dài cho mỗi cảnh cắt để truyền tải 'cái gì đang diễn ra và diễn ra như thế nào'. Nhịp nhàng nhưng duy trì phong cách dựng phim chất lượng cao, không lạm dụng biên tập MV hào nhoáng. Hướng chuyển động (Quan trọng nhất): Các biểu tượng, con người, con số và mũi tên bên trong biển báo nên hành động tự do như sau: đi bộ, chạy, nhảy chân sáo, nhảy nhót, xếp hàng, tăng lên, giảm đi, nhảy múa, vẫy tay, hoảng loạn, tức giận, đứng tự hào, vượt lên, nhô ra một chút khỏi khung hình rồi quay lại, phản ứng với các biểu tượng trong các biển báo khác, tách thành nhiều cơ thể trong cùng một biển báo, các con số nảy/nghiêng/vội vã/co lại/vươn ra, mũi tên uốn lượn/cong/khẳng định hướng đi, ký hiệu xe đạp đạp xe, hình người trên biển báo cảnh báo chạy/dừng lại/ngoái nhìn. Tất cả các chuyển động nên được thống nhất bằng cách thể hiện 'các biểu tượng bên trong đang sống', không phải 'bản thân biển báo đang nói chuyện'. Màu sắc/Ánh sáng: Có thể là buổi sáng, ban ngày, buổi tối hoặc ban đêm, nhưng ưu tiên ánh sáng tự nhiên đẹp hoặc ánh sáng đô thị điện ảnh. Độ tương phản thanh lịch và màu sắc chân thực. Đèn tín hiệu xanh/đỏ và biển báo xanh dương/vàng/đỏ nên sống động nhưng tránh trông quá giống CG. Cấm: Không sử dụng VFX hào nhoáng; không ẩn nấp sau ánh sáng phép thuật, hạt bụi, vụ nổ hoặc độ sáng quá mức. Các biển báo nói chung không được phép nhân hóa hoặc đi lại. Không có biển báo bay quy mô lớn hoặc biến đổi giả tưởng trên toàn thành phố. Không có trình chiếu đơn giản. Không văn bản, phụ đề, logo hoặc hình mờ. Không nghiêng quá nhiều về hoạt hình trẻ em; duy trì vẻ đẹp ở mức phim người đóng.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0fb18a092bfb1c48259d81691eb3a15b/thumbnails/thumbnail.jpg" width="600" alt="Sentient Road Signs Urban Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0fb18a092bfb1c48259d81691eb3a15b/thumbnails/thumbnail.jpg" width="600" alt="Hoạt hình đô thị: Biển báo giao thông có tri giác">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6022)**
 
 **Tác giả:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **Nguồn:** [Link](https://x.com/Ryuki_Yano/status/2065642863350919459) | **Đã xuất bản:** Jun 13, 2026
 
 ---
-### Hair Salon Transformation Ad Prompt
+### Lời nhắc quảng cáo biến hình tại tiệm làm tóc
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic beauty commercial prompt showing a realistic transformation from wavy to straight hair in a luxury salon setting.
+> Lời nhắc cho video quảng cáo làm đẹp đậm chất điện ảnh, thể hiện sự thay đổi chân thực từ tóc xoăn sang tóc thẳng trong bối cảnh tiệm làm tóc sang trọng.
 
 #### 📝 Prompt
 
 ```
-Use the uploaded image as the exact character reference. Maintain the same face, eyes, skin tone, hair color, and identity throughout the entire video.
+Sử dụng hình ảnh đã tải lên làm tham chiếu nhân vật chính xác. Duy trì cùng một khuôn mặt, đôi mắt, tông màu da, màu tóc và danh tính trong suốt toàn bộ video.
 
-15-second cinematic salon transformation video.
+Video biến hình tại tiệm làm tóc đậm chất điện ảnh dài 15 giây.
 
-Scene 1 (0-3s):
-Close-up of the beautiful young woman with long wavy dark brown hair. She looks at the camera and smiles softly. Luxury salon background, warm lighting, shallow depth of field. Slow camera push-in.
+Cảnh 1 (0-3 giây):
+Cận cảnh một cô gái trẻ xinh đẹp với mái tóc nâu sẫm dài gợn sóng. Cô nhìn vào máy quay và mỉm cười nhẹ nhàng. Bối cảnh tiệm làm tóc sang trọng, ánh sáng ấm áp, độ sâu trường ảnh nông. Máy quay từ từ tiến lại gần.
 
-Scene 2 (3-8s):
-A professional hairstylist begins straightening her hair with a silver flat iron. Steam gently rises from the straightener. The camera follows the flat iron moving smoothly through the hair. Detailed hair strands transform from soft waves into sleek straight hair. Cinematic slow motion.
+Cảnh 2 (3-8 giây):
+Một nhà tạo mẫu tóc chuyên nghiệp bắt đầu duỗi tóc cho cô bằng máy duỗi tóc màu bạc. Hơi nước bốc lên nhẹ nhàng từ máy duỗi. Máy quay theo sát chiếc máy duỗi di chuyển mượt mà qua mái tóc. Các sợi tóc chi tiết biến đổi từ những lọn sóng mềm mại thành mái tóc thẳng mượt mà. Chuyển động chậm đậm chất điện ảnh.
 
-Scene 3 (8-12s):
-Multiple beauty shots from different angles. The hair flows naturally as more sections become perfectly straight, silky, and glossy. Dramatic lighting reflections on the hair. Premium luxury salon atmosphere.
+Cảnh 3 (8-12 giây):
+Nhiều góc quay làm đẹp khác nhau. Mái tóc chuyển động tự nhiên khi các phần tóc khác dần trở nên thẳng tắp, mượt mà và bóng bẩy. Ánh sáng phản chiếu đầy ấn tượng trên mái tóc. Không gian tiệm làm tóc cao cấp, sang trọng.
 
-Scene 4 (12-15s):
-Final reveal. The woman stands in front of a large illuminated mirror, touching her ultra-smooth glass-like straight hair. She smiles confidently and admires the transformation. Hair shines beautifully under salon lights. Camera slowly rotates around her and ends with a stunning close-up.
+Cảnh 4 (12-15 giây):
+Kết quả cuối cùng. Người phụ nữ đứng trước một chiếc gương lớn có đèn chiếu sáng, chạm vào mái tóc thẳng mượt như gương của mình. Cô mỉm cười tự tin và chiêm ngưỡng sự thay đổi. Mái tóc tỏa sáng rực rỡ dưới ánh đèn tiệm. Máy quay xoay chậm quanh cô và kết thúc bằng một cú cận cảnh tuyệt đẹp.
 
-Pixar-quality 3D animation, realistic hair physics, smooth motion, beauty commercial style, luxury salon, cinematic camera movement, ultra detailed, glossy hair reflections, professional advertisement quality, 9:16 vertical video, high realism, masterpiece, 8K.
+Hoạt ảnh 3D chất lượng Pixar, vật lý tóc chân thực, chuyển động mượt mà, phong cách quảng cáo làm đẹp, tiệm làm tóc sang trọng, chuyển động máy quay điện ảnh, siêu chi tiết, phản chiếu tóc bóng mượt, chất lượng quảng cáo chuyên nghiệp, video dọc 9:16, độ chân thực cao, kiệt tác, 8K.
 
-Negative Prompt:
-low quality, blurry, face distortion, changing face, identity change, extra fingers, bad hands, flickering, duplicate person, deformed hair, ugly face, text, watermark, logo, cropped face, unstable animation.
+Lời nhắc phủ định (Negative Prompt):
+chất lượng thấp, mờ, biến dạng khuôn mặt, thay đổi khuôn mặt, thay đổi danh tính, thừa ngón tay, bàn tay xấu, nhấp nháy, trùng lặp người, tóc biến dạng, khuôn mặt xấu, văn bản, hình mờ, logo, cắt mất khuôn mặt, hoạt ảnh không ổn định.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34f09081f1d813756cae1407f0f14bb1/thumbnails/thumbnail.jpg" width="600" alt="Hair Salon Transformation Ad Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34f09081f1d813756cae1407f0f14bb1/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc quảng cáo biến hình tại tiệm làm tóc">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6013)**
 
@@ -3629,6 +3629,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-14T11:14:43.818Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-14T14:21:17.761Z</sub>
 
 </div>

@@ -361,294 +361,293 @@
 
 > 📝 按發布日期排序（最新優先）
 
-### Theatrical Anime Action Maid Combat
+### 劇場版動畫動作：女僕戰鬥
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A highly detailed theatrical anime action prompt for a 15-second sequence of a pink-haired maid performing sword combat in a moonlit gothic courtyard.
+> 這是一個高度細緻的劇場版動畫動作提示詞，用於製作一段 15 秒的短片，內容為一名粉色頭髮的女僕在月光下的哥德式庭院中進行劍術戰鬥。
 
 #### 📝 提示詞
 
 ```
-[Metadata] 15 seconds, 128 BPM, Theatrical Anime Action Cinema, Ultra High-End 4K, Cinematic Lighting, Ray Tracing, highly detailed background, dramatic depth of field, exaggerated foreshortening, extreme close-ups alternating with dramatic wide shots, fluid sword choreography, seamless enemy-cleaving movement, natural anatomy, no duplicated limbs, no extra arms or legs. [Wardrobe/Protagonist] @[image1] : Maintain identical character design, pink twin-tail maid, same facial proportions, same outfit materials, same silhouette, same expression style across all shots. [Storyboard] Flowing sword-based multi-enemy elimination sequence. Calm, expressionless execution. Every slash transitions directly into the next movement without stopping. [Anatomy Rules] Strict human anatomy. Two arms, two legs only. Natural weight transfer. Motion blur never forms additional limbs. All sword swings follow realistic shoulder rotation, hip drive, footwork, momentum, and recovery. [World Building] Moonlit gothic manor district. Vast stone courtyard surrounded by ornate black iron gates, cathedral-like arches, towering rose-covered walls, silver moonlight cutting through drifting mist. The maid naturally belongs to this aristocratic night-world. [Enemy Rules] Multiple masked executioners and armored pursuers attack from all directions. Distinct physiques and silhouettes. Enemies continuously enter from front, rear, side, elevated positions. [Attack Variation] Primary focus: elegant sword techniques. Draw slashes, rising cuts, spinning cuts, reverse-grip transitions, low sweeps, sidestep counters, flowing redirections, rapid chain attacks. Every enemy is defeated with a unique sword action. [Environment] Wet reflective stone floor, drifting flower petals, moonlit fog, shattered marble statues, gothic pillars creating layered depth, strong rim lights and volumetric moonbeams. [Mood] Cold concentration. No shouting. No rage. Only overwhelming precision. The protagonist appears bored while effortlessly cutting through overwhelming numbers. [Music] Low cello drones, ticking percussion, metallic impacts synchronized to blade contact, brief silences before major strikes, rising strings toward the climax. [Color Logic] Black-and-white maid outfit contrasted against pale pink hair. Cool silver-blue moonlight with soft magenta highlights. High-contrast cinematic grading. [Camera/Direction] Extreme Close-Up and Wide Shot alternation throughout. Aggressive camera movement, dramatic push-ins, whip pans, low-angle hero shots, overhead tracking, rotating camera transitions. [Style] Theatrical Anime Film, Action Masterpiece, Ultra Detailed, Dynamic Sword Combat, Cinematic Storyboard. Shot 1 (1.0s / Wide) Dozens of masked pursuers slowly surround the lone maid in the moonlit courtyard. Camera cranes downward from above, revealing the overwhelming encirclement. Shot 2 (0.8s / Extreme Close-Up) Half-lidded eye. Completely unimpressed. A faint moon reflection glides across her
+[Metadata] 15 秒，128 BPM，劇場版動畫動作電影，超高階 4K，電影級燈光，光線追蹤，高度細節背景，戲劇性景深，誇張的透視縮短，極端特寫與戲劇性廣角鏡頭交替，流暢的劍術編排，無縫的敵方斬擊動作，自然人體結構，無肢體重疊，無多餘手臂或腿部。[Wardrobe/Protagonist] @[image1]：保持角色設計一致，粉色雙馬尾女僕，相同的面部比例，相同的服裝材質，相同的輪廓，在所有鏡頭中保持相同的表情風格。[Storyboard] 流暢的劍術多敵殲滅序列。冷靜、無表情的處決。每一次斬擊都直接過渡到下一個動作，中間不停頓。[Anatomy Rules] 嚴格的人體結構。僅限兩臂兩腿。自然的重心轉移。動態模糊絕不形成額外肢體。所有揮劍動作皆遵循真實的肩部旋轉、腰部發力、步法、慣性與收勢。[World Building] 月光下的哥德式莊園區。廣闊的石砌庭院，四周環繞著華麗的黑鐵大門、大教堂般的拱門、高聳且爬滿玫瑰的牆壁，銀色月光穿透漂浮的薄霧。女僕自然地融入這個貴族般的暗夜世界。[Enemy Rules] 多名蒙面劊子手與重裝追擊者從四面八方襲來。具有鮮明的體格與輪廓。敵人持續從前方、後方、側面及高處湧入。[Attack Variation] 主要焦點：優雅的劍術技巧。拔刀斬、上挑斬、旋轉斬、反手握劍轉換、低位橫掃、側步反擊、流暢的轉向、快速連擊。每名敵人都以獨特的劍術動作擊敗。[Environment] 濕潤且具反射效果的石地板、漂浮的花瓣、月光霧氣、破碎的大理石雕像、營造層次深度的哥德式柱子，強烈的邊緣光與體積光月光束。[Mood] 冷靜的專注。沒有吶喊。沒有憤怒。只有壓倒性的精準。主角在輕鬆斬殺大量敵人時顯得百無聊賴。[Music] 低沉的大提琴嗡鳴聲、滴答作響的打擊樂、與刀刃接觸同步的金屬撞擊聲、重大打擊前的短暫寂靜、邁向高潮時漸強的弦樂。[Color Logic] 黑白女僕裝與淡粉色頭髮形成對比。冷銀藍色月光搭配柔和的洋紅色高光。高對比度電影級調色。[Camera/Direction] 全程交替使用極端特寫與廣角鏡頭。激進的運鏡、戲劇性的推鏡、快速橫搖、低角度英雄鏡頭、俯視追蹤、旋轉鏡頭過渡。[Style] 劇場版動畫電影，動作傑作，超細節，動態劍術戰鬥，電影級分鏡。鏡頭 1 (1.0s / 廣角) 數十名蒙面追擊者在月光庭院中緩緩包圍孤身一人的女僕。攝影機從上方吊臂下移，揭示出壓倒性的包圍網。鏡頭 2 (0.8s / 極端特寫) 半閉的雙眼。完全不為所動。一抹淡淡的月光倒影滑過她的眼眸
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eaf85131be56b240f363ea989123c7c9/thumbnails/thumbnail.jpg" width="600" alt="Theatrical Anime Action Maid Combat">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eaf85131be56b240f363ea989123c7c9/thumbnails/thumbnail.jpg" width="600" alt="劇場版動畫動作：女僕戰鬥">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6001)**
 
 **作者:** [あぁく](https://x.com/kik0ai1jikake) | **來源:** [Link](https://x.com/kik0ai1jikake/status/2065972896510705775) | **發布時間:** Jun 14, 2026
 
 ---
-### 80s Retro OVA Egyptian God Animation
+### 80 年代復古 OVA 風格埃及神祇動畫
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A vintage 80s OVA style animation prompt featuring Egyptian gods Anubis and Sobek in a comedic strength competition within a royal palace.
+> 一個 80 年代復古 OVA 風格的動畫提示詞，描繪埃及神祇阿努比斯 (Anubis) 與索貝克 (Sobek) 在皇宮中進行一場滑稽的力量競賽。
 
 #### 📝 提示詞
 
 ```
-Fine hand-drawn animation, 80s retro OVA style. Scene 1: Inside an Egyptian royal palace, the powerful jackal god Anubis and the powerful crocodile god Sobek stand side by side, together lifting a giant boulder. Their expressions are tense as they focus intensely on keeping the rock above their heads. A human pharaoh slowly walks before them, hands behind his back, observing who can hold the boulder longer. The Pharaoh says, "Only one of you can accompany me on my next mission—only the strongest." Anubis and Sobek are one meter apart, with the pharaoh standing in front. Scene 2: Sobek suddenly has a spark of inspiration, a cunning smile appearing on his face. He tilts his head slightly toward Anubis with a sly grin, his tail tip reaching toward Anubis's armpit. Anubis remains looking forward, ignoring everything around him, focused only on holding up the boulder. Scene 3: A close-up shows Sobek's tail tip gently and smoothly brushing against Anubis's armpit. Anubis's suppressed laughter is heard in the background, indicating he is very ticklish. Scene 4: A close-up shows Anubis's upper body as Sobek's tail tip continues to tickle his armpit. Anubis has his eyes closed, grinning and letting out suppressed laughter while trying his best to keep the boulder up. Scene 5: Sobek's tail continues to tickle Anubis's armpit; Anubis closes his eyes and laughs out loud. The tickling continues, Anubis bursts into laughter, drops the boulder behind him, and hugs himself as the sensation stops. Anubis falls to the ground, still clutching his stomach from laughter. Sobek still holds the boulder above his head, looking on with satisfaction. Scene 6: The Pharaoh nods to Sobek and says, "It seems you are the one." Anubis is still lying on the ground giggling. Both Sobek and Anubis are muscular and wear armbands. Anubis also wears a neck collar. Their voices are deep and powerful. Audio is in English.
+精緻手繪動畫，80 年代復古 OVA 風格。場景 1：在埃及皇宮內，強大的胡狼神阿努比斯與強大的鱷魚神索貝克並肩站立，共同舉起一塊巨大的巨石。他們表情緊張，全神貫注地將巨石保持在頭頂上方。一位人類法老雙手背在身後，緩緩走在他們面前，觀察誰能支撐得更久。法老說：「你們之中只有一人能陪我執行下一個任務——只有最強者。」阿努比斯與索貝克相距一公尺，法老站在前方。場景 2：索貝克突然靈機一動，臉上浮現出狡黠的笑容。他歪著頭對阿努比斯露出詭計多端的微笑，尾巴尖端伸向阿努比斯的腋下。阿努比斯依然目視前方，無視周遭一切，專注於舉起巨石。場景 3：特寫鏡頭顯示索貝克的尾巴尖端輕柔且流暢地刷過阿努比斯的腋下。背景中傳來阿努比斯壓抑的笑聲，顯示他非常怕癢。場景 4：特寫鏡頭顯示阿努比斯的上半身，索貝克的尾巴尖端持續搔癢他的腋下。阿努比斯閉著眼睛，咧嘴笑著並發出壓抑的笑聲，同時盡力保持巨石不掉落。場景 5：索貝克的尾巴繼續搔癢阿努比斯的腋下；阿努比斯閉上眼睛大笑出聲。搔癢持續進行，阿努比斯爆發出笑聲，將巨石丟在身後，並在感覺停止時抱住自己。阿努比斯倒在地上，仍因大笑而摀著肚子。索貝克依然將巨石舉在頭頂，滿意地看著這一幕。場景 6：法老向索貝克點頭並說：「看來就是你了。」阿努比斯仍躺在地上咯咯笑。索貝克與阿努比斯皆肌肉發達並配戴臂環。阿努比斯還戴著頸圈。他們的聲音低沉且充滿力量。音訊為英文。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3fee9d08beb5cb3ab2ef3224d54bbcc/thumbnails/thumbnail.jpg" width="600" alt="80s Retro OVA Egyptian God Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3fee9d08beb5cb3ab2ef3224d54bbcc/thumbnails/thumbnail.jpg" width="600" alt="80 年代復古 OVA 風格埃及神祇動畫">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6011)**
 
 **作者:** [migrok](https://x.com/migrok293703) | **來源:** [Link](https://x.com/migrok293703/status/2065932892753326503) | **發布時間:** Jun 13, 2026
 
 ---
-### Senior Trot Dance Storyboard Video
+### 資深 TROT 舞步分鏡影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video generation prompt for Seedance 2.0 that uses a 16-panel storyboard and character sheet to create a consistent 15-second animation of a cheerful senior woman dancing.
+> 這是一個為 Seedance 2.0 設計的詳細影片生成提示詞，利用 16 格分鏡與角色設定表，製作一段 15 秒、風格一致且充滿活力的長輩跳舞動畫。
 
 #### 📝 提示詞
 
 ```
-Generate a cheerful 15-second senior trot dance video based on the 16-panel storyboard and the character sheet. Keep the same joyful 70-year-old Korean grandmother, with the same short softly curled gray hair, warm smile, natural wrinkles, body proportions, outfit, shoes, and accessories throughout the whole video. She wears a loose beige linen midi dress with abstract black, navy, olive green, and small red brush-print patterns, short sleeves, relaxed A-line silhouette, long pendant necklace, simple bracelet, light socks and comfortable brown flat shoes. Scene: minimal bright indoor studio, warm beige wall, clean floor, soft natural light, small plant on a white side table in the background. Follow the storyboard in order and keep the choreography dynamic but senior-friendly: power opening, walk-in step, side sway, upward point, low trot bounce, half-turn shoulder pose, big arm sweep, gentle spin, small front kick, lean-back wave, tiny jump accent, low bounce pose, confident fist pose, big open celebration, high-leg accent, ending finger-heart pose. The motion should feel cheerful, rhythmic, easy trot dance, 4/4 rhythm, around 105 BPM, bright grandmother energy — not random shaking, not repeated posing, not acrobatic, not too fast.
+根據 16 格分鏡與角色設定表，生成一段 15 秒、充滿活力的長輩 TROT 舞步影片。在整段影片中，請保持同一位 70 歲、開朗的韓國奶奶形象，確保其短而柔順的灰捲髮、溫暖的笑容、自然的皺紋、身體比例、服裝、鞋子與配件始終一致。她身穿寬鬆的米色亞麻中長裙，裙上帶有黑色、海軍藍、橄欖綠與小紅點的抽象筆觸印花，短袖、寬鬆的 A 字剪裁，配戴長項鍊、簡約手環、淺色襪子與舒適的棕色平底鞋。場景：極簡明亮的室內攝影棚，溫暖的米色牆面，乾淨的地板，柔和的自然光，背景白色邊桌上擺放一盆小植物。請依照分鏡順序執行，並保持編舞動感且適合長輩：強而有力的開場、走位、側身搖擺、向上指、低位 TROT 彈跳、半轉肩部姿勢、大動作揮手、輕柔旋轉、小前踢、後傾揮手、輕微跳躍強調、低位彈跳姿勢、自信握拳姿勢、大動作慶祝、抬腿強調、結尾手指愛心姿勢。動作應呈現出開朗、有節奏感、輕鬆的 TROT 舞步，4/4 拍，約 105 BPM，展現奶奶的活力 — 避免隨機晃動、重複姿勢、特技動作或過快節奏。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781422607822_dzasc7_HKuobjVa0AAgZnn.jpg" width="600" alt="Senior Trot Dance Storyboard Video">
+<img src="https://cms-assets.youmind.com/media/1781422607822_dzasc7_HKuobjVa0AAgZnn.jpg" width="600" alt="資深 TROT 舞步分鏡影片">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6025)**
 
 **作者:** [노드 팔라딘 | Node Paladin](https://x.com/NodePaladin) | **來源:** [Link](https://x.com/NodePaladin/status/2065930257023259121) | **發布時間:** Jun 13, 2026
 
 ---
-### Alien Ice Canyon Escape
+### 外星冰峽谷逃生
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A shot-by-shot action prompt for a high-speed traversal through a collapsing alien ice canyon, focusing on survival and cinematic tension.
+> 這是一個分鏡動作提示詞，用於描述在崩塌的外星冰峽谷中進行高速穿越的場景，重點在於生存與電影般的張力。
 
 #### 📝 提示詞
 
 ```
-Alien ice canyon: a high-speed traversal turns into survival as the environment begins collapsing around the path.  
-Wide aerial: narrow canyon, ship flying fast between towering ice walls. 
-First crack: subtle fracture spreading along one side. 
-Break: massive ice slab detaches, crashing into the path ahead. 
-Aggressive dive: pilot drops lower, skimming the ground to avoid falling debris. 
-Chain collapse: both sides start breaking, canyon narrowing in real time. 
-Close call: ice spikes crashing inches behind the ship. 
-Blind turn: path curves sharply, visibility blocked by falling snow and debris. 
-Near-impact: ship clips ice, destabilizing trajectory.
-Recovery: rapid correction, barely regaining control. 
-Final escape: ship bursts out as canyon seals behind it.  
-Fast, grounded, extremely readable danger.
+外星冰峽谷：一場高速穿越演變成生存挑戰，環境開始在路徑周圍崩塌。
+廣角空拍：狹窄的峽谷，飛船在聳立的冰牆間高速飛行。
+最初的裂痕：細微的裂縫沿著一側蔓延。
+崩裂：巨大的冰塊脫落，撞擊在前方路徑上。
+激進俯衝：飛行員降低高度，貼地飛行以避開墜落的碎片。
+連鎖崩塌：兩側開始碎裂，峽谷即時收窄。
+千鈞一髮：冰刺在飛船後方幾英寸處墜落。
+盲彎：路徑急轉，視線被落雪與碎片遮蔽。
+險些撞擊：飛船擦撞冰層，軌跡變得不穩定。
+恢復：快速修正，勉強重新取得控制。
+最終逃脫：飛船衝出峽谷，出口隨即封閉。
+節奏快速、具備實感、危險感極度清晰。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e91a276c19c4ef85e9ae0dcdfc76a95e/thumbnails/thumbnail.jpg" width="600" alt="Alien Ice Canyon Escape">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e91a276c19c4ef85e9ae0dcdfc76a95e/thumbnails/thumbnail.jpg" width="600" alt="外星冰峽谷逃生">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6015)**
 
 **作者:** [Alexandra Aisling](https://x.com/AllaAisling) | **來源:** [Link](https://x.com/AllaAisling/status/2065929257482596375) | **發布時間:** Jun 13, 2026
 
 ---
-### Stop-Motion Character Turntable Showcase
+### 定格動畫角色 360 度旋轉展示
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed 5-second video prompt for a professional 360-degree character turnaround in a handcrafted stop-motion aesthetic with seamless looping.
+> 這是一個高細節的 5 秒影片提示詞，用於製作專業的 360 度角色旋轉展示，呈現手工定格動畫美學並實現無縫循環。
 
 #### 📝 提示詞
 
 ```
-REFERENCE ASSET:
-Character reference image = uploaded character sheet
+參考素材：
+角色參考圖 = 上傳的角色設定圖
 
-STYLE:
-Premium handcrafted stop-motion-inspired feature film aesthetic. Tactile miniature realism. Detailed fabric, skin, hair and clothing textures. Animation strictly on 2's (movement updates every 2 frames). Strong pose-to-pose animation. Deliberate handcrafted motion cadence. Professional character turnaround presentation. Clean studio showcase.
+風格：
+頂級手工定格動畫風格的電影質感。具備觸感的微縮模型真實感。細緻的布料、皮膚、頭髮及服裝紋理。動畫嚴格採用「一拍二」（每 2 幀更新一次動作）。強烈的姿勢到姿勢（pose-to-pose）動畫。刻意營造的手工動作節奏。專業的角色旋轉展示。乾淨的攝影棚展示效果。
 
-DURATION:
-5 seconds
+時長：
+5 秒
 
-FORMAT:
-Portrait video.
+格式：
+直式影片。
 
-Single character only.
+僅限單一角色。
 
-Pure white seamless background.
+純白無縫背景。
 
-No shadows beyond a subtle studio grounding shadow beneath the feet.
+除腳下細微的攝影棚接地陰影外，無其他陰影。
 
-No props.
+無道具。
 
-No environment.
+無環境背景。
 
-No text.
+無文字。
 
-No camera movement.
+無鏡頭移動。
 
-LOOPING:
-Perfect seamless loop.
+循環：
+完美無縫循環。
 
-The final frame must match the first frame exactly.
+最後一幀必須與第一幀完全吻合。
 
-The rotation completes one full 360-degree turn and returns precisely to the starting pose.
+旋轉完成完整的 360 度轉動，並精確回到起始姿勢。
 
-CAMERA:
-Static camera.
+攝影機：
+固定鏡頭。
 
-Full body framing.
+全身取景。
 
-Character centred in frame.
+角色置於畫面中央。
 
-50mm lens.
+50mm 鏡頭。
 
-Orthographic-style presentation feel.
+正交投影風格的呈現感。
 
-Professional character showcase.
+專業角色展示。
 
-COMPOSITION:
-The character fills most of the frame vertically.
+構圖：
+角色垂直方向佔滿大部分畫面。
 
-Entire body visible throughout.
+全程可見全身。
 
-Feet remain visible at all times.
+雙腳始終保持可見。
 
-Character remains perfectly centred.
+角色保持完美置中。
 
-White studio background remains completely clean and uncluttered.
+白色攝影棚背景保持完全乾淨且無雜物。
 
-ACTION:
+動作：
 00:00 - 00:05
 
-The character performs one complete slow 360-degree turntable rotation.
+角色進行一次完整的慢速 360 度旋轉。
 
-Rotation speed is constant and smooth.
+旋轉速度恆定且流暢。
 
-The character rotates clockwise.
+角色順時針旋轉。
 
-The rotation completes exactly one full revolution over the duration of the shot.
+旋轉在鏡頭時長內剛好完成完整的一圈。
 
-The character remains standing naturally throughout.
+角色全程保持自然站立。
 
-Subtle idle animation only:
+僅包含細微的待機動作：
 
-Natural blinking.
+自然的眨眼。
 
-Tiny eye movements.
+細小的眼球轉動。
 
-Very slight breathing.
+非常輕微的呼吸。
 
-Subtle chest movement.
+細微的胸部起伏。
 
-Tiny finger adjustments.
+手指細微的調整。
 
-Small shifts in hand tension.
+手部張力的輕微變化。
 
-Very subtle weight shifts.
+非常細微的重心轉移。
 
-Occasional tiny eyebrow movement.
+偶爾細小的眉毛動作。
 
-Slight natural head settling.
+輕微自然的頭部調整。
 
-No exaggerated acting.
+無誇張的表演。
 
-No walking.
+無行走動作。
 
-No posing changes.
+無姿勢變換。
 
-No large gestures.
+無大幅度手勢。
 
-The character should feel alive while remaining suitable for a professional character turnaround.
+角色應呈現出生動感，同時適合專業的角色旋轉展示。
 
-HAIR:
-Hair maintains volume and shape throughout rotation.
+頭髮：
+頭髮在旋轉過程中保持體積與形狀。
 
-Very subtle movement only.
+僅有非常細微的晃動。
 
-No dramatic wind effects.
+無戲劇性的風吹效果。
 
-CLOTHING:
-Clothing remains consistent and accurate to the reference.
+服裝：
+服裝保持一致，並忠於參考圖。
 
-Subtle fabric settling.
+細微的布料垂墜感。
 
-No excessive secondary motion.
+無過度的二次運動。
 
-LIGHTING:
-Clean professional studio lighting.
+燈光：
+乾淨的專業攝影棚燈光。
 
-Soft three-point lighting setup.
+柔和的三點照明設置。
 
-Even illumination.
+均勻的照明。
 
-No harsh shadows.
+無強烈陰影。
 
-Clear visibility from every angle.
+從每個角度皆清晰可見。
 
-Consistent lighting throughout the rotation.
+旋轉過程中燈光保持一致。
 
-ANIMATION:
-Animation strictly on 2's.
+動畫：
+動畫嚴格採用「一拍二」。
 
-Premium handcrafted stop-motion-inspired motion.
+頂級手工定格動畫風格的動作。
 
-Strong readable silhouettes.
+強烈且清晰的剪影。
 
-Professional character presentation quality.
+專業的角色展示品質。
 
-FINAL FRAME:
-Character has completed exactly one full 360-degree rotation.
+最後一幀：
+角色已完成精確的 360 度旋轉。
 
-Returns perfectly to the original front-facing posit
+完美回到最初的正面朝向位置。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae0d52fbbd328df3941dc3b274327075/thumbnails/thumbnail.jpg" width="600" alt="Stop-Motion Character Turntable Showcase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae0d52fbbd328df3941dc3b274327075/thumbnails/thumbnail.jpg" width="600" alt="定格動畫角色 360 度旋轉展示">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6003)**
 
 **作者:** [Soul Motion labs](https://x.com/Soulmotionlabs) | **來源:** [Link](https://x.com/Soulmotionlabs/status/2065896420658528468) | **發布時間:** Jun 13, 2026
 
 ---
-### Volcano Temple Escape Action
+### 火山神廟逃脫動作場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intense 15-second cinematic action sequence inside a collapsing volcanic temple with lava rivers and crumbling bridges.
+> 一段 15 秒的電影級激烈動作片段，場景設定在即將崩塌的火山神廟內，伴隨熔岩河流與碎裂的橋樑。
 
 #### 📝 提示詞
 
 ```
-Hyper-realistic cinematic action sequence, 15 seconds, aspect ratio 16:9. 
+超寫實電影級動作片段，15 秒，長寬比 16:9。
 
-Inside an ancient temple built deep within an active volcano, glowing lava lights the stone corridors with fiery orange and red reflections. The temple is filled with massive carved pillars, narrow bridges, falling embers, smoke, heat shimmer, and collapsing stone sections. A lone explorer in rugged adventure gear carries a glowing artifact and races through the temple as the environment becomes unstable.  
+在深藏於活火山內的一座古老神廟中，發光的熔岩將石造走廊映照出熾熱的橘紅色倒影。神廟內充滿了巨大的雕刻石柱、狹窄的橋樑、墜落的餘燼、煙霧、熱浪以及崩塌的石塊。一名身穿粗獷冒險裝備的探險家手持發光神器，在環境變得極度不穩定的情況下於神廟中奔馳。
 
-Camera angle 1: wide cinematic opening shot, the explorer runs through a vast volcanic temple chamber with towering stone statues and rivers of lava below. The glowing artifact lights his hands and chest while the ground shakes and cracks begin spreading across the floor.  
+攝影機角度 1：寬闊的電影級開場鏡頭，探險家跑過巨大的火山神廟大廳，兩旁聳立著石像，下方則是熔岩河流。發光的神器照亮了他的雙手與胸口，地面開始震動，裂痕向四周蔓延。
 
-Camera angle 2: dynamic tracking shot, the explorer sprints across a narrow stone bridge suspended above lava, while pieces of the bridge crumble behind him. Sparks, ash, and heat waves fill the air, and molten light reflects across the ancient carved walls.  
+攝影機角度 2：動態跟拍鏡頭，探險家在懸於熔岩之上的狹窄石橋上衝刺，身後的橋面不斷崩塌。火花、灰燼與熱浪充斥空中，熔岩的光芒映照在古老的雕刻牆面上。
 
-Camera angle 3: dramatic side shot, giant stone guardian figures begin to move in the background as the explorer races through a collapsing corridor. He ducks under falling debris, leaps over a broken section of floor, and keeps moving toward the exit.  Final action beat: the explorer reaches the temple opening just as lava surges through the chamber behind him. 
-He jumps across one final collapsing gap and lands near the exit while firelight and smoke burst outward from the temple interior.  Final moment: the explorer emerges onto a rocky ledge outside the volcano, holding the glowing artifact, while smoke, embers, and fiery light pour from the temple entrance behind him. 
+攝影機角度 3：戲劇性的側面鏡頭，當探險家穿過崩塌的走廊時，背景中巨大的石製守護者開始移動。他閃避墜落的碎片，躍過斷裂的地面，持續向出口奔去。最後動作節奏：探險家抵達神廟出口，身後的廳堂隨即被熔岩淹沒。他躍過最後一道崩塌的裂縫，在出口附近著陸，火光與煙霧從神廟內部噴湧而出。最後時刻：探險家出現在火山外的岩石平台上，手中緊握著發光神器，身後的神廟入口不斷湧出煙霧、餘燼與熾熱的光芒。
 
-Style: hyper-realistic, cinematic, intense and fast-paced, ancient temple atmosphere, volcanic lighting, lava glow, smoke, embers, collapsing stone, dramatic scale, strong sense of danger and motion, fast but readable camera movement, high detail, no text, no logos, no cartoon style, no slow motion.
+風格：超寫實、電影感、激烈且節奏明快、古老神廟氛圍、火山照明、熔岩光澤、煙霧、餘燼、崩塌的石塊、宏大的規模、強烈的危險感與動態感、快速但清晰的鏡頭運動、高細節、無文字、無標誌、非卡通風格、無慢動作。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5766468e1477526a7849c8c747ac929/thumbnails/thumbnail.jpg" width="600" alt="Volcano Temple Escape Action">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5766468e1477526a7849c8c747ac929/thumbnails/thumbnail.jpg" width="600" alt="火山神廟逃脫動作場景">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6008)**
 
 **作者:** [DeCat](https://x.com/DeCat2025) | **來源:** [Link](https://x.com/DeCat2025/status/2065878253022196061) | **發布時間:** Jun 13, 2026
 
 ---
-### Alien Street Duel POV
+### 外星街頭決鬥第一人稱視角
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A first-person smartphone-style cinematic prompt capturing a street theater martial arts duel between two alien warlords with cosmic energy blasts.
+> 這是一個第一人稱手機風格的電影感提示詞，捕捉了兩位外星軍閥之間，伴隨著宇宙能量衝擊的街頭武術決鬥。
 
 #### 📝 提示詞
 
 ```
-An ultra-cinematic, first-person smartphone video from within a crowd, capturing an intense outdoor street theater martial arts duel between two highly detailed alien warlords. The bulky alien lands a swift strike on the agile alien. Infuriated, the agile alien counters with a devastating, supersonic punch to the bulky alien's abdomen—shown in slow-motion with a visible kinetic shockwave that cracks the stage. The bulky alien recoils but recovers, channeling crackling blue and purple cosmic plasma energy from its clawed hands. With an earth-shaking roar, it unleashes a massive blast of supernatural energy forward. The surrounding crowd gasps, screams, and explodes into thunderous applause at the climax. Shaky handheld camera POV, extreme camera shakes on impact, cinematic sound design with bass drops and loud crowd reactions.
+這是一段極具電影感的第一人稱手機拍攝影片，視角位於人群之中，捕捉了一場發生在戶外街頭、緊張刺激的武術決鬥，對手是兩位細節豐富的外星軍閥。壯碩的外星人對敏捷的外星人發動了迅猛的攻擊。敏捷的外星人被激怒，隨即以一記毀滅性的超音速重拳反擊，擊中壯碩外星人的腹部——畫面呈現慢動作效果，清晰可見的動能衝擊波震裂了舞台。壯碩的外星人向後退卻但隨即穩住陣腳，從爪狀雙手中匯聚出劈啪作響的藍紫色宇宙電漿能量。伴隨著震耳欲聾的咆哮，它向前釋放出一股巨大的超自然能量衝擊。周圍的人群發出驚呼與尖叫，並在最高潮處爆發出雷鳴般的掌聲。採用手持攝影機的晃動視角，撞擊時伴隨劇烈的鏡頭震動，並結合低音下潛與人群喧鬧聲的電影級音效設計。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78df2ac0c31527ecabd48d25b1688c59/thumbnails/thumbnail.jpg" width="600" alt="Alien Street Duel POV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78df2ac0c31527ecabd48d25b1688c59/thumbnails/thumbnail.jpg" width="600" alt="外星街頭決鬥第一人稱視角">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6016)**
 
@@ -702,247 +701,247 @@ An ultra-cinematic, first-person smartphone video from within a crowd, capturing
 **作者:** [LudovicCreator](https://x.com/LudovicCreator) | **來源:** [Link](https://x.com/LudovicCreator/status/2065856750817837411) | **發布時間:** Jun 13, 2026
 
 ---
-### Cinematic Storyboard Animation
+### 電影級分鏡動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Animates a storyboard grid into a smooth cinematic sequence featuring slow movement and atmospheric lighting effects.
+> 將分鏡網格轉化為流暢的電影級序列動畫，呈現緩慢的運鏡與氛圍感光影效果。
 
 #### 📝 提示詞
 
 ```
-Animate the provided 3x4 storyboard into a smooth cinematic video. Preserve exact shot order and continuity. Use slow breath chest rise, tear catch macro, window rain light diffuse, and open palm
+將提供的 3x4 分鏡製作成流暢的電影級影片。請務必保留精確的鏡頭順序與連貫性。運用緩慢的胸部起伏呼吸、捕捉淚水的微距鏡頭、窗邊雨天的漫射光，以及張開手掌的動作。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781422595221_9uarvo_HKtIa3NbQAEAK5v.jpg" width="600" alt="Cinematic Storyboard Animation">
+<img src="https://cms-assets.youmind.com/media/1781422595221_9uarvo_HKtIa3NbQAEAK5v.jpg" width="600" alt="電影級分鏡動畫">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6019)**
 
 **作者:** [𝐌](https://x.com/Strength04_X) | **來源:** [Link](https://x.com/Strength04_X/status/2065824987496456495) | **發布時間:** Jun 13, 2026
 
 ---
-### Cyberpunk Anime Kunoichi Rooftop Battle
+### 賽博龐克動漫女忍者屋頂激戰
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dynamic 3D anime action sequence featuring a cyberpunk kunoichi with glowing violet eyes engaging in high-speed rooftop combat against mercenaries.
+> 一段動態的 3D 動漫動作場景，描述一名擁有紫色發光雙眼、身處賽博龐克世界的女忍者，在屋頂與傭兵進行高速戰鬥。
 
 #### 📝 提示詞
 
 ```
-A cyberpunk 3D anime kunoichi with violet glowing eyes, black tactical kimono mixed with futuristic armor, long scarf trailing behind her, twin plasma daggers leaving purple energy trails
-Crouches on a rooftop in broad daylight haze, surrounded by armed mercenaries aiming rifles, camera starts in close-up on her eyes then slowly pulls back to reveal the trap; 
-She launches upward, wall-runs across billboards, teleports through smoke bursts, slices bullets mid-air, flips over enemies and strikes from blind spots, camera follows with FPV-style rooftop chase, violent whip pans, speed ramps and orbit shots around mid-air kills, purple sparks and glass shards suspended in slow motion; 
-She appears behind the final commander, daggers crossed, then every mercenary collapses simultaneously across the rooftop, camera circles her silhouette as burning drones fall behind into the city
+一名賽博龐克風格的 3D 動漫女忍者，擁有紫色發光的雙眼，身穿黑色戰術和服搭配未來感盔甲，長圍巾隨風飄動，雙手持有的電漿匕首劃出紫色能量軌跡。
+在白晝的霧氣中蹲伏於屋頂，周圍被持槍瞄準的傭兵包圍，鏡頭先特寫她的雙眼，隨後緩緩拉遠揭示埋伏；
+她向上躍起，在廣告看板上奔跑，穿梭於煙霧中進行瞬間移動，在半空中斬斷子彈，翻越敵人並從盲點發動攻擊。鏡頭以 FPV 第一人稱視角跟隨屋頂追逐，運用激烈的快速運鏡、變速特效以及環繞空中的擊殺鏡頭，紫色火花與玻璃碎片在慢動作中懸浮；
+她出現在最後一名指揮官身後，雙匕首交叉，隨後所有傭兵同時倒在屋頂上，鏡頭環繞她的剪影，背景中燃燒的無人機墜入城市。
 
-Futuristic Tokyo skyline, daylight neon haze, broken holograms, rain puddles, purple VFX trails, stylish assassin choreography. Epic anime, anime render
+未來感東京天際線、白晝霓虹霧氣、破碎的全息影像、雨水積窪、紫色視覺特效軌跡、時尚的刺客編舞。史詩級動漫，動漫渲染。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ded5bf92996b33aad140e97e76d061ae/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Anime Kunoichi Rooftop Battle">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ded5bf92996b33aad140e97e76d061ae/thumbnails/thumbnail.jpg" width="600" alt="賽博龐克動漫女忍者屋頂激戰">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6002)**
 
 **作者:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **來源:** [Link](https://x.com/CharaspowerAI/status/2065811465102065875) | **發布時間:** Jun 13, 2026
 
 ---
-### Tropical Beach Drone Shot
+### 熱帶海灘無人機航拍
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic drone push-in shot of a tropical paradise beach with turquoise water, wooden boats, and dramatic limestone cliffs.
+> 一段電影級的無人機推進鏡頭，拍攝熱帶天堂海灘，包含綠松石色的海水、木船以及壯觀的石灰岩懸崖。
 
 #### 📝 提示詞
 
 ```
-Ultra-realistic cinematic travel scene of a tropical paradise beach with crystal-clear turquoise water and soft golden sand. A traditional wooden long-tail boat gently floats near the shore, subtly rocking with natural wave motion. Massive limestone cliffs covered in lush green vegetation rise dramatically from the sea in the background. The sky is vibrant blue with long, wispy clouds slowly drifting across.
+超逼真的電影級旅遊場景，呈現熱帶天堂海灘，擁有清澈見底的綠松石色海水與柔軟的金色沙灘。一艘傳統木製長尾船輕輕漂浮在岸邊，隨著自然波浪微微晃動。背景中，覆蓋著茂密綠色植被的巨大石灰岩懸崖從海面拔地而起，氣勢磅礴。天空呈現鮮豔的藍色，細長的雲朵緩緩飄過。
 
-Camera starts with a slow drone push-in shot from above water level, slightly angled, moving toward the boat. Water surface shows realistic refraction, sunlight caustics dancing on the sandy seabed. Small ripples move naturally toward the shore, creating soft foam.
+攝影機以緩慢的無人機推進鏡頭開始，從水面上方略帶角度地向船隻移動。水面呈現真實的折射效果，陽光在沙質海床上形成舞動的光影。細小的漣漪自然地向岸邊推移，激起柔和的泡沫。
 
-Add ambient motion details:
+加入環境動態細節：
 
-Gentle water movement with reflections and light shimmer
-Slight boat sway with rope tension reacting to waves
-Leaves on cliffs subtly moving in the breeze
-Light wind creating soft movement in water texture
-Occasional distant birds flying across sky
+柔和的水流運動，伴隨倒影與光影閃爍
+船隻輕微搖晃，纜繩隨波浪產生張力
+懸崖上的葉片在微風中輕微擺動
+微風在水面紋理上創造出柔和的動態
+偶爾有遠處的鳥兒飛過天空
 
-Lighting is bright natural daylight, cinematic HDR, with soft highlights and realistic shadows. Colors are vibrant but natural, not oversaturated.
+燈光為明亮的自然日光，採用電影級 HDR，具備柔和的高光與真實的陰影。色彩鮮豔且自然，不過度飽和。
 
-Include depth and realism:
+包含深度與真實感：
 
-Atmospheric haze around distant cliffs
-Water transparency with visible sand beneath
-Natural lens behavior (slight bloom, subtle motion blur)
+遠處懸崖周圍的大氣霧霾
+水體的透明度，可見下方沙地
+自然的鏡頭表現（輕微光暈、細緻的動態模糊）
 
-Camera settings:
+攝影機設定：
 
-4K ultra-realistic
-24fps cinematic motion
-shallow depth of field (focus on boat, background slightly softened)
-smooth stabilized drone movement
+4K 超逼真畫質
+24fps 電影級動態
+淺景深（焦點對準船隻，背景略微柔化）
+流暢穩定的無人機運鏡
 
-Mood: peaceful, immersive, tropical luxury, calming yet visually stunning
+氛圍：寧靜、沉浸感、熱帶奢華、平靜且視覺震撼
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8860cbc7bfbd3a7291a4089e1fefe5cc/thumbnails/thumbnail.jpg" width="600" alt="Tropical Beach Drone Shot">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8860cbc7bfbd3a7291a4089e1fefe5cc/thumbnails/thumbnail.jpg" width="600" alt="熱帶海灘無人機航拍">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6006)**
 
 **作者:** [Shahid Wani](https://x.com/meng_dagg695) | **來源:** [Link](https://x.com/meng_dagg695/status/2065807711330328903) | **發布時間:** Jun 13, 2026
 
 ---
-### 80s OVA Skate Run Storyboard
+### 80 年代 OVA 滑板奔馳分鏡腳本
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An energetic 1980s Japanese OVA cel anime style prompt featuring a character's stylish skateboard run through a woodworking factory.
+> 這是一個充滿活力的 1980 年代日本 OVA 賽璐珞動畫風格提示詞，描繪了一名角色在木工廠中進行帥氣的滑板奔馳。
 
 #### 📝 提示詞
 
 ```
-16:9, 15-second 1980s OVA cel anime video, fast-paced stylish editing, no dialogue, no subtitles, energetic 80s synth rock / funk music, skateboard wheels, deck pops and warehouse echo only.
+16:9，15 秒 1980 年代 OVA 賽璐珞動畫風格影片，節奏明快且具備時尚感的剪輯，無對白，無字幕，搭配充滿活力的 80 年代合成器搖滾 / 放克音樂，僅保留滑板輪子聲、板身落地聲及倉庫迴音。
 
-Use the attached character sheet as reference for Yuna Rabbet: blonde hair in two low messy buns, green bandana tied on top, bright blue eyes, tanned skin, fitted blue T-shirt, khaki frayed denim shorts, white sneakers, athletic and lively body language, confident cheerful expression. Keep her face, hair, outfit and proportions consistent throughout the whole video. Show her beauty through confidence, energy and movement, not through sexualized camera angles.
+請參考附件中的角色設定表來繪製 Yuna Rabbet：金髮綁成兩個低位凌亂包包頭，頭頂繫著綠色頭巾，明亮的藍色眼睛，小麥色肌膚，合身藍色 T 恤，卡其色磨損邊牛仔短褲，白色運動鞋，肢體語言活潑且具運動感，表情自信開朗。請確保她在整段影片中的臉部、髮型、服裝及比例保持一致。透過自信、活力與動作展現她的美，而非透過性暗示的攝影角度。
 
-Scene: a large woodworking factory with three connected areas: joinery workshop, CNC machine shop with enclosed idle CNC routers and dust extraction pipes, and warehouse aisles with timber racks, pallets, plywood sheets, toolboxes and workbenches. Warm sunset beams shine through high windows, sawdust floating in the light, polished concrete floor, hand-painted industrial background.
+場景：一座大型木工廠，包含三個相連區域：細木工車間、設有封閉式閒置 CNC 銑床與除塵管線的 CNC 加工區，以及堆滿木材架、棧板、膠合板、工具箱與工作檯的倉庫走道。溫暖的夕陽光束透過高處窗戶灑落，木屑在光影中飄浮，拋光混凝土地面，手繪工業風背景。
 
-Storyboard:
-0.0–1.2s, wide establishing shot of the woodworking factory, warm sunlight, sawdust in the air, Yuna skates into frame from the distance.
-1.2–2.2s, extreme close-up of skateboard wheels rolling over polished concrete, her white sneaker pushes hard and accelerates.
-2.2–3.2s, camera tilts up to Yuna’s face, she looks over her shoulder with a confident cheerful smile, green bandana fluttering.
-3.2–4.4s, side tracking shot, Yuna performs a clean ollie over a low stack of timber pieces and lands smoothly.
-4.4–5.7s, low 3/4 front angle beside the enclosed CNC machine shop, Yuna performs a fast kickflip, brief slow motion as the board flips under her feet.
-5.7–6.9s, front dolly shot moving backward through a warehouse aisle, Yuna performs a long manual between tall shelves and pallets.
-6.9–8.0s, top-down dynamic shot, she carves tightly around a joinery workbench, weaving between timber offcuts with precise control.
-8.0–9.3s, wide shot then quick close-up, Yuna pops onto a low metal safety rail and performs a clean boardslide, then lands.
-9.3–10.5s, low angle shot beside leaning plywood sheets, she shifts into a short nose manual, balanced and stylish.
-10.5–12.0s, dynamic tracking shot, Yuna rides briefly up a safe angled plywood wall, then drops back onto the concrete floor.
-12.0–13.5s, open factory floor, she performs a clean 360 shove-it, catches the board perfectly and lands with strong style.
-13.5–15.0s, final low angle hero shot, Yuna stops the skateboard with one foot, turns to camera and smiles confidently. Behind her are the workshop, CNC area and warehouse shelves glowing in sunset light. Final energetic music beat.
-Visual style: 1980s Japanese OVA cel animation, bold ink outlines, hand-drawn character animation, detailed hand-painted backgrounds, warm cel highlights, dy
+分鏡腳本：
+0.0–1.2 秒，木工廠廣角建立鏡頭，溫暖陽光，空氣中飄浮著木屑，Yuna 從遠處滑板進入畫面。
+1.2–2.2 秒，滑板輪子在拋光混凝土上滾動的極致特寫，她穿著白色運動鞋用力蹬地加速。
+2.2–3.2 秒，鏡頭向上傾斜至 Yuna 的臉部，她轉頭回望，露出自信開朗的笑容，綠色頭巾隨風飄動。
+3.2–4.4 秒，側面跟拍鏡頭，Yuna 在一疊低矮木材上俐落完成豚跳 (ollie) 並平穩落地。
+4.4–5.7 秒，封閉式 CNC 加工區旁的低位 3/4 前側角度，Yuna 進行快速尖翻 (kickflip)，滑板在腳下翻轉時呈現短暫慢動作。
+5.7–6.9 秒，在倉庫走道中向後移動的前方推軌鏡頭，Yuna 在高聳貨架與棧板間進行長距離平衡滑行 (manual)。
+6.9–8.0 秒，俯視動態鏡頭，她繞著細木工工作檯緊湊轉彎，在木料邊角間精準穿梭。
+8.0–9.3 秒，廣角轉快速特寫，Yuna 跳上低矮金屬安全護欄並進行帥氣的 boardslide，隨後落地。
+9.3–10.5 秒，靠在膠合板旁的低角度鏡頭，她轉為短暫的翹板平衡 (nose manual)，動作平衡且充滿風格。
+10.5–12.0 秒，動態跟拍鏡頭，Yuna 短暫滑上一面傾斜的安全膠合板牆，隨後落回混凝土地面。
+12.0–13.5 秒，開闊的工廠地面，她完成一個俐落的 360 度轉板 (360 shove-it)，完美接住滑板並以帥氣姿態落地。
+13.5–15.0 秒，最後的低角度英雄鏡頭，Yuna 單腳停住滑板，轉身對著鏡頭自信微笑。背景是夕陽餘暉下的車間、CNC 區域與倉庫貨架。音樂在最後一拍結束。
+視覺風格：1980 年代日本 OVA 賽璐珞動畫，大膽的墨線勾勒，手繪角色動畫，細緻的手繪背景，溫暖的賽璐珞高光，dy
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781422587366_ezrsuu_HKsrmAgawAAXcUM.jpg" width="600" alt="80s OVA Skate Run Storyboard">
+<img src="https://cms-assets.youmind.com/media/1781422587366_ezrsuu_HKsrmAgawAAXcUM.jpg" width="600" alt="80 年代 OVA 滑板奔馳分鏡腳本">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6014)**
 
 **作者:** [Benny's Project](https://x.com/bennysproject) | **來源:** [Link](https://x.com/bennysproject/status/2065793904986018020) | **發布時間:** Jun 13, 2026
 
 ---
-### Satirical World Cup Construction Prompt
+### 諷刺風格世界盃施工提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A humorous and surreal prompt for a FIFA World Cup broadcast parody where the Qatari team builds a literal brick wall during a match against Switzerland.
+> 這是一個關於 FIFA 世界盃轉播惡搞的幽默超現實提示詞，描述卡達隊在對陣瑞士隊的比賽中，在場上砌起一道真正的磚牆。
 
 #### 📝 提示詞
 
 ```
-A hyper-realistic live FIFA World Cup 2026 night match broadcast, Group C: Qatar vs Switzerland. In an absurd satirical comedy scene, the entire Qatari national team in maroon kits with white accents are frantically building a massive red brick wall directly in front of their goal to block Switzerland’s attack.
+一場超寫實的 2026 年 FIFA 世界盃小組賽 C 組夜間賽事轉播：卡達對陣瑞士。在一個荒謬的諷刺喜劇場景中，身穿栗色配白色點綴球衣的卡達國家隊全體隊員，正瘋狂地在球門前砌起一道巨大的紅磚牆，以阻擋瑞士隊的進攻。
 
-Close-up shots: Qatari players #2, #15, #25 urgently laying red bricks, spreading gray mortar with trowels, intense focused expressions, sweat visible under stadium floodlights. Wide dramatic shots: multiple Qatari players (#10, #7, #6, #4, #8) on ladders and scaffolding rapidly stacking bricks across the entire goal mouth like an emergency construction crew mid-match. Bricks scatter across the grass, wheelbarrows of mortar rush in.
+特寫鏡頭：卡達隊 2 號、15 號、25 號球員正緊急鋪設紅磚，用泥刀塗抹灰色水泥，表情專注且緊張，球場泛光燈下清晰可見汗水。戲劇性的廣角鏡頭：多名卡達球員（10 號、7 號、6 號、4 號、8 號）站在梯子和鷹架上，像比賽中的緊急施工隊一樣，迅速在整個球門口堆疊磚塊。磚塊散落在草地上，裝滿水泥的手推車匆忙進場。
 
-Foreground reaction: shocked Swiss players in white and red kits (Xhaka #10, #7) stand frozen, arms slightly raised in disbelief. Female stadium staff and women fans in Swiss jerseys react with laughter and stunned expressions, filming the scene on phones under bright lights. The referee stands confused, whistle lowered.
+前景反應：身穿紅白球衣的瑞士球員（Xhaka 10 號、7 號）震驚地僵在原地，雙手微微舉起，一臉不可置信。女性工作人員和身穿瑞士球衣的女球迷們反應各異，有的在笑，有的目瞪口呆，並在強光下用手機拍攝這一幕。裁判站在一旁，一臉困惑，哨子垂在胸前。
 
-Broadcast style: authentic FOX Sports FIFA presentation, scoreboard overlay shows QAT 0–0 SUI, clock 37:12, “LIVE” indicator, sponsor graphics, shaky commentator cam cuts.
+轉播風格：真實的 FOX Sports FIFA 轉播呈現，記分牌疊加顯示 QAT 0–0 SUI，時間 37:12，“LIVE” 指示標誌，贊助商圖形，以及搖晃的評論員攝影機鏡頭。
 
-Commentary (live broadcast audio):
-Commentator 1 (shocked): “I… I cannot believe what we are seeing—are they building a WALL?”
-Commentator 2 (laughing in disbelief): “This is not defensive structure, this is full construction mode inside the box!”
-Sideline reporter (urgent): “The Swiss attack has completely stopped… they’re just watching this happen!”
+評論（現場轉播音訊）：
+評論員 1（震驚）：“我……我簡直不敢相信我們所看到的——他們是在砌牆嗎？”
+評論員 2（難以置信地大笑）：“這不是防守陣型，這是禁區內的全面施工模式！”
+場邊記者（急促）：“瑞士隊的進攻完全停滯了……他們只是在旁邊看著這一切發生！”
 
-Crowd audio: mixed gasps, laughter, and chants turning into confused cheering.
+觀眾音訊：夾雜著驚呼、笑聲，以及轉變為困惑歡呼的口號聲。
 
-Cinematic sports cinematography: dramatic night lighting, strong highlights on brick textures and sweat, motion blur on fast building action, dynamic cuts between tight close-ups (hands, trowels, mortar) and wide stadium shots through the goal net. Ultra-detailed jerseys, dust particles in air, realistic pitch wear.
+電影級運動攝影：戲劇性的夜間燈光，磚塊紋理和汗水的強烈高光，快速施工動作的動態模糊，在緊湊特寫（手部、泥刀、水泥）與透過球門網拍攝的廣角球場鏡頭之間動態切換。超細節的球衣、空氣中的塵埃顆粒、真實的草皮磨損。
 
-Humorous surreal tone, meme-like absurdity, yet fully photorealistic elite broadcast quality. Satirical exaggeration of ultra-defensive “park the bus” tactics turned into literal construction.
+幽默的超現實基調，迷因般的荒謬感，同時具備頂級轉播的完全寫實畫質。將極度防守的“擺大巴”戰術諷刺地誇張化為真正的施工行為。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/199bbb8246e736a743e44afe2b4b2eb3/thumbnails/thumbnail.jpg" width="600" alt="Satirical World Cup Construction Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/199bbb8246e736a743e44afe2b4b2eb3/thumbnails/thumbnail.jpg" width="600" alt="諷刺風格世界盃施工提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6012)**
 
 **作者:** [Sharon Riley](https://x.com/Just_sharon7) | **來源:** [Link](https://x.com/Just_sharon7/status/2065781008658735467) | **發布時間:** Jun 13, 2026
 
 ---
-### Demon Slayer Style Anime Storyboard
+### 《鬼滅之刃》風格動畫分鏡腳本
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed storyboard prompt for an anime short film, featuring consistent character designs and dynamic camera movements inspired by Demon Slayer.
+> 一份針對動畫短片的高度詳細分鏡腳本提示詞，包含受《鬼滅之刃》啟發的連貫角色設計與動態運鏡。
 
 #### 📝 提示詞
 
 ```
-Create a cinematic anime short film in a unified Demon Slayer / Jujutsu Kaisen inspired art style — apply this exact same visual style consistently to ALL characters and scenes without exception.
-Character Design (maintain throughout ALL scenes):
-Hero: Young male swordsman, late teens, athletic build, dark hair, determined eyes, traditional Japanese warrior outfit, katana at waist
-Child: Small baby girl, 2–3 years old, round face, big innocent eyes, simple village dress, same anime art style as the hero — no style deviation
-Story Structure:
-Opening — Close-up on hero's face receiving urgent message. Camera: low angle looking up at hero. Dramatic lighting.
-Journey — Hero running through dense forest and rocky mountains. Camera: dynamic tracking shot from side, then bird's eye view. Motion blur on feet.
-Village in Crisis — Wide establishing shot of burning village. Cut to medium shot of terrified villagers. Camera slowly pushes in.
-Monster threatening child — Monster looms over baby girl. Camera: monster POV looking down at child, then child POV looking up at monster. High contrast lighting.
-Hero Arrival — Hero leaps into frame from above. Slow motion sword strike. Camera: 360-degree rotating shot around hero.
-Battle Sequence — Intense fight, multiple camera angles: close-up on clashing sword, wide shot of full battle, low angle hero power move. Fluid motion, no flickering.
-Resolution — Monster defeated. Hero kneels down to baby girl's level. Soft warm lighting. Camera: gentle zoom out showing hero and child together, villagers in background.
-Ending — Hero sheathes sword, walks away. Camera: back shot of hero walking into sunset, villagers watching.
-Visual Rules (strict):
-One unified anime art style across ALL shots — hero and baby girl must look like they belong in the same animation
-Camera angle must change every scene — no repeated angles
-No slideshow transitions — use cinematic cuts and motion
-Warm golden lighting for resolution, cool blue for battle
-Pippit watermark visible in final composition
-Style: Epic fantasy anime, Demon Slayer quality, emotional storytelling, professional cinematic pacing
+創作一部具有統一《鬼滅之刃》/《咒術迴戰》風格的電影級動畫短片——請務必在所有角色與場景中始終如一地應用此視覺風格，絕無例外。
+角色設計（在所有場景中保持一致）：
+主角：年輕男性劍士，十幾歲，體格健壯，深色頭髮，眼神堅定，身穿傳統日本武士服，腰間佩戴武士刀。
+幼童：年幼女嬰，2 至 3 歲，圓臉，大而無辜的眼睛，穿著簡樸的村莊服飾，與主角採用相同的動畫藝術風格——風格不得有任何偏差。
+故事結構：
+開場——主角臉部的特寫鏡頭，收到緊急訊息。攝影機：低角度仰拍主角。戲劇性的燈光效果。
+旅程——主角在茂密的森林與岩石山脈中奔跑。攝影機：從側面進行動態跟拍，隨後切換為鳥瞰視角。腳部帶有動態模糊效果。
+危機中的村莊——燃燒村莊的廣角建立鏡頭。切換至驚恐村民的中景鏡頭。攝影機緩慢推進。
+怪物威脅幼童——怪物籠罩在女嬰上方。攝影機：怪物的視角（POV）俯視幼童，隨後切換為幼童視角（POV）仰望怪物。高對比度燈光。
+主角登場——主角從上方躍入畫面。慢動作揮劍。攝影機：圍繞主角的 360 度旋轉鏡頭。
+戰鬥序列——激烈的戰鬥，多種攝影機角度：劍刃碰撞的特寫、全場戰鬥的廣角鏡頭、主角強力招式的低角度鏡頭。動作流暢，無閃爍現象。
+結局——怪物被擊敗。主角跪下與女嬰平視。柔和溫暖的燈光。攝影機：緩慢拉遠，呈現主角與幼童在一起的畫面，背景為村民。
+結尾——主角收刀入鞘，轉身離去。攝影機：主角走向夕陽的背影鏡頭，村民在旁注視。
+視覺規則（嚴格執行）：
+所有鏡頭採用統一的動畫藝術風格——主角與女嬰必須看起來屬於同一部動畫作品。
+每個場景的攝影機角度必須變換——不得重複使用相同角度。
+禁止使用幻燈片轉場——請使用電影級剪輯與運鏡。
+結局採用溫暖的金色燈光，戰鬥場景採用冷藍色調。
+最終構圖中需包含 Pippit 水印。
+風格：史詩奇幻動畫、《鬼滅之刃》品質、情感敘事、專業電影級節奏。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43d52b1504c59c089958168eaad5aa13/thumbnails/thumbnail.jpg" width="600" alt="Demon Slayer Style Anime Storyboard">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43d52b1504c59c089958168eaad5aa13/thumbnails/thumbnail.jpg" width="600" alt="《鬼滅之刃》風格動畫分鏡腳本">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6009)**
 
 **作者:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) | **來源:** [Link](https://x.com/saniaspeaks_/status/2065769980067770430) | **發布時間:** Jun 13, 2026
 
 ---
-### Korean school revenge drama cinematic prompt
+### 韓式校園復仇劇電影感提示詞
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed multi-shot prompt for a realistic Korean school drama scene featuring cinematic lighting, handheld camera movements, and intense character interactions.
+> 一份詳細的多鏡頭提示詞，用於製作寫實的韓式校園劇場景，包含電影級燈光、手持攝影機運鏡以及強烈的角色互動。
 
 #### 📝 提示詞
 
 ```
-[Style] Korean school anti-bullying revenge short film (Korean School Revenge Drama), authentic live-action cinematic texture, cold white corridor lighting, cool tones (Teal & Cold Grade), handheld photography, shallow depth of field (Shallow DOF), 9:16 vertical screen, English dialogue. All characters are played by adult actors as high school students, movements are cinematically styled, no gore or harmful outcomes.
-[Duration] 15 seconds
-[Scene] Modern Korean-style high school corridor, lockers on one side, classroom doors, cold white ceiling lights, floor tile reflections
-[Characters] Bully (tall male, school uniform jacket open, arrogant expression), Bullied (thin male, neat uniform, holding textbooks), Avenger (male in neat uniform, calm expression, determined eyes)
+[風格] 韓式校園反霸凌復仇短片 (Korean School Revenge Drama)，真實真人電影質感，冷白色走廊燈光，冷色調 (Teal & Cold Grade)，手持攝影，淺景深 (Shallow DOF)，9:16 直式螢幕，英文對白。所有角色均由成年演員飾演高中生，動作具備電影感，無血腥或有害結果。
+[時長] 15 秒
+[場景] 現代韓式高中走廊，一側為置物櫃，教室門，冷白色吸頂燈，地磚反射
+[角色] 霸凌者 (高大男性，校服外套敞開，表情傲慢)，被霸凌者 (瘦弱男性，校服整潔，手持教科書)，復仇者 (男性，校服整潔，表情冷靜，眼神堅定)
 
-[00:00-00:04] Scene 1: Corridor bullying setup (35mm Handheld Push-in)
-This segment involves only pushing and verbal threats, no other physical conflict.
-Medium shot slowly pushing in: The bully corners the victim against the lockers, pushes his shoulder with one hand, textbooks scatter on the floor, the victim lowers his head in endurance, avoiding eye contact.
-Slight handheld shake, accompanied by the metallic sound of lockers banging.
-[Dialogue/Lip Sync Guide] Bully (English, condescendingly mocking): "Nobody is coming to save you."
+[00:00-00:04] 場景 1：走廊霸凌鋪陳 (35mm 手持推鏡)
+此片段僅涉及推搡與言語威脅，無其他肢體衝突。
+中景緩慢推進：霸凌者將受害者逼至置物櫃角落，單手推其肩膀，教科書散落一地，受害者低頭忍受，避免眼神接觸。
+輕微手持晃動，伴隨置物櫃碰撞的金屬聲。
+[對白/口型指南] 霸凌者 (英文，輕蔑嘲諷)："Nobody is coming to save you."
 
-[00:04-00:08] Scene 2: The first slap (Whip Pan + Low Angle)
-A hand suddenly enters from the side of the frame, a loud slap hits the bully's cheek, quick whip pan following the hand's trajectory, sharp sound with corridor echo.
-Low angle: The bully spins half a turn, stumbles to the ground, holding his face as he crawls up, eyes red, looking up off-camera.
-[Dialogue/Lip Sync Guide] Bully (English, gritting teeth): "Who the hell did that?"
+[00:04-00:08] 場景 2：第一記耳光 (快速橫搖 + 低角度)
+一隻手突然從畫面側邊伸入，響亮的耳光打在霸凌者臉上，鏡頭隨手部軌跡快速橫搖 (Whip Pan)，伴隨走廊回音的清脆聲響。
+低角度：霸凌者轉了半圈，踉蹌倒地，摀著臉爬起來，雙眼通紅，抬頭看向鏡頭外。
+[對白/口型指南] 霸凌者 (英文，咬牙切齒)："Who the hell did that?"
 
-[00:08-00:11] Scene 3: Confrontation reveal (Counter Shot)
-Reverse shot: The avenger stands in the cold corridor light, looking down at the bully, tone calm.
-[Dialogue/Lip Sync Guide] Avenger (English, low and calm): "Someone here to teach you a lesson."
-The bully roars, leaping up from the ground and punching at the avenger.
+[00:08-00:11] 場景 3：對峙揭曉 (反打鏡頭)
+反打鏡頭：復仇者站在冷冽的走廊燈光下，俯視著霸凌者，語氣冷靜。
+[對白/口型指南] 復仇者 (英文，低沉冷靜)："Someone here to teach you a lesson."
+霸凌者怒吼，從地上躍起並揮拳打向復仇者。
 
-[00:11-00:15] Scene 4: Chain slaps + overhead ending (Rapid Cuts → Top-down → Smash Cut)
-The avenger dodges the punch and grabs the bully's collar. Rapid cuts: Consecutive slaps to the bully's face, the bully's head whipping left and right, hair flying.
-Last 2 seconds camera angle change: Camera moves directly above the two for a vertical top-down overhead shot, showing the bully slumped on the floor, face up, avenger holding his collar.
-The avenger's other hand rises high toward the camera (back of hand toward lens), pauses for a split second, then the hand slams down, moving away from the camera toward the bully's face below—smash cut to black and mute the instant the slap is about to touch the face.
-The slap is aimed at the bully on the ground throughout, never toward the camera.
+[00:11-00:15] 場景 4：連續耳光 + 俯視結尾 (快速剪輯 → 俯拍 → 碎剪至黑)
+復仇者閃過拳頭並抓住霸凌者的衣領。快速剪輯：連續耳光打在霸凌者臉上，霸凌者的頭部左右甩動，頭髮飛散。
+最後 2 秒鏡頭變換：鏡頭移至兩人正上方進行垂直俯拍，顯示霸凌者癱倒在地，臉部朝上，復仇者抓著他的衣領。
+復仇者的另一隻手高高舉向鏡頭 (手背對準鏡頭)，暫停一秒，隨後手掌猛然揮下，從鏡頭方向移向下方霸凌者的臉部——在耳光即將觸碰臉部的瞬間，畫面碎剪至全黑並靜音。
+耳光全程瞄準地上的霸凌者，絕非朝向鏡頭。
 
-[Sound Design] Corridor ambient sound, sharp slaps with echo, intense wind-breaking sound on the last slap followed by instant silence and black. No BGM or only low string music in the background.
+[聲音設計] 走廊環境音，帶有回音的清脆耳光聲，最後一記耳光伴隨強烈的破風聲，隨後瞬間靜音並轉黑。無背景音樂，或僅背景有低沉弦樂。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0cf6430579f1557aa53b1cd3c46cddf8/thumbnails/thumbnail.jpg" width="600" alt="Korean school revenge drama cinematic prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0cf6430579f1557aa53b1cd3c46cddf8/thumbnails/thumbnail.jpg" width="600" alt="韓式校園復仇劇電影感提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6020)**
 
@@ -953,16 +952,16 @@ The slap is aimed at the bully on the ground throughout, never toward the camera
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic fantasy cinematic showing a sky terminal built from crystal where dragons land and take off at sunset.
+> 一部史詩般的奇幻電影短片，展示了一座由水晶打造的空中航廈，巨龍在此起降，背景為夕陽西下。
 
 #### 📝 提示詞
 
 ```
-The world's first dragon airport floats high above the clouds, a breathtaking sky terminal built from glowing crystal towers, golden bridges, and colossal landing platforms suspended in the heavens. The video opens with a cinematic aerial shot of majestic dragons arriving from distant kingdoms. A massive emerald dragon glides through the clouds while an ice dragon descends from snowy mountains and a fiery crimson dragon emerges from a glowing volcanic horizon.
+全球首座巨龍機場漂浮在雲端之上，這是一座令人屏息的空中航廈，由閃耀的水晶塔、黃金橋樑以及懸浮於天際的巨大停機坪所構成。影片以壯闊的空拍鏡頭開場，展現巨龍從遙遠的王國抵達。一條巨大的翡翠巨龍穿梭於雲層中，一條冰龍從雪山俯衝而下，而一條火紅色的巨龍則從發光的火山地平線現身。
 
-The camera races through the bustling airport as dragons of every size land gracefully on enormous floating runways. Dragon riders guide their creatures toward elegant sky gates while magical cargo is loaded onto giant transport dragons. Clouds drift between the terminals as sunlight reflects from shimmering crystal structures.
+鏡頭穿梭於繁忙的機場，各種體型的巨龍優雅地降落在巨大的漂浮跑道上。龍騎士引導著牠們前往優雅的空中閘門，魔法貨物則被裝載到巨大的運輸龍身上。雲霧在航廈間飄移，陽光映照在閃爍的水晶結構上。
 
-The action intensifies as several dragons launch from the airport in synchronized takeoffs. The camera follows them soaring between floating towers and glowing sky bridges, wings creating powerful gusts through the clouds. For the grand finale, a gigantic golden dragon departs from the main terminal and flies into a spectacular orange-and-purple sunset above an endless sea of clouds. The camera pulls back to reveal the entire dragon airport glowing magnificently in the sky, ultra-realistic, cinematic masterpiece, breathtaking scale, highly detailed dragons, fantasy realism, epic ending.
+隨著幾條巨龍同步起飛，動作場面進入高潮。鏡頭跟隨牠們在漂浮塔樓與發光的空中橋樑間翱翔，雙翼在雲層中掀起強勁的氣流。在壯麗的結尾中，一條巨大的黃金巨龍從主航廈出發，飛向無盡雲海之上那橘紫色交織的絕美夕陽。鏡頭拉遠，呈現出整座巨龍機場在天空中閃耀的壯麗景象，超寫實、電影級傑作、震撼的規模、高度細緻的巨龍、奇幻寫實風格、史詩般的結局。
 ```
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07fe201d74d376851a6719c1360c988b/thumbnails/thumbnail.jpg" width="600" alt="Dragon International Airport">
@@ -972,194 +971,194 @@ The action intensifies as several dragons launch from the airport in synchronize
 **作者:** [Ai Doctor](https://x.com/DoctorAmna11) | **來源:** [Link](https://x.com/DoctorAmna11/status/2065767722890465781) | **發布時間:** Jun 13, 2026
 
 ---
-### Nike Denim Edition Commercial
+### Nike Denim Edition 商業廣告
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 15-second premium product commercial prompt for the Nike Air Force 1 Low Denim Edition, featuring macro texture details and a studio reveal.
+> 為 Nike Air Force 1 Low Denim Edition 設計的 15 秒頂級產品商業廣告提示詞，包含微距紋理細節與攝影棚展示效果。
 
 #### 📝 提示詞
 
 ```
-### Seedance 2.0 — 15 Second Premium Product Commercial
+### Seedance 2.0 — 15 秒頂級產品商業廣告
 
 **Nike Air Force 1 Low Denim Edition**
-**Aspect Ratio:** 9:16 Vertical
-**Duration:** 15 Seconds
-**Style:** Luxury sneaker campaign, cinematic fashion commercial, ultra-realistic product showcase, premium sportswear advertising, high-end social media launch film.
+**長寬比：** 9:16 直式
+**時長：** 15 秒
+**風格：** 奢華球鞋宣傳、電影級時尚廣告、超寫實產品展示、頂級運動服飾廣告、高端社群媒體發布影片。
 
-Treat each storyboard panel as a separate full-screen cinematic shot. Read left-to-right, top-to-bottom. Do not animate the storyboard itself. Every panel becomes an individual shot with realistic motion and camera behavior.
+請將每個分鏡腳本視為獨立的全螢幕電影鏡頭。請由左至右、由上至下閱讀。請勿對分鏡腳本本身進行動畫處理。每個分鏡都將成為具有真實動態與攝影機運鏡的獨立鏡頭。
 
-**Product Fidelity**
-Maintain the exact Nike Air Force 1 Low Denim Edition design throughout all scenes. Preserve denim texture, stitching, swoosh shape, sole proportions, lace structure, outsole pattern, blue-and-white color palette, premium materials, branding details, and realistic lighting interaction.
+**產品保真度**
+在所有場景中保持 Nike Air Force 1 Low Denim Edition 的精確設計。保留丹寧紋理、縫線、Swoosh 形狀、鞋底比例、鞋帶結構、大底紋路、藍白配色、頂級材質、品牌細節以及真實的光影互動。
 
 ---
 
-### SHOT 01 (0.0–1.0s)
+### 鏡頭 01 (0.0–1.0 秒)
 
-Premium packaging reveal. Hands slide open a matte black Nike box on a studio table. Soft daylight reflections. Slow push-in camera movement.
+頂級包裝展示。雙手滑開攝影棚桌面上的一個霧面黑色 Nike 鞋盒。柔和的日光反射。攝影機緩慢推進。
 
-### SHOT 02 (1.0–2.0s)
+### 鏡頭 02 (1.0–2.0 秒)
 
-Unboxing close-up. Lid lifts. Denim Air Force 1 appears inside tissue wrapping. Cinematic focus pull revealing materials and craftsmanship.
+開箱特寫。掀開盒蓋。丹寧款 Air Force 1 出現在棉紙包裝中。電影級的焦點變換，展現材質與工藝細節。
 
-### SHOT 03 (2.0–3.0s)
+### 鏡頭 03 (2.0–3.0 秒)
 
-Floating hero product shot. Sneaker suspended in a clean studio environment. Slow orbital camera movement emphasizing silhouette and proportions.
+懸浮產品主鏡頭。球鞋懸浮在乾淨的攝影棚環境中。攝影機緩慢環繞，強調鞋身輪廓與比例。
 
-### SHOT 04 (3.0–3.8s)
+### 鏡頭 04 (3.0–3.8 秒)
 
-Macro denim detail. Extreme close-up of swoosh stitching and woven fabric texture. Light glides across material surface.
+丹寧材質微距。Swoosh 縫線與織物紋理的極致特寫。光線在材質表面滑過。
 
-### SHOT 05 (3.8–4.6s)
+### 鏡頭 05 (3.8–4.6 秒)
 
-Toe-box macro. Crisp perforation details. Shallow depth of field. Premium luxury-product aesthetic.
+鞋頭微距。清晰的透氣孔細節。淺景深。頂級奢華產品美學。
 
-### SHOT 06 (4.6–5.4s)
+### 鏡頭 06 (4.6–5.4 秒)
 
-Heel branding close-up. "Nike Air" logo illuminated by soft rim light. Slow cinematic tilt upward.
+後跟品牌標誌特寫。「Nike Air」標誌在柔和的輪廓光照射下顯現。攝影機緩慢向上傾斜。
 
-SHOT 07 (5.4–6.2s)
+### 鏡頭 07 (5.4–6.2 秒)
 
-Lifestyle angle. Model standing naturally in the sneakers. Camera circles subtly around the shoes. Urban atmosphere.
+生活風格視角。模特兒自然地穿著球鞋站立。攝影機細膩地環繞鞋子拍攝。都市氛圍。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96234ae0f89cce7267f8444e625ada09/thumbnails/thumbnail.jpg" width="600" alt="Nike Denim Edition Commercial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96234ae0f89cce7267f8444e625ada09/thumbnails/thumbnail.jpg" width="600" alt="Nike Denim Edition 商業廣告">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6017)**
 
 **作者:** [Al-Shamus](https://x.com/im_shahid7) | **來源:** [Link](https://x.com/im_shahid7/status/2065756170766413942) | **發布時間:** Jun 13, 2026
 
 ---
-### Coastal Downhill Skateboarding Chase
+### 海岸下坡滑板追逐
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-speed 15-second cinematic chase video of a woman skateboarding down a steep coastal hill towards a turquoise ocean, featuring realistic physics and a handheld camera feel.
+> 一段 15 秒的高速電影感追逐影片，畫面中一名女性正沿著陡峭的海岸山坡向綠松石色的海洋滑行，具備逼真的物理效果與手持攝影機的臨場感。
 
 #### 📝 提示詞
 
 ```
-Create a 15-second realistic cinematic video of a woman skateboarding fast down a steep coastal hill road toward the ocean. Open with a dynamic rear chase angle from slightly above and behind her capturing the dramatic downhill slope and expansive ocean view ahead. The environment is a bright, sunny seaside town with narrow roads, stone walls, utility poles, small houses, rooftops, side streets, and lush green hills leading down to a vivid turquoise-blue coastline with large waves and towering white clouds.
-The woman has long black hair, soft natural facial features, warm light-medium skin, and a slim youthful build. Dress her in a stylish casual coastal outfit: an oversized blue shirt, denim pants, white sneakers, and a small slingbag. Her hair and clothing move naturally in the wind as she rides.
-She is skateboarding continuously and quickly downhill, carving gently and smoothly with believable balance and natural physics. The motion should feel exciting, free, and grounded in reality.
-Add a small number of cars on the road to make the scene feel alive - only a few, not heavy traffic. Include perhaps one car driving farther ahead in her lane, one parked vehicle near the roadside, and one occasional passing or oncoming car at a safe distance. The vehicles should feel natural and integrated into the town, adding realism and motion without becoming the focus. The road should still feel mostly open so the skateboarder remains the clear subject.
-Use realistic lighting, natural motion blur, subtle camera shake, and an immersive handheld/chase-camera feel. Keep the entire scene fully photorealistic, not animated or illustrated.
-For most of the video, keep the camera behind her as she rides fast downhill with the ocean stretching out in front of her. In the final few seconds, the camera glides from behind to the side and then arcs around to the front, revealing her face clearly while she is still riding. She looks calm, focused, and slightly smiling, enjoying the ride. End on the face reveal while she continues moving downhill.
-Audio: no background music. Ambient sound only - skateboard wheels rolling on pavement, wind, distant ocean, and light neighborhood traffic sounds.
+製作一段 15 秒、具備電影質感的逼真影片，呈現一名女性正快速地沿著陡峭的海岸公路向海洋滑行。開場採用動態的後方追逐視角，從她後上方略高處拍攝，捕捉戲劇性的下坡坡度以及前方廣闊的海洋景觀。環境是一個明亮、陽光明媚的海濱小鎮，道路狹窄，設有石牆、電線桿、小型房屋、屋頂、側巷，以及通往色彩鮮豔的綠松石色海岸線的翠綠山丘，海面上有大浪，天空中飄著高聳的白雲。
+該女性留著黑色長髮，面部輪廓柔和自然，膚色呈現溫暖的中等色調，體態纖細年輕。為她穿上時尚的休閒海岸風服裝：寬鬆的藍色襯衫、牛仔褲、白色運動鞋以及一個小型斜背包。當她滑行時，頭髮與衣物隨風自然擺動。
+她正持續且快速地向下滑行，動作流暢且帶有輕微的轉彎，展現出可信的平衡感與自然的物理特性。動作應呈現出刺激、自由且紮實的真實感。
+在路上加入少量車輛以增添場景的生動感——只需幾輛，不要造成交通擁堵。例如，前方車道有一輛行駛中的車，路邊停放一輛車，以及偶爾出現的一輛經過或對向來車，保持安全距離。車輛應顯得自然並融入小鎮環境，在不搶走主角風采的前提下增加真實感與動態感。道路應保持相對開闊，確保滑板者始終是畫面焦點。
+運用逼真的光影、自然的動態模糊、細微的攝影機晃動，以及沉浸式的手持/追逐攝影機視角。整段場景必須完全呈現照片級真實感，而非動畫或插畫風格。
+影片大部分時間，攝影機應保持在她後方，拍攝她快速下坡、海洋在前方延伸的畫面。最後幾秒鐘，攝影機從後方滑向側面，接著繞至前方，清晰地露出她正在滑行中的臉部。她看起來冷靜、專注且帶著淺淺的微笑，享受著滑行的過程。影片結束於臉部特寫，同時她持續向下滑行。
+音效：無背景音樂。僅保留環境音——滑板輪子在路面滾動的聲音、風聲、遠處的海浪聲以及輕微的社區交通聲。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781422567613_t5dgsy_HKsB38nbwAAygmJ.jpg" width="600" alt="Coastal Downhill Skateboarding Chase">
+<img src="https://cms-assets.youmind.com/media/1781422567613_t5dgsy_HKsB38nbwAAygmJ.jpg" width="600" alt="海岸下坡滑板追逐">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6004)**
 
 **作者:** [Noor](https://x.com/noorlewisx) | **來源:** [Link](https://x.com/noorlewisx/status/2065746957499605274) | **發布時間:** Jun 13, 2026
 
 ---
-### Vertical Character Dance MV
+### 直式角色舞蹈 MV
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A comprehensive video generation prompt for creating dynamic 15-second vertical dance music videos starring a specific reference character.
+> 一份全面的影片生成提示詞，用於創作以特定參考角色為主角的 15 秒動態直式舞蹈音樂影片。
 
 #### 📝 提示詞
 
 ```
-Generate a 15-second vertical dance music video using the person or character from @Image 1. Ensure the character expresses the music with their entire body and dances dynamically. 
+使用 @Image 1 中的人物或角色生成一段 15 秒的直式舞蹈音樂影片。確保角色能以全身動作詮釋音樂，並展現動態舞姿。
 
-format: vertical_9x16
-fps: 24
-total_duration: 15s
-style:
-High-quality dance MV
-Cinematic
+格式：vertical_9x16
+幀率：24 fps
+總時長：15 秒
+風格：
+高品質舞蹈 MV
+電影感
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7e19336a9114b1739466952d6eda6149/thumbnails/thumbnail.jpg" width="600" alt="Vertical Character Dance MV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7e19336a9114b1739466952d6eda6149/thumbnails/thumbnail.jpg" width="600" alt="直式角色舞蹈 MV">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6024)**
 
 **作者:** [Zeto](https://x.com/ZetoGroovin) | **來源:** [Link](https://x.com/ZetoGroovin/status/2065738828221231578) | **發布時間:** Jun 13, 2026
 
 ---
-### Magical Forest Discovery Storyboard
+### 魔法森林探索專案
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fantasy storytelling prompt that tracks a character's discovery of a glowing alien egg in a magical forest, featuring consistent character identity across scenes.
+> 一個奇幻故事敘述提示詞，用於追蹤角色在魔法森林中發現發光外星蛋的過程，並確保角色在各場景中的一致性。
 
 #### 📝 提示詞
 
 ```
-Main Character Consistency
-Young adventurous woman, same appearance throughout all shots, realistic face, long dark hair, casual outdoor explorer outfit, expressive eyes, cinematic lighting, ultra-realistic style, detailed skin texture, natural movements, consistent character identity in every scene.
+主角一致性
+年輕的冒險女性，在所有鏡頭中保持相同外觀、寫實臉孔、深色長髮、休閒戶外探險服裝、富有表情的雙眼、電影級光影、超寫實風格、細膩的皮膚紋理、自然的動作，確保每個場景中的角色身分一致。
 
 ---
 
-### Scene 1 (0–3 sec) — Discovery
+### 場景 1 (0–3 秒) — 發現
 
-**Prompt:**
-A magical forest at sunrise filled with tall ancient trees, glowing plants, floating particles, and soft golden light filtering through the leaves. A young adventurous woman walks carefully through the forest, looking around with curiosity. Suddenly she notices a mysterious glowing egg resting among moss-covered roots. The egg emits a soft blue and purple light, illuminating the surrounding plants. The camera slowly pushes toward the egg as the girl kneels beside it with a surprised expression. Ultra-realistic cinematic fantasy movie, shallow depth of field, volumetric lighting, highly detailed environment, 4K.
-
----
-
-### Scene 2 (3–7 sec) — The Egg Hatches
-
-**Prompt:**
-Close-up of the mysterious glowing egg in the forest. Small cracks begin spreading across its luminous shell while magical energy pulses from within. The young woman watches in amazement, her eyes reflecting the glowing light. Tiny glowing particles float into the air as the cracks rapidly expand. Bright colorful light escapes through the openings. Cinematic camera orbit around the egg, dramatic fantasy atmosphere, ultra-realistic textures, movie-quality visual effects, detailed lighting, 4K.
+**提示詞：**
+日出時分的魔法森林，充滿高聳的古樹、發光的植物、漂浮的微粒，柔和的金色光線穿過葉片灑落。一位年輕的冒險女性小心翼翼地走在森林中，好奇地四處張望。突然，她注意到一顆神秘的發光蛋靜靜地躺在佈滿苔蘚的樹根之間。蛋體散發出柔和的藍紫色光芒，照亮了周圍的植物。當女孩跪在蛋旁並露出驚訝的表情時，攝影機緩慢地向蛋推進。超寫實電影級奇幻風格、淺景深、體積光、高度細節的環境、4K。
 
 ---
 
-### Scene 3 (7–10 sec) — First Contact
+### 場景 2 (3–7 秒) — 蛋殼破裂
 
-**Prompt:**
-The egg finally opens, revealing an adorable baby alien creature with large glowing eyes, tiny ears, and soft bioluminescent skin. The creature slowly climbs out of the shell and looks directly at the young woman. It tilts its head curiously and gives a warm smile. The girl smiles back with wonder and excitement. Magical forest lights shimmer around them as the camera slowly pulls back to reveal the beautiful fantasy environment. Heartwarming cinematic ending, ultra-realistic creature design, emotional movie scene, volumetric lighting, 4K masterpiece.
+**提示詞：**
+森林中神秘發光蛋的特寫鏡頭。細小的裂縫開始在發光的蛋殼上蔓延，魔法能量從內部脈動而出。年輕女子驚訝地注視著，她的雙眼映照出發出的光芒。隨著裂縫迅速擴大，微小的發光粒子飄浮在空中。明亮多彩的光線從裂縫中溢出。攝影機繞著蛋進行電影級環繞拍攝，戲劇性的奇幻氛圍、超寫實紋理、電影級視覺特效、細膩的光影、4K。
 
-**Style Tags:**
-Ultra-realistic, cinematic fantasy adventure, Hollywood movie quality, volumetric lighting, magical forest, emotional storytelling, highly detailed, realistic physics, depth of field, masterpiece, 4K, epic fantasy atmosphere.
+---
+
+### 場景 3 (7–10 秒) — 初次接觸
+
+**提示詞：**
+蛋殼最終打開，露出了一隻可愛的幼年外星生物，牠有著巨大的發光雙眼、小耳朵和柔軟的生物發光皮膚。生物緩慢地從殼中爬出，直視著年輕女子。牠好奇地歪著頭，露出溫暖的微笑。女孩也帶著驚奇與興奮回以微笑。魔法森林的光芒在他們周圍閃爍，攝影機緩慢拉遠，展現出美麗的奇幻環境。溫馨的電影級結尾、超寫實生物設計、感人的電影場景、體積光、4K 傑作。
+
+**風格標籤：**
+超寫實、電影級奇幻冒險、好萊塢電影品質、體積光、魔法森林、情感敘事、高度細節、寫實物理效果、景深、傑作、4K、史詩奇幻氛圍。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df1276c70fff66948d33c141ce2c2bcb/thumbnails/thumbnail.jpg" width="600" alt="Magical Forest Discovery Storyboard">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df1276c70fff66948d33c141ce2c2bcb/thumbnails/thumbnail.jpg" width="600" alt="魔法森林探索專案">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6010)**
 
 **作者:** [Jasmine Ai](https://x.com/jasminekhan90_) | **來源:** [Link](https://x.com/jasminekhan90_/status/2065718254128255249) | **發布時間:** Jun 13, 2026
 
 ---
-### Soccer Knuckleball Free Kick Simulation
+### 足球電梯球自由球模擬
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex video prompt for a soccer goal scene, using diagrammatic reference images to control ball trajectory and physical movement.
+> 一個用於足球進球場景的複雜影片提示詞，利用圖解參考圖像來控制球的軌跡與物理運動。
 
 #### 📝 提示詞
 
 ```
-Use @image1 side-view trajectory diagram) and @image2 (top-down trajectory diagram) as the exact reference for the ball's flight path. The red line in @Image1 defines the ball's vertical arc — rising sharply after the kick, peaking around the halfway line, then dipping down hard into the left goal (knuckleball dip). The red line in @Image2 defines the ball's horizontal route — traveling diagonally from the kick spot near the halfway line straight toward the goal in the lower-left, curving only slightly at the very end into the corner. The ball is kicked from the point labeled "kick" and ends inside the goal labeled "goal". Shot count: 4 | Duration: 10s | Aspect ratio: 16:9 CONTEXT: Fictional FIFA World Cup match, Japan vs Denmark. Packed stadium under bright daylight, green striped pitch. A Japanese national team player — blonde hair, left-footed (southpaw), blue Japan home kit — takes a long-range direct free kick. The ball is struck with no spin (knuckleball), so it flies fast and straight, then suddenly dips and dives into the top corner of the Denmark goal. STYLE: cinematic sports broadcast realism, 4K ultra-high resolution, natural daylight, sharp detail, realistic grass and stadium crowd, smooth slow-motion accents, stable footage, no jitter, no distortion, no deformation, photorealistic players. [0s – 2.5s] SHOT 1 — THE STRIKE. Low-angle medium shot behind the blonde left-footed Japanese player. He plants his right foot and swings his left foot through the ball with a clean, flat no-spin contact. Camera: slow push-in. Crowd noise swells. [2.5s – 5s] SHOT 2 — RISING FLIGHT (side view). Side-on tracking shot following the ball as it rises and climbs over the halfway line, exactly matching the upward arc of the red line in @Image1. The ball wobbles slightly with no rotation. Camera: smooth lateral tracking with the ball. [5s – 7.5s] SHOT 3 — THE DIP (overhead transition). High overhead angle showing the ball cutting diagonally across the pitch toward the lower-left goal, matching the route of the red line in @Image2, then dipping downward. Camera: high aerial following the ball's path. [7.5s – 10s] SHOT 4 — THE GOAL. Behind-the-goal shot. The ball dives into the top corner of the Denmark net, rippling the netting. The goalkeeper dives too late. Camera: slow pull-out as the crowd erupts. Slow-motion on the net ripple. Audio: live stadium ambience, rising crowd roar, sharp ball-strike sound, explosive goal celebration. Avoid: jitter, distortion, blur, deformation, extra players blocking the ball, wrong-footed kick (must be LEFT foot), spinning/curling ball (must be knuckleball, no spin). NO SUBTITLES. NO TEXT ON SCREEN. NO CAPTIONS. NO WATERMARKS.
+請使用 @image1（側視軌跡圖）與 @image2（俯視軌跡圖）作為球飛行路徑的精確參考。@Image1 中的紅線定義了球的垂直弧線——踢球後急劇上升，在半場線附近達到頂點，隨後猛烈下墜進入球門左側（電梯球下墜）。@Image2 中的紅線定義了球的水平路線——從半場線附近的踢球點斜向飛往左下方的球門，僅在最後時刻輕微彎曲進入死角。球從標記為「kick」的點踢出，並在標記為「goal」的球門內結束。鏡頭數量：4 | 時長：10 秒 | 寬高比：16:9。背景：虛構的 FIFA 世界盃比賽，日本對陣丹麥。陽光明媚的滿座體育場，綠色條紋球場。一名日本國家隊球員——金髮、左撇子（左腳選手）、穿著藍色日本主場球衣——主罰長距離直接自由球。球在踢出時沒有旋轉（電梯球），因此飛行速度快且筆直，隨後突然下墜並鑽入丹麥隊球門的上角。風格：電影級體育轉播寫實感、4K 超高解析度、自然日光、清晰細節、逼真的草地與觀眾、流暢的慢動作強調、畫面穩定、無抖動、無失真、無變形、照片級真實感的球員。 [0 秒 – 2.5 秒] 鏡頭 1 — 射門。金髮左腳日本球員後方的低角度中景。他站穩右腳，左腳揮動並以乾淨、平直且無旋轉的方式擊球。攝影機：緩慢推近。觀眾歡呼聲漸強。[2.5 秒 – 5 秒] 鏡頭 2 — 上升飛行（側視）。側向追蹤鏡頭，跟隨球上升並飛越半場線，精確匹配 @Image1 中紅線的上升弧度。球輕微晃動且無旋轉。攝影機：與球同步的平滑橫向追蹤。[5 秒 – 7.5 秒] 鏡頭 3 — 下墜（俯視轉換）。高空俯視角度，展示球斜向切過球場飛往左下方球門，匹配 @Image2 中紅線的路徑，隨後向下俯衝。攝影機：跟隨球路徑的高空航拍。[7.5 秒 – 10 秒] 鏡頭 4 — 進球。球門後方鏡頭。球鑽入丹麥隊球門上角，球網翻騰。守門員撲救不及。攝影機：隨著觀眾歡呼聲爆發而緩慢拉遠。球網翻騰處使用慢動作。音效：現場體育場氛圍、觀眾歡呼聲漸強、清脆的擊球聲、爆發性的進球慶祝。避免：抖動、失真、模糊、變形、額外球員遮擋球、踢球腳錯誤（必須是左腳）、旋轉/弧線球（必須是電梯球，無旋轉）。無字幕。螢幕上無文字。無標題。無浮水印。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c06f3e1a6ce756953879f90f6785eb79/thumbnails/thumbnail.jpg" width="600" alt="Soccer Knuckleball Free Kick Simulation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c06f3e1a6ce756953879f90f6785eb79/thumbnails/thumbnail.jpg" width="600" alt="足球電梯球自由球模擬">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6023)**
 
 **作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **來源:** [Link](https://x.com/tanabe_fragm/status/2065695931455136060) | **發布時間:** Jun 13, 2026
 
 ---
-### Fizz Pop CGI Drink Commercial
+### Fizz Pop CGI 飲料廣告
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Pixar-style 3D animated commercial for a fruit drink set in a sunlit morning kitchen.
+> 一支皮克斯風格的 3D 動畫飲料廣告，場景設定在陽光普照的早晨廚房。
 
 #### 📝 提示詞
 
 ```
-15-second Pixar CGI animation commercial for FIZZ POP fizzy fruit drink. Use hero frame as strict visual anchor for characters, product, setting, lighting, and color.
+15 秒的皮克斯 CGI 動畫廣告，推廣 FIZZ POP 水果氣泡飲。請將主視覺畫面作為嚴格的視覺基準，以確保角色、產品、場景、燈光與色彩的一致性。
 
-STYLE: Full Pixar feature-film CGI quality. Warm sunny kitchen. Golden morning
+風格：完整的皮克斯電影級 CGI 品質。溫暖明亮的廚房。金色的早晨
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/de3bf8cd861f72447762147dfb1c9f3d/thumbnails/thumbnail.jpg" width="600" alt="Fizz Pop CGI Drink Commercial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/de3bf8cd861f72447762147dfb1c9f3d/thumbnails/thumbnail.jpg" width="600" alt="Fizz Pop CGI 飲料廣告">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6018)**
 
@@ -1197,123 +1196,123 @@ STYLE: Full Pixar feature-film CGI quality. Warm sunny kitchen. Golden morning
 **作者:** [Harboris](https://x.com/harboriis) | **來源:** [Link](https://x.com/harboriis/status/2065665730809565678) | **發布時間:** Jun 13, 2026
 
 ---
-### Robot World Cup broadcast video prompt
+### 機器人世界盃轉播影片提示詞
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A high-quality sports broadcast prompt for generating a sci-fi football match where silver metallic robots play for the Chinese team against humans in the 2030 World Cup.
+> 一份高品質的體育轉播提示詞，用於生成 2030 年世界盃中，銀色金屬機器人代表中國隊與人類對戰的科幻足球賽場景。
 
 #### 📝 提示詞
 
 ```
-[Style] World Cup TV live broadcast texture (Live Sports Broadcast), authentic broadcast camera positions, slight signal scan lines, realistic sci-fi elements (Photorealistic Robots), 8K ultra-high definition.
-[Duration] 15 seconds
-[First Frame] Use the uploaded image as the first frame: a long-haired woman in a red vest in the stands cheering with surrounding fans waving red flags, including a live scoreboard.
-[Scene] 2030 World Cup Final venue, a massive stadium filled to capacity, green football pitch. The Chinese team consists entirely of silver-white metallic humanoid robot players (hydraulic structures at joints, red team crest on chest), the US team consists of ordinary human players in white jerseys.
+[風格] 世界盃電視直播質感 (Live Sports Broadcast)、真實轉播機位、輕微訊號掃描線、寫實科幻元素 (Photorealistic Robots)、8K 超高畫質。
+[時長] 15 秒
+[首幀] 使用上傳的圖片作為首幀：看台上，一名穿著紅色背心的長髮女子正在歡呼，周圍的球迷揮舞著紅旗，畫面包含現場記分牌。
+[場景] 2030 年世界盃決賽場地，座無虛席的巨型體育場，綠色足球場。中國隊由全銀白色金屬人形機器人球員組成（關節處有液壓結構，胸前有紅色隊徽），美國隊由身穿白色球衣的普通人類球員組成。
 
-[00:00-00:03] Scene 1: Stands opening
-Continuation of the first frame: The woman in the red vest and fans behind her wave red flags and cheer, the stands are a sea of red, the crowd is restless, slight flickering of live scan lines. Ambient live sound: overwhelming cheers and drums.
+[00:00-00:03] 場景 1：看台開場
+延續首幀畫面：穿紅色背心的女子與後方球迷揮舞紅旗歡呼，看台成為紅色的海洋，人群情緒激昂，帶有輕微的直播掃描線閃爍。現場環境音：排山倒海的歡呼聲與鼓聲。
 
-[00:03-00:10] Scene 2: Robot passing + bicycle kick (Broadcast Wide → Slow-mo)
-Switch to a standard broadcast angle overlooking the pitch: three Chinese robot players pass quickly on the ground near the penalty area, one-touch passing back and forth, sharp sound of metallic feet hitting the ball, human US players missing their tackles.
-A winger robot suddenly lofts a pass to the center of the box, the center robot leaps into the air, its entire metallic body rotating backward in the air for a bicycle kick (Bicycle Kick, switched to Super Slow-mo)—the ball rockets into the top corner, the net bulging violently.
-The scoreboard in the top left corner changes to CHN 2 - 0 USA.
-Live commentator roars excitedly (English): "Unbelievable! A bicycle kick! 2-0 China!"
+[00:03-00:10] 場景 2：機器人傳球 + 倒掛金鉤（轉播廣角 → 超慢動作）
+切換至俯瞰球場的標準轉播視角：三名中國機器人球員在禁區附近快速傳球，一腳傳球配合流暢，金屬腳部擊球聲清脆，美國人類球員攔截落空。
+一名邊路機器人突然將球吊向禁區中央，中路機器人騰空而起，整個金屬軀體在空中後旋並完成倒掛金鉤（Bicycle Kick，切換至超慢動作）——足球如火箭般射入球門死角，球網劇烈鼓起。
+左上角的記分牌變更為 CHN 2 - 0 USA。
+現場解說員激動地咆哮（英語）：“Unbelievable! A bicycle kick! 2-0 China!”
 
-[00:10-00:15] Scene 3: Match cut back to stands cheering
-Cut back to the same camera position as the first frame: the woman in the red vest jumps up from her seat, raising both fists in celebration, long hair flying, a brilliant smile, surrounding fans collectively standing up in excitement, red flags waving frantically, people hugging each other.
-The sound of the crowd reaches its peak, the camera tilts up slightly and freezes on the moment she jumps up to cheer.
+[00:10-00:15] 場景 3：切回看台歡呼畫面
+切回與首幀相同的機位：穿紅色背心的女子從座位上跳起，雙拳高舉慶祝，長髮飛揚，笑容燦爛，周圍球迷集體激動起身，紅旗瘋狂揮舞，人們互相擁抱。
+觀眾的歡呼聲達到頂峰，鏡頭微微向上傾斜，定格在她跳起歡呼的那一刻。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61024539a3067ba7e008c38158960f3d/thumbnails/thumbnail.jpg" width="600" alt="Robot World Cup broadcast video prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61024539a3067ba7e008c38158960f3d/thumbnails/thumbnail.jpg" width="600" alt="機器人世界盃轉播影片提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6021)**
 
 **作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2065653004158529841) | **發布時間:** Jun 13, 2026
 
 ---
-### Cargo Plane Action Sequence
+### 貨機動作場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-altitude action scene featuring secret agents battling on the wing of a military cargo plane at sunset.
+> 一場高空動作場景，描述秘密 Agent 在日落時分的軍用貨機機翼上進行搏鬥。
 
 #### 📝 提示詞
 
 ```
-Hyper-realistic cinematic action sequence, 15 seconds, aspect ratio 16:9. 
+超寫實電影級動作序列，15 秒，長寬比 16:9。
 
-A large military cargo plane is flying high above the clouds at sunset. The rear cargo ramp is open, violent wind tears through the aircraft, and two fighters are battling on the wing of the plane. One is a skilled secret agent in a dark tactical suit, the other is a dangerous enemy operative in black combat gear. The metal wing vibrates, engines roar, clouds rush past below, and loose cargo inside the aircraft is being pulled toward the open ramp.  
+一架大型軍用貨機在日落時分飛行於雲層高空。後方貨艙門開啟，強風猛烈地灌入機艙，兩名戰鬥人員正在機翼上搏鬥。其中一人是身穿深色戰術服的精銳秘密 Agent，另一人則是身穿黑色戰鬥裝備的危險敵方特工。金屬機翼震動，引擎轟鳴，雲層在下方飛速掠過，機艙內鬆脫的貨物正被吸向開啟的貨艙門。
 
-Camera angle 1: wide exterior shot, the cargo plane cuts through the sky above the clouds, the rear ramp is open, and the two fighters struggle on the wing near the engine while wind rips at their clothing.  
+鏡頭角度 1：廣角外景，貨機劃破雲層上方的天空，後方貨艙門開啟，兩名戰鬥人員在引擎附近的機翼上掙扎，強風撕扯著他們的衣物。
 
-Camera angle 2: close dynamic shot on the wing, the secret agent and enemy operative exchange fast punches and kicks while trying to keep balance on the vibrating metal surface. Their hands grip the edge of the wing, boots slide, and the wind is powerful and dangerous.  
+鏡頭角度 2：機翼上的動態特寫，秘密 Agent 與敵方特工快速交換拳腳，同時試圖在震動的金屬表面上保持平衡。他們的手緊抓機翼邊緣，靴子滑動，風勢強勁且危險。
 
-Camera angle 3: dramatic side shot, the enemy almost throws the agent off the wing. The agent slips, hangs from the edge with one hand, then pulls himself back up and counterattacks. Inside the plane, cargo crates break loose and slide toward the open rear ramp.  
+鏡頭角度 3：戲劇性的側面鏡頭，敵人差點將 Agent 拋出機翼。Agent 滑倒，單手懸掛在邊緣，隨後拉回身體並進行反擊。機艙內，貨箱鬆脫並滑向開啟的後方貨艙門。
 
-Final action beat: the agent defeats the enemy with one hard strike, then sprints across the wing and leaps through the open rear cargo ramp back into the aircraft just as the enemy loses balance and falls away into the clouds.  Final moment: inside the cargo plane, the agent lands hard and rolls across the metal floor as loose cargo slides past, the open ramp behind him framing the sky. 
+最終動作節奏：Agent 以猛烈的一擊擊敗敵人，隨後衝過機翼，在敵人失去平衡墜入雲層的瞬間，躍入開啟的後方貨艙門回到機內。最後時刻：在貨機內部，Agent 重重落地並在金屬地板上翻滾，鬆脫的貨物從身旁滑過，身後開啟的貨艙門映襯著天空。
 
-Style: hyper-realistic, cinematic, intense action, realistic wind force, dramatic sky, strong sense of altitude and danger, fast but readable camera movement, detailed aircraft surface, rushing clouds, no text, no logos, no cartoon style, no slow motion, no extra main characters. Keep proportions. Keep style and features. Aspect ratio
+風格：超寫實、電影感、緊張動作、真實風力、戲劇性天空、強烈的高度與危險感、快速但清晰的鏡頭運動、細緻的飛機表面、飛馳的雲層、無文字、無標誌、非卡通風格、無慢動作、無額外主要角色。保持比例。保持風格與特徵。長寬比
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f482c77eabae517f4410c92d32014582/thumbnails/thumbnail.jpg" width="600" alt="Cargo Plane Action Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f482c77eabae517f4410c92d32014582/thumbnails/thumbnail.jpg" width="600" alt="貨機動作場景">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6005)**
 
 **作者:** [DeCat](https://x.com/DeCat2025) | **來源:** [Link](https://x.com/DeCat2025/status/2065650279165341917) | **發布時間:** Jun 13, 2026
 
 ---
-### Sentient Road Signs Urban Animation
+### 具備感知能力的城市路標動畫
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A highly detailed cinematic prompt for an urban scene where pictograms on road signs and signals come to life and move playfully in a photorealistic environment.
+> 這是一個針對城市場景的高細節電影級提示詞，描述路標和交通號誌中的圖示在寫實環境中活過來並俏皮移動的畫面。
 
 #### 📝 提示詞
 
 ```
-Image 1 = Storyboard reference. Based on the attached storyboard image {{Image 1}}, create a high-quality 15-second, 16:9 landscape photorealistic video. Theme: 'A world where symbols inside road signs and signals in a real city play freely when no one is looking.' Basic Concept: The stage is a highly realistic urban intersection and road space. The overall look is a beautiful, cinematic, atmospheric photorealistic film scene. However, the surreal element is that only the 'symbols, people, numbers, arrows, bicycle marks, etc.' drawn inside the signs, traffic lights, and road markings move freely, happily, and dynamically as if they were alive. The key is not to add flashy VFX around them. The focus of interest is the movement of the markings within the signs themselves. Minimize traces of light, particles, auras, or magical effects; if necessary, limit them to subtle afterimages or blurs. Priority is given to making what the symbols inside are doing immediately clear. Rules for Worldview/Presentation: Sign bodies, traffic light bodies, cityscapes, roads, utility poles, buildings, and people exist realistically. Primarily, the designs, pictograms, numbers, arrows, and symbols inside the signs and signals move. They should basically move within the sign's frame, but in some cuts, they can slightly protrude, almost jump out, lean out, or play by returning inside the frame. Movements are comical and cute but not too childish. Maintain an exquisite reality where one might think 'this could really be happening.' Do not rely on effects. Interest should come from the 'acting of the symbols themselves'—running, dancing, jumping, multiplying, lining up, yielding, rushing, being puzzled, looking back, stretching, shrinking, turning. Feature many signs, signals, and guide displays in the urban space, and show different movements happening in various parts of the screen to give the feeling that the entire city is secretly alive. Video Flow: Based on the storyboard panel order, follow this flow: 0-2s: A beautiful establishing shot of a city intersection or road. Could be evening/magic hour or a clear morning/afternoon. A person is walking away or looking at the intersection. It looks like an ordinary street at first, but upon closer look, the green pedestrian figure in the signal is not walking normally but stepping happily. An introduction to make the audience think, 'Wait, did it just move?' 2-5s: Quick close-ups of signals and signs. The green signal figure walks -> runs -> jumps lightly -> more companions appear and move in line. Red signal figure stands tall -> hands on hips -> dances -> waves arms. Countdown numbers don't just decrease but shake, jump, and lean forward as if in a hurry. Arrow signs deform their tips or lines to show the direction of travel. Each movement must be large and clearly visible at a glance. 5-8s: Increase the variety of signs and show the bustle of the whole city. In a wide pedestrian signal, multiple figures march, overtake, and form ranks. Bicycle marks move as if pedaling. Round signs for 'No Entry' or 'Road Closed' have their white bands or internal symbols showing a grumpy face or shifting slightly. Signs for construction, caution, or school zones feature people or silhouettes looking panicked, running, or having a short conversation. Arrows on electronic boards flow continuously, connecting like waves. Emphasize the density here—'many signs are present, with different movements happening everywhere.' 8-12s: Section with more dynamic movement. The green signal figure runs to the edge of the sign frame, leans slightly out, then returns. The red figure dances while signaling 'Wait, wait!' Arrow marks compete for direction, then spin and line up. Countdown displays shrink or bounce according to the remaining seconds. Signs in the distance, overhead boards, etc., all move simultaneously. This part raises tension through 'acting and editing' rather than effects. 12-15s: Final wide shot showing many signs throughout the city alive at once. Mid-to-wide angle of the intersection. Numerous signals, arrow signs, guide boards, caution signs, and bicycle signs exist in the frame, with their symbols moving freely. However, the city atmosphere itself is beautiful, cinematic, and leaves a quiet resonance. Finally, pedestrians walk away without noticing, leaving an impression of a small celebration continuing only within the signs. Style: Ultra-high quality photorealistic cinematic; beautiful live-action film style; atmospheric use of natural light; cinematic lens feel; texture of real urban space; detailed reproduction of city signs, signals, and guide boards. Cute but not too childish, maintaining cinematic quality. Camera: Start with a wide intro shot, followed by close-ups of signs, mid-range shots, and deep cityscapes. Use light dolly, pan, tilt, forward movement, and lateral movement to avoid a static slideshow. Zoom in enough to see the movements inside the signs. Ideally, the final shot should be a slightly high or wide-angle view of the urban space with many signs. Editing: Tempo is brisk within 15 seconds, but ensure movements are clear. Maintain length for each cut to convey 'what is playing and how.' Rhythmic but maintains high-quality film montage style, not excessive flashy MV editing. Movement Direction (Most Important): Symbols, people, numbers, and arrows inside signs should act freely as follows: walking, running, skipping, jumping, lining up, increasing, decreasing, dancing, waving, panicking, getting angry, standing proudly, overtaking, protruding slightly from the frame and returning, responding to symbols in other signs, splitting into multiple bodies within the same sign, numbers bouncing/leaning/hurrying/shrinking/stretching, arrows undulating/curving/asserting direction, bicycle marks pedaling, caution sign figures running/stopping/looking back. All movements should be unified by showing the 'symbols inside are alive,' not the 'sign itself talking.' Color/Light: Can be morning, day, evening, or night, but prioritize beautiful natural light or cinematic urban lighting. Elegant contrast and realistic colors. Green/red signals and blue/yellow/red signs should be vivid but avoid looking too CG-like. Prohibited: No flashy VFX; do not hide behind magical light, particles, explosions, or excessive glow. Signs as a whole are not allowed to be personified or walk around. No large-scale floating signs or city-wide fantasy transformations. No simple slideshows. No text, subtitles, logos, or watermarks. Do not lean too far into children's animation; maintain live-action film-level beauty.
+Image 1 = 專案參考。根據隨附的專案圖片 {{Image 1}}，製作一部高品質、15 秒、16:9 橫向的寫實風格影片。主題：「一個當無人注意時，真實城市中路標與號誌內部的符號可以自由玩耍的世界。」基本概念：場景為高度寫實的城市十字路口與道路空間。整體視覺呈現出美麗、電影感、氛圍濃厚的寫實電影場景。然而，超現實的元素在於，只有繪製在標誌、交通號誌和道路標線內的「符號、人物、數字、箭頭、自行車標記等」會像活著一樣自由、快樂且動態地移動。關鍵在於不要在周圍添加華麗的 VFX。關注的焦點是標誌內部標記本身的動作。盡量減少光跡、粒子、光暈或魔法效果；如有必要，請將其限制在細微的殘影或模糊效果中。優先考慮讓符號內部的動作一目了然。世界觀與呈現規則：標誌本體、交通號誌本體、城市景觀、道路、電線桿、建築物和行人均真實存在。主要是標誌和號誌內部的設計、圖示、數字、箭頭和符號在移動。它們基本上應在標誌框內移動，但在某些鏡頭中，它們可以稍微突出、幾乎跳出、探出身體，或透過回到框內來玩耍。動作俏皮可愛，但不過於幼稚。保持一種精緻的真實感，讓人覺得「這可能真的正在發生」。不要依賴特效。趣味性應來自「符號本身的表演」——奔跑、跳舞、跳躍、增殖、排隊、禮讓、衝刺、困惑、回頭、伸展、縮小、轉向。在城市空間中呈現眾多標誌、號誌和導引顯示，並在螢幕的不同部分展示不同的動作，營造出整座城市都在秘密地活著的感覺。影片流程：根據專案面板順序，遵循此流程：0-2 秒：城市十字路口或道路的美麗建立鏡頭。可以是傍晚/魔幻時刻，或清晨/下午。有人正在走遠或看著十字路口。起初看起來像普通的街道，但仔細一看，號誌中的綠色行人圖示並非正常行走，而是快樂地邁步。這是一個引子，讓觀眾心想：「等等，它剛剛是不是動了一下？」2-5 秒：號誌和標誌的快速特寫。綠色號誌圖示行走 -> 奔跑 -> 輕快跳躍 -> 更多同伴出現並排隊移動。紅色號誌圖示挺胸站立 -> 插腰 -> 跳舞 -> 揮手。倒數數字不只是減少，還會像趕時間一樣晃動、跳躍並向前傾。箭頭標誌變形其尖端或線條以顯示行進方向。每個動作都必須大且一眼可見。5-8 秒：增加標誌的多樣性，展現整個城市的繁忙。在寬大的行人號誌中，多個圖示行進、超車並排成隊列。自行車標記移動時彷彿在踩踏板。圓形的「禁止進入」或「道路封閉」標誌，其白色條帶或內部符號露出不高興的表情或輕微移動。施工、警告或學區標誌中的人物或剪影顯得驚慌、奔跑或進行簡短對話。電子看板上的箭頭持續流動，像波浪一樣連接。此處強調密度——「存在許多標誌，且各處都在發生不同的動作。」8-12 秒：動作更動態的部分。綠色號誌圖示跑到標誌框邊緣，稍微探出身體，然後返回。紅色圖示跳舞時示意「等等，等等！」箭頭標記爭奪方向，然後旋轉並排成一列。倒數顯示根據剩餘秒數縮小或彈跳。遠處的標誌、頭頂上方的看板等同時移動。這部分透過「表演與剪輯」而非特效來提升張力。12-15 秒：最後的廣角鏡頭，展示城市中許多標誌同時活著。十字路口的中至廣角鏡頭。畫面中存在無數號誌、箭頭標誌、導引看板、警告標誌和自行車標誌，其符號自由移動。然而，城市氛圍本身美麗、電影感十足，並留下一種靜謐的餘韻。最後，行人走過而未察覺，留下了一種小小的慶祝活動僅在標誌內持續的印象。風格：超高品質寫實電影感；美麗的真人電影風格；自然光的氛圍運用；電影鏡頭感；真實城市空間的質感；城市標誌、號誌和導引看板的詳細再現。可愛但不幼稚，保持電影品質。攝影：以廣角開場鏡頭開始，隨後是標誌特寫、中景鏡頭和深邃的城市景觀。使用輕微的推軌、平移、傾斜、前進和橫向移動，以避免靜態幻燈片感。放大到足以看清標誌內部的動作。理想情況下，最後一個鏡頭應該是城市空間稍微高角度或廣角的視角，其中包含許多標誌。剪輯：15 秒內節奏輕快，但確保動作清晰。保持每個鏡頭的長度以傳達「正在玩什麼以及如何玩」。節奏感強但保持高品質的電影蒙太奇風格，而非過度華麗的 MV 剪輯。動作方向（最重要）：標誌內部的符號、人物、數字和箭頭應自由地進行以下動作：行走、奔跑、跳躍、排隊、增加、減少、跳舞、揮手、驚慌、生氣、驕傲地站立、超車、從框中稍微突出並返回、回應其他標誌中的符號、在同一個標誌內分裂成多個身體、數字彈跳/傾斜/匆忙/縮小/伸展、箭頭起伏/彎曲/主張方向、自行車標記踩踏板、警告標誌中的人物奔跑/停止/回頭。所有動作都應統一表現為「內部的符號是活的」，而不是「標誌本身在說話」。色彩/光線：可以是早晨、白天、傍晚或夜晚，但優先考慮美麗的自然光或電影般的城市照明。優雅的對比度和真實的色彩。綠/紅號誌和藍/黃/紅標誌應鮮豔，但避免看起來太像 CG。禁止事項：無華麗 VFX；不要隱藏在魔法光、粒子、爆炸或過度發光之後。標誌整體不允許擬人化或四處走動。沒有大規模的漂浮標誌或城市級的奇幻變形。沒有簡單的幻燈片。沒有文字、字幕、標誌或浮水印。不要過度偏向兒童動畫；保持真人電影級的美感。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0fb18a092bfb1c48259d81691eb3a15b/thumbnails/thumbnail.jpg" width="600" alt="Sentient Road Signs Urban Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0fb18a092bfb1c48259d81691eb3a15b/thumbnails/thumbnail.jpg" width="600" alt="具備感知能力的城市路標動畫">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6022)**
 
 **作者:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **來源:** [Link](https://x.com/Ryuki_Yano/status/2065642863350919459) | **發布時間:** Jun 13, 2026
 
 ---
-### Hair Salon Transformation Ad Prompt
+### 美髮沙龍變身廣告提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic beauty commercial prompt showing a realistic transformation from wavy to straight hair in a luxury salon setting.
+> 一個電影級美妝廣告提示詞，展示在奢華沙龍環境中，頭髮從波浪捲變為直髮的真實變身過程。
 
 #### 📝 提示詞
 
 ```
-Use the uploaded image as the exact character reference. Maintain the same face, eyes, skin tone, hair color, and identity throughout the entire video.
+請使用上傳的圖片作為精確的角色參考。在整個影片中，請保持相同的臉部、眼睛、膚色、髮色及角色特徵。
 
-15-second cinematic salon transformation video.
+15 秒電影級沙龍變身影片。
 
-Scene 1 (0-3s):
-Close-up of the beautiful young woman with long wavy dark brown hair. She looks at the camera and smiles softly. Luxury salon background, warm lighting, shallow depth of field. Slow camera push-in.
+場景 1 (0-3 秒)：
+一位留著深棕色長波浪捲髮的年輕美女特寫。她看向鏡頭並輕柔微笑。背景為奢華沙龍，溫暖的燈光，淺景深。鏡頭緩慢推進。
 
-Scene 2 (3-8s):
-A professional hairstylist begins straightening her hair with a silver flat iron. Steam gently rises from the straightener. The camera follows the flat iron moving smoothly through the hair. Detailed hair strands transform from soft waves into sleek straight hair. Cinematic slow motion.
+場景 2 (3-8 秒)：
+一位專業髮型師開始用銀色離子夾為她拉直頭髮。蒸氣從離子夾中輕柔升起。鏡頭跟隨離子夾在髮絲間平滑移動。細緻的髮絲從柔軟的波浪變為柔順的直髮。電影級慢動作。
 
-Scene 3 (8-12s):
-Multiple beauty shots from different angles. The hair flows naturally as more sections become perfectly straight, silky, and glossy. Dramatic lighting reflections on the hair. Premium luxury salon atmosphere.
+場景 3 (8-12 秒)：
+來自不同角度的多個美妝鏡頭。隨著更多髮束變得完美筆直、絲滑且有光澤，頭髮自然地流動。頭髮上有戲劇性的光影反射。頂級奢華沙龍氛圍。
 
-Scene 4 (12-15s):
-Final reveal. The woman stands in front of a large illuminated mirror, touching her ultra-smooth glass-like straight hair. She smiles confidently and admires the transformation. Hair shines beautifully under salon lights. Camera slowly rotates around her and ends with a stunning close-up.
+場景 4 (12-15 秒)：
+最終呈現。女子站在大型發光鏡子前，觸摸她極致柔順、如玻璃般平滑的直髮。她自信地微笑並欣賞這次變身。頭髮在沙龍燈光下閃耀動人。鏡頭緩慢圍繞她旋轉，並以一個震撼的特寫鏡頭結束。
 
-Pixar-quality 3D animation, realistic hair physics, smooth motion, beauty commercial style, luxury salon, cinematic camera movement, ultra detailed, glossy hair reflections, professional advertisement quality, 9:16 vertical video, high realism, masterpiece, 8K.
+皮克斯 (Pixar) 品質 3D 動畫，真實的頭髮物理效果，流暢的動作，美妝廣告風格，奢華沙龍，電影級鏡頭運動，超細緻，亮麗的頭髮光澤，專業廣告品質，9:16 直式影片，高度寫實，傑作，8K。
 
-Negative Prompt:
-low quality, blurry, face distortion, changing face, identity change, extra fingers, bad hands, flickering, duplicate person, deformed hair, ugly face, text, watermark, logo, cropped face, unstable animation.
+負面提示詞：
+低品質、模糊、臉部扭曲、臉部改變、身分改變、多餘的手指、糟糕的手部、閃爍、重複的人物、頭髮變形、醜陋的臉、文字、浮水印、標誌、臉部被裁切、不穩定的動畫。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34f09081f1d813756cae1407f0f14bb1/thumbnails/thumbnail.jpg" width="600" alt="Hair Salon Transformation Ad Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34f09081f1d813756cae1407f0f14bb1/thumbnails/thumbnail.jpg" width="600" alt="美髮沙龍變身廣告提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6013)**
 
@@ -3630,6 +3629,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-14T11:14:39.934Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-14T14:21:12.268Z</sub>
 
 </div>

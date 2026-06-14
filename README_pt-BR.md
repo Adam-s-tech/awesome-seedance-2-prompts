@@ -380,275 +380,274 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 **Autor:** [あぁく](https://x.com/kik0ai1jikake) | **Fonte:** [Link](https://x.com/kik0ai1jikake/status/2065972896510705775) | **Publicado:** Jun 14, 2026
 
 ---
-### 80s Retro OVA Egyptian God Animation
+### Animação OVA Retrô dos Anos 80 sobre Deuses Egípcios
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A vintage 80s OVA style animation prompt featuring Egyptian gods Anubis and Sobek in a comedic strength competition within a royal palace.
+> Um prompt de animação no estilo OVA vintage dos anos 80, apresentando os deuses egípcios Anúbis e Sobek em uma cômica competição de força dentro de um palácio real.
 
 #### 📝 Prompt
 
 ```
-Fine hand-drawn animation, 80s retro OVA style. Scene 1: Inside an Egyptian royal palace, the powerful jackal god Anubis and the powerful crocodile god Sobek stand side by side, together lifting a giant boulder. Their expressions are tense as they focus intensely on keeping the rock above their heads. A human pharaoh slowly walks before them, hands behind his back, observing who can hold the boulder longer. The Pharaoh says, "Only one of you can accompany me on my next mission—only the strongest." Anubis and Sobek are one meter apart, with the pharaoh standing in front. Scene 2: Sobek suddenly has a spark of inspiration, a cunning smile appearing on his face. He tilts his head slightly toward Anubis with a sly grin, his tail tip reaching toward Anubis's armpit. Anubis remains looking forward, ignoring everything around him, focused only on holding up the boulder. Scene 3: A close-up shows Sobek's tail tip gently and smoothly brushing against Anubis's armpit. Anubis's suppressed laughter is heard in the background, indicating he is very ticklish. Scene 4: A close-up shows Anubis's upper body as Sobek's tail tip continues to tickle his armpit. Anubis has his eyes closed, grinning and letting out suppressed laughter while trying his best to keep the boulder up. Scene 5: Sobek's tail continues to tickle Anubis's armpit; Anubis closes his eyes and laughs out loud. The tickling continues, Anubis bursts into laughter, drops the boulder behind him, and hugs himself as the sensation stops. Anubis falls to the ground, still clutching his stomach from laughter. Sobek still holds the boulder above his head, looking on with satisfaction. Scene 6: The Pharaoh nods to Sobek and says, "It seems you are the one." Anubis is still lying on the ground giggling. Both Sobek and Anubis are muscular and wear armbands. Anubis also wears a neck collar. Their voices are deep and powerful. Audio is in English.
+Animação detalhada feita à mão, estilo OVA retrô dos anos 80. Cena 1: Dentro de um palácio real egípcio, o poderoso deus chacal Anúbis e o poderoso deus crocodilo Sobek estão lado a lado, levantando juntos uma rocha gigante. Suas expressões são tensas enquanto se concentram intensamente em manter a rocha acima de suas cabeças. Um faraó humano caminha lentamente diante deles, com as mãos nas costas, observando quem consegue segurar a rocha por mais tempo. O Faraó diz: "Apenas um de vocês pode me acompanhar na minha próxima missão — apenas o mais forte". Anúbis e Sobek estão a um metro de distância, com o faraó parado à frente. Cena 2: Sobek de repente tem um lampejo de inspiração, um sorriso astuto surgindo em seu rosto. Ele inclina a cabeça levemente em direção a Anúbis com um sorriso malicioso, a ponta de sua cauda alcançando a axila de Anúbis. Anúbis continua olhando para frente, ignorando tudo ao seu redor, focado apenas em segurar a rocha. Cena 3: Um close mostra a ponta da cauda de Sobek roçando suave e delicadamente a axila de Anúbis. O riso contido de Anúbis é ouvido ao fundo, indicando que ele é muito sensível a cócegas. Cena 4: Um close mostra a parte superior do corpo de Anúbis enquanto a ponta da cauda de Sobek continua a fazer cócegas em sua axila. Anúbis está com os olhos fechados, sorrindo e soltando risadas contidas enquanto tenta ao máximo manter a rocha no alto. Cena 5: A cauda de Sobek continua a fazer cócegas na axila de Anúbis; Anúbis fecha os olhos e ri alto. As cócegas continuam, Anúbis cai na gargalhada, derruba a rocha atrás de si e se abraça quando a sensação para. Anúbis cai no chão, ainda segurando a barriga de tanto rir. Sobek ainda segura a rocha acima da cabeça, observando com satisfação. Cena 6: O Faraó acena para Sobek e diz: "Parece que você é o escolhido". Anúbis ainda está deitado no chão rindo. Tanto Sobek quanto Anúbis são musculosos e usam braçadeiras. Anúbis também usa um colar cervical. Suas vozes são graves e poderosas. O áudio está em inglês.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3fee9d08beb5cb3ab2ef3224d54bbcc/thumbnails/thumbnail.jpg" width="600" alt="80s Retro OVA Egyptian God Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3fee9d08beb5cb3ab2ef3224d54bbcc/thumbnails/thumbnail.jpg" width="600" alt="Animação OVA Retrô dos Anos 80 sobre Deuses Egípcios">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6011)**
 
 **Autor:** [migrok](https://x.com/migrok293703) | **Fonte:** [Link](https://x.com/migrok293703/status/2065932892753326503) | **Publicado:** Jun 13, 2026
 
 ---
-### Senior Trot Dance Storyboard Video
+### Storyboard de vídeo de dança trot para idosos
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video generation prompt for Seedance 2.0 that uses a 16-panel storyboard and character sheet to create a consistent 15-second animation of a cheerful senior woman dancing.
+> Um prompt detalhado de geração de vídeo para o Seedance 2.0 que utiliza um storyboard de 16 quadros e uma folha de personagem para criar uma animação consistente de 15 segundos de uma senhora idosa alegre dançando.
 
 #### 📝 Prompt
 
 ```
-Generate a cheerful 15-second senior trot dance video based on the 16-panel storyboard and the character sheet. Keep the same joyful 70-year-old Korean grandmother, with the same short softly curled gray hair, warm smile, natural wrinkles, body proportions, outfit, shoes, and accessories throughout the whole video. She wears a loose beige linen midi dress with abstract black, navy, olive green, and small red brush-print patterns, short sleeves, relaxed A-line silhouette, long pendant necklace, simple bracelet, light socks and comfortable brown flat shoes. Scene: minimal bright indoor studio, warm beige wall, clean floor, soft natural light, small plant on a white side table in the background. Follow the storyboard in order and keep the choreography dynamic but senior-friendly: power opening, walk-in step, side sway, upward point, low trot bounce, half-turn shoulder pose, big arm sweep, gentle spin, small front kick, lean-back wave, tiny jump accent, low bounce pose, confident fist pose, big open celebration, high-leg accent, ending finger-heart pose. The motion should feel cheerful, rhythmic, easy trot dance, 4/4 rhythm, around 105 BPM, bright grandmother energy — not random shaking, not repeated posing, not acrobatic, not too fast.
+Gere um vídeo alegre de 15 segundos de uma idosa dançando trot, baseado no storyboard de 16 quadros e na folha de personagem. Mantenha a mesma avó coreana de 70 anos, com o mesmo cabelo grisalho curto levemente cacheado, sorriso caloroso, rugas naturais, proporções corporais, roupa, sapatos e acessórios durante todo o vídeo. Ela veste um vestido midi de linho bege solto com estampas abstratas de pinceladas nas cores preto, azul-marinho, verde-oliva e pequenos detalhes em vermelho, mangas curtas, silhueta evasê relaxada, colar longo com pingente, pulseira simples, meias claras e sapatos baixos marrons confortáveis. Cenário: estúdio interno minimalista e iluminado, parede bege quente, piso limpo, luz natural suave, pequena planta em uma mesa lateral branca ao fundo. Siga o storyboard em ordem e mantenha a coreografia dinâmica, porém adequada para idosos: abertura poderosa, passo de entrada, balanço lateral, apontar para cima, pulo baixo de trot, pose de ombro com meia volta, grande movimento de braço, giro suave, pequeno chute frontal, aceno inclinando para trás, pequeno salto de destaque, pose de pulo baixo, pose de punho confiante, grande celebração aberta, destaque de perna alta, pose final de coração com os dedos. O movimento deve ser alegre, rítmico, uma dança trot fácil, ritmo 4/4, cerca de 105 BPM, energia vibrante de avó — nada de tremores aleatórios, poses repetidas, movimentos acrobáticos ou velocidade excessiva.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781422607822_dzasc7_HKuobjVa0AAgZnn.jpg" width="600" alt="Senior Trot Dance Storyboard Video">
+<img src="https://cms-assets.youmind.com/media/1781422607822_dzasc7_HKuobjVa0AAgZnn.jpg" width="600" alt="Storyboard de vídeo de dança trot para idosos">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6025)**
 
 **Autor:** [노드 팔라딘 | Node Paladin](https://x.com/NodePaladin) | **Fonte:** [Link](https://x.com/NodePaladin/status/2065930257023259121) | **Publicado:** Jun 13, 2026
 
 ---
-### Alien Ice Canyon Escape
+### Fuga do Cânion de Gelo Alienígena
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A shot-by-shot action prompt for a high-speed traversal through a collapsing alien ice canyon, focusing on survival and cinematic tension.
+> Um prompt de ação cena a cena para uma travessia em alta velocidade por um cânion de gelo alienígena em colapso, focando em sobrevivência e tensão cinematográfica.
 
 #### 📝 Prompt
 
 ```
-Alien ice canyon: a high-speed traversal turns into survival as the environment begins collapsing around the path.  
-Wide aerial: narrow canyon, ship flying fast between towering ice walls. 
-First crack: subtle fracture spreading along one side. 
-Break: massive ice slab detaches, crashing into the path ahead. 
-Aggressive dive: pilot drops lower, skimming the ground to avoid falling debris. 
-Chain collapse: both sides start breaking, canyon narrowing in real time. 
-Close call: ice spikes crashing inches behind the ship. 
-Blind turn: path curves sharply, visibility blocked by falling snow and debris. 
-Near-impact: ship clips ice, destabilizing trajectory.
-Recovery: rapid correction, barely regaining control. 
-Final escape: ship bursts out as canyon seals behind it.  
-Fast, grounded, extremely readable danger.
+Cânion de gelo alienígena: uma travessia em alta velocidade se transforma em sobrevivência à medida que o ambiente começa a desmoronar ao redor do caminho. 
+Plano aéreo amplo: cânion estreito, nave voando rápido entre paredes de gelo imponentes. 
+Primeira rachadura: fratura sutil se espalhando ao longo de um dos lados. 
+Quebra: uma placa de gelo maciça se desprende, colidindo com o caminho à frente. 
+Mergulho agressivo: o piloto desce mais, raspando o solo para evitar os detritos que caem. 
+Colapso em cadeia: ambos os lados começam a quebrar, o cânion se estreitando em tempo real. 
+Por um triz: estacas de gelo colidindo a centímetros atrás da nave. 
+Curva cega: o caminho faz uma curva fechada, visibilidade bloqueada pela neve e detritos em queda. 
+Quase impacto: a nave raspa no gelo, desestabilizando a trajetória. 
+Recuperação: correção rápida, mal conseguindo retomar o controle. 
+Fuga final: a nave irrompe para fora enquanto o cânion se sela atrás dela. 
+Rápido, realista, perigo extremamente legível.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e91a276c19c4ef85e9ae0dcdfc76a95e/thumbnails/thumbnail.jpg" width="600" alt="Alien Ice Canyon Escape">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e91a276c19c4ef85e9ae0dcdfc76a95e/thumbnails/thumbnail.jpg" width="600" alt="Fuga do Cânion de Gelo Alienígena">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6015)**
 
 **Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fonte:** [Link](https://x.com/AllaAisling/status/2065929257482596375) | **Publicado:** Jun 13, 2026
 
 ---
-### Stop-Motion Character Turntable Showcase
+### Apresentação de Personagem em Giro 360° (Stop-Motion)
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed 5-second video prompt for a professional 360-degree character turnaround in a handcrafted stop-motion aesthetic with seamless looping.
+> Um prompt de vídeo de 5 segundos altamente detalhado para um giro de personagem profissional em 360 graus, com estética de stop-motion artesanal e loop contínuo.
 
 #### 📝 Prompt
 
 ```
-REFERENCE ASSET:
-Character reference image = uploaded character sheet
+ATIVO DE REFERÊNCIA:
+Imagem de referência do personagem = folha de personagem enviada
 
-STYLE:
-Premium handcrafted stop-motion-inspired feature film aesthetic. Tactile miniature realism. Detailed fabric, skin, hair and clothing textures. Animation strictly on 2's (movement updates every 2 frames). Strong pose-to-pose animation. Deliberate handcrafted motion cadence. Professional character turnaround presentation. Clean studio showcase.
+ESTILO:
+Estética de longa-metragem premium inspirada em stop-motion artesanal. Realismo tátil de miniatura. Texturas detalhadas de tecido, pele, cabelo e roupas. Animação estritamente em 2's (atualização de movimento a cada 2 quadros). Animação forte de pose a pose. Cadência de movimento artesanal deliberada. Apresentação profissional de giro de personagem. Exibição em estúdio limpo.
 
-DURATION:
-5 seconds
+DURAÇÃO:
+5 segundos
 
-FORMAT:
-Portrait video.
+FORMATO:
+Vídeo vertical (retrato).
 
-Single character only.
+Apenas um personagem.
 
-Pure white seamless background.
+Fundo branco puro e contínuo.
 
-No shadows beyond a subtle studio grounding shadow beneath the feet.
+Sem sombras, exceto por uma sutil sombra de contato de estúdio sob os pés.
 
-No props.
+Sem objetos de cena.
 
-No environment.
+Sem ambiente.
 
-No text.
+Sem texto.
 
-No camera movement.
+Sem movimento de câmera.
 
-LOOPING:
-Perfect seamless loop.
+LOOP:
+Loop contínuo perfeito.
 
-The final frame must match the first frame exactly.
+O quadro final deve corresponder exatamente ao primeiro quadro.
 
-The rotation completes one full 360-degree turn and returns precisely to the starting pose.
+A rotação completa um giro de 360 graus e retorna precisamente à pose inicial.
 
-CAMERA:
-Static camera.
+CÂMERA:
+Câmera estática.
 
-Full body framing.
+Enquadramento de corpo inteiro.
 
-Character centred in frame.
+Personagem centralizado no quadro.
 
-50mm lens.
+Lente de 50mm.
 
-Orthographic-style presentation feel.
+Sensação de apresentação em estilo ortográfico.
 
-Professional character showcase.
+Exibição profissional de personagem.
 
-COMPOSITION:
-The character fills most of the frame vertically.
+COMPOSIÇÃO:
+O personagem preenche a maior parte do quadro verticalmente.
 
-Entire body visible throughout.
+Corpo inteiro visível durante todo o tempo.
 
-Feet remain visible at all times.
+Pés permanecem visíveis o tempo todo.
 
-Character remains perfectly centred.
+O personagem permanece perfeitamente centralizado.
 
-White studio background remains completely clean and uncluttered.
+O fundo de estúdio branco permanece completamente limpo e organizado.
 
-ACTION:
+AÇÃO:
 00:00 - 00:05
 
-The character performs one complete slow 360-degree turntable rotation.
+O personagem realiza uma rotação completa e lenta de 360 graus.
 
-Rotation speed is constant and smooth.
+A velocidade de rotação é constante e suave.
 
-The character rotates clockwise.
+O personagem gira no sentido horário.
 
-The rotation completes exactly one full revolution over the duration of the shot.
+A rotação completa exatamente uma volta durante a duração da tomada.
 
-The character remains standing naturally throughout.
+O personagem permanece em pé naturalmente durante todo o tempo.
 
-Subtle idle animation only:
+Apenas animação de espera sutil:
 
-Natural blinking.
+Piscadas naturais.
 
-Tiny eye movements.
+Pequenos movimentos oculares.
 
-Very slight breathing.
+Respiração muito leve.
 
-Subtle chest movement.
+Movimento sutil do peito.
 
-Tiny finger adjustments.
+Pequenos ajustes nos dedos.
 
-Small shifts in hand tension.
+Pequenas mudanças na tensão das mãos.
 
-Very subtle weight shifts.
+Mudanças de peso muito sutis.
 
-Occasional tiny eyebrow movement.
+Movimento ocasional e pequeno das sobrancelhas.
 
-Slight natural head settling.
+Leve acomodação natural da cabeça.
 
-No exaggerated acting.
+Sem atuação exagerada.
 
-No walking.
+Sem caminhada.
 
-No posing changes.
+Sem mudanças de pose.
 
-No large gestures.
+Sem gestos grandes.
 
-The character should feel alive while remaining suitable for a professional character turnaround.
+O personagem deve parecer vivo, mantendo-se adequado para uma apresentação profissional de personagem.
 
-HAIR:
-Hair maintains volume and shape throughout rotation.
+CABELO:
+O cabelo mantém volume e forma durante toda a rotação.
 
-Very subtle movement only.
+Apenas movimento muito sutil.
 
-No dramatic wind effects.
+Sem efeitos dramáticos de vento.
 
-CLOTHING:
-Clothing remains consistent and accurate to the reference.
+ROUPAS:
+As roupas permanecem consistentes e fiéis à referência.
 
-Subtle fabric settling.
+Acomodação sutil do tecido.
 
-No excessive secondary motion.
+Sem movimento secundário excessivo.
 
-LIGHTING:
-Clean professional studio lighting.
+ILUMINAÇÃO:
+Iluminação de estúdio profissional e limpa.
 
-Soft three-point lighting setup.
+Configuração de iluminação suave de três pontos.
 
-Even illumination.
+Iluminação uniforme.
 
-No harsh shadows.
+Sem sombras fortes.
 
-Clear visibility from every angle.
+Visibilidade clara de todos os ângulos.
 
-Consistent lighting throughout the rotation.
+Iluminação consistente durante toda a rotação.
 
-ANIMATION:
-Animation strictly on 2's.
+ANIMAÇÃO:
+Animação estritamente em 2's.
 
-Premium handcrafted stop-motion-inspired motion.
+Movimento premium inspirado em stop-motion artesanal.
 
-Strong readable silhouettes.
+Silhuetas fortes e legíveis.
 
-Professional character presentation quality.
+Qualidade de apresentação profissional de personagem.
 
-FINAL FRAME:
-Character has completed exactly one full 360-degree rotation.
+QUADRO FINAL:
+O personagem completou exatamente uma rotação completa de 360 graus.
 
-Returns perfectly to the original front-facing posit
+Retorna perfeitamente à posição original de frente.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae0d52fbbd328df3941dc3b274327075/thumbnails/thumbnail.jpg" width="600" alt="Stop-Motion Character Turntable Showcase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae0d52fbbd328df3941dc3b274327075/thumbnails/thumbnail.jpg" width="600" alt="Apresentação de Personagem em Giro 360° (Stop-Motion)">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6003)**
 
 **Autor:** [Soul Motion labs](https://x.com/Soulmotionlabs) | **Fonte:** [Link](https://x.com/Soulmotionlabs/status/2065896420658528468) | **Publicado:** Jun 13, 2026
 
 ---
-### Volcano Temple Escape Action
+### Fuga de Ação no Templo do Vulcão
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intense 15-second cinematic action sequence inside a collapsing volcanic temple with lava rivers and crumbling bridges.
+> Uma sequência de ação cinematográfica intensa de 15 segundos dentro de um templo vulcânico em colapso, com rios de lava e pontes desmoronando.
 
 #### 📝 Prompt
 
 ```
-Hyper-realistic cinematic action sequence, 15 seconds, aspect ratio 16:9. 
+Sequência de ação cinematográfica hiper-realista, 15 segundos, proporção 16:9.
 
-Inside an ancient temple built deep within an active volcano, glowing lava lights the stone corridors with fiery orange and red reflections. The temple is filled with massive carved pillars, narrow bridges, falling embers, smoke, heat shimmer, and collapsing stone sections. A lone explorer in rugged adventure gear carries a glowing artifact and races through the temple as the environment becomes unstable.  
+Dentro de um templo antigo construído nas profundezas de um vulcão ativo, a lava brilhante ilumina os corredores de pedra com reflexos em laranja e vermelho intensos. O templo está repleto de pilares esculpidos maciços, pontes estreitas, brasas caindo, fumaça, distorção pelo calor e seções de pedra desmoronando. Um explorador solitário com equipamento de aventura robusto carrega um artefato brilhante e corre pelo templo enquanto o ambiente se torna instável.
 
-Camera angle 1: wide cinematic opening shot, the explorer runs through a vast volcanic temple chamber with towering stone statues and rivers of lava below. The glowing artifact lights his hands and chest while the ground shakes and cracks begin spreading across the floor.  
+Ângulo de câmera 1: tomada de abertura cinematográfica ampla, o explorador corre por uma vasta câmara do templo vulcânico com estátuas de pedra imponentes e rios de lava abaixo. O artefato brilhante ilumina suas mãos e peito enquanto o chão treme e rachaduras começam a se espalhar pelo piso.
 
-Camera angle 2: dynamic tracking shot, the explorer sprints across a narrow stone bridge suspended above lava, while pieces of the bridge crumble behind him. Sparks, ash, and heat waves fill the air, and molten light reflects across the ancient carved walls.  
+Ângulo de câmera 2: tomada de acompanhamento dinâmica, o explorador corre por uma ponte de pedra estreita suspensa sobre a lava, enquanto pedaços da ponte desmoronam atrás dele. Faíscas, cinzas e ondas de calor preenchem o ar, e a luz do magma reflete nas paredes esculpidas antigas.
 
-Camera angle 3: dramatic side shot, giant stone guardian figures begin to move in the background as the explorer races through a collapsing corridor. He ducks under falling debris, leaps over a broken section of floor, and keeps moving toward the exit.  Final action beat: the explorer reaches the temple opening just as lava surges through the chamber behind him. 
-He jumps across one final collapsing gap and lands near the exit while firelight and smoke burst outward from the temple interior.  Final moment: the explorer emerges onto a rocky ledge outside the volcano, holding the glowing artifact, while smoke, embers, and fiery light pour from the temple entrance behind him. 
+Ângulo de câmera 3: tomada lateral dramática, figuras gigantes de guardiões de pedra começam a se mover ao fundo enquanto o explorador corre por um corredor em colapso. Ele se abaixa sob escombros que caem, salta sobre uma seção quebrada do chão e continua em direção à saída. Batida de ação final: o explorador alcança a abertura do templo exatamente quando a lava surge pela câmara atrás dele. Ele salta sobre uma última lacuna em colapso e aterrissa perto da saída enquanto a luz do fogo e a fumaça explodem para fora do interior do templo. Momento final: o explorador emerge em uma saliência rochosa fora do vulcão, segurando o artefato brilhante, enquanto fumaça, brasas e luz ígnea jorram da entrada do templo atrás dele.
 
-Style: hyper-realistic, cinematic, intense and fast-paced, ancient temple atmosphere, volcanic lighting, lava glow, smoke, embers, collapsing stone, dramatic scale, strong sense of danger and motion, fast but readable camera movement, high detail, no text, no logos, no cartoon style, no slow motion.
+Estilo: hiper-realista, cinematográfico, intenso e em ritmo acelerado, atmosfera de templo antigo, iluminação vulcânica, brilho de lava, fumaça, brasas, pedra desmoronando, escala dramática, forte senso de perigo e movimento, movimento de câmera rápido, porém legível, alto nível de detalhe, sem texto, sem logotipos, sem estilo de desenho animado, sem câmera lenta.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5766468e1477526a7849c8c747ac929/thumbnails/thumbnail.jpg" width="600" alt="Volcano Temple Escape Action">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5766468e1477526a7849c8c747ac929/thumbnails/thumbnail.jpg" width="600" alt="Fuga de Ação no Templo do Vulcão">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6008)**
 
 **Autor:** [DeCat](https://x.com/DeCat2025) | **Fonte:** [Link](https://x.com/DeCat2025/status/2065878253022196061) | **Publicado:** Jun 13, 2026
 
 ---
-### Alien Street Duel POV
+### Duelo de Rua Alienígena POV
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A first-person smartphone-style cinematic prompt capturing a street theater martial arts duel between two alien warlords with cosmic energy blasts.
+> Um prompt cinematográfico em primeira pessoa estilo smartphone que captura um duelo de artes marciais em teatro de rua entre dois senhores da guerra alienígenas com rajadas de energia cósmica.
 
 #### 📝 Prompt
 
 ```
-An ultra-cinematic, first-person smartphone video from within a crowd, capturing an intense outdoor street theater martial arts duel between two highly detailed alien warlords. The bulky alien lands a swift strike on the agile alien. Infuriated, the agile alien counters with a devastating, supersonic punch to the bulky alien's abdomen—shown in slow-motion with a visible kinetic shockwave that cracks the stage. The bulky alien recoils but recovers, channeling crackling blue and purple cosmic plasma energy from its clawed hands. With an earth-shaking roar, it unleashes a massive blast of supernatural energy forward. The surrounding crowd gasps, screams, and explodes into thunderous applause at the climax. Shaky handheld camera POV, extreme camera shakes on impact, cinematic sound design with bass drops and loud crowd reactions.
+Um vídeo cinematográfico em primeira pessoa, estilo smartphone, gravado no meio de uma multidão, capturando um intenso duelo de artes marciais em um teatro de rua ao ar livre entre dois senhores da guerra alienígenas altamente detalhados. O alienígena robusto desfere um golpe rápido no alienígena ágil. Enfurecido, o alienígena ágil contra-ataca com um soco supersônico devastador no abdômen do oponente — mostrado em câmera lenta com uma onda de choque cinética visível que racha o palco. O alienígena robusto recua, mas se recupera, canalizando energia de plasma cósmico azul e roxa crepitante de suas mãos com garras. Com um rugido que faz a terra tremer, ele libera uma enorme rajada de energia sobrenatural para frente. A multidão ao redor ofega, grita e explode em aplausos estrondosos no clímax. POV de câmera na mão trêmula, tremores extremos de câmera no impacto, design de som cinematográfico com graves profundos e reações altas da multidão.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78df2ac0c31527ecabd48d25b1688c59/thumbnails/thumbnail.jpg" width="600" alt="Alien Street Duel POV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78df2ac0c31527ecabd48d25b1688c59/thumbnails/thumbnail.jpg" width="600" alt="Duelo de Rua Alienígena POV">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6016)**
 
@@ -702,464 +701,464 @@ Estilo: transformação aquática ultrarrealista, anatomia de orca fotorrealista
 **Autor:** [LudovicCreator](https://x.com/LudovicCreator) | **Fonte:** [Link](https://x.com/LudovicCreator/status/2065856750817837411) | **Publicado:** Jun 13, 2026
 
 ---
-### Cinematic Storyboard Animation
+### Animação de Storyboard Cinematográfico
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Animates a storyboard grid into a smooth cinematic sequence featuring slow movement and atmospheric lighting effects.
+> Transforma uma grade de storyboard em uma sequência cinematográfica fluida, com movimentos lentos e efeitos de iluminação atmosférica.
 
 #### 📝 Prompt
 
 ```
-Animate the provided 3x4 storyboard into a smooth cinematic video. Preserve exact shot order and continuity. Use slow breath chest rise, tear catch macro, window rain light diffuse, and open palm
+Anime o storyboard 3x4 fornecido em um vídeo cinematográfico fluido. Preserve a ordem exata das cenas e a continuidade. Use respiração lenta com movimento de peito, close macro de lágrima, luz difusa de chuva na janela e palma da mão aberta
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781422595221_9uarvo_HKtIa3NbQAEAK5v.jpg" width="600" alt="Cinematic Storyboard Animation">
+<img src="https://cms-assets.youmind.com/media/1781422595221_9uarvo_HKtIa3NbQAEAK5v.jpg" width="600" alt="Animação de Storyboard Cinematográfico">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6019)**
 
 **Autor:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2065824987496456495) | **Publicado:** Jun 13, 2026
 
 ---
-### Cyberpunk Anime Kunoichi Rooftop Battle
+### Batalha de Kunoichi em Telhado no Estilo Anime Cyberpunk
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dynamic 3D anime action sequence featuring a cyberpunk kunoichi with glowing violet eyes engaging in high-speed rooftop combat against mercenaries.
+> Uma sequência de ação dinâmica em anime 3D apresentando uma kunoichi cyberpunk com olhos violeta brilhantes, engajada em um combate em alta velocidade em um telhado contra mercenários.
 
 #### 📝 Prompt
 
 ```
-A cyberpunk 3D anime kunoichi with violet glowing eyes, black tactical kimono mixed with futuristic armor, long scarf trailing behind her, twin plasma daggers leaving purple energy trails
-Crouches on a rooftop in broad daylight haze, surrounded by armed mercenaries aiming rifles, camera starts in close-up on her eyes then slowly pulls back to reveal the trap; 
-She launches upward, wall-runs across billboards, teleports through smoke bursts, slices bullets mid-air, flips over enemies and strikes from blind spots, camera follows with FPV-style rooftop chase, violent whip pans, speed ramps and orbit shots around mid-air kills, purple sparks and glass shards suspended in slow motion; 
-She appears behind the final commander, daggers crossed, then every mercenary collapses simultaneously across the rooftop, camera circles her silhouette as burning drones fall behind into the city
+Uma kunoichi cyberpunk em anime 3D com olhos violeta brilhantes, quimono tático preto misturado com armadura futurista, cachecol longo flutuando atrás dela, adagas de plasma duplas deixando rastros de energia roxa
+Agachada em um telhado sob a névoa da luz do dia, cercada por mercenários armados apontando rifles, a câmera começa com um close em seus olhos e então se afasta lentamente para revelar a armadilha;
+Ela salta para cima, corre pelas paredes de outdoors, teletransporta-se através de rajadas de fumaça, corta balas no ar, faz acrobacias sobre os inimigos e ataca a partir de pontos cegos, a câmera acompanha com uma perseguição em estilo FPV pelo telhado, movimentos rápidos e violentos, rampas de velocidade e tomadas orbitais ao redor de abates no ar, faíscas roxas e cacos de vidro suspensos em câmera lenta;
+Ela aparece atrás do comandante final, com as adagas cruzadas, então todos os mercenários colapsam simultaneamente pelo telhado, a câmera circula sua silhueta enquanto drones em chamas caem ao fundo na cidade
 
-Futuristic Tokyo skyline, daylight neon haze, broken holograms, rain puddles, purple VFX trails, stylish assassin choreography. Epic anime, anime render
+Horizonte futurista de Tóquio, névoa neon à luz do dia, hologramas quebrados, poças de chuva, rastros de efeitos visuais roxos, coreografia estilizada de assassina. Anime épico, renderização de anime
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ded5bf92996b33aad140e97e76d061ae/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Anime Kunoichi Rooftop Battle">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ded5bf92996b33aad140e97e76d061ae/thumbnails/thumbnail.jpg" width="600" alt="Batalha de Kunoichi em Telhado no Estilo Anime Cyberpunk">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6002)**
 
 **Autor:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Fonte:** [Link](https://x.com/CharaspowerAI/status/2065811465102065875) | **Publicado:** Jun 13, 2026
 
 ---
-### Tropical Beach Drone Shot
+### Filmagem de drone em praia tropical
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic drone push-in shot of a tropical paradise beach with turquoise water, wooden boats, and dramatic limestone cliffs.
+> Uma filmagem cinematográfica de drone com aproximação (push-in) de uma praia paradisíaca tropical com águas azul-turquesa, barcos de madeira e dramáticos penhascos de calcário.
 
 #### 📝 Prompt
 
 ```
-Ultra-realistic cinematic travel scene of a tropical paradise beach with crystal-clear turquoise water and soft golden sand. A traditional wooden long-tail boat gently floats near the shore, subtly rocking with natural wave motion. Massive limestone cliffs covered in lush green vegetation rise dramatically from the sea in the background. The sky is vibrant blue with long, wispy clouds slowly drifting across.
+Cena de viagem cinematográfica ultrarrealista de uma praia paradisíaca tropical com águas azul-turquesa cristalinas e areia dourada macia. Um barco de madeira tradicional (long-tail) flutua suavemente perto da costa, balançando sutilmente com o movimento natural das ondas. Penhascos maciços de calcário cobertos por uma vegetação verde exuberante erguem-se dramaticamente do mar ao fundo. O céu é de um azul vibrante com nuvens longas e tênues flutuando lentamente.
 
-Camera starts with a slow drone push-in shot from above water level, slightly angled, moving toward the boat. Water surface shows realistic refraction, sunlight caustics dancing on the sandy seabed. Small ripples move naturally toward the shore, creating soft foam.
+A câmera começa com um movimento lento de drone (push-in) acima do nível da água, levemente angulado, movendo-se em direção ao barco. A superfície da água mostra refração realista, com cáusticos de luz solar dançando no leito arenoso. Pequenas ondulações movem-se naturalmente em direção à costa, criando uma espuma suave.
 
-Add ambient motion details:
+Adicione detalhes de movimento ambiente:
 
-Gentle water movement with reflections and light shimmer
-Slight boat sway with rope tension reacting to waves
-Leaves on cliffs subtly moving in the breeze
-Light wind creating soft movement in water texture
-Occasional distant birds flying across sky
+Movimento suave da água com reflexos e brilho de luz
+Leve balanço do barco com a tensão da corda reagindo às ondas
+Folhas nos penhascos movendo-se sutilmente com a brisa
+Vento leve criando movimento suave na textura da água
+Pássaros distantes ocasionais voando pelo céu
 
-Lighting is bright natural daylight, cinematic HDR, with soft highlights and realistic shadows. Colors are vibrant but natural, not oversaturated.
+A iluminação é de luz natural brilhante, HDR cinematográfico, com realces suaves e sombras realistas. As cores são vibrantes, porém naturais, sem saturação excessiva.
 
-Include depth and realism:
+Inclua profundidade e realismo:
 
-Atmospheric haze around distant cliffs
-Water transparency with visible sand beneath
-Natural lens behavior (slight bloom, subtle motion blur)
+Névoa atmosférica ao redor dos penhascos distantes
+Transparência da água com areia visível abaixo
+Comportamento natural da lente (leve brilho, sutil desfoque de movimento)
 
-Camera settings:
+Configurações da câmera:
 
-4K ultra-realistic
-24fps cinematic motion
-shallow depth of field (focus on boat, background slightly softened)
-smooth stabilized drone movement
+4K ultrarrealista
+24fps com movimento cinematográfico
+Profundidade de campo rasa (foco no barco, fundo levemente suavizado)
+Movimento de drone estabilizado e suave
 
-Mood: peaceful, immersive, tropical luxury, calming yet visually stunning
+Clima: pacífico, imersivo, luxo tropical, relaxante e visualmente deslumbrante
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8860cbc7bfbd3a7291a4089e1fefe5cc/thumbnails/thumbnail.jpg" width="600" alt="Tropical Beach Drone Shot">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8860cbc7bfbd3a7291a4089e1fefe5cc/thumbnails/thumbnail.jpg" width="600" alt="Filmagem de drone em praia tropical">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6006)**
 
 **Autor:** [Shahid Wani](https://x.com/meng_dagg695) | **Fonte:** [Link](https://x.com/meng_dagg695/status/2065807711330328903) | **Publicado:** Jun 13, 2026
 
 ---
-### 80s OVA Skate Run Storyboard
+### Storyboard de Skate em OVA dos anos 80
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An energetic 1980s Japanese OVA cel anime style prompt featuring a character's stylish skateboard run through a woodworking factory.
+> Um prompt no estilo de anime OVA japonês dos anos 1980, energético, apresentando a corrida estilosa de uma personagem de skate por uma marcenaria.
 
 #### 📝 Prompt
 
 ```
-16:9, 15-second 1980s OVA cel anime video, fast-paced stylish editing, no dialogue, no subtitles, energetic 80s synth rock / funk music, skateboard wheels, deck pops and warehouse echo only.
+16:9, vídeo de anime OVA estilo cel dos anos 1980 com 15 segundos, edição ágil e estilosa, sem diálogos, sem legendas, música energética de synth rock / funk dos anos 80, apenas sons de rodas de skate, batidas do shape e eco do galpão.
 
-Use the attached character sheet as reference for Yuna Rabbet: blonde hair in two low messy buns, green bandana tied on top, bright blue eyes, tanned skin, fitted blue T-shirt, khaki frayed denim shorts, white sneakers, athletic and lively body language, confident cheerful expression. Keep her face, hair, outfit and proportions consistent throughout the whole video. Show her beauty through confidence, energy and movement, not through sexualized camera angles.
+Use a folha de personagem em anexo como referência para Yuna Rabbet: cabelo loiro em dois coques baixos e bagunçados, bandana verde amarrada no topo, olhos azuis brilhantes, pele bronzeada, camiseta azul justa, shorts jeans cáqui desfiados, tênis brancos, linguagem corporal atlética e viva, expressão confiante e alegre. Mantenha o rosto, cabelo, traje e proporções consistentes durante todo o vídeo. Mostre sua beleza através da confiança, energia e movimento, não através de ângulos de câmera sexualizados.
 
-Scene: a large woodworking factory with three connected areas: joinery workshop, CNC machine shop with enclosed idle CNC routers and dust extraction pipes, and warehouse aisles with timber racks, pallets, plywood sheets, toolboxes and workbenches. Warm sunset beams shine through high windows, sawdust floating in the light, polished concrete floor, hand-painted industrial background.
+Cenário: uma grande marcenaria com três áreas conectadas: oficina de marcenaria, oficina de máquinas CNC com roteadores CNC fechados e inativos e tubos de exaustão de poeira, e corredores de armazém com prateleiras de madeira, paletes, chapas de compensado, caixas de ferramentas e bancadas de trabalho. Raios de sol de fim de tarde entram pelas janelas altas, serragem flutuando na luz, piso de concreto polido, fundo industrial pintado à mão.
 
 Storyboard:
-0.0–1.2s, wide establishing shot of the woodworking factory, warm sunlight, sawdust in the air, Yuna skates into frame from the distance.
-1.2–2.2s, extreme close-up of skateboard wheels rolling over polished concrete, her white sneaker pushes hard and accelerates.
-2.2–3.2s, camera tilts up to Yuna’s face, she looks over her shoulder with a confident cheerful smile, green bandana fluttering.
-3.2–4.4s, side tracking shot, Yuna performs a clean ollie over a low stack of timber pieces and lands smoothly.
-4.4–5.7s, low 3/4 front angle beside the enclosed CNC machine shop, Yuna performs a fast kickflip, brief slow motion as the board flips under her feet.
-5.7–6.9s, front dolly shot moving backward through a warehouse aisle, Yuna performs a long manual between tall shelves and pallets.
-6.9–8.0s, top-down dynamic shot, she carves tightly around a joinery workbench, weaving between timber offcuts with precise control.
-8.0–9.3s, wide shot then quick close-up, Yuna pops onto a low metal safety rail and performs a clean boardslide, then lands.
-9.3–10.5s, low angle shot beside leaning plywood sheets, she shifts into a short nose manual, balanced and stylish.
-10.5–12.0s, dynamic tracking shot, Yuna rides briefly up a safe angled plywood wall, then drops back onto the concrete floor.
-12.0–13.5s, open factory floor, she performs a clean 360 shove-it, catches the board perfectly and lands with strong style.
-13.5–15.0s, final low angle hero shot, Yuna stops the skateboard with one foot, turns to camera and smiles confidently. Behind her are the workshop, CNC area and warehouse shelves glowing in sunset light. Final energetic music beat.
-Visual style: 1980s Japanese OVA cel animation, bold ink outlines, hand-drawn character animation, detailed hand-painted backgrounds, warm cel highlights, dy
+0.0–1.2s, plano aberto de estabelecimento da marcenaria, luz solar quente, serragem no ar, Yuna entra no quadro andando de skate à distância.
+1.2–2.2s, close-up extremo das rodas do skate rolando sobre o concreto polido, seu tênis branco impulsiona com força e acelera.
+2.2–3.2s, a câmera inclina para o rosto de Yuna, ela olha por cima do ombro com um sorriso confiante e alegre, bandana verde tremulando.
+3.2–4.4s, plano de acompanhamento lateral, Yuna executa um ollie limpo sobre uma pilha baixa de peças de madeira e aterrissa suavemente.
+4.4–5.7s, ângulo frontal baixo de 3/4 ao lado da oficina de máquinas CNC fechada, Yuna executa um kickflip rápido, breve câmera lenta enquanto o skate gira sob seus pés.
+5.7–6.9s, plano dolly frontal movendo-se para trás através de um corredor do armazém, Yuna executa um manual longo entre prateleiras altas e paletes.
+6.9–8.0s, plano dinâmico de cima para baixo, ela faz curvas fechadas ao redor de uma bancada de marcenaria, desviando entre retalhos de madeira com controle preciso.
+8.0–9.3s, plano aberto seguido de close-up rápido, Yuna sobe em um trilho de segurança de metal baixo e executa um boardslide limpo, depois aterrissa.
+9.3–10.5s, plano de ângulo baixo ao lado de chapas de compensado encostadas, ela muda para um nose manual curto, equilibrada e estilosa.
+10.5–12.0s, plano de acompanhamento dinâmico, Yuna sobe brevemente em uma parede de compensado inclinada e segura, depois desce de volta para o piso de concreto.
+12.0–13.5s, área aberta da fábrica, ela executa um 360 shove-it limpo, pega o skate perfeitamente e aterrissa com muito estilo.
+13.5–15.0s, plano final de ângulo baixo estilo "herói", Yuna para o skate com um pé, vira-se para a câmera e sorri com confiança. Atrás dela estão a oficina, a área CNC e as prateleiras do armazém brilhando sob a luz do pôr do sol. Batida final de música energética.
+Estilo visual: animação cel de OVA japonês dos anos 1980, contornos em tinta ousados, animação de personagem desenhada à mão, fundos detalhados pintados à mão, destaques de cel quentes, dy
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781422587366_ezrsuu_HKsrmAgawAAXcUM.jpg" width="600" alt="80s OVA Skate Run Storyboard">
+<img src="https://cms-assets.youmind.com/media/1781422587366_ezrsuu_HKsrmAgawAAXcUM.jpg" width="600" alt="Storyboard de Skate em OVA dos anos 80">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6014)**
 
 **Autor:** [Benny's Project](https://x.com/bennysproject) | **Fonte:** [Link](https://x.com/bennysproject/status/2065793904986018020) | **Publicado:** Jun 13, 2026
 
 ---
-### Satirical World Cup Construction Prompt
+### Prompt Satírico de Construção na Copa do Mundo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A humorous and surreal prompt for a FIFA World Cup broadcast parody where the Qatari team builds a literal brick wall during a match against Switzerland.
+> Um prompt humorístico e surreal para uma paródia de transmissão da Copa do Mundo da FIFA, onde a seleção do Catar constrói um muro de tijolos literal durante uma partida contra a Suíça.
 
 #### 📝 Prompt
 
 ```
-A hyper-realistic live FIFA World Cup 2026 night match broadcast, Group C: Qatar vs Switzerland. In an absurd satirical comedy scene, the entire Qatari national team in maroon kits with white accents are frantically building a massive red brick wall directly in front of their goal to block Switzerland’s attack.
+Uma transmissão ao vivo hiper-realista de uma partida noturna da Copa do Mundo da FIFA 2026, Grupo C: Catar vs Suíça. Em uma cena de comédia satírica absurda, toda a seleção nacional do Catar, vestindo uniformes grená com detalhes em branco, está construindo freneticamente um enorme muro de tijolos vermelhos diretamente na frente do seu gol para bloquear o ataque da Suíça.
 
-Close-up shots: Qatari players #2, #15, #25 urgently laying red bricks, spreading gray mortar with trowels, intense focused expressions, sweat visible under stadium floodlights. Wide dramatic shots: multiple Qatari players (#10, #7, #6, #4, #8) on ladders and scaffolding rapidly stacking bricks across the entire goal mouth like an emergency construction crew mid-match. Bricks scatter across the grass, wheelbarrows of mortar rush in.
+Close-ups: jogadores do Catar nº 2, nº 15, nº 25 assentando tijolos vermelhos com urgência, espalhando argamassa cinza com colheres de pedreiro, expressões intensas de foco, suor visível sob os refletores do estádio. Planos abertos dramáticos: vários jogadores do Catar (nº 10, nº 7, nº 6, nº 4, nº 8) em escadas e andaimes empilhando tijolos rapidamente por toda a boca do gol, como uma equipe de construção de emergência no meio da partida. Tijolos espalhados pelo gramado, carrinhos de mão com argamassa entrando em cena.
 
-Foreground reaction: shocked Swiss players in white and red kits (Xhaka #10, #7) stand frozen, arms slightly raised in disbelief. Female stadium staff and women fans in Swiss jerseys react with laughter and stunned expressions, filming the scene on phones under bright lights. The referee stands confused, whistle lowered.
+Reação em primeiro plano: jogadores suíços chocados, com uniformes brancos e vermelhos (Xhaka nº 10, nº 7), parados, incrédulos, com os braços levemente levantados. Funcionárias do estádio e torcedoras com camisas da Suíça reagem com risadas e expressões de choque, filmando a cena com celulares sob as luzes brilhantes. O árbitro permanece confuso, com o apito abaixado.
 
-Broadcast style: authentic FOX Sports FIFA presentation, scoreboard overlay shows QAT 0–0 SUI, clock 37:12, “LIVE” indicator, sponsor graphics, shaky commentator cam cuts.
+Estilo de transmissão: apresentação autêntica da FOX Sports FIFA, placar sobreposto mostrando QAT 0–0 SUI, relógio 37:12, indicador "AO VIVO", gráficos de patrocinadores, cortes de câmera tremida do comentarista.
 
-Commentary (live broadcast audio):
-Commentator 1 (shocked): “I… I cannot believe what we are seeing—are they building a WALL?”
-Commentator 2 (laughing in disbelief): “This is not defensive structure, this is full construction mode inside the box!”
-Sideline reporter (urgent): “The Swiss attack has completely stopped… they’re just watching this happen!”
+Comentários (áudio da transmissão ao vivo):
+Comentarista 1 (chocado): “Eu… eu não consigo acreditar no que estamos vendo — eles estão construindo um MURO?”
+Comentarista 2 (rindo em descrença): “Isso não é estrutura defensiva, isso é modo de construção total dentro da área!”
+Repórter de campo (urgente): “O ataque suíço parou completamente… eles estão apenas assistindo a isso acontecer!”
 
-Crowd audio: mixed gasps, laughter, and chants turning into confused cheering.
+Áudio da torcida: mistura de suspiros, risadas e cânticos que se transformam em aplausos confusos.
 
-Cinematic sports cinematography: dramatic night lighting, strong highlights on brick textures and sweat, motion blur on fast building action, dynamic cuts between tight close-ups (hands, trowels, mortar) and wide stadium shots through the goal net. Ultra-detailed jerseys, dust particles in air, realistic pitch wear.
+Cinematografia esportiva: iluminação noturna dramática, destaques fortes nas texturas dos tijolos e no suor, desfoque de movimento na ação rápida de construção, cortes dinâmicos entre close-ups fechados (mãos, colheres de pedreiro, argamassa) e planos abertos do estádio através da rede do gol. Camisas ultra-detalhadas, partículas de poeira no ar, desgaste realista do gramado.
 
-Humorous surreal tone, meme-like absurdity, yet fully photorealistic elite broadcast quality. Satirical exaggeration of ultra-defensive “park the bus” tactics turned into literal construction.
+Tom humorístico e surreal, absurdo estilo meme, mas com qualidade de transmissão de elite totalmente fotorrealista. Exagero satírico das táticas ultra-defensivas de "estacionar o ônibus" transformadas em construção literal.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/199bbb8246e736a743e44afe2b4b2eb3/thumbnails/thumbnail.jpg" width="600" alt="Satirical World Cup Construction Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/199bbb8246e736a743e44afe2b4b2eb3/thumbnails/thumbnail.jpg" width="600" alt="Prompt Satírico de Construção na Copa do Mundo">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6012)**
 
 **Autor:** [Sharon Riley](https://x.com/Just_sharon7) | **Fonte:** [Link](https://x.com/Just_sharon7/status/2065781008658735467) | **Publicado:** Jun 13, 2026
 
 ---
-### Demon Slayer Style Anime Storyboard
+### Storyboard de Anime no Estilo Demon Slayer
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed storyboard prompt for an anime short film, featuring consistent character designs and dynamic camera movements inspired by Demon Slayer.
+> Um prompt de storyboard altamente detalhado para um curta-metragem de anime, apresentando designs de personagens consistentes e movimentos de câmera dinâmicos inspirados em Demon Slayer.
 
 #### 📝 Prompt
 
 ```
-Create a cinematic anime short film in a unified Demon Slayer / Jujutsu Kaisen inspired art style — apply this exact same visual style consistently to ALL characters and scenes without exception.
-Character Design (maintain throughout ALL scenes):
-Hero: Young male swordsman, late teens, athletic build, dark hair, determined eyes, traditional Japanese warrior outfit, katana at waist
-Child: Small baby girl, 2–3 years old, round face, big innocent eyes, simple village dress, same anime art style as the hero — no style deviation
-Story Structure:
-Opening — Close-up on hero's face receiving urgent message. Camera: low angle looking up at hero. Dramatic lighting.
-Journey — Hero running through dense forest and rocky mountains. Camera: dynamic tracking shot from side, then bird's eye view. Motion blur on feet.
-Village in Crisis — Wide establishing shot of burning village. Cut to medium shot of terrified villagers. Camera slowly pushes in.
-Monster threatening child — Monster looms over baby girl. Camera: monster POV looking down at child, then child POV looking up at monster. High contrast lighting.
-Hero Arrival — Hero leaps into frame from above. Slow motion sword strike. Camera: 360-degree rotating shot around hero.
-Battle Sequence — Intense fight, multiple camera angles: close-up on clashing sword, wide shot of full battle, low angle hero power move. Fluid motion, no flickering.
-Resolution — Monster defeated. Hero kneels down to baby girl's level. Soft warm lighting. Camera: gentle zoom out showing hero and child together, villagers in background.
-Ending — Hero sheathes sword, walks away. Camera: back shot of hero walking into sunset, villagers watching.
-Visual Rules (strict):
-One unified anime art style across ALL shots — hero and baby girl must look like they belong in the same animation
-Camera angle must change every scene — no repeated angles
-No slideshow transitions — use cinematic cuts and motion
-Warm golden lighting for resolution, cool blue for battle
-Pippit watermark visible in final composition
-Style: Epic fantasy anime, Demon Slayer quality, emotional storytelling, professional cinematic pacing
+Crie um curta-metragem de anime cinematográfico em um estilo artístico unificado inspirado em Demon Slayer / Jujutsu Kaisen — aplique exatamente o mesmo estilo visual de forma consistente a TODOS os personagens e cenas, sem exceção.
+Design de Personagem (manter em TODAS as cenas):
+Herói: Jovem espadachim, final da adolescência, porte atlético, cabelos escuros, olhar determinado, traje tradicional de guerreiro japonês, katana na cintura
+Criança: Menina pequena, 2 a 3 anos de idade, rosto redondo, olhos grandes e inocentes, vestido simples de aldeã, mesmo estilo artístico de anime do herói — sem desvio de estilo
+Estrutura da História:
+Abertura — Close no rosto do herói recebendo uma mensagem urgente. Câmera: ângulo baixo olhando para o herói. Iluminação dramática.
+Jornada — Herói correndo por uma floresta densa e montanhas rochosas. Câmera: plano de acompanhamento dinâmico lateral, seguido de visão aérea. Desfoque de movimento nos pés.
+Aldeia em Crise — Plano aberto estabelecendo a aldeia em chamas. Corte para plano médio dos aldeões aterrorizados. Câmera avança lentamente.
+Monstro ameaçando a criança — Monstro paira sobre a menina. Câmera: ponto de vista (POV) do monstro olhando para a criança, depois POV da criança olhando para o monstro. Iluminação de alto contraste.
+Chegada do Herói — Herói salta para o quadro vindo de cima. Golpe de espada em câmera lenta. Câmera: plano rotativo de 360 graus ao redor do herói.
+Sequência de Batalha — Luta intensa, múltiplos ângulos de câmera: close no choque das espadas, plano aberto da batalha completa, ângulo baixo do golpe de poder do herói. Movimento fluido, sem cintilação.
+Resolução — Monstro derrotado. Herói se ajoelha no nível da menina. Iluminação quente e suave. Câmera: zoom out suave mostrando o herói e a criança juntos, com os aldeões ao fundo.
+Final — Herói embainha a espada e vai embora. Câmera: plano de costas do herói caminhando em direção ao pôr do sol, com os aldeões observando.
+Regras Visuais (estritas):
+Um estilo artístico de anime unificado em TODAS as cenas — o herói e a menina devem parecer pertencer à mesma animação
+O ângulo da câmera deve mudar a cada cena — sem ângulos repetidos
+Sem transições de Slides — use cortes cinematográficos e movimento
+Iluminação dourada quente para a resolução, azul fria para a batalha
+Marca d'água Pippit visível na composição final
+Estilo: Anime de fantasia épica, qualidade Demon Slayer, narrativa emocional, ritmo cinematográfico profissional
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43d52b1504c59c089958168eaad5aa13/thumbnails/thumbnail.jpg" width="600" alt="Demon Slayer Style Anime Storyboard">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43d52b1504c59c089958168eaad5aa13/thumbnails/thumbnail.jpg" width="600" alt="Storyboard de Anime no Estilo Demon Slayer">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6009)**
 
 **Autor:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) | **Fonte:** [Link](https://x.com/saniaspeaks_/status/2065769980067770430) | **Publicado:** Jun 13, 2026
 
 ---
-### Korean school revenge drama cinematic prompt
+### Prompt cinematográfico de drama escolar coreano de vingança
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed multi-shot prompt for a realistic Korean school drama scene featuring cinematic lighting, handheld camera movements, and intense character interactions.
+> Um prompt detalhado de múltiplas cenas para uma sequência realista de drama escolar coreano, apresentando iluminação cinematográfica, movimentos de câmera na mão e interações intensas entre os personagens.
 
 #### 📝 Prompt
 
 ```
-[Style] Korean school anti-bullying revenge short film (Korean School Revenge Drama), authentic live-action cinematic texture, cold white corridor lighting, cool tones (Teal & Cold Grade), handheld photography, shallow depth of field (Shallow DOF), 9:16 vertical screen, English dialogue. All characters are played by adult actors as high school students, movements are cinematically styled, no gore or harmful outcomes.
-[Duration] 15 seconds
-[Scene] Modern Korean-style high school corridor, lockers on one side, classroom doors, cold white ceiling lights, floor tile reflections
-[Characters] Bully (tall male, school uniform jacket open, arrogant expression), Bullied (thin male, neat uniform, holding textbooks), Avenger (male in neat uniform, calm expression, determined eyes)
+[Estilo] Curta-metragem de vingança escolar coreana contra o bullying (Korean School Revenge Drama), textura cinematográfica autêntica de live-action, iluminação de corredor em branco frio, tons frios (Teal & Cold Grade), fotografia na mão, profundidade de campo rasa (Shallow DOF), tela vertical 9:16, diálogo em inglês. Todos os personagens são interpretados por atores adultos como estudantes do ensino médio, movimentos com estilo cinematográfico, sem violência explícita ou resultados prejudiciais.
+[Duração] 15 segundos
+[Cenário] Corredor de ensino médio coreano moderno, armários de um lado, portas de sala de aula, luzes de teto brancas frias, reflexos no piso de azulejos
+[Personagens] Valentão (homem alto, jaqueta do uniforme aberta, expressão arrogante), Vítima (homem magro, uniforme impecável, segurando livros didáticos), Vingador (homem com uniforme impecável, expressão calma, olhos determinados)
 
-[00:00-00:04] Scene 1: Corridor bullying setup (35mm Handheld Push-in)
-This segment involves only pushing and verbal threats, no other physical conflict.
-Medium shot slowly pushing in: The bully corners the victim against the lockers, pushes his shoulder with one hand, textbooks scatter on the floor, the victim lowers his head in endurance, avoiding eye contact.
-Slight handheld shake, accompanied by the metallic sound of lockers banging.
-[Dialogue/Lip Sync Guide] Bully (English, condescendingly mocking): "Nobody is coming to save you."
+[00:00-00:04] Cena 1: Preparação do bullying no corredor (35mm na mão, zoom in)
+Este segmento envolve apenas empurrões e ameaças verbais, sem outro conflito físico.
+Plano médio com zoom in lento: O valentão encurrala a vítima contra os armários, empurra seu ombro com uma mão, os livros caem no chão, a vítima abaixa a cabeça em resistência, evitando contato visual.
+Leve tremor de câmera na mão, acompanhado pelo som metálico dos armários batendo.
+[Guia de Diálogo/Sincronia Labial] Valentão (em inglês, zombando com condescendência): "Nobody is coming to save you."
 
-[00:04-00:08] Scene 2: The first slap (Whip Pan + Low Angle)
-A hand suddenly enters from the side of the frame, a loud slap hits the bully's cheek, quick whip pan following the hand's trajectory, sharp sound with corridor echo.
-Low angle: The bully spins half a turn, stumbles to the ground, holding his face as he crawls up, eyes red, looking up off-camera.
-[Dialogue/Lip Sync Guide] Bully (English, gritting teeth): "Who the hell did that?"
+[00:04-00:08] Cena 2: O primeiro tapa (Whip Pan + Ângulo baixo)
+Uma mão entra repentinamente pela lateral do quadro, um tapa alto atinge a bochecha do valentão, movimento rápido de câmera (whip pan) seguindo a trajetória da mão, som nítido com eco no corredor.
+Ângulo baixo: O valentão gira meio corpo, cai no chão, segurando o rosto enquanto tenta se levantar, olhos vermelhos, olhando para cima fora da câmera.
+[Guia de Diálogo/Sincronia Labial] Valentão (em inglês, rangendo os dentes): "Who the hell did that?"
 
-[00:08-00:11] Scene 3: Confrontation reveal (Counter Shot)
-Reverse shot: The avenger stands in the cold corridor light, looking down at the bully, tone calm.
-[Dialogue/Lip Sync Guide] Avenger (English, low and calm): "Someone here to teach you a lesson."
-The bully roars, leaping up from the ground and punching at the avenger.
+[00:08-00:11] Cena 3: Revelação do confronto (Contraplano)
+Contraplano: O vingador está parado na luz fria do corredor, olhando para o valentão, tom de voz calmo.
+[Guia de Diálogo/Sincronia Labial] Vingador (em inglês, voz baixa e calma): "Someone here to teach you a lesson."
+O valentão ruge, saltando do chão e tentando socar o vingador.
 
-[00:11-00:15] Scene 4: Chain slaps + overhead ending (Rapid Cuts → Top-down → Smash Cut)
-The avenger dodges the punch and grabs the bully's collar. Rapid cuts: Consecutive slaps to the bully's face, the bully's head whipping left and right, hair flying.
-Last 2 seconds camera angle change: Camera moves directly above the two for a vertical top-down overhead shot, showing the bully slumped on the floor, face up, avenger holding his collar.
-The avenger's other hand rises high toward the camera (back of hand toward lens), pauses for a split second, then the hand slams down, moving away from the camera toward the bully's face below—smash cut to black and mute the instant the slap is about to touch the face.
-The slap is aimed at the bully on the ground throughout, never toward the camera.
+[00:11-00:15] Cena 4: Sequência de tapas + finalização aérea (Cortes rápidos → Ângulo superior → Corte seco)
+O vingador desvia do soco e agarra a gola do valentão. Cortes rápidos: Tapas consecutivos no rosto do valentão, a cabeça do valentão chicoteando para a esquerda e para a direita, cabelo voando.
+Nos últimos 2 segundos, mudança de ângulo da câmera: A câmera se move diretamente acima dos dois para um plano vertical de cima para baixo (top-down), mostrando o valentão caído no chão, de rosto para cima, com o vingador segurando sua gola.
+A outra mão do vingador sobe em direção à câmera (costas da mão voltadas para a lente), pausa por uma fração de segundo, então a mão desce rapidamente, movendo-se para longe da câmera em direção ao rosto do valentão abaixo — corte seco para preto e silêncio no instante em que o tapa está prestes a tocar o rosto.
+O tapa é direcionado ao valentão no chão durante todo o tempo, nunca em direção à câmera.
 
-[Sound Design] Corridor ambient sound, sharp slaps with echo, intense wind-breaking sound on the last slap followed by instant silence and black. No BGM or only low string music in the background.
+[Design de Som] Som ambiente de corredor, tapas nítidos com eco, som intenso de corte de ar no último tapa seguido por silêncio instantâneo e tela preta. Sem música de fundo (BGM) ou apenas música de cordas baixa ao fundo.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0cf6430579f1557aa53b1cd3c46cddf8/thumbnails/thumbnail.jpg" width="600" alt="Korean school revenge drama cinematic prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0cf6430579f1557aa53b1cd3c46cddf8/thumbnails/thumbnail.jpg" width="600" alt="Prompt cinematográfico de drama escolar coreano de vingança">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6020)**
 
 **Autor:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2065769074676638168) | **Publicado:** Jun 13, 2026
 
 ---
-### Dragon International Airport
+### Aeroporto Internacional dos Dragões
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic fantasy cinematic showing a sky terminal built from crystal where dragons land and take off at sunset.
+> Uma cinemática de fantasia épica mostrando um terminal aéreo construído de cristal onde dragões pousam e decolam ao pôr do sol.
 
 #### 📝 Prompt
 
 ```
-The world's first dragon airport floats high above the clouds, a breathtaking sky terminal built from glowing crystal towers, golden bridges, and colossal landing platforms suspended in the heavens. The video opens with a cinematic aerial shot of majestic dragons arriving from distant kingdoms. A massive emerald dragon glides through the clouds while an ice dragon descends from snowy mountains and a fiery crimson dragon emerges from a glowing volcanic horizon.
+O primeiro aeroporto de dragões do mundo flutua bem acima das nuvens, um terminal aéreo de tirar o fôlego construído a partir de torres de cristal brilhante, pontes douradas e plataformas de pouso colossais suspensas nos céus. O vídeo começa com uma tomada aérea cinematográfica de dragões majestosos chegando de reinos distantes. Um enorme dragão esmeralda plana pelas nuvens, enquanto um dragão de gelo desce de montanhas nevadas e um dragão carmesim flamejante emerge de um horizonte vulcânico brilhante.
 
-The camera races through the bustling airport as dragons of every size land gracefully on enormous floating runways. Dragon riders guide their creatures toward elegant sky gates while magical cargo is loaded onto giant transport dragons. Clouds drift between the terminals as sunlight reflects from shimmering crystal structures.
+A câmera percorre o movimentado aeroporto enquanto dragões de todos os tamanhos pousam graciosamente em enormes pistas flutuantes. Cavaleiros de dragão guiam suas criaturas em direção a elegantes portões celestiais, enquanto cargas mágicas são carregadas em dragões de transporte gigantes. Nuvens flutuam entre os terminais enquanto a luz do sol reflete nas estruturas de cristal cintilantes.
 
-The action intensifies as several dragons launch from the airport in synchronized takeoffs. The camera follows them soaring between floating towers and glowing sky bridges, wings creating powerful gusts through the clouds. For the grand finale, a gigantic golden dragon departs from the main terminal and flies into a spectacular orange-and-purple sunset above an endless sea of clouds. The camera pulls back to reveal the entire dragon airport glowing magnificently in the sky, ultra-realistic, cinematic masterpiece, breathtaking scale, highly detailed dragons, fantasy realism, epic ending.
+A ação se intensifica à medida que vários dragões partem do aeroporto em decolagens sincronizadas. A câmera os segue voando entre torres flutuantes e pontes celestiais brilhantes, com suas asas criando rajadas poderosas através das nuvens. Para o grande final, um gigantesco dragão dourado parte do terminal principal e voa em direção a um espetacular pôr do sol laranja e roxo acima de um mar infinito de nuvens. A câmera se afasta para revelar todo o aeroporto de dragões brilhando magnificamente no céu, ultra-realista, obra-prima cinematográfica, escala de tirar o fôlego, dragões altamente detalhados, realismo fantástico, final épico.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07fe201d74d376851a6719c1360c988b/thumbnails/thumbnail.jpg" width="600" alt="Dragon International Airport">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07fe201d74d376851a6719c1360c988b/thumbnails/thumbnail.jpg" width="600" alt="Aeroporto Internacional dos Dragões">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6007)**
 
 **Autor:** [Ai Doctor](https://x.com/DoctorAmna11) | **Fonte:** [Link](https://x.com/DoctorAmna11/status/2065767722890465781) | **Publicado:** Jun 13, 2026
 
 ---
-### Nike Denim Edition Commercial
+### Comercial da Edição Nike Denim
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 15-second premium product commercial prompt for the Nike Air Force 1 Low Denim Edition, featuring macro texture details and a studio reveal.
+> Um prompt de comercial de produto premium de 15 segundos para o Nike Air Force 1 Low Denim Edition, apresentando detalhes de textura macro e revelação em estúdio.
 
 #### 📝 Prompt
 
 ```
-### Seedance 2.0 — 15 Second Premium Product Commercial
+### Seedance 2.0 — Comercial de Produto Premium de 15 Segundos
 
 **Nike Air Force 1 Low Denim Edition**
-**Aspect Ratio:** 9:16 Vertical
-**Duration:** 15 Seconds
-**Style:** Luxury sneaker campaign, cinematic fashion commercial, ultra-realistic product showcase, premium sportswear advertising, high-end social media launch film.
+**Proporção:** 9:16 Vertical
+**Duração:** 15 Segundos
+**Estilo:** Campanha de tênis de luxo, comercial de moda cinematográfico, vitrine de produto ultrarrealista, publicidade de roupas esportivas premium, filme de lançamento para redes sociais de alto padrão.
 
-Treat each storyboard panel as a separate full-screen cinematic shot. Read left-to-right, top-to-bottom. Do not animate the storyboard itself. Every panel becomes an individual shot with realistic motion and camera behavior.
+Trate cada painel do storyboard como uma cena cinematográfica individual em tela cheia. Leia da esquerda para a direita, de cima para baixo. Não anime o storyboard em si. Cada painel torna-se uma tomada individual com movimento realista e comportamento de câmera.
 
-**Product Fidelity**
-Maintain the exact Nike Air Force 1 Low Denim Edition design throughout all scenes. Preserve denim texture, stitching, swoosh shape, sole proportions, lace structure, outsole pattern, blue-and-white color palette, premium materials, branding details, and realistic lighting interaction.
+**Fidelidade do Produto**
+Mantenha o design exato do Nike Air Force 1 Low Denim Edition em todas as cenas. Preserve a textura do jeans, a costura, o formato do swoosh, as proporções da sola, a estrutura dos cadarços, o padrão do solado, a paleta de cores azul e branco, os materiais premium, os detalhes da marca e a interação realista com a iluminação.
 
 ---
 
-### SHOT 01 (0.0–1.0s)
+### CENA 01 (0,0–1,0s)
 
-Premium packaging reveal. Hands slide open a matte black Nike box on a studio table. Soft daylight reflections. Slow push-in camera movement.
+Revelação da embalagem premium. Mãos deslizam a tampa de uma caixa preta fosca da Nike sobre uma mesa de estúdio. Reflexos de luz suave do dia. Movimento de câmera lento de aproximação (push-in).
 
-### SHOT 02 (1.0–2.0s)
+### CENA 02 (1,0–2,0s)
 
-Unboxing close-up. Lid lifts. Denim Air Force 1 appears inside tissue wrapping. Cinematic focus pull revealing materials and craftsmanship.
+Close-up do unboxing. A tampa é levantada. O Air Force 1 Denim aparece dentro do papel de seda. Foco cinematográfico revelando os materiais e o acabamento.
 
-### SHOT 03 (2.0–3.0s)
+### CENA 03 (2,0–3,0s)
 
-Floating hero product shot. Sneaker suspended in a clean studio environment. Slow orbital camera movement emphasizing silhouette and proportions.
+Tomada do produto principal flutuando. Tênis suspenso em um ambiente de estúdio limpo. Movimento orbital lento da câmera enfatizando a silhueta e as proporções.
 
-### SHOT 04 (3.0–3.8s)
+### CENA 04 (2,0–3,8s)
 
-Macro denim detail. Extreme close-up of swoosh stitching and woven fabric texture. Light glides across material surface.
+Detalhe macro do jeans. Close-up extremo da costura do swoosh e da textura do tecido trançado. A luz desliza pela superfície do material.
 
-### SHOT 05 (3.8–4.6s)
+### CENA 05 (3,8–4,6s)
 
-Toe-box macro. Crisp perforation details. Shallow depth of field. Premium luxury-product aesthetic.
+Macro da biqueira (toe-box). Detalhes nítidos das perfurações. Profundidade de campo rasa. Estética de produto de luxo premium.
 
-### SHOT 06 (4.6–5.4s)
+### CENA 06 (4,6–5,4s)
 
-Heel branding close-up. "Nike Air" logo illuminated by soft rim light. Slow cinematic tilt upward.
+Close-up da marca no calcanhar. Logotipo "Nike Air" iluminado por uma luz de contorno suave. Inclinação cinematográfica lenta para cima.
 
-SHOT 07 (5.4–6.2s)
+### CENA 07 (5,4–6,2s)
 
-Lifestyle angle. Model standing naturally in the sneakers. Camera circles subtly around the shoes. Urban atmosphere.
+Ângulo de estilo de vida. Modelo em pé naturalmente com os tênis. A câmera circula sutilmente ao redor dos calçados. Atmosfera urbana.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96234ae0f89cce7267f8444e625ada09/thumbnails/thumbnail.jpg" width="600" alt="Nike Denim Edition Commercial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96234ae0f89cce7267f8444e625ada09/thumbnails/thumbnail.jpg" width="600" alt="Comercial da Edição Nike Denim">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6017)**
 
 **Autor:** [Al-Shamus](https://x.com/im_shahid7) | **Fonte:** [Link](https://x.com/im_shahid7/status/2065756170766413942) | **Publicado:** Jun 13, 2026
 
 ---
-### Coastal Downhill Skateboarding Chase
+### Perseguição de Skate em Ladeira Litorânea
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-speed 15-second cinematic chase video of a woman skateboarding down a steep coastal hill towards a turquoise ocean, featuring realistic physics and a handheld camera feel.
+> Um vídeo cinematográfico de alta velocidade com 15 segundos de uma mulher andando de skate por uma ladeira íngreme em direção a um oceano azul-turquesa, apresentando física realista e uma sensação de câmera na mão.
 
 #### 📝 Prompt
 
 ```
-Create a 15-second realistic cinematic video of a woman skateboarding fast down a steep coastal hill road toward the ocean. Open with a dynamic rear chase angle from slightly above and behind her capturing the dramatic downhill slope and expansive ocean view ahead. The environment is a bright, sunny seaside town with narrow roads, stone walls, utility poles, small houses, rooftops, side streets, and lush green hills leading down to a vivid turquoise-blue coastline with large waves and towering white clouds.
-The woman has long black hair, soft natural facial features, warm light-medium skin, and a slim youthful build. Dress her in a stylish casual coastal outfit: an oversized blue shirt, denim pants, white sneakers, and a small slingbag. Her hair and clothing move naturally in the wind as she rides.
-She is skateboarding continuously and quickly downhill, carving gently and smoothly with believable balance and natural physics. The motion should feel exciting, free, and grounded in reality.
-Add a small number of cars on the road to make the scene feel alive - only a few, not heavy traffic. Include perhaps one car driving farther ahead in her lane, one parked vehicle near the roadside, and one occasional passing or oncoming car at a safe distance. The vehicles should feel natural and integrated into the town, adding realism and motion without becoming the focus. The road should still feel mostly open so the skateboarder remains the clear subject.
-Use realistic lighting, natural motion blur, subtle camera shake, and an immersive handheld/chase-camera feel. Keep the entire scene fully photorealistic, not animated or illustrated.
-For most of the video, keep the camera behind her as she rides fast downhill with the ocean stretching out in front of her. In the final few seconds, the camera glides from behind to the side and then arcs around to the front, revealing her face clearly while she is still riding. She looks calm, focused, and slightly smiling, enjoying the ride. End on the face reveal while she continues moving downhill.
-Audio: no background music. Ambient sound only - skateboard wheels rolling on pavement, wind, distant ocean, and light neighborhood traffic sounds.
+Crie um vídeo cinematográfico realista de 15 segundos de uma mulher andando de skate rapidamente por uma estrada íngreme em uma ladeira litorânea em direção ao oceano. Comece com um ângulo de perseguição dinâmico, posicionado ligeiramente acima e atrás dela, capturando a inclinação dramática da descida e a vista ampla do oceano à frente. O ambiente é uma cidade litorânea ensolarada e brilhante, com estradas estreitas, muros de pedra, postes de luz, casas pequenas, telhados, ruas laterais e colinas verdes exuberantes que levam a um litoral de um azul-turquesa vívido, com ondas grandes e nuvens brancas imponentes.
+A mulher tem cabelos longos e pretos, traços faciais naturais e suaves, pele clara a média com tom quente e uma constituição esguia e jovem. Vista-a com um traje casual e estiloso de praia: uma camisa azul oversized, calça jeans, tênis brancos e uma pequena bolsa transversal. Seu cabelo e roupas se movem naturalmente com o vento enquanto ela anda.
+Ela anda de skate continuamente e rapidamente ladeira abaixo, fazendo curvas suaves e precisas com um equilíbrio verossímil e física natural. O movimento deve parecer empolgante, livre e fundamentado na realidade.
+Adicione um pequeno número de carros na estrada para tornar a cena viva - apenas alguns, sem tráfego intenso. Inclua, talvez, um carro dirigindo mais à frente na pista dela, um veículo estacionado perto da beira da estrada e um carro ocasional passando ou vindo na direção oposta a uma distância segura. Os veículos devem parecer naturais e integrados à cidade, adicionando realismo e movimento sem se tornarem o foco. A estrada deve parecer majoritariamente livre para que a skatista permaneça como o foco principal.
+Use iluminação realista, desfoque de movimento natural, leve trepidação de câmera e uma sensação imersiva de câmera na mão/perseguição. Mantenha toda a cena totalmente fotorrealista, sem animações ou ilustrações.
+Durante a maior parte do vídeo, mantenha a câmera atrás dela enquanto ela desce rapidamente com o oceano se estendendo à sua frente. Nos segundos finais, a câmera desliza de trás para o lado e depois faz um arco para a frente, revelando seu rosto claramente enquanto ela continua andando. Ela parece calma, focada e levemente sorridente, aproveitando o passeio. Termine com a revelação do rosto enquanto ela continua descendo a ladeira.
+Áudio: sem música de fundo. Apenas som ambiente - rodas de skate rolando no asfalto, vento, oceano distante e sons leves de tráfego do bairro.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781422567613_t5dgsy_HKsB38nbwAAygmJ.jpg" width="600" alt="Coastal Downhill Skateboarding Chase">
+<img src="https://cms-assets.youmind.com/media/1781422567613_t5dgsy_HKsB38nbwAAygmJ.jpg" width="600" alt="Perseguição de Skate em Ladeira Litorânea">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6004)**
 
 **Autor:** [Noor](https://x.com/noorlewisx) | **Fonte:** [Link](https://x.com/noorlewisx/status/2065746957499605274) | **Publicado:** Jun 13, 2026
 
 ---
-### Vertical Character Dance MV
+### MV de Dança Vertical com Personagem
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A comprehensive video generation prompt for creating dynamic 15-second vertical dance music videos starring a specific reference character.
+> Um prompt abrangente de geração de vídeo para criar videoclipes de dança verticais e dinâmicos de 15 segundos, estrelando um personagem de referência específico.
 
 #### 📝 Prompt
 
 ```
-Generate a 15-second vertical dance music video using the person or character from @Image 1. Ensure the character expresses the music with their entire body and dances dynamically. 
+Gere um videoclipe de dança vertical de 15 segundos usando a pessoa ou personagem de @Image 1. Garanta que o personagem expresse a música com todo o corpo e dance de forma dinâmica.
 
-format: vertical_9x16
+formato: vertical_9x16
 fps: 24
-total_duration: 15s
-style:
-High-quality dance MV
-Cinematic
+duração_total: 15s
+estilo:
+MV de dança de alta qualidade
+Cinematográfico
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7e19336a9114b1739466952d6eda6149/thumbnails/thumbnail.jpg" width="600" alt="Vertical Character Dance MV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7e19336a9114b1739466952d6eda6149/thumbnails/thumbnail.jpg" width="600" alt="MV de Dança Vertical com Personagem">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6024)**
 
 **Autor:** [Zeto](https://x.com/ZetoGroovin) | **Fonte:** [Link](https://x.com/ZetoGroovin/status/2065738828221231578) | **Publicado:** Jun 13, 2026
 
 ---
-### Magical Forest Discovery Storyboard
+### Storyboard de Descoberta na Floresta Mágica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fantasy storytelling prompt that tracks a character's discovery of a glowing alien egg in a magical forest, featuring consistent character identity across scenes.
+> Um prompt de narrativa de fantasia que acompanha a descoberta de um ovo alienígena brilhante por uma personagem em uma floresta mágica, garantindo a consistência da identidade da personagem em todas as cenas.
 
 #### 📝 Prompt
 
 ```
-Main Character Consistency
-Young adventurous woman, same appearance throughout all shots, realistic face, long dark hair, casual outdoor explorer outfit, expressive eyes, cinematic lighting, ultra-realistic style, detailed skin texture, natural movements, consistent character identity in every scene.
+Consistência da Personagem Principal
+Jovem mulher aventureira, mesma aparência em todas as tomadas, rosto realista, cabelos longos e escuros, traje casual de exploradora ao ar livre, olhos expressivos, iluminação cinematográfica, estilo ultrarrealista, textura de pele detalhada, movimentos naturais, identidade da personagem consistente em cada cena.
 
 ---
 
-### Scene 1 (0–3 sec) — Discovery
+### Cena 1 (0–3 seg) — A Descoberta
 
 **Prompt:**
-A magical forest at sunrise filled with tall ancient trees, glowing plants, floating particles, and soft golden light filtering through the leaves. A young adventurous woman walks carefully through the forest, looking around with curiosity. Suddenly she notices a mysterious glowing egg resting among moss-covered roots. The egg emits a soft blue and purple light, illuminating the surrounding plants. The camera slowly pushes toward the egg as the girl kneels beside it with a surprised expression. Ultra-realistic cinematic fantasy movie, shallow depth of field, volumetric lighting, highly detailed environment, 4K.
+Uma floresta mágica ao nascer do sol, repleta de árvores antigas e altas, plantas brilhantes, partículas flutuantes e uma suave luz dourada filtrada pelas folhas. Uma jovem mulher aventureira caminha cuidadosamente pela floresta, olhando ao redor com curiosidade. De repente, ela nota um misterioso ovo brilhante repousando entre raízes cobertas de musgo. O ovo emite uma luz suave azul e roxa, iluminando as plantas ao redor. A câmera se aproxima lentamente do ovo enquanto a garota se ajoelha ao lado dele com uma expressão de surpresa. Filme de fantasia cinematográfico ultrarrealista, profundidade de campo rasa, iluminação volumétrica, ambiente altamente detalhado, 4K.
 
 ---
 
-### Scene 2 (3–7 sec) — The Egg Hatches
+### Cena 2 (3–7 seg) — O Ovo Eclode
 
 **Prompt:**
-Close-up of the mysterious glowing egg in the forest. Small cracks begin spreading across its luminous shell while magical energy pulses from within. The young woman watches in amazement, her eyes reflecting the glowing light. Tiny glowing particles float into the air as the cracks rapidly expand. Bright colorful light escapes through the openings. Cinematic camera orbit around the egg, dramatic fantasy atmosphere, ultra-realistic textures, movie-quality visual effects, detailed lighting, 4K.
+Close-up do misterioso ovo brilhante na floresta. Pequenas rachaduras começam a se espalhar por sua casca luminosa enquanto energia mágica pulsa de dentro. A jovem mulher observa maravilhada, seus olhos refletindo a luz brilhante. Pequenas partículas brilhantes flutuam no ar conforme as rachaduras se expandem rapidamente. Uma luz brilhante e colorida escapa pelas aberturas. Câmera cinematográfica orbitando ao redor do ovo, atmosfera de fantasia dramática, texturas ultrarrealistas, efeitos visuais com qualidade de filme, iluminação detalhada, 4K.
 
 ---
 
-### Scene 3 (7–10 sec) — First Contact
+### Cena 3 (7–10 seg) — Primeiro Contato
 
 **Prompt:**
-The egg finally opens, revealing an adorable baby alien creature with large glowing eyes, tiny ears, and soft bioluminescent skin. The creature slowly climbs out of the shell and looks directly at the young woman. It tilts its head curiously and gives a warm smile. The girl smiles back with wonder and excitement. Magical forest lights shimmer around them as the camera slowly pulls back to reveal the beautiful fantasy environment. Heartwarming cinematic ending, ultra-realistic creature design, emotional movie scene, volumetric lighting, 4K masterpiece.
+O ovo finalmente se abre, revelando uma adorável criatura alienígena bebê com grandes olhos brilhantes, orelhas pequenas e pele bioluminescente macia. A criatura sai lentamente da casca e olha diretamente para a jovem mulher. Ela inclina a cabeça curiosamente e dá um sorriso caloroso. A garota retribui o sorriso com admiração e entusiasmo. Luzes da floresta mágica cintilam ao redor deles enquanto a câmera se afasta lentamente para revelar o belo ambiente de fantasia. Final cinematográfico emocionante, design de criatura ultrarrealista, cena de filme emocionante, iluminação volumétrica, obra-prima em 4K.
 
-**Style Tags:**
-Ultra-realistic, cinematic fantasy adventure, Hollywood movie quality, volumetric lighting, magical forest, emotional storytelling, highly detailed, realistic physics, depth of field, masterpiece, 4K, epic fantasy atmosphere.
+**Tags de Estilo:**
+Ultrarrealista, aventura de fantasia cinematográfica, qualidade de filme de Hollywood, iluminação volumétrica, floresta mágica, narrativa emocionante, altamente detalhado, física realista, profundidade de campo, obra-prima, 4K, atmosfera de fantasia épica.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df1276c70fff66948d33c141ce2c2bcb/thumbnails/thumbnail.jpg" width="600" alt="Magical Forest Discovery Storyboard">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df1276c70fff66948d33c141ce2c2bcb/thumbnails/thumbnail.jpg" width="600" alt="Storyboard de Descoberta na Floresta Mágica">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6010)**
 
 **Autor:** [Jasmine Ai](https://x.com/jasminekhan90_) | **Fonte:** [Link](https://x.com/jasminekhan90_/status/2065718254128255249) | **Publicado:** Jun 13, 2026
 
 ---
-### Soccer Knuckleball Free Kick Simulation
+### Simulação de cobrança de falta com efeito knuckleball no futebol
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex video prompt for a soccer goal scene, using diagrammatic reference images to control ball trajectory and physical movement.
+> Um prompt de vídeo complexo para uma cena de gol de futebol, usando imagens de referência diagramáticas para controlar a trajetória da bola e o movimento físico.
 
 #### 📝 Prompt
 
 ```
-Use @image1 side-view trajectory diagram) and @image2 (top-down trajectory diagram) as the exact reference for the ball's flight path. The red line in @Image1 defines the ball's vertical arc — rising sharply after the kick, peaking around the halfway line, then dipping down hard into the left goal (knuckleball dip). The red line in @Image2 defines the ball's horizontal route — traveling diagonally from the kick spot near the halfway line straight toward the goal in the lower-left, curving only slightly at the very end into the corner. The ball is kicked from the point labeled "kick" and ends inside the goal labeled "goal". Shot count: 4 | Duration: 10s | Aspect ratio: 16:9 CONTEXT: Fictional FIFA World Cup match, Japan vs Denmark. Packed stadium under bright daylight, green striped pitch. A Japanese national team player — blonde hair, left-footed (southpaw), blue Japan home kit — takes a long-range direct free kick. The ball is struck with no spin (knuckleball), so it flies fast and straight, then suddenly dips and dives into the top corner of the Denmark goal. STYLE: cinematic sports broadcast realism, 4K ultra-high resolution, natural daylight, sharp detail, realistic grass and stadium crowd, smooth slow-motion accents, stable footage, no jitter, no distortion, no deformation, photorealistic players. [0s – 2.5s] SHOT 1 — THE STRIKE. Low-angle medium shot behind the blonde left-footed Japanese player. He plants his right foot and swings his left foot through the ball with a clean, flat no-spin contact. Camera: slow push-in. Crowd noise swells. [2.5s – 5s] SHOT 2 — RISING FLIGHT (side view). Side-on tracking shot following the ball as it rises and climbs over the halfway line, exactly matching the upward arc of the red line in @Image1. The ball wobbles slightly with no rotation. Camera: smooth lateral tracking with the ball. [5s – 7.5s] SHOT 3 — THE DIP (overhead transition). High overhead angle showing the ball cutting diagonally across the pitch toward the lower-left goal, matching the route of the red line in @Image2, then dipping downward. Camera: high aerial following the ball's path. [7.5s – 10s] SHOT 4 — THE GOAL. Behind-the-goal shot. The ball dives into the top corner of the Denmark net, rippling the netting. The goalkeeper dives too late. Camera: slow pull-out as the crowd erupts. Slow-motion on the net ripple. Audio: live stadium ambience, rising crowd roar, sharp ball-strike sound, explosive goal celebration. Avoid: jitter, distortion, blur, deformation, extra players blocking the ball, wrong-footed kick (must be LEFT foot), spinning/curling ball (must be knuckleball, no spin). NO SUBTITLES. NO TEXT ON SCREEN. NO CAPTIONS. NO WATERMARKS.
+Use @image1 (diagrama de trajetória com vista lateral) e @image2 (diagrama de trajetória com vista superior) como referência exata para a trajetória de voo da bola. A linha vermelha em @Image1 define o arco vertical da bola — subindo bruscamente após o chute, atingindo o ponto mais alto perto da linha do meio-campo e, em seguida, descendo bruscamente em direção ao gol esquerdo (efeito knuckleball). A linha vermelha em @Image2 define a rota horizontal da bola — viajando diagonalmente do ponto de chute perto da linha do meio-campo diretamente em direção ao gol no canto inferior esquerdo, curvando-se apenas levemente no final em direção ao ângulo. A bola é chutada do ponto marcado como "kick" e termina dentro do gol marcado como "goal". Contagem de cenas: 4 | Duração: 10s | Proporção: 16:9 CONTEXTO: Partida fictícia da Copa do Mundo da FIFA, Japão vs Dinamarca. Estádio lotado sob luz do dia intensa, gramado com listras verdes. Um jogador da seleção japonesa — cabelo loiro, canhoto, uniforme azul do Japão — cobra uma falta de longa distância. A bola é atingida sem rotação (knuckleball), por isso voa rápido e reta, então subitamente cai e mergulha no ângulo superior do gol da Dinamarca. ESTILO: realismo cinematográfico de transmissão esportiva, resolução 4K ultra-alta, luz natural do dia, detalhes nítidos, grama e torcida realistas, destaques em câmera lenta suave, filmagem estável, sem tremulação, sem distorção, sem deformação, jogadores fotorrealistas. [0s – 2.5s] CENA 1 — O CHUTE. Plano médio de ângulo baixo atrás do jogador japonês loiro e canhoto. Ele firma o pé direito e balança o pé esquerdo através da bola com um contato limpo, plano e sem rotação. Câmera: slow push-in. O barulho da torcida aumenta. [2.5s – 5s] CENA 2 — VOO ASCENDENTE (vista lateral). Plano de acompanhamento lateral seguindo a bola enquanto ela sobe e cruza a linha do meio-campo, correspondendo exatamente ao arco ascendente da linha vermelha em @Image1. A bola oscila levemente sem rotação. Câmera: acompanhamento lateral suave com a bola. [5s – 7.5s] CENA 3 — A QUEDA (transição aérea). Ângulo aéreo elevado mostrando a bola cortando diagonalmente o campo em direção ao gol inferior esquerdo, correspondendo à rota da linha vermelha em @Image2, e então descendo. Câmera: aérea alta seguindo a trajetória da bola. [7.5s – 10s] CENA 4 — O GOL. Plano atrás do gol. A bola mergulha no ângulo superior da rede da Dinamarca, balançando a rede. O goleiro pula tarde demais. Câmera: slow pull-out enquanto a torcida explode. Câmera lenta na rede balançando. Áudio: ambiente de estádio ao vivo, rugido da torcida aumentando, som nítido do impacto na bola, celebração explosiva de gol. Evite: tremulação, distorção, desfoque, deformação, jogadores extras bloqueando a bola, chute com o pé errado (deve ser o pé ESQUERDO), bola girando/fazendo curva (deve ser knuckleball, sem rotação). SEM LEGENDAS. SEM TEXTO NA TELA. SEM MARCAS D'ÁGUA.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c06f3e1a6ce756953879f90f6785eb79/thumbnails/thumbnail.jpg" width="600" alt="Soccer Knuckleball Free Kick Simulation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c06f3e1a6ce756953879f90f6785eb79/thumbnails/thumbnail.jpg" width="600" alt="Simulação de cobrança de falta com efeito knuckleball no futebol">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6023)**
 
 **Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Fonte:** [Link](https://x.com/tanabe_fragm/status/2065695931455136060) | **Publicado:** Jun 13, 2026
 
 ---
-### Fizz Pop CGI Drink Commercial
+### Comercial de CGI da bebida Fizz Pop
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Pixar-style 3D animated commercial for a fruit drink set in a sunlit morning kitchen.
+> Um comercial de animação 3D estilo Pixar para uma bebida de frutas, ambientado em uma cozinha iluminada pelo sol da manhã.
 
 #### 📝 Prompt
 
 ```
-15-second Pixar CGI animation commercial for FIZZ POP fizzy fruit drink. Use hero frame as strict visual anchor for characters, product, setting, lighting, and color.
+Comercial de animação CGI estilo Pixar de 15 segundos para a bebida gaseificada de frutas FIZZ POP. Use o quadro principal como âncora visual estrita para os personagens, produto, cenário, iluminação e cores.
 
-STYLE: Full Pixar feature-film CGI quality. Warm sunny kitchen. Golden morning
+ESTILO: Qualidade de CGI de longa-metragem da Pixar. Cozinha ensolarada e aconchegante. Manhã dourada
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/de3bf8cd861f72447762147dfb1c9f3d/thumbnails/thumbnail.jpg" width="600" alt="Fizz Pop CGI Drink Commercial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/de3bf8cd861f72447762147dfb1c9f3d/thumbnails/thumbnail.jpg" width="600" alt="Comercial de CGI da bebida Fizz Pop">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6018)**
 
@@ -1197,123 +1196,123 @@ CENA 5 (0:12–0:15, Close-up do Herói com afastamento, 85mm): Garrafa e copo n
 **Autor:** [Harboris](https://x.com/harboriis) | **Fonte:** [Link](https://x.com/harboriis/status/2065665730809565678) | **Publicado:** Jun 13, 2026
 
 ---
-### Robot World Cup broadcast video prompt
+### Prompt de vídeo para transmissão da Copa do Mundo de Robôs
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A high-quality sports broadcast prompt for generating a sci-fi football match where silver metallic robots play for the Chinese team against humans in the 2030 World Cup.
+> Um prompt de transmissão esportiva de alta qualidade para gerar uma partida de futebol de ficção científica, onde robôs metálicos prateados jogam pela equipe chinesa contra humanos na Copa do Mundo de 2030.
 
 #### 📝 Prompt
 
 ```
-[Style] World Cup TV live broadcast texture (Live Sports Broadcast), authentic broadcast camera positions, slight signal scan lines, realistic sci-fi elements (Photorealistic Robots), 8K ultra-high definition.
-[Duration] 15 seconds
-[First Frame] Use the uploaded image as the first frame: a long-haired woman in a red vest in the stands cheering with surrounding fans waving red flags, including a live scoreboard.
-[Scene] 2030 World Cup Final venue, a massive stadium filled to capacity, green football pitch. The Chinese team consists entirely of silver-white metallic humanoid robot players (hydraulic structures at joints, red team crest on chest), the US team consists of ordinary human players in white jerseys.
+[Estilo] Textura de transmissão de TV da Copa do Mundo (Live Sports Broadcast), posições de câmera de transmissão autênticas, leves linhas de varredura de sinal, elementos realistas de ficção científica (Robôs Fotorrealistas), ultra-alta definição 8K.
+[Duração] 15 segundos
+[Primeiro Quadro] Use a imagem enviada como o primeiro quadro: uma mulher de cabelos longos com um colete vermelho na arquibancada torcendo, com torcedores ao redor agitando bandeiras vermelhas, incluindo um placar ao vivo.
+[Cena] Estádio da final da Copa do Mundo de 2030, um estádio enorme lotado, campo de futebol verde. A equipe chinesa consiste inteiramente de jogadores robôs humanoides metálicos branco-prateados (estruturas hidráulicas nas articulações, brasão da equipe vermelha no peito), a equipe dos EUA consiste em jogadores humanos comuns com camisas brancas.
 
-[00:00-00:03] Scene 1: Stands opening
-Continuation of the first frame: The woman in the red vest and fans behind her wave red flags and cheer, the stands are a sea of red, the crowd is restless, slight flickering of live scan lines. Ambient live sound: overwhelming cheers and drums.
+[00:00-00:03] Cena 1: Abertura das arquibancadas
+Continuação do primeiro quadro: A mulher de colete vermelho e os torcedores atrás dela agitam bandeiras vermelhas e torcem, as arquibancadas são um mar de vermelho, a multidão está agitada, leve cintilação de linhas de varredura ao vivo. Som ambiente ao vivo: aplausos e tambores avassaladores.
 
-[00:03-00:10] Scene 2: Robot passing + bicycle kick (Broadcast Wide → Slow-mo)
-Switch to a standard broadcast angle overlooking the pitch: three Chinese robot players pass quickly on the ground near the penalty area, one-touch passing back and forth, sharp sound of metallic feet hitting the ball, human US players missing their tackles.
-A winger robot suddenly lofts a pass to the center of the box, the center robot leaps into the air, its entire metallic body rotating backward in the air for a bicycle kick (Bicycle Kick, switched to Super Slow-mo)—the ball rockets into the top corner, the net bulging violently.
-The scoreboard in the top left corner changes to CHN 2 - 0 USA.
-Live commentator roars excitedly (English): "Unbelievable! A bicycle kick! 2-0 China!"
+[00:03-00:10] Cena 2: Passe de robô + bicicleta (Transmissão ampla → Câmera lenta)
+Mude para um ângulo de transmissão padrão com vista para o campo: três robôs chineses passam a bola rapidamente pelo chão perto da área, passes de primeira, som nítido de pés metálicos atingindo a bola, jogadores humanos dos EUA errando os desarmes.
+Um robô ponta levanta a bola para o centro da área, o robô central salta no ar, todo o seu corpo metálico gira para trás no ar para uma bicicleta (Bicycle Kick, mudado para Super Câmera Lenta) — a bola dispara no ângulo superior, a rede balança violentamente.
+O placar no canto superior esquerdo muda para CHN 2 - 0 USA.
+Comentarista ao vivo ruge empolgado (em inglês): "Inacreditável! Uma bicicleta! 2 a 0 para a China!"
 
-[00:10-00:15] Scene 3: Match cut back to stands cheering
-Cut back to the same camera position as the first frame: the woman in the red vest jumps up from her seat, raising both fists in celebration, long hair flying, a brilliant smile, surrounding fans collectively standing up in excitement, red flags waving frantically, people hugging each other.
-The sound of the crowd reaches its peak, the camera tilts up slightly and freezes on the moment she jumps up to cheer.
+[00:10-00:15] Cena 3: Corte da partida de volta para a torcida
+Corte de volta para a mesma posição de câmera do primeiro quadro: a mulher de colete vermelho pula de seu assento, levantando os dois punhos em comemoração, cabelos longos voando, um sorriso brilhante, torcedores ao redor se levantando coletivamente empolgados, bandeiras vermelhas agitando freneticamente, pessoas se abraçando.
+O som da multidão atinge seu ápice, a câmera inclina-se levemente para cima e congela no momento em que ela pula para comemorar.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61024539a3067ba7e008c38158960f3d/thumbnails/thumbnail.jpg" width="600" alt="Robot World Cup broadcast video prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61024539a3067ba7e008c38158960f3d/thumbnails/thumbnail.jpg" width="600" alt="Prompt de vídeo para transmissão da Copa do Mundo de Robôs">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6021)**
 
 **Autor:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2065653004158529841) | **Publicado:** Jun 13, 2026
 
 ---
-### Cargo Plane Action Sequence
+### Sequência de Ação em Avião de Carga
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-altitude action scene featuring secret agents battling on the wing of a military cargo plane at sunset.
+> Uma cena de ação em alta altitude apresentando agentes secretos lutando na asa de um avião de carga militar ao pôr do sol.
 
 #### 📝 Prompt
 
 ```
-Hyper-realistic cinematic action sequence, 15 seconds, aspect ratio 16:9. 
+Sequência de ação cinematográfica hiper-realista, 15 segundos, proporção 16:9.
 
-A large military cargo plane is flying high above the clouds at sunset. The rear cargo ramp is open, violent wind tears through the aircraft, and two fighters are battling on the wing of the plane. One is a skilled secret agent in a dark tactical suit, the other is a dangerous enemy operative in black combat gear. The metal wing vibrates, engines roar, clouds rush past below, and loose cargo inside the aircraft is being pulled toward the open ramp.  
+Um grande avião de carga militar voa alto acima das nuvens ao pôr do sol. A rampa de carga traseira está aberta, um vento violento atravessa a aeronave e dois combatentes lutam na asa do avião. Um é um agente secreto habilidoso em um traje tático escuro, o outro é um perigoso agente inimigo com equipamento de combate preto. A asa de metal vibra, os motores rugem, as nuvens passam rapidamente abaixo e a carga solta dentro da aeronave é puxada em direção à rampa aberta.
 
-Camera angle 1: wide exterior shot, the cargo plane cuts through the sky above the clouds, the rear ramp is open, and the two fighters struggle on the wing near the engine while wind rips at their clothing.  
+Ângulo de câmera 1: plano aberto externo, o avião de carga corta o céu acima das nuvens, a rampa traseira está aberta e os dois combatentes lutam na asa perto do motor enquanto o vento rasga suas roupas.
 
-Camera angle 2: close dynamic shot on the wing, the secret agent and enemy operative exchange fast punches and kicks while trying to keep balance on the vibrating metal surface. Their hands grip the edge of the wing, boots slide, and the wind is powerful and dangerous.  
+Ângulo de câmera 2: plano dinâmico fechado na asa, o agente secreto e o agente inimigo trocam socos e chutes rápidos enquanto tentam manter o equilíbrio na superfície metálica vibrante. Suas mãos agarram a borda da asa, as botas deslizam e o vento é poderoso e perigoso.
 
-Camera angle 3: dramatic side shot, the enemy almost throws the agent off the wing. The agent slips, hangs from the edge with one hand, then pulls himself back up and counterattacks. Inside the plane, cargo crates break loose and slide toward the open rear ramp.  
+Ângulo de câmera 3: plano lateral dramático, o inimigo quase joga o agente para fora da asa. O agente escorrega, pendura-se na borda com uma mão, depois se puxa de volta e contra-ataca. Dentro do avião, caixas de carga se soltam e deslizam em direção à rampa traseira aberta.
 
-Final action beat: the agent defeats the enemy with one hard strike, then sprints across the wing and leaps through the open rear cargo ramp back into the aircraft just as the enemy loses balance and falls away into the clouds.  Final moment: inside the cargo plane, the agent lands hard and rolls across the metal floor as loose cargo slides past, the open ramp behind him framing the sky. 
+Batida de ação final: o agente derrota o inimigo com um golpe forte, depois corre pela asa e salta através da rampa de carga traseira aberta de volta para a aeronave, exatamente quando o inimigo perde o equilíbrio e cai nas nuvens. Momento final: dentro do avião de carga, o agente aterrissa com força e rola pelo piso de metal enquanto a carga solta desliza, a rampa aberta atrás dele emoldurando o céu.
 
-Style: hyper-realistic, cinematic, intense action, realistic wind force, dramatic sky, strong sense of altitude and danger, fast but readable camera movement, detailed aircraft surface, rushing clouds, no text, no logos, no cartoon style, no slow motion, no extra main characters. Keep proportions. Keep style and features. Aspect ratio
+Estilo: hiper-realista, cinematográfico, ação intensa, força do vento realista, céu dramático, forte senso de altitude e perigo, movimento de câmera rápido, porém legível, superfície da aeronave detalhada, nuvens passando rapidamente, sem texto, sem logotipos, sem estilo de desenho animado, sem câmera lenta, sem personagens principais extras. Mantenha as proporções. Mantenha o estilo e as características. Proporção
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f482c77eabae517f4410c92d32014582/thumbnails/thumbnail.jpg" width="600" alt="Cargo Plane Action Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f482c77eabae517f4410c92d32014582/thumbnails/thumbnail.jpg" width="600" alt="Sequência de Ação em Avião de Carga">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6005)**
 
 **Autor:** [DeCat](https://x.com/DeCat2025) | **Fonte:** [Link](https://x.com/DeCat2025/status/2065650279165341917) | **Publicado:** Jun 13, 2026
 
 ---
-### Sentient Road Signs Urban Animation
+### Animação Urbana de Placas de Trânsito Sentientes
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A highly detailed cinematic prompt for an urban scene where pictograms on road signs and signals come to life and move playfully in a photorealistic environment.
+> Um prompt cinematográfico altamente detalhado para uma cena urbana onde pictogramas em placas e sinais de trânsito ganham vida e se movem de forma lúdica em um ambiente fotorrealista.
 
 #### 📝 Prompt
 
 ```
-Image 1 = Storyboard reference. Based on the attached storyboard image {{Image 1}}, create a high-quality 15-second, 16:9 landscape photorealistic video. Theme: 'A world where symbols inside road signs and signals in a real city play freely when no one is looking.' Basic Concept: The stage is a highly realistic urban intersection and road space. The overall look is a beautiful, cinematic, atmospheric photorealistic film scene. However, the surreal element is that only the 'symbols, people, numbers, arrows, bicycle marks, etc.' drawn inside the signs, traffic lights, and road markings move freely, happily, and dynamically as if they were alive. The key is not to add flashy VFX around them. The focus of interest is the movement of the markings within the signs themselves. Minimize traces of light, particles, auras, or magical effects; if necessary, limit them to subtle afterimages or blurs. Priority is given to making what the symbols inside are doing immediately clear. Rules for Worldview/Presentation: Sign bodies, traffic light bodies, cityscapes, roads, utility poles, buildings, and people exist realistically. Primarily, the designs, pictograms, numbers, arrows, and symbols inside the signs and signals move. They should basically move within the sign's frame, but in some cuts, they can slightly protrude, almost jump out, lean out, or play by returning inside the frame. Movements are comical and cute but not too childish. Maintain an exquisite reality where one might think 'this could really be happening.' Do not rely on effects. Interest should come from the 'acting of the symbols themselves'—running, dancing, jumping, multiplying, lining up, yielding, rushing, being puzzled, looking back, stretching, shrinking, turning. Feature many signs, signals, and guide displays in the urban space, and show different movements happening in various parts of the screen to give the feeling that the entire city is secretly alive. Video Flow: Based on the storyboard panel order, follow this flow: 0-2s: A beautiful establishing shot of a city intersection or road. Could be evening/magic hour or a clear morning/afternoon. A person is walking away or looking at the intersection. It looks like an ordinary street at first, but upon closer look, the green pedestrian figure in the signal is not walking normally but stepping happily. An introduction to make the audience think, 'Wait, did it just move?' 2-5s: Quick close-ups of signals and signs. The green signal figure walks -> runs -> jumps lightly -> more companions appear and move in line. Red signal figure stands tall -> hands on hips -> dances -> waves arms. Countdown numbers don't just decrease but shake, jump, and lean forward as if in a hurry. Arrow signs deform their tips or lines to show the direction of travel. Each movement must be large and clearly visible at a glance. 5-8s: Increase the variety of signs and show the bustle of the whole city. In a wide pedestrian signal, multiple figures march, overtake, and form ranks. Bicycle marks move as if pedaling. Round signs for 'No Entry' or 'Road Closed' have their white bands or internal symbols showing a grumpy face or shifting slightly. Signs for construction, caution, or school zones feature people or silhouettes looking panicked, running, or having a short conversation. Arrows on electronic boards flow continuously, connecting like waves. Emphasize the density here—'many signs are present, with different movements happening everywhere.' 8-12s: Section with more dynamic movement. The green signal figure runs to the edge of the sign frame, leans slightly out, then returns. The red figure dances while signaling 'Wait, wait!' Arrow marks compete for direction, then spin and line up. Countdown displays shrink or bounce according to the remaining seconds. Signs in the distance, overhead boards, etc., all move simultaneously. This part raises tension through 'acting and editing' rather than effects. 12-15s: Final wide shot showing many signs throughout the city alive at once. Mid-to-wide angle of the intersection. Numerous signals, arrow signs, guide boards, caution signs, and bicycle signs exist in the frame, with their symbols moving freely. However, the city atmosphere itself is beautiful, cinematic, and leaves a quiet resonance. Finally, pedestrians walk away without noticing, leaving an impression of a small celebration continuing only within the signs. Style: Ultra-high quality photorealistic cinematic; beautiful live-action film style; atmospheric use of natural light; cinematic lens feel; texture of real urban space; detailed reproduction of city signs, signals, and guide boards. Cute but not too childish, maintaining cinematic quality. Camera: Start with a wide intro shot, followed by close-ups of signs, mid-range shots, and deep cityscapes. Use light dolly, pan, tilt, forward movement, and lateral movement to avoid a static slideshow. Zoom in enough to see the movements inside the signs. Ideally, the final shot should be a slightly high or wide-angle view of the urban space with many signs. Editing: Tempo is brisk within 15 seconds, but ensure movements are clear. Maintain length for each cut to convey 'what is playing and how.' Rhythmic but maintains high-quality film montage style, not excessive flashy MV editing. Movement Direction (Most Important): Symbols, people, numbers, and arrows inside signs should act freely as follows: walking, running, skipping, jumping, lining up, increasing, decreasing, dancing, waving, panicking, getting angry, standing proudly, overtaking, protruding slightly from the frame and returning, responding to symbols in other signs, splitting into multiple bodies within the same sign, numbers bouncing/leaning/hurrying/shrinking/stretching, arrows undulating/curving/asserting direction, bicycle marks pedaling, caution sign figures running/stopping/looking back. All movements should be unified by showing the 'symbols inside are alive,' not the 'sign itself talking.' Color/Light: Can be morning, day, evening, or night, but prioritize beautiful natural light or cinematic urban lighting. Elegant contrast and realistic colors. Green/red signals and blue/yellow/red signs should be vivid but avoid looking too CG-like. Prohibited: No flashy VFX; do not hide behind magical light, particles, explosions, or excessive glow. Signs as a whole are not allowed to be personified or walk around. No large-scale floating signs or city-wide fantasy transformations. No simple slideshows. No text, subtitles, logos, or watermarks. Do not lean too far into children's animation; maintain live-action film-level beauty.
+Imagem 1 = Referência de storyboard. Com base na imagem de storyboard em anexo {{Image 1}}, crie um vídeo fotorrealista de alta qualidade com 15 segundos de duração e proporção 16:9 (paisagem). Tema: 'Um mundo onde os símbolos dentro das placas e sinais de trânsito em uma cidade real brincam livremente quando ninguém está olhando.' Conceito Básico: O cenário é um cruzamento urbano e espaço viário altamente realistas. O visual geral é de uma cena de filme fotorrealista, bela, cinematográfica e atmosférica. No entanto, o elemento surreal é que apenas os 'símbolos, pessoas, números, setas, marcas de bicicleta, etc.' desenhados dentro das placas, semáforos e sinalizações de solo se movem livre e alegremente, de forma dinâmica, como se estivessem vivos. O segredo é não adicionar efeitos visuais (VFX) chamativos ao redor deles. O foco de interesse é o movimento das marcações dentro das próprias placas. Minimize rastros de luz, partículas, auras ou efeitos mágicos; se necessário, limite-os a pós-imagens ou desfoques sutis. A prioridade é tornar imediatamente claro o que os símbolos internos estão fazendo. Regras para a Visão de Mundo/Apresentação: Os corpos das placas, semáforos, paisagens urbanas, estradas, postes e pessoas existem de forma realista. Primordialmente, os designs, pictogramas, números, setas e símbolos dentro das placas e sinais se movem. Eles devem, basicamente, mover-se dentro da moldura da placa, mas em alguns cortes, podem sobressair levemente, quase saltar para fora, inclinar-se ou brincar retornando para dentro da moldura. Os movimentos são cômicos e fofos, mas não infantis demais. Mantenha uma realidade requintada onde alguém poderia pensar: 'isso poderia realmente estar acontecendo'. Não dependa de efeitos. O interesse deve vir da 'atuação dos próprios símbolos' — correndo, dançando, pulando, multiplicando-se, alinhando-se, cedendo passagem, apressando-se, ficando confusos, olhando para trás, alongando-se, encolhendo-se, girando. Apresente muitas placas, sinais e displays de orientação no espaço urbano e mostre movimentos diferentes acontecendo em várias partes da tela para dar a sensação de que a cidade inteira está secretamente viva. Fluxo do Vídeo: Com base na ordem dos painéis do storyboard, siga este fluxo: 0-2s: Uma bela tomada de estabelecimento de um cruzamento ou estrada da cidade. Pode ser ao entardecer/hora mágica ou uma manhã/tarde clara. Uma pessoa está se afastando ou olhando para o cruzamento. Parece uma rua comum a princípio, mas ao olhar mais de perto, a figura verde do pedestre no semáforo não está andando normalmente, mas caminhando alegremente. Uma introdução para fazer o público pensar: 'Espere, ele acabou de se mover?'. 2-5s: Close-ups rápidos de sinais e placas. A figura do sinal verde caminha -> corre -> pula levemente -> mais companheiros aparecem e se movem em fila. A figura do sinal vermelho fica ereta -> mãos na cintura -> dança -> acena com os braços. Os números da contagem regressiva não apenas diminuem, mas tremem, saltam e inclinam-se para frente como se estivessem com pressa. As placas de seta deformam suas pontas ou linhas para mostrar a direção do percurso. Cada movimento deve ser grande e claramente visível à primeira vista. 5-8s: Aumente a variedade de placas e mostre o movimento de toda a cidade. Em um sinal de pedestres largo, várias figuras marcham, ultrapassam e formam fileiras. As marcas de bicicleta se movem como se estivessem pedalando. Placas redondas de 'Proibido o Trânsito' ou 'Via Fechada' têm suas faixas brancas ou símbolos internos exibindo um rosto rabugento ou movendo-se levemente. Placas de obras, atenção ou zonas escolares apresentam pessoas ou silhuetas parecendo em pânico, correndo ou tendo uma conversa curta. Setas em painéis eletrônicos fluem continuamente, conectando-se como ondas. Enfatize a densidade aqui — 'muitas placas estão presentes, com movimentos diferentes acontecendo em toda parte'. 8-12s: Seção com movimentos mais dinâmicos. A figura do sinal verde corre até a borda da moldura da placa, inclina-se levemente para fora e depois retorna. A figura vermelha dança enquanto sinaliza 'Espere, espere!'. As setas competem pela direção, depois giram e se alinham. Os displays de contagem regressiva encolhem ou saltam de acordo com os segundos restantes. Placas à distância, painéis suspensos, etc., todos se movem simultaneamente. Esta parte aumenta a tensão através da 'atuação e edição' em vez de efeitos. 12-15s: Tomada final ampla mostrando muitas placas por toda a cidade vivas ao mesmo tempo. Ângulo médio a aberto do cruzamento. Inúmeros sinais, placas de seta, painéis de orientação, placas de aviso e sinais de bicicleta estão no quadro, com seus símbolos movendo-se livremente. No entanto, a atmosfera da cidade em si é bela, cinematográfica e deixa uma ressonância silenciosa. Finalmente, os pedestres vão embora sem notar, deixando a impressão de uma pequena celebração que continua apenas dentro das placas. Estilo: Fotorrealista cinematográfico de altíssima qualidade; estilo de filme live-action belo; uso atmosférico de luz natural; sensação de lente cinematográfica; textura de espaço urbano real; reprodução detalhada de placas, sinais e painéis de orientação da cidade. Fofo, mas não infantil demais, mantendo a qualidade cinematográfica. Câmera: Comece com uma tomada de abertura ampla, seguida por close-ups de placas, tomadas de médio alcance e paisagens urbanas profundas. Use movimentos leves de dolly, pan, tilt, movimento para frente e movimento lateral para evitar um slideshow estático. Dê zoom o suficiente para ver os movimentos dentro das placas. Idealmente, a tomada final deve ser uma visão ligeiramente elevada ou de ângulo aberto do espaço urbano com muitas placas. Edição: O ritmo é rápido dentro de 15 segundos, mas garanta que os movimentos sejam claros. Mantenha a duração de cada corte para transmitir 'o que está brincando e como'. Rítmico, mas mantendo um estilo de montagem de filme de alta qualidade, sem edição de videoclipe excessivamente chamativa. Direção de Movimento (Mais Importante): Símbolos, pessoas, números e setas dentro das placas devem agir livremente da seguinte forma: andando, correndo, saltitando, pulando, alinhando-se, aumentando, diminuindo, dançando, acenando, entrando em pânico, ficando com raiva, ficando orgulhosos, ultrapassando, sobressaindo levemente da moldura e retornando, respondendo a símbolos em outras placas, dividindo-se em múltiplos corpos dentro da mesma placa, números saltando/inclinando-se/apressando-se/encolhendo-se/alongando-se, setas ondulando/curvando-se/afirmando a direção, marcas de bicicleta pedalando, figuras de placas de aviso correndo/parando/olhando para trás. Todos os movimentos devem ser unificados mostrando que 'os símbolos internos estão vivos', e não que 'a placa em si está falando'. Cor/Luz: Pode ser manhã, dia, tarde ou noite, mas priorize uma bela luz natural ou iluminação urbana cinematográfica. Contraste elegante e cores realistas. Sinais verdes/vermelhos e placas azuis/amarelas/vermelhas devem ser vívidos, mas evite parecer muito com computação gráfica (CG). Proibido: Sem VFX chamativos; não se esconda atrás de luz mágica, partículas, explosões ou brilho excessivo. As placas como um todo não podem ser personificadas ou andar por aí. Sem placas flutuantes em grande escala ou transformações de fantasia em toda a cidade. Sem slideshows simples. Sem texto, legendas, logotipos ou marcas d'água. Não se incline demais para a animação infantil; mantenha a beleza de nível de filme live-action.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0fb18a092bfb1c48259d81691eb3a15b/thumbnails/thumbnail.jpg" width="600" alt="Sentient Road Signs Urban Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0fb18a092bfb1c48259d81691eb3a15b/thumbnails/thumbnail.jpg" width="600" alt="Animação Urbana de Placas de Trânsito Sentientes">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6022)**
 
 **Autor:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **Fonte:** [Link](https://x.com/Ryuki_Yano/status/2065642863350919459) | **Publicado:** Jun 13, 2026
 
 ---
-### Hair Salon Transformation Ad Prompt
+### Prompt de Anúncio de Transformação em Salão de Beleza
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic beauty commercial prompt showing a realistic transformation from wavy to straight hair in a luxury salon setting.
+> Um prompt para comercial de beleza cinematográfico mostrando uma transformação realista de cabelo ondulado para liso em um ambiente de salão de luxo.
 
 #### 📝 Prompt
 
 ```
-Use the uploaded image as the exact character reference. Maintain the same face, eyes, skin tone, hair color, and identity throughout the entire video.
+Use a imagem enviada como referência exata da personagem. Mantenha o mesmo rosto, olhos, tom de pele, cor de cabelo e identidade durante todo o vídeo.
 
-15-second cinematic salon transformation video.
+Vídeo cinematográfico de transformação em salão com 15 segundos.
 
-Scene 1 (0-3s):
-Close-up of the beautiful young woman with long wavy dark brown hair. She looks at the camera and smiles softly. Luxury salon background, warm lighting, shallow depth of field. Slow camera push-in.
+Cena 1 (0-3s):
+Close-up da jovem bonita com cabelos longos, ondulados e castanhos escuros. Ela olha para a câmera e sorri suavemente. Fundo de salão de luxo, iluminação quente, profundidade de campo rasa. Câmera com movimento lento de aproximação (push-in).
 
-Scene 2 (3-8s):
-A professional hairstylist begins straightening her hair with a silver flat iron. Steam gently rises from the straightener. The camera follows the flat iron moving smoothly through the hair. Detailed hair strands transform from soft waves into sleek straight hair. Cinematic slow motion.
+Cena 2 (3-8s):
+Um cabeleireiro profissional começa a alisar o cabelo dela com uma prancha prateada. Vapor sobe suavemente do alisador. A câmera acompanha a prancha movendo-se suavemente pelo cabelo. Detalhes das mechas de cabelo se transformam de ondas suaves em um cabelo liso e elegante. Câmera lenta cinematográfica.
 
-Scene 3 (8-12s):
-Multiple beauty shots from different angles. The hair flows naturally as more sections become perfectly straight, silky, and glossy. Dramatic lighting reflections on the hair. Premium luxury salon atmosphere.
+Cena 3 (8-12s):
+Vários takes de beleza de diferentes ângulos. O cabelo flui naturalmente à medida que mais seções se tornam perfeitamente lisas, sedosas e brilhantes. Reflexos de iluminação dramática no cabelo. Atmosfera de salão de luxo premium.
 
-Scene 4 (12-15s):
-Final reveal. The woman stands in front of a large illuminated mirror, touching her ultra-smooth glass-like straight hair. She smiles confidently and admires the transformation. Hair shines beautifully under salon lights. Camera slowly rotates around her and ends with a stunning close-up.
+Cena 4 (12-15s):
+Revelação final. A mulher está em frente a um grande espelho iluminado, tocando seu cabelo ultra liso com efeito espelhado. Ela sorri com confiança e admira a transformação. O cabelo brilha lindamente sob as luzes do salão. A câmera gira lentamente ao redor dela e termina com um close-up impressionante.
 
-Pixar-quality 3D animation, realistic hair physics, smooth motion, beauty commercial style, luxury salon, cinematic camera movement, ultra detailed, glossy hair reflections, professional advertisement quality, 9:16 vertical video, high realism, masterpiece, 8K.
+Animação 3D com qualidade Pixar, física de cabelo realista, movimento suave, estilo comercial de beleza, salão de luxo, movimento de câmera cinematográfico, ultra detalhado, reflexos de cabelo brilhantes, qualidade de anúncio profissional, vídeo vertical 9:16, alto realismo, obra-prima, 8K.
 
-Negative Prompt:
-low quality, blurry, face distortion, changing face, identity change, extra fingers, bad hands, flickering, duplicate person, deformed hair, ugly face, text, watermark, logo, cropped face, unstable animation.
+Prompt Negativo:
+baixa qualidade, embaçado, distorção facial, mudança de rosto, mudança de identidade, dedos extras, mãos ruins, cintilação, pessoa duplicada, cabelo deformado, rosto feio, texto, marca d'água, logotipo, rosto cortado, animação instável.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34f09081f1d813756cae1407f0f14bb1/thumbnails/thumbnail.jpg" width="600" alt="Hair Salon Transformation Ad Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34f09081f1d813756cae1407f0f14bb1/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Anúncio de Transformação em Salão de Beleza">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=6013)**
 
@@ -3629,6 +3628,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-14T11:14:50.281Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-14T14:21:27.198Z</sub>
 
 </div>

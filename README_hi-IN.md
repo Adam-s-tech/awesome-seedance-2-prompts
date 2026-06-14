@@ -380,275 +380,275 @@ Seedance 2.0 का उपयोग करके रात में सिन�
 **लेखक:** [あぁく](https://x.com/kik0ai1jikake) | **स्रोत:** [Link](https://x.com/kik0ai1jikake/status/2065972896510705775) | **प्रकाशित:** Jun 14, 2026
 
 ---
-### 80s Retro OVA Egyptian God Animation
+### 80 के दशक की रेट्रो OVA इजिप्शियन गॉड एनीमेशन
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A vintage 80s OVA style animation prompt featuring Egyptian gods Anubis and Sobek in a comedic strength competition within a royal palace.
+> 80 के दशक की विंटेज OVA शैली का एनीमेशन प्रॉम्प्ट, जिसमें एक शाही महल के भीतर मिस्र के देवताओं अनुबिस (Anubis) और सोबेक (Sobek) को एक मजाकिया शक्ति प्रतियोगिता में दिखाया गया है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Fine hand-drawn animation, 80s retro OVA style. Scene 1: Inside an Egyptian royal palace, the powerful jackal god Anubis and the powerful crocodile god Sobek stand side by side, together lifting a giant boulder. Their expressions are tense as they focus intensely on keeping the rock above their heads. A human pharaoh slowly walks before them, hands behind his back, observing who can hold the boulder longer. The Pharaoh says, "Only one of you can accompany me on my next mission—only the strongest." Anubis and Sobek are one meter apart, with the pharaoh standing in front. Scene 2: Sobek suddenly has a spark of inspiration, a cunning smile appearing on his face. He tilts his head slightly toward Anubis with a sly grin, his tail tip reaching toward Anubis's armpit. Anubis remains looking forward, ignoring everything around him, focused only on holding up the boulder. Scene 3: A close-up shows Sobek's tail tip gently and smoothly brushing against Anubis's armpit. Anubis's suppressed laughter is heard in the background, indicating he is very ticklish. Scene 4: A close-up shows Anubis's upper body as Sobek's tail tip continues to tickle his armpit. Anubis has his eyes closed, grinning and letting out suppressed laughter while trying his best to keep the boulder up. Scene 5: Sobek's tail continues to tickle Anubis's armpit; Anubis closes his eyes and laughs out loud. The tickling continues, Anubis bursts into laughter, drops the boulder behind him, and hugs himself as the sensation stops. Anubis falls to the ground, still clutching his stomach from laughter. Sobek still holds the boulder above his head, looking on with satisfaction. Scene 6: The Pharaoh nods to Sobek and says, "It seems you are the one." Anubis is still lying on the ground giggling. Both Sobek and Anubis are muscular and wear armbands. Anubis also wears a neck collar. Their voices are deep and powerful. Audio is in English.
+बेहतरीन हाथ से बनाया गया एनीमेशन, 80 के दशक की रेट्रो OVA शैली। दृश्य 1: मिस्र के एक शाही महल के अंदर, शक्तिशाली सियार देवता अनुबिस और शक्तिशाली मगरमच्छ देवता सोबेक कंधे से कंधा मिलाकर खड़े हैं और एक साथ मिलकर एक विशाल चट्टान उठा रहे हैं। उनके चेहरे के भाव तनावपूर्ण हैं क्योंकि वे चट्टान को अपने सिर के ऊपर बनाए रखने पर पूरा ध्यान केंद्रित कर रहे हैं। एक मानव फिरौन धीरे-धीरे उनके सामने चलता है, हाथ पीछे बांधे हुए, यह देख रहा है कि कौन चट्टान को अधिक समय तक पकड़ सकता है। फिरौन कहता है, "तुम दोनों में से केवल एक ही मेरे अगले मिशन पर मेरे साथ चल सकता है—केवल सबसे शक्तिशाली।" अनुबिस और सोबेक एक मीटर की दूरी पर हैं, और फिरौन उनके सामने खड़ा है। दृश्य 2: सोबेक को अचानक एक विचार आता है, उसके चेहरे पर एक चालाक मुस्कान आ जाती है। वह अपनी गर्दन को थोड़ा अनुबिस की ओर झुकाता है और एक धूर्त मुस्कान के साथ, उसकी पूंछ का सिरा अनुबिस की बगल की ओर बढ़ता है। अनुबिस सामने की ओर देखता रहता है, अपने आस-पास की हर चीज़ को नज़रअंदाज़ करते हुए, केवल चट्टान को ऊपर उठाने पर ध्यान केंद्रित करता है। दृश्य 3: एक क्लोज़-अप में सोबेक की पूंछ का सिरा धीरे से और सहजता से अनुबिस की बगल को छूता हुआ दिखाई देता है। बैकग्राउंड में अनुबिस की दबी हुई हंसी सुनाई देती है, जो यह दर्शाता है कि उसे बहुत गुदगुदी होती है। दृश्य 4: एक क्लोज़-अप में अनुबिस का ऊपरी शरीर दिखाई देता है क्योंकि सोबेक की पूंछ का सिरा उसकी बगल में गुदगुदी करना जारी रखता है। अनुबिस ने अपनी आँखें बंद कर रखी हैं, वह मुस्कुरा रहा है और चट्टान को ऊपर रखने की पूरी कोशिश करते हुए दबी हुई हंसी छोड़ रहा है। दृश्य 5: सोबेक की पूंछ अनुबिस की बगल में गुदगुदी करना जारी रखती है; अनुबिस अपनी आँखें बंद कर लेता है और जोर से हंसने लगता है। गुदगुदी जारी रहती है, अनुबिस खिलखिलाकर हंस पड़ता है, चट्टान को अपने पीछे गिरा देता है, और जैसे ही संवेदना रुकती है, वह खुद को गले लगा लेता है। अनुबिस हंसी के मारे अपना पेट पकड़े हुए जमीन पर गिर जाता है। सोबेक अभी भी चट्टान को अपने सिर के ऊपर पकड़े हुए है और संतुष्टि के साथ देख रहा है। दृश्य 6: फिरौन सोबेक की ओर सिर हिलाता है और कहता है, "ऐसा लगता है कि तुम ही वह व्यक्ति हो।" अनुबिस अभी भी जमीन पर लेटा हुआ खिलखिला रहा है। सोबेक और अनुबिस दोनों ही मस्कुलर हैं और उन्होंने आर्मबैंड पहने हुए हैं। अनुबिस ने गले में कॉलर भी पहना है। उनकी आवाजें गहरी और शक्तिशाली हैं। ऑडियो अंग्रेजी में है।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3fee9d08beb5cb3ab2ef3224d54bbcc/thumbnails/thumbnail.jpg" width="600" alt="80s Retro OVA Egyptian God Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3fee9d08beb5cb3ab2ef3224d54bbcc/thumbnails/thumbnail.jpg" width="600" alt="80 के दशक की रेट्रो OVA इजिप्शियन गॉड एनीमेशन">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6011)**
 
 **लेखक:** [migrok](https://x.com/migrok293703) | **स्रोत:** [Link](https://x.com/migrok293703/status/2065932892753326503) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### Senior Trot Dance Storyboard Video
+### सीनियर ट्रॉट डांस स्टोरीबोर्ड वीडियो
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video generation prompt for Seedance 2.0 that uses a 16-panel storyboard and character sheet to create a consistent 15-second animation of a cheerful senior woman dancing.
+> Seedance 2.0 के लिए एक विस्तृत वीडियो जनरेशन प्रॉम्प्ट, जो एक खुशमिजाज बुजुर्ग महिला के नृत्य का 15-सेकंड का निरंतर एनीमेशन बनाने के लिए 16-पैनल स्टोरीबोर्ड और कैरेक्टर शीट का उपयोग करता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Generate a cheerful 15-second senior trot dance video based on the 16-panel storyboard and the character sheet. Keep the same joyful 70-year-old Korean grandmother, with the same short softly curled gray hair, warm smile, natural wrinkles, body proportions, outfit, shoes, and accessories throughout the whole video. She wears a loose beige linen midi dress with abstract black, navy, olive green, and small red brush-print patterns, short sleeves, relaxed A-line silhouette, long pendant necklace, simple bracelet, light socks and comfortable brown flat shoes. Scene: minimal bright indoor studio, warm beige wall, clean floor, soft natural light, small plant on a white side table in the background. Follow the storyboard in order and keep the choreography dynamic but senior-friendly: power opening, walk-in step, side sway, upward point, low trot bounce, half-turn shoulder pose, big arm sweep, gentle spin, small front kick, lean-back wave, tiny jump accent, low bounce pose, confident fist pose, big open celebration, high-leg accent, ending finger-heart pose. The motion should feel cheerful, rhythmic, easy trot dance, 4/4 rhythm, around 105 BPM, bright grandmother energy — not random shaking, not repeated posing, not acrobatic, not too fast.
+16-पैनल स्टोरीबोर्ड और कैरेक्टर शीट के आधार पर 15-सेकंड का एक खुशमिजाज सीनियर ट्रॉट डांस वीडियो तैयार करें। पूरे वीडियो के दौरान 70 वर्षीय कोरियाई दादी के उसी आनंदमय व्यक्तित्व, छोटे हल्के घुंघराले ग्रे बाल, गर्मजोशी भरी मुस्कान, प्राकृतिक झुर्रियों, शारीरिक अनुपात, पोशाक, जूते और एक्सेसरीज को बनाए रखें। उन्होंने एब्सट्रैक्ट काले, नेवी, जैतून हरे और छोटे लाल ब्रश-प्रिंट पैटर्न वाली एक ढीली बेज लिनन मिडी ड्रेस पहनी है, जिसमें छोटी आस्तीन, रिलैक्स्ड ए-लाइन सिल्हूट, लंबा पेंडेंट नेकलेस, साधारण ब्रेसलेट, हल्के मोज़े और आरामदायक भूरे फ्लैट जूते हैं। दृश्य: न्यूनतम ब्राइट इंडोर स्टूडियो, गर्म बेज दीवार, साफ फर्श, हल्की प्राकृतिक रोशनी, बैकग्राउंड में सफेद साइड टेबल पर एक छोटा पौधा। स्टोरीबोर्ड का क्रमवार पालन करें और कोरियोग्राफी को गतिशील लेकिन बुजुर्गों के अनुकूल रखें: पावर ओपनिंग, वॉक-इन स्टेप, साइड स्वे, ऊपर की ओर इशारा, लो ट्रॉट बाउंस, हाफ-टर्न शोल्डर पोज़, बिग आर्म स्वीप, जेंटल स्पिन, स्मॉल फ्रंट किक, लीन-बैक वेव, टाइनी जंप एक्सेंट, लो बाउंस पोज़, कॉन्फिडेंट फिस्ट पोज़, बिग ओपन सेलिब्रेशन, हाई-लेग एक्सेंट, और अंत में फिंगर-हार्ट पोज़। गति खुशमिजाज, लयबद्ध, आसान ट्रॉट डांस, 4/4 रिदम, लगभग 105 BPM और दादी की ऊर्जा से भरपूर होनी चाहिए — न कि रैंडम शेकिंग, न ही बार-बार एक ही पोज़, न ही कलाबाजी, और न ही बहुत तेज़।
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781422607822_dzasc7_HKuobjVa0AAgZnn.jpg" width="600" alt="Senior Trot Dance Storyboard Video">
+<img src="https://cms-assets.youmind.com/media/1781422607822_dzasc7_HKuobjVa0AAgZnn.jpg" width="600" alt="सीनियर ट्रॉट डांस स्टोरीबोर्ड वीडियो">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6025)**
 
 **लेखक:** [노드 팔라딘 | Node Paladin](https://x.com/NodePaladin) | **स्रोत:** [Link](https://x.com/NodePaladin/status/2065930257023259121) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### Alien Ice Canyon Escape
+### एलियन आइस कैन्यन एस्केप
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A shot-by-shot action prompt for a high-speed traversal through a collapsing alien ice canyon, focusing on survival and cinematic tension.
+> एक ढहती हुई एलियन बर्फीली घाटी से होकर हाई-स्पीड यात्रा के लिए शॉट-दर-शॉट एक्शन प्रॉम्प्ट, जो उत्तरजीविता और सिनेमाई तनाव पर केंद्रित है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Alien ice canyon: a high-speed traversal turns into survival as the environment begins collapsing around the path.  
-Wide aerial: narrow canyon, ship flying fast between towering ice walls. 
-First crack: subtle fracture spreading along one side. 
-Break: massive ice slab detaches, crashing into the path ahead. 
-Aggressive dive: pilot drops lower, skimming the ground to avoid falling debris. 
-Chain collapse: both sides start breaking, canyon narrowing in real time. 
-Close call: ice spikes crashing inches behind the ship. 
-Blind turn: path curves sharply, visibility blocked by falling snow and debris. 
-Near-impact: ship clips ice, destabilizing trajectory.
-Recovery: rapid correction, barely regaining control. 
-Final escape: ship bursts out as canyon seals behind it.  
-Fast, grounded, extremely readable danger.
+एलियन आइस कैन्यन: एक हाई-स्पीड यात्रा उत्तरजीविता में बदल जाती है क्योंकि रास्ता चारों ओर से ढहने लगता है।
+वाइड एरियल: संकरी घाटी, जहाज ऊंची बर्फीली दीवारों के बीच तेजी से उड़ रहा है।
+पहली दरार: एक तरफ फैलती हुई सूक्ष्म दरार।
+ब्रेक: बर्फ का एक विशाल टुकड़ा अलग होकर सामने के रास्ते पर गिरता है।
+आक्रामक डाइव: पायलट नीचे की ओर झुकता है, गिरते मलबे से बचने के लिए जमीन के करीब से उड़ता है।
+चेन कोलैप्स: दोनों तरफ से टूटना शुरू होता है, घाटी वास्तविक समय में संकरी होती जा रही है।
+क्लोज कॉल: बर्फ के नुकीले टुकड़े जहाज के ठीक पीछे गिर रहे हैं।
+ब्लाइंड टर्न: रास्ता तेजी से मुड़ता है, गिरती बर्फ और मलबे के कारण दृश्यता बाधित है।
+नियर-इम्पैक्ट: जहाज बर्फ से टकराता है, जिससे प्रक्षेपवक्र अस्थिर हो जाता है।
+रिकवरी: तेजी से सुधार, बमुश्किल नियंत्रण वापस पाना।
+अंतिम एस्केप: जहाज बाहर निकलता है और पीछे से घाटी बंद हो जाती है।
+तेज, जमीनी, अत्यधिक स्पष्ट खतरा।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e91a276c19c4ef85e9ae0dcdfc76a95e/thumbnails/thumbnail.jpg" width="600" alt="Alien Ice Canyon Escape">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e91a276c19c4ef85e9ae0dcdfc76a95e/thumbnails/thumbnail.jpg" width="600" alt="एलियन आइस कैन्यन एस्केप">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6015)**
 
 **लेखक:** [Alexandra Aisling](https://x.com/AllaAisling) | **स्रोत:** [Link](https://x.com/AllaAisling/status/2065929257482596375) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### Stop-Motion Character Turntable Showcase
+### स्टॉप-मोशन कैरेक्टर टर्नटेबल शोकेस
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed 5-second video prompt for a professional 360-degree character turnaround in a handcrafted stop-motion aesthetic with seamless looping.
+> हस्तनिर्मित स्टॉप-मोशन सौंदर्य और सीमलेस लूपिंग के साथ पेशेवर 360-डिग्री कैरेक्टर टर्नअराउंड के लिए एक अत्यधिक विस्तृत 5-सेकंड का वीडियो प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-REFERENCE ASSET:
-Character reference image = uploaded character sheet
+रेफरेंस एसेट:
+कैरेक्टर रेफरेंस इमेज = अपलोड की गई कैरेक्टर शीट
 
-STYLE:
-Premium handcrafted stop-motion-inspired feature film aesthetic. Tactile miniature realism. Detailed fabric, skin, hair and clothing textures. Animation strictly on 2's (movement updates every 2 frames). Strong pose-to-pose animation. Deliberate handcrafted motion cadence. Professional character turnaround presentation. Clean studio showcase.
+स्टाइल:
+प्रीमियम हस्तनिर्मित स्टॉप-मोशन से प्रेरित फीचर फिल्म एस्थेटिक। स्पर्शनीय मिनिएचर यथार्थवाद। विस्तृत फैब्रिक, त्वचा, बाल और कपड़ों की बनावट। एनीमेशन सख्ती से 2's पर (हर 2 फ्रेम में मूवमेंट अपडेट)। मजबूत पोज़-टू-पोज़ एनीमेशन। जानबूझकर की गई हस्तनिर्मित मोशन कैडेंस। पेशेवर कैरेक्टर टर्नअराउंड प्रस्तुति। साफ-सुथरा स्टूडियो शोकेस।
 
-DURATION:
-5 seconds
+अवधि:
+5 सेकंड
 
-FORMAT:
-Portrait video.
+फॉर्मेट:
+पोर्ट्रेट वीडियो।
 
-Single character only.
+केवल एक कैरेक्टर।
 
-Pure white seamless background.
+प्योर व्हाइट सीमलेस बैकग्राउंड।
 
-No shadows beyond a subtle studio grounding shadow beneath the feet.
+पैरों के नीचे एक सूक्ष्म स्टूडियो ग्राउंडिंग शैडो के अलावा कोई छाया नहीं।
 
-No props.
+कोई प्रॉप्स नहीं।
 
-No environment.
+कोई वातावरण नहीं।
 
-No text.
+कोई टेक्स्ट नहीं।
 
-No camera movement.
+कोई कैमरा मूवमेंट नहीं।
 
-LOOPING:
-Perfect seamless loop.
+लूपिंग:
+परफेक्ट सीमलेस लूप।
 
-The final frame must match the first frame exactly.
+अंतिम फ्रेम पहले फ्रेम से बिल्कुल मेल खाना चाहिए।
 
-The rotation completes one full 360-degree turn and returns precisely to the starting pose.
+रोटेशन एक पूरा 360-डिग्री चक्कर पूरा करता है और सटीक रूप से शुरुआती पोज़ पर वापस आता है।
 
-CAMERA:
-Static camera.
+कैमरा:
+स्टेटिक कैमरा।
 
-Full body framing.
+फुल बॉडी फ्रेमिंग।
 
-Character centred in frame.
+कैरेक्टर फ्रेम के केंद्र में।
 
-50mm lens.
+50mm लेंस।
 
-Orthographic-style presentation feel.
+ऑर्थोग्राफिक-स्टाइल प्रेजेंटेशन फील।
 
-Professional character showcase.
+पेशेवर कैरेक्टर शोकेस।
 
-COMPOSITION:
-The character fills most of the frame vertically.
+कंपोजिशन:
+कैरेक्टर लंबवत रूप से फ्रेम के अधिकांश हिस्से को भरता है।
 
-Entire body visible throughout.
+पूरा शरीर हर समय दिखाई देता है।
 
-Feet remain visible at all times.
+पैर हर समय दिखाई देते हैं।
 
-Character remains perfectly centred.
+कैरेक्टर पूरी तरह से केंद्र में रहता है।
 
-White studio background remains completely clean and uncluttered.
+सफेद स्टूडियो बैकग्राउंड पूरी तरह से साफ और अव्यवस्था मुक्त रहता है।
 
-ACTION:
+एक्शन:
 00:00 - 00:05
 
-The character performs one complete slow 360-degree turntable rotation.
+कैरेक्टर एक पूरा धीमा 360-डिग्री टर्नटेबल रोटेशन करता है।
 
-Rotation speed is constant and smooth.
+रोटेशन की गति स्थिर और सुचारू है।
 
-The character rotates clockwise.
+कैरेक्टर घड़ी की दिशा (क्लॉकवाइज) में घूमता है।
 
-The rotation completes exactly one full revolution over the duration of the shot.
+रोटेशन शॉट की अवधि के दौरान बिल्कुल एक पूरा चक्कर पूरा करता है।
 
-The character remains standing naturally throughout.
+कैरेक्टर पूरी प्रक्रिया के दौरान स्वाभाविक रूप से खड़ा रहता है।
 
-Subtle idle animation only:
+केवल सूक्ष्म आइडल एनीमेशन:
 
-Natural blinking.
+स्वाभाविक पलकें झपकना।
 
-Tiny eye movements.
+आंखों की छोटी हलचल।
 
-Very slight breathing.
+बहुत हल्की सांस लेना।
 
-Subtle chest movement.
+सूक्ष्म छाती की हलचल।
 
-Tiny finger adjustments.
+उंगलियों में छोटा समायोजन।
 
-Small shifts in hand tension.
+हाथों के तनाव में छोटा बदलाव।
 
-Very subtle weight shifts.
+बहुत सूक्ष्म वजन का स्थानांतरण।
 
-Occasional tiny eyebrow movement.
+कभी-कभार भौंहों की छोटी हलचल।
 
-Slight natural head settling.
+सिर का हल्का स्वाभाविक झुकाव।
 
-No exaggerated acting.
+कोई अतिरंजित अभिनय नहीं।
 
-No walking.
+कोई चलना नहीं।
 
-No posing changes.
+पोज़ में कोई बदलाव नहीं।
 
-No large gestures.
+कोई बड़े हाव-भाव नहीं।
 
-The character should feel alive while remaining suitable for a professional character turnaround.
+कैरेक्टर को पेशेवर कैरेक्टर टर्नअराउंड के लिए उपयुक्त रहते हुए जीवंत महसूस होना चाहिए।
 
-HAIR:
-Hair maintains volume and shape throughout rotation.
+बाल:
+बाल रोटेशन के दौरान अपना वॉल्यूम और आकार बनाए रखते हैं।
 
-Very subtle movement only.
+केवल बहुत सूक्ष्म हलचल।
 
-No dramatic wind effects.
+हवा का कोई नाटकीय प्रभाव नहीं।
 
-CLOTHING:
-Clothing remains consistent and accurate to the reference.
+कपड़े:
+कपड़े सुसंगत और रेफरेंस के अनुसार सटीक रहते हैं।
 
-Subtle fabric settling.
+कपड़े का सूक्ष्म सेटलमेंट।
 
-No excessive secondary motion.
+कोई अत्यधिक सेकेंडरी मोशन नहीं।
 
-LIGHTING:
-Clean professional studio lighting.
+लाइटिंग:
+साफ पेशेवर स्टूडियो लाइटिंग।
 
-Soft three-point lighting setup.
+सॉफ्ट थ्री-पॉइंट लाइटिंग सेटअप।
 
-Even illumination.
+समान रोशनी।
 
-No harsh shadows.
+कोई कठोर छाया नहीं।
 
-Clear visibility from every angle.
+हर कोण से स्पष्ट दृश्यता।
 
-Consistent lighting throughout the rotation.
+रोटेशन के दौरान निरंतर लाइटिंग।
 
-ANIMATION:
-Animation strictly on 2's.
+एनीमेशन:
+एनीमेशन सख्ती से 2's पर।
 
-Premium handcrafted stop-motion-inspired motion.
+प्रीमियम हस्तनिर्मित स्टॉप-मोशन से प्रेरित मोशन।
 
-Strong readable silhouettes.
+मजबूत पठनीय सिल्हूट।
 
-Professional character presentation quality.
+पेशेवर कैरेक्टर प्रेजेंटेशन क्वालिटी।
 
-FINAL FRAME:
-Character has completed exactly one full 360-degree rotation.
+अंतिम फ्रेम:
+कैरेक्टर ने बिल्कुल एक पूरा 360-डिग्री रोटेशन पूरा कर लिया है।
 
-Returns perfectly to the original front-facing posit
+पूरी तरह से मूल फ्रंट-फेसिंग पोज़ पर वापस आ गया है।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae0d52fbbd328df3941dc3b274327075/thumbnails/thumbnail.jpg" width="600" alt="Stop-Motion Character Turntable Showcase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae0d52fbbd328df3941dc3b274327075/thumbnails/thumbnail.jpg" width="600" alt="स्टॉप-मोशन कैरेक्टर टर्नटेबल शोकेस">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6003)**
 
 **लेखक:** [Soul Motion labs](https://x.com/Soulmotionlabs) | **स्रोत:** [Link](https://x.com/Soulmotionlabs/status/2065896420658528468) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### Volcano Temple Escape Action
+### ज्वालामुखी मंदिर से रोमांचक पलायन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intense 15-second cinematic action sequence inside a collapsing volcanic temple with lava rivers and crumbling bridges.
+> लावा की नदियों और ढहते पुलों वाले एक ढहते हुए ज्वालामुखी मंदिर के भीतर 15 सेकंड का एक तीव्र सिनेमाई एक्शन दृश्य।
 
 #### 📝 प्रॉम्पट
 
 ```
-Hyper-realistic cinematic action sequence, 15 seconds, aspect ratio 16:9. 
+अति-यथार्थवादी सिनेमाई एक्शन दृश्य, 15 सेकंड, आस्पेक्ट रेशियो 16:9।
 
-Inside an ancient temple built deep within an active volcano, glowing lava lights the stone corridors with fiery orange and red reflections. The temple is filled with massive carved pillars, narrow bridges, falling embers, smoke, heat shimmer, and collapsing stone sections. A lone explorer in rugged adventure gear carries a glowing artifact and races through the temple as the environment becomes unstable.  
+एक सक्रिय ज्वालामुखी के भीतर गहराई में बने एक प्राचीन मंदिर के अंदर, चमकता हुआ लावा पत्थर के गलियारों को नारंगी और लाल रंग की अग्नि-प्रतिबिंबों से रोशन करता है। मंदिर विशाल नक्काशीदार स्तंभों, संकीर्ण पुलों, गिरते हुए अंगारों, धुएं, गर्मी की लहरों और ढहते हुए पत्थर के हिस्सों से भरा हुआ है। ऊबड़-खाबड़ साहसिक गियर में एक अकेला खोजकर्ता एक चमकती हुई कलाकृति लिए हुए है और मंदिर के भीतर दौड़ रहा है क्योंकि वातावरण अस्थिर हो रहा है।
 
-Camera angle 1: wide cinematic opening shot, the explorer runs through a vast volcanic temple chamber with towering stone statues and rivers of lava below. The glowing artifact lights his hands and chest while the ground shakes and cracks begin spreading across the floor.  
+कैमरा एंगल 1: वाइड सिनेमाई ओपनिंग शॉट, खोजकर्ता विशाल पत्थर की मूर्तियों और नीचे लावा की नदियों वाले एक विशाल ज्वालामुखी मंदिर कक्ष से होकर दौड़ता है। चमकती हुई कलाकृति उसके हाथों और छाती को रोशन करती है जबकि जमीन हिलती है और फर्श पर दरारें फैलने लगती हैं।
 
-Camera angle 2: dynamic tracking shot, the explorer sprints across a narrow stone bridge suspended above lava, while pieces of the bridge crumble behind him. Sparks, ash, and heat waves fill the air, and molten light reflects across the ancient carved walls.  
+कैमरा एंगल 2: डायनामिक ट्रैकिंग शॉट, खोजकर्ता लावा के ऊपर लटके एक संकीर्ण पत्थर के पुल पर दौड़ता है, जबकि पुल के टुकड़े उसके पीछे गिर रहे हैं। चिंगारियां, राख और गर्मी की लहरें हवा में भर जाती हैं, और पिघली हुई रोशनी प्राचीन नक्काशीदार दीवारों पर प्रतिबिंबित होती है।
 
-Camera angle 3: dramatic side shot, giant stone guardian figures begin to move in the background as the explorer races through a collapsing corridor. He ducks under falling debris, leaps over a broken section of floor, and keeps moving toward the exit.  Final action beat: the explorer reaches the temple opening just as lava surges through the chamber behind him. 
-He jumps across one final collapsing gap and lands near the exit while firelight and smoke burst outward from the temple interior.  Final moment: the explorer emerges onto a rocky ledge outside the volcano, holding the glowing artifact, while smoke, embers, and fiery light pour from the temple entrance behind him. 
+कैमरा एंगल 3: नाटकीय साइड शॉट, विशाल पत्थर के संरक्षक आंकड़े पृष्ठभूमि में हिलने लगते हैं क्योंकि खोजकर्ता एक ढहते हुए गलियारे से होकर दौड़ता है। वह गिरते हुए मलबे के नीचे झुकता है, फर्श के एक टूटे हुए हिस्से के ऊपर से छलांग लगाता है, और निकास की ओर बढ़ना जारी रखता है। अंतिम एक्शन बीट: खोजकर्ता मंदिर के प्रवेश द्वार तक पहुँचता है, ठीक उसी समय जब उसके पीछे कक्ष में लावा उमड़ पड़ता है।
+वह एक अंतिम ढहते हुए अंतराल को पार करता है और निकास के पास उतरता है, जबकि मंदिर के अंदर से आग की रोशनी और धुआं बाहर निकलता है। अंतिम क्षण: खोजकर्ता ज्वालामुखी के बाहर एक चट्टानी किनारे पर निकलता है, चमकती हुई कलाकृति को पकड़े हुए, जबकि उसके पीछे मंदिर के प्रवेश द्वार से धुआं, अंगारे और आग की रोशनी निकल रही है।
 
-Style: hyper-realistic, cinematic, intense and fast-paced, ancient temple atmosphere, volcanic lighting, lava glow, smoke, embers, collapsing stone, dramatic scale, strong sense of danger and motion, fast but readable camera movement, high detail, no text, no logos, no cartoon style, no slow motion.
+शैली: अति-यथार्थवादी, सिनेमाई, तीव्र और तेज गति, प्राचीन मंदिर का वातावरण, ज्वालामुखी की रोशनी, लावा की चमक, धुआं, अंगारे, ढहता हुआ पत्थर, नाटकीय पैमाना, खतरे और गति की मजबूत भावना, तेज लेकिन स्पष्ट कैमरा मूवमेंट, उच्च विवरण, कोई टेक्स्ट नहीं, कोई लोगो नहीं, कोई कार्टून शैली नहीं, कोई स्लो मोशन नहीं।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5766468e1477526a7849c8c747ac929/thumbnails/thumbnail.jpg" width="600" alt="Volcano Temple Escape Action">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5766468e1477526a7849c8c747ac929/thumbnails/thumbnail.jpg" width="600" alt="ज्वालामुखी मंदिर से रोमांचक पलायन">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6008)**
 
 **लेखक:** [DeCat](https://x.com/DeCat2025) | **स्रोत:** [Link](https://x.com/DeCat2025/status/2065878253022196061) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### Alien Street Duel POV
+### एलियन स्ट्रीट ड्यूल POV
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A first-person smartphone-style cinematic prompt capturing a street theater martial arts duel between two alien warlords with cosmic energy blasts.
+> एक फर्स्ट-पर्सन स्मार्टफोन-शैली का सिनेमैटिक प्रॉम्प्ट, जो दो एलियन सरदारों के बीच ब्रह्मांडीय ऊर्जा विस्फोटों के साथ सड़क पर हो रहे मार्शल आर्ट द्वंद्व को दर्शाता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-An ultra-cinematic, first-person smartphone video from within a crowd, capturing an intense outdoor street theater martial arts duel between two highly detailed alien warlords. The bulky alien lands a swift strike on the agile alien. Infuriated, the agile alien counters with a devastating, supersonic punch to the bulky alien's abdomen—shown in slow-motion with a visible kinetic shockwave that cracks the stage. The bulky alien recoils but recovers, channeling crackling blue and purple cosmic plasma energy from its clawed hands. With an earth-shaking roar, it unleashes a massive blast of supernatural energy forward. The surrounding crowd gasps, screams, and explodes into thunderous applause at the climax. Shaky handheld camera POV, extreme camera shakes on impact, cinematic sound design with bass drops and loud crowd reactions.
+भीड़ के बीच से लिया गया एक अल्ट्रा-सिनेमैटिक, फर्स्ट-पर्सन स्मार्टफोन वीडियो, जो दो अत्यधिक विस्तृत एलियन सरदारों के बीच सड़क पर हो रहे एक तीव्र मार्शल आर्ट द्वंद्व को कैद करता है। भारी-भरकम एलियन फुर्तीले एलियन पर एक तेज़ प्रहार करता है। क्रोधित होकर, फुर्तीला एलियन भारी-भरकम एलियन के पेट पर एक विनाशकारी, सुपरसोनिक पंच के साथ पलटवार करता है—जिसे स्लो-मोशन में दिखाया गया है, जिसमें एक दृश्य काइनेटिक शॉकवेव है जो मंच को तोड़ देती है। भारी-भरकम एलियन पीछे हटता है लेकिन संभल जाता है, और अपने पंजों वाले हाथों से नीली और बैंगनी रंग की ब्रह्मांडीय प्लाज्मा ऊर्जा को चैनल करता है। धरती को हिला देने वाली दहाड़ के साथ, वह आगे की ओर अलौकिक ऊर्जा का एक विशाल विस्फोट छोड़ता है। आसपास की भीड़ हांफती है, चिल्लाती है, और चरमोत्कर्ष पर जोरदार तालियों की गड़गड़ाहट के साथ प्रतिक्रिया देती है। शेकी हैंडहेल्ड कैमरा POV, प्रभाव पर अत्यधिक कैमरा शेक, बास ड्रॉप्स और भीड़ की तेज़ प्रतिक्रियाओं के साथ सिनेमैटिक साउंड डिज़ाइन।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78df2ac0c31527ecabd48d25b1688c59/thumbnails/thumbnail.jpg" width="600" alt="Alien Street Duel POV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78df2ac0c31527ecabd48d25b1688c59/thumbnails/thumbnail.jpg" width="600" alt="एलियन स्ट्रीट ड्यूल POV">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6016)**
 
@@ -702,370 +702,370 @@ An ultra-cinematic, first-person smartphone video from within a crowd, capturing
 **लेखक:** [LudovicCreator](https://x.com/LudovicCreator) | **स्रोत:** [Link](https://x.com/LudovicCreator/status/2065856750817837411) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### Cinematic Storyboard Animation
+### सिनेमैटिक स्टोरीबोर्ड एनीमेशन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Animates a storyboard grid into a smooth cinematic sequence featuring slow movement and atmospheric lighting effects.
+> एक स्टोरीबोर्ड ग्रिड को धीमी गति और वायुमंडलीय प्रकाश प्रभावों के साथ एक सहज सिनेमैटिक सीक्वेंस में एनिमेट करता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Animate the provided 3x4 storyboard into a smooth cinematic video. Preserve exact shot order and continuity. Use slow breath chest rise, tear catch macro, window rain light diffuse, and open palm
+दिए गए 3x4 स्टोरीबोर्ड को एक सहज सिनेमैटिक वीडियो में एनिमेट करें। शॉट के सटीक क्रम और निरंतरता को बनाए रखें। धीमी गति से छाती का उठना, आंसू पकड़ने का मैक्रो शॉट, खिड़की से आती बारिश की रोशनी का प्रसार, और खुली हथेली का उपयोग करें।
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781422595221_9uarvo_HKtIa3NbQAEAK5v.jpg" width="600" alt="Cinematic Storyboard Animation">
+<img src="https://cms-assets.youmind.com/media/1781422595221_9uarvo_HKtIa3NbQAEAK5v.jpg" width="600" alt="सिनेमैटिक स्टोरीबोर्ड एनीमेशन">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6019)**
 
 **लेखक:** [𝐌](https://x.com/Strength04_X) | **स्रोत:** [Link](https://x.com/Strength04_X/status/2065824987496456495) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### Cyberpunk Anime Kunoichi Rooftop Battle
+### साइबरपंक एनीमे कुनोइची रूफटॉप बैटल
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dynamic 3D anime action sequence featuring a cyberpunk kunoichi with glowing violet eyes engaging in high-speed rooftop combat against mercenaries.
+> एक डायनामिक 3D एनीमे एक्शन सीक्वेंस, जिसमें चमकती बैंगनी आँखों वाली एक साइबरपंक कुनोइची को भाड़े के सैनिकों के खिलाफ हाई-स्पीड रूफटॉप लड़ाई में दिखाया गया है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A cyberpunk 3D anime kunoichi with violet glowing eyes, black tactical kimono mixed with futuristic armor, long scarf trailing behind her, twin plasma daggers leaving purple energy trails
-Crouches on a rooftop in broad daylight haze, surrounded by armed mercenaries aiming rifles, camera starts in close-up on her eyes then slowly pulls back to reveal the trap; 
-She launches upward, wall-runs across billboards, teleports through smoke bursts, slices bullets mid-air, flips over enemies and strikes from blind spots, camera follows with FPV-style rooftop chase, violent whip pans, speed ramps and orbit shots around mid-air kills, purple sparks and glass shards suspended in slow motion; 
-She appears behind the final commander, daggers crossed, then every mercenary collapses simultaneously across the rooftop, camera circles her silhouette as burning drones fall behind into the city
+बैंगनी चमकती आँखों वाली एक साइबरपंक 3D एनीमे कुनोइची, भविष्य के कवच के साथ मिश्रित काला टैक्टिकल किमोनो, पीछे लहराता लंबा स्कार्फ, जुड़वां प्लाज्मा खंजर जो बैंगनी ऊर्जा की लकीरें छोड़ रहे हैं।
+दिन के उजाले की धुंध में एक छत पर बैठी है, चारों ओर राइफलें ताने हुए भाड़े के सैनिक हैं, कैमरा उसकी आँखों के क्लोज-अप से शुरू होता है और फिर धीरे-धीरे पीछे हटकर जाल का खुलासा करता है;
+वह ऊपर की ओर छलांग लगाती है, बिलबोर्ड्स पर दौड़ती है, धुएं के विस्फोटों के बीच टेलीपोर्ट करती है, हवा में गोलियों को काटती है, दुश्मनों के ऊपर पलटकर ब्लाइंड स्पॉट से हमला करती है, कैमरा FPV-स्टाइल रूफटॉप चेस, हिंसक व्हिप पैन, स्पीड रैंप और हवा में होने वाले किल्स के चारों ओर ऑर्बिट शॉट्स के साथ उसका पीछा करता है, बैंगनी चिंगारियां और कांच के टुकड़े स्लो मोशन में निलंबित हैं;
+वह अंतिम कमांडर के पीछे प्रकट होती है, खंजर क्रॉस किए हुए, फिर हर भाड़े का सैनिक छत पर एक साथ गिर जाता है, कैमरा उसकी आकृति के चारों ओर घूमता है जबकि जलते हुए ड्रोन पीछे शहर में गिर रहे हैं।
 
-Futuristic Tokyo skyline, daylight neon haze, broken holograms, rain puddles, purple VFX trails, stylish assassin choreography. Epic anime, anime render
+भविष्यवादी टोक्यो स्काईलाइन, दिन के उजाले में नियॉन धुंध, टूटे हुए होलोग्राम, बारिश के गड्ढे, बैंगनी VFX ट्रेल्स, स्टाइलिश हत्यारी कोरियोग्राफी। एपिक एनीमे, एनीमे रेंडर
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ded5bf92996b33aad140e97e76d061ae/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Anime Kunoichi Rooftop Battle">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ded5bf92996b33aad140e97e76d061ae/thumbnails/thumbnail.jpg" width="600" alt="साइबरपंक एनीमे कुनोइची रूफटॉप बैटल">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6002)**
 
 **लेखक:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **स्रोत:** [Link](https://x.com/CharaspowerAI/status/2065811465102065875) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### Tropical Beach Drone Shot
+### ट्रॉपिकल बीच का ड्रोन शॉट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic drone push-in shot of a tropical paradise beach with turquoise water, wooden boats, and dramatic limestone cliffs.
+> नीले-हरे पानी, लकड़ी की नावों और शानदार चूना पत्थर की चट्टानों वाले एक ट्रॉपिकल पैराडाइज बीच का सिनेमाई ड्रोन पुश-इन शॉट।
 
 #### 📝 प्रॉम्पट
 
 ```
-Ultra-realistic cinematic travel scene of a tropical paradise beach with crystal-clear turquoise water and soft golden sand. A traditional wooden long-tail boat gently floats near the shore, subtly rocking with natural wave motion. Massive limestone cliffs covered in lush green vegetation rise dramatically from the sea in the background. The sky is vibrant blue with long, wispy clouds slowly drifting across.
+क्रिस्टल-क्लियर नीले-हरे पानी और मुलायम सुनहरी रेत वाले एक ट्रॉपिकल पैराडाइज बीच का अल्ट्रा-रियलिस्टिक सिनेमाई ट्रैवल सीन। एक पारंपरिक लकड़ी की लंबी पूंछ वाली नाव किनारे के पास धीरे-धीरे तैर रही है, जो लहरों के साथ प्राकृतिक रूप से हिल रही है। पृष्ठभूमि में घनी हरी वनस्पतियों से ढकी विशाल चूना पत्थर की चट्टानें समुद्र से ऊपर उठती हुई दिखाई दे रही हैं। आसमान जीवंत नीला है और लंबी, पतली बादल धीरे-धीरे तैर रहे हैं।
 
-Camera starts with a slow drone push-in shot from above water level, slightly angled, moving toward the boat. Water surface shows realistic refraction, sunlight caustics dancing on the sandy seabed. Small ripples move naturally toward the shore, creating soft foam.
+कैमरा पानी के स्तर से ऊपर एक धीमे ड्रोन पुश-इन शॉट के साथ शुरू होता है, जो थोड़ा झुका हुआ है और नाव की ओर बढ़ रहा है। पानी की सतह पर यथार्थवादी अपवर्तन (refraction) दिखाई देता है, और रेतीले समुद्र तल पर सूरज की रोशनी की चमक नाच रही है। छोटी लहरें स्वाभाविक रूप से किनारे की ओर बढ़ती हैं, जिससे हल्का झाग बनता है।
 
-Add ambient motion details:
+एम्बिएंट मोशन विवरण जोड़ें:
 
-Gentle water movement with reflections and light shimmer
-Slight boat sway with rope tension reacting to waves
-Leaves on cliffs subtly moving in the breeze
-Light wind creating soft movement in water texture
-Occasional distant birds flying across sky
+प्रतिबिंब और हल्की चमक के साथ पानी की धीमी हलचल
+लहरों के साथ रस्सी के तनाव के कारण नाव का हल्का हिलना
+हवा में चट्टानों पर लगी पत्तियों की सूक्ष्म गति
+हल्की हवा जिससे पानी की बनावट में कोमल हलचल हो रही है
+आसमान में कभी-कभी उड़ते हुए दूर के पक्षी
 
-Lighting is bright natural daylight, cinematic HDR, with soft highlights and realistic shadows. Colors are vibrant but natural, not oversaturated.
+प्रकाश व्यवस्था उज्ज्वल प्राकृतिक दिन का उजाला है, सिनेमाई HDR, जिसमें सॉफ्ट हाइलाइट्स और यथार्थवादी छायाएं हैं। रंग जीवंत लेकिन प्राकृतिक हैं, बहुत अधिक संतृप्त (oversaturated) नहीं हैं।
 
-Include depth and realism:
+गहराई और यथार्थवाद शामिल करें:
 
-Atmospheric haze around distant cliffs
-Water transparency with visible sand beneath
-Natural lens behavior (slight bloom, subtle motion blur)
+दूर की चट्टानों के आसपास वायुमंडलीय धुंध
+नीचे दिखाई देने वाली रेत के साथ पानी की पारदर्शिता
+प्राकृतिक लेंस व्यवहार (हल्का ब्लूम, सूक्ष्म मोशन ब्लर)
 
-Camera settings:
+कैमरा सेटिंग्स:
 
-4K ultra-realistic
-24fps cinematic motion
-shallow depth of field (focus on boat, background slightly softened)
-smooth stabilized drone movement
+4K अल्ट्रा-रियलिस्टिक
+24fps सिनेमाई मोशन
+उथली डेप्थ ऑफ फील्ड (नाव पर फोकस, पृष्ठभूमि थोड़ी धुंधली)
+स्मूथ स्टेबलाइज्ड ड्रोन मूवमेंट
 
-Mood: peaceful, immersive, tropical luxury, calming yet visually stunning
+मूड: शांतिपूर्ण, इमर्सिव, ट्रॉपिकल लग्जरी, शांत लेकिन देखने में शानदार
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8860cbc7bfbd3a7291a4089e1fefe5cc/thumbnails/thumbnail.jpg" width="600" alt="Tropical Beach Drone Shot">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8860cbc7bfbd3a7291a4089e1fefe5cc/thumbnails/thumbnail.jpg" width="600" alt="ट्रॉपिकल बीच का ड्रोन शॉट">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6006)**
 
 **लेखक:** [Shahid Wani](https://x.com/meng_dagg695) | **स्रोत:** [Link](https://x.com/meng_dagg695/status/2065807711330328903) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### 80s OVA Skate Run Storyboard
+### 80s OVA स्केट रन स्टोरीबोर्ड
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An energetic 1980s Japanese OVA cel anime style prompt featuring a character's stylish skateboard run through a woodworking factory.
+> 1980 के दशक की जापानी OVA सेल एनीमे शैली का एक ऊर्जावान प्रॉम्प्ट, जिसमें एक लकड़ी के कारखाने (woodworking factory) के भीतर एक पात्र की स्टाइलिश स्केटबोर्डिंग दिखाई गई है।
 
 #### 📝 प्रॉम्पट
 
 ```
-16:9, 15-second 1980s OVA cel anime video, fast-paced stylish editing, no dialogue, no subtitles, energetic 80s synth rock / funk music, skateboard wheels, deck pops and warehouse echo only.
+16:9, 15-सेकंड का 1980 के दशक का OVA सेल एनीमे वीडियो, तेज़-तर्रार स्टाइलिश एडिटिंग, कोई संवाद नहीं, कोई सबटाइटल नहीं, ऊर्जावान 80 के दशक का सिंथ रॉक / फंक संगीत, केवल स्केटबोर्ड के पहियों, डेक पॉप और वेयरहाउस की गूंज की आवाज़।
 
-Use the attached character sheet as reference for Yuna Rabbet: blonde hair in two low messy buns, green bandana tied on top, bright blue eyes, tanned skin, fitted blue T-shirt, khaki frayed denim shorts, white sneakers, athletic and lively body language, confident cheerful expression. Keep her face, hair, outfit and proportions consistent throughout the whole video. Show her beauty through confidence, energy and movement, not through sexualized camera angles.
+Yuna Rabbet के संदर्भ के लिए संलग्न कैरेक्टर शीट का उपयोग करें: दो लो मेसी बन्स में बंधे सुनहरे बाल, सिर पर बंधा हरा बंदाना, चमकीली नीली आँखें, सांवली त्वचा, फिट नीली टी-शर्ट, खाकी फ्रिंज्ड डेनिम शॉर्ट्स, सफेद स्नीकर्स, एथलेटिक और जीवंत बॉडी लैंग्वेज, आत्मविश्वास से भरी और हंसमुख अभिव्यक्ति। पूरे वीडियो में उसके चेहरे, बालों, पोशाक और अनुपात को एक समान रखें। उसकी सुंदरता को आत्मविश्वास, ऊर्जा और गति के माध्यम से दिखाएं, न कि कामुक कैमरा एंगल के जरिए।
 
-Scene: a large woodworking factory with three connected areas: joinery workshop, CNC machine shop with enclosed idle CNC routers and dust extraction pipes, and warehouse aisles with timber racks, pallets, plywood sheets, toolboxes and workbenches. Warm sunset beams shine through high windows, sawdust floating in the light, polished concrete floor, hand-painted industrial background.
+दृश्य: एक बड़ा लकड़ी का कारखाना जिसमें तीन जुड़े हुए क्षेत्र हैं: जॉइनरी वर्कशॉप, बंद निष्क्रिय CNC राउटर और डस्ट एक्सट्रैक्शन पाइप के साथ CNC मशीन शॉप, और लकड़ी के रैक, पैलेट, प्लाईवुड शीट, टूलबॉक्स और वर्कबेंच के साथ वेयरहाउस गलियारे। ऊंची खिड़कियों से सूर्यास्त की गर्म किरणें आ रही हैं, रोशनी में लकड़ी का बुरादा तैर रहा है, पॉलिश किया हुआ कंक्रीट का फर्श, हाथ से पेंट किया गया औद्योगिक बैकग्राउंड।
 
-Storyboard:
-0.0–1.2s, wide establishing shot of the woodworking factory, warm sunlight, sawdust in the air, Yuna skates into frame from the distance.
-1.2–2.2s, extreme close-up of skateboard wheels rolling over polished concrete, her white sneaker pushes hard and accelerates.
-2.2–3.2s, camera tilts up to Yuna’s face, she looks over her shoulder with a confident cheerful smile, green bandana fluttering.
-3.2–4.4s, side tracking shot, Yuna performs a clean ollie over a low stack of timber pieces and lands smoothly.
-4.4–5.7s, low 3/4 front angle beside the enclosed CNC machine shop, Yuna performs a fast kickflip, brief slow motion as the board flips under her feet.
-5.7–6.9s, front dolly shot moving backward through a warehouse aisle, Yuna performs a long manual between tall shelves and pallets.
-6.9–8.0s, top-down dynamic shot, she carves tightly around a joinery workbench, weaving between timber offcuts with precise control.
-8.0–9.3s, wide shot then quick close-up, Yuna pops onto a low metal safety rail and performs a clean boardslide, then lands.
-9.3–10.5s, low angle shot beside leaning plywood sheets, she shifts into a short nose manual, balanced and stylish.
-10.5–12.0s, dynamic tracking shot, Yuna rides briefly up a safe angled plywood wall, then drops back onto the concrete floor.
-12.0–13.5s, open factory floor, she performs a clean 360 shove-it, catches the board perfectly and lands with strong style.
-13.5–15.0s, final low angle hero shot, Yuna stops the skateboard with one foot, turns to camera and smiles confidently. Behind her are the workshop, CNC area and warehouse shelves glowing in sunset light. Final energetic music beat.
-Visual style: 1980s Japanese OVA cel animation, bold ink outlines, hand-drawn character animation, detailed hand-painted backgrounds, warm cel highlights, dy
+स्टोरीबोर्ड:
+0.0–1.2s, लकड़ी के कारखाने का वाइड एस्टेब्लिशिंग शॉट, गर्म धूप, हवा में लकड़ी का बुरादा, Yuna दूर से फ्रेम में स्केट करती हुई आती है।
+1.2–2.2s, पॉलिश किए हुए कंक्रीट पर लुढ़कते स्केटबोर्ड के पहियों का एक्सट्रीम क्लोज-अप, उसके सफेद स्नीकर का ज़ोरदार पुश और गति पकड़ना।
+2.2–3.2s, कैमरा Yuna के चेहरे की ओर झुकता है, वह आत्मविश्वास भरी मुस्कान के साथ अपने कंधे के पीछे देखती है, हरा बंदाना लहरा रहा है।
+3.2–4.4s, साइड ट्रैकिंग शॉट, Yuna लकड़ी के टुकड़ों के एक छोटे ढेर के ऊपर से साफ 'ओली' (ollie) करती है और आसानी से लैंड करती है।
+4.4–5.7s, बंद CNC मशीन शॉप के बगल से लो 3/4 फ्रंट एंगल, Yuna एक तेज़ 'किकफ्लिप' (kickflip) करती है, उसके पैरों के नीचे बोर्ड के फ्लिप होते समय संक्षिप्त स्लो मोशन।
+5.7–6.9s, वेयरहाउस के गलियारे में पीछे की ओर बढ़ता फ्रंट डॉली शॉट, Yuna ऊंची अलमारियों और पैलेट के बीच एक लंबा 'मैनुअल' (manual) करती है।
+6.9–8.0s, टॉप-डाउन डायनामिक शॉट, वह एक जॉइनरी वर्कबेंच के चारों ओर तेजी से मुड़ती है, सटीक नियंत्रण के साथ लकड़ी के टुकड़ों के बीच से निकलती है।
+8.0–9.3s, वाइड शॉट और फिर क्विक क्लोज-अप, Yuna एक कम धातु की सुरक्षा रेल पर चढ़ती है और एक साफ 'बोर्डस्लाइड' (boardslide) करती है, फिर लैंड करती है।
+9.3–10.5s, झुकी हुई प्लाईवुड शीट के बगल से लो एंगल शॉट, वह एक छोटे 'नोज़ मैनुअल' (nose manual) में शिफ्ट होती है, संतुलित और स्टाइलिश।
+10.5–12.0s, डायनामिक ट्रैकिंग शॉट, Yuna थोड़ी देर के लिए एक सुरक्षित कोण वाली प्लाईवुड दीवार पर ऊपर जाती है, फिर वापस कंक्रीट के फर्श पर उतरती है।
+12.0–13.5s, खुला फैक्ट्री फ्लोर, वह एक साफ '360 शोव-इट' (360 shove-it) करती है, बोर्ड को पूरी तरह से पकड़ती है और शानदार स्टाइल के साथ लैंड करती है।
+13.5–15.0s, अंतिम लो एंगल हीरो शॉट, Yuna एक पैर से स्केटबोर्ड को रोकती है, कैमरे की ओर मुड़ती है और आत्मविश्वास के साथ मुस्कुराती है। उसके पीछे वर्कशॉप, CNC क्षेत्र और वेयरहाउस की अलमारियां सूर्यास्त की रोशनी में चमक रही हैं। अंतिम ऊर्जावान संगीत बीट।
+विजुअल स्टाइल: 1980 के दशक का जापानी OVA सेल एनीमेशन, बोल्ड इंक आउटलाइन, हाथ से बनाया गया कैरेक्टर एनीमेशन, विस्तृत हाथ से पेंट किए गए बैकग्राउंड, गर्म सेल हाइलाइट्स।
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781422587366_ezrsuu_HKsrmAgawAAXcUM.jpg" width="600" alt="80s OVA Skate Run Storyboard">
+<img src="https://cms-assets.youmind.com/media/1781422587366_ezrsuu_HKsrmAgawAAXcUM.jpg" width="600" alt="80s OVA स्केट रन स्टोरीबोर्ड">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6014)**
 
 **लेखक:** [Benny's Project](https://x.com/bennysproject) | **स्रोत:** [Link](https://x.com/bennysproject/status/2065793904986018020) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### Satirical World Cup Construction Prompt
+### व्यंग्यात्मक वर्ल्ड कप निर्माण प्रॉम्प्ट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A humorous and surreal prompt for a FIFA World Cup broadcast parody where the Qatari team builds a literal brick wall during a match against Switzerland.
+> फीफा वर्ल्ड कप प्रसारण पैरोडी के लिए एक हास्यपूर्ण और अतियथार्थवादी प्रॉम्प्ट, जिसमें कतर की टीम स्विट्जरलैंड के खिलाफ मैच के दौरान सचमुच ईंटों की दीवार खड़ी कर देती है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A hyper-realistic live FIFA World Cup 2026 night match broadcast, Group C: Qatar vs Switzerland. In an absurd satirical comedy scene, the entire Qatari national team in maroon kits with white accents are frantically building a massive red brick wall directly in front of their goal to block Switzerland’s attack.
+फीफा वर्ल्ड कप 2026 के एक अति-यथार्थवादी लाइव नाइट मैच का प्रसारण, ग्रुप C: कतर बनाम स्विट्जरलैंड। एक बेतुके व्यंग्यात्मक कॉमेडी दृश्य में, कतर की पूरी राष्ट्रीय टीम, जो सफेद लहजे वाली मरून किट पहने हुए है, स्विट्जरलैंड के हमले को रोकने के लिए अपने गोल के ठीक सामने तेजी से एक विशाल लाल ईंटों की दीवार बना रही है।
 
-Close-up shots: Qatari players #2, #15, #25 urgently laying red bricks, spreading gray mortar with trowels, intense focused expressions, sweat visible under stadium floodlights. Wide dramatic shots: multiple Qatari players (#10, #7, #6, #4, #8) on ladders and scaffolding rapidly stacking bricks across the entire goal mouth like an emergency construction crew mid-match. Bricks scatter across the grass, wheelbarrows of mortar rush in.
+क्लोज-अप शॉट्स: कतरी खिलाड़ी #2, #15, #25 तत्परता से लाल ईंटें बिछा रहे हैं, कन्नी से ग्रे मसाला लगा रहे हैं, चेहरे पर तीव्र एकाग्रता है, स्टेडियम की फ्लडलाइट्स के नीचे पसीना साफ दिख रहा है। वाइड ड्रामेटिक शॉट्स: कई कतरी खिलाड़ी (#10, #7, #6, #4, #8) सीढ़ियों और मचानों पर चढ़कर मैच के बीच में ही एक आपातकालीन निर्माण दल की तरह पूरे गोल के सामने तेजी से ईंटें लगा रहे हैं। घास पर ईंटें बिखरी हुई हैं, मसाले से भरी हाथगाड़ियां तेजी से आ रही हैं।
 
-Foreground reaction: shocked Swiss players in white and red kits (Xhaka #10, #7) stand frozen, arms slightly raised in disbelief. Female stadium staff and women fans in Swiss jerseys react with laughter and stunned expressions, filming the scene on phones under bright lights. The referee stands confused, whistle lowered.
+अग्रभूमि में प्रतिक्रिया: सफेद और लाल किट पहने हैरान स्विस खिलाड़ी (शाका #10, #7) अविश्वास में हाथ उठाए स्थिर खड़े हैं। महिला स्टेडियम स्टाफ और स्विस जर्सी पहने महिला प्रशंसक हंसते हुए और दंग होकर प्रतिक्रिया दे रही हैं, तेज रोशनी में फोन पर इस दृश्य को रिकॉर्ड कर रही हैं। रेफरी भ्रमित खड़ा है, सीटी नीचे है।
 
-Broadcast style: authentic FOX Sports FIFA presentation, scoreboard overlay shows QAT 0–0 SUI, clock 37:12, “LIVE” indicator, sponsor graphics, shaky commentator cam cuts.
+प्रसारण शैली: प्रामाणिक FOX Sports FIFA प्रेजेंटेशन, स्कोरबोर्ड ओवरले में QAT 0–0 SUI, समय 37:12, “LIVE” इंडिकेटर, प्रायोजक ग्राफिक्स, कमेंटेटर के कैम कट।
 
-Commentary (live broadcast audio):
-Commentator 1 (shocked): “I… I cannot believe what we are seeing—are they building a WALL?”
-Commentator 2 (laughing in disbelief): “This is not defensive structure, this is full construction mode inside the box!”
-Sideline reporter (urgent): “The Swiss attack has completely stopped… they’re just watching this happen!”
+कमेंट्री (लाइव प्रसारण ऑडियो):
+कमेंटेटर 1 (हैरान): “मैं… मैं विश्वास नहीं कर सकता कि हम क्या देख रहे हैं—क्या वे दीवार बना रहे हैं?”
+कमेंटेटर 2 (अविश्वास में हंसते हुए): “यह रक्षात्मक संरचना नहीं है, यह बॉक्स के अंदर पूर्ण निर्माण मोड है!”
+साइडलाइन रिपोर्टर (तत्पर): “स्विस हमला पूरी तरह से रुक गया है… वे बस यह सब होते हुए देख रहे हैं!”
 
-Crowd audio: mixed gasps, laughter, and chants turning into confused cheering.
+भीड़ का ऑडियो: मिली-जुली आहें, हंसी, और भ्रमित करने वाली चीयरिंग में बदलती नारेबाजी।
 
-Cinematic sports cinematography: dramatic night lighting, strong highlights on brick textures and sweat, motion blur on fast building action, dynamic cuts between tight close-ups (hands, trowels, mortar) and wide stadium shots through the goal net. Ultra-detailed jerseys, dust particles in air, realistic pitch wear.
+सिनेमैटिक स्पोर्ट्स सिनेमैटोग्राफी: नाटकीय रात की लाइटिंग, ईंटों की बनावट और पसीने पर मजबूत हाइलाइट्स, तेजी से निर्माण कार्य पर मोशन ब्लर, टाइट क्लोज-अप (हाथ, कन्नी, मसाला) और गोल नेट के माध्यम से स्टेडियम के वाइड शॉट्स के बीच डायनामिक कट। अति-विस्तृत जर्सी, हवा में धूल के कण, यथार्थवादी पिच वियर।
 
-Humorous surreal tone, meme-like absurdity, yet fully photorealistic elite broadcast quality. Satirical exaggeration of ultra-defensive “park the bus” tactics turned into literal construction.
+हास्यपूर्ण अतियथार्थवादी लहजा, मीम जैसी बेतुकी स्थिति, फिर भी पूरी तरह से फोटो-यथार्थवादी एलीट प्रसारण गुणवत्ता। अति-रक्षात्मक “पार्क द बस” रणनीति का व्यंग्यात्मक अतिशयोक्तिपूर्ण चित्रण, जिसे शाब्दिक निर्माण में बदल दिया गया है।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/199bbb8246e736a743e44afe2b4b2eb3/thumbnails/thumbnail.jpg" width="600" alt="Satirical World Cup Construction Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/199bbb8246e736a743e44afe2b4b2eb3/thumbnails/thumbnail.jpg" width="600" alt="व्यंग्यात्मक वर्ल्ड कप निर्माण प्रॉम्प्ट">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6012)**
 
 **लेखक:** [Sharon Riley](https://x.com/Just_sharon7) | **स्रोत:** [Link](https://x.com/Just_sharon7/status/2065781008658735467) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### Demon Slayer Style Anime Storyboard
+### Demon Slayer स्टाइल एनिमे स्टोरीबोर्ड
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed storyboard prompt for an anime short film, featuring consistent character designs and dynamic camera movements inspired by Demon Slayer.
+> Demon Slayer से प्रेरित एक एनिमे शॉर्ट फिल्म के लिए अत्यधिक विस्तृत स्टोरीबोर्ड प्रॉम्प्ट, जिसमें सुसंगत कैरेक्टर डिज़ाइन और डायनामिक कैमरा मूवमेंट शामिल हैं।
 
 #### 📝 प्रॉम्पट
 
 ```
-Create a cinematic anime short film in a unified Demon Slayer / Jujutsu Kaisen inspired art style — apply this exact same visual style consistently to ALL characters and scenes without exception.
-Character Design (maintain throughout ALL scenes):
-Hero: Young male swordsman, late teens, athletic build, dark hair, determined eyes, traditional Japanese warrior outfit, katana at waist
-Child: Small baby girl, 2–3 years old, round face, big innocent eyes, simple village dress, same anime art style as the hero — no style deviation
-Story Structure:
-Opening — Close-up on hero's face receiving urgent message. Camera: low angle looking up at hero. Dramatic lighting.
-Journey — Hero running through dense forest and rocky mountains. Camera: dynamic tracking shot from side, then bird's eye view. Motion blur on feet.
-Village in Crisis — Wide establishing shot of burning village. Cut to medium shot of terrified villagers. Camera slowly pushes in.
-Monster threatening child — Monster looms over baby girl. Camera: monster POV looking down at child, then child POV looking up at monster. High contrast lighting.
-Hero Arrival — Hero leaps into frame from above. Slow motion sword strike. Camera: 360-degree rotating shot around hero.
-Battle Sequence — Intense fight, multiple camera angles: close-up on clashing sword, wide shot of full battle, low angle hero power move. Fluid motion, no flickering.
-Resolution — Monster defeated. Hero kneels down to baby girl's level. Soft warm lighting. Camera: gentle zoom out showing hero and child together, villagers in background.
-Ending — Hero sheathes sword, walks away. Camera: back shot of hero walking into sunset, villagers watching.
-Visual Rules (strict):
-One unified anime art style across ALL shots — hero and baby girl must look like they belong in the same animation
-Camera angle must change every scene — no repeated angles
-No slideshow transitions — use cinematic cuts and motion
-Warm golden lighting for resolution, cool blue for battle
-Pippit watermark visible in final composition
-Style: Epic fantasy anime, Demon Slayer quality, emotional storytelling, professional cinematic pacing
+एक एकीकृत Demon Slayer / Jujutsu Kaisen प्रेरित आर्ट स्टाइल में एक सिनेमैटिक एनिमे शॉर्ट फिल्म बनाएं — बिना किसी अपवाद के सभी पात्रों और दृश्यों पर बिल्कुल एक जैसा विज़ुअल स्टाइल लागू करें।
+कैरेक्टर डिज़ाइन (सभी दृश्यों में बनाए रखें):
+हीरो: युवा पुरुष तलवारबाज, किशोरावस्था के अंत में, एथलेटिक बनावट, काले बाल, दृढ़ आँखें, पारंपरिक जापानी योद्धा पोशाक, कमर पर कटाना
+बच्चा: छोटी बच्ची, 2-3 साल की, गोल चेहरा, बड़ी मासूम आँखें, साधारण गाँव की पोशाक, हीरो जैसा ही एनिमे आर्ट स्टाइल — स्टाइल में कोई बदलाव नहीं
+कहानी की संरचना:
+शुरुआत — हीरो के चेहरे का क्लोज-अप, जिसे एक जरूरी संदेश मिलता है। कैमरा: हीरो को नीचे से ऊपर की ओर देखते हुए लो एंगल। नाटकीय लाइटिंग।
+यात्रा — हीरो घने जंगल और पथरीले पहाड़ों से दौड़ रहा है। कैमरा: साइड से डायनामिक ट्रैकिंग शॉट, फिर बर्ड्स-आई व्यू। पैरों पर मोशन ब्लर।
+संकट में गाँव — जलते हुए गाँव का वाइड एस्टेब्लिशिंग शॉट। डरे हुए ग्रामीणों का मीडियम शॉट। कैमरा धीरे-धीरे आगे बढ़ता है।
+बच्ची को धमकाता राक्षस — राक्षस बच्ची के ऊपर मंडरा रहा है। कैमरा: राक्षस के POV से बच्ची को नीचे देखना, फिर बच्ची के POV से राक्षस को ऊपर देखना। हाई कॉन्ट्रास्ट लाइटिंग।
+हीरो का आगमन — हीरो ऊपर से फ्रेम में कूदता है। स्लो मोशन तलवार का वार। कैमरा: हीरो के चारों ओर 360-डिग्री रोटेटिंग शॉट।
+युद्ध अनुक्रम — तीव्र लड़ाई, कई कैमरा एंगल: टकराती तलवार का क्लोज-अप, पूरी लड़ाई का वाइड शॉट, हीरो का लो एंगल पावर मूव। तरल गति, कोई झिलमिलाहट नहीं।
+समाधान — राक्षस हार गया। हीरो बच्ची के स्तर तक घुटने टेकता है। हल्की गर्म लाइटिंग। कैमरा: हीरो और बच्ची को एक साथ दिखाते हुए धीरे-धीरे ज़ूम आउट, पृष्ठभूमि में ग्रामीण।
+अंत — हीरो तलवार म्यान में डालता है, दूर चला जाता है। कैमरा: सूर्यास्त की ओर चलते हुए हीरो का बैक शॉट, ग्रामीण देख रहे हैं।
+विज़ुअल नियम (सख्त):
+सभी शॉट्स में एक एकीकृत एनिमे आर्ट स्टाइल — हीरो और बच्ची को एक ही एनिमेशन का हिस्सा दिखना चाहिए
+हर दृश्य में कैमरा एंगल बदलना चाहिए — कोई भी एंगल दोहराया न जाए
+कोई स्लाइडशो ट्रांज़िशन नहीं — सिनेमैटिक कट और मोशन का उपयोग करें
+समाधान के लिए गर्म सुनहरी लाइटिंग, लड़ाई के लिए ठंडी नीली लाइटिंग
+अंतिम रचना में Pippit वॉटरमार्क दिखाई देना चाहिए
+स्टाइल: एपिक फैंटेसी एनिमे, Demon Slayer क्वालिटी, भावनात्मक कहानी, पेशेवर सिनेमैटिक पेसिंग
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43d52b1504c59c089958168eaad5aa13/thumbnails/thumbnail.jpg" width="600" alt="Demon Slayer Style Anime Storyboard">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43d52b1504c59c089958168eaad5aa13/thumbnails/thumbnail.jpg" width="600" alt="Demon Slayer स्टाइल एनिमे स्टोरीबोर्ड">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6009)**
 
 **लेखक:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) | **स्रोत:** [Link](https://x.com/saniaspeaks_/status/2065769980067770430) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### Korean school revenge drama cinematic prompt
+### कोरियन स्कूल रिवेंज ड्रामा सिनेमैटिक प्रॉम्प्ट
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed multi-shot prompt for a realistic Korean school drama scene featuring cinematic lighting, handheld camera movements, and intense character interactions.
+> एक यथार्थवादी कोरियन स्कूल ड्रामा दृश्य के लिए विस्तृत मल्टी-शॉट प्रॉम्प्ट, जिसमें सिनेमैटिक लाइटिंग, हैंडहेल्ड कैमरा मूवमेंट और किरदारों के बीच गहन बातचीत शामिल है।
 
 #### 📝 प्रॉम्पट
 
 ```
-[Style] Korean school anti-bullying revenge short film (Korean School Revenge Drama), authentic live-action cinematic texture, cold white corridor lighting, cool tones (Teal & Cold Grade), handheld photography, shallow depth of field (Shallow DOF), 9:16 vertical screen, English dialogue. All characters are played by adult actors as high school students, movements are cinematically styled, no gore or harmful outcomes.
-[Duration] 15 seconds
-[Scene] Modern Korean-style high school corridor, lockers on one side, classroom doors, cold white ceiling lights, floor tile reflections
-[Characters] Bully (tall male, school uniform jacket open, arrogant expression), Bullied (thin male, neat uniform, holding textbooks), Avenger (male in neat uniform, calm expression, determined eyes)
+[Style] कोरियन स्कूल एंटी-बुलिंग रिवेंज शॉर्ट फिल्म (Korean School Revenge Drama), प्रामाणिक लाइव-एक्शन सिनेमैटिक टेक्सचर, कोल्ड व्हाइट कॉरिडोर लाइटिंग, कूल टोन (Teal & Cold Grade), हैंडहेल्ड फोटोग्राफी, शैलो डेप्थ ऑफ फील्ड (Shallow DOF), 9:16 वर्टिकल स्क्रीन, अंग्रेजी संवाद। सभी किरदार वयस्क अभिनेताओं द्वारा हाई स्कूल के छात्रों के रूप में निभाए गए हैं, मूवमेंट सिनेमैटिक स्टाइल में हैं, कोई हिंसा या हानिकारक परिणाम नहीं।
+[Duration] 15 सेकंड
+[Scene] आधुनिक कोरियन-स्टाइल हाई स्कूल कॉरिडोर, एक तरफ लॉकर, क्लासरूम के दरवाजे, कोल्ड व्हाइट सीलिंग लाइट्स, फर्श की टाइलों पर रिफ्लेक्शन
+[Characters] बुली (लंबा पुरुष, स्कूल यूनिफॉर्म जैकेट खुली, अहंकारी अभिव्यक्ति), पीड़ित (दुबला-पतला पुरुष, साफ-सुथरी यूनिफॉर्म, हाथ में पाठ्यपुस्तकें), बदला लेने वाला (साफ-सुथरी यूनिफॉर्म में पुरुष, शांत अभिव्यक्ति, दृढ़ आंखें)
 
-[00:00-00:04] Scene 1: Corridor bullying setup (35mm Handheld Push-in)
-This segment involves only pushing and verbal threats, no other physical conflict.
-Medium shot slowly pushing in: The bully corners the victim against the lockers, pushes his shoulder with one hand, textbooks scatter on the floor, the victim lowers his head in endurance, avoiding eye contact.
-Slight handheld shake, accompanied by the metallic sound of lockers banging.
-[Dialogue/Lip Sync Guide] Bully (English, condescendingly mocking): "Nobody is coming to save you."
+[00:00-00:04] सीन 1: कॉरिडोर बुलिंग सेटअप (35mm Handheld Push-in)
+इस खंड में केवल धक्का देना और मौखिक धमकियां शामिल हैं, कोई अन्य शारीरिक संघर्ष नहीं।
+मीडियम शॉट धीरे-धीरे अंदर की ओर: बुली पीड़ित को लॉकरों के पास घेर लेता है, एक हाथ से उसके कंधे को धक्का देता है, पाठ्यपुस्तकें फर्श पर बिखर जाती हैं, पीड़ित सहनशीलता में अपना सिर झुका लेता है, नजरें मिलाने से बचता है।
+हल्का हैंडहेल्ड शेक, साथ में लॉकर के टकराने की धातुई आवाज।
+[Dialogue/Lip Sync Guide] बुली (अंग्रेजी, अपमानजनक लहजे में): "Nobody is coming to save you."
 
-[00:04-00:08] Scene 2: The first slap (Whip Pan + Low Angle)
-A hand suddenly enters from the side of the frame, a loud slap hits the bully's cheek, quick whip pan following the hand's trajectory, sharp sound with corridor echo.
-Low angle: The bully spins half a turn, stumbles to the ground, holding his face as he crawls up, eyes red, looking up off-camera.
-[Dialogue/Lip Sync Guide] Bully (English, gritting teeth): "Who the hell did that?"
+[00:04-00:08] सीन 2: पहला थप्पड़ (Whip Pan + Low Angle)
+एक हाथ अचानक फ्रेम के किनारे से आता है, एक जोरदार थप्पड़ बुली के गाल पर लगता है, हाथ की गति के साथ क्विक व्हिप पैन, कॉरिडोर की गूंज के साथ तेज आवाज।
+लो एंगल: बुली आधा घूम जाता है, लड़खड़ाकर जमीन पर गिरता है, अपने चेहरे को पकड़े हुए ऊपर उठता है, आंखें लाल, कैमरे से दूर ऊपर की ओर देखते हुए।
+[Dialogue/Lip Sync Guide] बुली (अंग्रेजी, दांत पीसते हुए): "Who the hell did that?"
 
-[00:08-00:11] Scene 3: Confrontation reveal (Counter Shot)
-Reverse shot: The avenger stands in the cold corridor light, looking down at the bully, tone calm.
-[Dialogue/Lip Sync Guide] Avenger (English, low and calm): "Someone here to teach you a lesson."
-The bully roars, leaping up from the ground and punching at the avenger.
+[00:08-00:11] सीन 3: टकराव का खुलासा (Counter Shot)
+रिवर्स शॉट: बदला लेने वाला ठंडी कॉरिडोर लाइट में खड़ा है, बुली को नीचे देख रहा है, लहजा शांत है।
+[Dialogue/Lip Sync Guide] बदला लेने वाला (अंग्रेजी, धीमी और शांत आवाज में): "Someone here to teach you a lesson."
+बुली दहाड़ता है, जमीन से उछलकर बदला लेने वाले पर मुक्का मारता है।
 
-[00:11-00:15] Scene 4: Chain slaps + overhead ending (Rapid Cuts → Top-down → Smash Cut)
-The avenger dodges the punch and grabs the bully's collar. Rapid cuts: Consecutive slaps to the bully's face, the bully's head whipping left and right, hair flying.
-Last 2 seconds camera angle change: Camera moves directly above the two for a vertical top-down overhead shot, showing the bully slumped on the floor, face up, avenger holding his collar.
-The avenger's other hand rises high toward the camera (back of hand toward lens), pauses for a split second, then the hand slams down, moving away from the camera toward the bully's face below—smash cut to black and mute the instant the slap is about to touch the face.
-The slap is aimed at the bully on the ground throughout, never toward the camera.
+[00:11-00:15] सीन 4: थप्पड़ों की बौछार + ओवरहेड एंडिंग (Rapid Cuts → Top-down → Smash Cut)
+बदला लेने वाला मुक्के से बचता है और बुली का कॉलर पकड़ लेता है। रैपिड कट्स: बुली के चेहरे पर लगातार थप्पड़, बुली का सिर बाएं-दाएं झटक रहा है, बाल उड़ रहे हैं।
+अंतिम 2 सेकंड कैमरा एंगल चेंज: कैमरा दोनों के सीधे ऊपर जाकर वर्टिकल टॉप-डाउन ओवरहेड शॉट लेता है, जिसमें बुली फर्श पर गिरा हुआ, चेहरा ऊपर की ओर, बदला लेने वाला उसका कॉलर पकड़े हुए दिखाई देता है।
+बदला लेने वाले का दूसरा हाथ कैमरे की ओर ऊंचा उठता है (हाथ का पिछला हिस्सा लेंस की ओर), एक पल के लिए रुकता है, फिर हाथ नीचे की ओर आता है, कैमरे से दूर बुली के चेहरे की तरफ—थप्पड़ लगने से ठीक पहले स्मैश कट टू ब्लैक और म्यूट।
+थप्पड़ पूरे समय जमीन पर पड़े बुली पर लक्षित है, कभी भी कैमरे की ओर नहीं।
 
-[Sound Design] Corridor ambient sound, sharp slaps with echo, intense wind-breaking sound on the last slap followed by instant silence and black. No BGM or only low string music in the background.
+[Sound Design] कॉरिडोर की एम्बिएंट साउंड, गूंज के साथ तेज थप्पड़, आखिरी थप्पड़ पर हवा को चीरने वाली तीव्र आवाज, जिसके तुरंत बाद सन्नाटा और ब्लैक स्क्रीन। कोई BGM नहीं या बैकग्राउंड में केवल धीमी स्ट्रिंग म्यूजिक।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0cf6430579f1557aa53b1cd3c46cddf8/thumbnails/thumbnail.jpg" width="600" alt="Korean school revenge drama cinematic prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0cf6430579f1557aa53b1cd3c46cddf8/thumbnails/thumbnail.jpg" width="600" alt="कोरियन स्कूल रिवेंज ड्रामा सिनेमैटिक प्रॉम्प्ट">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6020)**
 
 **लेखक:** [John](https://x.com/johnAGI168) | **स्रोत:** [Link](https://x.com/johnAGI168/status/2065769074676638168) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### Dragon International Airport
+### ड्रैगन इंटरनेशनल एयरपोर्ट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic fantasy cinematic showing a sky terminal built from crystal where dragons land and take off at sunset.
+> एक महाकाव्य फंतासी सिनेमाई दृश्य जिसमें क्रिस्टल से बना एक स्काई टर्मिनल दिखाया गया है, जहाँ सूर्यास्त के समय ड्रैगन उतरते और उड़ान भरते हैं।
 
 #### 📝 प्रॉम्पट
 
 ```
-The world's first dragon airport floats high above the clouds, a breathtaking sky terminal built from glowing crystal towers, golden bridges, and colossal landing platforms suspended in the heavens. The video opens with a cinematic aerial shot of majestic dragons arriving from distant kingdoms. A massive emerald dragon glides through the clouds while an ice dragon descends from snowy mountains and a fiery crimson dragon emerges from a glowing volcanic horizon.
+दुनिया का पहला ड्रैगन एयरपोर्ट बादलों के ऊपर ऊँचाई पर तैरता है, जो चमकते क्रिस्टल टावरों, सुनहरे पुलों और आसमान में लटके विशाल लैंडिंग प्लेटफॉर्म से बना एक अद्भुत स्काई टर्मिनल है। वीडियो की शुरुआत दूर-दराज के साम्राज्यों से आते राजसी ड्रैगन्स के सिनेमाई एरियल शॉट से होती है। एक विशाल पन्ना-हरा ड्रैगन बादलों के बीच से गुजरता है, जबकि एक बर्फीला ड्रैगन बर्फीले पहाड़ों से नीचे उतरता है और एक उग्र लाल ड्रैगन चमकते ज्वालामुखी क्षितिज से बाहर निकलता है।
 
-The camera races through the bustling airport as dragons of every size land gracefully on enormous floating runways. Dragon riders guide their creatures toward elegant sky gates while magical cargo is loaded onto giant transport dragons. Clouds drift between the terminals as sunlight reflects from shimmering crystal structures.
+कैमरा हलचल भरे एयरपोर्ट से होकर गुजरता है जहाँ हर आकार के ड्रैगन विशाल तैरते रनवे पर शालीनता से उतरते हैं। ड्रैगन सवार अपने जीवों को सुंदर स्काई गेट्स की ओर ले जाते हैं, जबकि जादुई सामान को विशाल ट्रांसपोर्ट ड्रैगन्स पर लादा जाता है। टर्मिनलों के बीच बादल तैरते हैं और सूरज की रोशनी चमकती क्रिस्टल संरचनाओं से परावर्तित होती है।
 
-The action intensifies as several dragons launch from the airport in synchronized takeoffs. The camera follows them soaring between floating towers and glowing sky bridges, wings creating powerful gusts through the clouds. For the grand finale, a gigantic golden dragon departs from the main terminal and flies into a spectacular orange-and-purple sunset above an endless sea of clouds. The camera pulls back to reveal the entire dragon airport glowing magnificently in the sky, ultra-realistic, cinematic masterpiece, breathtaking scale, highly detailed dragons, fantasy realism, epic ending.
+कार्रवाई तब तेज हो जाती है जब कई ड्रैगन एक साथ एयरपोर्ट से उड़ान भरते हैं। कैमरा उन्हें तैरते टावरों और चमकते स्काई ब्रिज के बीच उड़ते हुए फॉलो करता है, जहाँ उनके पंख बादलों के बीच शक्तिशाली हवा के झोंके पैदा करते हैं। ग्रैंड फिनाले के लिए, एक विशाल सुनहरा ड्रैगन मुख्य टर्मिनल से प्रस्थान करता है और बादलों के अंतहीन समुद्र के ऊपर एक शानदार नारंगी और बैंगनी सूर्यास्त में उड़ जाता है। कैमरा पीछे हटता है और पूरे ड्रैगन एयरपोर्ट को आसमान में शानदार ढंग से चमकते हुए दिखाता है, अल्ट्रा-रियलिस्टिक, सिनेमाई मास्टरपीस, लुभावने पैमाने, अत्यधिक विस्तृत ड्रैगन, फंतासी यथार्थवाद, महाकाव्य अंत।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07fe201d74d376851a6719c1360c988b/thumbnails/thumbnail.jpg" width="600" alt="Dragon International Airport">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07fe201d74d376851a6719c1360c988b/thumbnails/thumbnail.jpg" width="600" alt="ड्रैगन इंटरनेशनल एयरपोर्ट">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6007)**
 
 **लेखक:** [Ai Doctor](https://x.com/DoctorAmna11) | **स्रोत:** [Link](https://x.com/DoctorAmna11/status/2065767722890465781) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### Nike Denim Edition Commercial
+### Nike Denim Edition कमर्शियल
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 15-second premium product commercial prompt for the Nike Air Force 1 Low Denim Edition, featuring macro texture details and a studio reveal.
+> Nike Air Force 1 Low Denim Edition के लिए 15-सेकंड का प्रीमियम प्रोडक्ट कमर्शियल प्रॉम्प्ट, जिसमें मैक्रो टेक्सचर डिटेल्स और स्टूडियो रिवील शामिल है।
 
 #### 📝 प्रॉम्पट
 
 ```
-### Seedance 2.0 — 15 Second Premium Product Commercial
+### Seedance 2.0 — 15 सेकंड का प्रीमियम प्रोडक्ट कमर्शियल
 
 **Nike Air Force 1 Low Denim Edition**
-**Aspect Ratio:** 9:16 Vertical
-**Duration:** 15 Seconds
-**Style:** Luxury sneaker campaign, cinematic fashion commercial, ultra-realistic product showcase, premium sportswear advertising, high-end social media launch film.
+**आस्पेक्ट रेशियो:** 9:16 वर्टिकल
+**अवधि:** 15 सेकंड
+**स्टाइल:** लग्जरी स्नीकर कैंपेन, सिनेमैटिक फैशन कमर्शियल, अल्ट्रा-रियलिस्टिक प्रोडक्ट शोकेस, प्रीमियम स्पोर्ट्सवियर एडवरटाइजिंग, हाई-एंड सोशल मीडिया लॉन्च फिल्म।
 
-Treat each storyboard panel as a separate full-screen cinematic shot. Read left-to-right, top-to-bottom. Do not animate the storyboard itself. Every panel becomes an individual shot with realistic motion and camera behavior.
+प्रत्येक स्टोरीबोर्ड पैनल को एक अलग फुल-स्क्रीन सिनेमैटिक शॉट के रूप में देखें। बाएं से दाएं, ऊपर से नीचे पढ़ें। स्टोरीबोर्ड को खुद एनिमेट न करें। हर पैनल यथार्थवादी गति और कैमरा व्यवहार के साथ एक व्यक्तिगत शॉट बन जाता है।
 
-**Product Fidelity**
-Maintain the exact Nike Air Force 1 Low Denim Edition design throughout all scenes. Preserve denim texture, stitching, swoosh shape, sole proportions, lace structure, outsole pattern, blue-and-white color palette, premium materials, branding details, and realistic lighting interaction.
+**प्रोडक्ट फिडेलिटी**
+सभी दृश्यों में Nike Air Force 1 Low Denim Edition के सटीक डिज़ाइन को बनाए रखें। डेनिम टेक्सचर, सिलाई, स्वूश (swoosh) का आकार, सोल का अनुपात, लेस की संरचना, आउटसोल पैटर्न, नीले और सफेद रंग का पैलेट, प्रीमियम सामग्री, ब्रांडिंग विवरण और यथार्थवादी लाइटिंग इंटरैक्शन को सुरक्षित रखें।
 
 ---
 
-### SHOT 01 (0.0–1.0s)
+### शॉट 01 (0.0–1.0s)
 
-Premium packaging reveal. Hands slide open a matte black Nike box on a studio table. Soft daylight reflections. Slow push-in camera movement.
+प्रीमियम पैकेजिंग रिवील। हाथ स्टूडियो टेबल पर रखे मैट ब्लैक Nike बॉक्स को स्लाइड करके खोलते हैं। सॉफ्ट डेलाइट रिफ्लेक्शन। कैमरा धीरे-धीरे अंदर की ओर (push-in) जाता है।
 
-### SHOT 02 (1.0–2.0s)
+### शॉट 02 (1.0–2.0s)
 
-Unboxing close-up. Lid lifts. Denim Air Force 1 appears inside tissue wrapping. Cinematic focus pull revealing materials and craftsmanship.
+अनबॉक्सिंग क्लोज-अप। ढक्कन उठता है। टिश्यू पेपर के अंदर डेनिम Air Force 1 दिखाई देता है। सामग्री और शिल्प कौशल को उजागर करने वाला सिनेमैटिक फोकस पुल।
 
-### SHOT 03 (2.0–3.0s)
+### शॉट 03 (2.0–3.0s)
 
-Floating hero product shot. Sneaker suspended in a clean studio environment. Slow orbital camera movement emphasizing silhouette and proportions.
+फ्लोटिंग हीरो प्रोडक्ट शॉट। स्नीकर एक साफ स्टूडियो वातावरण में हवा में लटका हुआ है। स्नीकर के सिल्हूट और अनुपात पर जोर देने के लिए धीमी ऑर्बिटल कैमरा मूवमेंट।
 
-### SHOT 04 (3.0–3.8s)
+### शॉट 04 (2.0–3.8s)
 
-Macro denim detail. Extreme close-up of swoosh stitching and woven fabric texture. Light glides across material surface.
+मैक्रो डेनिम डिटेल। स्वूश सिलाई और बुने हुए कपड़े के टेक्सचर का एक्सट्रीम क्लोज-अप। रोशनी सामग्री की सतह पर फिसलती है।
 
-### SHOT 05 (3.8–4.6s)
+### शॉट 05 (3.8–4.6s)
 
-Toe-box macro. Crisp perforation details. Shallow depth of field. Premium luxury-product aesthetic.
+टो-बॉक्स मैक्रो। स्पष्ट छिद्र (perforation) विवरण। उथली डेप्थ ऑफ फील्ड। प्रीमियम लग्जरी-प्रोडक्ट एस्थेटिक।
 
-### SHOT 06 (4.6–5.4s)
+### शॉट 06 (4.6–5.4s)
 
-Heel branding close-up. "Nike Air" logo illuminated by soft rim light. Slow cinematic tilt upward.
+हील ब्रांडिंग क्लोज-अप। सॉफ्ट रिम लाइट से प्रकाशित "Nike Air" लोगो। धीमी सिनेमैटिक टिल्ट ऊपर की ओर।
 
-SHOT 07 (5.4–6.2s)
+### शॉट 07 (5.4–6.2s)
 
-Lifestyle angle. Model standing naturally in the sneakers. Camera circles subtly around the shoes. Urban atmosphere.
+लाइफस्टाइल एंगल। मॉडल स्नीकर्स पहनकर स्वाभाविक रूप से खड़ा है। कैमरा जूतों के चारों ओर धीरे-धीरे घूमता है। शहरी वातावरण।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96234ae0f89cce7267f8444e625ada09/thumbnails/thumbnail.jpg" width="600" alt="Nike Denim Edition Commercial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96234ae0f89cce7267f8444e625ada09/thumbnails/thumbnail.jpg" width="600" alt="Nike Denim Edition कमर्शियल">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6017)**
 
 **लेखक:** [Al-Shamus](https://x.com/im_shahid7) | **स्रोत:** [Link](https://x.com/im_shahid7/status/2065756170766413942) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### Coastal Downhill Skateboarding Chase
+### तटीय ढलान पर स्केटबोर्डिंग का पीछा
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-speed 15-second cinematic chase video of a woman skateboarding down a steep coastal hill towards a turquoise ocean, featuring realistic physics and a handheld camera feel.
+> एक महिला के खड़ी तटीय पहाड़ी से फ़िरोज़ी समुद्र की ओर स्केटबोर्डिंग करने का 15-सेकंड का हाई-स्पीड सिनेमैटिक चेज़ वीडियो, जिसमें यथार्थवादी भौतिकी और हैंडहेल्ड कैमरा अनुभव शामिल है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Create a 15-second realistic cinematic video of a woman skateboarding fast down a steep coastal hill road toward the ocean. Open with a dynamic rear chase angle from slightly above and behind her capturing the dramatic downhill slope and expansive ocean view ahead. The environment is a bright, sunny seaside town with narrow roads, stone walls, utility poles, small houses, rooftops, side streets, and lush green hills leading down to a vivid turquoise-blue coastline with large waves and towering white clouds.
-The woman has long black hair, soft natural facial features, warm light-medium skin, and a slim youthful build. Dress her in a stylish casual coastal outfit: an oversized blue shirt, denim pants, white sneakers, and a small slingbag. Her hair and clothing move naturally in the wind as she rides.
-She is skateboarding continuously and quickly downhill, carving gently and smoothly with believable balance and natural physics. The motion should feel exciting, free, and grounded in reality.
-Add a small number of cars on the road to make the scene feel alive - only a few, not heavy traffic. Include perhaps one car driving farther ahead in her lane, one parked vehicle near the roadside, and one occasional passing or oncoming car at a safe distance. The vehicles should feel natural and integrated into the town, adding realism and motion without becoming the focus. The road should still feel mostly open so the skateboarder remains the clear subject.
-Use realistic lighting, natural motion blur, subtle camera shake, and an immersive handheld/chase-camera feel. Keep the entire scene fully photorealistic, not animated or illustrated.
-For most of the video, keep the camera behind her as she rides fast downhill with the ocean stretching out in front of her. In the final few seconds, the camera glides from behind to the side and then arcs around to the front, revealing her face clearly while she is still riding. She looks calm, focused, and slightly smiling, enjoying the ride. End on the face reveal while she continues moving downhill.
-Audio: no background music. Ambient sound only - skateboard wheels rolling on pavement, wind, distant ocean, and light neighborhood traffic sounds.
+एक महिला के खड़ी तटीय पहाड़ी सड़क से समुद्र की ओर तेज़ी से स्केटबोर्डिंग करने का 15-सेकंड का यथार्थवादी सिनेमैटिक वीडियो बनाएं। वीडियो की शुरुआत उसके पीछे और थोड़ा ऊपर से एक डायनेमिक रियर चेज़ एंगल से करें, जिसमें ढलान और सामने का विशाल समुद्र दिखाई दे। वातावरण एक उज्ज्वल, धूप वाला समुद्र तटीय शहर है जिसमें संकरी सड़कें, पत्थर की दीवारें, बिजली के खंभे, छोटे घर, छतें, गलियां और हरे-भरे पहाड़ हैं जो बड़ी लहरों और ऊंचे सफेद बादलों वाले जीवंत फ़िरोज़ी-नीले तट की ओर जाते हैं।
+महिला के बाल लंबे और काले हैं, चेहरे के फीचर्स प्राकृतिक हैं, त्वचा का रंग हल्का-मध्यम है और वह छरहरी है। उसे एक स्टाइलिश कैजुअल तटीय पोशाक पहनाएं: एक ओवरसाइज़्ड नीली शर्ट, डेनिम पैंट, सफेद स्नीकर्स और एक छोटा स्लिंग बैग। स्केटबोर्डिंग करते समय उसके बाल और कपड़े हवा में स्वाभाविक रूप से हिलने चाहिए।
+वह लगातार और तेज़ी से ढलान पर स्केटबोर्डिंग कर रही है, जो विश्वसनीय संतुलन और प्राकृतिक भौतिकी के साथ धीरे-धीरे और सहजता से मुड़ रही है। गति रोमांचक, स्वतंत्र और यथार्थवादी होनी चाहिए।
+दृश्य को जीवंत बनाने के लिए सड़क पर कुछ कारें शामिल करें - केवल कुछ, भारी ट्रैफ़िक नहीं। उदाहरण के लिए, एक कार जो आगे चल रही हो, एक सड़क के किनारे खड़ी गाड़ी, और एक कार जो सुरक्षित दूरी से गुज़र रही हो। वाहन प्राकृतिक और शहर का हिस्सा लगने चाहिए, जिससे दृश्य में यथार्थवाद आए लेकिन ध्यान न भटके। सड़क को खुला रखें ताकि स्केटबोर्डर ही मुख्य केंद्र बनी रहे।
+यथार्थवादी लाइटिंग, प्राकृतिक मोशन ब्लर, हल्का कैमरा शेक और इमर्सिव हैंडहेल्ड/चेज़-कैमरा अनुभव का उपयोग करें। पूरे दृश्य को पूरी तरह से फोटो-यथार्थवादी रखें, एनिमेटेड या इलस्ट्रेटेड नहीं।
+वीडियो के अधिकांश हिस्से में, कैमरा उसके पीछे रखें जब वह समुद्र की ओर तेज़ी से नीचे जा रही हो। अंतिम कुछ सेकंड में, कैमरा पीछे से बगल में आए और फिर घूमकर सामने की ओर आ जाए, जिससे स्केटबोर्डिंग करते हुए उसका चेहरा स्पष्ट रूप से दिखाई दे। वह शांत, केंद्रित और हल्की मुस्कान के साथ सवारी का आनंद ले रही है। वीडियो का अंत उसके चेहरे के दृश्य के साथ करें जबकि वह ढलान पर नीचे जा रही हो।
+ऑडियो: कोई बैकग्राउंड संगीत नहीं। केवल एम्बिएंट साउंड - फुटपाथ पर स्केटबोर्ड के पहियों की आवाज़, हवा, दूर समुद्र की आवाज़ और पड़ोस के ट्रैफ़िक की हल्की आवाज़।
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781422567613_t5dgsy_HKsB38nbwAAygmJ.jpg" width="600" alt="Coastal Downhill Skateboarding Chase">
+<img src="https://cms-assets.youmind.com/media/1781422567613_t5dgsy_HKsB38nbwAAygmJ.jpg" width="600" alt="तटीय ढलान पर स्केटबोर्डिंग का पीछा">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6004)**
 
 **लेखक:** [Noor](https://x.com/noorlewisx) | **स्रोत:** [Link](https://x.com/noorlewisx/status/2065746957499605274) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### Vertical Character Dance MV
+### वर्टिकल कैरेक्टर डांस MV
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A comprehensive video generation prompt for creating dynamic 15-second vertical dance music videos starring a specific reference character.
+> एक विशिष्ट रेफरेंस कैरेक्टर को मुख्य भूमिका में रखकर डायनामिक 15-सेकंड के वर्टिकल डांस म्यूजिक वीडियो बनाने के लिए एक व्यापक वीडियो जनरेशन प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-Generate a 15-second vertical dance music video using the person or character from @Image 1. Ensure the character expresses the music with their entire body and dances dynamically. 
+@Image 1 से व्यक्ति या कैरेक्टर का उपयोग करके 15-सेकंड का वर्टिकल डांस म्यूजिक वीडियो जनरेट करें। सुनिश्चित करें कि कैरेक्टर अपने पूरे शरीर के साथ संगीत को व्यक्त करे और डायनामिक तरीके से डांस करे।
 
 format: vertical_9x16
 fps: 24
@@ -1075,91 +1075,91 @@ High-quality dance MV
 Cinematic
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7e19336a9114b1739466952d6eda6149/thumbnails/thumbnail.jpg" width="600" alt="Vertical Character Dance MV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7e19336a9114b1739466952d6eda6149/thumbnails/thumbnail.jpg" width="600" alt="वर्टिकल कैरेक्टर डांस MV">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6024)**
 
 **लेखक:** [Zeto](https://x.com/ZetoGroovin) | **स्रोत:** [Link](https://x.com/ZetoGroovin/status/2065738828221231578) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### Magical Forest Discovery Storyboard
+### जादुई जंगल की खोज का स्टोरीबोर्ड
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fantasy storytelling prompt that tracks a character's discovery of a glowing alien egg in a magical forest, featuring consistent character identity across scenes.
+> एक काल्पनिक कहानी का प्रॉम्प्ट जो एक जादुई जंगल में एक चमकते हुए एलियन अंडे की खोज को दर्शाता है, जिसमें सभी दृश्यों में पात्र की पहचान एक समान रहती है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Main Character Consistency
-Young adventurous woman, same appearance throughout all shots, realistic face, long dark hair, casual outdoor explorer outfit, expressive eyes, cinematic lighting, ultra-realistic style, detailed skin texture, natural movements, consistent character identity in every scene.
+मुख्य पात्र की निरंतरता (Main Character Consistency)
+युवा साहसी महिला, सभी शॉट्स में एक जैसा रूप, यथार्थवादी चेहरा, लंबे काले बाल, कैजुअल आउटडोर एक्सप्लोरर पोशाक, भावपूर्ण आँखें, सिनेमाई लाइटिंग, अल्ट्रा-रियलिस्टिक स्टाइल, विस्तृत त्वचा बनावट, स्वाभाविक हरकतें, हर दृश्य में एक समान पात्र पहचान।
 
 ---
 
-### Scene 1 (0–3 sec) — Discovery
+### दृश्य 1 (0–3 सेकंड) — खोज
 
-**Prompt:**
-A magical forest at sunrise filled with tall ancient trees, glowing plants, floating particles, and soft golden light filtering through the leaves. A young adventurous woman walks carefully through the forest, looking around with curiosity. Suddenly she notices a mysterious glowing egg resting among moss-covered roots. The egg emits a soft blue and purple light, illuminating the surrounding plants. The camera slowly pushes toward the egg as the girl kneels beside it with a surprised expression. Ultra-realistic cinematic fantasy movie, shallow depth of field, volumetric lighting, highly detailed environment, 4K.
-
----
-
-### Scene 2 (3–7 sec) — The Egg Hatches
-
-**Prompt:**
-Close-up of the mysterious glowing egg in the forest. Small cracks begin spreading across its luminous shell while magical energy pulses from within. The young woman watches in amazement, her eyes reflecting the glowing light. Tiny glowing particles float into the air as the cracks rapidly expand. Bright colorful light escapes through the openings. Cinematic camera orbit around the egg, dramatic fantasy atmosphere, ultra-realistic textures, movie-quality visual effects, detailed lighting, 4K.
+**प्रॉम्प्ट:**
+सूर्योदय के समय एक जादुई जंगल, जो ऊंचे प्राचीन पेड़ों, चमकते पौधों, तैरते कणों और पत्तियों के बीच से छनकर आती हल्की सुनहरी रोशनी से भरा है। एक युवा साहसी महिला सावधानी से जंगल में चल रही है, उत्सुकता से चारों ओर देख रही है। अचानक वह काई से ढकी जड़ों के बीच एक रहस्यमय चमकते हुए अंडे को देखती है। अंडा एक हल्की नीली और बैंगनी रोशनी उत्सर्जित कर रहा है, जो आसपास के पौधों को रोशन कर रहा है। कैमरा धीरे-धीरे अंडे की ओर बढ़ता है और लड़की आश्चर्यचकित भाव के साथ उसके पास घुटनों के बल बैठ जाती है। अल्ट्रा-रियलिस्टिक सिनेमाई फैंटेसी फिल्म, शैलो डेप्थ ऑफ फील्ड, वॉल्यूमेट्रिक लाइटिंग, अत्यधिक विस्तृत वातावरण, 4K।
 
 ---
 
-### Scene 3 (7–10 sec) — First Contact
+### दृश्य 2 (3–7 सेकंड) — अंडे का फूटना
 
-**Prompt:**
-The egg finally opens, revealing an adorable baby alien creature with large glowing eyes, tiny ears, and soft bioluminescent skin. The creature slowly climbs out of the shell and looks directly at the young woman. It tilts its head curiously and gives a warm smile. The girl smiles back with wonder and excitement. Magical forest lights shimmer around them as the camera slowly pulls back to reveal the beautiful fantasy environment. Heartwarming cinematic ending, ultra-realistic creature design, emotional movie scene, volumetric lighting, 4K masterpiece.
+**प्रॉम्प्ट:**
+जंगल में रहस्यमय चमकते अंडे का क्लोज-अप। इसके चमकदार खोल पर छोटी दरारें फैलने लगती हैं जबकि भीतर से जादुई ऊर्जा की लहरें निकल रही हैं। युवा महिला आश्चर्य से देख रही है, उसकी आँखों में चमकती रोशनी का प्रतिबिंब है। जैसे-जैसे दरारें तेजी से फैलती हैं, छोटे चमकते कण हवा में तैरने लगते हैं। दरारों से चमकदार रंगीन रोशनी बाहर निकलती है। अंडे के चारों ओर सिनेमाई कैमरा ऑर्बिट, नाटकीय काल्पनिक वातावरण, अल्ट्रा-रियलिस्टिक बनावट, मूवी-क्वालिटी विजुअल इफेक्ट्स, विस्तृत लाइटिंग, 4K।
 
-**Style Tags:**
-Ultra-realistic, cinematic fantasy adventure, Hollywood movie quality, volumetric lighting, magical forest, emotional storytelling, highly detailed, realistic physics, depth of field, masterpiece, 4K, epic fantasy atmosphere.
+---
+
+### दृश्य 3 (7–10 सेकंड) — पहला संपर्क
+
+**प्रॉम्प्ट:**
+अंडा अंततः खुलता है, जिससे एक प्यारा सा बेबी एलियन जीव बाहर आता है जिसकी बड़ी चमकती आँखें, छोटे कान और नरम बायो-ल्यूमिनेसेंट त्वचा है। जीव धीरे-धीरे खोल से बाहर निकलता है और सीधे युवा महिला की ओर देखता है। वह उत्सुकता से अपना सिर झुकाता है और एक प्यारी सी मुस्कान देता है। लड़की भी आश्चर्य और उत्साह के साथ मुस्कुराती है। उनके चारों ओर जादुई जंगल की रोशनी झिलमिला रही है और कैमरा धीरे-धीरे पीछे हटता है, जिससे सुंदर काल्पनिक वातावरण दिखाई देता है। दिल को छू लेने वाला सिनेमाई अंत, अल्ट्रा-रियलिस्टिक जीव डिजाइन, भावनात्मक मूवी दृश्य, वॉल्यूमेट्रिक लाइटिंग, 4K मास्टरपीस।
+
+**स्टाइल टैग्स:**
+अल्ट्रा-रियलिस्टिक, सिनेमाई फैंटेसी एडवेंचर, हॉलीवुड मूवी क्वालिटी, वॉल्यूमेट्रिक लाइटिंग, जादुई जंगल, भावनात्मक कहानी, अत्यधिक विस्तृत, यथार्थवादी भौतिकी, डेप्थ ऑफ फील्ड, मास्टरपीस, 4K, महाकाव्य काल्पनिक वातावरण।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df1276c70fff66948d33c141ce2c2bcb/thumbnails/thumbnail.jpg" width="600" alt="Magical Forest Discovery Storyboard">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df1276c70fff66948d33c141ce2c2bcb/thumbnails/thumbnail.jpg" width="600" alt="जादुई जंगल की खोज का स्टोरीबोर्ड">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6010)**
 
 **लेखक:** [Jasmine Ai](https://x.com/jasminekhan90_) | **स्रोत:** [Link](https://x.com/jasminekhan90_/status/2065718254128255249) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### Soccer Knuckleball Free Kick Simulation
+### सॉकर नकलबॉल फ्री किक सिमुलेशन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex video prompt for a soccer goal scene, using diagrammatic reference images to control ball trajectory and physical movement.
+> सॉकर गोल दृश्य के लिए एक जटिल वीडियो प्रॉम्प्ट, जिसमें गेंद के प्रक्षेपवक्र और शारीरिक गति को नियंत्रित करने के लिए आरेखीय संदर्भ छवियों का उपयोग किया गया है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Use @image1 side-view trajectory diagram) and @image2 (top-down trajectory diagram) as the exact reference for the ball's flight path. The red line in @Image1 defines the ball's vertical arc — rising sharply after the kick, peaking around the halfway line, then dipping down hard into the left goal (knuckleball dip). The red line in @Image2 defines the ball's horizontal route — traveling diagonally from the kick spot near the halfway line straight toward the goal in the lower-left, curving only slightly at the very end into the corner. The ball is kicked from the point labeled "kick" and ends inside the goal labeled "goal". Shot count: 4 | Duration: 10s | Aspect ratio: 16:9 CONTEXT: Fictional FIFA World Cup match, Japan vs Denmark. Packed stadium under bright daylight, green striped pitch. A Japanese national team player — blonde hair, left-footed (southpaw), blue Japan home kit — takes a long-range direct free kick. The ball is struck with no spin (knuckleball), so it flies fast and straight, then suddenly dips and dives into the top corner of the Denmark goal. STYLE: cinematic sports broadcast realism, 4K ultra-high resolution, natural daylight, sharp detail, realistic grass and stadium crowd, smooth slow-motion accents, stable footage, no jitter, no distortion, no deformation, photorealistic players. [0s – 2.5s] SHOT 1 — THE STRIKE. Low-angle medium shot behind the blonde left-footed Japanese player. He plants his right foot and swings his left foot through the ball with a clean, flat no-spin contact. Camera: slow push-in. Crowd noise swells. [2.5s – 5s] SHOT 2 — RISING FLIGHT (side view). Side-on tracking shot following the ball as it rises and climbs over the halfway line, exactly matching the upward arc of the red line in @Image1. The ball wobbles slightly with no rotation. Camera: smooth lateral tracking with the ball. [5s – 7.5s] SHOT 3 — THE DIP (overhead transition). High overhead angle showing the ball cutting diagonally across the pitch toward the lower-left goal, matching the route of the red line in @Image2, then dipping downward. Camera: high aerial following the ball's path. [7.5s – 10s] SHOT 4 — THE GOAL. Behind-the-goal shot. The ball dives into the top corner of the Denmark net, rippling the netting. The goalkeeper dives too late. Camera: slow pull-out as the crowd erupts. Slow-motion on the net ripple. Audio: live stadium ambience, rising crowd roar, sharp ball-strike sound, explosive goal celebration. Avoid: jitter, distortion, blur, deformation, extra players blocking the ball, wrong-footed kick (must be LEFT foot), spinning/curling ball (must be knuckleball, no spin). NO SUBTITLES. NO TEXT ON SCREEN. NO CAPTIONS. NO WATERMARKS.
+गेंद के उड़ान पथ के सटीक संदर्भ के रूप में @image1 (साइड-व्यू प्रक्षेपवक्र आरेख) और @image2 (टॉप-डाउन प्रक्षेपवक्र आरेख) का उपयोग करें। @Image1 में लाल रेखा गेंद के ऊर्ध्वाधर चाप को परिभाषित करती है — किक के बाद तेजी से ऊपर उठना, आधे रास्ते के आसपास चरम पर पहुंचना, और फिर बाएं गोल में तेजी से नीचे गिरना (नकलबॉल डिप)। @Image2 में लाल रेखा गेंद के क्षैतिज मार्ग को परिभाषित करती है — आधे रास्ते के पास किक स्पॉट से सीधे निचले बाएं गोल की ओर तिरछी यात्रा करना, अंत में कोने की ओर केवल थोड़ा मुड़ना। गेंद को "kick" लेबल वाले बिंदु से किक किया जाता है और "goal" लेबल वाले गोल के अंदर समाप्त होती है। शॉट संख्या: 4 | अवधि: 10 सेकंड | आस्पेक्ट रेशियो: 16:9 संदर्भ: काल्पनिक FIFA विश्व कप मैच, जापान बनाम डेनमार्क। तेज दिन के उजाले में भरा हुआ स्टेडियम, हरे रंग की धारीदार पिच। एक जापानी राष्ट्रीय टीम का खिलाड़ी — सुनहरे बाल, बाएं पैर वाला (साउथपॉ), नीली जापान होम किट — लंबी दूरी की सीधी फ्री किक लेता है। गेंद को बिना स्पिन (नकलबॉल) के मारा जाता है, इसलिए यह तेज और सीधी उड़ती है, फिर अचानक डेनमार्क के गोल के ऊपरी कोने में गोता लगाती है। शैली: सिनेमाई स्पोर्ट्स ब्रॉडकास्ट यथार्थवाद, 4K अल्ट्रा-हाई रिज़ॉल्यूशन, प्राकृतिक दिन का प्रकाश, स्पष्ट विवरण, यथार्थवादी घास और स्टेडियम की भीड़, स्मूथ स्लो-मोशन एक्सेंट, स्थिर फुटेज, कोई जिटर नहीं, कोई विकृति नहीं, कोई विरूपण नहीं, फोटो-यथार्थवादी खिलाड़ी। [0s – 2.5s] शॉट 1 — स्ट्राइक। सुनहरे बालों वाले बाएं पैर के जापानी खिलाड़ी के पीछे से लो-एंगल मीडियम शॉट। वह अपना दाहिना पैर जमाता है और अपने बाएं पैर को गेंद के माध्यम से एक साफ, सपाट बिना-स्पिन संपर्क के साथ घुमाता है। कैमरा: धीरे-धीरे आगे बढ़ना। भीड़ का शोर बढ़ता है। [2.5s – 5s] शॉट 2 — बढ़ती उड़ान (साइड व्यू)। साइड-ऑन ट्रैकिंग शॉट जो गेंद का पीछा करता है जैसे ही यह ऊपर उठती है और आधे रास्ते के ऊपर चढ़ती है, जो @Image1 में लाल रेखा के ऊपर की ओर चाप से बिल्कुल मेल खाता है। गेंद बिना किसी रोटेशन के थोड़ी डगमगाती है। कैमरा: गेंद के साथ स्मूथ लेटरल ट्रैकिंग। [5s – 7.5s] शॉट 3 — डिप (ओवरहेड ट्रांजिशन)। उच्च ओवरहेड कोण जो गेंद को पिच के पार निचले बाएं गोल की ओर तिरछे रूप से काटते हुए दिखाता है, जो @Image2 में लाल रेखा के मार्ग से मेल खाता है, फिर नीचे की ओर झुकता है। कैमरा: गेंद के पथ का अनुसरण करने वाला उच्च एरियल शॉट। [7.5s – 10s] शॉट 4 — गोल। गोल के पीछे से शॉट। गेंद डेनमार्क नेट के ऊपरी कोने में गोता लगाती है, नेट को हिलाती है। गोलकीपर बहुत देर से गोता लगाता है। कैमरा: भीड़ के फटने पर धीरे-धीरे पीछे हटना। नेट रिपल पर स्लो-मोशन। ऑडियो: लाइव स्टेडियम एम्बिएंस, बढ़ती भीड़ का शोर, गेंद के टकराने की तेज आवाज, विस्फोटक गोल सेलिब्रेशन। बचें: जिटर, विकृति, धुंधलापन, विरूपण, गेंद को रोकने वाले अतिरिक्त खिलाड़ी, गलत पैर से किक (बाएं पैर का होना अनिवार्य है), घूमती/मुड़ती गेंद (नकलबॉल होनी चाहिए, कोई स्पिन नहीं)। कोई सबटाइटल नहीं। स्क्रीन पर कोई टेक्स्ट नहीं। कोई कैप्शन नहीं। कोई वॉटरमार्क नहीं।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c06f3e1a6ce756953879f90f6785eb79/thumbnails/thumbnail.jpg" width="600" alt="Soccer Knuckleball Free Kick Simulation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c06f3e1a6ce756953879f90f6785eb79/thumbnails/thumbnail.jpg" width="600" alt="सॉकर नकलबॉल फ्री किक सिमुलेशन">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6023)**
 
 **लेखक:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **स्रोत:** [Link](https://x.com/tanabe_fragm/status/2065695931455136060) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### Fizz Pop CGI Drink Commercial
+### Fizz Pop CGI ड्रिंक कमर्शियल
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Pixar-style 3D animated commercial for a fruit drink set in a sunlit morning kitchen.
+> धूप से भरी सुबह की रसोई में सेट किए गए फ्रूट ड्रिंक के लिए पिक्सर-स्टाइल (Pixar-style) 3D एनिमेटेड कमर्शियल।
 
 #### 📝 प्रॉम्पट
 
 ```
-15-second Pixar CGI animation commercial for FIZZ POP fizzy fruit drink. Use hero frame as strict visual anchor for characters, product, setting, lighting, and color.
+FIZZ POP फिज़ी फ्रूट ड्रिंक के लिए 15-सेकंड का पिक्सर (Pixar) CGI एनिमेशन कमर्शियल। किरदारों, प्रोडक्ट, सेटिंग, लाइटिंग और रंग के लिए हीरो फ्रेम को सख्त विजुअल एंकर के रूप में उपयोग करें।
 
-STYLE: Full Pixar feature-film CGI quality. Warm sunny kitchen. Golden morning
+स्टाइल: फुल पिक्सर (Pixar) फीचर-फिल्म CGI क्वालिटी। गर्म धूप वाली रसोई। सुनहरी सुबह
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/de3bf8cd861f72447762147dfb1c9f3d/thumbnails/thumbnail.jpg" width="600" alt="Fizz Pop CGI Drink Commercial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/de3bf8cd861f72447762147dfb1c9f3d/thumbnails/thumbnail.jpg" width="600" alt="Fizz Pop CGI ड्रिंक कमर्शियल">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6018)**
 
@@ -1197,66 +1197,66 @@ STYLE: Full Pixar feature-film CGI quality. Warm sunny kitchen. Golden morning
 **लेखक:** [Harboris](https://x.com/harboriis) | **स्रोत:** [Link](https://x.com/harboriis/status/2065665730809565678) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### Robot World Cup broadcast video prompt
+### रोबोट वर्ल्ड कप प्रसारण वीडियो प्रॉम्प्ट
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A high-quality sports broadcast prompt for generating a sci-fi football match where silver metallic robots play for the Chinese team against humans in the 2030 World Cup.
+> 2030 वर्ल्ड कप में चीनी टीम के लिए चांदी के धात्विक रोबोटों और मनुष्यों के बीच खेले जा रहे एक साइंस-फिक्शन फुटबॉल मैच को जेनरेट करने के लिए एक उच्च-गुणवत्ता वाला स्पोर्ट्स ब्रॉडकास्ट प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-[Style] World Cup TV live broadcast texture (Live Sports Broadcast), authentic broadcast camera positions, slight signal scan lines, realistic sci-fi elements (Photorealistic Robots), 8K ultra-high definition.
-[Duration] 15 seconds
-[First Frame] Use the uploaded image as the first frame: a long-haired woman in a red vest in the stands cheering with surrounding fans waving red flags, including a live scoreboard.
-[Scene] 2030 World Cup Final venue, a massive stadium filled to capacity, green football pitch. The Chinese team consists entirely of silver-white metallic humanoid robot players (hydraulic structures at joints, red team crest on chest), the US team consists of ordinary human players in white jerseys.
+[Style] वर्ल्ड कप टीवी लाइव प्रसारण टेक्सचर (Live Sports Broadcast), प्रामाणिक प्रसारण कैमरा पोजीशन, हल्की सिग्नल स्कैन लाइनें, यथार्थवादी साइंस-फिक्शन तत्व (Photorealistic Robots), 8K अल्ट्रा-हाई डेफिनिशन।
+[Duration] 15 सेकंड
+[First Frame] अपलोड की गई छवि का उपयोग पहले फ्रेम के रूप में करें: स्टैंड में लाल बनियान पहने एक लंबे बालों वाली महिला, जो आसपास के प्रशंसकों के साथ लाल झंडे लहराते हुए उत्साह बढ़ा रही है, जिसमें एक लाइव स्कोरबोर्ड भी शामिल है।
+[Scene] 2030 वर्ल्ड कप फाइनल स्थल, दर्शकों से खचाखच भरा एक विशाल स्टेडियम, हरा-भरा फुटबॉल मैदान। चीनी टीम पूरी तरह से चांदी-सफेद धात्विक ह्यूमनॉइड रोबोट खिलाड़ियों (जोड़ों पर हाइड्रोलिक संरचनाएं, छाती पर लाल टीम का प्रतीक) से बनी है, अमेरिकी टीम सफेद जर्सी में सामान्य मानव खिलाड़ियों से बनी है।
 
-[00:00-00:03] Scene 1: Stands opening
-Continuation of the first frame: The woman in the red vest and fans behind her wave red flags and cheer, the stands are a sea of red, the crowd is restless, slight flickering of live scan lines. Ambient live sound: overwhelming cheers and drums.
+[00:00-00:03] दृश्य 1: स्टैंड की शुरुआत
+पहले फ्रेम का विस्तार: लाल बनियान वाली महिला और उसके पीछे के प्रशंसक लाल झंडे लहराते हैं और उत्साह बढ़ाते हैं, स्टैंड लाल रंग का सागर बन गया है, भीड़ उत्साहित है, लाइव स्कैन लाइनों की हल्की टिमटिमाहट। एम्बिएंट लाइव साउंड: जबरदस्त चीयर्स और ड्रम की आवाज।
 
-[00:03-00:10] Scene 2: Robot passing + bicycle kick (Broadcast Wide → Slow-mo)
-Switch to a standard broadcast angle overlooking the pitch: three Chinese robot players pass quickly on the ground near the penalty area, one-touch passing back and forth, sharp sound of metallic feet hitting the ball, human US players missing their tackles.
-A winger robot suddenly lofts a pass to the center of the box, the center robot leaps into the air, its entire metallic body rotating backward in the air for a bicycle kick (Bicycle Kick, switched to Super Slow-mo)—the ball rockets into the top corner, the net bulging violently.
-The scoreboard in the top left corner changes to CHN 2 - 0 USA.
-Live commentator roars excitedly (English): "Unbelievable! A bicycle kick! 2-0 China!"
+[00:03-00:10] दृश्य 2: रोबोट पासिंग + बाइसिकल किक (ब्रॉडकास्ट वाइड → स्लो-मो)
+मैदान को देखते हुए एक मानक प्रसारण कोण पर स्विच करें: तीन चीनी रोबोट खिलाड़ी पेनल्टी क्षेत्र के पास तेजी से पासिंग करते हैं, वन-टच पासिंग, गेंद को हिट करते हुए धात्विक पैरों की तेज आवाज, मानव अमेरिकी खिलाड़ी टैकल करने से चूक जाते हैं।
+एक विंगर रोबोट अचानक बॉक्स के केंद्र में गेंद को हवा में उछालता है, सेंटर रोबोट हवा में छलांग लगाता है, उसका पूरा धात्विक शरीर बाइसिकल किक के लिए हवा में पीछे की ओर घूमता है (Bicycle Kick, सुपर स्लो-मो में स्विच)—गेंद तेजी से ऊपरी कोने में जाती है, नेट जोर से हिलता है।
+ऊपरी बाएं कोने में स्कोरबोर्ड CHN 2 - 0 USA में बदल जाता है।
+लाइव कमेंटेटर उत्साह के साथ चिल्लाता है (अंग्रेजी): "Unbelievable! A bicycle kick! 2-0 China!"
 
-[00:10-00:15] Scene 3: Match cut back to stands cheering
-Cut back to the same camera position as the first frame: the woman in the red vest jumps up from her seat, raising both fists in celebration, long hair flying, a brilliant smile, surrounding fans collectively standing up in excitement, red flags waving frantically, people hugging each other.
-The sound of the crowd reaches its peak, the camera tilts up slightly and freezes on the moment she jumps up to cheer.
+[00:10-00:15] दृश्य 3: मैच वापस स्टैंड की खुशी पर
+पहले फ्रेम वाली कैमरा पोजीशन पर वापस कट करें: लाल बनियान वाली महिला अपनी सीट से उछलती है, जश्न में दोनों मुट्ठियां ऊपर उठाती है, लंबे बाल हवा में लहरा रहे हैं, चेहरे पर शानदार मुस्कान, आसपास के प्रशंसक उत्साह में एक साथ खड़े हो जाते हैं, लाल झंडे तेजी से लहरा रहे हैं, लोग एक-दूसरे को गले लगा रहे हैं।
+भीड़ का शोर अपने चरम पर पहुंच जाता है, कैमरा थोड़ा ऊपर की ओर झुकता है और उसके खुशी में उछलने के क्षण पर फ्रीज हो जाता है।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61024539a3067ba7e008c38158960f3d/thumbnails/thumbnail.jpg" width="600" alt="Robot World Cup broadcast video prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61024539a3067ba7e008c38158960f3d/thumbnails/thumbnail.jpg" width="600" alt="रोबोट वर्ल्ड कप प्रसारण वीडियो प्रॉम्प्ट">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6021)**
 
 **लेखक:** [John](https://x.com/johnAGI168) | **स्रोत:** [Link](https://x.com/johnAGI168/status/2065653004158529841) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### Cargo Plane Action Sequence
+### कार्गो प्लेन एक्शन सीक्वेंस
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-altitude action scene featuring secret agents battling on the wing of a military cargo plane at sunset.
+> सूर्यास्त के समय एक सैन्य कार्गो विमान के पंख पर लड़ते गुप्त एजेंटों का एक हाई-एल्टीट्यूड एक्शन दृश्य।
 
 #### 📝 प्रॉम्पट
 
 ```
-Hyper-realistic cinematic action sequence, 15 seconds, aspect ratio 16:9. 
+हाइपर-रियलिस्टिक सिनेमैटिक एक्शन सीक्वेंस, 15 सेकंड, आस्पेक्ट रेशियो 16:9।
 
-A large military cargo plane is flying high above the clouds at sunset. The rear cargo ramp is open, violent wind tears through the aircraft, and two fighters are battling on the wing of the plane. One is a skilled secret agent in a dark tactical suit, the other is a dangerous enemy operative in black combat gear. The metal wing vibrates, engines roar, clouds rush past below, and loose cargo inside the aircraft is being pulled toward the open ramp.  
+सूर्यास्त के समय बादलों के ऊपर एक बड़ा सैन्य कार्गो विमान उड़ रहा है। पीछे का कार्गो रैंप खुला है, तेज हवा विमान के अंदर से गुजर रही है, और दो लड़ाके विमान के पंख पर लड़ रहे हैं। एक गहरे रंग के टैक्टिकल सूट में एक कुशल गुप्त एजेंट है, और दूसरा काले कॉम्बैट गियर में एक खतरनाक दुश्मन ऑपरेटिव है। धातु का पंख कांप रहा है, इंजन गरज रहे हैं, नीचे बादल तेजी से गुजर रहे हैं, और विमान के अंदर रखा ढीला सामान खुले रैंप की ओर खिंचा चला जा रहा है।
 
-Camera angle 1: wide exterior shot, the cargo plane cuts through the sky above the clouds, the rear ramp is open, and the two fighters struggle on the wing near the engine while wind rips at their clothing.  
+कैमरा एंगल 1: वाइड एक्सटीरियर शॉट, कार्गो प्लेन बादलों के ऊपर आकाश को चीरते हुए आगे बढ़ रहा है, पीछे का रैंप खुला है, और दोनों लड़ाके इंजन के पास पंख पर संघर्ष कर रहे हैं जबकि हवा उनके कपड़ों को फाड़ रही है।
 
-Camera angle 2: close dynamic shot on the wing, the secret agent and enemy operative exchange fast punches and kicks while trying to keep balance on the vibrating metal surface. Their hands grip the edge of the wing, boots slide, and the wind is powerful and dangerous.  
+कैमरा एंगल 2: पंख पर क्लोज डायनामिक शॉट, गुप्त एजेंट और दुश्मन ऑपरेटिव तेजी से घूंसे और लात मार रहे हैं और कांपती हुई धातु की सतह पर संतुलन बनाए रखने की कोशिश कर रहे हैं। उनके हाथ पंख के किनारे को पकड़े हुए हैं, जूते फिसल रहे हैं, और हवा शक्तिशाली और खतरनाक है।
 
-Camera angle 3: dramatic side shot, the enemy almost throws the agent off the wing. The agent slips, hangs from the edge with one hand, then pulls himself back up and counterattacks. Inside the plane, cargo crates break loose and slide toward the open rear ramp.  
+कैमरा एंगल 3: ड्रामेटिक साइड शॉट, दुश्मन लगभग एजेंट को पंख से नीचे फेंक देता है। एजेंट फिसल जाता है, एक हाथ से किनारे पर लटक जाता है, फिर खुद को वापस ऊपर खींचता है और जवाबी हमला करता है। विमान के अंदर, कार्गो क्रेट टूटकर खुले पिछले रैंप की ओर फिसल रहे हैं।
 
-Final action beat: the agent defeats the enemy with one hard strike, then sprints across the wing and leaps through the open rear cargo ramp back into the aircraft just as the enemy loses balance and falls away into the clouds.  Final moment: inside the cargo plane, the agent lands hard and rolls across the metal floor as loose cargo slides past, the open ramp behind him framing the sky. 
+अंतिम एक्शन बीट: एजेंट एक जोरदार प्रहार से दुश्मन को हरा देता है, फिर पंख पर दौड़ता है और खुले पिछले कार्गो रैंप से छलांग लगाकर वापस विमान के अंदर आ जाता है, ठीक उसी समय जब दुश्मन अपना संतुलन खो देता है और बादलों में नीचे गिर जाता है। अंतिम क्षण: कार्गो प्लेन के अंदर, एजेंट जोर से जमीन पर गिरता है और धातु के फर्श पर लुढ़कता है जबकि ढीला सामान उसके पास से फिसल रहा है, उसके पीछे खुला रैंप आकाश को फ्रेम कर रहा है।
 
-Style: hyper-realistic, cinematic, intense action, realistic wind force, dramatic sky, strong sense of altitude and danger, fast but readable camera movement, detailed aircraft surface, rushing clouds, no text, no logos, no cartoon style, no slow motion, no extra main characters. Keep proportions. Keep style and features. Aspect ratio
+स्टाइल: हाइपर-रियलिस्टिक, सिनेमैटिक, इंटेंस एक्शन, यथार्थवादी हवा का दबाव, ड्रामेटिक स्काई, ऊंचाई और खतरे का गहरा अहसास, तेज लेकिन स्पष्ट कैमरा मूवमेंट, विस्तृत विमान सतह, तेजी से गुजरते बादल, कोई टेक्स्ट नहीं, कोई लोगो नहीं, कोई कार्टून स्टाइल नहीं, कोई स्लो मोशन नहीं, कोई अतिरिक्त मुख्य पात्र नहीं। अनुपात बनाए रखें। स्टाइल और फीचर्स बनाए रखें। आस्पेक्ट रेशियो
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f482c77eabae517f4410c92d32014582/thumbnails/thumbnail.jpg" width="600" alt="Cargo Plane Action Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f482c77eabae517f4410c92d32014582/thumbnails/thumbnail.jpg" width="600" alt="कार्गो प्लेन एक्शन सीक्वेंस">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6005)**
 
@@ -1267,12 +1267,12 @@ Style: hyper-realistic, cinematic, intense action, realistic wind force, dramati
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A highly detailed cinematic prompt for an urban scene where pictograms on road signs and signals come to life and move playfully in a photorealistic environment.
+> एक शहरी दृश्य के लिए अत्यधिक विस्तृत सिनेमैटिक प्रॉम्प्ट, जहाँ सड़क के संकेतों और सिग्नलों के पिक्टोग्राम जीवंत हो उठते हैं और एक फोटो-रियलिस्टिक वातावरण में चंचलता से हरकत करते हैं।
 
 #### 📝 प्रॉम्पट
 
 ```
-Image 1 = Storyboard reference. Based on the attached storyboard image {{Image 1}}, create a high-quality 15-second, 16:9 landscape photorealistic video. Theme: 'A world where symbols inside road signs and signals in a real city play freely when no one is looking.' Basic Concept: The stage is a highly realistic urban intersection and road space. The overall look is a beautiful, cinematic, atmospheric photorealistic film scene. However, the surreal element is that only the 'symbols, people, numbers, arrows, bicycle marks, etc.' drawn inside the signs, traffic lights, and road markings move freely, happily, and dynamically as if they were alive. The key is not to add flashy VFX around them. The focus of interest is the movement of the markings within the signs themselves. Minimize traces of light, particles, auras, or magical effects; if necessary, limit them to subtle afterimages or blurs. Priority is given to making what the symbols inside are doing immediately clear. Rules for Worldview/Presentation: Sign bodies, traffic light bodies, cityscapes, roads, utility poles, buildings, and people exist realistically. Primarily, the designs, pictograms, numbers, arrows, and symbols inside the signs and signals move. They should basically move within the sign's frame, but in some cuts, they can slightly protrude, almost jump out, lean out, or play by returning inside the frame. Movements are comical and cute but not too childish. Maintain an exquisite reality where one might think 'this could really be happening.' Do not rely on effects. Interest should come from the 'acting of the symbols themselves'—running, dancing, jumping, multiplying, lining up, yielding, rushing, being puzzled, looking back, stretching, shrinking, turning. Feature many signs, signals, and guide displays in the urban space, and show different movements happening in various parts of the screen to give the feeling that the entire city is secretly alive. Video Flow: Based on the storyboard panel order, follow this flow: 0-2s: A beautiful establishing shot of a city intersection or road. Could be evening/magic hour or a clear morning/afternoon. A person is walking away or looking at the intersection. It looks like an ordinary street at first, but upon closer look, the green pedestrian figure in the signal is not walking normally but stepping happily. An introduction to make the audience think, 'Wait, did it just move?' 2-5s: Quick close-ups of signals and signs. The green signal figure walks -> runs -> jumps lightly -> more companions appear and move in line. Red signal figure stands tall -> hands on hips -> dances -> waves arms. Countdown numbers don't just decrease but shake, jump, and lean forward as if in a hurry. Arrow signs deform their tips or lines to show the direction of travel. Each movement must be large and clearly visible at a glance. 5-8s: Increase the variety of signs and show the bustle of the whole city. In a wide pedestrian signal, multiple figures march, overtake, and form ranks. Bicycle marks move as if pedaling. Round signs for 'No Entry' or 'Road Closed' have their white bands or internal symbols showing a grumpy face or shifting slightly. Signs for construction, caution, or school zones feature people or silhouettes looking panicked, running, or having a short conversation. Arrows on electronic boards flow continuously, connecting like waves. Emphasize the density here—'many signs are present, with different movements happening everywhere.' 8-12s: Section with more dynamic movement. The green signal figure runs to the edge of the sign frame, leans slightly out, then returns. The red figure dances while signaling 'Wait, wait!' Arrow marks compete for direction, then spin and line up. Countdown displays shrink or bounce according to the remaining seconds. Signs in the distance, overhead boards, etc., all move simultaneously. This part raises tension through 'acting and editing' rather than effects. 12-15s: Final wide shot showing many signs throughout the city alive at once. Mid-to-wide angle of the intersection. Numerous signals, arrow signs, guide boards, caution signs, and bicycle signs exist in the frame, with their symbols moving freely. However, the city atmosphere itself is beautiful, cinematic, and leaves a quiet resonance. Finally, pedestrians walk away without noticing, leaving an impression of a small celebration continuing only within the signs. Style: Ultra-high quality photorealistic cinematic; beautiful live-action film style; atmospheric use of natural light; cinematic lens feel; texture of real urban space; detailed reproduction of city signs, signals, and guide boards. Cute but not too childish, maintaining cinematic quality. Camera: Start with a wide intro shot, followed by close-ups of signs, mid-range shots, and deep cityscapes. Use light dolly, pan, tilt, forward movement, and lateral movement to avoid a static slideshow. Zoom in enough to see the movements inside the signs. Ideally, the final shot should be a slightly high or wide-angle view of the urban space with many signs. Editing: Tempo is brisk within 15 seconds, but ensure movements are clear. Maintain length for each cut to convey 'what is playing and how.' Rhythmic but maintains high-quality film montage style, not excessive flashy MV editing. Movement Direction (Most Important): Symbols, people, numbers, and arrows inside signs should act freely as follows: walking, running, skipping, jumping, lining up, increasing, decreasing, dancing, waving, panicking, getting angry, standing proudly, overtaking, protruding slightly from the frame and returning, responding to symbols in other signs, splitting into multiple bodies within the same sign, numbers bouncing/leaning/hurrying/shrinking/stretching, arrows undulating/curving/asserting direction, bicycle marks pedaling, caution sign figures running/stopping/looking back. All movements should be unified by showing the 'symbols inside are alive,' not the 'sign itself talking.' Color/Light: Can be morning, day, evening, or night, but prioritize beautiful natural light or cinematic urban lighting. Elegant contrast and realistic colors. Green/red signals and blue/yellow/red signs should be vivid but avoid looking too CG-like. Prohibited: No flashy VFX; do not hide behind magical light, particles, explosions, or excessive glow. Signs as a whole are not allowed to be personified or walk around. No large-scale floating signs or city-wide fantasy transformations. No simple slideshows. No text, subtitles, logos, or watermarks. Do not lean too far into children's animation; maintain live-action film-level beauty.
+Image 1 = स्टोरीबोर्ड संदर्भ। संलग्न स्टोरीबोर्ड छवि {{Image 1}} के आधार पर, 15-सेकंड का उच्च-गुणवत्ता वाला, 16:9 लैंडस्केप फोटो-रियलिस्टिक वीडियो बनाएं। थीम: 'एक ऐसी दुनिया जहाँ असली शहर के सड़क संकेतों और सिग्नलों के अंदर के प्रतीक तब स्वतंत्र रूप से खेलते हैं जब कोई उन्हें देख नहीं रहा होता।' मूल अवधारणा: मंच एक अत्यधिक यथार्थवादी शहरी चौराहा और सड़क का स्थान है। समग्र रूप एक सुंदर, सिनेमैटिक, वायुमंडलीय फोटो-रियलिस्टिक फिल्म दृश्य है। हालाँकि, असली तत्व यह है कि केवल संकेतों, ट्रैफिक लाइटों और सड़क चिह्नों के अंदर बने 'प्रतीक, लोग, संख्याएँ, तीर, साइकिल के निशान आदि' स्वतंत्र रूप से, खुशी से और गतिशील रूप से ऐसे चलते हैं जैसे वे जीवित हों। मुख्य बात यह है कि उनके चारों ओर भड़कीले VFX न जोड़ें। रुचि का केंद्र संकेतों के भीतर के चिह्नों की गति है। प्रकाश, कणों, आभा या जादुई प्रभावों के निशानों को कम से कम रखें; यदि आवश्यक हो, तो उन्हें सूक्ष्म आफ्टरइमेज या धुंधलापन तक सीमित रखें। इस बात को प्राथमिकता दी जाए कि अंदर के प्रतीक क्या कर रहे हैं, यह तुरंत स्पष्ट हो। विश्वदृष्टि/प्रस्तुति के नियम: संकेत निकाय, ट्रैफिक लाइट निकाय, शहर के दृश्य, सड़कें, उपयोगिता खंभे, इमारतें और लोग यथार्थवादी रूप से मौजूद हैं। मुख्य रूप से, संकेतों और सिग्नलों के अंदर के डिज़ाइन, पिक्टोग्राम, संख्याएँ, तीर और प्रतीक चलते हैं। उन्हें मूल रूप से संकेत के फ्रेम के भीतर चलना चाहिए, लेकिन कुछ कट्स में, वे थोड़ा बाहर निकल सकते हैं, लगभग बाहर कूद सकते हैं, झुक सकते हैं, या फ्रेम के अंदर वापस आकर खेल सकते हैं। हरकतें मजाकिया और प्यारी हैं लेकिन बहुत बचकानी नहीं। एक उत्कृष्ट वास्तविकता बनाए रखें जहाँ कोई सोच सके 'यह वास्तव में हो सकता है।' प्रभावों पर निर्भर न रहें। रुचि 'प्रतीकों के अभिनय' से आनी चाहिए—दौड़ना, नाचना, कूदना, गुणा करना, लाइन में लगना, रास्ता देना, दौड़ना, हैरान होना, पीछे मुड़कर देखना, खिंचना, सिकुड़ना, मुड़ना। शहरी स्थान में कई संकेतों, सिग्नलों और गाइड डिस्प्ले को शामिल करें, और स्क्रीन के विभिन्न हिस्सों में अलग-अलग हरकतें दिखाएं ताकि यह अहसास हो कि पूरा शहर गुप्त रूप से जीवित है। वीडियो प्रवाह: स्टोरीबोर्ड पैनल क्रम के आधार पर, इस प्रवाह का पालन करें: 0-2s: शहर के चौराहे या सड़क का एक सुंदर एस्टेब्लिशिंग शॉट। शाम/मैजिक ऑवर या साफ सुबह/दोपहर हो सकती है। एक व्यक्ति दूर जा रहा है या चौराहे को देख रहा है। यह पहली नज़र में एक सामान्य सड़क लगती है, लेकिन करीब से देखने पर, सिग्नल में हरा पैदल यात्री आंकड़ा सामान्य रूप से नहीं चल रहा है बल्कि खुशी से कदम रख रहा है। एक परिचय ताकि दर्शक सोचें, 'रुको, क्या वह अभी हिला?' 2-5s: सिग्नलों और संकेतों के त्वरित क्लोज-अप। हरा सिग्नल आंकड़ा चलता है -> दौड़ता है -> हल्का कूदता है -> अधिक साथी दिखाई देते हैं और लाइन में चलते हैं। लाल सिग्नल आंकड़ा सीधा खड़ा होता है -> कमर पर हाथ -> नाचता है -> हाथ हिलाता है। काउंटडाउन संख्याएँ केवल कम नहीं होतीं बल्कि कांपती हैं, कूदती हैं, और जल्दी में होने की तरह आगे झुकती हैं। तीर के संकेत यात्रा की दिशा दिखाने के लिए अपने सिरों या रेखाओं को विकृत करते हैं। प्रत्येक हरकत बड़ी और एक नज़र में स्पष्ट रूप से दिखाई देनी चाहिए। 5-8s: संकेतों की विविधता बढ़ाएं और पूरे शहर की हलचल दिखाएं। एक चौड़े पैदल यात्री सिग्नल में, कई आंकड़े मार्च करते हैं, आगे निकलते हैं और रैंक बनाते हैं। साइकिल के निशान ऐसे चलते हैं जैसे पैडल मार रहे हों। 'नो एंट्री' या 'रोड क्लोज्ड' के लिए गोल संकेतों में उनकी सफेद पट्टियों या आंतरिक प्रतीकों पर एक चिड़चिड़ा चेहरा होता है या वे थोड़ा खिसकते हैं। निर्माण, सावधानी, या स्कूल ज़ोन के संकेतों में लोग या सिलुएट घबराए हुए, दौड़ते हुए या छोटी बातचीत करते हुए दिखाई देते हैं। इलेक्ट्रॉनिक बोर्डों पर तीर लगातार बहते हैं, लहरों की तरह जुड़ते हैं। यहाँ घनत्व पर जोर दें—'कई संकेत मौजूद हैं, और हर जगह अलग-अलग हरकतें हो रही हैं।' 8-12s: अधिक गतिशील हरकत वाला खंड। हरा सिग्नल आंकड़ा संकेत फ्रेम के किनारे तक दौड़ता है, थोड़ा बाहर झुकता है, फिर वापस आ जाता है। लाल आंकड़ा 'रुको, रुको!' का संकेत देते हुए नाचता है। तीर के निशान दिशा के लिए प्रतिस्पर्धा करते हैं, फिर घूमते हैं और लाइन में लग जाते हैं। काउंटडाउन डिस्प्ले शेष सेकंड के अनुसार सिकुड़ते या उछलते हैं। दूर के संकेत, ओवरहेड बोर्ड आदि, सभी एक साथ चलते हैं। यह हिस्सा प्रभावों के बजाय 'अभिनय और संपादन' के माध्यम से तनाव बढ़ाता है। 12-15s: अंतिम वाइड शॉट जिसमें शहर भर के कई संकेत एक साथ जीवित दिखाई देते हैं। चौराहे का मिड-टू-वाइड एंगल। फ्रेम में कई सिग्नल, तीर के संकेत, गाइड बोर्ड, सावधानी संकेत और साइकिल संकेत मौजूद हैं, जिनके प्रतीक स्वतंत्र रूप से चल रहे हैं। हालाँकि, शहर का वातावरण स्वयं सुंदर, सिनेमैटिक है, और एक शांत प्रतिध्वनि छोड़ता है। अंत में, पैदल यात्री बिना ध्यान दिए चले जाते हैं, जिससे केवल संकेतों के भीतर जारी एक छोटे से उत्सव का प्रभाव पड़ता है। शैली: अल्ट्रा-हाई क्वालिटी फोटो-रियलिस्टिक सिनेमैटिक; सुंदर लाइव-एक्शन फिल्म शैली; प्राकृतिक प्रकाश का वायुमंडलीय उपयोग; सिनेमैटिक लेंस फील; वास्तविक शहरी स्थान की बनावट; शहर के संकेतों, सिग्नलों और गाइड बोर्डों का विस्तृत पुनरुत्पादन। प्यारा लेकिन बहुत बचकाना नहीं, सिनेमैटिक गुणवत्ता बनाए रखना। कैमरा: एक वाइड इंट्रो शॉट के साथ शुरू करें, उसके बाद संकेतों के क्लोज-अप, मिड-रेंज शॉट्स और गहरे शहर के दृश्य। स्थिर स्लाइड शो से बचने के लिए हल्के डॉली, पैन, टिल्ट, फॉरवर्ड मूवमेंट और लेटरल मूवमेंट का उपयोग करें। संकेतों के अंदर की हरकतों को देखने के लिए पर्याप्त ज़ूम इन करें। आदर्श रूप से, अंतिम शॉट शहरी स्थान का थोड़ा ऊंचा या वाइड-एंगल दृश्य होना चाहिए जिसमें कई संकेत हों। संपादन: 15 सेकंड के भीतर गति तेज है, लेकिन सुनिश्चित करें कि हरकतें स्पष्ट हैं। 'क्या चल रहा है और कैसे' यह बताने के लिए प्रत्येक कट की लंबाई बनाए रखें। लयबद्ध लेकिन उच्च-गुणवत्ता वाली फिल्म मोंटाज शैली बनाए रखें, न कि अत्यधिक भड़कीली MV एडिटिंग। गति की दिशा (सबसे महत्वपूर्ण): संकेतों के अंदर के प्रतीक, लोग, संख्याएँ और तीर इस प्रकार स्वतंत्र रूप से कार्य करने चाहिए: चलना, दौड़ना, स्किपिंग, कूदना, लाइन में लगना, बढ़ना, घटना, नाचना, हाथ हिलाना, घबराना, गुस्सा होना, गर्व से खड़ा होना, आगे निकलना, फ्रेम से थोड़ा बाहर निकलना और वापस आना, अन्य संकेतों में प्रतीकों को जवाब देना, एक ही संकेत के भीतर कई निकायों में विभाजित होना, संख्याओं का उछलना/झुकना/जल्दबाजी करना/सिकुड़ना/खिंचना, तीरों का लहराना/मुड़ना/दिशा बताना, साइकिल के निशानों का पैडल मारना, सावधानी संकेत के आंकड़ों का दौड़ना/रुकना/पीछे मुड़कर देखना। सभी हरकतें यह दिखाकर एकीकृत होनी चाहिए कि 'अंदर के प्रतीक जीवित हैं', न कि 'संकेत स्वयं बात कर रहा है'। रंग/प्रकाश: सुबह, दिन, शाम या रात हो सकती है, लेकिन सुंदर प्राकृतिक प्रकाश या सिनेमैटिक शहरी प्रकाश को प्राथमिकता दें। सुरुचिपूर्ण कंट्रास्ट और यथार्थवादी रंग। हरे/लाल सिग्नल और नीले/पीले/लाल संकेत जीवंत होने चाहिए लेकिन CG-जैसे दिखने से बचें। निषिद्ध: कोई भड़कीला VFX नहीं; जादुई प्रकाश, कणों, विस्फोटों या अत्यधिक चमक के पीछे न छिपें। संकेतों को समग्र रूप से मानवीकृत करने या चारों ओर चलने की अनुमति नहीं है। कोई बड़े पैमाने पर तैरते संकेत या शहरव्यापी फंतासी परिवर्तन नहीं। कोई साधारण स्लाइड शो नहीं। कोई टेक्स्ट, सबटाइटल, लोगो या वॉटरमार्क नहीं। बच्चों के एनिमेशन की ओर बहुत अधिक न झुकें; लाइव-एक्शन फिल्म-स्तरीय सुंदरता बनाए रखें।
 ```
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0fb18a092bfb1c48259d81691eb3a15b/thumbnails/thumbnail.jpg" width="600" alt="Sentient Road Signs Urban Animation">
@@ -1282,38 +1282,38 @@ Image 1 = Storyboard reference. Based on the attached storyboard image {{Image 1
 **लेखक:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **स्रोत:** [Link](https://x.com/Ryuki_Yano/status/2065642863350919459) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### Hair Salon Transformation Ad Prompt
+### हेयर सैलून ट्रांसफॉर्मेशन विज्ञापन प्रॉम्प्ट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic beauty commercial prompt showing a realistic transformation from wavy to straight hair in a luxury salon setting.
+> एक लक्जरी सैलून सेटिंग में घुंघराले बालों से सीधे बालों में यथार्थवादी परिवर्तन दिखाने वाला एक सिनेमैटिक ब्यूटी कमर्शियल प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-Use the uploaded image as the exact character reference. Maintain the same face, eyes, skin tone, hair color, and identity throughout the entire video.
+अपलोड की गई छवि का उपयोग सटीक कैरेक्टर रेफरेंस के रूप में करें। पूरे वीडियो के दौरान चेहरा, आंखें, त्वचा का रंग, बालों का रंग और पहचान एक समान बनाए रखें।
 
-15-second cinematic salon transformation video.
+15-सेकंड का सिनेमैटिक सैलून ट्रांसफॉर्मेशन वीडियो।
 
-Scene 1 (0-3s):
-Close-up of the beautiful young woman with long wavy dark brown hair. She looks at the camera and smiles softly. Luxury salon background, warm lighting, shallow depth of field. Slow camera push-in.
+दृश्य 1 (0-3s):
+लंबे घुंघराले गहरे भूरे बालों वाली खूबसूरत युवती का क्लोज-अप। वह कैमरे की ओर देखती है और धीरे से मुस्कुराती है। लक्जरी सैलून बैकग्राउंड, वार्म लाइटिंग, शैलो डेप्थ ऑफ फील्ड। कैमरा धीरे-धीरे आगे बढ़ता है।
 
-Scene 2 (3-8s):
-A professional hairstylist begins straightening her hair with a silver flat iron. Steam gently rises from the straightener. The camera follows the flat iron moving smoothly through the hair. Detailed hair strands transform from soft waves into sleek straight hair. Cinematic slow motion.
+दृश्य 2 (3-8s):
+एक प्रोफेशनल हेयरस्टाइलिस्ट सिल्वर फ्लैट आयरन से उसके बालों को सीधा करना शुरू करता है। स्ट्रेटनर से धीरे-धीरे भाप निकलती है। कैमरा बालों के बीच से सुचारू रूप से चलते हुए फ्लैट आयरन का पीछा करता है। बालों की विस्तृत लटें नरम लहरों से चिकने सीधे बालों में बदल जाती हैं। सिनेमैटिक स्लो मोशन।
 
-Scene 3 (8-12s):
-Multiple beauty shots from different angles. The hair flows naturally as more sections become perfectly straight, silky, and glossy. Dramatic lighting reflections on the hair. Premium luxury salon atmosphere.
+दृश्य 3 (8-12s):
+अलग-अलग कोणों से कई ब्यूटी शॉट्स। जैसे-जैसे अधिक हिस्से पूरी तरह से सीधे, रेशमी और चमकदार होते जाते हैं, बाल स्वाभाविक रूप से लहराते हैं। बालों पर नाटकीय लाइटिंग रिफ्लेक्शन। प्रीमियम लक्जरी सैलून का माहौल।
 
-Scene 4 (12-15s):
-Final reveal. The woman stands in front of a large illuminated mirror, touching her ultra-smooth glass-like straight hair. She smiles confidently and admires the transformation. Hair shines beautifully under salon lights. Camera slowly rotates around her and ends with a stunning close-up.
+दृश्य 4 (12-15s):
+अंतिम रिवील। महिला एक बड़े प्रकाशित दर्पण के सामने खड़ी है, अपने अल्ट्रा-स्मूथ कांच जैसे सीधे बालों को छू रही है। वह आत्मविश्वास से मुस्कुराती है और बदलाव की प्रशंसा करती है। सैलून की रोशनी में बाल खूबसूरती से चमकते हैं। कैमरा धीरे-धीरे उसके चारों ओर घूमता है और एक शानदार क्लोज-अप के साथ समाप्त होता है।
 
-Pixar-quality 3D animation, realistic hair physics, smooth motion, beauty commercial style, luxury salon, cinematic camera movement, ultra detailed, glossy hair reflections, professional advertisement quality, 9:16 vertical video, high realism, masterpiece, 8K.
+Pixar-क्वालिटी 3D एनिमेशन, यथार्थवादी हेयर फिजिक्स, स्मूथ मोशन, ब्यूटी कमर्शियल स्टाइल, लक्जरी सैलून, सिनेमैटिक कैमरा मूवमेंट, अल्ट्रा डिटेल्ड, बालों में चमकदार रिफ्लेक्शन, प्रोफेशनल विज्ञापन क्वालिटी, 9:16 वर्टिकल वीडियो, हाई रियलिज्म, मास्टरपीस, 8K।
 
-Negative Prompt:
+नेगेटिव प्रॉम्प्ट:
 low quality, blurry, face distortion, changing face, identity change, extra fingers, bad hands, flickering, duplicate person, deformed hair, ugly face, text, watermark, logo, cropped face, unstable animation.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34f09081f1d813756cae1407f0f14bb1/thumbnails/thumbnail.jpg" width="600" alt="Hair Salon Transformation Ad Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34f09081f1d813756cae1407f0f14bb1/thumbnails/thumbnail.jpg" width="600" alt="हेयर सैलून ट्रांसफॉर्मेशन विज्ञापन प्रॉम्प्ट">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=6013)**
 
@@ -3630,6 +3630,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-14T11:14:45.058Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-14T14:21:19.110Z</sub>
 
 </div>
