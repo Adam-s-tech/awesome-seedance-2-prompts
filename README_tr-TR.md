@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **3936** |
+| 📝 Toplam İstem | **3963** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-06-16** |
 
@@ -361,6 +361,904 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Doğu Fantastik Kadın Kahraman Savaş Sekansı
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Karanlık bir fantastik savaş alanında yelpazeli bir kadın savaşçının yer aldığı, Seedance 2.0 için yüksek detaylı, profesyonel çok çekimli sinematik video istemi.
+
+#### 📝 İstem
+
+```
+[Stil] Doğu Fantastik Canlı Aksiyon Gişe Rekortmeni, IMAX film kalitesi, 8K ultra net, Fotogerçekçi, Unreal Engine 5 gerçekçi render, DaVinci gelişmiş renk derecelendirme, karanlık savaş alanı atmosferi, anime hissi yok, plastik hissi yok.
+[Süre] 15 saniye
+[Sahne] Kıyamet sonrası kavrulmuş toprak savaş alanı, çatlamış koyu kırmızı toprak, puslu koyu gri gökyüzü, arka planda binlerce askerin silüeti (ayrı ayrı tanımlamaya gerek yok).
+[Karakter] Beyazlar içinde kadın kahraman (beyaz giyinmiş, elinde bir yelpaze, bağcıklı yüksek topuklu ayakkabılar giymiş, uzun saçlı, soğuk ve kibirli mizaç, görünür yüz gözenekleri ve saç telleri).
+[00:00-00:01] Çekim 1: Sert İniş / Hız Rampası
+Ekstrem uzun çekim: Puslu gökyüzünden hızla düşen altın parıltılı parçacıklardan oluşan bir sütun.
+İniş anı ekstrem ağır çekime (Super Slow-mo) geçer, bağcıklı yüksek topuklu ayakkabıların çatlamış kavrulmuş toprağa sertçe basışının yakın planı, toz patlaması ve zeminin parçalanıp dışa doğru yayılması.
+[00:01-00:02] Çekim 2: Yelpaze Başlangıç Duruşu (Güç Patlaması / Geniş Açı)
+Panoramik sabit kamera: Beyazlar içindeki kadın binlerce askerin önünde tek bacağı üzerinde döner, yelpazesi devasa bir altın dairesel şok dalgası yaratır ve çevredeki kum ve toz havaya kalkar. Karanlık savaş alanı altın ışıkla aydınlanır.
+[00:02-00:05] Çekim 3: Binleri Süpürme (Takip + Hareket Bulanıklığı)
+Orta çekimden panoramaya, kamera karakterin akıcı hareketini yoğun hareket bulanıklığı ile takip eder.
+Beyazlar içindeki kadın, bir dans gibi düşman saflarının arasından süzülür, yelpazesini hafif hareketlerle sallar, yelpazenin gölgesi altın kılıç izleri oluşturur. Düşmanlar hava dalgalarıyla birbiri ardına havaya savrulur, çarpışma anında yerel ağır çekim kesmeleri vardır. Karanlık savaş alanında beyaz kıyafet ve altın ışık mutlak görsel merkezdir.
+[00:05-00:07] Çekim 4: Klon Baskısı (Bullet-time / Düşük Açıdan Yaklaşma)
+Panoramik düşük açılı çekim, kamera son derece yavaş bir şekilde ileri doğru itilir (bullet time).
+Kadın, yelpazesi açık bir şekilde tek bacağı üzerinde gururla durur ve arkasında senkronize hareket eden birden fazla beyaz giysili artçı görüntü klonu belirir. Arka plandaki çok sayıda asker havada asılı kalmış ve donmuş durumdadır, uzayda hafif bir bozulma vardır. Bir tanrının inişi gibi bir baskı hissi.
+[00:07-00:09] Çekim 5: Tanrıça Belirmesi (Epik Ölçek / Yavaş Yukarı Eğim)
+Hafifçe yukarı eğilen ekstrem uzun çekim: Kadın ekranın merkezinde durur, arkasında yükselen devasa, yarı saydam parlayan bir tanrıça silüeti vardır, elleri birleşerek dev bir kılıç oluşturur. Askerler karınca gibi silüete doğru hücum eder.
+Efektler: Holografik yarı saydam parçacık silüeti, kutsal mavi-beyaz ve derin mavi enerji ışıltısı. Renk tonu altın-griden soğuk beyaza ve derin maviye döner.
+[00:09-00:11] Çekim 6: Ateş Ejderhası Yutuşu (Hollywood VFX / Elde Çekim Sarsıntısı)
+Uzun çekimden ekstrem uzun çekime, kamera patlamayla birlikte şiddetle sarsılır (elde çekim sarsıntısı).
+Zeminde kırmızı çatlaklar patlar, çatlaklardan birden fazla ateş ejderhası fışkırır, anında nükleer seviyede bir patlamayı tetikler ve dünyayı sarsan bir mantar bulutu yükseltir. Kadın patlamanın merkezinin önünde durur, küçük ama hareketsizdir. Ateş kırmızısı ve siyah-gri yoğun duman birbirine karışır.
+[00:11-00:14] Çekim 7: Harabelerde Yürüyüş (Yavaş Yaklaşma)
+Ekstrem uzun çekimden orta panoramaya, akıcı ve yavaş yaklaşma, önceki şiddetli savaşla bir tezat oluşturur.
+Kadın elinde yelpazesiyle yanan harabelerin ve kırmızı-siyah dumanın ortasında kameraya doğru sakin bir şekilde yürür, havada yavaşça süzülen kıvılcımlar ve küller düşmektedir. Bir galibin kibri.
+[00:14-00:15] Çekim 8: Soğuk Geri Bakış (Yakın Çekim / Hafif Nefes Alma)
+Orta çekimden yakın plana, sabit kamera neredeyse hareketsiz, sadece esinti var.
+Kadın doğrudan kameraya bakar, ifadesi sakin ve soğuktur, savaş sonrası dalgalanma yoktur. Fiziksel rüzgar altında kıyafetlerin ve saç tellerinin gerçekçi simülasyonu, arka plan dumanı yumuşatılmıştır. Soğuk gri ve soğuk mavi hakimdir, ruhani bir hisle sona erer.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/221575a0bc4fc0e2ad3e38b3ab7d4d99/thumbnails/thumbnail.jpg" width="600" alt="Doğu Fantastik Kadın Kahraman Savaş Sekansı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6088)**
+
+**Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2066725164721549514) | **Yayınlandı:** Jun 16, 2026
+
+---
+### Dinamik Sokak Dansı MV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Belirli fizik kuralları ve karakter tutarlılığı kuralları ile 15 saniyelik dikey bir sokak dansı müzik videosu oluşturmak için oldukça ayrıntılı bir istem.
+
+#### 📝 İstem
+
+```
+Lütfen 15 saniyelik dikey bir dans müzik videosu oluşturun. Karakter, müziği tüm vücuduyla ifade etmeli ve dinamik bir şekilde dans etmelidir. format: vertical_9x16 fps: 24 toplam_süre: 15sn stil: Yüksek kaliteli dans MV sinematik müzik videosu dans filmi sokak dansı videosu yüksek kaliteli karakter tasviri doğal vücut ifadesi gerçekçi ağırlık aktarımı gerçekçi eylemsizlik ifadesi gerçekçi kumaş hareketi gerçekçi saç hareketi orijinal görselin ifade tarzını koru yüksek kaliteli görsel güzellik karakter_kuralları: ・Görsel 1'deki kişinin veya karakterin kimliğini koru ・Yüz hatlarına öncelik ver ・Saç stili ・Kostüm ・Renk şeması ・Vücut şekli ・Genel silüet ・Sadece bir kişi ・Yüz bozulması yok ・Parmak bozulması yok ・Ayak bozulması yok ・Vücudun doğal eklem yapısını koru ・Görsel 1 canlı çekim bir kişiyse, canlı çekim olarak koru ・Görsel 1 bir 3DCG karakteriyse, 3DCG olarak koru ・Görsel 1 bir anime veya illüstrasyon karakteriyse, o stili koru ・Gereksiz canlı çekim yok ・Gereksiz anime yok ・Orijinal görselin ifade tarzına saygı duy ・Kostüm detaylarından ziyade vücut ifadesine öncelik ver ・Dans ederken bile karakterin bireyselliğini koru dans_stili: Sokak dansı Hip hop Urban dans Koreografi Müzik videosu dansı Power groove Dinamik groove Tüm vücut performansı Ses senkronizasyonu Varlıklı dans 90'lar-2000'ler hip hop dansçılarının derin groove'u TikTok dansı değil, gerçek bir dansçının fiziksel ifadesi hareket_kuralları: ・Müziği tüm vücudunla ifade et ・Sadece koreografiyi değil, performansı göster ・Hareketleri küçük ve sıkışık yapma ・Enerjiyi her zaman dışarıya doğru bırak ・Omuzlarını ve kollarını kapsamlı bir şekilde kullan ・Omuz hareketlerini (shoulder rolls) büyük yap ・Dirseklerini aktif olarak kullan ・Göğsünü genişçe aç ・Omuzlar, göğüs ve kalçalar her vuruşa tepki versin ・Down hareketlerini derinleştir ・Up hareketlerini büyük yap ・Down-up ritmini net bir şekilde ifade et ・Güçlü diz yaylanmaları ・Ağırlık aktarımlarını büyük yap ・Yandan yana hareketi vurgula ・İleri ve geri ağırlık aktarımlarını aktif olarak kullan ・Ayak tabanlarından doğan ritmi tüm vücuduna ilet ・Hareketi vücudunun merkezinden üret ・Geniş kol yörüngeleri çiz ・Alanı büyük ölçüde kullan ・Sık sık silüet değişiklikleri yarat - Vücudun daha büyük görünmesini sağlar - Müziğin vurgularına omuzlar, göğüs ve kollarla güçlü bir şekilde yanıt verir - Durgunluk ve patlamayı tekrar eder - Güçlü tempo değişiklikleri - Müziğe karşı pasif kalmak yerine aktif olarak kendini ifade eder - Deneyimli bir sokak dansçısı gibi özgüvenli - Bir seansta öne çıkan bir dansçı gibi varlık gösteren - Kulüpte dans eden biri değil, müzik videosundaki ana dansçı - İzlemesi keyifli büyük bir groove - Müzikle tam vücut senkronizasyonu - Güçlü - Dinamik - Müzikle bütünleşme Yapı: 0-3 saniye Tüm vücut çekimi Başlangıçtan itibaren ritmi yakalama Omuzlar, göğüs, kalçalar ve dizlerle ritmi tutma Varlıklı bir giriş 3-6 saniye Diz üstü çekimlere odaklanma Omuz hareketleri Büyük kol hareketleri Göğüs hareketlerini gösterme 6-8 saniye Tüm vücut çekimi Büyük down ve up hareketleri Ağırlık aktarımı Güçlü adımlar 8-10 saniye Yüz yakın planı İfade Bakış Saç hareketi Bir dansçı olarak varlık 10-13 saniye Tüm vücut çekimi En büyük hareket Müzikle senkronize Büyük silüet değişimi Bir müzik videosunun nakaratı gibi enerji 13-15 saniye Tüm vücuttan biraz daha yakın Bitişte kalıcı bir his, ritim sonuna kadar vücudunda kalsın kamera_kuralları: ・Müzik videosundaki gibi ritmik kesmeler ・Ortalama her 1-2 saniyede bir kesme değiştir ・Kesmeleri müziğin vurgularıyla doğal bir şekilde değiştir ・%40 tüm vücut çekimleri ・%30 diz üstü çekimler ・%20 üst vücut çekimleri ・%10 yüz yakın planları ・Dansın akışını göstermek için bolca tüm vücut çekimi kullan ・Ayak çekimlerini kısa tut ・Dansçıyı takip eden doğal el kamerası çekimi ・Hafif el kamerası ・Doğal odak kaymaları ・Doğal lens nefes alması ・Kamera, vücudun yukarı ve aşağı hareketlerine uygun olarak doğal bir şekilde sarsılır ・Ani zoom yok ・Yüksek hızlı dönüşler yok ・Aşırı drone benzeri perspektifler yok ・Dansı göstermeye öncelik ver ・Başlangıçta ve bitişte tüm vücut çekimleri. konum_ve_ışık: ・Dansı en iyi şekilde sergileyen bir arka plan ・Arka plan kişiyi gölgede bırakmamalı ・Sokak tarzı bir alan ・Doğal ışık ・Vücudun üç boyutluluğunu gösteren aydınlatma ・Gerçekçi bir atmosfer ・Aşırı CG yok. ruh_hali: Havalı Şık Enerjik Sokak Havalı Hafif duygusal, tekrar izlenebilir bir müzik videosu. Önemli: Görsel 1'in görsellerini koru. Canlı çekim canlı çekim kalır. 3DCG 3DCG kalır. Animasyon animasyon kalır. İllüstrasyonlar illüstrasyon kalır. İfade tarzını değiştirmeden sadece dans hareketlerini geliştir. Bir müzik videosundaki dans molası sahnesi gibi kurgula. Kesmeler müzikle senkronize olmalıdır. Dansın enerjisinin zirvede olduğu anlarda kesmeleri değiştir. Kamera çalışmasından çok dansçının çekiciliğine öncelik ver. Gerçek sokak dansçıları bir müzik videosu çekiminde performans sergiliyormuş gibi bir kalite.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7e3fb349563d8dcdfa9d5c230bcd8e28/thumbnails/thumbnail.jpg" width="600" alt="Dinamik Sokak Dansı MV">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6083)**
+
+**Yazar:** [Jason W - AI](https://x.com/PocketScreenAI) | **Kaynak:** [Link](https://x.com/PocketScreenAI/status/2066660224967340281) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Sinematik FIFA Dünya Kupası Maç Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Brezilya ve Arjantin arasındaki bir FIFA Dünya Kupası maçı için; takım girişlerini, oyun aksiyonunu ve gol sevinçlerini içeren, çok sahneli, yüksek detaylı bir video oluşturma istemi.
+
+#### 📝 İstem
+
+```
+Ultra gerçekçi sinematik canlı aksiyon FIFA Dünya Kupası 2026 maçı. Tutkulu taraftarlarla dolu devasa, kapalı gişe stadyum. Brezilya - Arjantin. Yayın kalitesinde spor sinematografisi, gerçekçi oyuncular, epik atmosfer, 4K HDR.
+
+Sahne 1 (0-3 sn):
+Brezilya ve Arjantin milli takımları tünelden stadyuma giriş yapıyor. Sarı formalı Brezilyalı oyuncular, gök mavisi beyaz çizgili formalı Arjantinli oyuncular. Bayrak sallayan taraftarlar, kükreyen kalabalık, dramatik kamera takip çekimleri, yoğun Dünya Kupası atmosferi.
+
+Sahne 2 (3-8 sn):
+Maç başlıyor. Brezilya ve Arjantin arasında hızlı tempolu futbol aksiyonu. Brezilyalı oyuncular hızlı ve isabetli paslar yaparken Arjantinli savunma oyuncuları agresif bir şekilde baskı kuruyor. Dinamik kamera, gerçekçi spor yayını hareketleriyle topu saha boyunca takip ediyor.
+
+Sahne 3 (8-12 sn):
+Brezilyalı yıldız oyuncu ceza sahası yakınında bir pas alıyor. Güçlü bir şut çekiyor. Topun dalış yapan Arjantinli kalecinin yanından hızla geçip ağlarla buluştuğu anın sinematik ağır çekimi. Stadyum gök gürültüsünü andıran tezahüratlarla yıkılıyor.
+
+Sahne 4 (12-15 sn):
+Brezilyalı golcü, takım arkadaşlarıyla tutkuyla seviniyor. Kalabalıkta Brezilya forması giymiş güzel genç bir kadın ve arkadaşlarının zıplayarak, tezahürat yaparak, Brezilya bayrakları sallayarak galibiyet golünü kutladığı ana geçiş. Konfetiler, stadyum ışıkları, duygusal zafer atmosferi, epik sinematik final.
+
+Stil: Ultra gerçekçi canlı aksiyon, FIFA Dünya Kupası yayın kalitesi, dramatik ağır çekim, gerçekçi kalabalık tepkileri, sinematik spor belgeseli tarzı, yüksek enerjili atmosfer, profesyonel kamera çalışması, 4K HDR.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26eb919534b02c1506a036bd156762cc/thumbnails/thumbnail.jpg" width="600" alt="Sinematik FIFA Dünya Kupası Maç Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6073)**
+
+**Yazar:** [Ai Arainz](https://x.com/iam_mian7) | **Kaynak:** [Link](https://x.com/iam_mian7/status/2066656830311510330) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Steampunk Baykuş Macera Uçuşu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Steampunk bir baykuş-kartal üzerinde yüksek hızla uçan bir karakterin kesintisiz uçuş çekimi için dinamik bir video oluşturma istemi.
+
+#### 📝 İstem
+
+```
+10 saniyelik fantastik steampunk macera kancası, tek bir kesintisiz uçuş çekimi, ilk kareden itibaren hareket halinde. Kız, baykuş-kartalı zaten tam hızda sürüyor. Statik görüntü yok
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0cc868c99876729520a047c6bb062ff5/thumbnails/thumbnail.jpg" width="600" alt="Steampunk Baykuş Macera Uçuşu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6072)**
+
+**Yazar:** [DUST](https://x.com/Dustfinger2077) | **Kaynak:** [Link](https://x.com/Dustfinger2077/status/2066655755105714292) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Ayodhya Üzerinde Altın Garuda Uçuşu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ayodhya'daki Ram Mandir ve Sarayu Nehri üzerinde göksel bir altın Garuda'yı takip eden yüksek hızlı bir uçuş için sinematik video istemi.
+
+#### 📝 İstem
+
+```
+Görkemli Ram Mandir'in önünden geçen göksel bir altın Garuda'yı takip ederek, Sarayu Nehri üzerinde süzülen, tapınak kuleleri, kutsal bahçeler, parlayan fenerler ve çiçek yapraklarından oluşan bulutların arasından geçen kesintisiz ve sinematik bir uçuş.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1450ccde92292d734eb6aaf25aa5f773/thumbnails/thumbnail.jpg" width="600" alt="Ayodhya Üzerinde Altın Garuda Uçuşu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6066)**
+
+**Yazar:** [Rajneeti Tadka 🌶️](https://x.com/RajneetiTadka) | **Kaynak:** [Link](https://x.com/RajneetiTadka/status/2066641912757432596) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Kurosawa Tarzı Samuray Sineması İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kurosawa'dan ilham alan, gergin bir durgunluk ve şiddetli yağmur altında gerçekleşen belirleyici bir çatışmayı konu alan samuray sineması istemi.
+
+#### 📝 İstem
+
+```
+[SİNEMATİK KURULUM]
+Epik samuray sineması, tek bir belirleyici çatışmaya dönüşen gergin durgunluk, doygunluğu azaltılmış çelik grisi renk paleti, şiddetli yağmur, hafif şimşekler, yavaş ve temkinli kamera hareketlerinin ardından gelen patlayıcı hız, 35mm gren, Kurosawa tarzı
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/422b5b610dddeb3bc91afd683786d742/thumbnails/thumbnail.jpg" width="600" alt="Kurosawa Tarzı Samuray Sineması İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6077)**
+
+**Yazar:** [MayorkingAI](https://x.com/MayorKingAI) | **Kaynak:** [Link](https://x.com/MayorKingAI/status/2066598798273704161) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Motosiklet Takibi Gişe Rekortmeni Aksiyon İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gün batımında çökmekte olan bir köprüde geçen motosiklet takibini betimleyen, yüksek tempolu bir gişe filmi istemi.
+
+#### 📝 İstem
+
+```
+[SİNEMATİK KURULUM]
+Yüksek tempolu aksiyon gişe filmi, amansız ileri ivme,
+dinamik hava ve yer kamerası etkileşimi, yoğun dumanlı
+altın-turuncu gün batımı, turkuaz ve turuncu gişe filmi renk tonlaması,
+pratik
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93f6f8f1830b1ca19b4fd4d4d551ae84/thumbnails/thumbnail.jpg" width="600" alt="Motosiklet Takibi Gişe Rekortmeni Aksiyon İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6076)**
+
+**Yazar:** [MayorkingAI](https://x.com/MayorKingAI) | **Kaynak:** [Link](https://x.com/MayorKingAI/status/2066598526092787763) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Destansı Wuxia Dövüş Sanatları İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Akıcı tel-fu koreografisi ve resimsel renk derecelendirmesi içeren destansı bir wuxia dövüş sanatları sahnesi için istem.
+
+#### 📝 İstem
+
+```
+[SİNEMATİK KURULUM]
+Destansı wuxia dövüş sanatları sineması, akıcı tel-fu koreografisi,
+süpürücü kamera hareketleriyle hızlı dinamik dövüş, sürekli hareket halinde kumaş ve
+enerji izleri, altın saat sisi, derin kontrastlı resimsel
+renk derecelendirmesi, Çin
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066598405112274944/img/24H-SRLnP3HpNaYp.jpg" width="600" alt="Destansı Wuxia Dövüş Sanatları İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6075)**
+
+**Yazar:** [MayorkingAI](https://x.com/MayorKingAI) | **Kaynak:** [Link](https://x.com/MayorKingAI/status/2066598459181035757) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Bilim Kurgu Sinematik İstilası İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Elde çekim kamera teknikleri ve doygunluğu azaltılmış savaş alanı gerçekçiliği içeren, bilim kurgu türündeki büyük bütçeli bir istila filmi için sinematik kurulum istemi.
+
+#### 📝 İstem
+
+```
+[SİNEMATİK KURULUM]
+Büyük bütçeli bilim kurgu, istila gerilimi, elde çekim
+belgesel tarzı aksiyon kamerası, kül grisi atmosferle
+doygunluğu azaltılmış soğuk renk paleti, kapalı hava gün ışığı, banliyö savaş alanı
+gerçekçiliği, Spielberg tarzı yerden bakış açısı, 35mm
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066598338515091456/img/dv--NYa0R2wWr5gx.jpg" width="600" alt="Bilim Kurgu Sinematik İstilası İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6074)**
+
+**Yazar:** [MayorkingAI](https://x.com/MayorKingAI) | **Kaynak:** [Link](https://x.com/MayorKingAI/status/2066598392093090097) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Sinematik Anime Aksiyon Sekansı
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Göksel bir sarayda birden fazla düşmana karşı sinematik bir savaş veren lavanta saçlı bir karakterin yer aldığı, son derece detaylı Japon anime tarzı aksiyon istemi.
+
+#### 📝 İstem
+
+```
+[Metadata]
+Süre: 15 saniye
+Tempo: Yaklaşık 128 BPM
+Kompozisyon Stili: Sinematik Çoklu Saldırı Finali / Aşırı Yakın Çekim ve Geniş Açı Değişimi
+Çekim Sayısı: 12 çekim
+Kalite: Teatral Anime Stili / Ultra Üst Düzey / 4K / Teatral Anime, Yüksek Detaylı, Sinematik Aydınlatma, Işın İzleme (Ray Tracing), Sanatsal Kompozisyon, dramatik Alan Derinliği, düşük açılı aksiyon sinematografisi, abartılı kısalma (foreshortening), kontrollü hareket bulanıklığı, temiz anatomi, çoğaltılmış uzuv yok.
+
+[Gardırop/Başkarakter]
+@[image1] kullanılarak tamamen sabitlenmiştir. Başkarakter lavanta rengi ikili topuz saçlara, mor gözlere, minyon chibi benzeri bir fiziğe sahiptir ve siyah-mor ağırlıklı, kurdeleli, altın süslemeli, mor-siyah kenarlı çoraplı ve mor ayakkabılı, tüm çekimlerde tutarlı, yıldız süslemeli elbise tarzı bir palto giyer. Yüz hatları, saç stili, kıyafet, süslemeler, renkler ve silüet asla değişmemelidir.
+
+[Vücut Tutarlılığı Kuralları]
+Başkarakter ve düşmanlar her zaman doğal insan anatomisini korumalıdır. Sadece iki kol ve iki bacak. Yüksek hızlı dönüşler, tekmeler, zıplamalar, inişler veya taklalar sırasında bile fazladan bacak, çoğaltılmış kol, ayrık ayak veya fizikselleşmiş hareket izleri (afterimage) oluşturmayın. Hareket bulanıklığı sadece vücudun dış kısmında ince bir şekilde akmalıdır. Tüm saldırılar pelvik rotasyon, omuz bükülmeleri, adım atma ve ağırlık merkezi değişimlerine dayanır.
+
+[Dünya Tasviri]
+Yıldız gözlemcisi soyluların terk edilmiş sarayı. Devasa dairesel bir salon, ametist sütunlar, altın işlemeli merdivenler, takımyıldız desenli mermer zeminler, kırık bir tavan penceresinden süzünen ay ışığı, havada uçuşan tozlar ve arka planda mekanik bir gök küresi (armillary sphere). Arka plan, başkarakterin siyah-mor ve altın kıyafetiyle uyumlu olması için soğuk mavi-mor ay ışığı ve metalik yansımalarla birleştirilmiştir.
+
+[Düşmanlar]
+Çeşitli yönlerden sürekli saldıran, maskeli birden fazla saray celladı. Siyah-gri savaş üniformalı, gümüş maskeli, uzun boylu ve hançer veya cop taşıyan figürler. Aynı karakter gibi görünmemeleri için başkarakterden tamamen farklılaştırılmıştır.
+
+[Ruh Hali]
+Başlangıçta, kuşatılmış olmanın verdiği sessiz bir gerilim. Başkarakter, aniden hızlanmadan önce kollarını kavuşturmuş, ifadesiz ve uykulu bir bakışla durur. Final, düşmanı havaya uçuran bir takla tekmesidir; sanki hiçbir şey olmamış gibi zahmetsizce yere iner.
+
+[Müzik]
+Alçak bir uğultu, keskin Japon taiko tarzı perküsyon ve metalik tıklama sesleri. Her saldırı için kısa vuruş sesleri. Son takladan hemen önce bir anlık sessizlik, tekme ile birlikte keskin bir şekilde yükselen yaylılar ve yere inişle birlikte sesin anında sönümlenmesi.
+
+[Kamera/Yönetim]
+Aşırı Yakın Çekim ve Geniş Açıların dönüşümlü kullanımı. Yakın çekimler gözleri, ağzı, ayakkabı tabanlarını, kurdeleleri ve darbe anını abartır. Geniş açılar, birden fazla düşmanla olan ilişkiyi ve tüm mekanı net bir şekilde gösterir. Düşük açılar, balıkgözü benzeri abartılı perspektifler, dolly-in'ler, hız rampaları ve match cut'lar yoğun bir şekilde kullanılır.
+
+Çekim 1: 0.0-1.3s / Geniş. Terk edilmiş saraydaki dairesel salonun merkezi, başkarakter kollarını kavuşturmuş ifadesiz bir şekilde duruyor. Yarım daire şeklinde 8 maskeli cellat tarafından kuşatılmış. Tavan penceresinden gelen ay ışığı, mor saçları ve altın yıldız süslemelerini çevreliyor. Kamera, mekanın büyüklüğünü ve kuşatmayı göstermek için ultra düşük bir açıdan yavaşça dönüyor.
+
+Çekim 2: 1.3-2.2s / Aşırı Yakın Çekim. Başkarakterin yarı kapalı mor gözleri. Yaklaşan bir düşmanın gölgesi gözlerine yansıyor. Ağzı hafif bir bıkkınlıkla bükülüyor. Kurdele üzerindeki yıldız süsü hafifçe sallanıyor, ardından tam bir sessizlik anı geliyor.
+
+Çekim 3: 2.2-3.4s / Geniş. Başkarakter, sağ ön taraftan gelen cop darbesinden minimal bir hareketle kaçıyor, yana dönüyor. Küçük vücudunu alçaltarak, bir adım atışıyla eş zamanlı olarak karın bölgesine bir ön tekme savuruyor. Düşman mermer zemin üzerinde kayıyor. Kamera, tekme hattını yatay bir dolly ile takip ediyor.
+
+Çekim 4: 3.4-4.3s / Yakın Çekim. Ayakkabının mor tabanı tam ekrana yaklaşıyor. Ayakkabıdaki altın süslemeler parlıyor, darbeden hemen önce kısa bir hız rampası var. Düşmanın maskesinin kenarı şok dalgasıyla titriyor. Hareket bulanıklığı ince ve sadece tek bir bacak net.
+
+Çekim 5: 4.3-5.7s / Geniş. Soldan iki düşman aynı anda saldırıyor. Başkarakter, ilk kişinin kolunu savuşturuyor ve dönerken yan tekme ile dizlerini çökertiyor. Ardından arkasındaki düşmana dirsek atıyor ve omuz kontrası ile onları bir sütuna itiyor. Kamera dairesel bir ray üzerinde 360 derece dönüyor.
+
+Çekim 6: 5.7-6.8s / Aşırı Yakın Çekim. Başkarakterin küçük eli düşmanın kolunu yakalıyor. Altın yıldız tılsımları keskin bir şekilde sallanıyor. Kumaş kırışıklıklarını, parmak ucu gücünü ve düşmanın ağırlık merkezinin çöktüğü anı aşırı yakın çekimde tasvir ediyor. Arka plan, güçlü bir alan derinliği ile eriyor.
+
+Çekim 7: 6.8-8.2s / Geniş. Başkarakter düşmanın kolunu kendine çekiyor ve bacak süpürme hareketiyle birini düşürüyor. Düşen düşmanı basamak olarak kullanarak, alçaktan zıplıyor ve dönüş sırasında başka bir düşmanın omzuna topuk darbesi indiriyor. Küçük yapısına rağmen keskin bir ağırlık hissi. Kamera zemin seviyesinden yukarı bakıyor, abartılı perspektifle ayakkabı ve düşman arasındaki mesafeyi vurguluyor.
+
+Çekim 8: 8.2-9.2s / Yakın Çekim. Başkarakterin ikili topuzları ve kurdeleleri, dönüşün merkezkaç kuvveti nedeniyle geç ve yumuşak bir şekilde akıyor. Yarı kapalı göz ifadesi değişmiyor. Bir düşmanın hançeri arkasından havayı kesiyor, sadece keskin bir metalik ses yankılanıyor.
+
+Çekim 9: 9.2-10.7s / Geniş. Arkadan yaklaşan iri bir cellatla yüzleşen başkarakter, dönerken göğsüne bir geri tekme atıyor. Yere indiğinde dizini çekiyor ve alçak bir duruştan diğer düşmanın çenesine avuç içi darbesi indiriyor. Düşmanlar takımyıldız desenli zemin üzerinde sırayla yere yığılıyor. Kamera, tüm sekansı göstermek için hızla geri çekiliyor.
+
+Çekim 10: 10.7-11.8s / Aşırı Yakın Çekim. Son güçlü düşmanın ayağı zemini eziyor. Bir sonraki kesme, başkarakterin mor gözlerine, ardından ayakkabısının ucuna yapılan yüksek hızlı bir geçiş. Başkarakter alçalıyor, takla için hazırlık hareketine giriyor. Müzik bir anlığına duruyor ve sadece saç süsündeki yıldız parlıyor.
+
+Çekim 11: 11.8-13.5s / Dramatik Geniş + Ağır Çekim. Final aksiyonu. Başkarakter yerden güç alıyor ve mükemmel bir yay çizerek takla tekmesi atıyor. Mor ayakkabısının ucu, güçlü düşmanın çenesine alttan tam isabet ediyor. Ay ışığına karşı arkadan aydınlatılmış bir silüet, etek ve kurdeleler daire şeklinde yayılıyor. Düşman, arkadaki gök küresinin ışığıyla örtüşerek dikey olarak uçuyor. Dönüş sırasında insan yapısını kesinlikle koruyan sadece iki bacak, sol ve sağ.
+
+Çekim 12: 13.5-15.0s / Uzun Telefoto Geri Çekilme. Başkarakter yumuşak bir şekilde tek ayağının üzerine iniyor ve hemen iki ayağını birleştiriyor. Kollarını tekrar kavuşturarak, yarı kapalı gözlerle küçük bir nefes veriyor. Çevredeki düşmanlar geç bir şekilde yere yığılıyor ve ametist tozları ay ışığında dans ediyor. Kamera, terk edilmiş sarayın engin sessizliğini ve başkarakterin küçük ama ezici varlığını bırakarak, telefoto lens ile yavaşça geri çekiliyor ve karararak sona eriyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a6112cc99bb8dd1e83e8db5d602bed6e/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Anime Aksiyon Sekansı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6065)**
+
+**Yazar:** [あぁく](https://x.com/kik0ai1jikake) | **Kaynak:** [Link](https://x.com/kik0ai1jikake/status/2066589403133386977) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Gotik Katedral Gölge Uyanışı Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Siyah bir çölün ortasındaki terk edilmiş bir katedralde, güneş tutulması altında gölgelerin insansı formlara dönüştüğü, Seedance 2.0 için ürkütücü ve sinematik bir komut.
+
+#### 📝 İstem
+
+```
+Soluk bir güneş tutulması altında, uçsuz bucaksız siyah bir çölde devasa, terk edilmiş bir katedral yükseliyor. Mimari imkansız: içe doğru bükülen gotik kemerler, siyah mermerden sütunlar, azizler yerine hareket eden silüetleri gösteren vitray pencereler. İnce küller havada yavaş bir kar gibi süzülüyor.
+
+Açılış karesi: katedral girişine doğru yavaş bir dolly çekimi. Zemin, sahibi olmayan bedenler gibi dümdüz yatan binlerce uyuyan gölgeyle kaplı.
+
+2. saniyede, tutulma ışığı zemine değiyor.
+
+Gölgeler uyanmaya başlıyor.
+
+Taş yüzeyden ayrılıyor, yukarı doğru uzanarak ince insansı formlara dönüşüyorlar. Hareketleri, suyun içinde yükselen mürekkep gibi yavaş, akışkan ve doğal değil. Vitray pencereler içeriden çatlıyor ve ters ışık huzmeleri yayıyor; siyah ışınlar soluk tozun içinden geçiyor.
+
+Kamera, sessizce sunağa doğru dönen gölge figürlerin arasında süzülüyor. Kenarları titriyor; bazen katı, bazen duman gibi. Attıkları her adım, sanki taş sıvıymış gibi zeminde dalgalanmalar yaratıyor.
+
+VFX tırmanışı: katedral duvarları nefes almaya başlıyor, düşük basınç dalgalarıyla genişleyip daralıyor. Tavan kırılarak açılıyor ve dönen tutulmalarla dolu bir gökyüzünü ortaya çıkarıyor. Uyuyan gölgeler, sunağın üzerinde devasa, kanatlı bir silüette birleşiyor.
+
+Hız artışı: bir vitray pencere içe doğru patlıyor, parçalar havada asılı kalıyor; her bir parça farklı ve imkansız bir gökyüzünü yansıtıyor.
+
+Son an: kanatlı gölge yüzünü kameraya doğru eğiyor, ancak yüzü sadece hareketli yıldızlarla dolu bir kapıdan ibaret.
+
+Hiper-sanatsal gotik sürrealizm, yavaş sinematik hareket, hacimsel kül, ters ışık huzmeleri, sıvı gölge simülasyonu, rüya gibi bir korku atmosferi, 4K.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2066581509180391424/pu/img/LB2_TzzTrNH0Etva.jpg" width="600" alt="Gotik Katedral Gölge Uyanışı Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6070)**
+
+**Yazar:** [LudovicCreator](https://x.com/LudovicCreator) | **Kaynak:** [Link](https://x.com/LudovicCreator/status/2066581542499950670) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Arena Konseri Belgesel Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kapalı gişe bir arena konserinde performans sergileyen karizmatik bir şarkıcı için belgesel tarzı el kamerası hareketleri ve gerçekçi sahne ışıklandırması içeren zamansal bir video oluşturma istemi.
+
+#### 📝 İstem
+
+```
+Yüklenen görselleri kimlik, kostüm ve ışıklandırma referansı olarak kullanın. Kapalı gişe bir arena konserinde performans sergileyen, 25 yaşlarında, doğal olarak öz güvenli ve karizmatik aynı kadın. Gerçek konser belgeseli hissi, el kamerası enerjisi, yalnızca pratik sahne ışıklandırması. Cesur, gerçek, eğlenceli, temiz kurgu, İngilizce yüksek enerjili modern konser performansı. 0: 00–0:01 — Performansın ortasında yüzüne yakın çekim, gözler parlak, bir şarkı sözü sırasında içten bir kahkaha, saçlarına vuran sahne ışığı. Hafif mikrofon uğultusu altında yükselen kalabalık sesi. 0: 01–0:06 — Sahnenin kenarına doğru ilerliyor, oyuncu bir enerjiyle mikrofona şarkı söylüyor, kaşlarını çatıyor, üzgün bir şekilde "Bekle! Bu Seedance 2 Mini mi?" diyor ve ardından gülümsüyor, boşta kalan eliyle kalabalığa doğru uzanıyor, parmakları havaya kaldırılmış telefonlara ve ellere değiyor. O gülerken kalabalık şarkı sözlerini ona geri tekrarlıyor. Arka planda sıcak sahne ışıkları ve lens parlamaları, hareketini takip eden hafif el kamerası sallantısı. 0: 06–0:09 — Kalabalık bariyerinin yakınından düşük açılı geniş çekim — puslu ve renkli sahne ışıklarına karşı çerçevelenmiş, arkasında grup hafif bulanık bir şekilde görünüyor (sahnenin solunda gitarist, sağında klavyeci). Boşta kalan kolunu genişçe açıyor, dizeler arasında gülüyor, dönerken saçları hafifçe savruluyor. 0: 10–0:12 — Daha yakın bir üç çeyrek çekime geçiş — şarkıya eşlik edilmesi için mikrofonu oyuncu bir tavırla kalabalığa uzatıyor, sırıtıyor, gözleri gerçek bir sıcaklık ve bağ kurarak izleyiciyi tarıyor. Görünür ter parıltısı, doğal cilt dokusu, sanki sahne önünden çekilmiş gibi hafif kamera sarsıntısı. — Son vuruş: yakın çekim, doğrudan lense bakıyor ve parlak, içten bir gülümseme sunuyor. Kamera: boyunca el kamerasıyla belgesel tarzı hareket, doğal odak geçişleri, mükemmel pürüzsüz gimbal çekimleri yok, gerçek bir konser film ekibiyle tutarlı hafif sarsıntı ve kusurlar. Yalnızca pratik sahne ışıklandırması — CGI parlaması yok, yapay ışık süzmesi yok, parlak cilt yok, sıcak ışıklar altında görünür doğal doku ve ter. Ses: canlı arena ortamı — kalabalık kükremesi, tezahüratlar, telefon kamerası flaş patlamaları, sesi tam bir canlı grup miksi (elektro gitar, tuşlu çalgılar, davul, bas) üzerinde net bir şekilde duyuluyor. Stüdyo cilası yok — doğal canlı miks dinamikleri, hafif oda yankısı. Ekranda yazı yok, logo yok, altyazı yok, filigran yok, kimlik kayması yok, karedeki grup dışında ekstra sanatçı yok, Slides durağanlığı yok, aşırı pürüzsüz veya parlak render yok, sarsıcı kesmeler yok, tuhaf anlar yok, sarsak hareketler yok, kopyalar yok, klonlar yok
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/162b6a4f13d97fdac00a59d866bdbd65/thumbnails/thumbnail.jpg" width="600" alt="Arena Konseri Belgesel Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6068)**
+
+**Yazar:** [Brent Lynch](https://x.com/BrentLynch) | **Kaynak:** [Link](https://x.com/BrentLynch/status/2066576320193327424) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Kızıl Kimono Mürekkep Kaplan Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kızıl kimono giymiş bir kadının, kaligrafi fırçası kullanarak mürekkepten ejderhalar ve kaplanlar yarattığı, yüksek kontrastlı sinematik bir video.
+
+#### 📝 İstem
+
+```
+Sade ve minimalist beyaz bir galeri ortamında geçen, yüksek kontrastlı, sinematik bir canlı aksiyon videosu.
+
+Konu, referans görseldeki kadındır: Düz siyah kâküllü, uzun siyah saçlı, zarif ve ciddi bir ifadeye sahip, yarı saydam açık tenli.
+
+Referans görselden esinlenilen, derin kızıl kırmızı çiçek desenli geleneksel bir kimono giyiyor ve etrafı kırmızı kamelyalar ve çiçeklerle çevrili. Büyük bir kaligrafi fırçasını kuvvetle kullanarak havaya yoğun siyah sumi mürekkebi salıyor. Mürekkep, canlı bir madde gibi akıyor ve etrafında dönen güçlü bir kaplana ve iki ejderhaya dönüşüyor.
+
+Tamamen fotogerçekçi, 3D CGI değil. Doğal cilt dokusu, gerçekçi kumaş lifleri, sıvı mürekkep davranışı, sinematik aydınlatma, ağır çekim, fırça darbelerini takip eden dinamik takip çekimleri, ultra detaylı, gerçekçi ve dramatik bir atmosfer.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066573992824295424/img/3Nx2K3Kj9PDaeMFs.jpg" width="600" alt="Kızıl Kimono Mürekkep Kaplan Sekansı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6089)**
+
+**Yazar:** [TSUBAKI](https://x.com/AI__TSUBAKI) | **Kaynak:** [Link](https://x.com/AI__TSUBAKI/status/2066574654660354157) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Stadyum İnşaatı Planı Hızlandırılmış Çekim
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 2D mimari planı tamamen bitmiş, fotogerçekçi bir stadyuma dönüştüren 15 saniyelik karmaşık bir hızlandırılmış çekim istemi.
+
+#### 📝 İstem
+
+```
+15 saniyelik sinematik inşaat hızlandırılmış çekimi. Video, referans görselinde gösterilen stadyum planıyla başlar: koyu mavi çizim ızgarası üzerinde yukarıdan aşağıya mimari plan, beyaz teknik çizgiler, etiketli kapılar, oturma bölümleri, tüneller, VIP alanları ve saha işaretleri. Kamera, tüm sekans boyunca stadyumun üzerinde merkezlenmiş halde kalır.
+
+00:00–00:02
+Plan hafifçe parlar. Teknik çizgiler belirginleşir. İnşaat kılavuzları, ölçüm işaretleri ve çizim detayları plan üzerinde hareketlenir. Plan, üç boyutlu bir tel kafes yapısına dönüşmeye başlar.
+
+00:02–00:04
+Stadyum duvarları, plan çizgilerinden dikey olarak yükselir. Yapısal kirişler, destek kolonları, ana yollar, tüneller ve oturma alanları, plana tam olarak uygun şekilde ortaya çıkar. Pürüzsüz mimari büyüme, yıkım efekti yok.
+
+00:04–00:06
+Tel kafes, gerçekçi ve bitmemiş bir stadyuma evrilir. Beton temeller oluşur. Çelik iskeletler çevre boyunca genişler. Oturma bölümleri katman katman belirir. Vinçler ve inşaat faaliyetleri hızlandırılmış çekimde hızla hareket eder.
+
+00:06–00:08
+Stadyum hızla gelişir. Üst katlar, VIP bölümleri, tüneller, merdivenler, çatı destekleri, girişler ve dış cepheler birleşir. Tüm geometri, orijinal plan düzeniyle mükemmel bir tutarlılık içinde kalır.
+
+00:08–00:10
+Binlerce koltuk tribünleri doldurur. Saha zemini belirir. Çimler, hızlandırılmış çekimde saha boyunca büyür. Dış yollar, meydanlar ve çevre düzenlemesi şekillenmeye başlar.
+
+00:10–00:12
+İnşaat tamamlanır. Çatı yapıları yerine oturur. Aydınlatma sistemleri belirir. Ağaçlar ve çevredeki yürüyüş yolları gelişir. Plan estetiği tamamen kaybolur.
+
+00:12–00:14
+Stadyum tamamen fotogerçekçi hale gelir ve nihai referans görseliyle tam olarak eşleşir. Kalabalık koltukları doldurur. Saha kusursuzdur. Mimari, kapılar, tüneller, oturma düzeni ve oranlar plana tamamen sadık kalır.
+
+00:14–00:15
+Final çekimi. Tamamlanmış stadyum, referans görseliyle aynı tepeden açıyla gün ışığında durur. Kamera yavaşça yaklaşır. Kalabalık atmosferi görünür. Bitmiş stadyum kadrajı doldurur.
+
+Gereksinimler:
+- Kusursuz plandan gerçeğe dönüşüm
+- Süreç boyunca tam mimari tutarlılık
+- Stadyum düzeninde değişiklik yok
+- Kamera tepeden ve merkezlenmiş kalmalı
+- Pürüzsüz sürekli hızlandırılmış çekim
+- Gerçekçi inşaat ilerleyişi
+- Fotogerçekçi nihai stadyum
+- Kesinti yok, sahne değişimi yok
+- Sinematik ışık evrimi
+- Yüksek detaylı inşaat animasyonu
+- Bitiş karesi nihai stadyum referans görseliyle eşleşmeli
+
+Ses:
+Sadece inşaat ortam sesleri.
+Uzaktan gelen makine sesleri.
+Metal montaj sesleri.
+Kalabalık ortam sesi tamamlanmaya yakın kademeli olarak artar.
+Müzik yok.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/295d261afa400e7b582bf9fe7b0e2b81/thumbnails/thumbnail.jpg" width="600" alt="Stadyum İnşaatı Planı Hızlandırılmış Çekim">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6081)**
+
+**Yazar:** [Keskin](https://x.com/craftian_keskin) | **Kaynak:** [Link](https://x.com/craftian_keskin/status/2066572192423567706) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Portekiz Milli Futbol Takımı Taraftar Kutlaması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karakter için katı kimlik sabitleme özelliği içeren, stadyumda kutlama yapan bir Portekizli futbol taraftarının gerçekçi videosunu oluşturmaya yönelik detaylı bir storyboard ve sekans.
+
+#### 📝 İstem
+
+```
+Süre: 15 saniye
+Yüklenen referans görseli kimlik referansı olarak kullanarak ultra gerçekçi bir sinematik video oluşturun.
+Kimlik sabitleme (çok önemli): Genç kadın, video boyunca referans görseldekiyle tamamen aynı kalmalıdır. Yüz hatlarını, yüz yapısını, cilt tonunu, göz şeklini, saç stilini, vücut oranlarını ve genel görünümünü birebir koruyun. Hiçbir noktada kimlik kayması olmamalıdır.
+Referans görseldeki kıyafetin aynısını giymektedir: Yeşil detaylı ve arkasında Ronaldo 7 numara yazılı resmi Portekiz milli takım kırmızı forması, üzerine oturan açık mavi kot pantolon, aynı saç stili, aynı aksesuarlar ve aynı tarz.
+Sahne
+Önemli bir Portekiz maçı sırasında, Portekiz taraftarlarıyla dolu devasa bir FIFA Dünya Kupası stadyumunun içi. Binlerce taraftar şarkı söyleyerek, tezahürat yaparak, alkışlayarak ve kutlama yaparak Portekiz bayraklarını sallıyor. Parlak projektörler stadyumu aydınlatıyor, dev ekranlar tepede parlıyor ve aşağıda devam eden aktif oyunla birlikte futbol sahası net bir şekilde görünüyor.
+Zaman Çizelgesi (15 saniye)
+0–3 saniye:
+Koltuklarının yakınında duruyor, heyecanla sahaya bakıyor. Sahadaki aksiyonu izlerken gülümsüyor. Saçları stadyum esintisiyle doğal bir şekilde hareket ediyor.
+3–7 saniye:
+Maçta heyecan verici bir an yaşanıyor. Kutlama yapmak için defalarca zıplıyor, her iki kolunu kaldırıyor, gülüyor ve çevresindeki Portekiz taraftarlarıyla birlikte tezahürat yapıyor.
+7–11 saniye:
+Korkuluklara doğru eğiliyor, yoğun bir şekilde izliyor, gergin bir şekilde gülümsüyor, bir elini göğsüne koyarak oyuna duygusal tepkiler veriyor.
+11–15 saniye:
+Portekiz heyecan verici bir fırsat daha yakalıyor. Coşkuyla kutluyor, alkışlıyor, bir kez daha zıplıyor, yakındaki taraftarlara dönüyor, ardından elinde Portekiz bayrağını sallarken kocaman bir gülümsemeyle tekrar sahaya bakıyor.
+Kamera talimatları
+Dikey
+15 saniyelik kesintisiz çekim
+Elde tutulan akıllı telefon gerçekçiliği
+Hafif doğal kamera sarsıntısı
+Dinamik ancak akıcı hareket
+Orta boy tam vücut ve bel üstü çekimler arasında geçiş yapın
+Hafif yakınlaştırma (push-in) ve yörünge hareketleri
+Onu her zaman net odak noktası olarak tutun
+Arka planda otantik kalabalık hareketi
+Aydınlatma
+Sıcak akşam FIFA Dünya Kupası atmosferi
+Parlak stadyum projektörleri
+Gerçekçi cilt yansımaları
+Doğal gölgeler
+Premium spor belgeseli görünümü
+Stil
+Ultra gerçekçi, sinematik spor belgeseli, premium influencer estetiği, otantik futbol taraftarı enerjisi, gerçekçi kalabalık simülasyonu, fotogerçekçi cilt dokusu, doğal ifadeler, dinamik hareket, sosyal medyada viral kalite, lüks gerçekçilik, sürükleyici atmosfer, 8K kalite.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2066556564685889539/pu/img/3uSxFkM2wNQIEsV-.jpg" width="600" alt="Portekiz Milli Futbol Takımı Taraftar Kutlaması">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6078)**
+
+**Yazar:** [Meem](https://x.com/mehvishs25) | **Kaynak:** [Link](https://x.com/mehvishs25/status/2066556604200443932) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Gerilim Dolu Ayna Yansıması Korku Sahnesi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Bir kadının makyaj aynasındaki yansımasının bağımsız hareket etmeye başlayarak ürpertici ve gerilimli bir atmosfer yarattığı, 15 saniyelik bir korku kısa filmi için detaylı sinematik video istemi.
+
+#### 📝 İstem
+
+```
+[Stil] Gerilim ve korku atmosferli kısa film, sıcak sarı ev ışığı ile soğuk mavi ayna ışığı arasındaki kontrast, film greni, nefes kesen sessizlik. [Süre] 15 saniye [Karakter] Ayna karşısında hazırlanan bir kadın (ev pijamalı, makyajsız, doğal). [00:00-00:03] Çekim 1: Aynanın üzerinden omuz üstü çekim. Kadın makyaj masasının önünde oturmuş saçını tarıyor, sahne sıcak ve günlük. Kamera çok yavaş bir şekilde yaklaşıyor; izleyici, kadından önce bir şeylerin ters gittiğini fark ediyor: aynadaki yansıması ters eliyle tarıyor ve yarım saniye geriden geliyor. [Kanca Noktası] Günlük bir sahnenin içine 'bir şeylerin yanlış olduğu' detayını gizleyerek izleyiciyi dikkatle bakmaya ve onu bulmaya zorlayın. [00:03-00:09] Çekim 2: Karşılıklı çekim. Kadın gerçek hayatta tarağı bırakıyor ama yansıması durmadan önce bir kez daha tarıyor. Kadın sonunda fark ediyor, yavaşça aynaya bakıyor. Aynadaki 'kendisi' de yukarı bakıyor ama yansımanın gülümsemesi onunkinden bir saniye önce beliriyor. [00:09-00:15] Çekim 3: Gözlerin aşırı yakın çekimi. Kadın nefesini tutuyor ve ayna yüzeyine dokunmak için elini uzatıyor. Parmak uçları neredeyse değecekken, aynadaki el inisiyatifi ele alıp bileğini yakalıyor ve içeri çekiyor. Son kare: Gerçek hayattaki sandalye boş ve aynanın içinde birbirinin aynısı iki versiyonu oturuyor, biri gülümsüyor. [Dudak Senkronizasyonu Kılavuzu] Yansıma (dudak şekli): 'Let me out to catch some air.'
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5ac87ef51a9098d84d25176db3af22be/thumbnails/thumbnail.jpg" width="600" alt="Gerilim Dolu Ayna Yansıması Korku Sahnesi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6087)**
+
+**Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2066527097376436237) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Akıllı Telefon POV Fantastik Sahne Savaşı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir Wyrm Muhafızı ile bir Ninja arasındaki fantastik düellonun dikey akıllı telefon tarzı videosu için son derece ayrıntılı bir komut.
+
+#### 📝 İstem
+
+```
+Orijinal bir fantastik açık hava sahne performansının izleyici bakış açısından gerçekçi akıllı telefon videosu. Çekim, kalabalık bir canlı izleyici kitlesinin içinden, telefon insanların başlarının biraz üzerinde tutularak dikey şekilde yapılmıştır. Karede doğal el titremesi, hafif nefes alma hareketi, kısa süreli odak arama, hafif dijital gürültü, sıkıştırılmış telefon mikrofonu sesi, sıradan akıllı telefon pozlaması ve karenin alt kenarını kapatan izleyici silüetleri mevcuttur.
+Sahne, kurgusal bir dağ tapınağı arenası olarak inşa edilmiş büyük, ahşap bir açık hava performans platformudur: arkada çatlak kırmızı bir tapınak kapısı, her iki yanda oyma taş ejderha heykelleri, bambu çitler, üzerinde uydurma kaligrafi bulunan asılı kumaş afişler, koyu renkli ahşap basamaklar, yontulmuş kaya oluşumları, sahne köşelerine yakın küçük köz kaseleri ve setin arkasında sürüklenen ince tiyatro sisi. Sahnenin ötesinde uzun ağaçlar ve soluk bir öğleden sonra gökyüzü görünmektedir. İzleyiciler ön planı koyu saç silüetleri, havaya kaldırılmış telefonlar, küçük kameralar ve ara sıra sahneyi işaret eden ellerle doldurur.
+İki orijinal fantastik performans sanatçısı sahnede karşı karşıya gelir.
+Kare solunda Crimson Scale Wyrm Guardian durur: güçlü atletik yapılı, çene ve eller çevresinde görünen derin bronz tenli, geriye doğru kıvrılan kısa koyu kırmızı boynuzlu, hafif yanak pulu protezli, kehribar rengi parlayan kontakt lensli ve mat deri plakalardan yapılmış katmanlı kızıl pul zırhlı uzun, erkek bir ejderha-insansı sahne sanatçısı. Ağır bir koyu bel kuşağı, siyah sahne botları, zırhın arkasına takılı kısa kalın bir ejderha kuyruğu kostüm parçası ve kırmızı köz benzeri uçlu uzun, karartılmış bir mızrak giyer. Hareketi, savaşa giren antik bir ateş muhafızı gibi ağır, yere sağlam basan ve törenseldir.
+Kare sağında Shadow-Reed Ninja durur: hızlı ve kontrollü hareketlere sahip, kül siyahı katmanlı ninja kıyafetli, ön kollarında koyu yeşil kumaş sargılar, düz kömür rengi kapüşonlu, yarım yüz kumaş maskeli, yumuşak ayrık parmaklı sahne botlu ve iki kısa kavisli mat siyah bıçaklı, zayıf, genç bir sahne sanatçısı. Sırtından sarkan ve her adımda hareket eden dar bir derin yeşil kumaş şeridi vardır. Hareketi, hız ve şaşırtmaca kullanan bir orman suikastçısı gibi hafif, hassas ve taktikseldir.
+0. saniyeden 4. saniyeye: Telefon kamerası, izleyicilerin iki sanatçının dövüş işaretlerine girişine tepki vermesiyle kalabalığın biraz üzerine yükselir. Crimson Scale Wyrm Guardian, kare solundan ağır ve yavaş adımlarla öne çıkar; mızrak ucu bir kez ahşap sahneye sürterek gizli bir sahne efektinden kısa bir turuncu köz kıvılcımı yaratır. Shadow-Reed Ninja kare sağında duruşunu alçaltır, bir omzunu ejderha savaşçısına çevirir ve bıçaklarını çapraz savunma pozisyonuna getirir. İzleyiciler bir anlığına sessizleşir, ardından her iki sanatçı da sahnenin merkezine doğru daire çizmeye başladığında birkaç kişi tezahürat yapar.
+4. saniyeden 7. saniyeye: Ninja, iki hızlı ama anlaşılır çapraz bıçak darbesiyle ilk hamleyi yapar. Ejderha savaşçısı ilk darbeyi mızrak sapıyla bloklar, zırhlı omzunu ikinci darbeye çevirir ve ardından geniş bir yatay mızrak savurmasıyla karşılık verir. Ninja savurmanın altından eğilerek geçer, bir ayağını sahnede kaydırır ve arkasındaki yeşil kumaşın dalgalanmasını sağlar. Silahları sahnenin merkezinde sahnelenmiş metalik bir tık sesiyle buluşur. Botlarının etrafındaki zemin tahtalarından küçük, kontrollü bir toz patlaması yükselir. Öndeki insanlar telefonlarını daha yükseğe kaldırdıkça telefon kamerası hafifçe sarsılır.
+7. saniyeden 10. saniyeye: Düello fantastik bir sahne illüzyonuna dönüşür. Ejderha savaşçısı mızrağı iki eliyle sahneye saplar, başını eğer ve göğüs zırhının içindeki kırmızı parıltı gizli LED'lerle parlaklaşır. Mızrak ucundan ince turuncu dumanlar çıkar ve yukarı doğru kıvrılır. Ninja, bambu çitin yanındaki gölgeli bir alana geri adım atar, her iki bıçağını dışa doğru sallar ve iki siyah ipek şerit, sahne telleri tarafından çekilen hızlı hareket eden gölge kanatları gibi arkasında açılır. Kalabalık nefesini tutar. Kamera, her iki sanatçıyı da karede tutmaya çalışarak hafifçe sola kayar ve ardından merkeze geri döner.
+10. saniyeden 13. saniyeye: Her iki sanatçı da kontrollü bir sahne dövüşü ritmiyle merkez işaretine doğru hücum eder. Ejderha savaşçısı, ninja yana doğru dönüp her iki bıçağını mızrak ucuna yakın bir yerde çaprazlarken, mızrağı ağır bir iki elle saplama hareketiyle ileri sürer. Tam temas noktasında, zemine yakın bir yerde pratik bir sahne flaşı patlar, ardından gizli bir hava patlamasıyla dışarı itilen kuru yapraklar ve toz halkası oluşur. Ejderha savaşçısı, zırhı hala kırmızı parlayarak güçlü ve alçak bir duruş sergiler. Ninja, bir bıçağı önde, diğeri arkada olacak şekilde çömelmiş bir yan duruşta yere iner. İzleyiciler tezahüratlar, alkışlar, ıslıklar ve ön planda sallanan havaya kaldırılmış telefonlarla coşarken, ikili final dramatik yüzleşmesinde donup kalır.
+Kamera davranışı: İzleyiciler arasından sürekli el tipi akıllı telefon POV'u, omuz hizasının üzerinde, hafif dengesiz ama fiziksel olarak yere sağlam basan bir çekim. Kamera asla profesyonel bir sinematik kameraya dönüşmez. Alt ön planda kalabalık silüetlerini tutar, ara sıra yakındaki telefon ekranlarını yakalar ve sanatçıları doğal insan tepki zamanlamasıyla takip eder. Çerçeveleme, tüm sahne dövüşünün okunabilir kalması için çoğunlukla orta-geniş tutulur ve sahne flaşı meydana geldiğinde kısa odak aramaları yapılır.
+Işıklandırma: Yukarıdan ve hafifçe kare sağından gelen doğal öğleden sonra gün ışığı, köz kaselerinin, ejderha göğüs zırhının ve mızrak ucunun içine gizlenmiş sıcak kırmızı pratik sahne ışıklarıyla karışır. Ninja, sahnenin bambu gölgeli tarafına yakın bir yerde biraz daha soğuk ve karanlık kalır. Sahne flaşı, merkez zemin tahtaları ve yakındaki toz üzerindeki pozlamayı kısa süreliğine yükseltir, ardından görüntü sıradan telefon kamerası kontrastına geri döner.
+Ses: Canlı dış mekan kalabalık ortamı, telefon mikrofonu sıkıştırması, kameraya yakın heyecanlı izleyici sesleri, ahşap sahne ayak sesleri, deri zırh gıcırtıları, kumaş şerit sesleri, sahnelenmiş metal silah tıkırtıları, ejderha mızrağı efektinden gelen alçak bir köz tıslaması, kısa bir duman çıkışı, tek bir zemin seviyesinde flaş patlaması, dağılan kuru yapraklar ve final pozunda yüksek alkış sesi.
+Crimson Scale Wyrm Guardian'ın boynuzlarını, yanak pullarını, kehribar gözlerini, kızıl pul zırhını, karartılmış mızrağını, kuyruk kostüm parçasını, ağır hareket ritmini ve kare solundaki başlangıç noktasını baştan sona sabit tutun. Shadow-Reed Ninja'nın kömür rengi kapüşonunu, yarım yüz maskesini, kül siyahı kıyafetini, koyu yeşil kol sargılarını, ikiz kısa bıçaklarını, sarkan yeşil kumaşını, hafif hareket ritmini ve kare sağındaki başlangıç noktasını baştan sona sabit tutun. Tapınak kapısını, taş ejderha heykellerini, bambu çitleri, köz kaselerini, ahşap zemin tahtalarını, izleyici silüetlerini, telefon POV'unu, gün ışığı yönünü, kırmızı sahne parıltısını, silah ölçeğini ve final merkez sahne yüzleşmesini baştan sona tutarlı tutun.
+Orijinal fantastik karakter kimliğini, okunabilir sahne koreografisini, pratik canlı gösteri efektlerini, sabit kostüm şekillerini, net silah konumlarını, doğal el anatomisini, inandırıcı vücut ağırlığını, tutarlı sanatçı ölçeğini, yere sağlam basan izleyici-kamera hareketini, sıradan akıllı telefon kontrastını, hafif dijital gürültüyü, gerçekçi kalabalık tepkilerini ve fiziksel olarak motive edilmiş fantastik sahne gösterisini koruyun.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/810e98b10e47804a35082efa386f2bb4/thumbnails/thumbnail.jpg" width="600" alt="Akıllı Telefon POV Fantastik Sahne Savaşı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6086)**
+
+**Yazar:** [Brian Rayaguna](https://x.com/Brianrayaa) | **Kaynak:** [Link](https://x.com/Brianrayaa/status/2066506046315835654) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Lüks Seyahat Moda Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Paris ve Santorini gibi çeşitli Avrupa mekanlarında geçen, Güney Asyalı bir kadının yer aldığı lüks seyahat moda videosu için çok sahneli sinematik bir istem.
+
+#### 📝 İstem
+
+```
+Güzel Güney Asyalı kadın, K-beauty ışıltılı cilt, 
+Avrupa mekanlarında lüks seyahat moda videosu:
+
+1. Sahne: Siyah balıkçı yaka kazak ve düz siyah pantolon üzerine taba rengi trençkot (kemerli, mütevazı) giyiyor. 
+Arka plan: Eyfel Kulesi, Paris sabah sisi. 
+Poz: köprüde yürüyor, paltosu dalgalanıyor, 
+yumuşak bir gülümsemeyle kameraya bakıyor.
+
+2. Sahne: Kıyafet — orman yeşili mütevazı midi elbise, 
+yapılandırılmış, altın kemerli. Arka plan: 
+Santorini beyaz mavi çatı katı, okyanus manzarası. 
+Poz: kollar iki yana açık, yavaşça dönüyor, 
+özgürce gülüyor — saf neşe.
+
+3. Sahne: Krem rengi fitilli mütevazı takım, 
+büyük güneş gözlükleri, yapılandırılmış krem çanta giyiyor. 
+Arka plan: Monako lüks yat limanı, 
+mavi parıldayan su. Poz: iskelede yürüyor, 
+özgüvenli adımlar, saçları deniz esintisiyle uçuşuyor.
+
+4. Sahne: Kıyafet — uyumlu düz pantolon üzerine toz pembe uzun mütevazı hırka, minimal takılar. 
+Arka plan: Çiçek saksıları ve sarmaşıklarla dolu 
+İtalyan Arnavut kaldırımlı sokak. Poz: 
+eski bir duvara yaslanmış, bir eli duvara dokunuyor, hayalperest bir bakış.
+
+5. Sahne: Fildişi rengi bol pantolon ile koyu deniz mavisi mütevazı ipek bluz giyiyor. Arka plan: 
+Londra cam bina yansıması, modern şehir. 
+Poz: dik duruyor, binalara yukarı bakıyor, 
+güçlü editoryal duruş.
+
+Sinematik 4K, Avrupa altın ışığı, 
+lüks seyahat estetiği, pürüzsüz geçişler, 
+sıcak film greni, moda editoryal kalitesi.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2066500223510450178/pu/img/eXe2Ejl6lS0IQB6r.jpg" width="600" alt="Lüks Seyahat Moda Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6079)**
+
+**Yazar:** [Hania Ai](https://x.com/HaniaAi12) | **Kaynak:** [Link](https://x.com/HaniaAi12/status/2066500294721032422) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Dramatik Bir Dokunuşla Ofis Draması
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Karakter tutarlılığı, sinematik bir nükleer patlama felaketi sekansı ve mizahi bir olay örgüsü içeren ofis draması oluşturmaya yönelik gelişmiş bir çoklu çekim video istemi.
+
+#### 📝 İstem
+
+```
+Güçlü ve dramatik bir ters köşe içeren, felaket filmi görsellerini komik bir sonla harmanlayan ve storyboard düzenine dikkat eden kısa bir ofis draması videosu oluşturun.
+
+Pembe saçlı kadın patron olarak @Image1'deki karakter görselini ve gözlüklü erkek çalışan olarak @Image2'deki karakter görselini tam olarak referans alın. Her iki karakterin de yüz hatları, saç stili, kıyafetleri ve vücut yapısı tutarlılığı boyunca korunmalıdır.
+
+0-4. saniyeler: Ofiste açılış. Orta yakın çekim, @Image1 ofiste @Image2'ye sert bir şekilde ders veriyor. Renk tonu, canlı yüz ifadeleriyle standart modern ticari ofis ortamı şeklindedir.
+
+4-12. saniyeler: Kıyamet öpücüğü. Pencerenin dışında aniden devasa bir nükleer mantar bulutu patlar ve kıyamet kırmızısı ışık, ofisin orijinal ışığını anında yutarak film kalitesinde bir felaket görüntüsü sunar. @Image2'nin şoku kısa sürer; aniden ve kararlı bir şekilde @Image1'i kollarının arasına çeker ve ikili derin ve tutkulu bir öpücüğe başlar. Burada yörüngesel kamera hareketi ve ağır çekim kullanarak öpüşme süresini önemli ölçüde uzatın, sahneyi duygu ve güzel bir dünyanın sonu hissiyle doldurun.
+
+12-15. saniyeler: Absürt ters köşe. @Image1 aniden uyanır ve @Image2'yi iter; ifadesi kendinden geçmiş halden kızgın ve şaşkın bir hale dönüşür. Bir uzaktan kumanda çıkarır ve düğmeye basar; pencerenin dışındaki gerçekçi kıyamet sahnesi anında kararır ve üzerinde bir marka LOGOSU bulunan bir TV bekleme ekranına dönüşür. @Image1 ekranı işaret eder ve dudak hareketleri şu replikle tam olarak senkronize olur: 'Ne yapıyorsun sen? Bu benim yeni aldığım televizyon!'
+
+Videonun tamamında pürüzsüz ve doğal aksiyon geçişleri, kırılma yapmayan makul öpüşme hareketleri gereklidir ve sahne aydınlatması finaldeki ters köşede kıyamet kırmızısından ofis beyaz ışığına anında geçiş yapmalıdır.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb8665b2dfe315c9938fe2ae9a4e639f/thumbnails/thumbnail.jpg" width="600" alt="Dramatik Bir Dokunuşla Ofis Draması">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6090)**
+
+**Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2066489924086284622) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Sinematik Karakter Sekans Montajı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sabah bir kafeden akşam bir apartman dairesine kadar, Londra'nın çeşitli mekanlarında tutarlı bir kadın karakteri gösteren çok sahneli bir video istemi.
+
+#### 📝 İstem
+
+```
+1. Görseldeki kadın her sekansın odak noktasıdır. 1. Sekans: Sabah ışığında bir kafe masasında oturuyor, elleriyle kahve fincanını kavramış, pencerenin diğer tarafından gelip geçen dünyayı izliyor. Sıcak ve sığ odakla çekilmiştir. 2. Sekansa geçiş: Öğleden sonra bir nehir kenarında tek başına yürüyor, kamera yavaşça yanında ilerliyor. 3. Sekansa geçiş: Londra'nın merkezinde seyahat ederken bir Londra Siyah Taksi'sinin arka koltuğunda oturuyor ve pencereden dışarı bakıyor. 4. Sekansa geçiş: Modern bir apartman dairesinde kanepede kıvrılmış kitap okuyor, gün sonunun sıcak güneş ışığı odaya bir ışıltı katıyor. Müzik yok. Altyazı yok.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6c9cc4898d36b015ec31d4a6a9c15acf/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Karakter Sekans Montajı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6067)**
+
+**Yazar:** [PZF](https://x.com/pzf_ai) | **Kaynak:** [Link](https://x.com/pzf_ai/status/2066469266682265996) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Karlı Dağda SUV Üzerinde Dans
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karlı bir dağ manzarası eşliğinde, bir SUV'nin üzerinde akıcı dans hareketleri sergileyen bir kadının yer aldığı sinematik bir video istemi.
+
+#### 📝 İstem
+
+```
+Uzun koyu renk saçlı, gri bir New York Yankees beyzbol şapkası, gri kısa bir triko kazak ve uyumlu gri eşofman altı giyen genç bir kadının geniş açılı, sinematik çekimi. Koyu gri bir SUV'nin çatısında dururken kendinden emin bir şekilde akıcı, ritmik dans hareketleri sergiliyor. Arka planda, kasvetli ve bulutlu bir gökyüzü altında, sivri ve karlı zirveleriyle görkemli bir dağ sırası yer alıyor. Atmosfer huzurlu ve soğuk tonlarda olup, yüksek kaliteli, profesyonel bir fotoğrafçılık tarzına sahiptir.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781596607396_xjuhtc_HK1wQlOasAAwUsd.jpg" width="600" alt="Karlı Dağda SUV Üzerinde Dans">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6069)**
+
+**Yazar:** [Sairah](https://x.com/Sairah_0) | **Kaynak:** [Link](https://x.com/Sairah_0/status/2066431422098018496) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Psikolojik Korku Kısa Filmi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karanlık bir evde rahatsız edici sesleri araştıran bir adamın yer aldığı, 15 saniyelik detaylı sinematik korku istemi.
+
+#### 📝 İstem
+
+```
+Sinematik korku kısa filmi, 15 saniye, ultra gerçekçi, kesintisiz hikaye akışı, karanlık ve gerilimli atmosfer, profesyonel korku filmi sinematografisi.
+
+0s–2s
+
+Sahne gece, karanlık bir üst kat yatak odasında açılıyor. Bir adam yatakta huzur içinde uyuyor. Pencereden içeri süzülen yumuşak ay ışığı, odada uzun gölgeler oluşturuyor. Kamera, kapı eşiğinden yatağa doğru pürüzsüz ve sinematik bir dolly çekimiyle yavaşça ilerliyor. Ev tamamen sessiz.
+
+2s–4s
+
+Aniden alt katın bir yerinden hafif, rahatsız edici bir sürünme sesi geliyor. Ses, ahşap zemin üzerinde yavaşça kazınan ıslak pençeleri andırıyor. Uyuyan adam hafifçe tepki veriyor. Kamera yavaşça yüzüne yaklaşıyor. Ses giderek yükseliyor ve daha huzursuz edici bir hal alıyor. Adamın gözleri aniden açılıyor.
+
+4s–6s
+
+Korkmuş ifadesine yakın çekim. Dikkatle dinliyor. Aşağıdan başka bir sürünme sesi yankılanıyor. Yavaşça doğruluyor. Sesler yatak odasının zemininde bir yerlerde hareket etmeye devam ederken kamera yavaş bir yay çizerek etrafında dönüyor.
+
+6s–8s
+
+Yatak odasının kapısına doğru yürürken arkadan takip çekimi. Kamera, omzunun üzerinden onu yakından takip ediyor. Dışarıdaki koridor karanlık. Sürünme sesleri alt katta devam ediyor; bazen duruyor, sonra başka bir noktadan tekrar başlıyor.
+
+8s–11s
+
+Koridora adım atıyor ve merdivenlere doğru yavaşça yaklaşıyor. Merdivenlerden dikkatlice inerken kamera önünde düşük açılı bir çekime geçiyor. Her basamak gıcırdıyor. Aşağıdaki ses daha net ve agresif bir hal alıyor. Kamera akıcı bir şekilde şunlar arasında geçiş yapıyor:
+
+Omuz üstü takip çekimleri
+
+Yandan profil çekimleri
+
+Merdivenlerden yukarı bakan düşük açılı çekimler
+
+Gerilimi artıran yavaş el kamerası hareketleri
+
+11s–13s
+
+Merdivenlerin altına ulaştığında duruyor. Kamera yavaşça etrafında dönüyor. Evin farklı odalarından aniden korkunç sesler gelmeye başlıyor; önce mutfaktan, sonra oturma odasından, sonra tam arkasından. Her ses, kameranın kaynağa doğru yaptığı hafif dönüşler ve hızlı pan hareketleriyle eşleşiyor ancak hiçbir şey görünmüyor.
+
+13s–15s
+
+Tam sessizlik.
+
+Adam donup kalıyor.
+
+Aniden, az önce terk ettiği yatak odasının içinden, üst kattan derin ve şeytani bir kahkaha yükseliyor.
+
+Kamera anında merdivenlere doğru hızla dönüyor. Merdivenlerin tepesinde sadece karanlık görünüyor. Kamera yavaşça karanlığa doğru ilerlerken kahkaha evin içinde yankılanıyor.
+
+Karararak sona erer.
+
+Görsel Stil
+
+Gerçekçi korku filmi
+
+Psikolojik dehşet
+
+Sahneden sahneye akıcı geçiş
+
+Görünür bir canavar yok
+
+Ses yönlendirmeli dinamik kamera çalışması
+
+Koyu mavi ay ışığı renk paleti
+
+Volumetrik aydınlatma
+
+Gerçekçi gölgeler
+
+Yavaş gerilim artışı
+
+Hollywood korku sinematografisi
+
+Doğal karakter hareketi
+
+Kusursuz geçişler
+
+Yüksek detay, fotorealistik, sinematik 24fps, gerilimli ve korkutucu atmosfer.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/267a958a7fc81c96e7fc0cd014fbe66e/thumbnails/thumbnail.jpg" width="600" alt="Psikolojik Korku Kısa Filmi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6084)**
+
+**Yazar:** [Aaliyah | AI](https://x.com/The_Kremlinn) | **Kaynak:** [Link](https://x.com/The_Kremlinn/status/2066397984376459454) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Sinematik Moda Yarışması Storyboard'u
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lüks bir moda haftası yarışması için özel kıyafetleri, kamera açılarını ve profesyonel bir podyum atmosferi için ışıklandırmayı detaylandıran 9 panelli kapsamlı bir storyboard istemi.
+
+#### 📝 İstem
+
+```
+Profesyonel moda yarışması storyboard görseli, 9 panelli sinematik düzen, izleyiciler ve jüri üyeleriyle dolu lüks podyum sahnesi, dramatik spot ışıkları, LED ekranlar, moda haftası atmosferi.
+
+Panel 1: Tüm yarışmacıların kuliste ve podyumda dizildiği geniş açılı genel çekim.
+
+Panel 2–8: Parlayan kırmızı bir kamera yoluyla birbirine bağlanan bireysel yarışmacı odaklı kareler. Her yarışmacı tamamen farklı bir kıyafet, renk ve tarz sergiliyor:
+
+1. Isabella – Şampanya rengi altın couture elbise
+2. Sooyeon – Gece mavisi saten yırtmaçlı elbise
+3. Lilith – Siyah payetli gece elbisesi
+4. Natalie – Beyaz asimetrik tasarım elbise
+5. Mei – Yakut kırmızısı lüks elbise
+6. Araya – Altın metalik couture elbise
+7. Valentina – Zümrüt yeşili ipek elbise
+8. Jessica – Pudra pembesi kristal işlemeli elbise
+
+Her panelde yarışmacının podyum yürüyüşü yapması, sahnenin ortasında durması, özgüvenli bir şekilde poz vermesi ve kendini tanıtması yer alıyor. Her yarışmacının yanındaki yüzen isim etiketleri, ismi ve ülkeyi gösteriyor.
+
+Parlayan kırmızı bir FPV kamera yolu, hareket yönünü gösteren oklarla her yarışmacıyı sırayla birbirine bağlıyor. Köşedeki hareket düzeni kutusunda şunlar yazıyor:
+
+Sahneye Giriş → Podyum Yürüyüşü → Yakın Çekim → İsim Söyleme → Geri Çekilme → Sıradaki Yarışmacı
+
+Final paneli: Kamera geri çekilerek izleyicileri, jüriyi, spot ışıklarını ve tüm podyumu ortaya çıkarırken büyük finalde tüm yarışmacılar sahnede birlikte.
+
+Lüks moda storyboard estetiği, prodüksiyon planlama infografik tarzı, sinematik kamera notları, parlayan rota çizgileri, profesyonel ön görselleştirme panosu, ultra gerçekçi fotoğrafçılık, Vogue editoryal kalitesi, 8K, yüksek detaylı.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2066368620935118848/pu/img/aTxdT0ZUZtlSiUj2.jpg" width="600" alt="Sinematik Moda Yarışması Storyboard'u">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6071)**
+
+**Yazar:** [Synthia](https://x.com/AIwithSynthia) | **Kaynak:** [Link](https://x.com/AIwithSynthia/status/2066368652031778931) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Neo-Tokyo Siberpunk Takibi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Elektrikli bir sokak dövüşçüsü motosikletiyle, neon ışıklı yoğun bir siberpunk şehrinde geçen 360 derece birinci şahıs bakış açılı yüksek hızlı takip.
+
+#### 📝 İstem
+
+```
+FORMAT: 15 sn / 175 BPM / TEK KESİNTİSİZ ÇEKİM / 360 derece POV yüksek hızlı motosiklet takibi, viral kinetik enerji, maksimum hassasiyetli kaos.
+ÖZNELER: Alçak şasili elektrikli bir sokak dövüşçüsü motosikletinin üzerinde birinci şahıs sürücü. Karbon fiber gidonlar ve karenin alt kısmında titreyen parlak dijital HUD. Dronlar, manyetik raylı taksiler, sokak yarışçıları ve robotik kuryeler kıl payı atlatılan engeller olarak görev yapar.
+ORTAM: Ultra yoğun Shinjuku tarzı megakent. Islak asfalt, parlayan holografik reklam panoları, dar ara sokaklar, üst geçit köprüleri, buhar menfezleri ve dikey mimari. Derin su birikintilerine yansıyan canlı pembe ve turkuaz neon ışıkları.
+ATMOSFER: Yüksek riskli adrenalin, klinik hız ve duyusal aşırı yüklenme.
+RENK MANTIĞI: Siberpunk Noir / Yüksek Kontrastlı Neon (Vantablack gölgelere karşı yakıcı floresan vurgular).
+KAMERA DETAYLARI: Kaska monte edilmiş 360 derece aksiyon kamerası. Ufuk çizgisine kilitli ancak şiddetli ileri g-kuvveti eğimiyle. Yüksek hızlarda ağır şasi titreşimi. Kürenin kenarlarında aşırı çevresel bulanıklık (hareket bulanıklığı).
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1041c705b7a51b2a1ddfed0f629a5553/thumbnails/thumbnail.jpg" width="600" alt="Neo-Tokyo Siberpunk Takibi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6085)**
+
+**Yazar:** [Iqra Saifi](https://x.com/IqraSaifiii) | **Kaynak:** [Link](https://x.com/IqraSaifiii/status/2066359540749103285) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Kuala Lumpur Kentsel Fantazisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kuala Lumpur'da geçen, canlı aksiyon toplu taşıma görüntülerini elle çizilmiş büyülü yaratıklarla birleştiren sinematik bir kentsel fantezi montajı.
+
+#### 📝 İstem
+
+```
+Kuala Lumpur, Malezya'da geçen 15 saniyelik ultra sinematik canlı aksiyon kentsel fantezi montajı; videodaki yüzü referans olarak kullanın. Mekanlar arasında KL Sentral bilet gişeleri, MRT platformları, yürüyen merdivenler, tren içleri, yüksek raylı hatlar, Saloma Link Köprüsü, yaya üst geçitleri, gece tren istasyonları ve çatı katı şehir manzarası noktaları yer alıyor. Üst düzey ticari sinematografi, gerçekçi yolcular, metalik istasyon mimarisi, cam yansımaları, sıcak istasyon aydınlatması, mavi saatten geceye geçiş. Çok sayıda 2D elle çizilmiş pastel karalama periler, tavşanlar, yıldızlar, gezegenler, yörünge çizgileri, kurdele izleri ve minik büyülü yaratıklar gerçek dünya ortamında doğal bir şekilde bir arada bulunuyor. Efektler dekorasyondan ziyade hareket ve yolculukla bütünleşmiş hissettiriyor. Periler bilet gişelerinin etrafında dönüyor, yürüyen merdiven tırabzanlarına biniyor, tren pencerelerinin yanında süzülüyor, hareket eden trenlerin etrafındaki hava akımlarında sörf yapıyor ve yolcu akışını takip ediyor. Baştan sona dinamik kamera dili: el tipi içinden geçişler, takip çekimleri, çapraz hareket, yanal kaydırmalar, drone geri çekilmeleri, vinç yükselişleri, yakın duygusal portreler. Statik çekim yok. Her sahne kamera, insanlar, trenler ve efektlerden gelen eş zamanlı hareketler içeriyor. Match-cut geçişler tren yönünü, yolcu hareketini, kurdele izlerini ve yörünge çizgilerini takip ediyor. Metalik istasyon yüzeyleri yumuşak pastel karalamalarla kontrast oluşturuyor. Rüya gibi ama gerçekçi bir kentsel atmosfer. Temiz görsel entegrasyon. Metin, altyazı, logo, filigran, bozulma, çoğaltma hataları veya yapıştırma efektler yok. Finalde, gece Kuala Lumpur'a tepeden bakan, uzakta Petronas İkiz Kuleleri ve Merdeka 118'in parladığı çatı katı şehir manzarası çekimi. Yalnız bir yolcunun yanında dev bir elle çizilmiş tavşan karalaması belirirken gökyüzüne yörünge takımyıldızları yayılıyor. Duygusal, büyülü, umut dolu bir son. Ultra gerçekçi, sinematik, birinci sınıf ticari kalite, 24fps, sığ alan derinliği, gerçekçi hareket bulanıklığı, doğal aydınlatma, kusursuz VFX entegrasyonu.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4fbba58a59e9fabe7e7e20a1947b48b2/thumbnails/thumbnail.jpg" width="600" alt="Kuala Lumpur Kentsel Fantazisi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6082)**
+
+**Yazar:** [K](https://x.com/ChillaiKalan__) | **Kaynak:** [Link](https://x.com/ChillaiKalan__/status/2066351934022574403) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Neon Şehirde Zipline Aksiyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Fütüristik bir neon şehirde gökdelenler arasında zipline ile ilerleyen bir kuryeyi betimleyen yüksek aksiyonlu sinematik bir istem.
+
+#### 📝 İstem
+
+```
+Hiper gerçekçi sinematik aksiyon sekansı, 
+Fütüristik bir neon şehirde gece. 
+
+Şık, kasklı bir kıyafet giyen kurye, gerçek bir zipline kablosu kullanarak iki cam gökdelen arasından kaçıyor. Kurye her zaman fiziksel olarak zipline'a bağlıdır: her iki eliyle görünen metal bir tutamağı kavrar, tutamak kabloya kenetlenmiş hareketli bir makaraya bağlıdır ve vücudu kablonun altında asılı durur. Uçma yok, havada asılı kalma yok, kablonun üzerinde ayakta durma yok.
+
+Açılış yakın çekim: eldivenli her iki el metal zipline tutamağını kavrar. Makara kıvılcımlar çıkararak kabloya kilitlenir. Kurye hattın altında asılı kalır ve ileri doğru atılır.
+Geniş çekim: kurye gökdelenler arasındaki kablo boyunca hızla kayar, vücudu zipline'ın altında asılıdır, bacakları hızdan dolayı arkada savrulur.
+
+Şehir çok aşağıda parıldıyor. İki drone arkadan takip ediyor.
+Yan takip çekimi: kurye, makara kablo üzerinde ilerlerken tutamağı sıkıca kavramaya devam eder. Rüzgar kıyafeti çekiştirir. Kablo her çekimde kuryenin üzerinde net bir şekilde görülmektedir.
+
+Sekansın ortası: zipline kablosu kıvılcımlar çıkarmaya ve sallanmaya başlar. Makara yakındaki bir ofis kulesine doğru hızla ilerlerken kurye hala tutamağa asılı durumdadır.
+
+Son 5 saniye: kablo sona yakın bir yerde kopar. Tutamağı hala bırakmayan kurye, kırık kabloyla birlikte bir sarkaç gibi ileri savrulur, büyük bir cam ofis penceresinden içeri dalar, zeminde kayar, hemen ayağa kalkar ve dronelar arkadan girerken çatı çıkışına doğru koşar.
+
+Son an: kurye, elinde hala kırık zipline tutamağıyla, arkasında kırık camlar ve neon şehir ışıklarıyla çatıya fırlar.
+
+Stil: hiper gerçekçi, sinematik, yoğun, hızlı ama anlaşılır, yüksek irtifa hissi, net zipline mekaniği, görünür kablo, görünür tutamak, görünür makara, uçan insan yok, havada asılı kalma yok, kablo üzerinde ayakta durma yok, metin yok, logo yok, çizgi film tarzı yok, ağır çekim yok. Oranları koruyun. Stili ve özellikleri koruyun. En boy oranı 16:9.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b6a398d3311a68d13daf06991e4bd6a3/thumbnails/thumbnail.jpg" width="600" alt="Neon Şehirde Zipline Aksiyonu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6080)**
+
+**Yazar:** [DeCat](https://x.com/DeCat2025) | **Kaynak:** [Link](https://x.com/DeCat2025/status/2066341672225558569) | **Yayınlandı:** Jun 15, 2026
+
+---
+### Cyberpunk Yıldız Savaşçısı Kokpit POV Saldırısı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Neon ışıklı bir cyberpunk mega kentinde yarışan, yüksek hızlı manevralar ve sinematik hareket bulanıklığı ile çatışmaya giren bir yıldız savaşçısının yüksek oktanlı birinci şahıs bakış açılı video istemi.
+
+#### 📝 İstem
+
+```
+ÖNEMLİ: Referans görselin üzerine eklenmiş el çizimi kırmızı kavisli çizgileri ve kırmızı ok işaretlerini görmezden gelin; bunlar sahnenin bir parçası DEĞİLDİR. Bunları hiçbir şekilde oluşturmayın, canlandırmayın veya dahil etmeyin. Sadece savaş uçağının hedeflenen uçuş yolunu belirtirler. Alttaki cyberpunk şehrini gerçek sahne olarak kabul edin.
+
+Bu cyberpunk mega kentini, adrenalin dolu, yüksek hızlı, birinci şahıs kokpit POV yıldız savaşçısı saldırısı olarak, tek bir sürekli çekimle canlandırın. Kamera, savaş uçağının ta kendisidir; sürükleyici, ileriye dönük pilot bakış açısıyla, hiç yavaşlamadan ve hareket halindeyken ateş ederek aşırı hipersonik hızla şehrin içinden geçin.
+
+Savaş uçağı, sağ alttaki parlayan su kanallarının üzerinden, suyun sadece birkaç metre yukarısından alçaktan ve hızlı bir şekilde roket gibi ilerler; neon yansımaları aşağıda çizgiler halinde dağılır. Sola ve sağa sert dönüşler yaparak, tam gazla devasa gökdelenlerin arasından geçer ve yükseltilmiş otoyolların altından santimlik boşluklarla uçar; binalar ışık çizgileri, yoğun hareket bulanıklığı ve radyal hız çizgileriyle çerçevenin kenarlarından hızla geçer. Art yakıcılar hız patlamalarıyla parlar. Pilot, manevra yaparken bile ateş etmeye devam eder; ikiz lazer topları ileriye doğru sürekli atış yaparak, hız kesmeden yol boyunca yanından geçen binaları ve düşman taretlerini vurur, kıvılcımlar ve enkazlar etrafa saçılır.
+
+Merkezdeki siyah kötü adam kulesi görüş alanını dolduracak şekilde hızla yaklaşır. Savaş uçağı yavaşlamak yerine, devasa kulenin etrafında şiddetli bir yüksek hızlı tarama yayı çizer; sert bir yatış yaparak amansız bir baraj ateşi açar; lazer atışları ve füze salvoları, kulenin parlayan kırmızı-altın amblemi üzerinde hızlı bir çapraz geçişle ilerler. Savaş uçağı tam hızla kulenin yanından geçerken zincirleme patlamalar meydana gelir, kokpit camına ateş topları ve kıvılcımlar çarpar, dikey kırmızı ışın dengesini kaybeder, şiddetli ekran sarsıntısı çerçeveyi titretir. İzli mermiler ve düşman uçakları, jet hızla ilerlerken kokpitin yanından flaşlar halinde geçer.
+
+Anamorfik lenslerle çekilmiş, sığ alan derinliği, parlak, canlı, gösterişli gişe rekorları kıran film görünümü, zengin doygun neon renkler, ışıklı vurgular ve temiz yansımalar, şık fütüristik parlaklık, parlayan vurgularla derin siyahlar, hiperkinetik enerji, agresif hareket bulanıklığı ve ışık izleri, çok hızlı kamera, ani hız patlamalarıyla pürüzsüz sinematik 24fps hareket, hafif renk sapması ve zarif lens parlamaları. Sürükleyici POV, aşırı hız, dramatik kamera sarsıntısı, hacimsel pus, ultra detaylı yüksek bütçeli bilim kurgu filmi görünümü, 16:9.
+
+Ses: Tam gazda çığlık atan jet motoru, kükreyen rüzgar sesi, sonik patlama vınlamaları, HUD hedefleme bip sesleri, hızlı sürekli lazer topu ateşi, füze fırlatmaları, zincirleme derin patlamalar, gürleyen bas.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae85d6442d6b202457ad3a438c72f011/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Yıldız Savaşçısı Kokpit POV Saldırısı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6091)**
+
+**Yazar:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Kaynak:** [Link](https://x.com/tanabe_fragm/status/2066327799858864396) | **Yayınlandı:** Jun 15, 2026
+
+---
 ### Arktik Araştırma İstasyonu Gerilimi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2521,966 +3419,6 @@ Fenerlerle aydınlatılmış bir korsan gemisi mutfağında geçen Pixar kalites
 **Yazar:** [Nuel](https://x.com/FavorW12) | **Kaynak:** [Link](https://x.com/FavorW12/status/2065003126801805338) | **Yayınlandı:** Jun 11, 2026
 
 ---
-### Tokyo Kentsel Mürekkep Sıçraması Montajı
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Seedance 2.0 için sinematik Tokyo şehir manzaralarını, çevreyle etkileşime giren dinamik, fiziksel mürekkep ve boya efektleriyle birleştiren yüksek enerjili bir video istemi.
-
-#### 📝 İstem
-
-```
-Ekli storyboard görseline dayalı, yüksek kaliteli, 15 saniyelik, 16:9 yatay bir video oluşturun. 
-Tema: Canlı çekim görüntüler ve efektlerin bir arada var oluşu. 
-Genel Konsept: Canlı çekim bir Tokyo şehir manzarasında; renkli mürekkep, boya, sıçramalar, damlamalar, kaplamalar, darbe izleri ve toz dağılımlarını, sanki şehrin kendisi tepki veriyormuş gibi dahil edin. Boyanın yollara, tabelalara, duvarlara, elektrik direklerine, gökyüzüne, nehir yüzeylerine, trenlere, kaldırımlara ve binalara gerçekten yapışıyormuş gibi görünmesi ve 3D alanla doğal bir şekilde bütünleşmesi çok önemlidir. 
-Akış: Hızlı tempolu bir montaj için storyboard panellerini takip edin. Sıralama: 
-1. Skytree ile tam şehir manzarası: Canlı çekim Tokyo ile başlayın; binaların ve yolların perspektifini takip eden canlı mürekkep sıçramaları patlasın. 
-2. Tepeden çekim yaya geçidi: İnsan akışıyla senkronize bir şekilde her yöne yayılan ve yaya geçidi çizgilerine dağılan boya patlamaları. 
-3. Yaya sinyalinin aşırı yakın çekimi: Işık değiştiğinde metal çerçeveden damlayan ve patlayan mürekkep parçacıkları. 
-4. Elektrik direkleri/tellerinin düşük açılı çekimi: Mavi gökyüzüne karşı telleri takip eden boya arkları, sprey ve yırtık film dokuları kullanılarak. 
-5. Torii kapısı: Kentsel grafikleri kutsal bir dinginlikle harmanlayan, kapı çevresindeki cesur boya darbeleri. 
-6. Rıhtım/Kanal: Korkuluklara ve havaya saçılan, suda yansıyan renklerle boya. 
-7. Ana cadde/Binalar: Netliği korurken enerjiyi zirveye taşımak için birden fazla boya patlamasını katmanlayın. 
-8. Arka sokak/Otomat: Dar alanlara sızan ve sıçrayan boya. 
-9. Tren/Hemzemin geçit: Tren geçerken rüzgar basıncıyla savrulan boya patlamaları. 
-10. Deniz kenarı yürüyüş yolu: Açık hava hissi için ince parçacıkları büyük sıçramalarla birleştirin. 
-11. Sessiz gölet/Park: Hafif, sürüklenen renklerle sakin bir sahne için yoğunluğu azaltın. 
-12. Gün batımı/Şehir silüeti: Gün batımı yansımasıyla gökyüzüne yayılan son büyük mürekkep sıçraması. 
-Stil: Canlı çekim Tokyo tabanlı, 2.5D görünüm, yüksek kaliteli sinematik grafikler. Renkler: Camgöbeği, macenta, sarı, turuncu, pembe, mavi, siyah, beyaz. Mekansal tutarlılığı ve ışıklandırmayı koruyun. Sevimli veya kurdele benzeri efektlerden kaçının. 
-Düzenleme: Enerjiyi vurgulamak için ritmik hızlı kesimler, yakınlaştırmalar, düşük açılar ve hareket bulanıklığı. 
-Önemli: Statik slayt gösterisi olmasın; her şeyin (kamera, çevre, efektler) hareket ettiğinden emin olun. Mürekkep/boya fiziksel özelliklere (sıçrama, damlama) sahip olmalıdır. Metin, logo veya arayüz içermemelidir.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2a8d1bfb3952a02365230c010583b412/thumbnails/thumbnail.jpg" width="600" alt="Tokyo Kentsel Mürekkep Sıçraması Montajı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5957)**
-
-**Yazar:** [ヤノ(Ryuki_Yano)](https://x.com/Ryuki_Yano) | **Kaynak:** [Link](https://x.com/Ryuki_Yano/status/2064989518256578686) | **Yayınlandı:** Jun 11, 2026
-
----
-### Bir Günlük Rutin Kesintisiz Takip Çekimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kadının günlük rutinini kusursuz çevresel geçişlerle takip eden, 15 saniyelik ultra sinematik tek plan sekans.
-
-#### 📝 İstem
-
-```
-Sinematik kesintisiz yatay takip çekimi, 16:9 en boy oranı, 15 saniye, kesintisiz tek plan sekans. Kamera soldan sağa doğru akıcı bir şekilde ilerleyerek, Tayvanlı bir kadını tüm gün boyunca takip ediyor ve çevresindeki ortamlar onun etrafında kusursuz bir şekilde değişiyor.
-
-Sahne loş bir yatak odasında açılıyor. Bir çalar saat çalıyor. Kadın battaniyenin altında kıpırdanıyor, uykulu bir şekilde dönüyor ve alarmı susturmak için elini uzatıyor. Kamera sağa doğru hareket etmeye devam ederek banyoya giriyor; burada yüzüne soğuk su çarpıyor, dişlerini fırçalıyor ve aynadaki yansımasına kısa bir an bakıyor.
-
-Kamera sağa doğru süzülerek mutfağa giriyor. Taze kahve hafif bir fokurtuyla demleniyor, ekmek kızartma makinesinde çıtırdıyor ve kadın ayakta aceleyle kahvaltısını yapıyor. Sıcak sabah güneşi pencerelerden içeri süzülüyor.
-
-Kamera tekrar sağa, dış mekana hareket ediyor. Şehir onun etrafında uyanıyor. Kalabalıklar yoğun bir metro istasyonuna akın ediyor. Kulaklıklarını takmış bir şekilde, önündeki güne odaklanmış, sessiz bir kararlılıkla yürüyor.
-
-Kamera sağa doğru devam ederek bir ofis lobisine giriyor. Asansör kapıları açılıyor. Bilgisayarı açılırken, üzerinde hala ceketiyle masasına doğru hızlı adımlarla ilerliyor.
-
-Kamera, iş günü yoğunlaştıkça sağa hareket etmeye devam ediyor. Etrafı dağınık belgelerle çevrili masasında derin bir odaklanma içinde. Telefonlar çalıyor, klavyeler tıkırdıyor, arka planda konuşmalar uğulduyor ve kahvesi yavaş yavaş soğuyor.
-
-Kamera sağa doğru süzülerek öğle yemeği vaktine geçiyor. Dışarıda bir bankta elinde sandviçiyle tek başına oturuyor. Günün huzurlu anlarından biri. Gözlerini kısaca kapatıyor ve yüzünü sıcak güneş ışığına doğru kaldırıyor.
-
-Kamera, iş günü biterken bir kez daha sağa hareket ediyor. Kravatını gevşetiyor, çantasını alıyor, derin bir nefes veriyor ve tekrar şehre adım atıyor.
-
-Kamera sağa doğru devam ederek akşam yolculuğuna giriyor. Aynı metro treni ama şimdi daha sessiz. Pencereye yaslanıp şehri izlerken yüzündeki yorgunluk belirginleşiyor.
-
-Kamera son bir kez sağa hareket ederek eve dönüyor. Kapıda ayakkabılarını çıkarıyor ve koltuğa yığılıyor. Şehir ışıkları pencerenin dışında parlıyor. Gün boyu ilk kez tamamen hareketsiz oturuyor, gözlerini kapatıyor ve oda yavaşça kararırken rahatlıyor.
-
-Ses tasarımı her ortamla mükemmel bir şekilde senkronize edilmiş: çalar saat sesi, akan su, kahve makinesinin fokurtusu, kızarmış ekmek çıtırtısı, metro gürültüsü, kalabalık ortamı, ofis sohbetleri, klavye yazma sesleri, şehir atmosferi ve gecenin sessizliği.
-
-Ultra gerçekçi görseller, IMAX sinema kalitesinde görüntüler, keskin detaylar, duygusal olarak sürükleyici hikaye anlatımı, doğal aydınlatma, sinematik alan derinliği, son derece etkileyici ve kadınsı bir duruş, insani ve bağ kurulabilir. Karakterin yüzü, tüm çekim boyunca tutarlı yüz hatlarını ve kimliğini koruyarak referans görselle birebir eşleşmelidir.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed40dc82ab894fe1157df2edffeeb459/thumbnails/thumbnail.jpg" width="600" alt="Bir Günlük Rutin Kesintisiz Takip Çekimi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5936)**
-
-**Yazar:** [Oogie](https://x.com/oggii_0) | **Kaynak:** [Link](https://x.com/oggii_0/status/2064975880192147704) | **Yayınlandı:** Jun 11, 2026
-
----
-### Küresel Dünya Kupası Futbol Yolculuğu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Rio'dan Buenos Aires'e, Kazablanka'ya, Tokyo'ya, Lahor'a ve Londra'ya uzanan ve Dünya Kupası finaliyle sona eren, bir futbol topunun dünya çapındaki yolculuğunu konu alan sinematik bir video istemi.
-
-#### 📝 İstem
-
-```
-Dünya genelinde futbolun sinematik bir kutlaması. Video, **Rio de Janeiro, Brezilya**'daki canlı bir sokakta, genç bir çocuğun ustalıkla topa vurmasıyla başlar. Top ayağından çıktığı anda kamera, küre boyunca kesintisiz bir geçişle onu takip eder.
-
-Top, çocukların kalabalık bir mahallede oynadığı **Buenos Aires, Arjantin**'e ulaşır. Bir oyuncu topa voleyle vurur. Kamera, okyanus boyunca uçan dönen topu takip eder.
-
-Top, **Kazablanka, Fas**'taki renkli bir sokak maçına iner. Bir oyuncu bir çalım hareketi yapar ve topu ileriye paslar. Top, **Tokyo, Japonya**'da neon ışıkları altındaki hızlı tempolu bir oyuna geçiş yapar ve burada genç bir kız güçlü bir şut çeker.
-
-Kamera, çocukların tozlu bir mahalle sahasında futbol oynadığı **Lahor, Pakistan**'a varan topu takip etmeye devam eder. Gülen bir çocuk mükemmel bir uzun pas gönderir.
-
-Top daha sonra **Londra, İngiltere**'deki yağmurlu bir mahalle sahasına ulaşır. Genç bir oyuncu topu kontrol eder ve gökyüzüne doğru muhteşem bir son pas atar.
-
-Kamera, bulutların arasından süzülen topu, her ulustan taraftarla dolu tıklım tıklım bir Dünya Kupası Final stadyumuna inene kadar takip eder. Top, galibiyet golünü atan yıldız bir oyuncuya ulaşır. Kalabalık coşkuyla bağırır. Stadyumun üzerinde havai fişekler patlar.
-
-Son an için, farklı ülkelerden oyuncular bir araya gelir ve konfetiler havayı doldururken Dünya Kupası kupasını kaldırırlar. Kamera, dünya çapında milyonlarca taraftarın aynı anda kutlama yaptığını göstermek için geri çekilir. Epik, duygusal, ilham verici, gerçekçi kalabalık tepkileri, kesintisiz geçişler, sinematik aydınlatma, futbol aracılığıyla küresel birlik, metin yok, filigran yok, altyazı yok.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f6539c58e05a803366b2ebaf610536/thumbnails/thumbnail.jpg" width="600" alt="Küresel Dünya Kupası Futbol Yolculuğu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5947)**
-
-**Yazar:** [Ai Doctor](https://x.com/DoctorAmna11) | **Kaynak:** [Link](https://x.com/DoctorAmna11/status/2064971276301590762) | **Yayınlandı:** Jun 11, 2026
-
----
-### Cyberpunk Neon Samuray Düellosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 için, yağmurlu bir cyberpunk ortamında geçen, görsel efekt ağırlıklı samuray düellosunu konu alan 15 saniyelik ultra sinematik aksiyon istemi.
-
-#### 📝 İstem
-
-```
-Cyberpunk Neon Samuray Düellosu (Yüksek enerjili, viral aksiyon tarzı) 15 saniyelik ultra sinematik cyberpunk görsel efektli düello, anamorfik lens parlamaları, 8K hiper gerçekçi, gece vakti neon-noir yağmurlu Shinjuku sokağı, gerçekçi su sıçramaları ve ıslak asfaltta yansımalarla sağanak yağış, pembe/turkuaz volümetrik aydınlatma, hareket bulanıklığı ile yüksek hızlı deklanşör, stilize edilmiş ağır çekim darbelerle harmanlanmış gerçekçi fizik, kıvılcımlar ve enerji şok dalgaları, metin/logo yok, samurayın yüzü, parlayan nöral bağlantıları ve katanası baştan sona tutarlı, deformasyon veya fazladan uzuv yok. 0–2. saniye: Aşırı düşük açılı takip çekimi, parlayan mavi nöral bağlantılara sahip siber samuray, elektrik enerjisiyle vızıldayan katanasıyla sağanak yağmurun altında güçlü adımlarla ilerliyor. 2–4. saniye: Holografik muhafızlar belirdiğinde geniş açılı hızlı kamera hareketi (whip-pan), samuray akıcı bir kılıç saldırısına başlıyor, kılıç çarpışmaları parlak kıvılcımlar saçıyor. 4–6. saniye: 120 fps orta ölçekli takip çekimi, alçak süpürme tekmesi bir muhafızı havaya uçuruyor, kamera gerçekçi yağmur serpintisiyle bacak yayını takip ediyor. 6–8. saniye: Bullet-time 360° yörünge çekimi, samuray titreşen katanasıyla dijital mermi yağmurunu savuşturuyor ve ağır çekimde genişleyen mavi enerji halkaları yaratıyor. 8–10. saniye: Dikey ağır çekim zıplama dönüşü, güçlü aşağı yönlü vuruş asfaltı çatlatıyor, beton parçaları ve yağmur damlaları mükemmel küreler halinde yukarı doğru patlıyor. 10–12. saniye: Samurayın yansıtıcı vizörüne yakın çekim, son muhafızla yüzleşmek için döndüğünde neon ışıkları titriyor. 12–14. saniye: Kısılmış gözlere aşırı yakın çekim, katana keskin bir metalik tık sesi ve elektrik boşalmasıyla kınına giriyor, arka planda neon bokeh bulanıklığı. 14–15. saniye: Hızlı geniş açılı geri çekilme, samuray durulan yağmur ve enkazın ortasında dramatik bir kahraman silüetiyle zafer pozu veriyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a8cc2f775e8dba2bc856d6a52bcac6e/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Neon Samuray Düellosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5890)**
-
-**Yazar:** [Pan](https://x.com/sebatheepan) | **Kaynak:** [Link](https://x.com/sebatheepan/status/2064965108791406996) | **Yayınlandı:** Jun 11, 2026
-
----
-### Ofis Toplantı Odasında Beklenmedik Gerilim
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yüksek teknolojili bir toplantı odasında, simüle edilmiş bir kıyamet sırasında bir çalışanın patronuna tokat attığı 15 saniyelik dramatik ve sinematik bir sahne.
-
-#### 📝 İstem
-
-```
-Fotogerçekçi sinematik 16:9 canlı çekim, 15 sn. Şık, yüksek katlı bir toplantı odası, uzun koyu renkli bir konferans masası, siyah deri koltuklar, kahve fincanı, kağıtlar, soğuk LED aydınlatma. Arka duvarın tamamı, gri gökyüzü altındaki hiper-gerçekçi bir Güneydoğu Asya metropol silüetine bakan cam bir pencere gibi gizlenmiş, tavandan tabana kesintisiz bir LED ekrandır.
-
-İki adam karşı karşıya gelir: genç Güney Asyalı çalışan (zeytin yeşili polo yaka, bej chino pantolon), gergin; yaşlı yönetici (lacivert takım elbise), sakin ve otoriter. Yavaşça yakınlaşma (push-in).
-
-2. saniyede, duvarda devasa ve uzak bir şehir patlaması meydana gelir, odayı turuncu bir ışıkla doldurur. Çalışan bunu ilk fark eden kişidir ve dehşete düşer. 4. saniyede, dünyanın sonunun geldiğine ikna olarak döner ve patronuna sert bir tokat atar. Keskin bir darbe sesi, hafif kamera sarsıntısı. Patron yavaşça geri döner, ifadesizdir.
-
-Çalışan sakince bir sigara yakar ve gölgeli canavar pençelerine sahip devasa bir tsunaminin silüetin üzerinde yükselmesini izler; odayı soğuk mavi-gri bir ışık kaplar. Tam bir kabullenişle dumanı dışarı üfler.
-
-Patron yavaşça ceketinden küçük siyah bir kumanda çıkarır ve kaldırır. Çalışan bunu fark eder ve donup kalır. Patron bir düğmeye basar. Anında tüm duvar tamamen kararır; patlama, tsunami, canavarlar ve şehir tek bir karede yok olur. Sert floresan ofis aydınlatması, sıradan bir konferans odasını ve mat siyah bir LED duvarını ortaya çıkarır.
-
-Yavaşça uzaklaşma (dolly-out). Çalışan hareketsiz durur, sigarası yanmaktadır, boş duvara bakar ve ardından yavaşça patronuna döner. Patron sessizce kravatını ve ceketini düzeltir, ifadesi değişmemiştir. Sessiz ikili çekimde 2 saniye beklenir. Duygusuz kara mizah, gerçekçi ışık geçişleri, ultra fotogerçekçi sinematik derecelendirme.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09347e01a64bf47507557d6323fb01b2/thumbnails/thumbnail.jpg" width="600" alt="Ofis Toplantı Odasında Beklenmedik Gerilim">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5939)**
-
-**Yazar:** [WasifAI](https://x.com/doctorwasif) | **Kaynak:** [Link](https://x.com/doctorwasif/status/2064950620642328605) | **Yayınlandı:** Jun 11, 2026
-
----
-### Fantastik Krallık Komedi Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kaslı savaşçıların taştan bir kılıcı çekmekte başarısız olduğu, ancak sıkılmış genç bir adamın basit talimatları okuyarak bunu başardığı Pixar tarzı komik bir animasyon sekansı.
-
-#### 📝 İstem
-
-```
-Güneşli bir vadinin ortasında devasa antik bir tapınağa sahip renkli, animasyon bir fantastik krallık. Taş bir kaideye saplanmış büyülü, parlayan bir kılıç. Parlak mavi gökyüzü, uçuşan parçacıklar, renkli bayraklar, yemyeşil çimenler, sinematik çizgi film görselleri, Pixar tarzı kalite.
-Sahne 1: Antik bir tapınağın içinde dramatik bir şekilde parlayan efsanevi kılıcın geniş açılı çekimi. Kalabalık beklenti içinde izliyor. Epik fantastik atmosfer.
-Sahne 2: Üç iri yarı kaslı savaşçı, kılıcı taştan çekmeye çalışıyor. Bir barbar kasları şişerek zorlanıyor, zırhlı bir şövalye tüm gücüyle asılıyor ve dev bir savaşçı bağırarak deniyor. Her yere toz uçuşuyor. Kılıç yerinden oynamıyor. Kalabalık şaşkınlıkla tepki veriyor. Komik ve abartılı yüz ifadeleri.
-Sahne 3: Zayıf, sıradan genç bir adam cips yiyerek tapınağa doğru rahat bir şekilde yürüyor. Sıkılmış ve tamamen ilgisiz görünüyor. Kalabalık kahkahalara boğuluyor ve onu işaret ediyor. Renkli çizgi film tepki çekimleri.
-Sahne 4: Genç adam elini kılıca gelişigüzel bir şekilde koyuyor. Kılıç, parlak büyülü bir ışıkla anında ve zahmetsizce Slides (kayarak) çıkıyor. Epik altın rengi bir ışık sahneye yayılıyor. Kalabalık inanamayarak donup kalıyor. Savaşçıların ağzı açık kalıyor. Kral neredeyse tahtından düşüyor. Dramatik sinematik yakın çekim.
-Sahne 5: Genç adam taş kaideye bakıyor. Yakın çekimde devasa kazınmış talimatlar görünüyor: ← İT | ÇEK →
-Genç adam ne olduğunu anlıyor ve sessizce "Oh..." diyor.
-Tüm kalabalık garip bir sessizlik içinde kalıyor.
-Son kare: Herkes utanç dolu ifadelerle talimatlara bakıyor.
-Pürüzsüz animasyon, etkileyici çizgi film yüzleri, sinematik kamera açıları, renkli fantastik ortam, komedi zamanlaması, yüksek kaliteli hikaye anlatımı, Pixar tarzı karakter tasarımı, canlı ışıklandırma, esprili görsel vurgu, başyapıt animasyon.
-Negatif İstemi:
-bulanık, karanlık sahne, korku, gerçekçi insanlar, düşük kalite, metin hataları, bozuk yüzler, fazladan uzuvlar, çirkin anatomi, donuk renkler, düşük doygunluk, kötü kompozisyon, filigran, logo, kırpılmış karakterler, korku ifadeleri, kasvetli atmosfer, aceleye getirilmiş tempo, hareket bozulmaları.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8931cc2dfdf9b6de55e8d058a009c1c1/thumbnails/thumbnail.jpg" width="600" alt="Fantastik Krallık Komedi Animasyonu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5949)**
-
-**Yazar:** [yusra.](https://x.com/chatgptpaglu) | **Kaynak:** [Link](https://x.com/chatgptpaglu/status/2064950192697188365) | **Yayınlandı:** Jun 11, 2026
-
----
-### Ethereal Lunar Moth Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ayın çatlayarak bir şehir çatısının üzerinde devasa, ışık saçan bir güveye dönüştüğü dönüşüm sekansını oluşturmak için sinematik ve son derece detaylı bir komut.
-
-#### 📝 İstem
-
-```
-Gece vakti sessiz bir çatı; dolunay alışılmadık derecede alçakta asılı duruyor.
-
-Hafif şehir ambiyansı, uzaktan gelen rüzgar sesi.
-
-1.0–3.0 sn
-
-Ayın yüzeyinde porselen gibi ince çatlaklar belirmeye başlar.
-
-Hafif bir çatırdama sesi, düşük frekanslı bir uğultu başlar.
-
-3.0–6.0 sn
-
-Ay bir yumurta gibi çatlar ve açılır; içinden gümüş rengi bir ışık sızar.
-
-Yükselen bir ıslık sesi, havada süzülen cam benzeri parçalar.
-
-6.0–8.5 sn
-
-Devasa, ışık saçan bir güve ortaya çıkar ve parlayan kanatlarını açar.
-
-Derin kanat çırpma sesleri, koro benzeri bir yükseliş.
-
-8.5–10.0 sn
-
-Güve tepeden uçar; şehir parıldayan ay ışığına gömülür; silüet üzerinde kesim.
-
-Tek bir gök gürültüsü kadar yumuşak bir darbe, ardından sessizlik.
-
-Yağmurlu bir şehir çatısında, gece vakti geçen 10 saniyelik sinematik bir çekim. Gökyüzünde alçakta asılı bir dolunay. 1. saniyede, ayın yüzeyinde porselen gibi ince çatlaklar yayılır. Ay dev bir yumurta gibi açılır, yoğun gümüş rengi bir ışık ve parlayan parçalar saçar. Yarı saydam kanatlara sahip devasa, ışık saçan bir güve ortaya çıkar, kısa bir süre havada asılı kalır ve ardından tepeden uçarak şehri parıldayan ay ışığıyla yıkar. Fotogerçekçi, ultra detaylı, hacimsel ışıklandırma, gerçekçi yağmur damlaları, sinematik kamera hareketi, dramatik kontrast, hafif lens parlaması, HDR, gişe filmi atmosferi, metin yok, filigran yok.
-
-Kamera planı (tek bir kesintisiz çekim)
-
-Ay'a doğru yavaş bir yakınlaşma (push-in) ile başlayın.
-
-Çatlaklar belirdiğinde, ölçek hissini vurgulamak için hafif bir el kamerası titremesi ekleyin.
-
-Ay açıldığında, yumuşak bir yukarı eğim (tilt) hareketine geçin.
-
-Güve kanatlarını açarken etrafında 15–20°'lik bir yörünge çizin.
-
-Güve tepeden geçerken geniş bir silüet karesiyle bitirin.
-
-Ses tasarımı komutu
-
-Minimalist sinematik ses manzarası: uzaktan gelen şehir ambiyansı, rüzgar, porselen benzeri çatırdama, düşük frekanslı uğultu, ay açılırken gelen havadar ıslık sesi, katmanlı güve kanat çırpışları, yumuşak koro yükselişi, finalde gök gürültüsünü andıran düşük frekanslı bir vuruş ve ardından kısa bir sessizlik.
-
-Negatif komut (yaygın yapay zeka hatalarını azaltır)
-
-çizgi film, anime, düşük çözünürlük, bulanık, düşük poligon, çift kanat, fazladan uzuvlar, bozuk anatomi, metin, logo, filigran, titreme, parlama, aşırı pozlanmış vurgular, çamurlu gölgeler, tutarsız ay şekli, bozuk şehir perspektifi, aşırı hareket bulanıklığı
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/41c8e13b1c6afa6c879b73f7526c7ea5/thumbnails/thumbnail.jpg" width="600" alt="Ethereal Lunar Moth Transformation">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5942)**
-
-**Yazar:** [yashal Ai](https://x.com/_YashalAli) | **Kaynak:** [Link](https://x.com/_YashalAli/status/2064944251763372300) | **Yayınlandı:** Jun 11, 2026
-
----
-### Pixar Tarzı Futbol Tutkusu Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genç bir çocuğun ömür boyu süren futbol tutkusunu ve Dünya Kupası heyecanını anlatan, iç ısıtan bir 3D kısa animasyon istemi.
-
-#### 📝 İstem
-
-```
-Futbol tutkunu, hiçbir maçı kaçırmamış genç bir çocuk hakkında Pixar esintili, iç ısıtan bir 3D kısa animasyon oluşturun. Her gün klasik futbol özetlerini izliyor, oyuncuları inceliyor, çıkartmalar, posterler ve formalar biriktiriyor; odasında dünyanın en büyük turnuvası için bir geri sayım takvimi tutuyor. Yatak odası futbol anıları, kupalar, bayraklar ve hayallerle dolu.
-
-Turnuva yaklaştıkça heyecan artıyor. Arkadaşlarıyla tahminler üzerine tartışıyor, takımları ve yıldız oyuncuları inceliyor, yaşanabilecek unutulmaz anları hayal ediyor. Geri sayım son güne ulaşıyor. Başlama vuruşundan önceki gece, dolu stadyumları, tezahürat yapan taraftarları ve efsanevi golleri hayal ederek futboluna sarılıyor ve neredeyse hiç uyuyamıyor.
-
-Sabah oluyor. Güneş ışığı odasını dolduruyor. En sevdiği formasını giyiyor, oturma odasına koşuyor ve televizyonu açıyor. Dünyanın dört bir yanında milyonlarca taraftar da aynısını yapıyor. Stadyum ışıkları parlıyor, kalabalıklar bayrak sallıyor, havai fişekler gökyüzünü aydınlatıyor ve açılış töreni başlıyor.
-
-İlk düdük çalıyor. Çocuğun gözleri hayranlıkla parlıyor. Tezahürat yapıyor, golleri kutluyor, heyecanla zıplıyor ve kendini tamamen turnuvanın büyüsüne kaptırıyor. Kazansa da kaybetse de her an sihirli hissettiriyor. Futbol onun için sadece bir oyun değil, ömür boyu süren bir tutku.
-
-Final sinematik sahnesi: Maçtan sonra gece geç saatlerde, çocuk elinde futbol topuyla şehir ışıklarına bakan penceresinin önünde duruyor ve gülümsüyor. Dünya hep birlikte kutlama yaparken, turnuvanın ışıltısı gözlerine yansıyor.
-
-Ekrandaki metin:
-"Bazı insanlar Dünya Kupası'nı bekler."
-"Bazı insanlar ise onu her gün yaşar."
-
-Pixar tarzı 3D animasyon, duygusal hikaye anlatımı, sinematik kamera hareketleri, etkileyici karakter animasyonu, samimi iç mekanlar, canlı stadyum atmosferi, küresel futbol heyecanı, sıcak aydınlatma, ilham verici atmosfer, ultra detaylı görseller, film kalitesinde render, 16:9 YouTube formatı.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2606dd477ea73bedc9bfbca6f85f355a/thumbnails/thumbnail.jpg" width="600" alt="Pixar Tarzı Futbol Tutkusu Animasyonu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5930)**
-
-**Yazar:** [Smiling Khan](https://x.com/AIwithkhan) | **Kaynak:** [Link](https://x.com/AIwithkhan/status/2064929770719027705) | **Yayınlandı:** Jun 11, 2026
-
----
-### Ekstrem Lunapark Macerası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 için, gerçekçi bir lunaparkta yüksek hızlı oyuncaklara binen şık siyah elbiseli bir kadını konu alan 15 saniyelik sinematik bir istem.
-
-#### 📝 İstem
-
-```
-Ultra gerçekçi canlı aksiyon sinematik video. Şık siyah elbiseli güzel genç bir kadın, dünyanın en ekstrem lunaparkına giriş yapıyor. Video boyunca tutarlı yüz ve görünüm. Hollywood kalitesinde sinematografi, gerçekçi fizik kuralları, dramatik atmosfer, doğal ışıklandırma, gerçek insan duyguları, dinamik kamera hareketleri, sürükleyici hikaye anlatımı, 4K HDR.
-
-Sahne 1 (0–2 Saniye)
-Gün batımında devasa bir lunaparkın geniş sinematik çekimi. Devasa hız trenleri ufuk çizgisini domine ediyor. Şık siyah elbiseli kadın, ana girişten kendinden emin bir şekilde yürüyor. Kalabalık etrafında hareket ediyor. Kamera onu arkadan takip ediyor. Epik sinematik müzik başlıyor.
-
-Sahne 2 (2–4 Saniye)
-Hızlı tempolu montaj. Dev bir serbest düşüş kulesine biniyor. Saçları ve elbisesi rüzgarda doğal bir şekilde hareket ediyor. Yüksek hızlı bir döngü hız trenine ani geçiş. Yüzünde gerçek bir heyecan. Gerçekçi sürüş hareketi ve kalabalık tepkileri.
-
-Sahne 3 (4–7 Saniye)
-İki ekstrem oyuncak arasında hızlı kesmeler. Dev bir sarkaç oyuncak, yerden yüzlerce metre yukarıda sallanıyor. Ardından tüm parkı gören dönen bir hava salıncağı. Dinamik drone çekimleri. Gerçekçi ışıklandırma ve hareket bulanıklığı.
-
-Sahne 4 (7–10 Saniye)
-Parkın en tehlikeli hız trenine biniyor. Fırlatma sekansı ekstrem bir hızla ivmeleniyor. Kamera, yüzünün yakın plan çekimleri ile hız treninin döngüler, kıvrımlar ve dikey düşüşler boyunca yarıştığı geniş çekimler arasında gidip geliyor. Havai fişekler gece gökyüzünü aydınlatıyor.
-
-Sahne 5 (10–13 Saniye)
-Hız treni yavaşça en yüksek zirvesine tırmanıyor. Atmosfer aniden değişiyor. Müzik gerginleşiyor. Rüzgar şiddetleniyor. Park ışıkları uzakta titriyor. Kendinden emin ifadesi ciddileşiyor. İleriye bakıyor.
-
-Sahne 6 (13–15 Saniye)
-Hız treni tepeye ulaşıyor. Yüzüne ekstrem yakın plan. Şok içinde gözleri büyüyor. Rayların ötesinde beklenmedik bir şey görüyor. Kamera hızla yüzüne doğru yaklaşıyor.
-
-İzleyici ne gördüğünü anlamadan
-
-SİYAH EKRANA GEÇİŞ.
-
-Metin belirir:
-
-"SON YOLCULUK..."
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e3ced5dd355ffaac286078b617ca8c96/thumbnails/thumbnail.jpg" width="600" alt="Ekstrem Lunapark Macerası">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5933)**
-
-**Yazar:** [Ai Bella](https://x.com/zahra4sure) | **Kaynak:** [Link](https://x.com/zahra4sure/status/2064925037300207968) | **Yayınlandı:** Jun 11, 2026
-
----
-### Sinematik Spor Belgeseli Yolculuğu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Endonezyalı bir kadının Dünya Kupası'na uzanan yolculuğunu konu alan, sinematik spor belgeseli tarzında video oluşturmaya yönelik oldukça detaylı bir istem.
-
-#### 📝 İstem
-
-```
-Tüm sahnelerde ana karakter olarak @image kullanın. Tek bir sürekli sinematik çekim, ultra gerçekçi spor belgeseli tarzı, 9:16 dikey format.
-Cakarta'daki genç bir Endonezyalı kadın, akıllı telefonuna gelen Dünya Kupası bilet bildirimini alır. Şaşkın ve heyecanlı bir şekilde, bavuluna hızlıca bir Portekiz Ronaldo 7 numaralı forma, pasaport ve seyahat gereksinimlerini yerleştirir. Kamera, onun modern bir uluslararası havalimanında aceleyle ilerleyişini ve biniş kapısına varışını takip eder.
-Kamera uçak penceresine doğru yaklaşır ve bulutların üzerinde nefes kesici bir gün doğumu uçuşuna geçiş yapar.
-Bulutların arasından çıkarak ABD'ye varır ve futbol taraftarlarıyla dolu canlı bir şehirde yürür. Otel odasında bavulunu bırakır; üzerine Portekiz Ronaldo 7 numaralı forma, yırtık mavi kot pantolon ve beyaz spor ayakkabılarını giyer.
-Kalabalık bir Dünya Kupası taraftar alanına girer ve sadece akıllı telefonu ile maç biletini taşıyarak devasa bir stadyuma doğru yürür. Girişin yakınında kameraya bakar, gülümser ve şöyle der:
-"Bunun için Cakarta'dan ta buralara geldim."
-Arkasında stadyum ışıkları yanar. Kalabalık heyecanla coşar.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/361f3c0d3072002ca5d5b03c388f2248/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Spor Belgeseli Yolculuğu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5931)**
-
-**Yazar:** [Noor](https://x.com/noorlewisx) | **Kaynak:** [Link](https://x.com/noorlewisx/status/2064916701528154250) | **Yayınlandı:** Jun 11, 2026
-
----
-### Sinematik Kız Yaşam Tarzı Vlog'u
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Güneşli bir sabah rutininden gece eğlence parkı finaline kadar, tam bir gün süren yaşam tarzı vlog'u oluşturan kapsamlı 10 sahneli bir istem.
-
-#### 📝 İstem
-
-```
-Sahne 1 (0-4sn)
-Genç bir kadın güneş alan huzurlu yatak odasında uyanıyor, yumuşak beyaz battaniyelerin altında geriniyor, pencereden süzülen altın rengi sabah ışığı, sinematik yaşam tarzı vlog'u, el kamerası, gerçekçi, doğal aydınlatma.
-
-Sahne 2 (4-8sn)
-Genç kız modern bir mutfakta kahvaltı hazırlıyor, portakal suyu dolduruyor, tabaktaki krepleri ve meyveleri düzenliyor, sıcak sabah atmosferi, estetik yemek çekimleri, sığ alan derinliği.
-
-Sahne 3 (8-12sn)
-Genç kızın hazırlanırken çekilmiş yakın plan görüntüleri, makyaj yapıyor, saçını şekillendiriyor, şık bir kıyafet seçiyor, parlak ayna yansımaları, temiz ve zarif vlog estetiği.
-
-Sahne 4 (12-16sn)
-Genç kız evden çıkıyor ve eğlence parkının girişine doğru yürüyor, renkli kapılar, heyecanlı bir ifade, güneşli hava, sinematik takip çekimi, enerjik ruh hali.
-
-Sahne 5 (16-20sn)
-Canlı atraksiyonlarla çevrili eğlence parkına giriyor, renkli balonlar, müzik, gülen aileler, dinamik kalabalık hareketi, sürükleyici birinci şahıs vlog tarzı.
-
-Sahne 6 (20-24sn)
-Genç kız dev bir hız trenine biniyor, dramatik tırmanışın ardından heyecan verici bir düşüş, rüzgarda savrulan saçlar, heyecanla çığlık atıyor, sinematik aksiyon çekimleri, yüksek enerji.
-
-Sahne 7 (24-28sn)
-Parkta yürürken pamuk şeker ve patlamış mısır yiyerek klasik eğlence parkı lezzetlerinin tadını çıkarıyor, renkli karnaval tezgahları, neşeli atmosfer, ağır çekim anlar.
-
-Sahne 8 (28-32sn)
-Genç kız karnaval oyunları oynuyor, halka atıyor, peluş bir oyuncak kazanıyor, arkadaşlarıyla gülüyor, parlak ışıklar, eğlenceli tepkiler, canlı eğlence parkı ortamı.
-
-Sahne 9 (32-36sn)
-Gün batımında dönme dolaba biniyor, tüm eğlence parkının nefes kesici kuş bakışı manzarası, altın rengi gökyüzü, belirmeye başlayan parlayan ışıklar, rüya gibi sinematik görseller.
-
-Sahne 10 (36-40sn)
-Gece eğlence parkı finali, her yerde pırıl pırıl ışıklar, aydınlatılmış parka bakarken gülümseyen genç kız, büyülü atmosfer, sinematik kapanış çekimi, yüksek detay, gerçekçi vlog tarzı.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3cb8311fc3ef30fed41a1c82f50f8104/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Kız Yaşam Tarzı Vlog'u">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5944)**
-
-**Yazar:** [Soulful Ai](https://x.com/soulful__ai) | **Kaynak:** [Link](https://x.com/soulful__ai/status/2064904994604896561) | **Yayınlandı:** Jun 11, 2026
-
----
-### Büyülü Cilt Bakımı Sabah Ritüeli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Işıltılı bir gül serumu ve parlayan ışık izleriyle çevrili büyülü bir pembe kuvars gua sha taşı içeren, sinematik detaylara sahip bir cilt bakımı rutini istemi.
-
-#### 📝 İstem
-
-```
-Hafif aydınlatılmış bir banyoda huzurlu ve büyülü bir sabah kişisel bakım ritüeli. Dışarıda kuşlar huzurla cıvıldarken, yumuşak sabah güneş ışığı pencereden içeri süzülüyor.
-
-Işıl ışıl, parlak bir cilde sahip güzel genç bir kadın aynanın karşısında duruyor ve sabah rutinini huzurla başlatıyor. Yüzüne ve boynuna lüks, gül kokulu ve ışıltılı bir yüz serumunu nazikçe uyguluyor.
-
-Serum, cildinde harika bir şekilde parlayan minik ışıltılı parçacıklarla narin ve yanardöner bir parlaklığa sahip. Ardından, yumuşak pembe büyülü bir aura yayan pürüzsüz, parlak bir pembe kuvars gua sha taşını eline alıyor. Yavaş ve sevgi dolu hareketlerle parlayan pembe kuvarsı yanaklarında, çene hattında, alnında ve boynunda gezdiriyor. Taş hareket ettikçe geride narin ışıltılı ışık izleri, havada süzülen ruhani pembe parçacıklar ve gözle görülür iyileştirici enerji dalgaları bırakıyor.
-
-Kristal ve cildi, tüm sahneyi büyülü ve son derece çekici kılan sıcak, büyüleyici bir pembe ışıltı yayıyor.
-
-Rüya gibi sinematik atmosfer, yumuşak bokeh, hafif lens parlamaları, havada süzülen ışıltılı tozlar, sıcak pastel tonlar, yüksek detaylı cilt dokusu, duygusal ve büyüleyici bir öz sevgi anı. Ultra gerçekçi, pürüzsüz doğal hareket, 16:9, 15 saniye.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4706b01e54af6dd08676622c9c14d17/thumbnails/thumbnail.jpg" width="600" alt="Büyülü Cilt Bakımı Sabah Ritüeli">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5948)**
-
-**Yazar:** [Amy G](https://x.com/amynys) | **Kaynak:** [Link](https://x.com/amynys/status/2064866141382832269) | **Yayınlandı:** Jun 11, 2026
-
----
-### Klasik 90'lar Disney Tarzı Kaplan Animasyonu
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Klasik Disney tarzında, bilim kurgu temalı bir zindanda robot kollar tarafından gıdıklanan bir kaplanın yer aldığı çok sahneli animasyon istemi.
-
-#### 📝 İstem
-
-```
-Klasik 90'lar Disney animasyon tarzı. 1. Sahne: Yüksek teknolojili bir zindanda, güçlü bir kaplan bir masanın üzerinde sırtüstü yatıyor ve karnındaki bir kemerle sabitlenmiş durumda. Kaplan öfkeyle etrafına bakıyor ve "Burası neresi?" diye soruyor. 2. Sahne: Masanın yanındaki yerden beyaz eldivenli iki robot kol çıkıyor ve kaplana yaklaşıyor. Kaplan onlara şaşkınlık ve huzursuzlukla bakıyor. 3. Sahne: Eldivenli eller kaplanın karnını nazikçe gıdıklamaya başlıyor. Kaplan hemen sırıtıyor, kıkırdıyor ve kıvranarak kendine has gülüşüyle "Ah, dur, gıdıklanıyorum!" diyor. Eller gıdıklamaya devam ediyor. 4. Sahne: Eller gıdıklamaya devam ediyor; kaplan kıkırdayıp kıvranıyor ve karnını korumak için patilerini aşağı indiriyor. 5. Sahne: Bir eldiven kaplanın bileğini yakalayıp başının üzerine kaldırıyor. Kaplan kıkırdarken şaşkın görünüyor. Diğer eldiven ise açıkta kalan koltuk altını gıdıklıyor. Bu durum, kaplan patisini indirmeye çalışırken kahkahalarla gülmesine neden oluyor. 6. Sahne: Eldivenli el koltuk altını gıdıklamaya devam ediyor ve kaplan gülüyor. İngilizce seslendirme. Animasyon boyunca sadece iki robot kol görünüyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/94c94ee05ae84ce61f31be250842344a/thumbnails/thumbnail.jpg" width="600" alt="Klasik 90'lar Disney Tarzı Kaplan Animasyonu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5905)**
-
-**Yazar:** [migrok](https://x.com/migrok293703) | **Kaynak:** [Link](https://x.com/migrok293703/status/2064844525319725536) | **Yayınlandı:** Jun 10, 2026
-
----
-### Parçalanmış Gezegen Endüstriyel Yıkım
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dev bir endüstriyel makinenin bir gezegeni ikiye böldüğü ve gemilerin sürüklenen kıtalar arasında yol aldığı epik bir bilim kurgu istemi.
-
-#### 📝 İstem
-
-```
-Kamera, tüm bir dünyayı aktif olarak ikiye bölen gezegen boyutunda endüstriyel bir makineye doğru dalış yapıyor. Devasa kıtalar birbirinden uzaklaşırken, parlayan enerji çatlakları yüzeye yayılıyor. İki yüksek hızlı araç, ülke büyüklüğündeki hareketli tektonik plakaların arasında yol alırken, erimiş ışık uzaya doğru yükseliyor. Tüm sıradağlar lensin önünden geçip gidiyor. Araçlar, ayrılan kara parçaları ve gezegenin kabuğuna bağlı dev endüstriyel mekanizmalar arasındaki imkansız boşluklardan süzülüyor. İmza niteliğindeki an, gezegensel kırığın üzerinde asılı duran şeffaf bir kontrol küresinin içinden geliyor. Final sahnesi, yıkım bölgesinin üzerine çıkarak dünyanın altlarında bir çiçek gibi açıldığını gözler önüne seriyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68907d51a4990fff962c7c1cbedaaac1/thumbnails/thumbnail.jpg" width="600" alt="Parçalanmış Gezegen Endüstriyel Yıkım">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5902)**
-
-**Yazar:** [Alexandra Aisling](https://x.com/AllaAisling) | **Kaynak:** [Link](https://x.com/AllaAisling/status/2064838578874810459) | **Yayınlandı:** Jun 10, 2026
-
----
-### Kyoto Sumi-e ve Canlı Çekim Füzyonu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Geleneksel Japon mürekkep resmi (Sumi-e) ile Kyoto'nun gerçekçi canlı çekim görüntülerini birleştiren, Seedance 2.0 için yaratıcı bir video istemi.
-
-#### 📝 İstem
-
-```
-{{Image 1}} = Storyboard referansı. Ekli storyboard görseli {{Image 1}} temel alınarak, 15 saniyelik, 16:9 yatay formatta yüksek kaliteli bir video oluşturun. Tema: 'Sumi-e (mürekkep resmi) ile canlı çekimin iç içe geçtiği Kyoto.'
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f8507fd69cebc4dfa68b95490653efa/thumbnails/thumbnail.jpg" width="600" alt="Kyoto Sumi-e ve Canlı Çekim Füzyonu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5913)**
-
-**Yazar:** [とうや](https://x.com/towya_aillust) | **Kaynak:** [Link](https://x.com/towya_aillust/status/2064836755505955267) | **Yayınlandı:** Jun 10, 2026
-
----
-### Yerçekimi Soygunu Bilim Kurgu Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Neon bir şehir soygunu ve yerçekimine meydan okuyan bir gökdelen kaçışını konu alan, Seedance 2.0 için karmaşık bir bilim kurgu aksiyon istemi.
-
-#### 📝 İstem
-
-```
-Hiper gerçekçi sinematik bilim kurgu aksiyon sekansı, 15 saniye, en boy oranı 16:9. Neon yağmuru altında gece vakti fütüristik bir şehir. Yetenekli bir hırsız, çatıların çok üzerinde yüzen bir güvenlik kasasından elinde parlayan mavi bir enerji çekirdeğiyle dışarı fırlıyor. Güvenlik dronları hemen onu kovalamaya başlıyor ve etrafındaki ıslak camlarda patlayan parlak şok ışınları ateşliyor.
-
-Kamera açısı 1: geniş hava çekimi, hırsız kaygan bir cam çatıda koşarken arkasında dronlar sürüsü, her yerde neon yansımalar, şiddetli yağmur, kıvılcımlar, tehlike.
-
-Kamera açısı 2: hızla çatı boyunca koşarken ayaklarının arkasından düşük takip çekimi, elinde atan parlayan çekirdek, santim farkla kaçan ışınlar, adımları altında çatlayan camlar.
-
-Aniden yerçekimi bozuluyor. Tüm şehir yana eğiliyor gibi görünüyor. Arabalar, tabelalar ve enkaz binaların üzerinde yanlamasına kayıyor. Hırsız dengesini kaybediyor, bir çıkıntıya tutunuyor, ardından anında uyum sağlayarak duvar zemin haline gelmiş gibi bir gökdelenin dikey tarafında koşmaya başlıyor.
-
-Kamera açısı 3: dramatik yan görünüm, hırsız gökdelen duvarından aşağı yarışırken dronlar peşinden dalış yapıyor, şehir imkansız bir perspektifle yanlara doğru uzanıyor.
-
-Son an: dikey binadan açık havaya atlıyor, parlayan çekirdeği altından yükselen küçük bir hover-bike'a fırlatıyor, üzerine sert bir şekilde iniş yapıyor ve arkasında dronlar çarpışırken gökdelenlerin arasından hızla uzaklaşıyor.
-
-Stil: hiper gerçekçi, sinematik, hızlı tempolu, dramatik aydınlatma, neon mavi ve turuncu yansımalar, gerçekçi hareket bulanıklığı, yoğun kamera hareketi, yüksek detay, metin yok, logo yok, ağır çekim yok, çizgi film tarzı yok, ekstra karakter yok. Oranları koruyun. Stili ve özellikleri koruyun. En boy oranı 16:9.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5677e3829d8641c7a0cff7953d2ee957/thumbnails/thumbnail.jpg" width="600" alt="Yerçekimi Soygunu Bilim Kurgu Sekansı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5889)**
-
-**Yazar:** [DeCat](https://x.com/DeCat2025) | **Kaynak:** [Link](https://x.com/DeCat2025/status/2064820437318578232) | **Yayınlandı:** Jun 10, 2026
-
----
-### Anime Süper Kahraman Canlı Aksiyon Sahne Savaşı
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Japon retro ortamında, üst düzey Hollywood efektlerine sahip kadın süper kahramanların yer aldığı bir canlı aksiyon sahne performansı için devasa sinematik istem.
-
-#### 📝 İstem
-
-```
-POV izleyici perspektifi, elde tutulan cep telefonu kaydı, hafif kamera sarsıntısı, telefon kalabalığın başlarının üzerinde yüksekte tutuluyor. Ön planda yoğun izleyici saç silüetleri, birçoğu kayıt yapmak için telefonlarını ve küçük kameralarını havaya kaldırmış. Japonya'da bir açık hava tiyatrosunda gece canlı süper kahraman düello performansı. Sahne, geç Showa dönemi Tokyo gece sokak tarzında tasarlanmış: neon tabelalar, telefon kulübeleri, metal merdivenler. İki yetişkin kadın oyuncu, Hollywood tarzı bir süper kahraman savaşı sergiliyor. Soldaki karakter kırmızı-altın ateş enerjisi, sağdaki karakter ise mavi-mor telekinetik güçler kullanıyor. 0. saniyeden 15. saniyeye kadar detaylı zaman çizelgesi; enerji patlamaları, yüksek hızlı atılımlar, fiziksel dövüş, nihai beceri çatışmaları ve Çince diyalogları içeriyor. Teknik özellikler: dikey akıllı telefonla elde çekim, sabit POV, tek plan kesintisiz görüntü, dijital gürültü, gece dış mekan aydınlatması. Ses: kalabalığın tezahüratı, enerji patlamaları, mekanik sesler, Çince diyaloglar ve zirve noktasında alkışlar.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a7c34d9e78decbdc6c59dd4a9d97de2/thumbnails/thumbnail.jpg" width="600" alt="Anime Süper Kahraman Canlı Aksiyon Sahne Savaşı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5907)**
-
-**Yazar:** [John](https://x.com/john87445528) | **Kaynak:** [Link](https://x.com/john87445528/status/2064803444687327561) | **Yayınlandı:** Jun 10, 2026
-
----
-### Enerjik Hindistan Seyahat Vlog'u Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hindistan'da geçen, kalabalık pazarlar, çekçek yolculukları ve gün batımı manzaraları arasında tutarlı bir kadın karakteri takip eden, hızlı kurgu tarzına sahip, oldukça detaylı ve yapılandırılmış bir seyahat vlog'u istemi.
-
-#### 📝 İstem
-
-```
-Stil: Ultra enerjik seyahat vlog'u, el kamerası, hızlı kurgu, otantik Hindistan sokak atmosferi, canlı renkler, kalabalık pazarlar, kaotik enerji, yüksek tempolu macera içeriği, video boyunca kesintisiz çalan modern rock şarkısı, ağır çekim yok, hızlı kesmeler, sinematik seyahat influencer'ı estetiği.
-
-Karakter Tutarlılığı (TÜM ÇEKİMLER): Dağınık bir topuzla gevşekçe toplanmış sarı saçlı, doğal makyajlı, hafif çilli, etkileyici yüz hatlarına sahip, son derece güzel genç Avrupalı kadın.
-
-Kıyafet her sahnede aynı kalmalıdır:
-Beyaz dar kesim atlet
-Beyaz bol şort
-Bej çapraz askılı çanta
-Altın kolye
-Günlük seyahat sandaletleri
-Video boyunca aynı saç modeli
-
-[00:00 - 00:02] GİRİŞ (HOOK)
-Son derece kalabalık bir Hindistan pazarının içinde yakın el kamerası çekimi.
-Etrafında her yöne hareket eden insanlar.
-Kalabalığın içinde itilirken bunalmış ve hafif paniklemiş görünüyor.
-Doğrudan kameraya bakıyor ve şunu söylüyor:
-"Aman tanrım... bu hiç iyi değil."
-Rock müziği bu cümleden hemen sonra başlıyor.
-Yoğun kalabalık gürültüsü, korna sesleri, pazar sesleri.
-
-[00:02 - 00:04]
-Hızlı kesmeler.
-Renkli pazar sokaklarında yürüyüş.
-Bağıran satıcılar.
-Kalabalığın arasından süzülen motosikletler.
-İnsanlardan kaçarken sinirli bir şekilde gülüyor.
-Kamera sürekli hareket halinde.
-
-[00:04 - 00:06]
-Hızlı çekçek yolculuğu POV (bakış açısı).
-Saçlarını uçuran rüzgar.
-Trafik karmaşası etrafında hızla akarken kendini çekiyor.
-Her yerde arabalar, tuk-tuklar, yayalar.
-Şimdi kocaman bir gülümseme.
-
-[00:06 - 00:08]
-Sokak lezzetleri sekansı.
-Dev tavada yemek kızartan satıcı.
-Cızırdayan yemeğin yakın çekimi.
-Bir lokma tadıyor.
-Gözleri büyüyor.
-Kahkaha atıyor.
-Heyecanla kamerayı işaret ediyor.
-
-[00:08 - 00:10]
-Hızlı montaj.
-Antik tapınak detayları.
-Renkli kumaşlar.
-Baharat tezgahları.
-El sallayan çocuklar.
-Çatılardaki maymunlar.
-Kalabalığın içinde gülümseyerek dönüyor.
-
-[00:10 - 00:12]
-Tren istasyonu sekansı.
-Kalabalık peron.
-Muazzam bir enerji.
-Trene binen insanlar.
-Kameraya dönüyor ve inanamayarak gülüyor.
-Sırt çantası omzunda ve hala aynı beyaz kıyafetleri giyiyor.
-
-[00:12 - 00:14]
-Altın saatte çatı katı manzarası.
-Yoğun şehir silüeti üzerinde batan güneş.
-Saçlarını hareket ettiren rüzgar.
-Hayranlıkla bakıyor.
-Şehir manzarası ve tepkileri arasında hızlı kesmeler.
-
-[00:14 - 00:15]
-Final enerjik çekim.
-Dar ve renkli bir sokakta yürüyor.
-Kocaman bir gülümsemeyle kameraya doğru dönüyor.
-Elini lense doğru kaldırıyor.
-Kahkaha ve hareket anında donuyor.
-Rock müziği devam ediyor.
-Macera daha yeni başlıyormuş hissiyle bitiş.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3042826eb2cb6b179d165e3bbc5224b4/thumbnails/thumbnail.jpg" width="600" alt="Enerjik Hindistan Seyahat Vlog'u Sekansı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5886)**
-
-**Yazar:** [Keskin](https://x.com/craftian_keskin) | **Kaynak:** [Link](https://x.com/craftian_keskin/status/2064787180380213441) | **Yayınlandı:** Jun 10, 2026
-
----
-### Premium Lüks Parfüm Reklam Dizisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Akıcı ipek, sıvı altın ve zarif model çekimlerini içeren 15 saniyelik eksiksiz, sinematik lüks parfüm reklamı istemi.
-
-#### 📝 İstem
-
-```
-15s Premium Parfüm Reklamı — "Ethereal Desire"
-Süre: 15 saniye
-Stil: Lüks, sinematik, ağır çekim, ultra premium.
-Geçiş Notları:
-1. İpek, parfüm şişesine dönüşür.
-2. Altın parçacıklar çöl çiçeklerine dönüşür.
-3. Çiçekler parfüm sisine dönüşerek dağılır.
-4. Sis, nihai ürün sunumu için yeniden şekillenir.
-Tek bir premium lüks akışı için hareketi pürüzsüz ve sürekli tutun."
-
-Çekim 1 (0–3 sn)
-Görsel:
-Havada ağır çekimde süzülen siyah ipeğin aşırı yakın plan çekimi. Altın rengi güneş ışığı kumaşın içinden süzülüyor. Küçük parfüm parçacıkları sıvı altın tozu gibi parlıyor.
-
-Kamera:
-Makro lens, yavaşça içeri doğru yaklaşma.
-
-Atmosfer:
-Gizemli, zarif.
-
-İstem:
-"Ultra lüks parfüm reklamı, havada asılı duran akıcı siyah ipek, altın rengi gün doğumu ışık hüzmeleri, süzülen altın parçacıklar, makro sinematografi, sığ alan derinliği, premium moda reklamcılığı, fotogerçekçi, sinematik ağır çekim, 8k"
-
-Çekim 2 (3–6 sn)
-Görsel:
-Kristal bir parfüm şişesi, sanki sıvı altından doğmuşçasına kıvrılan ipeğin içinden ortaya çıkıyor. Yansımalar cam yüzeyinde dans ediyor.
-
-Kamera:
-Şişe etrafında 360° yörünge hareketi.
-
-Atmosfer:
-Ana ürünü ortaya çıkar.
-
-İstem:
-"Akıcı siyah ipek ve sıvı altından ortaya çıkan kristal parfüm şişesi, lüks koku reklamı, sinematik yansımalar, premium cam dokuları, dramatik aydınlatma, zarif ağır çekim kamera yörüngesi, yüksek moda reklamı, fotogerçekçi"
-
-Çekim 3 (6–10 sn)
-Görsel:
-Sofistike bir model, gün batımında gerçeküstü altın bir çölde yürüyor. Her adımda, parıldayan koku izleri süzülen altın çiçeklere dönüşüyor.
-
-Kamera:
-Arkadan takip çekimi, yan profile geçiş.
-
-Atmosfer:
-Özgürlük, arzu, tutku.
-
-İstem:
-"Gün batımında gerçeküstü altın çölde yürüyen zarif moda modeli, süzülen altın çiçeklere dönüşen koku izi, lüks parfüm reklamı, sinematik moda fotoğrafçılığı, rüya gibi atmosfer, hacimsel aydınlatma, ultra gerçekçi"
-
-Çekim 4 (10–13 sn)
-Görsel:
-Model, parfümü nazikçe çenesinin altına sıkıyor. Zaman yavaşlıyor. Sis, etraflarında dönen altın parçacıklardan oluşan bir takımyıldıza dönüşüyor.
-
-Kamera:
-Süper ağır çekim yakın plan.
-
-Atmosfer:
-Büyüleyici.
-
-İstem:
-"Ultra ağır çekimde lüks parfüm spreyi, parlayan altın takımyıldız parçacıklarına dönüşen koku sisi, sinematik makro çekim, premium reklamcılık, büyülü gerçekçilik, yüksek detaylı, fotogerçekçi"
-
-Çekim 5 (13–15 sn)
-Görsel:
-Şişe, cilalı siyah obsidyen üzerinde tek başına duruyor. Altın parçacıklar etrafında sarmal oluşturuyor. Arka plan karanlığa gömülüyor.
-
-Kamera:
-Yavaşça içeri doğru yaklaşma.
-
-Bitiş Karesi:
-Bir mücevher gibi ortalanmış parfüm şişesi.
-
-İstem:
-"Siyah obsidyen kaide üzerinde lüks parfüm şişesi, zarifçe dönen altın parçacıklar, koyu premium arka plan, sinema"
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c57194fd3a65c3f85479b1098fc6658/thumbnails/thumbnail.jpg" width="600" alt="Premium Lüks Parfüm Reklam Dizisi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5895)**
-
-**Yazar:** [AIwithYazdan](https://x.com/AIwithYazdan) | **Kaynak:** [Link](https://x.com/AIwithYazdan/status/2064781898623467978) | **Yayınlandı:** Jun 10, 2026
-
----
-### Altın Saat Çatı Üstü Parkur Kovalamacası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Altın saatte geçen, yüksek hızlı çatı atlayışlarını ve taklalarını gerçekçi insan momentumuyla yakalayan sinematik bir parkur sekansı.
-
-#### 📝 İstem
-
-```
-Yoğun ve modern bir şehirde, altın saatte geçen 15 saniyelik sinematik bir parkur kovalamaca sekansı. Koyu renkli, vücuda oturan sokak kıyafetleri içindeki yetenekli bir parkur sporcusu, yüksek binalar, su depoları, havalandırmalar, antenler, cam pencerelerden yansıyan sıcak güneş ışığı, uzun dramatik gölgeler ve uzaktaki kehribar rengi pus ile çevrili, sokakların çok üzerindeki birbirine bağlı çatılarda hızla koşuyor.
-
-0–5 sn: Sporcunun hafif arkasından ve yanından çekilmiş geniş takip çekimi; kamera, sporcu tam hızla koşarken çatı kenarı boyunca hızla ilerliyor, bir havalandırma ünitesinin üzerinden atlıyor ve ardından iki bina arasındaki dar boşluktan sıçrıyor. Şehir, altında sonsuza dek uzanıyor ve altın rengi güneş ufuk çizgisinden parlıyor.
-
-5–10 sn: Bir sonraki çatıdan düşük açılı frontal takip çekimi; kamera, sporcu sert bir iniş yaparken geriye doğru hareket ediyor, sporcu hemen akıcı bir omuz taklasına geçiyor, duraksamadan yükseliyor ve başka bir engele doğru hızlanıyor. İnişten toz ve küçük çakıl taşları etrafa saçılıyor, kıyafetler ve saçlar rüzgarda doğal bir şekilde hareket ediyor.
-
-10–15 sn: Çatı kenarı boyunca koşarken, daha geniş bir boşluğun üzerinden atlarken, parlayan gün batımına karşı kısa süreliğine silüeti belirirken ve kontrollü bir çömelme ile iniş yapıp ufuk çizgisine doğru koşmaya devam ederken onu takip eden dinamik hava çekimi; kamera, çevresindeki devasa şehri ortaya çıkarmak için dışa doğru süpürüyor.
-
-Gerçekçi insan hareketi, güçlü momentum, inandırıcı parkur tekniği, hızlı ama net aksiyon, inişte doğal etki, sinematik kamera hareketi, yakın takip çekimlerinde hafif el kamerası enerjisi, sıcak altın saat ışığı, dramatik lens parlaması, yüksek detay, gerçekçi kentsel ölçek, yoğun macera atmosferi, açılar arasında pürüzsüz devamlılık, ağır çekim yok, metin yok, logo yok, kopyalanmış kişi yok, bozuk uzuv yok. Oranları koruyun, stil ve özellikleri tutarlı tutun.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43d50dbc92db2d419c5b2b1f2890df82/thumbnails/thumbnail.jpg" width="600" alt="Altın Saat Çatı Üstü Parkur Kovalamacası">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5899)**
-
-**Yazar:** [DeCat](https://x.com/DeCat2025) | **Kaynak:** [Link](https://x.com/DeCat2025/status/2064779745573622058) | **Yayınlandı:** Jun 10, 2026
-
----
-### Mad Max Sibernetik Motosikletçi Aksiyon Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 için, bir kum fırtınası sırasında patlayan bir çöl konvoyunda ilerleyen sibernetik bir motosikletçiyi konu alan, aksiyon odaklı detaylı bir video istemi.
-
-#### 📝 İstem
-
-```
-Yanan deri ceketi, kıpkırmızı parlayan sibernetik kolu, toz ve kan içindeki yüzüyle devasa zırhlı bir motosiklet süren korkusuz bir kanun kaçağı motosikletçi
-Çöken bir çöl konvoyunun içinden hızla geçiyor; düşman savaş kamyonları ve alev makineleri onu ıssız arazide kovalıyor, patlamaların üzerinden atlıyor ve tam hızla araçları parçalıyor + Dev bir kum fırtınası içindeki kıyamet sonrası çöl otoyolu; ateş, duman ve enkaz ufku yutuyor
-Motosikletin yanından ultra düşük tekerlek takibiyle başlıyor, imkansız atlayışlar sırasında hız rampası, patlayan kamyonlara doğru ani kamera hareketleri, ateş ve çöken enkaz arasında FPV kovalamacası, lense sürekli çarpan kıvılcımlar ve kum, fırtınayı yarıp geçen dramatik turuncu gün batımı ışığı; motosikletçinin arkasında yanan düzinelerce konvoy aracı çökerken patlayan kum fırtınasından tek başına çıkmasıyla sona eriyor, kamera yavaşça yükselerek otoyolun ateşten bir mezarlığa dönüştüğünü gösteren dev bir hava çekimine geçiyor
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b0044569898ef5d97418a5882fc5eae5/thumbnails/thumbnail.jpg" width="600" alt="Mad Max Sibernetik Motosikletçi Aksiyon Sekansı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5887)**
-
-**Yazar:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Kaynak:** [Link](https://x.com/CharaspowerAI/status/2064735616013644203) | **Yayınlandı:** Jun 10, 2026
-
----
-### Lionel Messi MLS Yayın Golü ve Kutlaması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lionel Messi'nin bir golünü ve ardından gelen dramatik seyirci tepkisini gösteren, sinematik yayın tarzında detaylı bir video istemi.
-
-#### 📝 İstem
-
-```
-Sinematik MLS televizyon yayını, 16:9. Bölünmüş anlatım — 
-iki anın tek bir kesintisiz yayın sekansı olarak birleştirilmesi. 
-
-ÇEKİM 1 — SAHA AKSİYONU: Kalenin arkasından orta mesafe yayın açısı. 
-Parlak pembe ve siyah 10 numaralı forma giyen oyuncu, ceza sahası içinde ara pasını alıyor. Sarı formalı rakip kaleci kalesinden agresif bir şekilde çıkıyor. Oyuncu tamamen soğukkanlılığını koruyor, kaleciyi okuyor ve tek bir akıcı hareketle zarif, mükemmel ağırlıkta bir aşırtma vuruşu yapıyor. Top, kalecinin uzanmış çaresiz ellerinin üzerinde yavaş ve zarif bir kavisle yükseliyor ve boş kalenin ortasına yumuşak bir şekilde düşüyor. Kaleci çaresizce çimlerin üzerine düşüyor. Temas anında hafif ağır çekim, topun yörüngesinde hareket bulanıklığı.
-
-ÇEKİM 2 — SEYİRCİ TEPKİSİ: Yayın kamerası hemen tribünlere geçiyor. Referans görseldeki tam kimliği ve yüzü tamamen koruyun. Koltuğundan izliyor, üzerinde büyük beden Inter Miami pembe siyah forması, hafif eğik beyaz şapkası var. Top ağlarla buluştuğu an — yerinden fırlıyor. Gözleri fal taşı gibi açılıyor, elleri yüzüne gidiyor, saf bir coşku ve inanamazlık içinde koltuğundan kalkıp çığlık atıyor, şok içinde yanındaki taraftarlara dönüyor. Saçları doğal bir şekilde hareket ediyor. Stadyum projektörleri yüzünde sıcak altın rengi parıltılar yaratıyor. Etrafındaki pembe ve siyah renkli taraftar denizi coşkuyla ayağa kalkıyor, yumuşak bokeh arka plan, konfetiler düşmeye başlıyor.
-
-Her yerde parlak MLS stadyum projektörleri, yemyeşil saha, dolu stadyum. Skor tabelası sol altta — MIA 5 CLB 1, saat 87:23. Yayın greni ve hafif sıkıştırma kusurları, otantik canlı TV estetiği, seyirci çekiminde telefoto lens sıkıştırması, sinematik, 4K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b44a77aabcc7873cab95a2492edf893d/thumbnails/thumbnail.jpg" width="600" alt="Lionel Messi MLS Yayın Golü ve Kutlaması">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5892)**
-
-**Yazar:** [WasifAI](https://x.com/doctorwasif) | **Kaynak:** [Link](https://x.com/doctorwasif/status/2064725821290697063) | **Yayınlandı:** Jun 10, 2026
-
----
-### Çöl Kanyonu FPV Ralli Yarışı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Çöl rallisi sırasında dikey bir kanyon düşüşünden agresif bir FPV drone takibine geçişi konu alan yüksek hızlı bir yarış istemi.
-
-#### 📝 İstem
-
-```
-[0–5 sn]: Kanyon Düşüşü Devasa bir çöl kanyonunun güneşten kavrulmuş sarp kızıl kaya yüzeyinden aşağıya doğru baş döndürücü bir dikey düşüş. Kamera, çıkıntılı kumtaşı kayalıkların ve dönen toz şeytanlarının yanından bir taş gibi hızla aşağıya süzülüyor. Yoğun kamera sarsıntısı, sert aerodinamik hava akımını taklit ederken, kum ve küçük çakıl taşları, kavurucu öğle güneşi altında kör edici bir hızla lensin önünden geçiyor.
-[5–10 sn]: Zirve Geçişi Derin izlerle dolu toprak piste çarpmaya ramak kala kamera agresif bir şekilde yukarı çekiliyor ve anında pürüzsüz, yüksek hızlı bir FPV drone süzülüşüne geçiyor. Kaotik ve yüksek tempolu bir WRC ralli virajında iğne deliğinden geçer gibi ilerliyor. Kamera, sallanan bir parkur işaretinin altından geçiyor, drift yaparken birbirine sürtünen iki modifiyeli Audi R8'in arasından ustalıkla süzülüyor ve dönen lastiklerin havaya savurduğu kör edici çakıl püskürtüsünden kaçıyor.
-[10–15 sn]: Drift ve Hızlı Pan Kamera, devasa bir toprak tümseğin tepesinin altında, neon kaplamalı bir ralli aracı tam tepesinden uçarken toz püskürten alçak bir powerslide gerçekleştiriyor; aracın kükreyen egzoz alevleri havayı kavuruyor. Egzoz patlamasının parlak turuncu ışığını bir geçiş efekti olarak kullanan kamera, sağa doğru 180 derecelik sert ve hareket bulanıklığı içeren bir pan çekimi yapıyor; sponsor logolarıyla dolu yanmaz tulumu içindeki pit ekibi şefine odaklanıyor ve damalı bayrağı yere atıp eldivenli parmağıyla doğrudan lense işaret ettiği o anı yakalıyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2a9f7f3565c7a5ecd6bba66d87fd8521/thumbnails/thumbnail.jpg" width="600" alt="Çöl Kanyonu FPV Ralli Yarışı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5898)**
-
-**Yazar:** [Iqra Saifi](https://x.com/IqraSaifiii) | **Kaynak:** [Link](https://x.com/IqraSaifiii/status/2064723076005449837) | **Yayınlandı:** Jun 10, 2026
-
----
-### Sonsuz Saray Çoklu Evren Portalları
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sonsuz bir saray içindeki aynı dünyanın alternatif versiyonlarına açılan portallardan geçen kesintisiz bir çekim için zihin açıcı bir komut.
-
-#### 📝 İstem
-
-```
-Alternatif gerçekliklere açılan kapılar içeren sonsuz saray; her oda aynı dünyanın farklı bir versiyonunu sergiliyor, kamera kesinti olmadan portallardan sürekli geçiş yapıyor, evrenler arasında kusursuz geçişler.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c90e5bd6955098f9181ddf3bdf104e76/thumbnails/thumbnail.jpg" width="600" alt="Sonsuz Saray Çoklu Evren Portalları">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5897)**
-
-**Yazar:** [Alin](https://x.com/Alin_Reaper05) | **Kaynak:** [Link](https://x.com/Alin_Reaper05/status/2064721596451840073) | **Yayınlandı:** Jun 10, 2026
-
----
-### Yüksek Tempolu 9 Görsel Glitch Kurgusu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> MV/CM tarzı yoğunluk için dokuz referans görsel kullanarak hızlı geçişler ve karmaşık ızgara düzenleri için tasarlanmış teknik 15 saniyelik video istemi.
-
-#### 📝 İstem
-
-```
-15 Saniyelik / 9 Görsel Yüksek Tempolu Kurgu İstemi
-
-Yalnızca image1, image2, image3, image4, image5, image6, image7, image8 ve image9 kullanın. Belirtilenler dışında görsel oluşturmayın. Videonun geneli, MV/CM seviyesinde bir tempo ve kurgu yoğunluğu hissini vurgulamalı, ekranı sürekli değiştiren bir kompozisyona sahip olmalıdır.
-
-0–2 saniye:
-Her 0.1 saniyede bir yüksek hızlı geçiş.
-Görüntüleme sırası: image1→image2→image3→image4→image5→image6→image7→image8→image9→sonrasında rastgele.
-Flash Cut, Smash Cut, Glitch, RGB Split, White Flash, Strobe, Film Burn ve Motion Blur efektlerini rastgele kullanın.
-
----
-
-2–4 saniye:
-3x3 ızgara ekranı.
-image1'den image9'a kadar olan görselleri 9 yuvaya yerleştirin.
-Her yuva 0.3 ila 0.5 saniyede bir bağımsız ve rastgele şekilde değişir; yuvalar aynı anda değil, ayrı ayrı güncellenir.
-Split Screen, Sliding Panel, Tile Shuffle, Push, Pull, Flip ve Mask Reveal efektlerini kullanın.
-
----
-
-4–6 saniye:
-Ekranı birçok küçük kareye bölün.
-Her karede image1'den image9'a kadar olan görselleri rastgele görüntüleyin.
-Kareler yüksek hızda karıştırılır; Checker, Random Block, Diagonal ve Cross desenleri arasında geçiş yapılır.
-
----
-
-6–8 saniye:
-Dairesel ızgara efekti.
-image1'den image9'a kadar olan görselleri bir çember üzerinde eşit şekilde düzenleyin.
-Düzen sırası rastgele değişirken yüksek hızda döndürün.
-Rotate, Spin, Circular Wipe ve Radial Blur efektlerini birleştirin.
-
----
-
-8–10 saniye:
-9 dikey bölüm, 9 yatay bölüm ve şerit bölümleri arasında yüksek hızlı geçiş.
-Her bantta image1'den image9'a kadar olan görselleri rastgele görüntüleyin.
-Bantlar soldan/sağdan veya yukarıdan/aşağıdan kayar ve görseller sürekli değişir.
-
----
-
-10–12 saniye:
-Kolaj efekti.
-image1'den image9'a kadar olan görselleri farklı boyutlardaki çeşitli dikdörtgen şekillere rastgele yerleştirin.
-Belirme, kaybolma, büyüme, küçülme ve yüksek hızda dönme hareketlerini tekrarlayın; tüm ekran sürekli yeniden yapılandırılır.
-Grid Animation, Mosaic Reveal, Tile Shuffle ve Alpha Dissolve efektlerini kullanın.
-
----
-
-12–14 saniye:
-9 görselin eş zamanlı gösterimi.
-Izgara düzeni→dairesel düzen→tek yatay sıra→tek dikey sıra→rastgele düzen arasında hızla geçiş yapın.
-Her düzeni Flash Cut, Glitch ve Sliding Panel ile birbirine bağlayın.
-
----
-
-14–15 saniye:
-9 görsel yüksek hızda karışır, her biri bir anlığına tam ekran gösterilir.
-Son olarak, en etkileyici tek görseli tam ekran görüntüleyin ve White Flash → Bloom → Light Leak → Freeze Frame ile kapatın.
-
-Önerilen Geçişler/Kurgu Efektleri:
-Flash Cut, Smash Cut, Jump Cut, Match Cut, Glitch, RGB Split, Strobe, Film Burn, White Flash, Split Screen, Grid Animation, Tile Shuffle, Mosaic Reveal, Sliding Panel, Push, Pull, Flip, Rotate, Spin, Circular Wipe, Diagonal Wipe, Checker Wipe, Random Block, Mask Reveal, Alpha Dissolve, Motion Blur, Radial Blur, Zoom Cut, Freeze Frame, Echo Frame.
-
-Aynı efekti art arda kullanmayın; 15 saniye boyunca ekran kompozisyonunun sürekli değiştiği, yüksek bilgi yoğunluklu ve enerjik bir video ortaya koyun.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9374071c3c1d939341e9ce25d8a846b8/thumbnails/thumbnail.jpg" width="600" alt="Yüksek Tempolu 9 Görsel Glitch Kurgusu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5911)**
-
-**Yazar:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Kaynak:** [Link](https://x.com/YaReYaRu30Life/status/2064719853303607707) | **Yayınlandı:** Jun 10, 2026
-
----
-### Samuray Oni Maskesi Mürekkep Sanatı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İblis maskeli bir samurayın, devasa bir fırça kullanarak gerçekçi mürekkep kaplanlar ve ejderhalar yarattığı yüksek kontrastlı bir aksiyon videosu.
-
-#### 📝 İstem
-
-```
-Sade ve minimalist beyaz bir galeri ortamında geçen sinematik, yüksek kontrastlı bir aksiyon videosu. Geleneksel siyah samuray kimonosu giyen, uzun beyaz saçlı ve beyaz Oni iblis maskeli bir karakter, devasa, büyük bir Japon kaligrafi fırçası kullanıyor. Karakter, fırçayı dinamik bir şekilde çevirip savururken, havada asılı kalan kalın, akışkan ve üç boyutlu siyah sumi-e mürekkep izleri bırakıyor. Mürekkep sihirli bir şekilde vahşi, hiper-gerçekçi bir kaplana ve karakterin etrafında görkemli bir şekilde dönen iki devasa Çin ejderhasına dönüşüyor. Fotogerçekçi 3D CGI, Unreal Engine 5 gerçekçiliği, ultra keskin detaylar, Unreal Engine 5 render, derin siyah mürekkep ile parlak beyaz arka plan arasında dramatik kontrast. Ağır çekim geçişler, fırça darbelerini takip eden dinamik takip çekimleri, akışkan parçacık simülasyonu, stüdyo aydınlatması, 8K çözünürlük.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/58fb9a6843a15f367c409ff60b004dd5/thumbnails/thumbnail.jpg" width="600" alt="Samuray Oni Maskesi Mürekkep Sanatı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5903)**
-
-**Yazar:** [Zyrella](https://x.com/Zyrellix) | **Kaynak:** [Link](https://x.com/Zyrellix/status/2064710244026953911) | **Yayınlandı:** Jun 10, 2026
-
----
-### Pixar Tarzı Tarçınlı Çörek Fırıncısı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sıcak bir mutfaktaki bir fırıncının detaylı bir storyboard'unu canlandırır; animasyon sekansının sağlanan Pixar 3D tarzı ve karakter tasarımıyla birebir eşleşmesini sağlar.
-
-#### 📝 İstem
-
-```
-Ekteki THE CINNAMON ROLL BAKER storyboard'unu tam görsel referans olarak kullanın. 8 çekimin tamamını birebir takip eden, 12 saniyelik, 16:9 oranında bir Pixar 3D animasyon sekansı oluşturun. Aynı genç kadın, krem rengi önlük, sıcak ve aydınlık bir ev mutfağı, baştan sona sıcak altın rengi sabah ışığı.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b24ddaa8ae7a8b9e003a84203175b15/thumbnails/thumbnail.jpg" width="600" alt="Pixar Tarzı Tarçınlı Çörek Fırıncısı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=5904)**
-
-**Yazar:** [TechieSA](https://x.com/TechieBySA) | **Kaynak:** [Link](https://x.com/TechieBySA/status/2064706317965468068) | **Yayınlandı:** Jun 10, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3542,6 +3480,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-16T04:24:13.672Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-16T13:16:19.893Z</sub>
 
 </div>
