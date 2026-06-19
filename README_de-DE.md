@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **4017** |
+| 📝 Gesamtanzahl Prompts | **4034** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-06-19** |
 
@@ -361,6 +361,543 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Cyberpunk-Anime-Weltraumgefecht
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein actiongeladener Anime-Prompt für Weltraumkampfszenen mit Cyberpunk-Flugzeugen und Luftkämpfen, im Stil hochauflösender japanischer Kinoanimationen.
+
+#### 📝 Prompt
+
+```
+Stil: Japanischer Anime mit hoher Bildrate. Anime-Film unter Verwendung von Actionfilm-Techniken. Actionszenen.
+Weltbild: Der Charakter aus Bild 1 fliegt ein Cyberpunk-Flugzeug im Weltraum und schießt nach einem Luftkampf ein feindliches Cyberpunk-Raumschiff ab.
+
+*Bitte stellen Sie unter keinen Umständen Darstellungen von Blut dar.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae1468b24541b26fa648e731e74d37b0/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk-Anime-Weltraumgefecht">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6191)**
+
+**Autor:** [とすくん](https://x.com/tokyo_Valentine) | **Quelle:** [Link](https://x.com/tokyo_Valentine/status/2067812443951370604) | **Veröffentlicht:** Jun 19, 2026
+
+---
+### iPhone-Handheld-Video einer Straßenbegegnung
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein hochtechnischer Prompt, der darauf ausgelegt ist, realistisches, unbearbeitetes iPhone-Straßenmaterial zu simulieren. Er umfasst spezifische Kameraeigenschaften wie Handheld-Wackeln, Autofokus-Verzögerungen und CCD-Sensor-Artefakte, um eine spontane Straßenbegegnung zwischen einem Model und einem Passanten darzustellen.
+
+#### 📝 Prompt
+
+```
+Gerendert im Stil von unverarbeitetem, authentischem iPhone-Handheld-Videomaterial, wobei alle Kameraeinstellungen auf Automatik stehen und keine nachträgliche Farbkorrektur oder Spezialeffekte angewendet werden. Das Bild enthält realistisches Mikro-Wackeln aus der Hand und vermittelt das Gefühl des Atems des Bedieners (Passant), wobei die Linse beim Gehen natürlich absinkt oder kippt, bevor sie sich schnell wieder korrigiert. Der Autofokus sucht gelegentlich, verzögert oder verliert kurzzeitig den Fokus, insbesondere bei Folgebewegungen oder Handbewegungen. Der automatische Weißabgleich wechselt natürlich zwischen kühlen und warmen Tönen, während sich Straßenlicht und Baumschatten verändern. Das Gesamtbild ist flach und bewahrt echte Linseneffekte, leichte chromatische Aberration an den Rändern sowie optische Unvollkommenheiten wie Bewegungsunschärfe. Simuliert CCD-Sensoreffekte mit leichtem vertikalen Schmieren, Farbverläufen, Körnung und violetten/grünen Rändern an kontrastreichen Kanten. Verwendet ausschließlich natürliche Umgebungsgeräusche der Kamera, einschließlich Straßenverkehr, Schritten und Wind in den Blättern; das Mikrofon kann bei Gesprächen leicht verzerren. Nutzt eine Third-Person-Perspektive eines Straßenpassanten (gefilmt von einem Umstehenden), wobei die Linsenbewegung den instinktiven Reaktionen des Passanten folgt. Behalten Sie 100 % des Alters, der Gesichtszüge, der Knochenstruktur, des Augenabstands, der Kiefergeometrie, des Temperaments, des Hauttons und der Frisur des Models aus dem Referenzbild bei. Keine Hautglättung, übermäßige Weichzeichnung oder Anpassung an ein „Durchschnittsgesicht“. 15-sekündige Timeline (Szene: Telefon-Missverständnis -> Frau glaubt, sie wird beleidigt -> Verlegene Umkehr -> Auflösung): Bei 0s wackelt die Linse leicht aus der Perspektive eines Passanten und zielt auf eine mit goldenen Platanen gesäumte Straße. Eine schlanke Frau mit langen Haaren, Maske und spezifischem Outfit geht auf die Kamera zu. Rechts telefoniert ein Mann in einer schwarzen Jacke. Umgebungsgeräusche des Verkehrs sind natürlich. Der Autofokus fixiert ihre Interaktion; leichte Überbelichtung und CCD-Körnung sind sichtbar. Bei 1-3s, während sich die Frau nähert, ruft der Mann in sein Telefon: „Du wagst es, so angezogen rauszugehen?“ Die Frau bleibt stehen und starrt ihn wütend an. Der Mann sieht sie unschuldig an und zeigt seinen Telefonbildschirm. Die Linse folgt leicht mit einer kurzen Autofokus-Suche und merklichem CCD-Schmieren. Bei 4-7s wirkt die Frau verlegen, entschuldigt sich und geht weiter. Der Mann setzt sein lautes Telefonat fort. Die Linse folgt ihr natürlich mit leichtem Gehwackeln. Bei 8-11s, nachdem sie weggegangen ist, dreht sich die Frau plötzlich um und hebt die Hand, als wolle sie den Mann schlagen. Der Mann sieht verwirrt aus und zeigt erneut sein Telefon. Die Passanten-Linse dreht sich schnell, um zu folgen, wobei Autofokus-Verzögerung und Handheld-Wackeln zunehmen. Die Mikrofone erfassen die wütende Frau und die hilflose Erklärung des Mannes. Bei 12-15s winkt sie schließlich abweisend ab und geht. Die Linse neigt sich leicht, während der Passant sein Gewicht verlagert. Das Gesamtgefühl ist eine unverarbeitete Handheld-Straßeninteraktion mit dokumentarischen, natürlichen Unvollkommenheiten.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5ae413a02dd3281a1467f98e8f022c96/thumbnails/thumbnail.jpg" width="600" alt="iPhone-Handheld-Video einer Straßenbegegnung">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6187)**
+
+**Autor:** [John](https://x.com/john87445528) | **Quelle:** [Link](https://x.com/john87445528/status/2067721520236183801) | **Veröffentlicht:** Jun 18, 2026
+
+---
+### Filmische Blitz-Avatar-Transformationssequenz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein epischer Prompt für ein 15-sekündiges filmisches Video, das eine einsame Figur zeigt, die sich während eines Sturms auf einem Berggipfel in einen Blitz-Avatar verwandelt.
+
+#### 📝 Prompt
+
+```
+15-sekündige, ultra-filmische elementare Transformationssequenz auf einem Berggipfel während eines nächtlichen Superzellengewitters.
+
+Eine einsame Figur steht auf einem zerklüfteten Berggipfel, umgeben von orkanartigen Winden. Massive Gewitterwolken rotieren über ihr, während der Himmel kontinuierlich von Blitzen erhellt wird.
+
+Die Atmosphäre ist gewaltig, urwüchsig und realistisch.
+
+Die Kamera kreist langsam um die Figur, während Regen auf ihren Körper peitscht. Die Kleidung flattert heftig im Wind. Donner rollt über die Berge.
+
+Plötzlich schlägt ein Blitz auf dem Gipfel ein.
+
+Die Figur bleibt stehen.
+
+Elektrizität beginnt unter der Haut zu kriechen wie lebendige Adern aus blau-weißer Energie. Kleine Lichtbögen springen zwischen Fingern, Armen und den umliegenden Felsen hin und her.
+
+Die Transformation beschleunigt sich.
+
+Jeder Herzschlag setzt elektrische Impulse in die Luft frei. Die Haare richten sich durch statische Aufladung auf. Regentropfen gefrieren kurzzeitig um den Körper, bevor sie durch den elektromagnetischen Druck nach außen explodieren.
+
+Die Kamera fährt näher heran, während sich leuchtende Blitzmuster über den gesamten Körper ausbreiten. Die Augen entzünden sich in strahlendem Weiß-Blau.
+
+Ein zweiter Blitz schlägt direkt ein.
+
+Diesmal beginnt sich der Körper in reine elektrische Energie aufzulösen. Fleisch wird zu Plasma. Gliedmaßen fragmentieren in verzweigte Blitzkanäle. Der umliegende Sturm rotiert immer schneller um die Transformation.
+
+Massive Blitze verbinden die Figur mit den Wolken darüber und dem Berg darunter. Schwebende Felsen erheben sich unter der elektrischen Kraft vom Boden.
+
+Beim Höhepunkt wird der Mensch zu einem Lightning Avatar, einem strahlenden Wesen, das aus lebendigem Donner, Plasma und Sturmenergie besteht. Die Silhouette bleibt humanoid, aber der Körper besteht aus knisternden Blitzen und glühenden elektrischen Strömen.
+
+Finaler filmischer Moment: Der Lightning Avatar erhebt sich über den Gipfel und streckt einen Arm in den Himmel. Ein kolossaler Blitz reißt durch die Wolken und erleuchtet das gesamte Gebirge, während der Sturm seinem Befehl gehorcht.
+
+Stil: ultra-filmischer Realismus, elementare Transformation, realistische Blitzphysik, Plasma-Energieeffekte, Superzellengewitter-Atmosphäre, filmische Darstellung im Bergmaßstab, volumetrische Wolken, fotorealistische Wettersimulation, AAA-Visual-Effects-Qualität, kein Text, keine Overlays.
+
+Audio: epische orchestrale Trailermusik, tiefe Donnerschläge, knisternde Elektrizität, Orkanwinde, elektrische Resonanz, Sturmatmosphäre, filmische Niederfrequenz-Power, massive atmosphärische Energie.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/090862e7f844f60c4f4d932e82b719d6/thumbnails/thumbnail.jpg" width="600" alt="Filmische Blitz-Avatar-Transformationssequenz">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6177)**
+
+**Autor:** [LudovicCreator](https://x.com/LudovicCreator) | **Quelle:** [Link](https://x.com/LudovicCreator/status/2067668692867932391) | **Veröffentlicht:** Jun 18, 2026
+
+---
+### Chinesisches Fantasy-Kurzdrama über einen Fuchsgeist
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein umfassender Prompt im Drehbuchstil für Seedance 2.0 zur Erstellung eines chinesischen Fantasy-Romantik-Kurzdramas. Er beschreibt einen 30-sekündigen Handlungsbogen mit einem Kaiser und einem Fuchsgeist, inklusive Szenenbeschreibungen, Kameraanweisungen und emotionalen Charakterdarstellungen.
+
+#### 📝 Prompt
+
+```
+[Stil] Chinesisches Fantasy-Kurzdrama im historischen Kostüm mit dominantem CEO (Chinesisches Fantasy-Romantik-CEO-Drama), echte Live-Action-Filmtextur, filmreife historische Ästhetik, goldene Palastbeleuchtung, traumhafte Unsterblichen-Spezialeffekte, romantische Schicksalsatmosphäre, Handkamera + epische Kamerabewegungen, geringe Schärfentiefe (Shallow DOF), 16:9 Breitbild, keine Untertitel, kein Voiceover, schauspielerischer Stil angelehnt an beliebte KI-Kurzdramen im historischen Kostüm, starke emotionale Spannung und Liebesgefühl.
+
+[Gesamtdauer] 30 Sekunden
+
+[Handlung]
+Der junge und dominante König Zhou verletzt bei der Jagd versehentlich einen mysteriösen weißen Fuchs. In derselben Nacht verwandelt sich der weiße Fuchs in seinem Traum in die unvergleichliche Schönheit Daji und verspricht ihm, ihm bei der Befriedung der Welt zu helfen. Am nächsten Tag erscheint Daji tatsächlich bei der Konkubinen-Auswahlzeremonie und wird zur vertrautesten und geliebtesten Frau von König Zhou.
+
+[Hauptszenen]
+Königliches Jagdrevier der Shang-Dynastie: Goldener Sonnenuntergang, weitläufiger Wald, Nebel im Tal, laufende Hirschherden.
+Mysteriöser Wald der Unsterblichen Füchse: Mondscheinwald, schwebende Blütenblätter, blaue unsterbliche Energie, riesige uralte Bäume.
+Kaiserpalast der Shang-Dynastie: Prachtvolle Haupthalle, Thron mit Drachenmuster, rote und goldene Vorhänge.
+Antikes Schlachtfeld: Gelber Sand erfüllt den Himmel, galoppierende Kriegspferde, zwei Armeen stehen sich gegenüber.
+
+[Charaktere]
+König Zhou: Junger und gutaussehender Kaiser, scharfe Brauen und helle Augen, schwarz-goldenes Drachengewand, kraftvolle Aura, exquisites Aussehen wie eine hochwertige SD-Puppe.
+Daji: Schöne Fuchsgeist-Frau, rosa-weißes Unsterblichen-Kleid, goldener Haarschmuck, schneeweiße Haut, sanfte und verführerische Augen, exquisites Aussehen wie eine hochwertige SD-Puppe.
+Weißer Fuchs: Schneeweißer neunschwänziger Fuchs, Augen mit goldenem spirituellen Licht.
+
+[Teil 1 (00:00-00:15) — Fuchsgeist betritt den Traum]
+
+[00:00-00:01]
+Einstellung 1: Königliche Jagd (Luftaufnahme)
+Unter dem Sonnenuntergang. König Zhou reitet auf einem schwarzen Pferd mit hoher Geschwindigkeit durch den Wald. Die Jagdgesellschaft folgt dicht dahinter.
+
+[00:01-00:02]
+Einstellung 2: Entdeckung des weißen Fuchses (Push In)
+Im Gras. Ein schneeweißer Fuchs blickt zurück und starrt. Beide Augen blitzen golden auf.
+
+[00:02-00:03]
+Einstellung 3: Bogen spannen und schießen (Extreme Nahaufnahme)
+König Zhous Blick ist scharf. Die Bogensehne ist voll gespannt. Der Pfeil verlässt die Sehne.
+
+[00:03-00:04]
+Einstellung 4: Weißer Fuchs verletzt (Zeitlupe)
+Der Pfeil streift das Vorderbein des weißen Fuchses. Der weiße Fuchs schreit auf und springt in die Tiefen des Waldes. Weißes Fuchsfell wirbelt in der Luft umher.
+
+[00:04-00:05]
+Einstellung 5: Nacht bricht herein (Übergang)
+Die Lichter des Kaiserpalastes gehen an. König Zhou betritt sein Schlafgemach.
+
+[00:05-00:06]
+Einstellung 6: Kaiser schläft ein (Top-Shot)
+König Zhou liegt auf dem Drachenbett. Schließt langsam die Augen.
+
+[00:06-00:07]
+Einstellung 7: Traum beginnt (Fantasy-Enthüllung)
+Blauer unsterblicher Nebel breitet sich schnell aus. Ein Wald erscheint aus dem Nichts.
+
+[00:07-00:08]
+Einstellung 8: Weißer Fuchs erscheint (Totale)
+In der Mitte des Mondscheinwaldes. Der weiße Fuchs steht ruhig da. Neun Schwänze entfalten sich langsam.
+
+[00:08-00:09]
+Einstellung 9: Verwandlung beginnt (Magische Nahaufnahme)
+Goldenes Licht umgibt den weißen Fuchs. Blütenblätter und unsterbliche Energie rotieren mit hoher Geschwindigkeit.
+
+[00:09-00:10]
+Einstellung 10: Daji debütiert (Epische Enthüllung)
+Der weiße Fuchs verwandelt sich in eine unvergleichliche Schönheit. Daji geht langsam auf die Kamera zu.
+
+[00:10-00:11]
+Einstellung 11: Schicksalhafte Begegnung (Two-Shot)
+König Zhou und Daji betrachten sich im Wald. Ein Meer aus Blumen blüht um sie herum auf.
+[Dialog] Daji: „Eure Majestät.“
+
+[00:11-00:13]
+Einstellung 12: Versprechen der Welt (Romantische Nahaufnahme)
+Daji lächelt sanft.
+[Dialog] Daji: „Ich bin bereit, Euch bei der Befriedung der Welt zu helfen.“
+
+[00:13-00:15]
+Einstellung 13: Erwachen (Whip-Übergang)
+König Zhou öffnet plötzlich die Augen. Eine Strähne schneeweißes Fuchsfell liegt neben seinem Kopfkissen.
+[Ausdruck] Schockiert und fasziniert.
+
+────────────────
+Nahtlose schnelle Fortsetzung, gleicher Stil, noch schnellere Schnitte.
+
+[Teil 2 (00:15-00:30) — Daji steigt auf die Erde herab]
+
+[00:15-00:16]
+Einstellung 14: Echter Beweis (Nahaufnahme)
+König Zhou hebt das Fuchsfell auf. Sein Ausdruck ist komplex.
+
+[00:16-00:17]
+Einstellung 15: Dekret zur Konkubinen-Auswahl (Totale)
+Ein Eunuch eilt in die Halle.
+[Dialog] Eunuch: „Die Konkubinen-Auswahlzeremonie beginnt—"
+
+[00:17-00:18]
+Einstellung 16: Blumen wetteifern um Schönheit (Tracking-Shot)
+Viele Schönheiten betreten nacheinander die Halle. Prachtvolle Kleider flattern.
+
+[00:18-00:19]
+Einstellung 17: Daji erscheint (Helden-Enthüllung)
+Ganz am Ende der Reihe. Daji schreitet langsam hervor. Der ganze Ort scheint augenblicklich still zu werden.
+
+[00:19-00:20]
+Einstellung 18: Scheuer Blick (Nahaufnahme)
+Daji senkt leicht den Kopf. Sie wirft verstohlen einen Blick zu König Zhou hinauf.
+
+[00:20-00:21]
+Einstellung 19: Das Herz des Kaisers bewegt sich (Reaktionsaufnahme)
+König Zhou auf dem Thron ist verblüfft. Sein Blick ist völlig gefesselt.
+
+[00:21-00:22]
+Einstellung 20: Übergang zum Schlachtfeld (Epischer Übergang)
+Goldenes Licht blitzt auf. Die Szene schneidet zum Schlachtfeld.
+
+[00:22-00:23]
+Einstellung 21: Zwei Armeen stehen sich gegenüber (Luftaufnahme)
+Tausende Soldaten in Formation. Eine mörderische Aura erfüllt die Luft.
+
+[00:23-00:24]
+Einstellung 22: Daji reitet (Heldenaufnahme)
+Daji reitet auf einem weißen Pferd aus der Armeeformation. Ihr Kleid flattert.
+
+[00:24-00:25]
+Einstellung 23: Unsterbliche Magie steigt herab (Magische Aufnahme)
+Daji formt mit einer Hand ein Siegel. Ein riesiger uralter Baum wächst aus dem Boden.
+
+[00:25-00:26]
+Einstellung 24: Niederlage des Feindes (Totale)
+Baumranken fegen über das Schlachtfeld. Die feindlichen Truppen fliehen voller Terror.
+
+[00:26-00:27]
+Einstellung 25: Triumphale Rückkehr (Zeitlupe)
+König Zhou und Daji reiten nebeneinander zurück. Beamte jubeln.
+
+[00:27-00:28]
+Einstellung 26: Liebe des Kaisers (Romantische Aufnahme)
+Nacht im Kaiserpalast. Daji sitzt ganz natürlich auf dem Schoß von König Zhou.
+
+[00:28-00:30]
+Einstellung 27: Nur Aufrichtigkeit (Finale Nahaufnahme)
+König Zhou hält sanft Dajis Hand. Beide blicken sich tief in die Augen. Palastlaternen und Blütenblätter fallen langsam herab.
+[Dialog] König Zhou: „In dieser Welt... bist nur Du mir gegenüber aufrichtig.“
+
+Bild friert ein. Goldene Blütenblätter fliegen durch die gesamte Aufnahme. Ende eines epischen historischen Romantik-Kurzdramas.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/433f1a1d4c47571a616b3a1a1cf057c5/thumbnails/thumbnail.jpg" width="600" alt="Chinesisches Fantasy-Kurzdrama über einen Fuchsgeist">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6190)**
+
+**Autor:** [The Anxious Mind](https://x.com/drjoetw) | **Quelle:** [Link](https://x.com/drjoetw/status/2067662460325380505) | **Veröffentlicht:** Jun 18, 2026
+
+---
+### Cyberpunk High-Speed Combat CG
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter, kinoreifer Video-Prompt für eine 10-sekündige, rasante Cyberpunk-Kampfsequenz. Er spezifiziert eine Ästhetik mit altem Filmkorn, anamorphem Seitenverhältnis und komplexer Choreografie zwischen zwei kybernetischen Charakteren inmitten von digitalem Regen.
+
+#### 📝 Prompt
+
+```
+10 Sekunden reines High-Speed-Kampf-CG, kein Endframe, alte Filmqualität, 2,35:1 Seitenverhältnis, konstante dynamische Bewegungsunschärfe, zufälliges Stottern und ausgelassene Frames, hohes ISO-Rauschen, Überbelichtung durch Gegenlicht, cyan-graue kalte Töne, optische Dispersion, Vignettierung und ferner Dunst. Setting: Eine zerstörte, schwebende Cyber-Plattform mit kontinuierlichem digitalem Regen und elektronischem Nebel, wobei starkes Gegenlicht den Rahmen ausfüllt. Charakter-Setup: Charakter 1 (basierend auf Referenzbild 1) hat hellgraues kurzes Haar und einen halbmechanischen bionischen Körper mit leuchtenden internen Schaltkreisen; Charakter 2 hat zerzaustes dunkelbraunes Haar, hervorstehende mechanische Leitungen am Hals, schwere Verbund-Kampfrüstung mit fließendem Flüssigmetall, umgeben von dunkelroten Lichtpartikeln. 0-7s Low-Angle-Tracking: 0s Teleport für einen Backstab, Kettensägenklinge blockt, Stoßwellen verteilen den digitalen Regen in einen schwebenden Partikelvorhang; 1,8s heftiges Kamera-Wackeln, Kettensägenklinge fegt über den Boden, Dolch kontert durch einen Sprung; 3,2s schwerer Sekundärschlag, Energie-Funken blitzen auf, Boden bricht mit rotierenden Trümmern auf; 5,5s Rüstungspartikel bilden eine Rauchsäule, Dolch schneidet mit chromatischer Aberration hindurch; 7,5s Überschall-Dash, Überschallknall-Überbelichtung, Plattformfragmente fliegen. 8-10s Over-the-Shoulder-Shot: 8s Greifen des Handgelenks des Gegners, über den Boden ziehen, schwerer Aufprall verursacht Plattformkollaps mit donnerndem Geräusch; 9s mechanischer Leitungs-Gegenangriff, Spiral-Ausweichmanöver gefolgt von einem Mid-Air-Nackengriff, knochenbrechendes Geräusch mit Frame-Skipping, Abtauchen in Richtung Energiekern mit niederfrequentem Summen; 9,7s Dolch leuchtet intensiv, durchbricht die Schallmauer; 10s Dolch durchbohrt den Energiekern, massive Explosionsschockwelle fegt durch die Szene, Plattform stürzt ein, weißes Licht blendet aus, Filmkorn flackert, direkter Schnitt auf Schwarz, wobei der gesamte Ton aussetzt. 9:16.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/39a5ce23cd65b2673ec68e33f24f1d15/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk High-Speed Combat CG">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6188)**
+
+**Autor:** [沐星｜Nana](https://x.com/dye_saint64567) | **Quelle:** [Link](https://x.com/dye_saint64567/status/2067646336930033738) | **Veröffentlicht:** Jun 18, 2026
+
+---
+### Cinematic Sorcerer vs. Leviathan Multi-Shot-Sequenz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetailliertes, 15-sekündiges kinoreifes Storyboard-Prompt für einen Fantasy-Kampf zwischen einem Zauberer auf einer Klippe und einem gewaltigen See-Leviathan, inklusive präziser Aufnahmezeiten und Kamerabewegungen.
+
+#### 📝 Prompt
+
+```
+Shot 1 (0,0s–2,0s): Langsamer Push-in, Totale — <<<image_1>>> steht regungslos auf einer schwarzen Meeresklippe in der Dämmerung; Roben, Netz-Kapuze und langer grauer Bart wehen im Wind, die Augen in Stille geschlossen; leiser Wind, entferntes Brandungsrauschen, ein einzelner Windspiel-Ton.
+Shot 2 (2,0s–3,3s): Froschperspektive auf das Meer unterhalb — das Wasser wölbt sich und zieht sich unnatürlich vom Klippenfuß zurück; ein tiefes, bedrohliches Grollen, das Wasser wird abgesaugt.
+Shot 3 (3,3s–5,3s): Schneller Crane-up — <<<image_2>>> bricht aus der Tiefe hervor und überragt die Klippe, Meerwasser stürzt in Schichten von seinen Schuppen herab; ein donnerndes Brüllen, krachendes Wasser.
+Shot 4 (5,3s–6,8s): Statische Nahaufnahme — <<<image_1>>> öffnet die Augen, ruhig und messerscharf, kein Anzeichen von Angst, der Bart peitscht im Wind; das Geräusch verstummt zu einem gehaltenen Windhauch. Gesicht und Tattoos von <<<image_1>>> beibehalten.
+Shot 5 (6,8s–8,4s): Heldenhafte Froschperspektive, Push-in — <<<image_1>>> geht in eine Kampfhaltung, die Handflächen öffnen sich, während sich ein spiralförmiger Wirbel aus Luft, Staub und Sturmlicht um seine Arme sammelt; ein ansteigendes Rauschen, anschwellende Trommeln. Design von <<<image_1>>> beibehalten.
+Shot 6 (8,4s–9,8s): Whip-Pan — <<<image_2>>> stürzt mit offenem Maul herab, während <<<image_1>>> nach vorne fegt, der Windwirbel kreischt um ihn herum; ein Brüllen, ein zunehmender Sturm.
+Shot 7 (9,8s–11,2s): Crash-in, extreme Nahaufnahme — er stößt beide Handflächen vor und eine Klinge aus komprimiertem Wind schlägt in den Kiefer des Leviathans ein, eine Schockwelle aus Gischt und fahlem Licht bricht hervor; ein massiver, erschütternder Knall, Höhepunkt der Trommeln.
+Shot 8 (11,2s–12,6s): Totale — das Monster weicht zurück, wird in einer Explosion aus Wasser und Nebel zurück ins Meer geschleudert, der Sturm tobt um es herum; ein abklingendes Brüllen, ein Donnerschlag.
+Shot 9 (12,6s–15,0s): Langsamer Pull-back — <<<image_1>>> senkt die Hände und kehrt zur vollkommenen Stille am Klippenrand zurück, die Roben legen sich, die Ruhe kehrt ein, während das Meer hinter ihm verstummt; der Wind wird leiser bis zu jenem einzelnen Windspiel-Ton, dann ein sanftes Halten vor dem Ausblenden.
+Globaler Style-Lock: düstere, fotorealistische Cinematic-Fantasy-Action; stabiles Bild, konsistentes Charakterdesign, keine Verzerrungen, keine Untertitel, keine Wasserzeichen.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/839d5cfd4121956526e3c2a699bb0bf6/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Sorcerer vs. Leviathan Multi-Shot-Sequenz">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6183)**
+
+**Autor:** [Syed Abuthahir ∞](https://x.com/abulu8) | **Quelle:** [Link](https://x.com/abulu8/status/2067634829185945765) | **Veröffentlicht:** Jun 18, 2026
+
+---
+### Cinematic Cat Football Championship Highlights
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein energiegeladener 15-sekündiger Video-Prompt für Seedance 2.0, der ein spannendes Fußballspiel zwischen anthropomorphen Katzen in einem vollbesetzten Stadion zeigt.
+
+#### 📝 Prompt
+
+```
+[Schnelles, kinoreifes 15-sekündiges Video, lebendiges 4K, schnelle Schnitte, keine statischen Aufnahmen, konstante Bewegung] Vollbesetztes, farbenfrohes internationales Meisterschaftsstadion, helles Flutlicht, jubelnde Menge, Anzeigetafel zeigt 1-1. RAYZON: schwarz-weiße Katze, weißes Trikot mit blau-grünem Besatz. TORRENTI: orangefarbene getigerte Katze, gleiches Trikot. Die gegnerischen Katzen tragen rot-schwarze Auswärtstrikots. (0-1,5s): Anpfiff. RAYZON nimmt den Ball an und startet in einen Vollsprint, niedrige Kameraperspektive auf Spielfeldhöhe, der Ball klebt an seinen Füßen. (1,5-3s): Rainbow-Flick – RAYZON lupft den Ball über den Kopf einer heranstürmenden Verteidigerkatze und weicht dem Tackling aus, während der Verteidiger an ihm vorbeistolpert. (3-4,5s): Steilpass. RAYZON spielt einen präzisen Pass in den freien Raum; TORRENTI explodiert in einen Sprint hinter die Abwehrkette, die Verteidiger versuchen verzweifelt aufzuholen. (4,5-6s): Direktschuss. TORRENTI trifft den Ball mit einem kraftvollen Volleyschuss, der Ball rast Richtung Tor, die Kamera schwenkt mit einer schnellen Bewegung mit. (6-7,5s): Hechtparade. Die gegnerische Torwartkatze wirft sich in voller Länge, doch der Ball zischt an seiner Pfote vorbei ins Netz, das Netz spannt sich ruckartig. (7,5-9s): Jubelnde Menge. Schneller Schnitt auf die explodierenden Zuschauerränge, Konfettikanonen feuern, die Anzeigetafel springt auf 1-1, schnelle Kamerawackler. (9-10,5s): Jubelsprint. TORRENTI rennt mit ausgebreiteten Armen Richtung Eckfahne, RAYZON sprintet hinterher, um ihn einzuholen. (10,5-12s): Fliegende Umarmung. RAYZON springt auf TORRENTIs Rücken, beide kullern lachend über den Rasen, während Konfetti auf sie herabregnet. (12-13,5s): Kurzes Kuscheln. Immer noch ineinander verschlungen am Boden vergräbt RAYZON spielerisch sein Gesicht im Nackenfell von TORRENTI, beide grinsen. (13,5-15s): Snap-Finish. Schneller Zoom, während RAYZON mit TORRENTI die Nasen aneinanderstuppst, Stadionlichter flackern hell auf, Konfettiregen erreicht den Höhepunkt, harter Schnitt auf Schwarz zum Takt.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/436794d487c3d49ca00b72215f99e0e1/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Cat Football Championship Highlights">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6181)**
+
+**Autor:** [Aaliya](https://x.com/AIwithAliya) | **Quelle:** [Link](https://x.com/AIwithAliya/status/2067634333960335689) | **Veröffentlicht:** Jun 18, 2026
+
+---
+### WM-Finale im Pixar-Stil Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kinoreifer, mehrszeniger Prompt für ein 3D-animiertes Fußballvideo, das den Weg eines Spielers vom Spielertunnel bis zum entscheidenden Siegtreffer bei der Weltmeisterschaft zeigt.
+
+#### 📝 Prompt
+
+```
+Erstelle ein kinoreifes, 15-sekündiges, von Pixar inspiriertes 3D-Animationsvideo aus der Ich-Perspektive eines jungen Fußballspielers, der an einem WM-Finale teilnimmt. Ein riesiges Stadion mit 80.000 Fans, lebendige Beleuchtung, farbenfrohe Flaggen, emotionale Atmosphäre, ausdrucksstarke animierte Charaktere, ultra-detaillierte Texturen, dynamische Kamerabewegungen und herzerwärmendes Storytelling auf Pixar-Niveau.
+
+0–3 Sek.: Gang durch den Spielertunnel mit den Teamkollegen in Richtung des hellen Spielfelds. Die Kamera wackelt leicht vor nervöser Aufregung, die Fangesänge werden lauter.
+
+3–5 Sek.: Moment der Nationalhymne. Hand auf der Brust, Nahaufnahme entschlossener Augen, stolz stehende Teamkollegen, im Hintergrund wehende Flaggen.
+
+5–7 Sek.: Nahaufnahme zitternder Hände und tiefes Durchatmen. Schweiß ist sichtbar, Herzschlag-Soundeffekt, dramatische Pause vor dem Anpfiff.
+
+7–10 Sek.: Anpfiff. Schnelle Dribblings, flüssige Kameraführung, energiegeladene Reaktionen der Zuschauer, intensive Fußball-Action.
+
+10–13 Sek.: Ein perfekt getimtes Tackling, um in Ballbesitz zu kommen. Das Stadion bricht in Jubel aus.
+
+13–15 Sek.: Sprint nach vorne und Erzielen des Siegtreffers in den letzten Sekunden. Zeitlupen-Jubel, Konfettiregen, Teamkollegen rennen auf die Kamera zu, der Pokal glänzt unter dem Flutlicht des Stadions.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/92968a0e18efe1b55adcad2b07893049/thumbnails/thumbnail.jpg" width="600" alt="WM-Finale im Pixar-Stil Video">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6175)**
+
+**Autor:** [Natalia](https://x.com/AIwithNatalia) | **Quelle:** [Link](https://x.com/AIwithNatalia/status/2067624761942065563) | **Veröffentlicht:** Jun 18, 2026
+
+---
+### Realistische Kampfspiel-Actionsequenz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung hochwertiger Kampfszenen mit Fokus auf konsistente Charakteridentität und filmische Visuals im Tekken-Stil.
+
+#### 📝 Prompt
+
+```
+Erstelle ein realistisches, 10-sekündiges, filmisches Kampfspiel-Video unter Verwendung des Referenzfotos. Der Mann aus dem Referenzbild ist die Hauptfigur; er trägt ein eng anliegendes schwarzes Hemd, eine schwarze Anzughose, einen schwarzen Gürtel und schwarze formelle Schuhe. Behalte das exakte Gesicht, die Gesichtszüge, die Frisur, den Bart, den Hautton und die Identität der Person aus dem Referenzbild während des gesamten Videos unverändert bei. Das Gesicht darf in keinem Frame verändert, ersetzt, verschönert, gealtert oder modifiziert werden. Sorge für perfekte Gesichtskonsistenz und Identitätssicherung von Anfang bis Ende. 100 % Gesichtskonsistenz, Identitätserhalt, dieselbe Person in jedem Frame, kein Face-Morphing, kein Face-Swap, keine Identitätsabweichung.
+
+Die Szene spielt nachts in einer realistischen Kampfarena im Tekken-Stil mit dramatischer Beleuchtung, Funkenflug, Rauch und einer Atmosphäre mit Publikum. Die Kamera beginnt mit einer Nahaufnahme des Gesichts des Kämpfers und zoomt dann flüssig heraus. Er greift einen Kämpfer mit Tigerkopf aggressiv mit mehreren schnellen Schlägen, kraftvollen Tritten und Martial-Arts-Kombinationen an. Der Gegner mit dem Tigerkopf wird zurückgedrängt, blockt einige Angriffe und wird von mehreren harten Schlägen getroffen. Dynamische Kamerawinkel, filmische Zeitlupe bei wichtigen Treffern, realistische Körperbewegungen, detaillierte Gesichtsausdrücke, energiegeladene Action, dramatische visuelle Effekte und intensive Kampfchoreografie.
+
+In den letzten Sekunden führt der Kämpfer einen kraftvollen Final-Kick aus, der den Gegner mit dem Tigerkopf nach hinten fliegen lässt. Ultra-realistische Grafik, 4K-Qualität, scharfe Details, realistische Schatten, Actionfilm-Stil, flüssige Bewegungen, professionelle VFX, epische Kampfsequenz.
+
+Negative Prompt:
+
+verschwommen, niedrige Qualität, Gesichtsveränderung, andere Person, Face-Swap, Identitätsabweichung, deformiertes Gesicht, zusätzliche Finger, zusätzliche Gliedmaßen, schlechte Anatomie, Cartoon, Anime, niedrige Auflösung, traditionelle Kleidung, Shalwar Kameez, Sandalen, verzerrte Augen, Wasserzeichen, Logo, Text, flackerndes Gesicht, inkonsistentes Erscheinungsbild des Charakters, doppelte Körperteile.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f1c34e56ec26b264cb308735c35e29c/thumbnails/thumbnail.jpg" width="600" alt="Realistische Kampfspiel-Actionsequenz">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6178)**
+
+**Autor:** [𝐍𝐚𝐯𝐞𝐞 𝐀𝐢](https://x.com/navi_Ai2) | **Quelle:** [Link](https://x.com/navi_Ai2/status/2067623656621302247) | **Veröffentlicht:** Jun 18, 2026
+
+---
+### Surreale, umgedrehte Ozeanwelt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein komplexer, filmischer 3-Shot-Prompt, der einen asiatischen Mann an einem trockenen Strand unter einem umgedrehten Ozeanhimmel zeigt, mit Walen, die an einem goldenen Sonnenuntergang vorbeischwimmen.
+
+#### 📝 Prompt
+
+```
+[Stil] Surreales atmosphärisches Spektakel, Dolby Vision Wide Color Gamut, IMAX-Bildgefühl, 8K ultra-klar, fotorealistische + surreale VFX, sanftes Hintergrundbeleuchtungssystem, Farbpalette dominiert von tiefem Meeresblau, Bernsteingold und Perlweiß. [Dauer] 15 Sekunden. [Szene] Eine verlassene Küste in der Abenddämmerung, nasser Sand, der sich bis zum Horizont erstreckt. Keine Wolken am Himmel – stattdessen hängt ein riesiger, umgedrehter, tiefblauer Ozean über dem Kopf, dessen Wellen und Strömungen sich langsam bewegen. Durch das Meerwasser ist ein bernsteinfarbener Sonnenuntergang sichtbar. Meeresbewohner schwimmen am Himmel. Der Boden besteht aus trockenem Sand, ohne einen Tropfen Wasser. [Charakter] Ein barfüßiger asiatischer Mann (Anfang zwanzig, weißes, lockeres Leinenhemd, hochgekrempelte Hose, windzerzaustes kurzes schwarzes Haar, Haut vom bernsteinfarbenen Licht gewärmt). [00:00-00:05] Shot 1: Epische Totale + langsamer Tilt nach oben. Die Weitwinkelaufnahme aus niedriger Perspektive beginnt mit einer Nahaufnahme seiner Füße auf rissigem, trockenem Sand. Die Kamera schwenkt langsam an seinem im Wind wehenden Leinenhemd vorbei, an seinem Kinn vorbei – der Himmel explodiert im Bild: ein umgedrehter, tiefblauer Ozean. Wellen wälzen sich lautlos in 200 m Höhe, weißer Schaum zerbricht in feinen Nebel, der wie umgedrehter Schnee schwebt. Bernsteinfarbenes Sonnenlicht bricht sich durch den Himmels-Ozean und wirft kaustische Lichtmuster auf sein Gesicht. [00:05-00:10] Shot 2: Langsamer Push-in + Parallaxe. Halbnahaufnahme: Der Mann steht im unteren linken Drittel. Ein Buckelwal schwimmt von rechts herein und taucht durch den goldenen Sonnenuntergang aus der „Oberfläche“ des Himmels-Ozeans auf. Sein Schatten zieht über den Strand. Er hebt eine Handfläche in Richtung Himmel. [00:10-00:15] Shot 3: Extreme Nahaufnahme + Crane Pull-out. Eine faustgroße Kugel aus Meerwasser senkt sich in seine Handfläche und spiegelt den Miniatur-Himmels-Ozean im Inneren wider. Der Shot wechselt zu einem schnellen Luftbild-Pull-out, das die winzige Figur auf dem riesigen weißen Strand unter dem unendlichen, umgedrehten Ozean zeigt.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a64022c4b7a1b4287336cc14778352ab/thumbnails/thumbnail.jpg" width="600" alt="Surreale, umgedrehte Ozeanwelt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6189)**
+
+**Autor:** [John](https://x.com/johnAGI168) | **Quelle:** [Link](https://x.com/johnAGI168/status/2067589361042927696) | **Veröffentlicht:** Jun 18, 2026
+
+---
+### Korean Beauty Editorial Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine ultra-realistische Fotoshooting-Animation, die sich auf subtile Bewegungen wie Atmung und Haltungsanpassungen konzentriert, um ein konsistentes Erscheinungsbild des Charakters zu gewährleisten.
+
+#### 📝 Prompt
+
+```
+Ultra-realistische Korean Beauty Editorial Fotoshooting-Animation. Die Frau bleibt über alle sechs Frames hinweg natürlich auf dem Sofa sitzen. Sanfte Atembewegungen in Brust und Schultern, subtile Haltungsanpassungen, leichtes Neigen des Kopfes, feine Augenbewegungen.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5885fdcaa9e07fe5a41771f4f98228be/thumbnails/thumbnail.jpg" width="600" alt="Korean Beauty Editorial Animation">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6184)**
+
+**Autor:** [jiprak](https://x.com/angrywhale7) | **Quelle:** [Link](https://x.com/angrywhale7/status/2067551471449842153) | **Veröffentlicht:** Jun 18, 2026
+
+---
+### Anime-Windsurf-Verfolgungsjagd
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein actiongeladener Anime-Prompt für eine durchgehende Windsurf-Sequenz mit stylischen Tricks und filmischen Effekten.
+
+#### 📝 Prompt
+
+```
+Aurora reitet bei hellem Sommersonnenschein auf kraftvollen tropischen Wellen und führt dabei eine Abfolge immer stylischerer Windsurf-Tricks aus. Das gesamte Video ist eine 15-sekündige, durchgehende Verfolgungsjagd, die mit einem dramatischen Hero-Carve und einer riesigen, funkelnden Gischt-Explosion endet.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f43e3b3bcfda9abd6e01211bc2cd67c1/thumbnails/thumbnail.jpg" width="600" alt="Anime-Windsurf-Verfolgungsjagd">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6182)**
+
+**Autor:** [Kiki](https://x.com/Mayz1169) | **Quelle:** [Link](https://x.com/Mayz1169/status/2067548372052095389) | **Veröffentlicht:** Jun 18, 2026
+
+---
+### Filmreife Zeitreisender-Transformationssequenz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt für ein surreales Sci-Fi-Fantasy-Video, in dem sich ein Reisender in einem gefrorenen Bahnhof in die Verkörperung der Zeit verwandelt.
+
+#### 📝 Prompt
+
+```
+15-sekündige, ultra-filmreife Sci-Fi-Fantasy-Transformationssequenz in einem verlassenen Bahnhof, der zwischen verschiedenen Epochen der Geschichte eingefroren ist.
+
+Ein einsamer Reisender steht unter einer riesigen Uhr, die über dem Bahnhof schwebt. Die Architektur wirkt seltsam, da Elemente aus der Vergangenheit, der Gegenwart und der fernen Zukunft miteinander verschmelzen. Staub schwebt durch goldene Lichtstrahlen.
+
+Der Bahnhof ist still.
+
+Die riesige Uhr bleibt plötzlich stehen.
+
+Die Kamera kreist langsam um den Reisenden, während sich die Realität zu verzerren beginnt. Uhren in der Nähe frieren ein. Fallende Staubpartikel bleiben bewegungslos in der Luft hängen. Die Zeit selbst scheint zerbrochen zu sein.
+
+Ein schwaches goldenes Licht erscheint unter der Haut des Reisenden.
+
+Die Transformation beginnt.
+
+Mehrere Versionen des Reisenden erscheinen gleichzeitig um ihn herum – als Greis, Erwachsener, Kind und zukünftiges Ich, die wie überlappende Zeitlinien flackernd in die Existenz treten und wieder verschwinden.
+
+Die Kamera fährt näher heran, während sich der Körper kontinuierlich durch verschiedene Alter wandelt. Falten erscheinen und verschwinden. Die Haarfarbe ändert sich. Die Kleidung durchläuft Jahrhunderte der Mode. Verschiedene Lebenszeiten huschen über dasselbe Gesicht.
+
+Der Bahnhof reagiert heftig. Die Wände wechseln zwischen antiken Ruinen, moderner Architektur und futuristischen Strukturen. Züge erscheinen und verschwinden aus verschiedenen Epochen. Geisterhafte Passagiere wandeln durch widersprüchliche Momente der Zeit.
+
+Die Transformation beschleunigt sich. Schwebende Uhrenfragmente, Zahnräder, Kalenderblätter, Erinnerungen und temporale Partikel kreisen um den Reisenden.
+
+Sein Körper beginnt sich in Ströme aus goldenem Sand, Uhrwerkmechanismen, Sternen und fließenden Zeitlinien aufzulösen.
+
+Beim Höhepunkt erhebt sich der Reisende über den Bahnhofsboden und wird zur Verkörperung der Zeit – eine großartige kosmische Figur, bestehend aus rotierenden Uhrenringen, leuchtenden Zahnrädern, fließendem Sand, Sternbildern und sich verschiebenden Zeitaltern, die gleichzeitig existieren.
+
+Vergangenheit und Zukunft wirbeln wie Galaxien um ihn herum.
+
+Letzter filmreifer Moment: Die kolossale temporale Entität streckt eine Hand aus. Jede Uhr im Bahnhof beginnt sich wieder zu bewegen. Die Kamera fährt zurück und enthüllt den gesamten Bahnhof, der in einem unendlichen Zeitstrudel schwebt, der sich durch die Ewigkeit erstreckt.
+
+Stil: ultra-filmreife Sci-Fi-Fantasy, temporale Verzerrungs-VFX, altersverändernde Transformation, realitätsverbiegende Umgebungen, schwebende Uhren, kosmisches Uhrwerk, goldene und blaue Energiepalette, surreale filmische Atmosphäre, AAA-Visual-Effects-Qualität, kein Text, keine Overlays.
+
+Audio: epischer filmischer Score, sich entwickelndes Orchester, tiefe Pulse, tickende Uhren, temporale Resonanz, Realitätsverzerrungsgeräusche, emotionales Crescendo, kosmische Umgebung, mysteriöse Zeitkrümmungseffekte.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8aefecaad683ebb01dd6dad41ea920a2/thumbnails/thumbnail.jpg" width="600" alt="Filmreife Zeitreisender-Transformationssequenz">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6179)**
+
+**Autor:** [LudovicCreator](https://x.com/LudovicCreator) | **Quelle:** [Link](https://x.com/LudovicCreator/status/2067547973903425649) | **Veröffentlicht:** Jun 18, 2026
+
+---
+### Enthüllung auf dem zerstörten Schlachtfeld
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Blockbuster-Action-Prompt für eine filmreife Drohnenaufnahme, die einen Helden zeigt, der aus den Trümmern eines Schlachtfelds hervortritt.
+
+#### 📝 Prompt
+
+```
+Drohnenaufnahme von oben über einem zerstörten Schlachtfeld. Riesiger Krater und totale Verwüstung. Ein gigantischer Held taucht aus den Trümmern auf. Filmreife Kamerafahrt zur Enthüllung.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be92963795c35535b0de401e59485615/thumbnails/thumbnail.jpg" width="600" alt="Enthüllung auf dem zerstörten Schlachtfeld">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6186)**
+
+**Autor:** [Sheetal Shinde](https://x.com/itsSSS1510) | **Quelle:** [Link](https://x.com/itsSSS1510/status/2067529829566870015) | **Veröffentlicht:** Jun 18, 2026
+
+---
+### Realistisches UGC-Produktbewertungsvideo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter Storyboard-Prompt zur Erstellung eines realistischen Produktbewertungsvideos im Influencer-Stil, unter Verwendung einer Smartphone-Ästhetik, natürlicher Beleuchtung und authentischer Bewegungen des Creators.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie das Storyboard-Bild als exakte Szenenreferenz.
+
+Erstellen Sie ein realistisches Produktbewertungsvideo im UGC-Stil, das von einer jungen Creatorin in ihrem Schlafzimmer mit einem Smartphone gefilmt wurde. Natürliche Beleuchtung, authentischer Influencer-Content, lockere und nahbare Energie.
+
+Szene 1: Sie schaut direkt in die Kamera, macht einen überraschten Gesichtsausdruck und sagt: „Okay, damit habe ich nicht gerechnet.“ Selfie-Framing, natürlicher Hintergrund im Zimmer.
+
+Szene 2: Sie hält das Produkt nah in die Kamera und stellt es vor. Langsame Handkamera-Bewegung, Produkt gut sichtbar, freundliches Lächeln.
+
+Szene 3: Nahaufnahme der Reaktion. Sie untersucht das Produkt nach der ersten Anwendung und sagt: „Meine Haut fühlt sich jetzt schon so gut an.“ Echte Überraschung und Begeisterung.
+
+Szene 4: Produktdemonstration. Sie trägt das Produkt auf, während sie die Textur und das Gefühl beschreibt. Makro-Nahaufnahmen, Details in Beauty-Werbequalität, flüssige Aufnahmen beim Auftragen.
+
+Szene 5: Ergebnisse. Zeigen Sie einen natürlichen Vorher-Nachher-Vergleich, strahlende Haut, selbstbewusstes Lächeln, helle Beleuchtung. Sie dreht sich zur Kamera, um das Ergebnis aus verschiedenen Winkeln zu zeigen.
+
+Szene 6: Abschließende Empfehlung. Sie hält das Produkt neben ihr Gesicht und sagt: „Definitiv einen Versuch wert.“ Sie zeigt auf das Produkt, lächelt und gibt einen Daumen hoch.
+
+Kamerastil: Handgeführter Smartphone-Vlog, TikTok-UGC-Ästhetik, authentischer Creator-Content, natürliche Mimik, realistische Bewegungen, subtiles Kamerawackeln, geringe Schärfentiefe, Social-Media-Werbestil.
+
+Visueller Stil: Moderner Influencer-Content, sauberes Schlafzimmer-Setup, warmes Tageslicht, Lifestyle-Fotografie, realistische Hauttextur, erstklassige UGC-Werbequalität, vertikal 9: 6, 4K HDR, hochgradig ansprechende Social-Media-Werbung.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a356e0b270d43066d1d196db7b229db8/thumbnails/thumbnail.jpg" width="600" alt="Realistisches UGC-Produktbewertungsvideo">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6176)**
+
+**Autor:** [Smiling Khan](https://x.com/AIwithkhan) | **Quelle:** [Link](https://x.com/AIwithkhan/status/2067485614702989511) | **Veröffentlicht:** Jun 18, 2026
+
+---
 ### Kettenreaktions-Comedy-Sketch
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -455,16 +992,102 @@ Aktion:
 Negative Prompts: Schüsse, Mündungsfeuer, Blut, Verletzung von Tieren, Jagd, Einschuss, Wunde, grausame Szenen, Bär greift Menschen an, physischer Kontakt zwischen Mensch und Bär, fehlender Lauf, fehlende Motorradfront, fehlendes Motorrad-POV, Fußgänger-Perspektive, Auto-Perspektive, Bär nicht verblüfft, Bär tanzt nicht, Bär läuft einfach nur weg, übermäßig vermenschlichter Bär, Cartoon-Bär, Monster-Bär, Körperdeformation, zusätzliche Gliedmaßen, inkorrekte Tieranatomie, Tagesszene, Stadthintergrund, horizontale Komposition, Untertitel, Texteinblendung, Logo, Wasserzeichen, zufälliger Text, übermäßig filmisch, unleserliche Aktion, plötzliche Szenenwechsel.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/73791d8dcc9f136e4abb860f95b78a66/thumbnails/thumbnail.jpg" width="600" alt="Überraschende Bärenbegegnung aus der Motorrad-POV-Perspektive">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1a7f144d18e0c9ae2aab2c1f6f72678/thumbnails/thumbnail.jpg" width="600" alt="Überraschende Bärenbegegnung aus der Motorrad-POV-Perspektive">
 
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6149)**
 
 **Autor:** [John](https://x.com/johnAGI168) | **Quelle:** [Link](https://x.com/johnAGI168/status/2067438604905746731) | **Veröffentlicht:** Jun 18, 2026
 
 ---
+### Auftauchen des biomechanischen Leviathans
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein düsterer, filmischer Montage-Prompt für Seedance 2.0, der eine massive biomechanische Kreatur zeigt, die während eines Sturms aus den überfluteten Ruinen einer Megacity emporsteigt.
+
+#### 📝 Prompt
+
+```
+Montage, filmische Multi-Shot-Aufnahme, keine einzelnen Kamerawinkel oder Schnitte verwenden. Fotorealistisch, 35mm-Filmqualität, ARRI ALEXA-Ästhetik, Filmkorn, apokalyptisches Color Grading.
+
+SUBJEKT: Kolossaler biomechanischer Leviathan — mattschwarzer, gepanzerter Rumpf in Form eines langgestreckten Kriegsschiffs, einzelne leuchtend rote optische Linse an der Vorderseite, Dutzende segmentierter mechanischer Tentakel, die sich unter dem Rumpf erstrecken, organische Piloten-Entität am Heck verschmolzen — blasser, verkabelter humanoider Kopf mit kybernetischen Ranken, freiliegender pinker biolumineszenter Kern, der Energie durch die Brust abstrahlt. Folgen Sie @image_1.
+UMGEBUNG: Überflutete, zerstörte Megacity in der Abenddämmerung — halb untergetauchte Wolkenkratzer-Skelette, dunkle Sturmwolken, stilles graues Wasser, das die Struktur reflektiert, entfernte intakte Skyline am Horizont.
+STIMMUNG: Untergetauchte Ruhe → wachsendes Bewusstsein → vollständiges Auftauchen.
+MUSIK: Tiefer Sub-Bass-Drone, der langsam anschwillt, 50 BPM, entfernter Donner.
+FARBLOGIK: Sturm-graue Basis — pinker biolumineszenter Kern als einzige warme Lichtquelle.
+LOGIK-REGEL: Behalten Sie die Rumpfproportionen, die Anzahl und Platzierung der Tentakel, die Position der Piloten-Entität und die rote Linse über alle Aufnahmen hinweg bei.
+
+AUFNAHME 1: WS, 14mm niedriger Winkel / Die Wasseroberfläche ist still. Dann beginnt sie zu beben — konzentrische Wellen breiten sich nach außen aus, während sich etwas Riesiges darunter bewegt. Die rote Linse entzündet sich zuerst und durchdringt das trübe Wasser von unten. / SFX: tiefes Unterwasser-Grollen, Wasserspannung, entfernter Donner.
+AUFNAHME 2: ECU, 85mm statisch / Der pinke biolumineszente Kern an der Brust der Piloten-Entität pulsiert einmal und stabilisiert sich dann zu einem langsamen, rhythmischen Leuchten — wie ein zurückkehrender Herzschlag. Verkabelte Ranken am Kopf zucken und dehnen sich leicht aus. / SFX: Kern-Puls-Ton, organisches Servo-Surren.
+AUFNAHME 3: WS, 24mm aufsteigend / Der Rumpf durchbricht die Oberfläche — Wasser stürzt in schweren Schichten von der Panzerung herab und sendet Verdrängungswellen über die überfluteten Ruinen. Tentakel tauchen nacheinander auf, während das Wasser von jedem segmentierten Glied abläuft. / SFX: Wasserverdrängungs-Dröhnen, mechanische Gelenkgeräusche, herabstürzendes Wasser.
+AUFNAHME 4: WS, 14mm niedriger Winkel, Kamerafahrt zurück / Die volle Silhouette ragt nun über der Wasserlinie gegen den Sturmhimmel auf, Tentakel breiten sich zur Balance aus, der Kopf der Piloten-Entität neigt sich zurück, während der biolumineszente Kern heller aufleuchtet. Die Kamera fährt zurück und enthüllt die wahre Größe vor der zerstörten Skyline. / SFX: Ton für die Enthüllung im vollen Maßstab, Donnerschlag, Summen des Kern-Aufleuchtens.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/38ec7cef3a41b9b9c2a803a52cea160e/thumbnails/thumbnail.jpg" width="600" alt="Auftauchen des biomechanischen Leviathans">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6180)**
+
+**Autor:** [Noname Oasis](https://x.com/nonameoasis) | **Quelle:** [Link](https://x.com/nonameoasis/status/2067421311622664681) | **Veröffentlicht:** Jun 18, 2026
+
+---
+### Filmreife Multi-Shot Luxus-Straßenszene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Multi-Shot-Prompt für eine 15-sekündige filmreife Sequenz, die eine hochwertige Luxus-Straßenszene mit einer Hauptfigur und Bodyguards zeigt.
+
+#### 📝 Prompt
+
+```
+Filmreife Multi-Shot Luxus-Straßenszene.
+Gedreht mit einer professionellen Kinokamera, scharfer Fokus auf das Motiv mit weicher, geringer Schärfentiefe,
+verschwommenes Bokeh im Vorder- und Hintergrund, Teleobjektiv-Kompression, fotorealistisch. Stimmungsvolle Nacht-
+Kinematografie, warmes Bokeh der Stadtlichter, durchgehender Zeitlupen-Film-Look.
+Die Figur: [IMAGAEREFERENCE], trägt ein elegantes, komplett schwarzes Premium-Outfit.
+Zwei Bodyguards: große Männer in schwarzen Anzügen und mit schwarzer Sonnenbrille, tragen hochwertige schwarze Einkaufstaschen. Kein Text-
+Overlay, keine verwackelten Schnitte.
+Shot 1 (3s, normale Geschwindigkeit):
+Die Figur sitzt in einem gehobenen Straßencafé und isst elegant. Zwei Bodyguards in schwarzen Anzügen treten heran und
+bleiben neben der Figur stehen, die innehält und verwirrt aufblickt. Die Kamera hält eine statische Halbtotale, scharfer
+Fokus auf die Figur, weich verschwommener Café-Hintergrund. Warme Café-Beleuchtung.
+Shot 2 (Zeitlupe, 1,5s):
+Die Figur schreitet selbstbewusst voran, flankiert von den zwei Bodyguards, die hochwertige schwarze Einkaufstaschen tragen.
+Die Kamera fährt in einer niedrigen Einstellung rückwärts mit, das Motiv ist gestochen scharf, verschwommene Passanten im Vordergrund und
+Bokeh im Hintergrund.
+Shot 3 (Zeitlupe, 1,5s):
+Die Figur und die zwei Bodyguards gehen synchron. Die Kamera fährt in einem sanften Dolly seitwärts, geringe
+Schärfentiefe, leuchtende Luxus-Boutique-Fenster sanft im Hintergrund verschwommen.
+Shot 4 (Zeitlupe, 1s):
+Ein Passant bleibt stehen und starrt bewundernd, während er ein Telefon zum Filmen hebt. Die Kamera hält eine statische Halbtotale,
+der Passant ist scharf, die nächtliche Straße dahinter verschwommen.
+Shot 5 (Zeitlupe, 1,5s):
+Nahaufnahme des kalten, selbstbewussten Gesichts der Figur, die nach unten blickt und dann den Blick hebt. Die Kamera hält eine enge
+statische Einstellung, messerscharfer Fokus auf die Augen, stark verschwommener Hintergrund. Sanftes Kantenlicht von Straßenlaternen.
+Shot 6 (Zeitlupe, 1,5s):
+Rückansicht der gehenden Figur, die zwei Bodyguards folgen dahinter. Die Kamera fährt langsam vorwärts, Dolly-Fahrt,
+geringe Schärfentiefe, helle Luxus-Schaufenster zu Bokeh verschwommen.
+Shot 7 (1s):
+Ein weiterer Passant flüstert einem Freund etwas zu und zeigt auf die Figur. Die Kamera hält eine statische Halbtotale,
+Passanten im Fokus, verschwommene Menge und Bokeh-Lichter.
+Shot 8 (Zeitlupe, 2s):
+Die Figur schreitet auf die Kamera zu, Ganzkörperaufnahme, Bodyguards an den Seiten leicht unscharf, verschwommene
+Vordergrundfiguren ziehen am Objektiv vorbei. Kamera fährt rückwärts, filmische Nachtbeleuchtung.
+Shot 9 (3s, Zeitlupe):
+Halbnahaufnahme der gehenden Figur, scharfer Blick in die Kamera, während sie weiter vorwärts geht. Die Kamera fährt
+langsam zurück und hält die Figur im Fokus, Vordergrundfiguren ziehen in sanfter Unschärfe vorbei, Luxus-Bokeh-Lichter
+im Hintergrund.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/708a74b2e8a743e1146f24fad6ce2fa7/thumbnails/thumbnail.jpg" width="600" alt="Filmreife Multi-Shot Luxus-Straßenszene">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6185)**
+
+**Autor:** [Yunan Helmy A](https://x.com/unxinstudio) | **Quelle:** [Link](https://x.com/unxinstudio/status/2067400367407878457) | **Veröffentlicht:** Jun 18, 2026
+
+---
 ### Charakter-Monolog mit natürlichen Gesten
 
-![日本語](https://img.shields.io/badge/lang-日本語-green)
+![English](https://img.shields.io/badge/lang-English-blue)
 
 > Ein spezialisierter Seedance 2.0 Video-Prompt zur Erstellung fesselnder Charakter-Monologe mit koordinierten Handgesten und Kamerabewegungen in einer Tempel-Umgebung.
 
@@ -480,7 +1103,7 @@ Bild 1 spricht im Innenhof eines gepflegten antiken Tempels in die Kamera.
 [0:10-0:15] Sie steht langsam auf und beginnt langsam zu gehen, während sie mit ausladenden Handgesten auf Japanisch spricht: „Versuche es mal mit Wörtern wie ‚gro~ß‘ oder ‚klei~n‘! Oder ‚Wow!‘ – probier es einfach mal aus.“
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af356b67e137a81cc6020a14d85086ac/thumbnails/thumbnail.jpg" width="600" alt="Charakter-Monolog mit natürlichen Gesten">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b77866309a6d3d0465a129a77c4435c/thumbnails/thumbnail.jpg" width="600" alt="Charakter-Monolog mit natürlichen Gesten">
 
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6145)**
 
@@ -541,7 +1164,7 @@ Einstellung 14: [Ultraweitwinkel-Push] Explosiver Sprint. Hauptfarben aus @[imag
 Einstellung 15: [Theatralische Nahaufnahme] Frontalansicht. Den Pinsel in die Kamera schlagen. Der gesamte Bildschirm füllt sich mit dicker Farbe und blendet dramatisch in Schwarz aus. / SFX: Schockwelle und tiefe Resonanz.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f35cdf4c81f6588a934bf1fa2edcc7fb/thumbnails/thumbnail.jpg" width="600" alt="Theatralischer Anime-Tanz mit flüssiger Farbe">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b013f6b8e1412e9f3a03b75e9bcd862/thumbnails/thumbnail.jpg" width="600" alt="Theatralischer Anime-Tanz mit flüssiger Farbe">
 
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6142)**
 
@@ -639,7 +1262,7 @@ Stil: Ultra-kinoreife Dark Fantasy, Ink-Horror-Ästhetik, von Manga inspirierte 
 Audio: Düstere Filmmusik, Regen an Fenstern, kratzende Stifte auf Papier, blubbernde Tinte, reißende Seiten, Bewegung nasser Tinte, tiefes übernatürliches Grollen, verzerrtes Atmen.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/edb813bee690dd1625512211010cc8d0/thumbnails/thumbnail.jpg" width="600" alt="Dark-Fantasy-Transformation im Künstleratelier">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c9bf7cd2d5e5b93f865d5e5b592c25de/thumbnails/thumbnail.jpg" width="600" alt="Dark-Fantasy-Transformation im Künstleratelier">
 
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6147)**
 
@@ -745,7 +1368,7 @@ Die Maske flackert heftig, rote und grüne, verzerrte '?!' zittern und zersplitt
 Sound: Systemüberlastung durch Stromschlag, plötzlicher Schnitt auf Schwarz.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f949867090b97593632c8ce1cc343da/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi Cinematic Judgment Robot">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ff8044f3dee4792828d61e157d7d1d1/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi Cinematic Judgment Robot">
 
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6160)**
 
@@ -798,7 +1421,7 @@ Visuelle Effekte
 - Kein Text, keine Untertitel oder Logos
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781769441019_0dwc4u_HLBLBPQaYAAPdd2.jpg" width="600" alt="Aquarell-Tuschmalerei: Jet-Ski in der Meeresstadt">
+<img src="https://cms-assets.youmind.com/media/1781855715743_sg9y4m_HLBLBPQaYAAPdd2.jpg" width="600" alt="Aquarell-Tuschmalerei: Jet-Ski in der Meeresstadt">
 
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6162)**
 
@@ -3397,397 +4020,6 @@ Abgelegene, futuristische Arktis-Forschungsstation während der Polarnacht. Endl
 **Autor:** [あぁく](https://x.com/kik0ai1jikake) | **Quelle:** [Link](https://x.com/kik0ai1jikake/status/2066280080897360334) | **Veröffentlicht:** Jun 14, 2026
 
 ---
-### Anime-Superhelden-Storyboard für einen Kampf
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastisches Multi-Shot-Storyboard für eine Actionsequenz im Anime-Stil, in der ein Held in einer zerstörten Stadt gegen eine Dämonenhorde kämpft.
-
-#### 📝 Prompt
-
-```
-0,0–1,5 Shot 1 — Enthüllung der Horde. Schnelle Fukan-Totale. Eine antike Ruinenstadt voller zerbrochener Türme, rissiger Plätze, eingestürzter Torbögen, wirbelndem Staub und wimmelnden Dämonenhorden. Solene steht allein auf einer zertrümmerten Steinplattform, sein schwarz-goldener Mantel flattert, die weißen Locken werden vom stürmischen Himmel beleuchtet, den Starlight Recurve Bow in der Hand. Etabliert das Schlachtfeld, den Maßstab und Solene als einsamen Ruhepol. Beginn mit der Bewegung der Dämonen, dann Fokus auf Solenes unbewegliche Silhouette. 1,5–3,1 Shot 2 — Vertikaler Aufstieg. Aori-Perspektive. Solene springt sofort von der Plattform nach oben und wirbelt Staub und Steinsplitter auf. Die Stadt unter ihm fällt ab, während sich die dunkelgraue Wolkendecke über ihm langsam zu einem Wirbel dreht. Startet die Action unmittelbar und verlagert die Szene in die Vertikale. Seine Aufwärtsbewegung übernimmt den Druck des Schlachtfelds und zielt direkt in den Himmel. 3,1–4,8 Shot 3 — Zielvorgabe gen Himmel. Hero-Shot in der Luft. Solene stabilisiert sich in der Luft und hebt den Bogen hoch in Richtung Himmel, wobei er vor dem Schuss klar auf den Wirbel zielt. Er zieht einen leuchtenden Sternenlichtpfeil, während er den Bogen in einer kraftvollen Silhouette gegen den Himmel hält. Hellblaue Energie sammelt sich entlang der Sehne, der Wurfarme und der Pfeilspitze. Macht die Absicht der Aktion unmissverständlich: Er beschwört den Himmel. Der Sprung gipfelt in einer gehaltenen Zielpose, die vor dem Schuss einen Moment des Innehaltens erzeugt. 4,8–6,0 Shot 4 — Solene schießt. Der Sternenlichtpfeil schießt gerade nach oben in die Mitte des Wirbels und bahnt sich einen leuchtenden Weg durch die Wolkenmasse. Funkelnde Risse breiten sich wie Sprünge im Himmel über den Wolken aus. Dies ist das auslösende Ereignis, das die großflächige Technik aktiviert. Die Pose mit erhobenem Bogen kurz halten, dann beim Abschuss schneiden und dem Pfeil nach oben folgen. 6,0–7,4 Shot 5 — Straßenebene inmitten der Dämonenhorde. Mehrere Dämonen blicken nach oben, als im rissigen Wolkenwirbel sternenartige Lichtpunkte erscheinen. Ihre Gesichter werden von blassem blauem Licht erhellt, während der Himmel zu schimmern beginnt. Vermittelt die Angst der Feinde und lässt das Publikum den Maßstab von unten spüren. Die Aufwärtsbewegung des Pfeils mit dem Blick der Dämonen in den Himmel abgleichen. 7,4–8,8 Shot 6 — Enges Close-up. Auf Solene, der in der Luft schwebt. Seine leuchtend blauen Augen glühen; der Wind bewegt seine weißen Locken und den Mantelkragen. Er senkt den Bogen leicht und spricht ruhig den Namen seiner Technik aus: „Starlight Cataclysm“. Verleiht dem Angriff eine charakteristische Identität und erzeugt einen letzten Beat vor dem Höhepunkt. Schnitt von der Angst der Dämonen zurück zu Solenes ruhiger Kontrolle. 8,8–12,2 Shot 7 — Explosiver Pfeilregen. Einen Moment später reißt der Wolkenwirbel auf. Millionen leuchtender Pfeile beginnen in massiven, geschichteten Salven auf die Ruinenstadt herabzuregnen. Jeder Pfeileinschlag verursacht eine gewaltige Explosion — riesige Ausbrüche von Sternenlicht, expandierende Schockwellen, einstürzende Dächer, zertrümmerte Türme, fliegende Trümmer und Kettenreaktionen, die durch Dämonenformationen und ganze Straßenzüge reißen. Haupt-Payoff-Shot: überwältigende Zerstörung im Stadtmaßstab. Der ausgesprochene Technikname wird zum Signal für das himmlische Bombardement. 12,2–15,0 Shot 8 — Die Kamera fährt weit zurück in eine extreme Totale. Die gesamte antike Ruinenstadt wird von explosiven himmlischen Einschlägen verschlungen, Dämonen werden in Wellen ausgelöscht, Plätze verschwinden unter Licht und Trümmern, Türme stürzen unter Kettenexplosionen ein. Solene bleibt hoch unter dem Wirbel als kleine, ruhige Figur über der Verwüstung. Finale Enthüllung des Maßstabs und starker visueller Abschluss. Rückzug von der lokalen Zerstörung hin zur totalen Konsequenz auf dem Schlachtfeld.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e2bbd8c1c8a420034bdab062d0662e5/thumbnails/thumbnail.jpg" width="600" alt="Anime-Superhelden-Storyboard für einen Kampf">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6039)**
-
-**Autor:** [NΞXUS](https://x.com/NEXUS_TO_NOVA) | **Quelle:** [Link](https://x.com/NEXUS_TO_NOVA/status/2066183827001590052) | **Veröffentlicht:** Jun 14, 2026
-
----
-### Beschwörungssequenz der Pariser Zombies
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Dark-Fantasy-Video-Prompt für eine Zauberin, die in der Abenddämmerung inmitten einer regennassen Pariser Allee eine Armee von Untoten beschwört.
-
-#### 📝 Prompt
-
-```
-Eine mysteriöse Dark-Fantasy-Zauberin in einem eleganten schwarzen Kampfkleid, blasses Gesicht, ruhig und furchteinflößend, langes silbernes Haar, das sich in einem unnatürlichen Wind bewegt, leuchtend violette Augen, Hände bedeckt mit uralten nekromantischen Runen.
-Sie steht inmitten einer regennassen Pariser Allee und hebt langsam beide Arme, wobei der Asphalt aufbricht, während Hunderte von untoten Soldaten sich aus dem Boden graben, zwischen Autos, Cafés und Metro-Eingängen aufsteigen und eine erschreckende Zombie-Armee um sie herum bilden.
-Paris in der Abenddämmerung nahe den Haussmann-Gebäuden, nasses Kopfsteinpflaster, flackernde Straßenlaternen, verlassene Autos, Rauch, der in der Ferne um die Silhouette des Eiffelturms wabert.
-Beginnt mit einem langsamen filmischen Push-in durch die leeren Straßen von Paris, subtile Handkamera-Spannung, plötzliches Tracking auf Bodenhöhe, während Finger durch den aufgebrochenen Asphalt brechen, Orbit-Aufnahme um die Zauberin, während Zombies in Schichten hinter ihr aufsteigen, dramatischer Kran-Aufstieg, der die Untoten-Armee enthüllt, die die gesamte Allee füllt, kaltes blaues Mondlicht gemischt mit warmen Pariser Straßenlaternen, volumetrischer Nebel, realistischer Regen, Schlamm, Staub und übernatürliche violette Energie, endet damit, dass die Zauberin vollkommen regungslos inmitten von Tausenden von Zombies steht, während diese vor ihr niederknien, die Kamera zieht sich über Paris zurück, um zu zeigen, wie die Stadt unter ihr Kommando fällt.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4646d7b6db6cb586493a82c5878a47e7/thumbnails/thumbnail.jpg" width="600" alt="Beschwörungssequenz der Pariser Zombies">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6042)**
-
-**Autor:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Quelle:** [Link](https://x.com/CharaspowerAI/status/2066181390979199352) | **Veröffentlicht:** Jun 14, 2026
-
----
-### Food VFX Matrix Burger-Werbespot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein strukturierter Prompt im Matrix-Stil für einen cineastischen Food-Werbespot, bei dem sich ein zerlegter Burger in Zeitlupe zusammensetzt.
-
-#### 📝 Prompt
-
-```
-SUBJEKT         Burger schwebt zerlegt          Zutaten kreisen unabhängig           Flammenwelle durchzieht den Stapel       perfekter Burger landet auf dem Teller
-AUSLÖSER        Fingerschnippen des Kochs       Messerblitz in der Luft              Saucentropfen explodiert zum Ring      finaler Aufprall nach unten
-MATERIAL        glänzendes Brötchen, frischer Salat  geschmolzene Käsebänder          verkohlter Rauch + Gewürzstaub          saftige Premium-Textur
-ENERGIE         subtiles Hitzeflimmern           leuchtende Gewürzpartikel            feuriger Puls-Heiligenschein           warmer, köstlicher Glanz
-UMGEBUNG        schwarzes Studio                 Schwerelosigkeits-Lebensmittelkammer  glutgefüllte cineastische Leere        dramatische Tabletop-Beauty-Aufnahme
-KAMERA          langsamer Makro-Orbit            vertikaler Aufstieg durch Zutaten    Speed-Ramp durch Saucenring            fixierte Hero-Nahaufnahme
-PHYSIK          Zutaten schweben schwerelos      Sesamsamen gefrieren in der Luft     Sauce bewegt sich wie flüssige Seide   Burger landet in perfekter Ausrichtung
-FINALE          hyperreale Food-Werbung, appetitlich, dramatisch, Premium, Hollywood-Zeitlupe
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dc633db39042277d0218ef4bfdd1be97/thumbnails/thumbnail.jpg" width="600" alt="Food VFX Matrix Burger-Werbespot">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6045)**
-
-**Autor:** [Gadgetify](https://x.com/Gdgtify) | **Quelle:** [Link](https://x.com/Gdgtify/status/2066179353730232649) | **Veröffentlicht:** Jun 14, 2026
-
----
-### Epische Fantasy-Flucht-Zwischensequenz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein intensiver Fantasy-Action-Prompt für eine Zwischensequenz, in der ein Held aus einem einstürzenden antiken Steinkorridor flieht, inklusive komplexer Kameraführung.
-
-#### 📝 Prompt
-
-```
-Videospiel-Zwischensequenz, epische Fantasy-Action, dramatische volumetrische Lichtstrahlen, dichter Staub und Trümmer, fotorealistisch mit stilisierter Spielbeleuchtung, intensive Physik.
-
-0-4s: Weite Low-Angle-Tracking-Aufnahme, die dem Helden folgt, wie er durch einen antiken Steinkorridor sprintet. Plötzlicher massiver Einsturz hinter ihm. Die Kamera beschleunigt zu einer schnellen Tracking-Aufnahme, während der Boden aufbricht und wegbricht.
-
-4-8s: Extremes Dolly-Zoom (Vertigo-Effekt) auf das Gesicht des Helden, während er über einen sich verbreiternden Abgrund springt – der Hintergrund rast auf die Kamera zu, während hineingezoomt wird, was für starke Desorientierung sorgt. Der Held dreht sich in der Luft und greift nach einer schwingenden Kette.
-
-8-12s: Dynamische Orbit-Kamera, die sich um 180° um den Helden dreht, während er über einstürzende Plattformen schwingt. Die Kamera neigt sich wild mit den fallenden Trümmern und erzeugt Schwindelgefühle. Der Held rennt über eine kippende Steinbrücke, die in Stücke zerbricht.
-
-12-15s: Letzter verzweifelter Sprung in Richtung Sonnenlicht, während der gesamte Tempel in ein riesiges Erdloch stürzt. Die Kamera dreht sich und fällt mit ihm im freien Fall, Zeitlupenrotation, endend mit einem dramatischen Zurückweichen, als er draußen auf sicherem Boden landet. Starke Bewegungsunschärfe bei schnellen Elementen, kohärente Physik, intensive Energie.
-
-Ultra-detaillierte Steinstrukturen, filmische Beleuchtung, perfekte Bewegungsunschärfe, hoher Dynamikumfang, stabiler Charakter, Stabilität auf Filmniveau.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/465e52a3a3f87a4dc8760bd7db891603/thumbnails/thumbnail.jpg" width="600" alt="Epische Fantasy-Flucht-Zwischensequenz">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6041)**
-
-**Autor:** [TechHalla](https://x.com/techhalla) | **Quelle:** [Link](https://x.com/techhalla/status/2066173953765159044) | **Veröffentlicht:** Jun 14, 2026
-
----
-### Animation von streitenden Skizzen-Charakteren
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Multi-Shot-Storyboard-Prompt für eine Animation, bei der Skizzenversionen eines Charakters zum Leben erwachen und im Bleistift-Stil miteinander interagieren.
-
-#### 📝 Prompt
-
-```
-Einstellung 1 (0-2s): Die Kamera zoomt langsam heran. Die Bleistiftlinien beginnen sich zu bewegen.
-
-Einstellung 2 (2-4s): Die linke Skizzenversion blinzelt und schaut zum mittleren Charakter.
-
-Einstellung 3 (4-6s): Die rechte Skizzenversion grinst und hebt eine Augenbraue.
-
-Einstellung 4 (6-8s): Alle drei Versionen beginnen mit übertriebener Mimik lautlos zu streiten.
-
-Einstellung 5 (8-10s): Das Mädchen in der Mitte ruft plötzlich:
-
-„Können alle aufhören, ich zu sein?!“
-
-Die Skizzenversionen erstarren sofort.
-
-SFX: Bleistiftkratzen, Papierrascheln, Cartoon-Pop-Geräusche.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc685ac47f5dcff991ebe1e0a58da294/thumbnails/thumbnail.jpg" width="600" alt="Animation von streitenden Skizzen-Charakteren">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6043)**
-
-**Autor:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Quelle:** [Link](https://x.com/airina_xyz/status/2066159025331515590) | **Veröffentlicht:** Jun 14, 2026
-
----
-### Filmische Aufnahme einer Lawine in den Schweizer Alpen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter filmischer Video-Prompt, der eine gewaltige Lawine in den Schweizer Alpen bei Sonnenaufgang einfängt, inklusive drohnenartiger Kamerabewegungen und realistischer Schneephysik.
-
-#### 📝 Prompt
-
-```
-Ultraweite filmische Luftaufnahme bei Sonnenaufgang über den majestätischen, schneebedeckten Schweizer Alpen mit hoch aufragenden Gipfeln, zugefrorenen Seen und malerischen Gebirgskämmen, die sich bis zum Horizont erstrecken. Plötzlich löst sich eine gewaltige Lawine von einem steilen Berghang und schickt eine riesige Schneewand das Tal hinab. Die Kamera schießt durch die alpine Landschaft vorwärts, schlängelt sich zwischen Felsklippen hindurch, steigt dann über die Lawine empor und umkreist die herabstürzende Schneemasse, wobei sie durch die Luft wirbelnde Schneefahnen und herabfallende Eisbrocken einfängt. Realistische Schneephysik, Pulverschneewolken, Windturbulenzen und Trümmerinteraktionen, dramatisches goldenes Sonnenlicht, volumetrische Strahlen, atmosphärischer Dunst, Lens Flares, hyperrealistische Bergtexturen, flüssige Bewegungen, perfekte Stabilisierung, filmisches Color Grading mit klaren Weißtönen und warmen Sonnenaufgangsfarben, fotorealistische Visuals.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04bad557041fe140f25f0afaae60d6be/thumbnails/thumbnail.jpg" width="600" alt="Filmische Aufnahme einer Lawine in den Schweizer Alpen">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6044)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2066143777253912935) | **Veröffentlicht:** Jun 14, 2026
-
----
-### 16mm Archivfilm-Montage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Erstellung einer Montage im Vintage-16mm-Filmstil mit verschiedenen Archivszenen wie Schultoren und Postboten.
-
-#### 📝 Prompt
-
-```
-Eine Montage im Stil von gealtertem 16mm-Archivfilm, warme, verblasste Farben, starkes Filmkorn, Bildstandschwankungen und gelegentliche Kratzer. Eine handgeführte Aufnahme von Kindern, die in Schlaghosen und Pullundern aus einem Schultor strömen. Ein Postbote in einer roten Royal-Mail-Jacke, grauer Hose und mit Umhängetasche, der im Morgengrauen eine Straße mit Reihenhäusern entlanggeht. Eine Fußballtribüne voller Fans in den passenden rot-weißen Vereinsfarben, Schals in die Höhe gestreckt, die Münder singend geöffnet. Eine statische Aufnahme eines Waschsalons am Nachmittag, die Sonne fällt durch das Schaufenster, eine Reihe von Maschinen dreht sich, eine Frau faltet Wäsche auf dem Tresen. Eine Strandpromenade, auf der ein Esel Kinder am Sand entlangträgt, im Hintergrund Liegestühle und ein Kasperletheater. Ein Zeitungsjunge, der freihändig an einer Reihe geparkter Ford Cortinas vorbeifährt. Keine Musik. Keine Untertitel.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e805c86ca9496790b05d4141b0525bc3/thumbnails/thumbnail.jpg" width="600" alt="16mm Archivfilm-Montage">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6037)**
-
-**Autor:** [PZF](https://x.com/pzf_ai) | **Quelle:** [Link](https://x.com/pzf_ai/status/2066129022019682405) | **Veröffentlicht:** Jun 14, 2026
-
----
-### Glitched 2D-Anime-MV-Montage
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein japanischer, vollfarbiger 2D-Anime-Musikvideo-Prompt mit schnellen Schnitten, geteilten Bildschirmen und Glitch-Effekten für einen filmischen und künstlerischen Animationsstil.
-
-#### 📝 Prompt
-
-```
-Japanischer, vollfarbiger 2D-Anime, ultraschnelle Schnitte, scharfe Speed-Ramps, hohe Bildrate, 24 FPS, Anime-Musikvideo, Multi-Shot, hochauflösende Kunst, sauberes Cel-Shading, filmische Beleuchtung, beeindruckende Kameraführung, markante Winkel. Die Charaktere ○○ und ○○ sind zu sehen.
-
-0:00-0:03: Der Bildschirm ist in mehrere unregelmäßige Raster unterteilt. Innerhalb jedes Rahmens wechseln die ausgestreckten Hände von ○○ und schimmernder Sternenstaub schnell in einem intensiven Stop-Motion-Stil.
-0:03-0:06: Diagonal geteilter Bildschirm. Ein Rahmen zeigt die sternförmigen Pupillen von ○○, während der andere eine Collage aus einer rückwärts laufenden Sanduhr zeigt, mit sich wiederholenden Hochgeschwindigkeits-Zoom-ins und -Zoom-outs.
-0:06-0:09: Die Rasterlinien (dicke schwarze Linien) beginnen wie Rauschen (Glitch-Effekt) intensiv nach links und rechts zu vibrieren. Innerhalb der Ränder flackern lebhaft gefärbte Texturen.
-0:09-0:12: Das gesamte Rasterlayout rotiert heftig im 90-Grad-Takt im Uhrzeigersinn, wobei die Bilder in jedem Rahmen augenblicklich aufblitzen.
-0:12-0:15: Silhouetten von ○○ und ○○ blitzen abwechselnd in der Mitte des Bildschirms auf, während alle geteilten Rahmen mit starker Unschärfe (Smear-Effekte) in die Mitte gesogen werden.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7af2fe274e0e60c9e3144a66806adf2b/thumbnails/thumbnail.jpg" width="600" alt="Glitched 2D-Anime-MV-Montage">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6048)**
-
-**Autor:** [餡子(anko)@AIアニメMVを作る🐥](https://x.com/anko1oo7) | **Quelle:** [Link](https://x.com/anko1oo7/status/2066116179962548472) | **Veröffentlicht:** Jun 14, 2026
-
----
-### Japanischer Sport-Anime Fußballspiel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine dynamische Sport-Anime-Sequenz eines Fußballspiels zwischen einem marineblauen und einem roten Team, mit energiegeladenen Übergängen, Balleroberungen und Stadionatmosphäre.
-
-#### 📝 Prompt
-
-```
-Japanische, vollfarbige Sport-Anime-Sequenz, 24 FPS, energiegeladenes Fußballspiel, unter Beibehaltung des Anime-Charakterstils, marineblauer Trikots, Stadionatmosphäre und Teamidentität von hogi://image/mqatynpt_a9cc2f153bdc9d18.png. Kein Text, keine Untertitel. Eine japanische Fußballmannschaft in marineblauen Trikots tritt in einem vollbesetzten Stadion gegen ein gegnerisches Team in roten Trikots an. 0–4s: Weite Aufnahme des Spiels – das gegnerische Team rückt mit dem Ball durch das Mittelfeld vor. Die japanischen Spieler wechseln schnell die Formation, kompakt und fokussiert. 4–8s: Mittlere Kamerafahrt – ein marineblauer Mittelfeldspieler liest die Passbahn, beschleunigt und rückt von der Seite heran. Die Teamkollegen pressen gemeinsam und schneiden Fluchtwege ab. 8–11s: Action-Aufnahme aus der Froschperspektive – der Mittelfeldspieler erobert den Ball sauber mit einem scharfen Schritt, behält das Gleichgewicht, kein Foul, Grashalme und Bewegungslinien unterstreichen die Geschwindigkeit. 11–15s: Schneller Übergang – er kontrolliert den Ball, dreht seinen Körper und schaut sofort nach vorne. Die Teamkollegen beginnen in den freien Raum zu sprinten, während der Gegenangriff startet. Die Kamera nutzt schnelle seitliche Verfolgungsaufnahmen, schnelle Zooms und Speed Ramps, mit präzisen Anime-Bewegungen und intensiver Sport-Atmosphäre.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/240789d01133f0f6bfd7501e3c01dbdb/thumbnails/thumbnail.jpg" width="600" alt="Japanischer Sport-Anime Fußballspiel">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6051)**
-
-**Autor:** [としまる.nr.jp](https://x.com/oob4sod18) | **Quelle:** [Link](https://x.com/oob4sod18/status/2066109914733486315) | **Veröffentlicht:** Jun 14, 2026
-
----
-### Cinematic Football Vlog Influencer Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein umfassender Prompt zur Erstellung eines realistischen Fußball-Vlogs mit einem Argentinien-Fan, einschließlich Charakterkonsistenz, technischer Kameraeinstellungen und detaillierter Szenen-Anweisungen.
-
-#### 📝 Prompt
-
-```
-Erstelle ein 15-sekündiges, ultra-realistisches, cineastisches Influencer-UGC-Fußball-Vlog-Video. WICHTIGE IDENTITÄTSKONSISTENZ: Verwende das hochgeladene Bild als exakte Charakterreferenz. Behalte die identischen Gesichtszüge, Gesichtsform, Frisur, Körperproportionen, Hautton, Make-up und Identität in jeder Szene bei. CHARAKTER: Junge britische Fußball-Influencerin. Schlanke, athletische Statur. Definierte Kieferpartie. Hohe Wangenknochen. Langes dunkles Haar. Glamouröses Influencer-Make-up. Argentinien-Fan-Gesichtsbemalung. Argentinien-Fan-Cap. Outfit: Offizielles Argentinien-Heimtrikot, weiße Shorts, weiße Sneaker. Ein Stanley-Becher im Argentinien-Design wird während des gesamten Videos gehalten. VIDEOSTIL: Authentischer iPhone 14 Pro TikTok-Vlog-Realismus. Frontkamera-Selfie-Aufnahmen gemischt mit Stadionaufnahmen der Rückkamera. Natürliche Handkamera-Bewegungen. Mikro-Wackler. Bewegungsunschärfe. Autofokus-Pumpen. Rolling-Shutter-Effekt. HDR-Verarbeitung. 24 fps. 26-mm-Objektiväquivalent. AUDIO (SEHR WICHTIG): Die Stadionatmosphäre ist EXTREM laut. Fangesänge. Trommeln. Pfiffe. Singende Fans. Konstante Fußball-Stadion-Ambiente-Geräusche. Die Erstellerin muss absichtlich LAUT SPRECHEN und IHRE STIMME PROJIZIEREN wie ein echter Fußball-Vlogger, der versucht, sich gegen die Menge durchzusetzen. Ihre Stimme muss immer lauter als das Hintergrundgeräusch bleiben. Der Dialog muss energisch, klar, aufgeregt und leicht verständlich klingen. Kein Murmeln. Kein Flüstern. Kein leises Sprechen. Keine Erzählerstimme. Sie spricht direkt in das Telefonmikrofon aus nächster Nähe. Szene 1 (0–3s) — Vor dem Stadion: Front-Selfie vor einem vollbesetzten Fußballstadion in New York. Tausende Argentinien-Fans schwenken hinter ihr Flaggen. Sie hält die Argentinien-Stanley-Flasche in Richtung Kamera. Spricht LAUT in das Telefon: „Leute! Wir sind in New York für das Argentinien-Spiel!“ Fangesänge im Hintergrund. Szene 2 (3–6s) — Im Stadion: Front-Selfie von ihrem Sitzplatz aus. Das Spielfeld ist hinter ihr sichtbar. Sie muss ihre Stimme leicht über die Menge erheben. Sie sagt: „Hört euch diese Atmosphäre an! Es ist unglaublich!“ Szene 3 (6–9s) — Argentinien-Angriff: Rückkamera-Aufnahme. Argentinien greift auf das Tor an. Die Spannung der Menge steigt. Sie ruft hinter der Kamera: „Auf geht's Argentinien! Bleibt dran!“ Szene 4 (9–12s) — Große Chance: Die Rückkamera folgt dem Angriff. Fans erheben sich von ihren Sitzen. Die Lautstärke der Menge nimmt dramatisch zu. Sie schreit: „Schieß! Schieß!“ Szene 5 (12–15s) — Torjubel: Die Rückkamera fängt das Tor von Argentinien ein. Die Menge explodiert. Überall werden Flaggen geschwenkt. Die Kamera wackelt vor Aufregung. Schneller Schnitt zum Front-Selfie. Sie springt, lacht und schreit vor Begeisterung, während sie die Stanley-Flasche hält. Sie ruft klar: „TOOOOR! Ich fasse es nicht“
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fa1fb9d1ccdbfb2411f1d364329a6bc3/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Football Vlog Influencer Video">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6038)**
-
-**Autor:** [Jessica Collins](https://x.com/AIwithJessica) | **Quelle:** [Link](https://x.com/AIwithJessica/status/2066040197486424315) | **Veröffentlicht:** Jun 14, 2026
-
----
-### WM-Fußballfan-Meme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein humorvoller Multi-Szenen-Prompt für ein WM-Meme-Video, das die wechselnden Reaktionen eines Fans während eines Fußballspiels zeigt.
-
-#### 📝 Prompt
-
-```
-0–3 Sek.
-Freund schaut das Spiel mit ernster Miene 😎
-Dialog: „Bruder, vertrau mir, ich hab Ahnung von Fußball…“
-(Team kassiert sofort ein Gegentor 💀)
-4–6 Sek.
-Er wird plötzlich zum Trainer 🤓
-Dialog: „Siehst du? Schlechte Aufstellung. Das wusste ich schon vorher.“
-7–9 Sek.
-Spieler vergibt eine Großchance 😭
-Der Pseudo-Experte schreit den Fernseher an:
-„WECHSEL IHN AUS! SOGAR ICH HÄTTE DEN REINGEMACHT!“
-10–12 Sek.
-Team erzielt unerwartet ein Tor 🔥
-Der Pseudo-Experte wechselt sofort die Seite:
-„ICH HAB DIR DOCH GESAGT, DASS DIE GEWINNEN!“
-13–15 Sek.
-Freund fragt: „Seit wann schaust du eigentlich Fußball?“
-Er: „Seit… gestern.“ 😂
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2a66683743317fb35d02b87270811e05/thumbnails/thumbnail.jpg" width="600" alt="WM-Fußballfan-Meme">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6046)**
-
-**Autor:** [Sheikh Sharik 2.0](https://x.com/NoOneIsHere2603) | **Quelle:** [Link](https://x.com/NoOneIsHere2603/status/2066000322758418454) | **Veröffentlicht:** Jun 14, 2026
-
----
-### Morphing-Sequenz für Hautpflege-Werbespot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein surrealer Video-Prompt für eine Hautpflege-Werbung mit morphenden Flüssigkeiten und aufblühenden Blumen.
-
-#### 📝 Prompt
-
-```
-Eine surreale Morphing-Sequenz für einen Hautpflege-Werbespot. Es beginnt mit einer Makro-Nahaufnahme eines einzelnen, tränenförmigen Tropfens dickflüssiger, weißer Reinigungsmilch, der nach unten fällt. Er landet auf einer Oberfläche aus trockenen, rissigen, sechseckigen weißen Tonfliesen. In dem Moment, in dem der Tropfen aufprallt, verwandelt sich der trockene Boden augenblicklich in eine glatte, wirbelnde Pfütze aus weißer Flüssigkeit. Aus dieser milchigen Welle blüht und wächst rasant ein lebendiger Ring aus grünen Blättern und zarten weißen Jasminblüten. Die Kamera geht nahtlos in eine Nahaufnahme einer schönen jungen Frau mit makelloser, strahlender und hydratisierter Haut über. Ihre Augen sind voller Glück geschlossen, während weiße Jasminblüten und schwebende, durchscheinende Wassertropfen sanft im weichen, natürlichen Sonnenlicht um sie herum treiben. Die Szene geht schließlich in eine Produktaufnahme einer bernsteinfarbenen Glasflasche mit weißem Pumpspender über, auf der „Tammy Fender Holistic Skin Care Cleansing Milk“ steht und die auf einem rustikalen Steinsockel in einem verzauberten Garten voller weißer Blumen steht. Hyperrealistisch, 4K, flüssige filmische Übergänge, Zeitlupe.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f60a8d7d8a9f228ffed1495ebe62cac3/thumbnails/thumbnail.jpg" width="600" alt="Morphing-Sequenz für Hautpflege-Werbespot">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6047)**
-
-**Autor:** [Zyrella](https://x.com/Zyrellix) | **Quelle:** [Link](https://x.com/Zyrellix/status/2065996099257823356) | **Veröffentlicht:** Jun 14, 2026
-
----
-### Theatralische Anime-Action: Dienstmädchen-Kampf
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein hochdetaillierter theatralischer Anime-Action-Prompt für eine 15-sekündige Sequenz, in der ein pinkhaariges Dienstmädchen in einem mondbeschienenen gotischen Innenhof einen Schwertkampf bestreitet.
-
-#### 📝 Prompt
-
-```
-[Metadaten] 15 Sekunden, 128 BPM, Theatralische Anime-Action-Cinematik, Ultra-High-End 4K, filmische Beleuchtung, Raytracing, hochdetaillierter Hintergrund, dramatische Tiefenschärfe, übertriebene perspektivische Verkürzung, extreme Nahaufnahmen im Wechsel mit dramatischen Totalen, flüssige Schwertchoreografie, nahtlose Bewegungsabläufe beim Besiegen der Gegner, natürliche Anatomie, keine duplizierten Gliedmaßen, keine zusätzlichen Arme oder Beine. [Garderobe/Protagonistin] @[image1] : Identisches Charakterdesign beibehalten, pinkes Dienstmädchen mit Zöpfen, gleiche Gesichtsproportionen, gleiche Outfit-Materialien, gleiche Silhouette, gleicher Ausdrucksstil in allen Einstellungen. [Storyboard] Fließende, auf Schwertkampf basierende Sequenz zur Ausschaltung mehrerer Gegner. Ruhige, ausdruckslose Ausführung. Jeder Hieb geht ohne Unterbrechung direkt in die nächste Bewegung über. [Anatomische Regeln] Strikte menschliche Anatomie. Nur zwei Arme, zwei Beine. Natürliche Gewichtsverlagerung. Bewegungsunschärfe bildet niemals zusätzliche Gliedmaßen. Alle Schwertschwünge folgen realistischer Schulterrotation, Hüfteinsatz, Beinarbeit, Impuls und Erholung. [World Building] Mondbeschienener gotischer Anwesen-Distrikt. Weitläufiger steinerner Innenhof, umgeben von verzierten schwarzen Eisentoren, kathedralenartigen Bögen, hoch aufragenden, rosenbedeckten Mauern, silbernes Mondlicht, das durch wabernden Nebel bricht. Das Dienstmädchen wirkt in dieser aristokratischen Nachtwelt vollkommen zugehörig. [Gegner-Regeln] Mehrere maskierte Henker und gepanzerte Verfolger greifen aus allen Richtungen an. Unterschiedliche Körperbauweisen und Silhouetten. Gegner treten kontinuierlich von vorne, hinten, der Seite und aus erhöhten Positionen auf. [Angriffsvariationen] Hauptfokus: elegante Schwerttechniken. Ziehhiebe, aufsteigende Schnitte, Drehschläge, Übergänge in den Rückhandgriff, tiefe Feger, Ausweichkonter, fließende Umleitungen, schnelle Kettenangriffe. Jeder Gegner wird mit einer einzigartigen Schwertaktion besiegt. [Umgebung] Nasser, reflektierender Steinboden, treibende Blütenblätter, mondbeschienener Nebel, zerbrochene Marmorstatuen, gotische Säulen für geschichtete Tiefe, starke Konturlichter und volumetrische Mondstrahlen. [Stimmung] Kalte Konzentration. Kein Schreien. Keine Wut. Nur überwältigende Präzision. Die Protagonistin wirkt gelangweilt, während sie mühelos durch eine erdrückende Überzahl schneidet. [Musik] Tiefe Cello-Drones, tickende Perkussion, metallische Einschläge synchron zum Klingen-Kontakt, kurze Stille vor großen Schlägen, ansteigende Streicher zum Höhepunkt. [Farblogik] Schwarz-weißes Dienstmädchen-Outfit im Kontrast zu blass-pinkem Haar. Kühles silberblaues Mondlicht mit weichen Magenta-Highlights. Kontrastreiches filmisches Grading. [Kamera/Regie] Ständiger Wechsel zwischen extremer Nahaufnahme und Totaler. Aggressive Kamerabewegungen, dramatische Push-ins, Whip-Pans, Low-Angle-Heldenaufnahmen, Overhead-Tracking, rotierende Kameraübergänge. [Stil] Theatralischer Anime-Film, Action-Meisterwerk, ultra-detailliert, dynamischer Schwertkampf, filmisches Storyboard. Einstellung 1 (1,0s / Totale) Dutzende maskierte Verfolger umzingeln langsam das einsame Dienstmädchen im mondbeschienenen Innenhof. Die Kamera schwenkt von oben herab und enthüllt die erdrückende Umzingelung. Einstellung 2 (0,8s / Extreme Nahaufnahme) Halb geschlossenes Auge. Völlig unbeeindruckt. Ein schwacher Mondreflex gleitet über ihr
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eaf85131be56b240f363ea989123c7c9/thumbnails/thumbnail.jpg" width="600" alt="Theatralische Anime-Action: Dienstmädchen-Kampf">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6001)**
-
-**Autor:** [あぁく](https://x.com/kik0ai1jikake) | **Quelle:** [Link](https://x.com/kik0ai1jikake/status/2065972896510705775) | **Veröffentlicht:** Jun 14, 2026
-
----
-### Animation einer Pizzeria in Neapel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung einer filmreifen 12-sekündigen Animation einer Pizzeria in Neapel, mit dynamischen Kamerabewegungen und Nahaufnahmen des Kochprozesses.
-
-#### 📝 Prompt
-
-```
-Verwende @image1, um eine 12-sekündige filmreife Animation zu erstellen. 16:9. Pizzeria in einer Straße in Neapel. Holzofen, der durchgehend orange leuchtet. Die Kamera bewegt sich durch jede Einstellung – weite Eröffnung, Nahaufnahmen von Teig, Feuer, Soße, Mozzarella, Ofen, Basilikum, weite Aufnahme des Bisses auf der Straße. Schnelle, selbstbewusste Schnitte.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2065962714418028544/pu/img/MuCJ42vvKewqkynW.jpg" width="600" alt="Animation einer Pizzeria in Neapel">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6049)**
-
-**Autor:** [Kathleen D💫🧬](https://x.com/kathae909) | **Quelle:** [Link](https://x.com/kathae909/status/2065963425872695638) | **Veröffentlicht:** Jun 14, 2026
-
----
-### 80er-Jahre Retro-OVA ägyptische Götter-Animation
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein Animations-Prompt im Vintage-OVA-Stil der 80er-Jahre, der die ägyptischen Götter Anubis und Sobek bei einem komödiantischen Kraftwettbewerb in einem Königspalast zeigt.
-
-#### 📝 Prompt
-
-```
-Feine handgezeichnete Animation, 80er-Jahre Retro-OVA-Stil. Szene 1: Im Inneren eines ägyptischen Königspalastes stehen der mächtige Schakalgott Anubis und der mächtige Krokodilgott Sobek nebeneinander und heben gemeinsam einen riesigen Felsbrocken. Ihre Gesichtsausdrücke sind angespannt, während sie sich intensiv darauf konzentrieren, den Felsen über ihren Köpfen zu halten. Ein menschlicher Pharao geht langsam vor ihnen auf und ab, die Hände hinter dem Rücken, und beobachtet, wer den Felsbrocken länger halten kann. Der Pharao sagt: „Nur einer von euch kann mich auf meiner nächsten Mission begleiten – nur der Stärkste.“ Anubis und Sobek stehen einen Meter voneinander entfernt, der Pharao steht davor. Szene 2: Sobek hat plötzlich einen Geistesblitz, ein verschmitztes Lächeln erscheint auf seinem Gesicht. Er neigt den Kopf leicht in Richtung Anubis mit einem hinterlistigen Grinsen, während seine Schwanzspitze in Richtung von Anubis' Achselhöhle wandert. Anubis schaut weiterhin starr nach vorne, ignoriert alles um sich herum und konzentriert sich nur darauf, den Felsbrocken zu halten. Szene 3: Eine Nahaufnahme zeigt, wie Sobeks Schwanzspitze sanft und geschmeidig über Anubis' Achselhöhle streicht. Im Hintergrund ist Anubis' unterdrücktes Lachen zu hören, was darauf hindeutet, dass er sehr kitzelig ist. Szene 4: Eine Nahaufnahme zeigt Anubis' Oberkörper, während Sobeks Schwanzspitze weiterhin seine Achselhöhle kitzelt. Anubis hat die Augen geschlossen, grinst und stößt unterdrücktes Lachen aus, während er sein Bestes gibt, den Felsbrocken oben zu halten. Szene 5: Sobeks Schwanz kitzelt weiterhin Anubis' Achselhöhle; Anubis schließt die Augen und lacht laut auf. Das Kitzeln hält an, Anubis bricht in schallendes Gelächter aus, lässt den Felsbrocken hinter sich fallen und umarmt sich selbst, als das Gefühl aufhört. Anubis fällt zu Boden und hält sich immer noch vor Lachen den Bauch. Sobek hält den Felsbrocken immer noch über seinem Kopf und blickt zufrieden zu. Szene 6: Der Pharao nickt Sobek zu und sagt: „Es scheint, als wärst du der Richtige.“ Anubis liegt immer noch kichernd am Boden. Sowohl Sobek als auch Anubis sind muskulös und tragen Armbänder. Anubis trägt zudem ein Halsband. Ihre Stimmen sind tief und kraftvoll. Der Ton ist auf Englisch.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3fee9d08beb5cb3ab2ef3224d54bbcc/thumbnails/thumbnail.jpg" width="600" alt="80er-Jahre Retro-OVA ägyptische Götter-Animation">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6011)**
-
-**Autor:** [migrok](https://x.com/migrok293703) | **Quelle:** [Link](https://x.com/migrok293703/status/2065932892753326503) | **Veröffentlicht:** Jun 13, 2026
-
----
-### Storyboard-Video für einen Senioren-Trot-Tanz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Generierungs-Prompt für Seedance 2.0, der ein 16-teiliges Storyboard und ein Character Sheet verwendet, um eine konsistente 15-sekündige Animation einer fröhlichen Seniorin beim Tanzen zu erstellen.
-
-#### 📝 Prompt
-
-```
-Erstelle ein fröhliches 15-sekündiges Video eines Senioren-Trot-Tanzes basierend auf dem 16-teiligen Storyboard und dem Character Sheet. Behalte die gleiche lebensfrohe 70-jährige koreanische Großmutter bei, mit dem gleichen kurzen, sanft gelockten grauen Haar, warmen Lächeln, natürlichen Falten, Körperproportionen, Outfit, Schuhen und Accessoires während des gesamten Videos. Sie trägt ein lockeres beiges Midi-Kleid aus Leinen mit abstrakten Pinselstrich-Mustern in Schwarz, Marineblau, Olivgrün und kleinen roten Akzenten, kurzen Ärmeln, einer entspannten A-Linien-Silhouette, einer langen Anhängerkette, einem schlichten Armband, hellen Socken und bequemen braunen flachen Schuhen. Szene: minimalistisches, helles Innenstudio, warme beige Wand, sauberer Boden, weiches natürliches Licht, kleine Pflanze auf einem weißen Beistelltisch im Hintergrund. Folge dem Storyboard in der richtigen Reihenfolge und halte die Choreografie dynamisch, aber seniorengerecht: kraftvoller Auftakt, Hereinschritt, Seitwärtsschwung, Zeigen nach oben, leichter Trot-Bounce, Schulterpose bei halber Drehung, großer Armschwung, sanfte Drehung, kleiner Kick nach vorne, Zurücklehnen mit Welle, kleiner Sprungakzent, tiefe Bounce-Pose, selbstbewusste Faust-Pose, große feierliche Öffnung, Akzent mit hohem Bein, abschließende Finger-Herz-Pose. Die Bewegung sollte fröhlich, rhythmisch und wie ein einfacher Trot-Tanz wirken, 4/4-Takt, ca. 105 BPM, helle Großmutter-Energie — kein zufälliges Schütteln, keine wiederholten Posen, nicht akrobatisch, nicht zu schnell.
-```
-
-<img src="https://cms-assets.youmind.com/media/1781422607822_dzasc7_HKuobjVa0AAgZnn.jpg" width="600" alt="Storyboard-Video für einen Senioren-Trot-Tanz">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6025)**
-
-**Autor:** [노드 팔라딘 | Node Paladin](https://x.com/NodePaladin) | **Quelle:** [Link](https://x.com/NodePaladin/status/2065930257023259121) | **Veröffentlicht:** Jun 13, 2026
-
----
-### Flucht aus dem Alien-Eis-Canyon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Action-Prompt für eine Hochgeschwindigkeits-Durchquerung eines einstürzenden Alien-Eis-Canyons, mit Fokus auf Überlebenskampf und filmische Spannung.
-
-#### 📝 Prompt
-
-```
-Alien-Eis-Canyon: Eine Hochgeschwindigkeits-Durchquerung wird zum Überlebenskampf, als die Umgebung um den Pfad herum einzustürzen beginnt. 
-Weite Luftaufnahme: Enger Canyon, ein Raumschiff fliegt schnell zwischen hoch aufragenden Eiswänden hindurch. 
-Erster Riss: Ein feiner Riss breitet sich an einer Seite aus. 
-Bruch: Eine massive Eisplatte löst sich und kracht auf den Pfad voraus. 
-Aggressives Abtauchen: Der Pilot geht tiefer und fliegt knapp über dem Boden, um herabfallenden Trümmern auszuweichen. 
-Kettenreaktion: Beide Seiten beginnen zu brechen, der Canyon verengt sich in Echtzeit. 
-Knappe Sache: Eisspitzen krachen nur Zentimeter hinter dem Schiff herunter. 
-Blinde Kurve: Der Pfad biegt scharf ab, die Sicht ist durch fallenden Schnee und Trümmer versperrt. 
-Beinahe-Aufprall: Das Schiff streift das Eis, die Flugbahn wird instabil. 
-Erholung: Schnelle Korrektur, die Kontrolle wird gerade noch zurückgewonnen. 
-Letzte Flucht: Das Schiff bricht hervor, während sich der Canyon hinter ihm verschließt. 
-Schnell, bodennah, extrem greifbare Gefahr.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e91a276c19c4ef85e9ae0dcdfc76a95e/thumbnails/thumbnail.jpg" width="600" alt="Flucht aus dem Alien-Eis-Canyon">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=6015)**
-
-**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Quelle:** [Link](https://x.com/AllaAisling/status/2065929257482596375) | **Veröffentlicht:** Jun 13, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -3849,6 +4081,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-19T04:35:45.323Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-19T12:25:13.559Z</sub>
 
 </div>
