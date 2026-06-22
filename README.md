@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **4075** |
+| 📝 Total Prompts | **4096** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-06-22** |
 
@@ -365,11 +365,590 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Ethereal Sand Woman Dragon Transformation
+### Majestic Glowing Fantasy Cloud Whale
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for Seedance 2.0 featuring an ethereal woman made of sand who transforms into a mystical dragon amidst a cosmic background.
+> An epic fantasy prompt for a cinematic video of a bioluminescent whale floating through storm clouds at sunrise with cosmic typography.
+
+#### 📝 Prompt
+
+```
+A gigantic glowing whale swims slowly through storm clouds above mountain peaks. The sun rises behind the creature, illuminating its translucent body in gold and blue. Tiny airships follow beside it. The title “MORNING” appears across the clouds in epic cosmic serif typography. Majestic cinematic fantasy, emotional scale.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2068952124948422656/pu/img/LPWWCZ3WXpZq2svC.jpg" width="600" alt="Majestic Glowing Fantasy Cloud Whale">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6296)**
+
+**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2068952150516892083) | **Published:** Jun 22, 2026
+
+---
+### Wuxia Swordsman Duel Sequence
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A high-octane cinematic action prompt for Seedance 2.0 featuring a duel between a Chinese and a Japanese female swordsman with detailed camera directions and timing.
+
+#### 📝 Prompt
+
+```
+[Style] Wuxia Action Film, Photorealistic, IMAX quality, 8K ultra-clear, Ramp-mo (fast/slow speed switching), sharp editing style, 2 characters appearing.\n\n[Duration] 15 seconds\n\n[Scene] An open stone plaza outdoors with backlit sunset, scattered broken pillars, shallow water on the ground, orange-red sunset sky, breeze swirling dry leaves.\n\n[Characters] Chinese Swordsman @Image1 (East Asian female with long dark brown hair and bangs, wearing an off-white knit cardigan with navy blue striped cuffs, beige camisole, brown plaid skirt, black stockings, loafers, holding a Chinese ring-pommel saber in her right hand); Japanese Swordsman @Image2 (East Asian female with pink curly pigtails, wearing a pink cherry-blossom kimono, dark red wide sash with gold knot, holding a Japanese katana with both hands).\n\n[00:00-00:03] Shot 1: Silent Standoff — Extreme Close-up\n\nCross Cut: Close-up of Chinese swordsman's eyes—pupils contract, eyelashes tremble; cut to Japanese swordsman's eyes—sharp gaze, mouth set.\n\nLow-angle Close-up: Chinese swordsman grips hilt tightly, knuckles turning white; cut to Japanese swordsman slowly raising katana to shoulder, kimono sleeves hanging.\n\nWide: They stand five paces apart, backlit silhouettes, a leaf falls—at the moment it touches ground, both rush out, puddles splashing.\n\n[00:03-00:07] Shot 2: First Clash · Rapid Blitz — Steadicam Tracking\n\nArc Shot 180°: Chinese swordsman rushes in, saber slashes upward from the right, blade cutting air; Japanese swordsman sidesteps and blocks vertically, blades clashing with practical sparks, hair blown back by impact.\n\nQuick Cut: Japanese swordsman uses momentum to spin, katana sweeping horizontally; Chinese swordsman leans back to evade, blade tip grazing bangs.\n\nMid: Chinese swordsman counters immediately, parrying upward, blades clashing again, sparks and water droplets splashing before the lens.\n\n[00:07-00:11] Shot 3: Escalation — Slow-mo to Ramp\n\nSuper Slow-mo: Japanese swordsman leaps high, kimono hem spreading like an umbrella, katana raised for a downward strike.\n\nSpeed Ramp: Chinese swordsman kneels, saber held horizontally overhead to catch the strike—huge force cracks the stone floor, water blasted into a ring wall.\n\nClose-up: Chinese swordsman looks up through the blade lock, eyes turning fierce, teeth clenched as she pushes the katana away.\n\n[00:11-00:15] Shot 4: Final Rush — Freeze Frame\n\nWide/High-speed: Both retreat three steps to gather power, Chinese swordsman holds saber in reverse grip at waist, Japanese swordsman holds katana at shoulder in Iaijutsu stance.\n\nSymmetrical Shot: Both rush each other, cardigan and kimono sleeves fluttering wildly, water underfoot making parallel waves.\n\nFreeze Frame: A sudden stop at the moment they cross—Chinese swordsman's blade past the other's side, Japanese swordsman's katana passed by. Shattered droplets and sparks suspended, backlit in gold. Sunset light pierces through their bodies, clothing and hair frozen in wind.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068918881180114945/img/mgYOX9vdkaiOo3iU.jpg" width="600" alt="Wuxia Swordsman Duel Sequence">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6312)**
+
+**Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2068919415442116922) | **Published:** Jun 22, 2026
+
+---
+### Viking Berserker Village Rampage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A visceral action prompt for a single continuous tracking shot of a Viking berserker's rampage through a muddy village, featuring cinematic physics and realistic destruction.
+
+#### 📝 Prompt
+
+```
+[STYLE + CAMERA + ATMOSPHERE]
+Brutal 2026 Viking action cinema with hyper-realistic grounded fight choreography and heavy physics. Single continuous dynamic tracking shot following a massive fat berserker as he rampages through a Viking village, systematically taking down villagers with brutal force and his axe until he reaches his longhouse, discovers his wife's betrayal and explodes in full berserk rage. Anamorphic lens, subtle film grain, cold northern daylight, intense motion blur, stabilized professional handheld camera.
+
+[IMAGE REFERENCES]
+Generate consistent character: late-30s massive fat but powerfully built Viking berserker, long wild hair and thick beard, intense wild eyes, covered in Norse tattoos and scars, heavy belly but thick muscular arms. Wears dirty fur cloak over bare scarred chest, leather pants, heavy boots and carries a large blood-stained axe. Exact same appearance, body type, clothing and weapon throughout.
+
+[TIMELINE SECOND BY SECOND]
+0-4s: [Continuous Dynamic Tracking Shot] Camera tracks backward through the muddy village center as the berserker advances with growing rage. Several villagers try to stop him; he swings his heavy axe in brutal arcs, cleaving one and throwing another into a longhouse wall with raw power. Heavy impacts, bodies reacting with realistic weight. Camera tight on his massive frame.
+
+4-8s: [Continuous Dynamic Tracking Shot with subtle lateral orbit] Pushes deeper between longhouses. Uses his massive size to bull-rush and crush one against a post, then delivers devastating axe strikes. Fabric, fur and blood move realistically. Growing intensity. Camera orbits slightly while tracking his advance.
+
+8-12s: [Continuous Dynamic Tracking Shot - Building Rage] Approaches his longhouse area, smashing through a door with his body and axe, throws a villager into a fire pit. His movements become more unhinged. Camera tracks forward as destruction builds.
+
+12-15s: [Continuous Dynamic Tracking Shot - Berserk Explosion] Reaches his longhouse and sees his wife with another man. Full berserk rage erupts. He charges with animalistic fury, axe swinging in devastating blows. Camera stays locked on the explosion of violence as he advances, then slowly pulls back revealing the trail of carnage through the village. Seamless continuous take, peak visceral energy.
+
+[STYLE & QUALITY BOOSTERS]
+Photorealistic 8K, ultra-detailed skin, fabric, fur, wood and blood textures with realistic sweat, dirt and impact, perfect coherent physics on all strikes, throws, body impacts and environmental destruction, flawless motion blur, stable character consistency, no artifacts, professional blockbuster film look, high dynamic range, intense visceral action, cold northern color palette.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068833978996387840/img/1cQxAVG9tkD-iZqU.jpg" width="600" alt="Viking Berserker Village Rampage">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6302)**
+
+**Author:** [TechHalla](https://x.com/techhalla) | **Source:** [Link](https://x.com/techhalla/status/2068834853894664445) | **Published:** Jun 21, 2026
+
+---
+### Jungle Supply Convoy Snake Ambush
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed action-oriented video prompt for a cinematic sequence showing a giant python attacking an army truck convoy in a muddy rainforest, complete with specific shot directions and sound cues.
+
+#### 📝 Prompt
+
+```
+A muddy dirt track through thick green rainforest in grey daylight. An army supply convoy of trucks drives along the narrow track, jungle pressing in on both sides. A giant python, thick as a bus with dark green scales, has wrapped around the last truck and is dragging it backward into the trees. At the front, a gunner stands at a mounted gun on the lead gun-truck. Sound: roaring engines, groaning metal, soldiers shouting, snake hissing, rifle fire, radio voices.
+
+Shot 1 (0–3s) — THE HOOK: Low rear shot in the mud. The giant python squeezes the last truck and hauls it backward off the track into the trees, wheels sliding in the mud. Soldiers on the truck fire their rifles into the thick coils, but the bullets do nothing. The rear driver wrestles his wheel and shouts into his radio: “IT’S PULLING ME INTO THE TREES!”
+
+Shot 2 (3–6s): At the front of the convoy. The gunner swings his mounted gun around to point back down the line, but holds his fire — the snake is wrapped on the truck with men still on it. He calls on the radio: “Cut your trailer! Get it on the track!”
+
+Shot 3 (6–9s): At the rear truck. The driver pulls the trailer release. The truck breaks free and lurches forward onto the track — and the python, still wrapped around the heavy trailer, is yanked out of the trees with it, spilling onto the open muddy track, rearing its head up in the clear.
+
+Shot 4 (9–13s) — BIG SLOW-MOTION MOMENT: The snake is out in the open on the track now. The lead gunner opens fire. Bullet time — a long stream of heavy rounds flies down the line in slow motion, smoke and shell cases hanging in the air, tearing into the coiled python, mud and broken branches bursting up around it.
+
+Shot 5 (13–15s): Time snaps back. The python drops and lies still across the muddy track beside the wrecked trailer, smoke rising off it. The freed rear truck pulls up the line to the others, soldiers climbing down into the mud. Smoke drifts through the trees. Cut.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068816232544096256/img/M-3J9tn8TMPqfST6.jpg" width="600" alt="Jungle Supply Convoy Snake Ambush">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6299)**
+
+**Author:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2068816301150372209) | **Published:** Jun 21, 2026
+
+---
+### FPV Drone Fantasy Kingdom Flight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An immersive FPV drone flight through a sci-fi fantasy kingdom, starting from a cliff and diving into a valley with waterfalls and glowing city lights.
+
+#### 📝 Prompt
+
+```
+FPV drone flight based on the camera path in the reference image. Use @[image_1] as the visual reference for the fantasy sci-fi kingdom, the cloaked warrior, the cliff, the distant glowing city, and the central crystalline tower. The cloaked warrior remains completely stationary on the rocky cliff throughout the video. He does not fly, jump, walk, or move with the camera. Only the FPV drone camera moves. Start beside the cloaked warrior on the rocky cliff, very close to his right side, with the drone already moving forward past him. The camera passes the warrior from the side and immediately dives downward over the cliff edge into the misty valley. Keep the warrior behind on the cliff as the drone leaves him and flies away. The drone descends through clouds and mist, then accelerates forward above waterfalls, bridges, glowing city lights, floating rocks, and deep mountain valleys. Continue toward the distant illuminated kingdom with strong FPV energy, natural speed ramps, immersive motion, and realistic camera momentum. The camera follows a smooth flowing S-shaped route over the city rooftops, then climbs upward along the massive central crystalline tower. Wrap around the tower in a cinematic spiral, rising toward the glowing summit. At the top, the drone curves around the structure and turns back toward the entire city, ending on a wide heroic view of the glowing kingdom, mountains, sunset clouds, mist, blue energy beams, and floating structures. Style: epic cinematic fantasy sci-fi, dark storm clouds, orange sunset glow, cold blue energy lights, volumetric mist, high detail, realistic FPV drone movement, immersive travel film feeling, smooth motion blur, cinematic depth. Mandatory: do not show any red route line, neon path, start marker, end marker, arrows, text, graphics, UI elements, labels, overlays, or guide lines in the final video. The red line in the reference image is only for camera path guidance. The character must not fly or follow the camera. 16:9 aspect ratio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068779452432338944/img/J65Fd2_Y8kCZ8ndy.jpg" width="600" alt="FPV Drone Fantasy Kingdom Flight">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6307)**
+
+**Author:** [Iqra Saifi](https://x.com/IqraSaifiii) | **Source:** [Link](https://x.com/IqraSaifiii/status/2068780359333130389) | **Published:** Jun 21, 2026
+
+---
+### Ice Mammoth City Glacier Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic Seedance 2.0 prompt creating a massive ice mammoth that emerges from a blizzard to freeze and smash a modern mountain city into glittering fragments.
+
+#### 📝 Prompt
+
+```
+A colossal ice mammoth with crystalline tusks, armored frozen plates, glowing pale-blue eyes, thick fur coated in frost, breath forming blizzard clouds with every exhale
+- Emerges from a supernatural snowstorm rolling into a mountain city, visibility dropping to near zero, camera pushes through whiteout conditions before revealing its tusks cutting through fog; 
+- Charges down the main avenue, each footstep freezing streets instantly, tusks smashing buses and buildings into glittering ice fragments, soldiers firing but their weapons frost over mid-shot, camera tracks beside the charge then whips upward as entire towers freeze and crack apart; 
+- Slams both tusks into the city square, releasing a circular freezing shockwave that races through streets and locks everything into solid ice, ending with a silent crane pullback over the frozen ruins as the mammoth raises its trunk and roars into the blizzard
+- Bright winter daylight, ice particle VFX, crystalline explosions, volumetric snow, cold blue lighting, epic frozen apocalypse.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2068710547344797696/pu/img/VNMPfiSU5BTYL6oX.jpg" width="600" alt="Ice Mammoth City Glacier Transformation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6300)**
+
+**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2068710571143254435) | **Published:** Jun 21, 2026
+
+---
+### Pixar Style F1 Pit Lane
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A stylized Pixar-inspired cinematic scene of a Formula 1 pit lane featuring a chief mechanic performing high-speed tire changes.
+
+#### 📝 Prompt
+
+```
+Stylized Pixar-inspired animated cinematic scene inside a Formula 1 pit lane moments before the race, legendary chief mechanic performing impossible tire changes with breathtaking speed while giving calm instructions, exhausted rookie mechanic dropping tools in disbelief, floodlights reflecting across polished race cars and wet asphalt, dynamic camera movement, exaggerated cartoon proportions, expressive facial animation, cinematic energy, realistic sparks and smoke, polished 3D rendering, immersive motorsport atmosphere, blockbuster animated movie quality, 16:9.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2068516384976338944/pu/img/zJRlvr59-A7p9Mo5.jpg" width="600" alt="Pixar Style F1 Pit Lane">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6308)**
+
+**Author:** [Zephyra Leigh](https://x.com/ZephyraLeigh) | **Source:** [Link](https://x.com/ZephyraLeigh/status/2068706218106089794) | **Published:** Jun 21, 2026
+
+---
+### Monochrome Text City Surreal Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal monochrome art-film prompt where city buildings are covered in handwritten text that detaches and transforms into weather phenomena like lightning and birds.
+
+#### 📝 Prompt
+
+```
+A vast monochrome city under a blank white sky. Every building facade is covered with handwritten words in black ink poems, warnings, names, unfinished sentences. The streets are empty except for loose paper drifting across the pavement.
+
+Opening frame: the camera glides down a silent boulevard between towering buildings covered in text. The ink moves slightly, as if breathing.
+
+At the 2-second mark, one word detaches from a wall.
+
+It floats into the air and becomes a cloud.
+
+Then thousands of words peel away from buildings, rising into the sky. Some become rain, some become birds, some become lightning, some become black snow. Sentences unravel into long ribbon storms that whip through the streets.
+
+The camera follows a single phrase as it transforms into a tornado of letters, pulling street signs, papers, and window reflections into its spiral.
+
+VFX escalation: the weather becomes linguistic. Rain falls as tiny punctuation marks. Thunder appears as giant words flashing across the sky. Fog forms from erased sentences.
+
+Velocity ramp: a lightning bolt made of handwritten text strikes the street , individual letters suspended in mid-impact, glowing white against the monochrome city.
+
+Final moment: all text vanishes from the buildings, leaving the city completely blank. A single new word appears on the ground beneath the camera: REMEMBER.
+
+Experimental typographic surrealism, monochrome art-film aesthetic, ink particle simulation, atmospheric word-weather VFX, cinematic minimalism, 4K.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2068695495904559104/pu/img/uBlNfVt6D2oVDKGr.jpg" width="600" alt="Monochrome Text City Surreal Transformation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6301)**
+
+**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2068695526749458628) | **Published:** Jun 21, 2026
+
+---
+### Cyberpunk Anime Motorcycle Battle Scene
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> An action-focused prompt for Seedance 2.0 to generate a cinematic cyberpunk anime sequence featuring a motorcycle chase and battle against cyborgs on a highway.
+
+#### 📝 Prompt
+
+```
+Style: Japanese anime with a high frame count. Anime film using action movie techniques. Action scene.
+Worldview: The character from Image 1 rides the motorcycle from Image 3 and fights a group of cyborgs from Image 2 on a cyberpunk-style highway.
+```
+
+<img src="https://cms-assets.youmind.com/media/1782115002987_brimys_HLV4hqJb0AAh78D.jpg" width="600" alt="Cyberpunk Anime Motorcycle Battle Scene">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6316)**
+
+**Author:** [とすくん](https://x.com/tokyo_Valentine) | **Source:** [Link](https://x.com/tokyo_Valentine/status/2068693040458539221) | **Published:** Jun 21, 2026
+
+---
+### 3D Pixar Style Miniature Girl Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for a 3D animation featuring a miniature girl performing acrobatic stunts on makeup items in a Pixar-inspired style.
+
+#### 📝 Prompt
+
+```
+A high-quality 3D animation in a whimsical, stylized Pixar-like aesthetic. A tiny, cute miniature girl with long brown hair, wearing a soft pink off-shoulder sweater and beige sweatpants, is performing acrobatic moves on top of a giant luxury makeup train case. The environment is filled with oversized cosmetic items like lipsticks, eyeshadow palettes, and makeup brushes. The girl jumps between items, dances, and surfs on a makeup brush through a cloud of colorful cosmetic powder. In the final scene, she stops to take a selfie with her tiny smartphone. Smooth motion, vibrant colors, cinematic lighting, highly detailed 3D rendering.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2068678638892195840/pu/img/bsSSdUV8orghOhML.jpg" width="600" alt="3D Pixar Style Miniature Girl Animation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6304)**
+
+**Author:** [Avelyrah](https://x.com/AvelyrahnAI) | **Source:** [Link](https://x.com/AvelyrahnAI/status/2068678689944949089) | **Published:** Jun 21, 2026
+
+---
+### The Umbrella: Romantic City Night
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An ultra-realistic cinematic short film prompt about a chance encounter under an umbrella on a rainy city night.
+
+#### 📝 Prompt
+
+```
+"The Umbrella" Style: Ultra-realistic cinematic short film, romantic atmosphere, rainy city night, warm streetlights, soft bokeh, realistic rain simulation, natural acting, shallow depth of field, Hollywood-quality cinematography, 4K HDR. Character Consistency: Same young woman throughout the video, mid-20s, shoulder-length dark hair, beige trench coat, black shoulder bag. Same young man throughout, mid-20s, dark hair, dark coat, carrying a black umbrella, warm and friendly expression. 0–5 Seconds A heavy nighttime rain pours onto a city street illuminated by warm street lamps and blurred car lights. A young woman stands alone at a bus stop without an umbrella, her hair and trench coat soaked. She hugs herself to stay warm and looks down sadly. Raindrops splash on the pavement, creating beautiful reflections. Cinematic close-up with a slow push-in camera movement. 5–10 Seconds A young man walks by holding a large black umbrella. He notices the woman, pauses, smiles gently, and silently steps closer, offering her half of the umbrella. She looks up in surprise, then smiles appreciatively. Rain continues falling softly around them. Medium shot with warm streetlight glow and shallow depth of field. 10–15 Seconds The two walk side by side under the umbrella along the rain-soaked street, laughing naturally as they talk. Streetlights reflect beautifully on the wet pavement. The camera slowly tracks behind them as they disappear into the distance together. Final Subtitle (14–15s): "Sometimes, the smallest kindness changes everything."
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2068659049944465408/pu/img/iSbUujnHXz71gIYz.jpg" width="600" alt="The Umbrella: Romantic City Night">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6309)**
+
+**Author:** [Ai Doctor](https://x.com/DoctorAmna11) | **Source:** [Link](https://x.com/DoctorAmna11/status/2068670730708152676) | **Published:** Jun 21, 2026
+
+---
+### Asian Female Soccer Player Sports Ad
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed sports advertisement video prompt for Seedance 2.0 featuring a young Asian girl playing soccer with a professional cinematic quality.
+
+#### 📝 Prompt
+
+```
+[Total Video Duration: 15 seconds]
+Refer to the six-grid storyboard for a continuous narrative.
+18-year-old Asian female soccer player, high ponytail, white No. 7 jersey, blue shorts, sunny and healthy, full of youth, professional soccer stadium environment, cinematic sports advertisement quality.
+[0-2 seconds]
+Low-angle tracking shot.
+The girl sprints forward at high speed while dribbling the ball.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068666011541438464/img/tbybpmyWt3TpymAi.jpg" width="600" alt="Asian Female Soccer Player Sports Ad">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6313)**
+
+**Author:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2068666134350717011) | **Published:** Jun 21, 2026
+
+---
+### Historically Accurate Julius Caesar Selfie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating an Instagram-style selfie video featuring Julius Caesar in a historically accurate Roman setting.
+
+#### 📝 Prompt
+
+```
+an instagram reel of julius cesar from selfie perspective in an ancient roman palace, use a historically accurate version of Julius Cesar's face
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068537620649418752/img/UJnxBy7s2zzKjEaX.jpg" width="600" alt="Historically Accurate Julius Caesar Selfie">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6297)**
+
+**Author:** [Mark Gadala-Maria](https://x.com/markgadala) | **Source:** [Link](https://x.com/markgadala/status/2068656928687792415) | **Published:** Jun 21, 2026
+
+---
+### South Asian Woman Dancing in Void
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of a young South Asian woman performing a slow, graceful dance within a fantastical dark void with drifting light streaks.
+
+#### 📝 Prompt
+
+```
+A captivating young south asian woman (Image), wearing a (OutfitIMG), stands in a fantastical void with cinematic streaks of light drifting by. [0-3s: She begins to dance slowly and gracefully, her body swaying lithely.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068651576944996352/img/0085ijwnFCaCcjN-.jpg" width="600" alt="South Asian Woman Dancing in Void">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6306)**
+
+**Author:** [Ayushi Anand](https://x.com/iamayushianand) | **Source:** [Link](https://x.com/iamayushianand/status/2068651638873837710) | **Published:** Jun 21, 2026
+
+---
+### 15-Second UGC Makeup Tutorial Script
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A storyboard prompt for a fast-paced, viral-style user-generated content makeup tutorial video.
+
+#### 📝 Prompt
+
+```
+“15-Second UGC Makeup Tutorial Script (Natural, Fast-Paced, Viral Style)
+
+0.0 – 1.5s | Hook (Front Camera, natural light)
+“Stop scrolling— a girl without makeup "
+
+1.5 – 4.0s | Base (Close-up cuts)
+“Start with a lightweight moisturizer… then a skin tint, just dab and blend with fingers.”
+
+4.0 – 7.0s | Face (Fast transitions)
+“Cream blush on cheeks and nose—this gives that soft, fresh girl look instantly.”
+
+7.0 – 10.0s | Eyes + Brows (Quick mirror shots)
+“Brush brows up, add a tiny bit of mascara… no heavy eyes, just clean and lifted.”
+
+10.0 – 12.5s | Lips (Close-up)
+“Lip tint or gloss—blur it slightly with fingers for that natural stain effect.”
+
+12.5 – 15s | Final Reveal (Smile, camera pull-back)
+“And that’s it—everyday glow in seconds. Save this if you love easy makeup, party look"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068642806277783552/img/1acahWYt1oxH67Dp.jpg" width="600" alt="15-Second UGC Makeup Tutorial Script">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6305)**
+
+**Author:** [Ai Girllie](https://x.com/Inshrah_ali_) | **Source:** [Link](https://x.com/Inshrah_ali_/status/2068644113852076476) | **Published:** Jun 21, 2026
+
+---
+### First Person POV Maid Cafe Interaction
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A comprehensive cinematic video prompt for a maid cafe scenario, focusing on emotional engagement, character consistency, and first-person POV immersion.
+
+#### 📝 Prompt
+
+```
+Style: 8K cinematic texture, live-action (non-gaming feel). First-person POV—camera is the guest perspective, slight handheld breathing effect, shallow depth of field, she is always close to the camera, making eye contact with 'you'. Warm indoor lighting, skin with pore-level realism, moist eyes with highlights, 24fps, 16:9. Audio: Ambient cafe white noise, her lines and giggles, clothing friction, no music or subtitles.\n\nSUBJECT —— @ (100% consistent with input image): Tsundere yet gentle cute maid, pink lenses in round frames, brown braids, black and white maid dress + white apron, white over-the-knee socks, black Mary Jane platform heels. First-person 'emotional companionship'—giving all attention to the person behind the camera, healing, pampered, and focused atmosphere. Emotional beats: Gentle greeting → Concerned/pity → Praising/acting cute → Doting freeze frame.\n\nLOCATION —— Cozy maid cafe corner booth, warm yellow lights, blurred bar and flowers, STYLE REFERENCE ONLY, world is freely extendable.\n\nACTION —— She faces the camera (you) the entire time, eyes always looking into the lens as if you are the only important person.\n\nSHOT 1 (0:00–0:04) —— She sits across from you/leans in slightly, hands on chin, eyes smiling, softly: 'You're back~ I've been waiting for you, Master.'\n\nSHOT 2 (0:04–0:08) —— Expression turns to concern, leans forward closer to the lens, tilts head to look at you: 'Are you... exhausted again today? It's okay, you don't have to think about anything here.'\n\nSHOT 3 (0:08–0:12) —— She smiles with squinted eyes, reaches one hand toward the camera as if to pat your head/touch your cheek (hand in frame, not covering face), dotingly: 'You've done so well, I've noticed, good boy.'\n\nSHOT 4 (0:12–0:15) —— Tsundere-ly turns away then can't help turning back, blushing, soft whining: 'Just... only for today, staying with you a bit longer is fine.' Freeze on her smiling eyes.\n\nCAMERA —— First-person fixed at guest's sitting height, sitting across from her, slight handheld breathing shake; eye-level at her face throughout, no third-person cuts, 'you' don't appear. Shot 3 as she reaches out, camera tilts back slightly as if touched.\n\nSTYLE —— Warm yellow lights + warm wood booth 60% / Black and white maid dress 30% / Pink lenses + blushing cheeks + eye light 10%. White balance 4800K warm tone, soft focus.\n\nCONSTRAINTS —— 16:9, normal speed, no slow motion. Strict first-person POV, camera is your eyes, do not show yourself, no bystander perspective. Consistent interaction with the lens. Hands in frame react to gravity. Healthy and cozy, no ambiguity. Face/hair/clothing 100% consistent. No watermarks. No glowing eyes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068623081904447488/img/z9w_tuQsR7hiZ5Iy.jpg" width="600" alt="First Person POV Maid Cafe Interaction">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6311)**
+
+**Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2068623344790847948) | **Published:** Jun 21, 2026
+
+---
+### Character Dialogue Storyboard
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A multi-cut dialogue script using character references and a storyboard to animate a conversation about scene continuity.
+
+#### 📝 Prompt
+
+```
+Assign Image 1 as A, Image 2 as B, and Image 3 as the storyboard. Please create the following scenes.
+
+Cut 1: A: 'Hey, Leon.'
+
+Cut 2: B: 'What is it, Gald?'
+
+Cut 3: A: 'It's a bit hard to say...'
+
+Cut 4: A: 'Isn't it weird that this scene is the first appearance?'
+B: 'Right?'
+
+Cut 5: A: 'Wanna go get some ramen?'
+
+Cut 6: A: 'I know a good place.'
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068579641959522304/img/NDsr9F_9Gnf8F5EN.jpg" width="600" alt="Character Dialogue Storyboard">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6315)**
+
+**Author:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc) | **Source:** [Link](https://x.com/z933TfmXkaISSVc/status/2068579708799758349) | **Published:** Jun 21, 2026
+
+---
+### Pixar-Style Noodle City Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A massive multi-scene cinematic prompt that creates a Pixar-quality animation of a fantasy noodle city, featuring a flavor crisis event and a heroic chicken superhero transformation.
+
+#### 📝 Prompt
+
+```
+Style: Pixar-quality CGI animation, DreamWorks-level character acting, ultra-detailed food textures, cinematic advertising, volumetric lighting, golden-hour atmosphere, premium commercial quality, dynamic camera movement, expressive animation, rich color grading, 16:9.
+
+⸻
+
+SCENE 1 (0-2s) — NOODLE CITY
+
+A breathtaking aerial fly-through of a magnificent fantasy city built entirely from noodles, vegetables, herbs, spices, steaming soup canals, and giant noodle-bowl skyscrapers. Warm golden sunlight bathes the city. Happy food citizens walk through bustling streets. Steam rises gracefully from food markets. Cinematic drone camera movement, vibrant colors, whimsical Pixar-style worldbuilding.
+
+⸻
+
+SCENE 2 (2-4s) — FLAVOR CRISIS
+
+Suddenly the steam disappears from food stalls. Colors drain from the city. Citizens stop and look around in confusion. Giant digital Flavor Meter in the city square rapidly drops from 100% to 0%. Red emergency lights flash across buildings. Dramatic tension builds. Fast push-in camera movement. Dark clouds begin gathering overhead.
+
+⸻
+
+SCENE 3 (4-6s) — HERO SIGNAL
+
+The sky darkens. A giant glowing golden chicken symbol bursts through the clouds like a superhero beacon. Citizens stare upward in awe. Powerful rays of golden light illuminate the city below. Wind sweeps through the streets. Cinematic upward camera tilt.
+
+⸻
+
+SCENE 4 (6-8s) — EPIC ARRIVAL
+
+The clouds explode apart. A muscular anthropomorphic chicken superhero crash-lands in the city center. Noodles, vegetables, dust, and flavor particles blast outward dramatically. The ground shakes. Slow-motion hero landing pose. Dynamic cinematic action. Debris flying through the air.
+
+⸻
+
+SCENE 5 (8-10s) — THE SOLUTION
+
+Low-angle hero reveal. Golden feathers glowing in sunlight. Bright red comb. Blue eyes. Green hero vest fluttering in the wind. The hero smiles confidently and raises a glowing green noodle packet above his head. Golden energy radiates from the package. Camera circles around hero dramatically.
+
+⸻
+
+SCENE 6 (10-12s) — FLAVOR EXPLOSION
+
+The noodle packet tears open. A massive golden flavor energy blast erupts into the sky. Thousands of glowing particles swirl through the city streets. The energy forms a gigantic golden chicken-shaped spirit soaring across the skyline. Epic magical transformation sequence. Dynamic aerial tracking shot.
+
+⸻
+
+SCENE 7 (12-14s) — CITY RESTORED
+
+The city instantly regains color and life. Steam rises from food stalls. Buildings glow with vibrant noodle textures. Herbs and spices swirl through the air. Citizens cheer and celebrate. Confetti-like flavor particles float everywhere. Wide cinematic reveal of the restored city.
+
+⸻
+
+SCENE 8 (14-15s) — PRODUCT SHOT
+
+Premium advertising hero shot. A steaming bowl of delicious noodles sits in the foreground beside a glowing green noodle packet. The chicken superhero stands proudly behind them, pointing confidently
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2068553450221109248/pu/img/u8-TAvG2Rl6LpRTq.jpg" width="600" alt="Pixar-Style Noodle City Animation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6298)**
+
+**Author:** [Smiling Khan](https://x.com/AIwithkhan) | **Source:** [Link](https://x.com/AIwithkhan/status/2068553547377959194) | **Published:** Jun 21, 2026
+
+---
+### Sports Anime Goal Storyboard Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A structured sports anime storyboard prompt for Seedance 2.0 featuring cinematic kickoff, dribbling actions, and a golden goal celebration with speed lines.
+
+#### 📝 Prompt
+
+```
+SPORTS ANIME STORYBOARD (SHORT VERSION)
+
+STYLE (GLOBAL):
+Modern sports anime, cel-shaded, vibrant colors, expressive eyes, speed lines, stadium lighting, cinematic slow motion, dramatic dutch angles.
+ Character: Hoshino Yui (pink ponytail, amber eyes, Taiyo FC yellow jersey).
+ Rival: Tsukikage Ren (black/silver, calm defensive aura).
+PART 1 — 開幕 (Kickoff) | 15s
+Cut A (0–5s) — Eye of Destiny
+Extreme close-up of Yui’s eyes opening → stadium floodlight reveal.
+Cut B (5–10s) — Rival Standoff
+Yui vs Ren split-screen stare under contrasting gold vs silver lighting.
+
+Cut C (10–15s) — Kickoff Burst
+Whistle → kickoff → Yui first touch speed-burst past defender.
+V.O: 「世界が見ている、この一瞬を」
+PART 2 — 攻撃 (Attack) | 15s
+
+Cut D (0–5s) — Magic Dribble
+Yui sprints down wing, golden trail, nutmeg on defender.
+Cut E (5–10s) — Curved Cross
+Slow-motion golden cross arcing into penalty box.
+
+Cut F (10–15s) — Clearance by Ren
+Ren jumps, silver aura header clears ball dramatically.
+V.O: 「月影が完璧に跳ね返す！」
+PART 3 — 緊迫 (Tension) | 15s
+
+Cut G (0–5s) — Score Pressure
+Scoreboard: 1–1, clock ticking, nervous crowd.
+Cut H (5–10s) — Resolve
+Yui close-up: sweat + determination.
+「まだ終わらせない」
+Cut I (10–15s) — Sprint for Ball
+Loose ball → Yui explosive sprint, speed lines.
+V.O: 「これが最後のチャンスか！」
+
+PART 4 — 決着 (Goal) | 15s
+Cut J (0–5s) — 1v1 Silence
+Yui vs goalkeeper, total silence tension.
+
+Cut K (5–10s) — Golden Strike
+Power shot → golden trail → net ripples goal.
+Cut L (10–15s) — Celebration Freeze
+Knee slide, teammates rush, Ren nods.
+Final freeze under stadium lights.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068470845358637056/img/elVwWKw7f6vR9MPu.jpg" width="600" alt="Sports Anime Goal Storyboard Sequence">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6303)**
+
+**Author:** [Shami](https://x.com/ShamiWeb3) | **Source:** [Link](https://x.com/ShamiWeb3/status/2068536572174311447) | **Published:** Jun 21, 2026
+
+---
+### Anime Dance with Hand-Drawn Crayon Effects
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed video generation prompt for creating high-quality Japanese anime dance clips featuring hand-drawn crayon/pastel effects and character consistency from a reference image.
+
+#### 📝 Prompt
+
+```
+Use the character from the reference image as the protagonist. 15 seconds, 24fps. Japanese full-color anime. High-quality animation style like a theatrical feature film. High frame count. A short dance video designed to go viral with strong cuteness. The protagonist is the character from the reference image themselves. Maintain the hairstyle, hair color, eyes, facial features, build, age, clothing impression, accessories, and overall atmosphere of the reference image. The background is a bright and cute, organized classroom-like or studio-like space. Keep the background simple so the person is the star, but with a pop and fresh atmosphere.
+
+Music: Japanese song. No existing real songs should be used.
+
+Visual Concept: The protagonist performs a cute dance. Priority on cuteness. Slightly flirtatious, friendly, and strongly projecting the feeling of dancing for the camera. 2D flat animations, as if made in After Effects, appear in sync with the dance movements. Effects are hand-drawn cute illustrations with a texture like crayon or oil pastel. Circles, stars, hearts, flowers, notes, arrows, ribbons, crowns, sparkles, wavy lines, swirly lines, speech bubble frames, checker patterns, diagonal lines, halftone dots, etc. All are flat 2D animations. Color palette centered on pink, light blue, yellow, white, lavender, and mint green, harmonizing with the character's colors.
+
+Camera Composition: A 5-camera setup. Cameras are not fixed; they switch every 2 seconds. Cameras used: Front, Top (High Angle), Left, Right, and Back. Regardless of the camera angle, the protagonist always remains aware of the lens and maintains eye contact. Even in non-front angles, they look at the lens by turning their head or shifting their gaze. In the back-angle camera, they look over their shoulder at the lens. Viral-ready camerawork with varied angles and good tempo. Cameras are not static; they shake lightly to the beat with small vertical bounces, short punch-ins, and slight side-to-side sways. Intentional and clean camera shake, not messy.
+
+Dance Content: Cute and easy-to-mimic dance. Light side steps, hand heart in front of chest, one-hand heart, cheek peace sign, opening hands by cheeks, pointing, small shoulder bounces, light hip sways, leg out and back, small turns, and ending with a wink. Focus on upper body moves for high impact in a short duration. Always maintain eye contact as if dancing directly for the viewer.
+
+15-Second Timeline:
+0.0-2.0s: Front camera. Protagonist in the center, keeping rhythm, making a hand heart in front of the chest with small side steps. Light vertical camera bounce. Crayon hearts, stars, and circles appear around the hands and face. Front-facing eye contact.
+2.0-4.0s: Top camera. Slightly high-angle cute shot. Looking up at the lens with cheek peace sign, one-hand heart, and pointing. Crowns, flowers, and bubble frames appear around the face.
+4.0-6.0s: Left camera. Body turned slightly left but face and gaze toward the lens. Hip sways, one hand on cheek, other hand waving. Crayon ribbon lines, notes, and stars follow hand movements. Light side camera sway.
+6.0-8.0s: Right camera. Body turned right, maintaining eye contact. Rhythmic shoulder bounces, arm movements, and leg steps. Flowers, circles, and halftone dots burst at the feet and shoulders. Short beat-matched punch-in.
+8.0-10.0s: Back camera. Starts from the back, but they spin to look over the shoulder at the lens. Small turn with pointing and a finger-heart or blow-kiss gesture. Swirly lines and stars appear around the hair and clothes.
+10.0-12.0s: Back to front camera. High energy section. Opening arms wide, small bounces. Larger hearts, stars, and flowers increase to maximize cuteness. Short camera shakes with each move.
+12.0-14.0s: Back to top camera. Looking up, opening hands by face, one-hand heart. Frames, hearts, and flowers spread in the background. Continuous eye contact.
+14.0-15.0s: Front hero shot. Bust-up close shot. Smiling and ending with a wink. Crayon four-pointed stars, hearts, and ribbons burst from the eye. Short punch-in and stop on the final viral cut.
+
+AE-style 2D Animation Direction: All effects are flat 2D animations as if made in After Effects but with a rough, hand-drawn crayon/pastel texture. Movements include appearing, bouncing, scaling, rotating, and fading. Effects are synchronized with hands, face, feet, and body movements without obscuring the face. 
+
+Constraints: No other people except the protagonist. Maintain character consistency from the reference image (face, hair, eyes, age, clothing). Do not change characters or outfits. Use the 5-camera composition switching every 2 seconds. Constant eye contact at all times. Crayon hand-drawn style effects only. No realistic fire, smoke, or excessive glitch. No text, subtitles, or logos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068447584491130880/img/RSYDyWdZsmfr-6x-.jpg" width="600" alt="Anime Dance with Hand-Drawn Crayon Effects">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6314)**
+
+**Author:** [KnRoco@AIアニメ](https://x.com/roco_kn_roco) | **Source:** [Link](https://x.com/roco_kn_roco/status/2068448350278664693) | **Published:** Jun 20, 2026
+
+---
+### Cosmic Sand Woman Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An ethereal video prompt describing a mystical woman made of sand particles who performs magic and transforms into a dragon within a cosmic, starry setting.
 
 #### 📝 Prompt
 
@@ -377,7 +956,7 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 The ethereal woman made of swirling black and white sand particles, wearing a flowing hooded cloak adorned with vibrant gems, in a cosmic starry background, the woman performs magic as the camera spins and orbits around her like a drone and she then magically transforms into a mystical dragon made of swirling sand particles, the dust and sand settles as it reaches it's final morphing stage to a dragon, epic cinematic multi-shot scene
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068413214589591552/img/N2Po8XiT_GTx-uWu.jpg" width="600" alt="Ethereal Sand Woman Dragon Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068413214589591552/img/N2Po8XiT_GTx-uWu.jpg" width="600" alt="Cosmic Sand Woman Transformation">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6268)**
 
@@ -417,11 +996,11 @@ The camera orbits around the various orbs in many different angles and direction
 **Author:** [Mystique Licorne 🇨🇦](https://x.com/MystiqueLicorne) | **Source:** [Link](https://x.com/MystiqueLicorne/status/2068412174469607559) | **Published:** Jun 20, 2026
 
 ---
-### Living Tsunami Elemental Transformation
+### Cinematic Water Transformation Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for a figure transforming into a massive humanoid tsunami on a storm-battered volcanic coastline.
+> A highly detailed prompt for an elemental water transformation on a storm-battered coast, specifically attributed to Leonardo AI in the metadata.
 
 #### 📝 Prompt
 
@@ -459,9 +1038,11 @@ Final cinematic moment: the Living Tsunami raises one arm toward the horizon. An
 Style: ultra cinematic realism, elemental water transformation, photoreal ocean simulation, tsunami-scale water effects, storm atmosphere, realistic fluid dynamics, massive environmental scale, bioluminescent ocean details, AAA visual effects quality, no text, no overlays.
 
 Audio: epic cinematic orchestral score, crashing waves, deep ocean resonance, hurricane winds, thunder, water surges, distant whale calls, atmospheric storm energy, colossal elemental power.
+
+Made in @LeonardoAi
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2068393488677208065/pu/img/4ry9szypEkDGDzN-.jpg" width="600" alt="Living Tsunami Elemental Transformation">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2068393488677208065/pu/img/4ry9szypEkDGDzN-.jpg" width="600" alt="Cinematic Water Transformation Scene">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6263)**
 
@@ -538,7 +1119,7 @@ CONSTRAINTS —— 16:9. Keep normal speed for the flip, no slow motion or wire 
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A disaster movie style cinematic prompt for a massive winged serpent destroying a coastal city with intense lightning and aerial tracking shots.
+> A disaster movie prompt for Seedance 2.0 featuring a massive winged serpent destroying a coastal city with lightning and architectural collapse.
 
 #### 📝 Prompt
 
@@ -645,6 +1226,25 @@ Visual Style
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6262)**
 
 **Author:** [Ciri](https://x.com/Ciri_ai) | **Source:** [Link](https://x.com/Ciri_ai/status/2068281760966713365) | **Published:** Jun 20, 2026
+
+---
+### Luxury Skincare Product Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A premium cinematic prompt for a skincare brand advertisement, featuring macro shots of liquid droplets, bottles, and professional studio lighting.
+
+#### 📝 Prompt
+
+```
+A premium, cinematic commercial for a luxury skincare brand, featuring dynamic macro and abstract beauty shots. The video showcases translucent ruby-red liquid droplets on a matte surface, a sleek red facial mist bottle suspended in mid-air with exploding water splashes against a red background, and slow-motion red liquid tendrils splashing upwards. It transitions to abstract flowing white ribbons with dewdrops, a blooming white flower bursting through a water splash, and a close-up of a matte black cap with the text "ELSERA SKIN MIST". The final shot is a product lineup of three translucent bottles (red, yellow, green) on a modern stone bathroom counter. Dark luxury aesthetic, moody low-key lighting with intense red accents, ultra-realistic 8K textures, and professional studio lighting.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2068272797336604672/pu/img/KQdmV99-IwFgeQHg.jpg" width="600" alt="Luxury Skincare Product Commercial">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6310)**
+
+**Author:** [Zyrella](https://x.com/Zyrellix) | **Source:** [Link](https://x.com/Zyrellix/status/2068272848918192628) | **Published:** Jun 20, 2026
 
 ---
 ### Sci-Fi Power Armor Suit-Up Scene
@@ -1257,19 +1857,27 @@ Generate a 15-second 9:16 vertical ancient costume light comedy short play 'Room
 **Author:** [李岳](https://x.com/liyue_ai) | **Source:** [Link](https://x.com/liyue_ai/status/2067909156741562657) | **Published:** Jun 19, 2026
 
 ---
-### 90s SF Anime Cinematic Transition Sequence
+### 90s Sci-Fi Military Anime Transition
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A detailed cinematic prompt for creating a 90s cel-shaded sci-fi anime sequence with a continuous 'one-shot' camera flow. It features complex transitions, including eye-tracking zooms and bullet time, moving through six distinct character scenes in a dystopian night setting.
+> A comprehensive cinematic transition prompt for a 90s-style sci-fi military anime sequence, detailing complex camera paths and character interactions in a ruined futuristic city.
 
 #### 📝 Prompt
 
 ```
-A one-shot sequence of a 90s cel-shaded sci-fi military anime. The BGM consists of a low bass drone and heartbeat, no dialogue, with environmental sounds.
+A one-shot sequence of a 90s cel-shaded sci-fi military anime.
+BGM is a low drone and heartbeat, no dialogue, with environmental sounds.
 
 # Constraints
-The camera essentially never stops, moving forward or orbiting continuously. It passes by subjects and enters the darkness behind them. However, specific cuts involve a vertical ascent from underground, entry into a pupil, and a 360-degree bullet-time orbit during the climax. Do not use flashing or pulses for lighting. Full-screen whiteouts are prohibited. Strictly adhere to the facial, hair, and equipment features of the reference images for each character. If the image quality is poor, recreate the reference image from scratch. 4K high-definition, no noise, no blur, no flicker. Maintain consistency in character faces and clothing, no distortion, natural and smooth movement.
+The camera basically doesn't stop and continues moving by advancing or circling around. 
+It moves past the subjects and enters the darkness in the background. 
+However, in specific cuts, it performs a vertical ascent from underground, an intrusion into a pupil, and a 360-degree bullet time wrap-around at the climax. 
+Do not use flashes or pulses for lighting; complete screen whiteouts are prohibited. 
+Strictly adhere to the features of the face, hair, and equipment in the reference images for each character. 
+If image quality is poor, rebuild the reference images from scratch. 
+4K high definition, no noise, no blur, no flicker. 
+Maintain consistency in character faces and clothing, no distortion, natural and smooth movements.
 
 # Characters
 ## Character 1
@@ -1291,31 +1899,69 @@ Reference image
 Reference image
 
 # Setting
-A ruined near-future city at night. Rubble, mecha hangars, pipe-filled corridors, rising steam, underground culverts, and battlefield smoke. Lighting: dull orange from distant fires, blue from thin moonlight. Large areas of darkness with light existing only locally. Six warriors are in different locations but within the same continuous nighttime battlefield.
+A ruined future city at night. 
+Rubble, aircraft hangars, corridors with tangled pipes, rising steam, underground sewers, battlefield smoke. 
+Lighting: dull orange from distant fires, blue from thin moonlight. 
+Dark areas are large, with light existing only locally. 
+The six warriors are each in different locations, but within the same continuous nighttime battlefield.
 
 # Scene
-A one-shot sequence where the camera swims through the darkness in a single stroke, visiting the six warriors in order. The first half traverses rubble, pipes, and steam to visit three people, with the fourth appearing via a vertical ascent from underground. From the fifth, the relay passes through the darkness of a pupil to the sixth warrior's battlefield, ending with a lavish portrayal of the sixth's climax firing a gun in 360-degree bullet time.
+A one-shot sequence where the camera swims through the darkness in a single stroke, visiting the six warriors in order. 
+The first half passes through rubble, pipes, and steam to visit three people; 
+the fourth person appears via a vertical ascent from underground. 
+From the fifth person, the camera relays through the darkness of a pupil to the sixth person's battlefield, 
+concluding with a lavish depiction of the sixth person firing a gun in 360-degree bullet time.
 
 cut1:
-The camera moves slowly forward through gaps in dark rubble. The silhouette of Character 1, crouching in the shadow of the rubble, appears in the darkness ahead. Character 1 looks up and glares at the camera. The camera passes right by Character 1's face into the darkness behind. Env sounds: low sound of collapsing rubble, wind, faint roar of distant fire.
+The camera advances low and slowly through gaps in dark rubble. 
+The outline of Character 1, crouching in the shadow of the rubble in the darkness ahead, appears. 
+Character 1 looks up and glares toward the camera. 
+The camera brushes past the right side of Character 1's face and moves into the darkness behind. 
+Env: low sound of collapsing rubble, wind, faint sound of distant fire.
 
 cut2:
-The camera moves forward as if passing through gaps in mecha joint pipes. Beyond the pipe shadows, the silhouette of Character 2 standing in a dark hangar appears. Character 2 raises a handgun to their cheek and releases the safety. The camera passes by Character 2's aiming arm and moves past their shoulder into the hangar's depths. Env sounds: metal mechanism sounds, click of the safety, low mecha drive hum.
+The camera advances as if passing through gaps in the joint pipes of a machine. 
+In the darkness beyond the pipes, the outline of Character 2 standing in the hangar's gloom appears. 
+Character 2 raises a handgun to their cheek and releases the safety. 
+The camera passes by Character 2's raised arm and moves past their shoulder into the deep hangar darkness. 
+Env: metallic mechanical sounds, the click of the safety, low drive sound of the machine.
 
 cut3:
-The camera moves slowly through a mass of rising steam. From beyond the steam, Character 3's back appears standing in the smoke. Character 3 tucks hair behind an ear and slowly turns to look at the camera. The camera passes by Character 3's cheek into the darkness ahead. Env sounds: hissing steam, rustle of clothing, distant creaking of pipes.
+The camera slowly advances through a mass of rising steam. 
+From beyond the steam, the back of Character 3 standing in the smoke appears. 
+Character 3 slowly looks back while tucking hair behind an ear and stares at the camera. 
+The camera passes by Character 3's cheek and advances into the darkness ahead. 
+Env: sound of leaking steam, rustle of clothes, distant creaking of pipes.
 
 cut4:
-The camera ascends rapidly from an underground culvert toward the surface. It passes vertically through gaps in rubble and emerges onto the battlefield. The camera reaches the feet of Character 4, who is kneeling, then slowly tilts up to capture their full body. Character 4 stands up, shouldering a long gun, and glares at the camera. The camera passes slowly over Character 4 into the night sky. Env sounds: echoing sounds from underground, falling rubble, clothing rustle, metallic gun sounds.
+The camera rises rapidly from an underground sewer toward the surface. 
+It passes vertically through gaps in the rubble and emerges into the surface battlefield. 
+The camera reaches the feet of Character 4, who is kneeling, and slowly tilts up to capture their entire body. 
+Character 4 stands up, hoisting a long rifle onto their shoulder, and stares at the camera. 
+The camera passes slowly over Character 4's head and into the night sky's darkness. 
+Env: echo from underground, sound of falling rubble, rustle of clothes, metallic sound of the rifle.
 
 cut5:
-The camera moves forward through gaps in a collapsed building wall. Beyond the wall, Character 5 appears standing in the indoor gloom. Character 5 blinks slowly and stares quietly at the camera. The camera slowly dollies into Character 5's pupil, being swallowed by the blackness. Env sounds: sound of the wall collapsing, deep breathing, heartbeat.
+The camera advances as if passing through a crack in a collapsed building wall. 
+From beyond the wall, Character 5 appears in the interior gloom. 
+Character 5 blinks slowly and gazes quietly toward the camera. 
+The camera slowly dollies into Character 5's pupil, being swallowed by the blackness within. 
+Env: sound of a wall collapsing, deep breathing, heartbeat.
 
 cut6:
-The camera moves forward from pure darkness, which gradually transforms into thin battlefield smoke. The silhouette of Character 6 aiming a gun with both hands appears in the smoke ahead. Character 6 begins firing; muzzle flashes strobe continuously, and shells are ejected, floating in the air. [Bullet time 360-degree orbit] The camera slowly orbits 360 degrees around Character 6, capturing the moment of firing with time stretched. Character 6's body sways slightly from the recoil as the gun fires again and again. Ejected shells rotate in mid-air. The camera slows down and stops directly in front of Character 6. Character 6 stops firing and becomes completely still. Gunpowder smoke and thin battlefield haze linger around. Env sounds: a series of time-stretched gunshots, the sound of shells cutting through the air, ending with only the low drone and heartbeat.
+The camera advances slowly from pitch black, which gradually transforms into thin battlefield smoke. 
+In the smoke ahead, the outline of Character 6 aiming a gun with both hands appears. 
+Character 6 begins rapid fire, with muzzle flashes blinking continuously and shell casings being ejected and floating in the air. 
+[Bullet Time 360-degree Turn Around] 
+The camera slowly circles 360 degrees around Character 6, capturing the moment of rapid fire with time stretched out. 
+Character 6's body sways slightly from the recoil as the gun fires again and again. Floating shell casings rotate in mid-air. 
+The camera quietly decelerates and stops in front of Character 6. 
+Character 6 stops firing and comes to a complete standstill. 
+Powder smoke and thin battlefield smoke continue to drift around. 
+Env: continuous gunshots with time stretched, sound of shell casings cutting through the air, ending with only the low drone and heartbeat.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067908384914026496/img/qoLwkwTT9y1SpnFw.jpg" width="600" alt="90s SF Anime Cinematic Transition Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067908384914026496/img/qoLwkwTT9y1SpnFw.jpg" width="600" alt="90s Sci-Fi Military Anime Transition">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6240)**
 
@@ -2791,1052 +3437,6 @@ Negative Prompt: Subtitles, screen text overlay, over-cinematic, luxurious sets,
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2067169682948292835) | **Published:** Jun 17, 2026
 
 ---
-### Anime Figure Skater Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A character-focused video prompt for Seedance 2.0 designed to animate a specific figure skater character while maintaining strict consistency with a reference sheet.
-
-#### 📝 Prompt
-
-```
-Use the uploaded character sheet as the strict character reference.
-
-Preserve exactly:
-
-Kaia,
-
-18-year-old elite figure skater,
-
-beautiful anime girl,
-
-bright blue eyes,
-
-brown high ponytail,
-
-red crystal snowflake hair ornament,
-
-elegant red crystal skating
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067156254200594432/img/AQOHvBc1nh7d5Lvh.jpg" width="600" alt="Anime Figure Skater Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6148)**
-
-**Author:** [Kiki](https://x.com/Mayz1169) | **Source:** [Link](https://x.com/Mayz1169/status/2067162084798791916) | **Published:** Jun 17, 2026
-
----
-### Retro Office Commercial Photography
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed visual description for a split-screen commercial photography scene with a 1980s-90s nostalgic office aesthetic, though the provided prompt is for the image generation stage.
-
-#### 📝 Prompt
-
-```
-A highly detailed retro office-themed commercial photography collage, split-screen composition showing the contrast between “looking busy” and reality. Young Asian office worker with short messy hair and black glasses, wearing a vintage corporate uniform with ID badge. In the top scene, she appears overwhelmed and busy, yawning while holding a beige rotary telephone receiver, surrounded by ringing desk phones, a typewriter, paperwork, sticky notes, and colorful fruit teas on a cluttered desk. Motion-blurred train passing outside large office windows creates a fast-paced urban atmosphere. In the bottom scene, the same worker is secretly asleep at her desk with the phone balanced on her head, holding a bright red plum tea, surrounded by retro office equipment from the 1980s–1990s. Warm cinematic lighting, soft shadows, shallow depth of field, realistic product placement, magazine advertisement layout, playful corporate humor, vibrant colors, professional commercial photography, ultra-realistic, sharp focus, lifestyle branding campaign, high-end editorial design, typography space, 4k quality, nostalgic office aesthetic, candid storytelling.
-Negative Prompt:
-low quality, blurry face, extra fingers, duplicate objects, distorted hands, bad anatomy, watermark, logo artifacts, overexposed lighting, cropped head, unrealistic proportions, CGI look, cartoon style, text errors, messy composition, low resolution.
-```
-
-<img src="https://cms-assets.youmind.com/media/1781769393973_y3ax3p_HK_qc2ya8AAdO_K.jpg" width="600" alt="Retro Office Commercial Photography">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6144)**
-
-**Author:** [Kashberg](https://x.com/Kashberg_0) | **Source:** [Link](https://x.com/Kashberg_0/status/2067128553918062596) | **Published:** Jun 17, 2026
-
----
-### Sci-fi Mecha Sword Duel
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> An extensive multi-shot prompt for Seedance 2.0 that merges American comic style with 3D animation for an epic battle between a swordsman and a giant mecha.
-
-#### 📝 Prompt
-
-```
-Duration: 14 seconds
-Aspect Ratio: Widescreen Cinematic, 2.35:1
-Type: Image-to-Video / Text-to-Video
-Overall Style: American comic book storyboarding + 3D animation quality + Japanese swordsman action, grayish-blue storm battlefield, strong motion blur, epic mecha combat, camera pulled by energy as if out of control, yet maintaining high quality, coherence, and readability.
-
-STYLE KEYFRAME (Uniform throughout)
-The visuals feature 3D animation volumetric light, realistic storm fog, and metallic textures, while retaining American comic-style high-contrast shadows, thick outlines, exaggerated perspective, speed lines, and storyboard impact. Colors are mainly cold gray, steel blue, and black, with a small amount of white energy light. Character actions are sharp, and camera movements are very bold, as if an AI camera suddenly took control from the director, but with intentional, crazed choreography.
-
-SHOT 1 (0-4s)
-Subject: A young black-haired swordsman, long hair blowing in the gale, wearing dark damaged combat gear, arms wrapped in white bandages, a katana at his waist. The character's eyes emit a cold white light, expression calm and oppressive, as if about to release an ultimate move.
-Action: 0-1s: Extreme close-up on the swordsman's lowered face, storm fog rushing past from both sides, hair covering half the face. 1-2s: The swordsman slowly looks up, eyes lighting up with white light, right hand forming a seal or starting posture by the face. 2-3s: The camera pulls close to his eyes and fingers, air begins to warp, and fine white energy flows appear. 3-4s: The swordsman crouches, hand on the hilt, ready for an instant draw. Hair, ribbons, and fog are all pulled back, creating a sense of compression before an explosion.
-Environment: Gray-blue wasteland battlefield, low dark clouds, distant broken metal structures and giant mecha silhouettes, rain mist and dust in the air.
-Camera: Extreme close-up opening, low-angle push-in, slight orbit around the character's face, then a sudden pull-back. Camera movement has a sense of loss of control but remains locked on the swordsman.
-Style: High-contrast comic shadows, 3D character materials, cold white glowing eyes, visualized wind pressure, cinematic depth of field.
-
-SHOT 2 (4-9s)
-Subject: The swordsman draws and lunges, a giant black mecha or armored enemy emerges from the storm in the distance. The mecha is massive, with a steel shell and red or white sensor lights.
-Action: 4-5s: Instant draw, body turning into a dark afterimage rushing into the distance. Dust and water mist kicked up from the ground. 5-6.5s: The camera is dragged by his dash, skimming low over the wasteland at high speed, with strong motion blur and speed lines at the edges. 6.5-8s: The mecha emerges from the fog, raising a giant mechanical arm to attack. The swordsman crosses the foreground at high speed, creating a scale contrast between the small foreground figure and the giant background mecha. 8-9s: The first slash cuts the air, a translucent white sword arc appearing. The arc is like a comic brushstroke but with 3D volume and realistic light scattering.
-Camera: High-speed tracking shot, pushing low to the ground, sudden lateral whip-pan, then a fast push toward the mecha. Bold 'AI camera out-of-control' feel, but with clear action direction.
-Style: Comic speed lines combined with 3D volumetric fog, sword arc like white ink slicing the air, cinematic motion blur.
-
-SHOT 3 (9-14s)
-Subject: The swordsman and the giant mecha clash head-on, swordsman using continuous high-speed slashes, mecha retaliating with mechanical arms.
-Action: 9-10.5s: The mecha slams a heavy fist into the ground, swordsman slides away from the edge of the shockwave, camera rotating with his lateral roll. 10.5-12s: Two consecutive draw slashes, white sword arcs forming a cross trajectory in the air, like exaggerated action lines in comic storyboards but maintaining realistic spatial depth. 12-13s: Sudden pull-back, showing the giant mecha's body being sliced with bright cracks, sparks and metal fragments flying. 13-14s: Final freeze-frame feel: swordsman lands with his back to the camera, hair and cape blowing in the wind, behind him the mecha kneels in the storm, white sword arc light slowly dissipating.
-Camera: Rapid tracking, lateral whip-pan, brief focus hunting then re-focusing, finally pulling back into a comic cover-style composition. Continuous 'out-of-control' long-take feel.
-Style: American comic cover composition, 3D mecha weight, Japanese swordsman action, cold cinematic grading, intense storm atmosphere.
-
-Negative: Low resolution, cheap game graphics, plastic CGI, character face distortion, eye drift, fused fingers, extra fingers, katana distortion/disappearance, mecha scale errors, mecha melting, character face swap, clothing drift, camera completely out of control, unreadable action, excessive glare, light pollution, magic energy balls, cartoon explosions, gore, watermarks, subtitles, logos, garbled text, sudden scene changes, urban background, switching from 3D to pure 2D.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a1a3e71a38f8f6d23cd06b51c15f1b6/thumbnails/thumbnail.jpg" width="600" alt="Sci-fi Mecha Sword Duel">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6127)**
-
-**Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2067112825110032775) | **Published:** Jun 17, 2026
-
----
-### 1970s Vintage Anime Action Scene
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A nostalgic prompt designed to recreate the specific visual and audio aesthetic of a 1975 anime. It outlines a two-cut sequence involving a fast-paced punch and a dramatic close-up.
-
-#### 📝 Prompt
-
-```
-A 1975 anime production, 24fps, image texture, BGM, and Japanese voice quality that evokes the feel of 1975.
-
-Cut 1: The female protagonist on the left of the screen senses an unusual presence behind her (with a yellow lightning-like effect indicating the presence). She turns around and punches a man in the face, saying the line 'Right there!'
-
-Cut 2: A close-up of the man being blown backward by the punch, his glasses shifting and a single tear flowing from one eye. Line: 'I want... to be stepped on.'
-
-An output where the protagonist's quick action scene and the man's sorrowful line stand out.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f48387db15fb9dca43bc9f30cb0aad48/thumbnails/thumbnail.jpg" width="600" alt="1970s Vintage Anime Action Scene">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6163)**
-
-**Author:** [minmin みんみん｜変なAI Creator](https://x.com/minmin_4410) | **Source:** [Link](https://x.com/minmin_4410/status/2067106521788600752) | **Published:** Jun 17, 2026
-
----
-### Bullet Train Parkour Action
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed action sequence prompt featuring a courier performing dangerous stunts on top of a racing bullet train.
-
-#### 📝 Prompt
-
-```
-Opening shot: a bullet train races through the mountains at night. The courier sprints along the roof. Suddenly the train enters a tunnel with a dangerously low ceiling. The courier drops flat and slides underneath while sparks explode inches overhead. Immediately after, another obstacle blocks the roof. With no time to stop, the courier leaps over it. The landing goes wrong. They slip off the side of the train, hanging with one hand above the abyss while the ground blurs below. Using momentum and pure strength, they swing themselves back onto the roof and continue running. 
-Final shot: the train rockets into another tunnel while the courier clings to the front section.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/77a3834bbbdacfa4f44624a137cfc08c/thumbnails/thumbnail.jpg" width="600" alt="Bullet Train Parkour Action">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6152)**
-
-**Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2067043799235444862) | **Published:** Jun 17, 2026
-
----
-### Giant Octopus vs Dock Worker Harbor Chase
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-budget disaster movie sequence featuring a dock worker being hunted by a giant octopus in a stormy harbor, concluding with a container trap.
-
-#### 📝 Prompt
-
-```
-Subject: A dock worker in rain-soaked work clothes, sprinting for his life through a storm-ravaged fishing harbor while being hunted by a gigantic octopus.
-
-Action/Emotion: Panic, survival, desperation, quick thinking under pressure.
-
-Environment: Massive commercial fishing harbor during a violent storm. Towering shipping containers, cargo cranes, fishing trawlers, crashing waves, flying debris, rain-lashed docks.
-
-Camera: Handheld chase camera, low-angle tracking shots, aerial drone fly-throughs, whip pans, speed ramps during sprints, bullet-time during the payoff.
-
-Lighting & Mood: Dark stormy daylight, flashing harbor warning lights, heavy rain, ocean spray, blockbuster creature-feature chaos.
-
-Technical: Ultra-realistic, 4K HDR, 35mm anamorphic lens, cinematic motion blur, practical creature realism, high-budget disaster movie energy.
-
-SHOT 1 — 0–3s (THE HOOK)
-
-The sequence begins mid-action.
-
-A giant octopus is already climbing through the harbor.
-
-Its massive tentacles wrap around cargo containers and rip them from their stacks.
-
-Metal screams.
-
-Containers crash into the docks below.
-
-A dock worker sprints across the tops of stacked shipping containers.
-
-The camera races backward in front of him.
-
-Behind him—
-
-A gigantic tentacle smashes down, crushing the container he was standing on seconds earlier.
-
-SHOT 2 — 3–6s
-
-The worker leaps across a gap between container stacks.
-
-Barely making it.
-
-The octopus follows.
-
-Tentacles sweep across the harbor.
-
-One wraps around a crane tower.
-
-Another tears apart a fishing boat below.
-
-The camera flies through the chaos as waves crash against the docks.
-
-The worker keeps running.
-
-SHOT 3 — 6–9s
-
-He reaches the final container in the stack.
-
-Dead end.
-
-Nothing ahead but open air and stormy ocean.
-
-He turns.
-
-The octopus rises higher.
-
-Its enormous body emerging from the harbor.
-
-Tentacles spreading outward.
-
-Blocking every escape route.
-
-Then—
-
-The worker notices a massive shipping container suspended from a crane directly above the creature.
-
-SHOT 4 — 9–12s
-
-The octopus advances.
-
-Tentacles reaching.
-
-Closer.
-
-Closer.
-
-The worker pulls a crane remote from his belt.
-
-Rain pouring down.
-
-He waits until the last possible second.
-
-Then slams the release button.
-
-SHOT 5 — 12–15s (BULLET-TIME PAYOFF)
-
-Bullet time.
-
-The suspended shipping container drops.
-
-Rain droplets hang frozen in the air.
-
-Steel cables whip loose.
-
-The octopus looks up.
-
-Too late.
-
-The container crashes directly onto its head.
-
-The impact drives the entire creature backward.
-
-Tentacles flailing.
-
-Water exploding upward.
-
-Time snaps back.
-
-A colossal splash engulfs the harbor.
-
-The worker drops to his knees on the container stack.
-
-The giant octopus disappears beneath the stormy water.
-
-Cut.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1012c2f6b6bd8c0f7bfad53c2266cad/thumbnails/thumbnail.jpg" width="600" alt="Giant Octopus vs Dock Worker Harbor Chase">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6143)**
-
-**Author:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2067038289568448579) | **Published:** Jun 17, 2026
-
----
-### Alien Creature Highway Bridge Attack
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dramatic multi-shot cinematic prompt featuring a giant alien attacking a highway bridge and being countered by a soldier and a brave police officer.
-
-#### 📝 Prompt
-
-```
-A gigantic alien creature — wet black skin, many glowing eyes, and a long whip-like tongue — stands over a busy highway bridge in bright daylight. It uses its tongue to grab moving cars off the road and lift them up to its mouth. An army truck with a big anti-aircraft gun is parked further down the bridge. Sound: screaming traffic, crunching metal, the alien's wet roar, gun motors, radio chatter. 
-
- Shot 1 (0–3s) — THE HOOK: Low shot along the bridge. The giant alien's tongue whips out and wraps around a speeding car, lifting it high into the air toward its open mouth full of teeth. Other cars swerve and crash. Inside a police car, our hero — a young cop — slams the brakes, staring up through the windshield, shouting into his radio: "IT'S PICKING UP CARS! IT'S EATING THEM OFF THE ROAD!"  
-
-Shot 2 (3–6s): At the army truck down the bridge. A soldier sits behind the big anti-aircraft gun, swinging the barrel up toward the alien, but holding fire — the alien's mouth is shut. He shouts on the radio: "I can only hurt it when its mouth opens! Somebody make it open wide — then I fire!"  
-
-Shot 3 (6–9s): The alien creatures tongue suddenly wraps the hero's police car and lifts it upside down, high over the alien's open jaws. Inside, hanging from his seatbelt, the cop pulls out his shotgun, points it down through his own windshield at the alien's mouth below, and yells: "OPEN WIDE!" He fires. The alien roars in pain, its huge mouth opening wide.  
-
-Shot 4 (9–14s) — BULLET TIME PAYOFF: The mouth is open. Bullet time — the soldier in the tank sees his chance fires the anti-aircraft gun in slow motion, a stream of glowing shells flying across the bridge straight into the alien creatures open mouth, the alien's head jerking back, black blood and broken teeth hanging in the air. The tongue lets go of the car.  
-
-Shot 5 (14–15s): Time snaps back. The huge alien folds backward and crashes down over the bridge railing, sliding off into the river below. The police car drops onto the road and bounces, the cop climbing out, shotgun still in hand. Smoke drifts across the bridge.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/45e6c0fbfbe8c503bbe30625a97bd5a2/thumbnails/thumbnail.jpg" width="600" alt="Alien Creature Highway Bridge Attack">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6110)**
-
-**Author:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2067004271992979554) | **Published:** Jun 16, 2026
-
----
-### Crocodile Floodgate Jungle Escape
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An intense, cinematic action prompt for Seedance 2.0 featuring a jungle ranger being chased by a colossal crocodile through a flooded facility, ending in a dramatic floodgate release.
-
-#### 📝 Prompt
-
-```
-Subject: A jungle ranger in soaked tactical gear, sprinting for his life from a gigantic crocodile.
-
-Action/Emotion: Pure panic, survival, desperation, split-second thinking.
-
-Environment: Massive flooded jungle water-treatment plant deep inside the rainforest. Giant concrete water channels, rusted maintenance walkways, roaring spillways, floodgates, pumping stations, tropical storm conditions.
-
-Camera: Aggressive handheld chase camera, low-angle tracking shots, speed ramps during sprints, whip pans, crash zooms, bullet-time during the payoff.
-
-Lighting & Mood: Bright stormy daylight, heavy rain, mist from rushing water, chaotic disaster atmosphere.
-
-Technical: Ultra-realistic, 4K HDR, 35mm anamorphic lens, cinematic motion blur, practical creature realism, blockbuster creature-feature energy.
-
-SHOT 1 — 0–3s (THE HOOK)
-
-The sequence begins mid-chase.
-
-The ranger is already sprinting across a narrow maintenance walkway suspended above a raging water channel.
-
-Behind him—
-
-A gigantic crocodile explodes through a metal safety barrier.
-
-The barrier twists and flies into the floodwater below.
-
-The crocodile charges forward.
-
-Its enormous body sends spray everywhere.
-
-The camera races backward in front of the ranger as he leaps over broken sections of walkway.
-
-A radio on his vest crackles with static.
-
-SHOT 2 — 3–6s
-
-The ranger reaches a junction of elevated catwalks.
-
-He jumps across a gap.
-
-Barely makes it.
-
-The crocodile doesn’t slow down.
-
-It crashes straight through the handrails and follows.
-
-Concrete chunks tumble into the rushing water below.
-
-The distance between them is shrinking fast.
-
-SHOT 3 — 6–9s
-
-The ranger reaches the end of the platform.
-
-Dead end.
-
-Nothing ahead except a giant floodgate control station.
-
-Nowhere left to run.
-
-He turns.
-
-The crocodile advances.
-
-Water dripping from its jaws.
-
-The camera pushes in.
-
-Then—
-
-He notices a massive red emergency floodgate lever beside him.
-
-SHOT 4 — 9–12s
-
-The crocodile charges.
-
-Full speed.
-
-The ranger waits.
-
-Waits.
-
-Waits.
-
-At the last possible second he grabs the lever and yanks it downward with both hands.
-
-Warning sirens activate.
-
-Massive machinery begins moving.
-
-SHOT 5 — 12–15s (BULLET-TIME PAYOFF)
-
-The floodgate blasts open.
-
-Bullet time.
-
-A colossal wall of water erupts from the channel.
-
-The crocodile’s eyes widen.
-
-Concrete fragments.
-
-Rain.
-
-Water droplets.
-
-Everything suspended in the air.
-
-The torrent slams directly into the charging crocodile.
-
-The giant body is launched backward through concrete barriers and into the roaring spillway beyond.
-
-Time snaps back.
-
-A thunderous wave crashes through the facility.
-
-The ranger clings to the railing.
-
-Watching the crocodile disappear into the floodwaters below.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/828a888d3d92a0031d60c8f57c24eb89/thumbnails/thumbnail.jpg" width="600" alt="Crocodile Floodgate Jungle Escape">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6118)**
-
-**Author:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2066987039866945601) | **Published:** Jun 16, 2026
-
----
-### Ronaldo vs Messi Stage Battle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A documentary-style handheld camera prompt showing a supernatural stage battle between football legends with elemental powers in front of a live crowd.
-
-#### 📝 Prompt
-
-```
-@Image1 as the first frame. 16:9, 15s, one continuous wide shot from far back in the audience, phone held above the crowd. Camera stays distant, framing the full stage with crowd heads in the foreground. Slow drifting push-in, slight micro-shake, no cuts. Crowd with raised phones stays reactive throughout. Stadium stands, floodlights, and rigs stay fixed in the background.
-
-0–3s: The fire around the left performer pulls inward and condenses into a single glowing football at his feet. He strikes it hard toward the right performer, and mid-air it splits into many footballs streaking across the stage. The right performer rises from his kneel, his blue orb flaring brighter, lightning arcing across his body. The crowd roars.
-
-3–6s: The swarm of footballs rushes the right performer. He thrusts the orb forward and lightning bolts blast outward, zapping the footballs one by one into bursts of sparks and smoke. A few slip through and force him to dodge low. The crowd gasps.
-
-6–9s: The left performer sprints forward, kicking football after football, each one multiplying mid-air into more that hammer toward the right performer. The right performer fires rapid lightning bolts to smash them down, struggling to hold the line. The crowd shouts loudly.
-
-9–12s: Both break apart, breathing hard. The left performer juggles a glowing football upward and it swells into a massive ball above his head. The right performer crouches low and a dense ball of crackling lightning gathers between his hands.
-
-12–15s: Both launch forward at once. The left performer kicks the giant football and it bursts into a huge swarm of footballs. The right performer hurls his lightning ball into the swarm and they collide at center stage in a massive flash of sparks, smoke, and scattering footballs. Both skid back to opposite edges in fighting stances. The crowd erupts into applause, phone lights wave.
-
-Audio: crowd murmur and night ambience at start. Sharp kick-thwack on each strike. Whoosh of flying footballs. Electric zap on each bolt. Concussive boom on each clash. Loud gasp at 5s. Cheers escalate to a massive roar by 15s. Effort grunts on each strike. No music. No dialogue. Photorealistic, documentary handheld aesthetic, shot from a distance.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7a37e80532ad68e595ad1c4b6f678d44/thumbnails/thumbnail.jpg" width="600" alt="Ronaldo vs Messi Stage Battle">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6113)**
-
-**Author:** [ViralOps](https://x.com/ViralOps_) | **Source:** [Link](https://x.com/ViralOps_/status/2066983402021044348) | **Published:** Jun 16, 2026
-
----
-### Megalodon vs Seaplane Cinematic Chase
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed multi-shot video prompt depicting a massive megalodon attacking a seaplane in a high-speed chase across a lake, featuring a patrol boat intervention and a cinematic rocket explosion payoff.
-
-#### 📝 Prompt
-
-```
-A massive megalodon, huge as a whale with grey scarred skin, has clamped onto the left float of a small seaplane as it races across a wide lake in bright daylight. The plane is at full speed, hopping and banging across the water with the big fish holding on. A patrol boat speeds alongside, a crew member braced at the front with a launcher on his shoulder. Sound: roaring propeller, splashing water, creaking metal, water churning, radio voices.
-
-Shot 1 (0–3s) — THE HOOK: Fast side tracking shot just above the water. The seaplane rushes across the lake at full power, spray flying everywhere — and the megalodon has its huge mouth shut tight on the left float, pulling the plane's nose down. The plane skips and leans hard to one side. Inside, the pilot wrestles the controls and shouts on his radio: "IT'S PULLING ME DOWN! DROP THE FLOAT — I'LL SHAKE IT LOOSE!"
-
-Shot 2 (3–5s): On the patrol boat racing beside the plane. The crew member kneels at the front, lowers his eye to the launcher sight, and aims steadily at the water beside the plane, finger ready on the trigger. He gives one short nod and speaks low: "Drop it. I'm ready."
-
-Shot 3 (5–8s): Inside the shaking cockpit. The pilot reaches down, grips the red release handle, and pulls it hard. Outside — the pins pop and the damaged float breaks away. The megalodon drops back into the lake with the float in its mouth, and the plane leaps forward, suddenly light and free.
-
-Shot 4 (8–12s) — BIG SLOW-MOTION MOMENT: On the boat, the crew member FIRES — a clear shot of the launcher kicking back, smoke bursting from the tube, the rocket streaking out across the water. At that exact moment the megalodon bursts up out of the lake and leaps high into the air, the broken float still in its mouth. Bullet time — the giant fish hangs at the top of its leap, and the rocket flies straight into its side. A huge burst of fire, water, and spray fills the air.
-
-Shot 5 (12–13s): Time snaps back. Glowing pieces fall into the lake as the megalodon splashes down hard. The seaplane, leaning on its one float, lifts off the water and climbs up into the sky through the smoke.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2d4b27047f8b98df7d4550710d9b4a0d/thumbnails/thumbnail.jpg" width="600" alt="Megalodon vs Seaplane Cinematic Chase">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6116)**
-
-**Author:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2066978878632116356) | **Published:** Jun 16, 2026
-
----
-### Anime Girl Tokyo Travel Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive video prompt for an anime-style travel vlog in Tokyo, detailing specific character traits, outfits, and scene-by-scene transitions with audio cues.
-
-#### 📝 Prompt
-
-```
-Style: High-energy travel vlog, ultra-fast cuts, handheld camera, energetic rock song throughout, cute Japanese anime-girl voice acting, authentic Tokyo atmosphere, vibrant colors, modern travel influencer content.
-
-Important Character Rule: Only the girl is anime-style. Everything else is completely realistic:
-
-Real Tokyo streets
-
-Real crowds
-
-Real lighting
-
-Real buildings
-
-Real vehicles
-
-Real camera optics
-
-Real environmental effects
-
-Character Consistency: Extremely beautiful anime girl with:
-
-Long flowing crimson-red hair
-
-Emerald green eyes
-
-Soft fair skin
-
-Playful, flirty, cheerful personality
-
-Cute expressive anime facial expressions
-
-Clothing (must remain identical in every scene):
-
-Black oversized off-shoulder sweater exposing one shoulder
-
-Dark pleated skirt
-
-Small black crossbody purse with gold chain strap
-
-Silver earrings
-
-No wardrobe changes
-
-No hairstyle changes
-
-Audio:
-
-Energetic Japanese rock song throughout
-
-Cute anime-girl Japanese voice
-
-Tokyo ambient sounds
-
-Crowd noise
-
-Train sounds
-
-Café ambience
-
-[00:00 - 00:01.5] Hook
-
-Extreme close-up selfie shot.
-
-Shibuya Crossing visible behind her.
-
-Cute ASMR whisper directly into camera:
-
-「ねぇねぇ…一緒に東京を探検しよ？♡」 ("Hey... want to explore Tokyo with me?")
-
-Small playful smile.
-
-Rock music instantly begins.
-
-[00:01.5 - 00:03]
-
-Handheld walking shot through Shibuya Crossing.
-
-Crowds rushing around.
-
-Hair flowing.
-
-She laughs:
-
-「わぁー！人すごいー！」 ("Wow! So many people!")
-
-[00:03 - 00:05]
-
-Akihabara.
-
-Fast moving vlog shots.
-
-Anime billboards.
-
-Arcades.
-
-Bright signs.
-
-She points excitedly:
-
-「アキバ最高ー！」 ("Akiba is amazing!")
-
-[00:05 - 00:07]
-
-Mount Fuji viewpoint.
-
-Sunny day.
-
-Wind blowing through her hair.
-
-Peace sign.
-
-She smiles:
-
-「富士山きれい〜♡」 ("Mount Fuji is beautiful!")
-
-[00:07 - 00:09]
-
-Japanese café.
-
-Matcha latte.
-
-Window seat.
-
-She takes a sip.
-
-Cute reaction:
-
-「ん〜！おいしい！」 ("Mmm! Delicious!")
-
-[00:09 - 00:11]
-
-Bamboo forest.
-
-Walking ahead of camera.
-
-Turns back smiling.
-
-Sunlight through bamboo.
-
-She whispers:
-
-「この場所大好き♡」 ("I love this place.")
-
-[00:11 - 00:13]
-
-Tokyo train station.
-
-Busy commuters.
-
-Fast walking shot.
-
-She waves:
-
-「次行こー！」 ("Let's go to the next spot!")
-
-[00:13 - 00:15]
-
-Cherry blossom avenue.
-
-Pink petals flying.
-
-Golden sunlight.
-
-She walks backward facing camera.
-
-Cute wink.
-
-Final line:
-
-「また東京で会おうね♡」 ("Let's meet again in Tokyo!")
-
-Freeze frame on her wink.
-
-Rock song finishes on a strong beat.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4d2363d8619752a7794f5e43fe0f00a9/thumbnails/thumbnail.jpg" width="600" alt="Anime Girl Tokyo Travel Vlog">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6117)**
-
-**Author:** [Keskin](https://x.com/craftian_keskin) | **Source:** [Link](https://x.com/craftian_keskin/status/2066976858709671960) | **Published:** Jun 16, 2026
-
----
-### Macro Biological Surreal Skin Forest
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An experimental prompt for a macro cinematic video exploring human skin transforming into a glowing biological forest.
-
-#### 📝 Prompt
-
-```
-Extreme macro shot of human skin under soft clinical light. At this scale, pores resemble craters, fine hairs look like translucent forests, and sweat droplets sit like tiny glass lakes.
-
-Opening frame: the camera travels slowly across the surface of the skin like an aerial landscape. The sound is intimate and abstract , heartbeat, distant wind, low organic resonance.
-
-At the 2-second mark, one pore opens like a flower.
-
-A miniature glowing forest begins growing from beneath the skin. Transparent roots spread under the surface, visible through the tissue like luminous veins. Tiny white flowers bloom from pores, releasing pollen that floats upward in slow motion.
-
-The camera dives beneath the skin surface into a surreal inner garden: capillaries become red rivers, nerves glow like golden roots, and microscopic petals drift through warm biological light.
-
-VFX escalation: the garden expands rapidly. The skin surface becomes a translucent dome above the forest. A human eye appears in the sky, watching from outside the body.
-
-Velocity ramp: a single pollen grain spins toward the lens inside it, an entire memory of a childhood field plays like a tiny hologram.
-
-Final moment: the camera pulls back to reveal the person sitting still in a white room, with faint flowers glowing beneath their skin.
-
-Experimental body-landscape surrealism, macro biological textures, luminous root systems, soft medical realism, poetic body horror without gore, 4K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d542e272beb8fa8fbd5f78b8e1e4db8d/thumbnails/thumbnail.jpg" width="600" alt="Macro Biological Surreal Skin Forest">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6107)**
-
-**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2066943937302983154) | **Published:** Jun 16, 2026
-
----
-### Frozen Mountain Anime Action
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt to animate a mountain summit action sequence based on a storyboard.
-
-#### 📝 Prompt
-
-```
-TITLE: Frozen Mountain Summit
-REFERENCE: Use the uploaded character sheet and storyboard as main visual reference. Keep same designs, outfits, summit location, icy lighting, and 12-beat choreography. Do not add extra characters. Do not change the story.
-```
-
-<img src="https://cms-assets.youmind.com/media/1781682983366_lqrflo_HK8zlpZagAAZRTL.jpg" width="600" alt="Frozen Mountain Anime Action">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6125)**
-
-**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2066928149607412169) | **Published:** Jun 16, 2026
-
----
-### Stormy Cargo Ship Runner Action
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A hyper-realistic cinematic action sequence of a runner navigating the top of stacked containers on a cargo ship during a violent ocean storm.
-
-#### 📝 Prompt
-
-```
-Hyper-realistic cinematic action sequence, 15 seconds, aspect ratio 16:9.  
-
-At night during a violent ocean storm, a lone runner in dark waterproof gear races across the tops of stacked cargo containers on a massive cargo ship. The sea is rough, waves crash against the ship, rain lashes the deck, and powerful wind shakes everything. The containers are wet, slippery, and unstable. No visible face.  
-
-Wide opening shot: the cargo ship cuts through the stormy sea. The runner sprints across the top of stacked containers as lightning flashes in the distance. Some containers shift and tilt as the ship rolls with the waves.  Side tracking shot: the runner jumps from one container to another while nearby containers slide out of position. Metal scrapes against metal, rain hits hard, and ocean spray bursts upward from below.
-
-Dynamic front three-quarter shot: the ship tilts sharply. A row of containers begins to slip and fall toward the edge. The runner keeps moving, making quick jumps across narrowing gaps as containers drop away into the sea.  Final 5 seconds: the action becomes more intense. Several containers slide at once, creating a chain reaction. One container tips and crashes off the ship into the ocean. 
-
-The runner leaps across a widening gap, lands hard on a tilted container, regains balance, then makes one final desperate jump to a stable section near the ship’s upper deck while waves explode below.  Final moment: the runner reaches safer footing as more containers crash into the sea behind, with storm, lightning, and spray filling the background.  
-
-Style: hyper-realistic, cinematic, fast-paced, strong sense of danger and motion, stormy ocean, rain, wind, metal surfaces, crashing waves, dynamic but readable camera movement, no visible face, no celebrity resemblance, no text, no logos, no cartoon style, no slow motion. Keep proportions. Keep style and features.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e65dfa6688b06bbf072c16b61caf1d5d/thumbnails/thumbnail.jpg" width="600" alt="Stormy Cargo Ship Runner Action">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6105)**
-
-**Author:** [DeCat](https://x.com/DeCat2025) | **Source:** [Link](https://x.com/DeCat2025/status/2066911036528058840) | **Published:** Jun 16, 2026
-
----
-### Anime Swordsman Action Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic anime action prompt featuring a white-haired swordsman with a dark aura, designed for complex motion and MAPPA-style impact frames.
-
-#### 📝 Prompt
-
-```
-A cursed anime swordsman with wild white hair, glowing crimson eyes, torn black cloak whipping violently, massive black blade leaking dark energy, calm expression hiding terrifying power
-- Stands alone in a destroyed city avenue under bright smoky daylight as dozens of demons crawl from broken buildings, camera slow push-in from behind then crash zoom into his glowing eyes; 
-- He vanishes into a blur, chaining impossible sword slashes across rooftops, walls and mid-air, afterimages multiplying around enemies, whip pans snapping between each cut, MAPPA-style impact frames, black-red shockwaves splitting cars, concrete and building facades; 
-- he lands silently in the center of the street, blade lowered, all demons sliced apart at once behind him, a final dark energy wave expands outward, camera pulls back high above the ruined city to reveal total devastation and his absolute victory
-- Daylight urban battlefield, smoke, falling debris, cracked asphalt, burning cars, red-black aura, frantic anime action atmosphere.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2066898674483916801/pu/img/I3yV2Z6KXRO2QH7R.jpg" width="600" alt="Anime Swordsman Action Sequence">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6114)**
-
-**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2066898694322962775) | **Published:** Jun 16, 2026
-
----
-### Anime Convention Vlog Cosplay Juggling
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A photorealistic found-footage style video of a red-haired cosplayer juggling apples at an outdoor convention with natural lighting and handheld camera movement.
-
-#### 📝 Prompt
-
-```
-[Style] Convention Vlog / Found Footage, mobile vertical screen texture, photorealistic, slight handheld shake and autofocus breathing, natural outdoor cloudy light, no cinematic filters, no anime feel.
-[Duration] 10 seconds
-[Scene] Outdoor convention lawn, background with green trees, blurry crowds, and other cosplayers, soft scattered light on a cloudy day.
-[Character] Red-haired girl with pigtails (bright red long pigtails, black headband, thin-framed glasses, red stand-collar cheongsam-style cosplay outfit, black fingerless gloves).
-
-[00:00-00:02] Shot 1: Opening (Handheld Medium / Auto-focus Breathing)
-Medium-close handheld shot, red-haired girl strikes a serious character pose facing the camera, holding two yellow-red apples in each hand with a third in her palm, lips moving as if reciting lines, slight autofocus hunting. Crowds in the background are blurred.
-
-[00:02-00:05] Shot 2: Juggling (The Juggling / Motion Track)
-She throws the apples; three apples are tossed in the air consecutively and fall back into her hands. Her hands in black gloves move quickly up and down to catch and throw, with apples forming a continuous arc. The camera follows the apples with a slight tilt, and she remains focused on the air throughout.
-
-[00:05-00:08] Shot 3: Taking a Bite (The Twist / Natural Bite)
-The juggling rhythm continues; as an apple falls into her hand, she smoothly brings it to her mouth and takes a large bite, then immediately throws it back into the air without stopping. Her cheeks bulge as she chews while continuing to juggle, maintaining her performance state for comedic effect.
-
-[00:08-00:10] Shot 4: Photobomb + Ending (Photobomb + Freeze)
-Focus shifts back as a black-haired coser with horns pops up from behind with their mouth open. The red-haired girl catches all three apples in her arms with bulging cheeks, blinks at the camera with the bitten apple visible on top, ending with ambient noise and sparse applause.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1efb5b833b9d4c6a5adbdd8f672d7bd4/thumbnails/thumbnail.jpg" width="600" alt="Anime Convention Vlog Cosplay Juggling">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6103)**
-
-**Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2066872731279245809) | **Published:** Jun 16, 2026
-
----
-### Animated Football Stadium Rivalry Duel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic animation prompt depicting a high-stakes football duel between Argentine and Brazilian star players in a rainy World Cup stadium.
-
-#### 📝 Prompt
-
-```
-A premium animated sports-cartoon sequence set in a giant World Cup final stadium at night, using Brazil yellow, emerald green, electric blue, and stadium white throughout, with a luminous LED score ribbon, crowd mosaics, and wet reflective grass under floodlights. Open with a wide crane-down over the roaring stadium as a Messi-inspired Argentine captain in a sky-blue-and-white striped kit faces a Neymar-inspired Brazilian forward in Brazil’s yellow jersey near the penalty area; cut to a medium lateral tracking shot from the touchline as the Brazilian forward surges toward the ball and the Argentine captain shadows him stride for stride across the soaked turf; cut to a tight push-in close-up on the Brazilian forward’s determined face as he plants his foot, eyes locked on the ball, rim-lit by floodlights; cut to an arcing two-shot circling both rivals in a tense duel, jerseys whipping and the stadium bowl curving behind them; finish with a close dolly-in on the decisive strike as the ball rockets toward goal, spray kicking up from the wet grass and the moment landing as Brazil’s winning goal in a triumphant, high-stakes, family-friendly cinematic cartoon style.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1349233e46bdf9f6a6139729b4a27db1/thumbnails/thumbnail.jpg" width="600" alt="Animated Football Stadium Rivalry Duel">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6109)**
-
-**Author:** [Zulkar Naim](https://x.com/zulkarnaimx) | **Source:** [Link](https://x.com/zulkarnaimx/status/2066872065085653090) | **Published:** Jun 16, 2026
-
----
-### Global Football Dream Cinematic Story
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An emotional and cinematic 15-second story following children playing football globally, transitioning into a futuristic stadium celebration.
-
-#### 📝 Prompt
-
-```
-Create an ultra-realistic cinematic 15-second football film titled "One Ball, One Dream."
-
-0–3 sec:
-At dawn, an old football rests on a quiet dirt road. Rapid cinematic cuts reveal children playing football across the globe—on a South American shoreline, in a rural African community, along a European neighborhood street, and atop a busy Asian rooftop. The mood is inspiring and emotional.
-
-3–6 sec:
-The ball lifts into the air in dramatic slow motion. As it rises, the surroundings seamlessly transform into a spectacular futuristic World Cup-style stadium packed with fans, bright lights, and electric energy. The sound of the crowd intensifies.
-
-6–9 sec:
-A young athlete charges forward. Cinematic close-ups capture powerful footsteps on the pitch, focused eyes, and beads of sweat reflecting the stadium lights. Determination fills the scene.
-
-9–12 sec:
-The player unleashes a powerful shot. Time appears to freeze as the ball glides through the air, surrounded by shimmering particles, glowing light trails, and the atmosphere of a world-class arena.
-
-12–15 sec:
-The ball finds the back of the net. The stadium erupts with celebration. Fireworks illuminate the sky as the camera rises above the arena, revealing countless lights and football fans connected around the world.
-
-Final Frame:
-"One Game. One World."
-
-Style:
-Photorealistic visuals, emotional sports storytelling, global football celebration, cinematic lighting, epic slow-motion sequences, authentic stadium atmosphere, premium commercial production quality, fluid camera movement, ultra-detailed 4K–8K rendering.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2066840058322092032/img/kF21iR9eC0F6yoZd.jpg" width="600" alt="Global Football Dream Cinematic Story">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6106)**
-
-**Author:** [MykaAI](https://x.com/myka4AI) | **Source:** [Link](https://x.com/myka4AI/status/2066840171778076888) | **Published:** Jun 16, 2026
-
----
-### Emotional Kitchen Confrontation Drama
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video generation prompt for creating an intimate, high-tension cinematic drama between a couple in a modern kitchen.
-
-#### 📝 Prompt
-
-```
-Intimate cinematic drama, natural mixed lighting in a modern kitchen at night, subtle handheld feel with controlled precision, emotional realism, shallow depth of field on faces.
-
-[TIMELINE]
-
-0-4s: Medium two-shot. Man and woman stand close in tense confrontation. Man speaks with rising anger, jaw tight. Woman listens, eyes narrowing. Camera begins slow, almost imperceptible push-in.
-
-4-8s: Man’s anger peaks. He slams his palm on the wooden table. Glass and cutlery shift realistically with the impact. Woman flinches but holds her ground, micro-expression of hurt turning into defiance. Camera continues pushing in, now favoring her face.
-
-8-12s: Woman delivers her reply with cold precision. Subtle head tilt and steady eye contact. Man’s breathing changes, shoulders drop slightly in defeat. Camera slowly orbits 15 degrees around them, keeping both faces in frame as tension shifts.
-
-12-15s: Final beat. Woman turns and walks out of frame. Man stays, staring at the table, breathing heavy. Camera settles into a tighter frame on his face, capturing the quiet aftermath. Subtle lighting shift as she exits.
-
-nuanced facial micro-expressions and emotional performance, realistic object interaction and physics on impact, coherent character consistency, cinematic drama lighting, movie-level subtlety.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e823d0897b34e7f24141cf65520b38e/thumbnails/thumbnail.jpg" width="600" alt="Emotional Kitchen Confrontation Drama">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6108)**
-
-**Author:** [TechHalla](https://x.com/techhalla) | **Source:** [Link](https://x.com/techhalla/status/2066808751336652927) | **Published:** Jun 16, 2026
-
----
-### The Dream of Billions Football Film
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt for a football-themed short film that transitions from a dusty street to a futuristic World Cup stadium.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic 15-second football short film called "The Dream of Billions".
-0–3 sec:
-A worn football lies alone on a dusty street at sunrise. Quick cinematic flashes show children playing football in different parts of the world: Brazil beach, African village, European street, Asian rooftop. Emotional atmosphere.
-3–6 sec:
-The football rises into the air in slow motion. The environment transforms into a massive futuristic FIFA World Cup stadium filled with lights and energy. Crowd roar builds.
-6–9 sec:
-A young footballer sprints toward the ball. Cinematic close-ups of boots hitting the grass, determined eyes, stadium lights reflecting in sweat.
-9–12 sec:
-The player strikes the ball. Time slows down. The ball travels through the air surrounded by glowing particles and stadium lights.
-12–15 sec:
-The ball hits the net. The entire stadium erupts. Fireworks explode above the arena. The camera pulls high above the stadium showing millions of lights around the world.
-Final frame:
-"The World Plays As One."
-Style:
-Ultra realistic, emotional storytelling, FIFA World Cup atmosphere, cinematic lighting, dramatic slow motion, realistic crowd energy, premium sports commercial quality, smooth camera movement, 4K or 8K quality.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/500fcf08dcd3a4b1017b34a5a9b04639/thumbnails/thumbnail.jpg" width="600" alt="The Dream of Billions Football Film">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6121)**
-
-**Author:** [Maverick | AI](https://x.com/RizwanAly07) | **Source:** [Link](https://x.com/RizwanAly07/status/2066808313166393432) | **Published:** Jun 16, 2026
-
----
-### Kawaii Chaotic Anime Music Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive music video generation prompt for high-energy anime dancing, featuring rapid cuts, expressive character motions, and a vibrant hyper-pop aesthetic.
-
-#### 📝 Prompt
-
-```
-Use the uploaded images as the primary visual references for character design, facial style, color palette, graphic motifs, and overall kawaii-chaotic tone.
-
-15-second music-video style animation, ultra cute and hyper pop, fast-paced, candy-colored, chaotic but readable, anime-inspired graphic motion.
-
-Main direction:
-
-The characters dance in a cute, playful, slightly chaotic “mob dance” / “idol crowd dance” feeling. 
-
-The motion should feel inferred naturally from the reference images, not rigid choreography.
-
-Emphasize fast switching expressions, group-like energy, rapid cut transitions, and a dense pop visual atmosphere.
-
-Visual style:
-
-Pastel neon palette, pink, cyan, lemon yellow, mint, lavender.
-
-Bold clean outlines, flat shading, sticker-like icons, bows, flowers, sparkles, spirals, abstract shapes, pop symbols, glitchy accents, halftone dots, split panels, manga-like framing, layered collage feeling.
-
-Cute and stylish chaos, not horror, not grotesque.
-
-Character motion:
-
-Generate adorable dance movement with small bouncy steps, side-to-side body sway, quick hand poses, synchronized hops, idol-style gestures, playful pointing, little spins, shoulder pops, head tilts, wink poses, cheerful bouncing, cute rhythmic stepping.
-
-Include moments that feel like a crowd dance or mob dance, even if only one or a few characters are visible at a time.
-
-The dance should feel energetic, spontaneous, and rhythm-driven.
-
-Expression direction:
-
-Rapid expression changes: smile, wink, surprised face, excited open-mouth face, mischievous grin, hypnotic stare, sparkling eyes, dizzy spiral-eye mood, overjoyed face, playful chaos.
-
-Expressions should switch quickly with the cuts, giving a hyperactive kawaii feeling.
-
-Editing / camera:
-
-Very fast-cut visual rhythm.
-
-Use rapid cut-ins, jump cuts, smash zooms, push-ins, pull-backs, diagonal framing, split-screen panels, close-ups of faces, occasional medium shots for dance, and layered pop composition.
-
-Cuts can change every 0.2 to 0.8 seconds.
-
-Alternate between close-up face shots, upper-body dancing, and brief group/crowd-energy compositions.
-
-The camera should feel lively and music-synced.
-
-Scene flow:
-
-0–3s:
-
-Introduce the character(s) with fast close-ups, blinking, cute smile, eye highlights, bows/flowers/icons popping in, fast panel cuts.
-
-3–6s:
-
-Start the dance with small synchronized idol-like motions, side steps, hand poses, bouncing shoulders, quick expression switches.
-
-6–9s:
-
-Increase the chaos. More split panels, more characters or crowd-energy feeling, fast alternating expressions, quick hops, spins, and rhythmic pose changes.
-
-9–12s:
-
-Peak energy. Cute mob-dance vibe, de
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c69895c720ff407498107e7cf8a9ca0c/thumbnails/thumbnail.jpg" width="600" alt="Kawaii Chaotic Anime Music Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=6168)**
-
-**Author:** [Toshi@ニャルオAI](https://x.com/Toshi_nyaruo_AI) | **Source:** [Link](https://x.com/Toshi_nyaruo_AI/status/2066794105665970274) | **Published:** Jun 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -3898,6 +3498,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-22T04:32:58.421Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-22T13:54:46.115Z</sub>
 
 </div>
