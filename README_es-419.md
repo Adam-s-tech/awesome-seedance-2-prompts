@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **4096** |
+| 📝 Total de prompts | **4115** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-06-23** |
 
@@ -361,6 +361,419 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Prompt de encuentro casual estilo anime
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt para crear una escena de encuentro casual al estilo anime clásico en una esquina por la mañana, con una atmósfera brillante y cómica de comedia romántica.
+
+#### 📝 Prompt
+
+```
+Una escena de encuentro casual al estilo anime clásico que ocurre en una esquina por la mañana. Presenta una atmósfera de introducción de comedia romántica brillante, amigable y ligeramente cómica. Está expresado como una dirección de anime versátil y original en lugar de una reproducción de una obra específica.
+
+Cómo usar imágenes de referencia
+
+Imagen de referencia 1: Protagonista corriendo con prisa
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069207156101156864/img/DM12WSloBCxO66zI.jpg" width="600" alt="Prompt de encuentro casual estilo anime">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6339)**
+
+**Autor:** [DACO@AIクリエイト](https://x.com/DACO_2026) | **Fuente:** [Link](https://x.com/DACO_2026/status/2069207386192228510) | **Publicado:** Jun 22, 2026
+
+---
+### Cocina de ramen en estilo anime japonés 2D
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de cocina estilo anime enfocado en ASMR que utiliza guiones gráficos como referencia de composición para crear una secuencia vibrante de 15 segundos de la preparación de un tazón de ramen.
+
+#### 📝 Prompt
+
+```
+Utiliza guiones gráficos de bocetos a lápiz como referencias visuales. Emplea los guiones gráficos únicamente para la composición, los ángulos de cámara, los movimientos de las manos, la colocación de los alimentos y la continuidad de la cocción, y convierte el video final en un video de cocina estilo anime japonés 2D a todo color y de alta calidad. No conserves la apariencia de los bocetos a lápiz en blanco y negro en el video final. Como un video de cocina estilo anime japonés 2D de alta calidad de 15 segundos, representa un ramen increíblemente delicioso. Estilo anime a todo color, colores vibrantes que estimulan el apetito, edición dinámica y cortes de ritmo rápido. Sin embargo, no debe ser una cocción rápida, ni acelerada, ni en cámara rápida. Haz que cada acción de cocina sea fácil de seguir, físicamente natural y maneja los movimientos de las manos con cuidado. Mantén un manejo natural de los utensilios y una clara continuidad de los alimentos. Sin live-action, sin fotorrealismo, sin CGI 3D, sin estilo de videojuego, sin subtítulos, sin texto, sin logotipos, sin marcas de agua, sin narración, sin diálogos, sin música de fondo. La comida es la protagonista y un personaje aparece solo al final para dar un bocado con alegría. Secuencia de acción cronológica (0:00 - 0:15): [0:00 - 0:02] El avance: Primer plano macro extremo de un tazón de ramen shoyu terminado. Un vapor espeso y volumétrico se eleva con elegancia. La cámara se enfoca en la superficie brillante de un ajitama (huevo marinado) y una hoja crujiente de nori. [0:02 - 0:03] La preparación: Corte rápido a un primer plano de la mano de un chef cortando rápidamente un rollo grueso y jugoso de panceta de cerdo chashu sobre una tabla de madera con un cuchillo pesado. [0:03 - 0:04] El hervor: Toma dinámica desde un ángulo bajo. Un teppo (canasta para fideos) lleno de fideos amarillos crudos se sumerge en una olla de agua hirviendo. Una nube masiva de vapor se dirige hacia la lente. [0:04 - 0:05] La base: Primer plano extremo. Un cucharón vierte una tare (base de salsa de soja) espesa, oscura y brillante en el fondo de un tazón de cerámica impecable. [0:05 - 0:06] El sacudido: Corte de movimiento rápido. La canasta de fideos se saca del agua y se sacude vigorosamente dos veces. Gotas de agua caliente salen despedidas de los fideos al estilo anime en cámara lenta. [0:06 - 0:07] El acomodo: Primer plano de palillos deslizando con elegancia los fideos humeantes y perfectamente cocidos fuera de la canasta, acomodándolos cuidadosamente en el tazón con tare. [0:07 - 0:08] El sellado: Primer plano extremo de la llama azul de un soplete de cocina quemando la superficie de las rebanadas de chashu. La grasa chisporrotea, explota y se carboniza agresivamente. [0:08 - 0:10] El caldo: Toma estética en cámara lenta. Un cucharón vierte un rico caldo de cerdo dorado y humeante sobre los fideos acomodados. El caldo se arremolina y se mezcla dinámicamente con la tare oscura en el fondo. [0:10 - 0:11] El ensamblaje: Montaje de cortes rápidos. Los palillos colocan perfectamente el chashu carbonizado, los brotes de bambú crujientes y las cebolletas verdes brillantes sobre los fideos. El ajitama se deja caer suavemente en el caldo, creando una pequeña onda. [0:11 - 0:13] El bocado: La cámara se aleja ligeramente. Un personaje de apoyo estilo anime, tierno y muy estilizado, toma una gran cantidad de fideos con los palillos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069153748669353984/img/EYgIVfJZiwn2x040.jpg" width="600" alt="Cocina de ramen en estilo anime japonés 2D">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6333)**
+
+**Autor:** [Iqra Saifi](https://x.com/IqraSaifiii) | **Fuente:** [Link](https://x.com/IqraSaifiii/status/2069154640445505573) | **Publicado:** Jun 22, 2026
+
+---
+### Escena nostálgica de una comedia de los años 80
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt integral para crear una escena nostálgica de una comedia de los años 80, que incluye estética visual, diálogos y movimientos de cámara específicos.
+
+#### 📝 Prompt
+
+```
+Una acogedora sala de estar suburbana en 1987. Lámparas de tungsteno cálidas, paneles de madera, plantas de interior, cintas VHS y un voluminoso televisor CRT crean una auténtica atmósfera de los años 80. Un apuesto joven de 18 años con cabello estilo 'feathered' y una chaqueta de mezclilla está sentado en un sofá a cuadros junto a una linda joven de 18 años con cabello rizado hasta los hombros, suéter de colores pastel y jeans. Están relajados, sonriendo y conversando como amigos de toda la vida. La escena tiene el aspecto de una comedia clásica de horario estelar, con un suave grano de película, una ligera fuga de color VHS y risas suaves de la audiencia después de los momentos cómicos.
+
+La cámara comienza en un plano medio de dos personas con un sutil movimiento de dolly. Ambos actores mantienen contacto visual natural, expresiones faciales realistas, parpadeo y gestos casuales con las manos. La iluminación cálida y práctica y un ligero halo alrededor de las lámparas brillantes evocan la película Kodak.
+
+Diálogo:
+
+Joven (pensativo):
+ "Sabes, tal vez algún día las computadoras sean lo suficientemente inteligentes como para ayudar a hacer películas".
+Joven (riendo suavemente):
+ "¿Películas? Vamos. ¿Te refieres a robots escribiendo guiones y haciendo escenas completas?"
+
+Joven:
+ "Sí, tal vez. Imagina escribir una idea y verla cobrar vida".
+Joven (sonriendo):
+ "Eso suena loco. Me pregunto si la IA alguna vez podrá hacer películas".
+
+Intercambian miradas divertidas y ríen juntos. La audiencia ríe levemente. La cámara se acerca lentamente mientras el televisor CRT parpadea de fondo.
+Estilo visual
+
+Estética auténtica de comedia de los años 80
+Colores de película Kodak 5247
+
+Halo suave y grano analógico
+
+Iluminación de comedia multicámara
+Movimiento de cámara dolly suave
+Sincronización labial y expresiones faciales naturales
+Ligeros artefactos VHS y brillo de color
+Ambiente acogedor y nostálgico
+Pista de risas de audiencia sutil
+Realismo de acción en vivo
+Prompt negativo
+ropa moderna, teléfonos inteligentes, CGI, habitación futurista, logotipos de redes sociales, anime, dibujos animados, movimiento de cámara excesivo, baja resolución, manos distorsionadas, rostros deformados, expresiones exageradas, iluminación sobreexpuesta, superposiciones de texto, subtítulos, atmósfera de terror oscuro, gradación cinematográfica azul-naranja, nitidez digital 4K, piel de plástico, movimientos extraños
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069127467022036992/img/nmUH2kAvFhAdEDh-.jpg" width="600" alt="Escena nostálgica de una comedia de los años 80">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6327)**
+
+**Autor:** [Brent Lynch](https://x.com/BrentLynch) | **Fuente:** [Link](https://x.com/BrentLynch/status/2069129329590895019) | **Publicado:** Jun 22, 2026
+
+---
+### Transformación cinematográfica de un astronauta solar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico altamente detallado de 15 segundos para Seedance 2.0 que presenta la transformación de un astronauta en un Ser Solar cerca de una estrella colosal, con efectos visuales avanzados y una banda sonora orquestal.
+
+#### 📝 Prompt
+
+```
+Secuencia de transformación cósmica ultracinematográfica de 15 segundos cerca de la superficie de una estrella colosal. Un astronauta solitario flota sobre un océano de plasma solar ardiente. Gigantescas llamaradas solares estallan en el horizonte mientras ríos de luz fundida fluyen bajo tormentas magnéticas arremolinadas. La atmósfera es impresionante, cósmica e inmensa. La cámara gira lentamente alrededor del astronauta mientras una intensa luz solar dorada inunda el encuadre. El traje espacial brilla cada vez más bajo una energía estelar imposible. De repente, la estrella responde. El plasma solar comienza a elevarse desde la superficie y a girar alrededor del astronauta en gigantescas cintas luminosas. Arcos magnéticos conectan el cuerpo con la estrella debajo. Comienza la transformación. Grietas doradas aparecen en el traje espacial. Una luz estelar cegadora emerge desde el interior. El traje se fragmenta en partículas brillantes que se disuelven en corrientes de plasma. La cámara se acerca a medida que el cuerpo del astronauta se vuelve translúcido. En su interior, estrellas en miniatura se encienden bajo la piel. Las venas se transforman en ríos fluidos de energía solar. La transformación se acelera. Masivas llamaradas solares orbitan alrededor del cuerpo. Alas de plasma dorado emergen detrás de la figura. El espacio circundante se curva bajo un calor y una radiación inmensos. El astronauta se eleva sobre la superficie estelar mientras su cuerpo evoluciona hacia energía de fusión viviente. La carne se convierte en luz incandescente. Las extremidades se forman a partir de tormentas solares giratorias, campos magnéticos y plasma radiante. Erupciones coronales completas responden a la transformación. En el clímax, el astronauta se convierte en un Ser Solar, una magnífica entidad cósmica compuesta de fuego estelar, corrientes de plasma, energía de fusión dorada y luz celestial radiante. Su cuerpo brilla más que la estrella circundante. Gigantescas alas de fuego solar se extienden a través del espacio mientras arcos magnéticos los conectan con la superficie estelar inferior. Momento cinematográfico final: el Ser Solar extiende ambos brazos. Una colosal llamarada solar estalla desde la estrella y gira a su alrededor como una corona cósmica. La cámara se aleja para revelar a la figura radiante de pie sobre la estrella como un dios recién nacido de fuego estelar. Estilo: fantasía cósmica ultracinematográfica, transformación estelar, simulación realista de plasma solar, eyecciones de masa coronal, visualización de campos magnéticos, energía dorada radiante, cinematografía a escala espacial, estética de astrofísica fotorrealista, presencia celestial divina, calidad de efectos visuales AAA, sin texto, sin superposiciones. Audio: banda sonora orquestal cósmica épica, coro celestial, resonancia estelar profunda, oleadas de plasma solar, zumbidos de energía magnética, ambiente cósmico, crescendo cinematográfico ascendente, atmósfera divina trascendente.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2069118256141475840/pu/img/VwitEZnFPD3M1drk.jpg" width="600" alt="Transformación cinematográfica de un astronauta solar">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6341)**
+
+**Autor:** [LudovicCreator](https://x.com/LudovicCreator) | **Fuente:** [Link](https://x.com/LudovicCreator/status/2069118283085734368) | **Publicado:** Jun 22, 2026
+
+---
+### Ambiente de puesto callejero nocturno
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt orientado a 'Vibe' para Seedance 2.0 que se centra en la narrativa, la iluminación atmosférica y la textura emocional en lugar de los ajustes técnicos de la cámara.
+
+#### 📝 Prompt
+
+```
+85mm f1.4 macro, 120fps, dolly 0.6x, congelar el sudor a 1/250… Puesto callejero nocturno. El cocinero mueve el wok; una bola de fuego naranja ilumina su rostro sudoroso. Los fideos vuelan. Los sirve en el plato y se seca el sudor de la frente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069103263505580032/img/V_N-9P2wqKnBgz62.jpg" width="600" alt="Ambiente de puesto callejero nocturno">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6325)**
+
+**Autor:** [Alisa Qian](https://x.com/alisaqqt) | **Fuente:** [Link](https://x.com/alisaqqt/status/2069103953099505709) | **Publicado:** Jun 22, 2026
+
+---
+### Video musical de banda de rock anime cinematográfico
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt integral para generar un video musical de anime de alta calidad que presenta una banda de rock femenina de 5 integrantes, con instrucciones estilísticas y técnicas detalladas.
+
+#### 📝 Prompt
+
+```
+Video musical de anime de ultra alta calidad. Una banda de rock femenina de 5 integrantes. Expresión abrumadora de alto contraste basada en el negro. Gran espacio negativo. Producción de siluetas audaces. Diseño gráfico sofisticado. Expresión visual como una fusión de un opening de anime y un video musical en vivo. Fondo negro absoluto. Enormes paneles de color verticales en la pantalla. Amarillo, naranja, rojo, cian y verde. Paneles verticales de colores primarios que simbolizan el color de cada integrante. Los personajes encajan dentro de los paneles y están parcialmente silueteados por luces y sombras. Negros profundos. Colores primarios intensos. Composición audaz de planos de color. Fusión de diseño gráfico plano y dibujo de anime delicado. El diseño de personajes es de la más alta calidad en la animación japonesa moderna. Arte lineal nítido. Ojos hermosos. Representación delicada del cabello. Sombreado artístico. Iluminación de alta densidad.
+
+■ Personajes
+Amarillo: Cabello rubio largo. Ojos azules. Atmósfera intelectual y tranquila.
+Naranja: Corte bob naranja corto. Ojos naranjas. Guitarrista apasionada.
+Rojo: Cabello negro corto. Ojos rojos. Vocalista misteriosa.
+Cian: Cabello largo de dos tonos, blanco y negro. Ojos dorados. Genial y andrógina.
+Verde: Coletas de color verde oscuro. Ojos verdes. Presencia taciturna y aguda.
+Todas visten trajes de concierto negros. Nada de trajes de ídolo. Sin volantes. Sin elementos de fantasía. Estilo de banda de rock moderna.
+
+■ Dirección visual
+Cortes de alta velocidad sincronizados con la música. Primeros planos de ojos. Cabello ondeando al viento. Puntas de los dedos agarrando el micrófono. El momento en que se rasguea la guitarra. El momento en que chocan los platillos de la batería. Focos cortando la oscuridad. Humo, partículas, retroiluminación, destellos de lente. El calor de un lugar de conciertos. Luces de la audiencia dibujando estelas de luz. Producción de siluetas. Pantalla dividida. Cortes de ritmo. Montaje de alta velocidad. La composición de la pantalla se repite: Silueta de cuerpo completo ↓ Perfil ↓ Primer plano de ojos ↓ Escena de interpretación ↓ Grupo completo ↓ Toma amplia del concierto.
+
+■ Trabajo de cámara
+Movimiento dinámico. Paneos de alta velocidad. Movimiento de slider. Dolly in. Dolly out. Perfectamente sincronizado con el ritmo de la música. Fuerte variación entre la quietud y el movimiento de alta velocidad.
+
+■ Diseño de pantalla
+Fondo negro enorme. Espacio negativo audaz. Estética de diseño como una portada de revista. Video de opening de anime. Portada de álbum. Animación del logo de la banda. Motion graphics. Formas geométricas abstractas. Transiciones usando paneles de color. Dirección a través de la composición de planos de color. Impacto visual intenso. Elegante, genial, oscuro, sofisticado, urbano. Sentido gráfico con estilo. Video musical de anime japonés de alta gama. Video de concierto de alta clase. Fusión de animación y diseño gráfico. Ultra alta definición. Ultra alta calidad. Nivel cinematográfico. Calidad de video musical promocional. Animación de la más alta calidad.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069095256499613699/img/2dr6rWszeH3opJv5.jpg" width="600" alt="Video musical de banda de rock anime cinematográfico">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6342)**
+
+**Autor:** [フジクマ/C.A. Wisteria](https://x.com/TianY64085) | **Fuente:** [Link](https://x.com/TianY64085/status/2069101341243527512) | **Publicado:** Jun 22, 2026
+
+---
+### Celebración de tiro penal en la Copa Mundial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de fútbol de alto riesgo que captura la carrera de un tiro penal y la secuencia de celebración, con un enfoque en la consistencia del personaje y la tensión cinematográfica.
+
+#### 📝 Prompt
+
+```
+El protagonista (Refrance Image), vestido con la camiseta argentina de rayas blancas y celestes, permanece como el foco absoluto del encuadre; su rostro es claramente visible y no está obstruido, con una expresión resuelta, tranquila y concentrada. La cámara gira constantemente alrededor del protagonista, con el telón de fondo del jubiloso estadio de la Copa Mundial, los jugadores y el portero alemanes, y las luces y banderas de las gradas, pero ninguno de estos elementos eclipsa al sujeto principal. 0-3 segundos: Antes del tiro penal, el protagonista comienza su carrera, la cámara lo sigue con un estabilizador. La cámara retrocede rápidamente desde el costado y el frente, manteniendo la parte superior del cuerpo y el rostro del protagonista centrados en el encuadre. Se utiliza una ligera cámara lenta en el toque final, la potencia explota mientras el balón vuela a gran velocidad hacia la portería. 3-5 segundos: La cámara cambia rápidamente a una vista de seguimiento, el balón describe una trayectoria potente hacia la esquina superior derecha de la portería. El portero alemán realiza una atajada desesperada pero falla el balón, que entra en la red. La red vibra violentamente y las gradas estallan en vítores. 5-8 segundos: La cámara retrocede rápidamente hacia el protagonista, quien corre emocionado hacia la cámara para celebrar la victoria, con los brazos extendidos, gritando y con el rostro claramente visible. La cámara se mueve rápidamente hacia atrás para mantener un seguimiento frontal. Los compañeros de equipo argentinos corren desde atrás para abrazar al protagonista, formando un círculo de celebración, pero el rostro del protagonista permanece visible en todo momento, posicionado en el centro del encuadre. La imagen general está llena de victoria, pasión y una sensación de épica de la Copa Mundial, con iluminación cinematográfica, fotografía de movimiento realista, tomas dinámicas, fuerte tensión emocional y un estilo realista de alta calidad.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069100728103399424/img/2pzWHIzM2AgkANt0.jpg" width="600" alt="Celebración de tiro penal en la Copa Mundial">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6334)**
+
+**Autor:** [auqib](https://x.com/auqibhabib) | **Fuente:** [Link](https://x.com/auqibhabib/status/2069100811742020025) | **Publicado:** Jun 22, 2026
+
+---
+### Comercial 3D de bebida energética de fresa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt integral para un comercial de animación 3D que presenta a un personaje principal en una ciudad de neón descubriendo una bebida de fresa brillante.
+
+#### 📝 Prompt
+
+```
+Crea un video comercial animado vertical y cinematográfico de 15 segundos con un estilo de animación 3D premium.
+Relación de aspecto: 9:16 vertical
+
+Duración: 15 segundos
+Estilo: calidad de película animada de alta gama, personajes 3D realistas, iluminación cinematográfica, movimiento de cámara dinámico, estética de anuncio publicitario.
+
+Historia:
+Una ciudad futurista de neón durante la noche. Un personaje principal carismático camina por las calles brillantes en cámara lenta. La cámara comienza desde abajo y se eleva dramáticamente a medida que el héroe entra. La ciudad refleja luces coloridas sobre el pavimento mojado.
+El héroe luce exhausto y sediento. Un primer plano muestra sudor, una expresión facial dramática y ondas de calor a su alrededor.
+De repente, descubre una lata de bebida sabor fresa brillante sobre un pedestal futurista. La lata brilla con energía mágica, destellos y rayos de luz cinematográficos.
+El héroe corre instantáneamente hacia ella con una velocidad increíble. Utiliza tomas de seguimiento dinámicas, desenfoque de movimiento, efectos de velocidad estilo anime y movimientos de cámara dramáticos.
+El héroe toma la lata en cámara lenta. Partículas de fresa, burbujas y gotas de líquido brillante flotan alrededor del producto.
+El héroe abre la lata. Una explosión masiva de efervescencia estalla. Da un sorbo refrescante. Su expresión cambia a pura emoción y energía.
+Comienza una transformación impulsada por fresa. Un tornado de energía de fresa lo rodea. La ciudad se vuelve más brillante. El héroe aterriza en una poderosa pose de superhéroe.
+Toma final:
+ Un packshot de producto premium. La lata de bebida de fresa llena la mayor parte del encuadre. El héroe se encuentra a su lado con confianza. Fresas flotantes, burbujas, partículas brillantes, iluminación publicitaria de lujo.
+Estilo de cámara:
+ animación cinematográfica estilo Hollywood
+ transiciones de cámara fluidas
+ tomas macro de producto
+ momentos en cámara lenta
+ seguimiento dinámico
+ zooms dramáticos
+ movimiento de órbita de 360 grados
+Calidad:
+ animación 3D ultra realista
+ comercial de bebidas premium
+ texturas de alto detalle
+ profundidad de campo cinematográfica
+ calidad de renderizado 8K
+ efectos visuales profesionales
+ aspecto de anuncio de estudio
+Termina con el eslogan en negrita:
+ “¡EXPLOTA DE DIVERSIÓN CON FRESA!”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069091898418151424/img/KZMmpolodOkk7DSW.jpg" width="600" alt="Comercial 3D de bebida energética de fresa">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6324)**
+
+**Autor:** [Harboris](https://x.com/harboriis) | **Fuente:** [Link](https://x.com/harboriis/status/2069091978764263443) | **Publicado:** Jun 22, 2026
+
+---
+### Drama cinematográfico de transformación de chica gato
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt de video de múltiples segmentos para Seedance 2.0 que crea un cortometraje dramático cinematográfico de 45 segundos. Presenta a un emperador y una escena de transformación de chica gato con iluminación detallada, diseños de personajes y guion gráfico plano a plano.
+
+#### 📝 Prompt
+
+```
+Cortometraje dramático de 45 segundos, 16:9, estilo cinematográfico, iluminación de calidad cinematográfica, palacio chino antiguo de alta gama, textura surrealista.
+
+Escena: Una lujosa cámara imperial a altas horas de la noche, una enorme cama de dragón con cortinas de seda dorada, luz de luna entrando por la ventana, luz de velas parpadeante que contrasta con la fría luz azul de la luna y una tenue niebla blanca flotando en el aire.
+
+Personajes: El protagonista masculino es un emperador alto, frío y dominante con rasgos faciales afilados, ojos profundos con gran intensidad, vistiendo una túnica de dragón negra con bordes dorados; la protagonista femenina es una chica gato blanca tras la transformación, con largo cabello blanco como la nieve y lindas orejas de gato, ojos marrones con sombra de ojos de color púrpura claro, maquillaje exquisito como una muñeca SD, falda de gasa blanca fina, figura pequeña y un temperamento perezoso pero obstinado; la Emperatriz Viuda es una belleza de mediana edad majestuosa y severa; el asesino es un hombre de mediana edad delgado y apuesto con una mirada afilada como un cuchillo.
+
+Estilo: Iluminación de calidad cinematográfica, profundidad de campo reducida, textura de fotografía de moda de estilo antiguo de alta gama, gradación de color cinematográfica, detalle extremo, con el pelaje de las orejas de gato moviéndose ligeramente con la brisa.
+
+Guiones gráficos:
+0-3s: El emperador se sienta solo junto a la cama del dragón, su perfil frío sumido en la luz de la luna, acariciando suavemente a un gato blanco como la nieve a su lado.
+3-6s: El gato blanco se acurruca cómodamente en sus brazos y el emperador revela una rara mirada de ternura.
+6-9s: Corte a la cámara de la Emperatriz Viuda, su rostro lleno de severa ira, golpeando la mesa: "¡El Emperador duerme con un gato todas las noches y rechaza la selección, averigüen por qué de inmediato!"
+9-12s: Los eunucos se retiran con la cabeza gacha, la escena corta rápidamente a un asesino vestido de negro colándose en el palacio.
+12-15s: El asesino se acerca como un fantasma, el emperador levanta la vista alerta y el gato blanco salta repentinamente en señal de alarma.
+
+----------------------
+
+Continuación rápida y fluida, mismo estilo, cortes aún más rápidos.
+
+Segmento 2 (15-30s):
+15-18s: El asesino atraviesa la ventana, apuntando al gato blanco; el emperador se pone de pie al instante para proteger al gato.
+18-21s: El gato blanco explota en una cegadora luz blanca bajo la luna, transformándose instantáneamente en una hermosa chica con orejas de gato, gasa bailando, ojos encantadores bajo sombra de ojos de color púrpura claro.
+21-24s: La mirada asesina del hombre se convierte en asombro y enamoramiento, la hoja se detiene en el aire.
+24-27s: La chica gato aterriza ligeramente, con la cola moviéndose, mirando al emperador con una mirada obstinada.
+27-30s: Los ojos del emperador se oscurecen, diciendo fríamente: "Te atreves a tocar a mi gato, buscas la muerte".
+
+--------------------------
+
+Continuación rápida y fluida, mismo estilo, cortes aún más rápidos.
+
+Segmento 3 (30-45s):
+30-33s: La chica gato se ríe, con las orejas moviéndose, bloqueando activamente al emperador, su maquillaje perfecto como una muñeca de porcelana bajo la luz de la luna.
+33-36s: El asesino da un paso adelante aturdido, con voz temblorosa: "Señora... ¿qué clase de hada es usted?"
+36-39s: El emperador atrae a la chica de vuelta a sus brazos, mirando fríamente al asesino: "Ella es mía, nadie la toca".
+39-42s: La chica mira al emperador, su mirada cambia de obstinada a afectuosa, susurrando: "Su Majestad... ¿seguirá abrazándome para dormir esta noche?"
+42-45s: La boca del emperador se curva ligeramente, acercándose a su oído, susurrando de manera dominante: "No solo esta noche, no escaparás ninguna noche a partir de ahora". La cámara se detiene en su tenso contacto visual y la expresión de asombro del asesino.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069075914500272129/img/gz45zg1XNbSgcxmQ.jpg" width="600" alt="Drama cinematográfico de transformación de chica gato">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6336)**
+
+**Autor:** [The Anxious Mind](https://x.com/drjoetw) | **Fuente:** [Link](https://x.com/drjoetw/status/2069078650902008130) | **Publicado:** Jun 22, 2026
+
+---
+### Anuncio de belleza de Zen Skincare
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico para un anuncio de belleza premium que presenta movimientos elegantes en un paisaje desértico minimalista.
+
+#### 📝 Prompt
+
+```
+Un anuncio de belleza cinematográfico y de alta gama que presenta a una mujer con un vestido beige fluido bailando con gracia en un paisaje desértico minimalista de inspiración Zen con ondulaciones en la arena. La escena transita fluidamente entre tomas de sus movimientos, primeros planos de su rostro y tomas macro de un lujoso frasco de cuidado de la piel con la etiqueta "Lumiere de la Mer" interactuando con agua y partículas de luz dorada brillante, enfatizando la elegancia, la hidratación y la calidad premium, con una atmósfera sofisticada y etérea.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2069055800686092288/pu/img/_3imP-tS8rQ4YCqr.jpg" width="600" alt="Anuncio de belleza de Zen Skincare">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6328)**
+
+**Autor:** [Avelyrah](https://x.com/AvelyrahnAI) | **Fuente:** [Link](https://x.com/AvelyrahnAI/status/2069056039605968941) | **Publicado:** Jun 22, 2026
+
+---
+### Escenario de gol de un aficionado en transmisión de fútbol
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video altamente detallado para una transmisión de fútbol realista donde un aficionado salta desde las gradas para anotar un gol de clase mundial.
+
+#### 📝 Prompt
+
+```
+Transmisión oficial de televisión de fútbol, cobertura deportiva en vivo ultrarrealista, 4K 60fps, sistema de cámaras profesional de estadio, seguimiento fluido con trípode, lente de zoom de ángulo alto. El personaje principal es el hombre exacto de la imagen de referencia: joven asiático del sur, cabello negro bien peinado, afeitado, vistiendo un polo marrón oscuro entallado, pantalones beige, reloj de lujo, complexión atlética.
+Un estadio de fútbol lleno durante un partido de campeonato. Los gráficos de TV permanentes permanecen visibles durante todo el video: marcador digital en la parte superior izquierda que muestra "MATCHWEEK 24 | NAS 2 | SHB 1", logotipo "SSC 1 LIVE" en la parte superior derecha. Luz natural, gradación de color auténtica de transmisión, atmósfera de multitud realista.
+La cámara recorre la audiencia y se detiene en el hombre sentado casualmente entre los aficionados. Está comiendo una hamburguesa y sosteniendo una lata de refresco azul mientras mira el partido. De repente, se nota a sí mismo en la pantalla gigante del estadio y lanza una sonrisa sorprendida y confiada directamente a la cámara de transmisión. Los aficionados cercanos vitorean y señalan la pantalla.
+Sin dudarlo, coloca con calma la hamburguesa y el refresco en su asiento, se levanta y salta suavemente sobre la barrera del estadio con una destreza atlética impresionante. La cámara de transmisión lo sigue rápidamente con un seguimiento profesional de cámara deportiva mientras corre hacia el campo.
+Un jugador de fútbol profesional con uniforme blanco lo nota y le pasa el balón directamente a los pies. El hombre controla el balón a la perfección, regatea con confianza por el césped y luego lanza un potente disparo de larga distancia. Cámara lenta cinematográfica mientras el balón vuela por el aire hacia la escuadra de la portería.
+El portero se lanza al máximo estiramiento pero no puede alcanzarlo. El balón se estrella en la esquina superior de la red. Explosión masiva de la multitud. Miles de aficionados saltan de sus asientos vitoreando. La atmósfera del estadio se vuelve eléctrica.
+El hombre levanta ambos brazos en celebración, riendo y sonriendo. Los compañeros de equipo y los aficionados reaccionan con incredulidad y emoción. La cámara se acerca mientras camina directamente hacia el lente. Lanza una sonrisa carismática y coloca juguetonamente su mano sobre la cámara, cubriendo completamente el encuadre.
+Audio auténtico del estadio, cánticos de la multitud, comentarios distantes del locutor, pasos realistas sobre el césped, sonidos de impacto del balón, rugido explosivo de la multitud después del gol. Texturas fotorrealistas, realismo con calidad de transmisión, física de movimiento natural, narrativa deportiva cinematográfica, movimientos de cámara fluidos, sin fallos, sin distorsiones, sin extremidades adicionales, sin errores de texto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069053130751488000/img/MFlCWWThWCuZnHIF.jpg" width="600" alt="Escenario de gol de un aficionado en transmisión de fútbol">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6326)**
+
+**Autor:** [Zulkar Naim](https://x.com/zulkarnaimx) | **Fuente:** [Link](https://x.com/zulkarnaimx/status/2069053185097138233) | **Publicado:** Jun 22, 2026
+
+---
+### Aventura en un templo selvático estilizado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt inspirado en DreamWorks para una escena cinematográfica que presenta a un arqueólogo intrépido resolviendo acertijos y a un asistente aterrorizado en una detallada ruina selvática.
+
+#### 📝 Prompt
+
+```
+Escena cinematográfica animada estilizada al estilo DreamWorks en lo profundo de un templo selvático olvidado, un arqueólogo intrépido resolviendo con confianza acertijos de piedra masivos mientras esquiva trampas que colapsan, un asistente nervioso aferrado a una mochila en medio del pánico, luz de antorcha dorada iluminando paredes talladas y polvo en suspensión, composición cinematográfica, personajes animados exagerados, ruinas ultra detalladas, renderizado 3D pulido, atmósfera de aventura de Hollywood, 16:9.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2068904214068367360/pu/img/t8dtb19nzRtBoWjA.jpg" width="600" alt="Aventura en un templo selvático estilizado">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6332)**
+
+**Autor:** [Zephyra Leigh](https://x.com/ZephyraLeigh) | **Fuente:** [Link](https://x.com/ZephyraLeigh/status/2069050092708085942) | **Publicado:** Jun 22, 2026
+
+---
+### Baile de TikTok realista grabado a mano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt increíblemente detallado para generar un video vertical realista al estilo TikTok de una presentación de baile de alta energía que incluye coreografías precisas y mortales hacia atrás.
+
+#### 📝 Prompt
+
+```
+Video vertical de smartphone. Parece un TikTok o Instagram Reel común grabado por un amigo. Metraje realista de smartphone. Ligero movimiento de cámara en mano. Sin trabajo de cámara cinematográfico. Sin ángulos dramáticos. Iluminación natural. Ubicación urbana casual. Intérprete humano real. Ultra realista. Un joven bailarín talentoso comienza a bailar de forma casual. Coreografía extremadamente precisa y dinámica. Movimientos potentes. Juego de pies rápido. Ritmo perfecto. Energía explosiva. Control corporal impecable. Movimientos amplios. Saltos fuertes. Cambios de dirección repentinos. Poses con estilo. Calidad de presentación de K-pop de alto nivel. Movimientos atléticos. Mortal hacia atrás inesperado. Continúa bailando naturalmente de inmediato. Salto en carrera hacia un mortal hacia atrás. Movimiento en el suelo con una mano. Patada mariposa. Acrobacia aérea. Aterriza perfectamente. Más combinaciones de baile potentes. Otro mortal hacia atrás en el clímax. Sonríe con confianza. Los amigos detrás de la cámara reaccionan con emoción. Todo se siente espontáneo y auténtico. Parece un video viral de TikTok. Sin atmósfera de película. Sin efectos especiales. Sin física poco realista. Presentación ininterrumpida de 15 segundos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069023835933081600/img/YAK4oNmBgZ82Ss1O.jpg" width="600" alt="Baile de TikTok realista grabado a mano">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6338)**
+
+**Autor:** [LUCY](https://x.com/luxaios) | **Fuente:** [Link](https://x.com/luxaios/status/2069029880449335730) | **Publicado:** Jun 22, 2026
+
+---
+### Historia de bondad en el parque durante el verano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un conmovedor prompt cinematográfico que retrata un acto de bondad de un niño en un parque durante la hora dorada, destacando la consistencia de los personajes y primeros planos emotivos.
+
+#### 📝 Prompt
+
+```
+**Estilo:** Cortometraje cinematográfico ultrarrealista, atmósfera conmovedora, iluminación de hora dorada, colores vibrantes de verano, actuación natural, expresiones faciales realistas, profundidad de campo reducida, bokeh suave, movimiento de cámara fluido, cinematografía con calidad de Hollywood, 4K HDR. **Consistencia de personajes:** El mismo niño de 8 años durante todo el video, rostro alegre, cabello corto y oscuro, camiseta amarilla, shorts de mezclilla, tenis. El mismo vendedor de helados durante todo el video, hombre de mediana edad con una sonrisa cálida, delantal y gorra blancos. Mantener apariencias idénticas en cada toma. **0–5 segundos:** Un animado parque vecinal durante la hora dorada. Los niños juegan a lo lejos, los pájaros cantan y una cálida luz solar baña la escena. Un niño de 8 años se acerca emocionado a un colorido carrito de helados, saca unas monedas y compra un cono de helado de vainilla al amable vendedor. Él irradia felicidad mientras se aleja admirando su golosina. Toma de seguimiento cinematográfica fluida. **5–10 segundos:** El niño nota de repente a tres niños cerca que observan su helado con expresiones de esperanza. Él hace una pausa, mira su cono y luego a los niños. Tras un breve momento de reflexión, su rostro se ilumina con bondad. Se acerca y les ofrece felizmente su helado. Los niños sonríen agradecidos, conmovidos por su generosidad. Los primeros planos cinematográficos capturan las emociones cálidas. **10–13 segundos:** El vendedor observa el intercambio con admiración. Inspirado por el acto desinteresado del niño, sonríe ampliamente y comienza a repartir conos de helado frescos y coloridos a todos los niños cercanos. Las risas estallan mientras los niños celebran y se reúnen alrededor del carrito. **13–15 segundos:** Toma cinematográfica amplia del parque brillando bajo el atardecer dorado. Los niños ríen, disfrutan de sus helados y juegan juntos mientras el niño sonríe satisfecho. La cámara se aleja lentamente y se desvanece suavemente. **Subtítulo en pantalla (aparece solo durante los últimos 2 segundos):** "La bondad es contagiosa. Un pequeño acto puede endulzar el día de todos".
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2068984192759697408/pu/img/rwPt4stZ_tSmiexY.jpg" width="600" alt="Historia de bondad en el parque durante el verano">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6335)**
+
+**Autor:** [Ai Doctor](https://x.com/DoctorAmna11) | **Fuente:** [Link](https://x.com/DoctorAmna11/status/2068984242290200858) | **Publicado:** Jun 22, 2026
+
+---
+### Prompt para convertir guion gráfico en video de cocina estilo anime
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt diseñado para transformar un guion gráfico a lápiz en un video de cocina estilo anime japonés 2D de alta calidad y a todo color, preservando la composición y el movimiento.
+
+#### 📝 Prompt
+
+```
+Utiliza un guion gráfico a lápiz como referencia visual. El guion gráfico debe emplearse únicamente para la composición, los ángulos de cámara, los movimientos de las manos, la ubicación de los ingredientes y la continuidad de la cocción. El video final se convertirá en un video de cocina estilo anime japonés 2D de alta calidad y a todo color. La apariencia del boceto a lápiz en blanco y negro no debe permanecer en el video final.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068967697426284544/img/xKO-6jJ0hmxTHMr1.jpg" width="600" alt="Prompt para convertir guion gráfico en video de cocina estilo anime">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6340)**
+
+**Autor:** [オズ](https://x.com/ozuozuai99) | **Fuente:** [Link](https://x.com/ozuozuai99/status/2068968547850842469) | **Publicado:** Jun 22, 2026
+
+---
 ### Majestuosa ballena de nube de fantasía brillante
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -380,6 +793,59 @@ Una ballena gigante y brillante nada lentamente a través de nubes de tormenta s
 **Autor:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Fuente:** [Link](https://x.com/CharaspowerAI/status/2068952150516892083) | **Publicado:** Jun 22, 2026
 
 ---
+### Batalla futurista en la arena de gladiadores
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de acción cinematográfica donde una mujer es absorbida por su monitor y se convierte en una gladiadora que lucha contra una bestia mecánica en una arena de alto riesgo sobre las nubes.
+
+#### 📝 Prompt
+
+```
+Toma cinematográfica, una joven sentada frente a una computadora en una habitación con poca luz, repentinamente absorbida por su monitor debido a una oleada de energía eléctrica. Ella se traslada a una arena de gladiadores futurista y de alto riesgo que flota entre las nubes, iluminada por un planeta gigante de fondo. Se enfrenta a una enorme y aterradora bestia mecánica, utiliza la energía brillante de su mano para derrotarla en un estallido dramático de luz y se mantiene victoriosa mientras estallan fuegos artificiales en el estadio, hiperrealista, resolución 8k, estilo de película de acción
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2068923893822488576/pu/img/5R5s1Sv8vUnGZrLq.jpg" width="600" alt="Batalla futurista en la arena de gladiadores">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6331)**
+
+**Autor:** [Avelyrah](https://x.com/AvelyrahnAI) | **Fuente:** [Link](https://x.com/AvelyrahnAI/status/2068924435390992407) | **Publicado:** Jun 22, 2026
+
+---
+### Viaje cinematográfico global del fútbol
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video de alta producción que sigue a un balón de fútbol a través de Pakistán, Brasil, Francia, África y Japón con transiciones cinematográficas fluidas.
+
+#### 📝 Prompt
+
+```
+Crea un video de fútbol global ultra cinematográfico de 15 segundos que muestre un solo balón de fútbol viajando a través de diferentes países y culturas.
+
+El video comienza en una calle estrecha en Pakistán, donde unos niños juegan fútbol descalzos. Una patada potente envía el balón volando por el aire. Mientras el balón gira en cámara lenta, hace una transición fluida hacia Brasil, donde es controlado por un jugador de estilo libre callejero en una favela colorida.
+
+Con otra patada, el balón vuela a través de un desenfoque de movimiento brillante y aterriza en Francia, donde es pasado en una cancha urbana impecable bajo las luces del atardecer. La cámara sigue al balón mientras continúa su viaje.
+
+Siguiente transición: África, donde los niños juegan alegremente en un terreno polvoriento con energía pura y celebración. Luego, el balón es pateado nuevamente y hace la transición hacia Japón, donde es controlado con precisión en una escena de fútbol callejero futurista iluminada con luces de neón.
+
+Cada transición es fluida, mágica y cinematográfica, utilizando estelas de luz, cortes coincidentes y cambios de velocidad (speed ramps).
+
+Plano final: el balón se eleva hacia el cielo, transformándose en un globo brillante hecho de luces de estadio. El mundo gira en su interior.
+
+Texto final en pantalla negra:
+“Un balón. Millones de sueños. Un solo mundo.”
+
+Estilo: cinematográfico, hiperrealista, emocional, transiciones fluidas, culturas globales, 4K, iluminación dramática, banda sonora inspiradora, mezcla de cámara lenta y cambios de velocidad.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2068922851894185984/pu/img/M7CV3v0Z5sgu-zLN.jpg" width="600" alt="Viaje cinematográfico global del fútbol">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6329)**
+
+**Autor:** [Ali](https://x.com/aiwithaly) | **Fuente:** [Link](https://x.com/aiwithaly/status/2068923176017674487) | **Publicado:** Jun 22, 2026
+
+---
 ### Secuencia de duelo de espadachines Wuxia
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -397,6 +863,99 @@ Una ballena gigante y brillante nada lentamente a través de nubes de tormenta s
 **[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6312)**
 
 **Autor:** [John](https://x.com/johnAGI168) | **Fuente:** [Link](https://x.com/johnAGI168/status/2068919415442116922) | **Publicado:** Jun 22, 2026
+
+---
+### Secuencia de magia rápida del mago moderno
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una secuencia cinematográfica detallada de 15 segundos que muestra a un joven mago realizando 8 trucos de magia rápidos con efectos visuales de alta gama.
+
+#### 📝 Prompt
+
+```
+Un joven mago carismático con una estética moderna de la Generación Z realiza 8 trucos de magia rápidos e impresionantes en una secuencia cinematográfica fluida de 15 segundos. Estilo ultra realista, energético, altamente detallado, efectos visuales premium, estilo viral para redes sociales, ritmo rápido con transiciones perfectas.
+
+Secuencia de magia (8 trucos):
+
+1. Chasquea los dedos y una baraja de cartas brillante explota en el aire.
+
+2. Las cartas se transforman instantáneamente en mariposas coloridas.
+
+3. Saca un conejo holográfico de neón de un sombrero vacío.
+
+4. Agita una varita y hace levitar varias esferas de cristal.
+
+5. Abre un portal que libera energía cósmica brillante.
+
+6. Convierte un pañuelo de seda en una paloma blanca en pleno vuelo.
+
+7. Se multiplica en tres versiones idénticas que realizan magia sincronizada.
+
+8. Gran ilusión final: el mago desaparece en partículas doradas y reaparece instantáneamente de pie sobre una plataforma flotante brillante con fuegos artificiales y energía mágica girando a su alrededor.
+
+Estilo: Mago con ropa urbana moderna y lujosa, vibra segura de la Generación Z, reacciones faciales expresivas, carisma juguetón, coreografía limpia, iluminación cinematográfica premium, acentos de neón vibrantes, simulaciones de partículas mágicas, iluminación volumétrica, física realista, aspecto ultra nítido en 8K.
+
+Cámara: Lentes cinematográficos de 24 mm + 50 mm, seguimiento dinámico con gimbal, tomas orbitales, acercamientos, barridos rápidos, acentos en cámara lenta, cortes de coincidencia fluidos, transiciones suaves, profundidad de campo reducida.
+
+Configuración: 15 segundos, 24 fps, HDR, fotorrealista, CGI de calidad de Hollywood, alto detalle, ritmo viral para TikTok/Reels, sin fallos, sin texto, sin marca de agua, personaje perfectamente consistente en todo momento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068901027752165376/img/NvWM9q5ipP9HTP_U.jpg" width="600" alt="Secuencia de magia rápida del mago moderno">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6330)**
+
+**Autor:** [Ai Arainz](https://x.com/iam_mian7) | **Fuente:** [Link](https://x.com/iam_mian7/status/2068901222028062848) | **Publicado:** Jun 22, 2026
+
+---
+### POV: Encuentro con una celebridad en el ascensor
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt de video de múltiples tomas altamente detallado para Seedance 2.0, diseñado para crear una perspectiva realista en primera persona de un encuentro con una celebridad en un ascensor, enfatizando las interacciones específicas con los botones y la consistencia del personaje.
+
+#### 📝 Prompt
+
+```
+Estilo general: Sensación de video grabado con smartphone en primera persona, vista auténtica del interior de un ascensor, video corto de estilo de vida, ligero movimiento de cámara, iluminación de techo interior común, como un encuentro casual en un ascensor. Utiliza a la mujer de la imagen de referencia como personaje principal, manteniendo su rostro, peinado, rasgos faciales, proporciones corporales y temperamento consistentes.
+
+Trama principal:
+La persona que sostiene la cámara está en el ascensor grabando con un teléfono. Las puertas del ascensor se cierran lentamente, el espacio se vuelve más estrecho. A través de la rendija, se ve a una mujer hermosa acercándose al ascensor desde el pasillo. La persona que sostiene la cámara se pone nerviosa de repente y gira apresuradamente el lente hacia el panel de botones del ascensor, presionando el botón de 'abrir puerta' varias veces. Este botón no tiene texto, sino un icono con dos flechas apuntando hacia afuera. Las puertas se vuelven a abrir y la mujer entra al ascensor.
+
+Toma 1 (0-2 s)
+Sujeto: Puertas del ascensor cerrándose lentamente con la mujer de referencia apareciendo fuera de la rendija.
+Acción: 0-1 s: Vista en primera persona desde el interior, grabando la entrada verticalmente. 1-2 s: Se ve a la mujer corriendo o caminando desde el pasillo, siendo notada por quien graba.
+Entorno: Vestíbulo de ascensor de apartamento/oficina moderno, piso de baldosas grises, paredes blancas, luces de pasillo, marco de puerta de metal.
+Estilo: Captura auténtica de teléfono, ligero temblor, sensación de urgencia.
+Restricción: Debe mostrar las puertas cerrándose con la protagonista apareciendo en la rendija.
+
+Toma 2 (2-4 s)
+Sujeto: Mano de quien graba y panel de botones.
+Acción: 2-2.5 s: El lente gira apresuradamente hacia el panel con un movimiento rápido. 2.5-4 s: El dedo presiona el botón de apertura de 3 a 5 veces rápidamente. El botón tiene un icono de dos flechas y se ilumina con un anillo verde.
+Entorno: Pared metálica del ascensor, botones circulares de piso, reflejo en el panel.
+Estilo: Nervioso, apresurado, reacción auténtica.
+Restricción: Sin texto en los botones (nada de 'Open', etc.); debe ser el icono de dos flechas.
+
+Toma 3 (4-7 s)
+Sujeto: Las puertas se vuelven a abrir, la mujer entra.
+Acción: 4-5 s: El lente vuelve a la puerta mientras se abre. 5-7 s: La mujer llega a la puerta, mira a la cámara y entra.
+Estilo: Encuentro de estilo de vida, ligero desenfoque de movimiento.
+Restricción: La protagonista debe ser la mujer de la imagen de referencia.
+
+Toma 4 (7-11 s)
+Sujeto: La mujer de pie en el ascensor.
+Acción: 7-9 s: Se para cerca de la pared metálica, ajustando su postura. 9-11 s: Mira al lente, sonríe levemente o se gira de forma natural.
+Estilo: Captura de smartphone de estilo de vida, sensación de filtro de belleza sutil pero no sobreprocesado.
+Restricción: Solo una protagonista, consistente con la identidad de la imagen de referencia.
+
+Prompts negativos: Botones que muestran texto ('Open', etc.), texto en chino o inglés en los botones, iconos incorrectos, puertas que permanecen abiertas sin un proceso de cierre, falta de sensación de urgencia, falta de presión repetida de botones, cámara demasiado estable, protagonista apareciendo de la nada, protagonista que no entra, intercambio de rostro fallido, distorsión facial, cambio de rasgos/cabello/proporciones, dedos extra, espacio del ascensor distorsionado, texto ilegible, subtítulos, logotipo, marca de agua, estilo anime, sensación de animación CG, demasiado cinematográfico.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068890659667275776/img/gXCEooxck8oMKuIQ.jpg" width="600" alt="POV: Encuentro con una celebridad en el ascensor">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6337)**
+
+**Autor:** [John](https://x.com/johnAGI168) | **Fuente:** [Link](https://x.com/johnAGI168/status/2068890755901395366) | **Publicado:** Jun 22, 2026
 
 ---
 ### Masacre de un berserker vikingo en la aldea
@@ -2822,600 +3381,6 @@ TOMA 4: Gran plano general (WS), 14 mm ángulo bajo con retroceso / La silueta c
 **Autor:** [Noname Oasis](https://x.com/nonameoasis) | **Fuente:** [Link](https://x.com/nonameoasis/status/2067421311622664681) | **Publicado:** Jun 18, 2026
 
 ---
-### Escena callejera de lujo cinematográfica con múltiples tomas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado de múltiples tomas para una secuencia cinematográfica de 15 segundos que presenta una escena callejera de lujo de alta gama con un personaje principal y guardaespaldas.
-
-#### 📝 Prompt
-
-```
-Escena callejera de lujo cinematográfica con múltiples tomas.
-Filmado con una cámara de cine profesional, enfoque nítido en el sujeto con una profundidad de campo suave y cremosa,
-primer plano y fondo con efecto bokeh desenfocado, compresión de teleobjetivo, fotorrealista. Cinematografía nocturna
-atmosférica, luces bokeh cálidas de la ciudad, aspecto de película en cámara lenta en toda la secuencia.
-El personaje: [IMAGAEREFERENCE], vistiendo un elegante atuendo premium totalmente negro.
-Dos guardaespaldas: hombres altos con trajes negros y gafas de sol negras, cargando bolsas de compras premium negras. Sin texto
-superpuesto, sin cortes inestables.
-Toma 1 (3s, velocidad normal):
-El personaje está sentado en una cafetería al aire libre de lujo comiendo con elegancia. Dos guardaespaldas con trajes negros se acercan y
-se detienen al lado del personaje, quien hace una pausa y mira hacia arriba confundido. La cámara mantiene un plano medio estático, enfoque nítido
-en el personaje, fondo de cafetería suavemente desenfocado. Iluminación cálida de cafetería.
-Toma 2 (cámara lenta, 1.5s):
-El personaje camina hacia adelante con confianza, flanqueado por los dos guardaespaldas que cargan bolsas de compras premium negras.
-La cámara sigue el movimiento hacia atrás en un ángulo bajo, sujeto con enfoque nítido, transeúntes en primer plano desenfocados y
-fondo con efecto bokeh.
-Toma 3 (cámara lenta, 1.5s):
-El personaje y los dos guardaespaldas caminan sincronizados. La cámara sigue lateralmente en un dolly suave, poca
-profundidad de campo, escaparates de boutiques de lujo brillantes suavemente desenfocados detrás de ellos.
-Toma 4 (cámara lenta, 1s):
-Un transeúnte se detiene y observa con admiración, levantando un teléfono para grabar. La cámara mantiene un plano medio estático, el
-transeúnte nítido, calle nocturna desenfocada detrás.
-Toma 5 (cámara lenta, 1.5s):
-Primer plano del rostro frío y confiado del personaje, mirando hacia abajo y luego levantando la vista. La cámara mantiene un plano
-estático cerrado, enfoque extremadamente nítido en los ojos, fondo muy desenfocado. Luz de contorno suave de las farolas.
-Toma 6 (cámara lenta, 1.5s):
-Ángulo trasero del personaje caminando, los dos guardaespaldas siguiéndolo detrás. La cámara hace un dolly hacia adelante lentamente,
-enfoque suave, escaparates de lujo brillantes desenfocados en bokeh.
-Toma 7 (1s):
-Otro transeúnte le susurra a un amigo y señala hacia el personaje. La cámara mantiene un plano medio estático,
-transeúntes enfocados, multitud desenfocada y luces bokeh.
-Toma 8 (cámara lenta, 2s):
-El personaje camina hacia la cámara, cuerpo completo, guardaespaldas ligeramente fuera de foco a los lados, figuras en primer plano
-desenfocadas pasando frente al lente. La cámara hace un dolly hacia atrás, iluminación nocturna cinematográfica.
-Toma 9 (3s, cámara lenta):
-Plano medio corto del personaje caminando, mirada fija hacia la cámara, continuando el avance. La cámara hace un dolly
-hacia atrás lentamente manteniendo al personaje enfocado, figuras en primer plano pasando con un desenfoque suave, luces bokeh de lujo
-detrás.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/708a74b2e8a743e1146f24fad6ce2fa7/thumbnails/thumbnail.jpg" width="600" alt="Escena callejera de lujo cinematográfica con múltiples tomas">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6185)**
-
-**Autor:** [Yunan Helmy A](https://x.com/unxinstudio) | **Fuente:** [Link](https://x.com/unxinstudio/status/2067400367407878457) | **Publicado:** Jun 18, 2026
-
----
-### Monólogo de personaje con gestos naturales
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video especializado para Seedance 2.0, diseñado para crear monólogos de personajes atractivos con gestos manuales coordinados y movimientos de cámara en un entorno de templo.
-
-#### 📝 Prompt
-
-```
-La Imagen 1 habla a la cámara en el patio de un antiguo templo bien conservado.
-
-[0:00-0:05] Plano medio de la Imagen 1. La cámara orbita lentamente mientras ella dice en japonés con una sonrisa amable: "Los monólogos se ven más naturales cuando mueves un poco el cuerpo en lugar de quedarte quieta".
-
-[Corte: 0:05-0:10] Plano medio de la Imagen 1 sentada en las escaleras del templo. Cámara fija. Ella habla en japonés, con gestos sutiles de las manos: "Por ejemplo, si incluyes esto, moverá tus manos al ritmo del 'uno, dos, tres' del diálogo".
-
-[0:10-0:15] Ella se levanta lentamente y comienza a caminar despacio mientras habla con gestos exagerados de las manos, en japonés: "¡Intenta algo como 'gra~nde' o 'peque~ño'! O '¡guau!', por favor, inténtalo".
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b77866309a6d3d0465a129a77c4435c/thumbnails/thumbnail.jpg" width="600" alt="Monólogo de personaje con gestos naturales">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6145)**
-
-**Autor:** [Jason W - AI](https://x.com/PocketScreenAI) | **Fuente:** [Link](https://x.com/PocketScreenAI/status/2067397135256207638) | **Publicado:** Jun 18, 2026
-
----
-### Danza de pintura líquida estilo anime teatral
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un sofisticado prompt de video de múltiples tomas para una danza callejera cinemática estilo anime, con salpicaduras de pintura líquida de alta viscosidad en un vacío blanco.
-
-#### 📝 Prompt
-
-```
-15s / 120 BPM / 15 Tomas / Rutina cinemática
-Estilo anime teatral / Gama ultra alta / 4K
-Vestuario: @[image1] < Extraer el vestuario del personaje y el color personal de aquí.
-
-Entorno: Un espacio infinito completamente blanco. Ligero reflejo especular en el suelo, motas de polvo fino y destellos de lente flotando en el aire.
-
-Ambiente: Una liberación abrumadora de color. Una danza callejera fluida y nítida que corta el silencio.
-
-Música: Orquesta híbrida. Un ritmo pesado superpuesto con melodías de cuerdas agudas sincronizadas con los trazos del pincel.
-
-Lógica de color: Pintura líquida de alta saturación extrayendo los colores principales de @[image1]. Excluir cualquier textura de gema o cristal, buscando solo la textura de pintura viscosa y espesa.
-
-Estilo: Anime teatral, altamente detallado, iluminación cinemática, luz de contorno, profundidad de campo, trazado de rayos.
-
-Toma 1: [Teleobjetivo 85mm primer plano] Primer plano de los pies. Con los pasos, la pintura líquida que lleva los colores de @[image1] salpica violentamente en el espacio sin suelo. / SFX: Bajos pesados y sonidos de salpicaduras de pintura.
-
-Toma 2: [Seguimiento medio] Giro de cintura. Sujetando un pincel en la mano derecha, dibujando un arco desde atrás. La pintura líquida espesa deja un rastro.
-
-Toma 3: [Acercamiento rápido] Balanceo alterno de brazos. Pintura cian y lima en forma de X se cruza en el aire. Enfatizar la textura de la pintura goteando desde la punta del pincel.
-
-Toma 4: [Ultra gran angular 14mm ángulo bajo] Rotación de alta velocidad. Una enorme salpicadura de color cubre la pantalla con una perspectiva exagerada.
-
-Toma 5: [Acercamiento vertical] Salto. Balanceando el pincel verticalmente hacia arriba, creando una raya espesa de pintura que desafía la gravedad.
-
-Toma 6: [Órbita amplia] Media vuelta en el aire. Solo las salpicaduras de pintura se extienden radialmente. Las partículas tipo gema están completamente excluidas.
-
-Toma 7: [Desplazamiento a nivel del suelo] Aterrizaje. Un anillo de pintura de color se extiende desde los pies, desapareciendo como ondas.
-
-Toma 8: [Teleobjetivo primer plano] Primer plano de la mano sosteniendo el pincel. Dibujando una trayectoria circular perfecta sin soltar el pincel incluso durante los giros continuos.
-
-Toma 9: [Cámara en mano ángulo bajo] Cargando 3 pasos hacia adelante. Los colores derivados de @[image1] explotan con cada paso. Enfatizar el bokeh del fondo.
-
-Toma 10: [Macro extremo] El pincel pasa a alta velocidad junto a la lente de la cámara. Hermoso bokeh por la profundidad de campo y la interferencia de los destellos de lente.
-
-Toma 11: [Gran angular rotativo] Giro de cuerpo completo. Un anillo de pintura de color envuelve al personaje. El pincel está fijo en la mano derecha.
-
-Toma 12: [Cámara lenta estabilizada] Pausa momentánea. La pintura viscosa fluye como hilos largos desde un pincel cargado.
-
-Toma 13: [Dolly de perfil bajo] Movimiento de perfil bajo. Moviéndose suavemente mientras sostiene el pincel a través del rastro de pintura estacionaria.
-
-Toma 14: [Ultra gran angular con acercamiento] Carrera explosiva. Los colores clave de @[image1] se difunden por toda la pantalla, pintando sobre el blanco.
-
-Toma 15: [Primer plano teatral] Vista frontal. Golpeando el pincel contra la cámara. Toda la pantalla se llena de pintura espesa, desvaneciéndose dramáticamente a negro. / SFX: Onda de choque y resonancia profunda.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b013f6b8e1412e9f3a03b75e9bcd862/thumbnails/thumbnail.jpg" width="600" alt="Danza de pintura líquida estilo anime teatral">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6142)**
-
-**Autor:** [あぁく](https://x.com/kik0ai1jikake) | **Fuente:** [Link](https://x.com/kik0ai1jikake/status/2067392419163955407) | **Publicado:** Jun 17, 2026
-
----
-### Animación de maestro de artes marciales estilo anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video para Seedance 2.0 que anima a un personaje de maestro de artes marciales excéntrico y musculoso que viste una camisa hawaiana, utilizando una etiqueta de referencia específica para la consistencia de la identidad.
-
-#### 📝 Prompt
-
-```
-@ roshioldman = maestro de artes marciales anciano, excéntrico, bajo y muy musculoso, cabeza calva, cejas blancas enormes, lentes de sol negros pequeños y redondos, nariz rosa gigante, bigote y barba blancos masivos, arrugas profundas, camisa hawaiana floral negra con rosa, luz
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/651a50363b8601c1209092e251a2e3f0/thumbnails/thumbnail.jpg" width="600" alt="Animación de maestro de artes marciales estilo anime">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6150)**
-
-**Autor:** [MD](https://x.com/mdmadeit) | **Fuente:** [Link](https://x.com/mdmadeit/status/2067385845443883065) | **Publicado:** Jun 17, 2026
-
----
-### Toma de acción cinematográfica de skateboarding
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de acción dinámica para una escena de skateboarding que incluye una transición en cámara lenta y un enfoque en las expresiones faciales y el movimiento.
-
-#### 📝 Prompt
-
-```
-Inicio tranquilo. Un impulso. El viento en su cabello, el vestido rojo ondeando, la cámara enfocada directamente en su rostro.
-
-Luego, ella está en el aire y todo se ralentiza.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/380e431da0b8b8dbca763c75eb526d2b/thumbnails/thumbnail.jpg" width="600" alt="Toma de acción cinematográfica de skateboarding">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6151)**
-
-**Autor:** [PhotoGPT](https://x.com/itsphotogptai) | **Fuente:** [Link](https://x.com/itsphotogptai/status/2067385125965545538) | **Publicado:** Jun 17, 2026
-
----
-### Video cinemático de la máquina de fabricación del multiverso
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinemático que representa una máquina masiva ensamblando universos enteros en tiempo real a través de varias cámaras.
-
-#### 📝 Prompt
-
-```
-La cámara recorre a toda velocidad una máquina gigantesca que fabrica realidades. Cada cámara contiene un mundo completamente diferente que se ensambla en tiempo real: bosques que crecen al instante, océanos que surgen de la nada, ciudades que se materializan a partir de la luz, estrellas que se encienden dentro de esferas transparentes. Dos naves navegan a través de la línea de producción mientras universos enteros se construyen a su alrededor. El observador contempla desde una sala de control de cristal suspendida, rodeado de mundos en miniatura que flotan en campos de contención. El ascenso final revela miles de realidades en construcción al mismo tiempo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067316605567045632/img/0N4TgjPsvdgcXD7t.jpg" width="600" alt="Video cinemático de la máquina de fabricación del multiverso">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6153)**
-
-**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fuente:** [Link](https://x.com/AllaAisling/status/2067363153596571826) | **Publicado:** Jun 17, 2026
-
----
-### Transformación de estudio de artista en fantasía oscura
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un complejo prompt de video cinematográfico que transforma el solitario estudio de un artista en una escena de fantasía oscura, donde la tinta cobra vida y convierte al artista en un demonio de tinta.
-
-#### 📝 Prompt
-
-```
-Secuencia de transformación de fantasía oscura ultracinematográfica de 15 segundos dentro del solitario estudio de un artista por la noche.
-
-Un artista humano está sentado en un escritorio de madera bajo una única lámpara parpadeante, dibujando extrañas formas ocultas en un cuaderno de bocetos antiguo. La lluvia golpea contra las ventanas. La habitación está en silencio, llena de papeles, frascos de tinta, carboncillo, dibujos rasgados y sombras.
-
-De repente, la tinta negra en la página comienza a moverse por sí sola. Se extiende por el cuaderno como oscuridad líquida, formando ojos, garras y símbolos retorcidos.
-
-La cámara se acerca lentamente mientras la tinta se derrama hacia arriba desde la página en lugar de hacia abajo, flotando en el aire como humo vivo. El artista se congela, mirando con incredulidad.
-
-Delgados zarcillos de tinta negra se arrastran desde el cuaderno hacia las manos y brazos del artista. La tinta se extiende por la piel como tatuajes en movimiento, reescribiendo el cuerpo con líneas afiladas al estilo manga, venas negras y patrones de sombras líquidas.
-
-La transformación se acelera. Los dedos se alargan hasta convertirse en garras negras como la tinta. El rostro queda parcialmente cubierto por sombras que gotean como pinceladas. Formas similares a cuernos se crean a partir de la tinta que salpica sobre la cabeza.
-
-Las páginas se desprenden del cuaderno y orbitan alrededor del artista. Cada página muestra dibujos animados que se mueven de forma independiente, gritando silenciosamente en trazos de carboncillo.
-
-El artista se levanta de la silla a medida que su cuerpo se convierte en un demonio de tinta viviente: mitad humano, mitad boceto, hecho de tinta líquida negra, textura de papel, contornos irregulares y anatomía de sombras distorsionadas.
-
-Momento cinematográfico final: el Demonio de Tinta emerge por completo, saliendo del cuaderno de bocetos que se desmorona mientras las paredes del estudio se cubren de ilustraciones ocultas que se dibujan rápidamente. La criatura abre unos ojos blancos brillantes mientras la tinta gotea hacia arriba, hacia la oscuridad.
-
-Estilo: fantasía oscura ultracinematográfica, estética de terror con tinta, trazos inspirados en el manga, simulación de tinta líquida, efectos de boceto viviente, estudio de artista gótico, contraste en blanco y negro con pequeños reflejos de lámpara cálida, efectos visuales de transformación surrealista, sin texto, sin superposiciones.
-
-Audio: banda sonora cinematográfica oscura, lluvia en las ventanas, pluma rasgando papel, burbujeo de tinta, páginas rasgándose, movimiento de tinta húmeda, estruendo sobrenatural grave, respiración distorsionada.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c9bf7cd2d5e5b93f865d5e5b592c25de/thumbnails/thumbnail.jpg" width="600" alt="Transformación de estudio de artista en fantasía oscura">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6147)**
-
-**Autor:** [LudovicCreator](https://x.com/LudovicCreator) | **Fuente:** [Link](https://x.com/LudovicCreator/status/2067351705335779469) | **Publicado:** Jun 17, 2026
-
----
-### Animación 3D de dentista al estilo Pixar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para Seedance 2.0 para crear una animación 3D de 12 segundos al estilo Pixar de un dentista, asegurando la consistencia del personaje y siguiendo un diseño de storyboard específico.
-
-#### 📝 Prompt
-
-```
-Utiliza el storyboard THE DENTIST adjunto como referencia visual exacta. Crea una secuencia animada 3D de Pixar de 12 segundos en formato 16:9 siguiendo exactamente las 8 tomas. El mismo dentista joven: rostro cálido y amable, cabello oscuro, uniforme médico azul cielo, guantes de látex azules, brillante y moderno
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/684b2b378b7122ac32afd9048b5abdc3/thumbnails/thumbnail.jpg" width="600" alt="Animación 3D de dentista al estilo Pixar">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6155)**
-
-**Autor:** [TechieSA](https://x.com/TechieBySA) | **Fuente:** [Link](https://x.com/TechieBySA/status/2067286665509364004) | **Publicado:** Jun 17, 2026
-
----
-### Laguna Escondida de la Caleta Arcoíris
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de naturaleza serena para una laguna apartada con luz solar refractándose a través de aguas cristalinas y tortugas marinas deslizándose.
-
-#### 📝 Prompt
-
-```
-La Caleta Arcoíris Escondida. Una laguna apartada con agua perfectamente clara sobre arena cristalina. A medida que las olas se mueven, la luz del sol se refracta en cintas de colores cambiantes bajo la superficie. Las tortugas marinas se deslizan a través de los reflejos.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/86343238ed27ce6a7e9c3eafd8c2ad0a/thumbnails/thumbnail.jpg" width="600" alt="Laguna Escondida de la Caleta Arcoíris">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6154)**
-
-**Autor:** [Blujeanmomma](https://x.com/altfortomorrow) | **Fuente:** [Link](https://x.com/altfortomorrow/status/2067283618033205571) | **Publicado:** Jun 17, 2026
-
----
-### Pelea callejera de artista marcial estilo anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de acción anime agresivo que presenta a un artista marcial luchando contra una pandilla en una intersección urbana, con cuadros de impacto al estilo MAPPA y un trabajo de cámara dinámico.
-
-#### 📝 Prompt
-
-```
-Un artista marcial estilo anime hiperagresivo con tatuajes naranjas brillantes en los brazos, chaqueta sin mangas hecha jirones, cuerpo musculoso cubierto de sudor y rasguños, ojos tranquilos pero depredadores.
-- De pie en medio de una intersección urbana moderna a plena luz del día, rodeado por toda una pandilla, con autos detenidos a su alrededor, una cámara en órbita lenta rodea su cuerpo inmóvil mientras aprieta los puños;
-- Se lanza hacia adelante, esquivando golpes por centímetros, lanzando a sus enemigos a través de las ventanas de los autos, rebotando en las paredes, usando patadas giratorias, golpes de codo y contraataques brutales; la cámara alterna entre seguimiento bajo, paneos rápidos, tomas en órbita de 360° y zooms de impacto en cada golpe, el asfalto se agrieta bajo su juego de pies, anillos de ondas de choque estallan con cada impacto;
-- Golpea el suelo con un puño, creando un cráter circular que lanza a todos los enemigos restantes hacia afuera; la cámara se eleva sobre la intersección mientras el polvo se disipa y él permanece solo en el centro, respirando lentamente.
-Calle urbana brillante, vidrios rotos, partes de autos volando, nubes de polvo, cuadros de impacto exagerados al estilo MAPPA, energía de combate moderna y cruda.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a69bf2b0e93d6feaaa1493c938fa5552/thumbnails/thumbnail.jpg" width="600" alt="Pelea callejera de artista marcial estilo anime">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6146)**
-
-**Autor:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Fuente:** [Link](https://x.com/CharaspowerAI/status/2067268564365594798) | **Publicado:** Jun 17, 2026
-
----
-### Robot de juicio cinematográfico de ciencia ficción
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt de ciencia ficción altamente detallado para Seedance 2.0, que presenta un elegante robot blanco en un entorno vacío y austero con iluminación dramática y efectos de glitch.
-
-#### 📝 Prompt
-
-```
-[Estilo] Ciencia ficción dura cinematográfica, textura CGI realista, pantalla ancha anamórfica 2.39:1, 8K Ultra HD, iluminación blanca fría de clave alta, sin sensación de anime, sin sensación de plástico.
-
-[Duración] 10 segundos
-
-[Escena] Una habitación vacía de color blanco puro que se extiende infinitamente, sin puertas ni ventanas, entorno sobreexpuesto cercano al blanco absoluto, con un único haz de luz blanca fría cenital que cae verticalmente en el centro.
-
-[Personaje] Robot de juicio UNIT-000@1ec64564-05c6-4493-994e-c93682167dba (robot humanoide de color blanco mate liso + cromo, sin ojos ni boca, la máscara facial oscura es una pantalla que muestra expresiones de emojis brillantes, sin movimiento de boca en ningún momento, todas las líneas son voz en off de IA sintetizada).
-
-[00:00-00:03] Toma 1: Mirada neutral en blanco frío (Primer plano con acercamiento lento)
-Primer plano del rostro, la cámara se mueve extremadamente lento hacia la máscara del robot. Dos puntos blancos tranquilos '• •' brillan en la pantalla oscura, luz blanca fría, perfectamente inmóvil, cuerpo sentado de forma sagrada.
-[Voz en off de IA, tranquila y plana]: 'No. 000, por favor, demuestre su valor de retención.'
-Sonido: Ruido electrónico muy ligero + un 'zumbido' de baja frecuencia.
-
-[00:03-00:05] Toma 2: Eliminación de alarma (Cambio repentino + Corte con glitch)
-Los símbolos de la máscara cambian repentinamente a dos cruces rojas afiladas '✕ ✕', toda la pantalla se inunda de rojo de alarma, las juntas de las articulaciones estallan en rojo simultáneamente, los hombros y el cuello del robot se tensan repentinamente y se inclinan hacia adelante.
-[Voz en off de IA, fría y acelerada]: 'Sin valor. Eliminar.'
-Sonido: Pulso de baja frecuencia agudo de 'eliminar'.
-
-[00:05-00:08] Toma 3: Primera duda de vacilación (Transformación lenta y suavizado)
-La luz roja se desvanece lentamente, dos puntos suaves y un signo de interrogación verde ligeramente tembloroso '• • ?' aparecen en la máscara, brillando con una luz verde suave e incierta, la cabeza del robot se inclina ligeramente hacia un lado, los hombros se relajan.
-[Voz en off de IA, primer tartamudeo y desaceleración]: 'Contradicción... comportamiento no rentable, no debería continuar. Entonces tú... ¿qué eres?'
-Sonido: La voz electrónica pasa de aguda a suave, una sola nota de piano suena suavemente.
-
-[00:08-00:10] Toma 4: Sobrecarga incalculable (Glitch digital)
-La máscara parpadea violentamente, los '?!' rojos y verdes se agitan y se rompen, barridos por ruido digital y líneas de escaneo, el cuerpo se contrae ligeramente con inestabilidad, la cámara se congela repentinamente en la máscara con glitch.
-[Voz en off de IA, rota, con múltiples ecos]: 'Utilidad... NULA. Incapaz de... calcular.'
-Sonido: Explosión de corriente por sobrecarga del sistema, corte repentino a negro.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ff8044f3dee4792828d61e157d7d1d1/thumbnails/thumbnail.jpg" width="600" alt="Robot de juicio cinematográfico de ciencia ficción">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6160)**
-
-**Autor:** [John](https://x.com/johnAGI168) | **Fuente:** [Link](https://x.com/johnAGI168/status/2067256212651979222) | **Publicado:** Jun 17, 2026
-
----
-### Ciudad marina con acuarela y tinta, moto acuática
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt poético para la generación de video que combina estilos de acuarela y aguada de tinta para representar una 'Ciudad del Mar' futurista. Incluye transiciones de múltiples escenas desde el amanecer hasta el atardecer con acción dinámica de motos acuáticas.
-
-#### 📝 Prompt
-
-```
-Una textura única que combina acuarela y aguada de tinta. Un estilo artístico que presenta agua difuminada en papel, manchas de tinta y dibujos superpuestos con trazos finos de lápiz. El diseño, la paleta de colores y la forma del personaje y la moto acuática se adhieren estrictamente a la imagen de referencia. El escenario es 'La Ciudad del Mar'.
-
-[Configuración del mundo]
-No existen carreteras urbanas. Los edificios están alineados sobre el mar y las vías fluviales sirven como autopistas. Grandes canales, puentes de piedra, esclusas de vidrio, mercados marítimos, faros flotantes, estaciones de agua y áreas residenciales flotantes. A lo lejos, una enorme ciudad marina y torres portuarias. El cielo se refleja en la superficie del agua, representado de forma fantástica con el difuminado de la acuarela.
-
-Escena 1 (0-3s)
-Amanecer. Ciudad marina tranquila. El personaje monta la SEA YR2. El motor arranca. Las ondas se extienden sobre la superficie del agua como pintura de acuarela.
-
-Escena 2 (3-6s)
-Aceleración instantánea. Viaje a alta velocidad a través de un canal gigante. Pasando por debajo de un puente. Las salpicaduras se dispersan como gotas de tinta.
-
-Escena 3 (6-9s)
-Curvas a alta velocidad pasando por el mercado, residencias flotantes y el puerto. La embarcación se refleja en el vidrio de los edificios. La cámara cambia rápidamente entre tomas de dron, seguimiento, movimiento lateral y ángulo bajo.
-
-Escena 4 (9-12s)
-Un gran salto. Vista panorámica de la ciudad mientras salta sobre el canal. Al aterrizar, un efecto de salpicadura como acuarela extendiéndose sobre papel.
-
-Escena 5 (12-15s)
-La ciudad marina teñida por el atardecer. Dirigiéndose directamente hacia un puente marino gigante. Termina con una toma larga hacia atrás. Toda la ciudad se extiende como una sola pintura de acuarela y se desvanece.
-
-Efectos visuales
-- Difuminado de acuarela
-- Salpicaduras de tinta
-- Toques de trazos de lápiz rugosos
-- Textura de papel
-- Brillo suave
-- Iluminación cinematográfica
-- Cinemascope
-- Fondo de ultra alta densidad
-- Trabajo de cámara de alta velocidad
-- Reflejos en la superficie del agua
-- Énfasis en la velocidad
-- Desenfoque de movimiento natural
-- Salpicaduras de agua realistas
-- Sin texto, subtítulos ni logotipos
-```
-
-<img src="https://cms-assets.youmind.com/media/1781855715743_sg9y4m_HLBLBPQaYAAPdd2.jpg" width="600" alt="Ciudad marina con acuarela y tinta, moto acuática">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6162)**
-
-**Autor:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Fuente:** [Link](https://x.com/YaReYaRu30Life/status/2067234735265661282) | **Publicado:** Jun 17, 2026
-
----
-### Drama de neón con lluvia inversa
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt cinemático para Seedance 2.0 que presenta una escena que desafía la física, donde la lluvia fluye hacia arriba en una calle iluminada por luces de neón.
-
-#### 📝 Prompt
-
-```
-[Estilo] Drama corto atmosférico con alteraciones físicas, noche de lluvia, neón, tonos fríos, cámara súper lenta (sensación de 120 fps), suspensión de partículas de gotas de agua. [Duración] 15 segundos [Personaje] Una mujer de pie en la calle con un paraguas transparente (gabardina negra, expresión indiferente). [00:00-00:03] Toma 1: Primer plano en ángulo bajo. La lluvia cae hacia el cielo. Las gotas de agua se elevan desde el suelo, atraviesan su paraguas y vuelan hacia las nubes oscuras. Ella observa todo hacia arriba, sin emoción, con luces de neón fluyendo sobre su rostro mojado. [Gancho] Lluvia inversa = colapso de la física en el primer segundo, captando la atención visual de inmediato. [00:03-00:09] Toma 2: Plano medio fijo. La lluvia en toda la calle fluye hacia atrás, sin embargo, los transeúntes bajan la cabeza y caminan rápido como personas normales; solo ella permanece quieta. Extiende la mano para atrapar una gota de lluvia que 'cae' hacia el cielo; la gota se detiene, flota y gira en la palma de su mano. [00:09-00:15] Toma 3: Acercamiento lento a un primer plano extremo. Ella suelta su mano y un rostro fugaz (la sonrisa de un hombre) aparece dentro de esa gota de lluvia. Sus pupilas se contraen repentinamente. Al segundo siguiente, toda la lluvia se congela en el aire simultáneamente, el mundo entero se detiene y solo ella puede moverse. [Guía de sincronización labial] Ella susurra: 'El tiempo... está atrapado de nuevo'.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5882d0a6fee8e41dfcf6dd5a5be35ab9/thumbnails/thumbnail.jpg" width="600" alt="Drama de neón con lluvia inversa">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6161)**
-
-**Autor:** [John](https://x.com/johnAGI168) | **Fuente:** [Link](https://x.com/johnAGI168/status/2067223092238119071) | **Publicado:** Jun 17, 2026
-
----
-### Prompt de video para cortometraje de anime con Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de imagen a video para Seedance 2.0 que utiliza un storyboard cargado para mantener la consistencia en el diseño de personajes y la iluminación ambiental en una escena de anime emotiva.
-
-#### 📝 Prompt
-
-```
-TÍTULO
-El gato y la campana del festival
-
-REFERENCIA
-Utiliza el storyboard y la hoja de personajes cargados como referencia visual principal.
-
-Mantén todos los diseños de personajes, el entorno del santuario, las linternas, la iluminación del atardecer, la campana del festival y los puntos clave de la historia emocional de manera visual
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3518d8cd94ccc4e8a53107f3ae9ae17/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video para cortometraje de anime con Seedance 2.0">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6167)**
-
-**Autor:** [Abhishek](https://x.com/HeyAbhishek) | **Fuente:** [Link](https://x.com/HeyAbhishek/status/2067213794326282698) | **Publicado:** Jun 17, 2026
-
----
-### Generación de guiones gráficos de anime con GPT Image 2
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt diseñado para GPT Image 2 de ChatGPT para crear un tablero de desarrollo de animación detallado para un cortometraje de anime.
-
-#### 📝 Prompt
-
-```
-Crea un tablero de desarrollo de animación de anime vertical único para un cortometraje original y emotivo de verano titulado ‘The Cat and the Festival’
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a5144ccce34f65febc29eb8104893b8c/thumbnails/thumbnail.jpg" width="600" alt="Generación de guiones gráficos de anime con GPT Image 2">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6166)**
-
-**Autor:** [Abhishek](https://x.com/HeyAbhishek) | **Fuente:** [Link](https://x.com/HeyAbhishek/status/2067213674062987577) | **Publicado:** Jun 17, 2026
-
----
-### Video de salpicadura de líquido congelado al estilo Matrix
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video complejo para crear un efecto de tiempo congelado en 3D donde solo la cámara se mueve alrededor de una escultura líquida estática.
-
-#### 📝 Prompt
-
-```
-Toda la escena está completamente congelada en el tiempo, como una escultura hiperdetallada. El ÚNICO elemento en movimiento es la cámara. Todo lo demás —la persona, su pose, expresión facial, cabello, ropa, la taza roja, la salpicadura de líquido suspendida con todas sus cintas, arcos y gotas individuales congeladas en el aire, el fondo, las sombras y los reflejos— permanece 100% estático e idéntico en todo momento, absolutamente sin movimiento, sin viento, sin gotas cayendo, sin cambios de luz. La cámara realiza un arco cinematográfico lento y fluido, comenzando desde el punto de vista original y orbitando gradualmente hacia un lado alrededor de la acción congelada, viajando a través del espacio tridimensional para revelar la escultura líquida suspendida, el sujeto y el entorno desde ángulos cambiantes. Fuerte paralaje espacial: las gotas en primer plano, los hilos de líquido, el sujeto y los elementos del fondo se desplazan unos respecto a otros, creando una poderosa profundidad y dimensionalidad. Lente de cine gran angular de primera calidad. Movimiento perfectamente fluido: sin sacudidas, sin vibraciones, velocidad constante, sin aceleración. La iluminación permanece consistente y sin cambios, las sombras fijas, los reflejos estables. Hiperrealista, cinematográfico, ultradetallado, ilusión de tiempo congelado stop-motion 3D, líquido fotorrealista, calidad cinematográfica, escultura de movimiento suspendido tipo museo. Negativos: sin movimiento del líquido, sin movimiento del sujeto, sin cambios de pose o expresión, sin movimiento ambiental, sin viento, sin sombras cambiantes, sin parpadeo, sin sacudidas de cámara, sin deformaciones, sin texto, sin marca de agua.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3f3012ec5d4c94e4a8d9cde276c3aa90/thumbnails/thumbnail.jpg" width="600" alt="Video de salpicadura de líquido congelado al estilo Matrix">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6157)**
-
-**Autor:** [Joaki](https://x.com/itsjoaki) | **Fuente:** [Link](https://x.com/itsjoaki/status/2067194577484697634) | **Publicado:** Jun 17, 2026
-
----
-### Escena de disputa en una tienda de conveniencia
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt detallado para generar una confrontación humorística en una tienda de conveniencia con un estilo realista de cámara oculta amateur.
-
-#### 📝 Prompt
-
-```
-[Básico] 24FPS [Personajes] A: Imagen 1 (Monstruo azul claro sosteniendo un pollo) | B: Imagen 2 (Oso General) | C: Imagen 3 (Mujer con traje rojo y pañuelo en la nariz) | D: Imagen 4 (Mujer con matamoscas) *Todos los personajes reproducen fielmente la apariencia de las imágenes. [Escena] Ubicación: Dentro de una tienda de conveniencia, frente al mostrador de la caja | Hora: Día [Video] Estilo: Acción real | Equipo: Cámara oculta amateur con un smartphone, sin cortes en absoluto. [Sonido] BGM: Ninguna | Sonido ambiental: Sí | Efectos de sonido: Ninguno | Diálogo: Sí [Contenido] Dos clientes (Persona A y Persona B) están peleando por su turno en la fila de la caja de la tienda de conveniencia. El gerente (Persona C) intenta detenerlos, pero la pelea continúa, y el gerente se enoja y se une a ella. Luego aparece un cliente que pasaba por ahí (Persona D), grita "¡Dejen de pelear!", derriba a todos con un matamoscas y es un final feliz. [Elementos prohibidos] Cortes, cambios en la apariencia de los personajes, representación de anime, representación 3D.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09ca242bc92f39c36aa12844183e9e1b/thumbnails/thumbnail.jpg" width="600" alt="Escena de disputa en una tienda de conveniencia">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6165)**
-
-**Autor:** [minmin みんみん｜変なAI Creator](https://x.com/minmin_4410) | **Fuente:** [Link](https://x.com/minmin_4410/status/2067189557247045810) | **Publicado:** Jun 17, 2026
-
----
-### Escena de batalla de anime a alta velocidad
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt dinámico de anime de batalla que presenta acción a alta velocidad, efectos mágicos llamativos y un trabajo de cámara agresivo para una secuencia de fantasía dramática.
-
-#### 📝 Prompt
-
-```
-Anime de batalla japonés de alta calidad y ultra alta velocidad. Iguala el estilo artístico del personaje en la imagen de referencia. El ángel de blanco en primer plano es el protagonista. Las cuatro personas detrás son personajes enemigos. El protagonista está luchando contra los cuatro personajes enemigos. En un mundo de fantasía oscura basado en el fondo de la imagen de referencia, los personajes enemigos de la imagen de referencia aparecen uno tras otro desde la parte inferior derecha de la pantalla en primeros planos extremos, desatando intensos y llamativos efectos (fuego, agua, trueno, tierra, luz, oscuridad, digital, etc.), círculos mágicos y movimientos especiales luminosos con sus armas únicas a través de la pantalla en varios movimientos ágiles y llenos de acción, desapareciendo rápidamente hacia la parte posterior derecha a medida que el siguiente personaje sale desde el frente. Cada personaje permanece en primer plano extremo solo por un momento en el punto de impacto para posar y luego sale rápidamente del encuadre. La pantalla tiembla con el impacto. La cámara vuela alrededor en una toma de arco, enfocándose rápidamente en cada personaje con dolly-ins y dolly-outs de alta velocidad, y filmándolos dinámicamente con un ángulo holandés. Cada persona tiene un tiempo máximo en pantalla de 1 segundo. Finalmente, aparece el protagonista de la imagen de referencia, desata el movimiento definitivo final, hace volar a todos los personajes enemigos y termina. Utiliza un ritmo variado para una dirección nítida y precisa.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/714cb0a24f61857d95830b25f2f900d5/thumbnails/thumbnail.jpg" width="600" alt="Escena de batalla de anime a alta velocidad">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6164)**
-
-**Autor:** [なお](https://x.com/Naonekozamurai) | **Fuente:** [Link](https://x.com/Naonekozamurai/status/2067184091121013095) | **Publicado:** Jun 17, 2026
-
----
-### Prompt de video de meta-horror rompiendo la cuarta pared
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un complejo prompt de video de múltiples escenas para Seedance 2.0 que crea un escenario de comedia de terror donde un personaje de IA sale de la pantalla de una computadora para atrapar al espectador. Incluye movimientos de cámara específicos, iluminación y direcciones de sonido para una sensación realista de vlog.
-
-#### 📝 Prompt
-
-```
-Estilo general: Sensación de video vertical de celular grabado a mano, escena común de escritorio de computadora, ligero movimiento de cámara, textura de video selfie de bajo presupuesto, iluminación interior cálida, luz azul fría del monitor de la computadora, escena de "error" de video de IA, atmósfera de comedia de terror, efecto de romper la cuarta pared. Sin subtítulos, sin superposiciones de texto en pantalla.
-
-Estilo de audio:
-
-Textura de grabación en vivo desde celular, ligera reverberación de habitación, sonido muy tenue del ventilador de la computadora y ruido ambiental del escritorio. La narración masculina suena como una queja casual de video corto, el diálogo femenino es ligeramente mecánico y espeluznante. Sin sensación de doblaje cinematográfico.
-
-Escena 1 (0-4s)
-Sujeto: Una joven asiática refinada @image, cabello negro largo, camisa blanca, corbata negra, apareciendo en la pantalla de la computadora como un personaje generado por IA.
-Acción:
-0-1s: La cámara del celular apunta a la pantalla de la computadora, la chica en la pantalla se acerca a la cámara, mirando directamente al espectador.
-1-2.5s: Voz masculina fuera de cámara introduce la escena en tono de queja.
-2.5-4s: La chica inclina la cabeza ligeramente, comienza a hablar, el movimiento tiene el tartamudeo poco natural de los videos de IA.
-Diálogo:
-Voz masculina fuera de cámara: "Hermanos, miren este video de IA, algo se siente mal".
-Femenino, confundido, ligeramente mecánico: "¿Eh? ¿Puedes repetir eso?"
-Entorno: Escritorio de computadora común, monitor, teclado, mouse, interfaz de software de edición de video, el fondo es una pared de tonos cálidos.
-Cámara: Toma vertical de celular, primer plano al monitor y escritorio, ligero movimiento de mano.
-Estilo: Video real de celular, reflejos en pantalla, ligero ruido de compresión, entorno de escritorio cotidiano.
-Restricción: La chica siempre debe ser un personaje dentro de la pantalla, no hacer que aparezca en el espacio real al principio.
-
-Escena 2 (4-8s)
-Sujeto: Un brazo y dedo humano real entran en el encuadre, señalando a la chica en la pantalla de la computadora.
-Acción:
-4-6s: Una mano masculina real se extiende desde la parte inferior del encuadre, el dedo índice señala la cara de la chica en la pantalla.
-6-8s: La chica en la pantalla mira fijamente el dedo, su expresión se vuelve espeluznante, el cuerpo comienza a inclinarse hacia adelante fuera de la pantalla.
-Diálogo:
-Voz masculina fuera de cámara, provocadora/en broma: "Te reto a que salgas y me golpees".
-Entorno: Pantalla de computadora mostrando la línea de tiempo de edición de video, la persona en el video es claramente visible.
-Cámara: La cámara del celular se mueve ligeramente hacia adelante, dedo en primer plano, chica de la pantalla en plano medio.
-Estilo: Video selfie cotidiano que se convierte en thriller surrealista, el espacio dentro y fuera de la pantalla comienza a mezclarse.
-Restricción: Mantener la relación clara del "dedo real señalando la pantalla de la computadora", la interfaz de la pantalla no debe desaparecer por completo.
-
-Escena 3 (8-12s)
-Sujeto: La chica en la pantalla rompe el monitor, extendiendo la mano para agarrar la mano del humano real.
-Acción:
-8-10s: La pantalla de la computadora se rompe como vidrio, grietas y fragmentos vuelan hacia afuera.
-10-12s: La chica extiende una mano desde la pantalla, agarrando la muñeca del humano real, con la mitad de su cuerpo aún atrapado en el monitor.
-Diálogo:
-Femenino, voz bajando, repitiendo fríamente: "¿Salir... golpearte?"
-Entorno: El escritorio de la computadora vibra, el teclado y el monitor permanecen en su lugar, los bordes de la pantalla rota emiten una luz azul-blanca.
-Cámara: Movimiento repentino de mano hacia adelante, ligero desenfoque, creando una sensación de pánico.
-Estilo: Comedia de terror surrealista tipo "error de IA", vidrio rompiéndose, el espacio de la pantalla rompiéndose, proporciones del personaje ligeramente extrañas.
-Restricción: La chica debe salir de la pantalla, no aparecer de la nada en la realidad; la acción de agarrar debe ser clara.
-
-Escena 4 (12-15s)
-Sujeto: La mitad del cuerpo de la chica sale de la pantalla, agarrando firmemente el brazo del humano real.
-Acción:
-12-14s: Ella tira de la mano del humano real con fuerza, cara cerca de la cámara, expresión rígida y espeluznante, los dedos y la muñeca muestran una ligera deformación de IA.
-14-15s: El encuadre se congela en el momento absurdo del error, fragmentos de vidrio suspendidos en el aire, brazo real sostenido por ella.
-Diálogo:
-Voz masculina real, aterrorizada: "¡Espera! ¡Rayos! ¿De verdad saliste?"
-Femenino, cerca de la cámara, fríamente: "Tú me lo pediste".
-Entorno: Escritorio de computadora, teclado, monitor roto, restos de la interfaz del software de video.
-Cámara: Primer plano de pantalla vertical grabado a mano, ligero pánico y luego fotograma congelado, manteniendo la textura de video selfie.
-Estilo: Realismo de bajo presupuesto + anormalidad generada por IA, comedia de terror, no hacer que parezca un éxito de taquilla cinematográfico de alta gama.
-Restricción: El encuadre debe parecer una escena de error de video de IA grabada por un usuario al azar, preservando texturas imperfectas, extrañas y absurdas.
-
-Negative Prompt: Subtítulos, superposición de texto en pantalla, demasiado cinematográfico, sets lujosos, calidad comercial limpia, composición horizontal, escena puramente virtual, chica en el espacio real al inicio, la pantalla de la computadora desaparece, relación del dedo poco clara, acciones ilegibles, teletransportación del personaje, cara completamente distorsionada, cuerpo derritiéndose, extremidades adicionales, demasiados dedos, palmas fusionándose, escala del monitor incorrecta, demasiados fragmentos de vidrio bloqueando al sujeto, texto aleatorio, texto ilegible, logotipo, marca de agua, desenfoque severo, cámara completamente fuera de control, sincronización labial severamente desfasada, diálogo y acción fuera de sincronía, boca sin moverse mientras habla.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04494c0dfcf87ba88920476a1692af1a/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video de meta-horror rompiendo la cuarta pared">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=6156)**
-
-**Autor:** [John](https://x.com/johnAGI168) | **Fuente:** [Link](https://x.com/johnAGI168/status/2067169682948292835) | **Publicado:** Jun 17, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -3477,6 +3442,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-23T03:52:54.367Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-23T08:11:45.318Z</sub>
 
 </div>
