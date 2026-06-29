@@ -3549,6 +3549,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-29T09:18:21.900Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-29T18:27:33.539Z</sub>
 
 </div>
