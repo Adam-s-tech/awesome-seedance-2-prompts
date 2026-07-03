@@ -361,26 +361,26 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
-### Fashion Editorial Aesthetic Vlog
+### Vlog con estética de editorial de moda
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional vlog-style prompt for generating high-fashion content with stylish cuts, soft cinematic lighting, and consistent character presentation.
+> Un prompt profesional al estilo vlog para generar contenido de alta costura con cortes elegantes, iluminación cinematográfica suave y una presentación consistente del personaje.
 
 #### 📝 Prompt
 
 ```
-15 seconds, 16:9 vertical, quick stylish cuts between segments (4-5 short beats), glossy aesthetic-vlog pacing, smooth whip-pan or snap transitions between each.
-Global setup: High fashion aesthetic content-creator video. Soft glowing key light, shallow depth of field, slightly warm cinematic color grade. Subject: a confident young woman, stylish trendy outfit, changes look/setting slightly between beats (different lighting or background each cut, same general styling identity). Ambient sound: moody downtempo pop/R&B instrumental, subtle beat drops synced to cut transitions.
-[0:00–0:03] Close-up, soft warm light, she looks off to the side with a calm confident expression, then slowly turns to meet the camera. Slow push-in.
-[0:03–0:06] Cut to a different angle/setting, cooler blue-toned lighting, she runs a hand through her hair, subtle self-assured smile, gaze steady on camera.
-[0:06–0:09] Cut to outdoor golden-hour lighting, she walks slowly toward camera, wind gently moving her hair and clothing, confident relaxed stride.
-[0:09–0:12] Cut to close-up under neon-tinted lighting, she glances down then back up at camera with a slow deliberate look, beat-synced snap transition.
-[0:12–0:15] Final cut, soft studio lighting, she gives a small satisfied smile directly to camera, holds the moment, slow fade to black.
-Style: glossy editorial color grade, soft cinematic lighting throughout, confident expressive body language, no text overlays, no distorted anatomy or facial features. Constraints: consistent styling identity across cuts (even as background/lighting changes), natural realistic movement, transitions synced to the beat of the music, believable naturalistic expressions throughout.
+15 segundos, 16:9 vertical, cortes rápidos y elegantes entre segmentos (4-5 tiempos cortos), ritmo de vlog con estética brillante, transiciones fluidas de tipo whip-pan o snap entre cada uno.
+Configuración global: Vídeo de creador de contenido con estética de alta costura. Luz principal suave y brillante, profundidad de campo reducida, gradación de color cinematográfica ligeramente cálida. Sujeto: una mujer joven y segura de sí misma, con un atuendo moderno y elegante, cambia ligeramente de look/escenario entre los tiempos (diferente iluminación o fondo en cada corte, manteniendo la misma identidad de estilo general). Sonido ambiental: instrumental pop/R&B downtempo atmosférico, con sutiles caídas de ritmo sincronizadas con las transiciones de corte.
+[0:00–0:03] Primer plano, luz cálida y suave, ella mira hacia un lado con una expresión tranquila y segura, luego gira lentamente para mirar a la cámara. Zoom lento hacia adelante.
+[0:03–0:06] Corte a un ángulo/escenario diferente, iluminación con tonos azules más fríos, ella se pasa la mano por el cabello, sonrisa sutil y segura, mirada fija en la cámara.
+[0:06–0:09] Corte a iluminación de hora dorada en exteriores, ella camina lentamente hacia la cámara, el viento mueve suavemente su cabello y su ropa, paso seguro y relajado.
+[0:09–0:12] Corte a primer plano bajo iluminación con tonos de neón, ella mira hacia abajo y luego vuelve a mirar a la cámara con una mirada lenta y deliberada, transición snap sincronizada con el ritmo.
+[0:12–0:15] Corte final, iluminación de estudio suave, ella dedica una pequeña sonrisa de satisfacción directamente a la cámara, mantiene el momento, fundido lento a negro.
+Estilo: gradación de color editorial brillante, iluminación cinematográfica suave en todo momento, lenguaje corporal expresivo y seguro, sin superposiciones de texto, sin anatomía o rasgos faciales distorsionados. Restricciones: identidad de estilo consistente en todos los cortes (incluso cuando cambian el fondo/iluminación), movimiento natural y realista, transiciones sincronizadas con el ritmo de la música, expresiones naturales y creíbles en todo momento.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072787072960851968/img/jqmc52nK2J2duWVX.jpg" width="600" alt="Fashion Editorial Aesthetic Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072787072960851968/img/jqmc52nK2J2duWVX.jpg" width="600" alt="Vlog con estética de editorial de moda">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=6734)**
 
@@ -484,51 +484,51 @@ Realismo cinematográfico 3D de alta gama fusionado con una expresiva acción de
 **Autor:** [BMX](https://x.com/bmx_ai13) | **Fuente:** [Link](https://x.com/bmx_ai13/status/2072809793429876745) | **Publicado:** Jul 2, 2026
 
 ---
-### POV Suspense Anime Chase
+### POV: Persecución de anime de suspense
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A cinematic Japanese anime prompt for a suspenseful point-of-view chase scene between a girl and a cat, featuring high-quality 2D animation and dynamic camera movements.
+> Un prompt de anime japonés cinematográfico para una escena de persecución en primera persona llena de suspense entre una chica y un gato, con animación 2D de alta calidad y movimientos de cámara dinámicos.
 
 #### 📝 Prompt
 
 ```
-[Main Character] = Girl with black hair
-[Target/Subject] = White cat
-[Setting] = Inside a large, dark house with suspenseful elements
+[Personaje principal] = Chica de cabello negro
+[Objetivo/Sujeto] = Gato blanco
+[Escenario] = Interior de una casa grande y oscura con elementos de suspense
 
-[Video Style]
-15 seconds. Japanese full-color anime. High-density 2D animation with a 500 million yen budget feel. Fast cuts, strong low angles, rapid push-ins, lateral tracking, match cuts. No subtitles, no watermarks, with BGM. Sounds include footsteps, breathing, rustling clothes, ambient noise, and one short final phrase.
+[Estilo de video]
+15 segundos. Anime japonés a todo color. Animación 2D de alta densidad con una sensación de presupuesto de 500 millones de yenes. Cortes rápidos, ángulos contrapicados marcados, acercamientos rápidos (push-ins), seguimiento lateral, cortes de montaje (match cuts). Sin subtítulos, sin marcas de agua, con música de fondo. Los sonidos incluyen pasos, respiración, roce de ropa, ruido ambiental y una frase final corta.
 
-[Visual Composition]
-Subjective POV camera of the [Target/Subject], being chased by the [Main Character]. Instead of a normal chase, the [Main Character] doesn't just run but gets ahead of the camera. An [Abnormal Gimmick] connects all shots, and finally, the [Main Character] wins quietly close to the lens.
+[Composición visual]
+Cámara subjetiva (POV) del [Objetivo/Sujeto], siendo perseguido por el [Personaje principal]. En lugar de una persecución normal, el [Personaje principal] no solo corre, sino que se adelanta a la cámara. Un [Truco inusual] conecta todas las tomas y, finalmente, el [Personaje principal] gana silenciosamente cerca del lente.
 
-[Shot 1: 2-Second Hook]
-Low POV. Starts from the floor of the [Setting]. Only the feet of the [Main Character] enter the edge of the frame. An [Abnormal Gimmick] crosses the foreground for a moment.
+[Toma 1: Gancho de 2 segundos]
+POV bajo. Comienza desde el suelo del [Escenario]. Solo los pies del [Personaje principal] entran en el borde del encuadre. Un [Truco inusual] cruza el primer plano por un momento.
 
-[Shot 2: Escape Starts]
-[Target/Subject] suddenly retreats to flee. The camera slides near the floor with slight handheld shakiness. Footsteps speed up.
+[Toma 2: Comienza el escape]
+El [Objetivo/Sujeto] retrocede repentinamente para huir. La cámara se desliza cerca del suelo con un ligero temblor de cámara en mano. Los pasos se aceleran.
 
-[Shot 3: Getting Ahead]
-As soon as turning a corner, the [Main Character] is already standing in the middle of a distant hallway. The camera stops for a moment then escapes to the side.
+[Toma 3: Adelantándose]
+Al doblar una esquina, el [Personaje principal] ya está de pie en medio de un pasillo lejano. La cámara se detiene un momento y luego escapa hacia un lado.
 
-[Shot 4: Under Obstacles]
-Passing through low gaps like tables, sofas, or handrails. The [Abnormal Gimmick] glows deep in the gap, indicating the pursuit direction.
+[Toma 4: Bajo obstáculos]
+Pasando a través de espacios bajos como mesas, sofás o barandillas. El [Truco inusual] brilla profundamente en el hueco, indicando la dirección de la persecución.
 
-[Shot 5: High Angle Bird's Eye]
-High-speed cut from directly above. Shows the escape route of the [Target/Subject].
+[Toma 5: Vista de pájaro en ángulo alto]
+Corte de alta velocidad desde arriba. Muestra la ruta de escape del [Objetivo/Sujeto].
 
-[Shot 6: Moment of Relief]
-[Target/Subject] hides behind an object. Sound cuts out. Camera is fixed, only the back of the screen quietly darkens.
+[Toma 6: Momento de alivio]
+El [Objetivo/Sujeto] se esconde detrás de un objeto. El sonido se corta. La cámara está fija, solo la parte posterior de la pantalla se oscurece silenciosamente.
 
-[Shot 7: Discovery]
-Focus shifts from foreground to background, where the [Main Character] is located. The [Main Character] doesn't move much, just looks here with their eyes.
+[Toma 7: Descubrimiento]
+El enfoque cambia del primer plano al fondo, donde se encuentra el [Personaje principal]. El [Personaje principal] no se mueve mucho, solo mira hacia aquí con sus ojos.
 
-[Shot 8: Final Word]
-Rapid close-up. The [Main Character] says 'Found you♪' in a short, cute voice very close to the lens. The final frame is a still image with a smile.
+[Toma 8: Palabra final]
+Primer plano rápido. El [Personaje principal] dice 'Te encontré♪' con una voz corta y dulce muy cerca del lente. El fotograma final es una imagen fija con una sonrisa.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072030784333168640/img/940Q6ySKRPVaswlK.jpg" width="600" alt="POV Suspense Anime Chase">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072030784333168640/img/940Q6ySKRPVaswlK.jpg" width="600" alt="POV: Persecución de anime de suspense">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=6727)**
 
@@ -658,21 +658,21 @@ Surrealismo industrial, fabricación de sueños, simulaciones de vapor brillante
 **Autor:** [LudovicCreator](https://x.com/LudovicCreator) | **Fuente:** [Link](https://x.com/LudovicCreator/status/2072742121673494808) | **Publicado:** Jul 2, 2026
 
 ---
-### Luxury Macro Transformation Sequence
+### Secuencia de transformación macro de lujo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for Seedance 2.0 designed to create a luxury macro commercial sequence using storyboard panel references.
+> Un prompt de video cinematográfico para Seedance 2.0 diseñado para crear una secuencia comercial macro de lujo utilizando referencias de paneles de storyboard.
 
 #### 📝 Prompt
 
 ```
-Use @ Image as storyboard reference for cinematic sequence. use as first shot 01
+Usa @ Image como referencia de storyboard para la secuencia cinematográfica. Úsalo como primera toma 01
 
-A 15-second cinematic macro transformation sequence transitioning through all 9 storyboard panels in strict order. Visual style: luxury macro commercial,
+Una secuencia de transformación macro cinematográfica de 15 segundos que transiciona a través de los 9 paneles del storyboard en orden estricto. Estilo visual: comercial macro de lujo,
 ```
 
-<img src="https://cms-assets.youmind.com/media/1783064372965_tks6lw_HMPV9GHWkAAH3iI.jpg" width="600" alt="Luxury Macro Transformation Sequence">
+<img src="https://cms-assets.youmind.com/media/1783064372965_tks6lw_HMPV9GHWkAAH3iI.jpg" width="600" alt="Secuencia de transformación macro de lujo">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=6726)**
 
@@ -698,41 +698,41 @@ A 15-second cinematic macro transformation sequence transitioning through all 9 
 **Autor:** [Magnific](https://x.com/magnific) | **Fuente:** [Link](https://x.com/magnific/status/2072731418527170995) | **Publicado:** Jul 2, 2026
 
 ---
-### 1980s Tokyo Bubble Era VHS Video Prompt
+### Prompt de video VHS de la era de la burbuja económica de Tokio en los años 80
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive cinematic prompt designed for Seedance, creating a nostalgic 1980s Tokyo street scene with a distinct VHS home-video aesthetic and detailed character movement across multiple time-coded segments.
+> Un prompt cinematográfico integral diseñado para Seedance, que crea una nostálgica escena callejera del Tokio de los años 80 con una estética distintiva de video casero VHS y un movimiento detallado de los personajes a través de múltiples segmentos con código de tiempo.
 
 #### 📝 Prompt
 
 ```
-Main subject: a beautiful young Japanese woman, early 20s, delicate pretty features, sleek glossy black hair, long and smooth with soft side-swept bangs (NOT permed, NOT frizzy), tasteful natural makeup. 1980s Tokyo street fashion — a bright oversized blazer over a high-waisted skirt, gold hoop earrings, charming warm expression. Maintain the exact same identity, hairstyle, and outfit throughout.
+Sujeto principal: una hermosa joven japonesa, de unos 20 años, rasgos delicados y bonitos, cabello negro liso y brillante, largo y suave con flequillo suave peinado hacia un lado (SIN permanente, SIN frizz), maquillaje natural y elegante. Moda callejera del Tokio de los años 80: un blazer brillante de corte oversize sobre una falda de cintura alta, pendientes de aro dorados, expresión cálida y encantadora. Mantener exactamente la misma identidad, peinado y atuendo en todo momento.
 
-Visual Style: authentic 1980s VHS home-video look — heavy tape grain, visible scanlines, chromatic color bleeding, blooming highlights, warm faded nostalgic colors, a small on-screen date stamp in the corner, occasional soft tracking wobble. Strong retro-vintage feeling.
+Estilo visual: aspecto auténtico de video casero VHS de los años 80: grano de cinta intenso, líneas de escaneo visibles, sangrado de color cromático, reflejos brillantes, colores cálidos, desvanecidos y nostálgicos, una pequeña marca de fecha en la esquina de la pantalla, ocasionales oscilaciones suaves de seguimiento. Fuerte sensación retro-vintage.
 
-Camera Style: 1980s camcorder held by a friend, MOSTLY STEADY with only a gentle natural float — light sway, no violent shaking, no fast whip movements. Slow casual reframing.
+Estilo de cámara: videocámara de los años 80 sostenida por un amigo, MAYORMENTE ESTABLE con solo una suave flotación natural: balanceo ligero, sin sacudidas violentas, sin movimientos rápidos de barrido. Reencuadre lento y casual.
 
-FIRST HALF — DAYTIME (bustling bubble-era Tokyo streets):
-00:00–00:02 A busy 1980s Shibuya daytime street. She walks toward the camera through period pedestrians, boxy cars and hand-painted shop signs behind her, smiling. HARD CUT.
-00:02–00:04 Outside a record shop, she flips through vinyl records, then grabs a canned drink from a retro vending machine. HARD CUT.
-00:04–00:06 A quiet Showa backstreet with potted plants and a pay phone; she crouches to pet a stray cat. HARD CUT.
-00:06–00:08 A wide crosswalk under an elevated train line, city-pop energy, she waits and glances at the camera. HARD CUT.
+PRIMERA MITAD — DÍA (bulliciosas calles del Tokio de la era de la burbuja):
+00:00–00:02 Una concurrida calle de Shibuya durante el día en los años 80. Ella camina hacia la cámara entre peatones de la época, autos cuadrados y letreros de tiendas pintados a mano detrás de ella, sonriendo. CORTE SECO.
+00:02–00:04 Fuera de una tienda de discos, ella hojea discos de vinilo, luego toma una bebida en lata de una máquina expendedora retro. CORTE SECO.
+00:04–00:06 Una calle tranquila de la era Showa con plantas en macetas y un teléfono público; ella se agacha para acariciar a un gato callejero. CORTE SECO.
+00:06–00:08 Un paso de peatones ancho bajo una línea de tren elevado, energía city-pop, ella espera y mira hacia la cámara. CORTE SECO.
 
-SECOND HALF — NIGHT (dazzling Shinjuku / Roppongi neon):
-00:08–00:10 A neon-drenched Shinjuku Kabukicho alley, glowing kanji signboards everywhere, she walks looking up at the bright lights. HARD CUT.
-00:10–00:12 A Roppongi crossing at night, dazzling neon, taxis passing, she laughs toward the camera as light reflections wash over her face. HARD CUT.
-00:12–00:13 Close shot under a huge glowing neon sign, colorful light on her face. HARD CUT.
-00:13–00:15 She walks away down a vibrant neon street, glances back with a small warm smile, then the recording cuts to VHS static and black.
+SEGUNDA MITAD — NOCHE (deslumbrante neón de Shinjuku / Roppongi):
+00:08–00:10 Un callejón de Shinjuku Kabukicho bañado en neón, letreros de kanji brillantes por todas partes, ella camina mirando hacia las luces brillantes. CORTE SECO.
+00:10–00:12 Un cruce en Roppongi por la noche, neón deslumbrante, taxis pasando, ella ríe hacia la cámara mientras los reflejos de luz bañan su rostro. CORTE SECO.
+00:12–00:13 Plano cerrado bajo un enorme letrero de neón brillante, luz colorida en su rostro. CORTE SECO.
+00:13–00:15 Ella camina alejándose por una vibrante calle de neón, mira hacia atrás con una pequeña sonrisa cálida, luego la grabación corta a estática de VHS y negro.
 
-Environment details throughout: retro vending machines, glowing neon kanji signboards, pay phones, boxy 1980s taxis and kei cars, elevated trains, arcade lights, izakaya paper lanterns, dense overhead wires — nostalgic bubble-era Tokyo.
+Detalles del entorno en todo el video: máquinas expendedoras retro, letreros de neón con kanji brillantes, teléfonos públicos, taxis y kei cars cuadrados de los años 80, trenes elevados, luces de salas de juegos, linternas de papel de izakaya, densos cables aéreos: el nostálgico Tokio de la era de la burbuja.
 
-Audio: natural ambient only — city crowd, passing trains, traffic, arcade beeps, faint 1980s city-pop drifting from a storefront, footsteps. No narration, no added soundtrack.
+Audio: solo ambiente natural: multitud de la ciudad, trenes pasando, tráfico, pitidos de juegos arcade, tenue city-pop de los años 80 que sale de un escaparate, pasos. Sin narración, sin banda sonora añadida.
 
-Goal: a beautiful, nostalgic 1980s Tokyo day-to-night street video that feels like a treasured VHS home movie from Japan's bubble era.
+Objetivo: un video callejero hermoso y nostálgico del Tokio de los años 80, desde el día hasta la noche, que se sienta como una preciada película casera en VHS de la era de la burbuja de Japón.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072712250092302336/img/ZE1gAAUVygL_T9L4.jpg" width="600" alt="1980s Tokyo Bubble Era VHS Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072712250092302336/img/ZE1gAAUVygL_T9L4.jpg" width="600" alt="Prompt de video VHS de la era de la burbuja económica de Tokio en los años 80">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=6733)**
 
@@ -758,42 +758,42 @@ Goal: a beautiful, nostalgic 1980s Tokyo day-to-night street video that feels li
 **Autor:** [Generator](https://x.com/groovestreetgen) | **Fuente:** [Link](https://x.com/groovestreetgen/status/2072697831467675784) | **Publicado:** Jul 2, 2026
 
 ---
-### Epic Anime Dragon Rider Battle
+### Épica batalla de un jinete de dragones al estilo anime
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic anime prompt for generating an epic aerial battle between a dragon rider and a swarm of wyverns, featuring MAPPA-style sakuga and dynamic camera work.
+> Un prompt de anime cinematográfico altamente detallado para generar una épica batalla aérea entre un jinete de dragones y un enjambre de guivernos, con sakuga al estilo MAPPA y un trabajo de cámara dinámico.
 
 #### 📝 Prompt
 
 ```
-A fearless dragon rider with piercing blue eyes, flowing red scarf and lightweight fantasy armor, mounted on a colossal sapphire dragon, rendered in ultra-premium Japanese anime rendering, MAPPA-inspired sakuga, sharp manga linework, vibrant cel shading, dynamic motion smears and cinematic anime lighting + 
-- Dives through thunderclouds above a kingdom besieged by thousands of flying wyverns, camera racing alongside the dragon's wings while lightning illuminates the battlefield below; 
-- Dragon tears through enemy creatures while the rider jumps between airborne monsters, dual blades flashing through the sky, impossible aerial combat unfolding through orbit shots and speed-line transitions; 
-- Dragon and rider combine for a final spiral dive attack, creating a gigantic vortex shockwave that annihilates the entire invading swarm, ending with the kingdom saved beneath golden sunlight while the dragon roars victoriously above the clouds
-Heroic fantasy anime masterpiece, airborne sakuga combat, breathtaking final payoff.
+Un intrépido jinete de dragones con penetrantes ojos azules, una bufanda roja ondeante y una ligera armadura de fantasía, montado sobre un colosal dragón de zafiro, renderizado en calidad de anime japonés ultra premium, sakuga inspirado en MAPPA, trazos de manga definidos, cel shading vibrante, desenfoque de movimiento dinámico e iluminación de anime cinematográfica + 
+- Se sumerge a través de nubes de tormenta sobre un reino asediado por miles de guivernos voladores, la cámara corre junto a las alas del dragón mientras los relámpagos iluminan el campo de batalla debajo; 
+- El dragón atraviesa a las criaturas enemigas mientras el jinete salta entre monstruos en el aire, con hojas dobles destellando en el cielo, un combate aéreo imposible que se desarrolla mediante tomas orbitales y transiciones de líneas de velocidad; 
+- El dragón y el jinete se combinan para un ataque final en picada en espiral, creando una gigantesca onda de choque en vórtice que aniquila a todo el enjambre invasor, terminando con el reino salvado bajo la luz dorada del sol mientras el dragón ruge victorioso sobre las nubes
+Obra maestra de anime de fantasía heroica, combate aéreo tipo sakuga, desenlace final impresionante.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072696809877590016/pu/img/0v9PxR6OcN7ydM8K.jpg" width="600" alt="Epic Anime Dragon Rider Battle">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072696809877590016/pu/img/0v9PxR6OcN7ydM8K.jpg" width="600" alt="Épica batalla de un jinete de dragones al estilo anime">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=6725)**
 
 **Autor:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Fuente:** [Link](https://x.com/CharaspowerAI/status/2072696836033233178) | **Publicado:** Jul 2, 2026
 
 ---
-### Retro VHS Elevator CCTV Style
+### Estilo CCTV de ascensor con estética VHS retro
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A comprehensive video prompt designed to simulate a 90s handheld VHS surveillance recording, featuring a first-person perspective in an elevator with complex character interactions and analog artifacts.
+> Un prompt de video integral diseñado para simular una grabación de vigilancia VHS de mano de los años 90, que presenta una perspectiva en primera persona dentro de un ascensor con interacciones complejas de personajes y artefactos analógicos.
 
 #### 📝 Prompt
 
 ```
-Generate a 9:16 vertical screen retro surveillance video, 15 seconds long (first-person handheld perspective from a mobile phone, mixed with VHS tape damage). The footage must look like a low-res video recorded on a handheld phone in a dim, old elevator, later copied to VHS and played repeatedly, causing heavy damage. No TV frames, no CRT borders, no filming a TV screen; only the full recording itself. The scene is a dim elevator lobby; the doors open, ad screens flicker, and fluorescent lights buzz. Handheld 1st person POV with natural jitter, seeing only my own feet, pants, and hands. Adult Asian female lead (alluring OL, wearing asset HL8o-CobkAAt5LL: alluring figure, tempting gaze, teasing smile, siren pose, slow hip sway) maintains a beautiful, ambiguous smile. Doors open, she pulls me: 'Come in...' I hesitate. A 2D secretary from the ad screen (asset cloudclone28_...) jumps out: 'Master, don't go in!' They argue and scuffle. Timeline: 0-4s wide shot of door opening, siren pose. 4-6s 2D secretary jumps out. 6-9s Lead turns furious, pulls out a chainsaw and a giant hammer to fight. 9-12s I rush in, elevator alarms for overweight. 12-15s Ending: Lead realizes her mistake, apologizes awkwardly; 2D secretary laughs: 'Fatty! I knew you were overweight!' I retreat sweating. Subtitle: 'They didn't want him to stay, the elevator just couldn't close.' Heavy screen tearing and noise. [Lighting] Flickering fluorescent mixed with ad screen light, overexposed character highlights. [Quality] Handheld jitter, focus hunting, low frame rate, VHS scan lines, snow, color crosstalk, analog instability. [Camera] No cinematic moves, only handheld shake and signal drift. [Sound] Muffled microphone audio, whispers, shouting, scuffling, alarm, heavy impacts, distorted like compressed surveillance audio. [Negative] No TV frame, no high def, no modern digital texture, no fish-eye, no realistic 2D character transformation.
+Genera un video de vigilancia retro en pantalla vertical 9:16, de 15 segundos de duración (perspectiva de mano en primera persona desde un teléfono móvil, mezclado con daños de cinta VHS). El metraje debe parecer un video de baja resolución grabado con un teléfono de mano en un ascensor viejo y oscuro, copiado posteriormente a VHS y reproducido repetidamente, causando un daño intenso. Sin marcos de TV, sin bordes CRT, sin filmar una pantalla de televisión; solo la grabación completa. La escena es el vestíbulo de un ascensor oscuro; las puertas se abren, las pantallas publicitarias parpadean y las luces fluorescentes zumban. POV en primera persona de mano con temblor natural, viendo solo mis propios pies, pantalones y manos. Una mujer asiática adulta (OL seductora, vistiendo el asset HL8o-CobkAAt5LL: figura atractiva, mirada tentadora, sonrisa pícara, pose de sirena, balanceo lento de caderas) mantiene una sonrisa hermosa y ambigua. Las puertas se abren, ella me atrae: 'Entra...' Dudo. Una secretaria 2D de la pantalla publicitaria (asset cloudclone28_...) salta hacia afuera: '¡Maestro, no entres!' Discuten y forcejean. Cronología: 0-4s plano general de la puerta abriéndose, pose de sirena. 4-6s la secretaria 2D salta. 6-9s la protagonista se enfurece, saca una motosierra y un martillo gigante para pelear. 9-12s entro corriendo, el ascensor suena por exceso de peso. 12-15s Final: la protagonista se da cuenta de su error, se disculpa torpemente; la secretaria 2D se ríe: '¡Gordito! ¡Sabía que tenías sobrepeso!' Retrocedo sudando. Subtítulo: 'No querían que se quedara, el ascensor simplemente no podía cerrar'. Fuerte distorsión de pantalla y ruido. [Iluminación] Fluorescente parpadeante mezclado con la luz de la pantalla publicitaria, reflejos de personajes sobreexpuestos. [Calidad] Temblor de mano, búsqueda de enfoque, baja tasa de fotogramas, líneas de escaneo VHS, nieve, diafonía de color, inestabilidad analógica. [Cámara] Sin movimientos cinematográficos, solo temblor de mano y deriva de señal. [Sonido] Audio de micrófono amortiguado, susurros, gritos, forcejeos, alarma, impactos fuertes, distorsionado como audio de vigilancia comprimido. [Negativo] Sin marco de TV, sin alta definición, sin textura digital moderna, sin ojo de pez, sin transformación realista de personaje 2D.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072687204036419584/img/lmxmOG4MKpwZ9gCx.jpg" width="600" alt="Retro VHS Elevator CCTV Style">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072687204036419584/img/lmxmOG4MKpwZ9gCx.jpg" width="600" alt="Estilo CCTV de ascensor con estética VHS retro">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=6723)**
 
@@ -933,19 +933,19 @@ Continúa con la misma mujer y el mismo estadio. Aumenta el nivel de emoción dr
 **Autor:** [auqib](https://x.com/auqibhabib) | **Fuente:** [Link](https://x.com/auqibhabib/status/2072627734451507371) | **Publicado:** Jul 2, 2026
 
 ---
-### Pixar Style Erling Haaland Animation
+### Animación de Erling Haaland al estilo Pixar
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 3D Pixar-style caricature animation of football star Erling Haaland featuring vibrant stadium visuals and high-energy soccer match dynamics.
+> Una animación caricaturesca en 3D al estilo Pixar de la estrella del fútbol Erling Haaland, con visuales vibrantes de estadio y la dinámica de alta energía de un partido de fútbol.
 
 #### 📝 Prompt
 
 ```
-A detailed, 3D Pixar-style animation featuring an exaggerated, baby-faced caricature of football star Erling Haaland with a prominent blonde mullet and chubby, rosy cheeks. Wearing a bright red Norway national team jersey with white and blue trim, he confidently strides out of a dark stadium tunnel onto a vibrant, sunlit pitch. Surrounded by a roaring crowd and flashing cameras from press photographers, he looks directly into the lens, making comical, dramatic pouty faces and flashing a two-finger peace sign. The scene cuts to a high-energy match where he dynamically sprints down the field in shiny golden cleats, tightly controlling a star-patterned soccer ball while swiftly dodging defenders under bright stadium floodlights amidst falling confetti.
+Una detallada animación en 3D al estilo Pixar que presenta una caricatura exagerada y aniñada de la estrella del fútbol Erling Haaland, con un característico corte de pelo rubio y mejillas regordetas y sonrosadas. Viste la brillante camiseta roja de la selección nacional de Noruega con detalles en blanco y azul, y camina con confianza desde el oscuro túnel de un estadio hacia un campo vibrante e iluminado por el sol. Rodeado por una multitud que ruge y los flashes de las cámaras de los fotógrafos de prensa, mira directamente a la lente, haciendo muecas cómicas y dramáticas mientras hace el signo de la paz con los dedos. La escena cambia a un partido de alta energía donde corre dinámicamente por el campo con botines dorados brillantes, controlando con precisión un balón de fútbol con estampado de estrellas mientras esquiva rápidamente a los defensas bajo los brillantes focos del estadio en medio de una lluvia de confeti.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072625876718727168/img/rYQ19R96EG5MrMdk.jpg" width="600" alt="Pixar Style Erling Haaland Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072625876718727168/img/rYQ19R96EG5MrMdk.jpg" width="600" alt="Animación de Erling Haaland al estilo Pixar">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=6721)**
 
@@ -1130,38 +1130,38 @@ Animación detallada dibujada a mano, estilo OVA retro de los años 80. Interior
 **Autor:** [Sam Aoteman](https://x.com/samaote) | **Fuente:** [Link](https://x.com/samaote/status/2072561439173468501) | **Publicado:** Jul 2, 2026
 
 ---
-### Realistic 2000s Chinese DV Vlog
+### Vlog realista de cámara DV china de los años 2000
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A meticulous prompt for simulating an early 2000s Chinese home video aesthetic, featuring a young woman in a traditional southern residential area with low-fidelity digital camera characteristics.
+> Un prompt meticuloso para simular la estética de los videos caseros chinos de principios de los años 2000, protagonizado por una joven en una zona residencial tradicional del sur con las características de una cámara digital de baja fidelidad.
 
 #### 📝 Prompt
 
 ```
-Main Character: A young Chinese woman, about 22 years old, with average but attractive looks and natural makeup (no influencer look). Wearing a faded charcoal sleeveless crop top, loose light blue high-waisted wash jeans, black canvas shoes, and a thin black rope necklace. Long black hair tied in a slightly messy low ponytail with natural wispy bangs. Realistic skin texture with a healthy summer tan, natural friendly smile, no posing. Maintain consistent character identity, clothing, hairstyle, and appearance throughout the video.
-Location: A typical residential area in southern China (like old districts in Guangdong, Fujian, Jiangxi, or Zhejiang), 3-4 PM in summer. Narrow concrete alleys, 2-3 story self-built houses with signs of age, green security doors, old aluminum windows, anti-theft nets, air conditioning units, electric scooters, bicycles, bamboo drying racks, sun-dried sheets and clothes, plastic flower pots, greenery, utility poles with dense overhead wires, and large trees casting swaying shadows. No commercial streets, billboards, bubble tea shops, cafes, tourists, posing, or modern influencer elements.
-Visual Style: Hyper-realistic documentary authenticity. Like family DV recordings from 2002-2008. No plot, no acting, no deliberate camera angles. Real fragments of life. Natural, random human movements. Abundant real-world details. Like an old DV tape rediscovered from childhood.
-Photography Style: Early 2000s consumer DV camera quality. Intense handheld shakiness. Constant auto-exposure adjustments. Frequent autofocus hunting. Slight motion blur. Rolling shutter. CCD digital camera colors. Slight software compression artifacts. Slightly warm white balance. Light noise. Low dynamic range. Occasional slight overexposure. No stabilizers. No cinematic camera work. No drone shots. No modern HDR. No film grading. No film filters.
+Personaje principal: Una joven china de unos 22 años, de aspecto promedio pero atractivo y maquillaje natural (sin estilo de influencer). Viste un top corto sin mangas de color carbón deslavado, jeans holgados de cintura alta en azul claro, zapatos de lona negros y un collar de cuerda negra fina. Cabello largo y negro recogido en una coleta baja ligeramente despeinada con flequillo natural. Textura de piel realista con un bronceado saludable de verano, sonrisa natural y amable, sin posar. Mantener una identidad, vestimenta, peinado y apariencia consistentes durante todo el video.
+Ubicación: Una zona residencial típica del sur de China (como los distritos antiguos de Guangdong, Fujian, Jiangxi o Zhejiang), entre las 3 y las 4 p. m. en verano. Callejones estrechos de hormigón, casas autoconstruidas de 2-3 pisos con signos de antigüedad, puertas de seguridad verdes, ventanas de aluminio antiguas, redes antirrobo, unidades de aire acondicionado, scooters eléctricos, bicicletas, tendederos de bambú, sábanas y ropa secándose al sol, macetas de plástico, vegetación, postes de luz con cables densos y árboles grandes que proyectan sombras oscilantes. Sin calles comerciales, vallas publicitarias, tiendas de té con leche, cafeterías, turistas, poses ni elementos modernos de influencer.
+Estilo visual: Autenticidad documental hiperrealista. Como las grabaciones de DV familiares de 2002-2008. Sin trama, sin actuación, sin ángulos de cámara deliberados. Fragmentos reales de la vida. Movimientos humanos naturales y aleatorios. Abundantes detalles del mundo real. Como una vieja cinta de DV redescubierta de la infancia.
+Estilo de fotografía: Calidad de cámara DV de consumo de principios de los años 2000. Intenso movimiento de cámara en mano. Ajustes constantes de exposición automática. Búsqueda frecuente de enfoque automático. Ligero desenfoque de movimiento. Efecto de obturador rodante (rolling shutter). Colores de cámara digital CCD. Ligeros artefactos de compresión de software. Balance de blancos ligeramente cálido. Ruido ligero. Bajo rango dinámico. Ocasional sobreexposición leve. Sin estabilizadores. Sin trabajo de cámara cinematográfico. Sin tomas de dron. Sin HDR moderno. Sin gradación de color cinematográfica. Sin filtros de película.
 00:00–00:02
-In front of a typical Chinese residential building. She sits on low concrete steps, raising both hands to adjust her ponytail. A summer breeze blows a few hairs. The lens automatically finds focus, recovering after a brief blur.
+Frente a un edificio residencial chino típico. Ella está sentada en unos escalones bajos de hormigón, levantando ambas manos para ajustarse la coleta. Una brisa de verano mueve algunos cabellos. La lente encuentra el enfoque automáticamente, recuperándose tras un breve desenfoque.
 00:02–00:04
-She walks slowly along a narrow residential alley. Potted plants and electric scooters line the road. A stray orange cat emerges from a corner. She squats down smiling. The camera composition is slightly off due to tracking.
+Camina lentamente por un callejón residencial estrecho. Macetas y scooters eléctricos bordean el camino. Un gato callejero naranja emerge de una esquina. Ella se agacha sonriendo. La composición de la cámara está ligeramente descentrada debido al seguimiento.
 00:04–00:06
-She gently pets the stray cat and places some cat food on the ground. Autofocus constantly switches between the person and the cat. Sunlight flickers through the leaves, creating changing light spots.
+Acaricia suavemente al gato callejero y coloca algo de comida en el suelo. El enfoque automático cambia constantemente entre la persona y el gato. La luz del sol parpadea a través de las hojas, creando puntos de luz cambiantes.
 00:06–00:08
-A small courtyard in front of the building. She stands in front of a bamboo rack hanging clothes. Sheets and clothes sway gently in the breeze. A cloud passes by, briefly lowering the exposure.
+Un pequeño patio frente al edificio. Ella está de pie frente a un tendedero de bambú con ropa colgada. Las sábanas y la ropa se balancean suavemente con la brisa. Una nube pasa, bajando brevemente la exposición.
 00:08–00:10
-She sits in her own small courtyard, holding a white ceramic teacup, quietly watching the neighborhood, occasionally tucking hair behind her ear. The lens drifts slightly.
+Se sienta en su pequeño patio, sosteniendo una taza de té de cerámica blanca, observando tranquilamente el vecindario, ocasionalmente metiéndose el cabello detrás de la oreja. La lente se desplaza ligeramente.
 00:10–00:12
-Close-up side profile. A distant neighbor calls out: "Back already?" She turns and waves, answering naturally: "Yeah, just got back." The camera follows a beat late.
+Primer plano de perfil. Un vecino a lo lejos grita: "¿Ya regresaste?". Ella se gira y saluda, respondiendo con naturalidad: "Sí, acabo de llegar". La cámara sigue el movimiento con un ligero retraso.
 00:12–00:15
-She walks slowly on a tree-shaded path with her teacup. Noticing the lens, she gives a shy little smile, then continues forward. The recording ends abruptly to black, like a DV camera shutting off.
-Audio: Only real ambient sounds: summer cicadas, distant electric scooters, occasional dog barks, rustling leaves, residents chatting, clinking of kitchenware, cat meows, footsteps on concrete, sound of wind blowing through laundry. No background music. No sound design. No voiceover.
-Goal: Present a segment of life recorded by a typical Chinese family DV camera from 2003-2008. Authentic, natural, imperfect, no acting traces, no influencer feel, no cinematic feel, no AI feel—making the audience mistake it at first glance for a rediscovered old family tape.
+Camina lentamente por un sendero sombreado por árboles con su taza de té. Al notar la lente, dedica una pequeña sonrisa tímida y luego continúa hacia adelante. La grabación termina abruptamente en negro, como una cámara DV apagándose.
+Audio: Solo sonidos ambientales reales: cigarras de verano, scooters eléctricos a lo lejos, ladridos ocasionales de perros, hojas crujiendo, residentes charlando, tintineo de utensilios de cocina, maullidos de gatos, pasos sobre hormigón, sonido del viento soplando a través de la ropa tendida. Sin música de fondo. Sin diseño de sonido. Sin voz en off.
+Objetivo: Presentar un segmento de vida grabado por una cámara DV familiar china típica de 2003-2008. Auténtico, natural, imperfecto, sin rastros de actuación, sin sensación de influencer, sin sensación cinematográfica, sin sensación de IA; haciendo que la audiencia lo confunda a primera vista con una vieja cinta familiar redescubierta.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072539888336191488/img/tJ0JfH4SVPGtsK8t.jpg" width="600" alt="Realistic 2000s Chinese DV Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072539888336191488/img/tJ0JfH4SVPGtsK8t.jpg" width="600" alt="Vlog realista de cámara DV china de los años 2000">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=6728)**
 
@@ -1187,54 +1187,54 @@ Goal: Present a segment of life recorded by a typical Chinese family DV camera f
 **Autor:** [BMX](https://x.com/bmx_ai13) | **Fuente:** [Link](https://x.com/bmx_ai13/status/2072537247337824487) | **Publicado:** Jul 2, 2026
 
 ---
-### UGC Style Hair Care Video Ad
+### Anuncio de video de cuidado capilar estilo UGC
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A casual, handheld 15-second vertical video ad prompt designed for hair care marketing, featuring realistic before-and-after scenes.
+> Un prompt para un anuncio de video vertical de 15 segundos, casual y grabado a mano, diseñado para marketing de cuidado capilar, que incluye escenas realistas de antes y después.
 
 #### 📝 Prompt
 
 ```
-15-second vertical UGC-style hair care ad. Casual handheld footage. Scene 1 (0-3s): Young woman at bathroom mirror, frizzy messy hair, frustrated expression, holds up a hair care bottle. Scene 2 (3-7s): Close-up of dry, damaged hair, finger running through tangles. Scene 3 (7-12s): Applying creamy hair product, hands working through hair, smooth texture, warm lighting. Scene 4 (12-15s): Confident woman smiling, hair now glossy and healthy, points at product bottle. Natural lighting throughout, authentic feel, no professional studio look. make this video
+Anuncio de cuidado capilar estilo UGC vertical de 15 segundos. Metraje casual grabado a mano. Escena 1 (0-3s): Mujer joven frente al espejo del baño, cabello encrespado y desordenado, expresión de frustración, sostiene una botella de producto para el cabello. Escena 2 (3-7s): Primer plano de cabello seco y dañado, pasando los dedos a través de los enredos. Escena 3 (7-12s): Aplicación de producto capilar cremoso, manos trabajando sobre el cabello, textura suave, iluminación cálida. Escena 4 (12-15s): Mujer segura de sí misma sonriendo, cabello ahora brillante y saludable, señalando la botella del producto. Iluminación natural en todo momento, sensación auténtica, sin aspecto de estudio profesional. crea este video
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072534517789990912/img/bC_V4Lqhqwog2fQ8.jpg" width="600" alt="UGC Style Hair Care Video Ad">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072534517789990912/img/bC_V4Lqhqwog2fQ8.jpg" width="600" alt="Anuncio de video de cuidado capilar estilo UGC">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=6722)**
 
 **Autor:** [Rajesh Kumar](https://x.com/therjrajesh) | **Fuente:** [Link](https://x.com/therjrajesh/status/2072534569912619378) | **Publicado:** Jul 2, 2026
 
 ---
-### Rural African Village Life Documentary
+### Documental sobre la vida en una aldea rural africana
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed narrative video prompt for Seedance 2.0 capturing a slice-of-life morning in an African village with a realistic handheld camcorder aesthetic.
+> Un prompt de video narrativo detallado para Seedance 2.0 que captura una escena de la vida cotidiana durante una mañana en una aldea africana, con una estética realista de videocámara en mano.
 
 #### 📝 Prompt
 
 ```
-Main Subject:
+Sujeto principal:
 
-Young African woman, early 20s, native to the region. Warm brown skin with realistic skin texture, minimal to no makeup. She has dark hair tied in a simple low ponytail with a few loose strands. She wears a faded sleeveless light-colored blouse, a simple long wrap skirt with a faded colorful pattern, and worn sandals. Small beaded bracelet on one wrist. Warm, approachable, and grounded personality. Maintain consistent identity, clothing, hairstyle, and appearance throughout the entire video.
-Location:
-Authentic rural African village during a calm late morning. Dirt paths, simple mud-brick and concrete block houses with corrugated metal or thatched roofs, scattered trees and vegetation, chickens roaming freely, low stick fences, laundry hanging on lines, plastic basins, simple wooden benches, and water containers. Quiet village atmosphere with natural daily life. No modern buildings or urban elements.
-Visual Style:
-Ultra-realistic documentary realism. Genuine candid behavior. Natural body language. Unscripted slice-of-life feeling. Strong environmental authenticity. Rich real-world details and believable human motion.
-Camera Style:
-Early-2000s consumer DV camcorder aesthetic. Friend casually recording everyday moments. Heavy handheld shake, imperfect framing, frequent autofocus hunting, lens breathing, exposure pumping when moving between sun and shade, occasional motion blur, subtle rolling shutter, mild digital compression artifacts, faded colors, soft contrast, slight sensor noise. No stabilization. No cinematic camera moves. No modern color grading.
+Joven africana, de unos 20 años, nativa de la región. Piel morena cálida con textura realista, poco o nada de maquillaje. Tiene el cabello oscuro recogido en una coleta baja sencilla con algunos mechones sueltos. Viste una blusa sin mangas de color claro desgastada, una falda larga sencilla con un patrón colorido descolorido y sandalias usadas. Lleva una pequeña pulsera de cuentas en una muñeca. Personalidad cálida, cercana y realista. Mantener la identidad, la ropa, el peinado y la apariencia consistentes durante todo el video.
+Ubicación:
+Auténtica aldea rural africana durante una tranquila mañana. Caminos de tierra, casas sencillas de adobe y bloques de hormigón con techos de metal corrugado o paja, árboles y vegetación dispersos, pollos deambulando libremente, cercas bajas de palos, ropa tendida, palanganas de plástico, bancos de madera sencillos y recipientes de agua. Ambiente de aldea tranquila con vida cotidiana natural. Sin edificios modernos ni elementos urbanos.
+Estilo visual:
+Realismo documental ultra realista. Comportamiento genuino y espontáneo. Lenguaje corporal natural. Sensación de vida cotidiana sin guion. Fuerte autenticidad ambiental. Ricos detalles del mundo real y movimiento humano creíble.
+Estilo de cámara:
+Estética de videocámara DV de consumo de principios de los 2000. Un amigo grabando momentos cotidianos de forma casual. Mucho movimiento de cámara en mano, encuadre imperfecto, búsqueda constante de enfoque automático, respiración de lente, cambios de exposición al moverse entre el sol y la sombra, desenfoque de movimiento ocasional, sutil efecto de rolling shutter, ligeros artefactos de compresión digital, colores desaturados, contraste suave, ligero ruido de sensor. Sin estabilización. Sin movimientos de cámara cinematográficos. Sin corrección de color moderna.
 
-TIMED SCENES (00:00–00:15)
-00:00–00:02Outside a small village house. She sits on a low wooden bench adjusting her ponytail with both hands. A light breeze moves loose strands of hair. She smiles naturally while the camera struggles to hold focus.
-00:02–00:04The camera follows her as she walks along a dirt path through the village. She notices a chicken running freely nearby and slows down to watch it. Framing drifts slightly as the operator tries to keep up.
-00:04–00:06She crouches and tries to catch the chicken, moving carefully with her hands outstretched. The chicken flutters and runs a short distance. Autofocus repeatedly shifts between her face and the chicken. Morning sunlight filters through tree leaves overhead.
-00:06–00:08In the small dirt yard beside her house. She picks up a broom made of sticks and begins sweeping the ground in steady motions. Dust rises lightly as she sweeps. Exposure changes slightly as clouds pass overhead.
-00:08–00:10She sits on a low wooden bench near the house, resting after sweeping. She wipes sweat from her forehead with the back of her hand and looks around the quiet village. Loose handheld side angle with natural camera drift.
-00:10–00:12Close side profile. Someone off-camera greets her warmly. She turns toward the voice, raises her hand, smiles genuinely, and replies with
+ESCENAS CRONOMETRADAS (00:00–00:15)
+00:00–00:02Fuera de una pequeña casa de la aldea. Ella está sentada en un banco de madera bajo ajustándose la coleta con ambas manos. Una brisa ligera mueve los mechones de cabello sueltos. Sonríe de forma natural mientras la cámara lucha por mantener el enfoque.
+00:02–00:04La cámara la sigue mientras camina por un camino de tierra a través de la aldea. Nota un pollo que corre libremente cerca y disminuye la velocidad para observarlo. El encuadre se desplaza ligeramente mientras el operador intenta seguirle el ritmo.
+00:04–00:06Se agacha e intenta atrapar al pollo, moviéndose con cuidado con las manos extendidas. El pollo aletea y corre una corta distancia. El enfoque automático cambia repetidamente entre su rostro y el pollo. La luz de la mañana se filtra a través de las hojas de los árboles.
+00:06–00:08En el pequeño patio de tierra al lado de su casa. Recoge una escoba hecha de palos y comienza a barrer el suelo con movimientos constantes. El polvo se levanta ligeramente mientras barre. La exposición cambia ligeramente a medida que las nubes pasan por encima.
+00:08–00:10Se sienta en un banco de madera bajo cerca de la casa, descansando después de barrer. Se limpia el sudor de la frente con el dorso de la mano y mira alrededor de la tranquila aldea. Ángulo lateral suelto en mano con deriva natural de la cámara.
+00:10–00:12Perfil lateral cercano. Alguien fuera de cámara la saluda cálidamente. Ella se gira hacia la voz, levanta la mano, sonríe genuinamente y responde con
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072525336886280192/img/ORP5qc8_bQgq4-_U.jpg" width="600" alt="Rural African Village Life Documentary">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072525336886280192/img/ORP5qc8_bQgq4-_U.jpg" width="600" alt="Documental sobre la vida en una aldea rural africana">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=6732)**
 
@@ -1370,87 +1370,87 @@ PARTE 1 – LA REALIDAD (15s) 15s • 16:9 • Ultra fotorrealista • Cinematog
 **Autor:** [Shami](https://x.com/ShamiWeb3) | **Fuente:** [Link](https://x.com/ShamiWeb3/status/2072509269073871154) | **Publicado:** Jul 2, 2026
 
 ---
-### Nostalgic Early 2000s DV Style Korean Vlog
+### Vlog coreano al estilo DV nostálgico de principios de los 2000
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A comprehensive video generation prompt that replicates the aesthetic of a consumer DV camera from the early 2000s, featuring a young Korean woman in a quiet residential setting with realistic movements and camera imperfections.
+> Un prompt integral de generación de video que replica la estética de una cámara DV de consumo de principios de los años 2000, presentando a una joven coreana en un entorno residencial tranquilo con movimientos realistas e imperfecciones de cámara.
 
 #### 📝 Prompt
 
 ```
-**Main subject**: A young Korean woman in her early 20s, naturally dressed in a faded charcoal sleeveless crop top and loose high-waisted light-wash jeans, paired with black canvas sneakers and a black string necklace. Her black wavy hair is tied in a messy side ponytail with light bangs. Realistic skin texture, light makeup, warm and approachable personality. Maintain high consistency of identity, clothing, hairstyle, and appearance throughout the video.
+**Sujeto principal**: Una joven coreana de unos 20 años, vestida de forma natural con un top corto sin mangas en color gris carbón deslavado y jeans holgados de tiro alto en tono claro, combinados con zapatillas de lona negras y un collar de hilo negro. Su cabello negro ondulado está recogido en una coleta lateral despeinada con flequillo ligero. Textura de piel realista, maquillaje ligero, personalidad cálida y cercana. Mantener una alta consistencia de identidad, vestimenta, peinado y apariencia durante todo el video.
 
-**Location**: Morning time, a quiet and authentic Korean residential neighborhood. Narrow concrete alleys, low-rise residences, small terraces, potted plants, clotheslines, bicycles, utility poles, crisscrossing wires in mid-air, dense trees casting mottled swaying shadows, full of a quiet residential atmosphere. No shops, advertisements, cafes, crowds, or commercial activities.
+**Ubicación**: Por la mañana, un barrio residencial coreano tranquilo y auténtico. Callejones estrechos de hormigón, residencias de baja altura, pequeñas terrazas, plantas en macetas, tendederos, bicicletas, postes de luz, cables entrecruzados en el aire, árboles densos que proyectan sombras moteadas y oscilantes, lleno de una atmósfera residencial tranquila. Sin tiendas, anuncios, cafeterías, multitudes ni actividades comerciales.
 
-**Visual Style**: Ultra-realistic documentary style. Authentic, unpretentious candid behavior. Natural body language. Unscripted daily life fragment feel. Strong sense of environmental reality. Contains rich real-world details and naturally realistic human dynamics.
+**Estilo visual**: Estilo documental ultrarrealista. Comportamiento cándido, auténtico y sin pretensiones. Lenguaje corporal natural. Sensación de fragmento de vida cotidiana sin guion. Fuerte sentido de realidad ambiental. Contiene ricos detalles del mundo real y dinámicas humanas naturalmente realistas.
 
-**Camera Style**: Aesthetics of early 2000s consumer DV cameras. Creates the feeling of a friend casually recording daily moments. Strong handheld camera shake, imperfect composition, frequent autofocus hunting (breathing effect), exposure fluctuations when moving between sunlight and shadows (flickering), occasional motion blur, slight rolling shutter effect, minor digital compression artifacts, aged/faded colors, soft contrast, with slight sensor noise. No stabilization. No cinematic camera movements. No modern color grading.
+**Estilo de cámara**: Estética de las cámaras DV de consumo de principios de los 2000. Crea la sensación de un amigo grabando momentos cotidianos de forma casual. Fuerte temblor de cámara en mano, composición imperfecta, búsqueda frecuente de enfoque automático (efecto de respiración), fluctuaciones de exposición al moverse entre la luz solar y las sombras (parpadeo), desenfoque de movimiento ocasional, ligero efecto de obturador rodante, artefactos de compresión digital menores, colores envejecidos/deslavados, contraste suave, con ligero ruido de sensor. Sin estabilización. Sin movimientos de cámara cinematográficos. Sin corrección de color moderna.
 
-**00:00–00:02**: Outside the entrance of a small house. She sits on a low concrete wall, raising her hands to tidy her ponytail. A breeze blows through stray strands of hair. She smiles naturally while the camera struggles to focus.
+**00:00–00:02**: Fuera de la entrada de una casa pequeña. Ella se sienta en un muro bajo de hormigón, levantando las manos para arreglarse la coleta. Una brisa sopla a través de los mechones de cabello sueltos. Ella sonríe naturalmente mientras la cámara lucha por enfocar.
 
-**00:02–00:04**: The camera follows her into a narrow alley lined with potted plants and concrete walls. She notices a stray cat approaching and squats down. The composition shifts off-center as the operator tries to keep up with her movement.
+**00:02–00:04**: La cámara la sigue hacia un callejón estrecho bordeado de plantas en macetas y muros de hormigón. Ella nota que un gato callejero se acerca y se pone en cuclillas. La composición se desplaza fuera del centro mientras el operador intenta seguir su movimiento.
 
-**00:04–00:06**: She gently strokes and feeds the cat. The camera's autofocus switches repeatedly between her face and the cat. Morning sunlight flickers mottled through the leaves overhead.
+**00:04–00:06**: Ella acaricia suavemente y alimenta al gato. El enfoque automático de la cámara cambia repetidamente entre su rostro y el gato. La luz del sol de la mañana parpadea moteada a través de las hojas sobre ellos.
 
-**00:06–00:08**: In a small front yard next to her house. She is hanging clothes on a clothesline, the fabric swaying in the breeze. As clouds pass briefly overhead, the exposure changes accordingly.
+**00:06–00:08**: En un pequeño patio delantero junto a su casa. Ella está colgando ropa en un tendedero, la tela se balancea con la brisa. A medida que las nubes pasan brevemente por encima, la exposición cambia en consecuencia.
 
-**00:08–00:10**: On a quiet terrace, holding a ceramic coffee cup. She sits comfortably, observing the surrounding neighborhood, occasionally tucking her hair behind her ear. A casual, loose side handheld perspective with natural camera drift.
+**00:08–00:10**: En una terraza tranquila, sosteniendo una taza de café de cerámica. Ella se sienta cómodamente, observando el vecindario circundante, metiéndose ocasionalmente el cabello detrás de la oreja. Una perspectiva casual y suelta de cámara en mano con deriva natural de la cámara.
 
-**00:10–00:12**: Side close-up. Someone off-camera greets her. She turns her head, raises her hand, smiles warmly, and says casually: "Annyeong (Hello)". The camera's reaction is half a beat slow.
+**00:10–00:12**: Primer plano lateral. Alguien fuera de cámara la saluda. Ella gira la cabeza, levanta la mano, sonríe cálidamente y dice casualmente: "Annyeong (Hola)". La reacción de la cámara es medio segundo lenta.
 
-**00:12–00:15**: She holds the coffee cup and walks slowly along a tree-lined residential path. She notices the camera, gives a small and sincere smile, then looks away and continues walking. The video cuts off suddenly to a black screen mid-action, as if the camera were abruptly turned off.
+**00:12–00:15**: Ella sostiene la taza de café y camina lentamente por un sendero residencial bordeado de árboles. Nota la cámara, da una sonrisa pequeña y sincera, luego mira hacia otro lado y continúa caminando. El video se corta repentinamente a una pantalla negra a mitad de la acción, como si la cámara se hubiera apagado abruptamente.
 
-**Audio**: Keep only natural ambient sounds—morning birdsong, distant motorcycle sounds, breeze, rustling leaves, faint neighborhood chatter, cat meows, footsteps on concrete, fabric moving on the clothesline, and subtle residential atmosphere. No music. No sound design. No narration.
+**Audio**: Mantener solo sonidos ambientales naturales: canto de pájaros matutino, sonidos distantes de motocicletas, brisa, crujido de hojas, charla vecinal tenue, maullidos de gato, pasos sobre hormigón, tela moviéndose en el tendedero y una atmósfera residencial sutil. Sin música. Sin diseño de sonido. Sin narración.
 
-**Goal**: Capture authentic Korean neighborhood life, making it look like a forgotten early 2000s home video—candid, imperfect, realistic, warm, and highly convincing.
+**Objetivo**: Capturar la auténtica vida de un barrio coreano, haciendo que parezca un video casero olvidado de principios de los 2000: cándido, imperfecto, realista, cálido y altamente convincente.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072495560834310144/img/3bm4ZHYbMJfnNC4q.jpg" width="600" alt="Nostalgic Early 2000s DV Style Korean Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072495560834310144/img/3bm4ZHYbMJfnNC4q.jpg" width="600" alt="Vlog coreano al estilo DV nostálgico de principios de los 2000">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=6724)**
 
 **Autor:** [Zero Lu](https://x.com/zerolu_eth) | **Fuente:** [Link](https://x.com/zerolu_eth/status/2072495845489185102) | **Publicado:** Jul 2, 2026
 
 ---
-### Cinematic 4K Bridal Video
+### Video de boda cinematográfico en 4K
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed multi-shot cinematic prompt for generating a high-detail luxury wedding film featuring a bride, used for comparing Seedance 2.0 and Kling.
+> Un prompt cinematográfico detallado de múltiples tomas para generar una película de boda de lujo de alta definición con una novia, utilizado para comparar Seedance 2.0 y Kling.
 
 #### 📝 Prompt
 
 ```
-Create a 15-second cinematic bridal video designed to showcase stunning 4K beauty, elegant motion, and luxurious detail. The bride is young, graceful, and exceptionally beautiful, with a clear, luminous, translucent presence. She has soft radiant skin, delicate natural makeup, bright clear eyes, and an elegant gentle smile. Her overall feeling is fresh, pure, refined, romantic, and dreamlike.  The video is a collection of beautiful fleeting moments, each shot feeling delicate, emotional, and visually rich.  0–3s Open with a luminous close-up of the bride’s face in soft natural light. Show her youthful beauty and translucent glow in crisp 4K detail: smooth radiant skin, soft eyelashes, glossy lips, and bright expressive eyes. A gentle breeze moves a few strands of hair and the edge of her veil.  3–6s Cut to graceful detail shots: her slender fingers touching the lace of her dress, the sparkle of a ring, delicate embroidery, pearls, and the airy soft texture of the veil. The details feel pure, elegant, and luxurious, with beautiful light gently reflecting across the fabric.  6–9s Show the bride walking slowly through a bright, dreamy setting while holding a beautiful bouquet. Her veil flows lightly behind her, and the dress moves softly with each step. Emphasize her youthful elegance, soft posture, and the romantic shimmer of the gown.  9–12s Cut to an emotional medium shot as she turns slightly toward the camera. Her smile is soft, innocent, and radiant. The light wraps around her beautifully, enhancing her clear and delicate presence. The veil and dress move gracefully, creating a timeless romantic feeling.  12–15s End with the most breathtaking moment: a beautiful full shot of the bride surrounded by luminous light, bouquet in hand, veil floating elegantly. She pauses in a poised, unforgettable pose, looking like the final frame of a luxury wedding film. Her beauty feels youthful, pure, transparent, and deeply enchanting.  Style and visual direction Ultra-beautiful bridal cinematography, youthful elegance, translucent beauty, emotionally rich, soft, romantic, luxurious, delicate, refined, visually poetic, high-detail 4K imagery, natural light, dreamy glow, premium wedding film feeling, graceful camera movement, strong shot variety, consistent bride appearance, every moment polished and beautiful.
+Crea un video de boda cinematográfico de 15 segundos diseñado para mostrar una belleza 4K impresionante, un movimiento elegante y detalles lujosos. La novia es joven, elegante y excepcionalmente hermosa, con una presencia clara, luminosa y traslúcida. Tiene una piel suave y radiante, un maquillaje natural delicado, ojos brillantes y claros, y una sonrisa elegante y gentil. Su sensación general es fresca, pura, refinada, romántica y de ensueño. El video es una colección de hermosos momentos fugaces, donde cada toma se siente delicada, emotiva y visualmente rica. 0–3s Comienza con un primer plano luminoso del rostro de la novia bajo una luz natural suave. Muestra su belleza juvenil y su brillo traslúcido con un detalle nítido en 4K: piel suave y radiante, pestañas delicadas, labios brillantes y ojos expresivos y luminosos. Una brisa suave mueve algunos mechones de cabello y el borde de su velo. 3–6s Cambia a tomas de detalles elegantes: sus dedos delgados tocando el encaje de su vestido, el destello de un anillo, bordados delicados, perlas y la textura suave y aireada del velo. Los detalles se sienten puros, elegantes y lujosos, con una luz hermosa reflejándose suavemente sobre la tela. 6–9s Muestra a la novia caminando lentamente a través de un entorno brillante y de ensueño mientras sostiene un hermoso ramo. Su velo fluye ligeramente detrás de ella y el vestido se mueve suavemente con cada paso. Enfatiza su elegancia juvenil, su postura suave y el brillo romántico del vestido. 9–12s Cambia a una toma media emotiva mientras ella gira ligeramente hacia la cámara. Su sonrisa es suave, inocente y radiante. La luz la envuelve maravillosamente, realzando su presencia clara y delicada. El velo y el vestido se mueven con gracia, creando una sensación romántica atemporal. 12–15s Termina con el momento más impresionante: una hermosa toma completa de la novia rodeada de una luz luminosa, con el ramo en la mano y el velo flotando elegantemente. Ella hace una pausa en una pose equilibrada e inolvidable, luciendo como el fotograma final de una película de boda de lujo. Su belleza se siente juvenil, pura, transparente y profundamente encantadora. Estilo y dirección visual: cinematografía nupcial ultra hermosa, elegancia juvenil, belleza traslúcida, emocionalmente rica, suave, romántica, lujosa, delicada, refinada, visualmente poética, imágenes 4K de alto detalle, luz natural, brillo de ensueño, sensación de película de boda premium, movimiento de cámara elegante, gran variedad de tomas, apariencia consistente de la novia, cada momento pulido y hermoso.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072487795311218688/img/NmgexAkd40fetwk4.jpg" width="600" alt="Cinematic 4K Bridal Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072487795311218688/img/NmgexAkd40fetwk4.jpg" width="600" alt="Video de boda cinematográfico en 4K">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=6731)**
 
 **Autor:** [meropan](https://x.com/renataro9) | **Fuente:** [Link](https://x.com/renataro9/status/2072489031485833660) | **Publicado:** Jul 2, 2026
 
 ---
-### Vespira the Pestilent Empress Cinematic Sequence
+### Secuencia cinemática de Vespira, la Emperatriz Pestilente
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-fantasy cinematic prompt for Seedance 2.0 that converts a storyboard and character concept into a seamless 15-second video sequence.
+> Un prompt cinemático de alta fantasía para Seedance 2.0 que convierte un guion gráfico y un concepto de personaje en una secuencia de video fluida de 15 segundos.
 
 #### 📝 Prompt
 
 ```
-VESPIRA — THE PESTILENT EMPRESS [@1000019684]
-"THE BLOOM OF RUIN"
-Duration: 15 Seconds
-Use the storyboard [@1000019685] as reference only.
-Convert the storyboard into a single seamless cinematic sequence.
-Do not render storyboard panels.
-Do not render
+VESPIRA — LA EMPERATRIZ PESTILENTE [@1000019684]
+"EL FLORECER DE LA RUINA"
+Duración: 15 segundos
+Utiliza el guion gráfico [@1000019685] solo como referencia.
+Convierte el guion gráfico en una única secuencia cinemática fluida.
+No renderices los paneles del guion gráfico.
+No renderices
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072463131406893056/img/iwMu0aL3uRDhPrIi.jpg" width="600" alt="Vespira the Pestilent Empress Cinematic Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072463131406893056/img/iwMu0aL3uRDhPrIi.jpg" width="600" alt="Secuencia cinemática de Vespira, la Emperatriz Pestilente">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=6736)**
 
@@ -1495,49 +1495,49 @@ Una cocina con poca luz a altas horas de la noche. Una mujer se sienta frente a 
 **Autor:** [Serena Pei](https://x.com/spei04) | **Fuente:** [Link](https://x.com/spei04/status/2072441161298616340) | **Publicado:** Jul 1, 2026
 
 ---
-### Biomechanical Angel Space Cathedral Transformation
+### Transformación en Catedral Espacial de un Ángel Biomecánico
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic cinematic video prompt for Seedance 2.0 describing a sci-fi fantasy transformation of a human into a biomechanical angel within a celestial cathedral in deep space.
+> Un prompt de video cinemático épico para Seedance 2.0 que describe la transformación de fantasía y ciencia ficción de un humano en un ángel biomecánico dentro de una catedral celestial en el espacio profundo.
 
 #### 📝 Prompt
 
 ```
-15-second ultra-cinematic sci-fi fantasy transformation sequence inside a colossal abandoned celestial cathedral floating in deep space.
+Secuencia de transformación de fantasía y ciencia ficción ultra-cinemática de 15 segundos dentro de una colosal catedral celestial abandonada que flota en el espacio profundo.
 
-A lone human stands beneath enormous mechanical arches surrounded by ancient celestial machinery. Gigantic rotating rings, broken stained-glass windows, and forgotten angelic statues drift silently in zero gravity while distant stars illuminate the cathedral.
+Un humano solitario se encuentra bajo enormes arcos mecánicos rodeado de maquinaria celestial antigua. Anillos gigantes giratorios, vitrales rotos y estatuas angelicales olvidadas flotan en silencio en gravedad cero, mientras estrellas distantes iluminan la catedral.
 
-The atmosphere is sacred, mysterious, and awe-inspiring.
+La atmósfera es sagrada, misteriosa e imponente.
 
-The camera slowly circles around the human as dormant celestial machines begin awakening. Soft white light pulses through the cathedral. Massive mechanical gears rotate for the first time in centuries.
+La cámara rodea lentamente al humano mientras las máquinas celestiales dormidas comienzan a despertar. Una suave luz blanca pulsa a través de la catedral. Engranajes mecánicos masivos rotan por primera vez en siglos.
 
-Tiny streams of liquid silver nanometal emerge from the cathedral floor and flow toward the human.
+Pequeños flujos de nanometal plateado líquido emergen del suelo de la catedral y se dirigen hacia el humano.
 
-The transformation begins.
+La transformación comienza.
 
-The liquid metal climbs across the body like living mercury, weaving seamlessly beneath the skin. Luminous white circuits spread through the arms, chest, and face like sacred veins.
+El metal líquido trepa por el cuerpo como mercurio vivo, tejiéndose perfectamente bajo la piel. Circuitos blancos luminosos se extienden por los brazos, el pecho y el rostro como venas sagradas.
 
-The camera pushes closer as elegant biomechanical structures form naturally around the skeleton. Carbon-fiber muscles, titanium tendons, and glowing energy cores replace organic anatomy while preserving graceful human proportions.
+La cámara se acerca mientras elegantes estructuras biomecánicas se forman de manera natural alrededor del esqueleto. Músculos de fibra de carbono, tendones de titanio y núcleos de energía brillante reemplazan la anatomía orgánica mientras preservan las elegantes proporciones humanas.
 
-The transformation accelerates.
+La transformación se acelera.
 
-Intricate mechanical feathers emerge from the shoulder blades one by one. Thousands of articulated white-metal feathers unfold with perfect precision, each feather glowing softly with celestial energy.
+Intrincadas plumas mecánicas emergen de los omóplatos una a una. Miles de plumas de metal blanco articuladas se despliegan con precisión perfecta, cada una brillando suavemente con energía celestial.
 
-Golden halos composed of rotating mechanical rings materialize behind the head. Floating fragments of ancient technology orbit around the transforming figure.
+Halos dorados compuestos por anillos mecánicos giratorios se materializan detrás de la cabeza. Fragmentos flotantes de tecnología antigua orbitan alrededor de la figura en transformación.
 
-The cathedral responds. Gigantic celestial engines ignite. Beams of divine light pierce through shattered stained glass while floating debris begins orbiting the awakened being.
+La catedral responde. Motores celestiales gigantescos se encienden. Rayos de luz divina atraviesan los vitrales destrozados mientras los escombros flotantes comienzan a orbitar al ser despertado.
 
-At the climax, the human becomes a magnificent Biomechanical Angel , a perfect fusion of organic life, sacred technology, and divine engineering. Brilliant white wings span across the cathedral while luminous blue-white energy flows through every mechanical feather.
+En el clímax, el humano se convierte en un magnífico Ángel Biomecánico, una fusión perfecta de vida orgánica, tecnología sagrada e ingeniería divina. Alas blancas brillantes se extienden por toda la catedral mientras energía azul-blanca luminosa fluye a través de cada pluma mecánica.
 
-Final cinematic moment: the Biomechanical Angel slowly opens both wings. Countless mechanical feathers release into space as radiant particles. The cathedral comes fully alive while the angel ascends through a colossal opening toward the stars, leaving glowing trails of celestial light behind.
+Momento cinemático final: el Ángel Biomecánico abre lentamente ambas alas. Innumerables plumas mecánicas se liberan al espacio como partículas radiantes. La catedral cobra vida por completo mientras el ángel asciende a través de una abertura colosal hacia las estrellas, dejando tras de sí estelas brillantes de luz celestial.
 
-Style: ultra-cinematic sci-fi fantasy, biomechanical realism, celestial technology, photoreal nanometal transformation, articulated mechanical wings, divine architecture, volumetric god rays, white and gold aesthetic, premium cinematic VFX, AAA film quality, no text, no overlays.
+Estilo: fantasía y ciencia ficción ultra-cinemática, realismo biomecánico, tecnología celestial, transformación de nanometal fotorrealista, alas mecánicas articuladas, arquitectura divina, rayos de luz volumétricos, estética blanca y dorada, efectos visuales cinemáticos premium, calidad de película AAA, sin texto, sin superposiciones.
 
-Audio: epic celestial orchestral score, angelic choir, deep mechanical resonance, servo movements, metallic feather articulation, divine energy hums, cathedral ambience, cosmic atmosphere, transcendent cinematic crescendo.
+Audio: partitura orquestal celestial épica, coro angelical, resonancia mecánica profunda, movimientos de servomotores, articulación de plumas metálicas, zumbidos de energía divina, ambiente de catedral, atmósfera cósmica, crescendo cinemático trascendente.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072409972923568128/pu/img/F_cLXEfG2xEULFsD.jpg" width="600" alt="Biomechanical Angel Space Cathedral Transformation">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072409972923568128/pu/img/F_cLXEfG2xEULFsD.jpg" width="600" alt="Transformación en Catedral Espacial de un Ángel Biomecánico">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=6735)**
 
@@ -1719,19 +1719,19 @@ En 2026, crea un video de viajes cinematográfico de 15 segundos con personajes 
 **Autor:** [simeon-sanai](https://x.com/Naiknelofar788) | **Fuente:** [Link](https://x.com/Naiknelofar788/status/2072313649222517140) | **Publicado:** Jul 1, 2026
 
 ---
-### Fantasy Warrior Transformation Sequence
+### Secuencia de transformación de guerrera de fantasía
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-fidelity cinematic prompt for a continuous fantasy action sequence featuring an East Asian warrior woman's transformation on a volcanic battlefield.
+> Un prompt cinemático de alta fidelidad para una secuencia de acción de fantasía continua que presenta la transformación de una guerrera de Asia Oriental en un campo de batalla volcánico.
 
 #### 📝 Prompt
 
 ```
-A continuous cinematic fantasy action sequence of a young East Asian warrior woman. She is crawling on a cracked icy battlefield, desperately holding up a glowing teardrop-shaped red crystal amulet set in a gold crescent. Suddenly, a massive surge of fiery energy explodes from the crystal, instantly shattering the ice and turning the entire landscape into a volcanic crater filled with flowing magma and ruined stone pillars. The woman levitates high into the air as intense, swirling vortices of fire wrap around her body. In mid-air, the flames materialize into a highly detailed crimson and gold fantasy dress with metallic arm guards and a flowing cape. A blazing crown of pure fire forms on her forehead, and her eyes snap open, glowing with intense, fiery heart-shaped patterns. She raises her hand to summon an intricate, giant golden magical circle in front of her, unleashing a catastrophic, blinding explosion of fire that obliterates everything in sight. 8K ultra-realism, high-fidelity VFX, dynamic camera angles, cinematic lighting, and epic scale.
+Una secuencia de acción de fantasía cinemática continua de una joven guerrera de Asia Oriental. Ella se arrastra por un campo de batalla helado y agrietado, sosteniendo desesperadamente un amuleto de cristal rojo con forma de lágrima brillante engarzado en una media luna de oro. De repente, una oleada masiva de energía ígnea explota desde el cristal, rompiendo instantáneamente el hielo y convirtiendo todo el paisaje en un cráter volcánico lleno de magma fluido y pilares de piedra en ruinas. La mujer levita en el aire mientras intensos vórtices de fuego se arremolinan alrededor de su cuerpo. En el aire, las llamas se materializan en un vestido de fantasía carmesí y dorado altamente detallado, con protectores de brazos metálicos y una capa fluida. Una corona llameante de fuego puro se forma en su frente y sus ojos se abren de golpe, brillando con intensos patrones de corazones de fuego. Ella levanta su mano para invocar un intrincado círculo mágico dorado gigante frente a ella, desatando una explosión de fuego catastrófica y cegadora que arrasa con todo a la vista. 8K ultra-realismo, efectos visuales de alta fidelidad, ángulos de cámara dinámicos, iluminación cinemática y escala épica.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072306060656877568/pu/img/5KqqnDimee6Gzbf8.jpg" width="600" alt="Fantasy Warrior Transformation Sequence">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072306060656877568/pu/img/5KqqnDimee6Gzbf8.jpg" width="600" alt="Secuencia de transformación de guerrera de fantasía">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=6729)**
 
@@ -2489,38 +2489,38 @@ Estilo: hiperrealista, cinematográfico, de ritmo rápido, lleno de suspenso, ac
 **Autor:** [DeCat](https://x.com/DeCat2025) | **Fuente:** [Link](https://x.com/DeCat2025/status/2072116580046282974) | **Publicado:** Jul 1, 2026
 
 ---
-### Tokyo Summer Travel Vlog Montage
+### Montaje de vlog de viajes de verano en Tokio
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed multi-shot prompt for creating a 15-second travel vlog montage in Tokyo with 10 consistent scenes featuring a character in iconic city locations.
+> Un prompt detallado de múltiples tomas para crear un montaje de vlog de viajes de 15 segundos en Tokio, con 10 escenas coherentes que muestran a un personaje en lugares icónicos de la ciudad.
 
 #### 📝 Prompt
 
 ```
-Use the reference grid image as the source of the same girl and her 10 summer travel scenes in Tokyo.
-Create a single 15-second feel-good travel-vlog montage, 16:9 horizontal, flowing through all 10 scenes
-in order as quick handheld phone shots, about 1.5 seconds each, snappy cuts on the beat.
-The same girl in every shot with consistent face and hairstyle; in each shot her outfit matches that scene in the reference.
-Throughout, she radiates excitement and joy — bright eyes, easy smiles, playful energy — and each shot shows off
-what makes that spot special. Authentic smartphone look, natural ambient light, subtle grain, light handheld motion.
-Bright, joyful sightseeing music that conveys the fun of travel, around 125 bpm.
+Utiliza la imagen de cuadrícula de referencia como fuente para la misma chica y sus 10 escenas de viajes de verano en Tokio.
+Crea un montaje de vlog de viajes de 15 segundos con una sensación agradable, en formato horizontal 16:9, fluyendo a través de las 10 escenas
+en orden como tomas rápidas de teléfono en mano, de aproximadamente 1,5 segundos cada una, con cortes dinámicos al ritmo de la música.
+La misma chica en cada toma con un rostro y peinado consistentes; en cada toma, su atuendo coincide con el de la escena en la referencia.
+En todo momento, ella irradia entusiasmo y alegría —ojos brillantes, sonrisas fáciles, energía juguetona— y cada toma destaca
+lo que hace especial a ese lugar. Aspecto auténtico de smartphone, luz ambiental natural, grano sutil, ligero movimiento de cámara en mano.
+Música de turismo alegre y brillante que transmita la diversión de viajar, a unos 125 bpm.
 
-Shot 1 — Inokashira pond swan boat: she laughs with delight and rocks the pedal boat, sparkling water and a swan boat gliding behind, warm sun flare.
-Shot 2 — cafe matcha kakigori: eyes lighting up, she lifts a spoonful of fluffy shaved ice toward the camera and beams, the towering dessert in frame.
-Shot 3 — Harmonica Yokocho alley at night: she strolls through the glowing red-lantern alley, glances back with an excited grin, lively izakaya signs around her.
-Shot 4 — hotel mirror selfie: a happy, relaxed mirror selfie, she tilts her head and smiles softly, calm window light, cozy room mood.
-Shot 5 — summer festival night: she bites a bright candy apple and bursts into a giggle, swaying paper lanterns and a buzzing crowd behind her.
-Shot 6 — golden-hour window selfie: an arm's-length selfie bathed in warm sunset light, soft hair movement, a contented joyful smile.
-Shot 7 — ivy-covered Ghibli-style museum: she gazes up in wonder, spinning slightly to take it all in as the camera tilts up the lush green facade.
-Shot 8 — Inokashira park path: she crouches with a delighted laugh and points as a small squirrel scampers by, dappled sunlight, playful energy.
-Shot 9 — Harajuku shop window with bubble tea: she sips happily through a straw, her reflection shimmering in the glass, the bustling colorful street behind.
-Shot 10 — on the train home: a calm, satisfied selfie, hand on her cheek, city skyline streaking past the window, a soft fulfilled smile.
+Escena 1 — Bote de cisne en el estanque Inokashira: ella ríe con deleite y balancea el bote de pedales, agua brillante y un bote de cisne deslizándose detrás, cálido destello solar.
+Escena 2 — Café con kakigori de matcha: sus ojos se iluminan, levanta una cucharada de hielo raspado esponjoso hacia la cámara y sonríe, el imponente postre en el encuadre.
+Escena 3 — Callejón Harmonica Yokocho de noche: ella pasea por el callejón de farolillos rojos brillantes, mira hacia atrás con una sonrisa emocionada, letreros de izakaya animados a su alrededor.
+Escena 4 — Selfie en el espejo del hotel: un selfie feliz y relajado en el espejo, ella inclina la cabeza y sonríe suavemente, luz de ventana tranquila, ambiente de habitación acogedor.
+Escena 5 — Noche de festival de verano: ella muerde una manzana de caramelo brillante y estalla en una risita, farolillos de papel balanceándose y una multitud animada detrás de ella.
+Escena 6 — Selfie en la ventana durante la hora dorada: un selfie a brazo alzado bañado por la cálida luz del atardecer, movimiento suave del cabello, una sonrisa alegre y satisfecha.
+Escena 7 — Museo estilo Ghibli cubierto de hiedra: ella mira hacia arriba con asombro, girando ligeramente para contemplarlo todo mientras la cámara se inclina hacia la exuberante fachada verde.
+Escena 8 — Sendero del parque Inokashira: ella se agacha con una risa encantada y señala mientras una pequeña ardilla pasa corriendo, luz solar moteada, energía juguetona.
+Escena 9 — Escaparate en Harajuku con té de burbujas: ella bebe felizmente a través de una pajita, su reflejo brilla en el cristal, la bulliciosa y colorida calle detrás.
+Escena 10 — En el tren de regreso a casa: un selfie tranquilo y satisfecho, con la mano en la mejilla, el horizonte de la ciudad pasando rápidamente por la ventana, una sonrisa suave y plena.
 
-Smooth energetic flow from shot to shot, consistent color and grain throughout, upbeat happy travel-diary mood.
+Flujo energético y fluido entre tomas, color y grano consistentes en todo el video, ambiente de diario de viaje alegre y optimista.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072069190790561792/img/rHCf0Al61tzVOv2a.jpg" width="600" alt="Tokyo Summer Travel Vlog Montage">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072069190790561792/img/rHCf0Al61tzVOv2a.jpg" width="600" alt="Montaje de vlog de viajes de verano en Tokio">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=6730)**
 
@@ -3594,6 +3594,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-03T07:42:26.857Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-03T10:55:52.825Z</sub>
 
 </div>

@@ -361,26 +361,26 @@
 
 > 📝 按發布日期排序（最新優先）
 
-### Fashion Editorial Aesthetic Vlog
+### 時尚雜誌風格 Vlog
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional vlog-style prompt for generating high-fashion content with stylish cuts, soft cinematic lighting, and consistent character presentation.
+> 這是一個專業的 Vlog 風格提示詞，用於生成具有時尚剪輯、柔和電影光效以及角色一致性的高端時尚內容。
 
 #### 📝 提示詞
 
 ```
-15 seconds, 16:9 vertical, quick stylish cuts between segments (4-5 short beats), glossy aesthetic-vlog pacing, smooth whip-pan or snap transitions between each.
-Global setup: High fashion aesthetic content-creator video. Soft glowing key light, shallow depth of field, slightly warm cinematic color grade. Subject: a confident young woman, stylish trendy outfit, changes look/setting slightly between beats (different lighting or background each cut, same general styling identity). Ambient sound: moody downtempo pop/R&B instrumental, subtle beat drops synced to cut transitions.
-[0:00–0:03] Close-up, soft warm light, she looks off to the side with a calm confident expression, then slowly turns to meet the camera. Slow push-in.
-[0:03–0:06] Cut to a different angle/setting, cooler blue-toned lighting, she runs a hand through her hair, subtle self-assured smile, gaze steady on camera.
-[0:06–0:09] Cut to outdoor golden-hour lighting, she walks slowly toward camera, wind gently moving her hair and clothing, confident relaxed stride.
-[0:09–0:12] Cut to close-up under neon-tinted lighting, she glances down then back up at camera with a slow deliberate look, beat-synced snap transition.
-[0:12–0:15] Final cut, soft studio lighting, she gives a small satisfied smile directly to camera, holds the moment, slow fade to black.
-Style: glossy editorial color grade, soft cinematic lighting throughout, confident expressive body language, no text overlays, no distorted anatomy or facial features. Constraints: consistent styling identity across cuts (even as background/lighting changes), natural realistic movement, transitions synced to the beat of the music, believable naturalistic expressions throughout.
+15 秒，16:9 垂直比例，段落間快速時尚剪輯（4-5 個短節拍），光澤感 Vlog 節奏，各段落間採用流暢的甩鏡或快切轉場。
+整體設定：高端時尚風格內容創作者影片。柔和的發光主光，淺景深，略帶溫暖的電影感調色。主角：一位自信的年輕女性，穿著時尚潮流服飾，在每個節拍間稍微變換造型或場景（每次剪輯背景或光影不同，但整體造型風格一致）。環境音：情緒化的 Downtempo Pop/R&B 純音樂，細膩的節拍與轉場同步。
+[0:00–0:03] 特寫，柔和暖光，她看向一側，表情冷靜自信，隨後緩緩轉頭直視鏡頭。緩慢推鏡。
+[0:03–0:06] 切換至不同角度/場景，冷色調藍光，她用手撥弄頭髮，露出細膩自信的微笑，目光堅定地注視鏡頭。
+[0:06–0:09] 切換至戶外黃金時刻光影，她緩步走向鏡頭，微風輕拂髮絲與衣物，步伐自信放鬆。
+[0:09–0:12] 切換至霓虹色調光影下的特寫，她向下瞥一眼後再看向鏡頭，眼神緩慢而刻意，配合節拍的快切轉場。
+[0:12–0:15] 最後剪輯，柔和攝影棚光，她對著鏡頭露出滿足的微笑，定格瞬間，緩慢淡出至全黑。
+風格：光澤感雜誌調色，全程柔和電影光效，自信且富有表現力的肢體語言，無文字疊加，無扭曲的解剖結構或面部特徵。限制條件：各剪輯間保持造型一致性（即使背景/光影改變），自然真實的動作，轉場與音樂節拍同步，全程展現自然逼真的表情。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072787072960851968/img/jqmc52nK2J2duWVX.jpg" width="600" alt="Fashion Editorial Aesthetic Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072787072960851968/img/jqmc52nK2J2duWVX.jpg" width="600" alt="時尚雜誌風格 Vlog">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6734)**
 
@@ -484,51 +484,51 @@ Style: glossy editorial color grade, soft cinematic lighting throughout, confide
 **作者:** [BMX](https://x.com/bmx_ai13) | **來源:** [Link](https://x.com/bmx_ai13/status/2072809793429876745) | **發布時間:** Jul 2, 2026
 
 ---
-### POV Suspense Anime Chase
+### POV 懸疑動畫追逐
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A cinematic Japanese anime prompt for a suspenseful point-of-view chase scene between a girl and a cat, featuring high-quality 2D animation and dynamic camera movements.
+> 這是一個電影級的日本動畫提示詞，用於創作一場女孩與貓之間懸疑感十足的 POV 追逐場景，具備高品質 2D 動畫與動態運鏡效果。
 
 #### 📝 提示詞
 
 ```
-[Main Character] = Girl with black hair
-[Target/Subject] = White cat
-[Setting] = Inside a large, dark house with suspenseful elements
+[主要角色] = 黑髮女孩
+[目標/對象] = 白貓
+[場景] = 充滿懸疑元素的巨大陰暗屋內
 
-[Video Style]
-15 seconds. Japanese full-color anime. High-density 2D animation with a 500 million yen budget feel. Fast cuts, strong low angles, rapid push-ins, lateral tracking, match cuts. No subtitles, no watermarks, with BGM. Sounds include footsteps, breathing, rustling clothes, ambient noise, and one short final phrase.
+[影片風格]
+15 秒。日本全彩動畫。高密度 2D 動畫，具備 5 億日圓預算的質感。快速剪輯、強烈的低角度鏡頭、快速推鏡、橫向跟拍、匹配剪輯。無字幕、無浮水印，附帶背景音樂。音效包含腳步聲、呼吸聲、衣物摩擦聲、環境音以及最後一句簡短台詞。
 
-[Visual Composition]
-Subjective POV camera of the [Target/Subject], being chased by the [Main Character]. Instead of a normal chase, the [Main Character] doesn't just run but gets ahead of the camera. An [Abnormal Gimmick] connects all shots, and finally, the [Main Character] wins quietly close to the lens.
+[視覺構圖]
+以 [目標/對象] 的主觀 POV 視角，被 [主要角色] 追逐。不同於一般的追逐，[主要角色] 不僅僅是奔跑，還會跑到鏡頭前方。透過一個 [異常機關] 將所有鏡頭串聯起來，最後 [主要角色] 在靠近鏡頭處安靜地獲勝。
 
-[Shot 1: 2-Second Hook]
-Low POV. Starts from the floor of the [Setting]. Only the feet of the [Main Character] enter the edge of the frame. An [Abnormal Gimmick] crosses the foreground for a moment.
+[鏡頭 1：2 秒懸念]
+低角度 POV。從 [場景] 的地板開始。只有 [主要角色] 的雙腳進入畫面邊緣。一個 [異常機關] 短暫地穿過前景。
 
-[Shot 2: Escape Starts]
-[Target/Subject] suddenly retreats to flee. The camera slides near the floor with slight handheld shakiness. Footsteps speed up.
+[鏡頭 2：逃跑開始]
+[目標/對象] 突然退後逃跑。鏡頭貼近地板滑動，帶有輕微的手持晃動感。腳步聲加快。
 
-[Shot 3: Getting Ahead]
-As soon as turning a corner, the [Main Character] is already standing in the middle of a distant hallway. The camera stops for a moment then escapes to the side.
+[鏡頭 3：超前]
+轉過轉角後，[主要角色] 已經站在遠處走廊中央。鏡頭停頓片刻後向側邊逃離。
 
-[Shot 4: Under Obstacles]
-Passing through low gaps like tables, sofas, or handrails. The [Abnormal Gimmick] glows deep in the gap, indicating the pursuit direction.
+[鏡頭 4：障礙物下方]
+穿過桌子、沙發或扶手等低矮縫隙。[異常機關] 在縫隙深處發光，指引追逐方向。
 
-[Shot 5: High Angle Bird's Eye]
-High-speed cut from directly above. Shows the escape route of the [Target/Subject].
+[鏡頭 5：高角度俯瞰]
+從正上方高速剪輯。展示 [目標/對象] 的逃跑路線。
 
-[Shot 6: Moment of Relief]
-[Target/Subject] hides behind an object. Sound cuts out. Camera is fixed, only the back of the screen quietly darkens.
+[鏡頭 6：喘息時刻]
+[目標/對象] 躲在物體後方。聲音切斷。鏡頭固定，只有螢幕背景安靜地變暗。
 
-[Shot 7: Discovery]
-Focus shifts from foreground to background, where the [Main Character] is located. The [Main Character] doesn't move much, just looks here with their eyes.
+[鏡頭 7：發現]
+焦點從前景轉移到後方的 [主要角色] 身上。[主要角色] 沒有太多動作，只是用雙眼注視著這裡。
 
-[Shot 8: Final Word]
-Rapid close-up. The [Main Character] says 'Found you♪' in a short, cute voice very close to the lens. The final frame is a still image with a smile.
+[鏡頭 8：最後一句話]
+快速特寫。[主要角色] 在極度靠近鏡頭處，用短促可愛的聲音說出「找到你了♪」。最後一幀為定格的微笑畫面。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072030784333168640/img/940Q6ySKRPVaswlK.jpg" width="600" alt="POV Suspense Anime Chase">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072030784333168640/img/940Q6ySKRPVaswlK.jpg" width="600" alt="POV 懸疑動畫追逐">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6727)**
 
@@ -658,21 +658,21 @@ Rapid close-up. The [Main Character] says 'Found you♪' in a short, cute voice 
 **作者:** [LudovicCreator](https://x.com/LudovicCreator) | **來源:** [Link](https://x.com/LudovicCreator/status/2072742121673494808) | **發布時間:** Jul 2, 2026
 
 ---
-### Luxury Macro Transformation Sequence
+### 奢華微距變換序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for Seedance 2.0 designed to create a luxury macro commercial sequence using storyboard panel references.
+> 這是一個為 Seedance 2.0 設計的電影級影片提示詞，旨在利用故事板面板參考來創作奢華微距商業廣告序列。
 
 #### 📝 提示詞
 
 ```
-Use @ Image as storyboard reference for cinematic sequence. use as first shot 01
+使用 @ Image 作為故事板參考來製作電影級序列。將其用作第一個鏡頭 01
 
-A 15-second cinematic macro transformation sequence transitioning through all 9 storyboard panels in strict order. Visual style: luxury macro commercial,
+一段 15 秒的電影級微距變換序列，嚴格按照順序過渡所有 9 個故事板面板。視覺風格：奢華微距商業廣告，
 ```
 
-<img src="https://cms-assets.youmind.com/media/1783064372965_tks6lw_HMPV9GHWkAAH3iI.jpg" width="600" alt="Luxury Macro Transformation Sequence">
+<img src="https://cms-assets.youmind.com/media/1783064372965_tks6lw_HMPV9GHWkAAH3iI.jpg" width="600" alt="奢華微距變換序列">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6726)**
 
@@ -698,41 +698,41 @@ A 15-second cinematic macro transformation sequence transitioning through all 9 
 **作者:** [Magnific](https://x.com/magnific) | **來源:** [Link](https://x.com/magnific/status/2072731418527170995) | **發布時間:** Jul 2, 2026
 
 ---
-### 1980s Tokyo Bubble Era VHS Video Prompt
+### 1980 年代東京泡沫經濟時代 VHS 錄影帶提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive cinematic prompt designed for Seedance, creating a nostalgic 1980s Tokyo street scene with a distinct VHS home-video aesthetic and detailed character movement across multiple time-coded segments.
+> 這是一份為 Seedance 設計的綜合電影級提示詞，旨在創造出懷舊的 1980 年代東京街頭場景，具備獨特的 VHS 家庭錄影帶美學，並在多個時間碼片段中呈現細膩的人物動作。
 
 #### 📝 提示詞
 
 ```
-Main subject: a beautiful young Japanese woman, early 20s, delicate pretty features, sleek glossy black hair, long and smooth with soft side-swept bangs (NOT permed, NOT frizzy), tasteful natural makeup. 1980s Tokyo street fashion — a bright oversized blazer over a high-waisted skirt, gold hoop earrings, charming warm expression. Maintain the exact same identity, hairstyle, and outfit throughout.
+主要人物：一位美麗的日本年輕女性，20 歲出頭，五官精緻秀氣，留著一頭烏黑亮麗的長直髮，搭配柔和的側分瀏海（非燙髮，非毛躁），妝容自然得體。1980 年代東京街頭時尚——穿著明亮的寬版西裝外套搭配高腰裙，戴著金色圓形耳環，表情溫暖迷人。在整個過程中保持相同的人物特徵、髮型與服裝。
 
-Visual Style: authentic 1980s VHS home-video look — heavy tape grain, visible scanlines, chromatic color bleeding, blooming highlights, warm faded nostalgic colors, a small on-screen date stamp in the corner, occasional soft tracking wobble. Strong retro-vintage feeling.
+視覺風格：真實的 1980 年代 VHS 家庭錄影帶質感——厚重的磁帶顆粒感、清晰可見的掃描線、色差溢出、光暈效果、溫暖褪色的懷舊色調、螢幕角落帶有小型的日期戳記，偶爾出現輕微的軌跡抖動。具有強烈的復古懷舊氛圍。
 
-Camera Style: 1980s camcorder held by a friend, MOSTLY STEADY with only a gentle natural float — light sway, no violent shaking, no fast whip movements. Slow casual reframing.
+攝影風格：由朋友手持 1980 年代攝影機拍攝，畫面「大致穩定」，僅帶有自然的輕微浮動——輕微搖晃，無劇烈震動，無快速甩鏡。緩慢且隨意的重新構圖。
 
-FIRST HALF — DAYTIME (bustling bubble-era Tokyo streets):
-00:00–00:02 A busy 1980s Shibuya daytime street. She walks toward the camera through period pedestrians, boxy cars and hand-painted shop signs behind her, smiling. HARD CUT.
-00:02–00:04 Outside a record shop, she flips through vinyl records, then grabs a canned drink from a retro vending machine. HARD CUT.
-00:04–00:06 A quiet Showa backstreet with potted plants and a pay phone; she crouches to pet a stray cat. HARD CUT.
-00:06–00:08 A wide crosswalk under an elevated train line, city-pop energy, she waits and glances at the camera. HARD CUT.
+前半段——日間（繁忙的泡沫經濟時代東京街頭）：
+00:00–00:02 繁忙的 1980 年代澀谷日間街道。她穿過當時的行人走向鏡頭，背景是方正的汽車與手繪商店招牌，面帶微笑。硬切（HARD CUT）。
+00:02–00:04 在唱片行外，她翻閱黑膠唱片，隨後從復古自動販賣機拿出一罐飲料。硬切。
+00:04–00:06 寧靜的昭和時代後巷，擺放著盆栽與公共電話；她蹲下身撫摸一隻流浪貓。硬切。
+00:06–00:08 高架鐵路下的寬闊斑馬線，充滿 City-pop 活力，她等待時回頭看向鏡頭。硬切。
 
-SECOND HALF — NIGHT (dazzling Shinjuku / Roppongi neon):
-00:08–00:10 A neon-drenched Shinjuku Kabukicho alley, glowing kanji signboards everywhere, she walks looking up at the bright lights. HARD CUT.
-00:10–00:12 A Roppongi crossing at night, dazzling neon, taxis passing, she laughs toward the camera as light reflections wash over her face. HARD CUT.
-00:12–00:13 Close shot under a huge glowing neon sign, colorful light on her face. HARD CUT.
-00:13–00:15 She walks away down a vibrant neon street, glances back with a small warm smile, then the recording cuts to VHS static and black.
+後半段——夜間（璀璨的新宿 / 六本木霓虹燈）：
+00:08–00:10 霓虹燈閃爍的新宿歌舞伎町巷弄，到處是發光的漢字招牌，她走著並抬頭仰望明亮的燈光。硬切。
+00:10–00:12 夜晚的六本木十字路口，霓虹燈璀璨，計程車穿梭而過，她對著鏡頭大笑，光影映照在她的臉上。硬切。
+00:12–00:13 在巨大的發光霓虹招牌下的特寫鏡頭，色彩斑斕的光線映在她的臉上。硬切。
+00:13–00:15 她沿著充滿活力的霓虹街道走遠，回頭露出溫暖的淺笑，隨後錄影畫面轉為 VHS 雜訊並變黑。
 
-Environment details throughout: retro vending machines, glowing neon kanji signboards, pay phones, boxy 1980s taxis and kei cars, elevated trains, arcade lights, izakaya paper lanterns, dense overhead wires — nostalgic bubble-era Tokyo.
+環境細節：復古自動販賣機、發光的霓虹漢字招牌、公共電話、方正的 1980 年代計程車與輕型車（Kei cars）、高架電車、遊戲機台燈光、居酒屋燈籠、密集的頭頂電線——充滿懷舊感的泡沫經濟時代東京。
 
-Audio: natural ambient only — city crowd, passing trains, traffic, arcade beeps, faint 1980s city-pop drifting from a storefront, footsteps. No narration, no added soundtrack.
+音訊：僅限自然環境音——城市人群聲、經過的電車聲、交通聲、遊戲機台嗶嗶聲、從店面傳出的微弱 1980 年代 City-pop 音樂、腳步聲。無旁白，無額外配樂。
 
-Goal: a beautiful, nostalgic 1980s Tokyo day-to-night street video that feels like a treasured VHS home movie from Japan's bubble era.
+目標：一段美麗且懷舊的 1980 年代東京日間至夜間街頭影片，呈現出宛如日本泡沫經濟時代珍貴 VHS 家庭錄影帶的質感。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072712250092302336/img/ZE1gAAUVygL_T9L4.jpg" width="600" alt="1980s Tokyo Bubble Era VHS Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072712250092302336/img/ZE1gAAUVygL_T9L4.jpg" width="600" alt="1980 年代東京泡沫經濟時代 VHS 錄影帶提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6733)**
 
@@ -758,42 +758,42 @@ Goal: a beautiful, nostalgic 1980s Tokyo day-to-night street video that feels li
 **作者:** [Generator](https://x.com/groovestreetgen) | **來源:** [Link](https://x.com/groovestreetgen/status/2072697831467675784) | **發布時間:** Jul 2, 2026
 
 ---
-### Epic Anime Dragon Rider Battle
+### 史詩級動漫龍騎士之戰
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic anime prompt for generating an epic aerial battle between a dragon rider and a swarm of wyverns, featuring MAPPA-style sakuga and dynamic camera work.
+> 這是一個高細節的電影級動漫提示詞，用於生成龍騎士與飛龍群之間的史詩級空中對決，呈現出 MAPPA 風格的作畫（sakuga）與動態運鏡。
 
 #### 📝 提示詞
 
 ```
-A fearless dragon rider with piercing blue eyes, flowing red scarf and lightweight fantasy armor, mounted on a colossal sapphire dragon, rendered in ultra-premium Japanese anime rendering, MAPPA-inspired sakuga, sharp manga linework, vibrant cel shading, dynamic motion smears and cinematic anime lighting + 
-- Dives through thunderclouds above a kingdom besieged by thousands of flying wyverns, camera racing alongside the dragon's wings while lightning illuminates the battlefield below; 
-- Dragon tears through enemy creatures while the rider jumps between airborne monsters, dual blades flashing through the sky, impossible aerial combat unfolding through orbit shots and speed-line transitions; 
-- Dragon and rider combine for a final spiral dive attack, creating a gigantic vortex shockwave that annihilates the entire invading swarm, ending with the kingdom saved beneath golden sunlight while the dragon roars victoriously above the clouds
-Heroic fantasy anime masterpiece, airborne sakuga combat, breathtaking final payoff.
+一位無所畏懼的龍騎士，擁有深邃的藍色雙眸、飄逸的紅色圍巾與輕量化奇幻鎧甲，騎乘在一頭巨大的藍寶石巨龍背上，以頂級日本動漫渲染呈現，融合 MAPPA 風格的作畫（sakuga）、銳利的漫畫線條、鮮豔的賽璐珞陰影、動態殘影與電影級動漫光影 + 
+- 穿梭於雷雲之中，下方是正遭受數千隻飛龍圍攻的王國，鏡頭與巨龍的雙翼並行，閃電照亮了下方的戰場； 
+- 巨龍撕裂敵方生物，騎士在空中飛行的怪物間跳躍，雙刃在天空中閃爍，透過環繞鏡頭與速度線轉場，展現出不可思議的空中戰鬥； 
+- 龍與騎士合力發動最後的螺旋俯衝攻擊，產生巨大的渦流衝擊波，殲滅了整群入侵的敵軍，最終在金色陽光下拯救了王國，巨龍在雲端之上發出勝利的咆哮。
+英雄奇幻動漫傑作，空中作畫（sakuga）戰鬥，令人屏息的最終高潮。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072696809877590016/pu/img/0v9PxR6OcN7ydM8K.jpg" width="600" alt="Epic Anime Dragon Rider Battle">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072696809877590016/pu/img/0v9PxR6OcN7ydM8K.jpg" width="600" alt="史詩級動漫龍騎士之戰">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6725)**
 
 **作者:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **來源:** [Link](https://x.com/CharaspowerAI/status/2072696836033233178) | **發布時間:** Jul 2, 2026
 
 ---
-### Retro VHS Elevator CCTV Style
+### 復古 VHS 電梯監控風格
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A comprehensive video prompt designed to simulate a 90s handheld VHS surveillance recording, featuring a first-person perspective in an elevator with complex character interactions and analog artifacts.
+> 這是一組綜合性的影片提示詞，旨在模擬 90 年代手持式 VHS 監控錄影效果，呈現電梯內的第一人稱視角，包含複雜的角色互動與類比訊號瑕疵。
 
 #### 📝 提示詞
 
 ```
-Generate a 9:16 vertical screen retro surveillance video, 15 seconds long (first-person handheld perspective from a mobile phone, mixed with VHS tape damage). The footage must look like a low-res video recorded on a handheld phone in a dim, old elevator, later copied to VHS and played repeatedly, causing heavy damage. No TV frames, no CRT borders, no filming a TV screen; only the full recording itself. The scene is a dim elevator lobby; the doors open, ad screens flicker, and fluorescent lights buzz. Handheld 1st person POV with natural jitter, seeing only my own feet, pants, and hands. Adult Asian female lead (alluring OL, wearing asset HL8o-CobkAAt5LL: alluring figure, tempting gaze, teasing smile, siren pose, slow hip sway) maintains a beautiful, ambiguous smile. Doors open, she pulls me: 'Come in...' I hesitate. A 2D secretary from the ad screen (asset cloudclone28_...) jumps out: 'Master, don't go in!' They argue and scuffle. Timeline: 0-4s wide shot of door opening, siren pose. 4-6s 2D secretary jumps out. 6-9s Lead turns furious, pulls out a chainsaw and a giant hammer to fight. 9-12s I rush in, elevator alarms for overweight. 12-15s Ending: Lead realizes her mistake, apologizes awkwardly; 2D secretary laughs: 'Fatty! I knew you were overweight!' I retreat sweating. Subtitle: 'They didn't want him to stay, the elevator just couldn't close.' Heavy screen tearing and noise. [Lighting] Flickering fluorescent mixed with ad screen light, overexposed character highlights. [Quality] Handheld jitter, focus hunting, low frame rate, VHS scan lines, snow, color crosstalk, analog instability. [Camera] No cinematic moves, only handheld shake and signal drift. [Sound] Muffled microphone audio, whispers, shouting, scuffling, alarm, heavy impacts, distorted like compressed surveillance audio. [Negative] No TV frame, no high def, no modern digital texture, no fish-eye, no realistic 2D character transformation.
+生成一段 9:16 直式螢幕復古監控影片，長度 15 秒（手機手持第一人稱視角，混合 VHS 磁帶損壞效果）。畫面必須呈現出在昏暗老舊電梯內用手機拍攝的低畫質影片感，經多次翻錄至 VHS 後產生嚴重損壞。無電視邊框、無 CRT 邊框、非翻拍電視螢幕；僅呈現錄影內容本身。場景為昏暗的電梯廳；電梯門開啟，廣告螢幕閃爍，日光燈發出嗡嗡聲。手持第一人稱視角，帶有自然的晃動感，僅能看見我自己的雙腳、褲子與雙手。亞裔成年女性主角（迷人 OL，穿著資產 HL8o-CobkAAt5LL：迷人身材、誘惑眼神、挑逗微笑、海妖姿勢、緩慢扭動臀部）保持著美麗而曖昧的微笑。電梯門開啟，她拉著我說：「進來吧……」我猶豫不決。來自廣告螢幕的 2D 秘書（資產 cloudclone28_...）跳出來說：「主人，別進去！」兩人爭吵並扭打在一起。時間軸：0-4 秒，電梯門開啟的全景鏡頭，海妖姿勢。4-6 秒，2D 秘書跳出。6-9 秒，主角變得憤怒，掏出電鋸與巨錘進行戰鬥。9-12 秒，我衝進電梯，電梯發出超重警報。12-15 秒，結尾：主角意識到錯誤，尷尬地道歉；2D 秘書大笑：「胖子！我就知道你超重了！」我冒著冷汗退後。字幕：「她們不想讓他留下，電梯只是關不上。」嚴重的畫面撕裂與雜訊。[燈光] 閃爍的日光燈混合廣告螢幕光，角色高光過曝。[畫質] 手持晃動、自動對焦搜尋、低幀率、VHS 掃描線、雪花雜訊、色彩串擾、類比訊號不穩定。[攝影機] 無電影運鏡，僅有手持晃動與訊號漂移。[聲音] 悶響的麥克風音效、耳語、叫喊、扭打聲、警報聲、沉重的撞擊聲，如同壓縮過的監控音訊般失真。[負面提示] 無電視邊框、無高畫質、無現代數位質感、無魚眼效果、無寫實 2D 角色變形。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072687204036419584/img/lmxmOG4MKpwZ9gCx.jpg" width="600" alt="Retro VHS Elevator CCTV Style">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072687204036419584/img/lmxmOG4MKpwZ9gCx.jpg" width="600" alt="復古 VHS 電梯監控風格">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6723)**
 
@@ -939,19 +939,19 @@ Generate a 9:16 vertical screen retro surveillance video, 15 seconds long (first
 **作者:** [auqib](https://x.com/auqibhabib) | **來源:** [Link](https://x.com/auqibhabib/status/2072627734451507371) | **發布時間:** Jul 2, 2026
 
 ---
-### Pixar Style Erling Haaland Animation
+### 皮克斯風格 Erling Haaland 動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 3D Pixar-style caricature animation of football star Erling Haaland featuring vibrant stadium visuals and high-energy soccer match dynamics.
+> 一段 3D 皮克斯風格的足球明星 Erling Haaland 卡通動畫，呈現充滿活力的球場視覺效果與高能量的足球賽動態。
 
 #### 📝 提示詞
 
 ```
-A detailed, 3D Pixar-style animation featuring an exaggerated, baby-faced caricature of football star Erling Haaland with a prominent blonde mullet and chubby, rosy cheeks. Wearing a bright red Norway national team jersey with white and blue trim, he confidently strides out of a dark stadium tunnel onto a vibrant, sunlit pitch. Surrounded by a roaring crowd and flashing cameras from press photographers, he looks directly into the lens, making comical, dramatic pouty faces and flashing a two-finger peace sign. The scene cuts to a high-energy match where he dynamically sprints down the field in shiny golden cleats, tightly controlling a star-patterned soccer ball while swiftly dodging defenders under bright stadium floodlights amidst falling confetti.
+一段細膩的 3D 皮克斯風格動畫，主角為足球明星 Erling Haaland 的誇張版嬰兒臉卡通形象，留著顯眼的金色鯔魚頭，臉頰圓潤紅潤。他身穿亮紅色的挪威國家隊球衣，配有白藍色邊飾，自信地從昏暗的球員通道走上充滿活力、陽光普照的球場。在熱情的觀眾與攝影記者閃光燈的包圍下，他直視鏡頭，做出滑稽、誇張的嘟嘴表情，並比出勝利的「YA」手勢。場景切換至高能量的比賽畫面，他穿著閃亮的金色球鞋在場上動感奔跑，緊密控球並帶領著一顆星形圖案的足球，在明亮的球場燈光下與落下的彩帶中靈活閃避防守球員。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072625876718727168/img/rYQ19R96EG5MrMdk.jpg" width="600" alt="Pixar Style Erling Haaland Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072625876718727168/img/rYQ19R96EG5MrMdk.jpg" width="600" alt="皮克斯風格 Erling Haaland 動畫">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6721)**
 
@@ -1117,57 +1117,57 @@ VFX 升級：不同的未來開始碰撞。一座未來城市從古老的森林�
 **作者:** [By](https://x.com/rhodezio_ai) | **來源:** [Link](https://x.com/rhodezio_ai/status/2072566280930902394) | **發布時間:** Jul 2, 2026
 
 ---
-### Retro Egyptian God Animation
+### 復古埃及神祇動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A stylized 1980s retro OVA animation prompt featuring Egyptian gods Anubis and Sobek in a comedic strength trial inside a royal palace.
+> 一個 1980 年代復古 OVA 風格的動畫提示詞，描述埃及神祇阿努比斯與索貝克在皇宮內進行一場充滿喜劇色彩的力量考驗。
 
 #### 📝 提示詞
 
 ```
-Hand-drawn detailed animation, retro 1980s OVA style. Ancient Egyptian royal palace interior, warm torchlight, carved stone pillars, gold ornaments, cinematic shadows. Dramatic 16:9 scene, expressive acting, smooth motion. No subtitles, no text, no logo, no watermark. English dialogue only. Deep powerful voices. Anubis: muscular jackal-headed god, arm rings, neck collar. Sobek: muscular crocodile-headed god with tail, arm rings. Pharaoh: human ruler, calm and commanding. Scene 1 — Strength Trial Inside the palace, Anubis and Sobek stand one meter apart, each holding a massive stone block overhead. Both strain with tense faces and shaking arms. The Pharaoh walks slowly in front of them, hands behind his back, observing. He says: “Only one of you may join me on the next mission. Only the strongest.” Scene 2 — Sobek’s Trick Sobek suddenly smirks. He glances sideways at Anubis while keeping his stone raised. His tail quietly stretches toward Anubis’s armpit. Anubis stays focused, staring forward. Scene 3 — Ticklish Close-Up Close-up of Sobek’s tail tip gently brushing Anubis’s armpit. Anubis tries to stay serious but begins suppressing deep laughter. Scene 4 — Anubis Breaks Close-up of Anubis struggling. His eyes squeeze shut, his grin grows wider, and his body trembles as Sobek keeps tickling him. He fights to keep the stone overhead. Scene 5 — Sobek Wins Anubis bursts into loud laughter, loses control, throws the stone behind him, hugs himself, and falls to the floor curled up laughing. Sobek stands proudly, still holding his stone overhead. Scene 6 — Final Judgment The Pharaoh nods to Sobek and says: “It seems you are the one.” Sobek stands victorious. Anubis remains on the floor, still giggling.
+手繪細節動畫，1980 年代復古 OVA 風格。古埃及皇宮內部，溫暖的火炬光，雕刻石柱，黃金裝飾，電影般的陰影。戲劇性的 16:9 場景，表情生動，動作流暢。無字幕，無文字，無標誌，無浮水印。僅限英文對話。深沉有力的嗓音。阿努比斯：肌肉發達的胡狼頭神，佩戴臂環與頸圈。索貝克：肌肉發達、帶有尾巴的鱷魚頭神，佩戴臂環。法老：人類統治者，冷靜且威嚴。場景 1 — 力量考驗：在皇宮內，阿努比斯與索貝克相距一公尺站立，兩人各自將一塊巨大的石塊舉過頭頂。兩人都因用力而表情緊繃，手臂顫抖。法老背著手緩慢地在他們面前走過，觀察著。他說：「你們之中只有一人能隨我執行下一個任務。唯有最強者。」場景 2 — 索貝克的詭計：索貝克突然露出一抹壞笑。他一邊舉著石塊，一邊斜眼看向阿努比斯。他的尾巴悄悄地伸向阿努比斯的腋下。阿努比斯保持專注，直視前方。場景 3 — 搔癢特寫：特寫鏡頭顯示索貝克的尾尖輕輕刷過阿努比斯的腋下。阿努比斯試圖保持嚴肅，但開始壓抑著大笑。場景 4 — 阿努比斯崩潰：特寫鏡頭顯示阿努比斯的掙扎。他雙眼緊閉，笑容擴大，身體因索貝克的搔癢而不斷顫抖。他努力維持舉著石塊的姿勢。場景 5 — 索貝克獲勝：阿努比斯爆發出大笑，失去控制，將石塊向後扔去，抱著自己蜷縮在地板上大笑。索貝克驕傲地站著，依然將石塊舉在頭頂。場景 6 — 最終裁決：法老向索貝克點頭並說：「看來你就是那個人。」索貝克勝利地站著。阿努比斯仍躺在地板上，持續咯咯地笑著。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072561357451583488/img/vGJNSuI9_deJ8csg.jpg" width="600" alt="Retro Egyptian God Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072561357451583488/img/vGJNSuI9_deJ8csg.jpg" width="600" alt="復古埃及神祇動畫">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6720)**
 
 **作者:** [Sam Aoteman](https://x.com/samaote) | **來源:** [Link](https://x.com/samaote/status/2072561439173468501) | **發布時間:** Jul 2, 2026
 
 ---
-### Realistic 2000s Chinese DV Vlog
+### 寫實風格 2000 年代中國 DV 影音部落格
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A meticulous prompt for simulating an early 2000s Chinese home video aesthetic, featuring a young woman in a traditional southern residential area with low-fidelity digital camera characteristics.
+> 一份精確的提示詞，用於模擬 2000 年代初期中國家庭錄影帶的美學風格，呈現一位年輕女性在南方傳統住宅區的生活片段，並具備低保真數位攝影機的視覺特徵。
 
 #### 📝 提示詞
 
 ```
-Main Character: A young Chinese woman, about 22 years old, with average but attractive looks and natural makeup (no influencer look). Wearing a faded charcoal sleeveless crop top, loose light blue high-waisted wash jeans, black canvas shoes, and a thin black rope necklace. Long black hair tied in a slightly messy low ponytail with natural wispy bangs. Realistic skin texture with a healthy summer tan, natural friendly smile, no posing. Maintain consistent character identity, clothing, hairstyle, and appearance throughout the video.
-Location: A typical residential area in southern China (like old districts in Guangdong, Fujian, Jiangxi, or Zhejiang), 3-4 PM in summer. Narrow concrete alleys, 2-3 story self-built houses with signs of age, green security doors, old aluminum windows, anti-theft nets, air conditioning units, electric scooters, bicycles, bamboo drying racks, sun-dried sheets and clothes, plastic flower pots, greenery, utility poles with dense overhead wires, and large trees casting swaying shadows. No commercial streets, billboards, bubble tea shops, cafes, tourists, posing, or modern influencer elements.
-Visual Style: Hyper-realistic documentary authenticity. Like family DV recordings from 2002-2008. No plot, no acting, no deliberate camera angles. Real fragments of life. Natural, random human movements. Abundant real-world details. Like an old DV tape rediscovered from childhood.
-Photography Style: Early 2000s consumer DV camera quality. Intense handheld shakiness. Constant auto-exposure adjustments. Frequent autofocus hunting. Slight motion blur. Rolling shutter. CCD digital camera colors. Slight software compression artifacts. Slightly warm white balance. Light noise. Low dynamic range. Occasional slight overexposure. No stabilizers. No cinematic camera work. No drone shots. No modern HDR. No film grading. No film filters.
+主角：一位約 22 歲的中國年輕女性，長相清秀自然，妝容樸素（非網紅感）。身穿褪色的炭灰色無袖短版上衣、寬鬆的淺藍色高腰水洗牛仔褲、黑色帆布鞋，戴著一條細黑繩項鍊。黑色長髮紮成略顯凌亂的低馬尾，留著自然的碎瀏海。皮膚質感寫實，帶有健康的夏日曬痕，笑容自然親切，無擺拍感。確保影片中人物的身分、服裝、髮型與外貌保持一致。
+地點：中國南方的典型住宅區（如廣東、福建、江西或浙江的老城區），夏季下午 3 點至 4 點。狹窄的混凝土巷弄、帶有歲月痕跡的 2-3 層自建房、綠色防盜門、舊式鋁窗、防盜網、空調外機、電動機車、腳踏車、竹製晾衣架、晾曬的床單與衣物、塑膠花盆、綠植、佈滿電線的電線桿，以及投下搖曳樹影的大樹。禁止出現商業街、廣告看板、手搖飲店、咖啡廳、遊客、擺拍或現代網紅元素。
+視覺風格：超寫實的紀錄片真實感。如同 2002-2008 年間的家庭 DV 錄影。無劇情、無表演、無刻意的運鏡。真實的生活碎片。自然、隨機的人類動作。豐富的現實細節。就像是從童年回憶中重新發現的舊 DV 錄影帶。
+攝影風格：2000 年代初期消費級 DV 攝影機畫質。強烈的手持晃動感。持續的自動曝光調整。頻繁的自動對焦搜尋。輕微的動態模糊。果凍效應。CCD 數位攝影機色彩。輕微的軟體壓縮偽影。略顯溫暖的白平衡。輕微雜訊。低動態範圍。偶爾出現輕微過曝。無穩定器。無電影級運鏡。無空拍鏡頭。無現代 HDR。無電影調色。無濾鏡。
 00:00–00:02
-In front of a typical Chinese residential building. She sits on low concrete steps, raising both hands to adjust her ponytail. A summer breeze blows a few hairs. The lens automatically finds focus, recovering after a brief blur.
+在典型的中國住宅樓前。她坐在低矮的混凝土台階上，雙手舉起整理馬尾。夏日微風吹動幾縷髮絲。鏡頭自動對焦，在短暫模糊後恢復清晰。
 00:02–00:04
-She walks slowly along a narrow residential alley. Potted plants and electric scooters line the road. A stray orange cat emerges from a corner. She squats down smiling. The camera composition is slightly off due to tracking.
+她緩慢地走在狹窄的住宅巷弄中。路邊停放著盆栽與電動機車。一隻橘色流浪貓從角落出現。她蹲下身微笑。由於追蹤拍攝，構圖略有偏移。
 00:04–00:06
-She gently pets the stray cat and places some cat food on the ground. Autofocus constantly switches between the person and the cat. Sunlight flickers through the leaves, creating changing light spots.
+她溫柔地撫摸流浪貓，並在地上放了一些貓糧。自動對焦在人物與貓之間不斷切換。陽光透過葉片閃爍，形成變幻的光斑。
 00:06–00:08
-A small courtyard in front of the building. She stands in front of a bamboo rack hanging clothes. Sheets and clothes sway gently in the breeze. A cloud passes by, briefly lowering the exposure.
+樓前的小庭院。她站在掛滿衣物的竹架前。床單與衣物在微風中輕輕搖曳。一片雲飄過，短暫地降低了曝光度。
 00:08–00:10
-She sits in her own small courtyard, holding a white ceramic teacup, quietly watching the neighborhood, occasionally tucking hair behind her ear. The lens drifts slightly.
+她坐在自家的小庭院裡，手持白色陶瓷茶杯，安靜地看著社區，偶爾將頭髮撥到耳後。鏡頭輕微漂移。
 00:10–00:12
-Close-up side profile. A distant neighbor calls out: "Back already?" She turns and waves, answering naturally: "Yeah, just got back." The camera follows a beat late.
+側面特寫。遠處的鄰居喊道：「回來啦？」她轉頭揮手，自然地回答：「對啊，剛回來。」鏡頭跟隨動作慢了半拍。
 00:12–00:15
-She walks slowly on a tree-shaded path with her teacup. Noticing the lens, she gives a shy little smile, then continues forward. The recording ends abruptly to black, like a DV camera shutting off.
-Audio: Only real ambient sounds: summer cicadas, distant electric scooters, occasional dog barks, rustling leaves, residents chatting, clinking of kitchenware, cat meows, footsteps on concrete, sound of wind blowing through laundry. No background music. No sound design. No voiceover.
-Goal: Present a segment of life recorded by a typical Chinese family DV camera from 2003-2008. Authentic, natural, imperfect, no acting traces, no influencer feel, no cinematic feel, no AI feel—making the audience mistake it at first glance for a rediscovered old family tape.
+她手持茶杯，緩慢地走在樹蔭小徑上。注意到鏡頭後，她露出羞澀的微笑，隨後繼續向前走。錄影突然中斷變黑，就像 DV 攝影機關機一樣。
+音訊：僅保留真實的環境音：夏日蟬鳴、遠處的電動機車聲、偶爾的狗吠聲、樹葉沙沙聲、居民閒聊聲、廚具碰撞聲、貓叫聲、混凝土上的腳步聲、風吹過晾曬衣物的聲音。無背景音樂。無音效設計。無旁白。
+目標：呈現一段由 2003-2008 年典型中國家庭 DV 攝影機記錄的生活片段。真實、自然、不完美，無表演痕跡，無網紅感，無電影感，無 AI 感——讓觀眾第一眼誤以為是重新發現的舊家庭錄影帶。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072539888336191488/img/tJ0JfH4SVPGtsK8t.jpg" width="600" alt="Realistic 2000s Chinese DV Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072539888336191488/img/tJ0JfH4SVPGtsK8t.jpg" width="600" alt="寫實風格 2000 年代中國 DV 影音部落格">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6728)**
 
@@ -1193,54 +1193,54 @@ Goal: Present a segment of life recorded by a typical Chinese family DV camera f
 **作者:** [BMX](https://x.com/bmx_ai13) | **來源:** [Link](https://x.com/bmx_ai13/status/2072537247337824487) | **發布時間:** Jul 2, 2026
 
 ---
-### UGC Style Hair Care Video Ad
+### UGC 風格護髮影片廣告
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A casual, handheld 15-second vertical video ad prompt designed for hair care marketing, featuring realistic before-and-after scenes.
+> 這是一款專為護髮行銷設計的 15 秒直式手持影片廣告提示詞，呈現真實的對比效果。
 
 #### 📝 提示詞
 
 ```
-15-second vertical UGC-style hair care ad. Casual handheld footage. Scene 1 (0-3s): Young woman at bathroom mirror, frizzy messy hair, frustrated expression, holds up a hair care bottle. Scene 2 (3-7s): Close-up of dry, damaged hair, finger running through tangles. Scene 3 (7-12s): Applying creamy hair product, hands working through hair, smooth texture, warm lighting. Scene 4 (12-15s): Confident woman smiling, hair now glossy and healthy, points at product bottle. Natural lighting throughout, authentic feel, no professional studio look. make this video
+15 秒直式 UGC 風格護髮廣告。休閒手持拍攝風格。場景 1 (0-3 秒)：年輕女性在浴室鏡子前，頭髮毛躁凌亂，表情沮喪，手持護髮產品瓶身。場景 2 (3-7 秒)：乾燥受損髮質特寫，手指梳過打結處。場景 3 (7-12 秒)：塗抹乳霜狀護髮產品，雙手梳理頭髮，質地滑順，暖色調燈光。場景 4 (12-15 秒)：自信的女性微笑，頭髮變得光澤健康，指向產品瓶身。全程採用自然光，營造真實感，避免專業攝影棚質感。make this video
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072534517789990912/img/bC_V4Lqhqwog2fQ8.jpg" width="600" alt="UGC Style Hair Care Video Ad">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072534517789990912/img/bC_V4Lqhqwog2fQ8.jpg" width="600" alt="UGC 風格護髮影片廣告">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6722)**
 
 **作者:** [Rajesh Kumar](https://x.com/therjrajesh) | **來源:** [Link](https://x.com/therjrajesh/status/2072534569912619378) | **發布時間:** Jul 2, 2026
 
 ---
-### Rural African Village Life Documentary
+### 非洲農村生活紀錄片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed narrative video prompt for Seedance 2.0 capturing a slice-of-life morning in an African village with a realistic handheld camcorder aesthetic.
+> 這是一份為 Seedance 2.0 設計的詳細敘事影片提示詞，旨在捕捉非洲村莊早晨的生活片段，並呈現寫實的手持攝影機美學。
 
 #### 📝 提示詞
 
 ```
-Main Subject:
+主要人物：
 
-Young African woman, early 20s, native to the region. Warm brown skin with realistic skin texture, minimal to no makeup. She has dark hair tied in a simple low ponytail with a few loose strands. She wears a faded sleeveless light-colored blouse, a simple long wrap skirt with a faded colorful pattern, and worn sandals. Small beaded bracelet on one wrist. Warm, approachable, and grounded personality. Maintain consistent identity, clothing, hairstyle, and appearance throughout the entire video.
-Location:
-Authentic rural African village during a calm late morning. Dirt paths, simple mud-brick and concrete block houses with corrugated metal or thatched roofs, scattered trees and vegetation, chickens roaming freely, low stick fences, laundry hanging on lines, plastic basins, simple wooden benches, and water containers. Quiet village atmosphere with natural daily life. No modern buildings or urban elements.
-Visual Style:
-Ultra-realistic documentary realism. Genuine candid behavior. Natural body language. Unscripted slice-of-life feeling. Strong environmental authenticity. Rich real-world details and believable human motion.
-Camera Style:
-Early-2000s consumer DV camcorder aesthetic. Friend casually recording everyday moments. Heavy handheld shake, imperfect framing, frequent autofocus hunting, lens breathing, exposure pumping when moving between sun and shade, occasional motion blur, subtle rolling shutter, mild digital compression artifacts, faded colors, soft contrast, slight sensor noise. No stabilization. No cinematic camera moves. No modern color grading.
+年輕非洲女性，20 歲出頭，當地原住民。溫暖的棕色皮膚，具有真實的皮膚紋理，幾乎沒有化妝。深色頭髮紮成簡單的低馬尾，有幾縷髮絲散落。身穿褪色的無袖淺色上衣、簡單的長版裹裙（帶有褪色的彩色圖案）以及磨損的涼鞋。手腕上戴著小珠子手鍊。性格溫暖、平易近人且腳踏實地。在整段影片中，請保持其身分、服裝、髮型和外貌的一致性。
+地點：
+寧靜的上午，真實的非洲農村。泥土小徑、簡單的泥磚與水泥磚房（屋頂為波紋金屬或茅草）、零星的樹木與植被、自由走動的雞隻、低矮的木棍圍欄、晾衣繩上的衣物、塑膠盆、簡單的木製長椅和水桶。安靜的村莊氛圍，充滿自然的生活氣息。沒有現代建築或城市元素。
+視覺風格：
+超寫實紀錄片風格。真實自然的行為。自然的肢體語言。無劇本的生活片段感。強烈的環境真實感。豐富的現實世界細節與可信的人類動作。
+攝影風格：
+2000 年代初期的消費級 DV 攝影機美學。像朋友隨手記錄日常生活般。強烈的手持晃動、不完美的構圖、頻繁的自動對焦搜尋、鏡頭呼吸效應、在陽光與陰影間移動時的曝光波動、偶爾的動態模糊、細微的果凍效應、輕微的數位壓縮偽影、褪色的色彩、柔和的對比度、輕微的感光元件雜訊。無穩定器。無電影級運鏡。無現代調色。
 
-TIMED SCENES (00:00–00:15)
-00:00–00:02Outside a small village house. She sits on a low wooden bench adjusting her ponytail with both hands. A light breeze moves loose strands of hair. She smiles naturally while the camera struggles to hold focus.
-00:02–00:04The camera follows her as she walks along a dirt path through the village. She notices a chicken running freely nearby and slows down to watch it. Framing drifts slightly as the operator tries to keep up.
-00:04–00:06She crouches and tries to catch the chicken, moving carefully with her hands outstretched. The chicken flutters and runs a short distance. Autofocus repeatedly shifts between her face and the chicken. Morning sunlight filters through tree leaves overhead.
-00:06–00:08In the small dirt yard beside her house. She picks up a broom made of sticks and begins sweeping the ground in steady motions. Dust rises lightly as she sweeps. Exposure changes slightly as clouds pass overhead.
-00:08–00:10She sits on a low wooden bench near the house, resting after sweeping. She wipes sweat from her forehead with the back of her hand and looks around the quiet village. Loose handheld side angle with natural camera drift.
-00:10–00:12Close side profile. Someone off-camera greets her warmly. She turns toward the voice, raises her hand, smiles genuinely, and replies with
+分鏡時間軸 (00:00–00:15)
+00:00–00:02 村莊小屋門外。她坐在低矮的木長椅上，雙手整理馬尾。微風吹動散落的髮絲。她自然地微笑，同時攝影機努力對焦。
+00:02–00:04 攝影機跟隨她走在村莊的泥土小徑上。她注意到附近有一隻雞在自由奔跑，放慢腳步觀察。由於攝影者努力跟上，構圖略有偏移。
+00:04–00:06 她蹲下身試圖抓住那隻雞，小心翼翼地伸出雙手。雞拍動翅膀跑開了一小段距離。自動對焦在她的臉部與雞之間反覆切換。晨光透過頭頂的樹葉灑下。
+00:06–00:08 在她屋旁的泥土地院子裡。她拿起一把樹枝做的掃帚，開始穩定地清掃地面。掃地時塵土輕揚。隨著雲層飄過，曝光度略有變化。
+00:08–00:10 她坐在屋旁的低矮木長椅上，掃地後休息。她用手背擦去額頭上的汗水，環顧寧靜的村莊。寬鬆的手持側拍角度，帶有自然的鏡頭偏移。
+00:10–00:12 近距離側面特寫。鏡頭外有人熱情地向她打招呼。她轉向聲音來源，舉起手，露出真誠的微笑，並回應道
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072525336886280192/img/ORP5qc8_bQgq4-_U.jpg" width="600" alt="Rural African Village Life Documentary">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072525336886280192/img/ORP5qc8_bQgq4-_U.jpg" width="600" alt="非洲農村生活紀錄片">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6732)**
 
@@ -1376,87 +1376,87 @@ TIMED SCENES (00:00–00:15)
 **作者:** [Shami](https://x.com/ShamiWeb3) | **來源:** [Link](https://x.com/ShamiWeb3/status/2072509269073871154) | **發布時間:** Jul 2, 2026
 
 ---
-### Nostalgic Early 2000s DV Style Korean Vlog
+### 懷舊 2000 年代初期 DV 風格韓國 Vlog
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A comprehensive video generation prompt that replicates the aesthetic of a consumer DV camera from the early 2000s, featuring a young Korean woman in a quiet residential setting with realistic movements and camera imperfections.
+> 一個全面的影片生成提示詞，旨在重現 2000 年代初期消費級 DV 攝影機的美學，場景為一位年輕韓國女性在寧靜的住宅區，具備逼真的動作與攝影機瑕疵。
 
 #### 📝 提示詞
 
 ```
-**Main subject**: A young Korean woman in her early 20s, naturally dressed in a faded charcoal sleeveless crop top and loose high-waisted light-wash jeans, paired with black canvas sneakers and a black string necklace. Her black wavy hair is tied in a messy side ponytail with light bangs. Realistic skin texture, light makeup, warm and approachable personality. Maintain high consistency of identity, clothing, hairstyle, and appearance throughout the video.
+**主要對象**：一位 20 歲出頭的年輕韓國女性，自然穿著褪色的炭灰色無袖短版上衣與寬鬆高腰淺色牛仔褲，搭配黑色帆布鞋與黑色細繩項鍊。黑色波浪捲髮綁成凌亂的側馬尾，留著輕薄瀏海。真實的皮膚紋理，淡妝，個性溫暖且平易近人。在整段影片中保持身分、服裝、髮型與外貌的高度一致性。
 
-**Location**: Morning time, a quiet and authentic Korean residential neighborhood. Narrow concrete alleys, low-rise residences, small terraces, potted plants, clotheslines, bicycles, utility poles, crisscrossing wires in mid-air, dense trees casting mottled swaying shadows, full of a quiet residential atmosphere. No shops, advertisements, cafes, crowds, or commercial activities.
+**地點**：早晨，寧靜且真實的韓國住宅區。狹窄的混凝土巷弄、低矮住宅、小露台、盆栽、曬衣繩、腳踏車、電線桿、空中交錯的電線，茂密的樹木投下斑駁搖曳的陰影，充滿寧靜的居住氛圍。沒有商店、廣告、咖啡廳、人群或商業活動。
 
-**Visual Style**: Ultra-realistic documentary style. Authentic, unpretentious candid behavior. Natural body language. Unscripted daily life fragment feel. Strong sense of environmental reality. Contains rich real-world details and naturally realistic human dynamics.
+**視覺風格**：超逼真紀錄片風格。真實、不做作的隨拍行為。自然的肢體語言。非劇本式的日常生活片段感。強烈的環境真實感。包含豐富的現實世界細節與自然逼真的人類動態。
 
-**Camera Style**: Aesthetics of early 2000s consumer DV cameras. Creates the feeling of a friend casually recording daily moments. Strong handheld camera shake, imperfect composition, frequent autofocus hunting (breathing effect), exposure fluctuations when moving between sunlight and shadows (flickering), occasional motion blur, slight rolling shutter effect, minor digital compression artifacts, aged/faded colors, soft contrast, with slight sensor noise. No stabilization. No cinematic camera movements. No modern color grading.
+**攝影風格**：2000 年代初期消費級 DV 攝影機美學。營造出朋友隨手記錄日常時刻的感覺。強烈的手持攝影機晃動、不完美的構圖、頻繁的自動對焦搜尋（呼吸效應）、在陽光與陰影間移動時的曝光波動（閃爍）、偶爾的動態模糊、輕微的果凍效應、細微的數位壓縮偽影、陳舊/褪色的色彩、柔和的對比度，並帶有輕微的感光元件雜訊。無穩定器。無電影級運鏡。無現代調色。
 
-**00:00–00:02**: Outside the entrance of a small house. She sits on a low concrete wall, raising her hands to tidy her ponytail. A breeze blows through stray strands of hair. She smiles naturally while the camera struggles to focus.
+**00:00–00:02**：小房子門口外。她坐在低矮的混凝土牆上，舉起雙手整理馬尾。微風吹過散落的髮絲。她自然地微笑，同時攝影機努力對焦。
 
-**00:02–00:04**: The camera follows her into a narrow alley lined with potted plants and concrete walls. She notices a stray cat approaching and squats down. The composition shifts off-center as the operator tries to keep up with her movement.
+**00:02–00:04**：攝影機跟隨她進入一條兩側擺滿盆栽與混凝土牆的狹窄巷弄。她注意到一隻流浪貓靠近並蹲下。當拍攝者試圖跟上她的動作時，構圖偏離了中心。
 
-**00:04–00:06**: She gently strokes and feeds the cat. The camera's autofocus switches repeatedly between her face and the cat. Morning sunlight flickers mottled through the leaves overhead.
+**00:04–00:06**：她輕柔地撫摸並餵食貓咪。攝影機的自動對焦在她的臉與貓之間反覆切換。早晨的陽光透過頭頂的樹葉斑駁閃爍。
 
-**00:06–00:08**: In a small front yard next to her house. She is hanging clothes on a clothesline, the fabric swaying in the breeze. As clouds pass briefly overhead, the exposure changes accordingly.
+**00:06–00:08**：在她家旁邊的小前院。她正在曬衣繩上晾衣服，布料在微風中搖曳。隨著雲朵短暫飄過頭頂，曝光也隨之改變。
 
-**00:08–00:10**: On a quiet terrace, holding a ceramic coffee cup. She sits comfortably, observing the surrounding neighborhood, occasionally tucking her hair behind her ear. A casual, loose side handheld perspective with natural camera drift.
+**00:08–00:10**：在寧靜的露台上，手持陶瓷咖啡杯。她舒適地坐著，觀察周圍的社區，偶爾將頭髮撥到耳後。隨性、鬆散的側向手持視角，帶有自然的攝影機漂移。
 
-**00:10–00:12**: Side close-up. Someone off-camera greets her. She turns her head, raises her hand, smiles warmly, and says casually: "Annyeong (Hello)". The camera's reaction is half a beat slow.
+**00:10–00:12**：側面特寫。鏡頭外有人向她打招呼。她轉頭、舉手、溫暖地微笑，並隨意地說：「Annyeong（你好）」。攝影機的反應慢了半拍。
 
-**00:12–00:15**: She holds the coffee cup and walks slowly along a tree-lined residential path. She notices the camera, gives a small and sincere smile, then looks away and continues walking. The video cuts off suddenly to a black screen mid-action, as if the camera were abruptly turned off.
+**00:12–00:15**：她拿著咖啡杯，沿著綠樹成蔭的住宅小徑緩慢行走。她注意到攝影機，露出一個細微且真誠的微笑，隨後轉過頭繼續行走。影片在動作進行中突然切換至黑畫面，彷彿攝影機被突然關閉。
 
-**Audio**: Keep only natural ambient sounds—morning birdsong, distant motorcycle sounds, breeze, rustling leaves, faint neighborhood chatter, cat meows, footsteps on concrete, fabric moving on the clothesline, and subtle residential atmosphere. No music. No sound design. No narration.
+**音訊**：僅保留自然的環境音——早晨鳥鳴、遠處的摩托車聲、微風、沙沙作響的樹葉、隱約的鄰里閒聊聲、貓叫聲、混凝土上的腳步聲、曬衣繩上的布料摩擦聲，以及細微的住宅氛圍。無音樂。無音效設計。無旁白。
 
-**Goal**: Capture authentic Korean neighborhood life, making it look like a forgotten early 2000s home video—candid, imperfect, realistic, warm, and highly convincing.
+**目標**：捕捉真實的韓國鄰里生活，使其看起來像是一段被遺忘的 2000 年代初期家庭錄影帶——隨性、不完美、真實、溫暖且極具說服力。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072495560834310144/img/3bm4ZHYbMJfnNC4q.jpg" width="600" alt="Nostalgic Early 2000s DV Style Korean Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072495560834310144/img/3bm4ZHYbMJfnNC4q.jpg" width="600" alt="懷舊 2000 年代初期 DV 風格韓國 Vlog">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6724)**
 
 **作者:** [Zero Lu](https://x.com/zerolu_eth) | **來源:** [Link](https://x.com/zerolu_eth/status/2072495845489185102) | **發布時間:** Jul 2, 2026
 
 ---
-### Cinematic 4K Bridal Video
+### 4K 電影感新娘影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed multi-shot cinematic prompt for generating a high-detail luxury wedding film featuring a bride, used for comparing Seedance 2.0 and Kling.
+> 一份詳細的多鏡頭電影感提示詞，用於生成高細節的奢華婚禮影片，主角為新娘，並用於比較 Seedance 2.0 與 Kling 的效果。
 
 #### 📝 提示詞
 
 ```
-Create a 15-second cinematic bridal video designed to showcase stunning 4K beauty, elegant motion, and luxurious detail. The bride is young, graceful, and exceptionally beautiful, with a clear, luminous, translucent presence. She has soft radiant skin, delicate natural makeup, bright clear eyes, and an elegant gentle smile. Her overall feeling is fresh, pure, refined, romantic, and dreamlike.  The video is a collection of beautiful fleeting moments, each shot feeling delicate, emotional, and visually rich.  0–3s Open with a luminous close-up of the bride’s face in soft natural light. Show her youthful beauty and translucent glow in crisp 4K detail: smooth radiant skin, soft eyelashes, glossy lips, and bright expressive eyes. A gentle breeze moves a few strands of hair and the edge of her veil.  3–6s Cut to graceful detail shots: her slender fingers touching the lace of her dress, the sparkle of a ring, delicate embroidery, pearls, and the airy soft texture of the veil. The details feel pure, elegant, and luxurious, with beautiful light gently reflecting across the fabric.  6–9s Show the bride walking slowly through a bright, dreamy setting while holding a beautiful bouquet. Her veil flows lightly behind her, and the dress moves softly with each step. Emphasize her youthful elegance, soft posture, and the romantic shimmer of the gown.  9–12s Cut to an emotional medium shot as she turns slightly toward the camera. Her smile is soft, innocent, and radiant. The light wraps around her beautifully, enhancing her clear and delicate presence. The veil and dress move gracefully, creating a timeless romantic feeling.  12–15s End with the most breathtaking moment: a beautiful full shot of the bride surrounded by luminous light, bouquet in hand, veil floating elegantly. She pauses in a poised, unforgettable pose, looking like the final frame of a luxury wedding film. Her beauty feels youthful, pure, transparent, and deeply enchanting.  Style and visual direction Ultra-beautiful bridal cinematography, youthful elegance, translucent beauty, emotionally rich, soft, romantic, luxurious, delicate, refined, visually poetic, high-detail 4K imagery, natural light, dreamy glow, premium wedding film feeling, graceful camera movement, strong shot variety, consistent bride appearance, every moment polished and beautiful.
+創作一段 15 秒的電影感新娘影片，旨在展現震撼的 4K 美感、優雅的動態與奢華的細節。新娘年輕、優雅且極致美麗，散發著清透、明亮且空靈的氣質。她擁有柔和光澤的肌膚、精緻的自然妝容、明亮清澈的雙眸以及優雅溫柔的微笑。整體氛圍清新、純淨、高雅、浪漫且夢幻。影片由一系列美麗的瞬間組成，每個鏡頭都顯得細膩、感性且視覺豐富。0–3 秒：以新娘臉部的明亮特寫開場，置於柔和的自然光下。以清晰的 4K 細節展現她年輕的美貌與清透光澤：平滑光亮的肌膚、柔軟的睫毛、水潤的雙唇以及明亮且富有神采的眼睛。微風輕拂過幾縷髮絲與頭紗邊緣。3–6 秒：切換至優雅的細節鏡頭：她纖細的手指觸摸婚紗蕾絲、戒指的閃耀、精緻的刺繡、珍珠，以及頭紗輕盈柔軟的質感。細節顯得純淨、優雅且奢華，美麗的光影在布料上輕柔反射。6–9 秒：展示新娘手捧美麗花束，緩步走過明亮夢幻的場景。她的頭紗在身後輕盈飄動，婚紗隨步伐柔和擺動。強調她年輕的優雅、柔美的姿態以及禮服浪漫的微光。9–12 秒：切換至感性的中景鏡頭，她微微轉身看向鏡頭。她的笑容柔和、純真且燦爛。光線優美地環繞著她，襯托出她清透細膩的氣質。頭紗與婚紗優雅擺動，營造出永恆的浪漫氛圍。12–15 秒：以最令人屏息的瞬間作結：一個美麗的全景鏡頭，新娘被明亮的光線包圍，手持花束，頭紗優雅飄浮。她停留在一個從容且令人難忘的姿勢，宛如奢華婚禮電影的最後一幀畫面。她的美感顯得年輕、純淨、透明且深具魅力。風格與視覺指導：極致美麗的新娘攝影、年輕優雅、清透美感、情感豐富、柔和、浪漫、奢華、細膩、高雅、視覺詩意、高細節 4K 影像、自然光、夢幻光暈、頂級婚禮影片質感、優雅的運鏡、豐富的鏡頭變化、一致的新娘外觀，每個瞬間都精緻且美麗。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072487795311218688/img/NmgexAkd40fetwk4.jpg" width="600" alt="Cinematic 4K Bridal Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072487795311218688/img/NmgexAkd40fetwk4.jpg" width="600" alt="4K 電影感新娘影片">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6731)**
 
 **作者:** [meropan](https://x.com/renataro9) | **來源:** [Link](https://x.com/renataro9/status/2072489031485833660) | **發布時間:** Jul 2, 2026
 
 ---
-### Vespira the Pestilent Empress Cinematic Sequence
+### 瘟疫女皇 Vespira 電影級序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-fantasy cinematic prompt for Seedance 2.0 that converts a storyboard and character concept into a seamless 15-second video sequence.
+> 一個適用於 Seedance 2.0 的高奇幻風格電影級提示詞，可將專案與角色概念轉換為流暢的 15 秒影片序列。
 
 #### 📝 提示詞
 
 ```
-VESPIRA — THE PESTILENT EMPRESS [@1000019684]
-"THE BLOOM OF RUIN"
-Duration: 15 Seconds
-Use the storyboard [@1000019685] as reference only.
-Convert the storyboard into a single seamless cinematic sequence.
-Do not render storyboard panels.
-Do not render
+VESPIRA — 瘟疫女皇 [@1000019684]
+「毀滅之花」
+時長：15 秒
+請僅將專案 [@1000019685] 作為參考。
+將專案轉換為單一且流暢的電影級序列。
+請勿渲染專案面板。
+請勿渲染
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072463131406893056/img/iwMu0aL3uRDhPrIi.jpg" width="600" alt="Vespira the Pestilent Empress Cinematic Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072463131406893056/img/iwMu0aL3uRDhPrIi.jpg" width="600" alt="瘟疫女皇 Vespira 電影級序列">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6736)**
 
@@ -1501,49 +1501,49 @@ Do not render
 **作者:** [Serena Pei](https://x.com/spei04) | **來源:** [Link](https://x.com/spei04/status/2072441161298616340) | **發布時間:** Jul 1, 2026
 
 ---
-### Biomechanical Angel Space Cathedral Transformation
+### 生物機械天使：太空大教堂變身
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic cinematic video prompt for Seedance 2.0 describing a sci-fi fantasy transformation of a human into a biomechanical angel within a celestial cathedral in deep space.
+> 這是一段為 Seedance 2.0 設計的史詩級電影感影片提示詞，描述了一個人類在深空中的天體大教堂內，變身為生物機械天使的科幻奇幻場景。
 
 #### 📝 提示詞
 
 ```
-15-second ultra-cinematic sci-fi fantasy transformation sequence inside a colossal abandoned celestial cathedral floating in deep space.
+15 秒超電影感科幻奇幻變身序列，場景位於漂浮在深空中一座巨大且廢棄的天體大教堂內。
 
-A lone human stands beneath enormous mechanical arches surrounded by ancient celestial machinery. Gigantic rotating rings, broken stained-glass windows, and forgotten angelic statues drift silently in zero gravity while distant stars illuminate the cathedral.
+一名人類孤身站在巨大的機械拱門下，周圍環繞著古老的天體機械。巨大的旋轉環、破碎的彩繪玻璃窗以及被遺忘的天使雕像在零重力中靜靜漂浮，遠處的星光照亮了整座大教堂。
 
-The atmosphere is sacred, mysterious, and awe-inspiring.
+氛圍神聖、神秘且令人敬畏。
 
-The camera slowly circles around the human as dormant celestial machines begin awakening. Soft white light pulses through the cathedral. Massive mechanical gears rotate for the first time in centuries.
+攝影機緩緩繞著人類旋轉，沉睡的天體機器開始甦醒。柔和的白光在大教堂中脈動。巨大的機械齒輪在數百年來首次轉動。
 
-Tiny streams of liquid silver nanometal emerge from the cathedral floor and flow toward the human.
+細小的液態銀色奈米金屬流從大教堂地板湧出，流向人類。
 
-The transformation begins.
+變身開始。
 
-The liquid metal climbs across the body like living mercury, weaving seamlessly beneath the skin. Luminous white circuits spread through the arms, chest, and face like sacred veins.
+液態金屬像活水銀一樣爬過身體，無縫地編織在皮膚之下。發光的白色電路像神聖的血管一樣在手臂、胸部和臉部蔓延。
 
-The camera pushes closer as elegant biomechanical structures form naturally around the skeleton. Carbon-fiber muscles, titanium tendons, and glowing energy cores replace organic anatomy while preserving graceful human proportions.
+攝影機推進，優雅的生物機械結構在骨骼周圍自然形成。碳纖維肌肉、鈦金屬肌腱和發光的能量核心取代了有機解剖結構，同時保留了優雅的人體比例。
 
-The transformation accelerates.
+變身加速。
 
-Intricate mechanical feathers emerge from the shoulder blades one by one. Thousands of articulated white-metal feathers unfold with perfect precision, each feather glowing softly with celestial energy.
+精緻的機械羽毛從肩胛骨處逐一顯現。數以千計的鉸接式白金屬羽毛以完美的精度展開，每一根羽毛都散發著柔和的天體能量光芒。
 
-Golden halos composed of rotating mechanical rings materialize behind the head. Floating fragments of ancient technology orbit around the transforming figure.
+由旋轉機械環組成的金色光環在頭部後方顯現。古老科技的漂浮碎片圍繞著變身中的身影旋轉。
 
-The cathedral responds. Gigantic celestial engines ignite. Beams of divine light pierce through shattered stained glass while floating debris begins orbiting the awakened being.
+大教堂做出回應。巨大的天體引擎點火。神聖的光束穿透破碎的彩繪玻璃，漂浮的碎片開始圍繞著覺醒的生命體運行。
 
-At the climax, the human becomes a magnificent Biomechanical Angel , a perfect fusion of organic life, sacred technology, and divine engineering. Brilliant white wings span across the cathedral while luminous blue-white energy flows through every mechanical feather.
+在高潮時刻，人類成為了一位壯麗的生物機械天使（Biomechanical Angel），這是有機生命、神聖科技與神聖工程的完美融合。璀璨的白色翅膀橫跨整個大教堂，明亮的藍白色能量流動在每一根機械羽毛中。
 
-Final cinematic moment: the Biomechanical Angel slowly opens both wings. Countless mechanical feathers release into space as radiant particles. The cathedral comes fully alive while the angel ascends through a colossal opening toward the stars, leaving glowing trails of celestial light behind.
+最終電影時刻：生物機械天使緩緩展開雙翼。無數機械羽毛作為輻射粒子釋放到太空中。大教堂完全甦醒，天使穿過巨大的開口向星空升起，身後留下了天體光芒的軌跡。
 
-Style: ultra-cinematic sci-fi fantasy, biomechanical realism, celestial technology, photoreal nanometal transformation, articulated mechanical wings, divine architecture, volumetric god rays, white and gold aesthetic, premium cinematic VFX, AAA film quality, no text, no overlays.
+風格：超電影感科幻奇幻、生物機械寫實主義、天體科技、照片級奈米金屬變身、鉸接式機械翅膀、神聖建築、體積光（God rays）、白色與金色美學、頂級電影級 VFX、AAA 電影畫質、無文字、無疊加層。
 
-Audio: epic celestial orchestral score, angelic choir, deep mechanical resonance, servo movements, metallic feather articulation, divine energy hums, cathedral ambience, cosmic atmosphere, transcendent cinematic crescendo.
+音效：史詩級天體管弦樂、天使合唱團、深沉的機械共鳴、伺服馬達運作聲、金屬羽毛鉸接聲、神聖能量嗡嗡聲、大教堂環境音、宇宙氛圍、超凡的電影感高潮。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072409972923568128/pu/img/F_cLXEfG2xEULFsD.jpg" width="600" alt="Biomechanical Angel Space Cathedral Transformation">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072409972923568128/pu/img/F_cLXEfG2xEULFsD.jpg" width="600" alt="生物機械天使：太空大教堂變身">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6735)**
 
@@ -1725,19 +1725,19 @@ Audio: epic celestial orchestral score, angelic choir, deep mechanical resonance
 **作者:** [simeon-sanai](https://x.com/Naiknelofar788) | **來源:** [Link](https://x.com/Naiknelofar788/status/2072313649222517140) | **發布時間:** Jul 1, 2026
 
 ---
-### Fantasy Warrior Transformation Sequence
+### 奇幻戰士變身序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-fidelity cinematic prompt for a continuous fantasy action sequence featuring an East Asian warrior woman's transformation on a volcanic battlefield.
+> 這是一個高保真電影級提示詞，用於描述一位東亞女戰士在火山戰場上變身的連續奇幻動作序列。
 
 #### 📝 提示詞
 
 ```
-A continuous cinematic fantasy action sequence of a young East Asian warrior woman. She is crawling on a cracked icy battlefield, desperately holding up a glowing teardrop-shaped red crystal amulet set in a gold crescent. Suddenly, a massive surge of fiery energy explodes from the crystal, instantly shattering the ice and turning the entire landscape into a volcanic crater filled with flowing magma and ruined stone pillars. The woman levitates high into the air as intense, swirling vortices of fire wrap around her body. In mid-air, the flames materialize into a highly detailed crimson and gold fantasy dress with metallic arm guards and a flowing cape. A blazing crown of pure fire forms on her forehead, and her eyes snap open, glowing with intense, fiery heart-shaped patterns. She raises her hand to summon an intricate, giant golden magical circle in front of her, unleashing a catastrophic, blinding explosion of fire that obliterates everything in sight. 8K ultra-realism, high-fidelity VFX, dynamic camera angles, cinematic lighting, and epic scale.
+一段連續的電影級奇幻動作序列，主角是一位年輕的東亞女戰士。她正爬行在破碎的冰封戰場上，絕望地舉起一顆鑲嵌在金色新月中的發光淚滴狀紅色水晶護身符。突然，一股巨大的火焰能量從水晶中爆發，瞬間震碎了冰層，將整個地貌變成了充滿流動岩漿和廢棄石柱的火山坑。女子懸浮在半空中，強烈且旋轉的火流漩渦纏繞著她的身體。在半空中，火焰幻化成一件細節精緻的緋紅與金色奇幻禮服，配有金屬護臂和飄逸的斗篷。一頂純火打造的燃燒王冠在她額頭形成，她的雙眼猛然睜開，閃爍著強烈的心形火焰圖案。她舉起手，在身前召喚出一個複雜的巨大金色魔法陣，釋放出毀滅性的刺眼火光，將視線內的一切夷為平地。8K 超寫實主義、高保真 VFX、動態攝影角度、電影級燈光與史詩級規模。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072306060656877568/pu/img/5KqqnDimee6Gzbf8.jpg" width="600" alt="Fantasy Warrior Transformation Sequence">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072306060656877568/pu/img/5KqqnDimee6Gzbf8.jpg" width="600" alt="奇幻戰士變身序列">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6729)**
 
@@ -2497,38 +2497,36 @@ Agent 閃避、轉向並持續移動，同時保全團隊逐漸逼近。側拍�
 **作者:** [DeCat](https://x.com/DeCat2025) | **來源:** [Link](https://x.com/DeCat2025/status/2072116580046282974) | **發布時間:** Jul 1, 2026
 
 ---
-### Tokyo Summer Travel Vlog Montage
+### 東京夏季旅遊 Vlog 剪輯
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed multi-shot prompt for creating a 15-second travel vlog montage in Tokyo with 10 consistent scenes featuring a character in iconic city locations.
+> 一份詳細的多鏡頭提示詞，用於創作一段 15 秒的東京旅遊 Vlog 剪輯，包含 10 個連貫場景，並由同一位角色在東京標誌性地點出鏡。
 
 #### 📝 提示詞
 
 ```
-Use the reference grid image as the source of the same girl and her 10 summer travel scenes in Tokyo.
-Create a single 15-second feel-good travel-vlog montage, 16:9 horizontal, flowing through all 10 scenes
-in order as quick handheld phone shots, about 1.5 seconds each, snappy cuts on the beat.
-The same girl in every shot with consistent face and hairstyle; in each shot her outfit matches that scene in the reference.
-Throughout, she radiates excitement and joy — bright eyes, easy smiles, playful energy — and each shot shows off
-what makes that spot special. Authentic smartphone look, natural ambient light, subtle grain, light handheld motion.
-Bright, joyful sightseeing music that conveys the fun of travel, around 125 bpm.
+請使用參考網格圖作為素材，確保同一位女孩及其 10 個東京夏季旅遊場景保持一致。
+創作一段 15 秒、氛圍愉悅的旅遊 Vlog 剪輯，採用 16:9 橫向比例，流暢串聯所有 10 個場景，每個鏡頭約 1.5 秒，呈現快速的手持手機拍攝感，並配合節奏進行俐落剪輯。
+每個鏡頭中的女孩需保持一致的臉部特徵與髮型；她的服裝在每個鏡頭中皆須與參考圖中的場景相符。
+全程展現她興奮與快樂的神情——明亮的雙眼、輕鬆的微笑、活潑的能量——且每個鏡頭都要展現該地點的獨特之處。呈現真實的智慧型手機拍攝質感、自然環境光、細微的顆粒感以及輕微的手持晃動。
+搭配明亮、歡快的觀光音樂，傳達旅遊的樂趣，節奏約 125 bpm。
 
-Shot 1 — Inokashira pond swan boat: she laughs with delight and rocks the pedal boat, sparkling water and a swan boat gliding behind, warm sun flare.
-Shot 2 — cafe matcha kakigori: eyes lighting up, she lifts a spoonful of fluffy shaved ice toward the camera and beams, the towering dessert in frame.
-Shot 3 — Harmonica Yokocho alley at night: she strolls through the glowing red-lantern alley, glances back with an excited grin, lively izakaya signs around her.
-Shot 4 — hotel mirror selfie: a happy, relaxed mirror selfie, she tilts her head and smiles softly, calm window light, cozy room mood.
-Shot 5 — summer festival night: she bites a bright candy apple and bursts into a giggle, swaying paper lanterns and a buzzing crowd behind her.
-Shot 6 — golden-hour window selfie: an arm's-length selfie bathed in warm sunset light, soft hair movement, a contented joyful smile.
-Shot 7 — ivy-covered Ghibli-style museum: she gazes up in wonder, spinning slightly to take it all in as the camera tilts up the lush green facade.
-Shot 8 — Inokashira park path: she crouches with a delighted laugh and points as a small squirrel scampers by, dappled sunlight, playful energy.
-Shot 9 — Harajuku shop window with bubble tea: she sips happily through a straw, her reflection shimmering in the glass, the bustling colorful street behind.
-Shot 10 — on the train home: a calm, satisfied selfie, hand on her cheek, city skyline streaking past the window, a soft fulfilled smile.
+鏡頭 1 — 井之頭公園天鵝船：她開心地大笑並搖晃著腳踏船，波光粼粼的水面與後方滑行的天鵝船，伴隨溫暖的陽光光暈。
+鏡頭 2 — 咖啡廳抹茶刨冰：她雙眼發亮，將一匙蓬鬆的刨冰舉向鏡頭並燦爛微笑，高聳的甜點在畫面中呈現。
+鏡頭 3 — 夜晚的口琴橫丁小巷：她走過掛滿紅色燈籠的巷弄，回頭露出一抹興奮的笑容，周圍是熱鬧的居酒屋招牌。
+鏡頭 4 — 飯店鏡子自拍：一張快樂、放鬆的鏡子自拍，她歪著頭輕輕微笑，柔和的窗光，營造出舒適的房間氛圍。
+鏡頭 5 — 夏日祭典夜晚：她咬了一口鮮豔的蘋果糖並咯咯大笑，身後是搖曳的紙燈籠與喧鬧的人群。
+鏡頭 6 — 黃金時刻窗邊自拍：在溫暖夕陽照射下的手持自拍，頭髮輕柔擺動，帶著滿足且快樂的微笑。
+鏡頭 7 — 長滿常春藤的吉卜力風格博物館：她驚嘆地抬頭仰望，輕輕轉身環顧四周，鏡頭向上平移拍攝茂密的綠色外牆。
+鏡頭 8 — 井之頭公園小徑：她開心地蹲下，指著一隻跑過的小松鼠，斑駁的陽光灑落，充滿活潑的能量。
+鏡頭 9 — 原宿商店櫥窗與珍珠奶茶：她開心地用吸管啜飲，倒影在玻璃上閃爍，背景是繁華多彩的街道。
+鏡頭 10 — 回家的電車上：一張平靜、滿足的自拍，手托著臉頰，城市天際線從窗外飛逝而過，臉上帶著溫柔且充實的微笑。
 
-Smooth energetic flow from shot to shot, consistent color and grain throughout, upbeat happy travel-diary mood.
+鏡頭間保持流暢且充滿活力的轉換，全片色調與顆粒感一致，營造出輕快、愉悅的旅遊日記氛圍。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072069190790561792/img/rHCf0Al61tzVOv2a.jpg" width="600" alt="Tokyo Summer Travel Vlog Montage">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072069190790561792/img/rHCf0Al61tzVOv2a.jpg" width="600" alt="東京夏季旅遊 Vlog 剪輯">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=6730)**
 
@@ -3602,6 +3600,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-03T07:42:17.027Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-03T10:55:42.794Z</sub>
 
 </div>

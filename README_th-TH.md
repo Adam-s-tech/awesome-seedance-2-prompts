@@ -367,26 +367,26 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
-### Fashion Editorial Aesthetic Vlog
+### วล็อกสไตล์แฟชั่นเอดิทอเรียล
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional vlog-style prompt for generating high-fashion content with stylish cuts, soft cinematic lighting, and consistent character presentation.
+> พรอมต์สไตล์วล็อกระดับมืออาชีพสำหรับการสร้างคอนเทนต์แฟชั่นชั้นสูง ด้วยการตัดต่อที่มีสไตล์ แสงแบบซินีมาติกนุ่มนวล และการนำเสนอตัวละครที่คงเส้นคงวา
 
 #### 📝 พรอมต์
 
 ```
-15 seconds, 16:9 vertical, quick stylish cuts between segments (4-5 short beats), glossy aesthetic-vlog pacing, smooth whip-pan or snap transitions between each.
-Global setup: High fashion aesthetic content-creator video. Soft glowing key light, shallow depth of field, slightly warm cinematic color grade. Subject: a confident young woman, stylish trendy outfit, changes look/setting slightly between beats (different lighting or background each cut, same general styling identity). Ambient sound: moody downtempo pop/R&B instrumental, subtle beat drops synced to cut transitions.
-[0:00–0:03] Close-up, soft warm light, she looks off to the side with a calm confident expression, then slowly turns to meet the camera. Slow push-in.
-[0:03–0:06] Cut to a different angle/setting, cooler blue-toned lighting, she runs a hand through her hair, subtle self-assured smile, gaze steady on camera.
-[0:06–0:09] Cut to outdoor golden-hour lighting, she walks slowly toward camera, wind gently moving her hair and clothing, confident relaxed stride.
-[0:09–0:12] Cut to close-up under neon-tinted lighting, she glances down then back up at camera with a slow deliberate look, beat-synced snap transition.
-[0:12–0:15] Final cut, soft studio lighting, she gives a small satisfied smile directly to camera, holds the moment, slow fade to black.
-Style: glossy editorial color grade, soft cinematic lighting throughout, confident expressive body language, no text overlays, no distorted anatomy or facial features. Constraints: consistent styling identity across cuts (even as background/lighting changes), natural realistic movement, transitions synced to the beat of the music, believable naturalistic expressions throughout.
+ความยาว 15 วินาที, อัตราส่วน 16:9 แนวตั้ง, ตัดต่อสไตล์ฉับไว (4-5 จังหวะสั้นๆ), เดินเรื่องแบบวล็อกที่มีความเงางาม, เปลี่ยนฉากด้วยการแพนกล้องแบบรวดเร็ว (whip-pan) หรือการตัดสลับที่ลื่นไหล
+ภาพรวม: วิดีโอคอนเทนต์ครีเอเตอร์สไตล์แฟชั่นชั้นสูง ใช้แสงหลักแบบนุ่มนวล (soft glowing key light), ระยะชัดตื้น (shallow depth of field), ปรับสีแบบซินีมาติกโทนอุ่นเล็กน้อย ตัวละคร: หญิงสาววัยรุ่นที่มีความมั่นใจ สวมชุดแฟชั่นนำสมัย เปลี่ยนลุคหรือสถานที่เล็กน้อยในแต่ละจังหวะ (แสงหรือฉากหลังต่างกันในแต่ละคัต แต่ยังคงสไตล์โดยรวมไว้เหมือนเดิม) เสียงประกอบ: เพลงบรรเลงแนว downtempo pop/R&B ที่ให้ความรู้สึกเท่ๆ มีจังหวะบีทที่สอดคล้องกับการตัดต่อ
+[0:00–0:03] ภาพระยะใกล้ แสงโทนอุ่นนุ่มนวล เธอมองไปด้านข้างด้วยสีหน้ามั่นใจและสงบนิ่ง จากนั้นค่อยๆ หันมาสบตากับกล้อง กล้องค่อยๆ ซูมเข้า
+[0:03–0:06] ตัดไปที่มุม/สถานที่อื่น แสงโทนเย็นอมฟ้า เธอใช้มือเสยผม ยิ้มอย่างมั่นใจในตัวเอง สายตามองตรงมาที่กล้องอย่างแน่วแน่
+[0:06–0:09] ตัดไปที่แสงช่วงโกลเด้นอาวร์กลางแจ้ง เธอเดินช้าๆ เข้าหากล้อง ลมพัดผมและเสื้อผ้าเบาๆ ท่าเดินดูมั่นใจและผ่อนคลาย
+[0:09–0:12] ตัดไปที่ภาพระยะใกล้ภายใต้แสงนีออน เธอเหลือบมองลงแล้วเงยหน้าขึ้นมองกล้องด้วยสายตาที่ช้าและตั้งใจ มีการตัดสลับตามจังหวะเพลง
+[0:12–0:15] คัตสุดท้าย แสงสตูดิโอนุ่มนวล เธอยิ้มอย่างพึงพอใจให้กล้อง ค้างภาพไว้ครู่หนึ่ง แล้วค่อยๆ เฟดเป็นสีดำ
+สไตล์: ปรับสีแบบ editorial ที่มีความเงางาม, แสงแบบซินีมาติกนุ่มนวลตลอดทั้งวิดีโอ, ภาษาท่าทางที่มั่นใจและสื่ออารมณ์, ไม่มีข้อความบนหน้าจอ, ไม่มีปัญหาเรื่องสรีระหรือใบหน้าผิดเพี้ยน ข้อจำกัด: รักษาเอกลักษณ์ของสไตล์ให้คงที่ในทุกคัต (แม้ฉากหลัง/แสงจะเปลี่ยนไป), การเคลื่อนไหวที่ดูเป็นธรรมชาติสมจริง, การเปลี่ยนฉากที่สอดคล้องกับจังหวะดนตรี, สีหน้าท่าทางที่ดูเป็นธรรมชาติและน่าเชื่อถือตลอดทั้งวิดีโอ
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072787072960851968/img/jqmc52nK2J2duWVX.jpg" width="600" alt="Fashion Editorial Aesthetic Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072787072960851968/img/jqmc52nK2J2duWVX.jpg" width="600" alt="วล็อกสไตล์แฟชั่นเอดิทอเรียล">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=6734)**
 
@@ -490,51 +490,51 @@ Style: glossy editorial color grade, soft cinematic lighting throughout, confide
 **ผู้เขียน:** [BMX](https://x.com/bmx_ai13) | **แหล่งที่มา:** [Link](https://x.com/bmx_ai13/status/2072809793429876745) | **เผยแพร่เมื่อ:** Jul 2, 2026
 
 ---
-### POV Suspense Anime Chase
+### POV ฉากไล่ล่าสไตล์อนิเมะสุดระทึก
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A cinematic Japanese anime prompt for a suspenseful point-of-view chase scene between a girl and a cat, featuring high-quality 2D animation and dynamic camera movements.
+> พรอมต์อนิเมะญี่ปุ่นสไตล์ภาพยนตร์สำหรับฉากไล่ล่ามุมมองบุคคลที่หนึ่งสุดระทึกระหว่างเด็กสาวกับแมว โดดเด่นด้วยงานภาพ 2D คุณภาพสูงและการเคลื่อนไหวกล้องแบบไดนามิก
 
 #### 📝 พรอมต์
 
 ```
-[Main Character] = Girl with black hair
-[Target/Subject] = White cat
-[Setting] = Inside a large, dark house with suspenseful elements
+[ตัวละครหลัก] = เด็กสาวผมดำ
+[เป้าหมาย/ตัวละคร] = แมวสีขาว
+[สถานที่] = ภายในบ้านหลังใหญ่ที่มืดมิดพร้อมองค์ประกอบที่ชวนระทึกขวัญ
 
-[Video Style]
-15 seconds. Japanese full-color anime. High-density 2D animation with a 500 million yen budget feel. Fast cuts, strong low angles, rapid push-ins, lateral tracking, match cuts. No subtitles, no watermarks, with BGM. Sounds include footsteps, breathing, rustling clothes, ambient noise, and one short final phrase.
+[สไตล์วิดีโอ]
+ความยาว 15 วินาที อนิเมะญี่ปุ่นเต็มรูปแบบ งานภาพ 2D ความละเอียดสูงให้ความรู้สึกเหมือนใช้ทุนสร้าง 500 ล้านเยน ตัดฉับไว มุมกล้องต่ำที่ทรงพลัง การซูมเข้าอย่างรวดเร็ว การแพนกล้องด้านข้าง และการตัดต่อแบบต่อเนื่อง (match cuts) ไม่มีคำบรรยาย ไม่มีลายน้ำ พร้อมดนตรีประกอบ เสียงประกอบประกอบด้วยเสียงฝีเท้า เสียงลมหายใจ เสียงเสื้อผ้าเสียดสี เสียงบรรยากาศรอบข้าง และประโยคสั้นๆ ในตอนท้าย
 
-[Visual Composition]
-Subjective POV camera of the [Target/Subject], being chased by the [Main Character]. Instead of a normal chase, the [Main Character] doesn't just run but gets ahead of the camera. An [Abnormal Gimmick] connects all shots, and finally, the [Main Character] wins quietly close to the lens.
+[องค์ประกอบภาพ]
+กล้อง POV มุมมองบุคคลที่หนึ่งของ [เป้าหมาย/ตัวละคร] ที่กำลังถูก [ตัวละครหลัก] ไล่ล่า แทนที่จะเป็นการไล่ล่าแบบปกติ [ตัวละครหลัก] จะไม่เพียงแค่วิ่งตามแต่จะดักหน้ากล้องด้วย มี [ลูกเล่นผิดปกติ] เชื่อมโยงทุกช็อตเข้าด้วยกัน และในตอนท้าย [ตัวละครหลัก] จะเป็นฝ่ายชนะอย่างเงียบๆ ใกล้กับหน้าเลนส์
 
-[Shot 1: 2-Second Hook]
-Low POV. Starts from the floor of the [Setting]. Only the feet of the [Main Character] enter the edge of the frame. An [Abnormal Gimmick] crosses the foreground for a moment.
+[ช็อตที่ 1: 2 วินาทีแรกเพื่อดึงดูดความสนใจ]
+มุมกล้อง POV ต่ำ เริ่มจากพื้นของ [สถานที่] เห็นเพียงเท้าของ [ตัวละครหลัก] เข้ามาที่ขอบเฟรม มี [ลูกเล่นผิดปกติ] เคลื่อนผ่านฉากหน้าไปชั่วขณะ
 
-[Shot 2: Escape Starts]
-[Target/Subject] suddenly retreats to flee. The camera slides near the floor with slight handheld shakiness. Footsteps speed up.
+[ช็อตที่ 2: เริ่มการหลบหนี]
+[เป้าหมาย/ตัวละคร] ถอยหนีอย่างกะทันหัน กล้อง Slides ไปใกล้พื้นพร้อมความสั่นไหวเล็กน้อยแบบถือถ่าย เสียงฝีเท้าเร่งความเร็วขึ้น
 
-[Shot 3: Getting Ahead]
-As soon as turning a corner, the [Main Character] is already standing in the middle of a distant hallway. The camera stops for a moment then escapes to the side.
+[ช็อตที่ 3: การดักหน้า]
+ทันทีที่เลี้ยวหัวมุม [ตัวละครหลัก] ยืนรออยู่กลางโถงทางเดินไกลๆ แล้ว กล้องหยุดนิ่งชั่วครู่ก่อนจะหลบหนีไปด้านข้าง
 
-[Shot 4: Under Obstacles]
-Passing through low gaps like tables, sofas, or handrails. The [Abnormal Gimmick] glows deep in the gap, indicating the pursuit direction.
+[ช็อตที่ 4: ลอดผ่านสิ่งกีดขวาง]
+เคลื่อนผ่านช่องแคบๆ เช่น ใต้โต๊ะ โซฟา หรือราวบันได [ลูกเล่นผิดปกติ] ส่องแสงสว่างวาบอยู่ลึกเข้าไปในช่อง เพื่อบ่งบอกทิศทางการไล่ล่า
 
-[Shot 5: High Angle Bird's Eye]
-High-speed cut from directly above. Shows the escape route of the [Target/Subject].
+[ช็อตที่ 5: มุมสูงแบบ Bird's Eye]
+ตัดภาพความเร็วสูงจากมุมตรงบนศีรษะ แสดงเส้นทางการหลบหนีของ [เป้าหมาย/ตัวละคร]
 
-[Shot 6: Moment of Relief]
-[Target/Subject] hides behind an object. Sound cuts out. Camera is fixed, only the back of the screen quietly darkens.
+[ช็อตที่ 6: ช่วงเวลาแห่งความโล่งใจ]
+[เป้าหมาย/ตัวละคร] ซ่อนตัวอยู่หลังวัตถุ เสียงเงียบลง กล้องอยู่นิ่ง มีเพียงด้านหลังของหน้าจอที่ค่อยๆ มืดลงอย่างเงียบเชียบ
 
-[Shot 7: Discovery]
-Focus shifts from foreground to background, where the [Main Character] is located. The [Main Character] doesn't move much, just looks here with their eyes.
+[ช็อตที่ 7: การค้นพบ]
+โฟกัสเปลี่ยนจากฉากหน้าไปที่ฉากหลังซึ่ง [ตัวละครหลัก] อยู่ตรงนั้น [ตัวละครหลัก] ไม่ขยับตัวมากนัก เพียงแค่จ้องมองมาที่นี่ด้วยสายตา
 
-[Shot 8: Final Word]
-Rapid close-up. The [Main Character] says 'Found you♪' in a short, cute voice very close to the lens. The final frame is a still image with a smile.
+[ช็อตที่ 8: คำพูดสุดท้าย]
+โคลสอัพอย่างรวดเร็ว [ตัวละครหลัก] พูดว่า 'เจอตัวแล้ว♪' ด้วยน้ำเสียงสั้นๆ น่ารักใกล้กับหน้าเลนส์มาก เฟรมสุดท้ายเป็นภาพนิ่งพร้อมรอยยิ้ม
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072030784333168640/img/940Q6ySKRPVaswlK.jpg" width="600" alt="POV Suspense Anime Chase">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072030784333168640/img/940Q6ySKRPVaswlK.jpg" width="600" alt="POV ฉากไล่ล่าสไตล์อนิเมะสุดระทึก">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=6727)**
 
@@ -664,21 +664,21 @@ Industrial surrealism, การผลิตความฝัน, การจ�
 **ผู้เขียน:** [LudovicCreator](https://x.com/LudovicCreator) | **แหล่งที่มา:** [Link](https://x.com/LudovicCreator/status/2072742121673494808) | **เผยแพร่เมื่อ:** Jul 2, 2026
 
 ---
-### Luxury Macro Transformation Sequence
+### ลำดับการเปลี่ยนผ่านแบบมาโครสุดหรู
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for Seedance 2.0 designed to create a luxury macro commercial sequence using storyboard panel references.
+> พรอมต์วิดีโอระดับภาพยนตร์สำหรับ Seedance 2.0 ที่ออกแบบมาเพื่อสร้างลำดับโฆษณาแบบมาโครสุดหรูโดยใช้การอ้างอิงจากสตอรี่บอร์ด
 
 #### 📝 พรอมต์
 
 ```
-Use @ Image as storyboard reference for cinematic sequence. use as first shot 01
+ใช้ @ Image เป็นการอ้างอิงสตอรี่บอร์ดสำหรับลำดับภาพยนตร์ ใช้เป็นช็อตแรก 01
 
-A 15-second cinematic macro transformation sequence transitioning through all 9 storyboard panels in strict order. Visual style: luxury macro commercial,
+ลำดับการเปลี่ยนผ่านแบบมาโครระดับภาพยนตร์ความยาว 15 วินาที โดยเปลี่ยนผ่านครบทั้ง 9 แผงสตอรี่บอร์ดตามลำดับอย่างเคร่งครัด สไตล์ภาพ: โฆษณาแบบมาโครสุดหรู
 ```
 
-<img src="https://cms-assets.youmind.com/media/1783064372965_tks6lw_HMPV9GHWkAAH3iI.jpg" width="600" alt="Luxury Macro Transformation Sequence">
+<img src="https://cms-assets.youmind.com/media/1783064372965_tks6lw_HMPV9GHWkAAH3iI.jpg" width="600" alt="ลำดับการเปลี่ยนผ่านแบบมาโครสุดหรู">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=6726)**
 
@@ -704,41 +704,41 @@ A 15-second cinematic macro transformation sequence transitioning through all 9 
 **ผู้เขียน:** [Magnific](https://x.com/magnific) | **แหล่งที่มา:** [Link](https://x.com/magnific/status/2072731418527170995) | **เผยแพร่เมื่อ:** Jul 2, 2026
 
 ---
-### 1980s Tokyo Bubble Era VHS Video Prompt
+### พรอมต์วิดีโอ VHS ยุคฟองสบู่โตเกียวปี 1980
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive cinematic prompt designed for Seedance, creating a nostalgic 1980s Tokyo street scene with a distinct VHS home-video aesthetic and detailed character movement across multiple time-coded segments.
+> พรอมต์ภาพยนตร์ที่ครอบคลุมซึ่งออกแบบมาสำหรับ Seedance เพื่อสร้างฉากถนนในโตเกียวช่วงปี 1980 ที่เต็มไปด้วยความโหยหาอดีต พร้อมด้วยสุนทรียศาสตร์แบบวิดีโอโฮมมูฟวี่ VHS และรายละเอียดการเคลื่อนไหวของตัวละครที่ชัดเจนในแต่ละช่วงเวลา
 
 #### 📝 พรอมต์
 
 ```
-Main subject: a beautiful young Japanese woman, early 20s, delicate pretty features, sleek glossy black hair, long and smooth with soft side-swept bangs (NOT permed, NOT frizzy), tasteful natural makeup. 1980s Tokyo street fashion — a bright oversized blazer over a high-waisted skirt, gold hoop earrings, charming warm expression. Maintain the exact same identity, hairstyle, and outfit throughout.
+ตัวละครหลัก: หญิงสาวชาวญี่ปุ่นหน้าตาสวยงาม อายุประมาณ 20 ปีต้นๆ โครงหน้าสวยหวาน ผมสีดำเงางามสลวยยาวตรงพร้อมหน้าม้าปัดข้าง (ไม่ดัดลอน ไม่ฟู) แต่งหน้าโทนธรรมชาติอย่างมีรสนิยม แฟชั่นถนนโตเกียวปี 1980 — สวมเสื้อเบลเซอร์ตัวโคร่งสีสดใสทับกระโปรงเอวสูง ใส่ต่างหูห่วงทอง แสดงสีหน้ายิ้มแย้มอบอุ่น รักษาเอกลักษณ์ ทรงผม และชุดเดิมไว้ตลอดทั้งคลิป
 
-Visual Style: authentic 1980s VHS home-video look — heavy tape grain, visible scanlines, chromatic color bleeding, blooming highlights, warm faded nostalgic colors, a small on-screen date stamp in the corner, occasional soft tracking wobble. Strong retro-vintage feeling.
+สไตล์ภาพ: ให้ความรู้สึกเหมือนวิดีโอโฮมมูฟวี่ VHS ยุค 1980 ของแท้ — มีเกรนของเทปที่ชัดเจน เส้นสแกนไลน์ (scanlines) สีที่เหลื่อมกันเล็กน้อย แสงฟุ้งกระจาย สีสันโทนอุ่นที่ดูซีดจางตามกาลเวลา มีตัวเลขวันที่ปรากฏที่มุมจอ และมีการสั่นไหวของภาพเล็กน้อยเป็นระยะ ให้ความรู้สึกย้อนยุคที่สมจริง
 
-Camera Style: 1980s camcorder held by a friend, MOSTLY STEADY with only a gentle natural float — light sway, no violent shaking, no fast whip movements. Slow casual reframing.
+สไตล์กล้อง: เหมือนกล้องวิดีโอปี 1980 ที่ถือโดยเพื่อน โดยส่วนใหญ่ภาพจะนิ่ง มีเพียงการเคลื่อนไหวที่เป็นธรรมชาติเล็กน้อย เช่น การแกว่งตัวเบาๆ ไม่มีการสั่นไหวที่รุนแรง ไม่มีการแพนกล้องที่เร็วเกินไป เป็นการปรับเฟรมภาพอย่างช้าๆ และเป็นกันเอง
 
-FIRST HALF — DAYTIME (bustling bubble-era Tokyo streets):
-00:00–00:02 A busy 1980s Shibuya daytime street. She walks toward the camera through period pedestrians, boxy cars and hand-painted shop signs behind her, smiling. HARD CUT.
-00:02–00:04 Outside a record shop, she flips through vinyl records, then grabs a canned drink from a retro vending machine. HARD CUT.
-00:04–00:06 A quiet Showa backstreet with potted plants and a pay phone; she crouches to pet a stray cat. HARD CUT.
-00:06–00:08 A wide crosswalk under an elevated train line, city-pop energy, she waits and glances at the camera. HARD CUT.
+ครึ่งแรก — กลางวัน (ถนนโตเกียวที่คึกคักในยุคฟองสบู่):
+00:00–00:02 ถนนชิบูย่าที่วุ่นวายในช่วงกลางวันปี 1980 เธอเดินตรงมาที่กล้องท่ามกลางผู้คนในยุคนั้น รถยนต์ทรงเหลี่ยม และป้ายร้านค้าที่วาดด้วยมือด้านหลัง พร้อมรอยยิ้ม ตัดภาพฉับ (HARD CUT)
+00:02–00:04 หน้าตู้เพลง เธอเลือกดูแผ่นเสียงไวนิล จากนั้นหยิบเครื่องดื่มกระป๋องจากตู้ขายของอัตโนมัติย้อนยุค ตัดภาพฉับ (HARD CUT)
+00:04–00:06 ซอยเล็กๆ ในยุคโชวะที่มีกระถางต้นไม้และตู้โทรศัพท์สาธารณะ เธอคุกเข่าลงเพื่อเล่นกับแมวจรจัด ตัดภาพฉับ (HARD CUT)
+00:06–00:08 ทางม้าลายกว้างใต้ทางรถไฟยกระดับ บรรยากาศแบบซิตี้ป๊อป เธอหยุดรอและหันมามองกล้อง ตัดภาพฉับ (HARD CUT)
 
-SECOND HALF — NIGHT (dazzling Shinjuku / Roppongi neon):
-00:08–00:10 A neon-drenched Shinjuku Kabukicho alley, glowing kanji signboards everywhere, she walks looking up at the bright lights. HARD CUT.
-00:10–00:12 A Roppongi crossing at night, dazzling neon, taxis passing, she laughs toward the camera as light reflections wash over her face. HARD CUT.
-00:12–00:13 Close shot under a huge glowing neon sign, colorful light on her face. HARD CUT.
-00:13–00:15 She walks away down a vibrant neon street, glances back with a small warm smile, then the recording cuts to VHS static and black.
+ครึ่งหลัง — กลางคืน (แสงนีออนอันตระการตาของชินจูกุ / รปปงงิ):
+00:08–00:10 ตรอกคาบูกิโจในชินจูกุที่เต็มไปด้วยแสงนีออน ป้ายไฟตัวอักษรคันจิสว่างไสวไปทั่ว เธอเดินและแหงนมองแสงไฟที่สว่างไสว ตัดภาพฉับ (HARD CUT)
+00:10–00:12 ทางแยกในรปปงงิยามค่ำคืน แสงนีออนระยิบระยับ รถแท็กซี่วิ่งผ่านไปมา เธอหัวเราะให้กล้องขณะที่แสงไฟสะท้อนบนใบหน้าของเธอ ตัดภาพฉับ (HARD CUT)
+00:12–00:13 ภาพระยะใกล้ใต้ป้ายไฟนีออนขนาดใหญ่ แสงสีสันสดใสตกกระทบบนใบหน้าของเธอ ตัดภาพฉับ (HARD CUT)
+00:13–00:15 เธอเดินจากไปตามถนนที่เต็มไปด้วยแสงนีออน หันกลับมามองพร้อมรอยยิ้มอบอุ่นเล็กน้อย จากนั้นบันทึกภาพตัดเป็นสัญญาณรบกวนแบบ VHS และจอดำ
 
-Environment details throughout: retro vending machines, glowing neon kanji signboards, pay phones, boxy 1980s taxis and kei cars, elevated trains, arcade lights, izakaya paper lanterns, dense overhead wires — nostalgic bubble-era Tokyo.
+รายละเอียดสภาพแวดล้อมโดยรวม: ตู้ขายของอัตโนมัติย้อนยุค ป้ายไฟนีออนตัวอักษรคันจิ ตู้โทรศัพท์สาธารณะ รถแท็กซี่และรถเคย์คาร์ทรงเหลี่ยมปี 1980 รถไฟยกระดับ ไฟจากร้านเกมอาร์เคด โคมไฟกระดาษร้านอิซากายะ สายไฟระโยงระยาง — โตเกียวยุคฟองสบู่ที่แสนโหยหา
 
-Audio: natural ambient only — city crowd, passing trains, traffic, arcade beeps, faint 1980s city-pop drifting from a storefront, footsteps. No narration, no added soundtrack.
+เสียง: เสียงบรรยากาศธรรมชาติเท่านั้น — เสียงผู้คนในเมือง เสียงรถไฟวิ่งผ่าน เสียงการจราจร เสียงสัญญาณจากร้านเกมอาร์เคด เสียงเพลงซิตี้ป๊อปปี 1980 แว่วมาจากหน้าร้าน และเสียงฝีเท้า ไม่มีการบรรยาย ไม่มีการใส่เพลงประกอบ
 
-Goal: a beautiful, nostalgic 1980s Tokyo day-to-night street video that feels like a treasured VHS home movie from Japan's bubble era.
+เป้าหมาย: วิดีโอถนนโตเกียวที่สวยงามและเต็มไปด้วยความโหยหาอดีตในช่วงปี 1980 ตั้งแต่กลางวันถึงกลางคืน ให้ความรู้สึกเหมือนเป็นวิดีโอโฮมมูฟวี่ VHS อันล้ำค่าจากยุคฟองสบู่ของญี่ปุ่น
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072712250092302336/img/ZE1gAAUVygL_T9L4.jpg" width="600" alt="1980s Tokyo Bubble Era VHS Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072712250092302336/img/ZE1gAAUVygL_T9L4.jpg" width="600" alt="พรอมต์วิดีโอ VHS ยุคฟองสบู่โตเกียวปี 1980">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=6733)**
 
@@ -764,42 +764,42 @@ Goal: a beautiful, nostalgic 1980s Tokyo day-to-night street video that feels li
 **ผู้เขียน:** [Generator](https://x.com/groovestreetgen) | **แหล่งที่มา:** [Link](https://x.com/groovestreetgen/status/2072697831467675784) | **เผยแพร่เมื่อ:** Jul 2, 2026
 
 ---
-### Epic Anime Dragon Rider Battle
+### ศึกมหากาพย์นักรบมังกรสไตล์อนิเมะ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic anime prompt for generating an epic aerial battle between a dragon rider and a swarm of wyverns, featuring MAPPA-style sakuga and dynamic camera work.
+> พรอมต์อนิเมะแนวภาพยนตร์ที่มีรายละเอียดสูง สำหรับสร้างภาพการต่อสู้ทางอากาศสุดอลังการระหว่างนักรบมังกรและฝูงไวเวิร์น โดดเด่นด้วยงานภาพแบบ Sakuga สไตล์ MAPPA และมุมกล้องที่เคลื่อนไหวอย่างมีพลัง
 
 #### 📝 พรอมต์
 
 ```
-A fearless dragon rider with piercing blue eyes, flowing red scarf and lightweight fantasy armor, mounted on a colossal sapphire dragon, rendered in ultra-premium Japanese anime rendering, MAPPA-inspired sakuga, sharp manga linework, vibrant cel shading, dynamic motion smears and cinematic anime lighting + 
-- Dives through thunderclouds above a kingdom besieged by thousands of flying wyverns, camera racing alongside the dragon's wings while lightning illuminates the battlefield below; 
-- Dragon tears through enemy creatures while the rider jumps between airborne monsters, dual blades flashing through the sky, impossible aerial combat unfolding through orbit shots and speed-line transitions; 
-- Dragon and rider combine for a final spiral dive attack, creating a gigantic vortex shockwave that annihilates the entire invading swarm, ending with the kingdom saved beneath golden sunlight while the dragon roars victoriously above the clouds
-Heroic fantasy anime masterpiece, airborne sakuga combat, breathtaking final payoff.
+นักรบมังกรผู้กล้าหาญที่มีดวงตาสีฟ้าคมกริบ สวมผ้าพันคอสีแดงพลิ้วไหวและชุดเกราะแฟนตาซีน้ำหนักเบา ขี่อยู่บนหลังมังกรไพลินขนาดมหึมา ถ่ายทอดด้วยงานภาพอนิเมะญี่ปุ่นระดับพรีเมียม งานภาพแบบ Sakuga ที่ได้รับแรงบันดาลใจจาก MAPPA เส้นสายคมชัดแบบมังงะ การลงสีแบบเซลเฉดที่สดใส เอฟเฟกต์ภาพเคลื่อนไหวแบบ Motion Blur และแสงสีสไตล์อนิเมะระดับภาพยนตร์ + 
+- พุ่งทะยานผ่านเมฆฝนเหนืออาณาจักรที่ถูกล้อมด้วยฝูงไวเวิร์นหลายพันตัว มุมกล้องเคลื่อนที่ขนานไปกับปีกมังกรในขณะที่สายฟ้าส่องสว่างให้เห็นสนามรบเบื้องล่าง 
+- มังกรฉีกกระชากศัตรูในขณะที่นักรบกระโดดสลับไปมาระหว่างสัตว์ประหลาดกลางอากาศ ดาบคู่เปล่งประกายทั่วท้องฟ้า การต่อสู้กลางอากาศที่เหลือเชื่อถูกถ่ายทอดผ่านมุมกล้องแบบหมุนรอบและเส้นสปีดไลน์ 
+- มังกรและนักรบร่วมมือกันใช้ท่าไม้ตายพุ่งดิ่งเป็นเกลียว สร้างคลื่นกระแทกขนาดมหึมาที่กวาดล้างฝูงศัตรูจนสิ้นซาก จบลงด้วยอาณาจักรที่ได้รับการช่วยเหลือภายใต้แสงอาทิตย์สีทอง ในขณะที่มังกรคำรามอย่างผู้ชนะเหนือหมู่เมฆ 
+ผลงานชิ้นเอกอนิเมะแฟนตาซีฮีโร่ การต่อสู้กลางอากาศแบบ Sakuga และบทสรุปที่น่าตื่นตาตื่นใจ
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072696809877590016/pu/img/0v9PxR6OcN7ydM8K.jpg" width="600" alt="Epic Anime Dragon Rider Battle">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072696809877590016/pu/img/0v9PxR6OcN7ydM8K.jpg" width="600" alt="ศึกมหากาพย์นักรบมังกรสไตล์อนิเมะ">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=6725)**
 
 **ผู้เขียน:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **แหล่งที่มา:** [Link](https://x.com/CharaspowerAI/status/2072696836033233178) | **เผยแพร่เมื่อ:** Jul 2, 2026
 
 ---
-### Retro VHS Elevator CCTV Style
+### สไตล์กล้องวงจรปิดในลิฟต์แบบ VHS ย้อนยุค
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A comprehensive video prompt designed to simulate a 90s handheld VHS surveillance recording, featuring a first-person perspective in an elevator with complex character interactions and analog artifacts.
+> วิดีโอพรอมต์ที่ครอบคลุมซึ่งออกแบบมาเพื่อจำลองการบันทึกภาพจากกล้องวงจรปิดด้วยกล้องวิดีโอ VHS แบบถือในยุค 90 โดยนำเสนอมุมมองบุคคลที่หนึ่งภายในลิฟต์ พร้อมการโต้ตอบของตัวละครที่ซับซ้อนและเอฟเฟกต์แบบอะนาล็อก
 
 #### 📝 พรอมต์
 
 ```
-Generate a 9:16 vertical screen retro surveillance video, 15 seconds long (first-person handheld perspective from a mobile phone, mixed with VHS tape damage). The footage must look like a low-res video recorded on a handheld phone in a dim, old elevator, later copied to VHS and played repeatedly, causing heavy damage. No TV frames, no CRT borders, no filming a TV screen; only the full recording itself. The scene is a dim elevator lobby; the doors open, ad screens flicker, and fluorescent lights buzz. Handheld 1st person POV with natural jitter, seeing only my own feet, pants, and hands. Adult Asian female lead (alluring OL, wearing asset HL8o-CobkAAt5LL: alluring figure, tempting gaze, teasing smile, siren pose, slow hip sway) maintains a beautiful, ambiguous smile. Doors open, she pulls me: 'Come in...' I hesitate. A 2D secretary from the ad screen (asset cloudclone28_...) jumps out: 'Master, don't go in!' They argue and scuffle. Timeline: 0-4s wide shot of door opening, siren pose. 4-6s 2D secretary jumps out. 6-9s Lead turns furious, pulls out a chainsaw and a giant hammer to fight. 9-12s I rush in, elevator alarms for overweight. 12-15s Ending: Lead realizes her mistake, apologizes awkwardly; 2D secretary laughs: 'Fatty! I knew you were overweight!' I retreat sweating. Subtitle: 'They didn't want him to stay, the elevator just couldn't close.' Heavy screen tearing and noise. [Lighting] Flickering fluorescent mixed with ad screen light, overexposed character highlights. [Quality] Handheld jitter, focus hunting, low frame rate, VHS scan lines, snow, color crosstalk, analog instability. [Camera] No cinematic moves, only handheld shake and signal drift. [Sound] Muffled microphone audio, whispers, shouting, scuffling, alarm, heavy impacts, distorted like compressed surveillance audio. [Negative] No TV frame, no high def, no modern digital texture, no fish-eye, no realistic 2D character transformation.
+สร้างวิดีโอแนวตั้ง 9:16 สไตล์กล้องวงจรปิดย้อนยุค ความยาว 15 วินาที (มุมมองบุคคลที่หนึ่งแบบถือด้วยมือถือ ผสมผสานกับความเสียหายของเทป VHS) ฟุตเทจต้องดูเหมือนวิดีโอความละเอียดต่ำที่บันทึกด้วยมือถือในลิฟต์เก่าที่มืดสลัว จากนั้นนำไปคัดลอกลงเทป VHS และเปิดซ้ำหลายครั้งจนเกิดความเสียหายอย่างหนัก ห้ามมีกรอบทีวี ห้ามมีขอบจอ CRT ห้ามถ่ายหน้าจอทีวี ให้แสดงเฉพาะภาพบันทึกเต็มจอเท่านั้น ฉากคือโถงลิฟต์ที่มืดสลัว ประตูเปิดออก จอโฆษณากะพริบ และไฟฟลูออเรสเซนต์ส่งเสียงหึ่งๆ มุมมองบุคคลที่หนึ่งแบบถือด้วยมือพร้อมอาการสั่นไหวที่เป็นธรรมชาติ เห็นเพียงเท้า กางเกง และมือของฉัน ตัวละครนำหญิงชาวเอเชีย (สาวออฟฟิศสุดเซ็กซี่ สวมใส่ asset HL8o-CobkAAt5LL: รูปร่างเย้ายวน สายตาชวนหลงใหล ยิ้มยั่วยวน ท่าโพสแบบนางเงือก แกว่งสะโพกช้าๆ) รักษาใบหน้าที่ยิ้มแย้มอย่างมีเลศนัย ประตูเปิดออก เธอฉีดฉัน: 'เข้ามาสิ...' ฉันลังเล เลขาสาว 2D จากจอโฆษณา (asset cloudclone28_...) กระโดดออกมา: 'นายท่าน อย่าเข้าไปนะ!' ทั้งคู่โต้เถียงและยื้อยุดกัน ไทม์ไลน์: 0-4 วินาที ภาพกว้างประตูเปิดออก ท่าโพสนางเงือก 4-6 วินาที เลขาสาว 2D กระโดดออกมา 6-9 วินาที ตัวละครนำหญิงโกรธจัด หยิบเลื่อยไฟฟ้าและค้อนยักษ์ออกมาต่อสู้ 9-12 วินาที ฉันรีบเข้าไปในลิฟต์ สัญญาณเตือนลิฟต์ดังขึ้นเพราะน้ำหนักเกิน 12-15 วินาที ตอนจบ: ตัวละครนำหญิงรู้ตัวว่าทำผิดพลาด จึงขอโทษอย่างเคอะเขิน เลขาสาว 2D หัวเราะ: 'ไอ้อ้วน! ฉันรู้อยู่แล้วว่าแกน้ำหนักเกิน!' ฉันถอยออกมาด้วยความเหงื่อตก คำบรรยาย: 'พวกเขาไม่อยากให้เขาอยู่ ลิฟต์แค่ปิดไม่ลง' มีอาการภาพฉีกขาดและสัญญาณรบกวนอย่างหนัก [แสง] แสงไฟฟลูออเรสเซนต์กะพริบผสมกับแสงจากจอโฆษณา ไฮไลท์ตัวละครที่สว่างเกินไป [คุณภาพ] อาการสั่นแบบถือด้วยมือ การโฟกัสที่วืดวาด เฟรมเรตต่ำ เส้นสแกน VHS สัญญาณหิมะ สีเพี้ยน และความไม่เสถียรแบบอะนาล็อก [กล้อง] ไม่มีการเคลื่อนไหวแบบภาพยนตร์ มีเพียงการสั่นไหวแบบถือด้วยมือและการเลื่อนของสัญญาณ [เสียง] เสียงไมโครโฟนอู้อี้ เสียงกระซิบ เสียงตะโกน เสียงการต่อสู้ เสียงสัญญาณเตือน เสียงกระแทกหนักๆ ที่บิดเบี้ยวเหมือนเสียงจากกล้องวงจรปิดที่ถูกบีบอัด [เชิงลบ] ห้ามมีกรอบทีวี ห้ามมีความละเอียดสูง ห้ามมีพื้นผิวแบบดิจิทัลสมัยใหม่ ห้ามมีเลนส์ตาปลา ห้ามมีการเปลี่ยนตัวละคร 2D แบบสมจริง
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072687204036419584/img/lmxmOG4MKpwZ9gCx.jpg" width="600" alt="Retro VHS Elevator CCTV Style">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072687204036419584/img/lmxmOG4MKpwZ9gCx.jpg" width="600" alt="สไตล์กล้องวงจรปิดในลิฟต์แบบ VHS ย้อนยุค">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=6723)**
 
@@ -945,19 +945,19 @@ Generate a 9:16 vertical screen retro surveillance video, 15 seconds long (first
 **ผู้เขียน:** [auqib](https://x.com/auqibhabib) | **แหล่งที่มา:** [Link](https://x.com/auqibhabib/status/2072627734451507371) | **เผยแพร่เมื่อ:** Jul 2, 2026
 
 ---
-### Pixar Style Erling Haaland Animation
+### แอนิเมชันสไตล์ Pixar ของ Erling Haaland
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 3D Pixar-style caricature animation of football star Erling Haaland featuring vibrant stadium visuals and high-energy soccer match dynamics.
+> แอนิเมชันล้อเลียนสไตล์ 3D Pixar ของซูเปอร์สตาร์นักฟุตบอล Erling Haaland ที่มาพร้อมภาพบรรยากาศในสนามที่สดใสและไดนามิกของการแข่งขันฟุตบอลที่เต็มไปด้วยพลัง
 
 #### 📝 พรอมต์
 
 ```
-A detailed, 3D Pixar-style animation featuring an exaggerated, baby-faced caricature of football star Erling Haaland with a prominent blonde mullet and chubby, rosy cheeks. Wearing a bright red Norway national team jersey with white and blue trim, he confidently strides out of a dark stadium tunnel onto a vibrant, sunlit pitch. Surrounded by a roaring crowd and flashing cameras from press photographers, he looks directly into the lens, making comical, dramatic pouty faces and flashing a two-finger peace sign. The scene cuts to a high-energy match where he dynamically sprints down the field in shiny golden cleats, tightly controlling a star-patterned soccer ball while swiftly dodging defenders under bright stadium floodlights amidst falling confetti.
+แอนิเมชัน 3D สไตล์ Pixar สุดละเอียดที่นำเสนอภาพล้อเลียนใบหน้าเด็กของซูเปอร์สตาร์นักฟุตบอล Erling Haaland ที่มีทรงผมมัลเล็ตสีบลอนด์อันเป็นเอกลักษณ์และแก้มสีชมพูระเรื่อ เขาสวมเสื้อทีมชาตินอร์เวย์สีแดงสดตัดขอบขาวและน้ำเงิน เดินอย่างมั่นใจออกจากอุโมงค์สนามที่มืดมิดเข้าสู่สนามหญ้าที่สว่างไสวด้วยแสงแดด ท่ามกลางเสียงเชียร์ของฝูงชนและแสงแฟลชจากช่างภาพสื่อมวลชน เขาจ้องมองตรงมาที่เลนส์กล้องพร้อมทำหน้าทำตาบูดบึ้งอย่างตลกขบขันและชูสองนิ้วเป็นสัญลักษณ์แห่งสันติภาพ ฉากตัดไปที่การแข่งขันที่เต็มไปด้วยพลังซึ่งเขากำลังวิ่งสปรินต์ไปทั่วสนามด้วยรองเท้าสตั๊ดสีทองแวววาว เลี้ยงลูกฟุตบอลลายดาวอย่างคล่องแคล่วพร้อมหลบหลีกกองหลังอย่างรวดเร็วภายใต้แสงไฟสปอร์ตไลท์ในสนามท่ามกลางโปรยกระดาษสีที่ร่วงหล่นลงมา
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072625876718727168/img/rYQ19R96EG5MrMdk.jpg" width="600" alt="Pixar Style Erling Haaland Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072625876718727168/img/rYQ19R96EG5MrMdk.jpg" width="600" alt="แอนิเมชันสไตล์ Pixar ของ Erling Haaland">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=6721)**
 
@@ -1123,57 +1123,57 @@ Velocity ramp: ตัวตนในอนาคตยื่นมือมา�
 **ผู้เขียน:** [By](https://x.com/rhodezio_ai) | **แหล่งที่มา:** [Link](https://x.com/rhodezio_ai/status/2072566280930902394) | **เผยแพร่เมื่อ:** Jul 2, 2026
 
 ---
-### Retro Egyptian God Animation
+### แอนิเมชันเทพเจ้าอียิปต์สไตล์เรโทร
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A stylized 1980s retro OVA animation prompt featuring Egyptian gods Anubis and Sobek in a comedic strength trial inside a royal palace.
+> พรอมต์สำหรับสร้างแอนิเมชันสไตล์ OVA ยุค 1980 ที่มีเทพเจ้าอียิปต์อย่าง อนูบิส (Anubis) และ โซเบค (Sobek) ในการทดสอบความแข็งแกร่งสุดฮาภายในพระราชวัง
 
 #### 📝 พรอมต์
 
 ```
-Hand-drawn detailed animation, retro 1980s OVA style. Ancient Egyptian royal palace interior, warm torchlight, carved stone pillars, gold ornaments, cinematic shadows. Dramatic 16:9 scene, expressive acting, smooth motion. No subtitles, no text, no logo, no watermark. English dialogue only. Deep powerful voices. Anubis: muscular jackal-headed god, arm rings, neck collar. Sobek: muscular crocodile-headed god with tail, arm rings. Pharaoh: human ruler, calm and commanding. Scene 1 — Strength Trial Inside the palace, Anubis and Sobek stand one meter apart, each holding a massive stone block overhead. Both strain with tense faces and shaking arms. The Pharaoh walks slowly in front of them, hands behind his back, observing. He says: “Only one of you may join me on the next mission. Only the strongest.” Scene 2 — Sobek’s Trick Sobek suddenly smirks. He glances sideways at Anubis while keeping his stone raised. His tail quietly stretches toward Anubis’s armpit. Anubis stays focused, staring forward. Scene 3 — Ticklish Close-Up Close-up of Sobek’s tail tip gently brushing Anubis’s armpit. Anubis tries to stay serious but begins suppressing deep laughter. Scene 4 — Anubis Breaks Close-up of Anubis struggling. His eyes squeeze shut, his grin grows wider, and his body trembles as Sobek keeps tickling him. He fights to keep the stone overhead. Scene 5 — Sobek Wins Anubis bursts into loud laughter, loses control, throws the stone behind him, hugs himself, and falls to the floor curled up laughing. Sobek stands proudly, still holding his stone overhead. Scene 6 — Final Judgment The Pharaoh nods to Sobek and says: “It seems you are the one.” Sobek stands victorious. Anubis remains on the floor, still giggling.
+แอนิเมชันวาดมือที่มีรายละเอียดสูง สไตล์ OVA ยุค 1980 ภายในพระราชวังอียิปต์โบราณ แสงไฟจากคบเพลิงที่ดูอบอุ่น เสาหินแกะสลัก เครื่องประดับทองคำ และเงาแบบภาพยนตร์ ฉากสัดส่วน 16:9 ที่ดูน่าตื่นตาตื่นใจ การแสดงที่สื่ออารมณ์ และการเคลื่อนไหวที่ลื่นไหล ไม่มีคำบรรยาย ไม่มีข้อความ ไม่มีโลโก้ และไม่มีลายน้ำ บทสนทนาภาษาอังกฤษเท่านั้น เสียงพากย์ทุ้มต่ำทรงพลัง อนูบิส: เทพเจ้าหัวสุนัขไนที่มีกล้ามเนื้อ สวมกำไลแขนและสร้อยคอ โซเบค: เทพเจ้าหัวจระเข้ที่มีกล้ามเนื้อและมีหาง สวมกำไลแขน ฟาโรห์: ผู้ปกครองที่เป็นมนุษย์ ดูสงบนิ่งและน่าเกรงขาม ฉากที่ 1 — การทดสอบความแข็งแกร่ง ภายในพระราชวัง อนูบิสและโซเบคยืนห่างกันหนึ่งเมตร แต่ละคนถือบล็อกหินขนาดมหึมาไว้เหนือศีรษะ ทั้งคู่พยายามอย่างหนักด้วยใบหน้าที่ตึงเครียดและแขนที่สั่นเทา ฟาโรห์เดินช้าๆ อยู่ข้างหน้าพวกเขาโดยไขว้มือไว้ด้านหลังและคอยสังเกตการณ์ เขาพูดว่า: “มีเพียงคนเดียวเท่านั้นที่จะได้ร่วมภารกิจต่อไปกับเรา มีเพียงผู้ที่แข็งแกร่งที่สุดเท่านั้น” ฉากที่ 2 — เล่ห์เหลี่ยมของโซเบค โซเบคยิ้มมุมปากอย่างกะทันหัน เขาเหลือบมองอนูบิสในขณะที่ยังคงยกหินไว้ หางของเขาค่อยๆ ยืดไปทางรักแร้ของอนูบิสอย่างเงียบเชียบ อนูบิสยังคงจดจ่อและมองไปข้างหน้า ฉากที่ 3 — ระยะใกล้ของการจั๊กจี้ ภาพระยะใกล้ของปลายหางโซเบคที่ค่อยๆ เขี่ยรักแร้ของอนูบิส อนูบิสพยายามทำหน้าจริงจังแต่เริ่มกลั้นหัวเราะอย่างหนัก ฉากที่ 4 — อนูบิสหลุดขำ ภาพระยะใกล้ของอนูบิสที่กำลังพยายามอย่างหนัก ดวงตาของเขาปิดแน่น รอยยิ้มกว้างขึ้น และร่างกายสั่นเทาในขณะที่โซเบคยังคงจั๊กจี้เขาต่อไป เขาพยายามฝืนถือหินไว้เหนือศีรษะ ฉากที่ 5 — โซเบคเป็นผู้ชนะ อนูบิสระเบิดเสียงหัวเราะออกมาดังลั่นจนคุมไม่อยู่ เขาโยนหินไปด้านหลัง กอดตัวเอง และล้มลงไปนอนขดตัวหัวเราะกับพื้น โซเบคยืนอย่างภาคภูมิใจโดยที่ยังคงถือหินไว้เหนือศีรษะ ฉากที่ 6 — การตัดสินครั้งสุดท้าย ฟาโรห์พยักหน้าให้โซเบคและพูดว่า: “ดูเหมือนว่าเจ้าจะเป็นผู้ที่ได้รับเลือก” โซเบคยืนอย่างผู้ชนะ ส่วนอนูบิสนอนอยู่บนพื้นและยังคงหัวเราะคิกคักไม่หยุด
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072561357451583488/img/vGJNSuI9_deJ8csg.jpg" width="600" alt="Retro Egyptian God Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072561357451583488/img/vGJNSuI9_deJ8csg.jpg" width="600" alt="แอนิเมชันเทพเจ้าอียิปต์สไตล์เรโทร">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=6720)**
 
 **ผู้เขียน:** [Sam Aoteman](https://x.com/samaote) | **แหล่งที่มา:** [Link](https://x.com/samaote/status/2072561439173468501) | **เผยแพร่เมื่อ:** Jul 2, 2026
 
 ---
-### Realistic 2000s Chinese DV Vlog
+### วิดีโอ Vlog สไตล์ DV จีนยุค 2000 ที่สมจริง
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A meticulous prompt for simulating an early 2000s Chinese home video aesthetic, featuring a young woman in a traditional southern residential area with low-fidelity digital camera characteristics.
+> คำสั่ง (Prompt) ที่ละเอียดแม่นยำสำหรับการจำลองบรรยากาศวิดีโอในบ้านของชาวจีนช่วงต้นยุค 2000 โดยมีตัวเอกเป็นหญิงสาวในย่านที่พักอาศัยทางตอนใต้ พร้อมลักษณะภาพจากกล้องดิจิทัลความละเอียดต่ำ
 
 #### 📝 พรอมต์
 
 ```
-Main Character: A young Chinese woman, about 22 years old, with average but attractive looks and natural makeup (no influencer look). Wearing a faded charcoal sleeveless crop top, loose light blue high-waisted wash jeans, black canvas shoes, and a thin black rope necklace. Long black hair tied in a slightly messy low ponytail with natural wispy bangs. Realistic skin texture with a healthy summer tan, natural friendly smile, no posing. Maintain consistent character identity, clothing, hairstyle, and appearance throughout the video.
-Location: A typical residential area in southern China (like old districts in Guangdong, Fujian, Jiangxi, or Zhejiang), 3-4 PM in summer. Narrow concrete alleys, 2-3 story self-built houses with signs of age, green security doors, old aluminum windows, anti-theft nets, air conditioning units, electric scooters, bicycles, bamboo drying racks, sun-dried sheets and clothes, plastic flower pots, greenery, utility poles with dense overhead wires, and large trees casting swaying shadows. No commercial streets, billboards, bubble tea shops, cafes, tourists, posing, or modern influencer elements.
-Visual Style: Hyper-realistic documentary authenticity. Like family DV recordings from 2002-2008. No plot, no acting, no deliberate camera angles. Real fragments of life. Natural, random human movements. Abundant real-world details. Like an old DV tape rediscovered from childhood.
-Photography Style: Early 2000s consumer DV camera quality. Intense handheld shakiness. Constant auto-exposure adjustments. Frequent autofocus hunting. Slight motion blur. Rolling shutter. CCD digital camera colors. Slight software compression artifacts. Slightly warm white balance. Light noise. Low dynamic range. Occasional slight overexposure. No stabilizers. No cinematic camera work. No drone shots. No modern HDR. No film grading. No film filters.
+ตัวละครหลัก: หญิงสาวชาวจีน อายุประมาณ 22 ปี หน้าตาธรรมดาแต่ดูดี แต่งหน้าแบบธรรมชาติ (ไม่ดูเหมือนอินฟลูเอนเซอร์) สวมเสื้อครอปแขนกุดสีเทาถ่านที่ดูซีดจาง กางเกงยีนส์เอวสูงทรงหลวมสีฟ้าอ่อน รองเท้าผ้าใบสีดำ และสร้อยคอเชือกสีดำเส้นเล็ก ผมยาวสีดำมัดหางม้าต่ำแบบยุ่งๆ เล็กน้อยพร้อมหน้าม้าบางๆ ที่ดูเป็นธรรมชาติ ผิวพรรณสมจริงดูสุขภาพดีแบบคนโดนแดดหน้าร้อน ยิ้มแย้มอย่างเป็นธรรมชาติ ไม่มีการโพสท่า รักษาเอกลักษณ์ของตัวละคร เสื้อผ้า ทรงผม และรูปลักษณ์ให้คงที่ตลอดทั้งวิดีโอ
+สถานที่: ย่านที่พักอาศัยทั่วไปในจีนตอนใต้ (เช่น ย่านเก่าในมณฑลกวางตุ้ง ฝูเจี้ยน เจียงซี หรือเจ้อเจียง) ช่วงเวลา 15.00–16.00 น. ในฤดูร้อน ซอยคอนกรีตแคบๆ บ้านสร้างเองสูง 2-3 ชั้นที่ดูเก่าแก่ ประตูเหล็กดัดสีเขียว หน้าต่างอะลูมิเนียมเก่าๆ มุ้งลวดกันขโมย เครื่องปรับอากาศ สกู๊ตเตอร์ไฟฟ้า จักรยาน ราวตากผ้าไม้ไผ่ ผ้าปูที่นอนและเสื้อผ้าที่ตากแดดไว้ กระถางต้นไม้พลาสติก พื้นที่สีเขียว เสาไฟฟ้าที่มีสายไฟระโยงระยางหนาแน่น และต้นไม้ใหญ่ที่ทอดเงาไหวไปมา ไม่มีถนนการค้า ป้ายโฆษณา ร้านชานม คาเฟ่ นักท่องเที่ยว การโพสท่า หรือองค์ประกอบของอินฟลูเอนเซอร์ยุคใหม่
+สไตล์ภาพ: ความสมจริงแบบสารคดีระดับสูง เหมือนบันทึกวิดีโอ DV ของครอบครัวในช่วงปี 2002–2008 ไม่มีพล็อตเรื่อง ไม่มีการแสดง ไม่มีมุมกล้องที่ตั้งใจจัดวาง เป็นเศษเสี้ยวของชีวิตจริง การเคลื่อนไหวของมนุษย์ที่เป็นธรรมชาติและสุ่ม รายละเอียดในโลกแห่งความเป็นจริงที่ครบถ้วน เหมือนเทป DV เก่าที่ถูกค้นพบใหม่จากวัยเด็ก
+สไตล์การถ่ายภาพ: คุณภาพกล้อง DV สำหรับผู้บริโภคช่วงต้นยุค 2000 ภาพสั่นไหวจากการถือด้วยมือ มีการปรับค่าแสงอัตโนมัติอยู่ตลอดเวลา กล้องพยายามโฟกัสอัตโนมัติบ่อยครั้ง มีภาพเบลอจากการเคลื่อนไหวเล็กน้อย เอฟเฟกต์ Rolling shutter สีจากกล้องดิจิทัล CCD มีรอยแตกของภาพจากการบีบอัดของซอฟต์แวร์เล็กน้อย ไวต์บาลานซ์ค่อนไปทางโทนอุ่น มีสัญญาณรบกวน (Noise) เล็กน้อย ช่วงไดนามิกต่ำ บางครั้งภาพสว่างเกินไปเล็กน้อย ไม่มีอุปกรณ์กันสั่น ไม่มีการถ่ายทำแบบภาพยนตร์ ไม่มีภาพจากโดรน ไม่มี HDR ยุคใหม่ ไม่มีการเกรดสีภาพยนตร์ ไม่ใช้ฟิลเตอร์ภาพยนตร์
 00:00–00:02
-In front of a typical Chinese residential building. She sits on low concrete steps, raising both hands to adjust her ponytail. A summer breeze blows a few hairs. The lens automatically finds focus, recovering after a brief blur.
+หน้าอาคารที่พักอาศัยทั่วไปในจีน เธอนั่งบนขั้นบันไดคอนกรีตเตี้ยๆ ยกมือทั้งสองข้างขึ้นมาจัดผมหางม้า ลมฤดูร้อนพัดผมปลิวเล็กน้อย เลนส์กล้องพยายามหาโฟกัสโดยอัตโนมัติและกลับมาชัดหลังจากเบลอไปชั่วครู่
 00:02–00:04
-She walks slowly along a narrow residential alley. Potted plants and electric scooters line the road. A stray orange cat emerges from a corner. She squats down smiling. The camera composition is slightly off due to tracking.
+เธอเดินช้าๆ ไปตามซอยที่พักอาศัยแคบๆ มีกระถางต้นไม้และสกู๊ตเตอร์ไฟฟ้าจอดเรียงรายอยู่ข้างทาง แมวจรสีส้มตัวหนึ่งโผล่ออกมาจากมุมตึก เธอจึงย่อตัวลงยิ้มให้ องค์ประกอบภาพเบี้ยวเล็กน้อยเนื่องจากการติดตามวัตถุ
 00:04–00:06
-She gently pets the stray cat and places some cat food on the ground. Autofocus constantly switches between the person and the cat. Sunlight flickers through the leaves, creating changing light spots.
+เธอค่อยๆ ลูบหัวแมวจรและวางอาหารแมวไว้บนพื้น ระบบโฟกัสอัตโนมัติสลับไปมาระหว่างคนกับแมวตลอดเวลา แสงแดดลอดผ่านใบไม้ลงมาทำให้เกิดจุดแสงที่เปลี่ยนแปลงไปมา
 00:06–00:08
-A small courtyard in front of the building. She stands in front of a bamboo rack hanging clothes. Sheets and clothes sway gently in the breeze. A cloud passes by, briefly lowering the exposure.
+ลานเล็กๆ หน้าอาคาร เธอยืนอยู่หน้าราวไม้ไผ่ที่ตากผ้าไว้ ผ้าปูที่นอนและเสื้อผ้าไหวไปมาตามลมเบาๆ มีเมฆเคลื่อนผ่านทำให้แสงสว่างลดลงชั่วขณะ
 00:08–00:10
-She sits in her own small courtyard, holding a white ceramic teacup, quietly watching the neighborhood, occasionally tucking hair behind her ear. The lens drifts slightly.
+เธอนั่งอยู่ในลานเล็กๆ ของตัวเอง ถือถ้วยชาเซรามิกสีขาว มองดูละแวกบ้านอย่างเงียบๆ และทัดผมไว้หลังหูเป็นครั้งคราว เลนส์กล้องขยับไปมาเล็กน้อย
 00:10–00:12
-Close-up side profile. A distant neighbor calls out: "Back already?" She turns and waves, answering naturally: "Yeah, just got back." The camera follows a beat late.
+ภาพโคลสอัพด้านข้าง เพื่อนบ้านที่อยู่ไกลออกไปตะโกนถามว่า "กลับมาแล้วเหรอ?" เธอหันไปโบกมือและตอบอย่างเป็นธรรมชาติว่า "ใช่ เพิ่งกลับมาค่ะ" กล้องแพนตามช้าไปจังหวะหนึ่ง
 00:12–00:15
-She walks slowly on a tree-shaded path with her teacup. Noticing the lens, she gives a shy little smile, then continues forward. The recording ends abruptly to black, like a DV camera shutting off.
-Audio: Only real ambient sounds: summer cicadas, distant electric scooters, occasional dog barks, rustling leaves, residents chatting, clinking of kitchenware, cat meows, footsteps on concrete, sound of wind blowing through laundry. No background music. No sound design. No voiceover.
-Goal: Present a segment of life recorded by a typical Chinese family DV camera from 2003-2008. Authentic, natural, imperfect, no acting traces, no influencer feel, no cinematic feel, no AI feel—making the audience mistake it at first glance for a rediscovered old family tape.
+เธอเดินช้าๆ บนทางเดินที่มีร่มเงาจากต้นไม้พร้อมถ้วยชา เมื่อสังเกตเห็นเลนส์กล้อง เธอยิ้มเขินๆ เล็กน้อยแล้วเดินต่อไป การบันทึกจบลงอย่างกะทันหันเป็นจอดำ เหมือนกล้อง DV ที่ถูกปิดลง
+เสียง: มีเพียงเสียงบรรยากาศจริงเท่านั้น: เสียงจักจั่นในฤดูร้อน เสียงสกู๊ตเตอร์ไฟฟ้าจากระยะไกล เสียงสุนัขเห่าเป็นครั้งคราว เสียงใบไม้ไหว เสียงชาวบ้านคุยกัน เสียงกระทบกันของเครื่องครัว เสียงแมวร้อง เสียงฝีเท้าบนพื้นคอนกรีต และเสียงลมพัดผ่านผ้าที่ตากไว้ ไม่มีดนตรีประกอบ ไม่มีการออกแบบเสียง ไม่มีการพากย์เสียง
+เป้าหมาย: นำเสนอเศษเสี้ยวของชีวิตที่บันทึกโดยกล้อง DV ของครอบครัวชาวจีนทั่วไปในช่วงปี 2003–2008 ให้ความรู้สึกสมจริง เป็นธรรมชาติ ไม่สมบูรณ์แบบ ไม่มีร่องรอยของการแสดง ไม่มีความรู้สึกแบบอินฟลูเอนเซอร์ ไม่มีความรู้สึกแบบภาพยนตร์ และไม่รู้สึกว่าเป็น AI ทำให้ผู้ชมเข้าใจผิดตั้งแต่แรกเห็นว่าเป็นเทปเก่าของครอบครัวที่ถูกค้นพบใหม่
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072539888336191488/img/tJ0JfH4SVPGtsK8t.jpg" width="600" alt="Realistic 2000s Chinese DV Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072539888336191488/img/tJ0JfH4SVPGtsK8t.jpg" width="600" alt="วิดีโอ Vlog สไตล์ DV จีนยุค 2000 ที่สมจริง">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=6728)**
 
@@ -1199,54 +1199,54 @@ Goal: Present a segment of life recorded by a typical Chinese family DV camera f
 **ผู้เขียน:** [BMX](https://x.com/bmx_ai13) | **แหล่งที่มา:** [Link](https://x.com/bmx_ai13/status/2072537247337824487) | **เผยแพร่เมื่อ:** Jul 2, 2026
 
 ---
-### UGC Style Hair Care Video Ad
+### โฆษณาวิดีโอผลิตภัณฑ์ดูแลเส้นผมสไตล์ UGC
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A casual, handheld 15-second vertical video ad prompt designed for hair care marketing, featuring realistic before-and-after scenes.
+> พรอมต์สำหรับโฆษณาวิดีโอแนวตั้งความยาว 15 วินาที สไตล์ถ่ายทำแบบกันเองด้วยมือถือ ออกแบบมาเพื่อการตลาดผลิตภัณฑ์ดูแลเส้นผม โดยเน้นภาพเปรียบเทียบก่อนและหลังใช้จริง
 
 #### 📝 พรอมต์
 
 ```
-15-second vertical UGC-style hair care ad. Casual handheld footage. Scene 1 (0-3s): Young woman at bathroom mirror, frizzy messy hair, frustrated expression, holds up a hair care bottle. Scene 2 (3-7s): Close-up of dry, damaged hair, finger running through tangles. Scene 3 (7-12s): Applying creamy hair product, hands working through hair, smooth texture, warm lighting. Scene 4 (12-15s): Confident woman smiling, hair now glossy and healthy, points at product bottle. Natural lighting throughout, authentic feel, no professional studio look. make this video
+โฆษณาผลิตภัณฑ์ดูแลเส้นผมสไตล์ UGC แนวตั้ง ความยาว 15 วินาที ถ่ายทำแบบกันเองด้วยมือถือ ฉากที่ 1 (0-3 วินาที): หญิงสาวหน้ากระจกในห้องน้ำ ผมชี้ฟูไม่เป็นทรง สีหน้าดูหงุดหงิด มือถือขวดผลิตภัณฑ์ดูแลเส้นผม ฉากที่ 2 (3-7 วินาที): ภาพโคลสอัพผมที่แห้งเสีย ใช้นิ้วสางผมที่พันกัน ฉากที่ 3 (7-12 วินาที): กำลังชโลมผลิตภัณฑ์เนื้อครีมลงบนเส้นผม มือลูบไล้ไปตามเส้นผม เห็นเนื้อผลิตภัณฑ์ที่เนียนนุ่ม แสงโทนอุ่น ฉากที่ 4 (12-15 วินาที): หญิงสาวดูมั่นใจและยิ้มแย้ม ผมเงางามสุขภาพดี ชี้ไปที่ขวดผลิตภัณฑ์ ใช้แสงธรรมชาติทั้งวิดีโอ ให้ความรู้สึกสมจริง ไม่ดูเป็นสตูดิโอระดับมืออาชีพ สร้างวิดีโอนี้
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072534517789990912/img/bC_V4Lqhqwog2fQ8.jpg" width="600" alt="UGC Style Hair Care Video Ad">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072534517789990912/img/bC_V4Lqhqwog2fQ8.jpg" width="600" alt="โฆษณาวิดีโอผลิตภัณฑ์ดูแลเส้นผมสไตล์ UGC">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=6722)**
 
 **ผู้เขียน:** [Rajesh Kumar](https://x.com/therjrajesh) | **แหล่งที่มา:** [Link](https://x.com/therjrajesh/status/2072534569912619378) | **เผยแพร่เมื่อ:** Jul 2, 2026
 
 ---
-### Rural African Village Life Documentary
+### สารคดีชีวิตหมู่บ้านชนบทในแอฟริกา
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed narrative video prompt for Seedance 2.0 capturing a slice-of-life morning in an African village with a realistic handheld camcorder aesthetic.
+> พรอมต์วิดีโอแบบบรรยายรายละเอียดสำหรับ Seedance 2.0 ที่ถ่ายทอดวิถีชีวิตยามเช้าในหมู่บ้านแอฟริกัน ด้วยสุนทรียภาพแบบกล้องวิดีโอถือถ่ายที่สมจริง
 
 #### 📝 พรอมต์
 
 ```
-Main Subject:
+หัวข้อหลัก:
 
-Young African woman, early 20s, native to the region. Warm brown skin with realistic skin texture, minimal to no makeup. She has dark hair tied in a simple low ponytail with a few loose strands. She wears a faded sleeveless light-colored blouse, a simple long wrap skirt with a faded colorful pattern, and worn sandals. Small beaded bracelet on one wrist. Warm, approachable, and grounded personality. Maintain consistent identity, clothing, hairstyle, and appearance throughout the entire video.
-Location:
-Authentic rural African village during a calm late morning. Dirt paths, simple mud-brick and concrete block houses with corrugated metal or thatched roofs, scattered trees and vegetation, chickens roaming freely, low stick fences, laundry hanging on lines, plastic basins, simple wooden benches, and water containers. Quiet village atmosphere with natural daily life. No modern buildings or urban elements.
-Visual Style:
-Ultra-realistic documentary realism. Genuine candid behavior. Natural body language. Unscripted slice-of-life feeling. Strong environmental authenticity. Rich real-world details and believable human motion.
-Camera Style:
-Early-2000s consumer DV camcorder aesthetic. Friend casually recording everyday moments. Heavy handheld shake, imperfect framing, frequent autofocus hunting, lens breathing, exposure pumping when moving between sun and shade, occasional motion blur, subtle rolling shutter, mild digital compression artifacts, faded colors, soft contrast, slight sensor noise. No stabilization. No cinematic camera moves. No modern color grading.
+หญิงสาวชาวแอฟริกัน อายุประมาณ 20 ต้นๆ เป็นคนในพื้นที่ ผิวสีน้ำตาลอบอุ่นพร้อมพื้นผิวผิวที่สมจริง ไม่แต่งหน้าหรือแต่งแต้มเพียงเล็กน้อย ผมสีเข้มรวบเป็นหางม้าต่ำแบบเรียบง่าย มีปอยผมหลุดลุ่ยเล็กน้อย สวมเสื้อแขนกุดสีอ่อนที่ซีดจาง กระโปรงผ้าถุงยาวลายสีสันซีดจาง และรองเท้าแตะที่ผ่านการใช้งานมานาน สวมสร้อยข้อมือลูกปัดเล็กๆ ที่ข้อมือข้างหนึ่ง บุคลิกอบอุ่น เข้าถึงง่าย และติดดิน รักษาอัตลักษณ์ เสื้อผ้า ทรงผม และรูปลักษณ์ให้คงที่ตลอดทั้งวิดีโอ
+สถานที่:
+หมู่บ้านชนบทในแอฟริกาที่ดูสมจริงในช่วงสายที่เงียบสงบ ทางเดินดิน บ้านอิฐดินดิบและบล็อกคอนกรีตแบบเรียบง่ายหลังคาสังกะสีหรือมุงจาก ต้นไม้และพืชพรรณกระจัดกระจาย ไก่เดินไปมาอย่างอิสระ รั้วไม้เตี้ยๆ ผ้าที่ตากไว้บนราว กะละมังพลาสติก ม้านั่งไม้เรียบง่าย และถังน้ำ บรรยากาศหมู่บ้านที่เงียบสงบพร้อมวิถีชีวิตประจำวันตามธรรมชาติ ไม่มีอาคารสมัยใหม่หรือองค์ประกอบของความเป็นเมือง
+สไตล์ภาพ:
+ความสมจริงแบบสารคดีระดับสูง พฤติกรรมที่เป็นธรรมชาติและไม่ได้เตี๊ยม ภาษากายที่เป็นธรรมชาติ ให้ความรู้สึกถึงวิถีชีวิตที่แท้จริง ความสมจริงของสภาพแวดล้อมที่ชัดเจน รายละเอียดในโลกแห่งความเป็นจริงที่เข้มข้น และการเคลื่อนไหวของมนุษย์ที่น่าเชื่อถือ
+สไตล์กล้อง:
+สุนทรียภาพแบบกล้อง DV สำหรับผู้บริโภคช่วงต้นยุค 2000 เหมือนเพื่อนที่กำลังถ่ายบันทึกช่วงเวลาในชีวิตประจำวันอย่างไม่เป็นทางการ มีการสั่นไหวแบบถือถ่ายหนักๆ การจัดเฟรมที่ไม่สมบูรณ์แบบ ระบบออโต้โฟกัสที่ปรับไปมาบ่อยครั้ง อาการเลนส์หายใจ (lens breathing) การปรับค่าแสงที่เปลี่ยนไปมาเมื่อเคลื่อนที่ระหว่างแสงแดดและร่มเงา มีภาพเบลอจากการเคลื่อนไหวเป็นระยะ มีอาการ Rolling Shutter เล็กน้อย มีสัญญาณรบกวนจากไฟล์ดิจิทัล (digital compression artifacts) สีที่ซีดจาง คอนทราสต์ที่นุ่มนวล และมีสัญญาณรบกวนจากเซนเซอร์เล็กน้อย ไม่มีการกันสั่น ไม่มีการเคลื่อนกล้องแบบภาพยนตร์ ไม่มีการปรับแต่งสีแบบสมัยใหม่
 
-TIMED SCENES (00:00–00:15)
-00:00–00:02Outside a small village house. She sits on a low wooden bench adjusting her ponytail with both hands. A light breeze moves loose strands of hair. She smiles naturally while the camera struggles to hold focus.
-00:02–00:04The camera follows her as she walks along a dirt path through the village. She notices a chicken running freely nearby and slows down to watch it. Framing drifts slightly as the operator tries to keep up.
-00:04–00:06She crouches and tries to catch the chicken, moving carefully with her hands outstretched. The chicken flutters and runs a short distance. Autofocus repeatedly shifts between her face and the chicken. Morning sunlight filters through tree leaves overhead.
-00:06–00:08In the small dirt yard beside her house. She picks up a broom made of sticks and begins sweeping the ground in steady motions. Dust rises lightly as she sweeps. Exposure changes slightly as clouds pass overhead.
-00:08–00:10She sits on a low wooden bench near the house, resting after sweeping. She wipes sweat from her forehead with the back of her hand and looks around the quiet village. Loose handheld side angle with natural camera drift.
-00:10–00:12Close side profile. Someone off-camera greets her warmly. She turns toward the voice, raises her hand, smiles genuinely, and replies with
+ฉากตามเวลา (00:00–00:15)
+00:00–00:02 ด้านนอกบ้านหลังเล็กในหมู่บ้าน เธอนั่งบนม้านั่งไม้เตี้ยๆ จัดผมหางม้าด้วยมือทั้งสองข้าง สายลมพัดเบาๆ ทำให้ปอยผมปลิวไสว เธอยิ้มอย่างเป็นธรรมชาติในขณะที่กล้องพยายามปรับโฟกัส
+00:02–00:04 กล้องติดตามเธอขณะเดินไปตามทางดินผ่านหมู่บ้าน เธอสังเกตเห็นไก่ตัวหนึ่งวิ่งไปมาใกล้ๆ และชะลอฝีเท้าลงเพื่อดูมัน การจัดเฟรมเลื่อนไปมาเล็กน้อยขณะที่ผู้ถ่ายพยายามตามให้ทัน
+00:04–00:06 เธอย่อตัวลงและพยายามจับไก่ โดยเคลื่อนไหวอย่างระมัดระวังพร้อมยื่นมือออกไป ไก่กระพือปีกและวิ่งหนีไปในระยะสั้นๆ ระบบออโต้โฟกัสปรับสลับไปมาระหว่างใบหน้าของเธอกับไก่ แสงแดดยามเช้าส่องผ่านใบไม้ลงมา
+00:06–00:08 ในลานดินเล็กๆ ข้างบ้าน เธอหยิบไม้กวาดที่ทำจากก้านไม้ขึ้นมาและเริ่มกวาดพื้นด้วยจังหวะที่สม่ำเสมอ ฝุ่นฟุ้งกระจายเล็กน้อยขณะที่เธอกวาด แสงเปลี่ยนไปเล็กน้อยเมื่อมีเมฆเคลื่อนผ่าน
+00:08–00:10 เธอนั่งบนม้านั่งไม้เตี้ยๆ ใกล้บ้าน พักผ่อนหลังจากกวาดพื้น เธอเช็ดเหงื่อจากหน้าผากด้วยหลังมือและมองไปรอบๆ หมู่บ้านที่เงียบสงบ มุมกล้องด้านข้างแบบถือถ่ายที่ดูหลวมๆ พร้อมการเลื่อนของกล้องที่เป็นธรรมชาติ
+00:10–00:12 ภาพโคลสอัพด้านข้าง มีคนนอกเฟรมทักทายเธออย่างอบอุ่น เธอหันไปทางเสียง ยกมือขึ้น ยิ้มอย่างจริงใจ และตอบกลับด้วย
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072525336886280192/img/ORP5qc8_bQgq4-_U.jpg" width="600" alt="Rural African Village Life Documentary">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072525336886280192/img/ORP5qc8_bQgq4-_U.jpg" width="600" alt="สารคดีชีวิตหมู่บ้านชนบทในแอฟริกา">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=6732)**
 
@@ -1382,87 +1382,87 @@ TIMED SCENES (00:00–00:15)
 **ผู้เขียน:** [Shami](https://x.com/ShamiWeb3) | **แหล่งที่มา:** [Link](https://x.com/ShamiWeb3/status/2072509269073871154) | **เผยแพร่เมื่อ:** Jul 2, 2026
 
 ---
-### Nostalgic Early 2000s DV Style Korean Vlog
+### Vlog สไตล์เกาหลี ยุค 2000s ต้นๆ ให้ความรู้สึกย้อนวันวานด้วยกล้อง DV
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A comprehensive video generation prompt that replicates the aesthetic of a consumer DV camera from the early 2000s, featuring a young Korean woman in a quiet residential setting with realistic movements and camera imperfections.
+> พร้อมท์สำหรับสร้างวิดีโอแบบครบวงจรที่จำลองสุนทรียภาพของกล้อง DV สำหรับผู้บริโภคในช่วงต้นยุค 2000s โดยมีหญิงสาวชาวเกาหลีในย่านที่พักอาศัยอันเงียบสงบ พร้อมการเคลื่อนไหวที่สมจริงและข้อผิดพลาดของกล้องที่เป็นเอกลักษณ์
 
 #### 📝 พรอมต์
 
 ```
-**Main subject**: A young Korean woman in her early 20s, naturally dressed in a faded charcoal sleeveless crop top and loose high-waisted light-wash jeans, paired with black canvas sneakers and a black string necklace. Her black wavy hair is tied in a messy side ponytail with light bangs. Realistic skin texture, light makeup, warm and approachable personality. Maintain high consistency of identity, clothing, hairstyle, and appearance throughout the video.
+**ตัวละครหลัก**: หญิงสาวชาวเกาหลีอายุ 20 ต้นๆ แต่งกายด้วยชุดธรรมชาติ สวมเสื้อครอปแขนกุดสีเทาถ่านซีดๆ และกางเกงยีนส์เอวสูงทรงหลวมสีอ่อน จับคู่กับรองเท้าผ้าใบสีดำและสร้อยคอเชือกสีดำ ผมสีดำดัดลอนรวบเป็นหางม้าข้างแบบยุ่งๆ พร้อมหน้าม้าบางๆ ผิวสัมผัสสมจริง แต่งหน้าอ่อนๆ ดูเป็นกันเองและเข้าถึงง่าย รักษาความสม่ำเสมอของอัตลักษณ์ เสื้อผ้า ทรงผม และรูปลักษณ์ให้คงที่ตลอดทั้งวิดีโอ
 
-**Location**: Morning time, a quiet and authentic Korean residential neighborhood. Narrow concrete alleys, low-rise residences, small terraces, potted plants, clotheslines, bicycles, utility poles, crisscrossing wires in mid-air, dense trees casting mottled swaying shadows, full of a quiet residential atmosphere. No shops, advertisements, cafes, crowds, or commercial activities.
+**สถานที่**: ช่วงเช้า ในย่านที่พักอาศัยของเกาหลีที่เงียบสงบและดูสมจริง ตรอกคอนกรีตแคบๆ บ้านพักอาศัยเตี้ยๆ ระเบียงเล็กๆ กระถางต้นไม้ ราวตากผ้า จักรยาน เสาไฟฟ้า สายไฟระโยงระยางกลางอากาศ ต้นไม้หนาทึบที่ทอดเงาไหวไปมา เต็มไปด้วยบรรยากาศที่อยู่อาศัยอันเงียบสงบ ไม่มีร้านค้า โฆษณา คาเฟ่ ฝูงชน หรือกิจกรรมเชิงพาณิชย์ใดๆ
 
-**Visual Style**: Ultra-realistic documentary style. Authentic, unpretentious candid behavior. Natural body language. Unscripted daily life fragment feel. Strong sense of environmental reality. Contains rich real-world details and naturally realistic human dynamics.
+**สไตล์ภาพ**: สไตล์สารคดีที่สมจริงเป็นพิเศษ พฤติกรรมที่เป็นธรรมชาติ ไม่ปรุงแต่ง ภาษาท่าทางที่เป็นธรรมชาติ ให้ความรู้สึกเหมือนเป็นเศษเสี้ยวของชีวิตประจำวันที่ไม่ได้เขียนบท มีความสมจริงของสภาพแวดล้อมสูง เต็มไปด้วยรายละเอียดในโลกแห่งความเป็นจริงและพลวัตของมนุษย์ที่สมจริงตามธรรมชาติ
 
-**Camera Style**: Aesthetics of early 2000s consumer DV cameras. Creates the feeling of a friend casually recording daily moments. Strong handheld camera shake, imperfect composition, frequent autofocus hunting (breathing effect), exposure fluctuations when moving between sunlight and shadows (flickering), occasional motion blur, slight rolling shutter effect, minor digital compression artifacts, aged/faded colors, soft contrast, with slight sensor noise. No stabilization. No cinematic camera movements. No modern color grading.
+**สไตล์กล้อง**: สุนทรียภาพของกล้อง DV ยุค 2000s ต้นๆ สร้างความรู้สึกเหมือนเพื่อนกำลังถ่ายบันทึกช่วงเวลาในชีวิตประจำวันอย่างไม่เป็นทางการ มีการสั่นไหวของกล้องแบบถือด้วยมือ องค์ประกอบภาพที่ไม่สมบูรณ์แบบ ระบบโฟกัสอัตโนมัติที่ทำงานไม่นิ่ง (เอฟเฟกต์ Breathing) การเปลี่ยนแปลงของแสงเมื่อเคลื่อนที่ระหว่างแสงแดดและเงา (การกะพริบ) มีภาพเบลอจากการเคลื่อนไหวเป็นระยะ เอฟเฟกต์ Rolling Shutter เล็กน้อย มีสัญญาณรบกวนดิจิทัล (Noise) เล็กน้อย สีที่ดูเก่า/ซีด คอนทราสต์ต่ำ ไม่มีการกันสั่น ไม่มีการเคลื่อนไหวกล้องแบบภาพยนตร์ และไม่มีการปรับสีแบบสมัยใหม่
 
-**00:00–00:02**: Outside the entrance of a small house. She sits on a low concrete wall, raising her hands to tidy her ponytail. A breeze blows through stray strands of hair. She smiles naturally while the camera struggles to focus.
+**00:00–00:02**: หน้าทางเข้าบ้านหลังเล็กๆ เธอนั่งบนกำแพงคอนกรีตเตี้ยๆ ยกมือขึ้นจัดผมหางม้า สายลมพัดผ่านปอยผมที่หลุดลุ่ย เธออมยิ้มอย่างเป็นธรรมชาติในขณะที่กล้องพยายามโฟกัส
 
-**00:02–00:04**: The camera follows her into a narrow alley lined with potted plants and concrete walls. She notices a stray cat approaching and squats down. The composition shifts off-center as the operator tries to keep up with her movement.
+**00:02–00:04**: กล้องติดตามเธอเข้าไปในตรอกแคบๆ ที่เต็มไปด้วยกระถางต้นไม้และกำแพงคอนกรีต เธอสังเกตเห็นแมวจรจัดเดินเข้ามาจึงย่อตัวลง องค์ประกอบภาพเบี้ยวไปจากจุดศูนย์กลางเนื่องจากผู้ถ่ายพยายามตามการเคลื่อนไหวของเธอให้ทัน
 
-**00:04–00:06**: She gently strokes and feeds the cat. The camera's autofocus switches repeatedly between her face and the cat. Morning sunlight flickers mottled through the leaves overhead.
+**00:04–00:06**: เธอค่อยๆ ลูบตัวและให้อาหารแมว ระบบโฟกัสอัตโนมัติของกล้องสลับไปมาระหว่างใบหน้าของเธอกับแมว แสงแดดตอนเช้าส่องลอดผ่านใบไม้ลงมาเป็นเงาไหวๆ
 
-**00:06–00:08**: In a small front yard next to her house. She is hanging clothes on a clothesline, the fabric swaying in the breeze. As clouds pass briefly overhead, the exposure changes accordingly.
+**00:06–00:08**: ในสวนหน้าบ้านหลังเล็กๆ ข้างบ้านของเธอ เธอกำลังตากผ้าบนราวตากผ้า ผ้าไหวไปตามสายลม เมื่อมีเมฆเคลื่อนผ่าน แสงในภาพก็เปลี่ยนไปตามนั้น
 
-**00:08–00:10**: On a quiet terrace, holding a ceramic coffee cup. She sits comfortably, observing the surrounding neighborhood, occasionally tucking her hair behind her ear. A casual, loose side handheld perspective with natural camera drift.
+**00:08–00:10**: บนระเบียงที่เงียบสงบ ถือแก้วกาแฟเซรามิก เธอนั่งอย่างสบายๆ มองดูละแวกบ้านรอบๆ เป็นครั้งคราวก็ทัดผมไว้หลังหู มุมมองแบบถือด้วยมือด้านข้างที่ดูเป็นกันเองและหลวมๆ พร้อมการเคลื่อนไหวของกล้องที่เป็นธรรมชาติ
 
-**00:10–00:12**: Side close-up. Someone off-camera greets her. She turns her head, raises her hand, smiles warmly, and says casually: "Annyeong (Hello)". The camera's reaction is half a beat slow.
+**00:10–00:12**: ภาพโคลสอัพด้านข้าง มีคนนอกเฟรมทักทายเธอ เธอหันศีรษะ ยกมือขึ้น ยิ้มอย่างอบอุ่น และพูดอย่างเป็นกันเองว่า: "Annyeong (สวัสดี)" ปฏิกิริยาของกล้องช้ากว่าจังหวะจริงไปครึ่งจังหวะ
 
-**00:12–00:15**: She holds the coffee cup and walks slowly along a tree-lined residential path. She notices the camera, gives a small and sincere smile, then looks away and continues walking. The video cuts off suddenly to a black screen mid-action, as if the camera were abruptly turned off.
+**00:12–00:15**: เธอถือแก้วกาแฟและเดินช้าๆ ไปตามทางเดินในย่านที่พักอาศัยที่มีต้นไม้เรียงราย เธอสังเกตเห็นกล้อง จึงยิ้มเล็กน้อยอย่างจริงใจ จากนั้นก็หันหน้าหนีและเดินต่อไป วิดีโอตัดเข้าสู่หน้าจอดำทันทีกลางคัน เหมือนกับว่ากล้องถูกปิดลงอย่างกะทันหัน
 
-**Audio**: Keep only natural ambient sounds—morning birdsong, distant motorcycle sounds, breeze, rustling leaves, faint neighborhood chatter, cat meows, footsteps on concrete, fabric moving on the clothesline, and subtle residential atmosphere. No music. No sound design. No narration.
+**เสียง**: เก็บเฉพาะเสียงบรรยากาศที่เป็นธรรมชาติเท่านั้น เช่น เสียงนกร้องตอนเช้า เสียงมอเตอร์ไซค์จากที่ไกลๆ เสียงลม เสียงใบไม้ไหว เสียงพูดคุยแผ่วเบาในละแวกบ้าน เสียงแมวร้อง เสียงฝีเท้าบนพื้นคอนกรีต เสียงผ้าที่เคลื่อนไหวบนราวตากผ้า และบรรยากาศที่อยู่อาศัยที่ละเอียดอ่อน ไม่มีดนตรีประกอบ ไม่มีการออกแบบเสียง และไม่มีการบรรยาย
 
-**Goal**: Capture authentic Korean neighborhood life, making it look like a forgotten early 2000s home video—candid, imperfect, realistic, warm, and highly convincing.
+**เป้าหมาย**: จับภาพชีวิตในย่านที่พักอาศัยของเกาหลีที่สมจริง ทำให้ดูเหมือนวิดีโอโฮมวิดีโอยุค 2000s ที่ถูกลืมเลือน ซึ่งมีความเป็นธรรมชาติ ไม่สมบูรณ์แบบ สมจริง อบอุ่น และน่าเชื่อถืออย่างยิ่ง
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072495560834310144/img/3bm4ZHYbMJfnNC4q.jpg" width="600" alt="Nostalgic Early 2000s DV Style Korean Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072495560834310144/img/3bm4ZHYbMJfnNC4q.jpg" width="600" alt="Vlog สไตล์เกาหลี ยุค 2000s ต้นๆ ให้ความรู้สึกย้อนวันวานด้วยกล้อง DV">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=6724)**
 
 **ผู้เขียน:** [Zero Lu](https://x.com/zerolu_eth) | **แหล่งที่มา:** [Link](https://x.com/zerolu_eth/status/2072495845489185102) | **เผยแพร่เมื่อ:** Jul 2, 2026
 
 ---
-### Cinematic 4K Bridal Video
+### วิดีโอเจ้าสาวระดับ Cinematic 4K
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed multi-shot cinematic prompt for generating a high-detail luxury wedding film featuring a bride, used for comparing Seedance 2.0 and Kling.
+> ชุดคำสั่ง (Prompt) สำหรับสร้างภาพยนตร์งานแต่งงานสุดหรูแบบ Cinematic ที่มีรายละเอียดสูง โดยใช้หลายมุมกล้อง เพื่อนำไปเปรียบเทียบระหว่าง Seedance 2.0 และ Kling
 
 #### 📝 พรอมต์
 
 ```
-Create a 15-second cinematic bridal video designed to showcase stunning 4K beauty, elegant motion, and luxurious detail. The bride is young, graceful, and exceptionally beautiful, with a clear, luminous, translucent presence. She has soft radiant skin, delicate natural makeup, bright clear eyes, and an elegant gentle smile. Her overall feeling is fresh, pure, refined, romantic, and dreamlike.  The video is a collection of beautiful fleeting moments, each shot feeling delicate, emotional, and visually rich.  0–3s Open with a luminous close-up of the bride’s face in soft natural light. Show her youthful beauty and translucent glow in crisp 4K detail: smooth radiant skin, soft eyelashes, glossy lips, and bright expressive eyes. A gentle breeze moves a few strands of hair and the edge of her veil.  3–6s Cut to graceful detail shots: her slender fingers touching the lace of her dress, the sparkle of a ring, delicate embroidery, pearls, and the airy soft texture of the veil. The details feel pure, elegant, and luxurious, with beautiful light gently reflecting across the fabric.  6–9s Show the bride walking slowly through a bright, dreamy setting while holding a beautiful bouquet. Her veil flows lightly behind her, and the dress moves softly with each step. Emphasize her youthful elegance, soft posture, and the romantic shimmer of the gown.  9–12s Cut to an emotional medium shot as she turns slightly toward the camera. Her smile is soft, innocent, and radiant. The light wraps around her beautifully, enhancing her clear and delicate presence. The veil and dress move gracefully, creating a timeless romantic feeling.  12–15s End with the most breathtaking moment: a beautiful full shot of the bride surrounded by luminous light, bouquet in hand, veil floating elegantly. She pauses in a poised, unforgettable pose, looking like the final frame of a luxury wedding film. Her beauty feels youthful, pure, transparent, and deeply enchanting.  Style and visual direction Ultra-beautiful bridal cinematography, youthful elegance, translucent beauty, emotionally rich, soft, romantic, luxurious, delicate, refined, visually poetic, high-detail 4K imagery, natural light, dreamy glow, premium wedding film feeling, graceful camera movement, strong shot variety, consistent bride appearance, every moment polished and beautiful.
+สร้างวิดีโอเจ้าสาวระดับ Cinematic ความยาว 15 วินาที ที่ออกแบบมาเพื่อโชว์ความสวยงามระดับ 4K การเคลื่อนไหวที่สง่างาม และรายละเอียดที่หรูหรา เจ้าสาวดูอ่อนเยาว์ สง่างาม และสวยงามเป็นพิเศษ มีผิวพรรณที่ดูเปล่งปลั่ง กระจ่างใส และดูมีมิติ เธอมีผิวที่เนียนนุ่มกระจ่างใส แต่งหน้าโทนธรรมชาติที่ดูละมุนตา ดวงตาสดใสเป็นประกาย และมีรอยยิ้มที่อ่อนโยนและสง่างาม บรรยากาศโดยรวมให้ความรู้สึกสดชื่น บริสุทธิ์ ประณีต โรแมนติก และเหมือนอยู่ในความฝัน วิดีโอนี้เป็นการรวบรวมช่วงเวลาที่สวยงามและน่าประทับใจ โดยแต่ละช็อตจะให้ความรู้สึกที่ละเอียดอ่อน เต็มไปด้วยอารมณ์ และมีภาพที่สวยงามตระการตา 0–3 วินาที เปิดด้วยภาพโคลสอัพใบหน้าเจ้าสาวที่ดูเปล่งประกายในแสงธรรมชาติที่นุ่มนวล แสดงให้เห็นความงามที่อ่อนเยาว์และผิวที่กระจ่างใสในรายละเอียดระดับ 4K ที่คมชัด ไม่ว่าจะเป็นผิวที่เนียนละเอียด ขนตาที่ดูนุ่มนวล ริมฝีปากที่ดูชุ่มชื้น และดวงตาที่สดใสสื่ออารมณ์ มีสายลมพัดเบาๆ ทำให้เส้นผมและขอบผ้าคลุมหน้าขยับไหวเล็กน้อย 3–6 วินาที ตัดสลับไปยังภาพรายละเอียดที่สง่างาม เช่น นิ้วเรียวสวยที่สัมผัสกับผ้าลูกไม้ของชุด ความเป็นประกายของแหวน งานปักที่ประณีต ไข่มุก และเนื้อสัมผัสที่บางเบาของผ้าคลุมหน้า รายละเอียดทั้งหมดให้ความรู้สึกบริสุทธิ์ หรูหรา และสง่างาม โดยมีแสงสวยๆ สะท้อนบนเนื้อผ้าอย่างนุ่มนวล 6–9 วินาที แสดงภาพเจ้าสาวเดินช้าๆ ท่ามกลางฉากหลังที่สว่างไสวและดูชวนฝันในมือถือช่อดอกไม้ที่สวยงาม ผ้าคลุมหน้าพริ้วไหวตามหลังและชุดขยับอย่างนุ่มนวลในทุกย่างก้าว เน้นย้ำถึงความสง่างามที่อ่อนเยาว์ ท่าทางที่นุ่มนวล และความโรแมนติกของชุดแต่งงาน 9–12 วินาที ตัดไปยังภาพระยะกลางที่เต็มไปด้วยอารมณ์ขณะที่เธอหันหน้ามาทางกล้องเล็กน้อย รอยยิ้มของเธอดูอ่อนโยน บริสุทธิ์ และเปล่งประกาย แสงที่โอบล้อมตัวเธออย่างสวยงามช่วยเสริมให้เธอดูโดดเด่นและละเอียดอ่อน ผ้าคลุมหน้าและชุดเคลื่อนไหวอย่างสง่างาม สร้างความรู้สึกโรแมนติกเหนือกาลเวลา 12–15 วินาที ปิดท้ายด้วยช่วงเวลาที่น่าทึ่งที่สุด: ภาพเต็มตัวของเจ้าสาวท่ามกลางแสงสว่างที่สวยงาม ในมือถือช่อดอกไม้และผ้าคลุมหน้าที่ลอยพริ้วอย่างสง่างาม เธอหยุดนิ่งในท่าทางที่ดูดีและน่าจดจำ ราวกับเป็นฉากสุดท้ายของภาพยนตร์งานแต่งงานสุดหรู ความงามของเธอให้ความรู้สึกอ่อนเยาว์ บริสุทธิ์ โปร่งใส และมีเสน่ห์อย่างลึกซึ้ง สไตล์และทิศทางภาพ: งานถ่ายทำภาพยนตร์เจ้าสาวที่สวยงามระดับสูงสุด, ความสง่างามที่อ่อนเยาว์, ความงามที่ดูโปร่งแสง, เต็มไปด้วยอารมณ์, นุ่มนวล, โรแมนติก, หรูหรา, ละเอียดอ่อน, ประณีต, มีความเป็นกวีทางภาพ, ภาพความละเอียดสูงระดับ 4K, แสงธรรมชาติ, แสงเรืองรองแบบชวนฝัน, ให้ความรู้สึกเหมือนภาพยนตร์งานแต่งงานระดับพรีเมียม, การเคลื่อนไหวกล้องที่สง่างาม, มีความหลากหลายของมุมกล้อง, รูปลักษณ์ของเจ้าสาวมีความต่อเนื่อง, ทุกช่วงเวลาได้รับการขัดเกลาและสวยงาม
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072487795311218688/img/NmgexAkd40fetwk4.jpg" width="600" alt="Cinematic 4K Bridal Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072487795311218688/img/NmgexAkd40fetwk4.jpg" width="600" alt="วิดีโอเจ้าสาวระดับ Cinematic 4K">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=6731)**
 
 **ผู้เขียน:** [meropan](https://x.com/renataro9) | **แหล่งที่มา:** [Link](https://x.com/renataro9/status/2072489031485833660) | **เผยแพร่เมื่อ:** Jul 2, 2026
 
 ---
-### Vespira the Pestilent Empress Cinematic Sequence
+### ลำดับภาพยนตร์ Vespira the Pestilent Empress
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-fantasy cinematic prompt for Seedance 2.0 that converts a storyboard and character concept into a seamless 15-second video sequence.
+> พรอมต์ภาพยนตร์แนวแฟนตาซีระดับสูงสำหรับ Seedance 2.0 ที่เปลี่ยนสตอรีบอร์ดและแนวคิดตัวละครให้เป็นลำดับวิดีโอความยาว 15 วินาทีที่ไร้รอยต่อ
 
 #### 📝 พรอมต์
 
 ```
 VESPIRA — THE PESTILENT EMPRESS [@1000019684]
 "THE BLOOM OF RUIN"
-Duration: 15 Seconds
-Use the storyboard [@1000019685] as reference only.
-Convert the storyboard into a single seamless cinematic sequence.
-Do not render storyboard panels.
-Do not render
+ระยะเวลา: 15 วินาที
+ใช้สตอรีบอร์ด [@1000019685] เป็นข้อมูลอ้างอิงเท่านั้น
+แปลงสตอรีบอร์ดให้เป็นลำดับภาพยนตร์ที่ต่อเนื่องกันเพียงชุดเดียว
+ห้ามเรนเดอร์ช่องสตอรีบอร์ด
+ห้ามเรนเดอร์
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072463131406893056/img/iwMu0aL3uRDhPrIi.jpg" width="600" alt="Vespira the Pestilent Empress Cinematic Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072463131406893056/img/iwMu0aL3uRDhPrIi.jpg" width="600" alt="ลำดับภาพยนตร์ Vespira the Pestilent Empress">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=6736)**
 
@@ -1507,49 +1507,49 @@ Do not render
 **ผู้เขียน:** [Serena Pei](https://x.com/spei04) | **แหล่งที่มา:** [Link](https://x.com/spei04/status/2072441161298616340) | **เผยแพร่เมื่อ:** Jul 1, 2026
 
 ---
-### Biomechanical Angel Space Cathedral Transformation
+### การเปลี่ยนร่างเป็นทูตสวรรค์ชีวกลไกในมหาวิหารอวกาศ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic cinematic video prompt for Seedance 2.0 describing a sci-fi fantasy transformation of a human into a biomechanical angel within a celestial cathedral in deep space.
+> พรอมต์วิดีโอระดับภาพยนตร์สุดอลังการสำหรับ Seedance 2.0 ที่บรรยายถึงการเปลี่ยนร่างแนวไซไฟแฟนตาซีของมนุษย์ให้กลายเป็นทูตสวรรค์ชีวกลไกภายในมหาวิหารศักดิ์สิทธิ์กลางห้วงอวกาศลึก
 
 #### 📝 พรอมต์
 
 ```
-15-second ultra-cinematic sci-fi fantasy transformation sequence inside a colossal abandoned celestial cathedral floating in deep space.
+ลำดับภาพการเปลี่ยนร่างแนวไซไฟแฟนตาซีระดับอัลตราซีนีมาติกความยาว 15 วินาที ภายในมหาวิหารศักดิ์สิทธิ์ขนาดมหึมาที่ถูกทิ้งร้างและลอยเคว้งอยู่ในห้วงอวกาศลึก
 
-A lone human stands beneath enormous mechanical arches surrounded by ancient celestial machinery. Gigantic rotating rings, broken stained-glass windows, and forgotten angelic statues drift silently in zero gravity while distant stars illuminate the cathedral.
+มนุษย์คนหนึ่งยืนอยู่ใต้ซุ้มโค้งกลไกขนาดใหญ่ที่รายล้อมไปด้วยเครื่องจักรโบราณแห่งสรวงสวรรค์ วงแหวนยักษ์ที่กำลังหมุน หน้าต่างกระจกสีที่แตกหัก และรูปปั้นทูตสวรรค์ที่ถูกลืมเลือนลอยอยู่อย่างเงียบเชียบในสภาวะไร้น้ำหนัก ขณะที่ดวงดาวอันไกลโพ้นส่องแสงสว่างไสวให้กับมหาวิหาร
 
-The atmosphere is sacred, mysterious, and awe-inspiring.
+บรรยากาศเต็มไปด้วยความศักดิ์สิทธิ์ ลึกลับ และน่าเกรงขาม
 
-The camera slowly circles around the human as dormant celestial machines begin awakening. Soft white light pulses through the cathedral. Massive mechanical gears rotate for the first time in centuries.
+กล้องค่อย ๆ เคลื่อนวนรอบตัวมนุษย์ขณะที่เครื่องจักรแห่งสรวงสวรรค์ที่หลับใหลเริ่มตื่นขึ้น แสงสีขาวนวลเต้นเร้าไปทั่วทั้งมหาวิหาร เฟืองกลไกขนาดมหึมาหมุนวนเป็นครั้งแรกในรอบหลายศตวรรษ
 
-Tiny streams of liquid silver nanometal emerge from the cathedral floor and flow toward the human.
+สายธารเล็ก ๆ ของนาโนโลหะสีเงินเหลวผุดขึ้นจากพื้นมหาวิหารและไหลเข้าหามนุษย์
 
-The transformation begins.
+การเปลี่ยนร่างเริ่มต้นขึ้น
 
-The liquid metal climbs across the body like living mercury, weaving seamlessly beneath the skin. Luminous white circuits spread through the arms, chest, and face like sacred veins.
+โลหะเหลวไต่ไปตามร่างกายราวกับปรอทที่มีชีวิต ถักทออย่างแนบเนียนอยู่ใต้ผิวหนัง วงจรแสงสีขาวสว่างกระจายไปทั่วแขน หน้าอก และใบหน้า ราวกับเส้นเลือดศักดิ์สิทธิ์
 
-The camera pushes closer as elegant biomechanical structures form naturally around the skeleton. Carbon-fiber muscles, titanium tendons, and glowing energy cores replace organic anatomy while preserving graceful human proportions.
+กล้องซูมเข้าไปใกล้ขึ้นขณะที่โครงสร้างชีวกลไกอันสง่างามก่อตัวขึ้นอย่างเป็นธรรมชาติรอบโครงกระดูก กล้ามเนื้อคาร์บอนไฟเบอร์ เอ็นไทเทเนียม และแกนพลังงานเรืองแสงเข้ามาแทนที่กายวิภาคแบบเดิม โดยยังคงสัดส่วนความเป็นมนุษย์ที่งดงามไว้
 
-The transformation accelerates.
+การเปลี่ยนร่างเร่งความเร็วขึ้น
 
-Intricate mechanical feathers emerge from the shoulder blades one by one. Thousands of articulated white-metal feathers unfold with perfect precision, each feather glowing softly with celestial energy.
+ขนนกกลไกที่ซับซ้อนค่อย ๆ งอกออกมาจากกระดูกสะบักทีละชิ้น ขนนกโลหะสีขาวนับพันชิ้นกางออกด้วยความแม่นยำสมบูรณ์แบบ โดยขนนกแต่ละชิ้นเรืองแสงอ่อน ๆ ด้วยพลังงานแห่งสรวงสวรรค์
 
-Golden halos composed of rotating mechanical rings materialize behind the head. Floating fragments of ancient technology orbit around the transforming figure.
+รัศมีสีทองที่ประกอบด้วยวงแหวนกลไกหมุนวนปรากฏขึ้นด้านหลังศีรษะ เศษซากเทคโนโลยีโบราณที่ลอยอยู่โคจรรอบร่างที่กำลังเปลี่ยนไป
 
-The cathedral responds. Gigantic celestial engines ignite. Beams of divine light pierce through shattered stained glass while floating debris begins orbiting the awakened being.
+มหาวิหารตอบสนอง เครื่องยนต์แห่งสรวงสวรรค์ขนาดมหึมาจุดระเบิด ลำแสงแห่งเทพเจ้าพุ่งผ่านกระจกสีที่แตกหัก ขณะที่เศษซากที่ลอยอยู่เริ่มโคจรรอบสิ่งมีชีวิตที่ตื่นขึ้น
 
-At the climax, the human becomes a magnificent Biomechanical Angel , a perfect fusion of organic life, sacred technology, and divine engineering. Brilliant white wings span across the cathedral while luminous blue-white energy flows through every mechanical feather.
+ในช่วงจุดสูงสุด มนุษย์ได้กลายเป็น Biomechanical Angel ที่สง่างาม ซึ่งเป็นการผสมผสานที่สมบูรณ์แบบระหว่างสิ่งมีชีวิต เทคโนโลยีศักดิ์สิทธิ์ และวิศวกรรมจากสรวงสวรรค์ ปีกสีขาวสว่างไสวกางออกครอบคลุมทั่วทั้งมหาวิหาร ขณะที่พลังงานสีฟ้าขาวเรืองแสงไหลผ่านขนนกกลไกทุกชิ้น
 
-Final cinematic moment: the Biomechanical Angel slowly opens both wings. Countless mechanical feathers release into space as radiant particles. The cathedral comes fully alive while the angel ascends through a colossal opening toward the stars, leaving glowing trails of celestial light behind.
+ช่วงเวลาสุดท้ายของภาพยนตร์: Biomechanical Angel ค่อย ๆ กางปีกทั้งสองข้างออก ขนนกกลไกนับไม่ถ้วนหลุดลอยออกไปในอวกาศราวกับอนุภาคที่เปล่งประกาย มหาวิหารกลับมามีชีวิตอย่างเต็มที่ในขณะที่ทูตสวรรค์ทะยานขึ้นผ่านช่องเปิดขนาดมหึมามุ่งหน้าสู่ดวงดาว ทิ้งไว้เพียงร่องรอยแสงสว่างแห่งสรวงสวรรค์เบื้องหลัง
 
-Style: ultra-cinematic sci-fi fantasy, biomechanical realism, celestial technology, photoreal nanometal transformation, articulated mechanical wings, divine architecture, volumetric god rays, white and gold aesthetic, premium cinematic VFX, AAA film quality, no text, no overlays.
+สไตล์: ไซไฟแฟนตาซีระดับอัลตราซีนีมาติก, ความสมจริงแบบชีวกลไก, เทคโนโลยีแห่งสรวงสวรรค์, การเปลี่ยนร่างด้วยนาโนโลหะที่สมจริงดั่งภาพถ่าย, ปีกกลไกที่ขยับได้, สถาปัตยกรรมแห่งเทพเจ้า, ลำแสงเทพเจ้าแบบวอลลูเมตริก, โทนสีขาวและทอง, VFX ระดับพรีเมียม, คุณภาพระดับภาพยนตร์ AAA, ไม่มีข้อความ, ไม่มีส่วนซ้อนทับ
 
-Audio: epic celestial orchestral score, angelic choir, deep mechanical resonance, servo movements, metallic feather articulation, divine energy hums, cathedral ambience, cosmic atmosphere, transcendent cinematic crescendo.
+เสียง: ดนตรีออร์เคสตราแห่งสรวงสวรรค์สุดอลังการ, เสียงประสานของทูตสวรรค์, เสียงก้องของกลไกที่ลึกซึ้ง, เสียงการเคลื่อนไหวของเซอร์โว, เสียงการขยับของขนนกโลหะ, เสียงฮัมของพลังงานศักดิ์สิทธิ์, บรรยากาศของมหาวิหาร, บรรยากาศแห่งจักรวาล, จุดสูงสุดของภาพยนตร์ที่เหนือระดับ
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072409972923568128/pu/img/F_cLXEfG2xEULFsD.jpg" width="600" alt="Biomechanical Angel Space Cathedral Transformation">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072409972923568128/pu/img/F_cLXEfG2xEULFsD.jpg" width="600" alt="การเปลี่ยนร่างเป็นทูตสวรรค์ชีวกลไกในมหาวิหารอวกาศ">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=6735)**
 
@@ -1731,19 +1731,19 @@ Audio: epic celestial orchestral score, angelic choir, deep mechanical resonance
 **ผู้เขียน:** [simeon-sanai](https://x.com/Naiknelofar788) | **แหล่งที่มา:** [Link](https://x.com/Naiknelofar788/status/2072313649222517140) | **เผยแพร่เมื่อ:** Jul 1, 2026
 
 ---
-### Fantasy Warrior Transformation Sequence
+### ฉากการแปลงร่างของนักรบแฟนตาซี
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-fidelity cinematic prompt for a continuous fantasy action sequence featuring an East Asian warrior woman's transformation on a volcanic battlefield.
+> พรอมต์ภาพยนตร์ความละเอียดสูงสำหรับฉากแอ็กชันแฟนตาซีต่อเนื่อง ที่แสดงการแปลงร่างของนักรบหญิงชาวเอเชียตะวันออกบนสมรภูมิภูเขาไฟ
 
 #### 📝 พรอมต์
 
 ```
-A continuous cinematic fantasy action sequence of a young East Asian warrior woman. She is crawling on a cracked icy battlefield, desperately holding up a glowing teardrop-shaped red crystal amulet set in a gold crescent. Suddenly, a massive surge of fiery energy explodes from the crystal, instantly shattering the ice and turning the entire landscape into a volcanic crater filled with flowing magma and ruined stone pillars. The woman levitates high into the air as intense, swirling vortices of fire wrap around her body. In mid-air, the flames materialize into a highly detailed crimson and gold fantasy dress with metallic arm guards and a flowing cape. A blazing crown of pure fire forms on her forehead, and her eyes snap open, glowing with intense, fiery heart-shaped patterns. She raises her hand to summon an intricate, giant golden magical circle in front of her, unleashing a catastrophic, blinding explosion of fire that obliterates everything in sight. 8K ultra-realism, high-fidelity VFX, dynamic camera angles, cinematic lighting, and epic scale.
+ฉากแอ็กชันแฟนตาซีต่อเนื่องในรูปแบบภาพยนตร์ของนักรบหญิงชาวเอเชียตะวันออกผู้เยาว์วัย เธอคลานอยู่บนสมรภูมิที่เต็มไปด้วยน้ำแข็งแตกละเอียด พยายามถือเครื่องรางคริสตัลสีแดงรูปหยดน้ำที่ส่องแสงประดับอยู่บนเสี้ยวจันทร์ทองคำไว้อย่างสุดกำลัง ทันใดนั้น พลังงานความร้อนมหาศาลก็ระเบิดออกมาจากคริสตัล ทำให้น้ำแข็งแตกกระจายในทันทีและเปลี่ยนภูมิทัศน์ทั้งหมดให้กลายเป็นปล่องภูเขาไฟที่เต็มไปด้วยลาวาไหลหลากและเสาหินที่พังทลาย หญิงสาวลอยตัวขึ้นสูงในอากาศขณะที่กระแสลมวนของเปลวไฟอันรุนแรงโอบล้อมร่างกายของเธอ กลางอากาศ เปลวไฟก่อตัวเป็นชุดแฟนตาซีสีแดงและทองที่มีรายละเอียดสูง พร้อมเกราะแขนโลหะและผ้าคลุมที่พลิ้วไหว มงกุฎเพลิงบริสุทธิ์ก่อตัวขึ้นบนหน้าผากของเธอ และเธอลืมตาขึ้น ดวงตาเปล่งประกายด้วยลวดลายรูปหัวใจอันร้อนแรง เธอชูมือขึ้นเพื่อเรียกวงเวทสีทองขนาดใหญ่ที่ซับซ้อนออกมาเบื้องหน้า ปลดปล่อยการระเบิดของเปลวไฟที่รุนแรงและสว่างจ้าจนทำลายล้างทุกสิ่งที่ขวางหน้า ความละเอียดระดับ 8K, VFX ความคมชัดสูง, มุมกล้องแบบไดนามิก, แสงแบบภาพยนตร์ และสเกลที่ยิ่งใหญ่อลังการ
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072306060656877568/pu/img/5KqqnDimee6Gzbf8.jpg" width="600" alt="Fantasy Warrior Transformation Sequence">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072306060656877568/pu/img/5KqqnDimee6Gzbf8.jpg" width="600" alt="ฉากการแปลงร่างของนักรบแฟนตาซี">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=6729)**
 
@@ -2502,38 +2502,38 @@ A continuous cinematic fantasy action sequence of a young East Asian warrior wom
 **ผู้เขียน:** [DeCat](https://x.com/DeCat2025) | **แหล่งที่มา:** [Link](https://x.com/DeCat2025/status/2072116580046282974) | **เผยแพร่เมื่อ:** Jul 1, 2026
 
 ---
-### Tokyo Summer Travel Vlog Montage
+### วิดีโอรวมคลิปท่องเที่ยวโตเกียวช่วงฤดูร้อน
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed multi-shot prompt for creating a 15-second travel vlog montage in Tokyo with 10 consistent scenes featuring a character in iconic city locations.
+> คำสั่ง (Prompt) แบบละเอียดสำหรับสร้างวิดีโอรวมคลิปท่องเที่ยวโตเกียวความยาว 15 วินาที โดยมีฉากต่อเนื่อง 10 ฉากที่แสดงตัวละครในสถานที่สำคัญของเมือง
 
 #### 📝 พรอมต์
 
 ```
-Use the reference grid image as the source of the same girl and her 10 summer travel scenes in Tokyo.
-Create a single 15-second feel-good travel-vlog montage, 16:9 horizontal, flowing through all 10 scenes
-in order as quick handheld phone shots, about 1.5 seconds each, snappy cuts on the beat.
-The same girl in every shot with consistent face and hairstyle; in each shot her outfit matches that scene in the reference.
-Throughout, she radiates excitement and joy — bright eyes, easy smiles, playful energy — and each shot shows off
-what makes that spot special. Authentic smartphone look, natural ambient light, subtle grain, light handheld motion.
-Bright, joyful sightseeing music that conveys the fun of travel, around 125 bpm.
+ใช้ภาพตารางอ้างอิงเป็นแหล่งข้อมูลสำหรับตัวละครเด็กผู้หญิงคนเดิมและฉากท่องเที่ยวโตเกียวช่วงฤดูร้อนทั้ง 10 ฉาก
+สร้างวิดีโอรวมคลิปท่องเที่ยวแนว Feel-good ความยาว 15 วินาที ในรูปแบบแนวนอน 16:9 โดยร้อยเรียงทั้ง 10 ฉาก
+ตามลำดับด้วยสไตล์การถ่ายทำแบบถือกล้องด้วยมือ (Handheld) ความยาวฉากละประมาณ 1.5 วินาที ตัดสลับฉากอย่างรวดเร็วให้เข้ากับจังหวะเพลง
+ตัวละครเด็กผู้หญิงคนเดิมในทุกฉาก ใบหน้าและทรงผมคงที่ ชุดที่สวมใส่ในแต่ละฉากต้องตรงกับภาพอ้างอิง
+ตลอดทั้งวิดีโอ เธอต้องแสดงออกถึงความตื่นเต้นและความสุข ทั้งแววตาที่สดใส รอยยิ้มที่เป็นธรรมชาติ และพลังงานที่สนุกสนาน โดยแต่ละฉากต้องแสดงจุดเด่นของสถานที่นั้นๆ
+ให้ความรู้สึกเหมือนถ่ายด้วยสมาร์ทโฟนจริง แสงธรรมชาติ มีสัญญาณรบกวน (Grain) เล็กน้อย และมีการเคลื่อนไหวแบบถือกล้องด้วยมือ
+ใช้เพลงประกอบแนวท่องเที่ยวที่สดใสและสนุกสนาน จังหวะประมาณ 125 bpm
 
-Shot 1 — Inokashira pond swan boat: she laughs with delight and rocks the pedal boat, sparkling water and a swan boat gliding behind, warm sun flare.
-Shot 2 — cafe matcha kakigori: eyes lighting up, she lifts a spoonful of fluffy shaved ice toward the camera and beams, the towering dessert in frame.
-Shot 3 — Harmonica Yokocho alley at night: she strolls through the glowing red-lantern alley, glances back with an excited grin, lively izakaya signs around her.
-Shot 4 — hotel mirror selfie: a happy, relaxed mirror selfie, she tilts her head and smiles softly, calm window light, cozy room mood.
-Shot 5 — summer festival night: she bites a bright candy apple and bursts into a giggle, swaying paper lanterns and a buzzing crowd behind her.
-Shot 6 — golden-hour window selfie: an arm's-length selfie bathed in warm sunset light, soft hair movement, a contented joyful smile.
-Shot 7 — ivy-covered Ghibli-style museum: she gazes up in wonder, spinning slightly to take it all in as the camera tilts up the lush green facade.
-Shot 8 — Inokashira park path: she crouches with a delighted laugh and points as a small squirrel scampers by, dappled sunlight, playful energy.
-Shot 9 — Harajuku shop window with bubble tea: she sips happily through a straw, her reflection shimmering in the glass, the bustling colorful street behind.
-Shot 10 — on the train home: a calm, satisfied selfie, hand on her cheek, city skyline streaking past the window, a soft fulfilled smile.
+ฉากที่ 1 — เรือเป็ดที่สวนสาธารณะ Inokashira: เธอหัวเราะอย่างมีความสุขและโยกเรือถีบ มีประกายน้ำและเรือเป็ดลำอื่นลอยอยู่ด้านหลัง พร้อมแสงแดดอุ่นๆ
+ฉากที่ 2 — คาเฟ่คากิโกริรสชาเขียว: แววตาเป็นประกาย เธอตักน้ำแข็งไสฟูๆ ขึ้นมาทางกล้องแล้วยิ้มกว้าง โดยมีขนมหวานถ้วยใหญ่เป็นฉากหน้า
+ฉากที่ 3 — ตรอก Harmonica Yokocho ยามค่ำคืน: เธอเดินเล่นผ่านตรอกที่มีโคมไฟสีแดงส่องสว่าง หันกลับมามองพร้อมรอยยิ้มตื่นเต้น มีป้ายร้านอิซากายะที่มีชีวิตชีวาอยู่รอบตัว
+ฉากที่ 4 — เซลฟี่หน้ากระจกในโรงแรม: เซลฟี่แบบมีความสุขและผ่อนคลาย เธอเอียงคอและยิ้มอย่างอ่อนโยน แสงจากหน้าต่างดูนุ่มนวล บรรยากาศห้องที่อบอุ่น
+ฉากที่ 5 — งานเทศกาลฤดูร้อนยามค่ำคืน: เธอกัดแอปเปิลเคลือบน้ำตาลแล้วหัวเราะคิกคัก มีโคมไฟกระดาษแกว่งไกวและฝูงชนที่คึกคักอยู่ด้านหลัง
+ฉากที่ 6 — เซลฟี่ริมหน้าต่างช่วง Golden Hour: เซลฟี่ระยะแขนที่อาบไปด้วยแสงอาทิตย์อัสดงอันอบอุ่น ผมขยับเบาๆ พร้อมรอยยิ้มแห่งความสุข
+ฉากที่ 7 — พิพิธภัณฑ์สไตล์ Ghibli ที่ปกคลุมด้วยไม้เลื้อย: เธอมองขึ้นไปด้วยความประหลาดใจ หมุนตัวเล็กน้อยเพื่อชมบรรยากาศขณะที่กล้องแพนขึ้นไปตามอาคารสีเขียวชอุ่ม
+ฉากที่ 8 — ทางเดินในสวน Inokashira: เธอนั่งยองๆ พร้อมเสียงหัวเราะอย่างชอบใจและชี้ไปที่กระรอกตัวน้อยที่วิ่งผ่านไป มีแสงแดดรำไรและพลังงานที่สนุกสนาน
+ฉากที่ 9 — หน้าร้านใน Harajuku กับชานมไข่มุก: เธอจิบชานมอย่างมีความสุขผ่านหลอด เห็นเงาสะท้อนของเธอในกระจก และถนนที่มีสีสันสดใสอยู่ด้านหลัง
+ฉากที่ 10 — บนรถไฟขากลับ: เซลฟี่แบบสงบและพึงพอใจ มือแตะที่แก้ม มองเห็นเส้นขอบฟ้าของเมืองเคลื่อนผ่านหน้าต่างไป พร้อมรอยยิ้มที่เต็มไปด้วยความสุข
 
-Smooth energetic flow from shot to shot, consistent color and grain throughout, upbeat happy travel-diary mood.
+ร้อยเรียงแต่ละฉากให้ลื่นไหลและมีพลัง สีและ Grain คงที่ตลอดทั้งวิดีโอ ให้บรรยากาศแบบบันทึกการท่องเที่ยวที่สนุกสนานและสดใส
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072069190790561792/img/rHCf0Al61tzVOv2a.jpg" width="600" alt="Tokyo Summer Travel Vlog Montage">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072069190790561792/img/rHCf0Al61tzVOv2a.jpg" width="600" alt="วิดีโอรวมคลิปท่องเที่ยวโตเกียวช่วงฤดูร้อน">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=6730)**
 
@@ -3607,6 +3607,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-07-03T07:42:20.554Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-07-03T10:55:47.662Z</sub>
 
 </div>

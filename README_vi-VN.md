@@ -361,26 +361,26 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
-### Fashion Editorial Aesthetic Vlog
+### Vlog Thẩm mỹ Biên tập Thời trang
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional vlog-style prompt for generating high-fashion content with stylish cuts, soft cinematic lighting, and consistent character presentation.
+> Một câu lệnh (prompt) theo phong cách vlog chuyên nghiệp để tạo nội dung thời trang cao cấp với các đoạn cắt sành điệu, ánh sáng điện ảnh dịu nhẹ và hình ảnh nhân vật nhất quán.
 
 #### 📝 Prompt
 
 ```
-15 seconds, 16:9 vertical, quick stylish cuts between segments (4-5 short beats), glossy aesthetic-vlog pacing, smooth whip-pan or snap transitions between each.
-Global setup: High fashion aesthetic content-creator video. Soft glowing key light, shallow depth of field, slightly warm cinematic color grade. Subject: a confident young woman, stylish trendy outfit, changes look/setting slightly between beats (different lighting or background each cut, same general styling identity). Ambient sound: moody downtempo pop/R&B instrumental, subtle beat drops synced to cut transitions.
-[0:00–0:03] Close-up, soft warm light, she looks off to the side with a calm confident expression, then slowly turns to meet the camera. Slow push-in.
-[0:03–0:06] Cut to a different angle/setting, cooler blue-toned lighting, she runs a hand through her hair, subtle self-assured smile, gaze steady on camera.
-[0:06–0:09] Cut to outdoor golden-hour lighting, she walks slowly toward camera, wind gently moving her hair and clothing, confident relaxed stride.
-[0:09–0:12] Cut to close-up under neon-tinted lighting, she glances down then back up at camera with a slow deliberate look, beat-synced snap transition.
-[0:12–0:15] Final cut, soft studio lighting, she gives a small satisfied smile directly to camera, holds the moment, slow fade to black.
-Style: glossy editorial color grade, soft cinematic lighting throughout, confident expressive body language, no text overlays, no distorted anatomy or facial features. Constraints: consistent styling identity across cuts (even as background/lighting changes), natural realistic movement, transitions synced to the beat of the music, believable naturalistic expressions throughout.
+15 giây, dọc 16:9, các đoạn cắt nhanh sành điệu giữa các phân cảnh (4-5 nhịp ngắn), nhịp độ vlog thẩm mỹ bóng bẩy, chuyển cảnh mượt mà bằng kỹ thuật whip-pan hoặc snap.
+Thiết lập tổng thể: Video nhà sáng tạo nội dung thẩm mỹ thời trang cao cấp. Ánh sáng chính dịu nhẹ, độ sâu trường ảnh nông, chỉnh màu điện ảnh hơi ấm. Chủ thể: một phụ nữ trẻ tự tin, trang phục thời thượng, thay đổi diện mạo/bối cảnh nhẹ giữa các nhịp (ánh sáng hoặc nền khác nhau ở mỗi lần cắt, nhưng vẫn giữ phong cách chung). Âm thanh môi trường: nhạc không lời pop/R&B downtempo tâm trạng, các nhịp đập tinh tế được đồng bộ với các lần chuyển cảnh.
+[0:00–0:03] Cận cảnh, ánh sáng ấm dịu, cô ấy nhìn sang một bên với vẻ mặt bình tĩnh tự tin, sau đó từ từ quay lại nhìn vào camera. Chuyển động máy quay tiến gần chậm.
+[0:03–0:06] Chuyển sang góc/bối cảnh khác, ánh sáng tông xanh lạnh hơn, cô ấy vuốt tóc, nụ cười tự tin tinh tế, ánh mắt nhìn thẳng vào camera.
+[0:06–0:09] Chuyển sang ánh sáng giờ vàng ngoài trời, cô ấy bước chậm về phía camera, gió nhẹ làm chuyển động tóc và quần áo, sải bước tự tin thoải mái.
+[0:09–0:12] Chuyển sang cận cảnh dưới ánh sáng đèn neon, cô ấy nhìn xuống rồi nhìn lại vào camera với ánh nhìn chậm rãi, có chủ đích, chuyển cảnh snap đồng bộ theo nhịp.
+[0:12–0:15] Cắt cuối, ánh sáng studio dịu nhẹ, cô ấy nở nụ cười hài lòng nhỏ trực tiếp vào camera, giữ khoảnh khắc, mờ dần sang đen.
+Phong cách: chỉnh màu biên tập bóng bẩy, ánh sáng điện ảnh dịu nhẹ xuyên suốt, ngôn ngữ cơ thể biểu cảm tự tin, không có lớp phủ văn bản, không bị biến dạng giải phẫu hoặc các đặc điểm khuôn mặt. Ràng buộc: phong cách nhất quán giữa các lần cắt (ngay cả khi nền/ánh sáng thay đổi), chuyển động tự nhiên chân thực, chuyển cảnh đồng bộ với nhịp nhạc, biểu cảm tự nhiên đáng tin cậy xuyên suốt.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072787072960851968/img/jqmc52nK2J2duWVX.jpg" width="600" alt="Fashion Editorial Aesthetic Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072787072960851968/img/jqmc52nK2J2duWVX.jpg" width="600" alt="Vlog Thẩm mỹ Biên tập Thời trang">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6734)**
 
@@ -484,51 +484,51 @@ Sự kết hợp giữa chủ nghĩa hiện thực 3D điện ảnh cao cấp v�
 **Tác giả:** [BMX](https://x.com/bmx_ai13) | **Nguồn:** [Link](https://x.com/bmx_ai13/status/2072809793429876745) | **Đã xuất bản:** Jul 2, 2026
 
 ---
-### POV Suspense Anime Chase
+### POV Cảnh rượt đuổi trong Anime kịch tính
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A cinematic Japanese anime prompt for a suspenseful point-of-view chase scene between a girl and a cat, featuring high-quality 2D animation and dynamic camera movements.
+> Một câu lệnh (prompt) tạo video anime Nhật Bản đậm chất điện ảnh, mô tả cảnh rượt đuổi ở góc nhìn thứ nhất (POV) giữa một cô gái và một chú mèo, với hoạt ảnh 2D chất lượng cao và các chuyển động camera linh hoạt.
 
 #### 📝 Prompt
 
 ```
-[Main Character] = Girl with black hair
-[Target/Subject] = White cat
-[Setting] = Inside a large, dark house with suspenseful elements
+[Nhân vật chính] = Cô gái tóc đen
+[Mục tiêu/Đối tượng] = Mèo trắng
+[Bối cảnh] = Bên trong một ngôi nhà lớn, tối tăm với các yếu tố kịch tính
 
-[Video Style]
-15 seconds. Japanese full-color anime. High-density 2D animation with a 500 million yen budget feel. Fast cuts, strong low angles, rapid push-ins, lateral tracking, match cuts. No subtitles, no watermarks, with BGM. Sounds include footsteps, breathing, rustling clothes, ambient noise, and one short final phrase.
+[Phong cách Video]
+15 giây. Anime Nhật Bản đầy đủ màu sắc. Hoạt ảnh 2D mật độ cao với cảm giác như được đầu tư ngân sách 500 triệu yên. Cắt cảnh nhanh, góc quay thấp mạnh mẽ, hiệu ứng zoom nhanh, lia máy ngang, cắt cảnh khớp (match cuts). Không phụ đề, không hình mờ, có nhạc nền (BGM). Âm thanh bao gồm tiếng bước chân, tiếng thở, tiếng quần áo sột soạt, tiếng ồn xung quanh và một câu thoại ngắn cuối cùng.
 
-[Visual Composition]
-Subjective POV camera of the [Target/Subject], being chased by the [Main Character]. Instead of a normal chase, the [Main Character] doesn't just run but gets ahead of the camera. An [Abnormal Gimmick] connects all shots, and finally, the [Main Character] wins quietly close to the lens.
+[Bố cục hình ảnh]
+Camera POV chủ quan của [Mục tiêu/Đối tượng], đang bị [Nhân vật chính] truy đuổi. Thay vì một cuộc rượt đuổi thông thường, [Nhân vật chính] không chỉ chạy mà còn vượt lên trước camera. Một [Gimmick bất thường] kết nối tất cả các cảnh quay, và cuối cùng, [Nhân vật chính] chiến thắng một cách lặng lẽ ngay sát ống kính.
 
-[Shot 1: 2-Second Hook]
-Low POV. Starts from the floor of the [Setting]. Only the feet of the [Main Character] enter the edge of the frame. An [Abnormal Gimmick] crosses the foreground for a moment.
+[Cảnh 1: 2 giây đầu gây ấn tượng]
+POV thấp. Bắt đầu từ sàn nhà của [Bối cảnh]. Chỉ có bàn chân của [Nhân vật chính] xuất hiện ở rìa khung hình. Một [Gimmick bất thường] lướt qua tiền cảnh trong chốc lát.
 
-[Shot 2: Escape Starts]
-[Target/Subject] suddenly retreats to flee. The camera slides near the floor with slight handheld shakiness. Footsteps speed up.
+[Cảnh 2: Bắt đầu chạy trốn]
+[Mục tiêu/Đối tượng] đột ngột lùi lại để bỏ chạy. Camera trượt sát sàn nhà với độ rung nhẹ như cầm tay. Tiếng bước chân tăng tốc.
 
-[Shot 3: Getting Ahead]
-As soon as turning a corner, the [Main Character] is already standing in the middle of a distant hallway. The camera stops for a moment then escapes to the side.
+[Cảnh 3: Vượt lên trước]
+Ngay khi rẽ qua góc tường, [Nhân vật chính] đã đứng sẵn ở giữa hành lang phía xa. Camera dừng lại một chút rồi thoát sang một bên.
 
-[Shot 4: Under Obstacles]
-Passing through low gaps like tables, sofas, or handrails. The [Abnormal Gimmick] glows deep in the gap, indicating the pursuit direction.
+[Cảnh 4: Chui qua vật cản]
+Đi qua các khe hở thấp như gầm bàn, ghế sofa hoặc tay vịn. [Gimmick bất thường] phát sáng sâu trong khe hở, chỉ ra hướng truy đuổi.
 
-[Shot 5: High Angle Bird's Eye]
-High-speed cut from directly above. Shows the escape route of the [Target/Subject].
+[Cảnh 5: Góc nhìn từ trên cao (Bird's Eye)]
+Cắt cảnh tốc độ cao từ ngay phía trên. Cho thấy lộ trình chạy trốn của [Mục tiêu/Đối tượng].
 
-[Shot 6: Moment of Relief]
-[Target/Subject] hides behind an object. Sound cuts out. Camera is fixed, only the back of the screen quietly darkens.
+[Cảnh 6: Khoảnh khắc nhẹ nhõm]
+[Mục tiêu/Đối tượng] trốn sau một vật thể. Âm thanh ngắt quãng. Camera cố định, chỉ có phía sau màn hình tối dần một cách lặng lẽ.
 
-[Shot 7: Discovery]
-Focus shifts from foreground to background, where the [Main Character] is located. The [Main Character] doesn't move much, just looks here with their eyes.
+[Cảnh 7: Phát hiện]
+Tiêu điểm chuyển từ tiền cảnh sang hậu cảnh, nơi [Nhân vật chính] đang đứng. [Nhân vật chính] không di chuyển nhiều, chỉ nhìn vào đây bằng ánh mắt của mình.
 
-[Shot 8: Final Word]
-Rapid close-up. The [Main Character] says 'Found you♪' in a short, cute voice very close to the lens. The final frame is a still image with a smile.
+[Cảnh 8: Câu thoại cuối]
+Cận cảnh nhanh. [Nhân vật chính] nói 'Tìm thấy cậu rồi♪' bằng giọng ngắn, dễ thương ngay sát ống kính. Khung hình cuối cùng là một hình ảnh tĩnh với nụ cười.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072030784333168640/img/940Q6ySKRPVaswlK.jpg" width="600" alt="POV Suspense Anime Chase">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072030784333168640/img/940Q6ySKRPVaswlK.jpg" width="600" alt="POV Cảnh rượt đuổi trong Anime kịch tính">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6727)**
 
@@ -658,21 +658,21 @@ Siêu thực công nghiệp, sản xuất giấc mơ, mô phỏng hơi nước p
 **Tác giả:** [LudovicCreator](https://x.com/LudovicCreator) | **Nguồn:** [Link](https://x.com/LudovicCreator/status/2072742121673494808) | **Đã xuất bản:** Jul 2, 2026
 
 ---
-### Luxury Macro Transformation Sequence
+### Chuỗi chuyển cảnh macro sang trọng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for Seedance 2.0 designed to create a luxury macro commercial sequence using storyboard panel references.
+> Một câu lệnh video điện ảnh cho Seedance 2.0 được thiết kế để tạo ra chuỗi quảng cáo macro sang trọng bằng cách sử dụng các khung hình bảng phân cảnh làm tham chiếu.
 
 #### 📝 Prompt
 
 ```
-Use @ Image as storyboard reference for cinematic sequence. use as first shot 01
+Sử dụng @ Image làm tham chiếu bảng phân cảnh cho chuỗi cảnh điện ảnh. Sử dụng làm cảnh quay đầu tiên 01
 
-A 15-second cinematic macro transformation sequence transitioning through all 9 storyboard panels in strict order. Visual style: luxury macro commercial,
+Một chuỗi chuyển cảnh macro điện ảnh dài 15 giây, chuyển tiếp qua tất cả 9 khung hình bảng phân cảnh theo đúng thứ tự. Phong cách hình ảnh: quảng cáo macro sang trọng,
 ```
 
-<img src="https://cms-assets.youmind.com/media/1783064372965_tks6lw_HMPV9GHWkAAH3iI.jpg" width="600" alt="Luxury Macro Transformation Sequence">
+<img src="https://cms-assets.youmind.com/media/1783064372965_tks6lw_HMPV9GHWkAAH3iI.jpg" width="600" alt="Chuỗi chuyển cảnh macro sang trọng">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6726)**
 
@@ -698,41 +698,41 @@ A 15-second cinematic macro transformation sequence transitioning through all 9 
 **Tác giả:** [Magnific](https://x.com/magnific) | **Nguồn:** [Link](https://x.com/magnific/status/2072731418527170995) | **Đã xuất bản:** Jul 2, 2026
 
 ---
-### 1980s Tokyo Bubble Era VHS Video Prompt
+### Prompt video VHS thời kỳ bong bóng Tokyo thập niên 1980
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive cinematic prompt designed for Seedance, creating a nostalgic 1980s Tokyo street scene with a distinct VHS home-video aesthetic and detailed character movement across multiple time-coded segments.
+> Một prompt điện ảnh toàn diện được thiết kế cho Seedance, tạo ra khung cảnh đường phố Tokyo thập niên 1980 đầy hoài niệm với thẩm mỹ video gia đình VHS đặc trưng và chuyển động nhân vật chi tiết xuyên suốt nhiều phân đoạn có mã thời gian.
 
 #### 📝 Prompt
 
 ```
-Main subject: a beautiful young Japanese woman, early 20s, delicate pretty features, sleek glossy black hair, long and smooth with soft side-swept bangs (NOT permed, NOT frizzy), tasteful natural makeup. 1980s Tokyo street fashion — a bright oversized blazer over a high-waisted skirt, gold hoop earrings, charming warm expression. Maintain the exact same identity, hairstyle, and outfit throughout.
+Chủ thể chính: một phụ nữ trẻ người Nhật xinh đẹp, khoảng đầu 20 tuổi, đường nét thanh tú, mái tóc đen bóng mượt, dài và suôn với phần tóc mái lệch mềm mại (KHÔNG uốn xoăn, KHÔNG xù), trang điểm tự nhiên tinh tế. Thời trang đường phố Tokyo thập niên 1980 — áo blazer oversized sáng màu khoác ngoài chân váy cạp cao, khuyên tai vòng vàng, biểu cảm ấm áp đầy cuốn hút. Duy trì chính xác danh tính, kiểu tóc và trang phục trong suốt video.
 
-Visual Style: authentic 1980s VHS home-video look — heavy tape grain, visible scanlines, chromatic color bleeding, blooming highlights, warm faded nostalgic colors, a small on-screen date stamp in the corner, occasional soft tracking wobble. Strong retro-vintage feeling.
+Phong cách hình ảnh: vẻ ngoài video gia đình VHS thập niên 1980 chân thực — hạt nhiễu băng dày, đường quét (scanlines) có thể nhìn thấy, hiện tượng nhòe màu sắc, vùng sáng rực rỡ (blooming highlights), màu sắc hoài cổ ấm áp phai nhạt, tem ngày tháng nhỏ ở góc màn hình, thỉnh thoảng có độ rung nhẹ của băng từ. Mang lại cảm giác cổ điển mạnh mẽ.
 
-Camera Style: 1980s camcorder held by a friend, MOSTLY STEADY with only a gentle natural float — light sway, no violent shaking, no fast whip movements. Slow casual reframing.
+Phong cách máy quay: máy quay cầm tay thập niên 1980 do một người bạn cầm, CHỦ YẾU LÀ ỔN ĐỊNH với độ trôi tự nhiên nhẹ nhàng — đung đưa nhẹ, không rung lắc dữ dội, không di chuyển nhanh đột ngột. Căn khung hình chậm rãi, tự nhiên.
 
-FIRST HALF — DAYTIME (bustling bubble-era Tokyo streets):
-00:00–00:02 A busy 1980s Shibuya daytime street. She walks toward the camera through period pedestrians, boxy cars and hand-painted shop signs behind her, smiling. HARD CUT.
-00:02–00:04 Outside a record shop, she flips through vinyl records, then grabs a canned drink from a retro vending machine. HARD CUT.
-00:04–00:06 A quiet Showa backstreet with potted plants and a pay phone; she crouches to pet a stray cat. HARD CUT.
-00:06–00:08 A wide crosswalk under an elevated train line, city-pop energy, she waits and glances at the camera. HARD CUT.
+NỬA ĐẦU — BAN NGÀY (đường phố Tokyo thời kỳ bong bóng nhộn nhịp):
+00:00–00:02 Một con phố Shibuya ban ngày nhộn nhịp thập niên 1980. Cô ấy đi về phía máy quay giữa những người đi bộ thời đó, phía sau là những chiếc ô tô vuông vức và biển hiệu cửa hàng vẽ tay, cô ấy đang mỉm cười. CẮT CẢNH ĐỘT NGỘT.
+00:02–00:04 Bên ngoài một cửa hàng đĩa nhạc, cô ấy lật xem các đĩa vinyl, sau đó lấy một lon nước từ máy bán hàng tự động cổ điển. CẮT CẢNH ĐỘT NGỘT.
+00:04–00:06 Một con hẻm nhỏ thời Showa với những chậu cây và bốt điện thoại công cộng; cô ấy cúi xuống vuốt ve một chú mèo hoang. CẮT CẢNH ĐỘT NGỘT.
+00:06–00:08 Một lối băng qua đường rộng dưới đường tàu trên cao, năng lượng city-pop, cô ấy đợi và liếc nhìn vào máy quay. CẮT CẢNH ĐỘT NGỘT.
 
-SECOND HALF — NIGHT (dazzling Shinjuku / Roppongi neon):
-00:08–00:10 A neon-drenched Shinjuku Kabukicho alley, glowing kanji signboards everywhere, she walks looking up at the bright lights. HARD CUT.
-00:10–00:12 A Roppongi crossing at night, dazzling neon, taxis passing, she laughs toward the camera as light reflections wash over her face. HARD CUT.
-00:12–00:13 Close shot under a huge glowing neon sign, colorful light on her face. HARD CUT.
-00:13–00:15 She walks away down a vibrant neon street, glances back with a small warm smile, then the recording cuts to VHS static and black.
+NỬA SAU — BAN ĐÊM (ánh đèn neon rực rỡ ở Shinjuku / Roppongi):
+00:08–00:10 Một con hẻm Kabukicho ở Shinjuku ngập tràn ánh đèn neon, các bảng hiệu chữ kanji rực rỡ khắp nơi, cô ấy đi bộ và nhìn lên những ánh đèn sáng rực. CẮT CẢNH ĐỘT NGỘT.
+00:10–00:12 Ngã tư Roppongi vào ban đêm, đèn neon chói lóa, taxi qua lại, cô ấy cười về phía máy quay khi ánh sáng phản chiếu lướt trên khuôn mặt. CẮT CẢNH ĐỘT NGỘT.
+00:12–00:13 Cận cảnh dưới một bảng hiệu neon khổng lồ rực rỡ, ánh sáng đầy màu sắc trên khuôn mặt cô ấy. CẮT CẢNH ĐỘT NGỘT.
+00:13–00:15 Cô ấy bước đi dọc theo con phố neon sống động, ngoái nhìn lại với nụ cười ấm áp nhẹ nhàng, sau đó bản ghi chuyển sang nhiễu sóng VHS và màn hình đen.
 
-Environment details throughout: retro vending machines, glowing neon kanji signboards, pay phones, boxy 1980s taxis and kei cars, elevated trains, arcade lights, izakaya paper lanterns, dense overhead wires — nostalgic bubble-era Tokyo.
+Chi tiết môi trường xuyên suốt: máy bán hàng tự động cổ điển, bảng hiệu neon chữ kanji rực rỡ, bốt điện thoại công cộng, taxi và xe kei vuông vức thập niên 1980, tàu trên cao, đèn trò chơi điện tử, đèn lồng giấy izakaya, dây điện chằng chịt trên cao — Tokyo thời kỳ bong bóng đầy hoài niệm.
 
-Audio: natural ambient only — city crowd, passing trains, traffic, arcade beeps, faint 1980s city-pop drifting from a storefront, footsteps. No narration, no added soundtrack.
+Âm thanh: chỉ có âm thanh môi trường tự nhiên — tiếng đám đông thành phố, tiếng tàu chạy, tiếng giao thông, tiếng bíp từ trò chơi điện tử, tiếng nhạc city-pop thập niên 1980 thoang thoảng từ cửa hàng, tiếng bước chân. Không lời dẫn, không thêm nhạc nền.
 
-Goal: a beautiful, nostalgic 1980s Tokyo day-to-night street video that feels like a treasured VHS home movie from Japan's bubble era.
+Mục tiêu: một video đường phố Tokyo từ ngày sang đêm thập niên 1980 đẹp đẽ, đầy hoài niệm, tạo cảm giác như một thước phim gia đình VHS quý giá từ thời kỳ bong bóng của Nhật Bản.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072712250092302336/img/ZE1gAAUVygL_T9L4.jpg" width="600" alt="1980s Tokyo Bubble Era VHS Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072712250092302336/img/ZE1gAAUVygL_T9L4.jpg" width="600" alt="Prompt video VHS thời kỳ bong bóng Tokyo thập niên 1980">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6733)**
 
@@ -758,42 +758,42 @@ Goal: a beautiful, nostalgic 1980s Tokyo day-to-night street video that feels li
 **Tác giả:** [Generator](https://x.com/groovestreetgen) | **Nguồn:** [Link](https://x.com/groovestreetgen/status/2072697831467675784) | **Đã xuất bản:** Jul 2, 2026
 
 ---
-### Epic Anime Dragon Rider Battle
+### Trận chiến hoành tráng của kỵ sĩ rồng phong cách anime
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic anime prompt for generating an epic aerial battle between a dragon rider and a swarm of wyverns, featuring MAPPA-style sakuga and dynamic camera work.
+> Một câu lệnh (prompt) anime điện ảnh cực kỳ chi tiết để tạo ra trận chiến trên không hoành tráng giữa một kỵ sĩ rồng và một đàn wyvern, với phong cách sakuga của MAPPA và kỹ thuật quay phim năng động.
 
 #### 📝 Prompt
 
 ```
-A fearless dragon rider with piercing blue eyes, flowing red scarf and lightweight fantasy armor, mounted on a colossal sapphire dragon, rendered in ultra-premium Japanese anime rendering, MAPPA-inspired sakuga, sharp manga linework, vibrant cel shading, dynamic motion smears and cinematic anime lighting + 
-- Dives through thunderclouds above a kingdom besieged by thousands of flying wyverns, camera racing alongside the dragon's wings while lightning illuminates the battlefield below; 
-- Dragon tears through enemy creatures while the rider jumps between airborne monsters, dual blades flashing through the sky, impossible aerial combat unfolding through orbit shots and speed-line transitions; 
-- Dragon and rider combine for a final spiral dive attack, creating a gigantic vortex shockwave that annihilates the entire invading swarm, ending with the kingdom saved beneath golden sunlight while the dragon roars victoriously above the clouds
-Heroic fantasy anime masterpiece, airborne sakuga combat, breathtaking final payoff.
+Một kỵ sĩ rồng dũng cảm với đôi mắt xanh sắc sảo, chiếc khăn quàng đỏ bay trong gió và bộ giáp giả tưởng nhẹ, cưỡi trên lưng một con rồng sapphire khổng lồ, được kết xuất theo phong cách anime Nhật Bản cao cấp, sakuga lấy cảm hứng từ MAPPA, nét vẽ manga sắc nét, đổ bóng cel sống động, hiệu ứng nhòe chuyển động năng động và ánh sáng anime điện ảnh + 
+- Lao xuyên qua những đám mây giông phía trên một vương quốc đang bị hàng ngàn con wyvern bay tấn công, camera đua theo đôi cánh của rồng trong khi tia chớp chiếu sáng chiến trường bên dưới; 
+- Rồng xé toạc các sinh vật kẻ thù trong khi kỵ sĩ nhảy giữa các quái vật trên không, đôi kiếm lóe sáng trên bầu trời, những màn chiến đấu trên không không tưởng diễn ra qua các cú quay vòng và chuyển cảnh bằng đường tốc độ (speed-line); 
+- Rồng và kỵ sĩ kết hợp thực hiện đòn tấn công lao xuống xoắn ốc cuối cùng, tạo ra một làn sóng xung kích xoáy khổng lồ tiêu diệt toàn bộ đàn quái vật xâm lược, kết thúc với cảnh vương quốc được cứu dưới ánh nắng vàng rực rỡ trong khi con rồng gầm vang chiến thắng trên những tầng mây
+Kiệt tác anime giả tưởng anh hùng, chiến đấu sakuga trên không, cái kết mãn nhãn đầy ngoạn mục.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072696809877590016/pu/img/0v9PxR6OcN7ydM8K.jpg" width="600" alt="Epic Anime Dragon Rider Battle">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072696809877590016/pu/img/0v9PxR6OcN7ydM8K.jpg" width="600" alt="Trận chiến hoành tráng của kỵ sĩ rồng phong cách anime">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6725)**
 
 **Tác giả:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Nguồn:** [Link](https://x.com/CharaspowerAI/status/2072696836033233178) | **Đã xuất bản:** Jul 2, 2026
 
 ---
-### Retro VHS Elevator CCTV Style
+### Phong cách CCTV thang máy VHS cổ điển
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A comprehensive video prompt designed to simulate a 90s handheld VHS surveillance recording, featuring a first-person perspective in an elevator with complex character interactions and analog artifacts.
+> Một video prompt toàn diện được thiết kế để mô phỏng bản ghi giám sát VHS cầm tay thập niên 90, với góc nhìn thứ nhất trong thang máy cùng các tương tác nhân vật phức tạp và các hiệu ứng nhiễu analog.
 
 #### 📝 Prompt
 
 ```
-Generate a 9:16 vertical screen retro surveillance video, 15 seconds long (first-person handheld perspective from a mobile phone, mixed with VHS tape damage). The footage must look like a low-res video recorded on a handheld phone in a dim, old elevator, later copied to VHS and played repeatedly, causing heavy damage. No TV frames, no CRT borders, no filming a TV screen; only the full recording itself. The scene is a dim elevator lobby; the doors open, ad screens flicker, and fluorescent lights buzz. Handheld 1st person POV with natural jitter, seeing only my own feet, pants, and hands. Adult Asian female lead (alluring OL, wearing asset HL8o-CobkAAt5LL: alluring figure, tempting gaze, teasing smile, siren pose, slow hip sway) maintains a beautiful, ambiguous smile. Doors open, she pulls me: 'Come in...' I hesitate. A 2D secretary from the ad screen (asset cloudclone28_...) jumps out: 'Master, don't go in!' They argue and scuffle. Timeline: 0-4s wide shot of door opening, siren pose. 4-6s 2D secretary jumps out. 6-9s Lead turns furious, pulls out a chainsaw and a giant hammer to fight. 9-12s I rush in, elevator alarms for overweight. 12-15s Ending: Lead realizes her mistake, apologizes awkwardly; 2D secretary laughs: 'Fatty! I knew you were overweight!' I retreat sweating. Subtitle: 'They didn't want him to stay, the elevator just couldn't close.' Heavy screen tearing and noise. [Lighting] Flickering fluorescent mixed with ad screen light, overexposed character highlights. [Quality] Handheld jitter, focus hunting, low frame rate, VHS scan lines, snow, color crosstalk, analog instability. [Camera] No cinematic moves, only handheld shake and signal drift. [Sound] Muffled microphone audio, whispers, shouting, scuffling, alarm, heavy impacts, distorted like compressed surveillance audio. [Negative] No TV frame, no high def, no modern digital texture, no fish-eye, no realistic 2D character transformation.
+Tạo một video giám sát dọc tỷ lệ 9:16, dài 15 giây (góc nhìn thứ nhất cầm tay từ điện thoại di động, kết hợp với hiệu ứng hỏng hóc của băng VHS). Đoạn phim phải trông giống như video độ phân giải thấp được quay bằng điện thoại cầm tay trong thang máy cũ, mờ tối, sau đó được sao chép sang băng VHS và phát lại nhiều lần, gây ra hư hại nặng. Không có khung hình TV, không có viền CRT, không quay màn hình TV; chỉ có bản ghi hình đầy đủ. Bối cảnh là sảnh thang máy mờ tối; cửa mở ra, màn hình quảng cáo nhấp nháy và đèn huỳnh quang kêu vo ve. Góc nhìn thứ nhất cầm tay với độ rung tự nhiên, chỉ nhìn thấy bàn chân, quần và tay của chính mình. Nhân vật nữ chính người châu Á (phong cách OL quyến rũ, mặc trang phục asset HL8o-CobkAAt5LL: vóc dáng gợi cảm, ánh nhìn lôi cuốn, nụ cười trêu chọc, tư thế quyến rũ, dáng đi lắc hông chậm rãi) giữ một nụ cười đẹp và đầy ẩn ý. Cửa mở, cô ấy kéo tôi: 'Vào đi...' Tôi do dự. Một thư ký 2D từ màn hình quảng cáo (asset cloudclone28_...) nhảy ra: 'Chủ nhân, đừng vào đó!' Họ tranh cãi và xô xát. Dòng thời gian: 0-4 giây cảnh quay rộng cửa mở, tư thế quyến rũ. 4-6 giây thư ký 2D nhảy ra. 6-9 giây nữ chính nổi giận, rút cưa máy và búa khổng lồ ra chiến đấu. 9-12 giây tôi lao vào, thang máy báo động quá tải. 12-15 giây Kết thúc: Nữ chính nhận ra sai lầm, xin lỗi một cách ngượng ngùng; thư ký 2D cười: 'Đồ béo! Tôi biết ngay là anh quá cân mà!' Tôi rút lui trong mồ hôi. Phụ đề: 'Họ không muốn anh ấy ở lại, thang máy chỉ là không thể đóng cửa.' Màn hình bị xé hình và nhiễu nặng. [Ánh sáng] Đèn huỳnh quang nhấp nháy trộn lẫn với ánh sáng màn hình quảng cáo, các điểm sáng nhân vật bị phơi sáng quá mức. [Chất lượng] Rung lắc cầm tay, lấy nét liên tục, tốc độ khung hình thấp, đường quét VHS, nhiễu hạt, nhiễu màu, bất ổn định analog. [Máy quay] Không có chuyển động điện ảnh, chỉ có rung lắc cầm tay và trôi tín hiệu. [Âm thanh] Âm thanh micro bị bóp nghẹt, tiếng thì thầm, tiếng la hét, xô xát, báo động, va chạm mạnh, bị méo tiếng như âm thanh giám sát nén. [Phủ định] Không có khung TV, không có độ phân giải cao, không có kết cấu kỹ thuật số hiện đại, không có mắt cá, không có sự biến đổi nhân vật 2D thực tế.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072687204036419584/img/lmxmOG4MKpwZ9gCx.jpg" width="600" alt="Retro VHS Elevator CCTV Style">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072687204036419584/img/lmxmOG4MKpwZ9gCx.jpg" width="600" alt="Phong cách CCTV thang máy VHS cổ điển">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6723)**
 
@@ -933,19 +933,19 @@ Tiếp tục với cùng người phụ nữ đó và cùng sân vận động. 
 **Tác giả:** [auqib](https://x.com/auqibhabib) | **Nguồn:** [Link](https://x.com/auqibhabib/status/2072627734451507371) | **Đã xuất bản:** Jul 2, 2026
 
 ---
-### Pixar Style Erling Haaland Animation
+### Hoạt hình Erling Haaland phong cách Pixar
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 3D Pixar-style caricature animation of football star Erling Haaland featuring vibrant stadium visuals and high-energy soccer match dynamics.
+> Một đoạn phim hoạt hình 3D phong cách Pixar mô phỏng ngôi sao bóng đá Erling Haaland với hình ảnh sân vận động sống động và những pha bóng đầy năng lượng.
 
 #### 📝 Prompt
 
 ```
-A detailed, 3D Pixar-style animation featuring an exaggerated, baby-faced caricature of football star Erling Haaland with a prominent blonde mullet and chubby, rosy cheeks. Wearing a bright red Norway national team jersey with white and blue trim, he confidently strides out of a dark stadium tunnel onto a vibrant, sunlit pitch. Surrounded by a roaring crowd and flashing cameras from press photographers, he looks directly into the lens, making comical, dramatic pouty faces and flashing a two-finger peace sign. The scene cuts to a high-energy match where he dynamically sprints down the field in shiny golden cleats, tightly controlling a star-patterned soccer ball while swiftly dodging defenders under bright stadium floodlights amidst falling confetti.
+Một đoạn phim hoạt hình 3D chi tiết theo phong cách Pixar, khắc họa ngôi sao bóng đá Erling Haaland dưới dạng nhân vật hoạt hình có khuôn mặt trẻ thơ, mái tóc mullet vàng đặc trưng và đôi má phúng phính ửng hồng. Trong bộ áo đấu màu đỏ rực của đội tuyển quốc gia Na Uy với các đường viền trắng xanh, anh tự tin bước ra từ đường hầm sân vận động tối tăm để tiến vào mặt sân đầy nắng rực rỡ. Được bao quanh bởi đám đông reo hò và ánh đèn flash từ các nhiếp ảnh gia, anh nhìn thẳng vào ống kính, tạo những biểu cảm chu môi hài hước, kịch tính và giơ tay tạo dáng chữ V. Cảnh quay chuyển sang một trận đấu đầy năng lượng, nơi anh bứt tốc mạnh mẽ trên sân với đôi giày đinh màu vàng sáng bóng, kiểm soát chặt chẽ quả bóng có họa tiết ngôi sao, đồng thời khéo léo né tránh các hậu vệ dưới ánh đèn pha sân vận động rực rỡ giữa những màn pháo giấy tung bay.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072625876718727168/img/rYQ19R96EG5MrMdk.jpg" width="600" alt="Pixar Style Erling Haaland Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072625876718727168/img/rYQ19R96EG5MrMdk.jpg" width="600" alt="Hoạt hình Erling Haaland phong cách Pixar">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6721)**
 
@@ -1111,57 +1111,57 @@ Sử dụng bảng phân cảnh đính kèm làm tài liệu tham khảo hình �
 **Tác giả:** [By](https://x.com/rhodezio_ai) | **Nguồn:** [Link](https://x.com/rhodezio_ai/status/2072566280930902394) | **Đã xuất bản:** Jul 2, 2026
 
 ---
-### Retro Egyptian God Animation
+### Hoạt hình phong cách Ai Cập cổ đại retro
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A stylized 1980s retro OVA animation prompt featuring Egyptian gods Anubis and Sobek in a comedic strength trial inside a royal palace.
+> Một prompt hoạt hình OVA phong cách retro thập niên 1980, mô tả các vị thần Ai Cập Anubis và Sobek trong một thử thách sức mạnh hài hước bên trong cung điện hoàng gia.
 
 #### 📝 Prompt
 
 ```
-Hand-drawn detailed animation, retro 1980s OVA style. Ancient Egyptian royal palace interior, warm torchlight, carved stone pillars, gold ornaments, cinematic shadows. Dramatic 16:9 scene, expressive acting, smooth motion. No subtitles, no text, no logo, no watermark. English dialogue only. Deep powerful voices. Anubis: muscular jackal-headed god, arm rings, neck collar. Sobek: muscular crocodile-headed god with tail, arm rings. Pharaoh: human ruler, calm and commanding. Scene 1 — Strength Trial Inside the palace, Anubis and Sobek stand one meter apart, each holding a massive stone block overhead. Both strain with tense faces and shaking arms. The Pharaoh walks slowly in front of them, hands behind his back, observing. He says: “Only one of you may join me on the next mission. Only the strongest.” Scene 2 — Sobek’s Trick Sobek suddenly smirks. He glances sideways at Anubis while keeping his stone raised. His tail quietly stretches toward Anubis’s armpit. Anubis stays focused, staring forward. Scene 3 — Ticklish Close-Up Close-up of Sobek’s tail tip gently brushing Anubis’s armpit. Anubis tries to stay serious but begins suppressing deep laughter. Scene 4 — Anubis Breaks Close-up of Anubis struggling. His eyes squeeze shut, his grin grows wider, and his body trembles as Sobek keeps tickling him. He fights to keep the stone overhead. Scene 5 — Sobek Wins Anubis bursts into loud laughter, loses control, throws the stone behind him, hugs himself, and falls to the floor curled up laughing. Sobek stands proudly, still holding his stone overhead. Scene 6 — Final Judgment The Pharaoh nods to Sobek and says: “It seems you are the one.” Sobek stands victorious. Anubis remains on the floor, still giggling.
+Hoạt hình vẽ tay chi tiết, phong cách OVA retro thập niên 1980. Nội thất cung điện hoàng gia Ai Cập cổ đại, ánh đuốc ấm áp, cột đá chạm khắc, đồ trang trí bằng vàng, đổ bóng đậm chất điện ảnh. Cảnh quay 16:9 đầy kịch tính, diễn xuất biểu cảm, chuyển động mượt mà. Không phụ đề, không văn bản, không logo, không hình mờ. Chỉ có hội thoại tiếng Anh. Giọng nói trầm và mạnh mẽ. Anubis: vị thần đầu chó rừng cơ bắp, đeo vòng tay, vòng cổ. Sobek: vị thần đầu cá sấu cơ bắp có đuôi, đeo vòng tay. Pharaoh: người cai trị, điềm tĩnh và uy nghiêm. Cảnh 1 — Thử thách sức mạnh: Bên trong cung điện, Anubis và Sobek đứng cách nhau một mét, mỗi người nâng một khối đá khổng lồ trên đầu. Cả hai đều gồng mình với khuôn mặt căng thẳng và cánh tay run rẩy. Pharaoh chậm rãi đi phía trước họ, hai tay chắp sau lưng, quan sát. Ông nói: “Chỉ một trong hai ngươi được phép tham gia cùng ta trong nhiệm vụ tới. Chỉ kẻ mạnh nhất.” Cảnh 2 — Mưu mẹo của Sobek: Sobek bất ngờ nhếch mép cười. Hắn liếc nhìn Anubis trong khi vẫn giữ khối đá trên cao. Cái đuôi của hắn lặng lẽ vươn về phía nách của Anubis. Anubis vẫn tập trung, nhìn thẳng về phía trước. Cảnh 3 — Cận cảnh buồn cười: Cận cảnh đầu đuôi của Sobek nhẹ nhàng chạm vào nách Anubis. Anubis cố gắng giữ vẻ nghiêm túc nhưng bắt đầu kìm nén những tràng cười lớn. Cảnh 4 — Anubis thất bại: Cận cảnh Anubis đang vật lộn. Đôi mắt anh nhắm nghiền, nụ cười rộng hơn và cơ thể run rẩy khi Sobek tiếp tục cù anh. Anh cố gắng giữ khối đá trên đầu. Cảnh 5 — Sobek chiến thắng: Anubis bật cười lớn, mất kiểm soát, ném khối đá ra sau, ôm lấy bản thân và ngã xuống sàn, cuộn tròn vì cười. Sobek đứng đầy tự hào, vẫn giữ khối đá trên đầu. Cảnh 6 — Phán quyết cuối cùng: Pharaoh gật đầu với Sobek và nói: “Có vẻ như ngươi chính là người đó.” Sobek đứng đầy chiến thắng. Anubis vẫn nằm trên sàn, vẫn còn đang khúc khích cười.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072561357451583488/img/vGJNSuI9_deJ8csg.jpg" width="600" alt="Retro Egyptian God Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072561357451583488/img/vGJNSuI9_deJ8csg.jpg" width="600" alt="Hoạt hình phong cách Ai Cập cổ đại retro">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6720)**
 
 **Tác giả:** [Sam Aoteman](https://x.com/samaote) | **Nguồn:** [Link](https://x.com/samaote/status/2072561439173468501) | **Đã xuất bản:** Jul 2, 2026
 
 ---
-### Realistic 2000s Chinese DV Vlog
+### Vlog phong cách DV Trung Quốc chân thực những năm 2000
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A meticulous prompt for simulating an early 2000s Chinese home video aesthetic, featuring a young woman in a traditional southern residential area with low-fidelity digital camera characteristics.
+> Một câu lệnh tỉ mỉ để mô phỏng thẩm mỹ video gia đình Trung Quốc đầu những năm 2000, với hình ảnh một cô gái trẻ trong khu dân cư truyền thống miền Nam cùng các đặc điểm của máy quay kỹ thuật số độ phân giải thấp.
 
 #### 📝 Prompt
 
 ```
-Main Character: A young Chinese woman, about 22 years old, with average but attractive looks and natural makeup (no influencer look). Wearing a faded charcoal sleeveless crop top, loose light blue high-waisted wash jeans, black canvas shoes, and a thin black rope necklace. Long black hair tied in a slightly messy low ponytail with natural wispy bangs. Realistic skin texture with a healthy summer tan, natural friendly smile, no posing. Maintain consistent character identity, clothing, hairstyle, and appearance throughout the video.
-Location: A typical residential area in southern China (like old districts in Guangdong, Fujian, Jiangxi, or Zhejiang), 3-4 PM in summer. Narrow concrete alleys, 2-3 story self-built houses with signs of age, green security doors, old aluminum windows, anti-theft nets, air conditioning units, electric scooters, bicycles, bamboo drying racks, sun-dried sheets and clothes, plastic flower pots, greenery, utility poles with dense overhead wires, and large trees casting swaying shadows. No commercial streets, billboards, bubble tea shops, cafes, tourists, posing, or modern influencer elements.
-Visual Style: Hyper-realistic documentary authenticity. Like family DV recordings from 2002-2008. No plot, no acting, no deliberate camera angles. Real fragments of life. Natural, random human movements. Abundant real-world details. Like an old DV tape rediscovered from childhood.
-Photography Style: Early 2000s consumer DV camera quality. Intense handheld shakiness. Constant auto-exposure adjustments. Frequent autofocus hunting. Slight motion blur. Rolling shutter. CCD digital camera colors. Slight software compression artifacts. Slightly warm white balance. Light noise. Low dynamic range. Occasional slight overexposure. No stabilizers. No cinematic camera work. No drone shots. No modern HDR. No film grading. No film filters.
+Nhân vật chính: Một cô gái trẻ người Trung Quốc, khoảng 22 tuổi, ngoại hình bình thường nhưng thu hút, trang điểm tự nhiên (không theo phong cách influencer). Mặc áo croptop không tay màu xám than bạc màu, quần jeans cạp cao ống rộng màu xanh nhạt, giày vải đen và vòng cổ dây đen mảnh. Tóc đen dài buộc đuôi ngựa thấp hơi rối với phần tóc mái thưa tự nhiên. Kết cấu da chân thực với làn da rám nắng khỏe mạnh mùa hè, nụ cười thân thiện tự nhiên, không tạo dáng. Duy trì sự nhất quán về danh tính nhân vật, trang phục, kiểu tóc và ngoại hình trong suốt video.
+Địa điểm: Một khu dân cư điển hình ở miền Nam Trung Quốc (như các khu phố cổ ở Quảng Đông, Phúc Kiến, Giang Tây hoặc Chiết Giang), 3-4 giờ chiều mùa hè. Những con hẻm bê tông hẹp, nhà tự xây 2-3 tầng có dấu vết thời gian, cửa an ninh màu xanh lá, cửa sổ nhôm cũ, lưới chống trộm, cục nóng điều hòa, xe máy điện, xe đạp, giàn phơi tre, ga trải giường và quần áo phơi dưới nắng, chậu hoa nhựa, cây xanh, cột điện với dây điện chằng chịt phía trên và những tán cây lớn đổ bóng đung đưa. Không có phố thương mại, biển quảng cáo, quán trà sữa, quán cà phê, khách du lịch, tạo dáng hay các yếu tố hiện đại của influencer.
+Phong cách hình ảnh: Tính chân thực của phim tài liệu siêu thực. Giống như các bản ghi DV gia đình từ năm 2002-2008. Không cốt truyện, không diễn xuất, không góc máy cố tình. Những mảnh ghép đời thường chân thực. Chuyển động tự nhiên, ngẫu nhiên của con người. Nhiều chi tiết thực tế. Giống như một cuộn băng DV cũ được tìm thấy từ thời thơ ấu.
+Phong cách nhiếp ảnh: Chất lượng máy quay DV tiêu dùng đầu những năm 2000. Độ rung lắc mạnh do cầm tay. Điều chỉnh phơi sáng tự động liên tục. Lấy nét tự động thường xuyên bị trượt. Chuyển động hơi nhòe. Hiệu ứng màn trập lăn (rolling shutter). Màu sắc máy ảnh kỹ thuật số CCD. Các lỗi nén phần mềm nhẹ. Cân bằng trắng hơi ấm. Nhiễu sáng nhẹ. Dải tương phản động thấp. Đôi khi bị quá sáng nhẹ. Không có thiết bị chống rung. Không có kỹ thuật quay phim điện ảnh. Không có cảnh quay bằng drone. Không có HDR hiện đại. Không có chỉnh màu phim. Không có bộ lọc phim.
 00:00–00:02
-In front of a typical Chinese residential building. She sits on low concrete steps, raising both hands to adjust her ponytail. A summer breeze blows a few hairs. The lens automatically finds focus, recovering after a brief blur.
+Trước một tòa nhà dân cư điển hình của Trung Quốc. Cô ngồi trên bậc thềm bê tông thấp, đưa hai tay lên chỉnh lại tóc đuôi ngựa. Gió mùa hè thổi bay vài sợi tóc. Ống kính tự động lấy nét, hồi phục sau một chút nhòe.
 00:02–00:04
-She walks slowly along a narrow residential alley. Potted plants and electric scooters line the road. A stray orange cat emerges from a corner. She squats down smiling. The camera composition is slightly off due to tracking.
+Cô đi chậm dọc theo một con hẻm dân cư hẹp. Chậu cây và xe máy điện xếp dọc đường. Một con mèo hoang màu cam xuất hiện từ một góc. Cô ngồi xổm xuống mỉm cười. Bố cục máy ảnh hơi lệch do theo dõi chủ thể.
 00:04–00:06
-She gently pets the stray cat and places some cat food on the ground. Autofocus constantly switches between the person and the cat. Sunlight flickers through the leaves, creating changing light spots.
+Cô nhẹ nhàng vuốt ve con mèo hoang và đặt một ít thức ăn cho mèo xuống đất. Lấy nét tự động liên tục chuyển đổi giữa người và mèo. Ánh nắng lấp lánh qua kẽ lá, tạo ra những đốm sáng thay đổi.
 00:06–00:08
-A small courtyard in front of the building. She stands in front of a bamboo rack hanging clothes. Sheets and clothes sway gently in the breeze. A cloud passes by, briefly lowering the exposure.
+Một sân nhỏ trước tòa nhà. Cô đứng trước giàn tre đang phơi quần áo. Ga trải giường và quần áo đung đưa nhẹ trong gió. Một đám mây bay ngang qua, làm giảm độ phơi sáng trong giây lát.
 00:08–00:10
-She sits in her own small courtyard, holding a white ceramic teacup, quietly watching the neighborhood, occasionally tucking hair behind her ear. The lens drifts slightly.
+Cô ngồi trong sân nhỏ của mình, cầm một tách trà bằng sứ trắng, lặng lẽ quan sát khu phố, thỉnh thoảng vén tóc ra sau tai. Ống kính trôi nhẹ.
 00:10–00:12
-Close-up side profile. A distant neighbor calls out: "Back already?" She turns and waves, answering naturally: "Yeah, just got back." The camera follows a beat late.
+Cận cảnh góc nghiêng. Một người hàng xóm từ xa gọi vọng lại: "Về rồi đấy à?" Cô quay lại và vẫy tay, trả lời tự nhiên: "Vâng, cháu mới về ạ." Máy ảnh bắt nhịp chậm một nhịp.
 00:12–00:15
-She walks slowly on a tree-shaded path with her teacup. Noticing the lens, she gives a shy little smile, then continues forward. The recording ends abruptly to black, like a DV camera shutting off.
-Audio: Only real ambient sounds: summer cicadas, distant electric scooters, occasional dog barks, rustling leaves, residents chatting, clinking of kitchenware, cat meows, footsteps on concrete, sound of wind blowing through laundry. No background music. No sound design. No voiceover.
-Goal: Present a segment of life recorded by a typical Chinese family DV camera from 2003-2008. Authentic, natural, imperfect, no acting traces, no influencer feel, no cinematic feel, no AI feel—making the audience mistake it at first glance for a rediscovered old family tape.
+Cô đi chậm trên con đường rợp bóng cây với tách trà trên tay. Nhận thấy ống kính, cô nở nụ cười ngượng nghịu rồi tiếp tục bước đi. Bản ghi kết thúc đột ngột thành màu đen, giống như máy quay DV tắt nguồn.
+Âm thanh: Chỉ có âm thanh môi trường thực tế: tiếng ve kêu mùa hè, tiếng xe máy điện từ xa, tiếng chó sủa thỉnh thoảng, tiếng lá xào xạc, tiếng cư dân trò chuyện, tiếng bát đĩa va chạm, tiếng mèo kêu, tiếng bước chân trên bê tông, tiếng gió thổi qua quần áo phơi. Không có nhạc nền. Không có thiết kế âm thanh. Không có lời dẫn.
+Mục tiêu: Trình bày một phân đoạn cuộc sống được ghi lại bởi máy quay DV gia đình điển hình của Trung Quốc từ năm 2003-2008. Chân thực, tự nhiên, không hoàn hảo, không dấu vết diễn xuất, không cảm giác influencer, không cảm giác điện ảnh, không cảm giác AI—khiến khán giả thoạt nhìn nhầm tưởng đó là một cuộn băng gia đình cũ được tìm thấy.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072539888336191488/img/tJ0JfH4SVPGtsK8t.jpg" width="600" alt="Realistic 2000s Chinese DV Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072539888336191488/img/tJ0JfH4SVPGtsK8t.jpg" width="600" alt="Vlog phong cách DV Trung Quốc chân thực những năm 2000">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6728)**
 
@@ -1187,54 +1187,54 @@ Goal: Present a segment of life recorded by a typical Chinese family DV camera f
 **Tác giả:** [BMX](https://x.com/bmx_ai13) | **Nguồn:** [Link](https://x.com/bmx_ai13/status/2072537247337824487) | **Đã xuất bản:** Jul 2, 2026
 
 ---
-### UGC Style Hair Care Video Ad
+### Quảng cáo video chăm sóc tóc phong cách UGC
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A casual, handheld 15-second vertical video ad prompt designed for hair care marketing, featuring realistic before-and-after scenes.
+> Gợi ý quảng cáo video dọc 15 giây theo phong cách quay cầm tay tự nhiên, được thiết kế cho tiếp thị sản phẩm chăm sóc tóc, bao gồm các cảnh so sánh trước và sau thực tế.
 
 #### 📝 Prompt
 
 ```
-15-second vertical UGC-style hair care ad. Casual handheld footage. Scene 1 (0-3s): Young woman at bathroom mirror, frizzy messy hair, frustrated expression, holds up a hair care bottle. Scene 2 (3-7s): Close-up of dry, damaged hair, finger running through tangles. Scene 3 (7-12s): Applying creamy hair product, hands working through hair, smooth texture, warm lighting. Scene 4 (12-15s): Confident woman smiling, hair now glossy and healthy, points at product bottle. Natural lighting throughout, authentic feel, no professional studio look. make this video
+Quảng cáo chăm sóc tóc phong cách UGC dạng dọc 15 giây. Quay theo phong cách cầm tay tự nhiên. Cảnh 1 (0-3 giây): Một phụ nữ trẻ đứng trước gương phòng tắm, tóc xơ rối, biểu cảm thất vọng, cầm trên tay chai sản phẩm chăm sóc tóc. Cảnh 2 (3-7 giây): Cận cảnh mái tóc khô, hư tổn, ngón tay vuốt qua những chỗ rối. Cảnh 3 (7-12 giây): Thoa sản phẩm chăm sóc tóc dạng kem, bàn tay vuốt đều lên tóc, kết cấu mượt mà, ánh sáng ấm áp. Cảnh 4 (12-15 giây): Người phụ nữ tự tin mỉm cười, mái tóc giờ đây bóng mượt và khỏe mạnh, chỉ tay vào chai sản phẩm. Sử dụng ánh sáng tự nhiên xuyên suốt, mang lại cảm giác chân thực, không cần phong cách studio chuyên nghiệp. hãy tạo video này
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072534517789990912/img/bC_V4Lqhqwog2fQ8.jpg" width="600" alt="UGC Style Hair Care Video Ad">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072534517789990912/img/bC_V4Lqhqwog2fQ8.jpg" width="600" alt="Quảng cáo video chăm sóc tóc phong cách UGC">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6722)**
 
 **Tác giả:** [Rajesh Kumar](https://x.com/therjrajesh) | **Nguồn:** [Link](https://x.com/therjrajesh/status/2072534569912619378) | **Đã xuất bản:** Jul 2, 2026
 
 ---
-### Rural African Village Life Documentary
+### Phim tài liệu về cuộc sống làng quê châu Phi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed narrative video prompt for Seedance 2.0 capturing a slice-of-life morning in an African village with a realistic handheld camcorder aesthetic.
+> Một câu lệnh video chi tiết dành cho Seedance 2.0, ghi lại lát cắt cuộc sống buổi sáng tại một ngôi làng châu Phi với phong cách thẩm mỹ của máy quay cầm tay chân thực.
 
 #### 📝 Prompt
 
 ```
-Main Subject:
+Chủ thể chính:
 
-Young African woman, early 20s, native to the region. Warm brown skin with realistic skin texture, minimal to no makeup. She has dark hair tied in a simple low ponytail with a few loose strands. She wears a faded sleeveless light-colored blouse, a simple long wrap skirt with a faded colorful pattern, and worn sandals. Small beaded bracelet on one wrist. Warm, approachable, and grounded personality. Maintain consistent identity, clothing, hairstyle, and appearance throughout the entire video.
-Location:
-Authentic rural African village during a calm late morning. Dirt paths, simple mud-brick and concrete block houses with corrugated metal or thatched roofs, scattered trees and vegetation, chickens roaming freely, low stick fences, laundry hanging on lines, plastic basins, simple wooden benches, and water containers. Quiet village atmosphere with natural daily life. No modern buildings or urban elements.
-Visual Style:
-Ultra-realistic documentary realism. Genuine candid behavior. Natural body language. Unscripted slice-of-life feeling. Strong environmental authenticity. Rich real-world details and believable human motion.
-Camera Style:
-Early-2000s consumer DV camcorder aesthetic. Friend casually recording everyday moments. Heavy handheld shake, imperfect framing, frequent autofocus hunting, lens breathing, exposure pumping when moving between sun and shade, occasional motion blur, subtle rolling shutter, mild digital compression artifacts, faded colors, soft contrast, slight sensor noise. No stabilization. No cinematic camera moves. No modern color grading.
+Người phụ nữ trẻ châu Phi, khoảng đầu 20 tuổi, người bản địa. Làn da nâu ấm áp với kết cấu da chân thực, trang điểm tối giản hoặc không trang điểm. Cô có mái tóc sẫm màu buộc kiểu đuôi ngựa thấp đơn giản với vài lọn tóc xõa tự nhiên. Cô mặc một chiếc áo không tay màu sáng đã bạc màu, một chiếc váy quấn dài đơn giản với họa tiết màu sắc đã phai, và đôi dép đã cũ. Đeo một chiếc vòng tay hạt nhỏ trên cổ tay. Tính cách ấm áp, gần gũi và thực tế. Duy trì sự nhất quán về danh tính, trang phục, kiểu tóc và ngoại hình trong suốt toàn bộ video.
+Địa điểm:
+Ngôi làng nông thôn châu Phi chân thực vào một buổi sáng muộn yên bình. Những con đường đất, những ngôi nhà gạch bùn và khối bê tông đơn giản với mái tôn hoặc mái tranh, cây cối và thảm thực vật rải rác, gà chạy tự do, hàng rào cọc thấp, quần áo phơi trên dây, chậu nhựa, ghế gỗ đơn giản và các thùng chứa nước. Không khí làng quê yên tĩnh với nhịp sống thường nhật tự nhiên. Không có các tòa nhà hiện đại hay yếu tố đô thị.
+Phong cách hình ảnh:
+Chủ nghĩa hiện thực tài liệu siêu thực. Hành vi tự nhiên, chân thật. Ngôn ngữ cơ thể tự nhiên. Cảm giác về lát cắt cuộc sống không kịch bản. Tính xác thực về môi trường mạnh mẽ. Chi tiết thế giới thực phong phú và chuyển động của con người đáng tin cậy.
+Phong cách máy quay:
+Thẩm mỹ máy quay DV tiêu dùng đầu những năm 2000. Một người bạn đang quay lại những khoảnh khắc đời thường một cách tình cờ. Rung lắc mạnh do cầm tay, khung hình không hoàn hảo, lấy nét tự động liên tục thay đổi, hiện tượng thở ống kính (lens breathing), độ phơi sáng thay đổi khi di chuyển giữa vùng nắng và bóng râm, thỉnh thoảng có nhòe chuyển động, hiệu ứng màn trập lăn (rolling shutter) tinh tế, nhiễu nén kỹ thuật số nhẹ, màu sắc phai nhạt, độ tương phản mềm, nhiễu cảm biến nhẹ. Không có chống rung. Không có các chuyển động máy quay điện ảnh. Không có chỉnh màu hiện đại.
 
-TIMED SCENES (00:00–00:15)
-00:00–00:02Outside a small village house. She sits on a low wooden bench adjusting her ponytail with both hands. A light breeze moves loose strands of hair. She smiles naturally while the camera struggles to hold focus.
-00:02–00:04The camera follows her as she walks along a dirt path through the village. She notices a chicken running freely nearby and slows down to watch it. Framing drifts slightly as the operator tries to keep up.
-00:04–00:06She crouches and tries to catch the chicken, moving carefully with her hands outstretched. The chicken flutters and runs a short distance. Autofocus repeatedly shifts between her face and the chicken. Morning sunlight filters through tree leaves overhead.
-00:06–00:08In the small dirt yard beside her house. She picks up a broom made of sticks and begins sweeping the ground in steady motions. Dust rises lightly as she sweeps. Exposure changes slightly as clouds pass overhead.
-00:08–00:10She sits on a low wooden bench near the house, resting after sweeping. She wipes sweat from her forehead with the back of her hand and looks around the quiet village. Loose handheld side angle with natural camera drift.
-00:10–00:12Close side profile. Someone off-camera greets her warmly. She turns toward the voice, raises her hand, smiles genuinely, and replies with
+CÁC PHÂN CẢNH THEO THỜI GIAN (00:00–00:15)
+00:00–00:02Bên ngoài một ngôi nhà nhỏ trong làng. Cô ngồi trên chiếc ghế gỗ thấp, dùng cả hai tay chỉnh lại tóc đuôi ngựa. Một làn gió nhẹ làm những lọn tóc xõa bay nhẹ. Cô mỉm cười tự nhiên trong khi máy quay chật vật để giữ lấy nét.
+00:02–00:04Máy quay theo chân cô khi cô đi dọc con đường đất xuyên qua ngôi làng. Cô nhận thấy một con gà đang chạy tự do gần đó và chậm lại để quan sát. Khung hình bị lệch nhẹ khi người quay cố gắng bắt kịp.
+00:04–00:06Cô cúi người và cố gắng bắt con gà, di chuyển cẩn thận với đôi tay vươn ra. Con gà đập cánh và chạy một đoạn ngắn. Lấy nét tự động liên tục chuyển đổi giữa khuôn mặt cô và con gà. Ánh nắng buổi sáng xuyên qua tán lá cây phía trên.
+00:06–00:08Trong sân đất nhỏ bên cạnh nhà. Cô nhặt một chiếc chổi làm từ cành cây và bắt đầu quét sân với những chuyển động đều đặn. Bụi bay lên nhẹ nhàng khi cô quét. Độ phơi sáng thay đổi nhẹ khi những đám mây trôi qua phía trên.
+00:08–00:10Cô ngồi trên chiếc ghế gỗ thấp gần nhà, nghỉ ngơi sau khi quét dọn. Cô lau mồ hôi trên trán bằng mu bàn tay và nhìn quanh ngôi làng yên tĩnh. Góc quay nghiêng cầm tay tự do với độ trôi máy quay tự nhiên.
+00:10–00:12Cận cảnh góc nghiêng. Một người ngoài khung hình chào cô nồng nhiệt. Cô quay về phía giọng nói, giơ tay lên, mỉm cười chân thành và đáp lại bằng
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072525336886280192/img/ORP5qc8_bQgq4-_U.jpg" width="600" alt="Rural African Village Life Documentary">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072525336886280192/img/ORP5qc8_bQgq4-_U.jpg" width="600" alt="Phim tài liệu về cuộc sống làng quê châu Phi">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6732)**
 
@@ -1370,87 +1370,87 @@ PHẦN 1 – THỰC TẾ (15 giây) 15 giây • 16:9 • Siêu thực tế • 
 **Tác giả:** [Shami](https://x.com/ShamiWeb3) | **Nguồn:** [Link](https://x.com/ShamiWeb3/status/2072509269073871154) | **Đã xuất bản:** Jul 2, 2026
 
 ---
-### Nostalgic Early 2000s DV Style Korean Vlog
+### Vlog Hàn Quốc phong cách máy quay DV hoài cổ đầu những năm 2000
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A comprehensive video generation prompt that replicates the aesthetic of a consumer DV camera from the early 2000s, featuring a young Korean woman in a quiet residential setting with realistic movements and camera imperfections.
+> Một câu lệnh tạo video toàn diện giúp tái tạo thẩm mỹ của máy quay DV gia đình từ đầu những năm 2000, với hình ảnh một cô gái trẻ Hàn Quốc trong bối cảnh khu dân cư yên tĩnh, cùng các chuyển động chân thực và những khiếm khuyết đặc trưng của máy quay.
 
 #### 📝 Prompt
 
 ```
-**Main subject**: A young Korean woman in her early 20s, naturally dressed in a faded charcoal sleeveless crop top and loose high-waisted light-wash jeans, paired with black canvas sneakers and a black string necklace. Her black wavy hair is tied in a messy side ponytail with light bangs. Realistic skin texture, light makeup, warm and approachable personality. Maintain high consistency of identity, clothing, hairstyle, and appearance throughout the video.
+**Chủ thể chính**: Một cô gái Hàn Quốc khoảng ngoài 20 tuổi, ăn mặc tự nhiên với áo crop top không tay màu xám than bạc màu và quần jeans cạp cao ống rộng màu xanh nhạt, kết hợp cùng giày vải canvas đen và vòng cổ dây đen. Mái tóc đen gợn sóng của cô được buộc đuôi ngựa lệch lộn xộn với phần tóc mái thưa. Kết cấu da chân thực, trang điểm nhẹ nhàng, tính cách ấm áp và gần gũi. Duy trì sự nhất quán cao về danh tính, trang phục, kiểu tóc và ngoại hình trong suốt video.
 
-**Location**: Morning time, a quiet and authentic Korean residential neighborhood. Narrow concrete alleys, low-rise residences, small terraces, potted plants, clotheslines, bicycles, utility poles, crisscrossing wires in mid-air, dense trees casting mottled swaying shadows, full of a quiet residential atmosphere. No shops, advertisements, cafes, crowds, or commercial activities.
+**Địa điểm**: Buổi sáng, một khu dân cư Hàn Quốc yên tĩnh và chân thực. Những con hẻm bê tông hẹp, nhà ở thấp tầng, sân thượng nhỏ, chậu cây, dây phơi quần áo, xe đạp, cột điện, dây điện chằng chịt trên không, những tán cây rậm rạp đổ bóng đung đưa loang lổ, tràn ngập không khí yên bình của khu dân cư. Không có cửa hàng, quảng cáo, quán cà phê, đám đông hay các hoạt động thương mại.
 
-**Visual Style**: Ultra-realistic documentary style. Authentic, unpretentious candid behavior. Natural body language. Unscripted daily life fragment feel. Strong sense of environmental reality. Contains rich real-world details and naturally realistic human dynamics.
+**Phong cách hình ảnh**: Phong cách phim tài liệu siêu thực. Hành vi tự nhiên, chân thực, không gượng ép. Ngôn ngữ cơ thể tự nhiên. Cảm giác như những mảnh ghép đời thường không kịch bản. Cảm giác chân thực về môi trường mạnh mẽ. Chứa đựng nhiều chi tiết thực tế phong phú và sự tương tác tự nhiên của con người.
 
-**Camera Style**: Aesthetics of early 2000s consumer DV cameras. Creates the feeling of a friend casually recording daily moments. Strong handheld camera shake, imperfect composition, frequent autofocus hunting (breathing effect), exposure fluctuations when moving between sunlight and shadows (flickering), occasional motion blur, slight rolling shutter effect, minor digital compression artifacts, aged/faded colors, soft contrast, with slight sensor noise. No stabilization. No cinematic camera movements. No modern color grading.
+**Phong cách máy quay**: Thẩm mỹ của máy quay DV gia đình đầu những năm 2000. Tạo cảm giác như một người bạn đang vô tình ghi lại những khoảnh khắc hàng ngày. Độ rung lắc mạnh của máy quay cầm tay, bố cục không hoàn hảo, lấy nét tự động liên tục (hiệu ứng thở), độ phơi sáng thay đổi khi di chuyển giữa vùng nắng và bóng râm (nhấp nháy), thỉnh thoảng có nhòe chuyển động, hiệu ứng rolling shutter nhẹ, nhiễu nén kỹ thuật số nhỏ, màu sắc cũ/phai, độ tương phản mềm, với nhiễu cảm biến nhẹ. Không chống rung. Không có chuyển động máy quay điện ảnh. Không chỉnh màu hiện đại.
 
-**00:00–00:02**: Outside the entrance of a small house. She sits on a low concrete wall, raising her hands to tidy her ponytail. A breeze blows through stray strands of hair. She smiles naturally while the camera struggles to focus.
+**00:00–00:02**: Bên ngoài lối vào một ngôi nhà nhỏ. Cô ngồi trên bức tường bê tông thấp, đưa tay lên chỉnh lại tóc đuôi ngựa. Một cơn gió thổi qua những sợi tóc con. Cô mỉm cười tự nhiên trong khi máy quay chật vật lấy nét.
 
-**00:02–00:04**: The camera follows her into a narrow alley lined with potted plants and concrete walls. She notices a stray cat approaching and squats down. The composition shifts off-center as the operator tries to keep up with her movement.
+**00:02–00:04**: Máy quay theo chân cô vào một con hẻm hẹp với những chậu cây và tường bê tông. Cô chú ý thấy một con mèo hoang đang tiến lại gần và ngồi xổm xuống. Bố cục bị lệch khỏi trung tâm khi người quay cố gắng bắt kịp chuyển động của cô.
 
-**00:04–00:06**: She gently strokes and feeds the cat. The camera's autofocus switches repeatedly between her face and the cat. Morning sunlight flickers mottled through the leaves overhead.
+**00:04–00:06**: Cô nhẹ nhàng vuốt ve và cho mèo ăn. Tính năng lấy nét tự động của máy quay liên tục chuyển đổi giữa khuôn mặt cô và con mèo. Ánh nắng buổi sáng nhấp nháy loang lổ qua những tán lá phía trên.
 
-**00:06–00:08**: In a small front yard next to her house. She is hanging clothes on a clothesline, the fabric swaying in the breeze. As clouds pass briefly overhead, the exposure changes accordingly.
+**00:06–00:08**: Trong một khoảng sân nhỏ cạnh nhà. Cô đang phơi quần áo trên dây, vải vóc đung đưa trong gió. Khi những đám mây lướt qua nhanh phía trên, độ phơi sáng thay đổi theo đó.
 
-**00:08–00:10**: On a quiet terrace, holding a ceramic coffee cup. She sits comfortably, observing the surrounding neighborhood, occasionally tucking her hair behind her ear. A casual, loose side handheld perspective with natural camera drift.
+**00:08–00:10**: Trên một sân thượng yên tĩnh, cầm một chiếc cốc cà phê bằng gốm. Cô ngồi thoải mái, quan sát khu phố xung quanh, thỉnh thoảng vén tóc ra sau tai. Góc quay cầm tay tự nhiên, hơi lệch với độ trôi máy quay tự nhiên.
 
-**00:10–00:12**: Side close-up. Someone off-camera greets her. She turns her head, raises her hand, smiles warmly, and says casually: "Annyeong (Hello)". The camera's reaction is half a beat slow.
+**00:10–00:12**: Cận cảnh từ bên cạnh. Ai đó ngoài khung hình chào cô. Cô quay đầu lại, giơ tay, mỉm cười ấm áp và nói một cách tự nhiên: "Annyeong (Xin chào)". Phản ứng của máy quay chậm hơn nửa nhịp.
 
-**00:12–00:15**: She holds the coffee cup and walks slowly along a tree-lined residential path. She notices the camera, gives a small and sincere smile, then looks away and continues walking. The video cuts off suddenly to a black screen mid-action, as if the camera were abruptly turned off.
+**00:12–00:15**: Cô cầm cốc cà phê và đi chậm rãi dọc theo con đường dân cư rợp bóng cây. Cô nhận ra máy quay, nở một nụ cười nhỏ và chân thành, sau đó nhìn đi chỗ khác và tiếp tục bước đi. Video đột ngột cắt sang màn hình đen giữa chừng, như thể máy quay bị tắt đột ngột.
 
-**Audio**: Keep only natural ambient sounds—morning birdsong, distant motorcycle sounds, breeze, rustling leaves, faint neighborhood chatter, cat meows, footsteps on concrete, fabric moving on the clothesline, and subtle residential atmosphere. No music. No sound design. No narration.
+**Âm thanh**: Chỉ giữ lại âm thanh môi trường tự nhiên—tiếng chim hót buổi sáng, tiếng xe máy từ xa, tiếng gió, tiếng lá xào xạc, tiếng trò chuyện nhỏ từ khu phố, tiếng mèo kêu, tiếng bước chân trên bê tông, tiếng vải chuyển động trên dây phơi và bầu không khí dân cư tinh tế. Không nhạc. Không thiết kế âm thanh. Không lời dẫn.
 
-**Goal**: Capture authentic Korean neighborhood life, making it look like a forgotten early 2000s home video—candid, imperfect, realistic, warm, and highly convincing.
+**Mục tiêu**: Ghi lại cuộc sống khu dân cư Hàn Quốc chân thực, làm cho nó trông giống như một đoạn video gia đình bị lãng quên từ đầu những năm 2000—tự nhiên, không hoàn hảo, thực tế, ấm áp và đầy sức thuyết phục.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072495560834310144/img/3bm4ZHYbMJfnNC4q.jpg" width="600" alt="Nostalgic Early 2000s DV Style Korean Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072495560834310144/img/3bm4ZHYbMJfnNC4q.jpg" width="600" alt="Vlog Hàn Quốc phong cách máy quay DV hoài cổ đầu những năm 2000">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6724)**
 
 **Tác giả:** [Zero Lu](https://x.com/zerolu_eth) | **Nguồn:** [Link](https://x.com/zerolu_eth/status/2072495845489185102) | **Đã xuất bản:** Jul 2, 2026
 
 ---
-### Cinematic 4K Bridal Video
+### Video cô dâu chuẩn điện ảnh 4K
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed multi-shot cinematic prompt for generating a high-detail luxury wedding film featuring a bride, used for comparing Seedance 2.0 and Kling.
+> Một câu lệnh (prompt) chi tiết cho video điện ảnh nhiều cảnh quay, dùng để tạo thước phim cưới sang trọng với hình ảnh cô dâu, phục vụ mục đích so sánh giữa Seedance 2.0 và Kling.
 
 #### 📝 Prompt
 
 ```
-Create a 15-second cinematic bridal video designed to showcase stunning 4K beauty, elegant motion, and luxurious detail. The bride is young, graceful, and exceptionally beautiful, with a clear, luminous, translucent presence. She has soft radiant skin, delicate natural makeup, bright clear eyes, and an elegant gentle smile. Her overall feeling is fresh, pure, refined, romantic, and dreamlike.  The video is a collection of beautiful fleeting moments, each shot feeling delicate, emotional, and visually rich.  0–3s Open with a luminous close-up of the bride’s face in soft natural light. Show her youthful beauty and translucent glow in crisp 4K detail: smooth radiant skin, soft eyelashes, glossy lips, and bright expressive eyes. A gentle breeze moves a few strands of hair and the edge of her veil.  3–6s Cut to graceful detail shots: her slender fingers touching the lace of her dress, the sparkle of a ring, delicate embroidery, pearls, and the airy soft texture of the veil. The details feel pure, elegant, and luxurious, with beautiful light gently reflecting across the fabric.  6–9s Show the bride walking slowly through a bright, dreamy setting while holding a beautiful bouquet. Her veil flows lightly behind her, and the dress moves softly with each step. Emphasize her youthful elegance, soft posture, and the romantic shimmer of the gown.  9–12s Cut to an emotional medium shot as she turns slightly toward the camera. Her smile is soft, innocent, and radiant. The light wraps around her beautifully, enhancing her clear and delicate presence. The veil and dress move gracefully, creating a timeless romantic feeling.  12–15s End with the most breathtaking moment: a beautiful full shot of the bride surrounded by luminous light, bouquet in hand, veil floating elegantly. She pauses in a poised, unforgettable pose, looking like the final frame of a luxury wedding film. Her beauty feels youthful, pure, transparent, and deeply enchanting.  Style and visual direction Ultra-beautiful bridal cinematography, youthful elegance, translucent beauty, emotionally rich, soft, romantic, luxurious, delicate, refined, visually poetic, high-detail 4K imagery, natural light, dreamy glow, premium wedding film feeling, graceful camera movement, strong shot variety, consistent bride appearance, every moment polished and beautiful.
+Tạo một video cô dâu chuẩn điện ảnh dài 15 giây, được thiết kế để làm nổi bật vẻ đẹp 4K tuyệt đẹp, chuyển động thanh thoát và các chi tiết sang trọng. Cô dâu trẻ trung, duyên dáng và vô cùng xinh đẹp, với vẻ ngoài trong trẻo, rạng rỡ và thanh khiết. Cô có làn da mềm mại, lớp trang điểm tự nhiên tinh tế, đôi mắt sáng trong và nụ cười dịu dàng, thanh lịch. Cảm giác tổng thể mang lại sự tươi mới, thuần khiết, tinh tế, lãng mạn và tựa như mơ. Video là tập hợp những khoảnh khắc đẹp đẽ thoáng qua, mỗi cảnh quay đều mang lại cảm giác tinh tế, giàu cảm xúc và hình ảnh phong phú. 0–3 giây: Mở đầu bằng cận cảnh rạng rỡ gương mặt cô dâu trong ánh sáng tự nhiên dịu nhẹ. Làm nổi bật vẻ đẹp trẻ trung và làn da trong trẻo của cô với độ chi tiết 4K sắc nét: làn da mịn màng, hàng mi mềm mại, đôi môi bóng nhẹ và đôi mắt sáng đầy biểu cảm. Một làn gió nhẹ làm lay động vài sợi tóc và mép khăn voan. 3–6 giây: Chuyển sang các cảnh quay chi tiết đầy duyên dáng: những ngón tay thon thả chạm vào lớp ren trên váy, ánh lấp lánh của chiếc nhẫn, những đường thêu tinh xảo, ngọc trai và kết cấu mềm mại, bay bổng của khăn voan. Các chi tiết mang lại cảm giác thuần khiết, sang trọng và đẳng cấp, với ánh sáng đẹp mắt phản chiếu nhẹ nhàng trên bề mặt vải. 6–9 giây: Quay cảnh cô dâu bước đi chậm rãi trong khung cảnh tươi sáng, mộng mơ trên tay cầm bó hoa cưới tuyệt đẹp. Khăn voan bay nhẹ phía sau và chiếc váy chuyển động mềm mại theo từng bước chân. Nhấn mạnh vẻ thanh lịch trẻ trung, dáng đi nhẹ nhàng và độ lấp lánh lãng mạn của chiếc váy cưới. 9–12 giây: Chuyển sang cảnh quay trung đầy cảm xúc khi cô dâu hơi xoay người về phía máy quay. Nụ cười của cô dịu dàng, ngây thơ và rạng rỡ. Ánh sáng bao quanh cô một cách tuyệt đẹp, làm nổi bật vẻ ngoài trong trẻo và tinh tế. Khăn voan và váy cưới chuyển động uyển chuyển, tạo nên cảm giác lãng mạn vượt thời gian. 12–15 giây: Kết thúc bằng khoảnh khắc ngoạn mục nhất: cảnh quay toàn thân tuyệt đẹp của cô dâu giữa ánh sáng rực rỡ, tay cầm bó hoa, khăn voan bay bổng đầy thanh thoát. Cô dừng lại trong một tư thế đĩnh đạc, khó quên, tựa như khung hình cuối cùng của một bộ phim cưới sang trọng. Vẻ đẹp của cô mang lại cảm giác trẻ trung, thuần khiết, trong suốt và đầy mê hoặc. Phong cách và chỉ đạo hình ảnh: Quay phim cô dâu cực đẹp, vẻ thanh lịch trẻ trung, vẻ đẹp trong trẻo, giàu cảm xúc, mềm mại, lãng mạn, sang trọng, tinh tế, tao nhã, hình ảnh 4K giàu tính thơ, ánh sáng tự nhiên, ánh sáng mộng mơ, cảm giác phim cưới cao cấp, chuyển động máy quay duyên dáng, đa dạng cảnh quay, ngoại hình cô dâu nhất quán, mọi khoảnh khắc đều được trau chuốt và đẹp mắt.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072487795311218688/img/NmgexAkd40fetwk4.jpg" width="600" alt="Cinematic 4K Bridal Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072487795311218688/img/NmgexAkd40fetwk4.jpg" width="600" alt="Video cô dâu chuẩn điện ảnh 4K">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6731)**
 
 **Tác giả:** [meropan](https://x.com/renataro9) | **Nguồn:** [Link](https://x.com/renataro9/status/2072489031485833660) | **Đã xuất bản:** Jul 2, 2026
 
 ---
-### Vespira the Pestilent Empress Cinematic Sequence
+### Chuỗi phân cảnh điện ảnh Vespira the Pestilent Empress
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-fantasy cinematic prompt for Seedance 2.0 that converts a storyboard and character concept into a seamless 15-second video sequence.
+> Một câu lệnh (prompt) điện ảnh giả tưởng cao cấp dành cho Seedance 2.0, giúp chuyển đổi bảng phân cảnh và ý tưởng nhân vật thành một chuỗi video liền mạch dài 15 giây.
 
 #### 📝 Prompt
 
 ```
 VESPIRA — THE PESTILENT EMPRESS [@1000019684]
 "THE BLOOM OF RUIN"
-Duration: 15 Seconds
-Use the storyboard [@1000019685] as reference only.
-Convert the storyboard into a single seamless cinematic sequence.
-Do not render storyboard panels.
-Do not render
+Thời lượng: 15 giây
+Chỉ sử dụng bảng phân cảnh [@1000019685] làm tài liệu tham khảo.
+Chuyển đổi bảng phân cảnh thành một chuỗi điện ảnh liền mạch duy nhất.
+Không hiển thị các khung hình của bảng phân cảnh.
+Không hiển thị
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072463131406893056/img/iwMu0aL3uRDhPrIi.jpg" width="600" alt="Vespira the Pestilent Empress Cinematic Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072463131406893056/img/iwMu0aL3uRDhPrIi.jpg" width="600" alt="Chuỗi phân cảnh điện ảnh Vespira the Pestilent Empress">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6736)**
 
@@ -1495,49 +1495,49 @@ Một căn bếp thiếu sáng vào đêm muộn. Một người phụ nữ ng�
 **Tác giả:** [Serena Pei](https://x.com/spei04) | **Nguồn:** [Link](https://x.com/spei04/status/2072441161298616340) | **Đã xuất bản:** Jul 1, 2026
 
 ---
-### Biomechanical Angel Space Cathedral Transformation
+### Biến hình Thiên thần Cơ sinh học trong Thánh đường Không gian
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic cinematic video prompt for Seedance 2.0 describing a sci-fi fantasy transformation of a human into a biomechanical angel within a celestial cathedral in deep space.
+> Một câu lệnh tạo video điện ảnh hoành tráng cho Seedance 2.0, mô tả quá trình biến hình giả tưởng khoa học viễn tưởng từ con người thành thiên thần cơ sinh học bên trong một thánh đường thiên thể giữa không gian sâu thẳm.
 
 #### 📝 Prompt
 
 ```
-15-second ultra-cinematic sci-fi fantasy transformation sequence inside a colossal abandoned celestial cathedral floating in deep space.
+Chuỗi biến hình giả tưởng khoa học viễn tưởng siêu điện ảnh dài 15 giây bên trong một thánh đường thiên thể khổng lồ bị bỏ hoang trôi nổi trong không gian sâu thẳm.
 
-A lone human stands beneath enormous mechanical arches surrounded by ancient celestial machinery. Gigantic rotating rings, broken stained-glass windows, and forgotten angelic statues drift silently in zero gravity while distant stars illuminate the cathedral.
+Một con người đơn độc đứng dưới những mái vòm cơ khí khổng lồ, bao quanh là các cỗ máy thiên thể cổ xưa. Những vòng xoay khổng lồ, các ô cửa kính màu bị vỡ và những bức tượng thiên thần bị lãng quên trôi lơ lửng trong môi trường không trọng lực, trong khi những vì sao xa xôi chiếu sáng thánh đường.
 
-The atmosphere is sacred, mysterious, and awe-inspiring.
+Bầu không khí mang vẻ thiêng liêng, huyền bí và đầy cảm hứng.
 
-The camera slowly circles around the human as dormant celestial machines begin awakening. Soft white light pulses through the cathedral. Massive mechanical gears rotate for the first time in centuries.
+Máy quay chậm rãi xoay quanh con người khi những cỗ máy thiên thể đang ngủ yên bắt đầu thức tỉnh. Ánh sáng trắng dịu nhẹ lan tỏa khắp thánh đường. Những bánh răng cơ khí khổng lồ xoay chuyển lần đầu tiên sau nhiều thế kỷ.
 
-Tiny streams of liquid silver nanometal emerge from the cathedral floor and flow toward the human.
+Những dòng kim loại nano bạc lỏng nhỏ bé trồi lên từ sàn thánh đường và chảy về phía con người.
 
-The transformation begins.
+Quá trình biến hình bắt đầu.
 
-The liquid metal climbs across the body like living mercury, weaving seamlessly beneath the skin. Luminous white circuits spread through the arms, chest, and face like sacred veins.
+Kim loại lỏng bò khắp cơ thể như thủy ngân sống, len lỏi liền mạch dưới da. Các mạch điện trắng phát sáng lan tỏa qua cánh tay, ngực và khuôn mặt như những đường gân thiêng liêng.
 
-The camera pushes closer as elegant biomechanical structures form naturally around the skeleton. Carbon-fiber muscles, titanium tendons, and glowing energy cores replace organic anatomy while preserving graceful human proportions.
+Máy quay tiến lại gần hơn khi các cấu trúc cơ sinh học thanh thoát hình thành một cách tự nhiên quanh bộ xương. Cơ sợi carbon, gân titan và lõi năng lượng phát sáng thay thế cho giải phẫu hữu cơ, đồng thời vẫn giữ được tỷ lệ cơ thể người duyên dáng.
 
-The transformation accelerates.
+Quá trình biến hình tăng tốc.
 
-Intricate mechanical feathers emerge from the shoulder blades one by one. Thousands of articulated white-metal feathers unfold with perfect precision, each feather glowing softly with celestial energy.
+Những chiếc lông vũ cơ khí tinh xảo lần lượt mọc ra từ xương bả vai. Hàng ngàn chiếc lông vũ bằng kim loại trắng có khớp nối mở ra với độ chính xác hoàn hảo, mỗi chiếc lông đều tỏa sáng dịu nhẹ với năng lượng thiên thể.
 
-Golden halos composed of rotating mechanical rings materialize behind the head. Floating fragments of ancient technology orbit around the transforming figure.
+Những vầng hào quang vàng được tạo thành từ các vòng cơ khí xoay tròn hiện ra sau đầu. Những mảnh vỡ công nghệ cổ xưa trôi nổi xoay quanh nhân vật đang biến hình.
 
-The cathedral responds. Gigantic celestial engines ignite. Beams of divine light pierce through shattered stained glass while floating debris begins orbiting the awakened being.
+Thánh đường phản ứng. Những động cơ thiên thể khổng lồ bùng cháy. Những tia sáng thần thánh xuyên qua các ô kính màu vỡ vụn trong khi các mảnh vụn trôi nổi bắt đầu xoay quanh thực thể vừa thức tỉnh.
 
-At the climax, the human becomes a magnificent Biomechanical Angel , a perfect fusion of organic life, sacred technology, and divine engineering. Brilliant white wings span across the cathedral while luminous blue-white energy flows through every mechanical feather.
+Đến cao trào, con người trở thành một Biomechanical Angel (Thiên thần Cơ sinh học) tráng lệ, sự kết hợp hoàn hảo giữa sự sống hữu cơ, công nghệ thiêng liêng và kỹ thuật thần thánh. Đôi cánh trắng rực rỡ sải rộng khắp thánh đường trong khi năng lượng xanh trắng phát sáng chảy qua từng chiếc lông vũ cơ khí.
 
-Final cinematic moment: the Biomechanical Angel slowly opens both wings. Countless mechanical feathers release into space as radiant particles. The cathedral comes fully alive while the angel ascends through a colossal opening toward the stars, leaving glowing trails of celestial light behind.
+Khoảnh khắc điện ảnh cuối cùng: Biomechanical Angel từ từ mở rộng đôi cánh. Vô số lông vũ cơ khí giải phóng vào không gian như những hạt bụi rạng rỡ. Thánh đường hoàn toàn sống dậy trong khi thiên thần bay lên qua một khe hở khổng lồ hướng về phía các vì sao, để lại những vệt sáng thiên thể rực rỡ phía sau.
 
-Style: ultra-cinematic sci-fi fantasy, biomechanical realism, celestial technology, photoreal nanometal transformation, articulated mechanical wings, divine architecture, volumetric god rays, white and gold aesthetic, premium cinematic VFX, AAA film quality, no text, no overlays.
+Phong cách: giả tưởng khoa học viễn tưởng siêu điện ảnh, chủ nghĩa hiện thực cơ sinh học, công nghệ thiên thể, biến hình kim loại nano chân thực, cánh cơ khí có khớp nối, kiến trúc thần thánh, tia sáng thần thánh thể tích, thẩm mỹ trắng và vàng, VFX điện ảnh cao cấp, chất lượng phim AAA, không văn bản, không lớp phủ.
 
-Audio: epic celestial orchestral score, angelic choir, deep mechanical resonance, servo movements, metallic feather articulation, divine energy hums, cathedral ambience, cosmic atmosphere, transcendent cinematic crescendo.
+Âm thanh: bản nhạc giao hưởng thiên thể hoành tráng, dàn hợp xướng thiên thần, tiếng vang cơ khí trầm hùng, chuyển động servo, tiếng khớp nối lông vũ kim loại, tiếng ngân năng lượng thần thánh, không gian thánh đường, bầu không khí vũ trụ, cao trào điện ảnh siêu việt.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072409972923568128/pu/img/F_cLXEfG2xEULFsD.jpg" width="600" alt="Biomechanical Angel Space Cathedral Transformation">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072409972923568128/pu/img/F_cLXEfG2xEULFsD.jpg" width="600" alt="Biến hình Thiên thần Cơ sinh học trong Thánh đường Không gian">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6735)**
 
@@ -1719,19 +1719,19 @@ Vào năm 2026, hãy tạo một video du lịch điện ảnh dài 15 giây v�
 **Tác giả:** [simeon-sanai](https://x.com/Naiknelofar788) | **Nguồn:** [Link](https://x.com/Naiknelofar788/status/2072313649222517140) | **Đã xuất bản:** Jul 1, 2026
 
 ---
-### Fantasy Warrior Transformation Sequence
+### Chuỗi biến hình của chiến binh giả tưởng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-fidelity cinematic prompt for a continuous fantasy action sequence featuring an East Asian warrior woman's transformation on a volcanic battlefield.
+> Một câu lệnh điện ảnh độ phân giải cao cho chuỗi hành động giả tưởng liên tục về màn biến hình của một nữ chiến binh Đông Á trên chiến trường núi lửa.
 
 #### 📝 Prompt
 
 ```
-A continuous cinematic fantasy action sequence of a young East Asian warrior woman. She is crawling on a cracked icy battlefield, desperately holding up a glowing teardrop-shaped red crystal amulet set in a gold crescent. Suddenly, a massive surge of fiery energy explodes from the crystal, instantly shattering the ice and turning the entire landscape into a volcanic crater filled with flowing magma and ruined stone pillars. The woman levitates high into the air as intense, swirling vortices of fire wrap around her body. In mid-air, the flames materialize into a highly detailed crimson and gold fantasy dress with metallic arm guards and a flowing cape. A blazing crown of pure fire forms on her forehead, and her eyes snap open, glowing with intense, fiery heart-shaped patterns. She raises her hand to summon an intricate, giant golden magical circle in front of her, unleashing a catastrophic, blinding explosion of fire that obliterates everything in sight. 8K ultra-realism, high-fidelity VFX, dynamic camera angles, cinematic lighting, and epic scale.
+Một chuỗi hành động giả tưởng điện ảnh liên tục về một nữ chiến binh Đông Á trẻ tuổi. Cô đang bò trên chiến trường băng giá nứt nẻ, tuyệt vọng giơ cao chiếc bùa hộ mệnh pha lê màu đỏ hình giọt nước rực sáng được đính trên một mảnh trăng khuyết bằng vàng. Đột nhiên, một luồng năng lượng rực lửa khổng lồ bùng nổ từ viên pha lê, ngay lập tức làm tan chảy lớp băng và biến toàn bộ khung cảnh thành một miệng núi lửa đầy dung nham đang chảy cùng những cột đá đổ nát. Người phụ nữ bay lên không trung khi những cơn lốc lửa dữ dội cuộn quanh cơ thể cô. Giữa không trung, ngọn lửa hiện hình thành một bộ váy giả tưởng màu đỏ thẫm và vàng vô cùng chi tiết với giáp tay kim loại và chiếc áo choàng bay bổng. Một chiếc vương miện rực lửa hình thành trên trán cô, và đôi mắt cô mở bừng, tỏa sáng với những họa tiết hình trái tim rực lửa đầy mãnh liệt. Cô giơ tay triệu hồi một vòng tròn ma thuật khổng lồ bằng vàng đầy tinh xảo trước mặt, giải phóng một vụ nổ lửa chói lòa, thảm khốc quét sạch mọi thứ trong tầm mắt. Độ phân giải 8K siêu thực, hiệu ứng hình ảnh (VFX) độ trung thực cao, góc máy quay linh hoạt, ánh sáng điện ảnh và quy mô hoành tráng.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072306060656877568/pu/img/5KqqnDimee6Gzbf8.jpg" width="600" alt="Fantasy Warrior Transformation Sequence">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072306060656877568/pu/img/5KqqnDimee6Gzbf8.jpg" width="600" alt="Chuỗi biến hình của chiến binh giả tưởng">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6729)**
 
@@ -2472,38 +2472,36 @@ Phong cách: siêu thực, điện ảnh, nhịp độ nhanh, hồi hộp, hành
 **Tác giả:** [DeCat](https://x.com/DeCat2025) | **Nguồn:** [Link](https://x.com/DeCat2025/status/2072116580046282974) | **Đã xuất bản:** Jul 1, 2026
 
 ---
-### Tokyo Summer Travel Vlog Montage
+### Video Montage Nhật ký du lịch mùa hè tại Tokyo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed multi-shot prompt for creating a 15-second travel vlog montage in Tokyo with 10 consistent scenes featuring a character in iconic city locations.
+> Một prompt chi tiết gồm nhiều cảnh quay để tạo video montage nhật ký du lịch dài 15 giây tại Tokyo, với 10 cảnh quay nhất quán về một nhân vật tại các địa điểm mang tính biểu tượng của thành phố.
 
 #### 📝 Prompt
 
 ```
-Use the reference grid image as the source of the same girl and her 10 summer travel scenes in Tokyo.
-Create a single 15-second feel-good travel-vlog montage, 16:9 horizontal, flowing through all 10 scenes
-in order as quick handheld phone shots, about 1.5 seconds each, snappy cuts on the beat.
-The same girl in every shot with consistent face and hairstyle; in each shot her outfit matches that scene in the reference.
-Throughout, she radiates excitement and joy — bright eyes, easy smiles, playful energy — and each shot shows off
-what makes that spot special. Authentic smartphone look, natural ambient light, subtle grain, light handheld motion.
-Bright, joyful sightseeing music that conveys the fun of travel, around 125 bpm.
+Sử dụng hình ảnh lưới tham chiếu làm nguồn cho cùng một cô gái và 10 cảnh du lịch mùa hè của cô ấy tại Tokyo.
+Tạo một video montage nhật ký du lịch mang cảm giác tích cực dài 15 giây, khung hình ngang 16:9, chuyển cảnh mượt mà qua cả 10 cảnh theo thứ tự như các cảnh quay nhanh bằng điện thoại cầm tay, mỗi cảnh khoảng 1,5 giây, cắt cảnh nhanh theo nhịp điệu.
+Cùng một cô gái trong mọi cảnh quay với khuôn mặt và kiểu tóc nhất quán; trong mỗi cảnh, trang phục của cô ấy khớp với cảnh đó trong hình ảnh tham chiếu.
+Trong suốt video, cô ấy toả ra sự phấn khích và niềm vui — đôi mắt sáng, nụ cười rạng rỡ, năng lượng vui tươi — và mỗi cảnh quay đều làm nổi bật nét đặc trưng của địa điểm đó. Hình ảnh chân thực như quay bằng điện thoại thông minh, ánh sáng tự nhiên, có độ nhiễu hạt nhẹ, chuyển động cầm tay nhẹ nhàng.
+Nhạc du lịch tươi vui, rộn ràng truyền tải niềm vui của chuyến đi, khoảng 125 bpm.
 
-Shot 1 — Inokashira pond swan boat: she laughs with delight and rocks the pedal boat, sparkling water and a swan boat gliding behind, warm sun flare.
-Shot 2 — cafe matcha kakigori: eyes lighting up, she lifts a spoonful of fluffy shaved ice toward the camera and beams, the towering dessert in frame.
-Shot 3 — Harmonica Yokocho alley at night: she strolls through the glowing red-lantern alley, glances back with an excited grin, lively izakaya signs around her.
-Shot 4 — hotel mirror selfie: a happy, relaxed mirror selfie, she tilts her head and smiles softly, calm window light, cozy room mood.
-Shot 5 — summer festival night: she bites a bright candy apple and bursts into a giggle, swaying paper lanterns and a buzzing crowd behind her.
-Shot 6 — golden-hour window selfie: an arm's-length selfie bathed in warm sunset light, soft hair movement, a contented joyful smile.
-Shot 7 — ivy-covered Ghibli-style museum: she gazes up in wonder, spinning slightly to take it all in as the camera tilts up the lush green facade.
-Shot 8 — Inokashira park path: she crouches with a delighted laugh and points as a small squirrel scampers by, dappled sunlight, playful energy.
-Shot 9 — Harajuku shop window with bubble tea: she sips happily through a straw, her reflection shimmering in the glass, the bustling colorful street behind.
-Shot 10 — on the train home: a calm, satisfied selfie, hand on her cheek, city skyline streaking past the window, a soft fulfilled smile.
+Cảnh 1 — Hồ Inokashira với thuyền thiên nga: cô ấy cười thích thú và lắc lư chiếc thuyền đạp nước, mặt nước lấp lánh và chiếc thuyền thiên nga lướt phía sau, ánh nắng ấm áp.
+Cảnh 2 — Quán cà phê matcha kakigori: đôi mắt sáng lên, cô ấy đưa thìa đá bào xốp lên hướng về phía máy ảnh và cười rạng rỡ, món tráng miệng cao vút nằm trong khung hình.
+Cảnh 3 — Hẻm Harmonica Yokocho vào ban đêm: cô ấy đi dạo qua con hẻm với những chiếc đèn lồng đỏ rực rỡ, ngoái nhìn lại với nụ cười phấn khích, xung quanh là các bảng hiệu izakaya sống động.
+Cảnh 4 — Selfie trước gương trong khách sạn: một bức ảnh selfie vui vẻ, thư thái, cô ấy nghiêng đầu và mỉm cười nhẹ nhàng, ánh sáng cửa sổ dịu nhẹ, không gian phòng ấm cúng.
+Cảnh 5 — Đêm lễ hội mùa hè: cô ấy cắn một miếng táo bọc đường rực rỡ và bật cười khúc khích, phía sau là những chiếc đèn lồng giấy đung đưa và đám đông nhộn nhịp.
+Cảnh 6 — Selfie bên cửa sổ vào giờ vàng: một bức ảnh selfie cầm tay đắm mình trong ánh hoàng hôn ấm áp, mái tóc chuyển động nhẹ nhàng, nụ cười mãn nguyện.
+Cảnh 7 — Bảo tàng phong cách Ghibli phủ đầy dây thường xuân: cô ấy ngước nhìn đầy kinh ngạc, xoay người nhẹ để ngắm nhìn toàn cảnh khi máy ảnh hướng lên mặt tiền xanh mướt.
+Cảnh 8 — Đường mòn công viên Inokashira: cô ấy ngồi xổm xuống cười thích thú và chỉ tay khi một chú sóc nhỏ chạy ngang qua, ánh nắng xuyên qua tán lá, năng lượng vui tươi.
+Cảnh 9 — Cửa hàng ở Harajuku với trà sữa: cô ấy vui vẻ hút trà qua ống hút, hình ảnh phản chiếu của cô ấy lung linh trên mặt kính, phía sau là con phố đầy màu sắc nhộn nhịp.
+Cảnh 10 — Trên tàu về nhà: một bức ảnh selfie bình yên, mãn nguyện, tay chống lên má, đường chân trời thành phố lướt qua ngoài cửa sổ, một nụ cười nhẹ nhàng và trọn vẹn.
 
-Smooth energetic flow from shot to shot, consistent color and grain throughout, upbeat happy travel-diary mood.
+Chuyển cảnh mượt mà đầy năng lượng, màu sắc và độ nhiễu hạt nhất quán trong suốt video, mang đậm phong cách nhật ký du lịch vui vẻ, lạc quan.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072069190790561792/img/rHCf0Al61tzVOv2a.jpg" width="600" alt="Tokyo Summer Travel Vlog Montage">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072069190790561792/img/rHCf0Al61tzVOv2a.jpg" width="600" alt="Video Montage Nhật ký du lịch mùa hè tại Tokyo">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=6730)**
 
@@ -3577,6 +3575,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-03T07:42:21.830Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-03T10:55:49.443Z</sub>
 
 </div>

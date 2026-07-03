@@ -361,26 +361,26 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
-### Fashion Editorial Aesthetic Vlog
+### Moda Editöryel Estetik Vlog
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional vlog-style prompt for generating high-fashion content with stylish cuts, soft cinematic lighting, and consistent character presentation.
+> Şık kesimler, yumuşak sinematik aydınlatma ve tutarlı karakter sunumuyla yüksek moda içerikleri oluşturmak için profesyonel bir vlog tarzı komut.
 
 #### 📝 İstem
 
 ```
-15 seconds, 16:9 vertical, quick stylish cuts between segments (4-5 short beats), glossy aesthetic-vlog pacing, smooth whip-pan or snap transitions between each.
-Global setup: High fashion aesthetic content-creator video. Soft glowing key light, shallow depth of field, slightly warm cinematic color grade. Subject: a confident young woman, stylish trendy outfit, changes look/setting slightly between beats (different lighting or background each cut, same general styling identity). Ambient sound: moody downtempo pop/R&B instrumental, subtle beat drops synced to cut transitions.
-[0:00–0:03] Close-up, soft warm light, she looks off to the side with a calm confident expression, then slowly turns to meet the camera. Slow push-in.
-[0:03–0:06] Cut to a different angle/setting, cooler blue-toned lighting, she runs a hand through her hair, subtle self-assured smile, gaze steady on camera.
-[0:06–0:09] Cut to outdoor golden-hour lighting, she walks slowly toward camera, wind gently moving her hair and clothing, confident relaxed stride.
-[0:09–0:12] Cut to close-up under neon-tinted lighting, she glances down then back up at camera with a slow deliberate look, beat-synced snap transition.
-[0:12–0:15] Final cut, soft studio lighting, she gives a small satisfied smile directly to camera, holds the moment, slow fade to black.
-Style: glossy editorial color grade, soft cinematic lighting throughout, confident expressive body language, no text overlays, no distorted anatomy or facial features. Constraints: consistent styling identity across cuts (even as background/lighting changes), natural realistic movement, transitions synced to the beat of the music, believable naturalistic expressions throughout.
+15 saniye, 16:9 dikey, bölümler arasında hızlı ve şık kesimler (4-5 kısa vuruş), parlak estetik vlog temposu, her geçişte yumuşak whip-pan veya snap geçişleri.
+Genel kurulum: Yüksek moda estetiğine sahip içerik üreticisi videosu. Yumuşak parlayan ana ışık, sığ alan derinliği, hafif sıcak sinematik renk tonlaması. Konu: Kendinden emin genç bir kadın, şık ve trend bir kıyafet, vuruşlar arasında görünümü/ortamı hafifçe değiştiriyor (her kesimde farklı aydınlatma veya arka plan, aynı genel stil kimliği). Ortam sesi: Karamsar downtempo pop/R&B enstrümantal, kesim geçişleriyle senkronize edilmiş hafif beat düşüşleri.
+[0:00–0:03] Yakın çekim, yumuşak sıcak ışık, sakin ve kendinden emin bir ifadeyle yana bakıyor, ardından yavaşça kameraya dönüyor. Yavaş yakınlaşma (push-in).
+[0:03–0:06] Farklı bir açıya/ortama geçiş, daha soğuk mavi tonlu aydınlatma, elini saçından geçiriyor, hafif ve kendinden emin bir gülümseme, bakışlar sabit bir şekilde kamerada.
+[0:06–0:09] Dış mekan altın saat (golden-hour) aydınlatmasına geçiş, yavaşça kameraya doğru yürüyor, rüzgar saçını ve kıyafetini hafifçe hareket ettiriyor, kendinden emin ve rahat bir yürüyüş.
+[0:09–0:12] Neon tonlu aydınlatma altında yakın çekime geçiş, aşağı bakıp ardından yavaş ve kararlı bir bakışla tekrar kameraya dönüyor, vuruşla senkronize snap geçişi.
+[0:12–0:15] Son kesim, yumuşak stüdyo aydınlatması, doğrudan kameraya küçük ve memnun bir gülümseme veriyor, anı koruyor, yavaşça kararıyor.
+Stil: Parlak editöryel renk tonlaması, baştan sona yumuşak sinematik aydınlatma, kendinden emin ve etkileyici vücut dili, metin katmanı yok, bozuk anatomi veya yüz hatları yok. Kısıtlamalar: Kesimler boyunca tutarlı stil kimliği (arka plan/aydınlatma değişse bile), doğal ve gerçekçi hareket, müziğin ritmiyle senkronize geçişler, baştan sona inandırıcı ve doğal ifadeler.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072787072960851968/img/jqmc52nK2J2duWVX.jpg" width="600" alt="Fashion Editorial Aesthetic Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072787072960851968/img/jqmc52nK2J2duWVX.jpg" width="600" alt="Moda Editöryel Estetik Vlog">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6734)**
 
@@ -484,51 +484,51 @@ John Carpenter'ın The Thing filminden esinlenen grotesk bir canavar. 80'ler tar
 **Yazar:** [BMX](https://x.com/bmx_ai13) | **Kaynak:** [Link](https://x.com/bmx_ai13/status/2072809793429876745) | **Yayınlandı:** Jul 2, 2026
 
 ---
-### POV Suspense Anime Chase
+### POV Gerilim Anime Kovalamacası
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A cinematic Japanese anime prompt for a suspenseful point-of-view chase scene between a girl and a cat, featuring high-quality 2D animation and dynamic camera movements.
+> Bir kız ile bir kedi arasındaki gerilim dolu bakış açısı (POV) kovalamaca sahnesi için yüksek kaliteli 2D animasyon ve dinamik kamera hareketleri içeren sinematik bir Japon anime istemi.
 
 #### 📝 İstem
 
 ```
-[Main Character] = Girl with black hair
-[Target/Subject] = White cat
-[Setting] = Inside a large, dark house with suspenseful elements
+[Ana Karakter] = Siyah saçlı kız
+[Hedef/Özne] = Beyaz kedi
+[Mekan] = Gerilim unsurları içeren büyük, karanlık bir evin içi
 
-[Video Style]
-15 seconds. Japanese full-color anime. High-density 2D animation with a 500 million yen budget feel. Fast cuts, strong low angles, rapid push-ins, lateral tracking, match cuts. No subtitles, no watermarks, with BGM. Sounds include footsteps, breathing, rustling clothes, ambient noise, and one short final phrase.
+[Video Stili]
+15 saniye. Japon tam renkli anime. 500 milyon yen bütçeli hissi veren yüksek yoğunluklu 2D animasyon. Hızlı kesmeler, güçlü düşük açılar, ani yakınlaşmalar, yanal takip, eşleşen kesmeler (match cuts). Altyazı yok, filigran yok, BGM mevcut. Sesler arasında ayak sesleri, nefes alıp verme, kıyafet hışırtısı, ortam gürültüsü ve kısa bir final cümlesi yer alıyor.
 
-[Visual Composition]
-Subjective POV camera of the [Target/Subject], being chased by the [Main Character]. Instead of a normal chase, the [Main Character] doesn't just run but gets ahead of the camera. An [Abnormal Gimmick] connects all shots, and finally, the [Main Character] wins quietly close to the lens.
+[Görsel Kompozisyon]
+[Ana Karakter] tarafından kovalanan [Hedef/Özne]'nin öznel POV kamerası. Normal bir kovalamaca yerine, [Ana Karakter] sadece koşmuyor, kameranın önüne geçiyor. Bir [Sıra Dışı Hile] tüm çekimleri birbirine bağlıyor ve sonunda [Ana Karakter] lensin hemen önünde sessizce kazanıyor.
 
-[Shot 1: 2-Second Hook]
-Low POV. Starts from the floor of the [Setting]. Only the feet of the [Main Character] enter the edge of the frame. An [Abnormal Gimmick] crosses the foreground for a moment.
+[Çekim 1: 2 Saniyelik Kanca]
+Düşük POV. [Mekan]'ın zemininden başlar. Sadece [Ana Karakter]'in ayakları karenin kenarına girer. Bir [Sıra Dışı Hile] bir anlığına ön plandan geçer.
 
-[Shot 2: Escape Starts]
-[Target/Subject] suddenly retreats to flee. The camera slides near the floor with slight handheld shakiness. Footsteps speed up.
+[Çekim 2: Kaçış Başlıyor]
+[Hedef/Özne] aniden kaçmak için geri çekilir. Kamera, hafif el titremesiyle zemine yakın bir şekilde kayar. Ayak sesleri hızlanır.
 
-[Shot 3: Getting Ahead]
-As soon as turning a corner, the [Main Character] is already standing in the middle of a distant hallway. The camera stops for a moment then escapes to the side.
+[Çekim 3: Öne Geçiş]
+Bir köşeyi döner dönmez, [Ana Karakter] çoktan uzak bir koridorun ortasında durmaktadır. Kamera bir an durur, ardından yana doğru kaçar.
 
-[Shot 4: Under Obstacles]
-Passing through low gaps like tables, sofas, or handrails. The [Abnormal Gimmick] glows deep in the gap, indicating the pursuit direction.
+[Çekim 4: Engellerin Altı]
+Masalar, kanepeler veya tırabzanlar gibi alçak boşluklardan geçiş. [Sıra Dışı Hile], takip yönünü belirterek boşluğun derinliklerinde parlar.
 
-[Shot 5: High Angle Bird's Eye]
-High-speed cut from directly above. Shows the escape route of the [Target/Subject].
+[Çekim 5: Yüksek Açı Kuş Bakışı]
+Doğrudan yukarıdan yüksek hızlı kesme. [Hedef/Özne]'nin kaçış rotasını gösterir.
 
-[Shot 6: Moment of Relief]
-[Target/Subject] hides behind an object. Sound cuts out. Camera is fixed, only the back of the screen quietly darkens.
+[Çekim 6: Rahatlama Anı]
+[Hedef/Özne] bir nesnenin arkasına saklanır. Ses kesilir. Kamera sabittir, sadece ekranın arkası yavaşça kararır.
 
-[Shot 7: Discovery]
-Focus shifts from foreground to background, where the [Main Character] is located. The [Main Character] doesn't move much, just looks here with their eyes.
+[Çekim 7: Keşif]
+Odak, ön plandan [Ana Karakter]'in bulunduğu arka plana kayar. [Ana Karakter] fazla hareket etmez, sadece gözleriyle buraya bakar.
 
-[Shot 8: Final Word]
-Rapid close-up. The [Main Character] says 'Found you♪' in a short, cute voice very close to the lens. The final frame is a still image with a smile.
+[Çekim 8: Son Söz]
+Hızlı yakın çekim. [Ana Karakter] lensin çok yakınında, kısa ve sevimli bir sesle 'Seni buldum♪' der. Son kare, gülümseyen bir sabit görüntüdür.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072030784333168640/img/940Q6ySKRPVaswlK.jpg" width="600" alt="POV Suspense Anime Chase">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072030784333168640/img/940Q6ySKRPVaswlK.jpg" width="600" alt="POV Gerilim Anime Kovalamacası">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6727)**
 
@@ -658,21 +658,21 @@ Endüstriyel sürrealizm, rüya üretimi, parlayan buhar simülasyonları, mekan
 **Yazar:** [LudovicCreator](https://x.com/LudovicCreator) | **Kaynak:** [Link](https://x.com/LudovicCreator/status/2072742121673494808) | **Yayınlandı:** Jul 2, 2026
 
 ---
-### Luxury Macro Transformation Sequence
+### Lüks Makro Dönüşüm Sekansı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for Seedance 2.0 designed to create a luxury macro commercial sequence using storyboard panel references.
+> Storyboard panel referanslarını kullanarak lüks bir makro reklam sekansı oluşturmak için tasarlanmış, Seedance 2.0'a yönelik sinematik bir video istemi.
 
 #### 📝 İstem
 
 ```
-Use @ Image as storyboard reference for cinematic sequence. use as first shot 01
+Sinematik sekans için storyboard referansı olarak @ Image kullanın. İlk çekim 01 olarak kullanın
 
-A 15-second cinematic macro transformation sequence transitioning through all 9 storyboard panels in strict order. Visual style: luxury macro commercial,
+9 storyboard panelinin tamamından katı bir sırayla geçiş yapan 15 saniyelik sinematik makro dönüşüm sekansı. Görsel stil: lüks makro reklam,
 ```
 
-<img src="https://cms-assets.youmind.com/media/1783064372965_tks6lw_HMPV9GHWkAAH3iI.jpg" width="600" alt="Luxury Macro Transformation Sequence">
+<img src="https://cms-assets.youmind.com/media/1783064372965_tks6lw_HMPV9GHWkAAH3iI.jpg" width="600" alt="Lüks Makro Dönüşüm Sekansı">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6726)**
 
@@ -698,41 +698,41 @@ A 15-second cinematic macro transformation sequence transitioning through all 9 
 **Yazar:** [Magnific](https://x.com/magnific) | **Kaynak:** [Link](https://x.com/magnific/status/2072731418527170995) | **Yayınlandı:** Jul 2, 2026
 
 ---
-### 1980s Tokyo Bubble Era VHS Video Prompt
+### 1980'ler Tokyo Balon Ekonomisi Dönemi VHS Video İstemi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive cinematic prompt designed for Seedance, creating a nostalgic 1980s Tokyo street scene with a distinct VHS home-video aesthetic and detailed character movement across multiple time-coded segments.
+> Seedance için tasarlanmış, belirgin bir VHS ev videosu estetiğine ve zaman kodlu bölümler boyunca ayrıntılı karakter hareketlerine sahip, nostaljik bir 1980'ler Tokyo sokak sahnesi yaratan kapsamlı sinematik istem.
 
 #### 📝 İstem
 
 ```
-Main subject: a beautiful young Japanese woman, early 20s, delicate pretty features, sleek glossy black hair, long and smooth with soft side-swept bangs (NOT permed, NOT frizzy), tasteful natural makeup. 1980s Tokyo street fashion — a bright oversized blazer over a high-waisted skirt, gold hoop earrings, charming warm expression. Maintain the exact same identity, hairstyle, and outfit throughout.
+Ana özne: 20'li yaşlarının başında, güzel, genç bir Japon kadın; narin ve hoş yüz hatları, parlak ve pürüzsüz siyah saçlar, uzun ve yumuşak, yana taranmış kâküller (permasız, kabarıklığı olmayan), zevkli ve doğal bir makyaj. 1980'ler Tokyo sokak modası — yüksek belli bir etek üzerinde parlak, büyük beden bir blazer ceket, altın halka küpeler, etkileyici ve sıcak bir ifade. Tüm sahneler boyunca aynı kimliği, saç stilini ve kıyafeti koruyun.
 
-Visual Style: authentic 1980s VHS home-video look — heavy tape grain, visible scanlines, chromatic color bleeding, blooming highlights, warm faded nostalgic colors, a small on-screen date stamp in the corner, occasional soft tracking wobble. Strong retro-vintage feeling.
+Görsel Stil: Otantik 1980'ler VHS ev videosu görünümü — yoğun kaset greni, görünür tarama çizgileri, kromatik renk kayması, parlayan ışıklar, sıcak ve soluk nostaljik renkler, köşede küçük bir tarih damgası, ara sıra hafif takip titremesi. Güçlü bir retro-vintage hissi.
 
-Camera Style: 1980s camcorder held by a friend, MOSTLY STEADY with only a gentle natural float — light sway, no violent shaking, no fast whip movements. Slow casual reframing.
+Kamera Stili: Bir arkadaş tarafından tutulan 1980'ler video kamerası, ÇOĞUNLUKLA SABİT, sadece hafif ve doğal bir salınım var — hafif bir sallantı, şiddetli sarsıntı yok, hızlı ani hareketler yok. Yavaş ve doğal kadrajlama.
 
-FIRST HALF — DAYTIME (bustling bubble-era Tokyo streets):
-00:00–00:02 A busy 1980s Shibuya daytime street. She walks toward the camera through period pedestrians, boxy cars and hand-painted shop signs behind her, smiling. HARD CUT.
-00:02–00:04 Outside a record shop, she flips through vinyl records, then grabs a canned drink from a retro vending machine. HARD CUT.
-00:04–00:06 A quiet Showa backstreet with potted plants and a pay phone; she crouches to pet a stray cat. HARD CUT.
-00:06–00:08 A wide crosswalk under an elevated train line, city-pop energy, she waits and glances at the camera. HARD CUT.
+İLK YARI — GÜNDÜZ (hareketli balon ekonomisi dönemi Tokyo sokakları):
+00:00–00:02 1980'lerin hareketli Shibuya gündüz sokağı. Dönemin yayaları, köşeli arabalar ve el boyaması dükkan tabelaları arasında kameraya doğru gülümseyerek yürüyor. SERT KESME.
+00:02–00:04 Bir plakçının önünde plakları karıştırıyor, ardından retro bir otomat makinesinden kutu içecek alıyor. SERT KESME.
+00:04–00:06 Saksı bitkileri ve ankesörlü telefonun olduğu sessiz bir Showa arka sokağı; sokak kedisini sevmek için eğiliyor. SERT KESME.
+00:06–00:08 Yükseltilmiş tren hattının altında geniş bir yaya geçidi, city-pop enerjisi, bekliyor ve kameraya bakıyor. SERT KESME.
 
-SECOND HALF — NIGHT (dazzling Shinjuku / Roppongi neon):
-00:08–00:10 A neon-drenched Shinjuku Kabukicho alley, glowing kanji signboards everywhere, she walks looking up at the bright lights. HARD CUT.
-00:10–00:12 A Roppongi crossing at night, dazzling neon, taxis passing, she laughs toward the camera as light reflections wash over her face. HARD CUT.
-00:12–00:13 Close shot under a huge glowing neon sign, colorful light on her face. HARD CUT.
-00:13–00:15 She walks away down a vibrant neon street, glances back with a small warm smile, then the recording cuts to VHS static and black.
+İKİNCİ YARI — GECE (göz kamaştırıcı Shinjuku / Roppongi neonları):
+00:08–00:10 Neon ışıklarla yıkanmış Shinjuku Kabukicho sokağı, her yerde parlayan kanji tabelaları, parlak ışıklara bakarak yürüyor. SERT KESME.
+00:10–00:12 Gece Roppongi geçidi, göz kamaştırıcı neonlar, geçen taksiler, yüzüne yansıyan ışıklarla kameraya doğru gülüyor. SERT KESME.
+00:12–00:13 Büyük ve parlayan bir neon tabelanın altında yakın çekim, yüzünde renkli ışıklar. SERT KESME.
+00:13–00:15 Canlı bir neon caddesinde uzaklaşıyor, arkasına bakıp küçük ve sıcak bir gülümseme bırakıyor, ardından kayıt VHS parazitiyle kararıyor.
 
-Environment details throughout: retro vending machines, glowing neon kanji signboards, pay phones, boxy 1980s taxis and kei cars, elevated trains, arcade lights, izakaya paper lanterns, dense overhead wires — nostalgic bubble-era Tokyo.
+Çevre detayları: retro otomatlar, parlayan neon kanji tabelaları, ankesörlü telefonlar, 1980'lerin köşeli taksileri ve kei arabaları, yükseltilmiş trenler, atari salonu ışıkları, izakaya kağıt fenerleri, yoğun havai elektrik hatları — nostaljik balon ekonomisi dönemi Tokyo'su.
 
-Audio: natural ambient only — city crowd, passing trains, traffic, arcade beeps, faint 1980s city-pop drifting from a storefront, footsteps. No narration, no added soundtrack.
+Ses: Sadece doğal ortam sesleri — şehir kalabalığı, geçen trenler, trafik, atari salonu sesleri, bir dükkandan gelen hafif 1980'ler city-pop müziği, ayak sesleri. Dış ses yok, eklenmiş müzik yok.
 
-Goal: a beautiful, nostalgic 1980s Tokyo day-to-night street video that feels like a treasured VHS home movie from Japan's bubble era.
+Amaç: Japonya'nın balon ekonomisi döneminden kalma değerli bir VHS ev videosu gibi hissettiren, güzel ve nostaljik bir 1980'ler Tokyo gündüzden geceye sokak videosu.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072712250092302336/img/ZE1gAAUVygL_T9L4.jpg" width="600" alt="1980s Tokyo Bubble Era VHS Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072712250092302336/img/ZE1gAAUVygL_T9L4.jpg" width="600" alt="1980'ler Tokyo Balon Ekonomisi Dönemi VHS Video İstemi">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6733)**
 
@@ -1136,38 +1136,38 @@ El çizimi detaylı animasyon, 1980'ler retro OVA tarzı. Antik Mısır kraliyet
 **Yazar:** [Sam Aoteman](https://x.com/samaote) | **Kaynak:** [Link](https://x.com/samaote/status/2072561439173468501) | **Yayınlandı:** Jul 2, 2026
 
 ---
-### Realistic 2000s Chinese DV Vlog
+### Gerçekçi 2000'ler Çin DV Vlog'u
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A meticulous prompt for simulating an early 2000s Chinese home video aesthetic, featuring a young woman in a traditional southern residential area with low-fidelity digital camera characteristics.
+> 2000'lerin başındaki Çin ev videosu estetiğini simüle etmek için titizlikle hazırlanmış; geleneksel bir güney yerleşim bölgesinde, düşük kaliteli dijital kamera özelliklerine sahip genç bir kadını konu alan bir istem.
 
 #### 📝 İstem
 
 ```
-Main Character: A young Chinese woman, about 22 years old, with average but attractive looks and natural makeup (no influencer look). Wearing a faded charcoal sleeveless crop top, loose light blue high-waisted wash jeans, black canvas shoes, and a thin black rope necklace. Long black hair tied in a slightly messy low ponytail with natural wispy bangs. Realistic skin texture with a healthy summer tan, natural friendly smile, no posing. Maintain consistent character identity, clothing, hairstyle, and appearance throughout the video.
-Location: A typical residential area in southern China (like old districts in Guangdong, Fujian, Jiangxi, or Zhejiang), 3-4 PM in summer. Narrow concrete alleys, 2-3 story self-built houses with signs of age, green security doors, old aluminum windows, anti-theft nets, air conditioning units, electric scooters, bicycles, bamboo drying racks, sun-dried sheets and clothes, plastic flower pots, greenery, utility poles with dense overhead wires, and large trees casting swaying shadows. No commercial streets, billboards, bubble tea shops, cafes, tourists, posing, or modern influencer elements.
-Visual Style: Hyper-realistic documentary authenticity. Like family DV recordings from 2002-2008. No plot, no acting, no deliberate camera angles. Real fragments of life. Natural, random human movements. Abundant real-world details. Like an old DV tape rediscovered from childhood.
-Photography Style: Early 2000s consumer DV camera quality. Intense handheld shakiness. Constant auto-exposure adjustments. Frequent autofocus hunting. Slight motion blur. Rolling shutter. CCD digital camera colors. Slight software compression artifacts. Slightly warm white balance. Light noise. Low dynamic range. Occasional slight overexposure. No stabilizers. No cinematic camera work. No drone shots. No modern HDR. No film grading. No film filters.
+Ana Karakter: Yaklaşık 22 yaşında, ortalama ama çekici bir görünüme sahip, doğal makyajlı (influencer tarzı olmayan) genç bir Çinli kadın. Üzerinde soluk füme rengi kolsuz bir crop top, bol açık mavi yüksek belli kot pantolon, siyah kanvas ayakkabılar ve ince siyah ipli bir kolye var. Uzun siyah saçları, doğal ve dağınık perçemlerle hafif dağınık, düşük bir at kuyruğu şeklinde toplanmış. Sağlıklı bir yaz bronzluğu ile gerçekçi cilt dokusu, doğal ve samimi bir gülümseme, poz verme yok. Video boyunca karakter kimliğini, kıyafetleri, saç stilini ve görünümü tutarlı tutun.
+Konum: Güney Çin'de tipik bir yerleşim bölgesi (Guangdong, Fujian, Jiangxi veya Zhejiang'daki eski mahalleler gibi), yazın öğleden sonra 3-4 suları. Dar beton ara sokaklar, yaşanmışlık izleri taşıyan 2-3 katlı müstakil evler, yeşil güvenlik kapıları, eski alüminyum pencereler, hırsızlık önleyici demir parmaklıklar, klima üniteleri, elektrikli scooterlar, bisikletler, bambu çamaşır askıları, güneşte kuruyan çarşaflar ve kıyafetler, plastik saksılar, yeşillikler, yoğun elektrik tellerinin olduğu direkler ve sallanan gölgeler oluşturan büyük ağaçlar. Ticari caddeler, reklam panoları, bubble tea dükkanları, kafeler, turistler, poz veren insanlar veya modern influencer unsurları yok.
+Görsel Stil: Hiper gerçekçi belgesel otantikliği. 2002-2008 yılları arasındaki aile DV kayıtları gibi. Konu yok, oyunculuk yok, kasıtlı kamera açıları yok. Hayattan gerçek kesitler. Doğal, rastgele insan hareketleri. Bol miktarda gerçek dünya detayı. Çocukluktan yeniden keşfedilmiş eski bir DV kaseti gibi.
+Fotoğrafçılık Stili: 2000'lerin başındaki tüketici tipi DV kamera kalitesi. Yoğun el titremesi. Sürekli otomatik pozlama ayarlamaları. Sık sık odak arayışı. Hafif hareket bulanıklığı. Rolling shutter etkisi. CCD dijital kamera renkleri. Hafif yazılım sıkıştırma hataları. Hafif sıcak beyaz dengesi. Hafif kumlanma. Düşük dinamik aralık. Ara sıra hafif aşırı pozlama. Sabitleyici yok. Sinematik kamera çalışması yok. Drone çekimi yok. Modern HDR yok. Film derecelendirmesi yok. Film filtreleri yok.
 00:00–00:02
-In front of a typical Chinese residential building. She sits on low concrete steps, raising both hands to adjust her ponytail. A summer breeze blows a few hairs. The lens automatically finds focus, recovering after a brief blur.
+Tipik bir Çin yerleşim binasının önü. Alçak beton basamaklarda oturuyor, iki elini kaldırarak at kuyruğunu düzeltiyor. Yaz esintisi birkaç saç telini uçuruyor. Lens otomatik olarak odak buluyor, kısa bir bulanıklıktan sonra netleşiyor.
 00:02–00:04
-She walks slowly along a narrow residential alley. Potted plants and electric scooters line the road. A stray orange cat emerges from a corner. She squats down smiling. The camera composition is slightly off due to tracking.
+Dar bir ara sokakta yavaşça yürüyor. Yol boyunca saksı bitkileri ve elektrikli scooterlar var. Köşeden tekir bir sokak kedisi çıkıyor. Gülümseyerek çömeliyor. Takip nedeniyle kamera kompozisyonu hafifçe kayıyor.
 00:04–00:06
-She gently pets the stray cat and places some cat food on the ground. Autofocus constantly switches between the person and the cat. Sunlight flickers through the leaves, creating changing light spots.
+Yavaşça sokak kedisini seviyor ve yere biraz kedi maması koyuyor. Otomatik odaklama sürekli kişi ve kedi arasında gidip geliyor. Güneş ışığı yaprakların arasından titreyerek geçiyor, değişen ışık noktaları yaratıyor.
 00:06–00:08
-A small courtyard in front of the building. She stands in front of a bamboo rack hanging clothes. Sheets and clothes sway gently in the breeze. A cloud passes by, briefly lowering the exposure.
+Binanın önünde küçük bir avlu. Çamaşır asılı bir bambu rafın önünde duruyor. Çarşaflar ve kıyafetler esintiyle hafifçe sallanıyor. Bir bulut geçiyor, pozlamayı kısa süreliğine düşürüyor.
 00:08–00:10
-She sits in her own small courtyard, holding a white ceramic teacup, quietly watching the neighborhood, occasionally tucking hair behind her ear. The lens drifts slightly.
+Kendi küçük avlusunda oturuyor, elinde beyaz seramik bir çay fincanı var, sessizce mahalleyi izliyor, ara sıra saçını kulağının arkasına itiyor. Lens hafifçe kayıyor.
 00:10–00:12
-Close-up side profile. A distant neighbor calls out: "Back already?" She turns and waves, answering naturally: "Yeah, just got back." The camera follows a beat late.
+Yandan yakın çekim. Uzaktaki bir komşu sesleniyor: "Döndün mü?" Arkasına dönüp el sallıyor ve doğal bir şekilde cevap veriyor: "Evet, yeni geldim." Kamera bir anlık gecikmeyle onu takip ediyor.
 00:12–00:15
-She walks slowly on a tree-shaded path with her teacup. Noticing the lens, she gives a shy little smile, then continues forward. The recording ends abruptly to black, like a DV camera shutting off.
-Audio: Only real ambient sounds: summer cicadas, distant electric scooters, occasional dog barks, rustling leaves, residents chatting, clinking of kitchenware, cat meows, footsteps on concrete, sound of wind blowing through laundry. No background music. No sound design. No voiceover.
-Goal: Present a segment of life recorded by a typical Chinese family DV camera from 2003-2008. Authentic, natural, imperfect, no acting traces, no influencer feel, no cinematic feel, no AI feel—making the audience mistake it at first glance for a rediscovered old family tape.
+Ağaç gölgesindeki yolda elinde çay fincanıyla yavaşça yürüyor. Lensi fark edince utangaç bir gülümseme atıyor ve yürümeye devam ediyor. Kayıt, bir DV kameranın kapanması gibi aniden kararıyor.
+Ses: Sadece gerçek ortam sesleri: yaz ağustos böcekleri, uzaktan gelen elektrikli scooter sesleri, ara sıra köpek havlamaları, hışırdayan yapraklar, sohbet eden mahalle sakinleri, mutfak gereçlerinin çınlaması, kedi miyavlamaları, beton üzerindeki ayak sesleri, çamaşırların arasından esen rüzgarın sesi. Arka plan müziği yok. Ses tasarımı yok. Dış ses yok.
+Amaç: 2003-2008 yılları arasında tipik bir Çinli aile DV kamerası tarafından kaydedilmiş bir hayat kesiti sunmak. Otantik, doğal, kusurlu, oyunculuk izi olmayan, influencer havası olmayan, sinematik olmayan, yapay zeka hissi vermeyen; izleyiciye ilk bakışta yeniden keşfedilmiş eski bir aile kaseti olduğunu düşündürecek bir çalışma.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072539888336191488/img/tJ0JfH4SVPGtsK8t.jpg" width="600" alt="Realistic 2000s Chinese DV Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072539888336191488/img/tJ0JfH4SVPGtsK8t.jpg" width="600" alt="Gerçekçi 2000'ler Çin DV Vlog'u">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6728)**
 
@@ -1212,35 +1212,35 @@ Goal: Present a segment of life recorded by a typical Chinese family DV camera f
 **Yazar:** [Rajesh Kumar](https://x.com/therjrajesh) | **Kaynak:** [Link](https://x.com/therjrajesh/status/2072534569912619378) | **Yayınlandı:** Jul 2, 2026
 
 ---
-### Rural African Village Life Documentary
+### Kırsal Afrika Köy Yaşamı Belgeseli
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed narrative video prompt for Seedance 2.0 capturing a slice-of-life morning in an African village with a realistic handheld camcorder aesthetic.
+> Seedance 2.0 için, gerçekçi bir el kamerası estetiğiyle Afrika köyündeki bir sabahı konu alan detaylı bir anlatı videosu istemi.
 
 #### 📝 İstem
 
 ```
-Main Subject:
+Ana Konu:
 
-Young African woman, early 20s, native to the region. Warm brown skin with realistic skin texture, minimal to no makeup. She has dark hair tied in a simple low ponytail with a few loose strands. She wears a faded sleeveless light-colored blouse, a simple long wrap skirt with a faded colorful pattern, and worn sandals. Small beaded bracelet on one wrist. Warm, approachable, and grounded personality. Maintain consistent identity, clothing, hairstyle, and appearance throughout the entire video.
-Location:
-Authentic rural African village during a calm late morning. Dirt paths, simple mud-brick and concrete block houses with corrugated metal or thatched roofs, scattered trees and vegetation, chickens roaming freely, low stick fences, laundry hanging on lines, plastic basins, simple wooden benches, and water containers. Quiet village atmosphere with natural daily life. No modern buildings or urban elements.
-Visual Style:
-Ultra-realistic documentary realism. Genuine candid behavior. Natural body language. Unscripted slice-of-life feeling. Strong environmental authenticity. Rich real-world details and believable human motion.
-Camera Style:
-Early-2000s consumer DV camcorder aesthetic. Friend casually recording everyday moments. Heavy handheld shake, imperfect framing, frequent autofocus hunting, lens breathing, exposure pumping when moving between sun and shade, occasional motion blur, subtle rolling shutter, mild digital compression artifacts, faded colors, soft contrast, slight sensor noise. No stabilization. No cinematic camera moves. No modern color grading.
+Genç Afrikalı kadın, 20'li yaşların başı, bölgenin yerlisi. Gerçekçi cilt dokusuna sahip sıcak kahverengi bir ten, makyajsız veya çok hafif makyajlı. Koyu renkli saçları, birkaç tutamın sarktığı basit, alçak bir at kuyruğu şeklinde toplanmış. Üzerinde soluk renkli, kolsuz bir bluz, soluk renkli desenlere sahip basit ve uzun bir anvelop etek ve yıpranmış sandaletler var. Bir bileğinde küçük boncuklu bir bileklik. Sıcak, cana yakın ve ayakları yere basan bir kişiliğe sahip. Videonun tamamında kimliğini, kıyafetini, saç stilini ve görünümünü tutarlı tutun.
+Konum:
+Sakin bir sabah geç saatlerinde otantik bir kırsal Afrika köyü. Toprak yollar, oluklu metal veya sazdan çatılı basit kerpiç ve beton blok evler, dağınık ağaçlar ve bitki örtüsü, serbestçe dolaşan tavuklar, alçak çitler, iplere asılmış çamaşırlar, plastik leğenler, basit ahşap banklar ve su kapları. Doğal günlük yaşamın olduğu sessiz bir köy atmosferi. Modern binalar veya kentsel unsurlar yok.
+Görsel Stil:
+Ultra gerçekçi belgesel gerçekçiliği. Samimi ve doğal davranışlar. Doğal vücut dili. Senaryosuz, hayattan bir kesit hissi. Güçlü çevresel otantiklik. Zengin gerçek dünya detayları ve inandırıcı insan hareketleri.
+Kamera Stili:
+2000'lerin başındaki tüketici tipi DV kamera estetiği. Bir arkadaşın günlük anları gelişigüzel kaydetmesi gibi. Belirgin el kamerası sarsıntısı, kusurlu kadraj, sık sık odak arama, lens nefes alması, güneş ve gölge arasında geçiş yaparken pozlama dalgalanmaları, ara sıra hareket bulanıklığı, hafif rolling shutter etkisi, hafif dijital sıkıştırma artefaktları, soluk renkler, yumuşak kontrast, hafif sensör gürültüsü. Sabitleme yok. Sinematik kamera hareketleri yok. Modern renk düzenlemesi yok.
 
-TIMED SCENES (00:00–00:15)
-00:00–00:02Outside a small village house. She sits on a low wooden bench adjusting her ponytail with both hands. A light breeze moves loose strands of hair. She smiles naturally while the camera struggles to hold focus.
-00:02–00:04The camera follows her as she walks along a dirt path through the village. She notices a chicken running freely nearby and slows down to watch it. Framing drifts slightly as the operator tries to keep up.
-00:04–00:06She crouches and tries to catch the chicken, moving carefully with her hands outstretched. The chicken flutters and runs a short distance. Autofocus repeatedly shifts between her face and the chicken. Morning sunlight filters through tree leaves overhead.
-00:06–00:08In the small dirt yard beside her house. She picks up a broom made of sticks and begins sweeping the ground in steady motions. Dust rises lightly as she sweeps. Exposure changes slightly as clouds pass overhead.
-00:08–00:10She sits on a low wooden bench near the house, resting after sweeping. She wipes sweat from her forehead with the back of her hand and looks around the quiet village. Loose handheld side angle with natural camera drift.
-00:10–00:12Close side profile. Someone off-camera greets her warmly. She turns toward the voice, raises her hand, smiles genuinely, and replies with
+ZAMANLANMIŞ SAHNELER (00:00–00:15)
+00:00–00:02 Küçük bir köy evinin dışı. Alçak bir ahşap bankta oturuyor ve iki eliyle at kuyruğunu düzeltiyor. Hafif bir esinti saç tutamlarını hareket ettiriyor. Kamera odaklanmakta zorlanırken o doğal bir şekilde gülümsüyor.
+00:02–00:04 Kamera, köydeki toprak yolda yürürken onu takip ediyor. Yakınlarda serbestçe koşan bir tavuğu fark ediyor ve onu izlemek için yavaşlıyor. Çekimi yapan kişi ona yetişmeye çalışırken kadraj hafifçe kayıyor.
+00:04–00:06 Çömeliyor ve ellerini uzatarak dikkatli bir şekilde hareket edip tavuğu yakalamaya çalışıyor. Tavuk kanat çırpıp kısa bir mesafe koşuyor. Otomatik odaklama sürekli olarak yüzü ile tavuk arasında gidip geliyor. Sabah güneş ışığı tepedeki ağaç yapraklarının arasından süzülüyor.
+00:06–00:08 Evinin yanındaki küçük toprak avluda. Çalı süpürgesini alıyor ve düzenli hareketlerle yeri süpürmeye başlıyor. Süpürürken toz hafifçe yükseliyor. Bulutlar tepeden geçerken pozlama hafifçe değişiyor.
+00:08–00:10 Süpürme işleminden sonra dinlenmek için evin yakınındaki alçak bir ahşap banka oturuyor. Elinin tersiyle alnındaki teri siliyor ve sessiz köye bakınıyor. Doğal kamera kaymasıyla hafif el kamerası yan açısı.
+00:10–00:12 Yakın yan profil. Kamera dışından biri onu sıcak bir şekilde selamlıyor. Sese doğru dönüyor, elini kaldırıyor, içtenlikle gülümsüyor ve yanıt veriyor
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072525336886280192/img/ORP5qc8_bQgq4-_U.jpg" width="600" alt="Rural African Village Life Documentary">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072525336886280192/img/ORP5qc8_bQgq4-_U.jpg" width="600" alt="Kırsal Afrika Köy Yaşamı Belgeseli">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6732)**
 
@@ -1376,87 +1376,87 @@ BÖLÜM 1 – GERÇEKLİK (15sn) 15sn • 16:9 • Ultra fotogerçekçi • Yay�
 **Yazar:** [Shami](https://x.com/ShamiWeb3) | **Kaynak:** [Link](https://x.com/ShamiWeb3/status/2072509269073871154) | **Yayınlandı:** Jul 2, 2026
 
 ---
-### Nostalgic Early 2000s DV Style Korean Vlog
+### 2000'lerin Başından Nostaljik DV Tarzı Kore Vlog'u
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A comprehensive video generation prompt that replicates the aesthetic of a consumer DV camera from the early 2000s, featuring a young Korean woman in a quiet residential setting with realistic movements and camera imperfections.
+> 2000'lerin başındaki tüketici tipi DV kameraların estetiğini yansıtan; sessiz bir yerleşim yerinde, gerçekçi hareketlere ve kamera kusurlarına sahip genç bir Koreli kadının yer aldığı kapsamlı bir video oluşturma istemi.
 
 #### 📝 İstem
 
 ```
-**Main subject**: A young Korean woman in her early 20s, naturally dressed in a faded charcoal sleeveless crop top and loose high-waisted light-wash jeans, paired with black canvas sneakers and a black string necklace. Her black wavy hair is tied in a messy side ponytail with light bangs. Realistic skin texture, light makeup, warm and approachable personality. Maintain high consistency of identity, clothing, hairstyle, and appearance throughout the video.
+**Ana özne**: 20'li yaşlarının başında, üzerinde soluk füme rengi kolsuz bir crop top ve bol, yüksek belli açık renkli kot pantolon olan, siyah kanvas spor ayakkabılar ve siyah ipli bir kolye ile kombinlenmiş genç bir Koreli kadın. Siyah dalgalı saçları, hafif perçemlerle dağınık bir yan at kuyruğu şeklinde toplanmış. Gerçekçi cilt dokusu, hafif makyaj, sıcak ve samimi bir kişilik. Video boyunca kimliğin, kıyafetin, saç stilinin ve görünümün yüksek tutarlılığını koruyun.
 
-**Location**: Morning time, a quiet and authentic Korean residential neighborhood. Narrow concrete alleys, low-rise residences, small terraces, potted plants, clotheslines, bicycles, utility poles, crisscrossing wires in mid-air, dense trees casting mottled swaying shadows, full of a quiet residential atmosphere. No shops, advertisements, cafes, crowds, or commercial activities.
+**Konum**: Sabah vakti, sessiz ve otantik bir Kore yerleşim mahallesi. Dar beton ara sokaklar, alçak binalar, küçük teraslar, saksı bitkileri, çamaşır ipleri, bisikletler, elektrik direkleri, havada çapraz geçen teller, sallanan gölgeler oluşturan sık ağaçlar; sessiz bir yerleşim yeri atmosferiyle dolu. Dükkanlar, reklamlar, kafeler, kalabalıklar veya ticari faaliyetler yok.
 
-**Visual Style**: Ultra-realistic documentary style. Authentic, unpretentious candid behavior. Natural body language. Unscripted daily life fragment feel. Strong sense of environmental reality. Contains rich real-world details and naturally realistic human dynamics.
+**Görsel Tarz**: Ultra gerçekçi belgesel tarzı. Otantik, gösterişsiz ve doğal davranışlar. Doğal vücut dili. Senaryosuz günlük yaşam kesiti hissi. Güçlü bir çevresel gerçeklik duygusu. Zengin gerçek dünya detayları ve doğal, gerçekçi insan dinamikleri içerir.
 
-**Camera Style**: Aesthetics of early 2000s consumer DV cameras. Creates the feeling of a friend casually recording daily moments. Strong handheld camera shake, imperfect composition, frequent autofocus hunting (breathing effect), exposure fluctuations when moving between sunlight and shadows (flickering), occasional motion blur, slight rolling shutter effect, minor digital compression artifacts, aged/faded colors, soft contrast, with slight sensor noise. No stabilization. No cinematic camera movements. No modern color grading.
+**Kamera Tarzı**: 2000'lerin başındaki tüketici tipi DV kameraların estetiği. Bir arkadaşın günlük anları gelişigüzel kaydettiği hissini yaratır. Güçlü el kamerası sarsıntısı, kusurlu kompozisyon, sık sık odak arayışı (nefes alma efekti), güneş ışığı ve gölgeler arasında hareket ederken pozlama dalgalanmaları (titreme), ara sıra hareket bulanıklığı, hafif rolling shutter efekti, küçük dijital sıkıştırma bozulmaları, yaşlanmış/solmuş renkler, yumuşak kontrast ve hafif sensör gürültüsü. Sabitleme yok. Sinematik kamera hareketleri yok. Modern renk düzenlemesi yok.
 
-**00:00–00:02**: Outside the entrance of a small house. She sits on a low concrete wall, raising her hands to tidy her ponytail. A breeze blows through stray strands of hair. She smiles naturally while the camera struggles to focus.
+**00:00–00:02**: Küçük bir evin girişinin dışı. Alçak bir beton duvarın üzerinde oturuyor, ellerini kaldırarak at kuyruğunu düzeltiyor. Esinti, başıboş saç tellerini uçuruyor. Kamera odaklanmakta zorlanırken o doğal bir şekilde gülümsüyor.
 
-**00:02–00:04**: The camera follows her into a narrow alley lined with potted plants and concrete walls. She notices a stray cat approaching and squats down. The composition shifts off-center as the operator tries to keep up with her movement.
+**00:02–00:04**: Kamera, onu saksı bitkileri ve beton duvarlarla çevrili dar bir sokağa kadar takip ediyor. Yaklaşan sokak kedisini fark ediyor ve çömeliyor. Operatör onun hareketine yetişmeye çalışırken kompozisyon merkezden kayıyor.
 
-**00:04–00:06**: She gently strokes and feeds the cat. The camera's autofocus switches repeatedly between her face and the cat. Morning sunlight flickers mottled through the leaves overhead.
+**00:04–00:06**: Kediyi nazikçe seviyor ve besliyor. Kameranın otomatik odağı sürekli olarak yüzü ile kedi arasında gidip geliyor. Sabah güneşi, tepedeki yaprakların arasından benekli bir şekilde titreyerek süzülüyor.
 
-**00:06–00:08**: In a small front yard next to her house. She is hanging clothes on a clothesline, the fabric swaying in the breeze. As clouds pass briefly overhead, the exposure changes accordingly.
+**00:06–00:08**: Evinin yanındaki küçük bir ön bahçede. Çamaşır ipine kıyafet asıyor, kumaş esintiyle sallanıyor. Bulutlar kısa süreliğine tepeden geçerken pozlama buna göre değişiyor.
 
-**00:08–00:10**: On a quiet terrace, holding a ceramic coffee cup. She sits comfortably, observing the surrounding neighborhood, occasionally tucking her hair behind her ear. A casual, loose side handheld perspective with natural camera drift.
+**00:08–00:10**: Sessiz bir terasta, elinde seramik bir kahve fincanı tutuyor. Rahat bir şekilde oturuyor, çevredeki mahalleyi gözlemliyor, ara sıra saçını kulağının arkasına atıyor. Doğal kamera kaymalarıyla, gelişigüzel ve serbest bir el kamerası perspektifi.
 
-**00:10–00:12**: Side close-up. Someone off-camera greets her. She turns her head, raises her hand, smiles warmly, and says casually: "Annyeong (Hello)". The camera's reaction is half a beat slow.
+**00:10–00:12**: Yan yakın çekim. Kamera dışından biri ona selam veriyor. Başını çeviriyor, elini kaldırıyor, sıcak bir şekilde gülümsüyor ve gelişigüzel bir şekilde "Annyeong (Merhaba)" diyor. Kameranın tepkisi yarım saniye gecikmeli.
 
-**00:12–00:15**: She holds the coffee cup and walks slowly along a tree-lined residential path. She notices the camera, gives a small and sincere smile, then looks away and continues walking. The video cuts off suddenly to a black screen mid-action, as if the camera were abruptly turned off.
+**00:12–00:15**: Elinde kahve fincanıyla ağaçlıklı bir yerleşim yolu boyunca yavaşça yürüyor. Kamerayı fark ediyor, küçük ve içten bir gülümseme veriyor, ardından başka yöne bakıp yürümeye devam ediyor. Video, sanki kamera aniden kapatılmış gibi, hareketin ortasında aniden siyah ekrana düşüyor.
 
-**Audio**: Keep only natural ambient sounds—morning birdsong, distant motorcycle sounds, breeze, rustling leaves, faint neighborhood chatter, cat meows, footsteps on concrete, fabric moving on the clothesline, and subtle residential atmosphere. No music. No sound design. No narration.
+**Ses**: Sadece doğal ortam seslerini koruyun; sabah kuş cıvıltıları, uzaktan gelen motosiklet sesleri, esinti, yaprak hışırtıları, hafif mahalle sohbetleri, kedi miyavlamaları, beton üzerindeki ayak sesleri, çamaşır ipindeki kumaşın hareketi ve hafif yerleşim yeri atmosferi. Müzik yok. Ses tasarımı yok. Dış ses (anlatım) yok.
 
-**Goal**: Capture authentic Korean neighborhood life, making it look like a forgotten early 2000s home video—candid, imperfect, realistic, warm, and highly convincing.
+**Hedef**: Otantik Kore mahalle yaşamını yakalayın; 2000'lerin başından kalma unutulmuş bir ev videosu gibi görünmesini sağlayın; gelişigüzel, kusurlu, gerçekçi, sıcak ve oldukça inandırıcı.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072495560834310144/img/3bm4ZHYbMJfnNC4q.jpg" width="600" alt="Nostalgic Early 2000s DV Style Korean Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072495560834310144/img/3bm4ZHYbMJfnNC4q.jpg" width="600" alt="2000'lerin Başından Nostaljik DV Tarzı Kore Vlog'u">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6724)**
 
 **Yazar:** [Zero Lu](https://x.com/zerolu_eth) | **Kaynak:** [Link](https://x.com/zerolu_eth/status/2072495845489185102) | **Yayınlandı:** Jul 2, 2026
 
 ---
-### Cinematic 4K Bridal Video
+### Sinematik 4K Gelin Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed multi-shot cinematic prompt for generating a high-detail luxury wedding film featuring a bride, used for comparing Seedance 2.0 and Kling.
+> Seedance 2.0 ve Kling karşılaştırması için kullanılan, gelin temalı, yüksek detaylı ve lüks bir düğün filmi oluşturmaya yönelik çok çekimli detaylı sinematik komut.
 
 #### 📝 İstem
 
 ```
-Create a 15-second cinematic bridal video designed to showcase stunning 4K beauty, elegant motion, and luxurious detail. The bride is young, graceful, and exceptionally beautiful, with a clear, luminous, translucent presence. She has soft radiant skin, delicate natural makeup, bright clear eyes, and an elegant gentle smile. Her overall feeling is fresh, pure, refined, romantic, and dreamlike.  The video is a collection of beautiful fleeting moments, each shot feeling delicate, emotional, and visually rich.  0–3s Open with a luminous close-up of the bride’s face in soft natural light. Show her youthful beauty and translucent glow in crisp 4K detail: smooth radiant skin, soft eyelashes, glossy lips, and bright expressive eyes. A gentle breeze moves a few strands of hair and the edge of her veil.  3–6s Cut to graceful detail shots: her slender fingers touching the lace of her dress, the sparkle of a ring, delicate embroidery, pearls, and the airy soft texture of the veil. The details feel pure, elegant, and luxurious, with beautiful light gently reflecting across the fabric.  6–9s Show the bride walking slowly through a bright, dreamy setting while holding a beautiful bouquet. Her veil flows lightly behind her, and the dress moves softly with each step. Emphasize her youthful elegance, soft posture, and the romantic shimmer of the gown.  9–12s Cut to an emotional medium shot as she turns slightly toward the camera. Her smile is soft, innocent, and radiant. The light wraps around her beautifully, enhancing her clear and delicate presence. The veil and dress move gracefully, creating a timeless romantic feeling.  12–15s End with the most breathtaking moment: a beautiful full shot of the bride surrounded by luminous light, bouquet in hand, veil floating elegantly. She pauses in a poised, unforgettable pose, looking like the final frame of a luxury wedding film. Her beauty feels youthful, pure, transparent, and deeply enchanting.  Style and visual direction Ultra-beautiful bridal cinematography, youthful elegance, translucent beauty, emotionally rich, soft, romantic, luxurious, delicate, refined, visually poetic, high-detail 4K imagery, natural light, dreamy glow, premium wedding film feeling, graceful camera movement, strong shot variety, consistent bride appearance, every moment polished and beautiful.
+Çarpıcı 4K güzelliği, zarif hareketleri ve lüks detayları sergilemek üzere tasarlanmış 15 saniyelik sinematik bir gelin videosu oluşturun. Gelin genç, zarif ve olağanüstü güzel; berrak, ışıl ışıl ve duru bir görünüme sahip. Yumuşak ve parlak bir cildi, doğal ve hafif bir makyajı, parlak ve net gözleri, zarif ve nazik bir gülümsemesi var. Genel atmosferi taze, saf, rafine, romantik ve rüya gibi. Video, her biri narin, duygusal ve görsel açıdan zengin hissettiren güzel ve kısa anlardan oluşan bir koleksiyon niteliğinde. 0–3 sn: Yumuşak doğal ışık altında gelinin yüzünün ışıl ışıl bir yakın çekimiyle başlayın. Genç güzelliğini ve duru ışıltısını net 4K detaylarla gösterin: pürüzsüz parlak cilt, yumuşak kirpikler, parlak dudaklar ve etkileyici parlak gözler. Hafif bir esinti, saçından birkaç tutamı ve duvağının kenarını hareket ettiriyor. 3–6 sn: Zarif detay çekimlerine geçin: ince parmaklarının elbisesinin danteline dokunuşu, yüzüğün parıltısı, narin işlemeler, inciler ve duvağın havadar yumuşak dokusu. Detaylar saf, zarif ve lüks hissettirmeli; güzel ışık kumaşın üzerinde nazikçe yansımalı. 6–9 sn: Gelinin elinde güzel bir buketle parlak, rüya gibi bir ortamda yavaşça yürüdüğünü gösterin. Duvağı arkasından hafifçe süzülüyor ve elbisesi her adımda yumuşak bir şekilde hareket ediyor. Genç zarafetini, yumuşak duruşunu ve gelinliğin romantik ışıltısını vurgulayın. 9–12 sn: Kameraya hafifçe döndüğü duygusal bir orta çekime geçin. Gülümsemesi yumuşak, masum ve ışıl ışıl. Işık etrafını güzelce sararak berrak ve narin varlığını ön plana çıkarıyor. Duvağı ve elbisesi zarifçe hareket ederek zamansız ve romantik bir his yaratıyor. 12–15 sn: En nefes kesici anla bitirin: gelinin ışıklar içinde, elinde buketiyle ve zarifçe süzülen duvağıyla çekilmiş güzel bir tam boy çekimi. Lüks bir düğün filminin son karesi gibi, dengeli ve unutulmaz bir pozda duraksıyor. Güzelliği genç, saf, duru ve büyüleyici.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072487795311218688/img/NmgexAkd40fetwk4.jpg" width="600" alt="Cinematic 4K Bridal Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072487795311218688/img/NmgexAkd40fetwk4.jpg" width="600" alt="Sinematik 4K Gelin Videosu">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6731)**
 
 **Yazar:** [meropan](https://x.com/renataro9) | **Kaynak:** [Link](https://x.com/renataro9/status/2072489031485833660) | **Yayınlandı:** Jul 2, 2026
 
 ---
-### Vespira the Pestilent Empress Cinematic Sequence
+### Vespira the Pestilent Empress Sinematik Sekansı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-fantasy cinematic prompt for Seedance 2.0 that converts a storyboard and character concept into a seamless 15-second video sequence.
+> Seedance 2.0 için, bir storyboard ve karakter konseptini kesintisiz 15 saniyelik bir video sekansına dönüştüren yüksek fantezi temalı sinematik komut.
 
 #### 📝 İstem
 
 ```
 VESPIRA — THE PESTILENT EMPRESS [@1000019684]
 "THE BLOOM OF RUIN"
-Duration: 15 Seconds
-Use the storyboard [@1000019685] as reference only.
-Convert the storyboard into a single seamless cinematic sequence.
-Do not render storyboard panels.
-Do not render
+Süre: 15 Saniye
+Referans olarak yalnızca storyboard [@1000019685] kullanın.
+Storyboard'u tek ve kesintisiz bir sinematik sekansa dönüştürün.
+Storyboard panellerini render etmeyin.
+Render etmeyin
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072463131406893056/img/iwMu0aL3uRDhPrIi.jpg" width="600" alt="Vespira the Pestilent Empress Cinematic Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072463131406893056/img/iwMu0aL3uRDhPrIi.jpg" width="600" alt="Vespira the Pestilent Empress Sinematik Sekansı">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6736)**
 
@@ -1501,49 +1501,49 @@ Gece geç saatlerde loş bir mutfak. Bir kadın, masanın karşısında birbirin
 **Yazar:** [Serena Pei](https://x.com/spei04) | **Kaynak:** [Link](https://x.com/spei04/status/2072441161298616340) | **Yayınlandı:** Jul 1, 2026
 
 ---
-### Biomechanical Angel Space Cathedral Transformation
+### Biyomekanik Melek Uzay Katedrali Dönüşümü
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic cinematic video prompt for Seedance 2.0 describing a sci-fi fantasy transformation of a human into a biomechanical angel within a celestial cathedral in deep space.
+> Seedance 2.0 için, bir insanın derin uzaydaki göksel bir katedralin içinde biyomekanik bir meleğe dönüşmesini konu alan, bilim kurgu ve fantastik öğeler içeren epik sinematik video istemi.
 
 #### 📝 İstem
 
 ```
-15-second ultra-cinematic sci-fi fantasy transformation sequence inside a colossal abandoned celestial cathedral floating in deep space.
+Derin uzayda süzülen devasa ve terk edilmiş göksel bir katedralin içinde geçen 15 saniyelik ultra sinematik bilim kurgu ve fantastik dönüşüm sekansı.
 
-A lone human stands beneath enormous mechanical arches surrounded by ancient celestial machinery. Gigantic rotating rings, broken stained-glass windows, and forgotten angelic statues drift silently in zero gravity while distant stars illuminate the cathedral.
+Yalnız bir insan, antik göksel makinelerle çevrili devasa mekanik kemerlerin altında duruyor. Devasa dönen halkalar, kırık vitray pencereler ve unutulmuş melek heykelleri yerçekimsiz ortamda sessizce sürüklenirken, uzak yıldızlar katedrali aydınlatıyor.
 
-The atmosphere is sacred, mysterious, and awe-inspiring.
+Atmosfer kutsal, gizemli ve hayranlık uyandırıcı.
 
-The camera slowly circles around the human as dormant celestial machines begin awakening. Soft white light pulses through the cathedral. Massive mechanical gears rotate for the first time in centuries.
+Kamera, uyuyan göksel makineler uyanmaya başlarken yavaşça insanın etrafında dönüyor. Yumuşak beyaz ışık katedralin içinde nabız gibi atıyor. Devasa mekanik dişliler yüzyıllardır ilk kez dönüyor.
 
-Tiny streams of liquid silver nanometal emerge from the cathedral floor and flow toward the human.
+Sıvı gümüş nanometalden küçük akıntılar katedralin zemininden çıkıp insana doğru akıyor.
 
-The transformation begins.
+Dönüşüm başlıyor.
 
-The liquid metal climbs across the body like living mercury, weaving seamlessly beneath the skin. Luminous white circuits spread through the arms, chest, and face like sacred veins.
+Sıvı metal, canlı cıva gibi vücudun üzerinde yükseliyor ve derinin altına kusursuz bir şekilde işleniyor. Işıklı beyaz devreler, kutsal damarlar gibi kollara, göğse ve yüze yayılıyor.
 
-The camera pushes closer as elegant biomechanical structures form naturally around the skeleton. Carbon-fiber muscles, titanium tendons, and glowing energy cores replace organic anatomy while preserving graceful human proportions.
+Kamera yakınlaştıkça, zarif biyomekanik yapılar iskeletin etrafında doğal bir şekilde oluşuyor. Karbon fiber kaslar, titanyum tendonlar ve parlayan enerji çekirdekleri, zarif insan oranlarını koruyarak organik anatomiyi değiştiriyor.
 
-The transformation accelerates.
+Dönüşüm hızlanıyor.
 
-Intricate mechanical feathers emerge from the shoulder blades one by one. Thousands of articulated white-metal feathers unfold with perfect precision, each feather glowing softly with celestial energy.
+Karmaşık mekanik tüyler kürek kemiklerinden tek tek çıkıyor. Binlerce eklemli beyaz metal tüy, her biri göksel enerjiyle hafifçe parlayarak mükemmel bir hassasiyetle açılıyor.
 
-Golden halos composed of rotating mechanical rings materialize behind the head. Floating fragments of ancient technology orbit around the transforming figure.
+Başın arkasında dönen mekanik halkalardan oluşan altın haleler beliriyor. Antik teknolojinin yüzen parçaları, dönüşen figürün etrafında yörüngeye giriyor.
 
-The cathedral responds. Gigantic celestial engines ignite. Beams of divine light pierce through shattered stained glass while floating debris begins orbiting the awakened being.
+Katedral tepki veriyor. Devasa göksel motorlar ateşleniyor. İlahi ışık huzmeleri kırık vitraylardan içeri sızarken, yüzen enkazlar uyanan varlığın etrafında dönmeye başlıyor.
 
-At the climax, the human becomes a magnificent Biomechanical Angel , a perfect fusion of organic life, sacred technology, and divine engineering. Brilliant white wings span across the cathedral while luminous blue-white energy flows through every mechanical feather.
+Doruk noktasında, insan; organik yaşamın, kutsal teknolojinin ve ilahi mühendisliğin mükemmel bir birleşimi olan muhteşem bir Biyomekanik Melek'e dönüşüyor. Parlak beyaz kanatlar katedral boyunca uzanırken, ışıklı mavi-beyaz enerji her bir mekanik tüyün içinden akıyor.
 
-Final cinematic moment: the Biomechanical Angel slowly opens both wings. Countless mechanical feathers release into space as radiant particles. The cathedral comes fully alive while the angel ascends through a colossal opening toward the stars, leaving glowing trails of celestial light behind.
+Final sinematik anı: Biyomekanik Melek her iki kanadını yavaşça açıyor. Sayısız mekanik tüy, parlak parçacıklar halinde uzaya saçılıyor. Katedral tamamen canlanırken, melek arkasında parlayan göksel ışık izleri bırakarak devasa bir açıklıktan yıldızlara doğru yükseliyor.
 
-Style: ultra-cinematic sci-fi fantasy, biomechanical realism, celestial technology, photoreal nanometal transformation, articulated mechanical wings, divine architecture, volumetric god rays, white and gold aesthetic, premium cinematic VFX, AAA film quality, no text, no overlays.
+Stil: ultra sinematik bilim kurgu ve fantastik, biyomekanik gerçekçilik, göksel teknoloji, fotorealistik nanometal dönüşümü, eklemli mekanik kanatlar, ilahi mimari, hacimsel tanrı ışıkları, beyaz ve altın estetiği, birinci sınıf sinematik VFX, AAA film kalitesi, metin yok, bindirme yok.
 
-Audio: epic celestial orchestral score, angelic choir, deep mechanical resonance, servo movements, metallic feather articulation, divine energy hums, cathedral ambience, cosmic atmosphere, transcendent cinematic crescendo.
+Ses: epik göksel orkestral müzik, melek korosu, derin mekanik rezonans, servo hareketleri, metalik tüy eklemlenmesi, ilahi enerji uğultuları, katedral ambiyansı, kozmik atmosfer, aşkın sinematik kreşendo.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072409972923568128/pu/img/F_cLXEfG2xEULFsD.jpg" width="600" alt="Biomechanical Angel Space Cathedral Transformation">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072409972923568128/pu/img/F_cLXEfG2xEULFsD.jpg" width="600" alt="Biyomekanik Melek Uzay Katedrali Dönüşümü">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6735)**
 
@@ -1725,19 +1725,19 @@ Dev kupa baskısından ciddi ve yukarı doğru yakın çekimlere geçiş yapın.
 **Yazar:** [simeon-sanai](https://x.com/Naiknelofar788) | **Kaynak:** [Link](https://x.com/Naiknelofar788/status/2072313649222517140) | **Yayınlandı:** Jul 1, 2026
 
 ---
-### Fantasy Warrior Transformation Sequence
+### Fantastik Savaşçı Dönüşüm Sekansı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-fidelity cinematic prompt for a continuous fantasy action sequence featuring an East Asian warrior woman's transformation on a volcanic battlefield.
+> Volkanik bir savaş alanında Doğu Asyalı bir kadın savaşçının dönüşümünü konu alan, kesintisiz fantastik aksiyon sekansı için yüksek sadakatli sinematik istem.
 
 #### 📝 İstem
 
 ```
-A continuous cinematic fantasy action sequence of a young East Asian warrior woman. She is crawling on a cracked icy battlefield, desperately holding up a glowing teardrop-shaped red crystal amulet set in a gold crescent. Suddenly, a massive surge of fiery energy explodes from the crystal, instantly shattering the ice and turning the entire landscape into a volcanic crater filled with flowing magma and ruined stone pillars. The woman levitates high into the air as intense, swirling vortices of fire wrap around her body. In mid-air, the flames materialize into a highly detailed crimson and gold fantasy dress with metallic arm guards and a flowing cape. A blazing crown of pure fire forms on her forehead, and her eyes snap open, glowing with intense, fiery heart-shaped patterns. She raises her hand to summon an intricate, giant golden magical circle in front of her, unleashing a catastrophic, blinding explosion of fire that obliterates everything in sight. 8K ultra-realism, high-fidelity VFX, dynamic camera angles, cinematic lighting, and epic scale.
+Genç ve Doğu Asyalı bir kadın savaşçının kesintisiz sinematik fantastik aksiyon sekansı. Çatlamış buzlu bir savaş alanında sürünürken, altın bir hilal içine yerleştirilmiş, parlayan gözyaşı damlası şeklindeki kırmızı bir kristal tılsımı çaresizce havada tutuyor. Aniden, kristalden devasa bir ateş enerjisi dalgası patlıyor, buzu anında parçalayarak tüm manzarayı akan lavlar ve yıkık taş sütunlarla dolu volkanik bir kratere dönüştürüyor. Kadın, yoğun ve girdap gibi dönen ateş hortumları vücudunu sararken havaya yükseliyor. Havada, alevler metalik kol zırhları ve uçuşan bir pelerinle tamamlanan, son derece detaylı, kızıl ve altın rengi fantastik bir elbiseye dönüşüyor. Alnında saf ateşten oluşan görkemli bir taç beliriyor ve gözleri aniden açılarak yoğun, kalp şeklinde ateş desenleriyle parlıyor. Elini kaldırarak önünde karmaşık, devasa altın bir büyü çemberi çağırıyor ve görüş alanındaki her şeyi yok eden, kör edici, felaket niteliğinde bir ateş patlaması başlatıyor. 8K ultra gerçekçilik, yüksek sadakatli VFX, dinamik kamera açıları, sinematik aydınlatma ve epik ölçek.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072306060656877568/pu/img/5KqqnDimee6Gzbf8.jpg" width="600" alt="Fantasy Warrior Transformation Sequence">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072306060656877568/pu/img/5KqqnDimee6Gzbf8.jpg" width="600" alt="Fantastik Savaşçı Dönüşüm Sekansı">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6729)**
 
@@ -2478,38 +2478,36 @@ Stil: Hiper gerçekçi, sinematik, hızlı tempolu, gerilimli, net ve anlaşıl�
 **Yazar:** [DeCat](https://x.com/DeCat2025) | **Kaynak:** [Link](https://x.com/DeCat2025/status/2072116580046282974) | **Yayınlandı:** Jul 1, 2026
 
 ---
-### Tokyo Summer Travel Vlog Montage
+### Tokyo Yaz Seyahati Vlog Montajı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed multi-shot prompt for creating a 15-second travel vlog montage in Tokyo with 10 consistent scenes featuring a character in iconic city locations.
+> Tokyo'da ikonik şehir mekanlarında bir karakterin yer aldığı, 10 tutarlı sahneden oluşan 15 saniyelik bir seyahat vlog montajı oluşturmak için detaylı çok çekimli bir istem.
 
 #### 📝 İstem
 
 ```
-Use the reference grid image as the source of the same girl and her 10 summer travel scenes in Tokyo.
-Create a single 15-second feel-good travel-vlog montage, 16:9 horizontal, flowing through all 10 scenes
-in order as quick handheld phone shots, about 1.5 seconds each, snappy cuts on the beat.
-The same girl in every shot with consistent face and hairstyle; in each shot her outfit matches that scene in the reference.
-Throughout, she radiates excitement and joy — bright eyes, easy smiles, playful energy — and each shot shows off
-what makes that spot special. Authentic smartphone look, natural ambient light, subtle grain, light handheld motion.
-Bright, joyful sightseeing music that conveys the fun of travel, around 125 bpm.
+Aynı kızın ve onun Tokyo'daki 10 yaz seyahati sahnesinin kaynağı olarak referans ızgara görselini kullanın.
+16:9 yatay formatta, 10 sahnenin tamamını sırayla, her biri yaklaşık 1,5 saniyelik hızlı el kamerası çekimleri şeklinde, ritme uygun keskin geçişlerle birleştiren, 15 saniyelik tek bir keyifli seyahat vlog montajı oluşturun.
+Her çekimde aynı kız, tutarlı bir yüz ve saç stiliyle yer almalı; her çekimdeki kıyafeti referanstaki o sahneyle eşleşmelidir.
+Kızın genelinde heyecan ve neşe yayılmalı; parlak gözler, içten gülümsemeler, oyuncu bir enerji olmalı ve her çekim o mekanın özel yanlarını yansıtmalıdır. Otantik akıllı telefon görünümü, doğal ortam ışığı, hafif gren ve hafif el kamerası hareketi kullanılmalıdır.
+Seyahatin eğlencesini yansıtan, yaklaşık 125 bpm hızında, neşeli ve canlı bir gezi müziği seçilmelidir.
 
-Shot 1 — Inokashira pond swan boat: she laughs with delight and rocks the pedal boat, sparkling water and a swan boat gliding behind, warm sun flare.
-Shot 2 — cafe matcha kakigori: eyes lighting up, she lifts a spoonful of fluffy shaved ice toward the camera and beams, the towering dessert in frame.
-Shot 3 — Harmonica Yokocho alley at night: she strolls through the glowing red-lantern alley, glances back with an excited grin, lively izakaya signs around her.
-Shot 4 — hotel mirror selfie: a happy, relaxed mirror selfie, she tilts her head and smiles softly, calm window light, cozy room mood.
-Shot 5 — summer festival night: she bites a bright candy apple and bursts into a giggle, swaying paper lanterns and a buzzing crowd behind her.
-Shot 6 — golden-hour window selfie: an arm's-length selfie bathed in warm sunset light, soft hair movement, a contented joyful smile.
-Shot 7 — ivy-covered Ghibli-style museum: she gazes up in wonder, spinning slightly to take it all in as the camera tilts up the lush green facade.
-Shot 8 — Inokashira park path: she crouches with a delighted laugh and points as a small squirrel scampers by, dappled sunlight, playful energy.
-Shot 9 — Harajuku shop window with bubble tea: she sips happily through a straw, her reflection shimmering in the glass, the bustling colorful street behind.
-Shot 10 — on the train home: a calm, satisfied selfie, hand on her cheek, city skyline streaking past the window, a soft fulfilled smile.
+Çekim 1 — Inokashira göleti kuğu teknesi: Neşeyle gülüyor ve pedallı tekneyi sallıyor, arkada parıldayan sular ve süzülen bir kuğu teknesi, sıcak güneş parlaması.
+Çekim 2 — kafe matcha kakigori: Gözleri parlıyor, kameraya doğru bir kaşık dolusu kabarık rendelenmiş buz uzatıyor ve gülümsüyor, devasa tatlı kadrajda.
+Çekim 3 — Gece Harmonica Yokocho sokağı: Parlayan kırmızı fenerli sokakta yürüyor, arkasına dönüp heyecanlı bir sırıtışla bakıyor, çevresinde canlı izakaya tabelaları.
+Çekim 4 — otel ayna selfie'si: Mutlu, rahat bir ayna selfie'si, başını yana eğip hafifçe gülümsüyor, sakin pencere ışığı, huzurlu oda atmosferi.
+Çekim 5 — yaz festivali gecesi: Parlak bir elma şekerinden ısırık alıp kıkırdıyor, arkasında sallanan kağıt fenerler ve hareketli bir kalabalık.
+Çekim 6 — gün batımı pencere selfie'si: Sıcak gün batımı ışığıyla yıkanan kol mesafesinde bir selfie, hafif saç hareketi, memnun ve neşeli bir gülümseme.
+Çekim 7 — sarmaşıklarla kaplı Ghibli tarzı müze: Hayranlıkla yukarı bakıyor, kamera yemyeşil cepheye doğru yükselirken her şeyi görmek için hafifçe dönüyor.
+Çekim 8 — Inokashira park yolu: Küçük bir sincap yanından geçerken neşeli bir kahkahayla çömelip onu işaret ediyor, benekli güneş ışığı, oyuncu enerji.
+Çekim 9 — Bubble tea'li Harajuku vitrini: Pipetle mutlu bir şekilde içeceğini yudumluyor, camdaki yansıması parlıyor, arkada hareketli ve renkli bir sokak.
+Çekim 10 — eve dönüş treninde: Sakin, tatmin olmuş bir selfie, eli yanağında, pencerenin dışından hızla geçen şehir silüeti, yumuşak ve huzurlu bir gülümseme.
 
-Smooth energetic flow from shot to shot, consistent color and grain throughout, upbeat happy travel-diary mood.
+Çekimler arasında akıcı ve enerjik bir geçiş, genelinde tutarlı renk ve gren yapısı, neşeli ve hareketli bir seyahat günlüğü havası olmalıdır.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072069190790561792/img/rHCf0Al61tzVOv2a.jpg" width="600" alt="Tokyo Summer Travel Vlog Montage">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072069190790561792/img/rHCf0Al61tzVOv2a.jpg" width="600" alt="Tokyo Yaz Seyahati Vlog Montajı">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=6730)**
 
@@ -3564,6 +3562,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-03T07:42:40.270Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-03T10:56:03.934Z</sub>
 
 </div>
