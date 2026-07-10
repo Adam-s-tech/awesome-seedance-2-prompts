@@ -361,765 +361,778 @@ Seedance 2.0을 사용하여 야간 스트리트 레이싱 시퀀스를 생성�
 
 > 📝 게시일 기준 정렬(최신순)
 
-### Stone Serpent Temple Escape Sequence
+### 스톤 서펀트 사원 탈출 시퀀스
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed action sequence prompt featuring treasure hunters fleeing an awakening stone serpent god within a crumbling jungle temple.
+> 무너져가는 정글 사원에서 깨어난 석상 뱀 신으로부터 도망치는 보물 사냥꾼들의 긴박한 액션 시퀀스 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Hyper realistic cinematic fantasy action sequence, 15 seconds, 16:9. 
+초현실적인 영화적 판타지 액션 시퀀스, 15초, 16:9 비율.
 
-Deep inside an ancient jungle temple, two treasure hunters flee with a stolen glowing relic as a colossal stone serpent god awakens behind them. Its massive body tears through the temple walls, coils around giant pillars, and smashes through narrow corridors as dust, torch embers, vines, and broken stone fill the air. 
-The atmosphere is frantic, breathless, and dangerous.
-Start with a tight cinematic shot of the glowing relic being pulled from its altar. 
+고대 정글 사원 깊은 곳, 두 명의 보물 사냥꾼이 훔친 빛나는 유물을 들고 도망칩니다. 그들 뒤로 거대한 석상 뱀 신이 깨어납니다. 뱀의 거대한 몸체는 사원 벽을 뚫고, 거대한 기둥을 휘감으며, 좁은 복도를 부수고 지나갑니다. 공중에는 먼지, 횃불의 불씨, 덩굴, 부서진 돌 파편이 가득합니다.
+분위기는 매우 긴박하고 숨 막히며 위험합니다.
+빛나는 유물을 제단에서 꺼내는 타이트한 영화적 샷으로 시작하세요.
 
-The entire temple trembles instantly. Cracks race through the walls, ancient symbols ignite, and a deep roar echoes through the chamber. A gigantic stone serpent head bursts through the wall behind the altar, its eyes glowing with divine fury. 
-Cut to a fast tracking shot as the two heroes sprint through a narrow corridor, one clutching the relic tightly. Behind them, the serpent’s body slams through the temple interior, crushing through walls and columns instead of following the path normally.
+사원 전체가 즉시 흔들립니다. 벽에는 균열이 생기고, 고대 상징들이 빛나며, 깊은 포효가 방 안을 울립니다. 거대한 석상 뱀의 머리가 제단 뒤 벽을 뚫고 튀어나오며, 그 눈은 신성한 분노로 빛납니다.
+빠른 트래킹 샷으로 전환되어 두 주인공이 좁은 복도를 전력 질주합니다. 한 명은 유물을 꽉 쥐고 있습니다. 그들 뒤에서 뱀의 몸체가 사원 내부를 강타하며, 일반적인 통로를 따르지 않고 벽과 기둥을 부수며 돌진합니다.
 
-Cut to a dramatic side angle showing the serpent’s huge stone coils ripping through multiple chambers at once, smashing stairs, crushing corridors, and bringing sections of the temple down around the fleeing heroes. They jump over a collapsing section of floor as the serpent’s jaws snap shut just behind them. Dust, rubble, roots, and torch sparks whip through the air.
+드라마틱한 측면 앵글로 전환되어, 뱀의 거대한 석상 몸체가 여러 방을 동시에 뚫고 지나가며 계단을 부수고 복도를 짓이기며 도망치는 주인공들 주변의 사원 구역을 무너뜨리는 모습을 보여줍니다. 주인공들이 무너지는 바닥 구간을 뛰어넘을 때, 뱀의 턱이 바로 뒤에서 닫힙니다. 먼지, 잔해, 뿌리, 횃불의 불꽃이 공중에 휘날립니다.
 
-For the final seconds, they reach a rope bridge stretched across a deep interior chasm inside the temple. As they race across, the serpent crashes through the wall beside the bridge and its heavy coils begin tearing the bridge apart. 
+마지막 몇 초 동안, 그들은 사원 내부의 깊은 틈을 가로지르는 밧줄 다리에 도달합니다. 그들이 다리를 건너는 동안, 뱀이 다리 옆 벽을 뚫고 나타나 무거운 몸체로 다리를 찢어발기기 시작합니다.
 
-One hero throws the relic forward to the other so they can keep moving without slowing down. They leap from the final collapsing section onto the far ledge just as the bridge breaks away and drops into the abyss.
+한 주인공이 속도를 늦추지 않기 위해 유물을 다른 주인공에게 던집니다. 다리가 끊어져 심연으로 떨어지는 순간, 그들은 마지막으로 무너지는 구간에서 반대편 절벽으로 뛰어오릅니다.
 
-Final shot shows the heroes landing hard and looking back as the gigantic serpent god rises again from the darkness below, coiling upward through dust and torchlight, still hunting them.
+마지막 샷에서는 주인공들이 거칠게 착지한 뒤 뒤를 돌아봅니다. 거대한 뱀 신이 아래 어둠 속에서 다시 솟아오르며, 먼지와 횃불 빛 사이로 몸을 휘감아 그들을 계속 추격합니다.
 
-Epic fantasy, huge scale, clear cause and effect, dramatic lighting, intense motion, no text, no logos, no modern objects, no comedy, no famous actors’ faces, no recognizable celebrity faces.
+웅장한 판타지, 거대한 스케일, 명확한 인과관계, 드라마틱한 조명, 강렬한 움직임, 텍스트 없음, 로고 없음, 현대적인 물건 없음, 코미디 요소 없음, 유명 배우의 얼굴 없음, 알아볼 수 있는 유명인의 얼굴 없음.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075397543505129473/img/eeaT466ku85qR1om.jpg" width="600" alt="Stone Serpent Temple Escape Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075397543505129473/img/eeaT466ku85qR1om.jpg" width="600" alt="스톤 서펀트 사원 탈출 시퀀스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=6982)**
 
 **작성자:** [DeCat](https://x.com/DeCat2025) | **출처:** [Link](https://x.com/DeCat2025/status/2075397680210022549) | **게시일:** Jul 10, 2026
 
 ---
-### Sci-Fi Interceptor Planet Engine Race
+### SF 인터셉터 행성 엔진 레이스
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic sci-fi prompt describing a race across a mechanical planet that transforms into a massive engine leaving a trail across the galaxy.
+> 거대한 엔진으로 변하며 은하계를 가로질러 궤적을 남기는 기계 행성에서의 레이스를 묘사한 서사적인 SF 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-16:9, ultra-realistic cinematic sci-fi, physically believable, immense scale, no dialogue. An interceptor races low across the surface of a dead planet covered in colossal mechanical structures. Suddenly the entire planet begins awakening. Mountain-sized engine rings rise from beneath the crust. Oceans of molten energy surge through gigantic channels. Continental plates rotate like gears. The interceptor dives through collapsing machinery while skyscraper-sized pistons slam together behind it. The horizon suddenly bends as the entire planet starts accelerating through space. Camera ends pulling back to reveal the whole world is actually a gigantic engine leaving a glowing trail across the galaxy.
+16:9, 초현실적인 영화적 SF, 물리적으로 사실적인 묘사, 거대한 스케일, 대사 없음. 인터셉터가 거대한 기계 구조물로 뒤덮인 죽은 행성의 표면을 낮게 비행하며 질주한다. 갑자기 행성 전체가 깨어나기 시작한다. 산만한 크기의 엔진 링이 지각 아래에서 솟아오르고, 용암 같은 에너지의 바다가 거대한 통로를 통해 솟구친다. 대륙판이 톱니바퀴처럼 회전한다. 인터셉터는 무너져 내리는 기계 장치 사이를 파고들고, 그 뒤로 고층 빌딩만 한 피스톤이 쾅 소리를 내며 맞물린다. 행성 전체가 우주를 가로질러 가속하기 시작하면서 지평선이 갑자기 휘어진다. 카메라가 뒤로 빠지면서 이 행성 전체가 사실은 은하계를 가로질러 빛나는 궤적을 남기는 거대한 엔진이었음이 드러난다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075342494015864833/img/6bP_qm87onUEknYR.jpg" width="600" alt="Sci-Fi Interceptor Planet Engine Race">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075342494015864833/img/6bP_qm87onUEknYR.jpg" width="600" alt="SF 인터셉터 행성 엔진 레이스">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=6995)**
 
 **작성자:** [Alexandra Aisling](https://x.com/AllaAisling) | **출처:** [Link](https://x.com/AllaAisling/status/2075360600968884496) | **게시일:** Jul 9, 2026
 
 ---
-### Uncanny Rural Road Cinematic Video
+### 기묘한 시골길 시네마틱 영상
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex multi-scene prompt for Seedance 2.0 creating an unsettling rural road scene with specific camera movements and eerie puddle reflections.
+> Seedance 2.0을 위한 복합 다중 장면 프롬프트로, 특정 카메라 움직임과 기괴한 웅덩이 반사가 포함된 불안한 시골길 장면을 생성합니다.
 
 #### 📝 프롬프트
 
 ```
-Scene & Mood: A quiet uncanny rural road scene. The open countryside from image2
-feels real and natural, but the surveillance mood of
-image1 leaks into the road through shallow puddle reflections. Lonely, restrained, realistic, unsettling. Frame Map: Start high and wide above the road from
-image2 , road running from lower foreground to deep center horizon. Green fields stretch on both sides, pylons sit far in the distance, heavy clouds fill the sky. The woman is small, lower center right, walking away from camera. As the camera lowers behind her, keep the road as the main leading line. End with her centered in the middle distance and one foreground puddle reflecting a single painted eye from image1 . Subject Lock image2 : Preserve the lone rear view woman from image2 : long dark hair, sleeveless dark patterned dress, white shoes, slim body shape, quiet walking posture, small silhouette against the landscape. Her face is never revealed. image2 keeps the same visible body shape, hair, wardrobe, scale, and silhouette throughout. Do not add bags, accessories, new clothing, or a full turn toward camera. Cross Frame Rules: Keep the woman on the same road, walking away, with stable scale and screen position. Maintain the same rural road, green fields, pylons, cloud cover, and natural daylight palette. The eyes from image1 appear only as reflections in shallow puddles, never as literal tanks or objects in the field. No extra people, vehicles, animals, fantasy glow, or signage text. Movement: Shot 1 (0–5s): High wide elevated tracking shot glides forward above the rural road. The woman walks slowly away. Fields ripple in light wind, clouds drift, pylons remain distant and still. Shot 2 (5–10s): Camera lowers behind her into a grounded rear-follow angle. Her dress hem moves softly, hair shifts in the wind, shoulders rise and fall with breath. Small puddles on the asphalt begin catching dark curved reflections like the painted eyes from
-image1. Shot 3 (10–15s): Camera continues a slow push. She stops in the middle of the road without turning around. Wind moves the fields in broad waves. One foreground puddle sharpens into a clear reflected painted eye, aligned beneath her path. Camera settles into a locked final hold. Last Frame: At 15 seconds, the woman stands still in the middle distance, back to camera, centered on the road under heavy clouds. Green fields stay wide and quiet on both sides, pylons faint on the horizon. In the lower foreground, one shallow puddle holds a crisp reflected eye from
-image1 . Camera locked. No on screen text, no captions, no signage typography, no rendered text in the frame. World Plate: Use image2 as the main world: rural asphalt road, green fields, scattered trees, distant pylons, heavy clouds, open horizon, natural field texture, muted daylight. Use image1 only for wet road reflection mood, cool gray undertone, and weathered painted-eye detail. Road is damp, not mirror glossy. Mild haze and soft air dep
+장면 및 분위기: 고요하고 기묘한 시골길 장면. image2 의 탁 트인 시골 풍경은 실제처럼 자연스럽지만, image1 의 감시하는 듯한 분위기가 얕은 웅덩이 반사를 통해 길 위로 스며듭니다. 외롭고 절제되었으며, 사실적이면서도 불안한 느낌입니다. 프레임 맵: image2 의 도로 위 높은 곳에서 넓게 시작하며, 도로는 아래쪽 전경에서 깊은 중앙 지평선까지 이어집니다. 양옆으로 푸른 들판이 펼쳐져 있고, 멀리 송전탑이 보이며, 하늘은 무거운 구름으로 가득합니다. 여성은 오른쪽 하단 중앙에 작게 보이며 카메라 반대 방향으로 걸어갑니다. 카메라가 그녀의 뒤로 낮아질 때, 도로를 주요 유도선으로 유지하세요. 마지막에는 그녀가 중간 거리 중앙에 위치하고, 전경의 웅덩이 하나에 image1 의 그려진 눈 하나가 반사되도록 마무리합니다. 피사체 고정 image2 : image2 의 뒷모습만 보이는 여성을 유지하세요. 긴 어두운 머리, 민소매 어두운 패턴 원피스, 흰색 신발, 날씬한 체형, 조용한 걸음걸이, 풍경 속의 작은 실루엣. 그녀의 얼굴은 절대 드러나지 않습니다. image2 는 전체적으로 동일한 신체 형태, 머리 모양, 의상, 비율, 실루엣을 유지합니다. 가방, 액세서리, 새로운 의상을 추가하거나 카메라를 향해 완전히 돌아서게 하지 마세요. 프레임 간 규칙: 여성을 동일한 도로 위에서 계속 걷게 하고, 비율과 화면 위치를 안정적으로 유지하세요. 동일한 시골길, 푸른 들판, 송전탑, 구름 덮인 하늘, 자연스러운 주간 색감을 유지합니다. image1 의 눈은 얕은 웅덩이 속 반사로만 나타나야 하며, 들판에 있는 실제 물체나 탱크처럼 나타나지 않아야 합니다. 추가적인 사람, 차량, 동물, 판타지 효과, 표지판 텍스트는 없습니다. 움직임: 샷 1 (0–5초): 높은 곳에서 넓게 내려다보는 트래킹 샷이 시골길 위를 부드럽게 전진합니다. 여성은 천천히 멀어집니다. 들판은 가벼운 바람에 일렁이고, 구름은 흐르며, 송전탑은 멀리 정지해 있습니다. 샷 2 (5–10초): 카메라가 그녀의 뒤, 지면 높이의 후방 추적 각도로 낮아집니다. 원피스 밑단이 부드럽게 움직이고, 머리카락이 바람에 흩날리며, 어깨가 호흡에 따라 오르내립니다. 아스팔트 위의 작은 웅덩이들에 image1 의 그려진 눈과 같은 어둡고 굽은 반사가 맺히기 시작합니다. 샷 3 (10–15초): 카메라가 천천히 계속 밀고 들어갑니다. 그녀는 뒤돌아보지 않고 길 한복판에 멈춰 섭니다. 바람이 들판을 넓은 물결로 흔듭니다. 전경의 웅덩이 하나가 그녀의 경로 아래 정렬되어 선명한 눈 반사로 맺힙니다. 카메라는 마지막 고정 샷으로 마무리됩니다. 마지막 프레임: 15초 지점에서 여성은 무거운 구름 아래 도로 중앙, 카메라를 등지고 중간 거리에 서 있습니다. 푸른 들판은 양옆으로 넓고 고요하게 유지되며, 지평선에는 송전탑이 희미하게 보입니다. 하단 전경의 얕은 웅덩이 하나에 image1 의 선명한 눈이 반사됩니다. 카메라 고정. 화면 내 텍스트, 자막, 표지판 타이포그래피, 렌더링된 글자는 없습니다. 월드 플레이트: image2 를 주요 배경으로 사용하세요: 시골 아스팔트 도로, 푸른 들판, 흩어진 나무들, 멀리 보이는 송전탑, 무거운 구름, 탁 트인 지평선, 자연스러운 들판 질감, 차분한 주간 조명. image1 은 젖은 도로의 반사 분위기, 차가운 회색 톤, 풍화된 눈 디테일에만 사용하세요. 도로는 거울처럼 반짝이지 않고 축축한 상태여야 합니다. 가벼운 안개와 부드러운 공기 느낌을 더하세요.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075304433442009088/img/h5GJIVdX3PZLtZjm.jpg" width="600" alt="Uncanny Rural Road Cinematic Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075304433442009088/img/h5GJIVdX3PZLtZjm.jpg" width="600" alt="기묘한 시골길 시네마틱 영상">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=6985)**
 
 **작성자:** [BMX](https://x.com/bmx_ai13) | **출처:** [Link](https://x.com/bmx_ai13/status/2075349277463789840) | **게시일:** Jul 9, 2026
 
 ---
-### Glowing Origami Universe Transformation
+### 빛나는 종이접기 우주의 변신
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A first-person flythrough prompt of a peaceful origami landscape that dramatically unfolds and transforms into a glowing paper crane galaxy.
+> 평화로운 종이접기 풍경이 극적으로 펼쳐지며 빛나는 종이학 은하계로 변모하는 모습을 담은 1인칭 비행 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Pure first-person flying camera, no visible drone or aircraft. The camera glides through a peaceful paper landscape where mountains, forests, oceans, and animals are all folded from enormous sheets of glowing origami. Suddenly everything begins unfolding itself. Entire mountains transform into giant birds, oceans fold into dragons, cities become mechanical flowers. The camera races through this impossible transformation as millions of paper fragments swirl around in slow motion. Final reveal: the entire universe folds into a single glowing paper crane that flaps its wings and becomes a real galaxy. Continuous one-take, hyper-realistic paper physics, cinematic particle simulations, breathtaking VFX.
+드론이나 항공기가 보이지 않는 순수 1인칭 비행 카메라 뷰. 카메라는 산, 숲, 바다, 동물이 모두 거대한 빛나는 종이접기 시트로 만들어진 평화로운 종이 풍경 속을 미끄러지듯 이동합니다. 갑자기 모든 것이 스스로 펼쳐지기 시작합니다. 산 전체가 거대한 새가 되고, 바다는 용으로 접히며, 도시는 기계 꽃으로 변합니다. 수백만 개의 종이 조각이 슬로우 모션으로 소용돌이치는 가운데, 카메라는 이 불가능한 변신의 현장을 질주합니다. 마지막 장면: 우주 전체가 하나의 빛나는 종이학으로 접히고, 이 학이 날개를 퍼덕이며 실제 은하계로 변합니다. 끊김 없는 원테이크 촬영, 초현실적인 종이 물리 효과, 영화 같은 입자 시뮬레이션, 숨 막히는 VFX.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2075309011201585152/pu/img/TOM_VIdcJxM5tGaA.jpg" width="600" alt="Glowing Origami Universe Transformation">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2075309011201585152/pu/img/TOM_VIdcJxM5tGaA.jpg" width="600" alt="빛나는 종이접기 우주의 변신">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=6983)**
 
 **작성자:** [LudovicCreator](https://x.com/LudovicCreator) | **출처:** [Link](https://x.com/LudovicCreator/status/2075309037948649497) | **게시일:** Jul 9, 2026
 
 ---
-### Pixar-Style Hairbun Transformation Animation
+### 픽사 스타일의 헤어번 변신 애니메이션
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative narrative prompt for a Pixar-style 3D animation showing a girl's humorous struggle with styling her hair and her ultimate bathrobe-assisted success.
+> 머리 손질에 고군분투하다 목욕 가운의 도움으로 완벽한 스타일을 완성하는 소녀의 이야기를 담은 픽사 스타일의 3D 애니메이션 창작 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Animated girl fails to style her hair twice, gets frustrated, puts on a bathrobe, casually makes a bun that turns out perfect, removes the robe to reveal a casual outfit, and happily heads to the party. Pixar-style 3D, cinematic, expressive.
+애니메이션 속 소녀가 두 번의 머리 손질 실패로 좌절하다가, 목욕 가운을 걸치고 무심하게 번 헤어를 완성합니다. 이후 가운을 벗고 캐주얼한 복장으로 파티에 즐겁게 향하는 모습입니다. 픽사 스타일의 3D, 영화 같은 연출, 풍부한 표정.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2075298882964307968/pu/img/iSDjZwv8fdfT4sP-.jpg" width="600" alt="Pixar-Style Hairbun Transformation Animation">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2075298882964307968/pu/img/iSDjZwv8fdfT4sP-.jpg" width="600" alt="픽사 스타일의 헤어번 변신 애니메이션">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=6994)**
 
 **작성자:** [NoorAI](https://x.com/noorwithwifi) | **출처:** [Link](https://x.com/noorwithwifi/status/2075298970730201142) | **게시일:** Jul 9, 2026
 
 ---
-### Village Life Character Consistency
+### Village Life 캐릭터 일관성
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic video prompt for Seedance 2.0 Mini focused on maintaining character identity through various scenes of peaceful village life.
+> 평화로운 마을의 일상을 배경으로 캐릭터의 정체성을 유지하는 데 중점을 둔 Seedance 2.0 Mini용 상세 시네마틱 비디오 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Character Continuity Lock:Use the girl from the reference image as the main character. Preserve her exact face, hairstyle, facial features, skin tone, age, body proportions, clothing style, and identity throughout the entire video. No face changes, no character swaps, no age changes.
+캐릭터 연속성 고정: 참조 이미지 속 소녀를 주인공으로 설정합니다. 영상 전체에서 소녀의 얼굴, 헤어스타일, 이목구비, 피부 톤, 나이, 신체 비율, 의상 스타일 및 정체성을 정확하게 유지하세요. 얼굴 변화, 캐릭터 교체, 나이 변화는 없어야 합니다.
 
-Video Style: Ultra-realistic cinematic village life, natural colors, authentic rural atmosphere, documentary realism, beautiful nature cinematography, soft morning sunlight, shallow depth of field, realistic physics, natural wind movement, high detail, 4K quality, smooth camera motion, emotional and peaceful mood.
+영상 스타일: 초현실적인 시네마틱 마을 일상, 자연스러운 색감, 정통 시골 분위기, 다큐멘터리식 사실주의, 아름다운 자연 영상미, 부드러운 아침 햇살, 얕은 피사계 심도, 사실적인 물리 효과, 자연스러운 바람의 움직임, 높은 디테일, 4K 화질, 부드러운 카메라 무빙, 감성적이고 평화로운 분위기.
 
-0s–3s
-The girl sits peacefully outside her traditional village house on a wooden chair. Morning sunlight softly illuminates her face. She looks across the countryside with a gentle smile. Birds fly in the distance. Green fields sway in the breeze. Natural ambient sounds of birds chirping, leaves rustling, and distant village life. Slow cinematic dolly-in camera movement.
+0초–3초
+소녀가 전통적인 마을 집 밖 나무 의자에 평화롭게 앉아 있습니다. 아침 햇살이 소녀의 얼굴을 부드럽게 비춥니다. 소녀는 온화한 미소를 지으며 시골 풍경을 바라봅니다. 멀리서 새들이 날아다닙니다. 초록빛 들판이 산들바람에 흔들립니다. 새 지저귀는 소리, 나뭇잎 스치는 소리, 멀리서 들려오는 마을의 일상 소리 등 자연스러운 주변음이 들립니다. 느린 시네마틱 돌리 인(dolly-in) 카메라 무빙.
 
-3s–6s
-She slowly stands up and begins walking along a narrow village pathway. Her hair and clothes move naturally in the wind. The camera follows from behind at a low angle. Colorful wildflowers line the path. Butterflies flutter around. Chickens wander nearby. Warm golden sunlight filters through trees.
+3초–6초
+소녀가 천천히 일어나 좁은 마을 길을 따라 걷기 시작합니다. 머리카락과 옷이 바람에 자연스럽게 흩날립니다. 카메라는 낮은 각도에서 뒤를 따라갑니다. 길가에는 형형색색의 야생화가 피어 있습니다. 나비가 주변을 날아다닙니다. 닭들이 근처를 배회합니다. 따스한 황금빛 햇살이 나무 사이로 스며듭니다.
 
-6s–9s
-She enters a beautiful garden filled with blooming flowers, lush greenery, and fruit trees. She gently touches flower petals while admiring the scenery. The camera circles around her in a smooth cinematic orbit. Bees hover around flowers. Leaves move naturally in the breeze. Soft sunlight creates beautiful lens flares.
+6초–9초
+소녀가 꽃이 만발하고 푸른 녹지와 과일 나무로 가득 찬 아름다운 정원으로 들어갑니다. 소녀는 풍경을 감상하며 꽃잎을 부드럽게 만집니다. 카메라는 소녀를 중심으로 부드러운 시네마틱 궤도(orbit)를 그리며 회전합니다. 벌들이 꽃 주변을 맴돕니다. 나뭇잎이 바람에 자연스럽게 움직입니다. 부드러운 햇살이 아름다운 렌즈 플레어를 만들어냅니다.
 
-9s–12s
-She walks deeper into the garden, smiling peacefully. She pauses beside a flowering tree and watches butterflies flying around. The camera transitions to a wide aerial shot revealing the village, green fields, mountains in the distance, and the vibrant garden surrounding her.
+9초–12초
+소녀가 평화롭게 미소 지으며 정원 깊숙이 걸어 들어갑니다. 꽃이 핀 나무 옆에 잠시 멈춰 서서 날아다니는 나비를 바라봅니다. 카메라는 마을, 푸른 들판, 멀리 보이는 산, 그리고 소녀를 둘러싼 활기찬 정원을 보여주는 넓은 항공 샷으로 전환됩니다.
 
-12s–15s
-She closes her eyes briefly, enjoying the fresh air and sounds of nature. She slowly opens her eyes and looks toward the horizon with a calm, happy expression. The camera pulls back smoothly, revealing the entire garden, village houses, fields, birds flying overhead, and warm sunlight bathing the landscape. Cinematic ending frame.
+12초–15초
+소녀가 잠시 눈을 감고 신선한 공기와 자연의 소리를 즐깁니다. 천천히 눈을 뜨고 차분하고 행복한 표정으로 지평선을 바라봅니다. 카메라는 부드럽게 뒤로 빠지며 정원 전체, 마을 집들, 들판, 머리 위를 나는 새들, 그리고 풍경을 감싸는 따스한 햇살을 보여줍니다. 시네마틱 엔딩 프레임.
 
-Environment Details: Authentic rural village, traditional houses, vegetable gardens, fruit trees, colorful flowers, butterflies, birds, green fields, distant hills, gentle wind, realistic nature sounds, peaceful countryside atmosphere, natural human movement, realistic lighting, photorealistic textures, cinematic storytelling, immersive village life.
+환경 디테일: 정통 시골 마을, 전통 가옥, 텃밭, 과일 나무, 형형색색의 꽃, 나비, 새, 푸른 들판, 멀리 보이는 언덕, 산들바람, 사실적인 자연의 소리, 평화로운 시골 분위기, 자연스러운 사람의 움직임, 사실적인 조명, 실사 같은 질감, 시네마틱 스토리텔링, 몰입감 넘치는 마을의 일상.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075260887469035520/img/RxDQVEijXersdJE6.jpg" width="600" alt="Village Life Character Consistency">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075260887469035520/img/RxDQVEijXersdJE6.jpg" width="600" alt="Village Life 캐릭터 일관성">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=7001)**
 
 **작성자:** [auqib](https://x.com/auqibhabib) | **출처:** [Link](https://x.com/auqibhabib/status/2075261495387283579) | **게시일:** Jul 9, 2026
 
 ---
-### Epic Anime Warrior Queen Cavalry Charge
+### 웅장한 애니메이션 전사 여왕의 기병 돌격
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-octane Japanese anime style prompt for Seedance 2.0 depicting a warrior queen leading a cavalry charge and defeating a colossal beast.
+> Seedance 2.0을 위한 고강도 일본 애니메이션 스타일 프롬프트로, 기병대를 이끌고 거대한 괴수를 물리치는 전사 여왕의 모습을 묘사합니다.
 
 #### 📝 프롬프트
 
 ```
-A battle-hardened warrior queen with long red hair, emerald eyes, ornate armor and a massive enchanted spear, rendered in ultra-premium Japanese anime rendering, manga-style visual language, explosive impact frames, hand-drawn speed lines, dramatic shonen atmosphere\n- Rides at the head of a cavalry charge across a battlefield while a colossal armored beast leads the enemy army, camera sweeping through galloping horses and flying dirt; \n- Leaps from her mount directly onto the giant creature, fighting through elite guards and climbing across its armored body while explosions and arrows fill the battlefield below; \n- Drives her spear into the creature’s glowing core, causing it to collapse across the battlefield and scatter the enemy forces, ending with her raising the spear as her army erupts in victory\nHeroic fantasy anime spectacle, massive scale warfare, brutal and epic payoff.
+긴 붉은 머리카락과 에메랄드빛 눈동자, 화려한 갑옷과 거대한 마법 창을 지닌 역전의 전사 여왕, 최고급 일본 애니메이션 렌더링 및 만화 스타일의 시각 언어로 표현, 폭발적인 임팩트 프레임, 수작업으로 그려진 속도감 있는 선, 드라마틱한 소년 만화 분위기
+- 거대한 갑옷을 입은 괴수가 적군을 이끄는 전장에서 기병대의 선두에 서서 돌격하며, 질주하는 말들과 흩날리는 흙먼지 사이를 훑는 카메라 워킹;
+- 말 위에서 뛰어올라 거대 괴수에게 직접 올라타 정예 병사들과 싸우며 괴수의 갑옷 위를 기어오르고, 그 아래 전장에는 폭발과 화살이 가득함;
+- 괴수의 빛나는 핵에 창을 꽂아 전장 전체로 쓰러뜨리고 적군을 흩어버리며, 승리에 환호하는 군대 앞에서 창을 높이 치켜드는 모습으로 마무리
+영웅적 판타지 애니메이션의 장관, 대규모 전쟁, 잔혹하고 웅장한 결말.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2075233513847029761/pu/img/Nul4fCuqQHjMl-Nh.jpg" width="600" alt="Epic Anime Warrior Queen Cavalry Charge">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2075233513847029761/pu/img/Nul4fCuqQHjMl-Nh.jpg" width="600" alt="웅장한 애니메이션 전사 여왕의 기병 돌격">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=6989)**
 
 **작성자:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **출처:** [Link](https://x.com/CharaspowerAI/status/2075233538643804231) | **게시일:** Jul 9, 2026
 
 ---
-### Rainy Korean Alley Stroll
+### 비 내리는 한국 골목길 산책
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A realistic video sequence of a young Korean woman walking through a neighborhood alley after rain, featuring natural interactions and camcorder-style focus shifts.
+> 비 온 뒤 한국의 동네 골목길을 걷는 젊은 한국 여성의 모습을 담은 사실적인 영상 시퀀스로, 자연스러운 상호작용과 캠코더 스타일의 초점 변화가 특징입니다.
 
 #### 📝 프롬프트
 
 ```
-Main Subject: Young Korean woman, early 20s, natural everyday appearance, faded charcoal-grey sleeveless crop top, loose high-waisted light-wash jeans, black canvas sneakers, black cord necklace, black wavy hair in a messy side ponytail with wispy bangs.
+주요 피사체: 20대 초반의 한국 여성, 자연스러운 일상복 차림, 빛바랜 차콜 그레이 색상의 민소매 크롭탑, 헐렁한 하이웨이스트 연청바지, 검은색 캔버스 스니커즈, 검은색 줄 목걸이, 잔머리가 있는 지저분한 옆으로 묶은 검은색 웨이브 머리.
 
-Realistic skin texture, minimal makeup, warm and approachable personality. Maintain identical identity, clothing, hairstyle, and appearance throughout.
+사실적인 피부 질감, 최소한의 메이크업, 따뜻하고 친근한 성격. 영상 전체에서 동일한 인물, 의상, 헤어스타일 및 외모를 유지할 것.
 
-Location: Quiet Korean alley after light rain.
+장소: 가벼운 비가 내린 후의 조용한 한국 골목길.
 
 00:00–00:03
-She opens a transparent umbrella outside her house while tiny raindrops fall.
+집 밖에서 작은 빗방울이 떨어지는 가운데 투명 우산을 펼친다.
 
 00:03–00:06
-Walking slowly through puddles. Camera accidentally tilts downward toward splashing feet.
+물웅덩이를 지나 천천히 걷는다. 카메라가 실수로 물이 튀는 발 쪽으로 아래를 향한다.
 
 00:06–00:09
-She stops to watch rain dripping from tree branches.
+걸음을 멈추고 나뭇가지에서 떨어지는 빗방울을 바라본다.
 
 00:09–00:12
-A neighborhood dog approaches. She crouches to pet it.
+동네 강아지가 다가온다. 그녀가 쪼그리고 앉아 강아지를 쓰다듬는다.
 
 00:12–00:15
-She laughs after rainwater drips from the umbrella edge. Camcorder loses focus before cutting.
+우산 끝에서 빗물이 떨어지자 웃음을 터뜨린다. 캠코더 초점이 흐려지며 영상이 끝난다.
 
-Audio: Rain, distant traffic, birds, footsteps through puddles.
+오디오: 빗소리, 멀리서 들리는 교통 소음, 새소리, 물웅덩이를 밟는 발자국 소리.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2075199398905012224/pu/img/9RgJZ07028Bpt5s6.jpg" width="600" alt="Rainy Korean Alley Stroll">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2075199398905012224/pu/img/9RgJZ07028Bpt5s6.jpg" width="600" alt="비 내리는 한국 골목길 산책">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=6999)**
 
 **작성자:** [Zephyra Leigh](https://x.com/ZephyraLeigh) | **출처:** [Link](https://x.com/ZephyraLeigh/status/2075229985724658036) | **게시일:** Jul 9, 2026
 
 ---
-### Parallel Universe Office Interview Narrative
+### 평행 우주 사무실 면접 서사
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A multi-act video prompt for Seedance 2.0 exploring two different 'parallel universe' outcomes of an office interview scenario involving a phone.
+> 전화를 소재로 한 사무실 면접 시나리오의 두 가지 '평행 우주' 결말을 탐구하는 Seedance 2.0용 다막 비디오 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Act 1: Presented in raw iPhone vertical handheld video style, all camera settings auto, no post-color grading or effects. Features realistic handheld jitter and operator breathing. Auto-focus occasionally searches or lags. Auto-white balance switches between office natural and overhead light. Image is flat, with realistic flares, chromatic aberration, and motion blur. 0-2s: Mid-shot of a young woman at a desk in a minimalist office. Interviewer's hand and a blue phone in foreground. Voice: 'Why hire you?' 2-5s: Woman suddenly grabs a black phone and throws it. Camera tilts down in surprise to show the phone shattering on tile. 5-10s: Camera returns to woman smiling confidently. She says: 'Deduct it from my next month's salary.' 
+제1막: 아이폰으로 촬영한 날것 그대로의 세로형 핸드헬드 비디오 스타일로, 모든 카메라 설정은 자동이며 후반 색 보정이나 효과는 없습니다. 사실적인 핸드헬드 떨림과 촬영자의 숨소리가 포함되어 있습니다. 자동 초점이 가끔 탐색하거나 지연됩니다. 자동 화이트 밸런스는 사무실 자연광과 천장 조명 사이를 전환합니다. 이미지는 평면적이며, 사실적인 플레어, 색수차, 모션 블러가 나타납니다. 0~2초: 미니멀한 사무실 책상에 앉아 있는 젊은 여성의 미디엄 샷. 전경에는 면접관의 손과 파란색 전화기가 보입니다. 목소리: '왜 당신을 채용해야 하죠?' 2~5초: 여성이 갑자기 검은색 전화기를 집어 던집니다. 카메라가 놀란 듯 아래로 기울어지며 타일 바닥에서 전화기가 산산조각 나는 모습을 비춥니다. 5~10초: 카메라가 다시 자신감 있게 미소 짓는 여성에게 돌아옵니다. 그녀가 말합니다: '다음 달 월급에서 공제해 주세요.' 
 
-Act 2: Same raw style and setting. Woman sits smiling, but a shattered black phone lies on the floor to the right. 0-3s: Voice: 'But... you threw your own phone.' Auto-focus on woman's face as her smile freezes. 3-7s: Her face collapses into sadness. She slowly looks at the shattered phone. Camera follows to show the cracked screen. She tries to feel for the phone on the table but it's empty. 7-11s: She forces a tearful smile: 'That... can I cross out "stress-resistant" on my resume?' 11-15s: Voice: 'No, I'll just note: "Emotionally stable, except regarding personal property."' She hides her face behind the resume, crying about six more installments left on the phone. Blackout.
+제2막: 동일한 날것 그대로의 스타일과 배경. 여성은 미소 지으며 앉아 있지만, 오른쪽 바닥에는 산산조각 난 검은색 전화기가 놓여 있습니다. 0~3초: 목소리: '하지만... 방금 본인 전화기를 던졌잖아요.' 여성의 미소가 굳어지며 얼굴에 자동 초점이 맞춰집니다. 3~7초: 그녀의 얼굴이 슬픔으로 일그러집니다. 그녀는 천천히 산산조각 난 전화기를 바라봅니다. 카메라는 깨진 화면을 보여주기 위해 따라갑니다. 그녀가 테이블 위를 더듬어 보지만 전화기는 없습니다. 7~11초: 그녀가 울먹이며 억지 미소를 짓습니다: '그게... 이력서에서 "스트레스 저항력" 항목을 지워도 될까요?' 11~15초: 목소리: '아니요, 그냥 이렇게 적어두죠: "개인 소지품 관련 상황을 제외하면 정서적으로 안정됨."' 그녀는 이력서 뒤로 얼굴을 숨기고, 아직 6개월 할부가 남은 전화기 때문에 울음을 터뜨립니다. 암전.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075214595883499521/img/DgKWNlPVHh7gT0Ln.jpg" width="600" alt="Parallel Universe Office Interview Narrative">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075214595883499521/img/DgKWNlPVHh7gT0Ln.jpg" width="600" alt="평행 우주 사무실 면접 서사">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=7008)**
 
 **작성자:** [John](https://x.com/john87445528) | **출처:** [Link](https://x.com/john87445528/status/2075216289014980737) | **게시일:** Jul 9, 2026
 
 ---
-### Cinematic 3D Chef Cooking Stir-fry
+### 영화 같은 3D 셰프의 볶음 요리
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic 3D animation prompt for Seedance 2.0 featuring a chef cooking stir-fry with dynamic action like flying vegetables and wok flames, ending with a satisfied customer.
+> Seedance 2.0을 위한 영화 같은 3D 애니메이션 프롬프트로, 공중으로 튀어 오르는 채소와 웍의 불꽃 등 역동적인 동작으로 볶음 요리를 하는 셰프의 모습과 만족해하는 고객의 모습을 담았습니다.
 
 #### 📝 프롬프트
 
 ```
-Cinematic 3D animated chef cooking a stir-fry: seasoning, fast chopping, vegetables flying, wok flames, beautiful plating, final garnish, proud chef pose, and happy customer tasting the dish. Vibrant colors, smooth animation, dramatic lighting.
+볶음 요리를 하는 영화 같은 3D 애니메이션 셰프: 양념하기, 빠르게 재료 썰기, 공중으로 날아오르는 채소, 웍의 불꽃, 아름다운 플레이팅, 마지막 고명 올리기, 셰프의 자신감 넘치는 포즈, 그리고 요리를 맛보고 행복해하는 고객. 생동감 넘치는 색감, 부드러운 애니메이션, 드라마틱한 조명.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2075209947009400832/pu/img/w1dwtZUJvVXgfoaV.jpg" width="600" alt="Cinematic 3D Chef Cooking Stir-fry">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2075209947009400832/pu/img/w1dwtZUJvVXgfoaV.jpg" width="600" alt="영화 같은 3D 셰프의 볶음 요리">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=6988)**
 
 **작성자:** [NoorAI](https://x.com/noorwithwifi) | **출처:** [Link](https://x.com/noorwithwifi/status/2075210000558068039) | **게시일:** Jul 9, 2026
 
 ---
-### Adventurous Anime Character Protagonist
+### 모험심 넘치는 애니메이션 캐릭터 주인공
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed character design prompt for a young male hero with spiky orange hair and a roguish look, designed for consistent visual identity in video generation.
+> 비디오 생성 시 일관된 시각적 정체성을 유지하도록 설계된, 뾰족한 주황색 머리에 장난기 넘치는 인상의 젊은 남성 주인공을 위한 상세 캐릭터 디자인 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Protagonist (Player Character) A young man in his early 20s with a confident, adventurous, and slightly roguish appearance. Bright, spiky orange hair that stands up wildly in all directions with sharp, flame-like tips. Striking golden-yellow eyes with a sharp, determined gaze. Fair skin with a subtle, healthy tan. He wears a black hooded zip-up jacket with a bright orange inner hood lining and orange trim along the zipper, cuffs, and hem. The jacket has multiple functional pockets on the sleeves with orange zippers and small orange tassel-like pulls. Underneath, a plain white t-shirt is visible. Around his neck hangs a thick silver chain necklace with a large, round orange pendant featuring a cute, stylized yellow-orange bird-like Pal face with big black eyes and a small beak. He wears loose-fitting brown cargo pants with multiple large flap pockets on the thighs, secured by silver-colored metal buttons and straps. A black leather belt with a silver buckle sits at the waist, and a silver chain with an orange strap hangs from the right belt loop. Black wristbands with silver studs on both wrists. On his feet are high-top sneakers that are primarily black and white with bright orange accents on the soles, laces, and side panels. Overall posture is relaxed yet ready for action, with a natural athletic build and energetic presence. Maintain consistent identity, clothing, hairstyle, accessories, and appearance throughout the entire video.
+주인공 (플레이어 캐릭터) 자신감 넘치고 모험심이 강하며 약간 장난기 어린 인상을 가진 20대 초반의 청년. 사방으로 거칠게 뻗친 밝은 주황색의 뾰족한 머리카락. 날카롭고 결의에 찬 눈빛을 가진 인상적인 황금빛 노란색 눈. 은은하고 건강한 태닝이 된 밝은 피부. 안감이 밝은 주황색이고 지퍼, 소매 끝, 밑단에 주황색 트리밍이 들어간 검은색 후드 집업 재킷을 착용. 재킷 소매에는 주황색 지퍼와 작은 주황색 술 장식이 달린 다수의 기능성 주머니가 있음. 안에는 평범한 흰색 티셔츠를 받쳐 입음. 목에는 굵은 은색 체인 목걸이가 걸려 있으며, 그 끝에는 크고 둥근 주황색 펜던트가 달려 있음. 펜던트에는 크고 검은 눈과 작은 부리를 가진 귀엽고 양식화된 노란색-주황색 새 모양의 Pal 얼굴이 그려져 있음. 허벅지에 은색 금속 단추와 스트랩으로 고정된 큰 덮개 주머니가 여러 개 달린 헐렁한 갈색 카고 팬츠를 착용. 허리에는 은색 버클이 달린 검은색 가죽 벨트를 찼으며, 오른쪽 벨트 고리에는 주황색 스트랩이 달린 은색 체인이 늘어져 있음. 양 손목에는 은색 스터드가 박힌 검은색 손목 밴드를 착용. 발에는 밑창, 끈, 측면 패널에 밝은 주황색 포인트가 들어간 검은색과 흰색 위주의 하이탑 스니커즈를 신음. 전반적인 자세는 편안하면서도 행동할 준비가 된 듯하며, 자연스러운 운동선수 체격과 활기찬 분위기를 풍김. 전체 비디오 영상에서 캐릭터의 정체성, 의상, 헤어스타일, 액세서리 및 외형을 일관되게 유지할 것.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075202977799774209/img/eJ618Xfh_KJlWQq7.jpg" width="600" alt="Adventurous Anime Character Protagonist">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075202977799774209/img/eJ618Xfh_KJlWQq7.jpg" width="600" alt="모험심 넘치는 애니메이션 캐릭터 주인공">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=6993)**
 
 **작성자:** [Blazeon 🔥](https://x.com/Blazeon_TV) | **출처:** [Link](https://x.com/Blazeon_TV/status/2075204375329280424) | **게시일:** Jul 9, 2026
 
 ---
-### Martial Arts Cyborg Battle and Transformation
+### 무술 사이보그 전투 및 변신
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intense, slow-motion action sequence prompt for Seedance 2.0 involving a martial arts battle between a man and a holographic cyborg, featuring a high-tech nano-armor transformation.
+> Seedance 2.0을 위한 강렬한 슬로우 모션 액션 시퀀스 프롬프트로, 한 남성과 홀로그램 사이보그 간의 무술 대결과 하이테크 나노 아머 변신 과정을 담고 있습니다.
 
 #### 📝 프롬프트
 
 ```
-An intense, cinematic, slow-motion action sequence unfolds on a damp, overcast city street during dusk. A young Asian man wearing a black hoodie engages in a fast-paced, close-quarters martial arts battle against a glowing, high-tech holographic, energy-based blue cyborg. The camera moves dynamically through the fight, capturing razor-sharp dodges, powerful blocks, near misses, and fluid hand-to-hand combat choreography.\n\nVFX & Transformation Sequence:\n\nThe man leaps backward into a defensive stance. A dramatic close-up reveals his forearm glowing with intricate incandescent orange-and-gold circuit patterns, releasing wisps of luminous steam. As he clenches his fist, a violent explosion of golden sparks and metallic nano-particles erupts outward. The particles rapidly morph and crawl across his arm, assembling into a sleek, high-tech gold-and-black metallic gauntlet.\n\nThe camera pulls back as the nano-armor swiftly expands, encasing his entire body in a premium studio-quality gold-and-black exo-suit with a fabric hood. The transformation is seamless, featuring realistic nano-particle assembly, metallic surface deformation, and cinematic energy effects.\n\nThe armored hero extends his arm forward, generating a swirling vortex of radiant golden energy before unleashing a powerful concentrated energy beam across the street. The blast illuminates the rain-soaked asphalt with dramatic reflections and volumetric lighting.\n\nLighting & Atmosphere:\n\nMoody, desaturated overcast daylight with a soft sunset glow on the horizon. The environment features highly reflective wet asphalt, glossy parked cars (Hyundai SUV), polished metallic armor, and realistic rain-soaked urban reflections.\n\nThe hero's helmet features a smooth, reflective gold visor that suddenly activates, revealing sharp, vibrant orange LED eyes. Ultra-detailed, photorealistic, cinematic composition, 8K resolution, Hollywood-quality visual effects, AAA blockbuster action, realistic physics, dynamic camera movement, premium CGI, dramatic environmental lighting, and film-grade visual fidelity.
+흐리고 습한 황혼의 도시 거리에서 펼쳐지는 강렬하고 영화 같은 슬로우 모션 액션 시퀀스입니다. 검은색 후드티를 입은 젊은 아시아 남성이 빛나는 하이테크 홀로그램 에너지 기반의 푸른색 사이보그와 빠르게 근접 무술 대결을 펼칩니다. 카메라는 역동적으로 움직이며 날카로운 회피, 강력한 방어, 아슬아슬한 순간, 그리고 유려한 맨손 격투 안무를 포착합니다.
+
+VFX 및 변신 시퀀스:
+
+남성이 뒤로 도약하며 방어 자세를 취합니다. 드라마틱한 클로즈업 장면에서 그의 팔뚝이 복잡한 주황색과 금색의 빛나는 회로 패턴으로 빛나며, 밝은 증기를 내뿜습니다. 그가 주먹을 꽉 쥐자, 금빛 불꽃과 금속 나노 입자가 격렬하게 폭발하며 밖으로 뿜어져 나옵니다. 입자들은 빠르게 형태를 바꾸며 그의 팔을 타고 올라가 매끄럽고 세련된 하이테크 금색 및 검은색 금속 건틀릿으로 조립됩니다.
+
+카메라가 뒤로 빠지면서 나노 아머가 빠르게 확장되어 그의 전신을 프리미엄 스튜디오 퀄리티의 금색 및 검은색 엑소 슈트(후드 포함)로 감쌉니다. 변신은 매끄럽게 진행되며, 사실적인 나노 입자 조립, 금속 표면 변형, 영화 같은 에너지 효과가 특징입니다.
+
+무장한 영웅이 팔을 앞으로 뻗자 소용돌이치는 찬란한 금빛 에너지 볼텍스가 생성되고, 곧이어 거리 전체로 강력하고 집중된 에너지 빔을 발사합니다. 폭발은 빗물에 젖은 아스팔트를 드라마틱한 반사와 볼류메트릭 조명으로 비춥니다.
+
+조명 및 분위기:
+
+수평선 너머로 부드러운 노을이 비치는 차분하고 채도가 낮은 흐린 낮 시간대입니다. 배경에는 반사율이 높은 젖은 아스팔트, 광택이 나는 주차된 자동차(Hyundai SUV), 매끄러운 금속 갑옷, 그리고 사실적인 빗물에 젖은 도시의 반사가 포함됩니다.
+
+영웅의 헬멧에는 매끄럽고 반사되는 금색 바이저가 장착되어 있으며, 갑자기 활성화되면서 날카롭고 선명한 주황색 LED 눈이 드러납니다. 초정밀, 사실적, 영화적 구성, 8K 해상도, 할리우드급 시각 효과, AAA 블록버스터 액션, 사실적인 물리 효과, 역동적인 카메라 움직임, 프리미엄 CGI, 드라마틱한 환경 조명 및 영화 수준의 시각적 완성도를 자랑합니다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075191559964983296/img/MyWMsFtNkM7j2eUz.jpg" width="600" alt="Martial Arts Cyborg Battle and Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075191559964983296/img/MyWMsFtNkM7j2eUz.jpg" width="600" alt="무술 사이보그 전투 및 변신">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=6990)**
 
 **작성자:** [Saul Goodman](https://x.com/Goodmanprotocol) | **출처:** [Link](https://x.com/Goodmanprotocol/status/2075191704525926870) | **게시일:** Jul 9, 2026
 
 ---
-### 90s Hand-Drawn Shark Animation
+### 90년대풍 수작업 상어 애니메이션
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A nostalgic 1990s-style hand-drawn animation prompt for Seedance 2.0 featuring a comedic interaction between a shark, a clownfish, and a clam in a coral reef.
+> Seedance 2.0을 위한 향수를 불러일으키는 1990년대 스타일의 수작업 애니메이션 프롬프트로, 산호초를 배경으로 상어, 흰동가리, 조개가 벌이는 코믹한 상호작용을 담고 있습니다.
 
 #### 📝 프롬프트
 
 ```
-Classic 1990s hand-drawn animated family adventure style. Bright underwater world, colorful coral reef, soft painted backgrounds, expressive sea animal faces, simple slapstick comedy, warm and playful tone. No copyrighted characters, no logos, no text.
+고전적인 1990년대 수작업 애니메이션 가족 모험 스타일. 밝은 수중 세계, 다채로운 산호초, 부드러운 페인팅 배경, 해양 동물의 풍부한 표정, 단순한 슬랩스틱 코미디, 따뜻하고 장난기 넘치는 분위기. 저작권이 있는 캐릭터, 로고, 텍스트는 포함하지 않음.
 
-15s Story
+15초 스토리
 
-Scene 1
-A big shark swims proudly through a colorful coral reef, trying to look cool and serious. A tiny clownfish swims beside him.
+장면 1
+커다란 상어가 다채로운 산호초 사이를 당당하게 헤엄치며 멋지고 진지해 보이려 노력한다. 작은 흰동가리 한 마리가 그 옆을 헤엄친다.
 
-Scene 2
-The shark sees a shiny pearl inside an open clam. He grins confidently and swims closer to grab it.
+장면 2
+상어는 열린 조개 속에서 빛나는 진주를 발견한다. 자신감 있게 미소 지으며 그것을 잡기 위해 더 가까이 다가간다.
 
-Scene 3
-Just as the shark pokes his nose inside, the clam suddenly snaps shut on his nose.
+장면 3
+상어가 코를 조개 안으로 들이미는 순간, 조개가 갑자기 닫히며 상어의 코를 물어버린다.
 
-Scene 4
-The shark freezes in shock. The clam is stuck on his nose like a silly mask. The clownfish stares for one beat, then starts laughing.
+장면 4
+상어는 충격으로 얼어붙는다. 조개가 우스꽝스러운 가면처럼 상어의 코에 달라붙어 있다. 흰동가리는 잠시 멍하니 바라보다가 웃음을 터뜨린다.
 
-Scene 5
-The shark tries to shake the clam off. He spins, wobbles, and swims in circles, bumping into soft seaweed and blowing bubbles everywhere.
+장면 5
+상어는 조개를 떼어내려고 몸을 흔든다. 빙글빙글 돌고 비틀거리며 원을 그리며 헤엄치고, 부드러운 해초에 부딪히며 사방으로 거품을 내뿜는다.
 
-Scene 6
-The clownfish quickly gets an idea. It holds a piece of seaweed in front of the clam. The clam opens, letting go of the shark’s nose.
+장면 6
+흰동가리가 재빨리 아이디어를 낸다. 조개 앞에 해초 조각을 가져다 대자 조개가 입을 벌리며 상어의 코를 놓아준다.
 
-Scene 7
-The shark pops backward from the sudden release, and the pearl flies out of the clam and lands perfectly on top of the shark’s head.
+장면 7
+갑작스러운 해방감에 상어는 뒤로 튕겨 나가고, 조개에서 튀어 나온 진주가 상어의 머리 위에 완벽하게 안착한다.
 
-Scene 8
-The clownfish laughs harder. The shark crosses his eyes to look at the pearl on his head, then smiles proudly like he meant to do it. Both swim away through the reef together.
+장면 8
+흰동가리는 더 크게 웃음을 터뜨린다. 상어는 머리 위의 진주를 보려고 눈을 모으더니, 마치 의도했던 일인 것처럼 자랑스럽게 미소 짓는다. 둘은 함께 산호초 사이로 헤엄쳐 사라진다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075188883621552129/img/0HnRr5aknOV4f3P5.jpg" width="600" alt="90s Hand-Drawn Shark Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075188883621552129/img/0HnRr5aknOV4f3P5.jpg" width="600" alt="90년대풍 수작업 상어 애니메이션">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=7003)**
 
 **작성자:** [Sam Aoteman](https://x.com/samaote) | **출처:** [Link](https://x.com/samaote/status/2075188969063735706) | **게시일:** Jul 9, 2026
 
 ---
-### Hand-drawn Animated Naval Battle
+### 손으로 그린 애니메이션 해전
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> This prompt generates a stylized 2D hand-drawn animation of a naval battle on lined notebook paper, transitioning from simple doodles to detailed ink illustrations.
+> 이 프롬프트는 줄이 그어진 공책 종이 위에서 단순한 낙서에서 정교한 잉크 일러스트로 변하는 스타일리시한 2D 손그림 해전 애니메이션을 생성합니다.
 
 #### 📝 프롬프트
 
 ```
-15-second stylized 2D hand-drawn animation, top-down naval battle on old yellow lined notebook paper. Keep the notebook-paper world from start to finish, with blue horizontal lines and the red left margin line always visible. Subtle paper texture, pencil marks, and ink strokes should be emphasized. No live action, no 3D, no realistic faces, no modern objects, no narration, no subtitles.
+15초 분량의 스타일리시한 2D 손그림 애니메이션으로, 오래된 노란색 줄 공책 위에서 펼쳐지는 탑다운(top-down) 시점의 해전입니다. 파란색 가로줄과 왼쪽의 빨간색 여백 줄이 항상 보이는 공책 종이의 느낌을 처음부터 끝까지 유지하세요. 은은한 종이 질감, 연필 자국, 잉크 선을 강조해야 합니다. 실사, 3D, 사실적인 얼굴, 현대적인 사물, 내레이션, 자막은 포함하지 마세요.
 
-A childlike doodle naval battle gradually transforms into a legendary illustrated naval battle, then collapses back into doodles. The escalation should feel magical, as if imagination is taking over the paper.
+어린아이 같은 낙서 형태의 해전이 점차 전설적인 일러스트 해전으로 변모했다가, 다시 낙서로 돌아가는 과정을 담습니다. 상상력이 종이 위를 지배하는 듯한 마법 같은 전개를 보여주세요.
 
-Two naval forces, red vs blue, advance across the notebook page. Include panokseon ships, rowing boats, flags, arrows, and cannons. A turtle ship sits at the center of the battle. At first everything is rough and childish, like simple notebook doodles. As the battle intensifies, the drawings become more detailed, with stronger ink lines, richer ship details, ink-like smoke, wave marks, and dramatic motion.
+빨간색과 파란색의 두 해군 세력이 공책 페이지를 가로질러 전진합니다. 판옥선, 노젓는 배, 깃발, 화살, 대포를 포함하세요. 거북선이 전투의 중심에 위치합니다. 처음에는 모든 것이 단순한 공책 낙서처럼 거칠고 유치합니다. 전투가 격렬해짐에 따라 그림은 더욱 정교해지며, 강렬한 잉크 선, 풍부한 배의 디테일, 잉크 같은 연기, 파도 자국, 역동적인 움직임이 더해집니다.
 
-A commander symbolizing Admiral Yi Sun-sin appears as a heroic silhouette, not a realistic portrait. As the animation progresses, his hand-drawn presence becomes more majestic and clearly defined while still staying within the notebook illustration style.
+이순신 장군을 상징하는 지휘관이 사실적인 초상이 아닌 영웅적인 실루엣으로 등장합니다. 애니메이션이 진행됨에 따라 그의 손그림은 공책 일러스트 스타일을 유지하면서도 더욱 웅장하고 명확하게 정의됩니다.
 
-Timeline:
-0–3s: A simple doodle naval battle begins on the notebook page. Red and blue fleets move toward each other.
-3–7s: The first collision begins. Arrows fly, cannons fire, ships crash, and the drawing style starts upgrading from rough doodles into more detailed ink illustration.
-7–11s: The battle reaches its grandest form. The turtle ship dominates the center, surrounded by detailed hand-drawn ships, smoke, waves, arrows, and rhythmic impacts. The scene feels legendary and heroic.
-11–15s: After a decisive charge and impact, everything breaks apart. Ships, waves, smoke, and figures collapse back into simple doodles, broken ink lines, and scattered pencil marks. The notebook page becomes strangely quiet again.
+타임라인:
+0~3초: 공책 페이지 위에서 단순한 낙서 형태의 해전이 시작됩니다. 빨간색과 파란색 함대가 서로를 향해 이동합니다.
+3~7초: 첫 충돌이 시작됩니다. 화살이 날아다니고 대포가 발사되며 배들이 충돌합니다. 그림 스타일이 거친 낙서에서 정교한 잉크 일러스트로 업그레이드되기 시작합니다.
+7~11초: 전투가 가장 웅장한 형태로 절정에 달합니다. 거북선이 중심을 장악하고, 그 주변으로 정교하게 그려진 배들, 연기, 파도, 화살, 리듬감 있는 타격 효과가 어우러집니다. 장면은 전설적이고 영웅적인 느낌을 줍니다.
+11~15초: 결정적인 돌격과 충돌 이후 모든 것이 무너져 내립니다. 배, 파도, 연기, 인물들이 다시 단순한 낙서, 끊어진 잉크 선, 흩어진 연필 자국으로 돌아갑니다. 공책 페이지는 다시 기묘한 정적에 휩싸입니다.
 
-Motion should be smooth and fluid, with sharp rhythmic impacts. Keep a minimum 24fps feeling. Maintain readable silhouettes from the top-down view, with the turtle ship clearly visible as the central object.
+움직임은 부드럽고 유연해야 하며, 날카롭고 리듬감 있는 타격감을 주어야 합니다. 최소 24fps의 느낌을 유지하세요. 탑다운 시점에서 실루엣을 명확하게 파악할 수 있어야 하며, 거북선이 중심 객체로서 뚜렷하게 보여야 합니다.
 
-Emotional flow: playful and curious at first, then increasingly solemn and heroic, reaching a mythic climax, then ending with a quiet, strange afterglow after the collapse.
+감정 흐름: 처음에는 장난스럽고 호기심 어린 분위기에서 시작해 점차 엄숙하고 영웅적으로 변하며 신화적인 절정에 도달한 뒤, 붕괴 후에는 조용하고 묘한 여운을 남기며 마무리됩니다.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075184838739369984/img/dZrF1pQBnRfDJmse.jpg" width="600" alt="Hand-drawn Animated Naval Battle">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075184838739369984/img/dZrF1pQBnRfDJmse.jpg" width="600" alt="손으로 그린 애니메이션 해전">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=6991)**
 
 **작성자:** [Eyisha Zyer](https://x.com/eyishazyer) | **출처:** [Link](https://x.com/eyishazyer/status/2075185003772686491) | **게시일:** Jul 9, 2026
 
 ---
-### Urban Fantasy RPG Car Chase
+### 어반 판타지 RPG 자동차 추격전
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A detailed cinematic prompt for a high-quality 3D toon/cell-shaded anime game PV featuring an urban car chase with character consistency.
+> 캐릭터 일관성을 유지하며 어반 판타지 자동차 추격전을 다룬 고품질 3D 툰/셀 셰이딩 애니메이션 게임 PV용 상세 시네마틱 프롬프트.
 
 #### 📝 프롬프트
 
 ```
-A street car chase in the style of an urban fantasy action RPG for a high-rarity character introduction PV in a mobile game. Not a realistic car ad, but a high-quality 3D toon/cell-shaded anime game video. Maintain character consistency based on the source image, including face, eyes, hair, and costume. The character is always driving a compact sports car with features matching their aesthetic. The lighting, neon colors, and effects are optimized to make the character look elegant and rare. High-quality multi-layer cell shading with delicate hair reflections and gem-like eyes. The setting is a night-time urban commercial street. The sequence starts with a drift through an intersection with ground-level camera work, showing the driver's face illuminated by streetlights. Mid-section involves a fast-paced city chase with various angles (low-angle, bumper view, interior). Features mystical glowing elements like magic navigation lines or digital billboards matching the character's motif. Ends with a precise drift and a close-up of the character's face in the car, showing a calm, confident expression. No logos, watermarks, or distorted features.
+모바일 게임의 고등급 캐릭터 소개 PV를 위한 어반 판타지 액션 RPG 스타일의 도심 자동차 추격전. 실사 자동차 광고가 아닌, 고품질 3D 툰/셀 셰이딩 애니메이션 게임 영상. 얼굴, 눈, 머리카락, 의상을 포함하여 원본 이미지에 기반한 캐릭터 일관성을 유지할 것. 캐릭터는 항상 자신의 미적 특징과 어울리는 소형 스포츠카를 운전함. 조명, 네온 컬러, 효과는 캐릭터가 우아하고 희귀해 보이도록 최적화됨. 섬세한 머리카락 반사와 보석 같은 눈동자가 돋보이는 고품질 다층 셀 셰이딩. 배경은 야간 도심 상업 지구. 교차로를 드리프트하며 시작되는 지면 높이의 카메라 워킹으로 가로등 불빛을 받는 운전자의 얼굴을 보여줌. 중반부는 다양한 앵글(로우 앵글, 범퍼 뷰, 내부 뷰)을 활용한 속도감 있는 도심 추격전. 캐릭터의 모티프와 어울리는 마법 내비게이션 라인이나 디지털 광고판 같은 신비로운 발광 요소 포함. 마지막은 정교한 드리프트 후 차 안에서 차분하고 자신감 넘치는 표정을 짓는 캐릭터의 얼굴 클로즈업으로 마무리. 로고, 워터마크, 왜곡된 이목구비 없음.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075182711460028416/img/c3sz84AIC1YxJvPd.jpg" width="600" alt="Urban Fantasy RPG Car Chase">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075182711460028416/img/c3sz84AIC1YxJvPd.jpg" width="600" alt="어반 판타지 RPG 자동차 추격전">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=7009)**
 
 **작성자:** [mayv@神プロンプト公開中！](https://x.com/haruuraeadss) | **출처:** [Link](https://x.com/haruuraeadss/status/2075182767890108658) | **게시일:** Jul 9, 2026
 
 ---
-### Cinematic Anime Battle in Modern Mall
+### 현대적인 쇼핑몰에서의 영화 같은 애니메이션 전투
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic prompt featuring a young woman fighting an armored anime villain in a mall with supernatural visual effects.
+> 쇼핑몰을 배경으로 초자연적인 시각 효과와 함께 갑옷을 입은 애니메이션 악당과 싸우는 젊은 여성의 모습을 담은 고도로 상세한 영화적 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-A young East Asian woman in her mid-20s stands calmly in a crowded modern shopping mall. Without warning, a towering anime-style villain clad in dark, dramatic armor materializes, sending the mall into chaos as people scream and flee in every direction.
+20대 중반의 젊은 동양인 여성이 붐비는 현대적인 쇼핑몰에 차분하게 서 있습니다. 예고 없이 어둡고 극적인 갑옷을 입은 거대한 애니메이션 스타일의 악당이 나타나고, 사람들은 비명을 지르며 사방으로 도망치며 쇼핑몰은 순식간에 아수라장이 됩니다.
 
-Remaining completely fearless, the woman steps forward, draws a sleek blade from her side, and locks eyes with the threat. Her gaze sharpens with a subtle supernatural glow as she moves with flawless precision and incredible speed. She delivers a series of powerful, calculated strikes while simultaneously guiding terrified civilians to safety, maintaining complete control throughout the battle.
+전혀 두려움 없이 여성은 앞으로 나아가 옆구리에서 매끄러운 칼을 꺼내 들고 위협적인 존재와 눈을 맞춥니다. 그녀의 시선은 미묘한 초자연적 빛을 띠며 날카로워지고, 완벽한 정밀함과 놀라운 속도로 움직입니다. 그녀는 강력하고 계산된 일련의 공격을 가하는 동시에 겁에 질린 시민들을 안전한 곳으로 대피시키며 전투 내내 완벽한 통제력을 유지합니다.
 
-In the climactic final confrontation, she defeats the villain, leaving the armored figure collapsed on the ground. Silence falls over the mall as the civilians stare at her in awe. Moments later, the defeated villain slowly dissolves into shadow and disappears without a trace. Her blade fades from her hand, the mall lights return to their normal warm brightness, and the environment becomes peaceful once again.
+절정의 마지막 대결에서 그녀는 악당을 물리치고, 갑옷을 입은 형체는 바닥에 쓰러집니다. 시민들이 경외심에 찬 눈빛으로 그녀를 바라보자 쇼핑몰에는 정적이 흐릅니다. 잠시 후, 패배한 악당은 서서히 그림자로 변해 흔적도 없이 사라집니다. 그녀의 손에서 칼이 사라지고 쇼핑몰 조명은 다시 평소의 따뜻한 밝기로 돌아오며 환경은 다시 평화로워집니다.
 
-As if nothing extraordinary had happened, shoppers quietly resume their daily routines. The woman calmly adjusts the strap of her bag, turns away, and continues walking alone through the mall.
+마치 아무 일도 없었다는 듯이 쇼핑객들은 조용히 일상으로 돌아갑니다. 여성은 차분하게 가방 끈을 고쳐 매고 몸을 돌려 쇼핑몰을 가로질러 혼자 걸어갑니다.
 
-Style: Dramatic cinematic lighting, slow-motion impact shots, dynamic handheld camera movement, high-contrast cinematic color grading that gradually transitions back to warm, natural shopping mall lighting.
+스타일: 극적인 영화적 조명, 슬로우 모션 임팩트 샷, 역동적인 핸드헬드 카메라 무빙, 따뜻하고 자연스러운 쇼핑몰 조명으로 점차 전환되는 고대비 영화적 색감 보정.
 
-Aspect Ratio: 16:9
+화면 비율: 16:9
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075180297415720961/img/F5AwAn7Fb_WCQptM.jpg" width="600" alt="Cinematic Anime Battle in Modern Mall">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075180297415720961/img/F5AwAn7Fb_WCQptM.jpg" width="600" alt="현대적인 쇼핑몰에서의 영화 같은 애니메이션 전투">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=6992)**
 
 **작성자:** [simeon-sanai](https://x.com/Naiknelofar788) | **출처:** [Link](https://x.com/Naiknelofar788/status/2075180397470916759) | **게시일:** Jul 9, 2026
 
 ---
-### Cinematic Mountain Trekking Identity Lock
+### 영화 같은 산악 트레킹 캐릭터 고정
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-consistency cinematic prompt for Seedance 2.0 featuring an East Asian woman trekking through various mountain landscapes with multiple camera angles and seamless character continuity.
+> Seedance 2.0을 위한 고일관성 영화적 프롬프트로, 다양한 산악 풍경을 배경으로 여러 카메라 앵글과 끊김 없는 캐릭터 연속성을 유지하며 트레킹하는 동아시아 여성의 모습을 담았습니다.
 
 #### 📝 프롬프트
 
 ```
-Create a 15-second cinematic video.
+15초 분량의 영화 같은 영상을 제작하세요.
 
-Display the uploaded reference collage for only 0.01 seconds (a single flash frame). Immediately cut to the first cinematic scene. Never show the collage again. Do not create a slideshow, storyboard, split screen, or montage.
+업로드된 참조 콜라주를 0.01초(단일 플래시 프레임) 동안만 표시하세요. 즉시 첫 번째 영화적 장면으로 전환하세요. 콜라주는 다시 보여주지 마세요. 슬라이드쇼, 스토리보드, 화면 분할 또는 몽타주 형식으로 만들지 마세요.
 
-Use the uploaded images only as visual references. Keep the same young East Asian woman identical throughout the entire video. Her face, hairstyle, clothing, and body must remain consistent.
+업로드된 이미지는 시각적 참조용으로만 사용하세요. 영상 전체에서 동일한 젊은 동아시아 여성이 유지되어야 합니다. 얼굴, 헤어스타일, 의상, 신체는 일관성을 유지해야 합니다.
 
-Every transition must cut to a completely new camera angle. Every new scene must have a different framing, perspective, and composition while naturally continuing the story. Use a mix of wide shots, medium shots, close-ups, side views, rear views, low-angle shots, and aerial views. Never repeat the same angle or keep one shot for too long.
+모든 전환은 완전히 새로운 카메라 앵글로 컷 편집되어야 합니다. 모든 새로운 장면은 서로 다른 프레임, 시점, 구도를 가져야 하며, 이야기는 자연스럽게 이어져야 합니다. 와이드 샷, 미디엄 샷, 클로즈업, 측면 뷰, 후면 뷰, 로우 앵글 샷, 항공 뷰를 혼합하여 사용하세요. 동일한 앵글을 반복하거나 한 샷을 너무 오래 유지하지 마세요.
 
-Scene 1:
-A mountain bus stops at a quiet trailhead. The young East Asian woman slowly gets off the bus with a backpack and begins walking up a mountain trail.
+장면 1:
+산악 버스가 조용한 등산로 입구에 멈춥니다. 젊은 동아시아 여성이 배낭을 메고 천천히 버스에서 내려 산길을 걷기 시작합니다.
 
-Scene 2:
-Rear tracking shot. She slowly walks along a peaceful forest path beneath tall pine trees.
+장면 2:
+후면 트래킹 샷. 그녀가 키 큰 소나무 아래 평화로운 숲길을 따라 천천히 걷습니다.
 
-Scene 3:
-Side view. She continues walking beside a crystal-clear mountain stream surrounded by rocks and wildflowers.
+장면 3:
+측면 뷰. 그녀가 바위와 야생화로 둘러싸인 맑은 산악 계곡 옆을 따라 계속 걷습니다.
 
-Scene 4:
-Wide aerial view. She follows a narrow trail overlooking green valleys and distant mountain peaks.
+장면 4:
+와이드 항공 뷰. 그녀가 푸른 계곡과 멀리 보이는 산봉우리가 내려다보이는 좁은 오솔길을 따라갑니다.
 
-Scene 5:
-Low-angle shot. She slowly walks through an alpine meadow with breathtaking scenery.
+장면 5:
+로우 앵글 샷. 그녀가 숨 막힐 듯 아름다운 풍경이 펼쳐진 고산 지대 초원을 천천히 걷습니다.
 
-Scene 6:
-Close-up. She smiles softly while looking at the mountains as the wind gently moves her hair.
+장면 6:
+클로즈업. 바람에 머리카락이 부드럽게 날리는 가운데, 그녀가 산을 바라보며 은은한 미소를 짓습니다.
 
-Scene 7:
-Wide cinematic shot. She reaches the summit and quietly admires the endless mountain landscape during golden hour.
+장면 7:
+와이드 시네마틱 샷. 그녀가 정상에 도착하여 골든 아워의 끝없이 펼쳐진 산악 풍경을 조용히 감상합니다.
 
-Photorealistic, cinematic, peaceful trekking, realistic slow walking, natural emotions, warm golden light, muted natural colors, subtle film grain.
+사실적인 사진, 영화 같은 느낌, 평화로운 트레킹, 사실적인 느린 걸음걸이, 자연스러운 감정, 따뜻한 황금빛 조명, 차분한 자연색, 미세한 필름 그레인.
 
-Audio: no dialogue, no voice-over, no music. Only realistic nature sounds: birds, wind, leaves, flowing water, footsteps, and mountain ambience.
+오디오: 대사 없음, 내레이션 없음, 음악 없음. 새소리, 바람 소리, 나뭇잎 소리, 물 흐르는 소리, 발자국 소리, 산의 환경음 등 사실적인 자연의 소리만 포함하세요.
 
-Negative prompt: no running, no climbing, no ropes, no face changes, no clothing changes, no extra people, no bad hands, no city, no helmets, no text, no subtitles, no logos, no watermark, no anime, no CGI.
+부정 프롬프트: 달리기 금지, 등반 금지, 로프 금지, 얼굴 변화 금지, 의상 변화 금지, 추가 인물 금지, 어색한 손 모양 금지, 도시 금지, 헬멧 금지, 텍스트 금지, 자막 금지, 로고 금지, 워터마크 금지, 애니메이션 금지, CGI 금지.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075173197431844865/img/2iZcKaNk2nEbxvNw.jpg" width="600" alt="Cinematic Mountain Trekking Identity Lock">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075173197431844865/img/2iZcKaNk2nEbxvNw.jpg" width="600" alt="영화 같은 산악 트레킹 캐릭터 고정">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=7000)**
 
 **작성자:** [paydird](https://x.com/paydird) | **출처:** [Link](https://x.com/paydird/status/2075173279216574632) | **게시일:** Jul 9, 2026
 
 ---
-### Volcanic Motocross Lava Jump
+### 화산 모토크로스 용암 점프
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-action cinematic video prompt for a motocross rider jumping over a lava river at night with 4K lighting and smoke effects.
+> 밤에 용암 강을 뛰어넘는 모토크로스 라이더를 담은 고액션 시네마틱 비디오 프롬프트로, 4K 조명과 연기 효과가 포함되어 있습니다.
 
 #### 📝 프롬프트
 
 ```
-A motocross rider in flame-resistant gear races a dirt bike across a volcanic lava field at night.
+방염 장비를 착용한 모토크로스 라이더가 밤에 화산 용암 지대를 가로질러 더트 바이크를 타고 질주합니다.
 
-Molten lava erupts through cracks in the ground.
+땅의 균열 사이로 녹은 용암이 분출됩니다.
 
-At the 2-second mark he launches the bike off a collapsing rock ridge over a flowing lava river.
+2초 지점에서 라이더는 무너지는 바위 능선에서 흐르는 용암 강 위로 바이크를 타고 뛰어오릅니다.
 
-Camera from the side captures the bike silhouetted against glowing magma.
+측면에서 촬영된 카메라는 빛나는 마그마를 배경으로 한 바이크의 실루엣을 포착합니다.
 
-The rider lands on the far ridge and speeds away through volcanic smoke.
+라이더는 건너편 능선에 착지하여 화산 연기 속으로 빠르게 사라집니다.
 
-Volcanic dirt bike stunt, lava river jump, cinematic fire glow lighting, 4K.
+화산 더트 바이크 스턴트, 용암 강 점프, 시네마틱 불빛 조명, 4K.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2075173151797837824/pu/img/A-AXoSWclajhWysE.jpg" width="600" alt="Volcanic Motocross Lava Jump">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2075173151797837824/pu/img/A-AXoSWclajhWysE.jpg" width="600" alt="화산 모토크로스 용암 점프">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=6984)**
 
 **작성자:** [LudovicCreator](https://x.com/LudovicCreator) | **출처:** [Link](https://x.com/LudovicCreator/status/2075173175738982659) | **게시일:** Jul 9, 2026
 
 ---
-### 3D Animated Football Story
+### 3D 애니메이션 축구 이야기
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An energetic 3D animation prompt for Seedance 2.0 featuring a young blonde football player with glowing golden energy effects in a futuristic stadium.
+> 미래지향적인 경기장에서 빛나는 황금빛 에너지 효과를 내뿜는 금발의 어린 축구 선수를 주인공으로 한 Seedance 2.0용 역동적인 3D 애니메이션 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-A cinematic 3D animated football story. A massive futuristic stadium under dazzling blue floodlights. A young blonde Norwegian football prodigy in a white jersey with blue-red trim walks through the tunnel, head lowered, focused and determined. Close-up on his face as his eyes slowly ignite with glowing golden energy. The match begins. He dribbles effortlessly past multiple defenders with lightning-fast footwork. Every sprint leaves behind blazing golden energy trails. He performs impossible skills, accelerates at superhuman speed, and fires unstoppable long-range shots into the net. The crowd erupts as fireworks explode across the stadium. Final shot: the young Norwegian star roars in celebration with glowing golden eyes, surrounded by confetti and fireworks. Ultra-detailed Pixar-quality 3D animation, cinematic lighting, dynamic camera movement, dramatic slow motion, volumetric lighting, realistic grass physics, high-energy sports action, 4K, 9 :16 vertical.
+영화 같은 3D 애니메이션 축구 이야기. 눈부신 파란색 투광 조명이 비추는 거대한 미래형 경기장. 흰색 유니폼에 파란색과 빨간색 테두리가 들어간 옷을 입은 금발의 노르웨이 축구 신동이 고개를 숙인 채 집중하고 결의에 찬 표정으로 터널을 걸어 나옵니다. 그의 얼굴을 클로즈업하자 눈에서 서서히 빛나는 황금빛 에너지가 뿜어져 나옵니다. 경기가 시작됩니다. 그는 번개처럼 빠른 발놀림으로 여러 수비수를 손쉽게 제칩니다. 질주할 때마다 타오르는 황금빛 에너지 궤적이 남습니다. 그는 불가능에 가까운 기술을 선보이고, 초인적인 속도로 가속하며, 막을 수 없는 중거리 슛을 골망에 꽂아 넣습니다. 경기장 곳곳에서 불꽃놀이가 터지며 관중들이 열광합니다. 마지막 장면: 황금빛으로 빛나는 눈을 한 노르웨이의 어린 스타가 꽃가루와 불꽃놀이에 둘러싸여 포효하며 승리를 자축합니다. 초정밀 픽사(Pixar)급 3D 애니메이션, 영화 같은 조명, 역동적인 카메라 움직임, 드라마틱한 슬로우 모션, 볼류메트릭 라이팅, 사실적인 잔디 물리 효과, 고에너지 스포츠 액션, 4K, 9:16 세로 화면.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2075167877079138304/pu/img/sdkSJwPdZxzrKqGX.jpg" width="600" alt="3D Animated Football Story">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2075167877079138304/pu/img/sdkSJwPdZxzrKqGX.jpg" width="600" alt="3D 애니메이션 축구 이야기">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=7002)**
 
 **작성자:** [Rosey Watson](https://x.com/Rosey_watson) | **출처:** [Link](https://x.com/Rosey_watson/status/2075168005710118978) | **게시일:** Jul 9, 2026
 
 ---
-### Martial Arts Parking Garage Fight
+### 주차장에서 벌어지는 무술 액션
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic action video prompt for Seedance 2.0 featuring a young woman fighting multiple opponents in an underground parking garage with realistic choreography.
+> Seedance 2.0을 위한 영화 같은 액션 비디오 프롬프트로, 지하 주차장에서 여러 명의 상대와 싸우는 젊은 여성의 실감 나는 안무를 담고 있습니다.
 
 #### 📝 프롬프트
 
 ```
-A young woman with a high ponytail, wearing a fitted white tank top, beige jacket, dark fitted pants, and sneakers, fights 5–6 men in a brightly lit underground parking garage with parked cars. Realistic martial arts, cinematic action, dynamic camera, Hollywood choreography, ultra-realistic, 4K, no blood, no gore.
+높게 묶은 포니테일 머리에 몸에 딱 맞는 흰색 탱크톱, 베이지색 재킷, 어두운색 바지와 운동화를 착용한 젊은 여성이 밝은 지하 주차장에서 주차된 차들 사이로 5~6명의 남성과 싸운다. 사실적인 무술, 영화 같은 액션, 역동적인 카메라 워킹, 할리우드 스타일의 안무, 초현실적, 4K, 유혈 및 잔혹함 없음.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2075165073665060864/pu/img/V6H_A5wuPtybTvLY.jpg" width="600" alt="Martial Arts Parking Garage Fight">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2075165073665060864/pu/img/V6H_A5wuPtybTvLY.jpg" width="600" alt="주차장에서 벌어지는 무술 액션">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=7005)**
 
 **작성자:** [NoorAI](https://x.com/noorwithwifi) | **출처:** [Link](https://x.com/noorwithwifi/status/2075165163079315709) | **게시일:** Jul 9, 2026
 
 ---
-### 2003 Found Footage MiniDV Tape
+### 2003 년 파운드 푸티지 MiniDV 테이프
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed found-footage style prompt for Seedance 2.0 simulating a nostalgic early 2000s MiniDV home video recording of a suburban morning.
+> 2000 년대 초반의 향수를 불러일으키는 MiniDV 홈 비디오 감성을 재현한 Seedance 2.0 용 파운드 푸티지 스타일의 상세 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Main subject: Fictional "Found MiniDV Tape #001" documenting an ordinary summer morning in 2003. A man in his early 30s with a natural, approachable appearance, short black hair, clean-shaven face, average build, wearing a faded navy-blue T-shirt, light beige cargo shorts, worn white sneakers, and a simple black digital wristwatch. He behaves naturally throughout, never posing for the camera. Maintain consistent identity, clothing, hairstyle, and appearance for the entire video. Location: Quiet suburban residential neighborhood during a warm summer morning in 2003. Narrow residential streets, detached homes with small front gardens, parked early-2000s sedans, bicycles leaning against fences, utility poles, overhead wires, mature trees, cracked sidewalks, chain-link fences, laundry drying outdoors, children occasionally playing in the distance, authentic early-2000s atmosphere. No modern vehicles, smartphones, LED signs, electric scooters, solar panels, or contemporary architecture. Visual Style: Ultra-realistic documentary realism. Authentic forgotten family home video. Completely unscripted slice-of-life feeling. Genuine human behavior. Rich environmental details. Imperfect everyday moments. Absolutely no cinematic styling, no influencer aesthetic, no commercial look. Camera Style: Authentic early-2000s Sony Handycam DCR-TRV Digital8 consumer camcorder footage. Friend or family member casually recording. Heavy handheld shake, imperfect framing, autofocus hunting, lens breathing, automatic exposure pumping between sunlight and shade, occasional motion blur, interlaced SD video look, CCD sensor rendering, soft contrast, faded colors, slight chroma noise, mild DV compression artifacts, subtle rolling shutter, occasional dropped-frame feel. No stabilization. No cinematic camera moves. No HDR. No modern color grading. 00:00–00:02 Recording starts abruptly as if REC has just been pressed. The camera points toward the ground before tilting up. The man steps out of his front door carrying a ceramic coffee mug, stretches naturally, smiles briefly toward the camera, then looks away. 00:02–00:04 The camera follows him along the sidewalk. Handheld movement is uneven. Autofocus briefly locks onto a nearby fence before returning to him. A light breeze moves tree leaves overhead. 00:04–00:06 He stops beside his old bicycle, checks the tires, wipes dust from the seat with his hand, and quietly laughs after noticing something amusing off-camera. The operator reacts slightly late. 00:06–00:08 Walking slowly through the neighborhood, he casually greets an elderly neighbor with a relaxed wave. The camera drifts off-center while trying to keep him in frame. Distant birds and neighborhood ambience continue naturally. 00:08–00:10 He pauses beneath a large tree, takes a sip from the mug, watches children riding bicycles in the distance, then smiles softly without acknowledging the camera. 00:10–00:12 Close side profile.
+주요 피사체: 2003 년 어느 평범한 여름 아침을 기록한 가상의 "Found MiniDV Tape #001". 30 대 초반의 남성으로, 자연스럽고 친근한 인상, 짧은 검은 머리, 깔끔하게 면도한 얼굴, 보통 체격. 빛바랜 네이비 블루 티셔츠, 밝은 베이지색 카고 반바지, 낡은 흰색 운동화, 심플한 검은색 디지털 손목시계를 착용함. 카메라를 의식하지 않고 시종일관 자연스럽게 행동함. 영상 전체에서 인물의 정체성, 의상, 헤어스타일, 외형을 일관되게 유지할 것. 장소: 2003 년 따뜻한 여름 아침의 조용한 교외 주택가. 좁은 주택가 도로, 작은 앞마당이 있는 단독 주택, 2000 년대 초반의 세단, 울타리에 기대어 세워진 자전거, 전신주, 머리 위로 지나가는 전선, 우거진 나무, 갈라진 보도블록, 철조망 울타리, 야외에 널린 빨래, 멀리서 노는 아이들 등 2000 년대 초반의 분위기를 그대로 재현할 것. 현대적인 차량, 스마트폰, LED 간판, 전동 킥보드, 태양광 패널, 현대식 건축물은 일절 배제할 것. 시각적 스타일: 초현실적인 다큐멘터리 리얼리즘. 잊혀진 가족의 홈 비디오 느낌. 각본 없는 일상적인 분위기. 인간적인 행동. 풍부한 환경적 디테일. 불완전한 일상의 순간들. 영화 같은 연출, 인플루언서 감성, 상업적인 느낌은 절대 금지. 카메라 스타일: 2000 년대 초반 Sony Handycam DCR-TRV Digital8 캠코더 영상. 친구나 가족이 일상적으로 촬영한 듯한 느낌. 심한 핸드헬드 흔들림, 불완전한 프레이밍, 오토포커스 탐색, 렌즈 브리딩, 햇빛과 그늘 사이의 자동 노출 변화, 간헐적인 모션 블러, 인터레이스 SD 비디오 느낌, CCD 센서 렌더링, 부드러운 대비, 빛바랜 색감, 약간의 크로마 노이즈, 미세한 DV 압축 아티팩트, 미세한 롤링 셔터, 간헐적인 프레임 드롭 느낌. 보정 없음. 영화 같은 카메라 무빙 없음. HDR 없음. 현대적인 색 보정 없음. 00:00–00:02 REC 버튼을 누른 직후처럼 갑작스럽게 녹화 시작. 카메라가 바닥을 비추다가 위로 틸트됨. 남성이 세라믹 커피 머그잔을 들고 현관문을 나서며 자연스럽게 기지개를 켜고, 카메라를 향해 살짝 미소 지은 뒤 시선을 돌림. 00:02–00:04 카메라가 보도를 따라 그를 따라감. 핸드헬드 움직임은 불규칙함. 오토포커스가 근처 울타리에 잠시 잡혔다가 다시 그에게 돌아옴. 머리 위 나뭇잎이 산들바람에 흔들림. 00:04–00:06 그가 낡은 자전거 옆에 멈춰 서서 타이어를 확인하고, 손으로 안장의 먼지를 털어낸 뒤 카메라 밖의 무언가를 보고 조용히 웃음. 촬영자는 뒤늦게 반응함. 00:06–00:08 동네를 천천히 걸으며 편안한 손짓으로 이웃 노인에게 인사함. 카메라가 그를 프레임 안에 담으려다 중심에서 살짝 벗어남. 멀리서 들리는 새소리와 동네의 일상적인 소음이 자연스럽게 이어짐. 00:08–00:10 큰 나무 아래에서 잠시 멈춰 서서 머그잔의 커피를 한 모금 마시고, 멀리서 자전거를 타는 아이들을 바라보며 카메라를 의식하지 않은 채 부드럽게 미소 지음. 00:10–00:12 측면 클로즈업.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075151190774722560/img/5rQMcjuhls1dlVIL.jpg" width="600" alt="2003 Found Footage MiniDV Tape">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075151190774722560/img/5rQMcjuhls1dlVIL.jpg" width="600" alt="2003 년 파운드 푸티지 MiniDV 테이프">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=7006)**
 
 **작성자:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | **출처:** [Link](https://x.com/Diplomeme/status/2075151281472365045) | **게시일:** Jul 9, 2026
 
 ---
-### Bite Burger Reaction Montage
+### Bite Burger 리액션 몽타주
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fast-paced commercial montage showing realistic reactions to tasting a burger, ideal for marketing and ad testing.
+> 버거를 맛보는 사람들의 생생한 반응을 담은 빠른 템포의 광고용 몽타주로, 마케팅 및 광고 테스트에 최적화되어 있습니다.
 
 #### 📝 프롬프트
 
 ```
-Fast-cut montage of "real people" reacting to first bite (can be AI-generated actors/voiceover for ad testing), ending with QR code + CTA card.
+첫 입을 먹고 반응하는 "실제 사람들"의 빠른 컷 몽타주(광고 테스트를 위해 AI 생성 배우/보이스오버 활용 가능), 마지막은 QR 코드 및 CTA 카드로 구성.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075124042525278208/img/VZ2Yedv0LNKZTV9B.jpg" width="600" alt="Bite Burger Reaction Montage">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075124042525278208/img/VZ2Yedv0LNKZTV9B.jpg" width="600" alt="Bite Burger 리액션 몽타주">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=6996)**
 
 **작성자:** [Abkr Sadiq](https://x.com/abs_uiux) | **출처:** [Link](https://x.com/abs_uiux/status/2075124281734734068) | **게시일:** Jul 9, 2026
 
 ---
-### Korean Lifestyle Vlog Selfie Mode
+### 한국 라이프스타일 브이로그 셀피 모드
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A realistic lifestyle vlog prompt for Seedance 2.0 featuring a Korean creator filming a 'day in the life' video in Seoul with authentic handheld perspective and dialogue.
+> Seedance 2.0을 위한 현실적인 라이프스타일 브이로그 프롬프트로, 서울에서 '일상 브이로그'를 촬영하는 한국인 크리에이터의 생생한 핸드헬드 시점과 대화를 담고 있습니다.
 
 #### 📝 프롬프트
 
 ```
-A cheerful Korean girl with a high ponytail, wearing a fitted white crop T-shirt and blue jeans, records a casual lifestyle vlog in English using her smartphone in selfie mode. She starts at home, tying her ponytail, doing light natural makeup, checking her outfit in the mirror, grabbing her bag and saying, "Good morning, everyone! Come spend the day with me!" She leaves her apartment and walks through lively Seoul streets, smiling at the camera while chatting naturally: "The weather is amazing today, so I thought I'd take you guys with me."
+높게 묶은 포니테일 머리에 몸에 딱 맞는 흰색 크롭 티셔츠와 청바지를 입은 밝은 분위기의 한국인 여성이 스마트폰 셀피 모드를 이용해 영어로 일상 브이로그를 촬영합니다. 그녀는 집에서 포니테일을 묶고, 가벼운 내추럴 메이크업을 한 뒤 거울로 옷차림을 확인하고 가방을 챙기며 "여러분, 좋은 아침이에요! 오늘 하루 저와 함께 보내요!"라고 말하며 시작합니다. 아파트를 나서 활기찬 서울 거리를 걸으며 카메라를 향해 웃으며 자연스럽게 대화를 이어갑니다. "오늘 날씨가 정말 좋아서 여러분과 함께 다니려고 해요."
 
-As she continues walking, she points out cafés, shops, and interesting streets while speaking fluent English in a relaxed, conversational tone. She laughs, jokes with the audience, and occasionally waves at the camera. After a few minutes, she notices several people curiously watching her film. She becomes slightly embarrassed, laughs naturally, covers her mouth for a second, and says, "Okay... I think everyone is wondering who I'm talking to!" She giggles, shrugs, then confidently continues the vlog: "It's a little awkward, but that's part of being a vlogger, right? Let's keep going!"
+계속 걸어가면서 그녀는 카페, 상점, 흥미로운 거리들을 가리키며 편안하고 대화하듯 유창한 영어로 말합니다. 그녀는 웃고, 시청자들에게 농담을 건네며, 가끔 카메라를 향해 손을 흔듭니다. 몇 분 후, 그녀는 몇몇 사람들이 신기한 듯 자신을 쳐다보는 것을 알아챕니다. 그녀는 살짝 당황하며 자연스럽게 웃음을 터뜨리고 잠시 입을 가린 채 말합니다. "아... 다들 제가 누구랑 얘기하는지 궁금해하는 것 같아요!" 그녀는 킥킥거리며 어깨를 으쓱하더니 자신감 있게 브이로그를 이어갑니다. "조금 민망하지만, 브이로거라면 이런 것도 감수해야겠죠? 계속 가볼까요!"
 
-Natural handheld smartphone footage, realistic selfie perspective, authentic English lip sync, spontaneous expressions, subtle camera shake, slight motion blur, real city ambience, everyday lifestyle creator aesthetic, realistic skin texture, neutral iPhone color science, documentary-style realism, social media vlog quality, 9:1 6 vertical format.
+자연스러운 핸드헬드 스마트폰 영상, 현실적인 셀피 시점, 실제와 같은 영어 립싱크, 즉흥적인 표정, 미세한 카메라 흔들림, 약간의 모션 블러, 실제 도시의 현장감, 일상적인 크리에이터 감성, 사실적인 피부 질감, 중립적인 아이폰 색감, 다큐멘터리 스타일의 리얼리즘, 소셜 미디어 브이로그 퀄리티, 9:16 세로 비율.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2075072162936037377/pu/img/QA9_5-Sg0LytQ5QP.jpg" width="600" alt="Korean Lifestyle Vlog Selfie Mode">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2075072162936037377/pu/img/QA9_5-Sg0LytQ5QP.jpg" width="600" alt="한국 라이프스타일 브이로그 셀피 모드">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=7004)**
 
 **작성자:** [Smiling Khan](https://x.com/AIwithkhan) | **출처:** [Link](https://x.com/AIwithkhan/status/2075072204535222400) | **게시일:** Jul 9, 2026
 
 ---
-### GTA VI Vice City Car Wash Mission
+### GTA VI 바이스 시티 세차 미션
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed 30-second GTA VI gameplay cinematic featuring a character at a car wash with realistic water physics and AAA graphics.
+> 사실적인 물 물리 효과와 AAA급 그래픽을 갖춘 세차장에서의 캐릭터를 담은 30초 분량의 GTA VI 게임플레이 시네마틱 영상입니다.
 
 #### 📝 프롬프트
 
 ```
-GTA VI Style: Car Wash Mission
+GTA VI 스타일: 세차 미션
 
-Create a 30-second cinematic GTA VI-style gameplay video set in neon-lit Vice City during golden hour. The protagonist is a beautiful young woman with long brunette hair tied in a ponytail, wearing a white fitted crop top, white denim shorts, white sneakers, and sunglasses on her head. She remains perfectly consistent throughout the video. The hero car is a glossy purple sports coupe parked at a premium self-service car wash. Ultra-realistic AAA game graphics, ray tracing, cinematic lighting, wet pavement reflections, realistic water physics, detailed NPCs, GTA-style HUD, 4K, 60 FPS.
-Scene 1: The girl walks confidently into the self-service car wash carrying a pressure washer nozzle while the purple sports car waits under bright neon lights.
-Scene 2: She connects the water hose, selects the wash mode on the control panel, and picks up the pressure washer as water pressure builds.
-Scene 3: She starts spraying the front of the car with a powerful water jet. Dirt washes away while sunlight creates sparkling droplets and rainbow mist.
-Scene 4: Slow-motion cinematic shots of the high-pressure water hitting the hood, windshield, wheels, and side panels with realistic splash physics.
-Scene 5: She covers the car in thick white foam using a foam cannon. Rich soap bubbles slide down the glossy paint while reflections dance across the bodywork.
-Scene 6: She scrubs the car with a large soft sponge, carefully cleaning every panel, smiling as the camera circles around her and the vehicle.
-Scene 7: She rinses away the foam using the water jet. Crystal-clear water streams off the paint, revealing a mirror-like finish.
-Scene 8: She dries the car with a microfiber towel and gives the hood a final polish. The sports car gleams under the neon lights.
-Scene 9: She steps back to admire the freshly cleaned car, smiles confidently, gets into the driver's seat, starts the engine, and slowly drives out of the car wash as the camera rises into a cinematic aerial shot overlooking the glowing streets of Vice City.
-Style: GTA VI gameplay realism, cinematic third-person camera, realistic facial animation, dynamic water simulation, ultra-detailed reflections, smooth character movement, immersive ambient city sounds, premium AAA game trailer quality, no text, no watermarks, no logos.
+골든 아워의 네온 불빛이 가득한 바이스 시티를 배경으로 한 30초 분량의 GTA VI 스타일 게임플레이 시네마틱 영상을 제작하세요. 주인공은 긴 갈색 머리를 포니테일로 묶고, 흰색 크롭탑과 흰색 데님 반바지, 흰색 운동화를 착용했으며 머리 위에 선글라스를 얹은 아름다운 젊은 여성입니다. 그녀는 영상 내내 일관된 외형을 유지합니다. 주인공의 차량은 고급 셀프 세차장에 주차된 광택이 나는 보라색 스포츠 쿠페입니다. 초현실적인 AAA급 게임 그래픽, 레이 트레이싱, 시네마틱 조명, 젖은 노면의 반사, 사실적인 물 물리 효과, 디테일한 NPC, GTA 스타일 HUD, 4K, 60 FPS.
+장면 1: 밝은 네온 조명 아래 보라색 스포츠카가 대기 중인 셀프 세차장으로 주인공이 고압 세척기 노즐을 들고 자신감 있게 걸어 들어옵니다.
+장면 2: 그녀가 물 호스를 연결하고 제어판에서 세차 모드를 선택한 뒤, 수압이 차오르는 고압 세척기를 집어 듭니다.
+장면 3: 그녀가 강력한 물줄기로 차 앞부분을 분사하기 시작합니다. 먼지가 씻겨 내려가고 햇빛이 반짝이는 물방울과 무지개 빛 안개를 만들어냅니다.
+장면 4: 고압의 물이 보닛, 앞 유리, 바퀴, 측면 패널에 부딪히는 모습을 사실적인 물보라 물리 효과와 함께 슬로우 모션으로 보여줍니다.
+장면 5: 그녀가 폼 캐논을 사용하여 차 전체를 두꺼운 흰색 거품으로 덮습니다. 풍성한 비눗방울이 광택이 나는 도장면을 타고 흘러내리며 차체에 반사된 빛이 일렁입니다.
+장면 6: 그녀가 커다란 부드러운 스펀지로 차를 닦으며 모든 패널을 꼼꼼히 세척합니다. 카메라가 그녀와 차량 주위를 회전할 때 그녀는 미소를 짓습니다.
+장면 7: 그녀가 물줄기를 이용해 거품을 헹궈냅니다. 수정처럼 맑은 물이 도장면을 타고 흘러내리며 거울 같은 광택이 드러납니다.
+장면 8: 그녀가 극세사 타월로 차를 닦고 보닛을 마지막으로 광택을 냅니다. 스포츠카가 네온 불빛 아래에서 빛납니다.
+장면 9: 그녀가 뒤로 물러나 깨끗해진 차를 감상하며 자신감 있게 미소 짓습니다. 운전석에 올라타 시동을 걸고 천천히 세차장을 빠져나갑니다. 카메라는 바이스 시티의 빛나는 거리를 내려다보는 시네마틱 항공 샷으로 상승합니다.
+스타일: GTA VI 게임플레이 리얼리즘, 시네마틱 3인칭 카메라, 사실적인 얼굴 애니메이션, 역동적인 물 시뮬레이션, 초정밀 반사 효과, 부드러운 캐릭터 움직임, 몰입감 넘치는 도시 주변 소음, 프리미엄 AAA급 게임 트레일러 품질, 텍스트 없음, 워터마크 없음, 로고 없음.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075069986553659392/img/TLdZECDk-9436ksZ.jpg" width="600" alt="GTA VI Vice City Car Wash Mission">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075069986553659392/img/TLdZECDk-9436ksZ.jpg" width="600" alt="GTA VI 바이스 시티 세차 미션">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=6997)**
 
 **작성자:** [Synthia](https://x.com/AIwithSynthia) | **출처:** [Link](https://x.com/AIwithSynthia/status/2075070057663877345) | **게시일:** Jul 9, 2026
 
 ---
-### Emo Punk Hospital Music Video
+### 이모 펑크 병원 뮤직비디오
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal and emotionally charged music video sequence inspired by emo punk aesthetics, featuring a hospital setting and chaotic lighting.
+> 이모 펑크 미학에서 영감을 받은 초현실적이고 감정적인 뮤직비디오 시퀀스로, 병원 배경과 혼란스러운 조명이 특징입니다.
 
 #### 📝 프롬프트
 
 ```
-Ultra cinematic chaotic hospital music video inspired by emo punk aesthetics. A beautiful curvy young woman with long black hair and soft curtain bangs sits inside a strange futuristic hospital room. She wears an oversized white patient shirt, messy stylish hair, glossy smudged makeup, pearl earrings, and small bandaids on her face and knees.
+이모 펑크 미학에서 영감을 받은 초현실적이고 혼란스러운 병원 뮤직비디오. 긴 흑발에 부드러운 커튼 뱅 헤어스타일을 한 아름다운 곡선미의 젊은 여성이 기묘한 미래형 병실에 앉아 있습니다. 그녀는 오버사이즈 화이트 환자복을 입고 있으며, 헝클어진 스타일리시한 머리, 번진 듯한 광택 있는 메이크업, 진주 귀걸이, 그리고 얼굴과 무릎에 작은 밴드를 붙이고 있습니다.
 
-The atmosphere feels emotionally unstable, surreal, and darkly comedic. Doctors and nurses move strangely in the background while fluorescent hospital lights flicker dramatically. She looks emotionally exhausted, numb, and mentally overwhelmed while trying to stay calm.
+분위기는 감정적으로 불안정하고 초현실적이며 블랙 코미디적인 느낌을 줍니다. 배경에서는 의사와 간호사들이 기이하게 움직이고, 형광등 조명은 극적으로 깜빡입니다. 그녀는 감정적으로 지치고 무감각하며 정신적으로 압도된 상태지만 침착함을 유지하려 애씁니다.
 
-Scenes:
-- sitting alone on hospital bed staring blankly
-- walking through long hospital corridor in slow motion
-- chaotic nurses rushing past camera
-- fisheye lens close-up with distorted perspective
-- lying on floor laughing and crying
-- pills scattered on table
-- dramatic flashing lights
-- emotional eye close-up
-- CCTV style security camera shots
-- dancing alone in hospital hallway
+장면:
+- 병원 침대에 홀로 앉아 멍하니 응시하는 모습
+- 슬로 모션으로 긴 병원 복도를 걷는 모습
+- 카메라 앞을 급하게 지나가는 혼란스러운 간호사들
+- 왜곡된 원근감의 어안 렌즈 클로즈업
+- 바닥에 누워 웃고 우는 모습
+- 테이블 위에 흩어진 알약들
+- 극적인 번쩍이는 조명
+- 감정적인 눈 클로즈업
+- CCTV 스타일의 보안 카메라 샷
+- 병원 복도에서 홀로 춤추는 모습
 
-Visual style: hyper realistic cinematic music video, emo punk energy, chaotic editing, handheld camera, motion blur, film grain, glossy skin texture, neon hospital lights, surreal atmosphere, emotional storytelling.
+비주얼 스타일: 초현실적인 시네마틱 뮤직비디오, 이모 펑크 에너지, 혼란스러운 편집, 핸드헬드 카메라, 모션 블러, 필름 그레인, 광택 있는 피부 질감, 네온 병원 조명, 초현실적인 분위기, 감정적인 스토리텔링.
 
-Color grading: cold white lighting, green hospital tint, subtle neon blue and red accents.
-Aspect ratio 16:9.
+색 보정: 차가운 화이트 조명, 녹색 병원 틴트, 은은한 네온 블루 및 레드 포인트.
+화면 비율 16:9.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075067135085453312/img/WP3ZDWqs8ne4WLey.jpg" width="600" alt="Emo Punk Hospital Music Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075067135085453312/img/WP3ZDWqs8ne4WLey.jpg" width="600" alt="이모 펑크 병원 뮤직비디오">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=6998)**
 
 **작성자:** [Al-Shamus](https://x.com/im_shahid7) | **출처:** [Link](https://x.com/im_shahid7/status/2075067406356214222) | **게시일:** Jul 9, 2026
 
 ---
-### Misty Watercolor Mountain Sword Dance
+### 안개 낀 수채화 산속의 검무
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A stylistic digital painting prompt for Seedance 2.0 depicting a transcendent sword dance on a misty mountain lake with ink-brush calligraphy effects.
+> Seedance 2.0을 위한 스타일리시한 디지털 페인팅 프롬프트로, 안개 낀 산속 호수 위에서 펼쳐지는 초월적인 검무를 수묵화 효과와 함께 묘사합니다.
 
 #### 📝 프롬프트
 
 ```
-SUBJECTS:
-Xiao Yan <<<image_2>>>, Sword God of the Immortal Realm, tall and serene, long flowing black hair, glowing teal forehead mark, layered white and dark robes with teal trim, calm transcendent expression, movements swift and precise.
-ENVIRONMENT:
-Misty watercolor mountain lake <<<image_1>>>, towering blue-teal karst peaks fading into white haze, vast still water surface reflecting the mountains like a mirror, soft diffused light, gentle mist drifting between the peaks. The entire video remains in this single lake setting, with Xiao Yan standing on the water's surface.
-STYLE:
-Digital painting feel. Large simplified color blocks, hard-edge brushwork, low-detail structure, soft ink-wash atmosphere, preserving hand-drawn texture. All sword swings leave black-and-white ink-brush trails, like strokes painted with a calligraphy brush. No realistic 3D feel, no commercial CG advertisement feel, no polished realism. All sword movements are fast, sharp, and decisive — never slow or floaty.
-SHOT 1 (0–2s):
-Hard cut opening. Close-up shot, 35mm, steady hold / Xiao Yan raises his hand upward, and a sword materializes progressively along the path of his rising hand — the blade forms only as far as his hand has moved, appearing segment by segment rather than all at once, faint teal light tracing its emerging edge / SFX: low resonant hum, soft chime as the blade completes
-SHOT 2 (2–6s):
-Top-down high-angle shot, 50mm, steady overhead hold / A circular ripple wave radiates outward across the lake surface with Xiao Yan at its center. He begins moving in swift footwork while dancing with the newly formed sword — first a sharp forward thrust, then a full 360-degree spinning slash, then a quick step-dash to a new position. Every time his feet touch down in the footwork, the still lake surface ripples outward from beneath him. Every sword stroke leaves a black-and-white ink-brush trail in the air / SFX: water ripples spreading, blade cutting air, quick footsteps skimming water
-SHOT 3 (6–12s):
-Medium tracking shot following his body, 35mm, camera shaking with each strike / Xiao Yan continues spinning and weaving rapid, intricate sword patterns — spinning slashes and leaping cuts blending into a fast continuous rhythm, each movement decisive and explosive. Every slash trails black-and-white ink-brush strokes through the air, layering like living calligraphy. The camera jolts with every cut, and the lake surface sends out expanding waves each time he steps and dashes across the water / SFX: rapid blade whooshes, sharp air cracks, rhythmic water splashes, rising orchestral tension
-SHOT 4 (12–15s):
-Ending shot. Close-up from directly in front of his face, camera slowly pulling backward / The sword dance complete, Xiao Yan holds still as the sword in his hand gradually dissolves into nothingness — glowing light particles rise from wherever the blade is fading, the particles appearing progressively
+피사체:
+샤오옌(Xiao Yan) <<<image_2>>>, 선계의 검신, 키가 크고 평온함, 길게 흐르는 검은 머리카락, 이마의 빛나는 청록색 문양, 청록색 테두리가 있는 흰색과 어두운 색의 겹쳐진 로브, 차분하고 초월적인 표정, 빠르고 정확한 동작.
+배경:
+안개 낀 수채화 산속 호수 <<<image_1>>>, 흰 안개 속으로 사라지는 우뚝 솟은 청록색 카르스트 봉우리, 산을 거울처럼 비추는 광활하고 고요한 수면, 부드럽게 확산되는 빛, 봉우리 사이로 흐르는 잔잔한 안개. 전체 영상은 이 단일 호수 배경을 유지하며, 샤오옌은 수면 위에 서 있음.
+스타일:
+디지털 페인팅 느낌. 단순화된 큰 색면, 하드 엣지 붓터치, 낮은 디테일의 구조, 부드러운 수묵화 분위기, 손으로 그린 듯한 질감 유지. 모든 검 휘두르기는 붓글씨로 그린 듯한 흑백 수묵 궤적을 남김. 사실적인 3D 느낌이나 상업적인 CG 광고 느낌, 매끄러운 실사 느낌은 배제함. 모든 검술 동작은 빠르고 날카로우며 단호함 — 느리거나 둥둥 뜨는 느낌 없음.
+샷 1 (0–2초):
+하드 컷 오프닝. 클로즈업 샷, 35mm, 고정 촬영 / 샤오옌이 손을 위로 들어 올리면, 손이 올라가는 궤적을 따라 검이 점진적으로 형상화됨 — 검날은 한꺼번에 나타나는 것이 아니라 손이 움직인 만큼만 부분적으로 형성되며, 나타나는 가장자리를 따라 희미한 청록색 빛이 흐름 / 효과음: 낮고 울리는 웅웅거리는 소리, 검이 완성될 때의 부드러운 챙 소리
+샷 2 (2–6초):
+탑다운 하이 앵글 샷, 50mm, 고정된 오버헤드 촬영 / 샤오옌을 중심으로 호수 표면에 원형 파동이 퍼져 나감. 그는 새로 형성된 검을 들고 빠른 보법으로 춤을 추기 시작함 — 첫째로 날카로운 찌르기, 이어서 360도 회전 베기, 그리고 새로운 위치로 빠르게 이동하는 대시. 발을 내디딜 때마다 고요한 호수 표면이 그 아래에서부터 물결침. 모든 검술 동작은 공중에 흑백 수묵 궤적을 남김 / 효과음: 퍼져 나가는 물결 소리, 공기를 가르는 검 소리, 물 위를 스치는 빠른 발소리
+샷 3 (6–12초):
+몸을 따라가는 미디엄 트래킹 샷, 35mm, 타격마다 흔들리는 카메라 / 샤오옌은 계속해서 회전하며 복잡하고 빠른 검술 패턴을 엮어냄 — 회전 베기와 도약 베기가 빠른 연속 리듬으로 어우러지며, 각 동작은 단호하고 폭발적임. 모든 베기는 공중에 흑백 수묵 궤적을 남기며 살아있는 서예처럼 층을 이룸. 베기 동작마다 카메라가 흔들리고, 그가 물 위를 딛고 달릴 때마다 호수 표면에서 파동이 퍼져 나감 / 효과음: 빠른 검 휘두르는 소리, 날카로운 공기 파열음, 리듬감 있는 물튀김 소리, 고조되는 오케스트라 긴장감
+샷 4 (12–15초):
+엔딩 샷. 얼굴 정면 클로즈업, 카메라가 천천히 뒤로 빠짐 / 검무가 끝나고 샤오옌이 멈춰 서면 손에 든 검이 점차 허공으로 사라짐 — 검날이 사라지는 곳에서 빛나는 입자들이 솟아오르며, 입자들이 점진적으로 나타남
 ```
 
-<img src="https://cms-assets.youmind.com/media/1783668935579_yuopxl_HMwa_FpboAAqCqo.jpg" width="600" alt="Misty Watercolor Mountain Sword Dance">
+<img src="https://cms-assets.youmind.com/media/1783668935579_yuopxl_HMwa_FpboAAqCqo.jpg" width="600" alt="안개 낀 수채화 산속의 검무">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=7007)**
 
 **작성자:** [Keneth Tran](https://x.com/KenethTranVi) | **출처:** [Link](https://x.com/KenethTranVi/status/2075063445255598109) | **게시일:** Jul 9, 2026
 
 ---
-### Haaland Viking Anime Soccer Video Prompt
+### 홀란드 바이킹 애니메이션 축구 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-energy sports anime prompt that transitions Erling Haaland from a modern football stadium into a mythical Viking setting, complete with magical runic energy effects.
+> 엘링 홀란드가 현대적인 축구 경기장에서 신화 속 바이킹 배경으로 전환되며, 마법 같은 룬 에너지 효과가 어우러지는 고에너지 스포츠 애니메이션 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-High-energy Japanese anime sports style video, 8k resolution, cinematic lighting. A tall blonde Norwegian soccer striker in a red Norway jersey standing on a pitch in a stadium filled with roaring fans waving red, white, and blue Norwegian flags. He vigorously beats a large red war drum with mallets in sync with rowing team members and cheering crowds. Magical golden runic energy emanates from the drum in glowing rings. Suddenly, the scene transitions into a mythical Viking stadium under dark stormy clouds. The players transform into fierce Viking warriors clad in fur armor and holding carved wooden shields. Above the drum, a glowing, ornate golden soccer ball emerges, floating with intense light, surrounded by a roaring, epic crowd. Dramatic dynamic camera cuts, hyper-detailed, vibrant red atmosphere.
+고에너지 일본 스포츠 애니메이션 스타일 영상, 8k 해상도, 영화 같은 조명. 빨간색 노르웨이 유니폼을 입은 키 크고 금발인 노르웨이 축구 공격수가 빨간색, 흰색, 파란색 노르웨이 국기를 흔드는 열광적인 팬들로 가득 찬 경기장 잔디 위에 서 있습니다. 그는 노 젓는 팀원들과 환호하는 관중들에 맞춰 커다란 빨간색 전쟁 북을 힘차게 두드립니다. 북에서는 마법 같은 황금빛 룬 에너지가 빛나는 고리 형태로 뿜어져 나옵니다. 갑자기 장면이 어두운 폭풍우 구름 아래의 신화적인 바이킹 경기장으로 전환됩니다. 선수들은 모피 갑옷을 입고 조각된 나무 방패를 든 맹렬한 바이킹 전사로 변합니다. 북 위로 빛나는 화려한 황금빛 축구공이 나타나 강렬한 빛을 내며 떠오르고, 그 주변으로 열광적인 군중이 환호합니다. 드라마틱하고 역동적인 카메라 컷, 초고해상도 디테일, 생동감 넘치는 붉은 분위기.
 
-Step-by-Step Scene Prompts
+단계별 장면 프롬프트
 
-1. Modern Stadium & Viking Clap Chant
-Prompt:
-Dynamic anime scene, a blonde Norwegian football star standing on a stadium pitch, playing a massive red war drum. Sitting on the grass behind him, his teammates in red Norway jerseys perform a synchronized Viking rowing chant. Stadium crowds wave Norwegian flags under smoke flares, highly detailed 2D anime style, dramatic camera angles.
+1. 현대 경기장 및 바이킹 박수 응원
+프롬프트:
+역동적인 애니메이션 장면, 경기장 잔디 위에 서서 거대한 빨간색 전쟁 북을 연주하는 금발의 노르웨이 축구 스타. 그의 뒤 잔디밭에 앉은 빨간색 노르웨이 유니폼을 입은 팀원들이 박자에 맞춰 바이킹 노 젓기 응원을 펼칩니다. 연막탄 아래 노르웨이 국기를 흔드는 경기장 관중들, 매우 디테일한 2D 애니메이션 스타일, 드라마틱한 카메라 앵글.
 
-2. Magical Rune Transformation
-Prompt:
-Close-up anime shot, glowing golden Nordic runes and magical light rings bursting from a large red drum as mallets strike it. Dramatic smoke and flare lighting in a packed stadium, glowing particle effects, intense action scene, dark contrast.
+2. 마법 룬 변신
+프롬프트:
+클로즈업 애니메이션 샷, 말렛이 북을 칠 때마다 커다란 빨간색 북에서 뿜어져 나오는 빛나는 황금빛 북유럽 룬 문자와 마법의 빛 고리. 가득 찬 경기장의 드라마틱한 연기와 조명 효과, 빛나는 입자 효과, 강렬한 액션 장면, 어두운 대비.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075051682187423744/img/eLiStt_niyu_26rY.jpg" width="600" alt="Haaland Viking Anime Soccer Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075051682187423744/img/eLiStt_niyu_26rY.jpg" width="600" alt="홀란드 바이킹 애니메이션 축구 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=6987)**
 
 **작성자:** [Sairah](https://x.com/Sairah_0) | **출처:** [Link](https://x.com/Sairah_0/status/2075051817680187737) | **게시일:** Jul 9, 2026
 
 ---
-### Korean Motorbike Delivery Action Video Prompt
+### 한국 오토바이 배달 액션 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fast-paced, urban delivery dash prompt set in Korean hillside streets, using an early 2010s action-cam aesthetic with heavy bike vibrations and realistic dialogue.
+> 한국의 산동네 골목길을 배경으로 한 속도감 넘치는 도시 배달 질주 프롬프트입니다. 2010년대 초반 액션캠 감성을 살려 오토바이의 거친 진동과 생생한 대사를 포함했습니다.
 
 #### 📝 프롬프트
 
 ```
-Main Subject:
-Young Korean woman, early 20s, delivery helmet with visor up, windbreaker uniform jacket, fingerless gloves, focused determined energy, quick reflexes.
-Location:
-Narrow winding hillside streets in a Korean city at dusk, delivery route. Steep alleys, glowing streetlamps flickering on, scooters parked along walls, distant city lights below. No heavy traffic.
-Visual Style:
-Fast-paced realistic documentary tone, urgent urban energy, dusky transitional lighting.
-Camera Style:
-Early 2010s action-mounted camcorder feel but handheld, heavy shake from bike vibration, motion blur on turns, exposure shifting rapidly between streetlights and shadow. No stabilization.
-Timeline (15 sec, each slot = 2 compressed beats):
-00:00–00:03 → She revs the scooter, then speeds off down a steep alley, engine whining.
-00:03–00:06 → She leans hard into a sharp turn, then narrowly avoids a parked bicycle, laughing nervously after.
-00:06–00:09 → She glances at a delivery bag on the back seat, then mutters "늦으면 안 되는데!" ("I really can't be late!").
-00:09–00:12 → She speeds up a final hill, then screeches to a stop in front of a doorway.
-00:12–00:15 → She grabs the bag, running to the door, then turns back grinning "배달 완료!" ("Delivery complete!"), as the scene cuts.
-Audio:
-Engine revving, wind rushing past, tires skidding, distant city dusk ambience. Her dialogue as noted above. No music.
-Goal: A fast, urgent delivery dash thrilling, focused, alive with motion.
+주요 인물:
+20대 초반의 한국 여성, 바이저를 올린 배달용 헬멧 착용, 바람막이 유니폼 재킷, 손가락이 없는 장갑, 집중력 있고 결연한 에너지, 빠른 반사 신경.
+장소:
+해 질 녘 한국 도시의 좁고 구불구불한 산동네 골목길, 배달 경로. 가파른 골목, 깜빡이는 가로등, 벽을 따라 주차된 스쿠터들, 멀리 보이는 도시의 야경. 교통 체증 없음.
+시각적 스타일:
+빠른 템포의 사실적인 다큐멘터리 톤, 긴박한 도시의 에너지, 해 질 녘의 전환기 조명.
+카메라 스타일:
+2010년대 초반 액션캠 느낌의 핸드헬드 촬영, 오토바이 진동으로 인한 심한 흔들림, 회전 시 모션 블러, 가로등과 그림자 사이에서 급격하게 변하는 노출. 보정 없음.
+타임라인 (15초, 각 구간 = 2개의 압축된 비트):
+00:00–00:03 → 스쿠터 시동을 걸고 가파른 골목길을 질주하며 엔진 소리가 울려 퍼짐.
+00:03–00:06 → 급커브를 돌며 주차된 자전거를 아슬아슬하게 피한 뒤, 긴장한 듯 웃음을 터뜨림.
+00:06–00:09 → 뒷좌석의 배달 가방을 힐끗 본 뒤 "늦으면 안 되는데!"라고 중얼거림.
+00:09–00:12 → 마지막 언덕을 빠르게 올라가 문 앞에 급제동하며 멈춤.
+00:12–00:15 → 가방을 들고 문으로 달려가며 뒤를 돌아보고 "배달 완료!"라고 웃으며 외치고 장면 전환.
+오디오:
+엔진 가속 소리, 스쳐 지나가는 바람 소리, 타이어 미끄러지는 소리, 멀리서 들리는 도시의 저녁 분위기. 위에서 언급된 대사. 음악 없음.
+목표: 빠르고 긴박한 배달 질주, 스릴 넘치고 집중력 있으며 움직임이 살아있는 영상.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075026987920637952/img/KtIdso1W0imgWMQO.jpg" width="600" alt="Korean Motorbike Delivery Action Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075026987920637952/img/KtIdso1W0imgWMQO.jpg" width="600" alt="한국 오토바이 배달 액션 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=6986)**
 
@@ -3486,6 +3499,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-10T07:54:53.153Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-10T11:12:48.673Z</sub>
 
 </div>
