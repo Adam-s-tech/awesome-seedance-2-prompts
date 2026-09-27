@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6435** |
+| 📝 Total Prompts | **6437** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-09-27** |
 
@@ -365,6 +365,98 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Staircase to future sci-fi epic
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for an epic science fiction video where climbing a giant staircase reveals progressively advanced futures, from futuristic cities to interstellar travel.
+
+#### 📝 Prompt
+
+```
+An enormous staircase emerges from the middle of the ocean and rises into the clouds.
+
+People gather in disbelief.
+A young explorer begins climbing.
+Each step reveals Earth further into the future.
+First step: futuristic cities.
+Next step: forests growing on skyscrapers.
+Next: oceans filled with floating civilizations.
+Higher: giant orbital rings surrounding Earth.
+Higher: cities drifting through the atmosphere.
+Higher: humanity traveling among stars.
+The climb becomes faster and more dangerous.
+Thousands follow behind.
+The staircase stretches beyond the clouds and into space.
+The explorer reaches the final visible step.
+Beyond it lies a future so vast and magnificent it cannot fully be understood.
+A brilliant light floods everything.
+The staircase disappears.
+Leaving only the ocean below.
+
+Epic science fiction adventure, continuous upward motion, escalating future visions, breathtaking scale, emotional wonder, photorealistic environments, cinematic camera movement, dynamic action, masterpiece visuals, 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104007891334131712/img/2ozhc2jkPkx4N2X2.jpg" width="600" alt="Staircase to future sci-fi epic">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11399)**
+
+**Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2104007916546068750) | **Published:** Sep 27, 2026
+
+---
+### Rainy Day Anime Video Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed prompt for generating a 15-second anime video featuring an angel and demon meeting only on rainy days, using Seedance 2.0 with reference character sheets.
+
+#### 📝 Prompt
+
+```
+Rules:
+- Theatrical anime quality with a budget of 500 million yen, Japanese 2D cel animation style
+- Multi-shot
+- Fast cuts, high frame count. Prioritize speed and impact
+- Professional VFX quality
+- Change camera work every shot (no repetition of movement)
+- No BGM; ambient sound/sound effects present
+- No subtitles
+- All dialogue in Japanese
+- Pacing: Show quiet acting slowly with pauses, then move quickly during key moments
+- Draw rain with thin, fast lines; include splashes, puddle reflections, and wet clumped hair in the artwork
+- Night rain. Reflect streetlight and neon colors on wet pavement; ensure pale blue and white characters do not blend into gray background
+- Keep protagonists large in the frame; faces and costumes must be clearly visible. Do not make them tiny dots in long shots
+- No text, logos, or numbers on screen
+
+@ Image1: Subject - Sylvie
+@ Image2: Subject - Ayle
+
+[Consistency] Maintain consistent appearance throughout for Sylvie (silver bob hiding right eye, visible eye is yellow-green. Light blue demon horns and frilly head dress, small light blue bat wings and thin tail, pure white frilly dress with light blue ribbon, light blue and white striped socks) and Ayle (blue straight-cut bob, white round feather ornaments on both sides of head, small blue and white wings on shoulders, white dress with blue circular patterns, long trailing skirt of blue feathers). Do not mix up the two characters. Ayle is an angel above the clouds, Sylvie is a demon on the ground.
+[Generation Goal] Can meet only on rainy days
+(6 stages, one continuous video. Coming down along rain threads to meet until the rain stops)
+[S1] Above the clouds. Ayle from @ Image2 grabs falling rain threads from gaps in the clouds and slides down to the ground like a slide (face full of impatient joy).
+Camera: High-speed dolly following Ayle sliding down along the rain threads from directly above.
+[S2] On the roof of a town on a rainy night. Sylvie from @ Image1 waits looking up at the sky without an umbrella. Raindrops fall off her light blue horns and bat wings.
+Camera: Low angle from the roof showing Sylvie's profile as she looks up.
+[S3] Ayle lands softly on the roof, facing each other. Sylvie turns away shyly, but the tip of her tail wags happily.
+Camera: Two-shot from the side showing both. Pull back to show tail wagging.
+Ayle (cheerful voice) says: {I came}
+[S4] They sit side by side on the roof. Sylvie spreads her bat wings like an umbrella over Ayle. Lights of the rainy town blur and glow beneath them.
+Camera: Looking down at the rainy night cityscape from behind the two.
+[S5] Rain weakens, moonlight breaks through clouds. Ayle's body floats up gently drawn by the light, returning to the sky. Sylvie reaches out. Their fingertips separate.
+Camera: Close-up of separating fingertips, then pan up to Sylvie's face looking up.
+Ayle (crying smile) says: {Next rainy day}
+[S6] Alone on the dry roof, Sylvie holds one of Ayle's blue feathers in her palm. She squeezes it tight and smiles faintly while looking up at the sky.
+Camera: Close-up of the feather, then pull back to Sylvie looking up at the night sky.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103733508971872256/img/x7QgBynH5x5yKSty.jpg" width="600" alt="Rainy Day Anime Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11400)**
+
+**Author:** [妖精アーヤ](https://x.com/aiehon_aya) | **Source:** [Link](https://x.com/aiehon_aya/status/2103734879636898211) | **Published:** Sep 26, 2026
+
+---
 ### Home Invasion Horror Short Script
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -410,11 +502,11 @@ Shot 27 (27.6–30.0s): Final shot holds on the straining door and her terrified
 **Author:** [WasifAI](https://x.com/doctorwasif) | **Source:** [Link](https://x.com/doctorwasif/status/2103719950838104512) | **Published:** Sep 26, 2026
 
 ---
-### Alpine Morning Horse Interaction
+### Alpine morning horse interaction
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a peaceful cinematic video of a woman interacting with a horse in a snowy alpine countryside during golden morning light.
+> A prompt for a peaceful 15-second cinematic video of a woman interacting with a horse in a snowy alpine countryside during golden morning light.
 
 #### 📝 Prompt
 
@@ -422,7 +514,7 @@ Shot 27 (27.6–30.0s): Final shot holds on the straining door and her terrified
 Created a 15-second cinematic photorealistic video of a peaceful alpine countryside during golden morning light, with majestic snow-covered mountains rising in the background and a cozy wooden farmhouse surrounded by rustic fences and open fields. A beautiful young woman with long dark hair, wearing a warm cream knitted sweater and natural winter outfit, slowly walks toward a calm brown horse standing near the wooden stable. She gently approaches the horse, smiles softly, and lovingly strokes its head while the horse remains peaceful and relaxed. The camera captures intimate close-up shots of her hand touching the horse and the horse’s expressive face, followed by smooth medium shots showing their connection. Warm sunlight shines through the mountain peaks, creating soft cinematic highlights and natural lens flare. Light morning mist drifts around the distant cabins and mountains while subtle smoke rises from a farmhouse chimney. The camera slowly tracks beside the woman as she walks back toward the cozy wooden house, keeping her appearance and outfit consistent throughout. Realistic horse movement, natural body motion, detailed skin and hair texture, authentic countryside atmosphere, soft depth of field, cinematic color grading, 35mm lens, gentle handheld movement, ultra-realistic 8K quality, peaceful emotional storytelling, no text, no logos, no watermark.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103714589896790016/img/jzBNQTXy9oGLCRGj.jpg" width="600" alt="Alpine Morning Horse Interaction">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103714589896790016/img/jzBNQTXy9oGLCRGj.jpg" width="600" alt="Alpine morning horse interaction">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11335)**
 
@@ -637,30 +729,30 @@ The sequence should feel tense, stylish and cinematic while remaining physically
 **Author:** [Elsa Ai](https://x.com/ElsaSofia__AI) | **Source:** [Link](https://x.com/ElsaSofia__AI/status/2103667614606368931) | **Published:** Sep 26, 2026
 
 ---
-### Chongqing Bungee Jump FPV Video Prompt
+### Chongqing Bungee Jump Realistic Video Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed video generation prompt for Seedance 2.0 creating a realistic, handheld-style long take of an adult woman performing a bungee jump or high-dive stunt in Chongqing. The prompt specifies camera movement, lighting, character consistency, and physical realism constraints.
+> A detailed prompt for generating a realistic 15-second video of an adult woman performing a bungee jump/stunt in Chongqing, featuring specific camera movements, physics constraints, and environmental details.
 
 #### 📝 Prompt
 
 ```
-15 seconds, realistic smartphone shooting texture, continuous handheld long take, only brief slow motion during the airborne flip. Adult female character, wearing preset #2 screenshot_16-8-2026_0750_x.com yoga wear, strictly locking the color, style, cut, and fabric from the reference; white sneakers, hair tied tight, facial features, body shape, and clothing consistent throughout. Scene is a fictional high-altitude cantilevered platform with Raffles City Chongqing and the two-river cityscape as background, not corresponding to real rooftop facilities. Two adjacent platforms extend outward from the building, separated by a fixed-width narrow gap, connected on the building side by a continuous walkway. The woman jumps laterally from one platform to the other, movement direction roughly parallel to the building facade; the opposite platform has a clear, spacious landing and rolling area. Opening establishes the takeoff platform, narrow gap, landing area, and inner walkway simultaneously, structure remains unchanged thereafter. Afternoon natural sunlight, slight haze in Chongqing, soft reflection on distant river surface, ground shadows consistent with light source. 0-3s: Woman already jogging forward on takeoff platform, camera positioned behind and to the side near the building, following at slightly below chest height. Frame retains her full body, front gap, and opposite landing area, distant city below outer edge provides height sense. Another adult male in black stays behind on inner side of takeoff platform, holding phone filming, does not enter her path. Footsteps and wind audible, occasional gust brushes phone mic. 3-5s: She briefly accelerates, gaze fixed on opposite platform, action naturally transitions from running to jumping without pause/posing. Main photographer moves forward along inner connecting walkway, forming side view, lens always sees solid platforms on both sides of gap. After leaving ground, she moves toward opposite platform, starting one continuous front flip; entire action directed toward landing area, not drifting outside building. 5-8s: Brief airborne phase after takeoff presented in slow motion. Full body enters frame completely, center of gravity follows continuous arc rising then falling, flip speed change coherent, hair tips and fabric have natural inertia. She completes only one front flip, then body extends, feet approaching opposite platform. Lens still shoots from inner walkway, does not go around outside building, does not pass under person; slow motion does not increase real airborne time, no hovering in air. 8-11s: Return to normal speed before shoe soles contact platform. She lands inside opposite platform, body sinks clearly upon contact, then uses remaining forward momentum to complete one compact roll, continuing to move inward. Contact sequence of shoe soles, hands, and body with ground is clear, no clipping or frictionless sliding. Main photographer continues moving forward along inner walkway, reaches front-side when she slows down from rolling, stops and rotates lens, fully retaining landing and rolling process. 11-15s: She stands up nearby, bends over with hands on knees after stabilizing, exhales rapidly, shoulders and back rise/fall naturally. Expression shifts from high concentration to slight daze after tension release, then looks up at camera, breathing not yet fully settled. Photographer steps forward only slightly, frame naturally tightens from full body to above waist, does not suddenly become face close-up. Male in black still holds phone on inner side of rear takeoff platform, position unchanged. Retain real skin, slight sweat, fabric stretching, and natural motion blur. Camera has slight undulation but key contact actions are visible, do not use violent shaking to hide flips or landings. Prohibit changing platform size, exaggerating jump distance, teleporting characters, repeated flips, accelerating in air, joint hyperextension, clothing changes, and floating landings. No music, subtitles, watermarks, or UI elements.
+15 seconds, realistic smartphone shooting texture, continuous handheld long shot, only brief slow motion during the aerial flip. Adult female character, wearing preset #2 yoga outfit (screenshot reference), strictly locking the color, style, cut, and fabric from the reference; white sneakers, hair tied back, character's face, body shape, and clothing consistent throughout. The scene is a cinematic fictional high-altitude cantilevered platform with Raffles City Chongqing and the surrounding Two Rivers cityscape as the background, not corresponding to real rooftop facility layouts. Two adjacent platforms extend outward from the building, separated by a fixed-width narrow gap, connected on the building side by a continuous walkway. The woman jumps laterally from one platform to the other, movement direction roughly parallel to the building facade; the landing area inside the opposite platform is clear and spacious. Opening establishes the takeoff platform, narrow gap, landing zone, and inner walkway simultaneously, structure remains unchanged afterwards. Afternoon natural sunlight, light haze over Chongqing city, soft reflection on distant river surface, ground shadows consistent with light source. 0-3s: Woman jogs forward on the takeoff platform, camera positioned behind and to the side near the building, following at slightly below chest height. Frame retains her full body, the narrow gap ahead, and the landing area opposite, distant city below the outer edge provides sense of height. Another black-clad adult male stays behind on the inner side of the takeoff platform holding a phone to film, not entering her path. Footsteps and wind sounds audible, occasional gust brushing microphone. 3-5s: She briefly accelerates, gaze fixed on opposite platform, action transitions naturally from running to jumping without posing pauses. Main cameraman moves forward along the inner connecting walkway, forming a side view, lens always sees solid platforms on both sides of the gap. She leaves ground moving toward opposite platform, begins one continuous front flip; entire motion towards landing area, no deviation outwards. 5-8s: Brief aerial phase after jump presented in slow motion. Full body in frame, center of gravity follows continuous arc rising then falling, rotation speed changes coherently, hair ends and fabric show natural inertia. She completes only one front flip, then body expands, feet approaching opposite platform. Lens still shoots from inner walkway, does not go outside building or pass under person; slow motion does not increase actual airtime nor show hovering. 8-11s: Returns to normal speed before shoe sole contacts platform. She lands inside opposite platform, body sinks clearly upon contact, then performs a compact roll due to remaining forward momentum, continuing inward. Contact sequence of sole, hands, and body with ground is clear, no clipping or frictionless sliding. Main cameraman continues along inner walkway, reaches side-front as she slows down, stops and rotates lens, fully retaining landing and rolling process. 11-15s: She stands up nearby, bends over with hands on knees, exhales sharply, shoulders rise and fall naturally. Expression shifts from intense focus to slight trance after tension release, then looks up at camera, breathing still unsettled. Cameraman steps closer slightly, frame tightens naturally from full body to waist-up, not sudden close-up. Black-clad male still filming from inner side of takeoff platform, position unchanged. Retain realistic skin, slight sweat, fabric stretch, and natural motion blur. Slight camera shake but key contact actions visible, do not use violent shaking to hide flips or landings. Prohibited: changing platform size, exaggerating distance, teleportation, repeated flips, mid-air acceleration, joint inversion, clothing change, floating landing. No music, subtitles, watermarks, or UI elements.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103644585570242560/img/KckJhg9BmHEcLgqh.jpg" width="600" alt="Chongqing Bungee Jump FPV Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103644585570242560/img/KckJhg9BmHEcLgqh.jpg" width="600" alt="Chongqing Bungee Jump Realistic Video Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11337)**
 
 **Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2103644638275891546) | **Published:** Sep 26, 2026
 
 ---
-### Space Mechanic Station Collapse
+### Space mechanic orbital collapse chase
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-octane sci-fi video prompt featuring a space mechanic escaping a collapsing orbital dock with a crashing spacecraft.
+> A high-intensity sci-fi prompt for Seedance 2.0 Fast involving a space mechanic sprinting across a collapsing station while avoiding debris and explosions.
 
 #### 📝 Prompt
 
@@ -674,7 +766,7 @@ The floor suddenly tears away. The camera drops with him as he falls through the
 Final shot: the camera swings beneath him, revealing half the orbital station breaking apart above while hundreds of burning fragments fall toward the planet.  Ultra-realistic hard sci-fi, brutal speed, massive destruction, clear physics, enormous scale, IMAX quality. Helmet always visible, visor always closed, never remove the helmet, no exposed head or face. No famous or recognizable faces.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103608936020475904/img/wZXmsso-yu6IKvmH.jpg" width="600" alt="Space Mechanic Station Collapse">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103608936020475904/img/wZXmsso-yu6IKvmH.jpg" width="600" alt="Space mechanic orbital collapse chase">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11336)**
 
@@ -5426,118 +5518,6 @@ Ultra-realistic cinematic scene of a young woman standing inside a crowded subwa
 **Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2097555044195508407) | **Published:** Sep 9, 2026
 
 ---
-### Xianxia Martial Arts Comedy Short
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A complex 15-second cinematic video prompt for Seedance 2.0 depicting a humorous duel and dialogue between martial arts disciples and their master.
-
-#### 📝 Prompt
-
-```
-Task: Generate a continuous 15-second Chinese Xianxia comedy short film. Plot: An enemy swordsman provokes a junior disciple by lying that her senior sister said she would lose in three moves. The twist: They were actually discussing how many moves it would take for the enemy to lose. Style: Cinematic, authentic ancient Xianxia aesthetic, deadpan comedy, Arri Alexa film quality, detailed facial features. Characters: Senior Sister (@Image1, 25-30, tall, white silk Hanfu, silver sword), Junior Disciple (@Image2, 20-25, petite, green Hanfu, steel sword), Enemy Swordsman, and an elderly Master. Environment: Unified Xianxia landscape with mountains, mist, and ancient architecture. Structure: 3-shot sequence. Shot 1 (0-5s): Wide shot, enemy provokes, sister clarifies. Shot 2 (5-10s): Medium shot, junior disciple mocks the enemy's three-move limit, master interjects with 'one move'. Shot 3 (10-15s): Extreme close-up, sister defeats the enemy in 'half a move' using a sheathed sword, master reveals he was being generous. Motion: Realistic physics, no flashy magic or UI effects. Output: 16:9, synchronized Mandarin dialogue and foley.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097549144303050752/img/sTN3GzyTawK8gE_-.jpg" width="600" alt="Xianxia Martial Arts Comedy Short">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10560)**
-
-**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2097549763143221433) | **Published:** Sep 9, 2026
-
----
-### Miniature World Map Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic prompt that visualizes an antique paper map physically transforming into a detailed miniature world with mountains, rivers, and tiny cities.
-
-#### 📝 Prompt
-
-```
-FORMAT:
-Vertical 16:9, 4K HDR, photorealistic live-action miniature cinematography, premium cinematic commercial quality, realistic physics, natural motion blur, macro lens, shallow depth of field, 24fps.
-
-CORE CONCEPT:
-An ordinary antique paper map on a wooden desk physically transforms into a complete miniature world. The camera enters the world and ends with a spectacular aerial reveal.
-
-SCENE 1 — 0–3 SECONDS | HOOK
-
-Extreme macro close-up of an old, beautifully textured paper map lying completely flat on a dark wooden desk.
-
-The map looks completely ordinary at first: detailed coastlines, rivers, mountains and roads printed onto the paper.
-
-A single tiny ripple suddenly travels across the map.
-
-The printed mountain range begins physically rising from the paper.
-
-No magical flash. The transformation must look physical and believable, as if the flat map is turning into a real miniature landscape.
-
-SCENE 2 — 3–7 SECONDS | TRANSFORMATION
-
-The camera slowly pulls backward while the entire map transforms.
-
-Mountain ranges rise into detailed miniature mountains.
-
-Rivers carve themselves through the terrain and begin flowing with realistic water.
-
-Tiny forests grow across the landscape.
-
-Small roads physically emerge from the map and connect miniature towns.
-
-Tiny houses and buildings rise naturally along the roads.
-
-Everything remains perfectly connected to the original map layout.
-
-SCENE 3 — 7–11 SECONDS | ENTER THE WORLD
-
-The camera smoothly dives down toward one miniature road and transitions from macro tabletop photography into an immersive miniature-world tracking shot.
-
-A tiny vintage car drives along the winding road.
-
-The camera follows behind it through a miniature mountain village.
-
-Tiny houses have realistic stone walls, wooden doors, roof tiles and warm glowing windows.
-
-Miniature pedestrians walk naturally along the roadside.
-
-A small bridge crosses a flowing river.
-
-SCENE 4 — 11–15 SECONDS | HUGE FINAL REVEAL
-
-The camera follows the road toward the top of a miniature mountain, then smoothly rises high above the landscape.
-
-The entire map is now a breathtaking miniature continent.
-
-Huge mountain ranges, forests, rivers, villages, highways, bridges and distant cities are visible across the surface.
-
-Golden sunset light sweeps across the miniature landscape.
-
-Final frame: the camera continues pulling upward until it becomes clear that this entire living world is still sitting on the original piece of paper on the wooden desk.
-
-VISUAL STYLE:
-Ultra-realistic handcrafted miniature photography.
-Extremely detailed paper fibers.
-Realistic soil, rocks, vegetation and water.
-Tiny architectural details.
-Natural atmospheric perspective.
-Cinematic golden-hour lighting.
-Subtle depth-of-field transitions.
-Realistic reflections and shadows.
-Premium high-end travel-commercial aesthetic.
-
-CAMERA:
-Begin with extreme macro.
-Slow controlled dolly movement.
-Smooth transition into the
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097546953848692736/img/OSsf_7i8D8jTY2SE.jpg" width="600" alt="Miniature World Map Transformation">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10628)**
-
-**Author:** [Maverick | AI](https://x.com/RizwanAly07) | **Source:** [Link](https://x.com/RizwanAly07/status/2097547054189027792) | **Published:** Sep 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -5599,6 +5579,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-27T04:13:45.832Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-27T10:08:27.275Z</sub>
 
 </div>

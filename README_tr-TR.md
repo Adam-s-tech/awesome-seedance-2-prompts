@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6435** |
+| 📝 Toplam İstem | **6437** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-09-27** |
 
@@ -361,6 +361,97 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Geleceğe Giden Bilim Kurgu Destanı Merdiveni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dev bir merdiveni tırmanmanın, fütüristik şehirlerden yıldızlararası yolculuğa kadar kademeli olarak gelişmiş gelecekleri ortaya çıkardığı epik bir bilim kurgu videosu için prompt.
+
+#### 📝 İstem
+
+```
+Okyanusun ortasından yükselen devasa bir merdiven bulutlara doğru uzanıyor.
+
+İnsanlar inançsızlıkla toplanıyor.
+Genç bir kaşif tırmanmaya başlıyor.
+Her adım, Dünya'yı geleceğin daha ileriki noktalarına taşıyor.
+İlk adım: Fütüristik şehirler.
+Sonraki adım: Gökdelenlerin üzerinde büyüyen ormanlar.
+Daha sonra: Yüzen medeniyetlerle dolu okyanuslar.
+Daha yukarıda: Dünyayı çevreleyen devasa yörünge halkaları.
+Daha yukarıda: Atmosferde süzülen şehirler.
+Daha yukarıda: Yıldızlar arasında yolculuk eden insanlık.
+Tırmanış hızlanıyor ve tehlikeli hale geliyor.
+Binlerce kişi arkadan geliyor.
+Merdiven bulutları aşıp uzaya uzanıyor.
+Kaşif son görünen adıma ulaşıyor.
+Ötesinde, kavranamayacak kadar geniş ve muhteşem bir gelecek yatıyor.
+Parlak bir ışık her yeri kaplıyor.
+Merdiven kayboluyor.
+Aşağıda sadece okyanus kalıyor.
+
+Epik bilim kurgu macerası, sürekli yukarı hareket, artan vizyonlar, nefes kesici ölçek, duygusal hayranlık, fotogerçekçi ortamlar, sinematik kamera hareketi, dinamik aksiyon, başyapıt görseller, 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104007891334131712/img/2ozhc2jkPkx4N2X2.jpg" width="600" alt="Geleceğe Giden Bilim Kurgu Destanı Merdiveni">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11399)**
+
+**Yazar:** [Alexandra Aisling](https://x.com/AllaAisling) | **Kaynak:** [Link](https://x.com/AllaAisling/status/2104007916546068750) | **Yayınlandı:** Sep 27, 2026
+
+---
+### Yağmurlu Gün Anime Video Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Yağmurlu günlerde sadece buluşan bir melek ve şeytanın yer aldığı, Seedance 2.0 ve referans karakter çizimleriyle oluşturulacak 15 saniyelik anime videosu için detaylı prompt.
+
+#### 📝 İstem
+
+```
+Kurallar:
+- 500 milyon yen bütçeli, Japon 2D cel animasyon stilinde tiyatro kalitesinde anime
+- Çoklu çekim (Multi-shot)
+- Hızlı geçişler, yüksek kare sayısı. Hız ve etkiyi önceliklendirin
+- Profesyonel VFX kalitesi
+- Her çekimde kamera hareketini değiştirin (hareket tekrarı yok)
+- BGM yok; ortam sesi/ses efektleri mevcut
+- Altyazı yok
+- Tüm diyaloglar Japonca
+- Tempo: Sakin performansları duraklamalarla yavaşça gösterin, ardından önemli anlarda hızlanın
+- Yağmuru ince, hızlı çizgilerle çizin; sanat eserinde sıçramalar, su birikintisi yansımaları ve ıslak topaklanmış saçlar olsun
+- Gece yağmuru. Islak kaldırımda sokak lambası ve neon renklerin yansıması olsun; soluk mavi ve beyaz karakterlerin gri arka planda kaybolmamasını sağlayın
+- Ana karakterleri kadrajda büyük tutun; yüzler ve kostümler net görünmeli. Uzun çekimlerde onları küçük noktalara dönüştürmeyin
+- Ekranda metin, logo veya sayı olmamalı
+
+@ Image1: Özne - Sylvie
+@ Image2: Özne - Ayle
+
+[Tutarlılık] Sylvie (sağ gözü kapatan gümüş bob kesim, görünen göz sarı-yeşil. Açık mavi şeytan boynuzları ve fırfırlı başlık, küçük açık mavi yarasa kanatları ve ince kuyruk, açık mavi kurdeleli saf beyaz fırfırlı elbise, açık mavi-beyaz çizgili çoraplar) ve Ayle (mavi düz kesim bob, başının her iki yanında beyaz yuvarlak tüy süsleri, omuzlarında küçük mavi-beyaz kanatlar, mavi dairesel desenli beyaz elbise, mavi tüylere sahip uzun iz bırakan etek) için genel görünümde tutarlılığı koruyun. İki karakteri karıştırmayın. Ayle bulutların üstündeki bir melek, Sylvie ise yerde bir şeytandır.
+[Üretim Hedefi] Sadece yağmurlu günlerde buluşabilirler
+(6 aşama, tek sürekli video. Yağmur damlaları boyunca inip buluşma ve yağmurun dinmesine kadar olan süreç)
+[S1] Bulutların üstünde. @ Image2'den Ayle, bulutlardaki boşluklardan düşen yağmur ipliklerini kavrar ve kaydıraktan kayar gibi yere iner (yüzü sabırsız sevinçle dolu).
+Kamera: Ayle'nin yağmur iplikleri boyunca tam tepeden aşağı kaydığı, yüksek hızlı dolly takibi.
+[S2] Yağmurlu bir gecede kasabanın çatısında. @ Image1'den Sylvie, şemsiyesiz gökyüzüne bakarak bekliyor. Yağmur damlaları açık mavi boynuzlarından ve yarasa kanatlarından akıyor.
+Kamera: Sylvie'nin yukarı baktığında profilini gösteren çatıdan düşük açı.
+[S3] Ayle çatıya yumuşakça iner, birbirlerine bakarlar. Sylvie utangaçça arkasını döner ama kuyruğunun ucu mutlu mutlu sallanır.
+Kamera: İkisini de yan profilden gösteren iki kişilik çekim. Kuyruk sallanmasını göstermek için geri çekilin.
+Ayle (neşeli ses tonuyla) der ki: {Geldim}
+[S4] Çatıda yan yana otururlar. Sylvie, Ayle'nin üzerine şemsiye gibi açtığı yarasa kanatlarını gerer. Arkalarında yağmurlu kasabanın ışıkları bulanıklaşır.
+Kamera: İkisinin arkasından, yağmurlu gece manzarasına bakan yakın plan.
+[S5] Ay ışığı bulutların arasından sızar. Ayle havaya yükselmeye başlar, Sylvie onu izlerken üzgün ama anlayışlı görünür.
+Kamera: Ayle'nin yükselişini takip eden yukarı doğru tilt.
+[S6] Yağmur diner. Sylvie tek başına çatıda kalır, avucunda kalan tek bir tüy parçasına bakar. Yüzünde hüzünlü ama sıcak bir gülümseme vardır.
+Kamera: Sylvie'nin yüzüne odaklanan yavaş zoom-in.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103733508971872256/img/x7QgBynH5x5yKSty.jpg" width="600" alt="Yağmurlu Gün Anime Video Prompt">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11400)**
+
+**Yazar:** [妖精アーヤ](https://x.com/aiehon_aya) | **Kaynak:** [Link](https://x.com/aiehon_aya/status/2103734879636898211) | **Yayınlandı:** Sep 26, 2026
+
+---
 ### Ev İstilası Korku Kısa Film Senaryosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5403,407 +5494,6 @@ Kalabalık bir metro treninin içinde duran, etrafında oturan ve ayakta duran y
 **Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2097555044195508407) | **Yayınlandı:** Sep 9, 2026
 
 ---
-### Wuxia Komedi Kısa Film İstemi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 için karakter sürekliliği, kamera koreografisi ve komedi zamanlamasını detaylandıran, 15 saniyelik bir Wuxia komedi kısa filmi için kapsamlı, yönetmen tarzında bir senaryo ve istem.
-
-#### 📝 İstem
-
-```
-I. Görev Amacı
-
-15 saniyelik, kesintisiz bir Çin Xianxia kısa filmi oluşturun.
-
-Temel komedi olay örgüsü tek bir çizgide ilerlemeli ve izleyici tarafından ilk izleyişte hemen anlaşılmalıdır:
-
-Düşman bir kılıç ustası, kıdemli kız kardeşin söylediklerini yanlış aktararak hem kıdemli hem de küçük kız kardeşi kışkırtır; küçük kız kardeşin, kıdemli kız kardeşinin kendisinin üç hamlede yenileceğini düşündüğüne inanmasını sağlar.
-
-Gerçek ters köşe ise şudur:
-
-Aslında küçük kız kardeşin kazanıp kazanamayacağını değil, bu düşmanın kaç hamleye dayanabileceğini tartışıyorlardır.
-
-II. Genel Tarz
-
-Genel atmosfer aynı anda şu niteliklere sahip olmalıdır:
-
-Sinematik gerçekçi doku
-Saf antik Çin Xianxia estetiği
-Epik seviyede usta karşılaşması çekim grameri
-Soğukkanlı (deadpan) komedi
-Sessiz film tepki ritmi
-Hong Kong tarzı aksiyon komedi verimliliği
-Net üç vuruşlu ilerleme
-Belirgin kurulum ve sonuç (setup and payoff)
-Arri Alexa sinematik kamera kalitesi
-Sabit ve net yüz mikro detayları
-İnce film greni
-Doğal hacimsel ışık
-Komedi abartılı veya aptalca olmamalı, karakterlerin aptallaşmasına dayanmamalı, ölçülü olmalıdır.
-
-III. Karakter Kimliği Kilitleme
-
-Karakter ID A | @Image 1 | Kılıç Ölümsüzü Kıdemli Kız Kardeş
-
-Her zaman aynı karakteri koruyun:
-
-25–30 yaşlarında Doğu Asyalı kadın
-Uzun ve ince yapılı
-Oval yüz
-Koyu badem gözler
-Siyah uzun saçlar, yarısı yukarıda
-Beyaz yeşim toka ile sabitlenmiş
-Aynı beyaz işlemeli ipek Hanfu takımı
-Gümüş bel kuşağı
-Yeşim kolye
-Beyaz bez botlar
-Tek bir gümüş uzun kılıç
-Karakter ID B | @Image 2 | Küçük Kız Kardeş
-Her zaman aynı karakteri koruyun:
-
-20–25 yaşlarında Doğu Asyalı kadın
-Küçük ve minyon yapılı
-Yuvarlak ve canlı bir yüz
-Örgülü siyah saçlar
-Aynı mavi-yeşil keten Hanfu takımı
-Koyu renk kemer
-Ahşap toka
-Siyah bez ayakkabılar
-Tek bir koyu çelik kılıç
-Diğer Karakterler
-Düşman Kılıç Ustası
-Bir düşman kılıç ustası
-Kışkırtma, yanıltma ve son hamleden sorumlu
-Komedi duygusunun merkezini çalmamalı
-Usta
-Aynı usta
-Sadece kritik anda son metaforik darbeyi indirir
-Sessiz, ölçülü ve ciddi kalmalıdır
-IV. Çevre DNA'sı ve Mekansal İlkeler
-Bu turda yüklenen tüm arka plan ve konum referans görselleri, tek bir çevre DNA'sı setini ortaklaşa belirler.
-
-Resmi kompozisyondan önce, aşağıdakileri sessizce entegre edin ve birleştirin:
-
-Gerçek arazi
-Mimari dil
-Malzemeler
-Bitki örtüsü
-Su kütleleri
-Hava durumu
-Dağ sisi
-Birincil ışık yönü
-Yansımalar
-Atmosferik derinlik
-Buna dayanarak, bu tur için:
-Benzersiz, tamamen birleşik ve inandırıcı yeni bir mekan planlayın.
-Çevresel Kurallar
-Arka plandaki şu unsurlar doğal olarak canlı kalmalıdır:
-Rüzgar
-Su kütleleri
-Bitki örtüsü
-Bulut katmanları
-Uzakta duran sıradan öğrenciler
-Mekansal ortam sesi
-Ancak şunları karşılamalıdır:
-Arka plan kesinlikle nötr kalmalı
-Espriler yaratmamalı
-Ters köşeler oluşturmamalı
-Olay örgüsünü aktif olarak yönlendirmemeli
-Karakterler adına duyguları ifade etmemeli
-V. Üç Çekimlik Yapı
-Çekim 1 | 0–5s
-Çekim Türü
-Genel çekim veya uzak çekim
-Görsel İçerik
-Aynı Kılıç Ölümsüzü Kıdemli Kız Kardeş
-Aynı Küçük Kız Kardeş
-Bir düşman kılıç ustası
-Bir usta
-Dördü, net ve sabit bir coğrafi ilişkiye sahip birleşik bir mekandadır.
-Düşman kılıç ustası iki kız kardeşin tam önünde durur ve usta birkaç adım ötede sessizce bekler.
-Olay Örgüsü ve Diyalog
-Düşman, küçük kız kardeşe kışkırtıcı bir şekilde bakar ve şöyle der:
-"Kıdemli kız kardeşin, benimle dövüşürsen üç hamlede yenileceğini bizzat söyledi."
-Aynı küçük kız kardeş çok yavaş bir şekilde başını çevirip kıdemli kız kardeşine bakar ve sorar:
-"Üç hamle mi?"
-Aynı beyazlar içindeki kılıç ölümsüzü hiçbir gerginlik göstermeden, sadece sakince düzeltir:
-"Ondan bahsediyordum."
-Çekim Öne Çıkanlar
-İlk vuruş, izleyiciye çatışmanın "kıdemli kız kardeşin küçük kız kardeşi küçümsemesi" olduğunu düşündürmelidir
-Küçük kız kardeşin başını çevirmesi net olmalı
-Kıdemli kız kardeşin düzeltmesi sakin, kesin ve açıklama gerektirmeyen bir tonda olmalı
-Bu replik, yanlış anlaşılmanın ilk katmanını doğrudan tersine çevirmelidir
-Çekim 2 | 5–10s
-Çekim Türü
-Orta çekim veya Cowboy çekimi
-Süreklilik Gereksinimleri
-Şunları sabit tutun:
-Aynı iki kadın
-Aynı düşman
-Aynı usta
-Aynı kıyafetler
-Aynı uzun kılıçlar
-Özdeş coğrafi mekan
-Olay Örgüsü ve Diyalog
-Küçük kız kardeş hemen düşmana geri bakar.
-Bu sefer kızgın değil, gerçekten şaşırmıştır ve şöyle der:
-"Üç hamle mi? Kıdemli kız kardeş, çok cömert davranıyorsun."
-Düşmanın kendini beğenmiş ifadesi anında donar.
-Arka plandaki sığ alan derinliğinde, aynı usta sessizliğini korur, sadece sessizce bir parmağını kaldırır.
-Bunu fark eden düşman öfkeyle sorar:
-"Ne demek istiyorsun?"
-Çekim odağı ustaya kayar.
-Usta kesinlikle ciddi kalır ve sadece cevap verir:
-"Bir hamle."
-Tam yarım vuruşluk bir duraksama.
-Düşman sonunda tamamen yıkılır ve bağırır:
-"Bu kadarı da fazla!"
-Ardından kılıcını çeker ve doğrudan kıdemli kız kardeşin üzerine atılır.
-Çekim Öne Çıkanlar
-İkinci vuruş komedi ilerlemesini tamamlar
-"Üç hamle", "bir hamle"ye yükseltilir
-Ustanın araya girişi çok kuru olmalı
-Duraksama, hem izleyicinin hem de düşmanın tahmin edildiklerini anlamaları için yeterli olmalıdır
-Düşman yıkıldıktan hemen sonra aksiyon bölümüne girin
-Çekim 3 | 10–15s
-Çekim Türü
-Yakın çekim veya aşırı yakın çekim
-Süreklilik Gereksinimleri
-Şunları sabit tutun:
-Aynı kıdemli kız kardeş
-Aynı küçük kız kardeş
-Aynı düşman
-Aynı usta
-Kıyafetler, kılıçlar, konumlandırma ve mekansal ilişkiler boyunca tutarlı kalmalı
-Aksiyon Tasarımı
-Aynı kıdemli kız kardeş rahat kalır, gümüş uzun kılıcını tam olarak çekmez bile.
-Sadece şunu tamamlar:
-Çok net
-Fiziksel olarak mantıklı
-Son derece kısa
-Son derece hassas
-Aksiyon sekansı:
-Düşmanın önden saldırısından yana çekilir
-Kılıfındaki gümüş uzun kılıcı kullanır
-Kısaca düşmanın kılıç tutan bileğine dokunur
-Düşmanın ileri momentumunu ağırlık merkezini kaydırmak için kullanır
-Sonuç:
-Düşmanın uzun kılıcı elinden fırlar
-Yakındaki toprağa güvenli bir şekilde saplanır
-Düşman bir dizinin üzerine çöker
-Boyunca kanlı bir yaralanma olmaz
-Aksiyon Sonrası Diyalog
-Tam bir sessizlik.
-Aynı küçük kız kardeş yavaşça bir parmağını kaldırır ve ciddi bir şekilde der:
-"Usta, tahmininiz tam isabetliydi."
-Aynı kılıç ölümsüzü kıdemli kız kardeş, yenilmiş düşmana bakar ve sakince cevap verir:
-"Aslında yarım hamle."
-Çekim odağı tekrar ustaya döner.
-Usta soğukkanlı bir şekilde der:
-"Ona biraz yüz vermiştim."
-Kapanış Çekimi
-Aşırı yakın çekimde:
-Düşman sırasıyla ustaya, kıdemli kız kardeşe ve küçük kız kardeşe bakar
-Tek bir kelimeye bile itiraz edemediğini fark eder
-Küçük kız kardeş gülmemek için dudağını ısırır
-Kıdemli kız kardeş hala çok resmi bir şekilde ona dövüş sanatçısı selamı verir
-Tam şu anda kesin:
-Düşmanın tamamen nutku tutulmuş ifadesi.
-VI. Performans İlkeleri
-Kıdemli Kız Kardeş
-Her zaman sakin
-Gösteriş yapmaz
-Fazla açıklama yapmaz
-En güçlü kişinin rahatlığı sabit olmalı
-Komedi şaka tonuna değil, ciddiyete dayanır
-Küçük Kız Kardeş
-Hızlı tepkiler
-Duygular abartılı değil
-"Yanlış anlaşılma"dan "anlama"ya ve "espriye" giden ritim net olmalı
-Bastırılmış kahkaha gerçek ve ölçülü olmalı
-Düşman
-İlk yarıda gerçekten kendine güvenmeli
-Ortada yavaş yavaş donmalı
-Sonda yıkılmalı ama palyaço gibi davranmamalı
-Kahkaha aptallıktan değil, geç farkındalıktan gelmeli
-Usta
-Çok az replik
-Her replik son bir hüküm gibi duyulmalı
-Soğukkanlı ve ciddi olmalı
-Ne kadar ciddi olursa o kadar komik olur
-VII. Aksiyon ve Kamera Gereksinimleri
-Aksiyon vücut mekaniği net ve doğal olmalı
-Düşmanın saldırısı gerçek bir momentuma sahip olmalı
-Kıdemli kız kardeşin tepkisi son derece verimli, hassas ve kısa olmalı
-Kazanan/kaybeden bir bakışta anlaşılmalı
-Karmaşık gösterişli kombolar yok
-Sürüklenen hareketler yok
-Işık kirliliği özel efektleri yok
-Rastgele kılıç auraları yok
-Kamera Gereksinimleri
-16:9 geniş ekran
-Kesinlikle üç kesintisiz net çekim
-Kamera hareketi temiz ve ölçülü
-Ön plan, orta plan ve arka plan arasında doğal paralaks
-Lens, karakter ilişkilerine ve espriye hizmet eder
-Gösterişli hareketler yok
-VIII. Ses ve Senkronizasyon Gereksinimleri
-Doğal senkronize Mandarin diyalog
-Kesin dudak senkronizasyonu
-Net komedi duraksamaları
-Doğru bakış ilişkileri
-Kılıç çekme, çarpışma, kılıcın yere düşmesi ve kapanış sesleri net bir şekilde duyulmalı
-Ortam sesleri boyunca doğal olarak mevcut olmalı
-Altyazı oluşturmayın
-Kullanılacak temel Seedance 2.0 yetenekleri:
-Çok modlu referans sürekliliği
-Çok karakterli karmaşık hareket kararlılığı
-Yönetmen seviyesinde kamera kontrolü
-15 saniyelik çok çekimli senkronize görsel-işitsel çıktı
-IX. Kesinlikle Kaçınılması Gerekenler
-bulanık
-kötü kalite
-düşük kalite
-düşük çözünürlük
-gürültülü
-jpeg bozulmaları
-filigran
-metin
-hata
-şekli bozulmuş
-mutasyona uğramış
-kötü anatomi
-kötü çizilmiş eller
-kötü kompozisyon
-kare dışı
-biçimsiz
-tutarsız karakter
-kıyafet değişimi
-yüz kayması
-arka plan kayması
-aksak kesimler
-kaybolan aksesuarlar
-Ek Kaçınılması Gerekenler:
-Altyazılar
-Aşırı abartılı oyunculuk
-Anlamsız komik yüz ifadeleri
-Karmaşık, anlaşılması zor ters köşeler
-Yumuşak aksiyon
-Gösterişli ağır çekim
-Rastgele büyüler
-Esprileri yaratan çevre
-Sahneyi çalan yan karakterler
-Düşmanın aniden zekasını kaybetmesi
-X. Nihai Etki Hedefi
-Tüm kısa filmin izleme deneyimi şu şekilde olmalıdır:
-Önce "kıdemli kız kardeş küçük kız kardeşi küçümsüyor gibi" yüzeysel bir yanlış anlaşılma yaratın
-Hızla "aslında değerlendirilen kişinin düşman olduğu" gerçeğine dönün
-Son olarak aksiyon ve ustanın devam repliği ile espriyi pekiştirin
-Final Anahtar Kelimeler:
-Xianxia, Soğukkanlı Komedi, Usta Karşılaşması, Üç vuruş
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097549144303050752/img/sTN3GzyTawK8gE_-.jpg" width="600" alt="Wuxia Komedi Kısa Film İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10560)**
-
-**Yazar:** [Soran](https://x.com/Soranlan) | **Kaynak:** [Link](https://x.com/Soranlan/status/2097549763143221433) | **Yayınlandı:** Sep 9, 2026
-
----
-### Minyatür Dünya Haritası Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Antika bir kağıt haritanın fiziksel olarak dağlar, nehirler ve küçük şehirlerle dolu detaylı bir minyatür dünyaya dönüşmesini görselleştiren sinematik bir komut.
-
-#### 📝 İstem
-
-```
-FORMAT:
-Dikey 16:9, 4K HDR, fotogerçekçi canlı aksiyon minyatür sinematografisi, premium sinematik reklam kalitesi, gerçekçi fizik, doğal hareket bulanıklığı, makro lens, sığ alan derinliği, 24fps.
-
-ANA KONSEPT:
-Ahşap bir masa üzerindeki sıradan bir antika kağıt harita, fiziksel olarak eksiksiz bir minyatür dünyaya dönüşür. Kamera dünyanın içine girer ve muhteşem bir havadan çekimle sona erer.
-
-SAHNE 1 — 0–3 SANİYE | GİRİŞ
-
-Karanlık ahşap bir masa üzerinde tamamen düz duran, güzel dokulu eski bir kağıt haritanın aşırı makro yakın çekimi.
-
-Harita ilk başta tamamen sıradan görünür: kağıda basılmış detaylı kıyı şeritleri, nehirler, dağlar ve yollar.
-
-Aniden haritanın üzerinde tek bir küçük dalgalanma ilerler.
-
-Basılı dağ sırası kağıttan fiziksel olarak yükselmeye başlar.
-
-Büyülü bir parıltı yok. Dönüşüm, düz harita gerçek bir minyatür manzaraya dönüşüyormuş gibi fiziksel ve inandırıcı görünmelidir.
-
-SAHNE 2 — 3–7 SANİYE | DÖNÜŞÜM
-
-Kamera tüm harita dönüşürken yavaşça geriye doğru çekilir.
-
-Dağ sıraları detaylı minyatür dağlara dönüşür.
-
-Nehirler araziyi yararak ilerler ve gerçekçi suyla akmaya başlar.
-
-Küçük ormanlar manzara boyunca büyür.
-
-Küçük yollar fiziksel olarak haritadan çıkar ve minyatür kasabaları birbirine bağlar.
-
-Küçük evler ve binalar yollar boyunca doğal bir şekilde yükselir.
-
-Her şey orijinal harita düzenine mükemmel bir şekilde bağlı kalır.
-
-SAHNE 3 — 7–11 SANİYE | DÜNYAYA GİRİŞ
-
-Kamera, minyatür bir yola doğru yumuşak bir şekilde dalar ve makro masa üstü fotoğrafçılığından sürükleyici bir minyatür dünya takip çekimine geçiş yapar.
-
-Küçük bir klasik araba kıvrımlı yolda ilerler.
-
-Kamera, minyatür bir dağ köyünün içinden onu takip eder.
-
-Küçük evlerin gerçekçi taş duvarları, ahşap kapıları, çatı kiremitleri ve sıcak parlayan pencereleri vardır.
-
-Minyatür yayalar yol kenarında doğal bir şekilde yürür.
-
-Küçük bir köprü akan bir nehrin üzerinden geçer.
-
-SAHNE 4 — 11–15 SANİYE | MUHTEŞEM FİNAL
-
-Kamera yolu minyatür bir dağın tepesine doğru takip eder, ardından manzaranın üzerinde yumuşak bir şekilde yükselir.
-
-Tüm harita artık nefes kesici bir minyatür kıtadır.
-
-Devasa dağ sıraları, ormanlar, nehirler, köyler, otoyollar, köprüler ve uzak şehirler yüzey boyunca görünür durumdadır.
-
-Altın rengi gün batımı ışığı minyatür manzaranın üzerinden geçer.
-
-Son kare: kamera, bu yaşayan dünyanın tamamının hala ahşap masadaki orijinal kağıt parçasının üzerinde durduğunun anlaşılmasına kadar yukarı doğru çekilmeye devam eder.
-
-GÖRSEL STİL:
-Ultra gerçekçi el yapımı minyatür fotoğrafçılığı.
-Son derece detaylı kağıt lifleri.
-Gerçekçi toprak, kayalar, bitki örtüsü ve su.
-Küçük mimari detaylar.
-Doğal atmosferik perspektif.
-Sinematik altın saat ışığı.
-İnce alan derinliği geçişleri.
-Gerçekçi yansımalar ve gölgeler.
-Premium üst düzey seyahat reklamı estetiği.
-
-KAMERA:
-Aşırı makro ile başlayın.
-Yavaş kontrollü dolly hareketi.
-Şu noktaya yumuşak geçiş:
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097546953848692736/img/OSsf_7i8D8jTY2SE.jpg" width="600" alt="Minyatür Dünya Haritası Dönüşümü">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10628)**
-
-**Yazar:** [Maverick | AI](https://x.com/RizwanAly07) | **Kaynak:** [Link](https://x.com/RizwanAly07/status/2097547054189027792) | **Yayınlandı:** Sep 9, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -5865,6 +5555,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-27T04:14:03.308Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-27T10:08:50.667Z</sub>
 
 </div>

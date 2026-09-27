@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6435** |
+| 📝 Total des prompts | **6437** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-09-27** |
 
@@ -361,6 +361,98 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### L'escalier vers une épopée de science-fiction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour une vidéo épique de science-fiction où l'ascension d'un escalier géant révèle des futurs de plus en plus avancés, allant des villes futuristes aux voyages interstellaires.
+
+#### 📝 Prompt
+
+```
+Un escalier gigantesque émerge du milieu de l'océan et s'élève jusqu'aux nuages.
+
+Les gens se rassemblent, incrédules.
+Un jeune explorateur commence à grimper.
+Chaque marche révèle la Terre dans un futur plus lointain.
+Première marche : des villes futuristes.
+Marche suivante : des forêts poussant sur les gratte-ciel.
+Ensuite : des océans remplis de civilisations flottantes.
+Plus haut : d'immenses anneaux orbitaux entourant la Terre.
+Plus haut : des villes dérivant dans l'atmosphère.
+Plus haut : l'humanité voyageant parmi les étoiles.
+La montée devient plus rapide et plus dangereuse.
+Des milliers de personnes suivent derrière.
+L'escalier s'étend au-delà des nuages et jusque dans l'espace.
+L'explorateur atteint la dernière marche visible.
+Au-delà s'étend un futur si vaste et magnifique qu'il ne peut être pleinement compris.
+Une lumière brillante inonde tout.
+L'escalier disparaît.
+Ne laissant que l'océan en dessous.
+
+Aventure épique de science-fiction, mouvement ascendant continu, visions futures croissantes, échelle à couper le souffle, émerveillement émotionnel, environnements photoréalistes, mouvements de caméra cinématographiques, action dynamique, visuels chefs-d'œuvre, 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104007891334131712/img/2ozhc2jkPkx4N2X2.jpg" width="600" alt="L'escalier vers une épopée de science-fiction">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11399)**
+
+**Auteur:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2104007916546068750) | **Publié:** Sep 27, 2026
+
+---
+### Prompt Vidéo Anime Jour de Pluie
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt détaillé pour générer une vidéo anime de 15 secondes mettant en scène la rencontre d'un ange et d'un démon uniquement les jours de pluie, utilisant Seedance 2.0 avec des feuilles de personnages de référence.
+
+#### 📝 Prompt
+
+```
+Règles :
+- Qualité anime théâtrale avec un budget de 500 millions de yens, style d'animation cellulaire 2D japonaise
+- Multi-plans
+- Coupes rapides, nombre élevé d'images par seconde. Priorité à la vitesse et à l'impact
+- Qualité VFX professionnelle
+- Changer le travail de caméra à chaque plan (pas de répétition de mouvement)
+- Pas de BGM ; présence de sons ambiants/effets sonores
+- Pas de sous-titres
+- Tous les dialogues en japonais
+- Rythme : Montrer le jeu calme lentement avec des pauses, puis accélérer lors des moments clés
+- Dessiner la pluie avec des lignes fines et rapides ; inclure des éclaboussures, des reflets dans les flaques et des cheveux mouillés collés en mèches dans l'œuvre
+- Pluie nocturne. Réfléchir les couleurs des lampadaires et des néons sur le pavé mouillé ; s'assurer que les personnages bleu pâle et blancs ne se fondent pas dans le fond gris
+- Garder les protagonistes grands dans le cadre ; les visages et les costumes doivent être clairement visibles. Ne pas les réduire à de minuscules points dans les plans larges
+- Pas de texte, logos ou chiffres à l'écran
+
+@ Image1 : Sujet - Sylvie
+@ Image2 : Sujet - Ayle
+
+[Cohérence] Maintenir une apparence cohérente tout au long pour Sylvie (coupe bob argentée cachant l'œil droit, œil visible jaune-vert. Petites cornes de démon bleu clair et coiffe à volants, petites ailes de chauve-souris bleu clair et queue fine, robe blanche à volants avec ruban bleu clair, chaussettes rayées bleu clair et blanc) et Ayle (coupe bob bleue droite, ornements ronds en plumes blanches de chaque côté de la tête, petites ailes bleues et blanches sur les épaules, robe blanche avec motifs circulaires bleus, longue traîne de jupe en plumes bleues). Ne pas confondre les deux personnages. Ayle est un ange au-dessus des nuages, Sylvie est un démon au sol.
+[Objectif de génération] Ils ne peuvent se rencontrer que les jours de pluie
+(6 étapes, une vidéo continue. Descendre le long des fils de pluie pour se rencontrer jusqu'à ce que la pluie cesse)
+[S1] Au-dessus des nuages. Ayle de @ Image2 attrape les fils de pluie tombant des trous dans les nuages et glisse vers le sol comme sur un toboggan (visage rempli d'une joie impatiente).
+Caméra : Travelling rapide suivant Ayle qui glisse le long des fils de pluie depuis le dessus.
+[S2] Sur le toit d'une ville par une nuit de pluie. Sylvie de @ Image1 attend en regardant le ciel sans parapluie. Les gouttes de pluie tombent de ses cornes bleu clair et de ses ailes de chauve-souris.
+Caméra : Angle bas depuis le toit montrant le profil de Sylvie alors qu'elle regarde vers le haut.
+[S3] Ayle atterrit doucement sur le toit, face à face. Sylvie détourne le visage timidement, mais le bout de sa queue remue joyeusement.
+Caméra : Plan à deux personnes de côté montrant les deux. Reculer pour montrer la queue qui remue.
+Ayle (voix joyeuse) dit : {Je suis venue}
+[S4] Elles s'assoient côte à côte sur le toit. Sylvie déploie ses ailes de chauve-souris comme un parapluie au-dessus d'Ayle. Les lumières de la ville pluvieuse floutent et brillent sous elles.
+Caméra : Vue plongeante sur le paysage urbain nocturne pluvieux depuis derrière les deux.
+[S5] La pluie faiblit, la lumière de la lune perce les nuages. Le corps d'Ayle flotte doucement, attiré par la lumière, retournant vers le ciel. Sylvie tend la main. Leurs extrémités des doigts se séparent.
+Caméra : Gros plan sur les doigts qui se séparent, puis panoramique vers le visage de Sylvie regardant vers le haut.
+Ayle (sourire pleurant) dit : {Le prochain jour de pluie}
+[S6] Seule sur le toit sec, Sylvie tient une des plumes bleues d'Ayle dans sa paume. Elle la serre fort et sourit faiblement en regardant le ciel.
+Caméra : Gros plan sur la plume, puis recul sur Sylvie regardant le ciel nocturne.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103733508971872256/img/x7QgBynH5x5yKSty.jpg" width="600" alt="Prompt Vidéo Anime Jour de Pluie">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11400)**
+
+**Auteur:** [妖精アーヤ](https://x.com/aiehon_aya) | **Source:** [Link](https://x.com/aiehon_aya/status/2103734879636898211) | **Publié:** Sep 26, 2026
+
+---
 ### Script de Court-Métrage d'Horreur : Intrusion Domiciliaire
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5353,407 +5445,6 @@ Scène cinématographique ultra-réaliste d'une jeune femme debout dans une rame
 **Auteur:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2097555044195508407) | **Publié:** Sep 9, 2026
 
 ---
-### Prompt pour court-métrage de comédie Wuxia
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un script complet et un prompt de style réalisateur pour un court-métrage de comédie Wuxia de 15 secondes, détaillant la continuité des personnages, la chorégraphie de la caméra et le timing comique pour Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-I. Objectif de la tâche
-
-Générer un court-métrage de film Xianxia chinois continu de 15 secondes.
-
-L'intrigue comique centrale est unique et doit être immédiatement comprise par le public dès le premier visionnage :
-
-Un épéiste ennemi provoque délibérément la sœur aînée et la sœur cadette en citant mal les propos de la sœur aînée, faisant croire à la sœur cadette que la sœur aînée pense qu'elle perdrait en trois coups.
-
-Le véritable rebondissement est :
-
-Elles ne discutaient jamais de la capacité de la sœur cadette à gagner, mais plutôt du nombre de coups que cet ennemi pourrait encaisser.
-
-II. Style général
-
-L'ambiance générale doit posséder simultanément les qualités suivantes :
-
-Texture cinématographique réaliste
-Esthétique pure du Xianxia chinois ancien
-Grammaire de plan de confrontation de maître de niveau épique
-Comédie pince-sans-rire
-Rythme de réaction du cinéma muet
-Efficacité de la comédie d'action à la hongkongaise
-Progression claire en trois temps
-Configuration et chute explicites
-Qualité de caméra cinématographique Arri Alexa
-Micro-détails faciaux stables et nets
-Grain de film fin
-Lumière volumétrique naturelle
-La comédie doit être retenue, non exagérée ou idiote, et ne doit pas reposer sur une stupidité des personnages.
-
-III. Verrouillage de l'identité des personnages
-
-ID Personnage A | @Image 1 | Sœur aînée Immortelle de l'épée
-
-Maintenir toujours le même personnage :
-
-Femme est-asiatique de 25 à 30 ans
-Corpulence grande et élancée
-Visage ovale
-Yeux en amande foncés
-Longs cheveux noirs mi-attachés
-Fixés avec une épingle à cheveux en jade blanc
-Même ensemble de Hanfu en soie brodée blanche
-Ceinture argentée
-Pendentif en jade
-Bottes en tissu blanc
-Une longue épée argentée
-ID Personnage B | @Image 2 | Sœur cadette
-Maintenir toujours le même personnage :
-
-Femme est-asiatique de 20 à 25 ans
-Corpulence petite et menue
-Visage rond et vif
-Cheveux noirs en tresses
-Même ensemble de Hanfu en lin bleu-vert
-Ceinture foncée
-Épingle à cheveux en bois
-Chaussures en tissu noir
-Une épée en acier sombre
-Autres personnages
-Épéiste ennemi
-Un épéiste ennemi
-Responsable de la provocation, de l'induire en erreur et du coup final
-Ne doit pas voler la vedette émotionnelle comique
-Maître âgé
-Le même maître âgé
-Ne délivre que le coup métaphorique final au moment critique
-Doit rester calme, retenu et d'un sérieux imperturbable
-IV. ADN de l'environnement et principes spatiaux
-Toutes les images de référence d'arrière-plan et de lieu téléchargées dans ce cycle déterminent conjointement un ensemble unique d'ADN environnemental.
-
-Avant la composition formelle, intégrez et unifiez silencieusement les éléments suivants :
-
-Terrain réel
-Langage architectural
-Matériaux
-Végétation
-Plans d'eau
-Météo
-Brume de montagne
-Direction de la lumière primaire
-Reflets
-Profondeur atmosphérique
-Sur cette base, replanifiez un :
-Nouvel espace unique, totalement unifié et crédible pour ce cycle.
-Règles environnementales
-Les éléments suivants en arrière-plan restent naturellement vivants :
-Vent
-Plans d'eau
-Végétation
-Couches nuageuses
-Disciples ordinaires au loin
-Ambiance sonore spatiale
-Mais doivent satisfaire :
-L'arrière-plan reste absolument neutre
-Ne crée pas de chutes comiques
-Ne crée pas de rebondissements
-Ne dirige pas activement l'intrigue
-N'exprime pas d'émotions au nom des personnages
-V. Structure en trois plans
-Plan 1 | 0–5s
-Type de plan
-Plan large ou plan d'ensemble
-Contenu visuel
-La même Sœur aînée Immortelle de l'épée
-La même Sœur cadette
-Un épéiste ennemi
-Un maître âgé
-Les quatre sont situés dans un espace unifié avec une relation géographique claire et stable.
-L'épéiste ennemi se tient directement devant les deux sœurs, et le maître âgé existe tranquillement à quelques pas.
-Intrigue et dialogue
-L'ennemi regarde la sœur cadette de manière provocante et dit :
-« Ta sœur aînée a dit elle-même que si tu te bats contre moi, tu perdras en trois coups. »
-La même sœur cadette tourne très lentement la tête pour regarder la sœur aînée et demande :
-« Trois coups ? »
-La même immortelle de l'épée vêtue de blanc ne montre aucune tension, corrigeant simplement calmement :
-« Je parlais de lui. »
-Points forts du plan
-Le premier temps doit faire croire au public que le conflit est « la sœur aînée qui méprise la sœur cadette »
-Le mouvement de tête de la sœur cadette doit être clair
-La correction de la sœur aînée doit être calme, certaine et sans besoin d'explication
-Cette réplique doit directement renverser la première couche de malentendu
-Plan 2 | 5–10s
-Type de plan
-Plan moyen ou plan américain
-Exigences de continuité
-Gardez les éléments suivants stables tout au long :
-Les deux mêmes femmes
-Le même ennemi
-Le même maître
-Mêmes vêtements
-Mêmes longues épées
-Espace géographique identique
-Intrigue et dialogue
-La sœur cadette regarde immédiatement l'ennemi.
-Cette fois, elle n'est pas en colère, mais sincèrement surprise, disant :
-« Trois coups ? Sœur aînée, tu es trop généreuse. »
-L'expression suffisante de l'ennemi se fige instantanément.
-Dans la faible profondeur de champ en arrière-plan, le même maître reste silencieux tout au long, levant seulement tranquillement un doigt.
-Découvrant cela, l'ennemi demande avec colère :
-« Que veux-tu dire ? »
-La mise au point du plan se déplace vers le maître.
-Le maître reste absolument sérieux, répondant seulement :
-« Un coup. »
-Une pause complète d'un demi-temps.
-L'ennemi finit par craquer complètement, criant :
-« C'est trop ! »
-Il dégaine alors activement son épée et charge directement la sœur aînée.
-Points forts du plan
-Le deuxième temps complète la progression comique
-« Trois coups » passe à « un coup »
-L'interjection du maître doit être très sèche
-La pause doit être suffisante pour laisser le public et l'ennemi réaliser qu'ils ont été prédits
-Entrez dans le segment d'action immédiatement après que l'ennemi craque
-Plan 3 | 10–15s
-Type de plan
-Gros plan ou très gros plan
-Exigences de continuité
-Gardez les éléments suivants stables :
-Même sœur aînée
-Même sœur cadette
-Même ennemi
-Même maître
-Les vêtements, les épées, le positionnement et les relations spatiales restent cohérents tout au long
-Conception de l'action
-La même sœur aînée reste détendue, ne dégainant même pas complètement sa longue épée argentée.
-Elle effectue seulement :
-Très clair
-Physiquement logique
-Extrêmement bref
-Extrêmement précis
-Séquence d'action :
-Esquive la charge frontale de l'ennemi
-Utilise la longue épée argentée toujours dans son fourreau
-Frappe brièvement le poignet de la main armée de l'ennemi
-Utilise l'élan vers l'avant de l'ennemi pour déplacer son centre de gravité
-Résultat :
-La longue épée de l'ennemi s'échappe de sa main en tournoyant
-Atterrit en toute sécurité dans le sol à proximité
-L'ennemi tombe sur un genou
-Aucune blessure sanglante tout au long
-Dialogue après l'action
-Silence complet.
-La même sœur cadette lève lentement un doigt et dit sérieusement :
-« Maître, votre estimation était exacte. »
-La même sœur aînée immortelle de l'épée regarde l'ennemi vaincu et répond calmement :
-« En fait, un demi-coup. »
-La mise au point du plan se tourne à nouveau vers le maître.
-Le maître dit d'un ton pince-sans-rire :
-« Je lui faisais déjà une fleur. »
-Plan de clôture
-En très gros plan :
-L'ennemi regarde le maître, la sœur aînée et la sœur cadette à tour de rôle
-Constatant qu'il ne peut réfuter un seul mot
-La sœur cadette se mord fort la lèvre pour étouffer un rire
-La sœur aînée lui fait toujours très formellement le salut de courtoisie des artistes martiaux
-Coupe précise sur :
-L'expression totalement sans voix de l'ennemi.
-VI. Principes de jeu d'acteur
-Sœur aînée
-Toujours calme
-Ne se vante pas
-N'explique pas trop
-La relaxation de la personne la plus forte doit être stable
-La comédie repose sur le sérieux, pas sur un ton plaisantin
-Sœur cadette
-Réactions rapides
-Émotions non exagérées
-Le rythme du « malentendu » à la « compréhension » jusqu'à la « chute » doit être clair
-Le rire réprimé doit être réel et retenu
-Ennemi
-Doit être sincèrement confiant dans la première moitié
-Se fige progressivement au milieu
-Craque à la fin mais ne doit pas agir comme un clown
-Le rire vient d'une réalisation tardive, pas de la stupidité
-Maître
-Très peu de répliques
-Chaque réplique sonne comme un jugement final
-Doit être d'un sérieux imperturbable
-Plus c'est sérieux, plus c'est drôle
-VII. Exigences d'action et de caméra
-La mécanique corporelle de l'action doit être claire et naturelle
-La charge de l'ennemi doit avoir un élan réel
-La réponse de la sœur aînée doit être extrêmement efficace, précise et brève
-La victoire/défaite doit être comprise d'un coup d'œil
-Pas de combos complexes et tape-à-l'œil
-Pas de mouvements traînants
-Pas d'effets spéciaux de pollution lumineuse
-Pas d'auras d'épée aléatoires
-Exigences de caméra
-Format large 16:9
-Strictement trois plans clairs et continus
-Mouvement de caméra propre et retenu
-Parallaxe naturelle entre le premier plan, le plan moyen et l'arrière-plan
-L'objectif sert les relations entre les personnages et la chute comique
-Pas de mouvements de démonstration tape-à-l'œil
-VIII. Exigences de son et de synchronisation
-Dialogue en mandarin natif synchronisé
-Synchronisation labiale précise
-Pauses comiques claires
-Relations de regard précises
-Les sons de dégainage d'épée, de collision, d'atterrissage d'épée et de fermeture sont clairement audibles
-Les sons ambiants existent naturellement tout au long
-Ne pas générer de sous-titres
-Capacités clés de Seedance 2.0 à utiliser :
-Continuité de référence multimodale
-Stabilité des mouvements complexes multi-personnages
-Contrôle de caméra de niveau réalisateur
-Sortie audiovisuelle synchronisée en plusieurs plans de 15 secondes
-IX. Évitement strict
-flou
-mauvaise qualité
-faible qualité
-faible résolution
-bruit
-artefacts jpeg
-filigrane
-texte
-erreur
-déformé
-muté
-mauvaise anatomie
-mains mal dessinées
-mauvaise composition
-hors cadre
-défiguré
-personnage incohérent
-changement de vêtements
-morphing du visage
-décalage d'arrière-plan
-coupures avec glitch
-accessoires disparaissant
-Évitement supplémentaire :
-Sous-titres
-Jeu d'acteur sur-exagéré
-Grimaces sans signification
-Rebondissements complexes et difficiles à comprendre
-Action molle
-Ralenti tape-à-l'œil
-Sorts aléatoires
-Environnement créant les blagues
-Personnages secondaires volant la vedette
-Ennemi perdant soudainement son intelligence
-X. Objectif de l'effet final
-L'expérience de visionnage de l'ensemble du court-métrage doit être :
-Créer d'abord un malentendu superficiel selon lequel « la sœur aînée semble mépriser la sœur cadette »
-Basculer rapidement vers « il s'avère que c'est l'ennemi qui est évalué »
-Utiliser enfin l'action et le suivi du maître pour solidifier la chute
-Mots-clés finaux :
-Xianxia, Comédie pince-sans-rire, Confrontation de maître, Trois temps
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097549144303050752/img/sTN3GzyTawK8gE_-.jpg" width="600" alt="Prompt pour court-métrage de comédie Wuxia">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10560)**
-
-**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2097549763143221433) | **Publié:** Sep 9, 2026
-
----
-### Transformation d'une carte du monde miniature
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique visualisant une carte papier ancienne se transformant physiquement en un monde miniature détaillé avec des montagnes, des rivières et de minuscules villes.
-
-#### 📝 Prompt
-
-```
-FORMAT :
-Vertical 16:9, 4K HDR, cinématographie miniature en prises de vues réelles photoréalistes, qualité publicitaire cinématographique premium, physique réaliste, flou de mouvement naturel, objectif macro, faible profondeur de champ, 24 fps.
-
-CONCEPT CENTRAL :
-Une carte papier ancienne ordinaire posée sur un bureau en bois se transforme physiquement en un monde miniature complet. La caméra pénètre dans ce monde et se termine par une révélation aérienne spectaculaire.
-
-SCÈNE 1 — 0–3 SECONDES | ACCROCHE
-
-Gros plan macro extrême sur une vieille carte papier à la texture magnifique, posée parfaitement à plat sur un bureau en bois sombre.
-
-La carte semble tout à fait ordinaire au début : côtes, rivières, montagnes et routes détaillées imprimées sur le papier.
-
-Une minuscule ondulation parcourt soudainement la carte.
-
-La chaîne de montagnes imprimée commence à s'élever physiquement hors du papier.
-
-Pas d'éclat magique. La transformation doit paraître physique et crédible, comme si la carte plate se transformait en un véritable paysage miniature.
-
-SCÈNE 2 — 3–7 SECONDES | TRANSFORMATION
-
-La caméra recule lentement tandis que toute la carte se transforme.
-
-Les chaînes de montagnes s'élèvent pour devenir des montagnes miniatures détaillées.
-
-Les rivières se creusent dans le terrain et commencent à couler avec de l'eau réaliste.
-
-De minuscules forêts poussent à travers le paysage.
-
-De petites routes émergent physiquement de la carte et relient des villes miniatures.
-
-De minuscules maisons et bâtiments s'élèvent naturellement le long des routes.
-
-Tout reste parfaitement connecté à la disposition originale de la carte.
-
-SCÈNE 3 — 7–11 SECONDES | ENTRER DANS LE MONDE
-
-La caméra plonge en douceur vers une route miniature et passe de la photographie macro sur table à un plan de suivi immersif dans le monde miniature.
-
-Une minuscule voiture d'époque roule le long de la route sinueuse.
-
-La caméra la suit à travers un village de montagne miniature.
-
-Les minuscules maisons ont des murs en pierre, des portes en bois, des tuiles et des fenêtres chaleureusement éclairées.
-
-Des piétons miniatures marchent naturellement le long de la route.
-
-Un petit pont traverse une rivière en mouvement.
-
-SCÈNE 4 — 11–15 SECONDES | RÉVÉLATION FINALE ÉPOUSTOUFLANTE
-
-La caméra suit la route vers le sommet d'une montagne miniature, puis s'élève en douceur au-dessus du paysage.
-
-La carte entière est désormais un continent miniature à couper le souffle.
-
-D'immenses chaînes de montagnes, forêts, rivières, villages, autoroutes, ponts et villes lointaines sont visibles à la surface.
-
-La lumière dorée du coucher de soleil balaie le paysage miniature.
-
-Image finale : la caméra continue de s'élever jusqu'à ce qu'il devienne clair que ce monde vivant repose toujours sur le morceau de papier original posé sur le bureau en bois.
-
-STYLE VISUEL :
-Photographie miniature artisanale ultra-réaliste.
-Fibres de papier extrêmement détaillées.
-Sol, rochers, végétation et eau réalistes.
-Détails architecturaux minuscules.
-Perspective atmosphérique naturelle.
-Éclairage cinématographique d'heure dorée.
-Transitions subtiles de profondeur de champ.
-Reflets et ombres réalistes.
-Esthétique publicitaire de voyage haut de gamme.
-
-CAMÉRA :
-Commencer par une macro extrême.
-Mouvement de travelling lent et contrôlé.
-Transition fluide vers le
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097546953848692736/img/OSsf_7i8D8jTY2SE.jpg" width="600" alt="Transformation d'une carte du monde miniature">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10628)**
-
-**Auteur:** [Maverick | AI](https://x.com/RizwanAly07) | **Source:** [Link](https://x.com/RizwanAly07/status/2097547054189027792) | **Publié:** Sep 9, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -5815,6 +5506,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-27T04:13:58.951Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-27T10:08:44.901Z</sub>
 
 </div>

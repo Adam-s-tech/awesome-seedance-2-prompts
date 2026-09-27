@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6435** |
+| 📝 Total de prompts | **6437** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-09-27** |
 
@@ -361,6 +361,97 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Escadaria para uma epopeia sci-fi do futuro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para um vídeo épico de ficção científica onde escalar uma escadaria gigante revela futuros progressivamente avançados, desde cidades futuristas até viagens interestelares.
+
+#### 📝 Prompt
+
+```
+Uma escadaria colossal emerge do meio do oceano e sobe em direção às nuvens.
+
+As pessoas se reúnem em descrença.
+Um jovem explorador começa a subir.
+Cada degrau revela a Terra cada vez mais no futuro.
+Primeiro degrau: cidades futuristas.
+Próximo degrau: florestas crescendo sobre arranha-céus.
+Em seguida: oceanos preenchidos por civilizações flutuantes.
+Mais alto: anéis orbitais gigantes circundando a Terra.
+Mais alto: cidades à deriva na atmosfera.
+Mais alto: a humanidade viajando entre as estrelas.
+A subida torna-se mais rápida e perigosa.
+Milhares seguem atrás.
+A escadaria estende-se além das nuvens e rumo ao espaço.
+O explorador alcança o último degrau visível.
+Além dele, reside um futuro tão vasto e magnífico que não pode ser plenamente compreendido.
+Uma luz brilhante inunda tudo.
+A escadaria desaparece.
+Deixando apenas o oceano abaixo.
+
+Aventura épica de ficção científica, movimento contínuo ascendente, visões futuras escalonadas, escala de tirar o fôlego, admiração emocional, ambientes fotorrealistas, movimento cinematográfico da câmera, ação dinâmica, visuais de obra-prima, 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104007891334131712/img/2ozhc2jkPkx4N2X2.jpg" width="600" alt="Escadaria para uma epopeia sci-fi do futuro">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11399)**
+
+**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fonte:** [Link](https://x.com/AllaAisling/status/2104007916546068750) | **Publicado:** Sep 27, 2026
+
+---
+### Prompt de Vídeo Anime para Dia Chuvoso
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt detalhado para gerar um vídeo anime de 15 segundos apresentando o encontro entre um anjo e um demônio apenas em dias chuvosos, utilizando Seedance 2.0 com folhas de referência de personagens.
+
+#### 📝 Prompt
+
+```
+Regras:
+- Qualidade de anime teatral com orçamento de 500 milhões de ienes, estilo de animação cel 2D japonesa
+- Multi-shot (múltiplas cenas)
+- Cortes rápidos, alta contagem de quadros. Priorize velocidade e impacto
+- Qualidade profissional de VFX
+- Altere o movimento da câmera a cada cena (sem repetição de movimentos)
+- Sem BGM; som ambiente/efeitos sonoros presentes
+- Sem legendas
+- Todo o diálogo em japonês
+- Ritmo: Mostre atuações calmas lentamente com pausas, depois acelere nos momentos-chave
+- Desenhe a chuva com linhas finas e rápidas; inclua respingos, reflexos nas poças e cabelo molhado e grudado na arte
+- Chuva noturna. Reflita cores de postes de rua e neon no pavimento molhado; garanta que os personagens azul-pálidos e brancos não se misturem ao fundo cinza
+- Mantenha os protagonistas grandes no quadro; rostos e fantasias devem estar claramente visíveis. Não os faça como pontos minúsculos em planos abertos
+- Sem texto, logotipos ou números na tela
+
+@ Image1: Sujeito - Sylvie
+@ Image2: Sujeito - Ayle
+
+[Consistência] Mantenha uma aparência consistente durante todo o vídeo para Sylvie (bob prateado escondendo o olho direito, olho visível é verde-amarelado. Chifres de demônio azul claro e vestido de cabeça com babados, pequenas asas de morcego azul claro e cauda fina, vestido branco puro com babados e fita azul clara, meias listradas em azul claro e branco) e Ayle (bob azul cortado reto, ornamentos redondos de penas brancas em ambos os lados da cabeça, pequenas asas azuis e brancas nos ombros, vestido branco com padrões circulares azuis, saia longa arrastada de penas azuis). Não confunda os dois personagens. Ayle é um anjo acima das nuvens, Sylvie é um demônio no chão.
+[Objetivo de Geração] Podem se encontrar apenas em dias chuvosos
+(6 etapas, um vídeo contínuo. Descendo ao longo dos fios de chuva para se encontrar até a chuva parar)
+[S1] Acima das nuvens. Ayle de @ Image2 agarra os fios de chuva caindo pelas brechas nas nuvens e desliza até o chão como em um escorregador (rosto cheio de alegria impaciente).
+Câmera: Dolly de alta velocidade seguindo Ayle deslizando ao longo dos fios de chuva diretamente de cima.
+[S2] No telhado de uma cidade numa noite chuvosa. Sylvie de @ Image1 espera olhando para o céu sem guarda-chuva. Gotas de chuva caem de seus chifres azul claro e asas de morcego.
+Câmera: Ângulo baixo do telhado mostrando o perfil de Sylvie enquanto ela olha para cima.
+[S3] Ayle pousa suavemente no telhado, frente a frente. Sylvie vira-se timidamente, mas a ponta de sua cauda abana feliz.
+Câmera: Plano duplo lateral mostrando ambas. Afaste a câmera para mostrar o abanar da cauda.
+Ayle (voz alegre) diz: {Eu vim}
+[S4] Elas sentam lado a lado no telhado. Sylvie abre suas asas de morcego como um guarda-chuva sobre Ayle. As luzes da cidade chuvosa ficam desfocadas e brilham abaixo delas.
+Câmera: Olhando para baixo para a paisagem urbana noturna chuvosa por trás das duas.
+[S5] A chuva enfraquece, a luz da lua atravessa as nuvens. O corpo de Ayle flutua suavemente atraído pela luz, retornando ao céu. Sylvie estende a mão. Suas pontas dos dedos se separam.
+Câmera: Close-up das pontas dos dedos se separando, depois pan para o rosto de Sylvie olhando para cima.
+Ayle (sorriso chorando) diz: {Até logo}
+[S6] Sozinha no telhado, Sylvie olha para cima enquanto a chuva finalmente para.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103733508971872256/img/x7QgBynH5x5yKSty.jpg" width="600" alt="Prompt de Vídeo Anime para Dia Chuvoso">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11400)**
+
+**Autor:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fonte:** [Link](https://x.com/aiehon_aya/status/2103734879636898211) | **Publicado:** Sep 26, 2026
+
+---
 ### Roteiro de Curta-Metragem de Terror sobre Invasão Doméstica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5387,406 +5478,6 @@ Cena cinematográfica ultrarrealista de uma jovem em pé dentro de um vagão de 
 **Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2097555044195508407) | **Publicado:** Sep 9, 2026
 
 ---
-### Prompt para Curta-metragem de Comédia Wuxia
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um roteiro abrangente no estilo de direção e prompt para um curta-metragem de comédia Wuxia de 15 segundos, detalhando a continuidade dos personagens, coreografia de câmera e timing cômico para o Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-I. Objetivo da Tarefa
-
-Gerar um curta-metragem completo e contínuo de 15 segundos de um filme de Xianxia chinês.
-
-A trama central de comédia é única e deve ser compreendida imediatamente pelo público na primeira visualização:
-
-Um espadachim inimigo provoca deliberadamente a irmã mais velha e a irmã mais nova ao citar erroneamente o que a irmã mais velha disse, fazendo com que a irmã mais nova acredite que a irmã mais velha acha que ela perderia em três movimentos.
-
-A verdadeira reviravolta é:
-
-Elas nunca estiveram discutindo se a irmã mais nova conseguiria vencer, mas sim quantos movimentos esse inimigo conseguiria suportar.
-
-II. Estilo Geral
-
-A sensação geral deve possuir simultaneamente as seguintes qualidades:
-
-Textura cinematográfica realista
-Estética pura de Xianxia chinês antigo
-Gramática de enquadramento de confronto de mestres em nível épico
-Comédia "deadpan" (humor seco)
-Ritmo de reação de filme mudo
-Eficiência da comédia de ação estilo Hong Kong
-Progressão clara em três tempos
-Setup e payoff explícitos
-Qualidade de câmera cinematográfica Arri Alexa
-Microdetalhes faciais estáveis e nítidos
-Grão de filme fino
-Luz volumétrica natural
-A comédia deve ser contida, não exagerada ou boba, e não deve depender de personagens agindo de forma estúpida.
-
-III. Identidade e Fixação dos Personagens
-
-ID de Personagem A | @Image 1 | Irmã Mais Velha Espadachim Imortal
-
-Sempre mantenha o mesmo personagem:
-
-Mulher do Leste Asiático, 25–30 anos
-Estrutura alta e esguia
-Rosto oval
-Olhos amendoados escuros
-Cabelo longo preto meio preso
-Preso com um grampo de jade branco
-O mesmo conjunto de Hanfu de seda bordado branco
-Faixa de cintura prateada
-Pingente de jade
-Botas de pano brancas
-Uma única espada longa prateada
-ID de Personagem B | @Image 2 | Irmã Mais Nova
-Sempre mantenha o mesmo personagem:
-
-Mulher do Leste Asiático, 20–25 anos
-Estrutura pequena e franzina
-Rosto redondo e expressivo
-Cabelo preto em tranças
-O mesmo conjunto de Hanfu de linho azul-esverdeado
-Cinto escuro
-Grampo de madeira
-Sapatos de pano pretos
-Uma única espada de aço escuro
-Outros Personagens
-Espadachim Inimigo
-Um espadachim inimigo
-Responsável pela provocação, por induzir ao erro e pelo movimento final
-Não deve roubar o centro emocional cômico
-Mestre Ancião
-O mesmo mestre ancião
-Apenas desfere o golpe metafórico final no momento crítico
-Deve permanecer quieto, contido e com uma seriedade absoluta
-IV. DNA do Ambiente e Princípios Espaciais
-Todas as imagens de referência de fundo e localização enviadas nesta rodada determinam conjuntamente um único conjunto de DNA ambiental.
-
-Antes da composição formal, integre e unifique silenciosamente o seguinte:
-
-Terreno real
-Linguagem arquitetônica
-Materiais
-Vegetação
-Corpos d'água
-Clima
-Névoa da montanha
-Direção da luz primária
-Reflexos
-Profundidade atmosférica
-Com base nisso, replaneje um:
-Espaço novo, único, totalmente unificado e crível para esta rodada.
-Regras Ambientais
-Os seguintes elementos no fundo permanecem naturalmente vibrantes:
-Vento
-Corpos d'água
-Vegetação
-Camadas de nuvens
-Discípulos comuns à distância
-Som ambiente espacial
-Mas devem satisfazer:
-O fundo permanece absolutamente neutro
-Não cria piadas
-Não cria reviravoltas
-Não impulsiona a trama ativamente
-Não expressa emoções em nome dos personagens
-V. Estrutura de Três Planos
-Plano 1 | 0–5s
-Tipo de Plano
-Plano aberto ou plano geral
-Conteúdo Visual
-Mesma Irmã Mais Velha Espadachim Imortal
-Mesma Irmã Mais Nova
-Um espadachim inimigo
-Um mestre ancião
-Os quatro estão localizados em um espaço unificado com uma relação geográfica clara e estável.
-O espadachim inimigo está diretamente à frente das duas irmãs, e o mestre ancião existe silenciosamente a poucos passos de distância.
-Trama e Diálogo
-O inimigo olha para a irmã mais nova de forma provocativa e diz:
-"Sua irmã mais velha disse que, se você lutar comigo, perderá em três movimentos."
-A mesma irmã mais nova vira a cabeça muito lentamente para olhar para a irmã mais velha e pergunta:
-"Três movimentos?"
-A mesma espadachim imortal de branco não demonstra tensão, apenas corrige calmamente:
-"Eu estava falando dele."
-Destaques do Plano
-O primeiro tempo deve fazer o público pensar que o conflito é "a irmã mais velha menosprezando a irmã mais nova"
-O movimento de cabeça da irmã mais nova deve ser claro
-A correção da irmã mais velha deve ser calma, certeira e sem necessidade de explicação
-Esta fala deve inverter diretamente a primeira camada de mal-entendido
-Plano 2 | 5–10s
-Tipo de Plano
-Plano médio ou plano americano
-Requisitos de Continuidade
-Mantenha o seguinte estável durante todo o tempo:
-As mesmas duas mulheres
-O mesmo inimigo
-O mesmo mestre
-Mesmas roupas
-Mesmas espadas longas
-Espaço geográfico idêntico
-Trama e Diálogo
-A irmã mais nova olha imediatamente de volta para o inimigo.
-Desta vez ela não está brava, mas genuinamente surpresa, dizendo:
-"Três movimentos? Irmã mais velha, você está sendo generosa demais."
-A expressão presunçosa do inimigo congela instantaneamente.
-Na profundidade de campo rasa ao fundo, o mesmo mestre permanece em silêncio durante todo o tempo, apenas levantando um dedo silenciosamente.
-Ao descobrir isso, o inimigo pergunta irritado:
-"O que você quer dizer?"
-O foco do plano muda para o mestre.
-O mestre permanece absolutamente sério, respondendo apenas:
-"Um movimento."
-Uma pausa completa de meio tempo.
-O inimigo finalmente desmorona completamente, gritando:
-"Isso é demais!"
-Ele então saca sua espada ativamente e avança diretamente contra a irmã mais velha.
-Destaques do Plano
-O segundo tempo completa a progressão cômica
-"Três movimentos" é atualizado para "um movimento"
-A interjeição do mestre deve ser muito seca
-A pausa deve ser suficiente para deixar tanto o público quanto o inimigo perceberem que foram previstos
-Entre no segmento de ação imediatamente após o inimigo desmoronar
-Plano 3 | 10–15s
-Tipo de Plano
-Close-up ou close-up extremo
-Requisitos de Continuidade
-Mantenha o seguinte estável:
-Mesma irmã mais velha
-Mesma irmã mais nova
-Mesmo inimigo
-Mesmo mestre
-Roupas, espadas, posicionamento e relações espaciais permanecem consistentes
-Design de Ação
-A mesma irmã mais velha permanece relaxada, nem sequer sacando totalmente sua espada longa prateada.
-Ela apenas completa um:
-Muito claro
-Fisicamente lógico
-Extremamente breve
-Extremamente preciso
-Sequência de ação:
-Desvia do avanço frontal do inimigo
-Usa a espada longa prateada ainda embainhada
-Dá um breve toque no pulso da mão da espada do inimigo
-Usa o impulso para frente do inimigo para deslocar seu centro de gravidade
-Resultado:
-A espada longa do inimigo gira para fora de sua mão
-Aterrissa com segurança no solo próximo
-O inimigo cai sobre um joelho
-Sem ferimentos sangrentos durante todo o processo
-Diálogo Pós-Ação
-Silêncio total.
-A mesma irmã mais nova levanta lentamente um dedo e diz seriamente:
-"Mestre, seu palpite foi certeiro."
-A mesma irmã mais velha espadachim imortal olha para o inimigo derrotado e responde calmamente:
-"Na verdade, meio movimento."
-O foco do plano volta para o mestre novamente.
-O mestre diz com humor seco:
-"Eu já estava dando a ele um pouco de crédito."
-Plano de Encerramento
-Em um close-up extremo:
-O inimigo olha para o mestre, a irmã mais velha e a irmã mais nova, um por um
-Descobrindo que não pode refutar uma única palavra
-A irmã mais nova morde o lábio com força tentando conter o riso
-A irmã mais velha ainda lhe dá formalmente uma saudação de cortesia de artista marcial
-Corte preciso em:
-A expressão completamente sem palavras do inimigo.
-VI. Princípios de Performance
-Irmã Mais Velha
-Sempre calma
-Não se exibe
-Não explica demais
-O relaxamento da pessoa mais forte deve ser estável
-A comédia depende da seriedade, não de um tom de brincadeira
-Irmã Mais Nova
-Reações rápidas
-Emoções não exageradas
-O ritmo de "mal-entendido" para "entendimento" para "piada" deve ser claro
-O riso contido deve ser real e contido
-Inimigo
-Deve estar genuinamente confiante na primeira metade
-Congela gradualmente no meio
-Desmorona no final, mas não deve agir como um palhaço
-O riso vem da percepção tardia, não da estupidez
-Mestre
-Muito poucas falas
-Cada fala soa como um julgamento final
-Deve ser de uma seriedade absoluta
-Quanto mais sério, mais engraçado
-VII. Requisitos de Ação e Câmera
-A mecânica corporal da ação deve ser clara e natural
-O avanço do inimigo deve ter impulso real
-A resposta da irmã mais velha deve ser extremamente eficiente, precisa e breve
-A vitória/derrota deve ser compreendida de relance
-Sem combos complexos e chamativos
-Sem movimentos arrastados
-Sem efeitos especiais de poluição luminosa
-Sem auras de espada aleatórias
-Requisitos de Câmera
-Widescreen 16:9
-Estritamente três planos contínuos e claros
-Movimento de câmera limpo e contido
-Paralaxe natural entre primeiro plano, plano médio e fundo
-A lente serve às relações dos personagens e ao payoff da piada
-Sem movimentos chamativos de exibição
-VIII. Requisitos de Som e Sincronização
-Diálogo em mandarim nativo sincronizado
-Sincronia labial precisa
-Pausas cômicas claras
-Relações de linha de visão precisas
-Sons de sacar a espada, colisão, aterrissagem da espada e encerramento são claramente audíveis
-Sons ambientes existem naturalmente durante todo o tempo
-Não gere legendas
-Principais capacidades do Seedance 2.0 a utilizar:
-Continuidade de referência multimodal
-Estabilidade de movimento complexo de múltiplos personagens
-Controle de câmera em nível de diretor
-Saída audiovisual sincronizada de múltiplos planos de 15 segundos
-IX. Evitar Estritamente
-borrado
-baixa qualidade
-baixa resolução
-ruidoso
-artefatos jpeg
-marca d'água
-texto
-erro
-deformado
-mutado
-anatomia ruim
-mãos mal desenhadas
-composição ruim
-fora de enquadramento
-desfigurado
-personagem inconsistente
-troca de roupas
-morfismo facial
-deslocamento de fundo
-cortes com falhas
-objetos desaparecendo
-Evitar Adicional:
-Legendas
-Atuação exagerada
-Rostos engraçados sem sentido
-Reviravoltas complexas e difíceis de entender
-Ação suave
-Slow-motion chamativo
-Feitiços aleatórios
-Ambiente criando as piadas
-Personagens secundários roubando a cena
-Inimigo perdendo a inteligência de repente
-X. Objetivo do Efeito Final
-A experiência de visualização de todo o curta deve ser:
-Primeiro criar um mal-entendido superficial de que "a irmã mais velha parece menosprezar a irmã mais nova"
-Inverter rapidamente para "descobre-se que o inimigo é quem está sendo avaliado"
-Finalmente usar a ação e o acompanhamento do mestre para consolidar a piada
-Palavras-chave Finais:
-Xianxia, Comédia Deadpan, Confronto de Mestres, Três tempos
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097549144303050752/img/sTN3GzyTawK8gE_-.jpg" width="600" alt="Prompt para Curta-metragem de Comédia Wuxia">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10560)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2097549763143221433) | **Publicado:** Sep 9, 2026
-
----
-### Transformação de Mapa-Múndi em Miniatura
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico que visualiza um mapa de papel antigo transformando-se fisicamente em um mundo em miniatura detalhado, com montanhas, rios e pequenas cidades.
-
-#### 📝 Prompt
-
-```
-FORMATO:
-Vertical 16:9, 4K HDR, cinematografia de miniatura em live-action fotorrealista, qualidade comercial cinematográfica premium, física realista, desfoque de movimento natural, lente macro, profundidade de campo rasa, 24fps.
-
-CONCEITO CENTRAL:
-Um mapa de papel antigo comum sobre uma mesa de madeira transforma-se fisicamente em um mundo em miniatura completo. A câmera entra no mundo e termina com uma revelação aérea espetacular.
-
-CENA 1 — 0–3 SEGUNDOS | GANCHO
-
-Close-up macro extremo de um mapa de papel antigo, com textura detalhada, deitado completamente plano sobre uma mesa de madeira escura.
-
-O mapa parece totalmente comum no início: costas, rios, montanhas e estradas detalhadas impressas no papel.
-
-Uma única pequena ondulação percorre repentinamente o mapa.
-
-A cordilheira impressa começa a se elevar fisicamente do papel.
-
-Sem brilhos mágicos. A transformação deve parecer física e crível, como se o mapa plano estivesse se transformando em uma paisagem em miniatura real.
-
-CENA 2 — 3–7 SEGUNDOS | TRANSFORMAÇÃO
-
-A câmera recua lentamente enquanto todo o mapa se transforma.
-
-Cordilheiras se elevam em montanhas em miniatura detalhadas.
-
-Rios esculpem o terreno e começam a fluir com água realista.
-
-Florestas minúsculas crescem pela paisagem.
-
-Pequenas estradas emergem fisicamente do mapa e conectam cidades em miniatura.
-
-Casas e edifícios minúsculos surgem naturalmente ao longo das estradas.
-
-Tudo permanece perfeitamente conectado ao layout original do mapa.
-
-CENA 3 — 7–11 SEGUNDOS | ENTRANDO NO MUNDO
-
-A câmera mergulha suavemente em direção a uma estrada em miniatura e faz a transição da fotografia macro de mesa para um plano de acompanhamento imersivo no mundo em miniatura.
-
-Um pequeno carro vintage dirige ao longo da estrada sinuosa.
-
-A câmera segue atrás dele através de uma vila montanhosa em miniatura.
-
-As casas minúsculas possuem paredes de pedra realistas, portas de madeira, telhas e janelas com brilho quente.
-
-Pedestres em miniatura caminham naturalmente ao longo da estrada.
-
-Uma pequena ponte cruza um rio caudaloso.
-
-CENA 4 — 11–15 SEGUNDOS | GRANDE REVELAÇÃO FINAL
-
-A câmera segue a estrada em direção ao topo de uma montanha em miniatura e, em seguida, sobe suavemente acima da paisagem.
-
-O mapa inteiro agora é um continente em miniatura de tirar o fôlego.
-
-Enormes cordilheiras, florestas, rios, vilas, rodovias, pontes e cidades distantes são visíveis por toda a superfície.
-
-A luz dourada do pôr do sol varre a paisagem em miniatura.
-
-Quadro final: a câmera continua subindo até ficar claro que todo esse mundo vivo ainda está sobre o pedaço de papel original na mesa de madeira.
-
-ESTILO VISUAL:
-Fotografia em miniatura artesanal ultrarrealista.
-Fibras de papel extremamente detalhadas.
-Solo, rochas, vegetação e água realistas.
-Detalhes arquitetônicos minúsculos.
-Perspectiva atmosférica natural.
-Iluminação cinematográfica de hora dourada.
-Transições sutis de profundidade de campo.
-Reflexos e sombras realistas.
-Estética premium de comercial de viagens de alto padrão.
-
-CÂMERA:
-Comece com macro extremo.
-Movimento de dolly lento e controlado.
-Transição suave para o
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097546953848692736/img/OSsf_7i8D8jTY2SE.jpg" width="600" alt="Transformação de Mapa-Múndi em Miniatura">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10628)**
-
-**Autor:** [Maverick | AI](https://x.com/RizwanAly07) | **Fonte:** [Link](https://x.com/RizwanAly07/status/2097547054189027792) | **Publicado:** Sep 9, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -5848,6 +5539,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-27T04:14:01.872Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-27T10:08:49.179Z</sub>
 
 </div>

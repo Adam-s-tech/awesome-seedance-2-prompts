@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6435** |
+| 📝 Total de prompts | **6437** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-09-27** |
 
@@ -361,6 +361,98 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Escalera hacia una epopeya de ciencia ficción
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para un video épico de ciencia ficción donde subir una escalera gigante revela futuros progresivamente avanzados, desde ciudades futuristas hasta viajes interestelares.
+
+#### 📝 Prompt
+
+```
+Una escalera enorme emerge del medio del océano y se eleva hacia las nubes.
+
+La gente se reúne incrédula.
+Un joven explorador comienza a subir.
+Cada paso revela la Tierra más adentrado en el futuro.
+Primer paso: ciudades futuristas.
+Siguiente paso: bosques creciendo sobre rascacielos.
+Siguiente: océanos llenos de civilizaciones flotantes.
+Más arriba: anillos orbitales gigantes rodeando la Tierra.
+Más arriba: ciudades a la deriva en la atmósfera.
+Más arriba: la humanidad viajando entre las estrellas.
+El ascenso se vuelve más rápido y peligroso.
+Miles siguen detrás.
+La escalera se extiende más allá de las nubes y hacia el espacio.
+El explorador alcanza el último escalón visible.
+Más allá se encuentra un futuro tan vasto y magnífico que no puede comprenderse por completo.
+Una luz brillante inunda todo.
+La escalera desaparece.
+Dejando solo el océano abajo.
+
+Aventura épica de ciencia ficción, movimiento ascendente continuo, visiones futuras escalonadas, escala impresionante, asombro emocional, entornos fotorrealistas, movimiento de cámara cinematográfico, acción dinámica, visuales de obra maestra, 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104007891334131712/img/2ozhc2jkPkx4N2X2.jpg" width="600" alt="Escalera hacia una epopeya de ciencia ficción">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11399)**
+
+**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fuente:** [Link](https://x.com/AllaAisling/status/2104007916546068750) | **Publicado:** Sep 27, 2026
+
+---
+### Prompt de Video Anime para Días Lluviosos
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt detallado para generar un video anime de 15 segundos que muestra el encuentro entre un ángel y un demonio únicamente en días lluviosos, utilizando Seedance 2.0 con hojas de referencia de personajes.
+
+#### 📝 Prompt
+
+```
+Reglas:
+- Calidad de anime cinematográfico con un presupuesto de 500 millones de yenes, estilo de animación japonesa 2D cel
+- Multiplano
+- Cortes rápidos, alta cantidad de fotogramas. Prioriza la velocidad y el impacto
+- Calidad profesional de VFX
+- Cambia el movimiento de cámara en cada plano (sin repetición de movimientos)
+- Sin BGM; sonido ambiental/efectos de sonido presentes
+- Sin subtítulos
+- Todo el diálogo en japonés
+- Ritmo: Muestra las actuaciones tranquilas lentamente con pausas, luego avanza rápidamente durante los momentos clave
+- Dibuja la lluvia con líneas finas y rápidas; incluye salpicaduras, reflejos en charcos y cabello mojado apelmazado en el arte
+- Lluvia nocturna. Refleja luces de calle y colores neón sobre el pavimento mojado; asegúrate de que los personajes azul pálido y blanco no se mezclen con el fondo gris
+- Mantén a los protagonistas grandes en el encuadre; sus rostros y trajes deben ser claramente visibles. No los conviertas en pequeños puntos en planos generales
+- Sin texto, logotipos ni números en pantalla
+
+@ Image1: Sujeto - Sylvie
+@ Image2: Sujeto - Ayle
+
+[Consistencia] Mantén una apariencia consistente durante todo el video para Sylvie (bob plateado que oculta el ojo derecho, ojo visible amarillo-verde. Cuernos de demonio azul claro y tocado con volantes, pequeñas alas de murciélago azul claro y cola delgada, vestido blanco puro con volantes y cinta azul claro, calcetines a rayas azules claras y blancas) y Ayle (bob recto azul, adornos redondos de plumas blancas a ambos lados de la cabeza, pequeñas alas azules y blancas en los hombros, vestido blanco con patrones circulares azules, falda larga arrastrada de plumas azules). No confundas a los dos personajes. Ayle es un ángel sobre las nubes, Sylvie es un demonio en el suelo.
+[Objetivo de Generación] Solo pueden encontrarse en días lluviosos
+(6 etapas, un video continuo. Bajando a lo largo de hilos de lluvia para encontrarse hasta que cesa la lluvia)
+[S1] Sobre las nubes. Ayle de @ Image2 agarra hilos de lluvia cayendo desde huecos en las nubes y se desliza hacia el suelo como por un tobogán (rostro lleno de alegría impaciente).
+Cámara: Dolly rápido siguiendo a Ayle deslizándose a lo largo de los hilos de lluvia desde arriba directamente.
+[S2] En el techo de un pueblo en una noche lluviosa. Sylvie de @ Image1 espera mirando hacia el cielo sin paraguas. Las gotas de lluvia caen de sus cuernos azul claro y alas de murciélago.
+Cámara: Ángulo bajo desde el techo mostrando el perfil de Sylvie mientras mira hacia arriba.
+[S3] Ayle aterriza suavemente en el techo, frente a frente. Sylvie se aparta tímidamente, pero la punta de su cola mueve felizmente.
+Cámara: Plano conjunto lateral mostrando a ambas. Alejar para mostrar el movimiento de la cola.
+Ayle (voz alegre) dice: {Vine}
+[S4] Se sientan lado a lado en el techo. Sylvie extiende sus alas de murciélago como un paraguas sobre Ayle. Las luces del pueblo lluvioso se difuminan y brillan debajo de ellas.
+Cámara: Mirando hacia abajo al paisaje urbano nocturno lluvioso desde detrás de las dos.
+[S5] La lluvia amaina, la luz de la luna rompe a través de las nubes. El cuerpo de Ayle flota suavemente atraído por la luz, regresando al cielo. Sylvie extiende la mano. Sus puntas de dedos se separan.
+Cámara: Primer plano de las puntas de dedos separándose, luego paneo hacia arriba al rostro de Sylvie mirando hacia arriba.
+Ayle (sonrisa llorosa) dice: {Próximo día lluvioso}
+[S6] Sola en el techo seco, Sylvie sostiene una de las plumas azules de Ayle en su palma. La aprieta fuerte y sonríe débilmente mientras mira hacia el cielo.
+Cámara: Primer plano de la pluma, luego alejar a Sylvie mirando hacia arriba al cielo nocturno.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103733508971872256/img/x7QgBynH5x5yKSty.jpg" width="600" alt="Prompt de Video Anime para Días Lluviosos">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11400)**
+
+**Autor:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fuente:** [Link](https://x.com/aiehon_aya/status/2103734879636898211) | **Publicado:** Sep 26, 2026
+
+---
 ### Guion de Cortometraje de Terror: Invasión a Domicilio
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5455,406 +5547,6 @@ Escena cinematográfica ultra realista de una joven de pie dentro de un vagón d
 **Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2097555044195508407) | **Publicado:** Sep 9, 2026
 
 ---
-### Prompt para cortometraje de comedia Wuxia
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un guion completo al estilo de director y un prompt para un cortometraje de comedia Wuxia de 15 segundos, detallando la continuidad de personajes, coreografía de cámara y ritmo cómico para Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-I. Objetivo de la tarea
-
-Generar un cortometraje continuo de 15 segundos de una película de Xianxia china.
-
-La trama central de comedia es única y debe ser comprendida inmediatamente por la audiencia al primer visionado:
-
-Un espadachín enemigo provoca deliberadamente a la hermana mayor y a la hermana menor citando erróneamente lo que dijo la hermana mayor, haciendo que la hermana menor crea que la hermana mayor piensa que ella perdería en tres movimientos.
-
-El verdadero giro es:
-
-Nunca estuvieron discutiendo si la hermana menor podría ganar, sino cuántos movimientos podría resistir este enemigo.
-
-II. Estilo general
-
-La sensación general debe poseer simultáneamente las siguientes cualidades:
-
-Textura cinematográfica realista
-Estética pura de Xianxia chino antiguo
-Gramática de planos de confrontación de maestros a nivel épico
-Comedia seca (deadpan)
-Ritmo de reacción de cine mudo
-Eficiencia de comedia de acción al estilo de Hong Kong
-Progresión clara de tres tiempos
-Configuración y remate explícitos
-Calidad de cámara cinematográfica Arri Alexa
-Microdetalles faciales estables y claros
-Grano de película fino
-Luz volumétrica natural
-La comedia debe ser contenida, no exagerada ni tonta, y no debe depender de que los personajes se vuelvan estúpidos.
-
-III. Identidad de los personajes
-
-ID de personaje A | @Imagen 1 | Hermana mayor, Inmortal de la espada
-
-Mantener siempre al mismo personaje:
-
-Mujer de Asia Oriental de 25 a 30 años
-Complexión alta y delgada
-Cara ovalada
-Ojos almendrados oscuros
-Cabello largo negro semirecogido
-Sujeto con una horquilla de jade blanco
-El mismo conjunto de Hanfu de seda bordada blanca
-Cinturón plateado
-Colgante de jade
-Botas de tela blanca
-Una espada larga plateada
-ID de personaje B | @Imagen 2 | Hermana menor
-Mantener siempre al mismo personaje:
-
-Mujer de Asia Oriental de 20 a 25 años
-Complexión pequeña y menuda
-Cara redonda y vivaz
-Cabello negro en trenzas
-El mismo conjunto de Hanfu de lino azul verdoso
-Cinturón oscuro
-Horquilla de madera
-Zapatos de tela negra
-Una espada de acero oscuro
-Otros personajes
-Espadachín enemigo
-Un espadachín enemigo
-Responsable de la provocación, el engaño y el movimiento final
-No debe robar el centro emocional cómico
-Maestro anciano
-El mismo maestro anciano
-Solo entrega el golpe metafórico final en el momento crítico
-Debe permanecer callado, contenido y con una seriedad absoluta
-IV. ADN del entorno y principios espaciales
-Todas las imágenes de referencia de fondo y ubicación subidas en esta ronda determinan conjuntamente un único conjunto de ADN ambiental.
-
-Antes de la composición formal, integrar y unificar silenciosamente lo siguiente:
-
-Terreno real
-Lenguaje arquitectónico
-Materiales
-Vegetación
-Cuerpos de agua
-Clima
-Niebla de montaña
-Dirección de luz primaria
-Reflejos
-Profundidad atmosférica
-Basado en esto, replanificar un:
-Espacio nuevo, único, totalmente unificado y creíble para esta ronda.
-Reglas ambientales
-Los siguientes elementos en el fondo permanecen naturalmente vibrantes:
-Viento
-Cuerpos de agua
-Vegetación
-Capas de nubes
-Discípulos comunes a lo lejos
-Sonido ambiental espacial
-Pero deben satisfacer:
-El fondo permanece absolutamente neutral
-No crea remates
-No crea giros
-No impulsa activamente la trama
-No expresa emociones en nombre de los personajes
-V. Estructura de tres planos
-Plano 1 | 0–5s
-Tipo de plano
-Plano general o plano largo
-Contenido visual
-La misma hermana mayor, Inmortal de la espada
-La misma hermana menor
-Un espadachín enemigo
-Un maestro anciano
-Los cuatro se encuentran en un espacio unificado con una relación geográfica clara y estable. El espadachín enemigo se encuentra directamente frente a las dos hermanas, y el maestro anciano existe silenciosamente a solo unos pasos de distancia.
-Trama y diálogo
-El enemigo mira a la hermana menor de forma provocativa y dice:
-"Tu propia hermana mayor dijo que si peleas conmigo, perderás en tres movimientos".
-La misma hermana menor gira la cabeza muy lentamente para mirar a la hermana mayor y pregunta:
-"¿Tres movimientos?"
-La misma inmortal de la espada vestida de blanco no muestra tensión, solo corrige con calma:
-"Estaba hablando de él".
-Aspectos destacados del plano
-El primer tiempo debe hacer que la audiencia piense que el conflicto es "la hermana mayor menospreciando a la hermana menor"
-El giro de cabeza de la hermana menor debe ser claro
-La corrección de la hermana mayor debe ser tranquila, segura y sin necesidad de explicación
-Esta línea debe darle la vuelta directamente a la primera capa de malentendido
-Plano 2 | 5–10s
-Tipo de plano
-Plano medio o plano americano
-Requisitos de continuidad
-Mantener estable lo siguiente en todo momento:
-Las mismas dos mujeres
-El mismo enemigo
-El mismo maestro
-La misma ropa
-Las mismas espadas largas
-Idéntico espacio geográfico
-Trama y diálogo
-La hermana menor mira inmediatamente al enemigo.
-Esta vez no está enojada, sino genuinamente sorprendida, diciendo:
-"¿Tres movimientos? Hermana mayor, eres demasiado generosa".
-La expresión presumida del enemigo se congela instantáneamente.
-En la profundidad de campo superficial del fondo, el mismo maestro permanece en silencio todo el tiempo, solo levantando un dedo silenciosamente.
-Al descubrir esto, el enemigo pregunta enojado:
-"¿Qué quieres decir?"
-El enfoque del plano cambia al maestro.
-El maestro permanece absolutamente serio, solo respondiendo:
-"Un movimiento".
-Una pausa completa de medio tiempo.
-El enemigo finalmente se desmorona por completo, gritando:
-"¡Esto es demasiado!"
-Luego desenvaina activamente su espada y carga directamente contra la hermana mayor.
-Aspectos destacados del plano
-El segundo tiempo completa la progresión cómica
-"Tres movimientos" se convierte en "un movimiento"
-La interjección del maestro debe ser muy seca
-La pausa debe ser suficiente para que tanto la audiencia como el enemigo se den cuenta de que han sido predichos
-Entrar en el segmento de acción inmediatamente después de que el enemigo se quiebre
-Plano 3 | 10–15s
-Tipo de plano
-Primer plano o primerísimo primer plano
-Requisitos de continuidad
-Mantener estable lo siguiente:
-La misma hermana mayor
-La misma hermana menor
-El mismo enemigo
-El mismo maestro
-La ropa, las espadas, el posicionamiento y las relaciones espaciales permanecen consistentes en todo momento
-Diseño de acción
-La misma hermana mayor permanece relajada, sin siquiera desenvainar completamente su espada larga plateada.
-Ella solo completa uno:
-Muy claro
-Físicamente lógico
-Extremadamente breve
-Extremadamente preciso
-Secuencia de acción:
-Esquiva la carga frontal del enemigo
-Usa la espada larga plateada aún enfundada
-Golpea brevemente la muñeca de la mano de la espada del enemigo
-Usa el impulso hacia adelante del enemigo para desplazar su centro de gravedad
-Resultado:
-La espada larga del enemigo sale volando de su mano
-Cae de forma segura en el suelo cercano
-El enemigo cae sobre una rodilla
-Sin heridas sangrientas en ningún momento
-Diálogo posterior a la acción
-Silencio total.
-La misma hermana menor levanta lentamente un dedo y dice seriamente:
-"Maestro, su suposición fue acertada".
-La misma hermana mayor, Inmortal de la espada, mira al enemigo derrotado y responde con calma:
-"En realidad, medio movimiento".
-El enfoque del plano vuelve al maestro.
-El maestro dice con tono inexpresivo:
-"Ya le estaba dando algo de crédito".
-Plano de cierre
-En un primerísimo primer plano:
-El enemigo mira al maestro, a la hermana mayor y a la hermana menor por turno
-Al descubrir que no puede refutar ni una sola palabra
-La hermana menor se muerde el labio con fuerza tratando de contener una risa
-La hermana mayor todavía le hace una reverencia de cortesía de artista marcial de manera muy formal
-Corte preciso en:
-La expresión de total falta de palabras del enemigo.
-VI. Principios de actuación
-Hermana mayor
-Siempre tranquila
-No presume
-No explica demasiado
-La relajación de la persona más fuerte debe ser estable
-La comedia se basa en la seriedad, no en un tono de broma
-Hermana menor
-Reacciones rápidas
-Emociones no exageradas
-El ritmo desde el "malentendido" hasta la "comprensión" y el "remate" debe ser claro
-La risa reprimida debe ser real y contenida
-Enemigo
-Debe estar genuinamente confiado en la primera mitad
-Se congela gradualmente en el medio
-Se desmorona al final pero no debe actuar como un payaso
-La risa proviene de la comprensión tardía, no de la estupidez
-Maestro
-Muy pocas líneas
-Cada línea suena como un juicio final
-Debe ser inexpresivo y serio
-Cuanto más serio, más divertido
-VII. Requisitos de acción y cámara
-La mecánica corporal de la acción debe ser clara y natural
-La carga del enemigo debe tener un impulso real
-La respuesta de la hermana mayor debe ser extremadamente eficiente, precisa y breve
-La victoria/derrota debe entenderse de un vistazo
-Sin combos complejos y llamativos
-Sin movimientos arrastrados
-Sin efectos especiales de contaminación lumínica
-Sin auras de espada aleatorias
-Requisitos de cámara
-16:9 pantalla ancha
-Estrictamente tres planos claros y continuos
-Movimiento de cámara limpio y contenido
-Paralaje natural entre primer plano, plano medio y fondo
-La lente sirve a las relaciones de los personajes y al remate
-Sin movimientos llamativos de lucimiento
-VIII. Requisitos de sonido y sincronización
-Diálogo en mandarín sincronizado nativo
-Sincronización labial precisa
-Pausas cómicas claras
-Relaciones precisas de línea de visión
-Los sonidos de desenvainar la espada, colisión, aterrizaje de la espada y cierre son claramente audibles
-Los sonidos ambientales existen naturalmente en todo momento
-No generar subtítulos
-Capacidades clave de Seedance 2.0 a utilizar:
-Continuidad de referencia multimodal
-Estabilidad de movimiento complejo de múltiples personajes
-Control de cámara a nivel de director
-Salida audiovisual sincronizada de múltiples planos de 15 segundos
-IX. Evitación estricta
-borroso
-mala calidad
-baja calidad
-baja resolución
-ruidoso
-artefactos jpeg
-marca de agua
-texto
-error
-deformado
-mutado
-mala anatomía
-manos mal dibujadas
-mala composición
-fuera de cuadro
-desfigurado
-personaje inconsistente
-cambio de ropa
-morfing facial
-cambio de fondo
-cortes con fallos
-objetos que desaparecen
-Evitación adicional:
-Subtítulos
-Actuación exagerada
-Caras divertidas sin sentido
-Giros complejos y difíciles de entender
-Acción suave
-Cámara lenta llamativa
-Hechizos aleatorios
-Entorno creando las bromas
-Personajes secundarios robando la escena
-Enemigo perdiendo la inteligencia repentinamente
-X. Objetivo del efecto final
-La experiencia de visualización de todo el cortometraje debería ser:
-Primero crear un malentendido superficial de que "la hermana mayor parece menospreciar a la hermana menor"
-Cambiar rápidamente a "resulta que el enemigo es quien está siendo evaluado"
-Finalmente usar la acción y el seguimiento del maestro para consolidar el remate
-Palabras clave finales:
-Xianxia, Comedia seca, Confrontación de maestros, Tres tiempos
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097549144303050752/img/sTN3GzyTawK8gE_-.jpg" width="600" alt="Prompt para cortometraje de comedia Wuxia">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10560)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2097549763143221433) | **Publicado:** Sep 9, 2026
-
----
-### Transformación de un mapa mundial en miniatura
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematográfico que visualiza un mapa de papel antiguo transformándose físicamente en un mundo en miniatura detallado con montañas, ríos y pequeñas ciudades.
-
-#### 📝 Prompt
-
-```
-FORMATO:
-Vertical 16:9, 4K HDR, cinematografía de miniaturas de acción real fotorrealista, calidad comercial cinematográfica premium, física realista, desenfoque de movimiento natural, lente macro, profundidad de campo reducida, 24 fps.
-
-CONCEPTO PRINCIPAL:
-Un mapa de papel antiguo común sobre un escritorio de madera se transforma físicamente en un mundo en miniatura completo. La cámara entra en el mundo y termina con una espectacular revelación aérea.
-
-ESCENA 1 — 0–3 SEGUNDOS | GANCHO
-
-Primer plano macro extremo de un mapa de papel antiguo con una textura hermosa, que yace completamente plano sobre un escritorio de madera oscura.
-
-El mapa parece totalmente ordinario al principio: costas, ríos, montañas y carreteras detalladas impresas en el papel.
-
-Una pequeña onda viaja repentinamente a través del mapa.
-
-La cadena montañosa impresa comienza a elevarse físicamente del papel.
-
-Sin destellos mágicos. La transformación debe verse física y creíble, como si el mapa plano se estuviera convirtiendo en un paisaje en miniatura real.
-
-ESCENA 2 — 3–7 SEGUNDOS | TRANSFORMACIÓN
-
-La cámara retrocede lentamente mientras todo el mapa se transforma.
-
-Las cadenas montañosas se elevan hasta convertirse en montañas en miniatura detalladas.
-
-Los ríos se abren paso a través del terreno y comienzan a fluir con agua realista.
-
-Pequeños bosques crecen a través del paisaje.
-
-Pequeñas carreteras emergen físicamente del mapa y conectan pueblos en miniatura.
-
-Pequeñas casas y edificios se levantan naturalmente a lo largo de las carreteras.
-
-Todo permanece perfectamente conectado al diseño original del mapa.
-
-ESCENA 3 — 7–11 SEGUNDOS | ENTRAR AL MUNDO
-
-La cámara desciende suavemente hacia una carretera en miniatura y pasa de la fotografía macro de mesa a una toma de seguimiento inmersiva del mundo en miniatura.
-
-Un pequeño auto antiguo circula por la carretera sinuosa.
-
-La cámara lo sigue a través de un pueblo de montaña en miniatura.
-
-Las casas diminutas tienen paredes de piedra realistas, puertas de madera, tejas y ventanas con una luz cálida.
-
-Peatones en miniatura caminan naturalmente a lo largo del camino.
-
-Un pequeño puente cruza un río caudaloso.
-
-ESCENA 4 — 11–15 SEGUNDOS | GRAN REVELACIÓN FINAL
-
-La cámara sigue la carretera hacia la cima de una montaña en miniatura, luego se eleva suavemente por encima del paisaje.
-
-Todo el mapa es ahora un continente en miniatura impresionante.
-
-Enormes cadenas montañosas, bosques, ríos, pueblos, carreteras, puentes y ciudades distantes son visibles a través de la superficie.
-
-La luz dorada del atardecer recorre el paisaje en miniatura.
-
-Cuadro final: la cámara continúa elevándose hasta que queda claro que todo este mundo vivo sigue estando sobre la pieza de papel original en el escritorio de madera.
-
-ESTILO VISUAL:
-Fotografía de miniaturas hecha a mano ultrarrealista.
-Fibras de papel extremadamente detalladas.
-Tierra, rocas, vegetación y agua realistas.
-Detalles arquitectónicos diminutos.
-Perspectiva atmosférica natural.
-Iluminación cinematográfica de hora dorada.
-Transiciones sutiles de profundidad de campo.
-Reflejos y sombras realistas.
-Estética comercial de viajes de alta gama.
-
-CÁMARA:
-Comenzar con un macro extremo.
-Movimiento de dolly lento y controlado.
-Transición suave hacia el
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097546953848692736/img/OSsf_7i8D8jTY2SE.jpg" width="600" alt="Transformación de un mapa mundial en miniatura">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10628)**
-
-**Autor:** [Maverick | AI](https://x.com/RizwanAly07) | **Fuente:** [Link](https://x.com/RizwanAly07/status/2097547054189027792) | **Publicado:** Sep 9, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -5916,6 +5608,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-27T04:13:56.877Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-27T10:08:41.579Z</sub>
 
 </div>

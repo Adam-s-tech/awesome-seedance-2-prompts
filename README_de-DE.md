@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6435** |
+| 📝 Gesamtanzahl Prompts | **6437** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-09-27** |
 
@@ -361,6 +361,98 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Treppe zum epischen Sci-Fi-Zukunftsabenteuer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für ein episches Science-Fiction-Video, bei dem das Erklimmen einer riesigen Treppe zunehmend fortgeschrittene Zukünfte offenbart – von futuristischen Städten bis hin zu interstellarer Reise.
+
+#### 📝 Prompt
+
+```
+Eine gewaltige Treppe erhebt sich aus der Mitte des Ozeans und ragt in die Wolken.
+
+Menschen versammeln sich voller Unglauben.
+Ein junger Entdecker beginnt den Aufstieg.
+Jeder Schritt enthüllt eine weiter entfernte Zukunft der Erde.
+Erster Schritt: Futuristische Städte.
+Nächster Schritt: Wälder, die auf Wolkenkratzern wachsen.
+Weiter oben: Ozeane, gefüllt mit schwebenden Zivilisationen.
+Höher: Riesige Orbitringe, die die Erde umgeben.
+Höher: Städte, die durch die Atmosphäre treiben.
+Höher: Die Menschheit reist zwischen den Sternen.
+Der Aufstieg wird schneller und gefährlicher.
+Tausende folgen ihm.
+Die Treppe erstreckt sich über die Wolken hinaus ins All.
+Der Entdecker erreicht die letzte sichtbare Stufe.
+Dahinter liegt eine Zukunft so weitreichend und prächtig, dass sie nicht vollständig erfasst werden kann.
+Ein brillantes Licht flutet alles.
+Die Treppe verschwindet.
+Zurück bleibt nur der Ozean unterhalb.
+
+Episches Science-Fiction-Abenteuer, kontinuierliche Aufwärtsbewegung, eskalierende Zukunftsvisionen, atemberaubender Maßstab, emotionale Faszination, fotorealistische Umgebungen, kinematografische Kamerabewegung, dynamische Action, Meisterwerk-Visuals, 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104007891334131712/img/2ozhc2jkPkx4N2X2.jpg" width="600" alt="Treppe zum epischen Sci-Fi-Zukunftsabenteuer">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11399)**
+
+**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Quelle:** [Link](https://x.com/AllaAisling/status/2104007916546068750) | **Veröffentlicht:** Sep 27, 2026
+
+---
+### Anime-Video-Prompt für einen Regentag
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein detaillierter Prompt zur Generierung eines 15-sekündigen Anime-Videos, das ein Treffen zwischen einem Engel und einem Dämon an Regentagen zeigt. Verwendet Seedance 2.0 mit Referenz-Charakterblättern.
+
+#### 📝 Prompt
+
+```
+Regeln:
+- Theaterreife Anime-Qualität mit einem Budget von 500 Millionen Yen, japanischer 2D-Cel-Animationsstil
+- Multi-Shot
+- Schnelle Schnitte, hohe Bildrate. Priorität auf Geschwindigkeit und Wirkung
+- Professionelle VFX-Qualität
+- Kameraarbeit in jedem Shot ändern (keine Wiederholung der Bewegung)
+- Keine BGM; Umgebungsgeräusche/Soundeffekte vorhanden
+- Keine Untertitel
+- Alle Dialoge auf Japanisch
+- Tempo: Zeige ruhiges Schauspiel langsam mit Pausen, dann schnell in den Schlüsselmomenten
+- Regen mit dünnen, schnellen Linien zeichnen; Spritzer, Pfützenreflexionen und nasse, verklebte Haare im Artwork einbeziehen
+- Nachtregen. Straßenlaternen- und Neonfarben auf nassem Asphalt reflektieren; sicherstellen, dass blassblaue und weiße Charaktere nicht im grauen Hintergrund untergehen
+- Protagonisten groß im Rahmen halten; Gesichter und Kostüme müssen deutlich sichtbar sein. Nicht als winzige Punkte in Weitschüssen darstellen
+- Kein Text, keine Logos oder Zahlen auf dem Bildschirm
+
+@ Image1: Subjekt - Sylvie
+@ Image2: Subjekt - Ayle
+
+[Konsistenz] Konsistentes Aussehen während des gesamten Videos für Sylvie (silberner Bob, der das rechte Auge verdeckt, sichtbares Auge ist gelb-grün. Hellblaue Dämonenhörner und rüschenbesetztes Kopfschmuck, kleine hellblaue Fledermausflügel und dünner Schwanz, reines weißes Rüschenkleid mit hellblauer Schleife, hellblau-weiß gestreifte Socken) und Ayle (blauer gerader Bob, weiße runde Federornamente an beiden Seiten des Kopfes, kleine blau-weiße Flügel an den Schultern, weißes Kleid mit blauen kreisförmigen Mustern, langer nachschleppender Rock aus blauen Federn). Die beiden Charaktere nicht verwechseln. Ayle ist ein Engel über den Wolken, Sylvie ist ein Dämon auf dem Boden.
+[Generierungsziel] Können sich nur an Regentagen treffen
+(6 Stufen, ein durchgehendes Video. Entlang der Regenfäden herabkommen, bis der Regen aufhört)
+[S1] Über den Wolken. Ayle von @ Image2 greift fallende Regenfäden durch Lücken in den Wolken und gleitet wie eine Rutsche zum Boden hinab (Gesicht voller ungeduldiger Freude).
+Kamera: Hochgeschwindigkeits-Dolly, der Ayle folgt, wenn sie entlang der Regenfäden direkt von oben hinuntergleitet.
+[S2] Auf dem Dach einer Stadt in einer regnerischen Nacht. Sylvie von @ Image1 wartet ohne Regenschirm und schaut zum Himmel hinauf. Regentropfen fallen von ihren hellblauen Hörnern und Fledermausflügeln.
+Kamera: Tiefwinkel vom Dach, der Sylvies Profil zeigt, während sie hinaufschaut.
+[S3] Ayle landet sanft auf dem Dach, sie stehen sich gegenüber. Sylvie wendet sich schüchtern ab, aber die Spitze ihres Schwanzes wedelt fröhlich.
+Kamera: Zwei-Personen-Aufnahme von der Seite, die beide zeigt. Zurückzoomen, um das Wedeln des Schwanzes zu zeigen.
+Ayle (fröhliche Stimme) sagt: {Ich bin da}
+[S4] Sie sitzen nebeneinander auf dem Dach. Sylvie breitet ihre Fledermausflügel wie einen Schirm über Ayle aus. Die Lichter der regnerischen Stadt verschwimmen unter ihnen.
+Kamera: Blick von oben auf die nächtliche Stadtlandschaft hinter den beiden.
+[S5] Der Regen lässt nach, Mondlicht bricht durch die Wolken. Ayles Körper wird sanft vom Licht angezogen und hebt sich in den Himmel. Sylvies Finger strecken sich ihr hinterher, berühren aber nur Luft.
+Kamera: Nahaufnahme ihrer Hände, die sich fast berühren, dann Zoom-out auf Ayle, die davonfliegt.
+Sylvie (traurig) sagt: {Bis zum nächsten Mal}
+[S6] Sylvie bleibt allein auf dem Dach. Sie lächelt traurig und sieht zu, wie Ayle in den Wolken verschwindet. Der letzte Regentropfen fällt von ihrem Horn.
+Kamera: Weitwinkel, der Sylvie klein gegen den großen Nachthimmel zeigt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103733508971872256/img/x7QgBynH5x5yKSty.jpg" width="600" alt="Anime-Video-Prompt für einen Regentag">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11400)**
+
+**Autor:** [妖精アーヤ](https://x.com/aiehon_aya) | **Quelle:** [Link](https://x.com/aiehon_aya/status/2103734879636898211) | **Veröffentlicht:** Sep 26, 2026
+
+---
 ### Kurz-Skript für einen Home-Invasion-Horrorfilm
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5364,406 +5456,6 @@ Ultrarealistische, filmreife Szene einer jungen Frau, die in einer überfüllten
 **Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2097555044195508407) | **Veröffentlicht:** Sep 9, 2026
 
 ---
-### Wuxia-Comedy-Kurzfilm-Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein umfassendes Skript und Prompt im Regie-Stil für einen 15-sekündigen Wuxia-Comedy-Kurzfilm, mit Details zu Charakterkontinuität, Kamerachoreografie und komödiantischem Timing für Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-I. Ziel der Aufgabe
-
-Erstellung eines vollständigen, zusammenhängenden 15-sekündigen chinesischen Xianxia-Kurzfilms.
-
-Die komödiantische Kernhandlung ist simpel und muss für das Publikum beim ersten Ansehen sofort verständlich sein:
-
-Ein feindlicher Schwertkämpfer provoziert die ältere und die jüngere Schwester absichtlich, indem er die Worte der älteren Schwester falsch wiedergibt, sodass die jüngere Schwester glaubt, die ältere Schwester würde ihr zutrauen, innerhalb von drei Zügen zu verlieren.
-
-Die eigentliche Pointe ist:
-
-Sie diskutierten nie darüber, ob die jüngere Schwester gewinnen könnte, sondern darüber, wie viele Züge dieser Feind wohl aushalten würde.
-
-II. Gesamtstil
-
-Das Gesamtgefühl muss gleichzeitig folgende Qualitäten besitzen:
-
-Filmische, realistische Textur
-Reine antike chinesische Xianxia-Ästhetik
-Kameragrammatik einer epischen Meister-Konfrontation
-Deadpan-Humor (trockener Humor)
-Reaktionsrhythmus eines Stummfilms
-Effizienz einer Action-Komödie im Hongkong-Stil
-Klarer Drei-Takt-Aufbau
-Explizites Setup und Payoff
-Filmische Kameraqualität wie bei Arri Alexa
-Stabile und klare Gesichts-Mikrodetails
-Feines Filmkorn
-Natürliches volumetrisches Licht
-Der Humor muss zurückhaltend sein, nicht übertrieben oder albern, und darf nicht darauf beruhen, dass Charaktere sich dumm verhalten.
-
-III. Festlegung der Charakteridentität
-
-Charakter-ID A | @Bild 1 | Schwert-Unsterbliche (ältere Schwester)
-
-Stets denselben Charakter beibehalten:
-
-25–30 Jahre alte ostasiatische Frau
-Große und schlanke Statur
-Ovales Gesicht
-Dunkle Mandelaugen
-Langes schwarzes Haar, halb hochgesteckt
-Fixiert mit einer weißen Jade-Haarnadel
-Dasselbe weiße, bestickte Seiden-Hanfu
-Silberner Taillengürtel
-Jade-Anhänger
-Weiße Stoffstiefel
-Ein einzelnes silbernes Langschwert
-Charakter-ID B | @Bild 2 | Jüngere Schwester
-Stets denselben Charakter beibehalten:
-
-20–25 Jahre alte ostasiatische Frau
-Kleine und zierliche Statur
-Rundes und lebhaftes Gesicht
-Schwarzes Haar in Zöpfen
-Dasselbe blau-grüne Leinen-Hanfu
-Dunkler Gürtel
-Hölzerne Haarnadel
-Schwarze Stoffschuhe
-Ein einzelnes dunkles Stahlschwert
-Weitere Charaktere
-Feindlicher Schwertkämpfer
-Ein feindlicher Schwertkämpfer
-Verantwortlich für Provokation, Irreführung und den letzten Zug
-Darf nicht das komödiantische emotionale Zentrum stehlen
-Älterer Meister
-Der gleiche ältere Meister
-Liefert nur im entscheidenden Moment den finalen metaphorischen Schlag
-Muss ruhig, zurückhaltend und todernst bleiben
-IV. Umgebungs-DNA und räumliche Prinzipien
-Alle in dieser Runde hochgeladenen Hintergrund- und Standortreferenzbilder bestimmen gemeinsam ein einziges Set an Umgebungs-DNA.
-
-Vor der formalen Komposition bitte Folgendes stillschweigend integrieren und vereinheitlichen:
-
-Reales Gelände
-Architektursprache
-Materialien
-Vegetation
-Gewässer
-Wetter
-Bergnebel
-Primäre Lichtrichtung
-Reflektionen
-Atmosphärische Tiefe
-Darauf basierend einen neuen, einzigartigen, vollständig vereinheitlichten und glaubwürdigen Raum für diese Runde planen.
-Umgebungsregeln
-Die folgenden Elemente im Hintergrund bleiben natürlich lebendig:
-Wind
-Gewässer
-Vegetation
-Wolkenformationen
-Gewöhnliche Schüler in der Ferne
-Umgebungsgeräusche
-Sie müssen jedoch Folgendes erfüllen:
-Der Hintergrund bleibt absolut neutral
-Erzeugt keine Pointen
-Erzeugt keine Wendungen
-Treibt die Handlung nicht aktiv voran
-Drückt keine Emotionen stellvertretend für die Charaktere aus
-V. Drei-Szenen-Struktur
-Szene 1 | 0–5s
-Szenentyp
-Totale oder Weitwinkelaufnahme
-Visueller Inhalt
-Dieselbe Schwert-Unsterbliche (ältere Schwester)
-Dieselbe jüngere Schwester
-Ein feindlicher Schwertkämpfer
-Ein älterer Meister
-Die vier befinden sich in einem einheitlichen Raum mit einer klaren und stabilen geografischen Beziehung.
-Der feindliche Schwertkämpfer steht direkt vor den beiden Schwestern, und der ältere Meister befindet sich ruhig nur wenige Schritte entfernt.
-Handlung und Dialog
-Der Feind schaut die jüngere Schwester provokativ an und sagt:
-„Deine ältere Schwester hat selbst gesagt, wenn du gegen mich kämpfst, verlierst du in drei Zügen.“
-Die jüngere Schwester dreht sehr langsam den Kopf zur älteren Schwester und fragt:
-„Drei Züge?“
-Die in Weiß gekleidete Schwert-Unsterbliche zeigt keine Anspannung, sondern korrigiert nur ruhig:
-„Ich meinte ihn.“
-Highlights der Szene
-Der erste Takt muss das Publikum glauben lassen, der Konflikt sei „ältere Schwester schaut auf jüngere Schwester herab“
-Das Kopfschwenken der jüngeren Schwester muss deutlich sein
-Die Korrektur der älteren Schwester muss ruhig, bestimmt und ohne Erklärungsbedarf erfolgen
-Diese Zeile sollte die erste Ebene des Missverständnisses direkt auflösen
-Szene 2 | 5–10s
-Szenentyp
-Halbnahaufnahme oder Cowboy-Shot
-Anforderungen an die Kontinuität
-Folgendes durchgehend stabil halten:
-Dieselben zwei Frauen
-Derselbe Feind
-Derselbe Meister
-Dieselbe Kleidung
-Dieselbe Langschwerter
-Identischer geografischer Raum
-Handlung und Dialog
-Die jüngere Schwester schaut sofort zurück zum Feind.
-Diesmal ist sie nicht wütend, sondern aufrichtig überrascht und sagt:
-„Drei Züge? Ältere Schwester, du bist zu großzügig.“
-Der süffisante Ausdruck des Feindes gefriert sofort.
-In der geringen Schärfentiefe im Hintergrund bleibt derselbe Meister die ganze Zeit stumm und hebt nur leise einen Finger.
-Als er das bemerkt, fragt der Feind wütend:
-„Was soll das heißen?“
-Der Fokus der Aufnahme verschiebt sich auf den Meister.
-Der Meister bleibt absolut ernst und antwortet nur:
-„Ein Zug.“
-Eine volle halbe Taktpause.
-Der Feind bricht schließlich völlig zusammen und schreit:
-„Das ist zu viel!“
-Er zieht dann aktiv sein Schwert und stürmt direkt auf die ältere Schwester zu.
-Highlights der Szene
-Der zweite Takt vervollständigt den komödiantischen Verlauf
-„Drei Züge“ steigert sich zu „ein Zug“
-Der Einwurf des Meisters muss sehr trocken sein
-Die Pause sollte lang genug sein, damit sowohl das Publikum als auch der Feind erkennen, dass sie vorhersehbar waren
-Direkt nach dem Zusammenbruch des Feindes in das Action-Segment übergehen
-Szene 3 | 10–15s
-Szenentyp
-Nahaufnahme oder extreme Nahaufnahme
-Anforderungen an die Kontinuität
-Folgendes stabil halten:
-Dieselbe ältere Schwester
-Dieselbe jüngere Schwester
-Derselbe Feind
-Derselbe Meister
-Kleidung, Schwerter, Positionierung und räumliche Beziehungen bleiben durchgehend konsistent
-Action-Design
-Dieselbe ältere Schwester bleibt entspannt, ohne ihr silbernes Langschwert überhaupt vollständig zu ziehen.
-Sie vollendet nur eine:
-Sehr klare
-Physisch logische
-Extrem kurze
-Extrem präzise
-Action-Sequenz:
-Weicht dem frontalen Ansturm des Feindes aus
-Benutzt das noch in der Scheide befindliche silberne Langschwert
-Tippt kurz auf das Handgelenk der Schwert-Hand des Feindes
-Nutzt den Vorwärtsimpuls des Feindes, um dessen Schwerpunkt zu verlagern
-Ergebnis:
-Das Langschwert des Feindes fliegt aus seiner Hand
-Landet sicher in der Nähe im Boden
-Der Feind geht auf ein Knie
-Keine blutigen Verletzungen
-Dialog nach der Action
-Völlige Stille.
-Dieselbe jüngere Schwester hebt langsam einen Finger und sagt ernst:
-„Meister, deine Vermutung war genau richtig.“
-Dieselbe Schwert-Unsterbliche (ältere Schwester) schaut auf den besiegten Feind herab und antwortet ruhig:
-„Eigentlich ein halber Zug.“
-Der Fokus der Aufnahme dreht sich wieder zum Meister.
-Der Meister sagt todernst:
-„Ich wollte ihm nur ein wenig Gesicht wahren.“
-Schlussaufnahme
-In einer extremen Nahaufnahme:
-Der Feind schaut nacheinander zum Meister, zur älteren und zur jüngeren Schwester
-Er erkennt, dass er kein einziges Wort widerlegen kann
-Die jüngere Schwester beißt sich fest auf die Lippe, um ein Lachen zu unterdrücken
-Die ältere Schwester erweist ihm immer noch sehr formell die Höflichkeit eines Kampfkünstlers
-Präziser Schnitt auf:
-Den völlig sprachlosen Ausdruck des Feindes.
-VI. Performance-Prinzipien
-Ältere Schwester
-Immer ruhig
-Kein Prahlen
-Keine übermäßigen Erklärungen
-Die Entspannung der stärksten Person muss stabil sein
-Komik beruht auf Ernsthaftigkeit, nicht auf einem scherzhaften Ton
-Jüngere Schwester
-Schnelle Reaktionen
-Emotionen nicht übertrieben
-Rhythmus von „Missverständnis“ zu „Verständnis“ zu „Pointe“ muss klar sein
-Unterdrücktes Lachen muss echt und zurückhaltend sein
-Feind
-In der ersten Hälfte aufrichtig selbstbewusst
-Friert in der Mitte allmählich ein
-Bricht am Ende zusammen, darf aber nicht wie ein Clown wirken
-Das Lachen entsteht durch das späte Erkennen, nicht durch Dummheit
-Meister
-Sehr wenige Zeilen
-Jede Zeile klingt wie ein endgültiges Urteil
-Muss todernst sein
-Je ernster, desto lustiger
-VII. Action- und Kameraanforderungen
-Die Körpermechanik der Action muss klar und natürlich sein
-Der Ansturm des Feindes muss echten Schwung haben
-Die Reaktion der älteren Schwester muss extrem effizient, präzise und kurz sein
-Sieg/Niederlage müssen auf einen Blick verständlich sein
-Keine komplexen, auffälligen Kombos
-Keine schleppenden Bewegungen
-Keine Lichtverschmutzungs-Spezialeffekte
-Keine zufälligen Schwert-Auren
-Kameraanforderungen
-16:9 Breitbild
-Strikte drei zusammenhängende, klare Szenen
-Kamerabewegung sauber und zurückhaltend
-Natürliche Parallaxe zwischen Vorder-, Mittel- und Hintergrund
-Das Objektiv dient den Charakterbeziehungen und der Pointe
-Keine auffälligen Show-Bewegungen
-VIII. Ton- und Synchronisationsanforderungen
-Synchronisierter Mandarin-Dialog (Muttersprachler)
-Präzises Lip-Sync
-Klare komödiantische Pausen
-Präzise Blickkontakt-Beziehungen
-Geräusche des Schwertziehens, der Kollision, des Aufpralls des Schwertes und des Abschlusses sind deutlich hörbar
-Umgebungsgeräusche sind durchgehend natürlich vorhanden
-Keine Untertitel generieren
-Zu nutzende Seedance 2.0-Kernfunktionen:
-Multimodale Referenzkontinuität
-Stabilität komplexer Bewegungen mehrerer Charaktere
-Kamerakontrolle auf Regie-Niveau
-15-sekündige, mehrszenige, synchronisierte audiovisuelle Ausgabe
-IX. Strikte Vermeidung
-unscharf
-schlechte Qualität
-niedrige Qualität
-niedrige Auflösung
-rauschend
-JPEG-Artefakte
-Wasserzeichen
-Text
-Fehler
-deformiert
-mutiert
-schlechte Anatomie
-schlecht gezeichnete Hände
-schlechte Komposition
-außerhalb des Bildrahmens
-entstellt
-inkonsistenter Charakter
-wechselnde Kleidung
-Gesichtsmorphing
-Hintergrundverschiebung
-Glitch-Schnitte
-verschwindende Requisiten
-Zusätzliche Vermeidung:
-Untertitel
-Übertriebenes Schauspiel
-Sinnlose lustige Gesichter
-Komplexe, schwer verständliche Wendungen
-Weiche Action
-Auffällige Zeitlupe
-Zufällige Zaubersprüche
-Umgebung, die die Witze erzeugt
-Nebencharaktere, die die Szene stehlen
-Feind verliert plötzlich seine Intelligenz
-X. Ziel des Endeffekts
-Das Seherlebnis des gesamten Kurzfilms sollte sein:
-Zuerst ein oberflächliches Missverständnis erzeugen, dass „die ältere Schwester auf die jüngere Schwester herabzuschauen scheint“
-Schnell umschwenken auf „es stellt sich heraus, dass der Feind derjenige ist, der bewertet wird“
-Schließlich durch Action und den Nachsatz des Meisters die Pointe festigen
-Schlüsselwörter:
-Xianxia, Deadpan-Comedy, Meister-Konfrontation, Drei-Takt
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097549144303050752/img/sTN3GzyTawK8gE_-.jpg" width="600" alt="Wuxia-Comedy-Kurzfilm-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10560)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2097549763143221433) | **Veröffentlicht:** Sep 9, 2026
-
----
-### Transformation einer Miniatur-Weltkarte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Prompt, der visualisiert, wie sich eine antike Papierkarte physisch in eine detaillierte Miniaturwelt mit Bergen, Flüssen und winzigen Städten verwandelt.
-
-#### 📝 Prompt
-
-```
-FORMAT:
-Vertikal 16:9, 4K HDR, fotorealistische Live-Action-Miniatur-Kinematografie, erstklassige cineastische Werbequalität, realistische Physik, natürliche Bewegungsunschärfe, Makroobjektiv, geringe Schärfentiefe, 24 fps.
-
-KERNKONZEPT:
-Eine gewöhnliche antike Papierkarte auf einem Holztisch verwandelt sich physisch in eine komplette Miniaturwelt. Die Kamera taucht in die Welt ein und endet mit einer spektakulären Luftaufnahme.
-
-SZENE 1 — 0–3 SEKUNDEN | HOOK
-
-Extreme Makro-Nahaufnahme einer alten, wunderschön texturierten Papierkarte, die flach auf einem dunklen Holztisch liegt.
-
-Die Karte wirkt zunächst völlig gewöhnlich: detaillierte Küstenlinien, Flüsse, Berge und Straßen sind auf das Papier gedruckt.
-
-Plötzlich läuft eine winzige Welle über die Karte.
-
-Die gedruckte Gebirgskette beginnt sich physisch aus dem Papier zu erheben.
-
-Kein magischer Blitz. Die Verwandlung muss physisch und glaubwürdig wirken, als würde sich die flache Karte in eine echte Miniaturlandschaft verwandeln.
-
-SZENE 2 — 3–7 SEKUNDEN | TRANSFORMATION
-
-Die Kamera fährt langsam zurück, während sich die gesamte Karte verwandelt.
-
-Gebirgsketten erheben sich zu detaillierten Miniaturbergen.
-
-Flüsse graben sich durch das Gelände und beginnen mit realistischem Wasser zu fließen.
-
-Winzige Wälder wachsen über die Landschaft.
-
-Kleine Straßen entstehen physisch aus der Karte und verbinden Miniaturstädte.
-
-Winzige Häuser und Gebäude wachsen natürlich entlang der Straßen empor.
-
-Alles bleibt perfekt mit dem ursprünglichen Kartenlayout verbunden.
-
-SZENE 3 — 7–11 SEKUNDEN | EINTAUCHEN IN DIE WELT
-
-Die Kamera taucht sanft in Richtung einer Miniaturstraße ab und wechselt von der Makro-Tischfotografie in eine immersive Tracking-Aufnahme der Miniaturwelt.
-
-Ein winziges Oldtimer-Auto fährt die kurvenreiche Straße entlang.
-
-Die Kamera folgt ihm durch ein Miniatur-Bergdorf.
-
-Die winzigen Häuser haben realistische Steinmauern, Holztüren, Dachziegel und warm leuchtende Fenster.
-
-Miniatur-Fußgänger gehen ganz natürlich am Straßenrand entlang.
-
-Eine kleine Brücke überquert einen fließenden Fluss.
-
-SZENE 4 — 11–15 SEKUNDEN | GROSSARTIGES FINALE
-
-Die Kamera folgt der Straße bis zum Gipfel eines Miniaturberges und steigt dann sanft hoch über die Landschaft.
-
-Die gesamte Karte ist nun ein atemberaubender Miniaturkontinent.
-
-Riesige Gebirgsketten, Wälder, Flüsse, Dörfer, Autobahnen, Brücken und ferne Städte sind auf der Oberfläche sichtbar.
-
-Goldenes Sonnenlicht überflutet die Miniaturlandschaft.
-
-Letztes Bild: Die Kamera fährt weiter nach oben, bis deutlich wird, dass diese gesamte lebendige Welt immer noch auf dem ursprünglichen Stück Papier auf dem Holztisch liegt.
-
-VISUELLER STIL:
-Ultra-realistische, handgefertigte Miniaturfotografie.
-Extrem detaillierte Papierfasern.
-Realistische Erde, Felsen, Vegetation und Wasser.
-Winzige architektonische Details.
-Natürliche atmosphärische Perspektive.
-Cineastische Beleuchtung zur goldenen Stunde.
-Subtile Übergänge der Schärfentiefe.
-Realistische Reflexionen und Schatten.
-Premium-Ästhetik für High-End-Reisewerbung.
-
-KAMERA:
-Beginn mit extremem Makro.
-Langsamer, kontrollierter Dolly-Move.
-Sanfter Übergang in den
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097546953848692736/img/OSsf_7i8D8jTY2SE.jpg" width="600" alt="Transformation einer Miniatur-Weltkarte">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10628)**
-
-**Autor:** [Maverick | AI](https://x.com/RizwanAly07) | **Quelle:** [Link](https://x.com/RizwanAly07/status/2097547054189027792) | **Veröffentlicht:** Sep 9, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -5825,6 +5517,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-27T04:13:57.945Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-27T10:08:43.314Z</sub>
 
 </div>

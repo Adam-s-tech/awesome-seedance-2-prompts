@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6435** |
+| 📝 Tổng số prompt | **6437** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-09-27** |
 
@@ -361,6 +361,98 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Cầu thang dẫn đến tương lai khoa học viễn tưởng hùng vĩ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt cho một video khoa học viễn tưởng hoành tráng, nơi việc leo lên một cầu thang khổng lồ hé lộ những tương lai ngày càng tiên tiến, từ các thành phố hiện đại đến du hành liên sao.
+
+#### 📝 Prompt
+
+```
+Một cầu thang khổng lồ vươn lên từ giữa đại dương và chạm tới tận mây.
+
+Mọi người tụ tập trong sự kinh ngạc.
+Một nhà thám hiểm trẻ bắt đầu leo lên.
+Mỗi bậc thang lại hé lộ Trái Đất ở một tương lai xa hơn.
+Bậc đầu tiên: những thành phố tương lai.
+Bậc tiếp theo: rừng cây mọc trên các tòa nhà chọc trời.
+Tiếp đó: đại dương tràn ngập các nền văn minh nổi.
+Cao hơn: những vòng quỹ đạo khổng lồ bao quanh Trái Đất.
+Cao hơn: các thành phố trôi lơ lửng trong khí quyển.
+Cao hơn: nhân loại du hành giữa các vì sao.
+Việc leo trèo trở nên nhanh chóng và nguy hiểm hơn.
+Hàng nghìn người nối bước phía sau.
+Cầu thang vươn dài vượt qua tầng mây và tiến vào không gian.
+Nhà thám hiểm chạm tới bậc thang cuối cùng có thể nhìn thấy.
+Phía sau nó là một tương lai rộng lớn và tráng lệ đến mức không thể thấu hiểu trọn vẹn.
+Một ánh sáng rực rỡ bao trùm mọi thứ.
+Cầu thang biến mất.
+Chỉ còn lại đại dương bên dưới.
+
+Cuộc phiêu lưu khoa học viễn tưởng hoành tráng, chuyển động liên tục hướng lên, tầm nhìn tương lai ngày càng nâng cấp, quy mô ngoạn mục, cảm giác kỳ diệu đầy xúc động, môi trường chân thực như ảnh chụp, chuyển động máy quay điện ảnh, hành động năng động, hình ảnh tuyệt tác, tỷ lệ 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104007891334131712/img/2ozhc2jkPkx4N2X2.jpg" width="600" alt="Cầu thang dẫn đến tương lai khoa học viễn tưởng hùng vĩ">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11399)**
+
+**Tác giả:** [Alexandra Aisling](https://x.com/AllaAisling) | **Nguồn:** [Link](https://x.com/AllaAisling/status/2104007916546068750) | **Đã xuất bản:** Sep 27, 2026
+
+---
+### Prompt Video Anime Ngày Mưa
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một prompt chi tiết để tạo video anime dài 15 giây với cảnh thiên thần và ác quỷ chỉ gặp nhau vào những ngày mưa, sử dụng Seedance 2.0 cùng các bảng tham khảo nhân vật.
+
+#### 📝 Prompt
+
+```
+Quy tắc:
+- Chất lượng anime điện ảnh với ngân sách 500 triệu yên, phong cách hoạt hình cel 2D kiểu Nhật
+- Nhiều cảnh quay (multi-shot)
+- Cắt nhanh, số lượng khung hình cao. Ưu tiên tốc độ và tác động thị giác
+- Chất lượng VFX chuyên nghiệp
+- Thay đổi góc máy ở mỗi cảnh quay (không lặp lại chuyển động)
+- Không có nhạc nền (BGM); có âm thanh môi trường/hiệu ứng âm thanh
+- Không có phụ đề
+- Tất cả lời thoại bằng tiếng Nhật
+- Nhịp độ: Thể hiện diễn xuất tĩnh lặng chậm rãi với những khoảng nghỉ, sau đó chuyển động nhanh trong các khoảnh khắc quan trọng
+- Vẽ mưa bằng những đường mảnh, nhanh; bao gồm các vệt bắn tung tóe, phản chiếu trên vũng nước và tóc ướt bết dính trong artwork
+- Mưa đêm. Phản chiếu ánh đèn đường và màu neon trên mặt đường ướt; đảm bảo các nhân vật màu xanh nhạt và trắng không bị lẫn vào nền xám
+- Giữ cho các nhân vật chính chiếm phần lớn khung hình; khuôn mặt và trang phục phải rõ ràng. Không làm họ trở thành những chấm nhỏ li ti trong các cảnh toàn
+- Không có văn bản, logo hoặc số trên màn hình
+
+@ Image1: Chủ thể - Sylvie
+@ Image2: Chủ thể - Ayle
+
+[Consistency] Duy trì ngoại hình nhất quán xuyên suốt cho Sylvie (tóc bob bạc che mắt phải, mắt nhìn thấy có màu vàng-xanh lá. Sừng ác quỷ màu xanh nhạt và mũ đội đầu xếp nếp, đôi cánh dơi nhỏ màu xanh nhạt và đuôi mảnh, váy trắng xếp nếp với ruy băng xanh nhạt, tất sọc xanh nhạt và trắng) và Ayle (tóc bob xanh thẳng cắt đều, đồ trang trí lông vũ tròn màu trắng ở hai bên đầu, đôi cánh nhỏ xanh-trắng trên vai, váy trắng với họa tiết tròn màu xanh, váy dài quét đất bằng lông vũ màu xanh). Không nhầm lẫn giữa hai nhân vật. Ayle là một thiên thần trên những đám mây, Sylvie là một ác quỷ trên mặt đất.
+[Mục tiêu Tạo hình] Chỉ có thể gặp nhau vào những ngày mưa
+(6 giai đoạn, một video liên tục. Đi xuống theo những sợi mưa để gặp nhau cho đến khi mưa ngừng)
+[S1] Trên những đám mây. Ayle từ @ Image2 nắm lấy những sợi mưa rơi qua khe hở của đám mây và trượt xuống mặt đất như một cầu trượt (khuôn mặt tràn đầy niềm vui háo hức).
+Camera: Dolly tốc độ cao theo dõi Ayle trượt xuống dọc theo những sợi mưa từ phía trên trực tiếp.
+[S2] Trên mái nhà của một thị trấn vào đêm mưa. Sylvie từ @ Image1 chờ đợi ngước nhìn lên bầu trời mà không có ô. Những giọt mưa rơi khỏi sừng màu xanh nhạt và đôi cánh dơi của cô ấy.
+Camera: Góc thấp từ mái nhà cho thấy profile của Sylvie khi cô ấy ngước lên.
+[S3] Ayle hạ cánh nhẹ nhàng xuống mái nhà, đối diện nhau. Sylvie e thẹn quay đi, nhưng đầu đuôi của cô ấy vẫy hạnh phúc.
+Camera: Hai người từ bên cạnh cho thấy cả hai. Kéo lùi để hiển thị cái vẫy đuôi.
+Ayle (giọng vui vẻ) nói: {Tôi đã đến}
+[S4] Họ ngồi cạnh nhau trên mái nhà. Sylvie dang rộng đôi cánh dơi như một chiếc ô che cho Ayle. Ánh sáng của thị trấn mưa mờ ảo và phát sáng bên dưới họ.
+Camera: Nhìn xuống cảnh quan thành phố đêm mưa từ phía sau hai người.
+[S5] Mưa yếu dần, ánh trăng xuyên qua những đám mây. Cơ thể của Ayle nhẹ nhàng bay lên được kéo bởi ánh sáng, trở về bầu trời. Sylvie với tay ra. Đầu ngón tay của họ tách rời nhau.
+Camera: Cận cảnh các đầu ngón tay tách rời, sau đó pan lên khuôn mặt Sylvie đang ngước nhìn.
+Ayle (cười trong nước mắt) nói: {Ngày mưa tiếp theo}
+[S6] Một mình trên mái nhà khô ráo, Sylvie giữ một chiếc lông vũ màu xanh của Ayle trong lòng bàn tay. Cô ấy nắm chặt nó và mỉm cười nhẹ nhàng khi ngước nhìn lên bầu trời.
+Camera: Cận cảnh chiếc lông vũ, sau đó kéo lùi để thấy Sylvie ngước nhìn bầu trời đêm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103733508971872256/img/x7QgBynH5x5yKSty.jpg" width="600" alt="Prompt Video Anime Ngày Mưa">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11400)**
+
+**Tác giả:** [妖精アーヤ](https://x.com/aiehon_aya) | **Nguồn:** [Link](https://x.com/aiehon_aya/status/2103734879636898211) | **Đã xuất bản:** Sep 26, 2026
+
+---
 ### Kịch bản phim ngắn kinh dị về đột nhập vào nhà
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5461,406 +5553,6 @@ Cảnh quay điện ảnh siêu thực về một phụ nữ trẻ đang đứng
 **Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2097555044195508407) | **Đã xuất bản:** Sep 9, 2026
 
 ---
-### Prompt cho phim ngắn hài hước thể loại võ hiệp
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một kịch bản và prompt toàn diện theo phong cách đạo diễn cho phim ngắn hài hước thể loại võ hiệp dài 15 giây, chi tiết về tính liên tục của nhân vật, vũ đạo máy quay và nhịp độ hài hước cho Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-I. Mục tiêu nhiệm vụ
-
-Tạo một bộ phim ngắn tiên hiệp Trung Quốc hoàn chỉnh, liền mạch trong 15 giây.
-
-Cốt truyện hài hước cốt lõi phải đơn giản và khán giả có thể hiểu ngay lập tức trong lần xem đầu tiên:
-
-Một kiếm khách đối địch cố tình khiêu khích sư tỷ và sư muội bằng cách trích dẫn sai lời sư tỷ, khiến sư muội tin rằng sư tỷ nghĩ mình sẽ thua trong vòng ba chiêu.
-
-Cú twist thực sự là:
-
-Họ chưa bao giờ thảo luận về việc liệu sư muội có thể thắng hay không, mà là về việc tên địch này có thể chịu được bao nhiêu chiêu.
-
-II. Phong cách tổng thể
-
-Cảm giác tổng thể phải đồng thời sở hữu các phẩm chất sau:
-
-Kết cấu điện ảnh chân thực
-Thẩm mỹ tiên hiệp cổ trang Trung Quốc thuần túy
-Ngôn ngữ hình ảnh đối đầu giữa các bậc thầy ở cấp độ sử thi
-Hài kịch kiểu "tỉnh bơ" (deadpan)
-Nhịp điệu phản ứng của phim câm
-Sự hiệu quả của phim hài hành động kiểu Hồng Kông
-Tiến trình ba nhịp rõ ràng
-Thiết lập và kết quả (setup and payoff) rõ ràng
-Chất lượng máy quay điện ảnh Arri Alexa
-Chi tiết khuôn mặt ổn định và rõ nét
-Hạt phim (film grain) tinh tế
-Ánh sáng thể tích tự nhiên
-Hài hước phải tiết chế, không cường điệu hay ngớ ngẩn, và không dựa vào việc làm cho nhân vật trở nên ngu ngốc.
-
-III. Khóa định danh nhân vật
-
-ID nhân vật A | @Image 1 | Kiếm Tiên Sư Tỷ
-
-Luôn duy trì cùng một nhân vật:
-
-Nữ, Đông Á, 25–30 tuổi
-Dáng người cao, mảnh khảnh
-Khuôn mặt trái xoan
-Đôi mắt hạnh màu tối
-Tóc đen dài búi nửa đầu
-Cố định bằng một chiếc trâm ngọc trắng
-Cùng một bộ Hán phục lụa thêu màu trắng
-Đai lưng bạc
-Ngọc bội
-Ủng vải trắng
-Một thanh kiếm dài màu bạc
-ID nhân vật B | @Image 2 | Sư Muội
-Luôn duy trì cùng một nhân vật:
-
-Nữ, Đông Á, 20–25 tuổi
-Dáng người nhỏ nhắn
-Khuôn mặt tròn trịa, lanh lợi
-Tóc đen tết bím
-Cùng một bộ Hán phục vải lanh màu xanh lam-xanh lục
-Đai lưng tối màu
-Trâm gỗ
-Giày vải đen
-Một thanh kiếm thép tối màu
-Các nhân vật khác
-Kiếm khách đối địch
-Một kiếm khách đối địch
-Chịu trách nhiệm khiêu khích, gây hiểu lầm và thực hiện chiêu thức cuối cùng
-Không được chiếm mất tâm điểm cảm xúc hài hước
-Sư phụ
-Cùng một vị sư phụ
-Chỉ đưa ra đòn giáng mang tính ẩn dụ cuối cùng vào thời điểm quan trọng
-Phải giữ vẻ tĩnh lặng, tiết chế và nghiêm túc kiểu "tỉnh bơ"
-IV. DNA môi trường và nguyên tắc không gian
-Tất cả hình ảnh tham chiếu về bối cảnh và địa điểm được tải lên trong vòng này cùng xác định một bộ DNA môi trường duy nhất.
-
-Trước khi bố cục chính thức, hãy âm thầm tích hợp và thống nhất các yếu tố sau:
-
-Địa hình thực tế
-Ngôn ngữ kiến trúc
-Vật liệu
-Thảm thực vật
-Các vùng nước
-Thời tiết
-Sương mù núi
-Hướng sáng chính
-Phản chiếu
-Độ sâu không gian
-Dựa trên đó, hãy quy hoạch lại một:
-Không gian mới độc đáo, thống nhất hoàn toàn và đáng tin cậy cho vòng này.
-Quy tắc môi trường
-Các yếu tố sau trong nền vẫn giữ được sự sống động tự nhiên:
-Gió
-Các vùng nước
-Thảm thực vật
-Các tầng mây
-Các đệ tử bình thường ở phía xa
-Âm thanh môi trường không gian
-Nhưng phải thỏa mãn:
-Nền vẫn hoàn toàn trung tính
-Không tạo ra các điểm nhấn gây cười (punchlines)
-Không tạo ra các cú twist
-Không chủ động thúc đẩy cốt truyện
-Không thay mặt nhân vật thể hiện cảm xúc
-V. Cấu trúc ba cảnh quay
-Cảnh 1 | 0–5s
-Loại cảnh quay
-Toàn cảnh hoặc cảnh quay xa
-Nội dung hình ảnh
-Cùng một Kiếm Tiên Sư Tỷ
-Cùng một Sư Muội
-Một kiếm khách đối địch
-Một sư phụ
-Cả bốn người nằm trong một không gian thống nhất với mối quan hệ địa lý rõ ràng và ổn định. Kiếm khách đối địch đứng ngay trước mặt hai sư tỷ muội, và sư phụ lặng lẽ đứng cách đó vài bước chân.
-Cốt truyện và đối thoại
-Tên địch nhìn sư muội một cách khiêu khích và nói:
-"Chính sư tỷ của ngươi nói rằng nếu ngươi đấu với ta, ngươi sẽ thua trong ba chiêu."
-Sư muội từ từ quay đầu nhìn sư tỷ và hỏi:
-"Ba chiêu sao?"
-Kiếm tiên mặc đồ trắng không hề căng thẳng, chỉ bình tĩnh đính chính:
-"Ta đang nói về hắn."
-Điểm nhấn cảnh quay
-Nhịp đầu tiên phải khiến khán giả nghĩ rằng xung đột là "sư tỷ coi thường sư muội"
-Cái quay đầu của sư muội phải rõ ràng
-Sự đính chính của sư tỷ phải bình tĩnh, chắc chắn và không cần giải thích thêm
-Câu thoại này sẽ trực tiếp lật ngược lớp hiểu lầm đầu tiên
-Cảnh 2 | 5–10s
-Loại cảnh quay
-Trung cảnh hoặc cảnh quay ngang hông (Cowboy shot)
-Yêu cầu về tính liên tục
-Giữ ổn định các yếu tố sau:
-Hai người phụ nữ giống hệt
-Cùng một kẻ địch
-Cùng một sư phụ
-Cùng trang phục
-Cùng những thanh kiếm dài
-Không gian địa lý giống hệt
-Cốt truyện và đối thoại
-Sư muội ngay lập tức nhìn lại tên địch.
-Lần này cô không tức giận mà thực sự ngạc nhiên, nói:
-"Ba chiêu? Sư tỷ, tỷ quá hào phóng rồi."
-Biểu cảm đắc ý của tên địch lập tức đóng băng.
-Trong độ sâu trường ảnh nông ở phía sau, sư phụ vẫn im lặng, chỉ lặng lẽ giơ một ngón tay lên.
-Phát hiện ra điều này, tên địch tức giận hỏi:
-"Ý ngươi là sao?"
-Tiêu điểm cảnh quay chuyển sang sư phụ.
-Sư phụ vẫn hoàn toàn nghiêm túc, chỉ trả lời:
-"Một chiêu."
-Khoảng dừng nửa nhịp.
-Tên địch cuối cùng hoàn toàn sụp đổ, hét lên:
-"Thật quá đáng!"
-Sau đó hắn chủ động rút kiếm và lao thẳng về phía sư tỷ.
-Điểm nhấn cảnh quay
-Nhịp thứ hai hoàn thành tiến trình hài hước
-"Ba chiêu" nâng cấp thành "một chiêu"
-Lời xen vào của sư phụ phải rất khô khan
-Khoảng dừng phải đủ để cả khán giả và tên địch nhận ra họ đã bị đoán trước
-Bước vào phân đoạn hành động ngay sau khi tên địch sụp đổ
-Cảnh 3 | 10–15s
-Loại cảnh quay
-Cận cảnh hoặc siêu cận cảnh
-Yêu cầu về tính liên tục
-Giữ ổn định các yếu tố sau:
-Cùng một sư tỷ
-Cùng một sư muội
-Cùng một kẻ địch
-Cùng một sư phụ
-Trang phục, kiếm, vị trí và mối quan hệ không gian vẫn nhất quán
-Thiết kế hành động
-Sư tỷ vẫn thư thái, thậm chí không rút hẳn thanh kiếm bạc ra.
-Cô chỉ thực hiện một:
-Rất rõ ràng
-Logic về mặt vật lý
-Cực kỳ ngắn gọn
-Cực kỳ chính xác
-Chuỗi hành động:
-Né đòn tấn công trực diện của kẻ địch
-Sử dụng thanh kiếm bạc vẫn còn trong vỏ
-Chạm nhẹ vào cổ tay cầm kiếm của kẻ địch
-Sử dụng chính đà tiến tới của kẻ địch để làm lệch trọng tâm của hắn
-Kết quả:
-Thanh kiếm dài của kẻ địch văng ra khỏi tay
-Cắm an toàn xuống đất gần đó
-Kẻ địch quỳ một gối xuống
-Không có thương tích đổ máu nào
-Đối thoại sau hành động
-Im lặng hoàn toàn.
-Sư muội từ từ giơ một ngón tay lên và nói một cách nghiêm túc:
-"Sư phụ, dự đoán của người thật chuẩn xác."
-Kiếm tiên sư tỷ nhìn xuống kẻ địch bại trận và bình tĩnh trả lời:
-"Thực ra là nửa chiêu."
-Tiêu điểm cảnh quay lại chuyển sang sư phụ.
-Sư phụ nói với vẻ mặt "tỉnh bơ":
-"Ta đã nể mặt hắn lắm rồi."
-Cảnh kết
-Trong một cú siêu cận cảnh:
-Tên địch lần lượt nhìn sư phụ, sư tỷ và sư muội
-Nhận thấy mình không thể phản bác lấy một lời
-Sư muội cắn chặt môi cố nhịn cười
-Sư tỷ vẫn rất trang trọng thực hiện nghi thức chào hỏi của võ giả
-Cắt chính xác vào:
-Biểu cảm hoàn toàn cạn lời của tên địch.
-VI. Nguyên tắc diễn xuất
-Sư tỷ
-Luôn bình tĩnh
-Không khoe khoang
-Không giải thích quá nhiều
-Sự thư thái của người mạnh nhất phải ổn định
-Hài hước dựa trên sự nghiêm túc, không phải giọng điệu đùa cợt
-Sư muội
-Phản ứng nhanh
-Cảm xúc không cường điệu
-Nhịp điệu từ "hiểu lầm" đến "hiểu ra" đến "điểm nhấn" phải rõ ràng
-Tiếng cười bị kìm nén phải chân thực và tiết chế
-Kẻ địch
-Phải thực sự tự tin trong nửa đầu
-Dần dần đóng băng ở giữa
-Sụp đổ ở cuối nhưng không được diễn như một gã hề
-Tiếng cười đến từ sự nhận ra muộn màng, không phải sự ngu ngốc
-Sư phụ
-Rất ít lời thoại
-Mỗi câu thoại nghe như một phán quyết cuối cùng
-Phải nghiêm túc kiểu "tỉnh bơ"
-Càng nghiêm túc, càng hài hước
-VII. Yêu cầu về hành động và máy quay
-Cơ chế hành động của cơ thể phải rõ ràng và tự nhiên
-Đòn tấn công của kẻ địch phải có đà thực tế
-Phản ứng của sư tỷ phải cực kỳ hiệu quả, chính xác và ngắn gọn
-Thắng/thua phải được hiểu ngay trong nháy mắt
-Không có các combo phức tạp hào nhoáng
-Không có các chuyển động kéo lê
-Không có hiệu ứng đặc biệt ô nhiễm ánh sáng
-Không có hào quang kiếm khí ngẫu nhiên
-Yêu cầu máy quay
-Màn hình rộng 16:9
-Chặt chẽ ba cảnh quay rõ ràng, liên tục
-Chuyển động máy quay sạch sẽ và tiết chế
-Thị sai tự nhiên giữa tiền cảnh, trung cảnh và hậu cảnh
-Ống kính phục vụ mối quan hệ nhân vật và điểm nhấn hài hước
-Không có các chuyển động khoe khoang hào nhoáng
-VIII. Yêu cầu về âm thanh và đồng bộ hóa
-Đối thoại tiếng Quan Thoại đồng bộ bản địa
-Khớp khẩu hình chính xác
-Các khoảng dừng hài hước rõ ràng
-Mối quan hệ ánh nhìn chính xác
-Âm thanh rút kiếm, va chạm, kiếm rơi xuống đất và kết thúc phải nghe rõ ràng
-Âm thanh môi trường tồn tại tự nhiên xuyên suốt
-Không tạo phụ đề
-Các khả năng của Seedance 2.0 cần tận dụng:
-Tính liên tục tham chiếu đa phương thức
-Sự ổn định chuyển động phức tạp của nhiều nhân vật
-Kiểm soát máy quay cấp đạo diễn
-Đầu ra nghe nhìn đồng bộ nhiều cảnh quay dài 15 giây
-IX. Các điều cần tránh nghiêm ngặt
-mờ
-chất lượng kém
-chất lượng thấp
-độ phân giải thấp
-ồn
-đồ tạo tác jpeg
-hình mờ
-văn bản
-lỗi
-biến dạng
-đột biến
-giải phẫu xấu
-bàn tay vẽ kém
-bố cục xấu
-ngoài khung hình
-bị biến dạng
-nhân vật không nhất quán
-thay đổi quần áo
-biến đổi khuôn mặt
-thay đổi nền
-cắt cảnh bị lỗi
-đạo cụ biến mất
-Điều cần tránh bổ sung:
-Phụ đề
-Diễn xuất quá cường điệu
-Khuôn mặt hài hước vô nghĩa
-Các cú twist phức tạp, khó hiểu
-Hành động nhẹ
-Slow-mo hào nhoáng
-Phép thuật ngẫu nhiên
-Môi trường tạo ra các câu đùa
-Nhân vật phụ chiếm mất tiêu điểm
-Kẻ địch đột nhiên mất trí thông minh
-X. Mục tiêu hiệu ứng cuối cùng
-Trải nghiệm xem của toàn bộ phim ngắn nên là:
-Đầu tiên tạo ra một sự hiểu lầm bề ngoài rằng "sư tỷ có vẻ coi thường sư muội"
-Nhanh chóng lật ngược thành "hóa ra kẻ địch mới là người đang bị đánh giá"
-Cuối cùng sử dụng hành động và lời tiếp nối của sư phụ để củng cố điểm nhấn hài hước
-Từ khóa cuối cùng:
-Tiên hiệp, Hài kịch tỉnh bơ, Đối đầu bậc thầy, Ba nhịp
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097549144303050752/img/sTN3GzyTawK8gE_-.jpg" width="600" alt="Prompt cho phim ngắn hài hước thể loại võ hiệp">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10560)**
-
-**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2097549763143221433) | **Đã xuất bản:** Sep 9, 2026
-
----
-### Biến hình bản đồ thế giới thu nhỏ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh điện ảnh mô phỏng quá trình một tấm bản đồ giấy cổ biến đổi vật lý thành một thế giới thu nhỏ chi tiết với núi non, sông ngòi và các thành phố tí hon.
-
-#### 📝 Prompt
-
-```
-ĐỊNH DẠNG:
-Khung hình dọc 16:9, 4K HDR, kỹ thuật quay phim mô hình thực tế (photorealistic live-action miniature), chất lượng quảng cáo điện ảnh cao cấp, vật lý chân thực, hiệu ứng nhòe chuyển động tự nhiên, ống kính macro, độ sâu trường ảnh nông, 24fps.
-
-Ý TƯỞNG CỐT LÕI:
-Một tấm bản đồ giấy cổ thông thường trên bàn gỗ biến đổi vật lý thành một thế giới thu nhỏ hoàn chỉnh. Máy quay tiến vào thế giới đó và kết thúc bằng một cảnh quay toàn cảnh ngoạn mục.
-
-CẢNH 1 — 0–3 GIÂY | MỞ ĐẦU
-
-Cận cảnh macro cực đại một tấm bản đồ giấy cũ với kết cấu đẹp mắt nằm phẳng trên mặt bàn gỗ tối màu.
-
-Ban đầu, tấm bản đồ trông hoàn toàn bình thường: các đường bờ biển, sông ngòi, núi non và đường sá được in chi tiết trên giấy.
-
-Một gợn sóng nhỏ bất ngờ lan tỏa khắp bản đồ.
-
-Dãy núi được in bắt đầu trồi lên khỏi mặt giấy một cách vật lý.
-
-Không có hiệu ứng phép thuật hào nhoáng. Quá trình biến đổi phải trông thật tự nhiên và đáng tin, như thể tấm bản đồ phẳng đang biến thành một cảnh quan thu nhỏ thực thụ.
-
-CẢNH 2 — 3–7 GIÂY | BIẾN ĐỔI
-
-Máy quay từ từ lùi lại trong khi toàn bộ bản đồ biến đổi.
-
-Các dãy núi trồi lên thành những ngọn núi thu nhỏ chi tiết.
-
-Sông ngòi tự khắc vào địa hình và bắt đầu chảy với dòng nước chân thực.
-
-Những cánh rừng tí hon mọc lên khắp cảnh quan.
-
-Những con đường nhỏ trồi lên từ bản đồ và kết nối các thị trấn thu nhỏ.
-
-Những ngôi nhà và tòa nhà tí hon mọc lên tự nhiên dọc theo các con đường.
-
-Mọi thứ vẫn giữ nguyên sự kết nối hoàn hảo với bố cục bản đồ gốc.
-
-CẢNH 3 — 7–11 GIÂY | TIẾN VÀO THẾ GIỚI
-
-Máy quay mượt mà lao xuống một con đường nhỏ, chuyển từ phong cách chụp ảnh macro trên bàn sang cảnh quay theo dấu (tracking shot) đầy sống động trong thế giới thu nhỏ.
-
-Một chiếc xe cổ tí hon chạy dọc theo con đường quanh co.
-
-Máy quay theo sau chiếc xe đi qua một ngôi làng miền núi thu nhỏ.
-
-Những ngôi nhà tí hon có tường đá, cửa gỗ, ngói mái và cửa sổ phát ra ánh sáng ấm áp chân thực.
-
-Những người đi bộ tí hon bước đi tự nhiên dọc theo lề đường.
-
-Một cây cầu nhỏ bắc qua dòng sông đang chảy.
-
-CẢNH 4 — 11–15 GIÂY | CẢNH KẾT NGOẠN MỤC
-
-Máy quay theo con đường hướng lên đỉnh núi thu nhỏ, sau đó nhẹ nhàng bay cao lên phía trên cảnh quan.
-
-Toàn bộ bản đồ giờ đây là một lục địa thu nhỏ đầy choáng ngợp.
-
-Những dãy núi hùng vĩ, rừng cây, sông ngòi, làng mạc, đường cao tốc, cầu cống và các thành phố xa xôi hiện rõ trên bề mặt.
-
-Ánh hoàng hôn vàng rực quét qua cảnh quan thu nhỏ.
-
-Khung hình cuối: máy quay tiếp tục bay lên cao cho đến khi thấy rõ toàn bộ thế giới sống động này vẫn đang nằm trên mảnh giấy gốc đặt trên bàn gỗ.
-
-PHONG CÁCH HÌNH ẢNH:
-Nhiếp ảnh mô hình thủ công siêu thực.
-Chi tiết sợi giấy cực kỳ rõ nét.
-Đất, đá, thảm thực vật và nước chân thực.
-Chi tiết kiến trúc tí hon.
-Phối cảnh khí quyển tự nhiên.
-Ánh sáng giờ vàng điện ảnh.
-Chuyển đổi độ sâu trường ảnh tinh tế.
-Phản chiếu và đổ bóng chân thực.
-Thẩm mỹ quảng cáo du lịch cao cấp.
-
-CAMERA:
-Bắt đầu với góc macro cực đại.
-Chuyển động dolly chậm và có kiểm soát.
-Chuyển cảnh mượt mà vào
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097546953848692736/img/OSsf_7i8D8jTY2SE.jpg" width="600" alt="Biến hình bản đồ thế giới thu nhỏ">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10628)**
-
-**Tác giả:** [Maverick | AI](https://x.com/RizwanAly07) | **Nguồn:** [Link](https://x.com/RizwanAly07/status/2097547054189027792) | **Đã xuất bản:** Sep 9, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -5922,6 +5614,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-27T04:13:53.315Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-27T10:08:37.994Z</sub>
 
 </div>
